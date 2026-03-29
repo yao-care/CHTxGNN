@@ -1,0 +1,184 @@
+{
+  "generated": "2026-03-29",
+  "drug_count": 16,
+  "indication_count": 0,
+  "drugs": [
+    {
+      "slug": "selenium",
+      "name": "SELENIUM",
+      "keywords": {
+        "en": [
+          "selenium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/selenium/"
+    },
+    {
+      "slug": "mivacurium",
+      "name": "MIVACURIUM",
+      "keywords": {
+        "en": [
+          "mivacurium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/mivacurium/"
+    },
+    {
+      "slug": "umeclidinium",
+      "name": "UMECLIDINIUM",
+      "keywords": {
+        "en": [
+          "umeclidinium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/umeclidinium/"
+    },
+    {
+      "slug": "aclidinium",
+      "name": "ACLIDINIUM",
+      "keywords": {
+        "en": [
+          "aclidinium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/aclidinium/"
+    },
+    {
+      "slug": "andexanet_alfa",
+      "name": "ANDEXANET ALFA",
+      "keywords": {
+        "en": [
+          "andexanet alfa"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/andexanet_alfa/"
+    },
+    {
+      "slug": "cisatracurium",
+      "name": "CISATRACURIUM",
+      "keywords": {
+        "en": [
+          "cisatracurium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/cisatracurium/"
+    },
+    {
+      "slug": "centella_asiatica",
+      "name": "CENTELLA ASIATICA",
+      "keywords": {
+        "en": [
+          "centella asiatica"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/centella_asiatica/"
+    },
+    {
+      "slug": "lithium",
+      "name": "LITHIUM",
+      "keywords": {
+        "en": [
+          "lithium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/lithium/"
+    },
+    {
+      "slug": "ginkgo_biloba",
+      "name": "GINKGO BILOBA",
+      "keywords": {
+        "en": [
+          "ginkgo biloba"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/ginkgo_biloba/"
+    },
+    {
+      "slug": "glycopyrronium",
+      "name": "GLYCOPYRRONIUM",
+      "keywords": {
+        "en": [
+          "glycopyrronium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/glycopyrronium/"
+    },
+    {
+      "slug": "magnesium",
+      "name": "MAGNESIUM",
+      "keywords": {
+        "en": [
+          "magnesium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/magnesium/"
+    },
+    {
+      "slug": "strontium",
+      "name": "STRONTIUM",
+      "keywords": {
+        "en": [
+          "strontium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/strontium/"
+    },
+    {
+      "slug": "tiotropium",
+      "name": "TIOTROPIUM",
+      "keywords": {
+        "en": [
+          "tiotropium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/tiotropium/"
+    },
+    {
+      "slug": "echinacea",
+      "name": "ECHINACEA",
+      "keywords": {
+        "en": [
+          "echinacea"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/echinacea/"
+    },
+    {
+      "slug": "calcium",
+      "name": "CALCIUM",
+      "keywords": {
+        "en": [
+          "calcium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/calcium/"
+    },
+    {
+      "slug": "isavuconazonium",
+      "name": "ISAVUCONAZONIUM",
+      "keywords": {
+        "en": [
+          "isavuconazonium"
+        ],
+        "zh": []
+      },
+      "url": "/drugs/isavuconazonium/"
+    }
+  ],
+  "indications": []
+}
