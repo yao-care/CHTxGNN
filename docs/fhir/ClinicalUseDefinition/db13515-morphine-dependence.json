@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db13515-morphine-dependence",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db13515"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "morphine dependence"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    }
+  ]
+}

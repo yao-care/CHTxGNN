@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db11591-vasomotor-rhinitis",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db11591"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "vasomotor rhinitis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    }
+  ]
+}

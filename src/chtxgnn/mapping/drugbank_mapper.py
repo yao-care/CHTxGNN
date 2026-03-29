@@ -1328,7 +1328,645 @@ def map_ingredient_to_drugbank(
             if base_ingredient in name_index:
                 return name_index[base_ingredient]
 
+    # 5. 拉丁藥典名稱轉換 (Swissmedic / Ph.Eur. / Ph.Helv.)
+    for candidate in _latin_to_inn_candidates(ingredient):
+        if candidate in name_index:
+            return name_index[candidate]
+
     return None
+
+
+def _latin_to_inn_candidates(latin_name: str) -> List[str]:
+    """將拉丁藥典名轉換為可能的 INN/英文名候選
+
+    Swissmedic 使用拉丁藥典名，如 "metformini hydrochloridum"。
+    此函式產生可能的英文 INN 名（如 "METFORMIN"）。
+
+    Latin naming rules:
+      - Nominative -um suffix: metforminum -> metformin
+      - Genitive -i suffix: metformini -> metformin (used in salt compounds)
+      - ACIDUM prefix: acidum acetylsalicylicum -> acetylsalicylic acid
+      - Salt qualifiers: hydrochloridum, natricum, etc.
+
+    Args:
+        latin_name: 拉丁藥典名稱 (已 uppercase)
+
+    Returns:
+        候選 INN 名稱列表
+    """
+    n = latin_name.strip()
+    if not n:
+        return []
+
+    candidates = []
+
+    # ── A. 處理 ACIDUM 前綴: ACIDUM XXXICUM -> XXX + IC ACID ──
+    if n.startswith("ACIDUM "):
+        adj = n[7:].strip()
+        # Remove any further salt qualifiers after the main adjective
+        parts = adj.split()
+        main_adj = parts[0] if parts else adj
+        if main_adj.endswith("ICUM"):
+            candidates.append(main_adj[:-2])            # -ICUM -> -IC
+            candidates.append(main_adj[:-4] + "IC ACID")
+            candidates.append(main_adj[:-4] + "IC")
+        elif main_adj.endswith("UM"):
+            candidates.append(main_adj[:-2])
+            candidates.append(main_adj[:-2] + " ACID")
+        else:
+            candidates.append(main_adj)
+
+    # ── B. 處理複合拉丁鹽名：如 "METFORMINI HYDROCHLORIDUM" ──
+    # Split by space and try matching just the first word (drug name in genitive)
+    words = n.split()
+    if len(words) >= 2:
+        # Known Latin salt qualifiers (second/later words)
+        salt_words = {
+            "HYDROCHLORIDUM", "DIHYDROCHLORIDUM", "MONOHYDROCHLORIDUM",
+            "NATRICUM", "KALICUM", "CALCICUM", "DINATRICUM",
+            "SULFAS", "SUCCINAS", "MALEAS", "FUMARAS", "TARTRAS",
+            "ACETAS", "CITRAS", "PHOSPHAS", "LACTAS", "GLUCONAS",
+            "BROMIDUM", "CHLORIDUM", "IODIDUM", "NITRAS",
+            "MESYLAS", "BESYLAS", "TOSYLAS",
+            "MONOHYDRICUM", "DIHYDRICUM", "TRIHYDRICUM",
+            "ANHYDRICUM", "HEMIHYDRICUM", "HEXAHYDRICUM",
+            "CARBONAS", "HYDROXIDUM", "OXIDUM",
+            "MESILATUM", "BESILATUM",
+            "DIPROPIONAS", "PROPIONAS", "BUTYRAS", "VALERAS",
+            "ACETONIDI", "ACETONIDAS",
+            "HEMIHYDRATE", "PONDEROSUS",
+        }
+        first_word = words[0]
+        # If second word looks like a salt qualifier
+        remaining = " ".join(words[1:])
+        is_salt = any(sw in remaining.upper() for sw in salt_words) or words[-1].endswith(
+            ("IDUM", "ICUM", "AS", "ATUM", "OSUM")
+        )
+        if is_salt or len(words) >= 2:
+            # Convert first word (genitive) to possible INN names
+            for cand in _latin_word_to_inn(first_word):
+                candidates.append(cand)
+
+    # ── C. 處理單詞拉丁名: "METFORMINUM" -> "METFORMIN" ──
+    if len(words) == 1:
+        for cand in _latin_word_to_inn(n):
+            candidates.append(cand)
+    elif len(words) >= 2:
+        # Also try the full name with -UM removal on all words
+        for cand in _latin_word_to_inn(n):
+            candidates.append(cand)
+
+    # ── D. 常見拉丁藥名直接對照 ──
+    latin_direct = _get_latin_synonym_map()
+    if n in latin_direct:
+        candidates.append(latin_direct[n])
+    # Also try first word
+    if words and words[0] in latin_direct:
+        candidates.append(latin_direct[words[0]])
+
+    return list(dict.fromkeys(candidates))
+
+
+def _latin_word_to_inn(word: str) -> List[str]:
+    """將單一拉丁字轉換為可能的 INN 名"""
+    w = word.strip()
+    candidates = []
+
+    # 1. Remove -UM (nominative neuter)
+    if w.endswith("UM") and len(w) > 4:
+        base = w[:-2]
+        candidates.append(base)
+
+        # Specific suffix mappings
+        suffix_rules = [
+            ("INUM", ["INE", "IN"]),        # metformINUM -> metformINE
+            ("ONUM", ["ONE", "ON"]),         # abiraterONUM -> abiraterONE
+            ("ENUM", ["ENE", "EN"]),         # ibuprofENUM -> ibuprofENE
+            ("ANUM", ["ANE", "AN"]),         # losartANUM -> losartAN
+            ("OLUM", ["OL"]),                # paracetamOLUM -> paracetamOL
+            ("IDUM", ["IDE", "ID"]),         # chlorIDUM -> chlorIDE
+            ("ASUM", ["ASE"]),               # lipASUM -> lipASE
+            ("OSUM", ["OSE"]),               # glucOSUM -> glucOSE
+            ("ATUM", ["ATE"]),               # valproATUM -> valproATE
+            ("ABUM", ["AB"]),                # adalimumABUM -> adalimumAB
+            ("IBUM", ["IB"]),                # crizotinIBUM -> crizotinIB
+            ("UBUM", ["UB"]),                # ...UB
+            ("ICUM", ["IC"]),                # folICUM -> folIC
+            ("IVUM", ["IVE"]),               # ...IVE
+            ("ISUM", ["ISE", "IS"]),
+            ("EDUM", ["EDE", "ED"]),
+            ("ELUM", ["EL"]),
+            ("ILUM", ["IL"]),
+            ("IMUM", ["IME", "IM"]),
+            ("AMUM", ["AME", "AM"]),
+            ("EMUM", ["EME", "EM"]),
+            ("ERUM", ["ER"]),                # ...ER
+            ("ALUM", ["AL"]),                # ...AL
+        ]
+        for lat_suf, en_sufs in suffix_rules:
+            if w.endswith(lat_suf):
+                for en_s in en_sufs:
+                    candidates.append(w[:-len(lat_suf)] + en_s)
+
+    # 2. Handle genitive -I (e.g., METFORMINI -> METFORMIN)
+    if w.endswith("I") and not w.endswith("II") and len(w) > 3:
+        base = w[:-1]
+        candidates.append(base)
+        candidates.append(base + "E")
+        # Convert as if nominative was base + UM
+        nominative = base + "UM"
+        for cand in _latin_word_to_inn(nominative):
+            candidates.append(cand)
+
+    # 3. Handle -AS endings (3rd decl. salts: SULFAS -> SULFATE)
+    if w.endswith("AS") and len(w) > 4:
+        candidates.append(w[:-2] + "ATE")
+        candidates.append(w[:-2])
+
+    # 4. Handle -IS endings
+    if w.endswith("IS") and len(w) > 4:
+        candidates.append(w[:-2])
+        candidates.append(w[:-2] + "E")
+        candidates.append(w[:-2] + "IS")  # keep as-is
+
+    # 5. Handle -US endings (2nd decl. masculine)
+    if w.endswith("US") and len(w) > 4:
+        candidates.append(w[:-2])
+        candidates.append(w[:-2] + "E")
+
+    return list(dict.fromkeys(candidates))
+
+
+def _get_latin_synonym_map() -> Dict[str, str]:
+    """拉丁藥典名到英文 INN 的直接對照字典
+
+    涵蓋 Swissmedic (瑞士) 常見的拉丁藥名。
+    """
+    return {
+        # ===== 常見藥物拉丁名 → 英文 INN =====
+        "ACIDUM ACETYLSALICYLICUM": "ASPIRIN",
+        "PARACETAMOLUM": "ACETAMINOPHEN",
+        "ADRENALINUM": "EPINEPHRINE",
+        "NORADRENALINUM": "NOREPINEPHRINE",
+        "METAMIZOLUM": "DIPYRONE",
+        "METAMIZOLUM NATRICUM": "DIPYRONE",
+        "METAMIZOLUM NATRICUM MONOHYDRICUM": "DIPYRONE",
+        "SALBUTAMOLUM": "ALBUTEROL",
+        "LIDOCAINUM": "LIDOCAINE",
+        "ACICLOVIRUM": "ACYCLOVIR",
+        "VALACICLOVIRUM": "VALACYCLOVIR",
+        "GANCICLOVIRUM": "GANCICLOVIR",
+        "VALGANCICLOVIRUM": "VALGANCICLOVIR",
+        "CICLOSPORINUM": "CYCLOSPORINE",
+
+        # 拉丁 ACIDUM 形式
+        "ACIDUM FOLICUM": "FOLIC ACID",
+        "ACIDUM ASCORBICUM": "ASCORBIC ACID",
+        "ACIDUM VALPROICUM": "VALPROIC ACID",
+        "ACIDUM TRANEXAMICUM": "TRANEXAMIC ACID",
+        "ACIDUM URSODEOXYCHOLICUM": "URSODEOXYCHOLIC ACID",
+        "ACIDUM ZOLEDRONICUM": "ZOLEDRONIC ACID",
+        "ACIDUM IBANDRONICUM": "IBANDRONIC ACID",
+        "ACIDUM ALENDRONICUM": "ALENDRONIC ACID",
+        "ACIDUM MEFENAMICUM": "MEFENAMIC ACID",
+        "ACIDUM MYCOPHENOLICUM": "MYCOPHENOLIC ACID",
+        "ACIDUM FUSIDICUM": "FUSIDIC ACID",
+        "ACIDUM CHENODEOXYCHOLICUM": "CHENODEOXYCHOLIC ACID",
+        "ACIDUM SALICYLICUM": "SALICYLIC ACID",
+        "ACIDUM AZELAICUM": "AZELAIC ACID",
+        "ACIDUM BEMPEDOICUM": "BEMPEDOIC ACID",
+        "ACIDUM HYALURONICUM": "HYALURONIC ACID",
+        "ACIDUM GADOTERICUM": "GADOTERIC ACID",
+        "ACIDUM FOLINICUM": "FOLINIC ACID",
+        "ACIDUM CARGLUMICUM": "CARGLUMIC ACID",
+
+        # 維生素拉丁名
+        "CHOLECALCIFEROLUM": "CHOLECALCIFEROL",
+        "ERGOCALCIFEROLUM": "ERGOCALCIFEROL",
+        "THIAMINI HYDROCHLORIDUM": "THIAMINE",
+        "THIAMINUM": "THIAMINE",
+        "RIBOFLAVINUM": "RIBOFLAVIN",
+        "PYRIDOXINI HYDROCHLORIDUM": "PYRIDOXINE",
+        "PYRIDOXINUM": "PYRIDOXINE",
+        "CYANOCOBALAMINUM": "CYANOCOBALAMIN",
+        "RETINOLI PALMITAS": "VITAMIN A",
+        "RETINOLUM": "VITAMIN A",
+        "PHYTOMENADIONUM": "PHYTONADIONE",
+        "TOCOFEROLUM": "VITAMIN E",
+        "DEXPANTHENOLUM": "DEXPANTHENOL",
+        "BIOTINUM": "BIOTIN",
+
+        # 抗生素
+        "AMOXICILLINUM": "AMOXICILLIN",
+        "AMOXICILLINUM ANHYDRICUM": "AMOXICILLIN",
+        "AMPICILLINUM": "AMPICILLIN",
+        "ERYTHROMYCINUM": "ERYTHROMYCIN",
+        "AZITHROMYCINUM": "AZITHROMYCIN",
+        "CLARITHROMYCINUM": "CLARITHROMYCIN",
+        "CIPROFLOXACINUM": "CIPROFLOXACIN",
+        "LEVOFLOXACINUM": "LEVOFLOXACIN",
+        "MOXIFLOXACINUM": "MOXIFLOXACIN",
+        "NORFLOXACINUM": "NORFLOXACIN",
+        "METRONIDAZOLUM": "METRONIDAZOLE",
+        "VANCOMYCINUM": "VANCOMYCIN",
+        "GENTAMICINUM": "GENTAMICIN",
+        "TOBRAMYCINUM": "TOBRAMYCIN",
+        "CLINDAMYCINUM": "CLINDAMYCIN",
+        "DOXYCYCLINUM": "DOXYCYCLINE",
+        "SULFASALAZINUM": "SULFASALAZINE",
+        "TRIMETHOPRIMUM": "TRIMETHOPRIM",
+        "RIFAMPICINUM": "RIFAMPIN",
+        "ISONIAZIDIUM": "ISONIAZID",
+        "NITROFURANTOINUM": "NITROFURANTOIN",
+        "CEPHALEXINUM": "CEPHALEXIN",
+        "CEFUROXIMUM": "CEFUROXIME",
+        "CEFTRIAXONUM": "CEFTRIAXONE",
+        "CEFAZOLINNUM": "CEFAZOLIN",
+        "CEFEPIMUM": "CEFEPIME",
+        "CEFTAZIDIMUM": "CEFTAZIDIME",
+        "LINEZOLIDUM": "LINEZOLID",
+        "DAPTOMYCINUM": "DAPTOMYCIN",
+        "COLISTINUM": "COLISTIN",
+        "FOSFOMYCINUM": "FOSFOMYCIN",
+
+        # 鎮痛/消炎
+        "IBUPROFENUM": "IBUPROFEN",
+        "IBUPROFENULUM": "IBUPROFEN",
+        "DICLOFENACUM": "DICLOFENAC",
+        "NAPROXENUM": "NAPROXEN",
+        "INDOMETACINUM": "INDOMETHACIN",
+        "PIROXICAMUM": "PIROXICAM",
+        "MELOXICAMUM": "MELOXICAM",
+        "CELECOXIBUM": "CELECOXIB",
+        "ETORICOXIBUM": "ETORICOXIB",
+        "TRAMADOLUM": "TRAMADOL",
+        "MORPHINUM": "MORPHINE",
+        "CODEINUM": "CODEINE",
+        "FENTANYLUM": "FENTANYL",
+        "OXYCODONUM": "OXYCODONE",
+        "BUPRENORPHINUM": "BUPRENORPHINE",
+        "METHADONUM": "METHADONE",
+        "PETHIDINUM": "MEPERIDINE",
+
+        # 心血管
+        "METFORMINUM": "METFORMIN",
+        "ATORVASTATINUM": "ATORVASTATIN",
+        "SIMVASTATINUM": "SIMVASTATIN",
+        "ROSUVASTATINUM": "ROSUVASTATIN",
+        "PRAVASTATINUM": "PRAVASTATIN",
+        "FLUVASTATINUM": "FLUVASTATIN",
+        "AMLODIPINUM": "AMLODIPINE",
+        "LOSARTANUM": "LOSARTAN",
+        "VALSARTANUM": "VALSARTAN",
+        "CANDESARTANUM": "CANDESARTAN",
+        "IRBESARTANUM": "IRBESARTAN",
+        "TELMISARTANUM": "TELMISARTAN",
+        "OLMESARTANUM": "OLMESARTAN",
+        "ENALAPRILUM": "ENALAPRIL",
+        "LISINOPRILUM": "LISINOPRIL",
+        "RAMIPRILUM": "RAMIPRIL",
+        "CAPTOPRILUM": "CAPTOPRIL",
+        "PERINDOPRILUM": "PERINDOPRIL",
+        "BISOPROROLUM": "BISOPROLOL",
+        "METOPROLOLUM": "METOPROLOL",
+        "PROPRANOLOLUM": "PROPRANOLOL",
+        "ATENOLOLUM": "ATENOLOL",
+        "CARVEDILOLUM": "CARVEDILOL",
+        "NEBIVOLOLUM": "NEBIVOLOL",
+        "NIFEDIPINUM": "NIFEDIPINE",
+        "DILTIAZEMUM": "DILTIAZEM",
+        "VERAPAMILUM": "VERAPAMIL",
+        "HYDROCHLOROTHIAZIDUM": "HYDROCHLOROTHIAZIDE",
+        "FUROSEMIDUM": "FUROSEMIDE",
+        "SPIRONOLACTONUM": "SPIRONOLACTONE",
+        "EPLERENONUM": "EPLERENONE",
+        "INDAPAMIDUM": "INDAPAMIDE",
+        "TORASEMIDUM": "TORASEMIDE",
+        "WARFARINUM": "WARFARIN",
+        "PHENPROCOUMONUM": "PHENPROCOUMON",
+        "ACENOCOUMAROLUM": "ACENOCOUMAROL",
+        "HEPARINUM": "HEPARIN",
+        "ENOXAPARINUM": "ENOXAPARIN",
+        "DALTEPARINUM": "DALTEPARIN",
+        "RIVAROXABANUM": "RIVAROXABAN",
+        "APIXABANUM": "APIXABAN",
+        "DABIGATRANUM": "DABIGATRAN",
+        "EDOXABANUM": "EDOXABAN",
+        "CLOPIDOGRELUM": "CLOPIDOGREL",
+        "TICAGRELORUM": "TICAGRELOR",
+        "PRASUGRELUM": "PRASUGREL",
+        "DIGOXINUM": "DIGOXIN",
+        "AMIODARONUM": "AMIODARONE",
+        "EZETIMIBUM": "EZETIMIBE",
+        "NITROGLYCERINUM": "NITROGLYCERIN",
+
+        # 糖尿病
+        "METFORMINI HYDROCHLORIDUM": "METFORMIN",
+        "GLIBENCLAMIDUM": "GLYBURIDE",
+        "GLICLAZIDIUM": "GLICLAZIDE",
+        "GLIMEPIRIDIUM": "GLIMEPIRIDE",
+        "PIOGLITAZONUM": "PIOGLITAZONE",
+        "SITAGLIPTINUM": "SITAGLIPTIN",
+        "VILDAGLIPTINUM": "VILDAGLIPTIN",
+        "SAXAGLIPTINUM": "SAXAGLIPTIN",
+        "LINAGLIPTINUM": "LINAGLIPTIN",
+        "EMPAGLIFLOZINUM": "EMPAGLIFLOZIN",
+        "DAPAGLIFLOZINUM": "DAPAGLIFLOZIN",
+        "CANAGLIFLOZINUM": "CANAGLIFLOZIN",
+        "LIRAGLUTIDIUM": "LIRAGLUTIDE",
+        "EXENATIDUM": "EXENATIDE",
+        "DULAGLUTIDIUM": "DULAGLUTIDE",
+        "SEMAGLUTIDUM": "SEMAGLUTIDE",
+        "INSULINUM HUMANUM": "INSULIN",
+        "INSULINUM GLARGINUM": "INSULIN GLARGINE",
+        "INSULINUM DEGLUDECUM": "INSULIN DEGLUDEC",
+        "INSULINUM ASPARTUM": "INSULIN ASPART",
+        "INSULINUM LISPRUM": "INSULIN LISPRO",
+
+        # 精神/神經
+        "SERTRALINUM": "SERTRALINE",
+        "FLUOXETINUM": "FLUOXETINE",
+        "PAROXETINUM": "PAROXETINE",
+        "ESCITALOPRAMUM": "ESCITALOPRAM",
+        "CITALOPRAMUM": "CITALOPRAM",
+        "VENLAFAXINUM": "VENLAFAXINE",
+        "DULOXETINUM": "DULOXETINE",
+        "MIRTAZAPINUM": "MIRTAZAPINE",
+        "BUPROPIONUM": "BUPROPION",
+        "TRAZODONUM": "TRAZODONE",
+        "AMITRIPTYLINUM": "AMITRIPTYLINE",
+        "RISPERIDONUM": "RISPERIDONE",
+        "OLANZAPINUM": "OLANZAPINE",
+        "QUETIAPINUM": "QUETIAPINE",
+        "ARIPIPRAZOLUM": "ARIPIPRAZOLE",
+        "HALOPERIDOLUM": "HALOPERIDOL",
+        "CLOZAPINUM": "CLOZAPINE",
+        "LITHII CARBONAS": "LITHIUM CARBONATE",
+        "CARBAMAZEPINUM": "CARBAMAZEPINE",
+        "OXCARBAZEPINUM": "OXCARBAZEPINE",
+        "PHENYTOINUM": "PHENYTOIN",
+        "PHENOBARBITALUM": "PHENOBARBITAL",
+        "LAMOTRIGINUM": "LAMOTRIGINE",
+        "LEVETIRACETAMUM": "LEVETIRACETAM",
+        "TOPIRAMATUM": "TOPIRAMATE",
+        "GABAPENTINUM": "GABAPENTIN",
+        "PREGABALINUM": "PREGABALIN",
+        "DIAZEPAMUM": "DIAZEPAM",
+        "CLONAZEPAMUM": "CLONAZEPAM",
+        "ALPRAZOLAMUM": "ALPRAZOLAM",
+        "LORAZEPAMUM": "LORAZEPAM",
+        "MIDAZOLAMUM": "MIDAZOLAM",
+        "ZOLPIDEMUM": "ZOLPIDEM",
+        "DONEPEZILUM": "DONEPEZIL",
+        "RIVASTIGMINUM": "RIVASTIGMINE",
+        "GALANTAMINUM": "GALANTAMINE",
+        "MEMANTINUM": "MEMANTINE",
+        "LEVODOPUM": "LEVODOPA",
+        "METHYLPHENIDATUM": "METHYLPHENIDATE",
+        "ATOMOXETINUM": "ATOMOXETINE",
+        "MODAFINILUM": "MODAFINIL",
+
+        # 呼吸道
+        "BUDESONIDUM": "BUDESONIDE",
+        "FLUTICASONUM": "FLUTICASONE",
+        "BECLOMETASONUM": "BECLOMETHASONE",
+        "MOMETASONUM": "MOMETASONE",
+        "SALMETEREOLUM": "SALMETEROL",
+        "SALMETEROLUM": "SALMETEROL",
+        "FORMOTEROLUM": "FORMOTEROL",
+        "TIOTROPIUM": "TIOTROPIUM",
+        "IPRATROPIUM": "IPRATROPIUM",
+        "MONTELUKASTUM": "MONTELUKAST",
+        "THEOPHYLLINUM": "THEOPHYLLINE",
+        "ACETYLCYSTEINUM": "ACETYLCYSTEINE",
+        "DEXTROMETHORPHANUM": "DEXTROMETHORPHAN",
+
+        # 皮質類固醇
+        "PREDNISONUM": "PREDNISONE",
+        "PREDNISOLONUM": "PREDNISOLONE",
+        "DEXAMETHASONUM": "DEXAMETHASONE",
+        "BETAMETHASONUM": "BETAMETHASONE",
+        "HYDROCORTISONUM": "HYDROCORTISONE",
+        "METHYLPREDNISOLONUM": "METHYLPREDNISOLONE",
+        "TRIAMCINOLONUM": "TRIAMCINOLONE",
+        "CLOBETASOLUM": "CLOBETASOL",
+        "FLUDROCORTISONUM": "FLUDROCORTISONE",
+
+        # 消化道
+        "OMEPRAZOLUM": "OMEPRAZOLE",
+        "PANTOPRAZOLUM": "PANTOPRAZOLE",
+        "ESOMEPRAZOLUM": "ESOMEPRAZOLE",
+        "LANSOPRAZOLUM": "LANSOPRAZOLE",
+        "RABEPRAZOLUM": "RABEPRAZOLE",
+        "RANITIDINUM": "RANITIDINE",
+        "FAMOTIDINUM": "FAMOTIDINE",
+        "METOCLOPRAMIDUM": "METOCLOPRAMIDE",
+        "DOMPERIDONUM": "DOMPERIDONE",
+        "ONDANSETRONUM": "ONDANSETRON",
+        "LOPERAMIDUM": "LOPERAMIDE",
+        "SCOPOLAMINI BUTYLBROMIDUM": "SCOPOLAMINE",
+        "BISACODYLUM": "BISACODYL",
+        "MESALAZINUM": "MESALAMINE",
+
+        # 抗真菌
+        "FLUCONAZOLUM": "FLUCONAZOLE",
+        "ITRACONAZOLUM": "ITRACONAZOLE",
+        "VORICONAZOLUM": "VORICONAZOLE",
+        "POSACONAZOLUM": "POSACONAZOLE",
+        "TERBINAFINUM": "TERBINAFINE",
+        "NYSTATINUM": "NYSTATIN",
+        "AMPHOTERICINUM B": "AMPHOTERICIN B",
+        "MICONAZOLUM": "MICONAZOLE",
+        "CLOTRIMAZOLUM": "CLOTRIMAZOLE",
+        "KETOCONAZOLUM": "KETOCONAZOLE",
+
+        # 抗病毒
+        "OSELTAMIVIRUM": "OSELTAMIVIR",
+        "RIBAVIRINUM": "RIBAVIRIN",
+        "LAMIVUDINUM": "LAMIVUDINE",
+        "TENOFOVIRUM": "TENOFOVIR",
+        "ABACAVIRUM": "ABACAVIR",
+        "EFAVIRENZUM": "EFAVIRENZ",
+        "LOPINAVIRUM": "LOPINAVIR",
+        "RITONAVIRUM": "RITONAVIR",
+        "ATAZANAVIRUM": "ATAZANAVIR",
+        "DARUNAVIRUM": "DARUNAVIR",
+        "RALTEGRAVIRUM": "RALTEGRAVIR",
+        "DOLUTEGRAVIRUM": "DOLUTEGRAVIR",
+        "SOFOSBUVIRUM": "SOFOSBUVIR",
+        "REMDESIVIRUM": "REMDESIVIR",
+
+        # 免疫抑制
+        "TACROLIMUSUM": "TACROLIMUS",
+        "SIROLIMUSUM": "SIROLIMUS",
+        "EVEROLIMUSUM": "EVEROLIMUS",
+        "AZATHIOPRINUM": "AZATHIOPRINE",
+        "MYCOPHENOLAS MOFETIL": "MYCOPHENOLATE MOFETIL",
+
+        # 生物製劑
+        "ADALIMUMABUM": "ADALIMUMAB",
+        "INFLIXIMABUM": "INFLIXIMAB",
+        "ETANERCEPTUM": "ETANERCEPT",
+        "RITUXIMABUM": "RITUXIMAB",
+        "TRASTUZUMABUM": "TRASTUZUMAB",
+        "BEVACIZUMABUM": "BEVACIZUMAB",
+        "PEMBROLIZUMABUM": "PEMBROLIZUMAB",
+        "NIVOLUMABUM": "NIVOLUMAB",
+        "ATEZOLIZUMABUM": "ATEZOLIZUMAB",
+        "DURVALUMABUM": "DURVALUMAB",
+        "IPILIMUMABUM": "IPILIMUMAB",
+        "SECUKINUMABUM": "SECUKINUMAB",
+        "USTEKINUMABUM": "USTEKINUMAB",
+        "TOCILIZUMABUM": "TOCILIZUMAB",
+        "OMALIZUMABUM": "OMALIZUMAB",
+        "DENOSUMABUM": "DENOSUMAB",
+        "RANIBIZUMABUM": "RANIBIZUMAB",
+        "AFLIBERCEPTUM": "AFLIBERCEPT",
+        "NATALIZUMABUM": "NATALIZUMAB",
+        "VEDOLIZUMABUM": "VEDOLIZUMAB",
+        "CERTOLIZUMABUM": "CERTOLIZUMAB",
+        "GOLIMUMABUM": "GOLIMUMAB",
+        "ABATACEPTUM": "ABATACEPT",
+        "SARILUMABUM": "SARILUMAB",
+        "GUSELKUMABUM": "GUSELKUMAB",
+        "RISANKIZUMABUM": "RISANKIZUMAB",
+
+        # 抗腫瘤
+        "METHOTREXATUM": "METHOTREXATE",
+        "CYCLOPHOSPHAMIDUM": "CYCLOPHOSPHAMIDE",
+        "CISPLATINUM": "CISPLATIN",
+        "CARBOPLATINUM": "CARBOPLATIN",
+        "OXALIPLATINUM": "OXALIPLATIN",
+        "DOXORUBICINUM": "DOXORUBICIN",
+        "PACLITAXELUM": "PACLITAXEL",
+        "DOCETAXELUM": "DOCETAXEL",
+        "VINCRISTINUM": "VINCRISTINE",
+        "GEMCITABINUM": "GEMCITABINE",
+        "CAPECITABINUM": "CAPECITABINE",
+        "FLUOROURACILUM": "FLUOROURACIL",
+        "IMATINIBUM": "IMATINIB",
+        "DASATINIBUM": "DASATINIB",
+        "NILOTINIBUM": "NILOTINIB",
+        "SORAFENIBUM": "SORAFENIB",
+        "SUNITINIBUM": "SUNITINIB",
+        "ERLOTINIBUM": "ERLOTINIB",
+        "GEFITINIBUM": "GEFITINIB",
+        "OSIMERTINIBUM": "OSIMERTINIB",
+        "CRIZOTINIBUM": "CRIZOTINIB",
+        "ALECTINIBUM": "ALECTINIB",
+        "PALBOCICLIBUM": "PALBOCICLIB",
+        "RIBOCICLIBUM": "RIBOCICLIB",
+        "IBRUTINIBUM": "IBRUTINIB",
+        "VENETOCLAXUM": "VENETOCLAX",
+        "RUXOLITINIBUM": "RUXOLITINIB",
+        "OLAPARIBUM": "OLAPARIB",
+        "LENALIDOMIDIUM": "LENALIDOMIDE",
+        "BORTEZOMIBUM": "BORTEZOMIB",
+        "ENZALUTAMIDUM": "ENZALUTAMIDE",
+        "ABIRATERONUM": "ABIRATERONE",
+        "TAMOXIFENUM": "TAMOXIFEN",
+        "LETROZOLUM": "LETROZOLE",
+        "ANASTROZOLUM": "ANASTROZOLE",
+        "EXEMESTANUM": "EXEMESTANE",
+        "LEUPRORRELINUM": "LEUPROLIDE",
+        "APALUTAMIDUM": "APALUTAMIDE",
+
+        # 眼科
+        "LATANOPROSTUM": "LATANOPROST",
+        "TIMOLOLUM": "TIMOLOL",
+        "DORZOLAMIDUM": "DORZOLAMIDE",
+        "BRINZOLAMIDUM": "BRINZOLAMIDE",
+        "TRAVOPROSTUM": "TRAVOPROST",
+        "BIMATOPROSTUM": "BIMATOPROST",
+        "BRIMONIDINUM": "BRIMONIDINE",
+        "PILOCARPINUM": "PILOCARPINE",
+        "TROPICAMIDUM": "TROPICAMIDE",
+        "CYCLOPENTOLATUM": "CYCLOPENTOLATE",
+
+        # 麻醉
+        "PROPOFOLUM": "PROPOFOL",
+        "KETAMINUM": "KETAMINE",
+        "SEVOFLURANUM": "SEVOFLURANE",
+        "DESFLURANUM": "DESFLURANE",
+        "ISOFLURANUM": "ISOFLURANE",
+        "BUPIVACAINUM": "BUPIVACAINE",
+        "ROPIVACAINUM": "ROPIVACAINE",
+        "PRILOCAINUM": "PRILOCAINE",
+        "MEPIVACAINUM": "MEPIVACAINE",
+        "ARTICAINUM": "ARTICAINE",
+        "ROCURONII BROMIDUM": "ROCURONIUM",
+        "SUXAMETHONII CHLORIDUM": "SUCCINYLCHOLINE",
+        "NEOSTIGMINUM": "NEOSTIGMINE",
+        "SUGAMMADEXUM": "SUGAMMADEX",
+        "NALOXONUM": "NALOXONE",
+        "FLUMAZANILUM": "FLUMAZENIL",
+
+        # 泌尿
+        "TAMSULOSINUM": "TAMSULOSIN",
+        "FINASTERIDUM": "FINASTERIDE",
+        "DUTASTERIDUM": "DUTASTERIDE",
+        "SILDENAFILUM": "SILDENAFIL",
+        "TADALAFILUM": "TADALAFIL",
+        "SOLIFENACINUM": "SOLIFENACIN",
+        "MIRABEGRONUM": "MIRABEGRON",
+
+        # 骨質疏鬆
+        "DENOSUMABUM": "DENOSUMAB",
+        "TERIPARATIDUM": "TERIPARATIDE",
+        "CALCITONINUM": "CALCITONIN",
+        "RALOXIFENUM": "RALOXIFENE",
+
+        # 荷爾蒙
+        "LEVOTHYROXINUM": "LEVOTHYROXINE",
+        "LEVOTHYROXINUM NATRICUM": "LEVOTHYROXINE",
+        "TESTOSTERONUM": "TESTOSTERONE",
+        "ESTRADIOLUM": "ESTRADIOL",
+        "PROGESTERONUM": "PROGESTERONE",
+        "LEVONORGESTRELUM": "LEVONORGESTREL",
+        "DROSPIRENON": "DROSPIRENONE",
+        "MEDROXYPROGESTERONI ACETAS": "MEDROXYPROGESTERONE",
+
+        # 抗組胺
+        "CETIRIZINUM": "CETIRIZINE",
+        "LEVOCETIRIZINUM": "LEVOCETIRIZINE",
+        "LORATADINUM": "LORATADINE",
+        "DESLORATADINUM": "DESLORATADINE",
+        "FEXOFENADINUM": "FEXOFENADINE",
+        "BILASTINUM": "BILASTINE",
+        "HYDROXYZINUM": "HYDROXYZINE",
+        "CLEMASTINUM": "CLEMASTINE",
+        "DIPHENHYDRAMINUM": "DIPHENHYDRAMINE",
+        "PROMETHAZINUM": "PROMETHAZINE",
+
+        # 其他
+        "ALBENDAZOLUM": "ALBENDAZOLE",
+        "MEBENDAZOLUM": "MEBENDAZOLE",
+        "IVERMECTINUM": "IVERMECTIN",
+        "ALLOPURINOLUM": "ALLOPURINOL",
+        "FEBUXOSTATUM": "FEBUXOSTAT",
+        "COLCHICINUM": "COLCHICINE",
+        "HYDROXYCHLOROQUINUM": "HYDROXYCHLOROQUINE",
+        "LEFLUNOMIDUM": "LEFLUNOMIDE",
+        "DISULFIRAMUM": "DISULFIRAM",
+        "SILDENAFILI CITRAS": "SILDENAFIL",
+        "GUAIFENESINUM": "GUAIFENESIN",
+        "CALCII CARBONAS": "CALCIUM CARBONATE",
+        "MAGNESII HYDROXIDUM": "MAGNESIUM HYDROXIDE",
+        "FERRI FUMARAS": "FERROUS FUMARATE",
+        "ZINCI OXIDUM": "ZINC OXIDE",
+        "NATRII CHLORIDUM": "SODIUM CHLORIDE",
+        "KALII CHLORIDUM": "POTASSIUM CHLORIDE",
+        "PYRIMETHAMINUM": "PYRIMETHAMINE",
+        "CARBIMAZOLUM": "CARBIMAZOLE",
+        "ACETAZOLAMIDUM": "ACETAZOLAMIDE",
+        "PRIMIDONUM": "PRIMIDONE",
+        "PYRIDOSTIGMINI BROMIDUM": "PYRIDOSTIGMINE",
+        "MERCAPTOPURINUM": "MERCAPTOPURINE",
+        "OXYTOCINUM": "OXYTOCIN",
+        "HEPARINUM NATRICUM": "HEPARIN",
+        "GLYCEROLUM": "GLYCEROL",
+        "LEVOMENTHOLUM": "MENTHOL",
+    }
 
 
 def map_fda_drugs_to_drugbank(

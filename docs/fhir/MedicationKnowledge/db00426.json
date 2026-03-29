@@ -1,0 +1,31 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "db00426",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://chtxgnn.yao.care/drugs",
+        "code": "db00426",
+        "display": "DB00426"
+      }
+    ]
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "CH",
+          "display": "Switzerland"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00871-intrinsic-asthma",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00871"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "intrinsic asthma"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    }
+  ]
+}

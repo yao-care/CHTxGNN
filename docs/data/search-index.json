@@ -1,7 +1,136 @@
 {
   "generated": "2026-03-29",
-  "drug_count": 0,
+  "drug_count": 16,
   "indication_count": 0,
-  "drugs": [],
+  "drugs": [
+    {
+      "name": "SELENIUM",
+      "slug": "selenium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "MIVACURIUM",
+      "slug": "mivacurium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "UMECLIDINIUM",
+      "slug": "umeclidinium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "ACLIDINIUM",
+      "slug": "aclidinium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "ANDEXANET ALFA",
+      "slug": "andexanet_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "CISATRACURIUM",
+      "slug": "cisatracurium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "CENTELLA ASIATICA",
+      "slug": "centella_asiatica",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "LITHIUM",
+      "slug": "lithium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "GINKGO BILOBA",
+      "slug": "ginkgo_biloba",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "GLYCOPYRRONIUM",
+      "slug": "glycopyrronium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "MAGNESIUM",
+      "slug": "magnesium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "STRONTIUM",
+      "slug": "strontium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "TIOTROPIUM",
+      "slug": "tiotropium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "ECHINACEA",
+      "slug": "echinacea",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "CALCIUM",
+      "slug": "calcium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "ISAVUCONAZONIUM",
+      "slug": "isavuconazonium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    }
+  ],
   "indications": []
 }
