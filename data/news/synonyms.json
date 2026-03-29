@@ -1,0 +1,22 @@
+{
+  "description": "Disease and drug synonyms in German",
+  "generated": "2026-03-29",
+  "indication_synonyms": {
+    "diabetes mellitus": ["Diabetes", "Diabetes mellitus", "Zuckerkrankheit", "Diabetes Typ 2", "Diabetes Typ 1"],
+    "hypertension": ["Bluthochdruck", "Hypertonie", "arterielle Hypertonie", "hoher Blutdruck"],
+    "cancer": ["Krebs", "Tumor", "Karzinom", "Neoplasie", "Onkologie"],
+    "heart disease": ["Herzkrankheit", "Herzerkrankung", "Herzinsuffizienz", "Herzschwäche"],
+    "asthma": ["Asthma", "Asthma bronchiale", "Bronchialasthma"],
+    "depression": ["Depression", "depressive Störung", "schwere Depression"],
+    "arthritis": ["Arthritis", "rheumatoide Arthritis", "Arthrose", "Gelenkentzündung"],
+    "stroke": ["Schlaganfall", "Hirninfarkt", "Hirnschlag", "Apoplex"],
+    "obesity": ["Adipositas", "Fettleibigkeit", "Übergewicht"],
+    "alzheimer disease": ["Alzheimer", "Alzheimer-Krankheit", "Demenz", "Morbus Alzheimer"]
+  },
+  "drug_synonyms": {
+    "metformin": ["Metformin", "Glucophage", "Siofor"],
+    "aspirin": ["Aspirin", "Acetylsalicylsäure", "ASS"],
+    "ibuprofen": ["Ibuprofen", "Brufen", "Nurofen"],
+    "acetaminophen": ["Paracetamol", "Dafalgan", "Ben-u-ron"]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "generated": "2026-03-29",
+  "total_count": 2,
+  "source": "CHTxGNN",
+  "drugs": [
+    {
+      "slug": "db01409",
+      "name": "Tiotropium",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "allergic asthma",
+      "txgnn_score": "",
+      "url": "/drugs/db01409/"
+    },
+    {
+      "slug": "db06636",
+      "name": "Isavuconazonium",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "aspergillosis",
+      "txgnn_score": "",
+      "url": "/drugs/db06636/"
+    }
+  ]
+}

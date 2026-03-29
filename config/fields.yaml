@@ -1,0 +1,32 @@
+# Switzerland Swissmedic Field Mapping Configuration
+
+country_code: "CH"
+language: "de"
+regulatory_agency: "Swissmedic"
+
+data_source:
+  name: "Swissmedic Authorised Medicines"
+  url: "https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html"
+  download_url: "https://www.swissmedic.ch/dam/swissmedic/de/dokumente/internetlisten/zugelassene_packungen_human.xlsx.download.xlsx/zugelassene_packungen_ham.xlsx"
+  format: XLSX
+  encoding: utf-8
+  notes: "Zugelassene Packungen HAM (人用藥品授權包裝清單)，download_url 於 2026-03 驗證有效 (3.1 MB)"
+
+field_mapping:
+  license_id: "Zulassungs-nummer"
+  brand_name_local: "Bezeichnung des Arzneimittels"
+  brand_name_en: "Wirkstoff(e)"
+  ingredients: "Wirkstoff(e)"
+  indication: "Anwendungsgebiet Arzneimittel"
+  dosage_form: "Heilmittelcode"
+  manufacturer: "Zulassungsinhaberin"
+  approval_date: "Erstzul.datum Arzneimittel"
+  status: ""
+
+# Swissmedic XLSX 僅列出目前有效的藥品，不含已撤銷藥品
+# 因此無需 withdrawn_statuses 過濾
+withdrawn_statuses: []
+
+ingredient_separator: ","
+date_format: "%d.%m.%Y"
+encoding: "utf-8"
