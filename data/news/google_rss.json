@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-31T08:54:06.450040+00:00",
+  "fetched_at": "2026-03-31T10:02:56.695705+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -21,6 +21,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "6f2e1c6123c6",
+      "title": "Diese gängigen Medikamente schädigen die Darmflora - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWURqUTI0OEhCYkhRa1ViRUpDcEstNXhvRDVKdGY0ZnNMYW9TcVlybF9XVkoyTElaX1hvckVZb2pOaVpPU3YxTWxXT21qWENIS21IaWFPdk00Ymh3Q0gzRVJqTndZR1dpVDZWZ0ZWam5vMTdHcWN5NEdtSlRJeV9FTjhVQVRoVTBnakswdkE4M2J6NWV6ZVU4WEZJT3gtTHpWZTdQOV9Tb05lcEdYX3NQZXhqZFlZQWtXRzM4dWJoLV9ObTdpdExmZWpFZ2NYaVlWU3NUTGZKODJaZw?oc=5",
+      "published": "2026-03-31T04:16:00+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -114,16 +124,6 @@
       }
     },
     {
-      "id": "17d1e98dc012",
-      "title": "Kommissionsvorschläge sind kurzsichtig und kontraproduktiv / Kein differenzierter ... - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jaUw2UmFxV3c4cWxKTEIzdDJ3M2Y3VG8yaWM2c2l1MW1CeFNXZF9JMHpSa2RGN3lrRFZtYzVQUWI1UEVqN0FxZG8zNEFMTVNjSkUzUVFSbw?oc=5",
-      "published": "2026-03-30T14:50:58+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "91df2900928c",
       "title": "Warum viele Medikamente für Ältere oft problematischer sind - Main-Spitze",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzJPMTRXcFh2NVlRU3Mwd1phWWtRcVJnRVBMdDZOdlBVczRVc2hHYkZobTVkRVRuU0pyelRYQ2c2cHB1bm5jd2hSYUdxTWlmUktORVkxMHl1clNUU01BMmJQcVFvX0pPS080S0o2NTlFYjhPSHVJWFQyS09OX2pENlFrMW1xM2tucVhqMG05eWlKZktONjJId1R1VEZCcXBYVnZMeW1VeEtrT0RUa0tkMlh6SVpvZGc?oc=5",
@@ -134,13 +134,13 @@
       }
     },
     {
-      "id": "62575c017807",
-      "title": "Cannabisblüten sollen Selbstzahlerleistung werden - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeGdER1dQUXpVUlhiTjNTUWNldWNydC12amU2N0FJdFZHUGoydVZBaFhTQktpaGZWYVBkOWdKdkEweVVyVklZR1NnRjM4U2RWVGVGeG1Fdjc5VFBtTlFGVXFJa3NOdGExNmNYSF9MZWlkX0U5bk1VeW90ZEpKblphOWNFd3k0T1RWUGthdy0wQWdsLUF6VGRmY0VHVG1yVmotU09rZ0JXbFhlSXRR?oc=5",
-      "published": "2026-03-30T14:59:00+00:00",
+      "id": "17d1e98dc012",
+      "title": "Kommissionsvorschläge sind kurzsichtig und kontraproduktiv / Kein differenzierter ... - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jaUw2UmFxV3c4cWxKTEIzdDJ3M2Y3VG8yaWM2c2l1MW1CeFNXZF9JMHpSa2RGN3lrRFZtYzVQUWI1UEVqN0FxZG8zNEFMTVNjSkUzUVFSbw?oc=5",
+      "published": "2026-03-30T14:50:58+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "9d7220d41a49",
-      "title": "Sparpläne vorgelegt: Kassen sehen »Potenzial« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfOE5TbWpiRW82S2JBQTVHRXBmOXFPeVJoZWFsS0RLWDVQTGVnYlV3N01EckdlbmJPUG9FM3AtQXpRYTVIOFZIY01ZVF94YVNuRVVpZHJpTWZHNk5teVRCMlc3U0VxN0dhTm9vZDRBQzFVb0N5RXBVcQ?oc=5",
-      "published": "2026-03-30T14:24:09+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "da6e5b8eab12",
       "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "9d7220d41a49",
+      "title": "Sparpläne vorgelegt: Kassen sehen »Potenzial« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfOE5TbWpiRW82S2JBQTVHRXBmOXFPeVJoZWFsS0RLWDVQTGVnYlV3N01EckdlbmJPUG9FM3AtQXpRYTVIOFZIY01ZVF94YVNuRVVpZHJpTWZHNk5teVRCMlc3U0VxN0dhTm9vZDRBQzFVb0N5RXBVcQ?oc=5",
+      "published": "2026-03-30T14:24:09+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -354,12 +354,12 @@
       }
     },
     {
-      "id": "9c7f96847055",
-      "title": "Kritische Arzneimittel wieder stärker in Europa produzieren - Ministerium für Soziales, Gesundheit und Integration Baden-Württemberg",
+      "id": "49d827516d77",
+      "title": "Kritische Arzneimittel wieder stärker in Europa produzieren - sozialministerium.baden-wuerttemberg.de",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUEt0ckdtYTRpT2d2ZGVBenNHcEJURVlwOHZpTElSbWMtWWRlNmI5bE10Q3NUclQ5N2lDVW9WODdDNldjbW5pZDNKZmxxanhoY21qdGI0dnpfQ1Znb3NIZmlGN1l2d2tPb3ZxWGhkbFk1VklKcTMxZTdZWWhNc3htTVcwWER3X3psRmdibDJwRnFqOXQ4X2VTb1h2eFVtc2syLVdnMkk4dExEaC1XUGtxVDNWdU1nMFE0TGlKVUZ6RmcxTGN6VUEzQmkwd2tSRXlzbGJMa2RXX1hmV2xPTzdITg?oc=5",
       "published": "2026-01-20T08:00:00+00:00",
       "source": {
-        "name": "Ministerium für Soziales, Gesundheit und Integration Baden-Württemberg",
+        "name": "sozialministerium.baden-wuerttemberg.de",
         "url": "https://sozialministerium.baden-wuerttemberg.de"
       }
     },
