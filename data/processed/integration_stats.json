@@ -1,12 +1,17 @@
 {
-  "total_predictions": 5105,
-  "unique_drugs": 725,
-  "unique_indications": 1128,
-  "unique_products": 725,
+  "total_predictions": 20463352,
+  "unique_drugs": 1000,
+  "unique_indications": 17041,
+  "unique_products": 3799,
   "by_source": {
-    "KG": 5105
+    "DL": 20458247,
+    "KG + DL": 4425,
+    "KG": 680
   },
   "by_confidence": {
-    "medium": 5105
+    "low": 17482725,
+    "medium": 1956980,
+    "high": 1020305,
+    "very_high": 3342
   }
 }
