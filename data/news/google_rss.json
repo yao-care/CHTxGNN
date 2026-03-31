@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-31T21:35:57.016151+00:00",
+  "fetched_at": "2026-03-31T22:31:01.740048+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -31,16 +31,6 @@
       "source": {
         "name": "healthcare-innovation.ch",
         "url": "https://www.healthcare-innovation.ch"
-      }
-    },
-    {
-      "id": "2c82d26f4a23",
-      "title": "Sucht im Krankenhaus: Wie Pflegekräfte den Druck betäuben - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXNPNEU5cHByV0tHVFlsZFNzelV4V09xSGtNcEo1czI0MHdIV2FoOENQeEFXSjR0TTBhOXBRc29OdzNTaFdvUlhrd1hkWHZ4UlBENFJKbHBWb0txTVZEVGFLY0hXR3I3SDZNRnJWTDlNUV9mMjV3MlVRckQ5UnM0OGJZQnl2RlJ6eFhFZFljWkpqWWc?oc=5",
-      "published": "2026-03-31T14:20:34+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -94,12 +84,12 @@
       }
     },
     {
-      "id": "17358783761d",
-      "title": "Die Sparideen für den Arzneimittelbereich - deutsche-apotheker-zeitung.de",
+      "id": "3b222e2ffbff",
+      "title": "Die Sparideen für den Arzneimittelbereich - Deutsche Apotheker Zeitung, DAZ",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzgyREN4clM2c2NJQnZYb2ZuM2E1X2RxS2FLQk9ucGxMS0VIdzNQZXdFZXNiOUFZRWtrd0xFN2lGU1FoNDBocXYwV2hIbENnT21EY3FLa1R2Z1NCY2xvMTlyS2xMMGZtYmdoTWNTVzN5UGVlcHNleVVfekhjSU5fQkFreUtqWUZ3ZW9Oa1YxeFAwRHh0bTc4OXRpbDRsYlJpU2FmNTdMQkV0OHpa?oc=5",
       "published": "2026-03-30T07:00:00+00:00",
       "source": {
-        "name": "deutsche-apotheker-zeitung.de",
+        "name": "Deutsche Apotheker Zeitung, DAZ",
         "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
@@ -114,12 +104,22 @@
       }
     },
     {
-      "id": "050eba8e3ddc",
-      "title": "Warum viele Medikamente für Ältere oft problematischer sind - mittelhessen.de",
+      "id": "96f91bd4d420",
+      "title": "Finanzkommission: Jubel bei Boni-Versendern - apotheke-adhoc.de",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWx0SXZpLTNqeWdtbnJRMUtqT19fcDk0eF9TMnJ4OGE1eE1UdTJFZXktcDJVOXFySWxWdS1iSVMwaE85UVBrUnFkWElrYUg0WmdBakNMZlk0MnJfdW9DcnNtTTl0S1hmbUFEOHlKTlY5Nkl0ME41b2I5X21RSWRuUFliMXV1OVhabVNyMnZKWUMwT3lXUXRsVVlRSnFoRGs?oc=5",
+      "published": "2026-03-31T11:15:00+00:00",
+      "source": {
+        "name": "apotheke-adhoc.de",
+        "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
+      "id": "4500bd5e1edb",
+      "title": "Warum viele Medikamente für Ältere oft problematischer sind - Mittelhessen",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZUMxX2JldDduSXZOQ3B0cFdnQXlEX0UwSFRzd1N0YUgxSkJLdUl0dzR4ZXdRVk1PZkZxelAwdWFtZnJXTlU3QTd6cDk1d09KVXloNGxGZmtMUGtIU2ZzOGR5eXhhWXA0Rkl0LXl1bU5lTTFhaWRNdXd5RjdOYnBwRVlGMXNMVWFjZ1RhaUxKQzJCSXNWaFE3WFM2NWE1OGh1ekNTX3NxNE9QQi1xeWpNMGpNTHhsOUY4?oc=5",
       "published": "2026-03-29T13:00:00+00:00",
       "source": {
-        "name": "mittelhessen.de",
+        "name": "Mittelhessen",
         "url": "https://www.mittelhessen.de"
       }
     },
@@ -131,6 +131,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "ef29235e3f7b",
+      "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnBJZGx2V2VkNEJfQy1NTDk2NFJXOE5MY3k2VE1yNmxuZzNiWWNlalNjN0MzTjJzSUwxTDRPRTlJai1XeXVUODNhaGlrRXJhaVpJdVQ0eV9mNHc1QWZkaXhtUTVfdjZNWEU2eWptcVk1WkNUZHJNRUpNQzM2TXduRFpPS0tTbjhtajdRWmtMbTM2N1owQ1I1Y2g1MmJiUzNpdnc?oc=5",
+      "published": "2026-03-18T07:00:00+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -154,16 +164,6 @@
       }
     },
     {
-      "id": "ef29235e3f7b",
-      "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnBJZGx2V2VkNEJfQy1NTDk2NFJXOE5MY3k2VE1yNmxuZzNiWWNlalNjN0MzTjJzSUwxTDRPRTlJai1XeXVUODNhaGlrRXJhaVpJdVQ0eV9mNHc1QWZkaXhtUTVfdjZNWEU2eWptcVk1WkNUZHJNRUpNQzM2TXduRFpPS0tTbjhtajdRWmtMbTM2N1owQ1I1Y2g1MmJiUzNpdnc?oc=5",
-      "published": "2026-03-18T07:00:00+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
       "id": "f3292245069b",
       "title": "»Das Scheitern ist vorprogrammiert« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0tRUXpVeEdiWFNIZDFicHFLLWI5eV9BMXRuckE3bTdHQVhWMTVPYW1XWnhlREwtZUJidXlSUXc4eV9uMDBfT3VyRWlfNWdxaU1DUmxpMTFLQWRfcndfMUFINlJvOU1GRlo3a0hIRUlycGhWQkZWcFp1anBHOUdtT0owb013dmc?oc=5",
@@ -184,12 +184,12 @@
       }
     },
     {
-      "id": "7f57926c5d27",
-      "title": "„Minimale, schrittweise Erhöhungen des Honorars helfen nicht“ - deutsche-apotheker-zeitung.de",
+      "id": "c3c4ef92325c",
+      "title": "„Minimale, schrittweise Erhöhungen des Honorars helfen nicht“ - Deutsche Apotheker Zeitung, DAZ",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXdwUmhqZEhHM0NuZVBtMTBuV0NQX3VCSXVJN1l6S3Y4N0s1NjZ0d0JiRFhmbGRkU0VnTlRwSjkyTVVTMXkxZFJZT1JMaTJ0ZTZKUnpZOHoxRTFuV0tlNEhkY19uVjdtclBuTDJsbUdjVXZRSTZjeE1WNnNCZ2xSUkx1c083a2I4c3FmMzBXbVFBaVQyS2tzTlVuLW9hVzhpUnNGZDJTNWVLRk5NU2JwSG5iTzdoVVZ2T0VnTnRLTUNlXzQ?oc=5",
       "published": "2026-03-30T05:45:00+00:00",
       "source": {
-        "name": "deutsche-apotheker-zeitung.de",
+        "name": "Deutsche Apotheker Zeitung, DAZ",
         "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
@@ -504,16 +504,6 @@
       }
     },
     {
-      "id": "aaae40ae7616",
-      "title": "Wahlkampf Baden-Württemberg: Rülke: »Gute Gesundheit geht nur mit öffentlichen Apotheken« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDY3aENWRUZGTC15UlN4YlFuU0JEdUkxREFqNzQtN282NElEbHZWRlRveVpDTzFUTml2c1ZYNTFUWnliQl81SC1VdVctWUk2UGJ6UWI4cW82Z1IydG5iN2FUR21ST3gweUJNOW94VGxkemJuRC1tY2NvZERfVndyekRMbFc0TjVIdGJYUGVGVzJnOFRRNS1RamtZb1F5b2VseUNPRUowYmVKUQ?oc=5",
-      "published": "2026-02-03T08:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "6f2e1c6123c6",
       "title": "Diese gängigen Medikamente schädigen die Darmflora - T-Online",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWURqUTI0OEhCYkhRa1ViRUpDcEstNXhvRDVKdGY0ZnNMYW9TcVlybF9XVkoyTElaX1hvckVZb2pOaVpPU3YxTWxXT21qWENIS21IaWFPdk00Ymh3Q0gzRVJqTndZR1dpVDZWZ0ZWam5vMTdHcWN5NEdtSlRJeV9FTjhVQVRoVTBnakswdkE4M2J6NWV6ZVU4WEZJT3gtTHpWZTdQOV9Tb05lcEdYX3NQZXhqZFlZQWtXRzM4dWJoLV9ObTdpdExmZWpFZ2NYaVlWU3NUTGZKODJaZw?oc=5",
@@ -521,6 +511,16 @@
       "source": {
         "name": "T-Online",
         "url": "https://www.t-online.de"
+      }
+    },
+    {
+      "id": "aaae40ae7616",
+      "title": "Wahlkampf Baden-Württemberg: Rülke: »Gute Gesundheit geht nur mit öffentlichen Apotheken« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDY3aENWRUZGTC15UlN4YlFuU0JEdUkxREFqNzQtN282NElEbHZWRlRveVpDTzFUTml2c1ZYNTFUWnliQl81SC1VdVctWUk2UGJ6UWI4cW82Z1IydG5iN2FUR21ST3gweUJNOW94VGxkemJuRC1tY2NvZERfVndyekRMbFc0TjVIdGJYUGVGVzJnOFRRNS1RamtZb1F5b2VseUNPRUowYmVKUQ?oc=5",
+      "published": "2026-02-03T08:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -574,12 +574,12 @@
       }
     },
     {
-      "id": "6d0d3a256a05",
-      "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
+      "id": "a0a873da795c",
+      "title": "So kommen Medikamente auf den Schweizer Markt - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
       "published": "2025-08-19T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -604,12 +604,12 @@
       }
     },
     {
-      "id": "ec71c38ffefa",
-      "title": "Innovative Medikamente: Bundesamt für Gesundheit in der Kritik - SRF",
+      "id": "a2c769618db7",
+      "title": "Innovative Medikamente: Bundesamt für Gesundheit in der Kritik - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ21uTXFkSVh6aGNJQU5kTWMtalV2cklqeWE1Ul9LSGlnTTNtMm9YcHotS3JVLUdnejIxQmozTEM0dzR0Z1lFMjBxT29iU1phLWhKRW5rQ2I4YXAyVXo1WHdaNXdXTDlRZmRNRzN0RWE4RTRiZWlVazZyb2p2R1ZMY0xtYXJoSmtYSURpY3d6RHYyQXUyeFJrS2dTNUxTUE9sWnNJY2UtLUF3V2haTm9qVGNTRGpPY2VHcHhiVi1kdHpXaFEyX2pSRnhua29OZVhPRU5IQ1IxR25vWTJZUjZFRlhSc2dPQ3Q4Z3UtTlVOX0FQZms?oc=5",
       "published": "2024-08-30T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -694,22 +694,22 @@
       }
     },
     {
-      "id": "70ce891eda1c",
-      "title": "Milliarden für die Gesundheit – Trotzdem fehlen Medikamente - SRF",
+      "id": "d72d1034c7b1",
+      "title": "Milliarden für die Gesundheit – Trotzdem fehlen Medikamente - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNmVDbjdmWTY3Ynd4cGh2b2lubldYalNXY0JwNEZMb2hQc0FOUGR6RUVNYzNkLUFPRjFVa1NKMEZRUWdFTVBjSWtWS2ZrSVZ1anFUZ0ZYcFZZU2Y1YmlidU1MaWNZUGQ2cWdyNmRpWXd5cWxBVGVzYmk1WjA4U0htTjEyNjFOeHFqenJtbDNDWE5yRVg2MHNDT3JDM3lzaFJudXZUNjNsVDhndEFVNGdoS20yRkNkeEFsMmw3WXZ1OHh4RC1RTXBnUGpkWHZXaXVKODA5YTR6akhHNEZiVUZHTURrcnlncUhuTzRXYkNB?oc=5",
       "published": "2023-03-06T08:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "71875fb7eea9",
-      "title": "Abnehmspritze - Ozempic: Wundermittel oder Risikofaktor? - SRF",
+      "id": "f1e765959b2f",
+      "title": "Abnehmspritze - Ozempic: Wundermittel oder Risikofaktor? - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2RUNG1WMnh3dHpGRDhFNzZSenI4QTJnaG9WOHYtdmY5R2t3MDZFY3J0dmI4Qkd5dWxrMEJvdjRuODNxVU53V1BNcmJHRWFxYXJDaEFqaG5aTXRJeDFnZ3M3NnY1T1FfaHh6MXRzemRDSlBkQUZVeDhoZHJya3RUbU1KOU1qaE54dmExc0FEeVZqb1k?oc=5",
       "published": "2025-06-23T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -804,22 +804,22 @@
       }
     },
     {
-      "id": "990654d22cea",
-      "title": "Kosten im Gesundheitswesen - Zankapfel Pharma: Wie viel Gewinn darf es sein? - SRF",
+      "id": "9f4073c613e8",
+      "title": "Kosten im Gesundheitswesen - Zankapfel Pharma: Wie viel Gewinn darf es sein? - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3diaVkyNkFnVEhVWS0zQ3ZnTW9BWWlDV3dNTERrR0xOWDZneVZ6ZE52X2ROQmRPUFBwSy1MRkRBOFoyYWJPSVpWSzZwQnlIVHd0Q1BGeHBRRU9wX19ZZzJiX3ZIRUdwcWFtaFFOSDJNdWFZVU8yaGNLT2kzLXZVVW9OMnNNczFaa1hOREc5UjhuN3h5QUZuMnVNd1N2TTJjSTJFV25Mdmg2U1k?oc=5",
       "published": "2022-07-22T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "bfc8ea67d58e",
-      "title": "600 Medikamente fehlen derzeit - BAG sagt Arznei-Engpässen den Kampf an - SRF",
+      "id": "c84ecb6c86cb",
+      "title": "600 Medikamente fehlen derzeit - BAG sagt Arznei-Engpässen den Kampf an - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTlOLVJSeERFN1FNYVFEZHFZdFVGdTBQVjVOdHJVY3BaR2g1bzRBRTFDUnV6SUFmVHVlSjY1OWVxV202dGRpYjNPQ0plMHZxaUxlSFRUV001MVd0R2lPUXVRTFp0eWRvRkctRUNwNjF6X2FDVjVXN1d6bkNMRTNzVkZLbDNoUWs4TFNhOFB4NVQya2wzN3RvVTlJMF92VE9TUGNkRA?oc=5",
       "published": "2019-11-07T08:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -874,12 +874,12 @@
       }
     },
     {
-      "id": "239e0211bd92",
-      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
+      "id": "772032898f04",
+      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
       "published": "2022-06-08T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -914,12 +914,12 @@
       }
     },
     {
-      "id": "243e91a76f9b",
-      "title": "Können Medikamente dem Baby im Bauch schaden? - SRF",
+      "id": "6aea2da0f017",
+      "title": "Können Medikamente dem Baby im Bauch schaden? - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xVZVdUREhSQUpvUFFVY3dqSVc1SlVzc3NSWlJ1aWFVYTlvdDJnNGl4SExfVzEtRVI0RHdUaGdrRXYzUFQwaEo2TU9nMVNxeWJJYzFCQ2V5Umd4c3ZuOHZ5T2ZzSlZaSlNHVk9NY3pHQlQ2eHlKOGtKc0VGS29zVU5CNmxISmVvVW9wWnYxbGUyazU2a3VXdUdwX2JvU25SNVVjbmhB?oc=5",
       "published": "2024-08-29T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -944,22 +944,22 @@
       }
     },
     {
-      "id": "1cadbc6261c0",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "id": "11b6af462079",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
       "published": "2012-02-20T08:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "d2f466e2638f",
-      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
+      "id": "66a296155934",
+      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
       "published": "2017-02-16T08:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
@@ -984,12 +984,12 @@
       }
     },
     {
-      "id": "0e1b6aad7db1",
-      "title": "Arzneimittelsicherheit - Neue Medikamente – Keine Wirkung ohne Nebenwirkung? - SRF",
+      "id": "6ffd263abe66",
+      "title": "Arzneimittelsicherheit - Neue Medikamente – Keine Wirkung ohne Nebenwirkung? - srf.ch",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFJqeWlTUFlaSGZGWi1rNXhuNlJ1Ujh5dXhRN1hQVU9BeE11VGlVa2ZBYUVEYmxfMXFjSDdHbDZqLXlPaGgwUmN1REtkSXFXcjNNa1BXaDZ2ZHgza3NWc1IyREd5Vlp4SkszdnpnXzdiaEZIVE5iZVJJYVZNeGFhbXRnV2RUYlR0YlRCMVZmckNCYVk5RnpkOEUwNUx4aUdTQ0RxN1ZyT1F5ZEN6?oc=5",
       "published": "2023-09-20T07:00:00+00:00",
       "source": {
-        "name": "SRF",
+        "name": "srf.ch",
         "url": "https://www.srf.ch"
       }
     },
