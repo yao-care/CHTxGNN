@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-01T20:49:39.479486+00:00",
+  "fetched_at": "2026-04-01T21:38:19.324199+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "a2e1c1586ee7",
-      "title": "Karies durch Asthma-Inhalatoren? - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjNRQjNuRU5HR1pNR1FSd05HR19JekoydEFmNDdRUUs4SVlUandYeWFuWEYtMVR4SmE2WWU3bFhFWHl2YWJ3eEZ2c29kdy1vQnYxMzhXWTdac2NOUXFKMjJ4U0dpUkt5cV96WTJpalVWZENUVk5jMUpaZGJnWGlYb3VBcnRRQlppQ0FGOXh0RE01anJvaEE?oc=5",
-      "published": "2026-04-01T13:10:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "93248ae046b8",
       "title": "Statement zu den aktuell vorgelegten Empfehlungen der FinanzKommission Gesundheit (FKG) - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ueDlFdWtlZkppSWY3a1RONDFFNjFQdjF6cktaZ2xQWWM2bEREelFkVUN3OXdyRm1EeDEwN1ItcGpBRlRRM1FIZkh4VWVRakhDVllCTlVtaw?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "a2e1c1586ee7",
+      "title": "Karies durch Asthma-Inhalatoren? - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjNRQjNuRU5HR1pNR1FSd05HR19JekoydEFmNDdRUUs4SVlUandYeWFuWEYtMVR4SmE2WWU3bFhFWHl2YWJ3eEZ2c29kdy1vQnYxMzhXWTdac2NOUXFKMjJ4U0dpUkt5cV96WTJpalVWZENUVk5jMUpaZGJnWGlYb3VBcnRRQlppQ0FGOXh0RE01anJvaEE?oc=5",
+      "published": "2026-04-01T13:10:00+00:00",
+      "source": {
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -114,12 +114,12 @@
       }
     },
     {
-      "id": "8afd27db4899",
-      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - watson.ch",
+      "id": "c17d8a510040",
+      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
       "published": "2026-03-20T07:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
@@ -144,10 +144,20 @@
       }
     },
     {
-      "id": "284e2c091c23",
-      "title": "Das Gesundheitsministerium ruft eine Charge Aceclofenac STELLA 100mg zurück. - vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2ItWXZHZENqRkNUUEN0WGFIMmNwWmwzTWN0UjZfZmhPRGlUM0NscjRQQlpuU296cU1DQmI3cGd3Q2Z4bTBQcEg1V0hQNnVNWGxnbXFDLXBSb0l4S0xva0hSOW5LN3U3VWNPTjFONFJ0R0d4bUlYVXk0TmlhYzlyXw?oc=5",
-      "published": "2026-04-01T08:23:17+00:00",
+      "id": "e8691133b84f",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - adac.de",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": {
+        "name": "adac.de",
+        "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "27a39fc6440e",
+      "title": "Das Gesundheitsministerium ruft eine Charge Aceclofenac STELLA 100mg wegen Verstößen gegen die Zulassungsvorschriften zurück. - vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNel9KRnlDMExIUWUxMDBzMS14c2xSZ0tjcVNsNmVKdG8za2dkcVRrR1MxbWJDMkZRb18xcDlBTWVnWUZFTzlyUzR6SXhTMHJSbnVxV2lTQXRaakUxYXBQaE04TGprbXdXSVNjY05TMUE3UWdnYnI3RmtiTHZtVnJndnZLY21LV0o2cEV3elRMaWZMdlhIM2ZoZjA3OA?oc=5",
+      "published": "2026-04-01T09:33:57+00:00",
       "source": {
         "name": "vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -174,10 +184,10 @@
       }
     },
     {
-      "id": "27a39fc6440e",
-      "title": "Das Gesundheitsministerium ruft eine Charge Aceclofenac STELLA 100mg wegen Verstößen gegen die Zulassungsvorschriften zurück. - vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNel9KRnlDMExIUWUxMDBzMS14c2xSZ0tjcVNsNmVKdG8za2dkcVRrR1MxbWJDMkZRb18xcDlBTWVnWUZFTzlyUzR6SXhTMHJSbnVxV2lTQXRaakUxYXBQaE04TGprbXdXSVNjY05TMUE3UWdnYnI3RmtiTHZtVnJndnZLY21LV0o2cEV3elRMaWZMdlhIM2ZoZjA3OA?oc=5",
-      "published": "2026-04-01T09:33:57+00:00",
+      "id": "5f4c03811bd1",
+      "title": "Das Schmerzmittel Aceclofenac STELLA für Gelenke wurde wegen eines Verstoßes der Stufe 2 zurückgerufen. - vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXFWaXZJaUE5YlJzSlhPd1dnOVluOVRCZHMySjgyN3owWFBvNUZ6NmwxeWhBcUgzRTliSXhEX0MwMVlXbHBEUlVRb1VwLWc4dGVmZ0lNNzFIVlpHTjgzaGVZNmxMWUFDYmlQWV9sQVFoZllwQ3NwLVlDOEYwZkcxMFBrbnlHMTBlb0wtek1NdlVEQnc?oc=5",
+      "published": "2026-04-01T07:29:09+00:00",
       "source": {
         "name": "vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -191,26 +201,6 @@
       "source": {
         "name": "Apotheke Adhoc",
         "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
-      "id": "5f4c03811bd1",
-      "title": "Das Schmerzmittel Aceclofenac STELLA für Gelenke wurde wegen eines Verstoßes der Stufe 2 zurückgerufen. - vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXFWaXZJaUE5YlJzSlhPd1dnOVluOVRCZHMySjgyN3owWFBvNUZ6NmwxeWhBcUgzRTliSXhEX0MwMVlXbHBEUlVRb1VwLWc4dGVmZ0lNNzFIVlpHTjgzaGVZNmxMWUFDYmlQWV9sQVFoZllwQ3NwLVlDOEYwZkcxMFBrbnlHMTBlb0wtek1NdlVEQnc?oc=5",
-      "published": "2026-04-01T07:29:09+00:00",
-      "source": {
-        "name": "vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "cebeb99a59c4",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-01-20T08:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
       }
     },
     {
@@ -294,22 +284,22 @@
       }
     },
     {
-      "id": "04302f78d148",
-      "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - watson.ch",
+      "id": "ff2abafdfc6a",
+      "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
       "published": "2026-02-17T08:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
     {
-      "id": "ca977f248e7f",
-      "title": "Grossbritannien: Politik senkt Hürden für neue Medikamente - infosperber.ch",
+      "id": "3a9f64ee61e7",
+      "title": "Grossbritannien: Politik senkt Hürden für neue Medikamente - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9kamYxZnJXZjNNVUpqY1F3R19iRGtxZk1Qb3UwcFd4bVpVV3FYbzhiVmRXRE9GcnBKbmVrY2loaG9zREEzRmgzZHA0eFAyOTRxTDlORzNzaUNXYTNVdFFaOC0xVGxyTlZfdlNnbTEzc3Z5M2VZeEpCaEx5T3ZjU1E4UktVcHJmdFVKNzItelVYLVhNV1FIeW14VQ?oc=5",
       "published": "2025-12-21T08:00:00+00:00",
       "source": {
-        "name": "infosperber.ch",
+        "name": "Infosperber",
         "url": "https://www.infosperber.ch"
       }
     },
@@ -334,32 +324,32 @@
       }
     },
     {
-      "id": "f072f0ff3cf1",
-      "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - watson.ch",
+      "id": "f5792a16573f",
+      "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
       "published": "2026-02-19T08:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
     {
-      "id": "a6e3d260d80e",
-      "title": "Swissmedic warnt vor gefälschten und irreführenden «GLP-1»-Produkten zur Gewichtsreduktion - Swissmedic",
+      "id": "3cf5cf3fd046",
+      "title": "Swissmedic warnt vor gefälschten und irreführenden «GLP-1»-Produkten zur Gewichtsreduktion - swissmedic.ch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkE1NzFNUW5LbnpJRTl2LUFWSlVLWnR1UlNWdm1TMEQ1Z1ZVMlRMRWJ3MXYyTlZQREo2dDJoSTQ4cDc5eldKZEc5azlPUlpUTm1fQWdmb3YxNGpQWWtSZlMyaW9hLVhkQ2w2U09iSmttdjF3Z1dVRmZFYVNDbExfTmxCSjJsUjdCWkE2Q05aTE5uN0JkQ0ZkMGlpa1Q1XzQ?oc=5",
       "published": "2025-08-26T07:00:00+00:00",
       "source": {
-        "name": "Swissmedic",
+        "name": "swissmedic.ch",
         "url": "https://www.swissmedic.ch"
       }
     },
     {
-      "id": "8a5295b34aa8",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - watson.ch",
+      "id": "7c553323d0e9",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
       "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
@@ -371,16 +361,6 @@
       "source": {
         "name": "pharmazeutische-zeitung.de",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "6af56f91152b",
-      "title": "Blüten aus der GKV-Erstattung? Cannabis-Apotheker warnen - deutsche-apotheker-zeitung.de",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUw0Z1hLZ1lzLVk4d05hV3JDZnBLTE8xVGVVTWVFTU01YUE0QmpaMGxTRXJmandnUF9sSk5GSnROZkF1bW94RzFtdWxjOEFvRFNSVHZOZVU0NVA1Rmw5TzItZm9QSzBSNGp0RnM0YWVrdnpWM0pYUXdoWE9BcGdpMVJtNEhKc2dCY2ZNQjFhenJ3a3F5WXNZVVozTGZRODgzQ0ZYQjJrbjVGenpGZFBtTGprVGtpdVF4enNqQVVuYw?oc=5",
-      "published": "2026-04-01T01:00:00+00:00",
-      "source": {
-        "name": "deutsche-apotheker-zeitung.de",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -404,6 +384,16 @@
       }
     },
     {
+      "id": "6af56f91152b",
+      "title": "Blüten aus der GKV-Erstattung? Cannabis-Apotheker warnen - deutsche-apotheker-zeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUw0Z1hLZ1lzLVk4d05hV3JDZnBLTE8xVGVVTWVFTU01YUE0QmpaMGxTRXJmandnUF9sSk5GSnROZkF1bW94RzFtdWxjOEFvRFNSVHZOZVU0NVA1Rmw5TzItZm9QSzBSNGp0RnM0YWVrdnpWM0pYUXdoWE9BcGdpMVJtNEhKc2dCY2ZNQjFhenJ3a3F5WXNZVVozTGZRODgzQ0ZYQjJrbjVGenpGZFBtTGprVGtpdVF4enNqQVVuYw?oc=5",
+      "published": "2026-04-01T01:00:00+00:00",
+      "source": {
+        "name": "deutsche-apotheker-zeitung.de",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
+      }
+    },
+    {
       "id": "ffdcca654be5",
       "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
@@ -424,12 +414,12 @@
       }
     },
     {
-      "id": "ca7637d8203f",
-      "title": "Niederlande: Neue Medikamente nicht um jeden Preis - infosperber.ch",
+      "id": "a114a7faa80b",
+      "title": "Niederlande: Neue Medikamente nicht um jeden Preis - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXZhbGRSQWZFZnpuTHU0RXJENjhRZm5FZ19XMUk5WEstLTNvTXBKZVpRZVV1UnVMeWhtd0V3MFljaVFKWHBJOFBINU1rQUx0Zk1TX0JQa3hiclQ4V0NHVW1sWloxOW5tM2lIbmhCVE5xOWt0Q3I0ZTN1amtrZXp1SXdxVlRZOUFqcm56ZXhwb1lXQQ?oc=5",
       "published": "2025-10-05T07:00:00+00:00",
       "source": {
-        "name": "infosperber.ch",
+        "name": "Infosperber",
         "url": "https://www.infosperber.ch"
       }
     },
@@ -474,22 +464,22 @@
       }
     },
     {
-      "id": "60faf3367ef6",
-      "title": "Krankenkassen sollen im Ausland gekaufte Medikamente nicht bezahlen müssen - watson.ch",
+      "id": "840657a75acb",
+      "title": "Krankenkassen sollen im Ausland gekaufte Medikamente nicht bezahlen müssen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkhSZnlRbk92NUxMYVNKcEczallvU3RqYUVxMEtyRVhIVGc3dE9uOHB2VG9VNko2MU5rdDdjbXhKbnFLUnJHdGNYWXU5UUtOZTJZTE1MV3ZGSW9sa1VzTFdfOVZNbDluaEI1dG1QbDdnc1NFRUprcWlFUko1RTNXcVUyaXVKdUw2QlFNeGtjUnZBMW1lbHBPcldqQkZqSXItWFlua2JudVQ4R1VULXZfczRleGdBVnFwTWUw?oc=5",
       "published": "2025-09-18T07:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
     {
-      "id": "7314c1d76222",
-      "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Monitor Versorgungsforschung",
+      "id": "0492b7e301a9",
+      "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - monitor-versorgungsforschung.de",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZy01dWVucjhyQ1RpaWpxTUF4YWlpcmNTU2NxWkdORVVfd2UtaXA0UkJvVTlKNEp6SE1aYUhPMmxhME5YYkVtbDJGSVcxQTUtWTg5TkM5VkR3TFktU1lXOGxTSlk0cWNUUmtjY1d1aFpndENHdk9aVk9HTi16VjFzbzBtYWhOb0FQdDNYMnNkV3pkX1Nwbk42V0Y2N2ZZX2FMOHdfV2Nna3gyNWlCblVmZFZCZ29pR0gxbzA0eUpINE5NcXc?oc=5",
       "published": "2026-03-09T07:00:00+00:00",
       "source": {
-        "name": "Monitor Versorgungsforschung",
+        "name": "monitor-versorgungsforschung.de",
         "url": "https://www.monitor-versorgungsforschung.de"
       }
     },
@@ -504,22 +494,22 @@
       }
     },
     {
-      "id": "57db930b1ee6",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - watson.ch",
+      "id": "944614944a7c",
+      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
       "published": "2025-12-02T08:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
     {
-      "id": "be5fc1107af5",
-      "title": "Sandoz-Präsident: «Die US-Zölle schaden der Gesundheit» - swissinfo.ch",
+      "id": "4ee66b7f0ec1",
+      "title": "Sandoz-Präsident: «Die US-Zölle schaden der Gesundheit» - SWI swissinfo.ch",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkkyb1h3OFpyOENRUE9zVzNnWFpOTEV3X2hLaHFCa1JaY0txMUFPbkdrOUxNcDVySGpycG9qb0RyV1RzSVhNWVRzMnB0Ml9FMUpPR2ZrN0RYdUZLcUJaREQxWURDc21CckV6RFpZb3EtczZlLTA3RVZPOHFiN3hNNnc5LWpNdXBPai1neUI4UlZOZ1IzZC1Nc2JUaXJfQ0syWU9wYm9DVnFMYndBbmJNeEZJTHlSRnNwMkdnVDRQQkg?oc=5",
       "published": "2025-06-28T07:00:00+00:00",
       "source": {
-        "name": "swissinfo.ch",
+        "name": "SWI swissinfo.ch",
         "url": "https://www.swissinfo.ch"
       }
     },
@@ -584,12 +574,12 @@
       }
     },
     {
-      "id": "794aa9d3eca4",
-      "title": "Hendrik Streeck hinterfragt teure Medikamente für alte Menschen - spiegel.de",
+      "id": "f0ec5752b922",
+      "title": "Hendrik Streeck hinterfragt teure Medikamente für alte Menschen - Spiegel",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdklWd0VveEdNaGZxM3F3RmFVdXFOQi10dUZONzlqUjBCS1EyMERpajY5dm9UajBXQnNaaG1Kc2NYUl8tOHpBZFBTQjl4X2NUdXNmckMxdDllNEVmMnZkNVRvU2Y1d3R6WUswWVFLek9rWUhOb01pSjkwbFB1SVdWaTQyc25VWi1aUGxWUGpETWU1b0plSW5qQXNZNzNmbzRPUUg0dGRVOHpEQnI4SWpkZ2diak1XSWNmNFhzSXVUd1BDYktCSkxIVmt2ekpXdGJ3ZDdYRXdWa1FwNDVo?oc=5",
       "published": "2025-11-12T08:00:00+00:00",
       "source": {
-        "name": "spiegel.de",
+        "name": "Spiegel",
         "url": "https://www.spiegel.de"
       }
     },
@@ -634,12 +624,12 @@
       }
     },
     {
-      "id": "d2cc84552487",
-      "title": "Arzneimittelbehörden bewilligen unwirksame Medikamente - infosperber.ch",
+      "id": "616b86db5094",
+      "title": "Arzneimittelbehörden bewilligen unwirksame Medikamente - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0swZWI0Ym4wZm9jb2o2aUZfLW9FWFFuOGtnN094MU16Y0FYaFd1T0xHRURHamhRZ3ROeklVMFNqcklPdi1uU2ZXVW5QWUVSazZVNWlhVDVnTHVVbUc0YVJRMWQ2Yk5kbklBNXlYX3pMY2d5TXNlM2QteVBVY3cxSnZUclBuUTB1Z2ZFV2ZhX1VOZHdfY2hQRDRRbG0?oc=5",
       "published": "2025-07-27T07:00:00+00:00",
       "source": {
-        "name": "infosperber.ch",
+        "name": "Infosperber",
         "url": "https://www.infosperber.ch"
       }
     },
@@ -694,12 +684,12 @@
       }
     },
     {
-      "id": "c10a746f2216",
-      "title": "Arzneimittel: EU will Produktion von Medikamenten nach Europa zurückholen - Handelsblatt",
+      "id": "57301cccc5de",
+      "title": "Arzneimittel: EU will Produktion von Medikamenten nach Europa zurückholen - handelsblatt.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2hEbWFnZVFNbWxxbDRMOEQ3ZGlEQlBsbHZ1SXkyVE9mU2M2SzN5T2kzWGNzWjBhOURjUzJxZWY0Yk1xaXhPUzA4dmZKa1R6QXdoVC12S2F2Si0yc1B3YmRmYUpMamc1eW5PLTlFWnA2QUs3R3Q5RGx1eGFyMHM1WFhneTBnN0pqVWE5MnZ1NE91LUNkb2dDM1lJbHVQXzE1RWo1QXY0OVU4YlhVcjRWblRzMFhDTElDOTVaTWg1M3B3dkRqbjE0dW9mV1RiQVNfbHI4?oc=5",
       "published": "2025-06-19T07:00:00+00:00",
       "source": {
-        "name": "Handelsblatt",
+        "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
       }
     },
@@ -794,12 +784,12 @@
       }
     },
     {
-      "id": "0cceb89224b3",
-      "title": "Pharmastandort Schweiz: An jedem Kiosk gibt’s Arzneimittel - infosperber.ch",
+      "id": "318b14fd16b7",
+      "title": "Pharmastandort Schweiz: An jedem Kiosk gibt’s Arzneimittel - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1Q4cjlPNExDeDBmTGxVNk1OQm1NT1Rxd01NSXlzVDhwMWxNMWxtUElhclFINS1FTG8xVDhLT1YzTExmRXBQSUhiVVRzQW9HX3VEUm5lMFNVaWpVNXR3Y3ZzaTZxUUpXV1lWc05JRkxVWnNPaDRwNkotRWRMZzRiRUIxSUhZS3lVNlVfYUt1Q1lBN1czczh0NS03TQ?oc=5",
       "published": "2025-04-16T07:00:00+00:00",
       "source": {
-        "name": "infosperber.ch",
+        "name": "Infosperber",
         "url": "https://www.infosperber.ch"
       }
     },
@@ -824,12 +814,12 @@
       }
     },
     {
-      "id": "6f2e1c6123c6",
-      "title": "Diese gängigen Medikamente schädigen die Darmflora - T-Online",
+      "id": "3a14976978c5",
+      "title": "Diese gängigen Medikamente schädigen die Darmflora - t-online.de",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWURqUTI0OEhCYkhRa1ViRUpDcEstNXhvRDVKdGY0ZnNMYW9TcVlybF9XVkoyTElaX1hvckVZb2pOaVpPU3YxTWxXT21qWENIS21IaWFPdk00Ymh3Q0gzRVJqTndZR1dpVDZWZ0ZWam5vMTdHcWN5NEdtSlRJeV9FTjhVQVRoVTBnakswdkE4M2J6NWV6ZVU4WEZJT3gtTHpWZTdQOV9Tb05lcEdYX3NQZXhqZFlZQWtXRzM4dWJoLV9ObTdpdExmZWpFZ2NYaVlWU3NUTGZKODJaZw?oc=5",
       "published": "2026-03-31T04:17:42+00:00",
       "source": {
-        "name": "T-Online",
+        "name": "t-online.de",
         "url": "https://www.t-online.de"
       }
     },
@@ -914,12 +904,12 @@
       }
     },
     {
-      "id": "c7248579398f",
-      "title": "Bei welchen Medikamenten mit Engpässen zu rechnen ist - WEB.DE",
+      "id": "fda7c69ff0b8",
+      "title": "Bei welchen Medikamenten mit Engpässen zu rechnen ist - web.de",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjEyNTBxUmtRckJVeFhacW9SeWhiYjVaNjRleVBvc0RXcU9RTUlTZlRoZTU0eUo3TFE0djZYRjFSanBXTlhwRHVPUE9MckdxN015SC1iUXI4RXdFRXVULURoeThoUjF1bG8tQTlVZnlBMmx1R2NpNzhmeEF6eUY4TA?oc=5",
       "published": "2025-09-19T07:00:00+00:00",
       "source": {
-        "name": "WEB.DE",
+        "name": "web.de",
         "url": "https://web.de"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "pharmazeutische-zeitung.de",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "b5f987ec45f0",
+      "title": "Vorsicht Wechselwirkungen: So beeinflussen einige Lebensmittel die Wirkung von Medikamenten - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnZVZzJIWTVaU1c4bzRWYnAxeWZKaUR1ZVNaei16RHBIZUVoUUJPWlpPMkdKSFJMLW1uTng1Wk1IdG9fck5fTVRON0NIbWVER3B3OTVxMTFGcEJ1Wjg2R19Ta00xNHFCY05XMUpUS0NJV0ctWUZsYU1GdlVqdkhfcThJdXl2LXFkczRtYkpHZWMxanRhMFMxYTVHa2dZWlFsTWN3VjVGT2VrY0M1alVqWElyWjB1V3Ewd21pUTlYOUdkSnpqZndSRFVfcw?oc=5",
+      "published": "2024-02-05T08:00:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     }
   ]
