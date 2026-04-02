@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-02T09:58:28.890402+00:00",
+  "fetched_at": "2026-04-02T10:56:55.906154+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "eae9e3ff90b5",
+      "title": "Das ist bei der Off-Label-Verordnung auf Kassenkosten zu beachten - AerzteZeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaklsT0tUeGtuV0drekNsbXhkZ1ZjZXdPVDVuOExsamowMGlwamZkTTZLQVZvZERyU3JCWUwxMldtOTNYOHJsYnl6X2V2OU1oRjRjZnZVcEZnYVRqWG52Vk02elJOMWFPY29TYldPTlQ1R1pVUjJ1UXgtMXlrRGtFWW5jTkdJZ1gwMUM2Qm9QOXVNVVFMc2s4TUtRLXJjb2ZWYWVwaXUyS3FqUEN2ZnUyQWhhLXNXU1Ns?oc=5",
+      "published": "2026-04-02T10:43:11+00:00",
+      "source": {
+        "name": "AerzteZeitung.de",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
       "id": "a2e1c1586ee7",
       "title": "Karies durch Asthma-Inhalatoren? - Apotheke Adhoc",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjNRQjNuRU5HR1pNR1FSd05HR19JekoydEFmNDdRUUs4SVlUandYeWFuWEYtMVR4SmE2WWU3bFhFWHl2YWJ3eEZ2c29kdy1vQnYxMzhXWTdac2NOUXFKMjJ4U0dpUkt5cV96WTJpalVWZENUVk5jMUpaZGJnWGlYb3VBcnRRQlppQ0FGOXh0RE01anJvaEE?oc=5",
@@ -184,16 +194,6 @@
       }
     },
     {
-      "id": "3e31ec88736e",
-      "title": "BGH warnt vor Potenzmittel-Plattform - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGJQT29rcDZNWGpBWTJKNmFvNEJLbXBxSkY1cWtDWnpOamZXVjBCdzJsb1JVUnJ5RHd0LVNCRzdFdFZyV3lhX2dOd1RyeTRTRGsxbE80Smt0eGlySS1OWHJfTk5mMElKcm1GWmJnODJpb2RJbjZ4NW9BUEVaRHVWMFUwdnhEYUJPT1Rmdmo3QlJUUEtmOUlR?oc=5",
-      "published": "2026-04-01T12:40:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "f0b040dfd93a",
       "title": "Das Schmerzmittel Aceclofenac STELLA für Gelenke wurde wegen eines Verstoßes der Stufe 2 zurückgerufen. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXFWaXZJaUE5YlJzSlhPd1dnOVluOVRCZHMySjgyN3owWFBvNUZ6NmwxeWhBcUgzRTliSXhEX0MwMVlXbHBEUlVRb1VwLWc4dGVmZ0lNNzFIVlpHTjgzaGVZNmxMWUFDYmlQWV9sQVFoZllwQ3NwLVlDOEYwZkcxMFBrbnlHMTBlb0wtek1NdlVEQnc?oc=5",
@@ -201,6 +201,16 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "3e31ec88736e",
+      "title": "BGH warnt vor Potenzmittel-Plattform - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGJQT29rcDZNWGpBWTJKNmFvNEJLbXBxSkY1cWtDWnpOamZXVjBCdzJsb1JVUnJ5RHd0LVNCRzdFdFZyV3lhX2dOd1RyeTRTRGsxbE80Smt0eGlySS1OWHJfTk5mMElKcm1GWmJnODJpb2RJbjZ4NW9BUEVaRHVWMFUwdnhEYUJPT1Rmdmo3QlJUUEtmOUlR?oc=5",
+      "published": "2026-04-01T12:40:00+00:00",
+      "source": {
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -224,22 +234,12 @@
       }
     },
     {
-      "id": "29f5989f0f8d",
-      "title": "Digitale Prozesse im Fokus: Das steht im neuen Aktionsplan AMTS - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTlfa3RXMXBhbkwwUFFBWkY3RlRmMXJVaTBVeVJILVc2WEJyQUZsTFJYWEN4RFlYZ3dqTlZGV1NRdXFmNDhsejF5LWxjWXo0ODB2UEJHOUMtNGlwb0hJcTB4NUZCWWJtUTltY0laVDJaZEpwakp4LWFnS3ByZ29KNEdqdlBsUXNQSFE?oc=5",
-      "published": "2026-04-01T11:39:18+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "67c4d9241e91",
-      "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de - sueddeutsche.de",
+      "id": "ef29235e3f7b",
+      "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnBJZGx2V2VkNEJfQy1NTDk2NFJXOE5MY3k2VE1yNmxuZzNiWWNlalNjN0MzTjJzSUwxTDRPRTlJai1XeXVUODNhaGlrRXJhaVpJdVQ0eV9mNHc1QWZkaXhtUTVfdjZNWEU2eWptcVk1WkNUZHJNRUpNQzM2TXduRFpPS0tTbjhtajdRWmtMbTM2N1owQ1I1Y2g1MmJiUzNpdnc?oc=5",
       "published": "2026-03-18T07:00:00+00:00",
       "source": {
-        "name": "sueddeutsche.de",
+        "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
       }
     },
@@ -254,13 +254,13 @@
       }
     },
     {
-      "id": "6800bdd9ba31",
-      "title": "Finanzkommission: Jubel bei Boni-Versendern - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWx0SXZpLTNqeWdtbnJRMUtqT19fcDk0eF9TMnJ4OGE1eE1UdTJFZXktcDJVOXFySWxWdS1iSVMwaE85UVBrUnFkWElrYUg0WmdBakNMZlk0MnJfdW9DcnNtTTl0S1hmbUFEOHlKTlY5Nkl0ME41b2I5X21RSWRuUFliMXV1OVhabVNyMnZKWUMwT3lXUXRsVVlRSnFoRGs?oc=5",
-      "published": "2026-03-31T11:15:00+00:00",
+      "id": "29f5989f0f8d",
+      "title": "Digitale Prozesse im Fokus: Das steht im neuen Aktionsplan AMTS - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTlfa3RXMXBhbkwwUFFBWkY3RlRmMXJVaTBVeVJILVc2WEJyQUZsTFJYWEN4RFlYZ3dqTlZGV1NRdXFmNDhsejF5LWxjWXo0ODB2UEJHOUMtNGlwb0hJcTB4NUZCWWJtUTltY0laVDJaZEpwakp4LWFnS3ByZ29KNEdqdlBsUXNQSFE?oc=5",
+      "published": "2026-04-01T11:39:18+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "45b31f7bde9c",
-      "title": "Blüten aus der GKV-Erstattung? Cannabis-Apotheker warnen - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUw0Z1hLZ1lzLVk4d05hV3JDZnBLTE8xVGVVTWVFTU01YUE0QmpaMGxTRXJmandnUF9sSk5GSnROZkF1bW94RzFtdWxjOEFvRFNSVHZOZVU0NVA1Rmw5TzItZm9QSzBSNGp0RnM0YWVrdnpWM0pYUXdoWE9BcGdpMVJtNEhKc2dCY2ZNQjFhenJ3a3F5WXNZVVozTGZRODgzQ0ZYQjJrbjVGenpGZFBtTGprVGtpdVF4enNqQVVuYw?oc=5",
-      "published": "2026-04-01T01:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
       "id": "f5792a16573f",
       "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "45b31f7bde9c",
+      "title": "Blüten aus der GKV-Erstattung? Cannabis-Apotheker warnen - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUw0Z1hLZ1lzLVk4d05hV3JDZnBLTE8xVGVVTWVFTU01YUE0QmpaMGxTRXJmandnUF9sSk5GSnROZkF1bW94RzFtdWxjOEFvRFNSVHZOZVU0NVA1Rmw5TzItZm9QSzBSNGp0RnM0YWVrdnpWM0pYUXdoWE9BcGdpMVJtNEhKc2dCY2ZNQjFhenJ3a3F5WXNZVVozTGZRODgzQ0ZYQjJrbjVGenpGZFBtTGprVGtpdVF4enNqQVVuYw?oc=5",
+      "published": "2026-04-01T01:00:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -344,12 +344,12 @@
       }
     },
     {
-      "id": "0492b7e301a9",
-      "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - monitor-versorgungsforschung.de",
+      "id": "7314c1d76222",
+      "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Monitor Versorgungsforschung",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZy01dWVucjhyQ1RpaWpxTUF4YWlpcmNTU2NxWkdORVVfd2UtaXA0UkJvVTlKNEp6SE1aYUhPMmxhME5YYkVtbDJGSVcxQTUtWTg5TkM5VkR3TFktU1lXOGxTSlk0cWNUUmtjY1d1aFpndENHdk9aVk9HTi16VjFzbzBtYWhOb0FQdDNYMnNkV3pkX1Nwbk42V0Y2N2ZZX2FMOHdfV2Nna3gyNWlCblVmZFZCZ29pR0gxbzA0eUpINE5NcXc?oc=5",
       "published": "2026-03-09T07:00:00+00:00",
       "source": {
-        "name": "monitor-versorgungsforschung.de",
+        "name": "Monitor Versorgungsforschung",
         "url": "https://www.monitor-versorgungsforschung.de"
       }
     },
@@ -414,12 +414,12 @@
       }
     },
     {
-      "id": "8e072ba0f1be",
-      "title": "BAG senkt Preise von 300 Medikamenten - medinside.ch",
+      "id": "65f5c7c5e376",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
       "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "medinside.ch",
+        "name": "Medinside",
         "url": "https://www.medinside.ch"
       }
     },
@@ -464,12 +464,12 @@
       }
     },
     {
-      "id": "699e7a47f8fa",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - medinside.ch",
+      "id": "ad81c552d587",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
       "published": "2025-11-12T08:00:00+00:00",
       "source": {
-        "name": "medinside.ch",
+        "name": "Medinside",
         "url": "https://www.medinside.ch"
       }
     },
@@ -524,22 +524,22 @@
       }
     },
     {
-      "id": "c6b79cfa383c",
-      "title": "Arzneimittel - Drohender Engpass bei Antibiotika - Sonderregeln - Gesundheit - SZ.de - sueddeutsche.de",
+      "id": "2ab7955d0c6d",
+      "title": "Arzneimittel - Drohender Engpass bei Antibiotika - Sonderregeln - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXYxUjRkRWpobExwZXBseVN2WkJ6NjBwTndtTURXR3RSR01ENHZOaGtVYXdOanprT2paaHFmVEc0RWxzVzZDb0NrYk1Ba0thRGlhZ3RxVWpqeGUyR0owYzIzVHFTVTFWMmdfdUxfVnYzN0R5MUc5TFN4R2dSNWJ3V0ZMZUt3YkhlZXhDTXUxa1dBUUVSQjB5b2JyVU5xUUo5SVVwLUpkc2Z5NUV6NVFvak4zLXBrTng2OUs1OEdiQnlDR1N2QngtdGFmbW9vSnl2U1lKaDhqa3FyMVllSmxXRG13?oc=5",
       "published": "2026-01-24T08:00:00+00:00",
       "source": {
-        "name": "sueddeutsche.de",
+        "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
       }
     },
     {
-      "id": "3cf9d8fa68c4",
-      "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de - sueddeutsche.de",
+      "id": "88f3ad8f8f16",
+      "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFhLVUdkZzBFTm93WVhvZHdBSkk4ZWlPUWJQRlZFWjlSV3Npei12Wnc4YWhXZW9fMkFOLUs2TjNEanlIUENkRlJ1bmdDQWJKbFhVeEpaMmF2dEp3SjVZbjBHZlNDVUV2Z1NpekF5c3lEaUxsX3VPcDNwRHBGaVFFYXBRZ3dERXpIZWp2TzVralRSb1FEVmdfZjNJTmxMdW9WT25iZGh6QVBfQmV2UGRSby1hcWNOOWl4b2NIajFWRmZZNmhvemN2OVVSZ3dwYnlYTVBfYV9oVGlYM3B5TjJtQTZZUHkwb3cteVd1UzU5M3RaT2hiN2tjczYtOA?oc=5",
       "published": "2025-11-30T08:00:00+00:00",
       "source": {
-        "name": "sueddeutsche.de",
+        "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
       }
     },
@@ -614,12 +614,12 @@
       }
     },
     {
-      "id": "ec67e5f12663",
-      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - swr.de",
+      "id": "83118135b838",
+      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
       "published": "2025-11-02T07:00:00+00:00",
       "source": {
-        "name": "swr.de",
+        "name": "SWR",
         "url": "https://www.swr.de"
       }
     },
