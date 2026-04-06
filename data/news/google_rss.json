@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T21:34:39.086894+00:00",
+  "fetched_at": "2026-04-06T22:32:42.532468+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,6 +34,16 @@
       }
     },
     {
+      "id": "f6eb38b5fe6c",
+      "title": "Off-Label-Liste für Long Covid & ME/CFS: Das ist kein Erfolg - RiffReporter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHI4azJlcUt4eHA3cng0bGNmM2lLVFhDWGg3UUxPU2dkOEo5djM4WEVjeEVzdjZvQW5QeHB3Q1NUY0wycHdocWw0ZXJVMmVteXd3b3N6emdvckN1Q3A3WmcyNmtrUUpGS0l6NzZtdFJ3YWxHTEFBRDNlYVMyeGh5S0JOOU9weTlTMGN3Y3dXbW1qcEQ0ZWI1MFB1TXEyd3Yyc1RjcGRPeVlxVlFDM2hlQ19RVmtyUm4tWWc?oc=5",
+      "published": "2026-04-06T15:07:43+00:00",
+      "source": {
+        "name": "RiffReporter",
+        "url": "https://www.riffreporter.de"
+      }
+    },
+    {
       "id": "7db811969ee5",
       "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
@@ -41,16 +51,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "69b301c81ffd",
-      "title": "Off-Label-Liste für Long Covid & ME/CFS: Das ist kein Erfolg - riffreporter.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHI4azJlcUt4eHA3cng0bGNmM2lLVFhDWGg3UUxPU2dkOEo5djM4WEVjeEVzdjZvQW5QeHB3Q1NUY0wycHdocWw0ZXJVMmVteXd3b3N6emdvckN1Q3A3WmcyNmtrUUpGS0l6NzZtdFJ3YWxHTEFBRDNlYVMyeGh5S0JOOU9weTlTMGN3Y3dXbW1qcEQ0ZWI1MFB1TXEyd3Yyc1RjcGRPeVlxVlFDM2hlQ19RVmtyUm4tWWc?oc=5",
-      "published": "2026-04-06T15:07:43+00:00",
-      "source": {
-        "name": "riffreporter.de",
-        "url": "https://www.riffreporter.de"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "704590060a5d",
-      "title": "Das ist neu ab April für Frauen in den Wechseljahren - FITBOOK",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdEZUa0NHRW5mR3FBdUZKQjBOS2FaVlkyU0VOeUVpSmplQWR4RzhhLUlzeTVsSEN5cWl1cmlpcHBEdEppY2E4RzhtZDJsNEZ0UXpRMUwxUWY5Zlo4Tm1JWWxrbjZ1cTE1?oc=5",
-      "published": "2026-04-02T12:09:00+00:00",
-      "source": {
-        "name": "FITBOOK",
-        "url": "https://www.fitbook.de"
-      }
-    },
-    {
       "id": "ad81c552d587",
       "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
@@ -321,6 +311,16 @@
       "source": {
         "name": "Medinside",
         "url": "https://www.medinside.ch"
+      }
+    },
+    {
+      "id": "704590060a5d",
+      "title": "Das ist neu ab April für Frauen in den Wechseljahren - FITBOOK",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdEZUa0NHRW5mR3FBdUZKQjBOS2FaVlkyU0VOeUVpSmplQWR4RzhhLUlzeTVsSEN5cWl1cmlpcHBEdEppY2E4RzhtZDJsNEZ0UXpRMUwxUWY5Zlo4Tm1JWWxrbjZ1cTE1?oc=5",
+      "published": "2026-04-02T12:09:00+00:00",
+      "source": {
+        "name": "FITBOOK",
+        "url": "https://www.fitbook.de"
       }
     },
     {
@@ -384,16 +384,6 @@
       }
     },
     {
-      "id": "8dffa81bff58",
-      "title": "Gesundheit: Statistik: Apotheken in Rheinland-Pfalz werden weniger - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjJRZGNXc0tXR3NDbHFkQTBJekp3cnI4dWEwWld4R0ZxWE9IZmF6UmRBQTFjZkk2TFVrYU01VzBuQlRYME9lQUdLalpfZ0lzb0RaSDFwOWRMODBWZTVmU0NjdlNHSXpVTkZEbC1obVVGcDRkVWYxQTIwc3lINzdYcDZnMUZ1OXdGa2F1ZHZTRWRPYVU?oc=5",
-      "published": "2026-04-05T02:30:06+00:00",
-      "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
-      }
-    },
-    {
       "id": "6b3456d0ea79",
       "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
@@ -401,6 +391,16 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "8dffa81bff58",
+      "title": "Gesundheit: Statistik: Apotheken in Rheinland-Pfalz werden weniger - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjJRZGNXc0tXR3NDbHFkQTBJekp3cnI4dWEwWld4R0ZxWE9IZmF6UmRBQTFjZkk2TFVrYU01VzBuQlRYME9lQUdLalpfZ0lzb0RaSDFwOWRMODBWZTVmU0NjdlNHSXpVTkZEbC1obVVGcDRkVWYxQTIwc3lINzdYcDZnMUZ1OXdGa2F1ZHZTRWRPYVU?oc=5",
+      "published": "2026-04-05T02:30:06+00:00",
+      "source": {
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "34a7717d9080",
-      "title": "Apotheker: Aufklärvideos gegen Holland-Versender - apotheke adhoc",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0JMLUVvMW9CRzg3Yi03REFNYUNYeWlhSEYzRUd6Tkg2MnhwOGtXVVFoVkZvWTR4SzhubldWZDBaVXY1b1EyQzdZdno1YkhoTkM4ZG05RVlUQWR6R3AtQmpEbXZtQWJnX29Zakd3OTdBOWRLUlB2RnJyN3Z4UXkwY2Iwa1E4WVpQUHN2UHB3dmVqNVI4M3NWUmo5eWlvWUFMZ3VkbDFqNG03cEtyVTkwSV9Cd0w?oc=5",
-      "published": "2026-04-01T11:45:00+00:00",
-      "source": {
-        "name": "apotheke adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "f0ec5752b922",
       "title": "Hendrik Streeck hinterfragt teure Medikamente für alte Menschen - Spiegel",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdklWd0VveEdNaGZxM3F3RmFVdXFOQi10dUZONzlqUjBCS1EyMERpajY5dm9UajBXQnNaaG1Kc2NYUl8tOHpBZFBTQjl4X2NUdXNmckMxdDllNEVmMnZkNVRvU2Y1d3R6WUswWVFLek9rWUhOb01pSjkwbFB1SVdWaTQyc25VWi1aUGxWUGpETWU1b0plSW5qQXNZNzNmbzRPUUg0dGRVOHpEQnI4SWpkZ2diak1XSWNmNFhzSXVUd1BDYktCSkxIVmt2ekpXdGJ3ZDdYRXdWa1FwNDVo?oc=5",
@@ -441,6 +431,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "34a7717d9080",
+      "title": "Apotheker: Aufklärvideos gegen Holland-Versender - apotheke adhoc",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0JMLUVvMW9CRzg3Yi03REFNYUNYeWlhSEYzRUd6Tkg2MnhwOGtXVVFoVkZvWTR4SzhubldWZDBaVXY1b1EyQzdZdno1YkhoTkM4ZG05RVlUQWR6R3AtQmpEbXZtQWJnX29Zakd3OTdBOWRLUlB2RnJyN3Z4UXkwY2Iwa1E4WVpQUHN2UHB3dmVqNVI4M3NWUmo5eWlvWUFMZ3VkbDFqNG03cEtyVTkwSV9Cd0w?oc=5",
+      "published": "2026-04-01T11:45:00+00:00",
+      "source": {
+        "name": "apotheke adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
