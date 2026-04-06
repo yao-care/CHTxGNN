@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T11:44:51.507016+00:00",
+  "fetched_at": "2026-04-06T13:02:16.299712+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "35bcdb302c71",
-      "title": "Long Covid: Erstattung von Medikamenten durch Krankenkassen möglich - Gesundheit - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlncDRlS21NN0xwd0RXUDRBbXlVUkNsRHhvQXktZElkQklXM3dzRlI0ZnU5X091cXY5cGtxclBaR2Y5TUxzZXgxYlVMODNhNDFFX05SS094Zml0dHIzRktJQ2lDcjFVVmg1dGxQdjFlUFlGSi1wUS1neXZYXzdKVTU3ME9zdTRLcHRSVVcwdVlUY2kyd05BQk8tZk1Mdw?oc=5",
-      "published": "2026-04-02T15:11:05+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
       "id": "c17d8a510040",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "35bcdb302c71",
+      "title": "Long Covid: Erstattung von Medikamenten durch Krankenkassen möglich - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlncDRlS21NN0xwd0RXUDRBbXlVUkNsRHhvQXktZElkQklXM3dzRlI0ZnU5X091cXY5cGtxclBaR2Y5TUxzZXgxYlVMODNhNDFFX05SS094Zml0dHIzRktJQ2lDcjFVVmg1dGxQdjFlUFlGSi1wUS1neXZYXzdKVTU3ME9zdTRLcHRSVVcwdVlUY2kyd05BQk8tZk1Mdw?oc=5",
+      "published": "2026-04-02T15:11:05+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -134,6 +134,16 @@
       }
     },
     {
+      "id": "8249b3004e0a",
+      "title": "Finanzkommission: FA warnt vor Salamitaktik - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcl9vdTRic2hxZGNSVEFqTE5VMWEwNjFncHNnVkxzR3RJdVY3eVplU2xaN1JMZXBZS0dIbEdfZGYyYVhTOGxpeGdYaHRHLXFQMkhLUm9TQ2pUaXVyRWZBbEFKQWtWbHpYV0NldXhyZmN1cXlMZy14a3NnS2JQMWZySlNWcFNoLVdtWXZTQzlyR1hnYVQ4SHNHVG55N0RRdFh6Qmc?oc=5",
+      "published": "2026-04-02T11:09:00+00:00",
+      "source": {
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
       "id": "93248ae046b8",
       "title": "Statement zu den aktuell vorgelegten Empfehlungen der FinanzKommission Gesundheit (FKG) - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ueDlFdWtlZkppSWY3a1RONDFFNjFQdjF6cktaZ2xQWWM2bEREelFkVUN3OXdyRm1EeDEwN1ItcGpBRlRRM1FIZkh4VWVRakhDVllCTlVtaw?oc=5",
@@ -141,16 +151,6 @@
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "8dcad46fd2e8",
-      "title": "Finanzkommission: FA warnt vor Salamitaktik - apotheke-adhoc.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcl9vdTRic2hxZGNSVEFqTE5VMWEwNjFncHNnVkxzR3RJdVY3eVplU2xaN1JMZXBZS0dIbEdfZGYyYVhTOGxpeGdYaHRHLXFQMkhLUm9TQ2pUaXVyRWZBbEFKQWtWbHpYV0NldXhyZmN1cXlMZy14a3NnS2JQMWZySlNWcFNoLVdtWXZTQzlyR1hnYVQ4SHNHVG55N0RRdFh6Qmc?oc=5",
-      "published": "2026-04-02T11:09:00+00:00",
-      "source": {
-        "name": "apotheke-adhoc.de",
-        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "a36ebde7ed0a",
-      "title": "Apotheker: Aufklärvideos gegen Holland-Versender - apotheke-adhoc.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0JMLUVvMW9CRzg3Yi03REFNYUNYeWlhSEYzRUd6Tkg2MnhwOGtXVVFoVkZvWTR4SzhubldWZDBaVXY1b1EyQzdZdno1YkhoTkM4ZG05RVlUQWR6R3AtQmpEbXZtQWJnX29Zakd3OTdBOWRLUlB2RnJyN3Z4UXkwY2Iwa1E4WVpQUHN2UHB3dmVqNVI4M3NWUmo5eWlvWUFMZ3VkbDFqNG03cEtyVTkwSV9Cd0w?oc=5",
-      "published": "2026-04-01T11:45:00+00:00",
-      "source": {
-        "name": "apotheke-adhoc.de",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "ff2abafdfc6a",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -264,12 +254,12 @@
       }
     },
     {
-      "id": "c58635383569",
-      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus.ch",
+      "id": "ffdcca654be5",
+      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
       "published": "2026-02-21T08:00:00+00:00",
       "source": {
-        "name": "zentralplus.ch",
+        "name": "zentralplus",
         "url": "https://www.zentralplus.ch"
       }
     },
@@ -304,6 +294,16 @@
       }
     },
     {
+      "id": "65f5c7c5e376",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
+      }
+    },
+    {
       "id": "7314c1d76222",
       "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Monitor Versorgungsforschung",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZy01dWVucjhyQ1RpaWpxTUF4YWlpcmNTU2NxWkdORVVfd2UtaXA0UkJvVTlKNEp6SE1aYUhPMmxhME5YYkVtbDJGSVcxQTUtWTg5TkM5VkR3TFktU1lXOGxTSlk0cWNUUmtjY1d1aFpndENHdk9aVk9HTi16VjFzbzBtYWhOb0FQdDNYMnNkV3pkX1Nwbk42V0Y2N2ZZX2FMOHdfV2Nna3gyNWlCblVmZFZCZ29pR0gxbzA0eUpINE5NcXc?oc=5",
@@ -311,16 +311,6 @@
       "source": {
         "name": "Monitor Versorgungsforschung",
         "url": "https://www.monitor-versorgungsforschung.de"
-      }
-    },
-    {
-      "id": "8e072ba0f1be",
-      "title": "BAG senkt Preise von 300 Medikamenten - medinside.ch",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "medinside.ch",
-        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -344,12 +334,12 @@
       }
     },
     {
-      "id": "699e7a47f8fa",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - medinside.ch",
+      "id": "ad81c552d587",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
       "published": "2025-11-12T08:00:00+00:00",
       "source": {
-        "name": "medinside.ch",
+        "name": "Medinside",
         "url": "https://www.medinside.ch"
       }
     },
@@ -484,12 +474,12 @@
       }
     },
     {
-      "id": "a0a873da795c",
-      "title": "So kommen Medikamente auf den Schweizer Markt - srf.ch",
+      "id": "6d0d3a256a05",
+      "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
       "published": "2025-08-19T07:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -624,12 +614,12 @@
       }
     },
     {
-      "id": "d72d1034c7b1",
-      "title": "Milliarden für die Gesundheit – Trotzdem fehlen Medikamente - srf.ch",
+      "id": "70ce891eda1c",
+      "title": "Milliarden für die Gesundheit – Trotzdem fehlen Medikamente - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNmVDbjdmWTY3Ynd4cGh2b2lubldYalNXY0JwNEZMb2hQc0FOUGR6RUVNYzNkLUFPRjFVa1NKMEZRUWdFTVBjSWtWS2ZrSVZ1anFUZ0ZYcFZZU2Y1YmlidU1MaWNZUGQ2cWdyNmRpWXd5cWxBVGVzYmk1WjA4U0htTjEyNjFOeHFqenJtbDNDWE5yRVg2MHNDT3JDM3lzaFJudXZUNjNsVDhndEFVNGdoS20yRkNkeEFsMmw3WXZ1OHh4RC1RTXBnUGpkWHZXaXVKODA5YTR6akhHNEZiVUZHTURrcnlncUhuTzRXYkNB?oc=5",
       "published": "2023-03-06T08:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -664,12 +654,12 @@
       }
     },
     {
-      "id": "01d1fab0f86c",
-      "title": "Geheimrabatte: Preismodelle im Interesse der Pharmaindustrie - publiceye.ch",
+      "id": "ef76a39d0ca8",
+      "title": "Geheimrabatte: Preismodelle im Interesse der Pharmaindustrie - Public Eye",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG42NVFTS2ZwRkdTMmhQUjVtaTVGUWhYVUtQd21GenVtdjFaaXJHZ1ZUbElDZnd4ekZHdndVUFpweVBMXzRuNVZqMzdqd1ozR1BlWE5KaklnaFFkMDQ3ZnAwNUwyTnY3VGxvc0JiUjZ4SmotODZJMW9OWEJwSDhOS0pSS2d4Z3RGRmtZNkpfaHNoN25lRWhBeDZxTG1odHdQTmdqNlVWRFhLMVFWQXNFNGFTSXJjQ2J4NEpxdmV4Z2tYSmVkcmc?oc=5",
       "published": "2024-02-13T02:40:45+00:00",
       "source": {
-        "name": "publiceye.ch",
+        "name": "Public Eye",
         "url": "https://www.publiceye.ch"
       }
     },
@@ -714,12 +704,12 @@
       }
     },
     {
-      "id": "c84ecb6c86cb",
-      "title": "600 Medikamente fehlen derzeit - BAG sagt Arznei-Engpässen den Kampf an - srf.ch",
+      "id": "bfc8ea67d58e",
+      "title": "600 Medikamente fehlen derzeit - BAG sagt Arznei-Engpässen den Kampf an - SRF",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTlOLVJSeERFN1FNYVFEZHFZdFVGdTBQVjVOdHJVY3BaR2g1bzRBRTFDUnV6SUFmVHVlSjY1OWVxV202dGRpYjNPQ0plMHZxaUxlSFRUV001MVd0R2lPUXVRTFp0eWRvRkctRUNwNjF6X2FDVjVXN1d6bkNMRTNzVkZLbDNoUWs4TFNhOFB4NVQya2wzN3RvVTlJMF92VE9TUGNkRA?oc=5",
       "published": "2019-11-07T08:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -804,16 +794,6 @@
       }
     },
     {
-      "id": "5772ec5cdac9",
-      "title": "GKV in der Krise : Warken erwägt höhere Zuzahlungen für Arzneimittel - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWlXOXMzZ2lzMTIwYlBfSUlPNFBUOEpGRkgzckx4QUQ4dVE2NVhRTzlZNTdPYm9halZadmVzQ0s3Z0VKUUNhUUFIOTFQQkhEQWttNGJ3SE9PQklubDU5WE8wZFQ1aFN2TnhEWUhBY3pzTU85dDRUWU1qVEF6dkxHN1NRYVl3M2tuTFdfUW5hQ1owSllpSjFYVHVTY1cwcHR5?oc=5",
-      "published": "2025-10-09T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "519d92a76a76",
       "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
@@ -834,13 +814,23 @@
       }
     },
     {
-      "id": "3827a5f59e88",
-      "title": "Studie zeigt: Pharma streicht 40-90% Gewinn bei teuren Krebsmedikamenten ein - publiceye.ch",
+      "id": "cf97696eb7eb",
+      "title": "Studie zeigt: Pharma streicht 40-90% Gewinn bei teuren Krebsmedikamenten ein - Public Eye",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHBiTTdvRnJIa3AyMDRrRWV2NEdBZERQZVNreXFEWVBYYjU2Nm5lSmF5M0RnRjV0aVk2TFdWRkJHZHNpR0ZHWUdXQm53eFpKQjlHbDc4NnYtX3dBZDdtemdTTFN3dVdtV2RHZ01ZeEJIdUV1X1hDU0dvVnltdkp4LS1Ic0NYY1BxTkNZM09KeWFFaVZWaU5pWkU0ZzhxUGo2SEI1d2VTYWVMUURLWk9zeFVoNjRXTk9FTHFCU3RjN0lGRk4yZ1NDSUJCX1BsMjMtaXRCWkJWWFRJcGM?oc=5",
       "published": "2024-02-12T19:48:34+00:00",
       "source": {
-        "name": "publiceye.ch",
+        "name": "Public Eye",
         "url": "https://www.publiceye.ch"
+      }
+    },
+    {
+      "id": "5772ec5cdac9",
+      "title": "GKV in der Krise : Warken erwägt höhere Zuzahlungen für Arzneimittel - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWlXOXMzZ2lzMTIwYlBfSUlPNFBUOEpGRkgzckx4QUQ4dVE2NVhRTzlZNTdPYm9halZadmVzQ0s3Z0VKUUNhUUFIOTFQQkhEQWttNGJ3SE9PQklubDU5WE8wZFQ1aFN2TnhEWUhBY3pzTU85dDRUWU1qVEF6dkxHN1NRYVl3M2tuTFdfUW5hQ1owSllpSjFYVHVTY1cwcHR5?oc=5",
+      "published": "2025-10-09T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -854,33 +844,23 @@
       }
     },
     {
-      "id": "772032898f04",
-      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - srf.ch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
-      "published": "2022-06-08T07:00:00+00:00",
-      "source": {
-        "name": "srf.ch",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "11b6af462079",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - srf.ch",
+      "id": "1cadbc6261c0",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
       "published": "2012-02-20T08:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "c1e895a366ee",
-      "title": "»Tageschau«-Bericht: Zwei Millionen gefälschte Arzneimittel pro Jahr - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd292Q191YU4tSkYwbERhdHVmRC10bkVuMVVxTVcxQThBN0dQRHhLbllKZkotMkpuZFlNc21BQ2plSGl0QXgzTE83MWJ1VnpVZjBfcW5OYkVwbkEyelJvWXo0MGs2Qlh4bG8wQWdyV0RZN0F4SnVSSDIza3RsRjl4TVdhejBDWUJvZy1LR1BDOXBlTTY2eVB2czVCdw?oc=5",
-      "published": "2025-09-22T07:00:00+00:00",
+      "id": "239e0211bd92",
+      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
+      "published": "2022-06-08T07:00:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -894,22 +874,32 @@
       }
     },
     {
-      "id": "6aea2da0f017",
-      "title": "Können Medikamente dem Baby im Bauch schaden? - srf.ch",
+      "id": "c1e895a366ee",
+      "title": "»Tageschau«-Bericht: Zwei Millionen gefälschte Arzneimittel pro Jahr - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd292Q191YU4tSkYwbERhdHVmRC10bkVuMVVxTVcxQThBN0dQRHhLbllKZkotMkpuZFlNc21BQ2plSGl0QXgzTE83MWJ1VnpVZjBfcW5OYkVwbkEyelJvWXo0MGs2Qlh4bG8wQWdyV0RZN0F4SnVSSDIza3RsRjl4TVdhejBDWUJvZy1LR1BDOXBlTTY2eVB2czVCdw?oc=5",
+      "published": "2025-09-22T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "243e91a76f9b",
+      "title": "Können Medikamente dem Baby im Bauch schaden? - SRF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xVZVdUREhSQUpvUFFVY3dqSVc1SlVzc3NSWlJ1aWFVYTlvdDJnNGl4SExfVzEtRVI0RHdUaGdrRXYzUFQwaEo2TU9nMVNxeWJJYzFCQ2V5Umd4c3ZuOHZ5T2ZzSlZaSlNHVk9NY3pHQlQ2eHlKOGtKc0VGS29zVU5CNmxISmVvVW9wWnYxbGUyazU2a3VXdUdwX2JvU25SNVVjbmhB?oc=5",
       "published": "2024-08-29T07:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "66a296155934",
-      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - srf.ch",
+      "id": "d2f466e2638f",
+      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
       "published": "2017-02-16T08:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -924,12 +914,12 @@
       }
     },
     {
-      "id": "6ffd263abe66",
-      "title": "Arzneimittelsicherheit - Neue Medikamente – Keine Wirkung ohne Nebenwirkung? - srf.ch",
+      "id": "0e1b6aad7db1",
+      "title": "Arzneimittelsicherheit - Neue Medikamente – Keine Wirkung ohne Nebenwirkung? - SRF",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFJqeWlTUFlaSGZGWi1rNXhuNlJ1Ujh5dXhRN1hQVU9BeE11VGlVa2ZBYUVEYmxfMXFjSDdHbDZqLXlPaGgwUmN1REtkSXFXcjNNa1BXaDZ2ZHgza3NWc1IyREd5Vlp4SkszdnpnXzdiaEZIVE5iZVJJYVZNeGFhbXRnV2RUYlR0YlRCMVZmckNCYVk5RnpkOEUwNUx4aUdTQ0RxN1ZyT1F5ZEN6?oc=5",
       "published": "2023-09-20T07:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -954,12 +944,12 @@
       }
     },
     {
-      "id": "5fb307ea2c5b",
-      "title": "Ecstasy als Therapie – keine US-Zulassung für MDMA - srf.ch",
+      "id": "ff3a7606cdbb",
+      "title": "Ecstasy als Therapie – keine US-Zulassung für MDMA - SRF",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUU2SG5CMXptQmpXVGNPVUtybnhVbVB6YVA2b2RWWEIyQTlrZ092Nk9PaFlXa2tlcFlkMWo5UlhXSHNLUVdySHlhU2VZMHljMzEtckk2MzBoVjZMbVhHMUFLUXZDLTV4QlcyUUF4aVp2ZzBzNGo4OUs2aHdwbk5LSFVLdU54akxvajhCY1EwUE42U1V4blRfUUFqWmRDemQyQmM2c1d3YlFXWDNBeGpN?oc=5",
       "published": "2024-08-22T07:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -984,12 +974,12 @@
       }
     },
     {
-      "id": "a46f0ed1aee6",
-      "title": "Trikafta: die teure Therapie für Cystische Fibrose - srf.ch",
+      "id": "0d0645957bab",
+      "title": "Trikafta: die teure Therapie für Cystische Fibrose - SRF",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlRmcXZQWDBsR1RKNzdRZmVqVUlySlFZb2tvbTBuQWlZMkVJWU9xOWoyam4wOGdOSkVpTHdNUkpIcjExSWRLVy1RY3cyYWpCY29lTjJQSVVJU0R2UlkxZDJCQ3JvQ0k3SDN6ZlBUS2FyYXg5ZGFyQnlBakUzVDZoSkxVZXpzMTJ2Q0tOeER1R2JWVUVXcVM2WjZpdGI0Q0RuaGZzbDlNWk5WZjZxVGx4amphT0lFeW8?oc=5",
       "published": "2024-12-21T08:00:00+00:00",
       "source": {
-        "name": "srf.ch",
+        "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "104bd1269487",
+      "title": "Gesundheitsreport: Bezahlbare Medikamente dank Generika von Spirig in Egerkingen - Solothurner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVUZYVWpPaGY1cTJ5Y3daU1hDN3RuSzEtazF0cVBVcnI0anhNS3RNNEg5djkzOE11WktOc0xaa2pOd1ItX0FKVGFFVUNFakYyUFQxU1VDYXYtUUJFRF9NU0Rzbi1NOXZLQU5wSjl0Vk9LZm5GQnJGbUZlN2VZNzh2cTdUeTEzTUFMX1hPelE0S3ZXRk14TFQ4ZDZSZ1g4TG9fT3ZVNjlvMEQtb3Q4V1ZRWGpUcjFmaERzUXItRkN1aEtaMk13SDFpQmlBaDZrZ1FJcE56LWFBdnJVWjBQa0h3ZUFmdXFTdmhIQi13RkxCTkVZakFtN29RSVlwOUhQSE04Tk9OVnJ3dUNMLWJUc3RxSjFTOW9MYlRFZkR5QUFuSUg?oc=5",
+      "published": "2025-06-26T07:00:00+00:00",
+      "source": {
+        "name": "Solothurner Zeitung",
+        "url": "https://www.solothurnerzeitung.ch"
       }
     }
   ]
