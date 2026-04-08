@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T13:13:50.645017+00:00",
+  "fetched_at": "2026-04-08T15:06:41.161961+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,6 +44,16 @@
       }
     },
     {
+      "id": "09d9150d3596",
+      "title": "Lieferengpässe: Darum sind einige Medikamente knapp / Was hinter den Engpässen ... - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GbVB2YjV3TTJ6MG5YTWl5Q2tCTUJvZU1VQkNSNVJUS0xzVTdVcFhLd29EdW9uUnlud0JrRmFfMkVLOXhzdmdQbldZYXgzaXJSNDNRejJiMA?oc=5",
+      "published": "2026-04-08T13:39:12+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
       "id": "c0cdb0d28ac4",
       "title": "PZ Briefing: Die Top-News vom 7.4.2026 - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xS2VxT0JIOE9sbVJsYU56ZXQ4dVljejVSaXBLdGpCRTNxcF9uckxKTHFmejBiekhyMDlvbko2VThUc1hnRDVOeldCNkJzeE9mRnd0c2VYR1RweVc4N3RaUmxSYnhiMXhGV21IUHU2ZjNObWs0QTRkLWlB?oc=5",
@@ -51,6 +61,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "0476f3dc4cbb",
+      "title": "Ersatzkassen: „Sparmaßnahmen nicht zerreden“ - apotheke-adhoc.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQejItMURDOUVCTkJUUmZmdWViSVlSaGZKQWlLYlNKRTRwZnVYLWNLQWRoenlGRTJNQ1NfNEtsM0ZHU0RLdFNfV0hFYkpMWG5MeHBpM3lidUVwVTNtZFZtcWlobTBPOUpMRWxCdUxhclJaMFhwcTRuSUJXQnZSLVNKR2RxUEdxZkp4R0NkNXdzVDZKdmZQeGE3bEYyb0tTR0Fkd1E?oc=5",
+      "published": "2026-04-08T13:18:00+00:00",
+      "source": {
+        "name": "apotheke-adhoc.de",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -71,16 +91,6 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "3e22029625b1",
-      "title": "Pflegebranche macht Druck auf Warken - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjFrT2FSMkRjX2c1aDExNFpxM3Z3bmpYWkhsMk91eHgxUmNTMjExcTNTaFJ2NVhkZ3ZJWjg0eFZlQzUtMjBySjFqMHk1d2pxYl9HQUxBV25Oa2o3bGtLT1VXR3d6cGRuZ3luQkdLcVREOW5WLUVqMnFEem5oeUNpUDhBTFRhbTVMeUliVC1zYVVJQjdQdXJfVDV3?oc=5",
-      "published": "2026-04-08T07:14:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -144,6 +154,16 @@
       }
     },
     {
+      "id": "de0df11ed1b0",
+      "title": "Pflegebranche macht Druck auf Warken - apotheke-adhoc.de",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjFrT2FSMkRjX2c1aDExNFpxM3Z3bmpYWkhsMk91eHgxUmNTMjExcTNTaFJ2NVhkZ3ZJWjg0eFZlQzUtMjBySjFqMHk1d2pxYl9HQUxBV25Oa2o3bGtLT1VXR3d6cGRuZ3luQkdLcVREOW5WLUVqMnFEem5oeUNpUDhBTFRhbTVMeUliVC1zYVVJQjdQdXJfVDV3?oc=5",
+      "published": "2026-04-08T07:14:00+00:00",
+      "source": {
+        "name": "apotheke-adhoc.de",
+        "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
       "id": "b2752839ad1b",
       "title": "Stabilisierte Versorgung mit Arzneimitteln - Blick",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFBkRFpqc2lIMmZvcjF1bnBjYURVNGxRSXl2TVpsdUpFVENkRV9OR2J1ZllJVDhlc1dJS0E0Z3g3RjNKQ1ZwanlqNUwwMzdXSXhsQUgtNDlFN25odE43UWRVN2xsVXNhNHNCNDVlRjF6UGNrNE9laUIzbG9rSUJNNFkwM1NYRTZPc1g5SllGYlpidmNRQkF0SC1KYVdSZVNUTVo5THMzZEpDU0VNeTR6VXAzZ1c3YnptNTBxU1Nn?oc=5",
@@ -151,26 +171,6 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
-      }
-    },
-    {
-      "id": "78edcfef107f",
-      "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
-      "published": "2026-02-24T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "d1bd7aeea2e0",
-      "title": "Illegale Arzneimittel-Sendungen kommen zunehmend aus der EU - Watson",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJMM1FlWnhuVWFUZHd0MHFYNnVHNFdrT2RVcnl2UlZOS1RsLWZqN1lEWUFrNDNxSlFxUHVIMXBZX2xNMEtpc2tia05TMFNiZThHTXQtYms2LU02czhGQTRETGNDc1VHNzNxUzhmbllqcDRTd1h3ZHZOOGoxeFBPaUZJcVRJU085bXFJRlpWSWdGVTEyZmRaYk9FX3hoUGlIOUF4LQ?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -204,12 +204,32 @@
       }
     },
     {
-      "id": "42e8cdb71cb8",
-      "title": "Schluss mit Hitzewallungen: Inzwischen wurde ein zweites hormonfreies Medikament zugelassen - BRIGITTE.de",
+      "id": "78edcfef107f",
+      "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
+      "published": "2026-02-24T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "d1bd7aeea2e0",
+      "title": "Illegale Arzneimittel-Sendungen kommen zunehmend aus der EU - Watson",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJMM1FlWnhuVWFUZHd0MHFYNnVHNFdrT2RVcnl2UlZOS1RsLWZqN1lEWUFrNDNxSlFxUHVIMXBZX2xNMEtpc2tia05TMFNiZThHTXQtYms2LU02czhGQTRETGNDc1VHNzNxUzhmbllqcDRTd1h3ZHZOOGoxeFBPaUZJcVRJU085bXFJRlpWSWdGVTEyZmRaYk9FX3hoUGlIOUF4LQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "8cae2e856826",
+      "title": "Schluss mit Hitzewallungen: Inzwischen wurde ein zweites hormonfreies Medikament zugelassen - brigitte.de",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjc0N3FCWmItaFdUVlY2ME5kYmQzYm1vd2dlS1JOWUdBNDRVSExYN3BkMWptVmhpSzkzSlVaMkFPY091dDhUV29kS1V6Si02S00wTS05SnNkMjZUMWthVTVpWlY1eGV2SzFRMUlXR1dVbXc0RUE3SkpEQUNKSEQzcU1PT05JVldFdVJvcnh6amZuV3ZyUExSTTJlQlZTSTBoSHlUZ0piOFZvUW5zRzh5T2lxY3ZyWHI3SlNGbDI0UjdjWDdNaVM5aHVoOFgyTnlC?oc=5",
       "published": "2026-04-07T08:55:00+00:00",
       "source": {
-        "name": "BRIGITTE.de",
+        "name": "brigitte.de",
         "url": "https://www.brigitte.de"
       }
     },
@@ -224,12 +244,12 @@
       }
     },
     {
-      "id": "e5d5b9c322ac",
-      "title": "Warken im Gesundheitsausschuss - Apotheke Adhoc",
+      "id": "18c912d24c93",
+      "title": "Warken im Gesundheitsausschuss - apotheke-adhoc.de",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTdpcFFVcTZZbEFfRG0tUXpFUVFiak1USl93S1MwLXM0dzh2S3h1Nk9vUnJOLVdLdVJvU1M1MHMzaFFvY0pZdjlROU1jYnp5ZE02NTJuODBZcDhpT1l0VXBud2FNa2dJME5Dd0tFMDZFamdZeFRuY1VibXcyYmNqN0NSZDJ6RDVpV21XdU15RG84QQ?oc=5",
       "published": "2026-04-07T06:10:00+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
+        "name": "apotheke-adhoc.de",
         "url": "https://www.apotheke-adhoc.de"
       }
     },
@@ -294,12 +314,12 @@
       }
     },
     {
-      "id": "552a0bc65fce",
-      "title": "Schlafmangel durch Zeitumstellung: So reagiert der Körper auf die verlorene Stunde - Apotheken Umschau",
+      "id": "113cc74102fa",
+      "title": "Schlafmangel durch Zeitumstellung: So reagiert der Körper auf die verlorene Stunde - apotheken-umschau.de",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3p1MlFVZWFKZzdnVGhIaXVYTlVpUUFDa3pVQmZkWXpSWGI3TFo5UGZTZHRxekZzR2wwMlRHOUVuYk9kTW0yWFRuQmF1TksxSUV2Ny0za1kwUmpiMlVDSVBlbUt0c3U3WVhBVGU3TlkycWo0c2s1ZV9OZm1jaHFlREVBTENyaGd3Y3BGUzBpRWNXbmZCTE1EWjliWVd5dk56aklUZmNWOEVPQUxCV1hTcWJwdzYtMUtoaFNsekJRLUFTQQ?oc=5",
       "published": "2026-03-27T07:00:00+00:00",
       "source": {
-        "name": "Apotheken Umschau",
+        "name": "apotheken-umschau.de",
         "url": "https://www.apotheken-umschau.de"
       }
     },
@@ -834,16 +854,6 @@
       }
     },
     {
-      "id": "0e1b6aad7db1",
-      "title": "Arzneimittelsicherheit - Neue Medikamente – Keine Wirkung ohne Nebenwirkung? - SRF",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFJqeWlTUFlaSGZGWi1rNXhuNlJ1Ujh5dXhRN1hQVU9BeE11VGlVa2ZBYUVEYmxfMXFjSDdHbDZqLXlPaGgwUmN1REtkSXFXcjNNa1BXaDZ2ZHgza3NWc1IyREd5Vlp4SkszdnpnXzdiaEZIVE5iZVJJYVZNeGFhbXRnV2RUYlR0YlRCMVZmckNCYVk5RnpkOEUwNUx4aUdTQ0RxN1ZyT1F5ZEN6?oc=5",
-      "published": "2023-09-20T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "47bd2cbba260",
       "title": "Arzneimittelmarkt in Deutschland: Analyse der Arzneimittelausgaben - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlhtenAxN1hGNE9LX3hMemlaSDRGcy1XN2xpVEt3cTlhcDl2akpxZWo4bjY1N0RNVGRlRG5pSnBFUVA0V1l4WWc3QmxNc2ExRVIxU3RZQldOcVZpbVJEak9tZFFQNFJQUUdJcmluYzY2YzV3M01qdjkxY3pvTVBGUWstMHJJVGtjR0JQcWhiTDNjejA?oc=5",
@@ -851,6 +861,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "0e1b6aad7db1",
+      "title": "Arzneimittelsicherheit - Neue Medikamente – Keine Wirkung ohne Nebenwirkung? - SRF",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFJqeWlTUFlaSGZGWi1rNXhuNlJ1Ujh5dXhRN1hQVU9BeE11VGlVa2ZBYUVEYmxfMXFjSDdHbDZqLXlPaGgwUmN1REtkSXFXcjNNa1BXaDZ2ZHgza3NWc1IyREd5Vlp4SkszdnpnXzdiaEZIVE5iZVJJYVZNeGFhbXRnV2RUYlR0YlRCMVZmckNCYVk5RnpkOEUwNUx4aUdTQ0RxN1ZyT1F5ZEN6?oc=5",
+      "published": "2023-09-20T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Bristol Myers Squibb",
         "url": "https://www.bms.com"
-      }
-    },
-    {
-      "id": "102182b09734",
-      "title": "Apotheker verkaufte illegale Potenzmittel für 190'000 Franken - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX00xMUF5Wk5QclBSOVpzQ2U1WGp2Vm5qZUk2dnNWT2VXQlV2NklVSG5XYS1hc3c0YnljR1pJX2dDM2Y3blJZUTVGSWpqM0RNQ2h3Z2UwdDJiTzBpci0zeE4xZDBtT0kwdGJ6Y1IxSDRNMEhkcUI5RnpHRkFSNS1OS1k4T08yWWhmTjhmZVRNTGZUSkYxbEFxbkxEaWRYVFpCTVpFMTdUbXd0MlFLbWtmZTdGZw?oc=5",
-      "published": "2025-03-03T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "06fea86a580f",
-      "title": "Geheimrabatte und zögernde Politik: Warum wir viel zu viel für Medikamente zahlen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWRhbTRpa1ljYnhMXzdWUXhyd2NWQ1prWmNIWGhBanBmRW5QclFnWFBOOE1mZkNjRGxFMkZuVlB4UjNKdGVJQnRyQWtaUHNVU1FpV2g3dTRWeXFVeGQxcTU5RFZFTUlCZVJlWExudzhmQmgtbjd4czNYMmZrOVZQR1piYnczM2YzRjhGMFRiSk5Bb1d2aF9UcEYzbk9kbXM3WklBVllVVnB2OGhrOGhZTFVUWkhPR2xZRmdQejJfU0tlUQ?oc=5",
-      "published": "2021-12-06T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
