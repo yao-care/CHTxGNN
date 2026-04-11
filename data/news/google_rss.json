@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-04-11T15:30:07.021921+00:00",
+  "fetched_at": "2026-04-11T16:32:05.258708+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "5c4948bd5d25",
-      "title": "Iran-Krieg: Warum jetzt bei uns Medikamente knapp werden könnten - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXNXeWVtd190cmpzYVAzcExxY1RXaEE4WnlrMGdBdElnUzdPSEdCUHFNdWJ3SU5yY1I3ZjV2TThhU0xYNThZa1Z2X2Q2MDliZ19hZlhVSnlTNG1kMV9GQlBhTkZ1M3RGOEctMWZDZFRHNnhTbzk3OGdVYmFDVTl6TlBfd3VvNVB0ZzhuWnJGazc1RVBRRjBySU9CdFlaeFhXRzNHQVA3VWN2Y2RuUV9qZ09kY2lwbmZOTEdHdQ?oc=5",
-      "published": "2026-04-11T09:56:58+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
     {
       "id": "3d31cce4a3ab",
       "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
@@ -21,6 +11,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "e918614d850f",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T20:51:03+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -71,6 +71,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "194daa1e87cc",
+      "title": "Iran-Krieg: Helium ist wichtig für Pharma und Medizin – doch das Gas wird knapp - WAZ | Westdeutsche Allgemeine Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXJVNFdqOFZQNUFRS2JYSXJybk81NURTNHBPOG9nUUFCcWF2QXJGMWE5STM4T1VvT3ZuZ0VWZjBtWDJwZnFMUUpsdkR0Q3R2eEtVVENjUTlHaDJLU1IyRnRKQmZzWjl4NnloeHdiYksyc3F3Z0FEd1l6aURPX3pvczJSU3AweDBkYXlEZ3pNS0xGTmkyYjVCWHBZaklRRTdxYnY3VWNXYTZKa1B2UGsxc3Vaaw?oc=5",
+      "published": "2026-04-11T09:56:58+00:00",
+      "source": {
+        "name": "WAZ | Westdeutsche Allgemeine Zeitung",
+        "url": "https://www.waz.de"
       }
     },
     {
@@ -184,16 +194,6 @@
       }
     },
     {
-      "id": "78edcfef107f",
-      "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
-      "published": "2026-02-24T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "c0cdb0d28ac4",
       "title": "PZ Briefing: Die Top-News vom 7.4.2026 - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xS2VxT0JIOE9sbVJsYU56ZXQ4dVljejVSaXBLdGpCRTNxcF9uckxKTHFmejBiekhyMDlvbko2VThUc1hnRDVOeldCNkJzeE9mRnd0c2VYR1RweVc4N3RaUmxSYnhiMXhGV21IUHU2ZjNObWs0QTRkLWlB?oc=5",
@@ -201,6 +201,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "78edcfef107f",
+      "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
+      "published": "2026-02-24T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -494,13 +504,13 @@
       }
     },
     {
-      "id": "0447c2c7ef81",
-      "title": "Vorhofflimmern: Schlaganfall durch Medikamente oder Kathetereingriff verhindern - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0NpRnFwS3BNMWRQWkNzb01OM1MwejQyMXNnLUJ0RFlMLURkcjhLeVhUcjdkMUhuUWxqdmQ5Tm8wbm9INGdldWc2NDhJeXBodENEUWF3SWhEZ3ptTEVHOFFUd3ZfNHUyczdCYXBBWk9lVVV4Qm5CSlVMVUtqLWo5T1dKUS1aUERlM3NzbnRBSThiZFF2OFhteVJrZF9TbHp1YjJUQnZNV2d1TFMxY2NndGY1MmVnODRfSFFPSDVRUQ?oc=5",
-      "published": "2025-10-17T07:00:00+00:00",
+      "id": "bde703695889",
+      "title": "Teure Medikamente für 100-Jährige? Streecks Aussagen zu sehr alten Menschen stoßen auf Zuspruch und scharfe Kritik - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclVaUzUxWl9ZNUVvOVZHTXhQdEtRQ205NGJtNU9TQTZTQWUxMVJPNzFsMHFZbXVIa2NfQ1JRSjJicV9YSGQ1dFVXcWFJa2ZZR1o5ZmNwcjA3TmxjRFRhb3ptX25MZzEwdWszclJpNThyUHc5VDFSX2NiTk8tc0tBOUJWcFV5RHhvMGYwa1FlbldHYVVpbHl3cUZ1N0ZseU1rSjFlb2N6WjJoeFQ4QXNhLU9oeTBYTkpDMzZ3NmFyQko1M2dKRzJtbWlfMVJyN2VaemdDMTQ1a19UcTlFOGI3NHRXeXo5STZ2Mi1vREpIWDg3VGlYbXl3?oc=5",
+      "published": "2025-11-13T08:00:00+00:00",
       "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
       }
     },
     {
@@ -724,16 +734,6 @@
       }
     },
     {
-      "id": "ba9e63ac5273",
-      "title": "Anteil der Medikamente an Gesundheitskosten ist tiefer als angenommen - interpharma.ch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUxZTXN4UzNfWnpYR2pEajBvcDc3Mk5XOVZmcXF1bnZmQzVWdDlGcjdTNGdxZ1ZybTJBWnNvTWY5VndfMTdYTG5OM3NPdlctTmY2bm5hdzJ1UWwtVHFCM2hUbEZ6em9ndG5GenRJS2RvQl9hZERvMFNFQkx6MDZobHVpNWVMTlR2UktldVB5dnlTWUU5cGxkZXFFcF9fMzA?oc=5",
-      "published": "2023-05-24T07:00:00+00:00",
-      "source": {
-        "name": "interpharma.ch",
-        "url": "https://interpharma.ch"
-      }
-    },
-    {
       "id": "1b8b596140fe",
       "title": "Usbekistan will Bezahlbarkeit von Medikamenten auf der Ebene der primären Gesundheitsversorgung verbessern - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHcxc3ZFWkhLcWVKS3RfWW5xSUZBUFVCQkdxb1pGZGlqai1UWjE1S2s3cG5KMEJCdjFPQ0hQZnc4X0o4bVVSTHhKZURfeWRXb01vNkkzUG5CcGQ0YlZXZjZSQXBfdHVBc0l1S0MzdHBBejJUMVJTQURsS0ZQdG9HVkczVFZXdjNKZWgzZmhGdnpVdl9oZHUzRjRYOXRWLUFWTC1ZR2tBVy04NWtrM2lpYVlKNEw1eUl4TWpqT0JGZUxpdnBRbmJIUk5peENtS1VJRG1sdzR6bw?oc=5",
@@ -741,6 +741,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "ba9e63ac5273",
+      "title": "Anteil der Medikamente an Gesundheitskosten ist tiefer als angenommen - interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUxZTXN4UzNfWnpYR2pEajBvcDc3Mk5XOVZmcXF1bnZmQzVWdDlGcjdTNGdxZ1ZybTJBWnNvTWY5VndfMTdYTG5OM3NPdlctTmY2bm5hdzJ1UWwtVHFCM2hUbEZ6em9ndG5GenRJS2RvQl9hZERvMFNFQkx6MDZobHVpNWVMTlR2UktldVB5dnlTWUU5cGxkZXFFcF9fMzA?oc=5",
+      "published": "2023-05-24T07:00:00+00:00",
+      "source": {
+        "name": "interpharma.ch",
+        "url": "https://interpharma.ch"
       }
     },
     {
@@ -884,16 +894,6 @@
       }
     },
     {
-      "id": "1cadbc6261c0",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "239e0211bd92",
       "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
@@ -904,10 +904,10 @@
       }
     },
     {
-      "id": "d2f466e2638f",
-      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
-      "published": "2017-02-16T08:00:00+00:00",
+      "id": "1cadbc6261c0",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
@@ -934,6 +934,16 @@
       }
     },
     {
+      "id": "d2f466e2638f",
+      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
+      "published": "2017-02-16T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
       "id": "eabdf461cf2c",
       "title": "Krankheiten in Entwicklungsländern: Von AIDS bis Malaria - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajlZV3pZZ21RVEpqY3NRbmEzdnVfOVNfS2ppem8yaGN5dHRyTG4xZzhHZ3JHdXhNREZQM2g4V0xEbE5XWXRKMWl4aERONXh5YVd4R1BuVkg3VlVFQzJqcEhWakVwd1pnN3BCNW5GX2ZxVUtIRWJyU3BDYTlaMkpVYjRwZTZJS1RmTTZvZ1FaZ2FiU2hkZ29TczJwdUtpOVA2X0oydkRRamhadmhxN00yT0ZHZVdxS1ZiT09lMGEzS3RFUjdnV0VfT0JtampJaUYyMk44WUEtaGp3SmNsM3pFdGRtWFBnQTZZR29uRHc0a2NXUkhG?oc=5",
@@ -951,6 +961,16 @@
       "source": {
         "name": "quarks.de",
         "url": "https://www.quarks.de"
+      }
+    },
+    {
+      "id": "a9af8ae96aae",
+      "title": "US-EU Handelsabkommen getrübt: Trump kündigt neue Arzneimittelzölle an - Euractiv DE",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1gtaENlRHd3bGNiWTY0V0x3d0NrQnhsN3BuanJRRzdfWldWRXJfTGdheXBJcHNpOHljMTB3bkV1WHAyNGtNdzJiZ0dreVE0eGJrcFBnVVpWWUtJQ2d6SnRMUUh0U3R3S3VWTFRUeG9YbFNaZm5rczNmRWtxa2dnMEFTOHc5d1FMTkNpYWtVdW9JUGdZVTlpc2pjS0lLOTQ?oc=5",
+      "published": "2025-09-26T07:00:00+00:00",
+      "source": {
+        "name": "Euractiv DE",
+        "url": "https://euractiv.de"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "83cb09a344cf",
-      "title": "Gesundheit: Medikament gegen Wochenbettdepression in der EU zugelassen - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1JvWkdfMEJ3Ui1xbTFSaXhwb1NaTWk4YXg5OGM1cUxqNUl1eGpJUWljNk5TRTJhSWhHUWhoZ3RVMy1jNkhZNUR6NnBjVWozRWJYcG1BQnFodFRDYi1Ibm1UYkx5VFpXTEExSmJDRG1UVGc4R1FwaTFxemVpYkhNVHZ4N280cU1xS0tMRjV1MDNON2pvNlBKd1JBU3ZHYUFvNzc0MEg5eGpjTzRFRGVrWnlIT3pJOTZ5R2c?oc=5",
-      "published": "2025-09-17T07:00:00+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
-      }
-    },
-    {
-      "id": "3dc045826aaf",
-      "title": "Muss ich abgelaufene Medikamente wegwerfen? - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFhHRmNfVktfNnliVEdNcmR0ZzBYWmNTMWd3X1hrYXlJdWRxZzZ3dGRVQ3JDR2VoaHNCcDQ3NHllMy1oNmxFMzBaeEJ0SGYtNXZhUzA0ZGZxemRENVJXcG5leFdGTS02d2tiTk1jb1ZVSE5kV3N2NzlpdGlKR0k5OU5WOV9BM2dOMHJBMXVHbUFtNGRxT0ZpcTlB?oc=5",
-      "published": "2023-11-17T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
