@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T16:34:29.360792+00:00",
+  "fetched_at": "2026-04-12T17:31:15.098734+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "4ab020d2a1ad",
-      "title": "Vorline = Vor-Ort-Apotheke online - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1Y1eXdfVzlCLVl4YmVudDhOc3R2eDdReGl4bTU5RmNSWHNRYmI2ZHd0SFhRREVlOFllLThFaVhCMUU5akRpcUZvMlJkWEk0bkRCcjdaOEZfYXpzOU01cURDMVJva0traDhQQmpSSnBFTlJIWlNYdnpVMUFXY2xBTkQya1NxdGVycGMyaDVzbzFVLUVG?oc=5",
-      "published": "2026-04-12T06:14:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "c17d8a510040",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -131,6 +121,16 @@
       "source": {
         "name": "Medinside",
         "url": "https://www.medinside.ch"
+      }
+    },
+    {
+      "id": "4ab020d2a1ad",
+      "title": "Vorline = Vor-Ort-Apotheke online - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1Y1eXdfVzlCLVl4YmVudDhOc3R2eDdReGl4bTU5RmNSWHNRYmI2ZHd0SFhRREVlOFllLThFaVhCMUU5akRpcUZvMlJkWEk0bkRCcjdaOEZfYXpzOU01cURDMVJva0traDhQQmpSSnBFTlJIWlNYdnpVMUFXY2xBTkQya1NxdGVycGMyaDVzbzFVLUVG?oc=5",
+      "published": "2026-04-12T06:14:00+00:00",
+      "source": {
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -231,16 +231,6 @@
       "source": {
         "name": "Aargauer Zeitung",
         "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
-      "id": "49d720b3aae8",
-      "title": "PZ Briefing: Die Top-News der Woche - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wMkxRVUo3OWFKbEMzcl9lMS1MQ1FHbWRHNV96M1JxSWFOZ2poWldTcTJVSHl0OFRkNXV1SFNoUGtCQUVFVENtbXUxczFsYmlYR0lSbzlyaGZZWjI0OGpCOHlUREdPUFJfQ1lrVmM0djJRbVNiOW9pVA?oc=5",
-      "published": "2026-04-11T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -744,16 +734,6 @@
       }
     },
     {
-      "id": "57fc6c026dba",
-      "title": "Notdienst heute in Erlangen: Kontakte für Apotheken-Notdienst und Bereitschaftsärzte am Wochenende - News.de",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdlc4VTB5QTduMWJJYUduMktnczJTa1NTTnlJdl9hQWtPNXJNMVB2Z0ZNNGo0NlM4Mmp1SlcybUlfdGhacVNZS3BkTGZXM2tOZE12Um1FNW54ZVJmaXptQ29lMnYxTWY3WTlOX2xMM2lrZDF3TG83RVZsTWwycmNtNWlQRkh5OVZjM2NBZ0ZXV3lVNFVjblBDNzlDdmVkT3NkalpxdFFxWmZ2ZnRIUk12a2N0SklyV0s5V0UzaExubDBiNTdsZ1hWdlJVQ2toYnBVZ2haZnN3a2EtaHB1QmNOeVpRRjNYeGJKTUZ5LXlFNXlCT3FSdXk3dFdMaERrUE9mQlZtRkxkLXVtbE9UUmRKODVUbV9YelVLR0HSAZ8CQVVfeXFMTkpDUDMxZTZFSllVNTE3dWROaDl1QnpmMjFuaGdkUmRTeGR4d1BhR0MxQ3loSll4VjVBSkFBeFMwRDRwXzhTNlZGQndvZy1HMTBCREp5OHd5YUFQM0dnOXhGb002VnpnenJvMXh1SEczTFJjVUNKMWdoaHdjRkJqR3lDNEdoTUU0anVvLTBfZ1J1Qmtjcl9GRXJfeTBZVkduTno2aHhkeF9acEIxMk5GaWx5TWY0ZmEwbDZiQ0c2MktXSzBBUm82UFdyZjR6RTFEc0tDMDJ5Mk9xcmdLejA1RmRUV3B0dEVuWFRuLWNkZ2Fxc3RzcnlONFpKRjVFbmpNZE1mYjg0QUNEVDYzRE8wSzF2Y1dEaDVmNjV0bUJXeXM?oc=5",
-      "published": "2026-04-12T04:12:47+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
       "id": "026a9300b51c",
       "title": "Geheimrabatte: Preismodelle im Interesse der Pharmaindustrie - PublicEye",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG42NVFTS2ZwRkdTMmhQUjVtaTVGUWhYVUtQd21GenVtdjFaaXJHZ1ZUbElDZnd4ekZHdndVUFpweVBMXzRuNVZqMzdqd1ozR1BlWE5KaklnaFFkMDQ3ZnAwNUwyTnY3VGxvc0JiUjZ4SmotODZJMW9OWEJwSDhOS0pSS2d4Z3RGRmtZNkpfaHNoN25lRWhBeDZxTG1odHdQTmdqNlVWRFhLMVFWQXNFNGFTSXJjQ2J4NEpxdmV4Z2tYSmVkcmc?oc=5",
@@ -781,6 +761,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://interpharma.ch"
+      }
+    },
+    {
+      "id": "57fc6c026dba",
+      "title": "Notdienst heute in Erlangen: Kontakte für Apotheken-Notdienst und Bereitschaftsärzte am Wochenende - News.de",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdlc4VTB5QTduMWJJYUduMktnczJTa1NTTnlJdl9hQWtPNXJNMVB2Z0ZNNGo0NlM4Mmp1SlcybUlfdGhacVNZS3BkTGZXM2tOZE12Um1FNW54ZVJmaXptQ29lMnYxTWY3WTlOX2xMM2lrZDF3TG83RVZsTWwycmNtNWlQRkh5OVZjM2NBZ0ZXV3lVNFVjblBDNzlDdmVkT3NkalpxdFFxWmZ2ZnRIUk12a2N0SklyV0s5V0UzaExubDBiNTdsZ1hWdlJVQ2toYnBVZ2haZnN3a2EtaHB1QmNOeVpRRjNYeGJKTUZ5LXlFNXlCT3FSdXk3dFdMaERrUE9mQlZtRkxkLXVtbE9UUmRKODVUbV9YelVLR0HSAZ8CQVVfeXFMTkpDUDMxZTZFSllVNTE3dWROaDl1QnpmMjFuaGdkUmRTeGR4d1BhR0MxQ3loSll4VjVBSkFBeFMwRDRwXzhTNlZGQndvZy1HMTBCREp5OHd5YUFQM0dnOXhGb002VnpnenJvMXh1SEczTFJjVUNKMWdoaHdjRkJqR3lDNEdoTUU0anVvLTBfZ1J1Qmtjcl9GRXJfeTBZVkduTno2aHhkeF9acEIxMk5GaWx5TWY0ZmEwbDZiQ0c2MktXSzBBUm82UFdyZjR6RTFEc0tDMDJ5Mk9xcmdLejA1RmRUV3B0dEVuWFRuLWNkZ2Fxc3RzcnlONFpKRjVFbmpNZE1mYjg0QUNEVDYzRE8wSzF2Y1dEaDVmNjV0bUJXeXM?oc=5",
+      "published": "2026-04-12T04:12:47+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Bristol Myers Squibb",
         "url": "https://www.bms.com"
+      }
+    },
+    {
+      "id": "aa395c1d2b95",
+      "title": "Medikamente im Ausland kaufen: Wann es sich wirklich lohnt - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmpUaE9DNzhzU3VuaHFVR0hHWTdKcHpWMTc3Ti05UWl0SF9nRGdUV1B2S3QtRWdieG5DX1UxVUZ3dWhUNktHVnFTcVdHUFdsMUxQaHhwNE4tX3BjRlkyVlJsdGJqS3MxMlZ6azZ3YkFTbjM1OHh4RFRvSnRUVkpVVWNRSzMxMTRRR3JkZ29nZWh6WlJhUmVmV0ZNdXdIMjQ?oc=5",
+      "published": "2025-03-19T07:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     }
   ]
