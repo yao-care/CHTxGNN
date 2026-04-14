@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T18:01:52.135338+00:00",
+  "fetched_at": "2026-04-14T20:03:07.688650+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -7,7 +7,7 @@
       "id": "1403ba1442fa",
       "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
-      "published": "2026-04-14T17:35:18+00:00",
+      "published": "2026-04-14T15:15:49+00:00",
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "d185eeb19a8a",
-      "title": "Neue Daten zu verschreibungsfreien Arzneimitteln: Gesamtumsatz wächst, insbesondere bei Vitaminen und Mineralstoffen - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2p2NVB3SVJCTGdXSUNCY3o0V3BVS2FydTVucTRIdkt4dmkyX0FnbEtPeFlCaTVyNzUzU2hMdDVKY0hlZTFxMkZxMFFsejU3UlFYV0dpNWEtVVNSNzNWVGF4SkZsQXRKZ2N4VnZoUENkeFZ6dEZIVHl3M21Ec29lT1Jzalg3RUdacEJONmpNYS1JYU1OaDRMMUlnOVd4Y1FfS3AyOGdPSGxSX1ZEUmJVWXhQRG9zQ2lHMUs3aVNwdl84S1l4d1NJc3FvWnQtakIyamNOYjdRcTh5ZXlBWnJNVzZ3?oc=5",
-      "published": "2026-04-14T10:19:57+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "8a15dacfb9d8",
       "title": "Irland: 750.000 illegale Arzneimittel beschlagnahmt - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlNqXzdUS29JQnlTNDhDSl9qTXJWQ1k3MzJ4b0pFSUJTVHg2LVc2MjFXR1hCNVl2M0xOd3BoanZTUmJUbDQ2WElGSnNSVGk2Q3VFTWNtVVVzZ0Z6em4zVy0zNUk1QS01bkJlTGhNY1Z3bi0wczBSVk1WRjBqVl9YbkxMWnJVeUNvUzM4WHl6S2NlVDA?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "d185eeb19a8a",
+      "title": "Neue Daten zu verschreibungsfreien Arzneimitteln: Gesamtumsatz wächst, insbesondere bei Vitaminen und Mineralstoffen - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2p2NVB3SVJCTGdXSUNCY3o0V3BVS2FydTVucTRIdkt4dmkyX0FnbEtPeFlCaTVyNzUzU2hMdDVKY0hlZTFxMkZxMFFsejU3UlFYV0dpNWEtVVNSNzNWVGF4SkZsQXRKZ2N4VnZoUENkeFZ6dEZIVHl3M21Ec29lT1Jzalg3RUdacEJONmpNYS1JYU1OaDRMMUlnOVd4Y1FfS3AyOGdPSGxSX1ZEUmJVWXhQRG9zQ2lHMUs3aVNwdl84S1l4d1NJc3FvWnQtakIyamNOYjdRcTh5ZXlBWnJNVzZ3?oc=5",
+      "published": "2026-04-14T10:19:57+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "d410b06dc463",
-      "title": "Gürpinar: Höhere Zuzahlung geht an Lebensrealität vorbei - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTdUVGdEd2Y1VGhrLUREVzRrQTkycnYyemozM1Brc0llRzl2NlhXUllUdWphb3lidjlCanU0a0ZLMnMxZUExR1ZxT3FvTHUycm9sNTNMcWduT0MzcHgwZURENU5jVHV2QXR6T2VCSGdCWkxVaUhlVW9QdXlQWk9BN0Rqdi1NbExsb0tiOVRoM24xT0sxRGhCTFRETWVLOFd2SHhoZlg0N0JTcDg3N0JzT0dMTDRTSDQ?oc=5",
-      "published": "2026-04-14T16:16:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "8c7e2edad0f6",
       "title": "Polypharmazie: Was Sie beachten sollten, wenn Sie täglich viele Medikamente einnehmen - ZDFheute",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmNURjJpcFYzQlZoek5jY1lkLUpjeUtlSDVHVlB3QWxTS0ZET1ljNEVBZG9VMDNTNGNFdDlmTkt1bEtiSHJQMHJwTlRVaGswbmo2VTB5dVJrY0lMNjFGVVdXNURLVmNJTll2YTdJSW90MW5IRzBMVFpoRWx1b0I4ekt3UF9MSjJXWHRzV2dVQ0hBOHZmZUtRNUd2Y04wV2ZUejc0NHZ3OUZLTXBoTjVKdzdsS1V2aTdhTU5HVnotak9QQQ?oc=5",
@@ -121,16 +111,6 @@
       "source": {
         "name": "ZDFheute",
         "url": "https://www.zdfheute.de"
-      }
-    },
-    {
-      "id": "9e778df21718",
-      "title": "Blockierte Straße von Hormus: Werden in Berlin jetzt die Medikamente knapp? - Berliner Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNG9waUlCZTREUHlRa3lmWFJhZVd2SkptZEV3RnAyMXpUWmNDanBjbWJ4X3F0WW1relRPRV90N2YzQzRnRzlSdjJSd0MxZkpTaTdScWJIUEJmMGQzekJFQ0kwd1JWaVdoRFVjeFN3dUxXSFg5Sng4c2xFZG5fSzZHSl9abm5vanBGNHBJU2VTenZvYnZZcGUzV3NHMG9TcC1LNzdPOS1DMzJIWFZMNUMyTDlkbzJUb3c3WUkxOURCRFU2di1Nbk0tbmJrWkljR0RM?oc=5",
-      "published": "2026-04-14T17:50:53+00:00",
-      "source": {
-        "name": "Berliner Zeitung",
-        "url": "https://www.berliner-zeitung.de"
       }
     },
     {
@@ -154,13 +134,23 @@
       }
     },
     {
-      "id": "71769366d467",
-      "title": "Auf Versorgungssicherheit achten! - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yMW93NXJkY1pKYktZMWpWWFRRRzkxNHZoYlBJRHR4OVQyakpwNnB2bDNxQ1huT0otY09HY2JIUWhNc3ZzWmNGN1NKcVlRdXV4Z1ZiVDJacWxuQTVuOWMyWjIzLVFyS2c3QTJ5bDRxSkNvOTQ?oc=5",
-      "published": "2026-04-14T13:45:05+00:00",
+      "id": "3c75a0c795e8",
+      "title": "Mit Abnehmspritze Kilos loswerden - was ist dran an Ozempic & Co.? - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGFzLTFfUHozOUJiWWtWdlRPUm5mZ0VkMGMxLVVGcmxmMzlONHZRV21qZmFHYUo3d2gzV3VDVm9OUHp6Qk4wQjlZTHU3V3RnckthWTZSbVpVMGE1VWxiMFMtVVJCSWdWb3hibzlscllodzVwWmpDMS1ZOXNxYkFfQVJzdlRzeGRQOWdtcW55UVRNSE16QmhJZXhVYmRmYl9iUmJBN1g2cG8?oc=5",
+      "published": "2026-03-11T07:00:00+00:00",
       "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "7db811969ee5",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -171,6 +161,16 @@
       "source": {
         "name": "Luzerner Zeitung",
         "url": "https://www.luzernerzeitung.ch"
+      }
+    },
+    {
+      "id": "71769366d467",
+      "title": "Auf Versorgungssicherheit achten! - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yMW93NXJkY1pKYktZMWpWWFRRRzkxNHZoYlBJRHR4OVQyakpwNnB2bDNxQ1huT0otY09HY2JIUWhNc3ZzWmNGN1NKcVlRdXV4Z1ZiVDJacWxuQTVuOWMyWjIzLVFyS2c3QTJ5bDRxSkNvOTQ?oc=5",
+      "published": "2026-04-14T13:45:05+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -204,26 +204,6 @@
       }
     },
     {
-      "id": "3c75a0c795e8",
-      "title": "Mit Abnehmspritze Kilos loswerden - was ist dran an Ozempic & Co.? - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGFzLTFfUHozOUJiWWtWdlRPUm5mZ0VkMGMxLVVGcmxmMzlONHZRV21qZmFHYUo3d2gzV3VDVm9OUHp6Qk4wQjlZTHU3V3RnckthWTZSbVpVMGE1VWxiMFMtVVJCSWdWb3hibzlscllodzVwWmpDMS1ZOXNxYkFfQVJzdlRzeGRQOWdtcW55UVRNSE16QmhJZXhVYmRmYl9iUmJBN1g2cG8?oc=5",
-      "published": "2026-03-11T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "7db811969ee5",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "cebeb99a59c4",
       "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
@@ -231,6 +211,16 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "d700b213e8a9",
+      "title": "Apotheken-Chef: „Wir sehen eine gefährliche Schließungswelle“ - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWRxNEROaHpWdmhLR2JGeklqc192YS1CVEZyaVV6dTQ0S0ZmWHhlYlFMcHZFYXNxaWNVUng2OFBwR0J2QmdRWlg1XzM5UlBVNWpYRmxEaHh0MzB4LWhnVUJtVEFIamkyXzlhMnZ4ZTJyb1ExYmVZcVdKNUVPQjUyeW5ZZzhSb0dVWmx5TnhadHBPbG5rRGNfVFZrSExDTGVQa0pHUjB5RUM0MUllSFBTVTVucnFwNDBVVmZIbnRn?oc=5",
+      "published": "2026-04-12T19:00:00+00:00",
+      "source": {
+        "name": "Hamburger Abendblatt",
+        "url": "https://www.abendblatt.de"
       }
     },
     {
@@ -254,16 +244,6 @@
       }
     },
     {
-      "id": "aaa1e6bb8a8e",
-      "title": "Schmerzmittel-Warnung: Welche Nebenwirkungen können bei Paracetamol und Ibuprofen auftreten? - News.de",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOX202N1FzY2lHaThzSmN6emQxamEyLTRfNVB5bHZ2X25XTTQwY1NFUV9uZHVkbFdUcGlxNjcxYTRmOEduT0R2dmRlWEt4b0xOeXNsQk80ZmR0ajFSem5IZ1lsODRKck9ySWY1YXZPYUZEZjNYZEdVdnlKbFZ3ZXBoeVRqMnZJNWo4NlMzV2FEaTdUZEQwdWdSbTUzOTQwWUNLWmJFdnpXLVNVTHJ2SVl2YmlhVWVVY2Z5czVocENvRDZyMW85QUJfUVg1djRXaUx4MDZ1SDhNWVFJNmVfQ2V2Tm5GR0RZQV9hQ09HT2F4TmQtZDdQSUNYVzZva9IBgAJBVV95cUxNR3dzd2taNGdLQURGWTJFZ3RvaXluNE41eVY3SUJlMUVoRHlTNXg1V0NnRzF2RWVtcDlGeXJScFJSdTljQWF2MXBMMlBvd2FHazgzbi0wWklVM2RlejluZ0ZMTWdqSGdGOUR5a1lVcmxZTlY1czEwZUprSDFwNXVrX2w4ZEpXZUhzc0wzTnoyb0s2NG1haHJtaXF4M2Y5T29QTlo2NVRFZEM2TnRGQlN5SjBGSWlxODhyS3ZIZjJwcGJMSS1xb1o3Ui1yUmZ3SU51OUE4SmJxMVRUS051VWdSclp4NVlnLTZVcUdKUzhyWlk4YVFyYkpVVlMxMTJRODUz?oc=5",
-      "published": "2026-04-14T05:23:00+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
       "id": "78edcfef107f",
       "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
@@ -284,6 +264,16 @@
       }
     },
     {
+      "id": "aaa1e6bb8a8e",
+      "title": "Schmerzmittel-Warnung: Welche Nebenwirkungen können bei Paracetamol und Ibuprofen auftreten? - News.de",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOX202N1FzY2lHaThzSmN6emQxamEyLTRfNVB5bHZ2X25XTTQwY1NFUV9uZHVkbFdUcGlxNjcxYTRmOEduT0R2dmRlWEt4b0xOeXNsQk80ZmR0ajFSem5IZ1lsODRKck9ySWY1YXZPYUZEZjNYZEdVdnlKbFZ3ZXBoeVRqMnZJNWo4NlMzV2FEaTdUZEQwdWdSbTUzOTQwWUNLWmJFdnpXLVNVTHJ2SVl2YmlhVWVVY2Z5czVocENvRDZyMW85QUJfUVg1djRXaUx4MDZ1SDhNWVFJNmVfQ2V2Tm5GR0RZQV9hQ09HT2F4TmQtZDdQSUNYVzZva9IBgAJBVV95cUxNR3dzd2taNGdLQURGWTJFZ3RvaXluNE41eVY3SUJlMUVoRHlTNXg1V0NnRzF2RWVtcDlGeXJScFJSdTljQWF2MXBMMlBvd2FHazgzbi0wWklVM2RlejluZ0ZMTWdqSGdGOUR5a1lVcmxZTlY1czEwZUprSDFwNXVrX2w4ZEpXZUhzc0wzTnoyb0s2NG1haHJtaXF4M2Y5T29QTlo2NVRFZEM2TnRGQlN5SjBGSWlxODhyS3ZIZjJwcGJMSS1xb1o3Ui1yUmZ3SU51OUE4SmJxMVRUS051VWdSclp4NVlnLTZVcUdKUzhyWlk4YVFyYkpVVlMxMTJRODUz?oc=5",
+      "published": "2026-04-14T05:23:00+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
+      }
+    },
+    {
       "id": "3a9f64ee61e7",
       "title": "Grossbritannien: Politik senkt Hürden für neue Medikamente - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9kamYxZnJXZjNNVUpqY1F3R19iRGtxZk1Qb3UwcFd4bVpVV3FYbzhiVmRXRE9GcnBKbmVrY2loaG9zREEzRmgzZHA0eFAyOTRxTDlORzNzaUNXYTNVdFFaOC0xVGxyTlZfdlNnbTEzc3Z5M2VZeEpCaEx5T3ZjU1E4UktVcHJmdFVKNzItelVYLVhNV1FIeW14VQ?oc=5",
@@ -291,16 +281,6 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "57a9991ed292",
-      "title": "Preis: Erhöhung der Zuzahlung nur mit „Augenmaß“ - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTVnaWNodXBYRGF2bFoycU5tUUliODREaFIzNEMtanlldFlUTlFYTDlNelRndzJtVmR0LXZVd0lSUWFubmRYMTZTZ3QzaGNJU1ZhVjU5ai0td1AwbWI5QVJyaFloQ2FSTmpQT05xaU80LUdURmtBMFZJbkVZZmdrVWRGN2lUUHl6bVBTM2R0bFAxb055WVMtR0FUeWRlUzFWNU9tdHp4Qlg?oc=5",
-      "published": "2026-04-13T11:43:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -354,13 +334,23 @@
       }
     },
     {
-      "id": "256766e8782f",
-      "title": "Medikamentenkosten sind auf über 9 Milliarden gestiegen - Nau",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnhMSU5Mbkd3NEd1emNSNF9jbm4ydXJLcmFLUmkweHNaS3pkbXBfTjhNVktzMEcxcF9iem1lLUNxdVVXYmVFci1KVWRmeFdkUjlBNWdXQ2pGRE5lZE9hTUpxZkZRTEQ5RFg2ekk4d0xiYU8wT3hPTWtyUHlMb3FGZ3RfTk84MTFTMG1RNm1GWE81WGlYeDRYLXVBYUE?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
+      "id": "57a9991ed292",
+      "title": "Preis: Erhöhung der Zuzahlung nur mit „Augenmaß“ - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTVnaWNodXBYRGF2bFoycU5tUUliODREaFIzNEMtanlldFlUTlFYTDlNelRndzJtVmR0LXZVd0lSUWFubmRYMTZTZ3QzaGNJU1ZhVjU5ai0td1AwbWI5QVJyaFloQ2FSTmpQT05xaU80LUdURmtBMFZJbkVZZmdrVWRGN2lUUHl6bVBTM2R0bFAxb055WVMtR0FUeWRlUzFWNU9tdHp4Qlg?oc=5",
+      "published": "2026-04-13T11:43:00+00:00",
       "source": {
-        "name": "Nau",
-        "url": "https://www.nau.ch"
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
+      "id": "1b69397f563d",
+      "title": "(S+) David gegen Goliath: Ein Krebsmediziner legt sich mit einem globalen Pharmariesen an - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQW9lWjA4WUZSWkpyeTVOU3RKQzBuS1NNWFFlZklpQWJpMGxRTVc1WDdvWjJoWTNPS2xDTm5FUktEbm5ZcWV2YXkwRkwzampLSHE2amhsdDAxYUI3amItNlp0eGh6a01OaWd3SzlxZzNabGQ2Q1o3TFRLd3h4MjB1Ukw5X20xaGxBMWtyR2Y2aGVtNVJMSVdGRkVRSDU0TVl6UEdWbjNMNEM3RHBjcVIxcURqR0VuYkpOakxLb290RjJEampmcVBWZ09lR1RBNTEwbVd6dGJ1Yjk5bVB0b1JfS2MwMnVRcUtD?oc=5",
+      "published": "2026-04-13T08:44:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
       }
     },
     {
@@ -394,16 +384,6 @@
       }
     },
     {
-      "id": "65f5c7c5e376",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "d1bd7aeea2e0",
       "title": "Illegale Arzneimittel-Sendungen kommen zunehmend aus der EU - Watson",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJMM1FlWnhuVWFUZHd0MHFYNnVHNFdrT2RVcnl2UlZOS1RsLWZqN1lEWUFrNDNxSlFxUHVIMXBZX2xNMEtpc2tia05TMFNiZThHTXQtYms2LU02czhGQTRETGNDc1VHNzNxUzhmbllqcDRTd1h3ZHZOOGoxeFBPaUZJcVRJU085bXFJRlpWSWdGVTEyZmRaYk9FX3hoUGlIOUF4LQ?oc=5",
@@ -414,13 +394,13 @@
       }
     },
     {
-      "id": "31eb518264cd",
-      "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSy1mOE1PaUxhRGtHYkpqbDBKLVgtZ3cyd04xWkxtS2x0aWVSMUlQdVZVSjdqQXY5TUZEWWZxZEE4Zjc5LVBXS2lxYmEyaHVTQUpPWVBhMTVBZFl2eE02NUpDOXhmUFV6V1AwejFKb0NnVWs3OThpT3lQVlVzNW9kRG9zUlRKTzNwZlVEUmZFZi04dVVGUU5F?oc=5",
-      "published": "2026-03-16T07:00:00+00:00",
+      "id": "65f5c7c5e376",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de"
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -514,23 +494,13 @@
       }
     },
     {
-      "id": "40e4bca4ef7b",
-      "title": "Notdienst heute in Wolfsburg: Welche Apotheken und Ärzte haben am Dienstag Bereitschaft? - News.de",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV0xBMlZzQlF1VGRoaU5DZmJPYmQxUHotYTFlT25taE9fczhYTEs2QlNScnVVU183R0x2Vk91NEs1TVNpMmlCLUFkNnRpaHIwcGVmYm5jUkFKS0FjTkdJOFBMNlVjdkZqN1Zwc2Y5Yjc0Y1JROGh1dFdyRzZzQUtHTGMzdzhQeHBaV1lkUjcwVXpfV0xveTdBbWNELVhLQ240T1M1ZnYxd0NHQXZjMVJzNVBUaUxkb2Z6WURlbjQzT1Y1RkZsamxsSHc4N1VkTGdtSVQ5TDhIMXZ0MmVtSUs3LVlEdU82bmRSQzZpYVhlTnlvTXI4SHl4UjZON3M0aGJXdldjVS1UTElfSzJX0gGSAkFVX3lxTFB3Wkx1d0VfdUx6V2pDYUVFQ2FDaG5xd2Rmbml3bDJKX19tSW1RaTc3T2hsa2d1U0FkNjJIa1M5anNjS3p0QmJOM3pWQXkyMU9qRXVNYnNNcVpnM21TbkF3YnppdzBrbG9JZXlEdUZOMGZLNkJfbjd2UFc5VXRNbW8wQ3ZiM3pkWnpJZnRjc2F5MnpEME0yQWVibEt1aGtheFRxU0xaUF96bkgxaEx5TkE1X3gxRGFPaTczM3VYY2d1WVRCS25NTUdzZDI1alJHekpHalhEWHVtc0VxajJldXpqY1VzNEdFcXM0U0xTOG90QnEtNDNWRkJsQmFuSjBEZ3RnRldXOTQybEtiblZ3cS1QQVE?oc=5",
-      "published": "2026-04-14T02:21:00+00:00",
+      "id": "1881c1e2c0f1",
+      "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
+      "published": "2026-01-15T08:00:00+00:00",
       "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
-      "id": "481fee35c5f6",
-      "title": "Notdienst heute im Berchtesgadener Land: Kontakte für Apotheken-Notdienst und Bereitschaftsärzte am 14.04.2026 - News.de",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVHNMMnY3dmhNY0p1Zm84cENZTXkwcDFjN2ZnVmtSOUttYml6UW5IblM1Qjd6Z3NtbTZfTHlCaG5TOWlDR0lBYktKT19nRmkzSFNaNVBxVnFGWEV2cFluMnlRTGlFQXlpNnJMaHhzUXN2Rk5rMkl5S2JnRkE2NmhvV2Y4NHgxNTVld2RtSmZFRVZDTWdlSUR6T0gtSUowajc4ZHp3bVk2YVJmcDJJRFZuNk9kbDNlelJ3bHIxLWV6eUp4b0JfR210c3BnUDJuM0J0enUyQVFObWpXWHNXeTFiS3pCVElORi1JbGlPNTZSd0tNVE5zaXZNZ2p2OW5xLXNvR1hoc19CaTE1TTdSMW9xWmU4YnlsVDlJMktz0gGgAkFVX3lxTE9nSFVTcDNrOExORFNQNmQtd2dpQWFtMDRsdUZvUU1BQzBmM1pXSTlycTZ3eExOeHhnelFQdHRqMXFCd0QtQUx4T2pyaWpDeGxCUHJKZUEtWlJURTk2RjY0a2VvTVZLY2dra0pyUXJybEUyTURSTl9qQkNFU1MxQi04MUNHaEtHOTd1d24wVjZxOUdJbUNjREhLWG9uR2l0ZWhaZGtwMzNwZ3A5Q2ZWUElrazYycW1zU1dkZUl2aFk4NXdnVEVVUFpFVmVtUWl0ekFqRmh6cFJhUTBsdVJoc1poRHhIVDVPUlBKa01BZzdweUlIbm5NNFVfbWw2RG44el9NN2pWOFZoMW9zWktFOEVQSUZsY2VsUjdYVjl1MURieg?oc=5",
-      "published": "2026-04-14T04:14:00+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
       }
     },
     {
@@ -544,6 +514,16 @@
       }
     },
     {
+      "id": "ebf464ca6904",
+      "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXlzU1VBOUhWa05wcTVDNnBBdHRkeDl5TnZ1S1A3T0swT2pKTjZlaU1pempxQVJkMXMySXBtd2xpaUk5WWN4Q1VyakdMbnN2eF9mRncxakUwN21WbGFQMWpuR2VoOG1tUDYtWERUbS1LSVpOdUNaTE1SWmhDSkVUdTlubVNEWGNtUXNaYk5tcTJibTRDZTJv?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
       "id": "d41a7d712f98",
       "title": "Notdienstreform: Ärzte sollen in Praxen Akutmedikamente abgeben dürfen - Hasepost",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanhVN0tUajUxQ3pmQmtfZU5waU1aY3ByMG5kY0FuaWpZTkRGM0F6S2dUQVdYeW1NWVdBWFV2SUdjeUowaEdiMUc3TGNBbTluUThGSWFVRmdhU0otSDhrTENmSXh3NTBPWHViZk9KUGZRS193RDJLUUx5NUgtZlNaYWhmVGNTVm9QN1EtSFp6UWNtNUFuSGsyblc3ZnNNYnMt?oc=5",
@@ -554,13 +534,23 @@
       }
     },
     {
-      "id": "1881c1e2c0f1",
-      "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
-      "published": "2026-01-15T08:00:00+00:00",
+      "id": "481fee35c5f6",
+      "title": "Notdienst heute im Berchtesgadener Land: Kontakte für Apotheken-Notdienst und Bereitschaftsärzte am 14.04.2026 - News.de",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVHNMMnY3dmhNY0p1Zm84cENZTXkwcDFjN2ZnVmtSOUttYml6UW5IblM1Qjd6Z3NtbTZfTHlCaG5TOWlDR0lBYktKT19nRmkzSFNaNVBxVnFGWEV2cFluMnlRTGlFQXlpNnJMaHhzUXN2Rk5rMkl5S2JnRkE2NmhvV2Y4NHgxNTVld2RtSmZFRVZDTWdlSUR6T0gtSUowajc4ZHp3bVk2YVJmcDJJRFZuNk9kbDNlelJ3bHIxLWV6eUp4b0JfR210c3BnUDJuM0J0enUyQVFObWpXWHNXeTFiS3pCVElORi1JbGlPNTZSd0tNVE5zaXZNZ2p2OW5xLXNvR1hoc19CaTE1TTdSMW9xWmU4YnlsVDlJMktz0gGgAkFVX3lxTE9nSFVTcDNrOExORFNQNmQtd2dpQWFtMDRsdUZvUU1BQzBmM1pXSTlycTZ3eExOeHhnelFQdHRqMXFCd0QtQUx4T2pyaWpDeGxCUHJKZUEtWlJURTk2RjY0a2VvTVZLY2dra0pyUXJybEUyTURSTl9qQkNFU1MxQi04MUNHaEtHOTd1d24wVjZxOUdJbUNjREhLWG9uR2l0ZWhaZGtwMzNwZ3A5Q2ZWUElrazYycW1zU1dkZUl2aFk4NXdnVEVVUFpFVmVtUWl0ekFqRmh6cFJhUTBsdVJoc1poRHhIVDVPUlBKa01BZzdweUlIbm5NNFVfbWw2RG44el9NN2pWOFZoMW9zWktFOEVQSUZsY2VsUjdYVjl1MURieg?oc=5",
+      "published": "2026-04-14T04:14:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de"
+        "name": "News.de",
+        "url": "https://www.news.de"
+      }
+    },
+    {
+      "id": "40e4bca4ef7b",
+      "title": "Notdienst heute in Wolfsburg: Welche Apotheken und Ärzte haben am Dienstag Bereitschaft? - News.de",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV0xBMlZzQlF1VGRoaU5DZmJPYmQxUHotYTFlT25taE9fczhYTEs2QlNScnVVU183R0x2Vk91NEs1TVNpMmlCLUFkNnRpaHIwcGVmYm5jUkFKS0FjTkdJOFBMNlVjdkZqN1Zwc2Y5Yjc0Y1JROGh1dFdyRzZzQUtHTGMzdzhQeHBaV1lkUjcwVXpfV0xveTdBbWNELVhLQ240T1M1ZnYxd0NHQXZjMVJzNVBUaUxkb2Z6WURlbjQzT1Y1RkZsamxsSHc4N1VkTGdtSVQ5TDhIMXZ0MmVtSUs3LVlEdU82bmRSQzZpYVhlTnlvTXI4SHl4UjZON3M0aGJXdldjVS1UTElfSzJX0gGSAkFVX3lxTFB3Wkx1d0VfdUx6V2pDYUVFQ2FDaG5xd2Rmbml3bDJKX19tSW1RaTc3T2hsa2d1U0FkNjJIa1M5anNjS3p0QmJOM3pWQXkyMU9qRXVNYnNNcVpnM21TbkF3YnppdzBrbG9JZXlEdUZOMGZLNkJfbjd2UFc5VXRNbW8wQ3ZiM3pkWnpJZnRjc2F5MnpEME0yQWVibEt1aGtheFRxU0xaUF96bkgxaEx5TkE1X3gxRGFPaTczM3VYY2d1WVRCS25NTUdzZDI1alJHekpHalhEWHVtc0VxajJldXpqY1VzNEdFcXM0U0xTOG90QnEtNDNWRkJsQmFuSjBEZ3RnRldXOTQybEtiblZ3cS1QQVE?oc=5",
+      "published": "2026-04-14T02:21:00+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -581,6 +571,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "121e22c15b0e",
+      "title": "Notdienst heute im Landkreis Kronach: Bereitschaftsärzte und -apotheken am 14.04.2026 - News.de",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWUZyM09GbnFTSmlRUDR1Q0ltUGV0TS1ucGthcEhhOEFmelJBTEZTY3VWTUtXSW1uVGRROEVvN1MtWFZ1WnNKMkNkSjhhbWdyTmR5aGtHY2dtZUUwdDdWOUFhSHJrZ1pxQXliMUhMd285cG04cUYyVzFLUXVlT0JQN2FqVEZOU3RZU09CWlBPWDdhSXRmNmdodnhwT3NHa3pDWlhodDY2UWo2NWEwYlBQQ0RDNndXWGdwZ3ltYVVsUjN1T2trbHRCeTV1X3JRZWZfbWJ4d05BMEhtb0dkOXV6QjVuc2dfeTFYalRpczMyTUtZTEpLLUloenJnS2JBamdaUXZMVkNvdWhFTk5sSHdERU9NOVR4cknSAZwCQVVfeXFMTjI1ZXlkZ0tCLUN3UWx5SFA5U2RreWJ1QV92WTYxYWZ1LW0xVC1XbnhrWDFaWTN5VDg2QTA1M2JZV0RJTmQ0QnQyUnlPYnBTbEVKSlBET0FyeHQtWXVidE9OdzRiNG45UGR6dXBIWGpmamRIRm1NY3lFa0p6QlMwVFd4MTJWd2lHX2VBYlBTVVZ5R0RDRmdfeHprUkRSQU5PNWJ3TUdjWTZhc0xwajBQZE1zS2V4ZUhsaG10cjFQRWRuVHlyQmZCd3Z4RVI1Q1I2R0NFSjVXZjBtMEZYVFowN2xHcTJWUzVjZEpRT01SdTNCal84eGRLTC1ROEx1NzdOMDdvUkJ6Q1RDR1I3ZGowdWNyQ0Z5MmVISWdTSkY?oc=5",
+      "published": "2026-04-14T04:35:00+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -614,23 +614,13 @@
       }
     },
     {
-      "id": "121e22c15b0e",
-      "title": "Notdienst heute im Landkreis Kronach: Bereitschaftsärzte und -apotheken am 14.04.2026 - News.de",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWUZyM09GbnFTSmlRUDR1Q0ltUGV0TS1ucGthcEhhOEFmelJBTEZTY3VWTUtXSW1uVGRROEVvN1MtWFZ1WnNKMkNkSjhhbWdyTmR5aGtHY2dtZUUwdDdWOUFhSHJrZ1pxQXliMUhMd285cG04cUYyVzFLUXVlT0JQN2FqVEZOU3RZU09CWlBPWDdhSXRmNmdodnhwT3NHa3pDWlhodDY2UWo2NWEwYlBQQ0RDNndXWGdwZ3ltYVVsUjN1T2trbHRCeTV1X3JRZWZfbWJ4d05BMEhtb0dkOXV6QjVuc2dfeTFYalRpczMyTUtZTEpLLUloenJnS2JBamdaUXZMVkNvdWhFTk5sSHdERU9NOVR4cknSAZwCQVVfeXFMTjI1ZXlkZ0tCLUN3UWx5SFA5U2RreWJ1QV92WTYxYWZ1LW0xVC1XbnhrWDFaWTN5VDg2QTA1M2JZV0RJTmQ0QnQyUnlPYnBTbEVKSlBET0FyeHQtWXVidE9OdzRiNG45UGR6dXBIWGpmamRIRm1NY3lFa0p6QlMwVFd4MTJWd2lHX2VBYlBTVVZ5R0RDRmdfeHprUkRSQU5PNWJ3TUdjWTZhc0xwajBQZE1zS2V4ZUhsaG10cjFQRWRuVHlyQmZCd3Z4RVI1Q1I2R0NFSjVXZjBtMEZYVFowN2xHcTJWUzVjZEpRT01SdTNCal84eGRLTC1ROEx1NzdOMDdvUkJ6Q1RDR1I3ZGowdWNyQ0Z5MmVISWdTSkY?oc=5",
-      "published": "2026-04-14T04:35:19+00:00",
+      "id": "3b61c485a1c9",
+      "title": "Gesundheit - Gesetzliche Krankenkassen fordern Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2ZXSGh3TS1SUVdMakVnd0tYT040NWVQRFJQX3ZVY1VONVQ4U2lZX0xVcEZ4dXZYOURsbDJCWmM4MXVMYWJwbjE1M09oVmxVTF9UODQ4MmUtRlhVdGpuZzV1bjZOY0U4SEk5VjNEM25vU1M4a2lBNmpfa1ZzTWE2ODlBQTBfemV0M0kxMEsyTWFuYnpvd3ZVT0pFeW9aRTJhRFdHX3UtNVpONmdXNUkwMDFydmh0YXpMTVVR?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
       "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
-      "id": "562743ea6007",
-      "title": "Gesundheit: Beipackzettel wird digital – was Patienten jetzt wissen müssen - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjUxcFNFbU1xR1RCOUQ4SENiSEM5SkNJbGRDbC1FekxoNEpEMVVMSzY3ckRwQTRfbUNMZjVha054cXp1SFFJbFNMb2FwS0ZHVGdxd0M4U0NVc0JLV29rLWJYTGQ3QWhfVkdycU9tY0NGTXZzVHd1endsdmRCUmhHdzJTZWFFczRTTVQ5bERtX25kMW1oTVhBbk1yZk9UcDRWSU5yTkNNbm01akZHVUxPalUzS3pSM3Qx?oc=5",
-      "published": "2025-12-11T08:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
       }
     },
     {
@@ -674,16 +664,6 @@
       }
     },
     {
-      "id": "0447c2c7ef81",
-      "title": "Vorhofflimmern: Schlaganfall durch Medikamente oder Kathetereingriff verhindern - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0NpRnFwS3BNMWRQWkNzb01OM1MwejQyMXNnLUJ0RFlMLURkcjhLeVhUcjdkMUhuUWxqdmQ5Tm8wbm9INGdldWc2NDhJeXBodENEUWF3SWhEZ3ptTEVHOFFUd3ZfNHUyczdCYXBBWk9lVVV4Qm5CSlVMVUtqLWo5T1dKUS1aUERlM3NzbnRBSThiZFF2OFhteVJrZF9TbHp1YjJUQnZNV2d1TFMxY2NndGY1MmVnODRfSFFPSDVRUQ?oc=5",
-      "published": "2025-10-17T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "6d0d3a256a05",
       "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
@@ -704,23 +684,13 @@
       }
     },
     {
-      "id": "ec71c38ffefa",
-      "title": "Innovative Medikamente: Bundesamt für Gesundheit in der Kritik - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ21uTXFkSVh6aGNJQU5kTWMtalV2cklqeWE1Ul9LSGlnTTNtMm9YcHotS3JVLUdnejIxQmozTEM0dzR0Z1lFMjBxT29iU1phLWhKRW5rQ2I4YXAyVXo1WHdaNXdXTDlRZmRNRzN0RWE4RTRiZWlVazZyb2p2R1ZMY0xtYXJoSmtYSURpY3d6RHYyQXUyeFJrS2dTNUxTUE9sWnNJY2UtLUF3V2haTm9qVGNTRGpPY2VHcHhiVi1kdHpXaFEyX2pSRnhua29OZVhPRU5IQ1IxR25vWTJZUjZFRlhSc2dPQ3Q4Z3UtTlVOX0FQZms?oc=5",
-      "published": "2024-08-30T07:00:00+00:00",
+      "id": "a114a7faa80b",
+      "title": "Niederlande: Neue Medikamente nicht um jeden Preis - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXZhbGRSQWZFZnpuTHU0RXJENjhRZm5FZ19XMUk5WEstLTNvTXBKZVpRZVV1UnVMeWhtd0V3MFljaVFKWHBJOFBINU1rQUx0Zk1TX0JQa3hiclQ4V0NHVW1sWloxOW5tM2lIbmhCVE5xOWt0Q3I0ZTN1amtrZXp1SXdxVlRZOUFqcm56ZXhwb1lXQQ?oc=5",
+      "published": "2025-10-05T07:00:00+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "474a1fdec994",
-      "title": "Krankenkasse: Wie wir jedes Jahr 1000 Franken sparen könnten - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXNjc2hsTHYzeFkyaHVSWmJnQmM4bkl0b2VNOV9oNlY1dW5BVVRMRThZeDdFbWpLNjRhOUFRWVJUTzYwNFZuYko3M3FSVXdWZ19EWEI5LUkzc1NUeGcwdXZGVVhJc1VVWU40NFBMckV1SWtHaHU5V2tIU2taZk56RkRTWVZUZ2RmT2gzNkVJaEhFTXBTbnlaNDdvbUdwVFkxRG41UFI0SUN1dC1pMTE3OW1MOA?oc=5",
-      "published": "2025-09-15T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
       }
     },
     {
@@ -734,13 +704,13 @@
       }
     },
     {
-      "id": "a114a7faa80b",
-      "title": "Niederlande: Neue Medikamente nicht um jeden Preis - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXZhbGRSQWZFZnpuTHU0RXJENjhRZm5FZ19XMUk5WEstLTNvTXBKZVpRZVV1UnVMeWhtd0V3MFljaVFKWHBJOFBINU1rQUx0Zk1TX0JQa3hiclQ4V0NHVW1sWloxOW5tM2lIbmhCVE5xOWt0Q3I0ZTN1amtrZXp1SXdxVlRZOUFqcm56ZXhwb1lXQQ?oc=5",
-      "published": "2025-10-05T07:00:00+00:00",
+      "id": "ec71c38ffefa",
+      "title": "Innovative Medikamente: Bundesamt für Gesundheit in der Kritik - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ21uTXFkSVh6aGNJQU5kTWMtalV2cklqeWE1Ul9LSGlnTTNtMm9YcHotS3JVLUdnejIxQmozTEM0dzR0Z1lFMjBxT29iU1phLWhKRW5rQ2I4YXAyVXo1WHdaNXdXTDlRZmRNRzN0RWE4RTRiZWlVazZyb2p2R1ZMY0xtYXJoSmtYSURpY3d6RHYyQXUyeFJrS2dTNUxTUE9sWnNJY2UtLUF3V2haTm9qVGNTRGpPY2VHcHhiVi1kdHpXaFEyX2pSRnhua29OZVhPRU5IQ1IxR25vWTJZUjZFRlhSc2dPQ3Q4Z3UtTlVOX0FQZms?oc=5",
+      "published": "2024-08-30T07:00:00+00:00",
       "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -764,26 +734,6 @@
       }
     },
     {
-      "id": "882994bff277",
-      "title": "Einzelabgabe von Antibiotika - Bundesamt für Gesundheit BAG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MNXlUYlh2NlQ3MklLWHhlZnU0MU5LbktBOTlnUm9MMlAwWnJiclJTSVdZNU00SWhVU1U5c0FzOHgxZTNUNnR4S1gzdkczSFNXT0RvcE9aanI4STJSMno0VzdTbldHT2s?oc=5",
-      "published": "2025-06-25T07:00:00+00:00",
-      "source": {
-        "name": "Bundesamt für Gesundheit BAG",
-        "url": "https://www.bag.admin.ch"
-      }
-    },
-    {
-      "id": "1555f55c2506",
-      "title": "Strategie Antibiotikaresistenzen Bereich Mensch - Bundesamt für Gesundheit BAG",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2tZUlU4aDBhZG1GWGNlN2hVTGtCeEdaQkdKSXBkMmtTZlMwLUQ1ZHFhTFd4NUJJVE9ibUVUakViSjl6Z0VHNFNTbTZaLUlBX3lUUEl4QUtOZU01MG55MTBJalNNbnZ5T1I5SVNmXy00WmdoMDdkVXdlQ0JGdnlRVw?oc=5",
-      "published": "2025-06-23T15:16:24+00:00",
-      "source": {
-        "name": "Bundesamt für Gesundheit BAG",
-        "url": "https://www.bag.admin.ch"
-      }
-    },
-    {
       "id": "1d0baec48d48",
       "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
@@ -791,16 +741,6 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "b51a55c6d933",
-      "title": "Operation PANGEA XV: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ2xhbUk2R0dVeDY1R3YxeG40NkRINHh5TUhlZmE2LTBqY3pVQkI5dzlkWkMtTjAya3lsQnpxeGZvWHdoeFQ3ZFlJZjZUY0V0OFNwSG9DcUFYU1RFVDl4cVh0Qjk2TzVZLXBlZ0ptLUVxS1B5cWxZOC0zd2twNEExYlZ2dVh2c1lOYk5BWjB0MnZELXhkMkR2Qjd6YXZ3ZW43aXFPdWl1Wk4tZHVwZllLQURJY25Ualp6S2lZNFZsanE3Rkd0cjNnbW9RZ08tUkZjZmdIdUVpTFZfd3Z6LWNNOVBSUmtQMk4xakdqTVdvWEMyNVI2TXc?oc=5",
-      "published": "2022-07-20T07:00:00+00:00",
-      "source": {
-        "name": "Swissmedic",
-        "url": "https://www.swissmedic.ch"
       }
     },
     {
@@ -914,10 +854,10 @@
       }
     },
     {
-      "id": "a13e00f737fb",
-      "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
-      "published": "2024-08-22T07:00:00+00:00",
+      "id": "3704a213fa47",
+      "title": "Warum sind Medikamente in der Schweiz so teuer? - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlZrV2NXWDZZVmJSaWZ2cjZuU1RuemczNnlhVkFrUWk1MHlscWtYSTZFRWc4WlBsN2Q1Y0M5ZmdhQ2ZfclpvRFpTemxWc1pFdDVRYnZkSVlvWUs5WTVXVDdEaTlTd21HekFzeTBFdGNqNW5Eb0g1QzVic0doLUxXQ05tbVppTVVPb0JrZl84U3FrRTg?oc=5",
+      "published": "2024-06-04T07:00:00+00:00",
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
@@ -934,10 +874,10 @@
       }
     },
     {
-      "id": "3704a213fa47",
-      "title": "Warum sind Medikamente in der Schweiz so teuer? - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlZrV2NXWDZZVmJSaWZ2cjZuU1RuemczNnlhVkFrUWk1MHlscWtYSTZFRWc4WlBsN2Q1Y0M5ZmdhQ2ZfclpvRFpTemxWc1pFdDVRYnZkSVlvWUs5WTVXVDdEaTlTd21HekFzeTBFdGNqNW5Eb0g1QzVic0doLUxXQ05tbVppTVVPb0JrZl84U3FrRTg?oc=5",
-      "published": "2024-06-04T07:00:00+00:00",
+      "id": "a13e00f737fb",
+      "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
+      "published": "2024-08-22T07:00:00+00:00",
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
@@ -1001,6 +941,66 @@
       "source": {
         "name": "Handelsblatt",
         "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
+      "id": "239e0211bd92",
+      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
+      "published": "2022-06-08T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "c1e895a366ee",
+      "title": "»Tageschau«-Bericht: Zwei Millionen gefälschte Arzneimittel pro Jahr - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd292Q191YU4tSkYwbERhdHVmRC10bkVuMVVxTVcxQThBN0dQRHhLbllKZkotMkpuZFlNc21BQ2plSGl0QXgzTE83MWJ1VnpVZjBfcW5OYkVwbkEyelJvWXo0MGs2Qlh4bG8wQWdyV0RZN0F4SnVSSDIza3RsRjl4TVdhejBDWUJvZy1LR1BDOXBlTTY2eVB2czVCdw?oc=5",
+      "published": "2025-09-22T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "b420a1ccbd5f",
+      "title": "Missglücktes Medikamenten-Sparpaket ärgert Gesundheitspolitiker - Blick",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYTc1QnlqcDRwaDgyVVBFQUJ6ZEN5TU5GWXRXdmJCNXNmMzFKWmdBMmtCeHNBcUZYdG9WRXlrSkJEWkZCX2tGVDBPZEVOMHUtbEx5QjdNWjd1LVlxYmh2MVI5cWM1RktGTDFhQUs0SUtpUUcwRm9ENFQ3M3hNMzlSZl9HbWNIckdQNHFpQ2RaM3E2STZtNGJoZi1nb3Via1NzRU5tbGxNX04tcjBrOGc1eUFHWlpVR1o1akgwZGlKa2g0ZDdpZFk5YmQwRC11WFozME14VDRaNHNLMjR3RzdoNWluU1I0b0lRRmYySVUtZVY?oc=5",
+      "published": "2024-05-19T07:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "d2f466e2638f",
+      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
+      "published": "2017-02-16T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "eabdf461cf2c",
+      "title": "Krankheiten in Entwicklungsländern: Von AIDS bis Malaria - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajlZV3pZZ21RVEpqY3NRbmEzdnVfOVNfS2ppem8yaGN5dHRyTG4xZzhHZ3JHdXhNREZQM2g4V0xEbE5XWXRKMWl4aERONXh5YVd4R1BuVkg3VlVFQzJqcEhWakVwd1pnN3BCNW5GX2ZxVUtIRWJyU3BDYTlaMkpVYjRwZTZJS1RmTTZvZ1FaZ2FiU2hkZ29TczJwdUtpOVA2X0oydkRRamhadmhxN00yT0ZHZVdxS1ZiT09lMGEzS3RFUjdnV0VfT0JtampJaUYyMk44WUEtaGp3SmNsM3pFdGRtWFBnQTZZR29uRHc0a2NXUkhG?oc=5",
+      "published": "2025-02-22T11:53:28+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "76cff402af57",
+      "title": "Darum ist der Medikamentenmangel so schwer zu lösen - quarks.de",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tLSmtjWGNpazVzOXJNcGIxRVM3SWNpYkZYNnRsV3Z3RllCRmRIYks3UmZVUEZKUC13ZWFiMlF4UzhITEV5TWRVcVZLUHhBTWt5UFVVQ0dBYjVndnRSNThZb0YwelMyWUFXQ01aOG1FNnliZ0tCVDZGX2tuVnV4aHd1ZVFxeWV1aXg0SlcxZWdXMGlWV1ZzaERmTkJMblg1ckJv?oc=5",
+      "published": "2023-10-30T07:00:00+00:00",
+      "source": {
+        "name": "quarks.de",
+        "url": "https://www.quarks.de"
       }
     }
   ]
