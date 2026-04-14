@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-14T22:41:25.309471+00:00",
+  "fetched_at": "2026-04-14T23:39:10.964206+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "a8b7ee9bad2b",
-      "title": "Langfristige Schäden: So gefährlich ist Paracetamol wirklich für die Gesundheit - News.de",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPekdldXhqLXNLbGVsRlNCdTRqdG52TmJGcXlhQXUwb3djYWVob0xQeHNrMEQ2eVRDeUp5eTFUS2M1ZVdyR3Y4Nkx2bkQwSHB0QnJTTWVNMk1ZRXVrOGh6TzRIaEpLc2FVNldBRm9RclpjTzNBVWZaRkxsUGp2UWdsMV92TGE0ajlOYm9GcE15cnNuVE95VHlMOTdBQVhjNThUV1lCTFpXOWEzZzRwUFJ6YUJ3emNVZ2hjQ3BtUi1wOGE2X0dUYi1qYmVsNjF0Z0NVMm9lREo2NlBqeWxMdG5YVmJSNXUzMS0teUowb2VPQjhtTkVCTlB2WtIB_gFBVV95cUxNNzBXalFJWXRfdnI2cHN2dldrYjk1OUhHSWIyS0RadjlPMHdPN3lOOE8wamM2emNsNHBXZ0Z3enhfNVlMS21iNlN2ZlhQR2hfQTk0QWY3bUZTSm1NM2NpVkUyYUNGVEJCanMwenhpRUZ4eXJmY3FwT1VDYjFtZGdud2FmTFExeC1nNWV0N3ZxVk94d0xoMGRtdG84T0dOY2k3bldVcnBNTVFqcV9Dc190eFl3dlZYbFdiZWtrN0F0Q29vQnJraXlVZGpWN0JFYWJVZlJHbjlmQjlWVGN5Mzc4QWxQc3pZb2lYd25talZ0ZGx1b1B0SWtYUENuUHB2dw?oc=5",
-      "published": "2026-04-14T05:14:00+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
       "id": "fcc12f4d2c22",
       "title": "Geheimsache Krebs: Ein Wunder-Medikament und seine Schattenseiten - profil.at",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXdfRkFWbU9IR0Z5NEZPclNyTktxLVlDQWI3YTRXTDdwbHREWXh3WGZvRElPZ1dVQ0pPN24tUDEyN0NaLWxzcnNzU0x4dG9SZ3NselJXTGhGOE00U3pEQUJ3R1d2eUZTVGd2T0VYS1RHSzhFRHlVWmVIR1JQdkNnUTRtYVQ2OVNxQ3lOMmxSMFVXVjNzaFFYTzN2NHZGMVl6clBKOTAtYVFmVHNHeVE?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
+      "id": "a8b7ee9bad2b",
+      "title": "Langfristige Schäden: So gefährlich ist Paracetamol wirklich für die Gesundheit - News.de",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPekdldXhqLXNLbGVsRlNCdTRqdG52TmJGcXlhQXUwb3djYWVob0xQeHNrMEQ2eVRDeUp5eTFUS2M1ZVdyR3Y4Nkx2bkQwSHB0QnJTTWVNMk1ZRXVrOGh6TzRIaEpLc2FVNldBRm9RclpjTzNBVWZaRkxsUGp2UWdsMV92TGE0ajlOYm9GcE15cnNuVE95VHlMOTdBQVhjNThUV1lCTFpXOWEzZzRwUFJ6YUJ3emNVZ2hjQ3BtUi1wOGE2X0dUYi1qYmVsNjF0Z0NVMm9lREo2NlBqeWxMdG5YVmJSNXUzMS0teUowb2VPQjhtTkVCTlB2WtIB_gFBVV95cUxNNzBXalFJWXRfdnI2cHN2dldrYjk1OUhHSWIyS0RadjlPMHdPN3lOOE8wamM2emNsNHBXZ0Z3enhfNVlMS21iNlN2ZlhQR2hfQTk0QWY3bUZTSm1NM2NpVkUyYUNGVEJCanMwenhpRUZ4eXJmY3FwT1VDYjFtZGdud2FmTFExeC1nNWV0N3ZxVk94d0xoMGRtdG84T0dOY2k3bldVcnBNTVFqcV9Dc190eFl3dlZYbFdiZWtrN0F0Q29vQnJraXlVZGpWN0JFYWJVZlJHbjlmQjlWVGN5Mzc4QWxQc3pZb2lYd25talZ0ZGx1b1B0SWtYUENuUHB2dw?oc=5",
+      "published": "2026-04-14T05:14:00+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -394,16 +394,6 @@
       }
     },
     {
-      "id": "d41a7d712f98",
-      "title": "Notdienstreform: Ärzte sollen in Praxen Akutmedikamente abgeben dürfen - Hasepost",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanhVN0tUajUxQ3pmQmtfZU5waU1aY3ByMG5kY0FuaWpZTkRGM0F6S2dUQVdYeW1NWVdBWFV2SUdjeUowaEdiMUc3TGNBbTluUThGSWFVRmdhU0otSDhrTENmSXh3NTBPWHViZk9KUGZRS193RDJLUUx5NUgtZlNaYWhmVGNTVm9QN1EtSFp6UWNtNUFuSGsyblc3ZnNNYnMt?oc=5",
-      "published": "2026-04-13T02:09:03+00:00",
-      "source": {
-        "name": "Hasepost",
-        "url": "https://hasepost.de"
-      }
-    },
-    {
       "id": "1881c1e2c0f1",
       "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
@@ -414,20 +404,20 @@
       }
     },
     {
+      "id": "d41a7d712f98",
+      "title": "Notdienstreform: Ärzte sollen in Praxen Akutmedikamente abgeben dürfen - Hasepost",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanhVN0tUajUxQ3pmQmtfZU5waU1aY3ByMG5kY0FuaWpZTkRGM0F6S2dUQVdYeW1NWVdBWFV2SUdjeUowaEdiMUc3TGNBbTluUThGSWFVRmdhU0otSDhrTENmSXh3NTBPWHViZk9KUGZRS193RDJLUUx5NUgtZlNaYWhmVGNTVm9QN1EtSFp6UWNtNUFuSGsyblc3ZnNNYnMt?oc=5",
+      "published": "2026-04-13T02:09:03+00:00",
+      "source": {
+        "name": "Hasepost",
+        "url": "https://hasepost.de"
+      }
+    },
+    {
       "id": "481fee35c5f6",
       "title": "Notdienst heute im Berchtesgadener Land: Kontakte für Apotheken-Notdienst und Bereitschaftsärzte am 14.04.2026 - News.de",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVHNMMnY3dmhNY0p1Zm84cENZTXkwcDFjN2ZnVmtSOUttYml6UW5IblM1Qjd6Z3NtbTZfTHlCaG5TOWlDR0lBYktKT19nRmkzSFNaNVBxVnFGWEV2cFluMnlRTGlFQXlpNnJMaHhzUXN2Rk5rMkl5S2JnRkE2NmhvV2Y4NHgxNTVld2RtSmZFRVZDTWdlSUR6T0gtSUowajc4ZHp3bVk2YVJmcDJJRFZuNk9kbDNlelJ3bHIxLWV6eUp4b0JfR210c3BnUDJuM0J0enUyQVFObWpXWHNXeTFiS3pCVElORi1JbGlPNTZSd0tNVE5zaXZNZ2p2OW5xLXNvR1hoc19CaTE1TTdSMW9xWmU4YnlsVDlJMktz0gGgAkFVX3lxTE9nSFVTcDNrOExORFNQNmQtd2dpQWFtMDRsdUZvUU1BQzBmM1pXSTlycTZ3eExOeHhnelFQdHRqMXFCd0QtQUx4T2pyaWpDeGxCUHJKZUEtWlJURTk2RjY0a2VvTVZLY2dra0pyUXJybEUyTURSTl9qQkNFU1MxQi04MUNHaEtHOTd1d24wVjZxOUdJbUNjREhLWG9uR2l0ZWhaZGtwMzNwZ3A5Q2ZWUElrazYycW1zU1dkZUl2aFk4NXdnVEVVUFpFVmVtUWl0ekFqRmh6cFJhUTBsdVJoc1poRHhIVDVPUlBKa01BZzdweUlIbm5NNFVfbWw2RG44el9NN2pWOFZoMW9zWktFOEVQSUZsY2VsUjdYVjl1MURieg?oc=5",
       "published": "2026-04-14T04:14:00+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
-      "id": "40e4bca4ef7b",
-      "title": "Notdienst heute in Wolfsburg: Welche Apotheken und Ärzte haben am Dienstag Bereitschaft? - News.de",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV0xBMlZzQlF1VGRoaU5DZmJPYmQxUHotYTFlT25taE9fczhYTEs2QlNScnVVU183R0x2Vk91NEs1TVNpMmlCLUFkNnRpaHIwcGVmYm5jUkFKS0FjTkdJOFBMNlVjdkZqN1Zwc2Y5Yjc0Y1JROGh1dFdyRzZzQUtHTGMzdzhQeHBaV1lkUjcwVXpfV0xveTdBbWNELVhLQ240T1M1ZnYxd0NHQXZjMVJzNVBUaUxkb2Z6WURlbjQzT1Y1RkZsamxsSHc4N1VkTGdtSVQ5TDhIMXZ0MmVtSUs3LVlEdU82bmRSQzZpYVhlTnlvTXI4SHl4UjZON3M0aGJXdldjVS1UTElfSzJX0gGSAkFVX3lxTFB3Wkx1d0VfdUx6V2pDYUVFQ2FDaG5xd2Rmbml3bDJKX19tSW1RaTc3T2hsa2d1U0FkNjJIa1M5anNjS3p0QmJOM3pWQXkyMU9qRXVNYnNNcVpnM21TbkF3YnppdzBrbG9JZXlEdUZOMGZLNkJfbjd2UFc5VXRNbW8wQ3ZiM3pkWnpJZnRjc2F5MnpEME0yQWVibEt1aGtheFRxU0xaUF96bkgxaEx5TkE1X3gxRGFPaTczM3VYY2d1WVRCS25NTUdzZDI1alJHekpHalhEWHVtc0VxajJldXpqY1VzNEdFcXM0U0xTOG90QnEtNDNWRkJsQmFuSjBEZ3RnRldXOTQybEtiblZ3cS1QQVE?oc=5",
-      "published": "2026-04-14T02:21:00+00:00",
       "source": {
         "name": "News.de",
         "url": "https://www.news.de"
@@ -534,16 +524,6 @@
       }
     },
     {
-      "id": "1d0baec48d48",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
-      "published": "2025-09-23T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "b51a55c6d933",
       "title": "Operation PANGEA XV: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ2xhbUk2R0dVeDY1R3YxeG40NkRINHh5TUhlZmE2LTBqY3pVQkI5dzlkWkMtTjAya3lsQnpxeGZvWHdoeFQ3ZFlJZjZUY0V0OFNwSG9DcUFYU1RFVDl4cVh0Qjk2TzVZLXBlZ0ptLUVxS1B5cWxZOC0zd2twNEExYlZ2dVh2c1lOYk5BWjB0MnZELXhkMkR2Qjd6YXZ3ZW43aXFPdWl1Wk4tZHVwZllLQURJY25Ualp6S2lZNFZsanE3Rkd0cjNnbW9RZ08tUkZjZmdIdUVpTFZfd3Z6LWNNOVBSUmtQMk4xakdqTVdvWEMyNVI2TXc?oc=5",
@@ -551,6 +531,16 @@
       "source": {
         "name": "Swissmedic",
         "url": "https://www.swissmedic.ch"
+      }
+    },
+    {
+      "id": "1d0baec48d48",
+      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
+      "published": "2025-09-23T07:00:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -724,12 +714,12 @@
       }
     },
     {
-      "id": "a1af07e8188c",
-      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - dw.com",
+      "id": "53e4142b46a4",
+      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU1xaGhwXzk2bTZMYV9pdEdESnBqWVZvSnAwXzllTkVsdXYyZTlYSzdEYjktY2FySDA2THNEWUlQend3WWp5cG9uZFo1aTJMcFFINW1ZWEg3NlVDQ2UzdkRmZldhV1JRemg4U3poczloOF9QOEhha1prQnlGZ0U5T0laMXN2ZVBY0gGIAUFVX3lxTE01Wk9oR0RESDZiM1BvOU5qZmtUYk1aNUFxWlpzU3EteXRvRDQ1anBlcG52RXJ5QWdEWjB2SHJCblZSaktVZktvRTBkYUxtYzNfQVE4YXRHajc1Nk9UQllNTkt0Vi1wVjdQTTAzSElvTDRMWXZ5TEpkLUZxRTI2QUZkMVdyRGM4YUg?oc=5",
       "published": "2025-09-14T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
+      "id": "b589e059909e",
+      "title": "Gefahr im Medizinschrank: Medikamente richtig lagern - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmZlMUpuMmk2ZlgydlZVUUFRcUYyS1lZbC11S29ET3ZqdTc2cVFTcTU1OEpiQkpIN2VXVGt1akhzdDNTc2NoSkhzUmlxU0FIOVdTQk5Xd0hnbThxcDBDVFJZOE1RMTN1MUl4dXFHUVRFbnJwVC16U2t3TTEzanZnWVZVN3Fnd1NWZE45YmRCeGdKbjh1Nmo0S01R?oc=5",
+      "published": "2024-07-24T07:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     }
   ]
