@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-15T10:56:25.567398+00:00",
+  "fetched_at": "2026-04-15T11:55:44.085667+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,26 +114,6 @@
       }
     },
     {
-      "id": "b5dcd836ae13",
-      "title": "Iran-Krieg: Helium ist wichtig für Pharma und Medizin – doch das Gas wird knapp - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYW5BNHBqTTFMbVdGd3FIaFlFdExkaHhwSF96bFB5WThVU0EyRWpXMjhEZ3V0a3RSajNWSVViTExrNHhaOGVJRkUwU0hZczhxZFR1cmxxckpUMUozTGRRcUx5V21DSWhCWk84OWRESFlyWEJfOTY0SWk2QXRmb1J5U1BzSW5OTFdIN29weGNuRjZudjVEV2dXVWxZb3JiZFkxUFJBT3k0dUJFUUtFZlNvSXNtNEpTWHFQbzRQdg?oc=5",
-      "published": "2026-04-11T09:56:58+00:00",
-      "source": {
-        "name": "Hamburger Abendblatt",
-        "url": "https://www.abendblatt.de"
-      }
-    },
-    {
-      "id": "8aa4e7c0576c",
-      "title": "Warkens Milliarden-Sparpaket: Mehr Zuzahlung für Medikamente geplant - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHFRRVRadFctTi1XOThDRkYtdkxoQ3Vsb2xLMVZOMWJDc2RfbjFsOG9iY005SzdWdTlaVlJmQ09KRWdBSy1MbTM1Z1VpN1lGSHU4NDYtbEVxOWYweUFlZXFodXF5R0E1bmpsc1RlbDJUM19kQ2RCTXZHTWYwaHdicHNYUEhrVTFBZThlZ2t5OVIzRmdmdnhLcEtraWVFX0gtcnZWMWdTTUtZeUFQMEdka2hZWEpMT0ZMSzZJdlVqX1NwVHBzNlFOSg?oc=5",
-      "published": "2026-04-14T17:45:12+00:00",
-      "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
-      }
-    },
-    {
       "id": "7c0b557fb36b",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -151,6 +131,26 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "8aa4e7c0576c",
+      "title": "Warkens Milliarden-Sparpaket: Mehr Zuzahlung für Medikamente geplant - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHFRRVRadFctTi1XOThDRkYtdkxoQ3Vsb2xLMVZOMWJDc2RfbjFsOG9iY005SzdWdTlaVlJmQ09KRWdBSy1MbTM1Z1VpN1lGSHU4NDYtbEVxOWYweUFlZXFodXF5R0E1bmpsc1RlbDJUM19kQ2RCTXZHTWYwaHdicHNYUEhrVTFBZThlZ2t5OVIzRmdmdnhLcEtraWVFX0gtcnZWMWdTTUtZeUFQMEdka2hZWEpMT0ZMSzZJdlVqX1NwVHBzNlFOSg?oc=5",
+      "published": "2026-04-14T17:45:12+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
+      }
+    },
+    {
+      "id": "721135208e4c",
+      "title": "Rotstift: Die Gesundheitsministerin macht Ernst - Fränkischer Tag",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmc3LU0tN2xxOEVKa2ItanNwd2xPbEFIcXBkd2JqOHc1d3RPNlRFdkplZ1RyTEhJMkJfR09yWWk4cWxQdnNUYVEtR3pnblJrMjJZb0tMTWdxck9VZHZDYWVXam1uYlBvdU93bkV3N2x2RTRqUzU5eEoxWjFoQW1wTmZPQkZxNmNSMG5ycXRaN1o0UUpibU90Mnl5TlFOVmZBeVBWTFlfTkZzdzhzWkhXX3hUR3pqa19lMDhMQmc5eldPUEZxX1E?oc=5",
+      "published": "2026-04-15T11:00:00+00:00",
+      "source": {
+        "name": "Fränkischer Tag",
+        "url": "https://www.fraenkischertag.de"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "71769366d467",
-      "title": "Auf Versorgungssicherheit achten! - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yMW93NXJkY1pKYktZMWpWWFRRRzkxNHZoYlBJRHR4OVQyakpwNnB2bDNxQ1huT0otY09HY2JIUWhNc3ZzWmNGN1NKcVlRdXV4Z1ZiVDJacWxuQTVuOWMyWjIzLVFyS2c3QTJ5bDRxSkNvOTQ?oc=5",
-      "published": "2026-04-14T13:45:05+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "08e3f045929f",
       "title": "Parkinson: Wie eine Medikamentenpumpe Symptome lindern kann, wenn Tabletten nicht mehr wirken - ZDFheute",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTk1SUkM3VzNWMm8yTkpQbzBVeUJXQUJpdzQxQmFlQ0NCV0xGQjFoQkZDOWVmWndsNUpLdVhkZ3VMRXctNjVLcFVGTThQMU5vV0Z5bmdRTUtRUnVMdV91WFN2ajFsMGRTblJsX1FpaGVoLU4wb05QdlJrYzd3LUowTGxjWXEtd3BpeWdpc1lnR1c2QzdTNTQtYnZ4emtENlAzN1JydUxkT2F4aDA1VUpKcV9tNHJBUGtm?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "ZDFheute",
         "url": "https://www.zdfheute.de"
+      }
+    },
+    {
+      "id": "71769366d467",
+      "title": "Auf Versorgungssicherheit achten! - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yMW93NXJkY1pKYktZMWpWWFRRRzkxNHZoYlBJRHR4OVQyakpwNnB2bDNxQ1huT0otY09HY2JIUWhNc3ZzWmNGN1NKcVlRdXV4Z1ZiVDJacWxuQTVuOWMyWjIzLVFyS2c3QTJ5bDRxSkNvOTQ?oc=5",
+      "published": "2026-04-14T13:45:05+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "d41a7d712f98",
-      "title": "Notdienstreform: Ärzte sollen in Praxen Akutmedikamente abgeben dürfen - Hasepost",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanhVN0tUajUxQ3pmQmtfZU5waU1aY3ByMG5kY0FuaWpZTkRGM0F6S2dUQVdYeW1NWVdBWFV2SUdjeUowaEdiMUc3TGNBbTluUThGSWFVRmdhU0otSDhrTENmSXh3NTBPWHViZk9KUGZRS193RDJLUUx5NUgtZlNaYWhmVGNTVm9QN1EtSFp6UWNtNUFuSGsyblc3ZnNNYnMt?oc=5",
-      "published": "2026-04-13T02:09:03+00:00",
-      "source": {
-        "name": "Hasepost",
-        "url": "https://hasepost.de"
-      }
-    },
-    {
       "id": "88f3ad8f8f16",
       "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFhLVUdkZzBFTm93WVhvZHdBSkk4ZWlPUWJQRlZFWjlSV3Npei12Wnc4YWhXZW9fMkFOLUs2TjNEanlIUENkRlJ1bmdDQWJKbFhVeEpaMmF2dEp3SjVZbjBHZlNDVUV2Z1NpekF5c3lEaUxsX3VPcDNwRHBGaVFFYXBRZ3dERXpIZWp2TzVralRSb1FEVmdfZjNJTmxMdW9WT25iZGh6QVBfQmV2UGRSby1hcWNOOWl4b2NIajFWRmZZNmhvemN2OVVSZ3dwYnlYTVBfYV9oVGlYM3B5TjJtQTZZUHkwb3cteVd1UzU5M3RaT2hiN2tjczYtOA?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "d41a7d712f98",
+      "title": "Notdienstreform: Ärzte sollen in Praxen Akutmedikamente abgeben dürfen - Hasepost",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanhVN0tUajUxQ3pmQmtfZU5waU1aY3ByMG5kY0FuaWpZTkRGM0F6S2dUQVdYeW1NWVdBWFV2SUdjeUowaEdiMUc3TGNBbTluUThGSWFVRmdhU0otSDhrTENmSXh3NTBPWHViZk9KUGZRS193RDJLUUx5NUgtZlNaYWhmVGNTVm9QN1EtSFp6UWNtNUFuSGsyblc3ZnNNYnMt?oc=5",
+      "published": "2026-04-13T02:09:03+00:00",
+      "source": {
+        "name": "Hasepost",
+        "url": "https://hasepost.de"
       }
     },
     {
