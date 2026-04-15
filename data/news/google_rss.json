@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-15T21:47:47.447236+00:00",
+  "fetched_at": "2026-04-15T22:38:24.518755+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -104,6 +104,16 @@
       }
     },
     {
+      "id": "f32b5305198a",
+      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
+      "published": "2026-03-10T07:00:00+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
       "id": "7c0b557fb36b",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -121,16 +131,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "07ee2573d8fd",
-      "title": "DocMorris Versandapotheke: Zwischen Wachstum und Regulierung wird es spannend - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW81TFdvS2wzZHQzR2RaRTJ1ZmVuSzVXUFdESTFDZkF6eG53YkZQSDBQNEVrZ1NaWW43VmNQOW5yX0c1X2tVb2EteWMyQWJlTGhocjM2cDFiaS1PNTZ6M1hlWjR6dUVGMEcwVXM2Q0dUdWhnUDNIVTI3LWVlMjZVMm0xaHVRRG0zUUVJTDdncnUzNG5kUHdvZ1AyZjMwVHB4ZHY2T05WUGIwaTBEdzRKSWx1SDFBTUJmNnFRcnJ6YTVaRHVO?oc=5",
-      "published": "2026-04-15T16:31:47+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -164,13 +164,13 @@
       }
     },
     {
-      "id": "d185eeb19a8a",
-      "title": "Neue Daten zu verschreibungsfreien Arzneimitteln: Gesamtumsatz wächst, insbesondere bei Vitaminen und Mineralstoffen - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2p2NVB3SVJCTGdXSUNCY3o0V3BVS2FydTVucTRIdkt4dmkyX0FnbEtPeFlCaTVyNzUzU2hMdDVKY0hlZTFxMkZxMFFsejU3UlFYV0dpNWEtVVNSNzNWVGF4SkZsQXRKZ2N4VnZoUENkeFZ6dEZIVHl3M21Ec29lT1Jzalg3RUdacEJONmpNYS1JYU1OaDRMMUlnOVd4Y1FfS3AyOGdPSGxSX1ZEUmJVWXhQRG9zQ2lHMUs3aVNwdl84S1l4d1NJc3FvWnQtakIyamNOYjdRcTh5ZXlBWnJNVzZ3?oc=5",
-      "published": "2026-04-14T10:19:57+00:00",
+      "id": "07ee2573d8fd",
+      "title": "DocMorris Versandapotheke: Zwischen Wachstum und Regulierung wird es spannend - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW81TFdvS2wzZHQzR2RaRTJ1ZmVuSzVXUFdESTFDZkF6eG53YkZQSDBQNEVrZ1NaWW43VmNQOW5yX0c1X2tVb2EteWMyQWJlTGhocjM2cDFiaS1PNTZ6M1hlWjR6dUVGMEcwVXM2Q0dUdWhnUDNIVTI3LWVlMjZVMm0xaHVRRG0zUUVJTDdncnUzNG5kUHdvZ1AyZjMwVHB4ZHY2T05WUGIwaTBEdzRKSWx1SDFBTUJmNnFRcnJ6YTVaRHVO?oc=5",
+      "published": "2026-04-15T16:31:47+00:00",
       "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -191,6 +191,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "d185eeb19a8a",
+      "title": "Neue Daten zu verschreibungsfreien Arzneimitteln: Gesamtumsatz wächst, insbesondere bei Vitaminen und Mineralstoffen - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2p2NVB3SVJCTGdXSUNCY3o0V3BVS2FydTVucTRIdkt4dmkyX0FnbEtPeFlCaTVyNzUzU2hMdDVKY0hlZTFxMkZxMFFsejU3UlFYV0dpNWEtVVNSNzNWVGF4SkZsQXRKZ2N4VnZoUENkeFZ6dEZIVHl3M21Ec29lT1Jzalg3RUdacEJONmpNYS1JYU1OaDRMMUlnOVd4Y1FfS3AyOGdPSGxSX1ZEUmJVWXhQRG9zQ2lHMUs3aVNwdl84S1l4d1NJc3FvWnQtakIyamNOYjdRcTh5ZXlBWnJNVzZ3?oc=5",
+      "published": "2026-04-14T10:19:57+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -254,16 +264,6 @@
       }
     },
     {
-      "id": "721135208e4c",
-      "title": "Rotstift: Die Gesundheitsministerin macht Ernst - Fränkischer Tag",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmc3LU0tN2xxOEVKa2ItanNwd2xPbEFIcXBkd2JqOHc1d3RPNlRFdkplZ1RyTEhJMkJfR09yWWk4cWxQdnNUYVEtR3pnblJrMjJZb0tMTWdxck9VZHZDYWVXam1uYlBvdU93bkV3N2x2RTRqUzU5eEoxWjFoQW1wTmZPQkZxNmNSMG5ycXRaN1o0UUpibU90Mnl5TlFOVmZBeVBWTFlfTkZzdzhzWkhXX3hUR3pqa19lMDhMQmc5eldPUEZxX1E?oc=5",
-      "published": "2026-04-15T11:00:00+00:00",
-      "source": {
-        "name": "Fränkischer Tag",
-        "url": "https://www.fraenkischertag.de"
-      }
-    },
-    {
       "id": "d700b213e8a9",
       "title": "Apotheken-Chef: „Wir sehen eine gefährliche Schließungswelle“ - Hamburger Abendblatt",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWRxNEROaHpWdmhLR2JGeklqc192YS1CVEZyaVV6dTQ0S0ZmWHhlYlFMcHZFYXNxaWNVUng2OFBwR0J2QmdRWlg1XzM5UlBVNWpYRmxEaHh0MzB4LWhnVUJtVEFIamkyXzlhMnZ4ZTJyb1ExYmVZcVdKNUVPQjUyeW5ZZzhSb0dVWmx5TnhadHBPbG5rRGNfVFZrSExDTGVQa0pHUjB5RUM0MUllSFBTVTVucnFwNDBVVmZIbnRn?oc=5",
@@ -294,13 +294,13 @@
       }
     },
     {
-      "id": "3a9f64ee61e7",
-      "title": "Grossbritannien: Politik senkt Hürden für neue Medikamente - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9kamYxZnJXZjNNVUpqY1F3R19iRGtxZk1Qb3UwcFd4bVpVV3FYbzhiVmRXRE9GcnBKbmVrY2loaG9zREEzRmgzZHA0eFAyOTRxTDlORzNzaUNXYTNVdFFaOC0xVGxyTlZfdlNnbTEzc3Z5M2VZeEpCaEx5T3ZjU1E4UktVcHJmdFVKNzItelVYLVhNV1FIeW14VQ?oc=5",
-      "published": "2025-12-21T08:00:00+00:00",
+      "id": "721135208e4c",
+      "title": "Rotstift: Die Gesundheitsministerin macht Ernst - Fränkischer Tag",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmc3LU0tN2xxOEVKa2ItanNwd2xPbEFIcXBkd2JqOHc1d3RPNlRFdkplZ1RyTEhJMkJfR09yWWk4cWxQdnNUYVEtR3pnblJrMjJZb0tMTWdxck9VZHZDYWVXam1uYlBvdU93bkV3N2x2RTRqUzU5eEoxWjFoQW1wTmZPQkZxNmNSMG5ycXRaN1o0UUpibU90Mnl5TlFOVmZBeVBWTFlfTkZzdzhzWkhXX3hUR3pqa19lMDhMQmc5eldPUEZxX1E?oc=5",
+      "published": "2026-04-15T11:00:00+00:00",
       "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
+        "name": "Fränkischer Tag",
+        "url": "https://www.fraenkischertag.de"
       }
     },
     {
@@ -311,6 +311,16 @@
       "source": {
         "name": "Apotheken Umschau",
         "url": "https://www.apotheken-umschau.de"
+      }
+    },
+    {
+      "id": "3a9f64ee61e7",
+      "title": "Grossbritannien: Politik senkt Hürden für neue Medikamente - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9kamYxZnJXZjNNVUpqY1F3R19iRGtxZk1Qb3UwcFd4bVpVV3FYbzhiVmRXRE9GcnBKbmVrY2loaG9zREEzRmgzZHA0eFAyOTRxTDlORzNzaUNXYTNVdFFaOC0xVGxyTlZfdlNnbTEzc3Z5M2VZeEpCaEx5T3ZjU1E4UktVcHJmdFVKNzItelVYLVhNV1FIeW14VQ?oc=5",
+      "published": "2025-12-21T08:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
       }
     },
     {
@@ -354,16 +364,6 @@
       }
     },
     {
-      "id": "1c80d2d94323",
-      "title": "»Ge­ra­de in der Apo­the­ke wird Ge­sund­heit ge­lebt« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI5Ni1Wb1RMSGlZbElwcDdtVjF5TzJBTVpUd0xoblBOUHl5UG8tcXlNY1FPTHBPbU5tT2J2S2VTRkFlZlVxejM2S3V6Ty14bHlXVmEtRmRPUnNoeEd0U3pWZlQ5SlZjNGF3bnhWWGF0M2h5MHVSaFZRZjBZZy1KOEZva1l2N1dzbkF0Q2dvRUc1SVN3OVVF?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "ff2abafdfc6a",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -371,6 +371,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "ec5c2274ba11",
+      "title": "Krebsspezialist sagt, warum es im Medikamentenstreit mit den USA einen Kompromiss braucht - Luzerner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZDB1VDd3b1RKM1VIX3ZONmFXLTZESnVfbXFqajVoQ2ttUDJFYnExWlNKVktRdTJIUlF1XzVmMFVNVV9faC1nTWFWdHlEcENWNUVaT3hsSzdqSTllbGhOOGZkeURtdXZQZTExVHdaQUNSZEtMdnpNZEdQLUJ1Ym5ZZ2FFX1dMN1h6ZU1rbDNwckhDNkN6dzN6MGVrckRxR01mcEw1aExmblFNbnd3NnJ2b2xqcE5RTEVUZlc3LUdyZ0JSQ1BxYlcwaA?oc=5",
+      "published": "2026-03-10T07:00:00+00:00",
+      "source": {
+        "name": "Luzerner Zeitung",
+        "url": "https://www.luzernerzeitung.ch"
       }
     },
     {
@@ -401,16 +411,6 @@
       "source": {
         "name": "News.de",
         "url": "https://www.news.de"
-      }
-    },
-    {
-      "id": "89dd3c19165d",
-      "title": "Warum viele Medikamente für Ältere oft problematischer sind - Wormser Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVA2eG9PenhZQVpjdHB0eGhzazFWeTRvWURUSHlOeUVNdkFIdkdSdTU1dWllRUpJamFDa1d3NUtfVlRYaXFpMlhDMTVXLVZ6c1hodjhueGMzenBJTVpfRmtQX1htTUlNSk44YlA1Q2NGSUJOOG1VMkVBWHdhcWlKUmlKZzcyWXozQXRvaHBvLVIwcDVxd3ZGaUdxM2hMaHJ0ZXozUmpmNUoweGY1R2FMQlFCVEhZQ1FNdkswVw?oc=5",
-      "published": "2026-03-29T07:00:00+00:00",
-      "source": {
-        "name": "Wormser Zeitung",
-        "url": "https://www.wormser-zeitung.de"
       }
     },
     {
@@ -574,6 +574,16 @@
       }
     },
     {
+      "id": "fa2e7abedb78",
+      "title": "Diskussionsrunde : Teure Orphan Drugs setzen GKV unter Druck - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUdiT3htNDl3SFBIYmUxUHBRT241U04xem9rQU40Mk9mWndmZ25DYllfNzZZYlBUUFpwN2tDZ2VyaDQ5RmVJNDF2azdDRlIyM0tnME54MVhrR2gwMEFMaFk0T0VrcXRvbC1IdDhvTzZIT01VenpvYkFRaHpzLVgxZjVvMzc2YkV1X0MzN3EtZ1JkMW9weWU5Y2VvVFNINEJpaGpkOG1LQlZ2aS1fa3ExbnVQR1A0MU9mZ1pQU1IzNlRuVWdvRjJCYUE1ZzgyN2F1RlFzbA?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "be81013a78c8",
       "title": "Medikamentenpreise in der Schweiz – häufige Fragen - Bundesamt für Gesundheit BAG",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xsQUM1X3BSSDR3SG1LRG1PUnVQdHhSTTVLU2ktV2p2VFdqbmpOWUFuSGZtRnY2OFZ3TmhHTFMzYzlNbF9QZ0h4WUp6ekxiWjdpT1ZQN3A4YUFxUFRnc09kYTBJUFhOZ1NqTmZXei0ybDY5bGF0ZDl3WHpUQnFoRFhXOA?oc=5",
@@ -581,6 +591,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "96ccfe8ff82b",
+      "title": "Swissmedic warnt vor gefälschten und irreführenden «GLP-1»-Produkten zur Gewichtsreduktion - Swissmedic",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNkxqLVJDa0dRSnBwUXBySVNFblVVRTlrTXZ1cFkyVXlYRUd4aVlDWUdMZWdhdVZZRm1aOFNfYTlsdUthYlFOQWpMNC14bExVa0YzYlIydDRlNC1yZTJremRBZENmRk5TdDBQeVMzdEFQNk9OWExVN1Vud2ZZb2ZjSDVKTE44R2I5aEdNaFU0U1gyMDFzejd5Nmk1dHU5Rzl1WVI3bE5RNkw1TjZScWZGeFhNZzRXZko3QXYtRFE2NFdtSkhvVWhnYkZZU2xzc0t1T3hlaFBlaXZQcWU3ZkJFN1d1R2NnYmJ2VkVMMzhsYk9iXzR5ci16ZGlMV0E5bmJZenow?oc=5",
+      "published": "2025-08-26T07:00:00+00:00",
+      "source": {
+        "name": "Swissmedic",
+        "url": "https://www.swissmedic.ch"
       }
     },
     {
@@ -594,13 +614,13 @@
       }
     },
     {
-      "id": "231492f9f4c4",
-      "title": "Medikamenten-Engpässe: Deutschlands stille Gesundheitskrise - InvestmentWeek",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVgxZ2pxNFdUYjBHZjF5R1NUODBvS3Nkc3ZWRWZwWGxwOVlGSGpEb2xXZ01Cbk4yeWM0YlVOTTJKUXZDMEZtMjdoVTNFUGlzYUdLQ09xRGM4ZW5iVWVlaGNqNXpDc2NNSkZtbUUweERrM1dIazBwU2MyRy1KZmpfcXpSMjBWVkw0NkdmeFdiS0hodkNr?oc=5",
-      "published": "2025-10-23T07:00:00+00:00",
+      "id": "c5f4685c5fd8",
+      "title": "BAG will Versorgungsengpässe bei Medikamenten besser überbrücken - Blick",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDg3V3R2Y2RtTkNjR2FydGJPNVo2UjNUVk9FWWMyM2JWZms0TUFONXdUd3VUaENiQmNyYXhneFdQV1F4RUFpcThJNFcwa0x6M0luRzhSdnlEZWhHRlNKQm9uMjhIeVdwQkp4dTdSNWFWU2EzSDZaS3BhSVpTQ3JiNUFuckZnOFRMNGs0cUdSQzJ3eUxleGl2dkJQdFlQNXhLTm9xS1V1UndZVDhMcmxLNmNmTlBBSGM?oc=5",
+      "published": "2025-04-29T07:00:00+00:00",
       "source": {
-        "name": "InvestmentWeek",
-        "url": "https://www.investmentweek.com"
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -611,16 +631,6 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "c5f4685c5fd8",
-      "title": "BAG will Versorgungsengpässe bei Medikamenten besser überbrücken - Blick",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDg3V3R2Y2RtTkNjR2FydGJPNVo2UjNUVk9FWWMyM2JWZms0TUFONXdUd3VUaENiQmNyYXhneFdQV1F4RUFpcThJNFcwa0x6M0luRzhSdnlEZWhHRlNKQm9uMjhIeVdwQkp4dTdSNWFWU2EzSDZaS3BhSVpTQ3JiNUFuckZnOFRMNGs0cUdSQzJ3eUxleGl2dkJQdFlQNXhLTm9xS1V1UndZVDhMcmxLNmNmTlBBSGM?oc=5",
-      "published": "2025-04-29T07:00:00+00:00",
-      "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
       }
     },
     {
@@ -674,16 +684,6 @@
       }
     },
     {
-      "id": "b51a55c6d933",
-      "title": "Operation PANGEA XV: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ2xhbUk2R0dVeDY1R3YxeG40NkRINHh5TUhlZmE2LTBqY3pVQkI5dzlkWkMtTjAya3lsQnpxeGZvWHdoeFQ3ZFlJZjZUY0V0OFNwSG9DcUFYU1RFVDl4cVh0Qjk2TzVZLXBlZ0ptLUVxS1B5cWxZOC0zd2twNEExYlZ2dVh2c1lOYk5BWjB0MnZELXhkMkR2Qjd6YXZ3ZW43aXFPdWl1Wk4tZHVwZllLQURJY25Ualp6S2lZNFZsanE3Rkd0cjNnbW9RZ08tUkZjZmdIdUVpTFZfd3Z6LWNNOVBSUmtQMk4xakdqTVdvWEMyNVI2TXc?oc=5",
-      "published": "2022-07-20T07:00:00+00:00",
-      "source": {
-        "name": "Swissmedic",
-        "url": "https://www.swissmedic.ch"
-      }
-    },
-    {
       "id": "1d0baec48d48",
       "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
@@ -691,6 +691,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "b51a55c6d933",
+      "title": "Operation PANGEA XV: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ2xhbUk2R0dVeDY1R3YxeG40NkRINHh5TUhlZmE2LTBqY3pVQkI5dzlkWkMtTjAya3lsQnpxeGZvWHdoeFQ3ZFlJZjZUY0V0OFNwSG9DcUFYU1RFVDl4cVh0Qjk2TzVZLXBlZ0ptLUVxS1B5cWxZOC0zd2twNEExYlZ2dVh2c1lOYk5BWjB0MnZELXhkMkR2Qjd6YXZ3ZW43aXFPdWl1Wk4tZHVwZllLQURJY25Ualp6S2lZNFZsanE3Rkd0cjNnbW9RZ08tUkZjZmdIdUVpTFZfd3Z6LWNNOVBSUmtQMk4xakdqTVdvWEMyNVI2TXc?oc=5",
+      "published": "2022-07-20T07:00:00+00:00",
+      "source": {
+        "name": "Swissmedic",
+        "url": "https://www.swissmedic.ch"
       }
     },
     {
@@ -794,16 +804,6 @@
       }
     },
     {
-      "id": "519d92a76a76",
-      "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
-      "published": "2024-01-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "5172c42db337",
       "title": "Arzneimittelsicherheit - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3FSSjBYd0VySGgzenRNRVpzMExITWlkS2FDS295Rm5NMnYyc0FwZ3ZhRGU4RXVGenJwWjAxVmk2UUNqcXdEWm5ucGpVWEJramJWWjNYbC1JZjd6clhEbkVhelBhTE9WUkxZV0drN2lHMG1yZFNHdVpLYjFfMi1IRVJGS2ZxNjlYTjVzcw?oc=5",
@@ -814,13 +814,13 @@
       }
     },
     {
-      "id": "026a9300b51c",
-      "title": "Geheimrabatte: Preismodelle im Interesse der Pharmaindustrie - PublicEye",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG42NVFTS2ZwRkdTMmhQUjVtaTVGUWhYVUtQd21GenVtdjFaaXJHZ1ZUbElDZnd4ekZHdndVUFpweVBMXzRuNVZqMzdqd1ozR1BlWE5KaklnaFFkMDQ3ZnAwNUwyTnY3VGxvc0JiUjZ4SmotODZJMW9OWEJwSDhOS0pSS2d4Z3RGRmtZNkpfaHNoN25lRWhBeDZxTG1odHdQTmdqNlVWRFhLMVFWQXNFNGFTSXJjQ2J4NEpxdmV4Z2tYSmVkcmc?oc=5",
-      "published": "2024-02-13T02:40:45+00:00",
+      "id": "519d92a76a76",
+      "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
+      "published": "2024-01-31T08:00:00+00:00",
       "source": {
-        "name": "PublicEye",
-        "url": "https://www.publiceye.ch"
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -834,13 +834,13 @@
       }
     },
     {
-      "id": "c10a746f2216",
-      "title": "Arzneimittel: EU will Produktion von Medikamenten nach Europa zurückholen - Handelsblatt",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2hEbWFnZVFNbWxxbDRMOEQ3ZGlEQlBsbHZ1SXkyVE9mU2M2SzN5T2kzWGNzWjBhOURjUzJxZWY0Yk1xaXhPUzA4dmZKa1R6QXdoVC12S2F2Si0yc1B3YmRmYUpMamc1eW5PLTlFWnA2QUs3R3Q5RGx1eGFyMHM1WFhneTBnN0pqVWE5MnZ1NE91LUNkb2dDM1lJbHVQXzE1RWo1QXY0OVU4YlhVcjRWblRzMFhDTElDOTVaTWg1M3B3dkRqbjE0dW9mV1RiQVNfbHI4?oc=5",
-      "published": "2025-06-19T07:00:00+00:00",
+      "id": "026a9300b51c",
+      "title": "Geheimrabatte: Preismodelle im Interesse der Pharmaindustrie - PublicEye",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG42NVFTS2ZwRkdTMmhQUjVtaTVGUWhYVUtQd21GenVtdjFaaXJHZ1ZUbElDZnd4ekZHdndVUFpweVBMXzRuNVZqMzdqd1ozR1BlWE5KaklnaFFkMDQ3ZnAwNUwyTnY3VGxvc0JiUjZ4SmotODZJMW9OWEJwSDhOS0pSS2d4Z3RGRmtZNkpfaHNoN25lRWhBeDZxTG1odHdQTmdqNlVWRFhLMVFWQXNFNGFTSXJjQ2J4NEpxdmV4Z2tYSmVkcmc?oc=5",
+      "published": "2024-02-13T02:40:45+00:00",
       "source": {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com"
+        "name": "PublicEye",
+        "url": "https://www.publiceye.ch"
       }
     },
     {
@@ -854,6 +854,16 @@
       }
     },
     {
+      "id": "c10a746f2216",
+      "title": "Arzneimittel: EU will Produktion von Medikamenten nach Europa zurückholen - Handelsblatt",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2hEbWFnZVFNbWxxbDRMOEQ3ZGlEQlBsbHZ1SXkyVE9mU2M2SzN5T2kzWGNzWjBhOURjUzJxZWY0Yk1xaXhPUzA4dmZKa1R6QXdoVC12S2F2Si0yc1B3YmRmYUpMamc1eW5PLTlFWnA2QUs3R3Q5RGx1eGFyMHM1WFhneTBnN0pqVWE5MnZ1NE91LUNkb2dDM1lJbHVQXzE1RWo1QXY0OVU4YlhVcjRWblRzMFhDTElDOTVaTWg1M3B3dkRqbjE0dW9mV1RiQVNfbHI4?oc=5",
+      "published": "2025-06-19T07:00:00+00:00",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
       "id": "a13e00f737fb",
       "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
@@ -861,16 +871,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "9705f41eda31",
-      "title": "Millionenrabatte – Ärzte profitieren, Patienten nicht - zentralplus",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVVPYUl6WDBrS1h2b0pPdTVaZ1lRZmp3dWlwa0JDRlVrRzBINm9JN28xT0RvRnlmWWw5ajdCX0tJb3lxRVY1U1ZOenEteTNSOTVDU2NQdE5ZOFJuY0dTWnNIODd4dzRUaWVWaVpwanNOZU1PWGNsRFJRZk9VU3FkY2dXM2hRdGY0RWp0SE5yZU5kZVUtOUFYZ1loTGtremszbVpnNmctNzJiZw?oc=5",
-      "published": "2025-10-04T07:00:00+00:00",
-      "source": {
-        "name": "zentralplus",
-        "url": "https://www.zentralplus.ch"
       }
     },
     {
@@ -954,6 +954,16 @@
       }
     },
     {
+      "id": "239e0211bd92",
+      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
+      "published": "2022-06-08T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
       "id": "b8e3d75428d0",
       "title": "Grauer Star: Deshalb setzen Pallas-Kliniken nicht zugelassenes Medikament ein - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFVLZVVNMU9QUUxYNlJ1VW5JWGh6QlR4LWgybFdnZU5vM3UyOEJJbnVKeVJDRFV2Uk1DM1NaNXZVdmkyYktGZEZvMmVwTzlkT1NZWllvZ0djNFpuM1N5NE15ZFJCeTRMMzBia0RLRG5KOGF2TWxHejUxbjRIY0VSLVNtSHdjbEUxYUdyOXdpdWtsb3c5ZkZZUnR4WUgtMHdTQVBWMnhPejg?oc=5",
@@ -971,16 +981,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "239e0211bd92",
-      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
-      "published": "2022-06-08T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
