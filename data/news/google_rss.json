@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T12:54:49.372758+00:00",
+  "fetched_at": "2026-04-18T13:59:36.366691+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,13 +44,23 @@
       }
     },
     {
-      "id": "f3df140de00e",
-      "title": "Alzheimer-Medikament: Neue Studie dämpft Hoffnung auf monoklonale Antikörper - Spiegel",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXZERnNGSVpHVHBPV29iTS0xZUV6NjVaNWRwUlZRNUR3NTU0VTc3aHRQbEhpSGxEUUI1RS1YUnN4bEZHWThDSmpfUkttb3A0NGNsSEpzLWlsSk5PMl8yTFFZc3FHSmVNb1B4OWVzT0hCSTVpbnRoTTZtRjhyTU5FLTFaeXpRbzJ3N0J4bEJKUXc0MTZpeDlHQWUxOV9aN2NWNnExVmx4STRSeTJSSXUya1V3S3QzWmtLd05MOEZYbm50QXc5bWFqbzZfbVpYSl9sTkpRYktn?oc=5",
-      "published": "2026-04-16T00:35:00+00:00",
+      "id": "ce1601338405",
+      "title": "Diabetes Typ 2: Diese App hilft Betroffenen so gut wie Medikamente - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnUxLXdvMEZleDdsb1d2OUJGaldFLW1BVFNfcTlOel85bUd4NU1BaC12SHZLc1N5d055ODYzRlRHdmwtV2s3aTJHRFB4RkJUWmZ1aTJrRTRSUE1PS3RhREt6b0RsSmNrd2tqMm9HRFFuQm9WVy1hX3lWamtWU3lOMXNtTUZILUxDbm8tU05Oc2czSVF0M2w3U3BPNVN3YWJ1U2pVSGZ4TENrNmpObVN3R241ZWpMU1pJU0RJV21Kb3lCa1JjYXVBXw?oc=5",
+      "published": "2026-04-18T12:00:00+00:00",
       "source": {
-        "name": "Spiegel",
-        "url": "https://www.spiegel.de"
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "e918614d850f",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -61,6 +71,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "f3df140de00e",
+      "title": "Alzheimer-Medikament: Neue Studie dämpft Hoffnung auf monoklonale Antikörper - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXZERnNGSVpHVHBPV29iTS0xZUV6NjVaNWRwUlZRNUR3NTU0VTc3aHRQbEhpSGxEUUI1RS1YUnN4bEZHWThDSmpfUkttb3A0NGNsSEpzLWlsSk5PMl8yTFFZc3FHSmVNb1B4OWVzT0hCSTVpbnRoTTZtRjhyTU5FLTFaeXpRbzJ3N0J4bEJKUXc0MTZpeDlHQWUxOV9aN2NWNnExVmx4STRSeTJSSXUya1V3S3QzWmtLd05MOEZYbm50QXc5bWFqbzZfbVpYSl9sTkpRYktn?oc=5",
+      "published": "2026-04-16T00:35:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
       }
     },
     {
@@ -134,16 +154,6 @@
       }
     },
     {
-      "id": "3d31cce4a3ab",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T07:00:00+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "3c75a0c795e8",
       "title": "Mit Abnehmspritze Kilos loswerden - was ist dran an Ozempic & Co.? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGFzLTFfUHozOUJiWWtWdlRPUm5mZ0VkMGMxLVVGcmxmMzlONHZRV21qZmFHYUo3d2gzV3VDVm9OUHp6Qk4wQjlZTHU3V3RnckthWTZSbVpVMGE1VWxiMFMtVVJCSWdWb3hibzlscllodzVwWmpDMS1ZOXNxYkFfQVJzdlRzeGRQOWdtcW55UVRNSE16QmhJZXhVYmRmYl9iUmJBN1g2cG8?oc=5",
@@ -154,13 +164,13 @@
       }
     },
     {
-      "id": "6c74727cf3c9",
-      "title": "Sind Tampons schlecht für die Vaginalflora? – Wann man auf sie verzichten sollte - Öko-Test",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYl9wMnFrNFpNLXpOVXZ1R05RcWRQNm9Yb2poeDR4ZDNHRlFRVzFUbTFVc09HelVRVFItVG5VWkZtV2ZEMU96SnB4WVdlajM5djBYLTN0UjRuanlNT0hwb1I5NDRaY29kTTM3U1dYSFloSHcza1dRNVdGMVRjcXZOM3NkaUNSN0VLeTlUbTNNSFNGWXJqZkpKQUo4QldEb18yOVEyT2hCR3g3dVRXVFN1SzFkdWdrWWhCYVU4M2txcHNrNnhPQ21KaHI4Y3BLdWFaTDVNS1JB?oc=5",
-      "published": "2026-04-17T05:31:17+00:00",
+      "id": "3d31cce4a3ab",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
       "source": {
-        "name": "Öko-Test",
-        "url": "https://www.oekotest.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -204,13 +214,13 @@
       }
     },
     {
-      "id": "c17d8a510040",
-      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
+      "id": "6c74727cf3c9",
+      "title": "Sind Tampons schlecht für die Vaginalflora? – Wann man auf sie verzichten sollte - Öko-Test",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYl9wMnFrNFpNLXpOVXZ1R05RcWRQNm9Yb2poeDR4ZDNHRlFRVzFUbTFVc09HelVRVFItVG5VWkZtV2ZEMU96SnB4WVdlajM5djBYLTN0UjRuanlNT0hwb1I5NDRaY29kTTM3U1dYSFloSHcza1dRNVdGMVRjcXZOM3NkaUNSN0VLeTlUbTNNSFNGWXJqZkpKQUo4QldEb18yOVEyT2hCR3g3dVRXVFN1SzFkdWdrWWhCYVU4M2txcHNrNnhPQ21KaHI4Y3BLdWFaTDVNS1JB?oc=5",
+      "published": "2026-04-17T05:31:17+00:00",
       "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "Öko-Test",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -221,6 +231,16 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "c17d8a510040",
+      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -254,13 +274,13 @@
       }
     },
     {
-      "id": "989c0bd21bc2",
-      "title": "Viele nehmen es „vorsorglich“ – schützt tägliches Aspirin wirklich vor Demenz? - FITBOOK",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnlVZm03MFpvZndjRmY5QkhrbENaaUdNYkJpV2VpUXAza2FsSjNkcmgwRWczTm5yMHpTR0R2YkVIOEJPQWh2UDlma1Q5NVBaM3pGTGRYbUZfcE0zUFBta1ZkYUJ1WUFPR2hTM3pOdi1ya1BuajdPcGtjZ09wV0NwRFlvSEFIMk16dU9CcHpKVDY1Vmd6bnFyRnFLVGhBYVp5QTgtNkNFOHE3bFdoT1E?oc=5",
-      "published": "2026-04-17T15:09:00+00:00",
+      "id": "ac813ff32638",
+      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
       "source": {
-        "name": "FITBOOK",
-        "url": "https://www.fitbook.de"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -274,6 +294,16 @@
       }
     },
     {
+      "id": "989c0bd21bc2",
+      "title": "Viele nehmen es „vorsorglich“ – schützt tägliches Aspirin wirklich vor Demenz? - FITBOOK",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnlVZm03MFpvZndjRmY5QkhrbENaaUdNYkJpV2VpUXAza2FsSjNkcmgwRWczTm5yMHpTR0R2YkVIOEJPQWh2UDlma1Q5NVBaM3pGTGRYbUZfcE0zUFBta1ZkYUJ1WUFPR2hTM3pOdi1ya1BuajdPcGtjZ09wV0NwRFlvSEFIMk16dU9CcHpKVDY1Vmd6bnFyRnFLVGhBYVp5QTgtNkNFOHE3bFdoT1E?oc=5",
+      "published": "2026-04-17T15:09:00+00:00",
+      "source": {
+        "name": "FITBOOK",
+        "url": "https://www.fitbook.de"
+      }
+    },
+    {
       "id": "ffdcca654be5",
       "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
@@ -281,16 +311,6 @@
       "source": {
         "name": "zentralplus",
         "url": "https://www.zentralplus.ch"
-      }
-    },
-    {
-      "id": "66f5c10d7b11",
-      "title": "Warnung: Verschreibungspflichtiges Arzneimittel in Nahrungsergänzungsmittel bei Amazon gefunden - Wochenblatt Reporter",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcjM2bWJBc1hXNmpRV0QwRks2aEdpODdFNDZ2YVpQZFExeFpkekdDOVBPUWhjS21xNDFKbGVvM1UwNjlpZFNCdndoaDhockctcWw1OW1jTTg3NTc3Q1h6Ui10eG16ejdsMlM3MVljOFpvYk1hMFpCMjBXMUJySUNMNkViQnFEWmNWVjNwc2tLZmJGZmo4REphTlRrT3BtWFJjZ1RZVnJncUNLOUVCYm9FaTlYQ3BUamYzSG40SzIyUVVQcE5hWEsyOWxmNEJsR3lQNzdfTTcxRnJoY2xhR2kxT3lCNXo?oc=5",
-      "published": "2026-04-17T15:23:19+00:00",
-      "source": {
-        "name": "Wochenblatt Reporter",
-        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
@@ -341,6 +361,16 @@
       "source": {
         "name": "gesundheit adhoc",
         "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
+      "id": "66f5c10d7b11",
+      "title": "Warnung: Verschreibungspflichtiges Arzneimittel in Nahrungsergänzungsmittel bei Amazon gefunden - Wochenblatt Reporter",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcjM2bWJBc1hXNmpRV0QwRks2aEdpODdFNDZ2YVpQZFExeFpkekdDOVBPUWhjS21xNDFKbGVvM1UwNjlpZFNCdndoaDhockctcWw1OW1jTTg3NTc3Q1h6Ui10eG16ejdsMlM3MVljOFpvYk1hMFpCMjBXMUJySUNMNkViQnFEWmNWVjNwc2tLZmJGZmo4REphTlRrT3BtWFJjZ1RZVnJncUNLOUVCYm9FaTlYQ3BUamYzSG40SzIyUVVQcE5hWEsyOWxmNEJsR3lQNzdfTTcxRnJoY2xhR2kxT3lCNXo?oc=5",
+      "published": "2026-04-17T15:23:19+00:00",
+      "source": {
+        "name": "Wochenblatt Reporter",
+        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
@@ -504,16 +534,6 @@
       }
     },
     {
-      "id": "944614944a7c",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
       "id": "ebf464ca6904",
       "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXlzU1VBOUhWa05wcTVDNnBBdHRkeDl5TnZ1S1A3T0swT2pKTjZlaU1pempxQVJkMXMySXBtd2xpaUk5WWN4Q1VyakdMbnN2eF9mRncxakUwN21WbGFQMWpuR2VoOG1tUDYtWERUbS1LSVpOdUNaTE1SWmhDSkVUdTlubVNEWGNtUXNaYk5tcTJibTRDZTJv?oc=5",
@@ -521,6 +541,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "944614944a7c",
+      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
+      "published": "2025-12-02T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -584,16 +614,6 @@
       }
     },
     {
-      "id": "8e82b1bac1c4",
-      "title": "Weihrauch: Was Studien über die Wirkung bei Arthrose, Rheuma und Krebs sagen - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVRmdEM0QWFCamxQek1PSXAzUU1uRXNwVjRrbzAxS2NnZXdQdGY0Q2FoTTRVVTRMSVpEZnJkS2lSV2NIWlpCY19iUEFuNFJxc3h4NmNZOEJBTjN1QldIN0V1Z2pHNTlESDBkcEV0RDROLXg2WjlkVnQ2OU1WX2IzN2tKMmdvc2k1V0pKZl9mWXZsQ1NOb2N1RHdJMmhVU3RyQUVqMUlPbExfMzVSaWNRVUpPWWg4VjJrQmc?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "3b61c485a1c9",
       "title": "Gesundheit - Gesetzliche Krankenkassen fordern Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2ZXSGh3TS1SUVdMakVnd0tYT040NWVQRFJQX3ZVY1VONVQ4U2lZX0xVcEZ4dXZYOURsbDJCWmM4MXVMYWJwbjE1M09oVmxVTF9UODQ4MmUtRlhVdGpuZzV1bjZOY0U4SEk5VjNEM25vU1M4a2lBNmpfa1ZzTWE2ODlBQTBfemV0M0kxMEsyTWFuYnpvd3ZVT0pFeW9aRTJhRFdHX3UtNVpONmdXNUkwMDFydmh0YXpMTVVR?oc=5",
@@ -611,16 +631,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "ccc9c4e6443f",
-      "title": "Kassen zur Notfallreform: Arzneimittel am Abgabeautomaten - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnRNallHTEprd203OEY3V3k3aVlYV18yMzVLNHltVUhFNFNIQUtoVnYwNjU0V0ZTUG93TkIyd0NQdnN5Uzg5LW1aQVBxZHQzNzJpeUNGalVxZGlTcUZ0dlgxSk5HR3ZtTElzVEVGc2FKMTNlcHlCbGRtY3pnOEZyMmx4Nms?oc=5",
-      "published": "2025-12-10T08:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -694,6 +704,16 @@
       }
     },
     {
+      "id": "715c328d9943",
+      "title": "Ukraine: Von der Europäischen Union finanzierte Kliniken für die primäre Gesundheitsversorgung verändern das Leben von Patienten - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbDQ0OTlwYWJLOTJYdnhPLWpjTGJhZ0R6Q1lzblVyc0hNZUZsUUxXZWRBYmt0VVo0dGpEY3pKUlFCY0NtUk02MDQ0VmhzQk01TlZJcHZMamt5OGFvdWkzVFpjOVBhWVd4S1Y5bFJMRGdVM25TSFVJUWdqb0ZRSlJhcDdYSktVckIxVTY2UkhXd04zZTA4c1VvYnRwcC1JaVdBNDl3UmpISUQwV1NhZHNUT0hXZ2pSWHlwMEpFcERHZ0JuSXRqT0s1OTdrWG1QeE5ETVBTVzRzb3I4QTNNZzlFWGZvcVR2NzV4?oc=5",
+      "published": "2025-07-04T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
       "id": "e6eddc8a7828",
       "title": "Gesundheitskosten und Medikamentenpreise – eine Auslegeordnung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1hQRUV2a3EwLXhWVXNaQXlQa1JsRVVnS0Q0QXZTand1VHFOdENubE9oZllCNDBQZklaV1I2ejd4SS1ZVkhvbkVRYW5FbzVNYlB1Snk3X05kc3d6SU84b1duSV9CSi1hYjExcWpiczZqTDljZzl6dWpyczhHODM5VnhOWDg4V3pBYzhlUUFiTTFXbHBSSGlhXw?oc=5",
@@ -704,16 +724,6 @@
       }
     },
     {
-      "id": "5f3730439637",
-      "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0k1d1FLSG9YQWVIaVZLYzc3NlUzdURKM2FHc2tZR25lQlVMWFZxcndHM3hNbmRSMTRNZ1JWc2Y2WFpURWs2cDE1Mk5fdXpVb0pLbFFZc0RGSzNXajY2NC1sVlVlcXVkZ2RUeW9keW02UlYxMGFlU3FTVVo5a3RhV09KLTF3Qy01bnpxTGd1MHhOYW5fTURPLTVNa1cwZmM5by1zNmczdUZBVUZ0Ymtrd1hBVi04VS02V08zRkJucTVMSXZUR2Jtd3hZMVF1WkpXdnc?oc=5",
-      "published": "2024-01-31T08:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "1d0baec48d48",
       "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
@@ -721,6 +731,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "5f3730439637",
+      "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0k1d1FLSG9YQWVIaVZLYzc3NlUzdURKM2FHc2tZR25lQlVMWFZxcndHM3hNbmRSMTRNZ1JWc2Y2WFpURWs2cDE1Mk5fdXpVb0pLbFFZc0RGSzNXajY2NC1sVlVlcXVkZ2RUeW9keW02UlYxMGFlU3FTVVo5a3RhV09KLTF3Qy01bnpxTGd1MHhOYW5fTURPLTVNa1cwZmM5by1zNmczdUZBVUZ0Ymtrd1hBVi04VS02V08zRkJucTVMSXZUR2Jtd3hZMVF1WkpXdnc?oc=5",
+      "published": "2024-01-31T08:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -754,16 +774,6 @@
       }
     },
     {
-      "id": "9c403eb288ef",
-      "title": "Anteil der Medikamente an Gesundheitskosten ist tiefer als angenommen - interpharma.ch",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzhuakg5S0hSODJWWW1PYldITEtDMGdIeC1wUUdXYzNtQl9SSzB4clNXbzdzTWVfMDJFUUVLSVlBREZuQWFGNHRydlhQaDQwUC1JblNfSHN0aElRYzlrVldxdmRsVlotaDhpU3JSTUdNS1E5ZnlaVGp5aW5SbDRONFRKcFN3U1pYQ19yemp0bHpNS1c3dTlfb0pNSHV0UW1MSkR2TQ?oc=5",
-      "published": "2023-05-24T07:00:00+00:00",
-      "source": {
-        "name": "interpharma.ch",
-        "url": "https://www.interpharma.ch"
-      }
-    },
-    {
       "id": "7ec5dd3b2de7",
       "title": "Der besseren Zugänglichkeit neuartiger Arzneimittel einen Schritt näher - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdDMjNkUmRfZGZEcmtCREJrU0FKZVhObWw5ZGxuZVBJMVo5alUyc1Z6ZjI5YjJYVzhrOTFYbVJJamdJYUZiY1haT1hjUGpWSWhrb0Exd1B2U0htVkVFUnpmQTRpdVV4R1hZcUFnakg4dUdGTUxYQUgtYlhJWHFJUC1MUXpLVmNPN25PSG9MUWl6TnpNenJGRGxZQWd2RXlvbnlDRUdsOHVqZjJJ?oc=5",
@@ -784,13 +794,13 @@
       }
     },
     {
-      "id": "8d3b89dd6963",
-      "title": "Gesundheit: Studie: Ärmere erhalten eher falsche Medikamente - science.ORF.at",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14UXp0alJMcjZ4VXhLdGpqdGZyenQtN1ZyUWM1VEtwQ0ZvSlZrZkptTG5Hdnd2bGNNTHhSTU1KQkpjNlJINEFWbVUyUS01dnJj?oc=5",
-      "published": "2025-05-23T07:00:00+00:00",
+      "id": "9c403eb288ef",
+      "title": "Anteil der Medikamente an Gesundheitskosten ist tiefer als angenommen - interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzhuakg5S0hSODJWWW1PYldITEtDMGdIeC1wUUdXYzNtQl9SSzB4clNXbzdzTWVfMDJFUUVLSVlBREZuQWFGNHRydlhQaDQwUC1JblNfSHN0aElRYzlrVldxdmRsVlotaDhpU3JSTUdNS1E5ZnlaVGp5aW5SbDRONFRKcFN3U1pYQ19yemp0bHpNS1c3dTlfb0pNSHV0UW1MSkR2TQ?oc=5",
+      "published": "2023-05-24T07:00:00+00:00",
       "source": {
-        "name": "science.ORF.at",
-        "url": "https://science.orf.at"
+        "name": "interpharma.ch",
+        "url": "https://www.interpharma.ch"
       }
     },
     {
@@ -798,56 +808,6 @@
       "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
       "published": "2024-01-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "a851579f0cf5",
-      "title": "Gesundheitsgefahr durch illegale Stoffe - Verbraucherzentrale.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0I4azR5X3RTSl84RmlzMzAyNHMyR2tBVXBUNDRySVBtaUdYSnppVFZtT0FFVXhZWThGX3gzX0U3WGNoOHlyeVg2QUlSelFtUTNpTVI3Q1p1SzhrSmxyczVocVVfLS1fX1NyajBkZU1jWDV6NV95dVlMQm9hSGhFVk9vdXh6QnNqcUVkRTBkWlVFRXFvd2Q2Q20wRWItSVBuaXdtVzYzQThlU2pEaWRfeFMtWnJVaWtIR2ZtRmt6Zi10Y3lw?oc=5",
-      "published": "2025-04-22T07:00:00+00:00",
-      "source": {
-        "name": "Verbraucherzentrale.de",
-        "url": "https://www.verbraucherzentrale.de"
-      }
-    },
-    {
-      "id": "559b8738fb56",
-      "title": "Serie Innovationen 2/2: Wir werden immer älter – aber chronisch krank: Wie innovative Arzneimittel die Lebensqualität steigern - interpharma.ch",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcU8wUloycENLNUsyYkxTZC1jTDI0MHdXUmJoaTZ6Tko5Mi14Uk9HSURMcDM0QUxYRFFDSnJmZWtzR0EwQy0yNUlvdE84WFh6LXd1eFRpOXVDZUdJZWJ6UHBGRnJueG9hc1hvLXk4aENFaFRENlpEeElxRFpUUG10TWFLMHRJbjJsRVg5NTdfWXZHSU11T3JxVU5xdTV3X010NmIzWGtSMVFHRHdsUlpIempZaFgzeUVoMjQ0dzN6X2MtQkItdERFbWFMU0lFSWhUX2hQc3VRWEpMS09oZVdiczIybG9lZmJ1?oc=5",
-      "published": "2020-12-10T08:00:00+00:00",
-      "source": {
-        "name": "interpharma.ch",
-        "url": "https://interpharma.ch"
-      }
-    },
-    {
-      "id": "3704a213fa47",
-      "title": "Warum sind Medikamente in der Schweiz so teuer? - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlZrV2NXWDZZVmJSaWZ2cjZuU1RuemczNnlhVkFrUWk1MHlscWtYSTZFRWc4WlBsN2Q1Y0M5ZmdhQ2ZfclpvRFpTemxWc1pFdDVRYnZkSVlvWUs5WTVXVDdEaTlTd21HekFzeTBFdGNqNW5Eb0g1QzVic0doLUxXQ05tbVppTVVPb0JrZl84U3FrRTg?oc=5",
-      "published": "2024-06-04T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "4cabd03e2a26",
-      "title": "Von WHO/Europa geschaffene Plattform für den Zugang zu neuartigen Arzneimitteln startet Arbeitsgruppe für Transparenz zur Verbesserung des Zugangs zu Arzneimitteln - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNankyMWFVTGRkdUJzeWRocm9rcXYyekJxZWg2Ul92dkt6bVlJQkxBRjJPNWp4eFV5LUc3U3FieVRJcncyZjVvaDQ5RlBub3ZxcVhfalJ3V2JNM3RydFk1dHVYZUdiZHJLZUU4THVwdERCN0w1QmFCSWtHYVlIV05ma1lra2RyNnVNdzRrZlNmbnEyeW5lVTRxVXlFcmpKcGFWT2tYN1NzUVVPSV91WE55UHFidm5kYjMtRkRmY3JfVHViQWFubDlFUGNEWGszSl9YSUROc0tHaGw5OF9jZGpmcllLVXlScDVrV3lFVXhNdw?oc=5",
-      "published": "2024-01-03T08:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "a13e00f737fb",
-      "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
-      "published": "2024-08-22T07:00:00+00:00",
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
@@ -864,6 +824,56 @@
       }
     },
     {
+      "id": "3704a213fa47",
+      "title": "Warum sind Medikamente in der Schweiz so teuer? - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlZrV2NXWDZZVmJSaWZ2cjZuU1RuemczNnlhVkFrUWk1MHlscWtYSTZFRWc4WlBsN2Q1Y0M5ZmdhQ2ZfclpvRFpTemxWc1pFdDVRYnZkSVlvWUs5WTVXVDdEaTlTd21HekFzeTBFdGNqNW5Eb0g1QzVic0doLUxXQ05tbVppTVVPb0JrZl84U3FrRTg?oc=5",
+      "published": "2024-06-04T07:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "8d3b89dd6963",
+      "title": "Gesundheit: Studie: Ärmere erhalten eher falsche Medikamente - science.ORF.at",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14UXp0alJMcjZ4VXhLdGpqdGZyenQtN1ZyUWM1VEtwQ0ZvSlZrZkptTG5Hdnd2bGNNTHhSTU1KQkpjNlJINEFWbVUyUS01dnJj?oc=5",
+      "published": "2025-05-23T07:00:00+00:00",
+      "source": {
+        "name": "science.ORF.at",
+        "url": "https://science.orf.at"
+      }
+    },
+    {
+      "id": "a13e00f737fb",
+      "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
+      "published": "2024-08-22T07:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "4cabd03e2a26",
+      "title": "Von WHO/Europa geschaffene Plattform für den Zugang zu neuartigen Arzneimitteln startet Arbeitsgruppe für Transparenz zur Verbesserung des Zugangs zu Arzneimitteln - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNankyMWFVTGRkdUJzeWRocm9rcXYyekJxZWg2Ul92dkt6bVlJQkxBRjJPNWp4eFV5LUc3U3FieVRJcncyZjVvaDQ5RlBub3ZxcVhfalJ3V2JNM3RydFk1dHVYZUdiZHJLZUU4THVwdERCN0w1QmFCSWtHYVlIV05ma1lra2RyNnVNdzRrZlNmbnEyeW5lVTRxVXlFcmpKcGFWT2tYN1NzUVVPSV91WE55UHFidm5kYjMtRkRmY3JfVHViQWFubDlFUGNEWGszSl9YSUROc0tHaGw5OF9jZGpmcllLVXlScDVrV3lFVXhNdw?oc=5",
+      "published": "2024-01-03T08:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "559b8738fb56",
+      "title": "Serie Innovationen 2/2: Wir werden immer älter – aber chronisch krank: Wie innovative Arzneimittel die Lebensqualität steigern - interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcU8wUloycENLNUsyYkxTZC1jTDI0MHdXUmJoaTZ6Tko5Mi14Uk9HSURMcDM0QUxYRFFDSnJmZWtzR0EwQy0yNUlvdE84WFh6LXd1eFRpOXVDZUdJZWJ6UHBGRnJueG9hc1hvLXk4aENFaFRENlpEeElxRFpUUG10TWFLMHRJbjJsRVg5NTdfWXZHSU11T3JxVU5xdTV3X010NmIzWGtSMVFHRHdsUlpIempZaFgzeUVoMjQ0dzN6X2MtQkItdERFbWFMU0lFSWhUX2hQc3VRWEpMS09oZVdiczIybG9lZmJ1?oc=5",
+      "published": "2020-12-10T08:00:00+00:00",
+      "source": {
+        "name": "interpharma.ch",
+        "url": "https://interpharma.ch"
+      }
+    },
+    {
       "id": "a28195a3e1bd",
       "title": "Gesundheit: Medikament gegen Wochenbettdepression in der EU zugelassen - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVJrX1Z5dGF0Z0I2TURaOHJvZXhNdGdOYmUxWkYxeGpvOE5SeW53dXhzTGNOTE1YZEFtRkt4SDNhRzZGbGZRNXpERFBmV1dfcXMxNjNHNl9NS3hXb1J5OE9rNFcwUEJ2am9oOEQxN21MNVVSdlh0OVFpLVBJakNHVUZTYUdvV1NRT2N0d3ZXYUFzcUtoOVMxUmxB?oc=5",
@@ -874,13 +884,13 @@
       }
     },
     {
-      "id": "9c26ce3a7117",
-      "title": "Medikamente in Pflegeheimen: Die Krankenversicherer scheren sich wenig um die Gesundheitskosten - fr.ch",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEIxaDZwNFJRY1JqTTl6SmJleEtEZ1hkcmdsSWx3TFFWUDFqMnAxdThmcHJRUGk3aGdkMFdwMUMzUjlFc2Myd2dETVdBc3BwUVRxczBYU19yUTQ3b0w0d3dtZUJ6cHQ5WnNtQk8wemRNSUVQY1B6Y1pXMVpYYVVQX0M2Nk1TRlRaSjc2YjhpVVhWNngtN1Y5TkJxclh4aWN3LUVhZlV0eDBvV1lzREV6b19XUExHR0NfT0F2blB2RUlXUQ?oc=5",
-      "published": "2018-05-01T07:00:00+00:00",
+      "id": "52a3edf9e460",
+      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
+      "published": "2024-12-31T08:00:00+00:00",
       "source": {
-        "name": "fr.ch",
-        "url": "https://www.fr.ch"
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -888,16 +898,6 @@
       "title": "Medikamente werden bald bis zu 70 Prozent teurer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3NWRV90cUlESXREdHVPMmEwY1VxSnNUTFNRS1dmLWJ1WEdCSjl6RzVjaTdfYUNRRF9jWVZaSDZ4aFl5cnRMZmxlRUtGVVZ0YWJmd3NRZm5XRWp5d2NNcnVhZlBtaFpRRk9uV0xVNERHWE91ZnJOR2ZUS2lsQXJCSUhlbTUyT01ueGNvdFRIbXV0cEtvUmVaWg?oc=5",
       "published": "2023-08-29T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "18501bd06e17",
-      "title": "Apotheken: 60 Prozent der Produkte im Schaufenster sind unwirksam - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkZEYnBtV2dvUktGb0swV0RSN3JhYUJzQWxoczl0NUpKRGo4cHpVN2tCNG05bU8xbEVRU2VVQlNCNWVnZFNqa1dWaWNOU0NZWW5GU0lTN1lsb1lMOUFfUDQ3Vm9Nc01xd0YtR004VFZUUzEzRXVyTUNVWHhOU3cyVzNlQjd1eFh5bE1Wd1F0TDVEdkxOWDFkMEFiWjNhWjRDY3htTGJzS1c3SlJzeEV6RDR0QUVzN28?oc=5",
-      "published": "2023-10-04T07:00:00+00:00",
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
@@ -914,43 +914,13 @@
       }
     },
     {
-      "id": "239e0211bd92",
-      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
-      "published": "2022-06-08T07:00:00+00:00",
+      "id": "18501bd06e17",
+      "title": "Apotheken: 60 Prozent der Produkte im Schaufenster sind unwirksam - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkZEYnBtV2dvUktGb0swV0RSN3JhYUJzQWxoczl0NUpKRGo4cHpVN2tCNG05bU8xbEVRU2VVQlNCNWVnZFNqa1dWaWNOU0NZWW5GU0lTN1lsb1lMOUFfUDQ3Vm9Nc01xd0YtR004VFZUUzEzRXVyTUNVWHhOU3cyVzNlQjd1eFh5bE1Wd1F0TDVEdkxOWDFkMEFiWjNhWjRDY3htTGJzS1c3SlJzeEV6RDR0QUVzN28?oc=5",
+      "published": "2023-10-04T07:00:00+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "76cff402af57",
-      "title": "Darum ist der Medikamentenmangel so schwer zu lösen - quarks.de",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tLSmtjWGNpazVzOXJNcGIxRVM3SWNpYkZYNnRsV3Z3RllCRmRIYks3UmZVUEZKUC13ZWFiMlF4UzhITEV5TWRVcVZLUHhBTWt5UFVVQ0dBYjVndnRSNThZb0YwelMyWUFXQ01aOG1FNnliZ0tCVDZGX2tuVnV4aHd1ZVFxeWV1aXg0SlcxZWdXMGlWV1ZzaERmTkJMblg1ckJv?oc=5",
-      "published": "2023-10-30T07:00:00+00:00",
-      "source": {
-        "name": "quarks.de",
-        "url": "https://www.quarks.de"
-      }
-    },
-    {
-      "id": "1cadbc6261c0",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "d2f466e2638f",
-      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
-      "published": "2017-02-16T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -964,20 +934,20 @@
       }
     },
     {
-      "id": "52a3edf9e460",
-      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
-      "published": "2024-12-31T08:00:00+00:00",
+      "id": "76cff402af57",
+      "title": "Darum ist der Medikamentenmangel so schwer zu lösen - quarks.de",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tLSmtjWGNpazVzOXJNcGIxRVM3SWNpYkZYNnRsV3Z3RllCRmRIYks3UmZVUEZKUC13ZWFiMlF4UzhITEV5TWRVcVZLUHhBTWt5UFVVQ0dBYjVndnRSNThZb0YwelMyWUFXQ01aOG1FNnliZ0tCVDZGX2tuVnV4aHd1ZVFxeWV1aXg0SlcxZWdXMGlWV1ZzaERmTkJMblg1ckJv?oc=5",
+      "published": "2023-10-30T07:00:00+00:00",
       "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
+        "name": "quarks.de",
+        "url": "https://www.quarks.de"
       }
     },
     {
-      "id": "8e255a6e03ff",
-      "title": "- Medikamente am Steuer - Rezeptfrei heisst nicht unbedenklich - SRF",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREZseEwtd21Rd0RvdjBnZ2R3UTRROUFRVFpmMFplbjhia0xPYVN5S2FHM0ZmZmQ1aGxMQm95ZG5NVlZhYXNMaTZRMi12RU1UZGdyeEwzX0EyUEVUUHZOZGlqX1N2Tzg3R2FVSFQxcHZDenlzMW9WMWpmcDkxUDN4Y2Mxd1VMVEZFbG1GNTJ0dV9ic0NLZUVoUGZJZw?oc=5",
-      "published": "2021-08-17T10:24:08+00:00",
+      "id": "239e0211bd92",
+      "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
+      "published": "2022-06-08T07:00:00+00:00",
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
@@ -994,6 +964,26 @@
       }
     },
     {
+      "id": "9c26ce3a7117",
+      "title": "Medikamente in Pflegeheimen: Die Krankenversicherer scheren sich wenig um die Gesundheitskosten - fr.ch",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEIxaDZwNFJRY1JqTTl6SmJleEtEZ1hkcmdsSWx3TFFWUDFqMnAxdThmcHJRUGk3aGdkMFdwMUMzUjlFc2Myd2dETVdBc3BwUVRxczBYU19yUTQ3b0w0d3dtZUJ6cHQ5WnNtQk8wemRNSUVQY1B6Y1pXMVpYYVVQX0M2Nk1TRlRaSjc2YjhpVVhWNngtN1Y5TkJxclh4aWN3LUVhZlV0eDBvV1lzREV6b19XUExHR0NfT0F2blB2RUlXUQ?oc=5",
+      "published": "2018-05-01T07:00:00+00:00",
+      "source": {
+        "name": "fr.ch",
+        "url": "https://www.fr.ch"
+      }
+    },
+    {
+      "id": "553804a2b9f4",
+      "title": "Kirgisistan ergreift Maßnahmen zur Gewährleistung eines chancengleichen Zugangs zu Arzneimitteln und verändert damit das Leben von Bürgern wie Ymyt Berdibekova - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY0ZuSGJydDN6TFJGanNOQk8yQUIwMnBlS01DUlJMLXVQZlVsZ01PMFFsLXVjaVh0MTlvdTE4YlNmel9xRm5mYzBKQzVrWUZIQ25Yc191bzhBbm0yaHl1ZDRTbDh2LXV5WmRUR1pmMmJKWEJRZnpnLXkwck0xb2E0WWZUWGxaZUxaM1phdDVFaVk5cnpCQnl4SWZyYkYtYnhUOU1EbmJBMnFfUG5YTFkxcEVSbXE1bTBqOXZ3V3dhc0VpejV6eUVNVzMzUnh6Wld4RTJYLVRFc3hVOG5mUC1qaHVPZGNmZ1JBZkp5a2xBR3p1aWdqQmhPRWFOMWJsMEtR?oc=5",
+      "published": "2023-03-07T08:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
       "id": "902053899972",
       "title": "Was darf ein zusätzliches Lebensjahr kosten? - Avenir Suisse",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCb0ZUOTVSbzM0Ylk1S1pBaHFhcVlKQUk4Y2tBSk1rU3RvZS1fa25kT0RzZzBnVXNBc09QUWdXVHhwMkxYbEE2YzY5VTBnMHlFYkJiZ2h1bmNRVVQtaUViQ1BwM0ZpQTNXdnFuYjVaN2wwMlFubUJrdU9UMGFPaUk?oc=5",
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Avenir Suisse",
         "url": "https://www.avenir-suisse.ch"
+      }
+    },
+    {
+      "id": "83cb09a344cf",
+      "title": "Gesundheit: Medikament gegen Wochenbettdepression in der EU zugelassen - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1JvWkdfMEJ3Ui1xbTFSaXhwb1NaTWk4YXg5OGM1cUxqNUl1eGpJUWljNk5TRTJhSWhHUWhoZ3RVMy1jNkhZNUR6NnBjVWozRWJYcG1BQnFodFRDYi1Ibm1UYkx5VFpXTEExSmJDRG1UVGc4R1FwaTFxemVpYkhNVHZ4N280cU1xS0tMRjV1MDNON2pvNlBKd1JBU3ZHYUFvNzc0MEg5eGpjTzRFRGVrWnlIT3pJOTZ5R2c?oc=5",
+      "published": "2025-09-17T07:00:00+00:00",
+      "source": {
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
       }
     }
   ]
