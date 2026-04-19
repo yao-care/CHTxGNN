@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-19T20:32:59.558073+00:00",
+  "fetched_at": "2026-04-19T21:31:57.227389+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -154,13 +154,13 @@
       }
     },
     {
-      "id": "080f8734ac29",
-      "title": "Spargesetz: So erklärt das BMG die Maßnahmen - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONncyS3FDVlRSek51b2ZEVk5EZVYxWUN4OXRfNzdtYTE0STVrUl9CWlFEakVGR1liSWN6OXN0eTZyTC1SOGdCOXFjTm9CRi1pWUZjdjU0ZG9hTWFGY2hBSUt2Rms5amxZc1BhaGZTLVd1VGpVbUpndDRlNGtJUncycHdEdG5WOE1td2JPRE9KWThsTHdHem42bw?oc=5",
-      "published": "2026-04-17T08:13:00+00:00",
+      "id": "10bf9f1c9599",
+      "title": "Das Gesundheitsministerium fordert eine Preisstabilisierung bei Medikamenten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sOTBtdFRpTUtGd3RoZ1VGc1A5Y0dzTHJJM1V5RGFyckhab2ZOUWxPV2V3Q1NubTVfdUhSQVBhbEFmdV8tNmJDWjlUcEJhUzhBaXA0Qmx3UFdoVHIxd1YzX0lRbHpFMGlHdWNn?oc=5",
+      "published": "2026-04-15T08:10:25+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "b90dd4a28561",
+      "title": "Spargesetz: So erklärt das BMG die Maßnahmen - apotheke adhoc",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONncyS3FDVlRSek51b2ZEVk5EZVYxWUN4OXRfNzdtYTE0STVrUl9CWlFEakVGR1liSWN6OXN0eTZyTC1SOGdCOXFjTm9CRi1pWUZjdjU0ZG9hTWFGY2hBSUt2Rms5amxZc1BhaGZTLVd1VGpVbUpndDRlNGtJUncycHdEdG5WOE1td2JPRE9KWThsTHdHem42bw?oc=5",
+      "published": "2026-04-17T08:13:00+00:00",
+      "source": {
+        "name": "apotheke adhoc",
+        "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
       "id": "ee0848383f96",
       "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
@@ -224,16 +234,6 @@
       }
     },
     {
-      "id": "4f1eeceab428",
-      "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
-      "published": "2026-04-13T05:31:00+00:00",
-      "source": {
-        "name": "Spiegel",
-        "url": "https://www.spiegel.de"
-      }
-    },
-    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -241,6 +241,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "4f1eeceab428",
+      "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
+      "published": "2026-04-13T05:31:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
       }
     },
     {
@@ -304,16 +314,6 @@
       }
     },
     {
-      "id": "2792876682cc",
-      "title": "Medikamenten-Flut bei Senioren zwingt zum digitalen Umdenken - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek02clc5X3VBRTV1LUNWV3otTTRnOTJHNjNjTFEzZ1dLd0tEenBDcUZreEl6akpwbUlJZUFCMlN2dExkQkJjUDV4Q3UyOVg5b0FDRU5IN1ljZThvSDNPaVg5cExVZkNBcnEwYkVTUjNvV1B0M0hBSUxoQU15OHZCbWtaZkZ5N1ZxWm8yaWJCX3RvdU42YkxwTUdtUi1KbERNRjBsamlNVmVvN19BVGVrWDQ5RTFTSXFORFdn?oc=5",
-      "published": "2026-04-16T20:11:37+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "432315fa2251",
       "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
@@ -321,6 +321,16 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "2792876682cc",
+      "title": "Medikamenten-Flut bei Senioren zwingt zum digitalen Umdenken - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek02clc5X3VBRTV1LUNWV3otTTRnOTJHNjNjTFEzZ1dLd0tEenBDcUZreEl6akpwbUlJZUFCMlN2dExkQkJjUDV4Q3UyOVg5b0FDRU5IN1ljZThvSDNPaVg5cExVZkNBcnEwYkVTUjNvV1B0M0hBSUxoQU15OHZCbWtaZkZ5N1ZxWm8yaWJCX3RvdU42YkxwTUdtUi1KbERNRjBsamlNVmVvN19BVGVrWDQ5RTFTSXFORFdn?oc=5",
+      "published": "2026-04-16T20:11:37+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -374,16 +384,6 @@
       }
     },
     {
-      "id": "c47bffb2d877",
-      "title": "Neue Gesundheitsreform: Medikamente werden teurer - so viel soll man künftig zuzahlen - News.de",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQUtUYUlrVmJQd3l3TzBiSGNseEhQOEtMMFF1YmhPVEVIWmo5RGVQTXdiQmc5allkWDF4UHcwbWNqT3hZeHRHWTgwUmg5bXRNVnpEQlJBanRQRERJclRibDVjVlRTMWVVR2ZiLW5UblNnRzR3azRtS1A0YVFnamVaeUhjNWhjTXhUbmxFSjFYMjhhdV94RlhyMWlIak1KWXdoUW5JVUwzWnVqQ2xpUVZDeXhFX3V1NmRVUUwxaFRtZTNTQlJpaWRHdVRNcTB0SzJkZDZ0bEpvS0w0RGhHZTJTckZ0MUh5ZXJBQTl5dVNkMTEtVGpZMHQweWJmclhyRklIMmfSAYcCQVVfeXFMTXRFZ3N5TUVLNTQyN2JlNzJKd2ZmNWtPUVRuSDNWQlhQb0tfeDFuZ3dYWnphNlNnQTJzRjkxYWt4WWFhQV9yQ3h1VnFJWF9PcVdIZGhBZ2loY3pZeW1GOUtGN3h3RmV4XzhrTlhWdTc3eThHLWJBSWVxSnZQTU5UcnduckxWQTlrbmlVaGNycTZFbWFEZnNacFQ0WkN0anhodkxEQzBZZERyS2F4dkpPbzJoa1BGOHFFb3NvMkVzQnJVOFlSOURXSkNiVEphN2pXdE9VaTVseFZyRFBOTGx2MnAyVWhOVkpGRVJYT0NVd2xUYVo2cmMteFpyc0lnTml3MFhyelowMWM?oc=5",
-      "published": "2026-04-16T06:42:02+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
-      }
-    },
-    {
       "id": "d46f6ce1c2b9",
       "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
@@ -391,6 +391,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "c47bffb2d877",
+      "title": "Neue Gesundheitsreform: Medikamente werden teurer - so viel soll man künftig zuzahlen - News.de",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQUtUYUlrVmJQd3l3TzBiSGNseEhQOEtMMFF1YmhPVEVIWmo5RGVQTXdiQmc5allkWDF4UHcwbWNqT3hZeHRHWTgwUmg5bXRNVnpEQlJBanRQRERJclRibDVjVlRTMWVVR2ZiLW5UblNnRzR3azRtS1A0YVFnamVaeUhjNWhjTXhUbmxFSjFYMjhhdV94RlhyMWlIak1KWXdoUW5JVUwzWnVqQ2xpUVZDeXhFX3V1NmRVUUwxaFRtZTNTQlJpaWRHdVRNcTB0SzJkZDZ0bEpvS0w0RGhHZTJTckZ0MUh5ZXJBQTl5dVNkMTEtVGpZMHQweWJmclhyRklIMmfSAYcCQVVfeXFMTXRFZ3N5TUVLNTQyN2JlNzJKd2ZmNWtPUVRuSDNWQlhQb0tfeDFuZ3dYWnphNlNnQTJzRjkxYWt4WWFhQV9yQ3h1VnFJWF9PcVdIZGhBZ2loY3pZeW1GOUtGN3h3RmV4XzhrTlhWdTc3eThHLWJBSWVxSnZQTU5UcnduckxWQTlrbmlVaGNycTZFbWFEZnNacFQ0WkN0anhodkxEQzBZZERyS2F4dkpPbzJoa1BGOHFFb3NvMkVzQnJVOFlSOURXSkNiVEphN2pXdE9VaTVseFZyRFBOTGx2MnAyVWhOVkpGRVJYT0NVd2xUYVo2cmMteFpyc0lnTml3MFhyelowMWM?oc=5",
+      "published": "2026-04-16T06:42:02+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -641,16 +651,6 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
-      }
-    },
-    {
-      "id": "5906cf3e2936",
-      "title": "Warnung: Verschreibungspflichtiges Arzneimittel in Nahrungsergänzungsmittel bei Amazon gefunden - Wochenblatt Reporter",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcjM2bWJBc1hXNmpRV0QwRks2aEdpODdFNDZ2YVpQZFExeFpkekdDOVBPUWhjS21xNDFKbGVvM1UwNjlpZFNCdndoaDhockctcWw1OW1jTTg3NTc3Q1h6Ui10eG16ejdsMlM3MVljOFpvYk1hMFpCMjBXMUJySUNMNkViQnFEWmNWVjNwc2tLZmJGZmo4REphTlRrT3BtWFJjZ1RZVnJncUNLOUVCYm9FaTlYQ3BUamYzSG40SzIyUVVQcE5hWEsyOWxmNEJsR3lQNzdfTTcxRnJoY2xhR2kxT3lCNXo?oc=5",
-      "published": "2026-04-17T15:23:19+00:00",
-      "source": {
-        "name": "Wochenblatt Reporter",
-        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
