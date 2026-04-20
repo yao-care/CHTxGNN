@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T05:36:59.691370+00:00",
+  "fetched_at": "2026-04-20T08:00:51.357580+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,6 +114,16 @@
       }
     },
     {
+      "id": "075a40db361f",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
+      }
+    },
+    {
       "id": "95d55d1267a1",
       "title": "Mit Abnehmspritze Kilos loswerden - was ist dran an Ozempic & Co.? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGFzLTFfUHozOUJiWWtWdlRPUm5mZ0VkMGMxLVVGcmxmMzlONHZRV21qZmFHYUo3d2gzV3VDVm9OUHp6Qk4wQjlZTHU3V3RnckthWTZSbVpVMGE1VWxiMFMtVVJCSWdWb3hibzlscllodzVwWmpDMS1ZOXNxYkFfQVJzdlRzeGRQOWdtcW55UVRNSE16QmhJZXhVYmRmYl9iUmJBN1g2cG8?oc=5",
@@ -134,16 +144,6 @@
       }
     },
     {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-01-20T08:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
-      }
-    },
-    {
       "id": "e2430fa4c68d",
       "title": "BAG senkt Preise von 300 Medikamenten - medinside.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
@@ -154,13 +154,13 @@
       }
     },
     {
-      "id": "fc332461e405",
-      "title": "Leiter der Arzneimittelbehörde inspiziert den Arbeitsfortschritt im Nationalen Drogenkontrolllabor - وكالة سبأ",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vQkluNE12TTdWeE1BSkRGajlXSGdVUGo5N0RYbm55dUN4Mmt4eXRIR0FtWnZoeVRuUlJqS0hjOXdxMDJqVE1vSDVn?oc=5",
-      "published": "2026-04-19T14:16:07+00:00",
+      "id": "ce77e8b21bf1",
+      "title": "Wegen Spargesetz: DocMorris erlässt Zuzahlung komplett - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDNaZUR1X1dqd0ZNUzJwbFZvU3dONmdnbmRURThsMGc4aWVaeHJjSktoekpaTG9VUVByMlMxRHRLQVhFOFRoYXFnNUk4cFpYUFNreWZKY2ZRSXFIX1Z6TnFDNV9JcXFOZUM2OGREYmpGa2JoSVl5Qy1OUTlpdlM2M3QzS1NJM0xFR0YtZzNac2RBN0tXcENabjJzTlhGWVV1MjU1QWQ4d29BSE5IbmJr?oc=5",
+      "published": "2026-04-20T07:47:00+00:00",
       "source": {
-        "name": "وكالة سبأ",
-        "url": "https://saba.ye"
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -201,6 +201,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "fc332461e405",
+      "title": "Leiter der Arzneimittelbehörde inspiziert den Arbeitsfortschritt im Nationalen Drogenkontrolllabor - وكالة سبأ",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vQkluNE12TTdWeE1BSkRGajlXSGdVUGo5N0RYbm55dUN4Mmt4eXRIR0FtWnZoeVRuUlJqS0hjOXdxMDJqVE1vSDVn?oc=5",
+      "published": "2026-04-19T14:16:07+00:00",
+      "source": {
+        "name": "وكالة سبأ",
+        "url": "https://saba.ye"
       }
     },
     {
@@ -344,6 +354,16 @@
       }
     },
     {
+      "id": "8d342abde1da",
+      "title": "Sind Tampons schlecht für die Vaginalflora? – Wann man auf sie verzichten sollte - Öko-Test",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYl9wMnFrNFpNLXpOVXZ1R05RcWRQNm9Yb2poeDR4ZDNHRlFRVzFUbTFVc09HelVRVFItVG5VWkZtV2ZEMU96SnB4WVdlajM5djBYLTN0UjRuanlNT0hwb1I5NDRaY29kTTM3U1dYSFloSHcza1dRNVdGMVRjcXZOM3NkaUNSN0VLeTlUbTNNSFNGWXJqZkpKQUo4QldEb18yOVEyT2hCR3g3dVRXVFN1SzFkdWdrWWhCYVU4M2txcHNrNnhPQ21KaHI4Y3BLdWFaTDVNS1JB?oc=5",
+      "published": "2026-04-17T05:31:17+00:00",
+      "source": {
+        "name": "Öko-Test",
+        "url": "https://www.oekotest.de"
+      }
+    },
+    {
       "id": "816e3a440a11",
       "title": "McKesson Corp Aktie (US58155Q1031): Kommt es jetzt auf stabile Margen in der Arzneimittelversorgung - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0NCNE5NYTZqb3hWaFU4a0tLcFlpZks2NndFY0dJOTg1SVh5V2FpTFRLd01JUjlxbmFnNnFZSTYyOVFoRTBSM1A4Tms2WHRJcjZWYlRDOXhvNGhJQk01Skx0VGlPT2R4MnhsMEFRVkhsd2pkOHZwRUFLNWY4R3dtM01KNWI2bVBNWGE3MjBscjEwOTkwSkpoVk16YWc0LUs2aWJtcXl4VE00RWtFZnhxUUZpYnhjbl84YzNhdkhtRWk?oc=5",
@@ -374,16 +394,6 @@
       }
     },
     {
-      "id": "d9edf968b2d7",
-      "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "d46f6ce1c2b9",
       "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
@@ -391,6 +401,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "d9edf968b2d7",
+      "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -504,6 +524,16 @@
       }
     },
     {
+      "id": "73bf4e8b26f5",
+      "title": "Medikamenten-Engpässe: App soll Abhilfe schaffen - noe.ORF.at",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vR3RZQi1aZlZUR1VVVE9oRlFPTHRqcTh5Nk12OW9uUHlFa2pxUDhQczBDOUZScnhHYWRjZEZOZkU5aGhBb0l5eGtkWQ?oc=5",
+      "published": "2026-02-17T08:00:00+00:00",
+      "source": {
+        "name": "noe.ORF.at",
+        "url": "https://noe.orf.at"
+      }
+    },
+    {
       "id": "76a8cbacde21",
       "title": "Viele nehmen es „vorsorglich“ – schützt tägliches Aspirin wirklich vor Demenz? - FITBOOK",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnlVZm03MFpvZndjRmY5QkhrbENaaUdNYkJpV2VpUXAza2FsSjNkcmgwRWczTm5yMHpTR0R2YkVIOEJPQWh2UDlma1Q5NVBaM3pGTGRYbUZfcE0zUFBta1ZkYUJ1WUFPR2hTM3pOdi1ya1BuajdPcGtjZ09wV0NwRFlvSEFIMk16dU9CcHpKVDY1Vmd6bnFyRnFLVGhBYVp5QTgtNkNFOHE3bFdoT1E?oc=5",
@@ -534,16 +564,6 @@
       }
     },
     {
-      "id": "3de99b4e7ef7",
-      "title": "Studie beweist: Neues Medikament reduziert Folge-Schlaganfälle deutlich - Oberösterreichische Nachrichten",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOFFKZE9QYlZZOW9fVE9xVEFSQjBJbExmZnl1azV1bGV6aEQxcndJQmhVRk4tLVI3MjhrWERlRVBQLWFTbTh5eGVRRm1rc3BjaWxicXpHQmVFckM3VUxUd0M2MklrT00wU1U1ZzNKamJvYTdzVGlWLWZ2NVk2b05XLUhYbm4tUHRyTGo0VFp4U3pGdURRdFNTVEsxSlpfVkI5MTJpclFjWDRncnpoa0xxV2NBaEhhdnBrTDdvZ2ZsZ2l0VDB0dDdjQUhaVE1YWVRB?oc=5",
-      "published": "2026-04-17T04:38:00+00:00",
-      "source": {
-        "name": "Oberösterreichische Nachrichten",
-        "url": "https://www.nachrichten.at"
-      }
-    },
-    {
       "id": "73821728fb6f",
       "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
@@ -561,6 +581,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "3de99b4e7ef7",
+      "title": "Studie beweist: Neues Medikament reduziert Folge-Schlaganfälle deutlich - Oberösterreichische Nachrichten",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOFFKZE9QYlZZOW9fVE9xVEFSQjBJbExmZnl1azV1bGV6aEQxcndJQmhVRk4tLVI3MjhrWERlRVBQLWFTbTh5eGVRRm1rc3BjaWxicXpHQmVFckM3VUxUd0M2MklrT00wU1U1ZzNKamJvYTdzVGlWLWZ2NVk2b05XLUhYbm4tUHRyTGo0VFp4U3pGdURRdFNTVEsxSlpfVkI5MTJpclFjWDRncnpoa0xxV2NBaEhhdnBrTDdvZ2ZsZ2l0VDB0dDdjQUhaVE1YWVRB?oc=5",
+      "published": "2026-04-17T04:38:00+00:00",
+      "source": {
+        "name": "Oberösterreichische Nachrichten",
+        "url": "https://www.nachrichten.at"
       }
     },
     {
@@ -674,12 +704,12 @@
       }
     },
     {
-      "id": "692ed6663b43",
-      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW.com",
+      "id": "e0194a7c0b5d",
+      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU1xaGhwXzk2bTZMYV9pdEdESnBqWVZvSnAwXzllTkVsdXYyZTlYSzdEYjktY2FySDA2THNEWUlQend3WWp5cG9uZFo1aTJMcFFINW1ZWEg3NlVDQ2UzdkRmZldhV1JRemg4U3poczloOF9QOEhha1prQnlGZ0U5T0laMXN2ZVBY0gGIAUFVX3lxTE01Wk9oR0RESDZiM1BvOU5qZmtUYk1aNUFxWlpzU3EteXRvRDQ1anBlcG52RXJ5QWdEWjB2SHJCblZSaktVZktvRTBkYUxtYzNfQVE4YXRHajc1Nk9UQllNTkt0Vi1wVjdQTTAzSElvTDRMWXZ5TEpkLUZxRTI2QUZkMVdyRGM4YUg?oc=5",
       "published": "2025-09-14T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -734,16 +764,6 @@
       }
     },
     {
-      "id": "ee9f31b71eae",
-      "title": "AOK zum Pharmadialog: Bürokratieabbau beim AMNOG darf nicht zulasten der Evidenz gehen - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zVDFic3FlUzFzbnFhX2Zrb2J5ZXZ3OE12VFRxY1lDSi13ek5rZkVVekthdDZUSk43SXZWeXAzdjJMdGk0MFV4TWl3V2N4SjlSQlNVcUN3?oc=5",
-      "published": "2026-04-16T11:27:21+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "4827c0f2d4e4",
       "title": "Gesundheit - Gesetzliche Krankenkassen fordern Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2ZXSGh3TS1SUVdMakVnd0tYT040NWVQRFJQX3ZVY1VONVQ4U2lZX0xVcEZ4dXZYOURsbDJCWmM4MXVMYWJwbjE1M09oVmxVTF9UODQ4MmUtRlhVdGpuZzV1bjZOY0U4SEk5VjNEM25vU1M4a2lBNmpfa1ZzTWE2ODlBQTBfemV0M0kxMEsyTWFuYnpvd3ZVT0pFeW9aRTJhRFdHX3UtNVpONmdXNUkwMDFydmh0YXpMTVVR?oc=5",
@@ -754,13 +774,13 @@
       }
     },
     {
-      "id": "a39ba2e38fe5",
-      "title": "Vorsicht vor Wechselwirkungen: Welche Arzneimittel Schmerzen lindern - Kleine Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXcwT2VFSFZNRTZVU1pKYXdNRVMxMTNSZjlua1pLYmNWUHFkekZCZnRQVjFPNldJekJ4MmxTX3liWGlyRzNBS3VYYS1BTnlRVlBJWU9leDRCRUFNN19DYlN4eGp1V2NKZzNsdGk5VDBsTGVyZkktWTVZZFRCTmdwNXpXX2s3dkoyMzM2R3BUQXFJcVdoOXJ6Vl85UFg?oc=5",
-      "published": "2025-12-14T08:00:00+00:00",
+      "id": "ee9f31b71eae",
+      "title": "AOK zum Pharmadialog: Bürokratieabbau beim AMNOG darf nicht zulasten der Evidenz gehen - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zVDFic3FlUzFzbnFhX2Zrb2J5ZXZ3OE12VFRxY1lDSi13ek5rZkVVekthdDZUSk43SXZWeXAzdjJMdGk0MFV4TWl3V2N4SjlSQlNVcUN3?oc=5",
+      "published": "2026-04-16T11:27:21+00:00",
       "source": {
-        "name": "Kleine Zeitung",
-        "url": "https://www.kleinezeitung.at"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -794,13 +814,13 @@
       }
     },
     {
-      "id": "b3c617d81bdd",
-      "title": "Arzneimittel und Hitze: Eine potenziell gefährliche Kombi - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNEs5TC1YbGFUUjVXcDFfaHdtYkhSYmRkamkzLXRYbVNUejJfMXRxLTYteFpROF9PVVFKRzdzb0NwYmZBR1l2Q0N3Z2pNVFRqU0t2VlVENmR3aHJQUTB5N19zQmpNa3IxRnE3WnhSaTVKM0JPaWM1OTNXdGxHWHlfMTZuUW9MZWc1R0ItTjVsZ2RlSW43WlBzbXNFbXdiQTZfUExaWElEazhfSl9jVElKcmxXbWtyaVhObklOQlUwd19xRXhRNG5j?oc=5",
-      "published": "2025-07-20T07:00:00+00:00",
+      "id": "41481cdefabb",
+      "title": "Bei welchen Medikamenten mit Engpässen zu rechnen ist - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjEyNTBxUmtRckJVeFhacW9SeWhiYjVaNjRleVBvc0RXcU9RTUlTZlRoZTU0eUo3TFE0djZYRjFSanBXTlhwRHVPUE9MckdxN015SC1iUXI4RXdFRXVULURoeThoUjF1bG8tQTlVZnlBMmx1R2NpNzhmeEF6eUY4TA?oc=5",
+      "published": "2025-09-19T07:00:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
@@ -924,16 +944,6 @@
       }
     },
     {
-      "id": "0878866789da",
-      "title": "Neue Arzneimittel bezahlbar halten - Verband der Ersatzkassen (vdek)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzE3cHpIZEo2Q0VEc0xrTzlCRHFTbW1GZ1dpbXhiSk55cmZpVFZaN3dtSkhvc2dqYkx0ekRicVhHTHhWTzFsSFVKZlVJZG1EUXBxZGZCU0kycm5yaVczSThMRHA3YkRHN3dPYXl3UTNEU1RWamFXdDBrZ2tTWWhqNjBjQk43VGNhdEFhMXF6Nmx6WHdkXzhwY25kTzVCMmp5?oc=5",
-      "published": "2025-06-17T07:00:00+00:00",
-      "source": {
-        "name": "Verband der Ersatzkassen (vdek)",
-        "url": "https://www.vdek.com"
-      }
-    },
-    {
       "id": "65b427350ec9",
       "title": "SVR-Gutachten: Hohe Arzneimittelpreise bedrohen Gesundheitssystem - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdkVLanl4Z0F3bXFfWGJrcUZEZUNhdnhoeExVTWxYWTN3aXV2YUxmWDE3MXZRU0M1cHZNQl81MmRERmMzMWhzRnlRM3VCVzRHdnBFSHAxRmRDYjRVdkw2MmhNMTNQdlZaQ0lsaURKd1ZhTW41WTJzbmI0cDNDanNOSDRELUZja3Z3WDIwYVlfaGw1enVEdWdFbWN4Y3BiZw?oc=5",
@@ -941,6 +951,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "0878866789da",
+      "title": "Neue Arzneimittel bezahlbar halten - Verband der Ersatzkassen (vdek)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzE3cHpIZEo2Q0VEc0xrTzlCRHFTbW1GZ1dpbXhiSk55cmZpVFZaN3dtSkhvc2dqYkx0ekRicVhHTHhWTzFsSFVKZlVJZG1EUXBxZGZCU0kycm5yaVczSThMRHA3YkRHN3dPYXl3UTNEU1RWamFXdDBrZ2tTWWhqNjBjQk43VGNhdEFhMXF6Nmx6WHdkXzhwY25kTzVCMmp5?oc=5",
+      "published": "2025-06-17T07:00:00+00:00",
+      "source": {
+        "name": "Verband der Ersatzkassen (vdek)",
+        "url": "https://www.vdek.com"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "965e1762ff04",
-      "title": "GKV in der Krise : Warken erwägt höhere Zuzahlungen für Arzneimittel - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWlXOXMzZ2lzMTIwYlBfSUlPNFBUOEpGRkgzckx4QUQ4dVE2NVhRTzlZNTdPYm9halZadmVzQ0s3Z0VKUUNhUUFIOTFQQkhEQWttNGJ3SE9PQklubDU5WE8wZFQ1aFN2TnhEWUhBY3pzTU85dDRUWU1qVEF6dkxHN1NRYVl3M2tuTFdfUW5hQ1owSllpSjFYVHVTY1cwcHR5?oc=5",
-      "published": "2025-10-09T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "24ba45b63fb1",
-      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
-      "published": "2024-12-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
