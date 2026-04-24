@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-24T20:42:00.761806+00:00",
+  "fetched_at": "2026-04-24T21:43:13.495658+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "fc41c3ec6110",
-      "title": "Homöoopathie-Sparhammer: „Wertvolles Heilmittel“ weg – Expertin findet Aus „sinnvoll“ - FOCUS online",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjVXRWJkemFzbThjd09qVExRV0htTFdBazFBRDNfYkxpakZIN1ZkUl9yUnBsd0JvSTZMNnZwaFdfQ1E2ZDBPMXlySUhUV0Q5a0tVRXdBRHg1dUxlNi1ic0x2a0h3Nzd2bmNOa3M2RndEai1HblJrd01JX2Y2NlZmT3F2SHRyVjl6R21vYXFmSmFlUUtNSFdOcFF0dmJFbXctUHY1ZGpFY1NvMlZvYk9rRVp3V1pFbVhjUXBoWHF3Q2RPYXVQbS1FVzZuMGRPenZHTThsYTJZMFl0NDNXSWpINk1yQnRQN1d0bURpN1JGNA?oc=5",
-      "published": "2026-04-24T10:59:00+00:00",
-      "source": {
-        "name": "FOCUS online",
-        "url": "https://www.focus.de"
-      }
-    },
-    {
       "id": "589684016df5",
       "title": "BStabG: Eingriffe bei Arzneimittelpreisen gefährden Versorgung - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUNoTTU4eDVHeGxhbnMxaEROTFJyVEt6bXZSVHQ4TndNMXNfRDJ6aWF4cU9PQTlJc09uZEVUV2NMal82emdObUhlTkU5X3dNWHlFWDFiWWc0WVJyUDJYUFNndVhsUFI1WW8yelkxTnpGdk50TmFPTnFWNmxJcE1tZ1IxRnpqVU5EeWdqb0pwMmg2M0FFQi1UZDh6aGdHaXhCeHhjbWNEeXMzS19S?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "fc41c3ec6110",
+      "title": "Homöoopathie-Sparhammer: „Wertvolles Heilmittel“ weg – Expertin findet Aus „sinnvoll“ - FOCUS online",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjVXRWJkemFzbThjd09qVExRV0htTFdBazFBRDNfYkxpakZIN1ZkUl9yUnBsd0JvSTZMNnZwaFdfQ1E2ZDBPMXlySUhUV0Q5a0tVRXdBRHg1dUxlNi1ic0x2a0h3Nzd2bmNOa3M2RndEai1HblJrd01JX2Y2NlZmT3F2SHRyVjl6R21vYXFmSmFlUUtNSFdOcFF0dmJFbXctUHY1ZGpFY1NvMlZvYk9rRVp3V1pFbVhjUXBoWHF3Q2RPYXVQbS1FVzZuMGRPenZHTThsYTJZMFl0NDNXSWpINk1yQnRQN1d0bURpN1JGNA?oc=5",
+      "published": "2026-04-24T10:59:00+00:00",
+      "source": {
+        "name": "FOCUS online",
+        "url": "https://www.focus.de"
       }
     },
     {
@@ -94,6 +94,16 @@
       }
     },
     {
+      "id": "3b844f85cbff",
+      "title": "DHU: Homöopathie spart Kosten - apotheke adhoc",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWENpbkJrSW9FZXJCeXA4ZzJqRHBMSFJnUVE3ZG1jUUV3QTlCLUxLZTlJemRUY1J3MzQ0amtkaWtTWG5WTzNKZmdkcXJOOHh1VG9jbUx0WlRzSkNDanp6Y0hULXpINGx3aGRpSG5uZmRxUTdMS3hmbXJFODVESWFHdGFoRTR3cXMzRGZnaHNB?oc=5",
+      "published": "2026-04-21T11:35:00+00:00",
+      "source": {
+        "name": "apotheke adhoc",
+        "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
       "id": "b1c6b502e4ee",
       "title": "Frisch zugelassenes Medikament: Neue Therapie kann Entwicklung von Typ-1-Diabetes bremsen - News.de",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEtxblE2TFBpQTR5alFVZzRWX2IxM0xsYkhTVXhJb3NqMUVBRmpJR1ZGMVF2Y3BWdHBCdVBEMHYwUEQ5clBTMXdza3pnSGtfMjRHY0RDRC1kZ2tBem13cE5INUxiNU80M01hVVVoQ2lKalcwdHZxSFN0cC11VlZjRnpLM00tTzBrNGVVT3Vva0FKT2wzMUY1MG9KbGNBZHVNSzVxMXJRX3QzNlVjdWQzamJ3X2ZDdGs0SVJJbGMxS1VDQlV4b3BxNlE2dkdvMXlDOGdNZlR2aVVaVEtubVY4ZnNvV1XSAeoBQVVfeXFMTkU1N2ltU29rYzZXMWhPSTVpSmRwT3hhLUU4UWp0UmI3T2d0UDNCVDBtc05ZWjlUelhGMFJwbHFndnplQnNjb01Nb2tVUU5XVU15NzNncWFXLW9MVDQzeUtIRkFTbnNyLVdLdUdZY2VBRG9ueWx1WUVpZjNHckYyaUVKWHdvdDRDaS1qdTViWDQ0VW9DYW1EYVhwRjBYY2gyRnZXU19PMnJWZWFud3lHaUl5djBmeEx3dUpMTGNLNG9Fd3lCVmhseFg4VUFyZmh1SmstSzZfNVdfVC1qMzk4R2tQVlZhM2xYZGVR?oc=5",
@@ -101,16 +111,6 @@
       "source": {
         "name": "News.de",
         "url": "https://www.news.de"
-      }
-    },
-    {
-      "id": "fe58b4165f42",
-      "title": "DHU: Homöopathie spart Kosten - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWENpbkJrSW9FZXJCeXA4ZzJqRHBMSFJnUVE3ZG1jUUV3QTlCLUxLZTlJemRUY1J3MzQ0amtkaWtTWG5WTzNKZmdkcXJOOHh1VG9jbUx0WlRzSkNDanp6Y0hULXpINGx3aGRpSG5uZmRxUTdMS3hmbXJFODVESWFHdGFoRTR3cXMzRGZnaHNB?oc=5",
-      "published": "2026-04-21T11:35:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -154,30 +154,10 @@
       }
     },
     {
-      "id": "0cfe55620f25",
-      "title": "Gesundheitsreform: Mehrheit lehnt höhere Kosten für Kassenpatienten ab - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE8wM2M5bnEzbVJ4a0Y2eTFVUEZsYnc0UXhSM3pabkFZM3ZPTHVGSTlGVXE0SXlIdVpxZHc0WTUyYnpjeUd0cG5ubnBjLVpXZzA1MzVYVzBnVTczQjFBY0xWdzJYd1NWWXhvM1dBY29nS0IyeFUzVXluZEwwTkRDblo3d3Y2OUVQaFV3SDhSUnZqdHpUNDV0aS1PRElPRzhuSWJWOExFaHA5YkFNZWIxMFdoVVlJRjVfVXc?oc=5",
-      "published": "2026-04-21T05:23:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "62868ec42423",
       "title": "Innovationsrückstand bei Arzneimitteln: Warum Europa den Anschluss verliert - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE1rVXhPMVZ1ODdvLVRya0Zra2otTzFhMDFtT3U4RjFqQ3B4dS01Ry1EU25fdC11RXZGdXZWNWlrckd4OF9QN0hNOG9ndkJ6NDVNNENSQlhoODVwSVptN2NKdkxtVDJiWHQwVmQzdG9wN3g0Mm10WDZadnliTWFLb29OVUlEUE84VHZsdE1lZmQ0bU8wNnc?oc=5",
       "published": "2026-04-16T07:45:25+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T07:00:00+00:00",
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
@@ -191,6 +171,26 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "0cfe55620f25",
+      "title": "Gesundheitsreform: Mehrheit lehnt höhere Kosten für Kassenpatienten ab - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE8wM2M5bnEzbVJ4a0Y2eTFVUEZsYnc0UXhSM3pabkFZM3ZPTHVGSTlGVXE0SXlIdVpxZHc0WTUyYnpjeUd0cG5ubnBjLVpXZzA1MzVYVzBnVTczQjFBY0xWdzJYd1NWWXhvM1dBY29nS0IyeFUzVXluZEwwTkRDblo3d3Y2OUVQaFV3SDhSUnZqdHpUNDV0aS1PRElPRzhuSWJWOExFaHA5YkFNZWIxMFdoVVlJRjVfVXc?oc=5",
+      "published": "2026-04-21T05:23:00+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -254,12 +254,12 @@
       }
     },
     {
-      "id": "2ae51a0d1035",
-      "title": "Abgeordnetenhaus: Apotheker machen Druck beim Fixum - Apotheke Adhoc",
+      "id": "afbcde89462f",
+      "title": "Abgeordnetenhaus: Apotheker machen Druck beim Fixum - apotheke adhoc",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3Y3MXJvcXlvbklBM0ZMWTgwOHhyTmJuQjl2OHRZM25uNURrRVo4cVNHNi1JRElEc0Y4S0JDd3NHenVaVHFETFhWM0Uza1FNRDNEWE5VamVJLVdUejZhcjQ4dC1YWjJwSDRfYlVfOXYtdTdCc2JZZUtyNG8zT1ZpeFp0cVZORGxBelVuS1ktR3M0ZjRSVnU3Yi1RMFdEanJReXpRT2RRSXE3bUR0?oc=5",
       "published": "2026-04-21T09:33:00+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
+        "name": "apotheke adhoc",
         "url": "https://www.apotheke-adhoc.de"
       }
     },
@@ -524,16 +524,6 @@
       }
     },
     {
-      "id": "d46f6ce1c2b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
-      "published": "2025-09-23T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "7a8be8ca4068",
       "title": "Gesundheitskosten und Medikamentenpreise – eine Auslegeordnung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1hQRUV2a3EwLXhWVXNaQXlQa1JsRVVnS0Q0QXZTand1VHFOdENubE9oZllCNDBQZklaV1I2ejd4SS1ZVkhvbkVRYW5FbzVNYlB1Snk3X05kc3d6SU84b1duSV9CSi1hYjExcWpiczZqTDljZzl6dWpyczhHODM5VnhOWDg4V3pBYzhlUUFiTTFXbHBSSGlhXw?oc=5",
@@ -541,6 +531,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "d46f6ce1c2b9",
+      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
+      "published": "2025-09-23T07:00:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -674,16 +674,6 @@
       }
     },
     {
-      "id": "51c4967dad91",
-      "title": "Gesundheitsgefahr durch illegale Stoffe - Verbraucherzentrale.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0I4azR5X3RTSl84RmlzMzAyNHMyR2tBVXBUNDRySVBtaUdYSnppVFZtT0FFVXhZWThGX3gzX0U3WGNoOHlyeVg2QUlSelFtUTNpTVI3Q1p1SzhrSmxyczVocVVfLS1fX1NyajBkZU1jWDV6NV95dVlMQm9hSGhFVk9vdXh6QnNqcUVkRTBkWlVFRXFvd2Q2Q20wRWItSVBuaXdtVzYzQThlU2pEaWRfeFMtWnJVaWtIR2ZtRmt6Zi10Y3lw?oc=5",
-      "published": "2025-04-22T07:00:00+00:00",
-      "source": {
-        "name": "Verbraucherzentrale.de",
-        "url": "https://www.verbraucherzentrale.de"
-      }
-    },
-    {
       "id": "5e0f42d0db80",
       "title": "Arzneimittelsicherheit - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3FSSjBYd0VySGgzenRNRVpzMExITWlkS2FDS295Rm5NMnYyc0FwZ3ZhRGU4RXVGenJwWjAxVmk2UUNqcXdEWm5ucGpVWEJramJWWjNYbC1JZjd6clhEbkVhelBhTE9WUkxZV0drN2lHMG1yZFNHdVpLYjFfMi1IRVJGS2ZxNjlYTjVzcw?oc=5",
@@ -691,6 +681,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "51c4967dad91",
+      "title": "Gesundheitsgefahr durch illegale Stoffe - Verbraucherzentrale.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0I4azR5X3RTSl84RmlzMzAyNHMyR2tBVXBUNDRySVBtaUdYSnppVFZtT0FFVXhZWThGX3gzX0U3WGNoOHlyeVg2QUlSelFtUTNpTVI3Q1p1SzhrSmxyczVocVVfLS1fX1NyajBkZU1jWDV6NV95dVlMQm9hSGhFVk9vdXh6QnNqcUVkRTBkWlVFRXFvd2Q2Q20wRWItSVBuaXdtVzYzQThlU2pEaWRfeFMtWnJVaWtIR2ZtRmt6Zi10Y3lw?oc=5",
+      "published": "2025-04-22T07:00:00+00:00",
+      "source": {
+        "name": "Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de"
       }
     },
     {
@@ -874,16 +874,6 @@
       }
     },
     {
-      "id": "649c1374feb1",
-      "title": "Muss ich abgelaufene Medikamente wegwerfen? - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFhHRmNfVktfNnliVEdNcmR0ZzBYWmNTMWd3X1hrYXlJdWRxZzZ3dGRVQ3JDR2VoaHNCcDQ3NHllMy1oNmxFMzBaeEJ0SGYtNXZhUzA0ZGZxemRENVJXcG5leFdGTS02d2tiTk1jb1ZVSE5kV3N2NzlpdGlKR0k5OU5WOV9BM2dOMHJBMXVHbUFtNGRxT0ZpcTlB?oc=5",
-      "published": "2023-11-17T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "4bd9c1945413",
       "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
@@ -891,6 +881,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "649c1374feb1",
+      "title": "Muss ich abgelaufene Medikamente wegwerfen? - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFhHRmNfVktfNnliVEdNcmR0ZzBYWmNTMWd3X1hrYXlJdWRxZzZ3dGRVQ3JDR2VoaHNCcDQ3NHllMy1oNmxFMzBaeEJ0SGYtNXZhUzA0ZGZxemRENVJXcG5leFdGTS02d2tiTk1jb1ZVSE5kV3N2NzlpdGlKR0k5OU5WOV9BM2dOMHJBMXVHbUFtNGRxT0ZpcTlB?oc=5",
+      "published": "2023-11-17T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -924,16 +924,6 @@
       }
     },
     {
-      "id": "62359a83d4ac",
-      "title": "Arzneimittelmarkt in Deutschland: Analyse der Arzneimittelausgaben - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlhtenAxN1hGNE9LX3hMemlaSDRGcy1XN2xpVEt3cTlhcDl2akpxZWo4bjY1N0RNVGRlRG5pSnBFUVA0V1l4WWc3QmxNc2ExRVIxU3RZQldOcVZpbVJEak9tZFFQNFJQUUdJcmluYzY2YzV3M01qdjkxY3pvTVBGUWstMHJJVGtjR0JQcWhiTDNjejA?oc=5",
-      "published": "2025-05-23T19:10:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "8d4767c82033",
       "title": "Was darf ein zusätzliches Lebensjahr kosten? - Avenir Suisse",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCb0ZUOTVSbzM0Ylk1S1pBaHFhcVlKQUk4Y2tBSk1rU3RvZS1fa25kT0RzZzBnVXNBc09QUWdXVHhwMkxYbEE2YzY5VTBnMHlFYkJiZ2h1bmNRVVQtaUViQ1BwM0ZpQTNXdnFuYjVaN2wwMlFubUJrdU9UMGFPaUk?oc=5",
@@ -941,6 +931,16 @@
       "source": {
         "name": "Avenir Suisse",
         "url": "https://www.avenir-suisse.ch"
+      }
+    },
+    {
+      "id": "62359a83d4ac",
+      "title": "Arzneimittelmarkt in Deutschland: Analyse der Arzneimittelausgaben - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlhtenAxN1hGNE9LX3hMemlaSDRGcy1XN2xpVEt3cTlhcDl2akpxZWo4bjY1N0RNVGRlRG5pSnBFUVA0V1l4WWc3QmxNc2ExRVIxU3RZQldOcVZpbVJEak9tZFFQNFJQUUdJcmluYzY2YzV3M01qdjkxY3pvTVBGUWstMHJJVGtjR0JQcWhiTDNjejA?oc=5",
+      "published": "2025-05-23T19:10:43+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
