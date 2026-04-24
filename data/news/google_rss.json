@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-24T19:49:13.318534+00:00",
+  "fetched_at": "2026-04-24T20:42:00.761806+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,13 +34,13 @@
       }
     },
     {
-      "id": "3b7d6b141a03",
-      "title": "Expertin Vogler: \"Staaten verhandeln über Medikamentenpreise mit verbundenen Augen\" - Der Standard",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLW9tWlVPaUMzaXZ0TEhvWFdLdm53d2JEVlBZcVp4UTc4YWlUTTQydURVc2tJcy1SeVZENXYzUGhXTmRVUU9zcVl6VGRWRlZ2d2ljYU5nUzM3LURTbWNUYngyd19Gc1lQV1pSUjVDRjdXbGtMV2VjaW1ob3ctN3BTZFlzUy15Nk9xVURScVFXdFNSSGU3NFJkOF83aFJKYVNsVTFhVXVWRXY3Mkd5SFRRdTE5dllLOWRLU2pRQTJ3M1Jmb3gxaTB3?oc=5",
-      "published": "2026-04-24T10:00:00+00:00",
+      "id": "fc41c3ec6110",
+      "title": "Homöoopathie-Sparhammer: „Wertvolles Heilmittel“ weg – Expertin findet Aus „sinnvoll“ - FOCUS online",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjVXRWJkemFzbThjd09qVExRV0htTFdBazFBRDNfYkxpakZIN1ZkUl9yUnBsd0JvSTZMNnZwaFdfQ1E2ZDBPMXlySUhUV0Q5a0tVRXdBRHg1dUxlNi1ic0x2a0h3Nzd2bmNOa3M2RndEai1HblJrd01JX2Y2NlZmT3F2SHRyVjl6R21vYXFmSmFlUUtNSFdOcFF0dmJFbXctUHY1ZGpFY1NvMlZvYk9rRVp3V1pFbVhjUXBoWHF3Q2RPYXVQbS1FVzZuMGRPenZHTThsYTJZMFl0NDNXSWpINk1yQnRQN1d0bURpN1JGNA?oc=5",
+      "published": "2026-04-24T10:59:00+00:00",
       "source": {
-        "name": "Der Standard",
-        "url": "https://www.derstandard.de"
+        "name": "FOCUS online",
+        "url": "https://www.focus.de"
       }
     },
     {
@@ -61,16 +61,6 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
-      }
-    },
-    {
-      "id": "fc41c3ec6110",
-      "title": "Homöoopathie-Sparhammer: „Wertvolles Heilmittel“ weg – Expertin findet Aus „sinnvoll“ - FOCUS online",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjVXRWJkemFzbThjd09qVExRV0htTFdBazFBRDNfYkxpakZIN1ZkUl9yUnBsd0JvSTZMNnZwaFdfQ1E2ZDBPMXlySUhUV0Q5a0tVRXdBRHg1dUxlNi1ic0x2a0h3Nzd2bmNOa3M2RndEai1HblJrd01JX2Y2NlZmT3F2SHRyVjl6R21vYXFmSmFlUUtNSFdOcFF0dmJFbXctUHY1ZGpFY1NvMlZvYk9rRVp3V1pFbVhjUXBoWHF3Q2RPYXVQbS1FVzZuMGRPenZHTThsYTJZMFl0NDNXSWpINk1yQnRQN1d0bURpN1JGNA?oc=5",
-      "published": "2026-04-24T10:59:00+00:00",
-      "source": {
-        "name": "FOCUS online",
-        "url": "https://www.focus.de"
       }
     },
     {
@@ -101,6 +91,16 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
+      "id": "b1c6b502e4ee",
+      "title": "Frisch zugelassenes Medikament: Neue Therapie kann Entwicklung von Typ-1-Diabetes bremsen - News.de",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEtxblE2TFBpQTR5alFVZzRWX2IxM0xsYkhTVXhJb3NqMUVBRmpJR1ZGMVF2Y3BWdHBCdVBEMHYwUEQ5clBTMXdza3pnSGtfMjRHY0RDRC1kZ2tBem13cE5INUxiNU80M01hVVVoQ2lKalcwdHZxSFN0cC11VlZjRnpLM00tTzBrNGVVT3Vva0FKT2wzMUY1MG9KbGNBZHVNSzVxMXJRX3QzNlVjdWQzamJ3X2ZDdGs0SVJJbGMxS1VDQlV4b3BxNlE2dkdvMXlDOGdNZlR2aVVaVEtubVY4ZnNvV1XSAeoBQVVfeXFMTkU1N2ltU29rYzZXMWhPSTVpSmRwT3hhLUU4UWp0UmI3T2d0UDNCVDBtc05ZWjlUelhGMFJwbHFndnplQnNjb01Nb2tVUU5XVU15NzNncWFXLW9MVDQzeUtIRkFTbnNyLVdLdUdZY2VBRG9ueWx1WUVpZjNHckYyaUVKWHdvdDRDaS1qdTViWDQ0VW9DYW1EYVhwRjBYY2gyRnZXU19PMnJWZWFud3lHaUl5djBmeEx3dUpMTGNLNG9Fd3lCVmhseFg4VUFyZmh1SmstSzZfNVdfVC1qMzk4R2tQVlZhM2xYZGVR?oc=5",
+      "published": "2026-04-24T12:07:03+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "8d47fc208c25",
-      "title": "Klinische Forschung in Deutschland: Strukturelle Defizite bremsen Milliardenpotenzial - IGES Institut",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXZHQXZKTktXWXo4ekQ3T242TVhiU3hzLXphN1dCazdVZ3JBXy0yaXlLR2NyUERGWHNMSnpKOVlJQWt2QUd3LXJXNHRXUFFDYTByU2ZiMTlvU1EtZDM0V2ZtQ3JLRGNSc0dwMDlvTUQtOXlock5wbk15V0drSkNDR2Z6akZDV2M?oc=5",
-      "published": "2026-04-22T15:18:34+00:00",
-      "source": {
-        "name": "IGES Institut",
-        "url": "https://www.iges.com"
-      }
-    },
-    {
       "id": "7f09edf69bc9",
       "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
@@ -201,6 +191,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "8d47fc208c25",
+      "title": "Klinische Forschung in Deutschland: Strukturelle Defizite bremsen Milliardenpotenzial - IGES Institut",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXZHQXZKTktXWXo4ekQ3T242TVhiU3hzLXphN1dCazdVZ3JBXy0yaXlLR2NyUERGWHNMSnpKOVlJQWt2QUd3LXJXNHRXUFFDYTByU2ZiMTlvU1EtZDM0V2ZtQ3JLRGNSc0dwMDlvTUQtOXlock5wbk15V0drSkNDR2Z6akZDV2M?oc=5",
+      "published": "2026-04-22T15:18:34+00:00",
+      "source": {
+        "name": "IGES Institut",
+        "url": "https://www.iges.com"
       }
     },
     {
@@ -331,6 +331,16 @@
       "source": {
         "name": "Aargauer Zeitung",
         "url": "https://www.aargauerzeitung.ch"
+      }
+    },
+    {
+      "id": "09aa5c741fc7",
+      "title": "In den USA: Abnehmspritze jetzt bei Amazon verfügbar - Lieferung direkt nach Hause - News.de",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV0FZeWRRWVQ3aXB5Y3R1MjJGNHJpc1dFWWZxYThfT3JqYWc0RDlqR1Y1UWhtckhSbnNQS2l3SjlnRVBsTnlIUVFPQVcwZXJvSG9JWkZ2VDlwSUFHblVGSXhoanhzMUlOdTlMbkhWcjZHVnZGSm1Td2NqME5RbWU0Y01raVdfbDRVeTN6MHpfQW04ejV6N1BVRFY1Sk1JYkxZMkVnUjN3UVdXYWE0R2hPU0gyUkIyWGFOOWxTa0JZaEVYVndpT0dtQmdqR1pVS3NFMFZTVFkwX2FiTDhGc0hHd0xWVzZ4X2FjV1V1R0RzbFFLMDRBQklSdVBHeUpSRlc2dFBN0gGIAkFVX3lxTE54SFhDWWFmNFNMSmxIdjFCeU9aanc3amhwV2o5ejdvOVA1UmxCeTBjZE50U3c0VDdXVDdsZmlLVkk2eDFDU0F4UTlYWHo0emFyQzdXaEZ4UlAySDRpMnc1Y05jcU5hUklEM050V1NHT0ZVbVA0TkpuRGhWeXZfcUNPNHprRVI3Z1NEQVNFZnlOYkQ1MlBzcmd2VVg1ZDU0UTBDSGxaQjN5bUgyR1FyRmlDdEN6UHFkWjRlcVN2dThuZ3E0MzdKQU1vNkFvMGZoRG1fXzd6TTB4TzVJcGIxN3dKX09JMzNjcGYzbElqbUNGNFBEaEtDQlh2M2lfM0E2VjhRU1hycEowRg?oc=5",
+      "published": "2026-04-22T10:49:02+00:00",
+      "source": {
+        "name": "News.de",
+        "url": "https://www.news.de"
       }
     },
     {
@@ -674,16 +684,6 @@
       }
     },
     {
-      "id": "8fa1bb660470",
-      "title": "Arzneimittelbehörden bewilligen unwirksame Medikamente - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0swZWI0Ym4wZm9jb2o2aUZfLW9FWFFuOGtnN094MU16Y0FYaFd1T0xHRURHamhRZ3ROeklVMFNqcklPdi1uU2ZXVW5QWUVSazZVNWlhVDVnTHVVbUc0YVJRMWQ2Yk5kbklBNXlYX3pMY2d5TXNlM2QteVBVY3cxSnZUclBuUTB1Z2ZFV2ZhX1VOZHdfY2hQRDRRbG0?oc=5",
-      "published": "2025-07-27T07:00:00+00:00",
-      "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
-      }
-    },
-    {
       "id": "5e0f42d0db80",
       "title": "Arzneimittelsicherheit - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3FSSjBYd0VySGgzenRNRVpzMExITWlkS2FDS295Rm5NMnYyc0FwZ3ZhRGU4RXVGenJwWjAxVmk2UUNqcXdEWm5ucGpVWEJramJWWjNYbC1JZjd6clhEbkVhelBhTE9WUkxZV0drN2lHMG1yZFNHdVpLYjFfMi1IRVJGS2ZxNjlYTjVzcw?oc=5",
@@ -691,6 +691,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "8fa1bb660470",
+      "title": "Arzneimittelbehörden bewilligen unwirksame Medikamente - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0swZWI0Ym4wZm9jb2o2aUZfLW9FWFFuOGtnN094MU16Y0FYaFd1T0xHRURHamhRZ3ROeklVMFNqcklPdi1uU2ZXVW5QWUVSazZVNWlhVDVnTHVVbUc0YVJRMWQ2Yk5kbklBNXlYX3pMY2d5TXNlM2QteVBVY3cxSnZUclBuUTB1Z2ZFV2ZhX1VOZHdfY2hQRDRRbG0?oc=5",
+      "published": "2025-07-27T07:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
       }
     },
     {
@@ -754,16 +764,6 @@
       }
     },
     {
-      "id": "24ba45b63fb1",
-      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
-      "published": "2024-12-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "b49b7fe4e0f1",
       "title": "Krebs-Medikamente - Wird «Off-Label» bei Arzneimitteln das neue Normal? - SRF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXI2SVpPOEd3anFIdjdyOEN6NEJSdFlJaDdHdTR6WTI0QlpCTGN2TG1NV1pCaHp6aFhtQWh0TjdZQ21wWlpGMUJuYmZ1QkxJU013S2xjVld1OVN6aWRRa0JjRG5GVDN6a1hGZUJEZXFFUmNNUXBpMXhOS0pqOE1vQ2tXSmhEQ29yYWFqZUlPcVdicGtVbkFERVB4MnlPczAyQ05lNUFR?oc=5",
@@ -771,6 +771,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "24ba45b63fb1",
+      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
+      "published": "2024-12-31T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "300678384bbb",
-      "title": "Ecstasy als Therapie – keine US-Zulassung für MDMA - SRF",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUU2SG5CMXptQmpXVGNPVUtybnhVbVB6YVA2b2RWWEIyQTlrZ092Nk9PaFlXa2tlcFlkMWo5UlhXSHNLUVdySHlhU2VZMHljMzEtckk2MzBoVjZMbVhHMUFLUXZDLTV4QlcyUUF4aVp2ZzBzNGo4OUs2aHdwbk5LSFVLdU54akxvajhCY1EwUE42U1V4blRfUUFqWmRDemQyQmM2c1d3YlFXWDNBeGpN?oc=5",
-      "published": "2024-08-22T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     }
   ]
