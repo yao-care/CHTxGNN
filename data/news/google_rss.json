@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T19:41:18.853443+00:00",
+  "fetched_at": "2026-04-25T20:34:34.532641+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "2bf45e54b0ef",
-      "title": "Cholesterin zu hoch? Neue Tablette könnte bald helfen, wo Statine versagen - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWh2Vi1XaDFtb3VrZ0xCc08yUHpwenk4YU5tZnFZSEVVUjFBLWFNLXVUOE14UHA0QnBBUWI2bzVYOUhnenhmZ2pGaDFmVUNlMjJQQkJxZ1JQWV9EYnVHb3RDWHFEVzRCRTd2b2VyWEd1U01kWDdvWHBQSFhncEFDRkNINk5Dc3VVaWZFcUVmczRsTU00QkF4SXkyMUxTelhlSjdjNDV0cjgxUWg1bFJvY2xDcEwyX3ZkTUVVNE90NncxdEY1WDBVZ00wYWtBRFZvN3JN?oc=5",
-      "published": "2026-04-25T17:52:24+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
       "id": "11cdd0be15c8",
       "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - WirtschaftsWoche",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEkzamFzeFFHZEk3NjFIbFJmYjZvajlGOVMtcHo3aUZsWFlvdkcyMzFTODZXZFM1dWhNWU1lT3FVVDk4dlduRjBqV2paSEFVbkE2YWktMVJIanA4U3J2QW1rMnFtOUljc0pXb2hEbVNSWkxYdGlkRHRMRGE3aGpSYjlrU0FzN0RjN1dhWkJWZldkUmVpbm9xbXpSZmR3b0xGR2ZXQmdvVVZ4bWh5bmVNbkdOOU1rNEdiZElEc0NEeDE3LXpqVkE?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
+      }
+    },
+    {
+      "id": "2bf45e54b0ef",
+      "title": "Cholesterin zu hoch? Neue Tablette könnte bald helfen, wo Statine versagen - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWh2Vi1XaDFtb3VrZ0xCc08yUHpwenk4YU5tZnFZSEVVUjFBLWFNLXVUOE14UHA0QnBBUWI2bzVYOUhnenhmZ2pGaDFmVUNlMjJQQkJxZ1JQWV9EYnVHb3RDWHFEVzRCRTd2b2VyWEd1U01kWDdvWHBQSFhncEFDRkNINk5Dc3VVaWZFcUVmczRsTU00QkF4SXkyMUxTelhlSjdjNDV0cjgxUWg1bFJvY2xDcEwyX3ZkTUVVNE90NncxdEY1WDBVZ00wYWtBRFZvN3JN?oc=5",
+      "published": "2026-04-25T17:52:24+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -101,6 +101,16 @@
       "source": {
         "name": "Der Standard",
         "url": "https://www.derstandard.de"
+      }
+    },
+    {
+      "id": "fc41c3ec6110",
+      "title": "Homöoopathie-Sparhammer: „Wertvolles Heilmittel“ weg – Expertin findet Aus „sinnvoll“ - FOCUS online",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjVXRWJkemFzbThjd09qVExRV0htTFdBazFBRDNfYkxpakZIN1ZkUl9yUnBsd0JvSTZMNnZwaFdfQ1E2ZDBPMXlySUhUV0Q5a0tVRXdBRHg1dUxlNi1ic0x2a0h3Nzd2bmNOa3M2RndEai1HblJrd01JX2Y2NlZmT3F2SHRyVjl6R21vYXFmSmFlUUtNSFdOcFF0dmJFbXctUHY1ZGpFY1NvMlZvYk9rRVp3V1pFbVhjUXBoWHF3Q2RPYXVQbS1FVzZuMGRPenZHTThsYTJZMFl0NDNXSWpINk1yQnRQN1d0bURpN1JGNA?oc=5",
+      "published": "2026-04-24T10:59:00+00:00",
+      "source": {
+        "name": "FOCUS online",
+        "url": "https://www.focus.de"
       }
     },
     {
@@ -144,16 +154,6 @@
       }
     },
     {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-01-20T08:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
-      }
-    },
-    {
       "id": "62868ec42423",
       "title": "Innovationsrückstand bei Arzneimitteln: Warum Europa den Anschluss verliert - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE1rVXhPMVZ1ODdvLVRya0Zra2otTzFhMDFtT3U4RjFqQ3B4dS01Ry1EU25fdC11RXZGdXZWNWlrckd4OF9QN0hNOG9ndkJ6NDVNNENSQlhoODVwSVptN2NKdkxtVDJiWHQwVmQzdG9wN3g0Mm10WDZadnliTWFLb29OVUlEUE84VHZsdE1lZmQ0bU8wNnc?oc=5",
@@ -181,6 +181,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "075a40db361f",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
       }
     },
     {
@@ -301,16 +311,6 @@
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
-      "id": "09aa5c741fc7",
-      "title": "In den USA: Abnehmspritze jetzt bei Amazon verfügbar - Lieferung direkt nach Hause - News.de",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV0FZeWRRWVQ3aXB5Y3R1MjJGNHJpc1dFWWZxYThfT3JqYWc0RDlqR1Y1UWhtckhSbnNQS2l3SjlnRVBsTnlIUVFPQVcwZXJvSG9JWkZ2VDlwSUFHblVGSXhoanhzMUlOdTlMbkhWcjZHVnZGSm1Td2NqME5RbWU0Y01raVdfbDRVeTN6MHpfQW04ejV6N1BVRFY1Sk1JYkxZMkVnUjN3UVdXYWE0R2hPU0gyUkIyWGFOOWxTa0JZaEVYVndpT0dtQmdqR1pVS3NFMFZTVFkwX2FiTDhGc0hHd0xWVzZ4X2FjV1V1R0RzbFFLMDRBQklSdVBHeUpSRlc2dFBN0gGIAkFVX3lxTE54SFhDWWFmNFNMSmxIdjFCeU9aanc3amhwV2o5ejdvOVA1UmxCeTBjZE50U3c0VDdXVDdsZmlLVkk2eDFDU0F4UTlYWHo0emFyQzdXaEZ4UlAySDRpMnc1Y05jcU5hUklEM050V1NHT0ZVbVA0TkpuRGhWeXZfcUNPNHprRVI3Z1NEQVNFZnlOYkQ1MlBzcmd2VVg1ZDU0UTBDSGxaQjN5bUgyR1FyRmlDdEN6UHFkWjRlcVN2dThuZ3E0MzdKQU1vNkFvMGZoRG1fXzd6TTB4TzVJcGIxN3dKX09JMzNjcGYzbElqbUNGNFBEaEtDQlh2M2lfM0E2VjhRU1hycEowRg?oc=5",
-      "published": "2026-04-22T10:49:02+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
       }
     },
     {
