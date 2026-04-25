@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-24T23:36:31.668798+00:00",
+  "fetched_at": "2026-04-25T02:03:37.316404+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "3b7d6b141a03",
-      "title": "Expertin Vogler: \"Staaten verhandeln über Medikamentenpreise mit verbundenen Augen\" - Der Standard",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLW9tWlVPaUMzaXZ0TEhvWFdLdm53d2JEVlBZcVp4UTc4YWlUTTQydURVc2tJcy1SeVZENXYzUGhXTmRVUU9zcVl6VGRWRlZ2d2ljYU5nUzM3LURTbWNUYngyd19Gc1lQV1pSUjVDRjdXbGtMV2VjaW1ob3ctN3BTZFlzUy15Nk9xVURScVFXdFNSSGU3NFJkOF83aFJKYVNsVTFhVXVWRXY3Mkd5SFRRdTE5dllLOWRLU2pRQTJ3M1Jmb3gxaTB3?oc=5",
-      "published": "2026-04-24T10:00:00+00:00",
-      "source": {
-        "name": "Der Standard",
-        "url": "https://www.derstandard.de"
-      }
-    },
-    {
       "id": "8d1fc40266cd",
       "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMEFNZWpPYzRReWJNTkhGRk11RnNpblJQVjNEdE1ISllXWlNUWk4yZFpWclRTOUl0M3ZJTXhSNmpMdEtuVkVWVnV3aEJXdWxld0l3dUVkdGszYnVuNEFxbldsSXNJamc?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "FOCUS online",
         "url": "https://www.focus.de"
+      }
+    },
+    {
+      "id": "3b7d6b141a03",
+      "title": "Expertin Vogler: \"Staaten verhandeln über Medikamentenpreise mit verbundenen Augen\" - Der Standard",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLW9tWlVPaUMzaXZ0TEhvWFdLdm53d2JEVlBZcVp4UTc4YWlUTTQydURVc2tJcy1SeVZENXYzUGhXTmRVUU9zcVl6VGRWRlZ2d2ljYU5nUzM3LURTbWNUYngyd19Gc1lQV1pSUjVDRjdXbGtMV2VjaW1ob3ctN3BTZFlzUy15Nk9xVURScVFXdFNSSGU3NFJkOF83aFJKYVNsVTFhVXVWRXY3Mkd5SFRRdTE5dllLOWRLU2pRQTJ3M1Jmb3gxaTB3?oc=5",
+      "published": "2026-04-24T10:00:00+00:00",
+      "source": {
+        "name": "Der Standard",
+        "url": "https://www.derstandard.de"
       }
     },
     {
@@ -194,16 +194,6 @@
       }
     },
     {
-      "id": "0cfe55620f25",
-      "title": "Gesundheitsreform: Mehrheit lehnt höhere Kosten für Kassenpatienten ab - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE8wM2M5bnEzbVJ4a0Y2eTFVUEZsYnc0UXhSM3pabkFZM3ZPTHVGSTlGVXE0SXlIdVpxZHc0WTUyYnpjeUd0cG5ubnBjLVpXZzA1MzVYVzBnVTczQjFBY0xWdzJYd1NWWXhvM1dBY29nS0IyeFUzVXluZEwwTkRDblo3d3Y2OUVQaFV3SDhSUnZqdHpUNDV0aS1PRElPRzhuSWJWOExFaHA5YkFNZWIxMFdoVVlJRjVfVXc?oc=5",
-      "published": "2026-04-21T05:23:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "da9244502f14",
       "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
@@ -211,6 +201,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "0cfe55620f25",
+      "title": "Gesundheitsreform: Mehrheit lehnt höhere Kosten für Kassenpatienten ab - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE8wM2M5bnEzbVJ4a0Y2eTFVUEZsYnc0UXhSM3pabkFZM3ZPTHVGSTlGVXE0SXlIdVpxZHc0WTUyYnpjeUd0cG5ubnBjLVpXZzA1MzVYVzBnVTczQjFBY0xWdzJYd1NWWXhvM1dBY29nS0IyeFUzVXluZEwwTkRDblo3d3Y2OUVQaFV3SDhSUnZqdHpUNDV0aS1PRElPRzhuSWJWOExFaHA5YkFNZWIxMFdoVVlJRjVfVXc?oc=5",
+      "published": "2026-04-21T05:23:00+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -311,16 +311,6 @@
       "source": {
         "name": "zentralplus",
         "url": "https://www.zentralplus.ch"
-      }
-    },
-    {
-      "id": "5b57c229e863",
-      "title": "BMG-Sparpläne: Hanflobby sieht Kostenanstieg durch Erstattungs-Aus für Cannabisblüten - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVJGbnlaR296cGxtQWZjLXF2Y2NtR2R5MW9Dd2tBM2ZoOHU1X2xQMjBPSTVwS2t0MkJzTmwzUzRTR1ZXcndEVmt0bGVBUm4tZjg3X25FdXV4cVp6eWhmandyRDFTeDZEd0pKdXFxVi1lNE1EYUJ5b0dFV0ZWVmJRaHBPN2ZneUViZlV4MjZvUHdrV3plTXNNQlhUZ0pQZV9rV2djNVR6aXFzMFRyOTV3UjZlTEpXOVFZaUxj?oc=5",
-      "published": "2026-04-21T09:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -604,16 +594,6 @@
       }
     },
     {
-      "id": "445f92c7e54b",
-      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
-      "published": "2025-09-16T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "2ae0768acb65",
       "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
@@ -621,6 +601,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "445f92c7e54b",
+      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
+      "published": "2025-09-16T07:00:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "d0f20243c397",
+      "title": "Warnung vor Importen von Melatonin und DHEA durch Privatpersonen - Swissmedic",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc1JTTFJaSXdfeDI4RnZ5dk14dE96SDJpSXd5dDBjWGpJSTM1VjJmeWlnVi1SN05MbUhoSUQ4aGszNTJtN0tUQm9LcjkxZE1BNk14UEVRMXV6OE94Z19uNUhla3o1Tk16YXNNaGp4M0hyNDZVRmpteWlybVRBbzhoTXVMN2xVTGhtaHFJYmlhNHVPQTcyQUtIbnY4SFZzblhuNHA5eERkUWFWMWd1VHBuZHd5UWVwcHJ0LWtRMm9QUEZCcUZ1LWpweldiWllkVjFnM1ZrQUwyZ0hoMHpXR3RKelEzZGRJS2wtM1FWcEdkMVNfZWNKb1RBQVVobzZKLVIyblQtLXA5T0kyX1k?oc=5",
+      "published": "2023-11-27T08:00:00+00:00",
+      "source": {
+        "name": "Swissmedic",
+        "url": "https://www.swissmedic.ch"
       }
     }
   ]
