@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-04-29T10:52:11.855469+00:00",
+  "fetched_at": "2026-04-29T12:15:00.885156+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "566dd4d9d4e6",
-      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
-      "published": "2026-04-28T12:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
     {
       "id": "bbbb55e61434",
       "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - St. Galler Tagblatt",
@@ -21,6 +11,16 @@
       "source": {
         "name": "St. Galler Tagblatt",
         "url": "https://www.tagblatt.ch"
+      }
+    },
+    {
+      "id": "566dd4d9d4e6",
+      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
+      "published": "2026-04-28T12:00:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "8c270d10238f",
-      "title": "Long Covid: Krankenkassen zahlen vier Off-Label-Medikamente - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSHFHNmFCMFRVWWo4RDd6VkFETnd6S3FRM0Mzd2VUQldhTElvcWFaSldTcnNsWDgzVTI2X3d0bWY3QkJ2dmZWRUdTdG5mY3MzbXdLSGlMZ2lfcnVweU1DSjlnTkl0OHNpbE5Xa2JZX0ppZnNucWVabUFOVVhmbEJDTkJOUGo5Mk9tekhMUkNpY2laak1jNnBHVGV4eVF3T2gyQ0dVRUZKZlh6Ql9kaUZ5MFM2OVVVaXkzY1JMSjF6UDF1ajZFcU9PWDNFb3VmcDN3ZDdEa1p1MFhiQ21OSzFjOG9DLTE5YzI5dU1qbWJJcUNjYzRYOHdkZWFpZXFWaVhnZ2hrVVZJQ214bWJ4Rmp4d2o2UEVac2I5M1E?oc=5",
-      "published": "2026-04-29T03:04:42+00:00",
-      "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
-      }
-    },
-    {
       "id": "182713c3dbaf",
       "title": "Aspirin als Wundermittel gegen Krebs – das taugt die Idee wirklich - Luzerner Zeitung",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTg1bzAzZnVWd2pITEt4Z2JhVWRWTlpKalp1cENBb1BCSHhpRjdKMWlOaTF6Q2pnY19SaTAxY09MZnRZclA4NUk0MlJ2cUJpYWVKc2pmX0RvdkFJdXBBT3JqTVhRUnNqVldmR0Y2aG5lZ0J0enJNalc0OGRhQnZxdVgwcl9KeTlqSUluZ0Nfcw?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Luzerner Zeitung",
         "url": "https://www.luzernerzeitung.ch"
+      }
+    },
+    {
+      "id": "8c270d10238f",
+      "title": "Long Covid: Krankenkassen zahlen vier Off-Label-Medikamente - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSHFHNmFCMFRVWWo4RDd6VkFETnd6S3FRM0Mzd2VUQldhTElvcWFaSldTcnNsWDgzVTI2X3d0bWY3QkJ2dmZWRUdTdG5mY3MzbXdLSGlMZ2lfcnVweU1DSjlnTkl0OHNpbE5Xa2JZX0ppZnNucWVabUFOVVhmbEJDTkJOUGo5Mk9tekhMUkNpY2laak1jNnBHVGV4eVF3T2gyQ0dVRUZKZlh6Ql9kaUZ5MFM2OVVVaXkzY1JMSjF6UDF1ajZFcU9PWDNFb3VmcDN3ZDdEa1p1MFhiQ21OSzFjOG9DLTE5YzI5dU1qbWJJcUNjYzRYOHdkZWFpZXFWaVhnZ2hrVVZJQ214bWJ4Rmp4d2o2UEVac2I5M1E?oc=5",
+      "published": "2026-04-29T03:04:42+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
       }
     },
     {
@@ -324,6 +324,16 @@
       }
     },
     {
+      "id": "1f9d03a55fed",
+      "title": "Barbara Duhm ist neue Geschäftsführerin von InfectoPharm Österreich - PressNetwork",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnA2YnYwWWtJUUFDaUY2VXhBRGJKbzBrS1l4S3g2a3hxaTNFYkNLUFMzWEdmQndzN2JjdEhWcnRPZWxRVnNDNGpIcHNfV1o0dnZMX2dSMk54TkhVQ3FEUzNueGh6Y1FmQ3FnbXhFcWNjWjFCNTNJdVZsdzRMVnB0UWlndS15QzdmVFRwVEQxTXVkeWFOdGFzSmpxcw?oc=5",
+      "published": "2026-04-29T11:29:25+00:00",
+      "source": {
+        "name": "PressNetwork",
+        "url": "https://pressnetwork.de"
+      }
+    },
+    {
       "id": "a43852bf5366",
       "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
@@ -544,16 +554,6 @@
       }
     },
     {
-      "id": "73821728fb6f",
-      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
-      "published": "2025-11-02T07:00:00+00:00",
-      "source": {
-        "name": "SWR",
-        "url": "https://www.swr.de"
-      }
-    },
-    {
       "id": "2f0394c48ff1",
       "title": "Diskussionsrunde : Teure Orphan Drugs setzen GKV unter Druck - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMm9GbF9MdlR1T05IVU9La29FSnJzYmpWYTNqNW05eHVvMW1OVTdOX3FMaHhPT2JuUExjdkV6Zlg1NUh6WHEzS3RkQmhFLUVKWllJa2IxdDBacXl5SDZsbzc1YXY3TnIzYUpjalNfaDl6dnE2YUV0eGt1cWd0OTBiVVNYYzIzMEUybmdDRjZGQ3ZKZw?oc=5",
@@ -561,6 +561,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "73821728fb6f",
+      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
+      "published": "2025-11-02T07:00:00+00:00",
+      "source": {
+        "name": "SWR",
+        "url": "https://www.swr.de"
       }
     },
     {
@@ -844,16 +854,6 @@
       }
     },
     {
-      "id": "02b3d44d1488",
-      "title": "- Medikamente am Steuer - Rezeptfrei heisst nicht unbedenklich - SRF",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREZseEwtd21Rd0RvdjBnZ2R3UTRROUFRVFpmMFplbjhia0xPYVN5S2FHM0ZmZmQ1aGxMQm95ZG5NVlZhYXNMaTZRMi12RU1UZGdyeEwzX0EyUEVUUHZOZGlqX1N2Tzg3R2FVSFQxcHZDenlzMW9WMWpmcDkxUDN4Y2Mxd1VMVEZFbG1GNTJ0dV9ic0NLZUVoUGZJZw?oc=5",
-      "published": "2021-08-17T10:24:08+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "214578c6f08a",
       "title": "Krankheiten in Entwicklungsländern: Von AIDS bis Malaria - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajlZV3pZZ21RVEpqY3NRbmEzdnVfOVNfS2ppem8yaGN5dHRyTG4xZzhHZ3JHdXhNREZQM2g4V0xEbE5XWXRKMWl4aERONXh5YVd4R1BuVkg3VlVFQzJqcEhWakVwd1pnN3BCNW5GX2ZxVUtIRWJyU3BDYTlaMkpVYjRwZTZJS1RmTTZvZ1FaZ2FiU2hkZ29TczJwdUtpOVA2X0oydkRRamhadmhxN00yT0ZHZVdxS1ZiT09lMGEzS3RFUjdnV0VfT0JtampJaUYyMk44WUEtaGp3SmNsM3pFdGRtWFBnQTZZR29uRHc0a2NXUkhG?oc=5",
@@ -861,6 +861,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "02b3d44d1488",
+      "title": "- Medikamente am Steuer - Rezeptfrei heisst nicht unbedenklich - SRF",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREZseEwtd21Rd0RvdjBnZ2R3UTRROUFRVFpmMFplbjhia0xPYVN5S2FHM0ZmZmQ1aGxMQm95ZG5NVlZhYXNMaTZRMi12RU1UZGdyeEwzX0EyUEVUUHZOZGlqX1N2Tzg3R2FVSFQxcHZDenlzMW9WMWpmcDkxUDN4Y2Mxd1VMVEZFbG1GNTJ0dV9ic0NLZUVoUGZJZw?oc=5",
+      "published": "2021-08-17T10:24:08+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -981,16 +991,6 @@
       "source": {
         "name": "Swissmedic",
         "url": "https://www.swissmedic.ch"
-      }
-    },
-    {
-      "id": "5016bb3b2d94",
-      "title": "Arzt mit illegalem Labor: Dr. Wundermittel lernt nichts dazu - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQldyalRLZUVaUjVGalgxTlE2V1pCQVMxejBIS3RsRlN1QnExOWlYMThJQWdZLUNGcUFVRE9KRzBRcXE2RGp3aHRtcVFqNlpNZko3TnczYmtxdXdzMEplclZEWDJNZ0dsVVBpU2FqRUdtR25sb09wU1lPOU5QUlpod2p6bU5HVDJ2NkVXdmswN2RlRjRfd0o1dG9tVGVPRVdEVDRpVnoyaTBUVnBNYms5T2hYVC1NWHZ3ZnBjTF92LVNMZ2hzZUV6a0FBcmZRWmd2a0I5am9FUXA3NnJkYTkyOE5salA3cWNaUkJ3YQ?oc=5",
-      "published": "2023-04-04T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     },
     {
