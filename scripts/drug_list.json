@@ -1,7 +1,28 @@
 {
-  "total": 725,
-  "generated_at": "2026-04-30T14:09:33.775326",
+  "total": 732,
+  "generated_at": "2026-05-01T03:52:57.324241",
   "drugs": [
+    {
+      "name": "Andexanet Alfa",
+      "file": "andexanet_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Centella Asiatica",
+      "file": "centella_asiatica.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cisatracurium",
+      "file": "cisatracurium.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
     {
       "name": "CETUXIMABUM",
       "file": "db00002.md",
@@ -5075,6 +5096,34 @@
       "file": "db15233.md",
       "evidence_level": "L5",
       "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Echinacea",
+      "file": "echinacea.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Isavuconazonium",
+      "file": "isavuconazonium.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Selenium",
+      "file": "selenium.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tiotropium",
+      "file": "tiotropium.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     }
   ]
