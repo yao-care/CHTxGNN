@@ -3,7 +3,7 @@ layout: default
 title: "SELENIUM 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "SELENIUM 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
+description: "SELENIUM 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
 permalink: /news/selenium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/selenium/
 ---
 
 <p class="key-answer" data-question="SELENIUM 有什麼相關新聞？">
-<strong>SELENIUM</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>SELENIUM</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ permalink: /news/selenium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>預測適應症</strong>（1 個）：<ul>
+<li>sclerosing cholangitis（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/selenium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

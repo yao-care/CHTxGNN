@@ -3,7 +3,7 @@ layout: default
 title: "ECHINACEA 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ECHINACEA 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
+description: "ECHINACEA 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
 permalink: /news/echinacea/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/echinacea/
 ---
 
 <p class="key-answer" data-question="ECHINACEA 有什麼相關新聞？">
-<strong>ECHINACEA</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>ECHINACEA</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ permalink: /news/echinacea/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>leprosy（99.5%）</li>
+<li>candidiasis（99.2%）</li>
+<li>pneumocystosis（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/echinacea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

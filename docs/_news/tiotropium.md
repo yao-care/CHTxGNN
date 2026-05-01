@@ -3,7 +3,7 @@ layout: default
 title: "TIOTROPIUM 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "TIOTROPIUM 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
+description: "TIOTROPIUM 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/tiotropium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tiotropium/
 ---
 
 <p class="key-answer" data-question="TIOTROPIUM 有什麼相關新聞？">
-<strong>TIOTROPIUM</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>TIOTROPIUM</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ permalink: /news/tiotropium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>obstructive lung disease（100.0%）</li>
+<li>respiratory malformation（100.0%）</li>
+<li>Rienhoff syndrome（99.9%）</li>
+<li>COPD, severe early onset（99.9%）</li>
+<li>chronic obstructive pulmonary disease（99.9%）</li>
+<li>compensatory emphysema（99.8%）</li>
+<li>interstitial emphysema（99.8%）</li>
+<li>hyperlucent lung（99.8%）</li>
+<li>tracheal stenosis（99.8%）</li>
+<li>susceptibility to respiratory infections associated with CD8alpha chain mutation（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiotropium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

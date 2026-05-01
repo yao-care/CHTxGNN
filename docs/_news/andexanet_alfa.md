@@ -3,7 +3,7 @@ layout: default
 title: "ANDEXANET ALFA 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ANDEXANET ALFA 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
+description: "ANDEXANET ALFA 的相關健康新聞報導。原適應症：。預測適應症 4 個。"
 permalink: /news/andexanet_alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/andexanet_alfa/
 ---
 
 <p class="key-answer" data-question="ANDEXANET ALFA 有什麼相關新聞？">
-<strong>ANDEXANET ALFA</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>ANDEXANET ALFA</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,12 @@ permalink: /news/andexanet_alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>Glanzmann thrombasthenia（99.8%）</li>
+<li>primary release disorder of platelets（99.8%）</li>
+<li>pseudo-von Willebrand disease（99.7%）</li>
+<li>hemophilia（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/andexanet_alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
