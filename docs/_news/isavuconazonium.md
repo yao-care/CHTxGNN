@@ -3,7 +3,7 @@ layout: default
 title: "ISAVUCONAZONIUM 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ISAVUCONAZONIUM 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
+description: "ISAVUCONAZONIUM 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
 permalink: /news/isavuconazonium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isavuconazonium/
 ---
 
 <p class="key-answer" data-question="ISAVUCONAZONIUM 有什麼相關新聞？">
-<strong>ISAVUCONAZONIUM</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>ISAVUCONAZONIUM</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ permalink: /news/isavuconazonium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>pneumocystosis（99.6%）</li>
+<li>mycetoma（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/isavuconazonium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
