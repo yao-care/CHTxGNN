@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T19:53:00.831681+00:00",
+  "fetched_at": "2026-05-02T20:37:24.013363+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "bcd30ea5acc5",
-      "title": "Was, wenn uns die Medikamente ausgehen? - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE1oLURqeDZBVEtFcHhtbmFfMWFVdzBLcGRPSVY0b0s3elNMZ0FINmtFckNvQXRjXzktNFdGTklvUF9pcE0wMVgtNG5jTnBYSmFoWlppM1RlSzdfRkxOcmNSNEV2NFdQaEp4VDVEcUpwMUhTQWVxbTZyRW1YbnotNko5cDVudVBzcUxPckZjTWNnbnlPdmc?oc=5",
-      "published": "2025-11-22T08:00:00+00:00",
-      "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
       "id": "0a863f5439ff",
       "title": "„Sind die hohen Preise für Medikamente in Deutschland fair?“ - Pharma Fakten",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnlaaTVua2tGY3VoWFFkUGRHRW8yVFRMU2NpUzdkS0VWZWFQNE5XQlZ5S3BKdUw5bDA3eVNpbkJMempGaGtNcVlVRk8zVjR5eUNsdWk5Smtyc2dva3FWYl9SdUxXS3ppQ2liZG93Q3hZTmZQVUpSdXVOWGdZaTMwa2ZONFAtS1ZubVcwTWdrc1RuWk50LXV5cXdGaw?oc=5",
@@ -421,6 +411,16 @@
       "source": {
         "name": "Pharma Fakten",
         "url": "https://pharma-fakten.de"
+      }
+    },
+    {
+      "id": "bcd30ea5acc5",
+      "title": "Was, wenn uns die Medikamente ausgehen? - Aargauer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE1oLURqeDZBVEtFcHhtbmFfMWFVdzBLcGRPSVY0b0s3elNMZ0FINmtFckNvQXRjXzktNFdGTklvUF9pcE0wMVgtNG5jTnBYSmFoWlppM1RlSzdfRkxOcmNSNEV2NFdQaEp4VDVEcUpwMUhTQWVxbTZyRW1YbnotNko5cDVudVBzcUxPckZjTWNnbnlPdmc?oc=5",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": {
+        "name": "Aargauer Zeitung",
+        "url": "https://www.aargauerzeitung.ch"
       }
     },
     {
