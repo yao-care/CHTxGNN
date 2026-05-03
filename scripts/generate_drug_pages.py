@@ -22,21 +22,21 @@ COUNTRY_CODE = "BR"
 COUNTRY_NAME = "Brazil"
 LANGUAGE = "pt-BR"
 REGULATORY_AGENCY = "ANVISA"
-SITE_URL = "https://chtxgnn.yao.care"
+SITE_URL = "https://artxgnn.yao.care"
 
 
 def slugify(text: str) -> str:
     """Convert text to URL-safe slug."""
     import re
     text = text.lower()
-    text = re.sub(r"[^a-z0-9]+", "-", text)
-    text = re.sub(r"-+", "-", text)
-    return text.strip("-")
+    text = re.sub(r"[^a-z0-9]+", "_", text)
+    text = re.sub(r"_+", "_", text)
+    return text.strip("_")
 
 
 def generate_drug_page(drugbank_id: str, drug_name: str, indications: list) -> str:
     """Generate markdown content for a drug page."""
-    slug = slugify(drugbank_id)
+    slug = slugify(drug_name)
 
     content = f"""---
 layout: drug
@@ -146,16 +146,22 @@ def main():
     print()
     print("3. Generating drug pages...")
     pages_created = 0
+    skipped = 0
     for drug_id, drug_data in drugs.items():
-        slug = slugify(drug_id)
-        content = generate_drug_page(drug_id, drug_data["name"], drug_data["indications"])
-
+        slug = slugify(drug_data["name"])
         page_path = DRUGS_DIR / f"{slug}.md"
+
+        # Skip if a pharmacist report page already exists
+        if page_path.exists():
+            skipped += 1
+            continue
+
+        content = generate_drug_page(drug_id, drug_data["name"], drug_data["indications"])
         with open(page_path, "w", encoding="utf-8") as f:
             f.write(content)
         pages_created += 1
 
-    print(f"   Created {pages_created} drug pages")
+    print(f"   Created {pages_created} drug pages (skipped {skipped} existing)")
     print()
     print("=" * 60)
     print("Done!")
