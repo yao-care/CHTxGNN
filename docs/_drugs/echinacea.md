@@ -100,5 +100,10 @@ While the TxGNN prediction score is high (99.45%) and a superficial immunologica
 - Safety profile including contraindications and drug-drug interactions, particularly any interactions with MDT components (rifampicin, dapsone, clofazimine)
 - Formal regulatory pathway assessment, as Echinacea currently has no registered pharmaceutical status
 - Consideration of the rank-2 indication (candidiasis, L4 evidence) as a higher-priority and better-supported repurposing candidate before committing resources to leprosy
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 

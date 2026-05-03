@@ -115,5 +115,10 @@ The TxGNN prediction score of 99.99% is directly corroborated by an extensive cl
 - Prepare Swissmedic registration dossier, including selection of delivery device (HandiHaler 18μg vs Respimat 2.5/5μg) and corresponding device registration pathway
 - Define cardiovascular and cerebrovascular safety monitoring plan, informed by real-world signals identified in NCT02096731 (n=115,397)
 - Clarify labeling scope: COPD only vs inclusion of severe persistent asthma indication
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 

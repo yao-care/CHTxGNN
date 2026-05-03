@@ -107,5 +107,10 @@ Despite a TxGNN score of 99.56%, the prediction is mechanistically unsupported ‚
 - **KG bias analysis**: Review whether TxGNN's high score reflects genuine disease-specific signal or broad KG node connectivity artefacts in the "fungal infection" cluster
 - **Safety data**: Obtain formal package insert warnings, contraindications, and drug interaction profile from DrugBank or product labelling
 - **Comparison with rank-2 indication (Mycetoma)**: Eumycetoma caused by *Madurella* spp. presents a substantially more plausible repurposing target, as these organisms have intact ergosterol biosynthesis pathways. This direction (L4, "Research Question") warrants priority over pneumocystosis for further investigation
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschlie√ülich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 
