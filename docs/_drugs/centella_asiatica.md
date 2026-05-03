@@ -112,5 +112,10 @@ The evidence base for Centella asiatica in insomnia consists of a single zebrafi
 - **Dose-ranging data**: Determine whether doses needed for neurological/sleep effects differ meaningfully from traditional wound-care or dermatological doses
 - **Safety characterization**: Obtain drug interaction and contraindication data for the neurological use case, particularly given GABA-A modulation (potential for sedation or interaction with other CNS agents)
 - **Consider pivoting to anxiety first**: Centella asiatica's predicted **anxiety** indication (rank 2, L3 evidence, recommendation: "Proceed with Guardrails") has substantially stronger clinical support — including one completed Phase 2 trial (NCT03482063, N=141) and 20 publications — and may offer a more viable near-term repurposing pathway, with insomnia as a downstream co-indication
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 

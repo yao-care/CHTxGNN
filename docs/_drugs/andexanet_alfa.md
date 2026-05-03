@@ -98,5 +98,10 @@ The TxGNN prediction for Glanzmann Thrombasthenia is supported by zero clinical 
 - A scientific rationale bridging TFPI pathway modulation to platelet aggregation defects in GT
 - Taiwan TFDA package insert data to assess full contraindication and safety profile before any exploratory use
 - Consultation with hematology specialists regarding unmet need versus existing treatments (platelet transfusion, recombinant FVIIa) for GT management
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 

@@ -105,5 +105,10 @@ There are no registered clinical trials testing selenium for sclerosing cholangi
 - **Safety and dosage data**: Obtain package insert warnings and contraindications to assess the risk-benefit profile for a chronic liver disease population (selenium toxicity window is narrow)
 - **Regulatory standing**: Confirm selenium's approval status in relevant markets as a medicinal product vs. dietary supplement, as this affects repurposing pathway
 - **Biomarker studies**: Determine whether PSC patients with low serum selenium levels represent a targetable subpopulation for a hypothesis-driven pilot trial
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 

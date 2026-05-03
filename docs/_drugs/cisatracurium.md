@@ -105,5 +105,10 @@ All 10 TxGNN-predicted indications for Cisatracurium are rated L5 (model predict
 - **Safety data (DG001):** Obtain and parse the package insert to document key warnings and contraindications — currently a blocking data gap
 - **Preclinical evidence:** Any in vitro or animal studies suggesting a cauda equina–relevant mechanism would be the minimum requirement to upgrade from L5
 - **Reassessment of ranked indications:** Consider whether any of the lower-ranked indications (e.g., preeclampsia rank 2, where cisatracurium is already used instrumentally in emergency C-section GA) offer a more defensible starting point for a focused safety/utility study
+## Haftungsausschluss
+
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
+
 ---
 
