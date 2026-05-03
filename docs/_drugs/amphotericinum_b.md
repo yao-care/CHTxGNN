@@ -8,19 +8,19 @@ permalink: /drugs/amphotericinum_b/
 
 # AMPHOTERICINUM B
 
-## Basic Information
+## Grundlegende Informationen
 
-| Item | Value |
+| Element | Wert |
 |------|-------|
 | DrugBank ID | [DB00681](https://go.drugbank.com/drugs/DB00681) |
-| Evidence Level | L5 (Computational Prediction) |
-| Number of Predicted Indications | 53 |
+| Evidenzniveau | L5 (Computergestützte Vorhersage) |
+| Anzahl vorhergesagter Indikationen | 53 |
 
-## Predicted Indications (TxGNN)
+## Vorhergesagte Indikationen (TxGNN)
 
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
+Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
 
-| # | Indication | Source |
+| # | Indikation | Quelle |
 |---|------------|--------|
 | 1 | bronchitis | TxGNN Knowledge Graph |
 | 2 | coccidioidomycosis | TxGNN Knowledge Graph |
@@ -73,13 +73,13 @@ The following are potential new indications predicted by the TxGNN model. Higher
 | 49 | chancroid | TxGNN Knowledge Graph |
 | 50 | sinusitis | TxGNN Knowledge Graph |
 
-*(Showing top 50 of 53 predictions)*
+*(Zeige die ersten 50 von 53)*
 
-## Disclaimer
+## Haftungsausschluss
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Zurück zur Arzneimittelsuche](/drugs/)

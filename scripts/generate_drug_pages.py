@@ -34,7 +34,47 @@ def slugify(text: str) -> str:
     return text.strip("_")
 
 
-def generate_drug_page(drugbank_id: str, drug_name: str, indications: list) -> str:
+def get_page_strings(base_dir: Path) -> dict:
+    """Get localized strings for drug pages based on project name."""
+    proj = base_dir.name if base_dir else ""
+    strings = {
+        "CHTxGNN": {
+            "basic_info": "Grundlegende Informationen",
+            "predicted": "Vorhergesagte Indikationen (TxGNN)",
+            "intro": "Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.",
+            "disclaimer_h": "Haftungsausschluss",
+            "disclaimer": "Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.\nVor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.",
+            "back": "Zurück zur Arzneimittelsuche",
+            "item": "Element", "value": "Wert", "evidence": "Evidenzniveau",
+            "ev_desc": "L5 (Computergestützte Vorhersage)", "num_ind": "Anzahl vorhergesagter Indikationen",
+            "ind": "Indikation", "source": "Quelle", "showing": "Zeige die ersten 50 von",
+        },
+        "SETxGNN": {
+            "basic_info": "Grundläggande information",
+            "predicted": "Förutsagda indikationer (TxGNN)",
+            "intro": "Följande är potentiella nya indikationer som förutsagts av TxGNN-modellen. Högre poäng indikerar högre förutsagd relevans.",
+            "disclaimer_h": "Ansvarsfriskrivning",
+            "disclaimer": "Dessa förutsägelser är endast avsedda för forskningsändamål och utgör inte medicinsk rådgivning.\nKlinisk validering krävs före klinisk tillämpning.",
+            "back": "Tillbaka till läkemedelssökning",
+            "item": "Objekt", "value": "Värde", "evidence": "Evidensnivå",
+            "ev_desc": "L5 (Datorbaserad förutsägelse)", "num_ind": "Antal förutsagda indikationer",
+            "ind": "Indikation", "source": "Källa", "showing": "Visar de 50 första av",
+        },
+    }
+    return strings.get(proj, {
+        "basic_info": "Basic Information",
+        "predicted": "Predicted Indications (TxGNN)",
+        "intro": "The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.",
+        "disclaimer_h": "Disclaimer",
+        "disclaimer": "These predictions are for research purposes only and do not constitute medical advice.\nClinical validation is required before any clinical application.",
+        "back": "Back to Drug Search",
+        "item": "Item", "value": "Value", "evidence": "Evidence Level",
+        "ev_desc": "L5 (Computational Prediction)", "num_ind": "Number of Predicted Indications",
+        "ind": "Indication", "source": "Source", "showing": "Showing top 50 of",
+    })
+
+
+def generate_drug_page(drugbank_id: str, drug_name: str, indications: list, s: dict) -> str:
     """Generate markdown content for a drug page."""
     slug = slugify(drug_name)
 
@@ -48,19 +88,19 @@ permalink: /drugs/{slug}/
 
 # {drug_name}
 
-## Basic Information
+## {s['basic_info']}
 
-| Item | Value |
+| {s['item']} | {s['value']} |
 |------|-------|
 | DrugBank ID | [{drugbank_id}](https://go.drugbank.com/drugs/{drugbank_id}) |
-| Evidence Level | L5 (Computational Prediction) |
-| Number of Predicted Indications | {len(indications)} |
+| {s['evidence']} | {s['ev_desc']} |
+| {s['num_ind']} | {len(indications)} |
 
-## Predicted Indications (TxGNN)
+## {s['predicted']}
 
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
+{s['intro']}
 
-| # | Indication | Source |
+| # | {s['ind']} | {s['source']} |
 |---|------------|--------|
 """
 
@@ -70,25 +110,27 @@ The following are potential new indications predicted by the TxGNN model. Higher
         content += f"| {i} | {ind_name} | {source} |\n"
 
     if len(indications) > 50:
-        content += f"\n*(Showing top 50 of {len(indications)} predictions)*\n"
+        content += f"\n*({s['showing']} {len(indications)})*\n"
 
     content += f"""
-## Disclaimer
+## {s['disclaimer_h']}
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+{s['disclaimer']}
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← {s['back']}](/drugs/)
 """
 
     return content
 
 
 def main():
+    base_dir = Path(__file__).parent.parent
+    s = get_page_strings(base_dir)
+
     print("=" * 60)
-    print(f"BrTxGNN - Generate Drug Pages")
+    print(f"{base_dir.name} - Generate Drug Pages")
     print("=" * 60)
     print()
 
@@ -156,7 +198,7 @@ def main():
             skipped += 1
             continue
 
-        content = generate_drug_page(drug_id, drug_data["name"], drug_data["indications"])
+        content = generate_drug_page(drug_id, drug_data["name"], drug_data["indications"], s)
         with open(page_path, "w", encoding="utf-8") as f:
             f.write(content)
         pages_created += 1
