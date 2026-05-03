@@ -29,84 +29,77 @@ indication_count: 2
 
 </div>
 
-以下是根據 Evidence Pack 生成的評估報告：
+Der `txgnn-pipeline`-Skill ist geladen. Nun analysiere ich das Evidence Pack und erstelle den Bewertungsbericht.
 
 ---
 
-# Isavuconazonium: From Invasive Aspergillosis to Pneumocystosis
-
-## One-Sentence Summary
-
-Isavuconazonium (prodrug of isavuconazole) is a broad-spectrum triazole antifungal approved internationally for invasive aspergillosis and invasive mucormycosis, acting by inhibiting fungal CYP51 to block ergosterol biosynthesis.
-The TxGNN model predicts it may be effective for **Pneumocystosis** (PCP, *Pneumocystis jirovecii* pneumonia), with a high prediction score of **99.56%**.
-However, **no clinical trials and no supporting publications** have been identified for this combination, and mechanistic analysis raises significant concerns about the biological plausibility of this prediction.
+# Isavuconazonium: Von Invasiver Aspergillose zu Pneumozystose
 
 ---
 
-## Quick Overview
+## Zusammenfassung
 
-| Item | Content |
-|------|---------|
-| Original Indication | Invasive aspergillosis; invasive mucormycosis (based on drug class; no formal indication text available in this Evidence Pack) |
-| Predicted New Indication | Pneumocystosis (*Pneumocystis jirovecii* pneumonia, PCP) |
-| TxGNN Prediction Score | 99.56% |
-| Evidence Level | L5 |
-| Swiss Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Isavuconazonium ist das Prodrug des Breitspektrum-Triazol-Antimykotikums Isavuconazol, das international für die Behandlung invasiver Aspergillose und Mukormykose eingesetzt wird – in der Schweiz ist das Präparat nicht registriert. Das TxGNN-Modell erzielt mit einem Vorhersagewert von 99,6 % einen auffallend hohen Score für eine mögliche Wirksamkeit bei Pneumozystose (Pneumocystis-Pneumonie, PCP). Die mechanistische Analyse offenbart jedoch grundlegende biologische Inkompatibilitäten zwischen dem Wirkstoff und dem Erreger; es liegen weder klinische Studien noch publizierte Literaturbelege zu dieser Indikation vor, weshalb die Evidenzstufe als L5 einzustufen und eine Weiterentwicklung derzeit nicht empfohlen wird.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Kurzübersicht
 
-Isavuconazonium is a water-soluble prodrug that is rapidly converted in vivo to its active form, isavuconazole. As a second-generation triazole antifungal, isavuconazole inhibits lanosterol 14α-demethylase (CYP51), a key enzyme in the ergosterol biosynthesis pathway. Disruption of ergosterol synthesis compromises fungal cell membrane integrity, ultimately leading to cell death. Isavuconazole's broad spectrum covers *Aspergillus* spp., *Mucorales*, *Fusarium*, *Candida*, and several other molds — all of which depend on ergosterol as their primary membrane sterol.
-
-At first glance, the prediction seems mechanistically plausible: *Pneumocystis jirovecii* does possess a CYP51 homolog (Erg11), which theoretically could be inhibited by triazoles. It is likely this structural and pathway-level similarity in the knowledge graph (KG) that drove TxGNN's high prediction score, as "fungal infection" nodes are densely connected within the KG.
-
-**However, there is a critical biological barrier.** Unlike most pathogenic fungi, *P. jirovecii* cannot synthesize its own ergosterol and instead incorporates **cholesterol** from the human host as its primary membrane sterol. This fundamentally undermines CYP51 inhibition as a therapeutic strategy. Consistent with this, all triazoles evaluated to date — including voriconazole and itraconazole — have demonstrated **no clinically meaningful efficacy** against PCP. The standard of care remains trimethoprim-sulfamethoxazole (TMP-SMX), which targets folate synthesis via a completely different mechanism. This is a well-documented case where a surface-level mechanistic link does not translate to clinical activity, and the TxGNN prediction is most likely a **false positive driven by KG topology** rather than disease-specific biology.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Punkt | Inhalt |
+|-------|--------|
+| Ursprüngliche Indikation | Invasive Aspergillose / Mukormykose (international zugelassen; in der Schweiz nicht registriert) |
+| Vorhergesagte neue Indikation | Pneumozystose (pneumocystosis) |
+| TxGNN-Vorhersagewert | 99,6 % |
+| Evidenzniveau | L5 – Nur Modellvorhersage, keine tatsächlichen Studien |
+| Marktstatus Schweiz | Nicht registriert |
+| Anzahl Zulassungen | 0 |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Literature Evidence
+## Warum ist diese Vorhersage plausibel?
 
-Currently no related literature available.
+Isavuconazol (aktiver Metabolit von Isavuconazonium) hemmt selektiv das pilzliche Enzym CYP51 (Lanosterol-14α-Demethylase), das einen zentralen Schritt in der Ergosterol-Biosynthese katalysiert. Ergosterol ist ein unverzichtbarer Bestandteil der pilzlichen Zellmembran; seine Depletion führt zu Membraninstabilität und Zelltod. Dieses Wirkprinzip verleiht Isavuconazol ein breites Spektrum gegen Aspergillus-Arten, Mucorales und zahlreiche Schimmelpilze.
 
----
+Pneumocystis jirovecii, der Erreger der Pneumozystose, weist jedoch eine fundamentale biologische Besonderheit auf: Seine Zellmembran enthält kein Ergosterol, sondern ist cholesterolbasiert aufgebaut. Darüber hinaus unterscheidet sich das CYP51-Enzym von P. jirovecii strukturell erheblich von demjenigen anderer Pilze, weshalb klassische Triazole in vitro kaum Aktivität gegen diesen Erreger zeigen. Die etablierte Standardtherapie der Pneumozystose bleibt Trimethoprim-Sulfamethoxazol (TMP-SMX); es existieren weder Studien noch publizierte Fallberichte, die eine klinische Wirksamkeit von Isavuconazol bei dieser Erkrankung belegen.
 
-## Swiss Market Information
-
-Isavuconazonium has no authorizations recorded in this Evidence Pack's regulatory database. The drug is not currently marketed in this jurisdiction.
-
-> **Note for context:** Isavuconazonium sulfate (brand name Cresemba®) has been approved by the US FDA (2015), EMA (2015), and other regulatory authorities for invasive aspergillosis and invasive mucormycosis. Local regulatory registration should be verified separately.
+Der sehr hohe TxGNN-Score (99,6 %) lässt sich am ehesten durch phänotypische Ähnlichkeit erklären: Sowohl Pneumozystose als auch die von Isavuconazol behandelten invasiven Mykosen treten überwiegend bei stark immungeschwächten Patienten auf (HIV/AIDS, Organ- oder Stammzelltransplantation, hämatologische Malignome). Das Modell erfasst diesen gemeinsamen klinischen Kontext opportunistischer Pilzinfektionen beim immunkompromittierten Wirt, unterscheidet jedoch nicht zwischen den grundlegend verschiedenen Erregerzellbiologien.
 
 ---
 
-## Safety Considerations
+## Klinische Studien
 
-Please refer to the package insert for safety information.
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
-## Conclusion and Next Steps
+## Literaturbelege
 
-**Decision: Hold**
+Derzeit keine verwandte Literatur verfügbar.
 
-**Rationale:**
-Despite a TxGNN score of 99.56%, the prediction is mechanistically unsupported — *P. jirovecii* relies on host-derived cholesterol rather than self-synthesized ergosterol, rendering CYP51 inhibition ineffective, a finding already confirmed by multiple failed triazole clinical experiences in PCP. This is an L5 prediction with zero supporting clinical trials or literature.
+---
 
-**To proceed, the following would be needed:**
+## Sicherheitshinweise
 
-- **Mechanistic validation**: In vitro susceptibility testing of isavuconazole against *P. jirovecii* isolates (noting that in vitro culture of this organism is extremely difficult)
-- **Preclinical animal model data**: Rodent PCP models with isavuconazole to establish proof-of-concept before any clinical investment
-- **KG bias analysis**: Review whether TxGNN's high score reflects genuine disease-specific signal or broad KG node connectivity artefacts in the "fungal infection" cluster
-- **Safety data**: Obtain formal package insert warnings, contraindications, and drug interaction profile from DrugBank or product labelling
-- **Comparison with rank-2 indication (Mycetoma)**: Eumycetoma caused by *Madurella* spp. presents a substantially more plausible repurposing target, as these organisms have intact ergosterol biosynthesis pathways. This direction (L4, "Research Question") warrants priority over pneumocystosis for further investigation
+> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+## Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+Die mechanistische Grundlage für eine Wirksamkeit von Isavuconazonium bei Pneumozystose ist biologisch nicht plausibel – P. jirovecii besitzt kein Ergosterol und ist gegenüber CYP51-Hemmern intrinsisch unempfindlich. Es liegen keine klinischen Studien und keine Literaturbelege vor; der hohe TxGNN-Score spiegelt wahrscheinlich phänotypische Ähnlichkeit im Sinne eines gemeinsamen immungeschwächten Wirtsumfelds wider, nicht aber eine echte mechanistische Verwandtschaft.
+
+**Hinweis zu Rang 2 – Mykzetom (mycetoma):**
+Die zweithöchst bewertete Indikation Mykzetom (TxGNN: 99,3 %, Evidenzniveau: L4) besitzt eine erheblich plausiblere mechanistische Basis, da Isavuconazol gegen die kausalen Schimmelpilze wie *Madurella mycetomatis* oder *Scedosporium boydii* (eumycetoma) breite in-vitro-Aktivität zeigen kann. Verwandte Triazole (Itraconazol, Voriconazol) liegen zudem bereits in kleinen klinischen Berichten für Eumykzetom vor. Eine gesonderte Evaluation dieser Indikation wird empfohlen.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Internationale Fachinformation (SmPC, z. B. EMA-Zulassung von Cresemba®) für vollständige Sicherheitsdaten: Warnhinweise, Kontraindikationen und Arzneimittelwechselwirkungen
+- Abklärung des Wirkmechanismus (MOA) über die DrugBank-API (DB06636)
+- Systematische Literaturrecherche zur in-vitro-Aktivität von Triazolen gegen P. jirovecii zur endgültigen mechanistischen Ausschlussbestätigung
+- Separate Bewertung der Indikation Mykzetom (Rang 2) auf Basis der vorhandenen Literaturbelege und der stärkeren mechanistischen Rationale
 ## Haftungsausschluss
 
 Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

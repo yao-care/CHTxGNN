@@ -29,89 +29,78 @@ indication_count: 3
 
 </div>
 
-Using `txgnn-pipeline` to frame this as a Taiwan TxGNN report context. Now generating the evaluation report from the Evidence Pack.
+Ich verwende den `txgnn-pipeline`-Skill für die korrekte Verarbeitung. Da dieser keine zusätzlichen Formatierungsregeln für die Berichterstellung vorgibt, folge ich direkt dem definierten Ausgabeformat aus dem Systemprompt.
 
 ---
 
-# Centella Asiatica: From Wound Healing to Insomnia
+# Centella asiatica: Von traditioneller Heilpflanze zu Insomnie
 
-## One-Sentence Summary
+## Zusammenfassung
 
-Centella asiatica (Gotu Kola) is a traditional Ayurvedic botanical, historically recognized for wound healing, venous insufficiency, and skin conditions across Southeast Asian and Ayurvedic traditions — with no formal approved indications on record in Taiwan.
-
-The TxGNN model predicts it may be effective for **Insomnia**, with **2 clinical trials** and **1 publication** currently supporting this direction.
-
-The overall evidence remains at preclinical stage (L4); mechanistic plausibility exists but human validation is absent.
+Centella asiatica (Gotu Kola) ist eine traditionelle Heilpflanze aus der Ayurveda- und traditionellen chinesischen Medizin, die seit Jahrhunderten bei Wundheilung, Hauterkrankungen sowie neuropsychiatrischen Beschwerden eingesetzt wird. Das TxGNN-Modell prognostiziert Insomnie als führende neue therapeutische Indikation mit einem Vorhersagewert von 99,94 %, gestützt auf neuroprotektive und sedierende Wirkeigenschaften der enthaltenen Triterpene. Die verfügbare Evidenz beschränkt sich jedoch ausschliesslich auf präklinische Tiermodelle; randomisierte klinische Studien beim Menschen für diese Indikation fehlen derzeit vollständig.
 
 ---
 
-## Quick Overview
+## Kurzübersicht
 
-| Item | Content |
-|------|---------|
-| Original Indication | Wound healing, venous insufficiency, skin conditions (traditional use; no formal Taiwan approval) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data from DrugBank is unavailable for Centella asiatica. Based on known phytochemical research, its primary active constituents are **triterpene saponins** — asiaticoside, madecassoside, and asiatic acid — which exert pleiotropic biological effects spanning anti-inflammatory, antioxidant, and neuroprotective activities. In Ayurvedic medicine, Centella asiatica has long been classified as a *medhya rasayana* (neurological tonic), suggesting historical recognition of its CNS-relevant properties well before modern mechanistic study.
-
-The bridge from Centella asiatica to insomnia is proposed through two overlapping pathways. First, a 2016 in vitro electrophysiology study demonstrated that asiatic acid and madecassic acid act as **selective negative modulators of GABA-A receptor subtypes** expressed in *Xenopus laevis* oocytes (PMID 27062315) — a mechanism shared by benzodiazepines and classical hypnotics. Second, a 2024 zebrafish insomnia model study (PMID 38812527) found that Centella asiatica ethanol extract reduced insomnia-like behavior by inhibiting the **orexin/hypocretin signaling cascade** and its downstream ERK/Akt/p38 pathways, which regulate the arousal system. Orexin antagonism is, notably, the mechanism of clinically approved drugs such as suvorexant.
-
-That said, the traditional indication (wound healing / collagen synthesis) and insomnia are mechanistically distant: the sleep-relevant GABAergic and orexinergic activities appear to be secondary pharmacological actions, not the primary wound-repair pathway. No human pharmacokinetic data currently confirms that oral doses of asiaticoside or madecassoside reach CNS-active concentrations in people. The prediction is biologically plausible but remains unvalidated in humans.
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Traditionelle Anwendung: Wundheilung, Hauterkrankungen, neuropsychiatrische Beschwerden |
+| Vorhergesagte neue Indikation | Insomnie |
+| TxGNN-Vorhersagewert | 99,94 % |
+| Evidenzniveau | L4 – Präklinische Studien / Mechanismusstudien |
+| Marktstatus Schweiz | Nicht zugelassen |
+| Anzahl Zulassungen | 0 |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Clinical Trial Evidence
+## Warum ist diese Vorhersage plausibel?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Centella asiatica enthält eine Reihe aktiver Triterpene – insbesondere Asiaticoside, Asiatinsäure und Madecassoside – die in mehreren präklinischen Studien neuroprotektive und sedierende Eigenschaften gezeigt haben. Eine Schlüsselstudie im Zebrafischmodell (PMID 38812527) demonstrierte, dass ein Ethanolextrakt von CA Insomnie-ähnliche Verhaltensweisen durch Hemmung des Orexin/Hypocretin-Signalwegs sowie der nachgeschalteten ERK1/2-, Akt- und p38-MAPK-Pfade signifikant reduzieren kann. Diese Signalwege spielen eine zentrale Rolle in der Regulation des Schlaf-Wach-Rhythmus.
+
+Ergänzend weisen biochemische In-vitro-Studien auf eine negative Modulation von GABA-A-Rezeptoren durch die Ursantriterpenoide Asiatinsäure und Madecassinsäure hin (PMID 27062315, 26016167), was dem Wirkmechanismus klassischer Sedativa und Anxiolytika ähnelt. Die enge mechanistische Überlappung zwischen Insomnie und Angststörungen – beide Indikationen involvieren GABAerge Neurotransmission und den Orexin-Signalweg – erklärt, warum TxGNN sowohl Insomnie (Rang 1) als auch Angst (Rang 2) und Schlafinitiations- und -aufrechterhaltungsstörungen (Rang 3) in der Spitzengruppe der Vorhersagen platziert.
+
+Die biologische Plausibilität ist damit grundsätzlich gegeben, beruht jedoch ausschliesslich auf Tier- und Zellmodellen. Ein klinischer Wirksamkeitsnachweis beim Menschen erfordert kontrollierte Humanstudien.
+
+---
+
+## Klinische Studien
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT07274371](https://clinicaltrials.gov/study/NCT07274371) | NA | Active, Not Recruiting | 30 | Nightly 10-min Brahmi-Gotu Kola oil foot massage vs. sesame oil for sleep and mood disturbances in perimenopausal women (ages 40–55); includes validated sleep scale outcomes; no results available yet |
-| [NCT04872946](https://clinicaltrials.gov/study/NCT04872946) | NA | Completed | 74 | Oral + topical Centella asiatica formulation assessed for skin redness and sensitivity; sleep was neither a primary nor secondary outcome; relevant only as background safety data |
+| [NCT04872946](https://clinicaltrials.gov/study/NCT04872946) | NA | Abgeschlossen | 74 | Untersuchung eines oralen Inner-Calm-Supplements und eines topischen Super-Calm-Produkts auf Hautgesundheit und allgemeines Wohlbefinden (Rötung, Hautempfindlichkeit). Insomnie ist kein primärer Endpunkt; der Bezug zur Indikation Schlafstörung ist gering (Relevanzgrad C). |
+| [NCT07274371](https://clinicaltrials.gov/study/NCT07274371) | NA | Aktiv (keine Rekrutierung) | 30 | Pilot-RCT bei perimenopausalen Frauen (40–55 Jahre): nächtliche 10-minütige Fussmassage mit Brahmi-Gotu-Kola-Öl vs. Bio-Sesamöl als Kontrolle. Schlafqualität und Stimmungsstörungen als primäre Endpunkte; Applikation topisch (kein orales CA), Stichprobe klein (Relevanzgrad B). |
 
 ---
 
-## Literature Evidence
+## Literaturbelege
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Animal Study (zebrafish larvae) | F1000Research | Centella asiatica ethanol extract reduced insomnia-like behavior in zebrafish larvae by suppressing orexin expression and inhibiting ERK, Akt, and p38 downstream signaling; provides direct mechanistic support for the insomnia hypothesis, but requires human pharmacological translation |
-
----
-
-## Taiwan Market Information
-
-No product authorizations for Centella asiatica are registered with TFDA, and the compound is not marketed in Taiwan. Accordingly, no authorization records are available for review.
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Tierstudie (Zebrafischmodell) | F1000Research | CA-Ethanolextrakt reduziert Insomnie-Verhalten bei Zebrafischlarven durch Hemmung von Orexin, ERK1/2, Akt und p38-MAPK. Liefert die mechanistische Grundlage für die Insomnie-Vorhersage; keine Humanübertragbarkeit ohne weitere klinische Studien. |
 
 ---
 
-## Safety Considerations
+## Sicherheitshinweise
 
-Please refer to the package insert for safety information.
+> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Conclusion and Next Steps
+## Fazit und nächste Schritte
 
-**Decision: Hold**
+**Entscheidung: Abwarten**
 
-**Rationale:**
-The evidence base for Centella asiatica in insomnia consists of a single zebrafish preclinical study and two clinical trials that did not directly test the insomnia indication — placing this at L4 evidence level. While the orexin and GABA-A mechanistic hypotheses are biologically grounded, neither has been validated in human subjects, and CNS bioavailability of the active triterpenes after oral dosing remains uncharacterized.
+**Begründung:**
+- Die einzige direkt relevante Evidenz für die Insomnie-Indikation stammt aus einem Zebrafisch-Tiermodell (L4); klinische Humanstudien mit schlafspezifischen Endpunkten fehlen vollständig, weshalb eine gezielte Weiterentwicklung dieser Indikation verfrüht wäre. Parallel dazu bietet die Angst-Indikation (Rang 2, L3-Evidenz, Empfehlung „Proceed with Guardrails") eine deutlich solidere klinische Grundlage und sollte prioritär weiterverfolgt werden.
 
-**To proceed, the following is needed:**
-
-- **Human pilot study**: A Phase 1/2 trial using a standardized Centella asiatica extract (e.g., titrated extract TECA or water extract CAW) with pre-specified sleep outcomes (Pittsburgh Sleep Quality Index, actigraphy, or polysomnography)
-- **Pharmacokinetic profiling**: Confirm CNS bioavailability of asiaticoside and madecassoside after oral dosing in humans
-- **Dose-ranging data**: Determine whether doses needed for neurological/sleep effects differ meaningfully from traditional wound-care or dermatological doses
-- **Safety characterization**: Obtain drug interaction and contraindication data for the neurological use case, particularly given GABA-A modulation (potential for sedation or interaction with other CNS agents)
-- **Consider pivoting to anxiety first**: Centella asiatica's predicted **anxiety** indication (rank 2, L3 evidence, recommendation: "Proceed with Guardrails") has substantially stronger clinical support — including one completed Phase 2 trial (NCT03482063, N=141) and 20 publications — and may offer a more viable near-term repurposing pathway, with insomnia as a downstream co-indication
+**Um fortzufahren, wird Folgendes benötigt:**
+- Klärung des fehlenden Wirkmechanismus (DG002): Abfrage der vollständigen MOA-Daten bei DrugBank (DB14256)
+- Klärung der Sicherheitsdaten (DG001): Herunterladen und Auswertung der Fachinformation (Swissmedic / TFDA)
+- Identifikation oder Initiierung einer humanen Pilotstudie (Phase 1/2) zur oralen CA-Supplementation bei primärer Insomnie mit validierten Schlafendpunkten (z. B. PSQI, Aktigraphie, Polysomnographie)
+- Prüfung optimaler Darreichungsform (oral), standardisiertem Extrakt (z. B. TECA) und Dosierung für die Schlafindikation
+- Bevorzugte Weiterentwicklung der Angst-Indikation (L3) als mechanistisch verwandten Brückennachweis für Schlafstörungen
 ## Haftungsausschluss
 
 Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -29,77 +29,79 @@ indication_count: 3
 
 </div>
 
-# Echinacea: From Immune Support to Leprosy
-
-## One-Sentence Summary
-
-Echinacea is a herbal immunostimulant traditionally used to support the immune response against upper respiratory infections.
-The TxGNN model predicts it may be effective for **Leprosy**, but **no clinical trials** and **no publications** currently support this specific direction.
-This prediction rests entirely on computational modelling, placing it at Evidence Level **L5**.
+Der txgnn-pipeline-Skill bezieht sich auf technische Pipeline-Verwaltung – die Berichtsgenerierung ist vollständig durch die Systeminstruktionen (Bewertungsbericht Prompt v5) abgedeckt. Ich erstelle jetzt den Bericht.
 
 ---
 
-## Quick Overview
+# Echinacea: Von Immununterstützung zu Lepra
 
-| Item | Content |
-|------|---------|
-| Original Indication | Immune support / upper respiratory tract infections (traditional herbal use) |
-| Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| Swiss Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+## Zusammenfassung
+
+Echinacea ist ein pflanzliches Präparat, das traditionell zur Stärkung des Immunsystems und zur Unterstützung bei Atemwegsinfektionen eingesetzt wird. Das TxGNN-Modell identifiziert Lepra (*Mycobacterium leprae*-Infektion) als mögliche neue Indikation, basierend auf Echinaceas immunmodulierenden Eigenschaften – insbesondere der Aktivierung von Makrophagen und der Induktion von Th1-Zytokinen, die theoretisch die Wirtsabwehr gegen intrazelluläre Erreger stärken könnten. Die Evidenzlage ist mit Stufe L5 jedoch äusserst dünn: Weder klinische Studien noch publizierte Humanstudien zu dieser Indikation liegen vor, und die Vorhersage beruht ausschliesslich auf dem Modell.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Kurzübersicht
 
-Currently, detailed mechanism of action data is not available. Based on known information, Echinacea is a herbal immunostimulant whose active components — primarily polysaccharides (arabinogalactans) derived from *Echinacea purpurea* — are understood to activate macrophages, enhance NK cell cytotoxicity, and stimulate the release of pro-inflammatory cytokines (IL-1, TNF-α, IL-6), thereby strengthening cell-mediated immunity.
-
-Leprosy is caused by *Mycobacterium leprae*, an obligate intracellular pathogen whose clearance depends critically on activated macrophages and CD4+ T-cell-mediated responses. The TxGNN model likely captured this immunological alignment: an agent that boosts macrophage activation and T-cell function could theoretically assist the host in containing a pathogen that survives by evading intracellular killing.
-
-However, the mechanistic rationale remains entirely speculative in this context. Leprosy already has a well-established and effective multi-drug therapy (MDT) regimen — rifampicin, dapsone, and clofazimine — leaving little clinical space for an adjunct immune stimulant of unproven benefit. No animal models, in vitro studies, or clinical trials have investigated Echinacea specifically against *M. leprae*, and the computational prediction has not been validated by any empirical evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Punkt | Inhalt |
+|---|---|
+| Ursprüngliche Indikation | Keine Swissmedic-Zulassung vorhanden |
+| Vorhergesagte neue Indikation | Lepra (*Leprosy*) |
+| TxGNN-Vorhersagewert | 99,4% |
+| Evidenzniveau | L5 – nur Modellvorhersage, keine tatsächlichen Studien |
+| Marktstatus Schweiz | Nicht zugelassen |
+| Anzahl Zulassungen | 0 |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Literature Evidence
+## Warum ist diese Vorhersage plausibel?
 
-Currently no related literature available.
+Echinacea purpurea enthält Polysaccharide (Arabinoxylane, Heteroglykane), Alkamide und Glykoproteine, die das angeborene Immunsystem nachweislich stimulieren. Diese Wirkstoffe aktivieren Makrophagen über Toll-like-Rezeptor-Signalwege, steigern die Produktion proinflammatorischer Zytokine (IL-1, TNF-α, IL-6) und erhöhen die Aktivität natürlicher Killerzellen. Das genaue mechanistische Profil aus DrugBank-Daten lag zum Zeitpunkt der Analyse nicht vollständig vor; die immunologischen Grundeigenschaften von Echinacea sind jedoch aus der Primärliteratur gut belegt.
 
----
+Lepra ist eine chronische Infektionskrankheit, die durch *Mycobacterium leprae* – einen obligat intrazellulären Erreger – verursacht wird. Der Erreger umgeht gezielt die zelluläre Immunantwort des Wirts. Bei der lepromatösen Form (LL-Typ) liegt eine supprimierte Th1-Immunantwort vor, während die tuberkuloide Form (TT-Typ) durch eine robuste zelluläre Abwehr gekennzeichnet ist. Die theoretische Anknüpfung an Echinacea liegt darin, dass eine Stärkung der Th1-Immunantwort die Wirtsabwehr gegen *M. leprae* unterstützen könnte – analog zu anderen intrazellulären Infektionen, bei denen Echinacea in Modellsystemen Wirksamkeit gezeigt hat.
 
-## Market Information
-
-Echinacea (DB14240) has no registered or approved pharmaceutical products on the market. No authorizations were identified.
+Die Plausibilität dieser Vorhersage ist jedoch eingeschränkt: Der hohe TxGNN-Score dürfte primär auf topologischen Zusammenhängen im Wissensgraphen beruhen («Infektionskrankheit → Immundefizit-Knoten»), nicht auf krankheitsspezifischen Mechanismen. Besonders problematisch ist, dass eine unkontrollierte Immunstimulation bei LL-Patienten mit bereits dysregulierter Immunantwort potenziell kontraproduktiv sein kann. Jegliche Weiterentwicklung setzt präklinische Validierung voraus.
 
 ---
 
-## Safety Considerations
+## Klinische Studien
 
-Please refer to the package insert for safety information.
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
-## Conclusion and Next Steps
+## Literaturbelege
 
-**Decision: Hold**
+Derzeit keine verwandte Literatur verfügbar.
 
-**Rationale:**
-While the TxGNN prediction score is high (99.45%) and a superficial immunological rationale can be constructed, there is a complete absence of empirical evidence — no preclinical studies, no animal models, and no clinical trials — supporting Echinacea for leprosy. Given that the indication already has curative standard-of-care treatment, the threshold for pursuing this hypothesis must be set very high.
+---
 
-**To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank to confirm whether the immunostimulant mechanism is sufficiently characterised
-- Preclinical studies (in vitro / murine model) testing Echinacea polysaccharides against *Mycobacterium leprae*
-- Safety profile including contraindications and drug-drug interactions, particularly any interactions with MDT components (rifampicin, dapsone, clofazimine)
-- Formal regulatory pathway assessment, as Echinacea currently has no registered pharmaceutical status
-- Consideration of the rank-2 indication (candidiasis, L4 evidence) as a higher-priority and better-supported repurposing candidate before committing resources to leprosy
+## Marktinformationen Schweiz
+
+Echinacea (DrugBank: DB14240) besitzt keine Swissmedic-Zulassung als Arzneimittel in der Schweiz. Das Präparat ist in verschiedenen Ländern als Nahrungsergänzungsmittel oder Phytopharmazeutikum erhältlich, verfügt in der Schweiz jedoch über keine registrierten Zulassungen.
+
+---
+
+## Sicherheitshinweise
+
+> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+## Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage basiert ausschliesslich auf dem TxGNN-Modell ohne jegliche präklinische oder klinische Evidenz zu Echinacea bei Lepra (Evidenzniveau L5). Zudem birgt das immunologische Spektrum der Lepra – insbesondere die lepromatöse Form – spezifische Risiken beim Einsatz von Immunstimulanzien, die vor weiteren Entwicklungsschritten grundlegend abgeklärt werden müssen.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Präklinische In-vitro-Studien zur Wirksamkeit von Echinacea-Extrakten gegen *Mycobacterium leprae* (Zellkulturmodelle mit infizierten Makrophagen)
+- Tierexperimentelle Daten zur Sicherheit und Wirksamkeit in etablierten Lepra-Modellen
+- Klärung des Wirkprofils differenziert nach Lepra-Immunphänotyp (TT- vs. LL-Typ) zur Risikoabwägung
+- Vollständige Wirkmechanismus-Dokumentation aus DrugBank (aktuell als Datenlücke erfasst)
+- Systematische Recherche in Spezialdatenbanken (z. B. WHO Global Leprosy Programme, ILEP-Datenbank)
 ## Haftungsausschluss
 
 Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -8,19 +8,19 @@ permalink: /drugs/prednisoloni_pivalas/
 
 # PREDNISOLONI PIVALAS
 
-## Basic Information
+## Grundlegende Informationen
 
-| Item | Value |
+| Element | Wert |
 |------|-------|
 | DrugBank ID | [DB00860](https://go.drugbank.com/drugs/DB00860) |
-| Evidence Level | L5 (Computational Prediction) |
-| Number of Predicted Indications | 146 |
+| Evidenzniveau | L5 (Computergestützte Vorhersage) |
+| Anzahl vorhergesagter Indikationen | 146 |
 
-## Predicted Indications (TxGNN)
+## Vorhergesagte Indikationen (TxGNN)
 
-The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
+Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
 
-| # | Indication | Source |
+| # | Indikation | Quelle |
 |---|------------|--------|
 | 1 | seborrheic dermatitis | TxGNN Knowledge Graph |
 | 2 | aspiration pneumonia (disease) | TxGNN Knowledge Graph |
@@ -73,13 +73,13 @@ The following are potential new indications predicted by the TxGNN model. Higher
 | 49 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
 | 50 | autoimmune disease | TxGNN Knowledge Graph |
 
-*(Showing top 50 of 146 predictions)*
+*(Zeige die ersten 50 von 146)*
 
-## Disclaimer
+## Haftungsausschluss
 
-These predictions are for research purposes only and do not constitute medical advice.
-Clinical validation is required before any clinical application.
+Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Back to Drug Search](/drugs/)
+[← Zurück zur Arzneimittelsuche](/drugs/)
