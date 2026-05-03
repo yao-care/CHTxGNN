@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T14:44:17.224875+00:00",
+  "fetched_at": "2026-05-03T15:43:00.212301+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,23 +14,13 @@
       }
     },
     {
-      "id": "8a2e7f083fa8",
-      "title": "180’000 Franken teures Medikament – ohne erkennbaren Nutzen - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVlaeS1kU3VzcS1TZUU4RzFFY1hOa0tybWk5OHctT2JTdnd6VXY0a01ZckRCaHI3ZGk3RDBKcS1QbUZoeTFZaFFKNEFHTWJ1TmloeUNha2l3bnRsdi1sdTRvZEdaTk9oeEtMT09lQmpmamR0R2ZkYU10ejlDQlF3SzVuMG9MQllCWGdYN29MR1dtMGVMZ05LNE9BTQ?oc=5",
-      "published": "2026-05-01T08:32:54+00:00",
+      "id": "ccb310d629ed",
+      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
+      "published": "2026-04-19T07:00:00+00:00",
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "566dd4d9d4e6",
-      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
-      "published": "2026-04-28T12:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -41,6 +31,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "566dd4d9d4e6",
+      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
+      "published": "2026-04-28T12:00:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -114,10 +114,10 @@
       }
     },
     {
-      "id": "ccb310d629ed",
-      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
-      "published": "2026-04-19T07:00:00+00:00",
+      "id": "8a2e7f083fa8",
+      "title": "180’000 Franken teures Medikament – ohne erkennbaren Nutzen - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVlaeS1kU3VzcS1TZUU4RzFFY1hOa0tybWk5OHctT2JTdnd6VXY0a01ZckRCaHI3ZGk3RDBKcS1QbUZoeTFZaFFKNEFHTWJ1TmloeUNha2l3bnRsdi1sdTRvZEdaTk9oeEtMT09lQmpmamR0R2ZkYU10ejlDQlF3SzVuMG9MQllCWGdYN29MR1dtMGVMZ05LNE9BTQ?oc=5",
+      "published": "2026-05-01T08:32:54+00:00",
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
