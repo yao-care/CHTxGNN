@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-07T13:57:39.258757+00:00",
+  "fetched_at": "2026-05-07T16:06:41.892626+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "c790cf8bed3c",
-      "title": "Krebsmedikament: Hergestellt für 9 Franken, verkauft für 4294 Franken - Ktipp",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnJ0eXdVd1lUTnk3b0FuVGw4VFRGb0ZaOUNCY3JaTll3cDQ0VUhGS3VuLWJjcTRqQ0lLWFhqZG5oWVd5cW1JZktxeWNvejN2eVB2UzJnQmllMDIyMEtBY0dhQ2NNb1g2aUtuQ1Rnc2kxSW1RUUhfOURhYlRwQ0pVdkJpdlNtc2FLVmJIUkxGMnU3SkkzMXJKZ2o4N2ZHNUt4SE44dGg2NXhTSmNSNkpCTklB?oc=5",
-      "published": "2026-05-06T14:45:10+00:00",
-      "source": {
-        "name": "Ktipp",
-        "url": "https://www.ktipp.ch"
-      }
-    },
-    {
       "id": "491353a8a494",
       "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - SRF",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORENTMTRnWUd3bk1FdGtsdnpuWW1LWnQ0LVJXUmI2R2RMLTdCQUdFaGNVRFloTVR6aHl1TExaZHVhcnZzbGJ6aG9jWlpuSXpQdmgzNnhHeEtPUTRuQzdhRlR1dlJUYjBSXzdOSS03NXA0MUtGS3dNcHNiQ3pVckNaWHJQZ0I1YjdpbC1aTy1HdWV5Y0dJdG1ONl95RllIaUM3NWZBejRMc000SnczM0wwS3ZBaUNVOU5HRVhZTHlGajFjRmNRRjJFcw?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "c790cf8bed3c",
+      "title": "Krebsmedikament: Hergestellt für 9 Franken, verkauft für 4294 Franken - Ktipp",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnJ0eXdVd1lUTnk3b0FuVGw4VFRGb0ZaOUNCY3JaTll3cDQ0VUhGS3VuLWJjcTRqQ0lLWFhqZG5oWVd5cW1JZktxeWNvejN2eVB2UzJnQmllMDIyMEtBY0dhQ2NNb1g2aUtuQ1Rnc2kxSW1RUUhfOURhYlRwQ0pVdkJpdlNtc2FLVmJIUkxGMnU3SkkzMXJKZ2o4N2ZHNUt4SE44dGg2NXhTSmNSNkpCTklB?oc=5",
+      "published": "2026-05-06T14:45:10+00:00",
+      "source": {
+        "name": "Ktipp",
+        "url": "https://www.ktipp.ch"
       }
     },
     {
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "e37673612ac8",
-      "title": "Wie gesund ist unser Umgang mit Arzneimitteln? - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkk3bUZsb2ZTdVB6ajBzSENIYlRpS2N4S0M4R1ZPZURaRjBFZHlGZ09ENWUtalNHQWhNbVBhUWQ2OFUwRGRFcm1CWmNMZjRsWFhwT0JsRDhiNllfV3kwWTVRS3ZWbkdxTzktQUxQcXlhT1pPU2c3OEVjMWxOOWk5YV82c1RvLXBlWmRZemZ2SktvNUxFcXg5TlRIVUxYTllXLWtR?oc=5",
-      "published": "2026-05-06T15:00:00+00:00",
-      "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
       "id": "7d766e0b368e",
       "title": "Behörde prüft nach Tod von Baby Regelungen für Medikamente mit Vitamin D und Fluorid - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEg2RVdNNGctZU1MemMyc3Q2eUNVNWNDZ2FCaUVjeThmdUpkMFFTNFljQUJuUzV2VzAySk5GQzFIN0Y3Q25hSFl5ZmsxaEQ3S3pwWUdVX1kxUHBIVW9fN3AtLXdzdlIwLVgxLTM4RThyVmY4Sm1xWXJrRlBWdzc3QzhBR3FOaE54eDg2SXh4RDI0OEl5dVdfYjVZeXU0bkk0?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "e37673612ac8",
+      "title": "Wie gesund ist unser Umgang mit Arzneimitteln? - Aargauer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkk3bUZsb2ZTdVB6ajBzSENIYlRpS2N4S0M4R1ZPZURaRjBFZHlGZ09ENWUtalNHQWhNbVBhUWQ2OFUwRGRFcm1CWmNMZjRsWFhwT0JsRDhiNllfV3kwWTVRS3ZWbkdxTzktQUxQcXlhT1pPU2c3OEVjMWxOOWk5YV82c1RvLXBlWmRZemZ2SktvNUxFcXg5TlRIVUxYTllXLWtR?oc=5",
+      "published": "2026-05-06T15:00:00+00:00",
+      "source": {
+        "name": "Aargauer Zeitung",
+        "url": "https://www.aargauerzeitung.ch"
       }
     },
     {
@@ -154,16 +154,6 @@
       }
     },
     {
-      "id": "52bf2293b7ff",
-      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
-      "published": "2026-05-07T07:00:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "95d55d1267a1",
       "title": "Mit Abnehmspritze Kilos loswerden - was ist dran an Ozempic & Co.? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGFzLTFfUHozOUJiWWtWdlRPUm5mZ0VkMGMxLVVGcmxmMzlONHZRV21qZmFHYUo3d2gzV3VDVm9OUHp6Qk4wQjlZTHU3V3RnckthWTZSbVpVMGE1VWxiMFMtVVJCSWdWb3hibzlscllodzVwWmpDMS1ZOXNxYkFfQVJzdlRzeGRQOWdtcW55UVRNSE16QmhJZXhVYmRmYl9iUmJBN1g2cG8?oc=5",
@@ -204,16 +194,6 @@
       }
     },
     {
-      "id": "23d94408d287",
-      "title": "Ärzten, die Medikamente verschreiben, die für den Zustand eines Patienten ungeeignet sind, kann eine Geldstrafe von bis zu 20 Millionen VND auferlegt werden. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajlWYWtMWHJUcnFkUXVWT3N6T2xySWhZUmhBR1luSENDLXNZT0dVMVF2SzRVUnAxZHhERDQwY0xLdHNGNC1ZMnFteF9neWlZT21UZXZNNlc0VnJtdUQ0MTZkX3N2clh1Q2JTMVgySEphUF9rQ0d1T1lma1JFYVdkMTRnRkdXMlBTUWNTeVNpaDlEZlBaV3pXZ05jLURLc3BLQS1RanluajAzc284?oc=5",
-      "published": "2026-05-07T02:31:41+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "f1d5a114d655",
       "title": "Grossbritannien: Politik senkt Hürden für neue Medikamente - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk9kamYxZnJXZjNNVUpqY1F3R19iRGtxZk1Qb3UwcFd4bVpVV3FYbzhiVmRXRE9GcnBKbmVrY2loaG9zREEzRmgzZHA0eFAyOTRxTDlORzNzaUNXYTNVdFFaOC0xVGxyTlZfdlNnbTEzc3Z5M2VZeEpCaEx5T3ZjU1E4UktVcHJmdFVKNzItelVYLVhNV1FIeW14VQ?oc=5",
@@ -221,6 +201,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "9092d9c10e26",
+      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - apotheke adhoc",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "source": {
+        "name": "apotheke adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -234,10 +224,10 @@
       }
     },
     {
-      "id": "93bbe885f392",
-      "title": "Es wird erwartet, dass 84 Medikamente in die Liste der Krankenversicherung aufgenommen werden, wobei Krebsbehandlungen Priorität haben. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjl4UDNtdndSZU1fN2o0UjhqaElJT29qZ0JKVXdXZG95ZVh2SG1TY0tzX1cyVTFzUUt4NmJNN1pwazRfVnFhMEJES2ZzYmh3bDRiV1pGVV9nOF9GWkR2LVA4R1BYcVhEMC1Yb25NM3lMQVgzVGVwMVZsVU05WFVZWlF6N1gteURmeGt0V1dPenUzczUyZmpnSXJkS1g4NFg4ampJOFlucw?oc=5",
-      "published": "2026-05-06T15:11:10+00:00",
+      "id": "23d94408d287",
+      "title": "Ärzten, die Medikamente verschreiben, die für den Zustand eines Patienten ungeeignet sind, kann eine Geldstrafe von bis zu 20 Millionen VND auferlegt werden. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajlWYWtMWHJUcnFkUXVWT3N6T2xySWhZUmhBR1luSENDLXNZT0dVMVF2SzRVUnAxZHhERDQwY0xLdHNGNC1ZMnFteF9neWlZT21UZXZNNlc0VnJtdUQ0MTZkX3N2clh1Q2JTMVgySEphUF9rQ0d1T1lma1JFYVdkMTRnRkdXMlBTUWNTeVNpaDlEZlBaV3pXZ05jLURLc3BLQS1RanluajAzc284?oc=5",
+      "published": "2026-05-07T02:31:41+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -291,6 +281,16 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "93bbe885f392",
+      "title": "Es wird erwartet, dass 84 Medikamente in die Liste der Krankenversicherung aufgenommen werden, wobei Krebsbehandlungen Priorität haben. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjl4UDNtdndSZU1fN2o0UjhqaElJT29qZ0JKVXdXZG95ZVh2SG1TY0tzX1cyVTFzUUt4NmJNN1pwazRfVnFhMEJES2ZzYmh3bDRiV1pGVV9nOF9GWkR2LVA4R1BYcVhEMC1Yb25NM3lMQVgzVGVwMVZsVU05WFVZWlF6N1gteURmeGt0V1dPenUzczUyZmpnSXJkS1g4NFg4ampJOFlucw?oc=5",
+      "published": "2026-05-06T15:11:10+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -524,20 +524,20 @@
       }
     },
     {
-      "id": "5a604bdf4632",
-      "title": "Petition gegen Erstattungs-Aus: »Medizinisches Cannabis ist Apothekenarbeit« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5LcG1xemdjbGVpRlhiYTVDRXdlTFF4a0x0ZDVORFpXTWZhRDE5VEdjc081M1lJRU9kRU9hZWFzY3dxa19nNmZxbUpLZkQycFFuVVNjMWctQWdMYnZOb1hsREZhLUdYb2hvZGVaS2MxT19aOHhkamNra3FodFdzYm9JVkJmQjRDa2lfVlpHOERhakU?oc=5",
-      "published": "2026-05-06T09:15:08+00:00",
+      "id": "8308fd9ff3ea",
+      "title": "»Ge­ra­de in der Apo­the­ke wird Ge­sund­heit ge­lebt« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI5Ni1Wb1RMSGlZbElwcDdtVjF5TzJBTVpUd0xoblBOUHl5UG8tcXlNY1FPTHBPbU5tT2J2S2VTRkFlZlVxejM2S3V6Ty14bHlXVmEtRmRPUnNoeEd0U3pWZlQ5SlZjNGF3bnhWWGF0M2h5MHVSaFZRZjBZZy1KOEZva1l2N1dzbkF0Q2dvRUc1SVN3OVVF?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
-      "id": "8308fd9ff3ea",
-      "title": "»Ge­ra­de in der Apo­the­ke wird Ge­sund­heit ge­lebt« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI5Ni1Wb1RMSGlZbElwcDdtVjF5TzJBTVpUd0xoblBOUHl5UG8tcXlNY1FPTHBPbU5tT2J2S2VTRkFlZlVxejM2S3V6Ty14bHlXVmEtRmRPUnNoeEd0U3pWZlQ5SlZjNGF3bnhWWGF0M2h5MHVSaFZRZjBZZy1KOEZva1l2N1dzbkF0Q2dvRUc1SVN3OVVF?oc=5",
-      "published": "2026-03-19T07:00:00+00:00",
+      "id": "5a604bdf4632",
+      "title": "Petition gegen Erstattungs-Aus: »Medizinisches Cannabis ist Apothekenarbeit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5LcG1xemdjbGVpRlhiYTVDRXdlTFF4a0x0ZDVORFpXTWZhRDE5VEdjc081M1lJRU9kRU9hZWFzY3dxa19nNmZxbUpLZkQycFFuVVNjMWctQWdMYnZOb1hsREZhLUdYb2hvZGVaS2MxT19aOHhkamNra3FodFdzYm9JVkJmQjRDa2lfVlpHOERhakU?oc=5",
+      "published": "2026-05-06T09:15:08+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
@@ -731,16 +731,6 @@
       "source": {
         "name": "Handelsblatt",
         "url": "https://www.handelsblatt.com"
-      }
-    },
-    {
-      "id": "377d4f28878d",
-      "title": "Notdienst heute im Berchtesgadener Land: Kontakte für Apotheken-Notdienst am 07.05.2026 - News.de",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaVFhVnJ0VU4wbEpnY1JyNUJoNjR4SHE0NHNEc29WY3Y5Mm5KSEVMNWpVdEFTMEhSM0lrejVNckdjbVRCanBIdlNFbU9uZTBrOW51VEx1eGRidHZOWGM3dHFPOFBBS3ExVkJRVlh4N0lpa1p4TVdVS2RPWG5sQjZ5SVVMeEFhNGJMalV5YlJ3MTdmMWxNazNQXzFLODBUTU5WcDIyVUlzc0ZqcUFreFc4UEZBckVhQ2l6aDZaQlNJRWxsOUVONm92blFUZzJIUmFDNnRJczlPWWlGSmpuaGxwQm1ZeU1QOU5NQ1B1aEtxaGMybnlXbUc2Mk5IMFk4dkNVY0Rj0gGIAkFVX3lxTE1od3pzRWc5V2dNMXU2QmNIVTNJMGdMMll3MVB4YzhSVUFRMXZjRnIyalhrSHFGeldGVlVwWFg3aEhQYVVwREo2azlmYVFpMFlJb3NhdlFlWHVXZHhBR3RuNUY4SVduRlVpN0RaOWlsTTJ6TnY2TnE4OTZrcTZINDJISVh3aUdtNGVNQlQzdW9TMUV1VE5nNTBMUGNqNVBxaklzVkw4Y05aSlQyaTAwbDlJaklrUmdJRDJnTllzNTdibHp4TXhrY1EzbjJrclVUTkdwWnFFc3VtVldmS01yTDhEYnVaM2MtUl9IX1lQVmNmdkhmdVVLRlBGTlpGY1lKUFo2WE1Hd1VkRg?oc=5",
-      "published": "2026-05-07T02:45:22+00:00",
-      "source": {
-        "name": "News.de",
-        "url": "https://www.news.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "fr.ch",
         "url": "https://www.fr.ch"
+      }
+    },
+    {
+      "id": "1c96f01dc89b",
+      "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
+      "published": "2024-01-31T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     }
   ]
