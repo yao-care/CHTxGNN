@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-08T05:54:08.016245+00:00",
+  "fetched_at": "2026-05-08T07:24:31.101749+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "7d766e0b368e",
-      "title": "Behörde prüft nach Tod von Baby Regelungen für Medikamente mit Vitamin D und Fluorid - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEg2RVdNNGctZU1MemMyc3Q2eUNVNWNDZ2FCaUVjeThmdUpkMFFTNFljQUJuUzV2VzAySk5GQzFIN0Y3Q25hSFl5ZmsxaEQ3S3pwWUdVX1kxUHBIVW9fN3AtLXdzdlIwLVgxLTM4RThyVmY4Sm1xWXJrRlBWdzc3QzhBR3FOaE54eDg2SXh4RDI0OEl5dVdfYjVZeXU0bkk0?oc=5",
-      "published": "2026-05-07T09:22:05+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
       "id": "188e6d18b00f",
       "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "7d766e0b368e",
+      "title": "Behörde prüft nach Tod von Baby Regelungen für Medikamente mit Vitamin D und Fluorid - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEg2RVdNNGctZU1MemMyc3Q2eUNVNWNDZ2FCaUVjeThmdUpkMFFTNFljQUJuUzV2VzAySk5GQzFIN0Y3Q25hSFl5ZmsxaEQ3S3pwWUdVX1kxUHBIVW9fN3AtLXdzdlIwLVgxLTM4RThyVmY4Sm1xWXJrRlBWdzc3QzhBR3FOaE54eDg2SXh4RDI0OEl5dVdfYjVZeXU0bkk0?oc=5",
+      "published": "2026-05-07T09:22:05+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "9092d9c10e26",
-      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - apotheke adhoc",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
-      "published": "2026-05-07T07:00:00+00:00",
-      "source": {
-        "name": "apotheke adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "23d94408d287",
       "title": "Ärzten, die Medikamente verschreiben, die für den Zustand eines Patienten ungeeignet sind, kann eine Geldstrafe von bis zu 20 Millionen VND auferlegt werden. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajlWYWtMWHJUcnFkUXVWT3N6T2xySWhZUmhBR1luSENDLXNZT0dVMVF2SzRVUnAxZHhERDQwY0xLdHNGNC1ZMnFteF9neWlZT21UZXZNNlc0VnJtdUQ0MTZkX3N2clh1Q2JTMVgySEphUF9rQ0d1T1lma1JFYVdkMTRnRkdXMlBTUWNTeVNpaDlEZlBaV3pXZ05jLURLc3BLQS1RanluajAzc284?oc=5",
@@ -411,6 +401,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "9092d9c10e26",
+      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - apotheke adhoc",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "source": {
+        "name": "apotheke adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -504,6 +504,16 @@
       }
     },
     {
+      "id": "5a604bdf4632",
+      "title": "Petition gegen Erstattungs-Aus: »Medizinisches Cannabis ist Apothekenarbeit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5LcG1xemdjbGVpRlhiYTVDRXdlTFF4a0x0ZDVORFpXTWZhRDE5VEdjc081M1lJRU9kRU9hZWFzY3dxa19nNmZxbUpLZkQycFFuVVNjMWctQWdMYnZOb1hsREZhLUdYb2hvZGVaS2MxT19aOHhkamNra3FodFdzYm9JVkJmQjRDa2lfVlpHOERhakU?oc=5",
+      "published": "2026-05-06T09:15:08+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "8308fd9ff3ea",
       "title": "»Ge­ra­de in der Apo­the­ke wird Ge­sund­heit ge­lebt« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI5Ni1Wb1RMSGlZbElwcDdtVjF5TzJBTVpUd0xoblBOUHl5UG8tcXlNY1FPTHBPbU5tT2J2S2VTRkFlZlVxejM2S3V6Ty14bHlXVmEtRmRPUnNoeEd0U3pWZlQ5SlZjNGF3bnhWWGF0M2h5MHVSaFZRZjBZZy1KOEZva1l2N1dzbkF0Q2dvRUc1SVN3OVVF?oc=5",
@@ -531,16 +541,6 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
-      }
-    },
-    {
-      "id": "5a604bdf4632",
-      "title": "Petition gegen Erstattungs-Aus: »Medizinisches Cannabis ist Apothekenarbeit« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5LcG1xemdjbGVpRlhiYTVDRXdlTFF4a0x0ZDVORFpXTWZhRDE5VEdjc081M1lJRU9kRU9hZWFzY3dxa19nNmZxbUpLZkQycFFuVVNjMWctQWdMYnZOb1hsREZhLUdYb2hvZGVaS2MxT19aOHhkamNra3FodFdzYm9JVkJmQjRDa2lfVlpHOERhakU?oc=5",
-      "published": "2026-05-06T09:15:08+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
