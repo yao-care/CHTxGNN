@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-08T20:56:08.566596+00:00",
+  "fetched_at": "2026-05-08T21:57:54.804005+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "69a3459258cb",
-      "title": "Medikamente: Wissenschaftlich erwiesen – in dieser Körperposition wirken Tabletten am schnellsten - WELT",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeDc3QjMxaVRjbGxDaWZYc2pUNkhOdW1KWWxpVmVuUHRBVWo5YnZOM1BmU2lkM1VkN3lpR1laZnhNeWRIbnZKWkJST1JZV21sZ21qdUJtWEtXc0NLcm5pUWNVZkdUMTZQRmgwRDBadE9VSUdmcUxLcFhXT1pDTzRUUEJaQUtBNHpXTENSMUl1QWhoenpLdk9KYTNWLW1Lck45NjFTX25jM1ZOY2NQRW8yLXR1a2QyUnJ4SjFqVDhCbGY0QjNDa0JvbFNoejhiUjVjRkRKUXVSaVhsVk5NWUROVGNGdV9yNDBjck9KeFl0cjlHQQ?oc=5",
-      "published": "2026-05-07T10:02:36+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
-      }
-    },
-    {
       "id": "5b55e1ba56e3",
       "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WirtschaftsWoche",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
+      }
+    },
+    {
+      "id": "69a3459258cb",
+      "title": "Medikamente: Wissenschaftlich erwiesen – in dieser Körperposition wirken Tabletten am schnellsten - WELT",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeDc3QjMxaVRjbGxDaWZYc2pUNkhOdW1KWWxpVmVuUHRBVWo5YnZOM1BmU2lkM1VkN3lpR1laZnhNeWRIbnZKWkJST1JZV21sZ21qdUJtWEtXc0NLcm5pUWNVZkdUMTZQRmgwRDBadE9VSUdmcUxLcFhXT1pDTzRUUEJaQUtBNHpXTENSMUl1QWhoenpLdk9KYTNWLW1Lck45NjFTX25jM1ZOY2NQRW8yLXR1a2QyUnJ4SjFqVDhCbGY0QjNDa0JvbFNoejhiUjVjRkRKUXVSaVhsVk5NWUROVGNGdV9yNDBjck9KeFl0cjlHQQ?oc=5",
+      "published": "2026-05-07T10:02:49+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
       }
     },
     {
@@ -254,12 +254,12 @@
       }
     },
     {
-      "id": "52bf2293b7ff",
-      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - Apotheke Adhoc",
+      "id": "9092d9c10e26",
+      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - apotheke adhoc",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
       "published": "2026-05-07T07:00:00+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
+        "name": "apotheke adhoc",
         "url": "https://www.apotheke-adhoc.de"
       }
     },
@@ -314,16 +314,6 @@
       }
     },
     {
-      "id": "5a604bdf4632",
-      "title": "Petition gegen Erstattungs-Aus: »Medizinisches Cannabis ist Apothekenarbeit« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5LcG1xemdjbGVpRlhiYTVDRXdlTFF4a0x0ZDVORFpXTWZhRDE5VEdjc081M1lJRU9kRU9hZWFzY3dxa19nNmZxbUpLZkQycFFuVVNjMWctQWdMYnZOb1hsREZhLUdYb2hvZGVaS2MxT19aOHhkamNra3FodFdzYm9JVkJmQjRDa2lfVlpHOERhakU?oc=5",
-      "published": "2026-05-06T09:15:08+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "db5e5ef8605c",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -331,6 +321,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "5a604bdf4632",
+      "title": "Petition gegen Erstattungs-Aus: »Medizinisches Cannabis ist Apothekenarbeit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5LcG1xemdjbGVpRlhiYTVDRXdlTFF4a0x0ZDVORFpXTWZhRDE5VEdjc081M1lJRU9kRU9hZWFzY3dxa19nNmZxbUpLZkQycFFuVVNjMWctQWdMYnZOb1hsREZhLUdYb2hvZGVaS2MxT19aOHhkamNra3FodFdzYm9JVkJmQjRDa2lfVlpHOERhakU?oc=5",
+      "published": "2026-05-06T09:15:08+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
