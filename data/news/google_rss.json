@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-09T10:02:57.690989+00:00",
+  "fetched_at": "2026-05-09T11:47:08.712925+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -394,16 +394,6 @@
       }
     },
     {
-      "id": "52bf2293b7ff",
-      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
-      "published": "2026-05-07T07:00:00+00:00",
-      "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
       "id": "c1eec9546c3c",
       "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNek45Q0xRLXZlc1ZnTDBKcHk2cUFnMkllakFtcDJzXzU2bVh5WnBMYVhBWTNoMll4Y0FmVTlfeF9kYlIxQ25OUHdJX3VpSEVCNnBJaWIzZFljQmlEeVp2Q2R3cFRXWERWd3BORmh6OF9TeWNick9Ua0dZdWMtdDlLR3FGV3o?oc=5",
@@ -411,6 +401,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "52bf2293b7ff",
+      "title": "Iran: Drogerie statt Pharmazie, Apotheker gekündigt - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVlhNXN1Z3pHcVR2ZWdzNGxzc09KeTBKdC0tY0RXQ1F1X1JUNjkwYTFGQ04xSEM3MVRPT1VGYXdXa2taNUZQQm1CMlZ5ZlM3WktoeWpoRzM1eVNVSGJOcjB4YmM0SHRHOGd6VmFlQ3FOc3BtZDZabWRtM050UmRyNnZOM2tnQTdUNDN1NHY5eUtQNVFzMmxpbTZRZ0U?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "source": {
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -441,6 +441,16 @@
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "6716f8ba06e2",
+      "title": "Digitalisierung im Gesundheitswesen: Nach Apotheken-Aus: E-Rezept-Terminal soll Versorgung in Bitterfeld sichern - Mitteldeutsche Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaENuRTBpMmZCRGhDNzhmUlBBa0RzQ3JWOUMxeFdlcGxYeDNtX2JQakkxcGgyUl9QVXFjR0dseWFFWHp4QjhOaTRiX2g4N01BdUlxdk00VTVib01xay1XMkpGXzl2NWZsUVMzbHRvMnZxYWNrNlhVR0RPYlhuMHVVdFMxRVZqMUpkd2tHM3V3bkZyT09Mc21mYUJrZGw2V09ZSHE5eEhodlVZT2l0NGU4c3d6dkUyVnpm?oc=5",
+      "published": "2026-05-09T10:00:00+00:00",
+      "source": {
+        "name": "Mitteldeutsche Zeitung",
+        "url": "https://www.mz.de"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "f2d1bf3e36f1",
-      "title": "Darum ist der Medikamentenmangel so schwer zu lösen - quarks.de",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tLSmtjWGNpazVzOXJNcGIxRVM3SWNpYkZYNnRsV3Z3RllCRmRIYks3UmZVUEZKUC13ZWFiMlF4UzhITEV5TWRVcVZLUHhBTWt5UFVVQ0dBYjVndnRSNThZb0YwelMyWUFXQ01aOG1FNnliZ0tCVDZGX2tuVnV4aHd1ZVFxeWV1aXg0SlcxZWdXMGlWV1ZzaERmTkJMblg1ckJv?oc=5",
-      "published": "2023-10-30T07:00:00+00:00",
-      "source": {
-        "name": "quarks.de",
-        "url": "https://www.quarks.de"
       }
     }
   ]
