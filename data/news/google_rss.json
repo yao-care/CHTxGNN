@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-10T18:56:41.856712+00:00",
+  "fetched_at": "2026-05-10T19:58:28.751093+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -281,16 +281,6 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
-      }
-    },
-    {
-      "id": "7d766e0b368e",
-      "title": "Behörde prüft nach Tod von Baby Regelungen für Medikamente mit Vitamin D und Fluorid - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEg2RVdNNGctZU1MemMyc3Q2eUNVNWNDZ2FCaUVjeThmdUpkMFFTNFljQUJuUzV2VzAySk5GQzFIN0Y3Q25hSFl5ZmsxaEQ3S3pwWUdVX1kxUHBIVW9fN3AtLXdzdlIwLVgxLTM4RThyVmY4Sm1xWXJrRlBWdzc3QzhBR3FOaE54eDg2SXh4RDI0OEl5dVdfYjVZeXU0bkk0?oc=5",
-      "published": "2026-05-07T09:22:05+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "81e5e38e1b6e",
+      "title": "Orphan Drugs: Bedeutung und derzeitiger Status - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUk1Zll0b1RxVE5yZEJabTVLOFpncEczU0NXeEcxM3lGc2NuSG1yT3VhVFNvMlp4eDlIM2I2SVRZYlh4VUVMM3ctQmJzdzNDNFMzTnhnQ1lST2dDRE9lbDNqcTBIeXBVemFuMDRUb0ZzN19ORkVOOTd0QVRPT2xrdWhrZ2M3dw?oc=5",
+      "published": "2025-05-19T07:00:00+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     }
   ]
