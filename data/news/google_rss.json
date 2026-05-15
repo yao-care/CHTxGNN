@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-15T21:56:42.694832+00:00",
+  "fetched_at": "2026-05-15T22:53:56.269417+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "188e6d18b00f",
+      "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
+      }
+    },
+    {
       "id": "8dce1ff85348",
       "title": "Erstattung: Gericht sieht Abnehmspritze als Lifestyle-Medikament - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdThMaUs3T0FfWmlEYnNHWkw3VHVTX3R4MUptMEUySkkwZk1OY19nU0xZcF9KT0IweUNoTzhzV2RkUUJhRl9Jdk8zTTgxeHlTbmV6a1R3NUx2ZDc1c0RMSVcyLU9NazE5aURIaW1FTzZhUTQ3U2JmQkhydXRHUEZXR1pGX0ZUODFRaWh0S3RDdzIxQ2hOMkZMc0VaZWdsTVlw?oc=5",
@@ -134,6 +144,16 @@
       }
     },
     {
+      "id": "312626049284",
+      "title": "Keytruda kostet Österreich am meisten. Sein genauer Preis beschäftigt Gerichte - derStandard.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWw1Wkc5bEtYZDk1bXg3MmNpaF92NDBtZ2JLeVJPbUcwb1RBUVl3TlVjanZSQTdyeXVlWWs3V0tzY1Q0Q25qeGxXS1ZFaUxXVE9wODg1OEdqOXZXUEZwM1dFMDdWRnJVUVRDZ0xfdWlMUWhEaVVNcFV4QVdiaGcxdzJ3MWQtUkJ0YWg5cWZoS1ItZ0I2aGI3c1VTdFBmcmNQbktUM3pmaDdFUGJYZF9CMEZtcTlfM0MzdkNEQjdFSGJsX3N5?oc=5",
+      "published": "2026-05-15T09:30:00+00:00",
+      "source": {
+        "name": "derStandard.de",
+        "url": "https://www.derstandard.de"
+      }
+    },
+    {
       "id": "be6b795bb807",
       "title": "Medikamentenabgabe in Ordinationen gefordert - wien.ORF.at",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSWh5YWxEN0gtcW1CcUZlX05VTThtSDVWamtqUEg2YjhlamJKSkUtMG4tTkxBRVcyVXFDQ1Qxb0hqWmxmQnZRZi1BRTA?oc=5",
@@ -141,26 +161,6 @@
       "source": {
         "name": "wien.ORF.at",
         "url": "https://wien.orf.at"
-      }
-    },
-    {
-      "id": "b35756f17ac8",
-      "title": "Gefährlicher Hype: Warum dieses Medikament plötzlich boomt - Kurier",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnluWWJ5VFJFTEtWMzBrRjNZcUhENVZZd3NQbmNHQmVOMzFhVWs4cTlkOWZJRFBQcXFNQ2RBanJROEhRRmRYZXdKd2JjLUJHQlpGdDRZMmRGUjhUT05pRDExSlFMWU8yTDZ4VnVXSUdwcV9nSzhqTnNtRnVET0p5WnlLZjEyRVQ1NmdhVEN3anNoa0swdVp1dXlTOTY1OFBS?oc=5",
-      "published": "2026-05-13T08:48:00+00:00",
-      "source": {
-        "name": "Kurier",
-        "url": "https://kurier.at"
-      }
-    },
-    {
-      "id": "b7122957dd4f",
-      "title": "Erhöht die Einnahme bestimmter Medikamente das Demenzrisiko? - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjdlQTV3dVlNMW9DdDhJc0c4VGQ0azhVZ0hFOHFRQ1Y3Yl9URW8waFcxQlk5NUJpQ1p4clk2d2ZTVVI5ckw2NV9BMEdaNmRDZy1LVWhpVEwyQ1FGSUJNXzFiZ3J1WWh2TTNDSU1UeS1yZU9CTEVzTEJ2ek03eGg2VFFZM3hGSDZ0M3FPb0Mxc1JEeHFBNjQwWXJBWXo?oc=5",
-      "published": "2026-05-13T14:25:54+00:00",
-      "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
       }
     },
     {
@@ -201,6 +201,26 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "b35756f17ac8",
+      "title": "Gefährlicher Hype: Warum dieses Medikament plötzlich boomt - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnluWWJ5VFJFTEtWMzBrRjNZcUhENVZZd3NQbmNHQmVOMzFhVWs4cTlkOWZJRFBQcXFNQ2RBanJROEhRRmRYZXdKd2JjLUJHQlpGdDRZMmRGUjhUT05pRDExSlFMWU8yTDZ4VnVXSUdwcV9nSzhqTnNtRnVET0p5WnlLZjEyRVQ1NmdhVEN3anNoa0swdVp1dXlTOTY1OFBS?oc=5",
+      "published": "2026-05-13T08:48:00+00:00",
+      "source": {
+        "name": "Kurier",
+        "url": "https://kurier.at"
+      }
+    },
+    {
+      "id": "b7122957dd4f",
+      "title": "Erhöht die Einnahme bestimmter Medikamente das Demenzrisiko? - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjdlQTV3dVlNMW9DdDhJc0c4VGQ0azhVZ0hFOHFRQ1Y3Yl9URW8waFcxQlk5NUJpQ1p4clk2d2ZTVVI5ckw2NV9BMEdaNmRDZy1LVWhpVEwyQ1FGSUJNXzFiZ3J1WWh2TTNDSU1UeS1yZU9CTEVzTEJ2ek03eGg2VFFZM3hGSDZ0M3FPb0Mxc1JEeHFBNjQwWXJBWXo?oc=5",
+      "published": "2026-05-13T14:25:54+00:00",
+      "source": {
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
@@ -254,6 +274,16 @@
       }
     },
     {
+      "id": "62868ec42423",
+      "title": "Innovationsrückstand bei Arzneimitteln: Warum Europa den Anschluss verliert - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE1rVXhPMVZ1ODdvLVRya0Zra2otTzFhMDFtT3U4RjFqQ3B4dS01Ry1EU25fdC11RXZGdXZWNWlrckd4OF9QN0hNOG9ndkJ6NDVNNENSQlhoODVwSVptN2NKdkxtVDJiWHQwVmQzdG9wN3g0Mm10WDZadnliTWFLb29OVUlEUE84VHZsdE1lZmQ0bU8wNnc?oc=5",
+      "published": "2026-04-16T07:45:25+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -271,16 +301,6 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
-      }
-    },
-    {
-      "id": "62868ec42423",
-      "title": "Innovationsrückstand bei Arzneimitteln: Warum Europa den Anschluss verliert - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE1rVXhPMVZ1ODdvLVRya0Zra2otTzFhMDFtT3U4RjFqQ3B4dS01Ry1EU25fdC11RXZGdXZWNWlrckd4OF9QN0hNOG9ndkJ6NDVNNENSQlhoODVwSVptN2NKdkxtVDJiWHQwVmQzdG9wN3g0Mm10WDZadnliTWFLb29OVUlEUE84VHZsdE1lZmQ0bU8wNnc?oc=5",
-      "published": "2026-04-16T07:45:25+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
       }
     },
     {
@@ -464,6 +484,16 @@
       }
     },
     {
+      "id": "7bb3e3612210",
+      "title": "Swissmedic-Chefin äussert sich zur Zulassung von Medikamente: Schweiz ist nicht erste Wahl - Luzerner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTg5ZTFJdDI5VXBRTzRMLXlDbjdYaEZIOWF3SndyQTAtcldzOVc1YTdmblItY0JOYmVxdmVaRG5rLVI3MXpYYXlQX1RCUFZRQ0lpZXNPWTJLelF6Q1ZGSE81LVBrOWdabzRJNlN4RDlpcUtoXzhKeVFGRGRpeUFNcFVOR3ltcmp5bmk1OFotLXlneXdnOVZMVHpHMm80Ynl3TE9uaG8xclpfeVlhMkNqSldNajNiQQ?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "source": {
+        "name": "Luzerner Zeitung",
+        "url": "https://www.luzernerzeitung.ch"
+      }
+    },
+    {
       "id": "4f1eeceab428",
       "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
@@ -471,16 +501,6 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
-      }
-    },
-    {
-      "id": "345829b331e2",
-      "title": "Warum die vielen Fragen in der Apotheke gesetzliche Pflicht sind - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTJleUdFNE8zTXhTcG5adjhQMW9tUjBiUHlFMUctcXByOUVBU0YxV251aGh4cmJnV0Z0NlVTMDdBc2FrMGhhWTM3VEt1LTIyZk9OUFREVE80YjBUVC1hTEE5Z083M0Q5M2JQY3RRWURYUVp5NWRZMHZSOUctS2J1SjBWOF9tcURxVnZmcjVhZl8yVURxXzdrclNIUDFTX2dyaFJZcGJUb3RxTHBESjYwcG5DY2hZUFF5dXhvRzF3?oc=5",
-      "published": "2026-03-17T07:00:00+00:00",
-      "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
       }
     },
     {
@@ -551,6 +571,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "a43852bf5366",
+      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -644,16 +674,6 @@
       }
     },
     {
-      "id": "501e9f551bd5",
-      "title": "Chronische Krankheiten: EU genehmigt erstes Medikament gegen chronische Lungenkrankheit - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fdjU5RzVXWjctdzZGZks3YnE4Yl82RmlVcGk5OWFzUnJKQ3J0b3FQWk05TGtZaXRTc3VkeU5WLW5zUFJqYVhlckpPcE5OdVRkWUFhOWhiRFJJZjY1WXp6ak1UN0hXWEdVVlU4Ny1YUkFkLWcwMXBJ?oc=5",
-      "published": "2025-11-18T08:00:00+00:00",
-      "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
-      }
-    },
-    {
       "id": "2a8b45ec7036",
       "title": "Swissmedic warnt vor gefälschten und irreführenden «GLP-1»-Produkten zur Gewichtsreduktion - Swissmedic",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkE1NzFNUW5LbnpJRTl2LUFWSlVLWnR1UlNWdm1TMEQ1Z1ZVMlRMRWJ3MXYyTlZQREo2dDJoSTQ4cDc5eldKZEc5azlPUlpUTm1fQWdmb3YxNGpQWWtSZlMyaW9hLVhkQ2w2U09iSmttdjF3Z1dVRmZFYVNDbExfTmxCSjJsUjdCWkE2Q05aTE5uN0JkQ0ZkMGlpa1Q1XzQ?oc=5",
@@ -734,6 +754,16 @@
       }
     },
     {
+      "id": "6bbc13a19648",
+      "title": "Alzheimer-Medikament: Hersteller liefert nur halbe Information - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2RybUFxN3dzQkk5dm1NS2lyYWJDSW5weFFZUTRvanNpQWh3bG00aU9PMHI4cXFxNTFKam5OeFdJSC11Z25Fa3hxSHBUakVtSDAzZ0Z5d0huX1ZDVENzQXIzNTJWQUhZX2JaY3k1SmNXLThoczZMdWdIRTA1RHRldnBseXFweVU4RjVGU2V2WDVzVU5saTV3czBOTFdvVmhBMnc?oc=5",
+      "published": "2025-09-18T07:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
+      }
+    },
+    {
       "id": "1caf58357270",
       "title": "Sparer ausgebremst: Die Krankenkasse zahlt im Ausland eingekaufte Medikamente nicht. - Aargauer Zeitung",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjVydkFHWnB2Nk5RanhGeHpMazI3SFBsc0ZLWGlleWRQeUFzWjhkRk1jY2ZSLTd6X28xamtCd3YzdE1ta3Q5VE1PZjMxaVktWWEyQzNxZFktN3JWOENJRjVIaU5Oa1V2ODU0cHNteFRDXzRLTTZCcGxjSjBhUG1ZR1BXWk5BTkhSMVRPZ1JLeXRtVjhJZ1NXR0loMEtraUIyQWdZOUZ1dHJQS19kNFhSZ1I0YUUxdw?oc=5",
@@ -754,16 +784,6 @@
       }
     },
     {
-      "id": "d46f6ce1c2b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
-      "published": "2025-09-23T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "a4a323e63c23",
       "title": "Milliarden für die Gesundheit – Trotzdem fehlen Medikamente - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNmVDbjdmWTY3Ynd4cGh2b2lubldYalNXY0JwNEZMb2hQc0FOUGR6RUVNYzNkLUFPRjFVa1NKMEZRUWdFTVBjSWtWS2ZrSVZ1anFUZ0ZYcFZZU2Y1YmlidU1MaWNZUGQ2cWdyNmRpWXd5cWxBVGVzYmk1WjA4U0htTjEyNjFOeHFqenJtbDNDWE5yRVg2MHNDT3JDM3lzaFJudXZUNjNsVDhndEFVNGdoS20yRkNkeEFsMmw3WXZ1OHh4RC1RTXBnUGpkWHZXaXVKODA5YTR6akhHNEZiVUZHTURrcnlncUhuTzRXYkNB?oc=5",
@@ -771,6 +791,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "d46f6ce1c2b9",
+      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
+      "published": "2025-09-23T07:00:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -904,6 +934,16 @@
       }
     },
     {
+      "id": "b29778f93a5c",
+      "title": "Behandlung mit Ritalin: ADHS-Medikamente verringern Risiko für Suizid, Kriminalität und Unfälle - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmZzSEE4anVOcmRmVVhXWkxsYzZWRWN4V0s0VGQ5T01yZTJRaDhPQTVoMXNaLUhVWUlvUGw0ZWctNW9WY1pEeUVyYjRvcHBnUDZWaDhRM05pMGhDWFd1QXZmbWFCYW1tQnpWSk90QW1pRzlYazdiTUhoUEl3TXBSZTN1TlpjbnJ2a1ZHdkJJWExhUlJIX095UW8zZHI5U0UwUnRhbER4UVdSVVNVYmdTU0pULVNvZE9TdFlWNjdWbmt3U0RGNDhPR1VFbHk3LWlEVjFROQ?oc=5",
+      "published": "2025-08-22T07:00:00+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
       "id": "d9882fc31b6c",
       "title": "Medikamente werden bald bis zu 70 Prozent teurer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3NWRV90cUlESXREdHVPMmEwY1VxSnNUTFNRS1dmLWJ1WEdCSjl6RzVjaTdfYUNRRF9jWVZaSDZ4aFl5cnRMZmxlRUtGVVZ0YWJmd3NRZm5XRWp5d2NNcnVhZlBtaFpRRk9uV0xVNERHWE91ZnJOR2ZUS2lsQXJCSUhlbTUyT01ueGNvdFRIbXV0cEtvUmVaWg?oc=5",
@@ -911,16 +951,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "bc75e9ca1dad",
-      "title": "US-Pilotprojekt sorgt für Druck auf Schweizer Medikamentenpreise - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXBfMTFocmozRnpUcUQzQWZBdk50cm9tMDhnTkp5U25XendZUE5rQVpGbUNPdFE0TkF5UmlDQnhvRkZSeU1LOU9GUUVUN1d2MTJYaVhMOXFqODVtTkNxSjVRbWlVZV91VGZMZU8yeGR4SF8teENCLUFOUFRnTFRZeUJOeURJdDZUdlFNNFczM3k3N0dOUGtLZHpzUGI1TkI5eW8yYw?oc=5",
-      "published": "2025-11-11T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -971,36 +1001,6 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "1c96f01dc89b",
-      "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
-      "published": "2024-01-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "e635566498cf",
-      "title": "Operation PANGEA XIV: Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ0YzaDdzMW8ySGhmU2d3YnRmS0c3b3djZUZsb2U0WGVhRGpOMG5XRXVOQ1QtbnFXc2Nwem1vNXZneUM2aE9PRjhrMGgyVlJBQXJEM0Y1R0R2WWc3cWp0SjFJWUNhVlBpbVZvU1YwUkVTa092WmVUZmc5eVYyZnhmdmd2TExwWjgxVDJtR3dxelFXTy1VUVQtcU5SZDlJaWJveEIzcVpndW1uOFdOOEFadkR6b2lnSWZfRnlGSldPN1p4Smp4dVdlbGpZRnk5SGtaMWZDeU5aYm8wbHVjNW9CWGZ4OEp0czl5UUt3MFg5bWhOam5ya0FJZl9B?oc=5",
-      "published": "2021-06-08T07:00:00+00:00",
-      "source": {
-        "name": "Swissmedic",
-        "url": "https://www.swissmedic.ch"
-      }
-    },
-    {
-      "id": "2e573a70d6cb",
-      "title": "Apotheken: 60 Prozent der Produkte im Schaufenster sind unwirksam - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkZEYnBtV2dvUktGb0swV0RSN3JhYUJzQWxoczl0NUpKRGo4cHpVN2tCNG05bU8xbEVRU2VVQlNCNWVnZFNqa1dWaWNOU0NZWW5GU0lTN1lsb1lMOUFfUDQ3Vm9Nc01xd0YtR004VFZUUzEzRXVyTUNVWHhOU3cyVzNlQjd1eFh5bE1Wd1F0TDVEdkxOWDFkMEFiWjNhWjRDY3htTGJzS1c3SlJzeEV6RDR0QUVzN28?oc=5",
-      "published": "2023-10-04T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
