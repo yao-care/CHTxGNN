@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T16:54:47.827932+00:00",
+  "fetched_at": "2026-05-17T17:55:57.643476+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "bfd217c58780",
-      "title": "Abnehmen: 80 Prozent des Gewichtsverlusts gehalten – Forscher arbeiten an Tablette gegen Jojo-Effekt - WELT",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWN6aXF6bTYwM00yMTVwcWZ2QWE2eVNPbVQ2bTY5Tmk3THIzS3RYa0dyakhUaWFnQUlpQTRoZnpuYS1wSmRsQTJPOFJSQy1DdEp1TkNDYl9tVUZjV1Q5bEZzRGRxVXZsdVdUNUM5U1NfbkNkLUVPT2hHQjBZQWdLbGhwVEthZDlmdE43bDNpS2loMjQwdGtYR1pxMk03RnhIM0Fkb05XVFhNUVNVNm5CTTU5cU9qRFlBYm5aUEN1Q1pqbjI5UmNLMG5kdkZHWDF0WXBOZFo3NDZGc3hSNDMzN25rdGdEVVd4YmpZSjNxOXFpV0ExRUFoeg?oc=5",
-      "published": "2026-05-17T07:30:30+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
-      }
-    },
-    {
       "id": "bbbb55e61434",
       "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - St. Galler Tagblatt",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDA3TE1LU0ZrRDdlaWpmWFduT0t4X3lTaS00N0oyclZnRFJ1U01ZZWhQSTNCWkt3VFRoUUxKWG1ta25pT1hnc2NLaC1BcmkyS1lBV3NGSzMzTTJVVllYTGM2NWU0dzNEX0UyQVFjX0VkOEI2WW55clNtNl9tYUVBUHN2bVQ5cldHMHk5dklvZmQ0SEthOE1j?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "St. Galler Tagblatt",
         "url": "https://www.tagblatt.ch"
+      }
+    },
+    {
+      "id": "bfd217c58780",
+      "title": "Abnehmen: 80 Prozent des Gewichtsverlusts gehalten – Forscher arbeiten an Tablette gegen Jojo-Effekt - WELT",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWN6aXF6bTYwM00yMTVwcWZ2QWE2eVNPbVQ2bTY5Tmk3THIzS3RYa0dyakhUaWFnQUlpQTRoZnpuYS1wSmRsQTJPOFJSQy1DdEp1TkNDYl9tVUZjV1Q5bEZzRGRxVXZsdVdUNUM5U1NfbkNkLUVPT2hHQjBZQWdLbGhwVEthZDlmdE43bDNpS2loMjQwdGtYR1pxMk03RnhIM0Fkb05XVFhNUVNVNm5CTTU5cU9qRFlBYm5aUEN1Q1pqbjI5UmNLMG5kdkZHWDF0WXBOZFo3NDZGc3hSNDMzN25rdGdEVVd4YmpZSjNxOXFpV0ExRUFoeg?oc=5",
+      "published": "2026-05-17T07:30:30+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "be6b795bb807",
-      "title": "Medikamentenabgabe in Ordinationen gefordert - wien.ORF.at",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSWh5YWxEN0gtcW1CcUZlX05VTThtSDVWamtqUEg2YjhlamJKSkUtMG4tTkxBRVcyVXFDQ1Qxb0hqWmxmQnZRZi1BRTA?oc=5",
-      "published": "2026-05-13T11:06:40+00:00",
-      "source": {
-        "name": "wien.ORF.at",
-        "url": "https://wien.orf.at"
-      }
-    },
-    {
       "id": "735d45108e1f",
       "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
@@ -321,6 +311,16 @@
       "source": {
         "name": "zentralplus",
         "url": "https://www.zentralplus.ch"
+      }
+    },
+    {
+      "id": "be6b795bb807",
+      "title": "Medikamentenabgabe in Ordinationen gefordert - wien.ORF.at",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSWh5YWxEN0gtcW1CcUZlX05VTThtSDVWamtqUEg2YjhlamJKSkUtMG4tTkxBRVcyVXFDQ1Qxb0hqWmxmQnZRZi1BRTA?oc=5",
+      "published": "2026-05-13T11:06:40+00:00",
+      "source": {
+        "name": "wien.ORF.at",
+        "url": "https://wien.orf.at"
       }
     },
     {
@@ -354,6 +354,16 @@
       }
     },
     {
+      "id": "2384f37f44ac",
+      "title": "Was, wenn uns die Medikamente ausgehen? - Luzerner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWJHWlBiMlpkRFJ3TFBmbkZTQlRFd3NFTy1KWjJUY0dZNXREV0Z1Y01Ea2libmJWSlo4UmNDcmxMQWQ4WXJXSF9oX2lVcG1QVmR0Z3pqMkt1dEk5c2p1aWNnZzJZM0JzMmk5YTVOU2gzS25fSzdaUjRHbXJIUWgzZGI2d1NJdUpLWlk1UHp6X2JmYnJf?oc=5",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": {
+        "name": "Luzerner Zeitung",
+        "url": "http://www.luzernerzeitung.ch"
+      }
+    },
+    {
       "id": "9c7eaaba1281",
       "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
@@ -384,16 +394,6 @@
       }
     },
     {
-      "id": "b091d0b157e3",
-      "title": "Warken streicht Temperaturkontrollen für EU-Versandapotheken - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdG13cDZJZ3VkQ1JrbUZ2WFFfOWRXbWtoTXNkVEQ3ZTNyaXJGYzlVSzBTSklqWHdWeWlfcnk1UjNDakxFRUQ4Wm5UaVpqZzhQTU1SdGxIVkhXTnc0WXNaZEpWanFtUmxDY3Y0YU95eXo1VTNKcHo0M3ZMU0ZyTGJJSklvVFpFcDQ0RnY2NF9uNi1rUnZNQ0QxYnh0cTlGWlN3MEdzRXhDNEpocnNKcVVPWnIxWjN6RkViYml1UWRZQzRpaHREckFfaQ?oc=5",
-      "published": "2026-05-13T14:33:38+00:00",
-      "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
-      }
-    },
-    {
       "id": "a00431404cc1",
       "title": "Gesundheitspolitik: Sparen bei Arzneimitteln - Deutsches Ärzteblatt",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHM4ei1DUXFrVUtyYnBfS2FJZDBpN25iZ0FvZ25RX3NBVmc1aXkyWk5SMU5SVFFTNUpXQ1VxbVcwNUpBeTBwcjlOaTk0LVAxMGhxOG5VMWRucnp2NlZPWTdERmdCU2xBd3RqM0ptejhzZHF0anhRT3ZwLWhFV1JsSGF6TVJ4c25PaFdrQ2NPNnFpN1BuUkgtUWMyR1UxVmtuMG9XTktEczBvV1laVUxsQXZBV24?oc=5",
@@ -401,6 +401,16 @@
       "source": {
         "name": "Deutsches Ärzteblatt",
         "url": "https://www.aerzteblatt.de"
+      }
+    },
+    {
+      "id": "b091d0b157e3",
+      "title": "Warken streicht Temperaturkontrollen für EU-Versandapotheken - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdG13cDZJZ3VkQ1JrbUZ2WFFfOWRXbWtoTXNkVEQ3ZTNyaXJGYzlVSzBTSklqWHdWeWlfcnk1UjNDakxFRUQ4Wm5UaVpqZzhQTU1SdGxIVkhXTnc0WXNaZEpWanFtUmxDY3Y0YU95eXo1VTNKcHo0M3ZMU0ZyTGJJSklvVFpFcDQ0RnY2NF9uNi1rUnZNQ0QxYnh0cTlGWlN3MEdzRXhDNEpocnNKcVVPWnIxWjN6RkViYml1UWRZQzRpaHREckFfaQ?oc=5",
+      "published": "2026-05-13T14:33:38+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
       }
     },
     {
@@ -634,16 +644,6 @@
       }
     },
     {
-      "id": "1ab825a3dba4",
-      "title": "NGG Südwestfalen kritisiert geplante Gesundheitsreform - LokalPlus",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUluMkhtQzdCR3duYVYybXlBdlhhMnl5TUluTE4xVHFYa0Z5cWJkS184bXNNNjFGZjVxT25kNG1yZ1ZjRW1FdWNidnhkRGJhUy1XVUdXVDV2eEg5RVgxU0tWX1BUeVNXVy11VG1tTFdsN3pjZ0hXc25vOU9tQXlXcUJXeVJZcy13QWx2M1MybjNGbXBUYld4a0Y3SE5GUzBr?oc=5",
-      "published": "2026-05-17T06:00:00+00:00",
-      "source": {
-        "name": "LokalPlus",
-        "url": "https://www.lokalplus.nrw"
-      }
-    },
-    {
       "id": "091a002ed2d2",
       "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
@@ -661,6 +661,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "1ab825a3dba4",
+      "title": "NGG Südwestfalen kritisiert geplante Gesundheitsreform - LokalPlus",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUluMkhtQzdCR3duYVYybXlBdlhhMnl5TUluTE4xVHFYa0Z5cWJkS184bXNNNjFGZjVxT25kNG1yZ1ZjRW1FdWNidnhkRGJhUy1XVUdXVDV2eEg5RVgxU0tWX1BUeVNXVy11VG1tTFdsN3pjZ0hXc25vOU9tQXlXcUJXeVJZcy13QWx2M1MybjNGbXBUYld4a0Y3SE5GUzBr?oc=5",
+      "published": "2026-05-17T06:00:00+00:00",
+      "source": {
+        "name": "LokalPlus",
+        "url": "https://www.lokalplus.nrw"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Swissmedic",
         "url": "https://www.swissmedic.ch"
-      }
-    },
-    {
-      "id": "1c96f01dc89b",
-      "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
-      "published": "2024-01-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
