@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T15:55:47.803712+00:00",
+  "fetched_at": "2026-05-17T16:54:47.827932+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "bfd217c58780",
-      "title": "Abnehmen: 80 Prozent des Gewichtsverlusts gehalten – Forscher arbeiten an Tablette gegen Jojo-Effekt - WELT",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWN6aXF6bTYwM00yMTVwcWZ2QWE2eVNPbVQ2bTY5Tmk3THIzS3RYa0dyakhUaWFnQUlpQTRoZnpuYS1wSmRsQTJPOFJSQy1DdEp1TkNDYl9tVUZjV1Q5bEZzRGRxVXZsdVdUNUM5U1NfbkNkLUVPT2hHQjBZQWdLbGhwVEthZDlmdE43bDNpS2loMjQwdGtYR1pxMk03RnhIM0Fkb05XVFhNUVNVNm5CTTU5cU9qRFlBYm5aUEN1Q1pqbjI5UmNLMG5kdkZHWDF0WXBOZFo3NDZGc3hSNDMzN25rdGdEVVd4YmpZSjNxOXFpV0ExRUFoeg?oc=5",
-      "published": "2026-05-17T07:30:30+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
-      }
-    },
-    {
       "id": "4e71ac42c71c",
       "title": "Pharma nennt es Innovation und meint Rendite - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnJzMkpSeEpiYWVNRV92OVhSUFBSSU1MRk9fcXNyMUs0LWZka3JDMHpwRkZUbnl4SExxNG00N0l3TDRPcEIxQlhqOXB3NEh0Ul9ITkVna2EzdWk2a0NWUmR0eHYxVVBocHdfZEZPRHBxQ04teTNDbGFYcDFMMWZNV2NnbE9tRFpxbjVTUTR2VmdMWFJBRFJ2M2dGRDgyQQ?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "bfd217c58780",
+      "title": "Abnehmen: 80 Prozent des Gewichtsverlusts gehalten – Forscher arbeiten an Tablette gegen Jojo-Effekt - WELT",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWN6aXF6bTYwM00yMTVwcWZ2QWE2eVNPbVQ2bTY5Tmk3THIzS3RYa0dyakhUaWFnQUlpQTRoZnpuYS1wSmRsQTJPOFJSQy1DdEp1TkNDYl9tVUZjV1Q5bEZzRGRxVXZsdVdUNUM5U1NfbkNkLUVPT2hHQjBZQWdLbGhwVEthZDlmdE43bDNpS2loMjQwdGtYR1pxMk03RnhIM0Fkb05XVFhNUVNVNm5CTTU5cU9qRFlBYm5aUEN1Q1pqbjI5UmNLMG5kdkZHWDF0WXBOZFo3NDZGc3hSNDMzN25rdGdEVVd4YmpZSjNxOXFpV0ExRUFoeg?oc=5",
+      "published": "2026-05-17T07:30:30+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "2384f37f44ac",
-      "title": "Was, wenn uns die Medikamente ausgehen? - Luzerner Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWJHWlBiMlpkRFJ3TFBmbkZTQlRFd3NFTy1KWjJUY0dZNXREV0Z1Y01Ea2libmJWSlo4UmNDcmxMQWQ4WXJXSF9oX2lVcG1QVmR0Z3pqMkt1dEk5c2p1aWNnZzJZM0JzMmk5YTVOU2gzS25fSzdaUjRHbXJIUWgzZGI2d1NJdUpLWlk1UHp6X2JmYnJf?oc=5",
-      "published": "2025-11-22T08:00:00+00:00",
-      "source": {
-        "name": "Luzerner Zeitung",
-        "url": "http://www.luzernerzeitung.ch"
-      }
-    },
-    {
       "id": "9c7eaaba1281",
       "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
@@ -474,16 +464,6 @@
       }
     },
     {
-      "id": "0b6fc99eee7a",
-      "title": "Gesundheitsbehörde warnt: Bundesinstitut warnt vor Risiken bei Drip-Spa-Infusionen - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNck5Qb1RFcV9LdmZ2Zng5enppelNvdEhkTGdYeWNnM2I4Sk95bmVxUXBkakltYXRYRjFUNDhJbXEtWWFUTWxiYmRFVlpYYlNzMzlUc3Z3OFcxbEhlM2szNXBMZzNfcU5oX3pXRmNQM3A3SzVqU0RCb082eFJraUNvM3JDWVJsdy1pMzRGWHhUQ2hVdHBGZHdrUjBGcUVUNVlEcWgxU3hXOHdnR3hLemVVRVU3aExXd0JKeHhISHJoRy1kZFpRZG1ZcXJR?oc=5",
-      "published": "2026-05-13T02:31:11+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
-      }
-    },
-    {
       "id": "cbac0df52619",
       "title": "Wegen Trumps Medikamentenreform: Verpasst die Schweiz den Zugang zu innovativen Therapien? - Aargauer Zeitung",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1pFeEJTM1ktOUNhbFN6bkt1NE96Y3c4MWZxOUVIWkV0Y3M4dGlITUt1LVl4Mjh4aFAyRGx5N1pab2R1bGU0NUN4bVJJTS15R3YxTVlMWkgxa1FXU3Zxd05Ic2VZQUdDU2k5TDBXbmFlMklhdXZGeFhMc0pocnd1eURDcHltYmFNbjg0b0pPNkQ3TWV5OUdvWDVWVW53RDVfQVJiOGY3eW5lSzIwUFl4OHRGeUp3U19sZFo2MQ?oc=5",
@@ -491,6 +471,16 @@
       "source": {
         "name": "Aargauer Zeitung",
         "url": "https://www.aargauerzeitung.ch"
+      }
+    },
+    {
+      "id": "0b6fc99eee7a",
+      "title": "Gesundheitsbehörde warnt: Bundesinstitut warnt vor Risiken bei Drip-Spa-Infusionen - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNck5Qb1RFcV9LdmZ2Zng5enppelNvdEhkTGdYeWNnM2I4Sk95bmVxUXBkakltYXRYRjFUNDhJbXEtWWFUTWxiYmRFVlpYYlNzMzlUc3Z3OFcxbEhlM2szNXBMZzNfcU5oX3pXRmNQM3A3SzVqU0RCb082eFJraUNvM3JDWVJsdy1pMzRGWHhUQ2hVdHBGZHdrUjBGcUVUNVlEcWgxU3hXOHdnR3hLemVVRVU3aExXd0JKeHhISHJoRy1kZFpRZG1ZcXJR?oc=5",
+      "published": "2026-05-13T02:31:11+00:00",
+      "source": {
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
       }
     },
     {
@@ -634,16 +624,6 @@
       }
     },
     {
-      "id": "1ab825a3dba4",
-      "title": "NGG Südwestfalen kritisiert geplante Gesundheitsreform - LokalPlus",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUluMkhtQzdCR3duYVYybXlBdlhhMnl5TUluTE4xVHFYa0Z5cWJkS184bXNNNjFGZjVxT25kNG1yZ1ZjRW1FdWNidnhkRGJhUy1XVUdXVDV2eEg5RVgxU0tWX1BUeVNXVy11VG1tTFdsN3pjZ0hXc25vOU9tQXlXcUJXeVJZcy13QWx2M1MybjNGbXBUYld4a0Y3SE5GUzBr?oc=5",
-      "published": "2026-05-17T06:00:00+00:00",
-      "source": {
-        "name": "LokalPlus",
-        "url": "https://www.lokalplus.nrw"
-      }
-    },
-    {
       "id": "5cfa2762dc20",
       "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXlzU1VBOUhWa05wcTVDNnBBdHRkeDl5TnZ1S1A3T0swT2pKTjZlaU1pempxQVJkMXMySXBtd2xpaUk5WWN4Q1VyakdMbnN2eF9mRncxakUwN21WbGFQMWpuR2VoOG1tUDYtWERUbS1LSVpOdUNaTE1SWmhDSkVUdTlubVNEWGNtUXNaYk5tcTJibTRDZTJv?oc=5",
@@ -651,6 +631,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "1ab825a3dba4",
+      "title": "NGG Südwestfalen kritisiert geplante Gesundheitsreform - LokalPlus",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUluMkhtQzdCR3duYVYybXlBdlhhMnl5TUluTE4xVHFYa0Z5cWJkS184bXNNNjFGZjVxT25kNG1yZ1ZjRW1FdWNidnhkRGJhUy1XVUdXVDV2eEg5RVgxU0tWX1BUeVNXVy11VG1tTFdsN3pjZ0hXc25vOU9tQXlXcUJXeVJZcy13QWx2M1MybjNGbXBUYld4a0Y3SE5GUzBr?oc=5",
+      "published": "2026-05-17T06:00:00+00:00",
+      "source": {
+        "name": "LokalPlus",
+        "url": "https://www.lokalplus.nrw"
       }
     },
     {
@@ -854,16 +844,6 @@
       }
     },
     {
-      "id": "8d6c279774fa",
-      "title": "Arzneimittelpreise im Fokus: Innovation statt Pauschale - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2NjMlpJU1NlMTBseFY5Z2h1aGMtdFo4YklYRDJEcEw1UnlLMlJ5WlQwSUdYVGg0clI0bm5NSUV5bmNoa1FzTi1oUUtBSFU4bElXODRQQ1JXZ1hQb09lMnBhNlI0TjRFWERYUUNVOFBXNHU3RzNpbGhSRE9CZFhaTnpFRC1mZTZ4YVpuTkJiVmtfd0FHUU9B?oc=5",
-      "published": "2025-05-21T07:00:00+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "c4587bcb87d9",
       "title": "Hauptstadtkongress: Innovationsförderung oder Kostendämpfung bei Arzneimitteln? - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVENCTXVqOGR0YTV4bGljYkJLSnNCbWtVUE1rU0xlV2daRHhkUHljbDFVOVV0YXJ0N2JndVlMaXNaZHlnSkh4aUVfWnk0c2doQVM2MW9pb3RMcEh0bEZwVFJwUFE4YUFXYjI2eU5xVHQxdFNFUGRTZTNaNzRNdHY1OFVITGJjTVIwd0ZtYjlDRHlIRmN6cGstZjg5TmRmMWFldmtPWndBNkRvUm8?oc=5",
@@ -874,13 +854,13 @@
       }
     },
     {
-      "id": "2d1785d23a70",
-      "title": "Gesundheitsreform: Milliarden-Last für Pharmaindustrie und Patienten - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVm5ONm5YLTNmRGxObDZkcUdmR0JuVmdVd0hlVE8zR2dKaWdlcUltZ0tQdGZCTkJvUTNvSk44dm43SDdSU0tTN19UNDM0UnJTMV9YbHJPRk0teHQyU2VDNFloUGhoaVowZkVZbkRxQUprRUVVSWtEeFFRd0h1MTBBZjYyc2VEOVFfLVpPYno0eFM1Q1liOFV3NVNZMllsQXhwbTV2eDAtOHZ2eHkzQ0tldDE2NHp4QzJX?oc=5",
-      "published": "2026-05-14T08:59:36+00:00",
+      "id": "8d6c279774fa",
+      "title": "Arzneimittelpreise im Fokus: Innovation statt Pauschale - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2NjMlpJU1NlMTBseFY5Z2h1aGMtdFo4YklYRDJEcEw1UnlLMlJ5WlQwSUdYVGg0clI0bm5NSUV5bmNoa1FzTi1oUUtBSFU4bElXODRQQ1JXZ1hQb09lMnBhNlI0TjRFWERYUUNVOFBXNHU3RzNpbGhSRE9CZFhaTnpFRC1mZTZ4YVpuTkJiVmtfd0FHUU9B?oc=5",
+      "published": "2025-05-21T07:00:00+00:00",
       "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -891,6 +871,16 @@
       "source": {
         "name": "Verbraucherzentrale.de",
         "url": "https://www.verbraucherzentrale.de"
+      }
+    },
+    {
+      "id": "2d1785d23a70",
+      "title": "Gesundheitsreform: Milliarden-Last für Pharmaindustrie und Patienten - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVm5ONm5YLTNmRGxObDZkcUdmR0JuVmdVd0hlVE8zR2dKaWdlcUltZ0tQdGZCTkJvUTNvSk44dm43SDdSU0tTN19UNDM0UnJTMV9YbHJPRk0teHQyU2VDNFloUGhoaVowZkVZbkRxQUprRUVVSWtEeFFRd0h1MTBBZjYyc2VEOVFfLVpPYno0eFM1Q1liOFV3NVNZMllsQXhwbTV2eDAtOHZ2eHkzQ0tldDE2NHp4QzJX?oc=5",
+      "published": "2026-05-14T08:59:36+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Swissmedic",
         "url": "https://www.swissmedic.ch"
+      }
+    },
+    {
+      "id": "1c96f01dc89b",
+      "title": "Medikamentenverschwenung: Warum so viele Tabletten im Müll landen - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2N4ZjdUSjJLNFliem96V0pGX3ZNLUl5WDNteHFibFpKOG5pQ2tuVHBJc0RadFNJRFIxQWl4djVwelJ6WUJzR0tYV0VaZy1zTVRfWWhCclI0QVZLMmN5V3JOQ1NPNzB0SnVESTVwRVh0SlFTWkZiRVkzVzFDRU1xN1Nrck1Tdlk?oc=5",
+      "published": "2024-01-31T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     }
   ]
