@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-05-17T13:12:05.304058+00:00",
+  "fetched_at": "2026-05-17T14:53:05.589982+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "ae3d250cee54",
+      "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
+      "published": "2026-05-17T14:18:55+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
     {
       "id": "491353a8a494",
       "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - SRF",
@@ -24,12 +34,12 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "id": "8db31424e5bb",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:44:46+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -54,16 +64,6 @@
       }
     },
     {
-      "id": "bfd217c58780",
-      "title": "Abnehmen: 80 Prozent des Gewichtsverlusts gehalten – Forscher arbeiten an Tablette gegen Jojo-Effekt - WELT",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWN6aXF6bTYwM00yMTVwcWZ2QWE2eVNPbVQ2bTY5Tmk3THIzS3RYa0dyakhUaWFnQUlpQTRoZnpuYS1wSmRsQTJPOFJSQy1DdEp1TkNDYl9tVUZjV1Q5bEZzRGRxVXZsdVdUNUM5U1NfbkNkLUVPT2hHQjBZQWdLbGhwVEthZDlmdE43bDNpS2loMjQwdGtYR1pxMk03RnhIM0Fkb05XVFhNUVNVNm5CTTU5cU9qRFlBYm5aUEN1Q1pqbjI5UmNLMG5kdkZHWDF0WXBOZFo3NDZGc3hSNDMzN25rdGdEVVd4YmpZSjNxOXFpV0ExRUFoeg?oc=5",
-      "published": "2026-05-17T07:30:30+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
-      }
-    },
-    {
       "id": "b2b6e1493e4d",
       "title": "Resistenzen gegen Antibiotika: Wo bleiben die neuen Medikamente? - MDR",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORjI0bDN0TTBYQkZGME1XMDlhTkY0VDNSRzVPdFItU1otREtfN1hDQXJScFJVQkVkMmZwRGhhODUxSVBCc1ZOSVoxcUl0ektfWkdwd2RoODJiNDdfaFVnU0RFTzNoWk5VUjNOZDdOczVkNUIxZGs2dHNVRGVqQmJXT2VPcF9ieTE5WXF0YjllRkxHQXRPdmhPSWR0a2JwTGdrbmVFckpXYUZ6NjFNcFg1Q3lTSS03YnhWWFHSAb8BQVVfeXFMT1Nva3ZtX0UxdUJyeGE4T1NCeTZ6N2JhOTZ5dC1NNmZPOG5NVHNIX0VsMlFMS2ticW5wZGdEZEFHV3JsTDdDLVhrZ1RqZVZVM3pmYklJeVNfVUdFbm5pN0M4R1RGdzR1Q0VGMm9iUlBMTDN6Qm5KQUVKVURGaEM3LWNHQXJGZUJoU3pVbEZGcUR3a1ZmV005WmlZWHpnZm94bVI1d2FDcmhhQ2FkQkJtVWVyNFRXZUg2SkNacTVfZGM?oc=5",
@@ -71,6 +71,16 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "bfd217c58780",
+      "title": "Abnehmen: 80 Prozent des Gewichtsverlusts gehalten – Forscher arbeiten an Tablette gegen Jojo-Effekt - WELT",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWN6aXF6bTYwM00yMTVwcWZ2QWE2eVNPbVQ2bTY5Tmk3THIzS3RYa0dyakhUaWFnQUlpQTRoZnpuYS1wSmRsQTJPOFJSQy1DdEp1TkNDYl9tVUZjV1Q5bEZzRGRxVXZsdVdUNUM5U1NfbkNkLUVPT2hHQjBZQWdLbGhwVEthZDlmdE43bDNpS2loMjQwdGtYR1pxMk03RnhIM0Fkb05XVFhNUVNVNm5CTTU5cU9qRFlBYm5aUEN1Q1pqbjI5UmNLMG5kdkZHWDF0WXBOZFo3NDZGc3hSNDMzN25rdGdEVVd4YmpZSjNxOXFpV0ExRUFoeg?oc=5",
+      "published": "2026-05-17T07:30:30+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
       }
     },
     {
@@ -124,23 +134,13 @@
       }
     },
     {
-      "id": "188e6d18b00f",
-      "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
-      "published": "2026-04-21T07:00:00+00:00",
+      "id": "de134094e890",
+      "title": "Stabilisierte Versorgung mit Arzneimitteln - Blick",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFBkRFpqc2lIMmZvcjF1bnBjYURVNGxRSXl2TVpsdUpFVENkRV9OR2J1ZllJVDhlc1dJS0E0Z3g3RjNKQ1ZwanlqNUwwMzdXSXhsQUgtNDlFN25odE43UWRVN2xsVXNhNHNCNDVlRjF6UGNrNE9laUIzbG9rSUJNNFkwM1NYRTZPc1g5SllGYlpidmNRQkF0SC1KYVdSZVNUTVo5THMzZEpDU0VNeTR6VXAzZ1c3YnptNTBxU1Nn?oc=5",
+      "published": "2026-02-24T08:00:00+00:00",
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
-      }
-    },
-    {
-      "id": "f92665691e36",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
-      "published": "2026-05-12T12:26:17+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
       }
     },
     {
@@ -151,6 +151,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "f92665691e36",
+      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
+      "published": "2026-05-12T12:26:17+00:00",
+      "source": {
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
       }
     },
     {
@@ -174,10 +184,10 @@
       }
     },
     {
-      "id": "de134094e890",
-      "title": "Stabilisierte Versorgung mit Arzneimitteln - Blick",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFBkRFpqc2lIMmZvcjF1bnBjYURVNGxRSXl2TVpsdUpFVENkRV9OR2J1ZllJVDhlc1dJS0E0Z3g3RjNKQ1ZwanlqNUwwMzdXSXhsQUgtNDlFN25odE43UWRVN2xsVXNhNHNCNDVlRjF6UGNrNE9laUIzbG9rSUJNNFkwM1NYRTZPc1g5SllGYlpidmNRQkF0SC1KYVdSZVNUTVo5THMzZEpDU0VNeTR6VXAzZ1c3YnptNTBxU1Nn?oc=5",
-      "published": "2026-02-24T08:00:00+00:00",
+      "id": "188e6d18b00f",
+      "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
@@ -214,16 +224,6 @@
       }
     },
     {
-      "id": "968ff53203d7",
-      "title": "Viele Werbeanzeigen für traditionelle Medizin übertreiben deren Wirksamkeit; das Gesundheitsministerium ordnet unangekündigte Kontrollen an. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWE0wbUNveUtzckRkVWtmcTh3cktmVUZpZDlYTGVUNlBQWGRqUjhlemxmZ2FzSkNoMFBQNHBXWlJzR1lhOHJxUkNNVnBEVGVsbE82cURHM3pqeWo2Q0JZM0g3akMtWGVIYnQ5Z3lyRTF0ZHJydF9HUS10NzhSd1Qxc1F1S2RoYkEwcC1MZ3FCdVlWSXlleTQwNk1wSjZERUlEREJLdWpqOVJkUFZwMmJOOVdR?oc=5",
-      "published": "2026-05-15T08:07:35+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "1648c3dfecfa",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -231,6 +231,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "968ff53203d7",
+      "title": "Viele Werbeanzeigen für traditionelle Medizin übertreiben deren Wirksamkeit; das Gesundheitsministerium ordnet unangekündigte Kontrollen an. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWE0wbUNveUtzckRkVWtmcTh3cktmVUZpZDlYTGVUNlBQWGRqUjhlemxmZ2FzSkNoMFBQNHBXWlJzR1lhOHJxUkNNVnBEVGVsbE82cURHM3pqeWo2Q0JZM0g3akMtWGVIYnQ5Z3lyRTF0ZHJydF9HUS10NzhSd1Qxc1F1S2RoYkEwcC1MZ3FCdVlWSXlleTQwNk1wSjZERUlEREJLdWpqOVJkUFZwMmJOOVdR?oc=5",
+      "published": "2026-05-15T08:07:35+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -334,16 +344,6 @@
       }
     },
     {
-      "id": "b35756f17ac8",
-      "title": "Gefährlicher Hype: Warum dieses Medikament plötzlich boomt - Kurier",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnluWWJ5VFJFTEtWMzBrRjNZcUhENVZZd3NQbmNHQmVOMzFhVWs4cTlkOWZJRFBQcXFNQ2RBanJROEhRRmRYZXdKd2JjLUJHQlpGdDRZMmRGUjhUT05pRDExSlFMWU8yTDZ4VnVXSUdwcV9nSzhqTnNtRnVET0p5WnlLZjEyRVQ1NmdhVEN3anNoa0swdVp1dXlTOTY1OFBS?oc=5",
-      "published": "2026-05-13T08:48:00+00:00",
-      "source": {
-        "name": "Kurier",
-        "url": "https://kurier.at"
-      }
-    },
-    {
       "id": "b75b1fd5e543",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv0gHMAUFVX3lxTFBDRE5KS196aXdmbVJSaHplMGJBOEhyTVFtX2tXSzh1eGNJczdXZXhzaUZXcDMzOFZIaHFnOHVoRlM5eEVmN2dndGJxTVBwR05FUlZZLUdNMWFIT2xOVG8xcG44bjN3d05fVm1NNHpQbjZmRWduZ1dfT1d2U1FlMnJFNHk0dHY3VnNGTW5RNlBQTUFMdmtPUFBhMXdWSDlGUDFMSzUzSlBPMmFDVXVQTWYwVnNFOXk4S2t6SHZlU0ZhRjB5cDY3MjktTlcyNw?oc=5",
@@ -351,6 +351,16 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "b35756f17ac8",
+      "title": "Gefährlicher Hype: Warum dieses Medikament plötzlich boomt - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnluWWJ5VFJFTEtWMzBrRjNZcUhENVZZd3NQbmNHQmVOMzFhVWs4cTlkOWZJRFBQcXFNQ2RBanJROEhRRmRYZXdKd2JjLUJHQlpGdDRZMmRGUjhUT05pRDExSlFMWU8yTDZ4VnVXSUdwcV9nSzhqTnNtRnVET0p5WnlLZjEyRVQ1NmdhVEN3anNoa0swdVp1dXlTOTY1OFBS?oc=5",
+      "published": "2026-05-13T08:48:00+00:00",
+      "source": {
+        "name": "Kurier",
+        "url": "https://kurier.at"
       }
     },
     {
@@ -364,16 +374,6 @@
       }
     },
     {
-      "id": "2384f37f44ac",
-      "title": "Was, wenn uns die Medikamente ausgehen? - Luzerner Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWJHWlBiMlpkRFJ3TFBmbkZTQlRFd3NFTy1KWjJUY0dZNXREV0Z1Y01Ea2libmJWSlo4UmNDcmxMQWQ4WXJXSF9oX2lVcG1QVmR0Z3pqMkt1dEk5c2p1aWNnZzJZM0JzMmk5YTVOU2gzS25fSzdaUjRHbXJIUWgzZGI2d1NJdUpLWlk1UHp6X2JmYnJf?oc=5",
-      "published": "2025-11-22T08:00:00+00:00",
-      "source": {
-        "name": "Luzerner Zeitung",
-        "url": "http://www.luzernerzeitung.ch"
-      }
-    },
-    {
       "id": "9c7eaaba1281",
       "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
@@ -384,26 +384,6 @@
       }
     },
     {
-      "id": "b091d0b157e3",
-      "title": "Warken streicht Temperaturkontrollen für EU-Versandapotheken - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdG13cDZJZ3VkQ1JrbUZ2WFFfOWRXbWtoTXNkVEQ3ZTNyaXJGYzlVSzBTSklqWHdWeWlfcnk1UjNDakxFRUQ4Wm5UaVpqZzhQTU1SdGxIVkhXTnc0WXNaZEpWanFtUmxDY3Y0YU95eXo1VTNKcHo0M3ZMU0ZyTGJJSklvVFpFcDQ0RnY2NF9uNi1rUnZNQ0QxYnh0cTlGWlN3MEdzRXhDNEpocnNKcVVPWnIxWjN6RkViYml1UWRZQzRpaHREckFfaQ?oc=5",
-      "published": "2026-05-13T14:33:38+00:00",
-      "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
-      }
-    },
-    {
-      "id": "8b46e2926267",
-      "title": "Bundesweiter Rückruf einer Charge von 0,9%igen Natriumchlorid-Augentropfen der Firma Pharmedic. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVi0waE9aUFBPQmdhUEJJaVctbzNYaUhaVXRTTXhBYmw0UkVOTk56akl1dGUzZF9QdHJtallDbjRuT2pFekRXZWRQTDk4d3hpYU15STJZdmR3eXZ0V3k0VHktN09RVDJWekZETURDbGw3Nk1xN1NXZjZ6UERTNHlXcHphUlAyRkhnN2RKWndmaks1NkQ5d19wT2N3NnVLU2FD?oc=5",
-      "published": "2026-05-15T05:16:01+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "ceffc6648715",
       "title": "Niederlande: Neue Medikamente nicht um jeden Preis - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXZhbGRSQWZFZnpuTHU0RXJENjhRZm5FZ19XMUk5WEstLTNvTXBKZVpRZVV1UnVMeWhtd0V3MFljaVFKWHBJOFBINU1rQUx0Zk1TX0JQa3hiclQ4V0NHVW1sWloxOW5tM2lIbmhCVE5xOWt0Q3I0ZTN1amtrZXp1SXdxVlRZOUFqcm56ZXhwb1lXQQ?oc=5",
@@ -411,6 +391,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "b091d0b157e3",
+      "title": "Warken streicht Temperaturkontrollen für EU-Versandapotheken - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdG13cDZJZ3VkQ1JrbUZ2WFFfOWRXbWtoTXNkVEQ3ZTNyaXJGYzlVSzBTSklqWHdWeWlfcnk1UjNDakxFRUQ4Wm5UaVpqZzhQTU1SdGxIVkhXTnc0WXNaZEpWanFtUmxDY3Y0YU95eXo1VTNKcHo0M3ZMU0ZyTGJJSklvVFpFcDQ0RnY2NF9uNi1rUnZNQ0QxYnh0cTlGWlN3MEdzRXhDNEpocnNKcVVPWnIxWjN6RkViYml1UWRZQzRpaHREckFfaQ?oc=5",
+      "published": "2026-05-13T14:33:38+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
       }
     },
     {
@@ -544,16 +534,6 @@
       }
     },
     {
-      "id": "312626049284",
-      "title": "Keytruda kostet Österreich am meisten. Sein genauer Preis beschäftigt Gerichte - derStandard.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWw1Wkc5bEtYZDk1bXg3MmNpaF92NDBtZ2JLeVJPbUcwb1RBUVl3TlVjanZSQTdyeXVlWWs3V0tzY1Q0Q25qeGxXS1ZFaUxXVE9wODg1OEdqOXZXUEZwM1dFMDdWRnJVUVRDZ0xfdWlMUWhEaVVNcFV4QVdiaGcxdzJ3MWQtUkJ0YWg5cWZoS1ItZ0I2aGI3c1VTdFBmcmNQbktUM3pmaDdFUGJYZF9CMEZtcTlfM0MzdkNEQjdFSGJsX3N5?oc=5",
-      "published": "2026-05-15T09:30:00+00:00",
-      "source": {
-        "name": "derStandard.de",
-        "url": "https://www.derstandard.de"
-      }
-    },
-    {
       "id": "066f0d6c4d34",
       "title": "Einzelabgabe von Antibiotika - bag.admin.ch",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MNXlUYlh2NlQ3MklLWHhlZnU0MU5LbktBOTlnUm9MMlAwWnJiclJTSVdZNU00SWhVU1U5c0FzOHgxZTNUNnR4S1gzdkczSFNXT0RvcE9aanI4STJSMno0VzdTbldHT2s?oc=5",
@@ -561,6 +541,16 @@
       "source": {
         "name": "bag.admin.ch",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "312626049284",
+      "title": "Keytruda kostet Österreich am meisten. Sein genauer Preis beschäftigt Gerichte - derStandard.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWw1Wkc5bEtYZDk1bXg3MmNpaF92NDBtZ2JLeVJPbUcwb1RBUVl3TlVjanZSQTdyeXVlWWs3V0tzY1Q0Q25qeGxXS1ZFaUxXVE9wODg1OEdqOXZXUEZwM1dFMDdWRnJVUVRDZ0xfdWlMUWhEaVVNcFV4QVdiaGcxdzJ3MWQtUkJ0YWg5cWZoS1ItZ0I2aGI3c1VTdFBmcmNQbktUM3pmaDdFUGJYZF9CMEZtcTlfM0MzdkNEQjdFSGJsX3N5?oc=5",
+      "published": "2026-05-15T09:30:00+00:00",
+      "source": {
+        "name": "derStandard.de",
+        "url": "https://www.derstandard.de"
       }
     },
     {
@@ -604,16 +594,6 @@
       }
     },
     {
-      "id": "d4d11cad929b",
-      "title": "Kinderarzneimittel: GKV-Spargesetz – ein verheerendes Signal - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRklDOXgzbW1hTVFLX2ZRTE8wZDJibFh2cDVZZ3haR0ZBUmQyUFJKVUx3VnFZUnAtbHozR25wT1kzQzdycEw4eVJ5czBsTFNReUh4ckxCTGYxY1gtY2VzUWRFUTJDeE1OZ3NPUkh0NnpqYjNNeVFpT2V1NUl6UWYyWlItSFplSVZOZHZXNVdybUp3WjFx?oc=5",
-      "published": "2026-05-13T07:27:07+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "445f92c7e54b",
       "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
@@ -621,6 +601,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "d4d11cad929b",
+      "title": "Kinderarzneimittel: GKV-Spargesetz – ein verheerendes Signal - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRklDOXgzbW1hTVFLX2ZRTE8wZDJibFh2cDVZZ3haR0ZBUmQyUFJKVUx3VnFZUnAtbHozR25wT1kzQzdycEw4eVJ5czBsTFNReUh4ckxCTGYxY1gtY2VzUWRFUTJDeE1OZ3NPUkh0NnpqYjNNeVFpT2V1NUl6UWYyWlItSFplSVZOZHZXNVdybUp3WjFx?oc=5",
+      "published": "2026-05-13T07:27:07+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -694,16 +684,6 @@
       }
     },
     {
-      "id": "1ab825a3dba4",
-      "title": "NGG Südwestfalen kritisiert geplante Gesundheitsreform - LokalPlus",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUluMkhtQzdCR3duYVYybXlBdlhhMnl5TUluTE4xVHFYa0Z5cWJkS184bXNNNjFGZjVxT25kNG1yZ1ZjRW1FdWNidnhkRGJhUy1XVUdXVDV2eEg5RVgxU0tWX1BUeVNXVy11VG1tTFdsN3pjZ0hXc25vOU9tQXlXcUJXeVJZcy13QWx2M1MybjNGbXBUYld4a0Y3SE5GUzBr?oc=5",
-      "published": "2026-05-17T06:00:00+00:00",
-      "source": {
-        "name": "LokalPlus",
-        "url": "https://www.lokalplus.nrw"
-      }
-    },
-    {
       "id": "39655c0e5aa9",
       "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
@@ -711,6 +691,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "1ab825a3dba4",
+      "title": "NGG Südwestfalen kritisiert geplante Gesundheitsreform - LokalPlus",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUluMkhtQzdCR3duYVYybXlBdlhhMnl5TUluTE4xVHFYa0Z5cWJkS184bXNNNjFGZjVxT25kNG1yZ1ZjRW1FdWNidnhkRGJhUy1XVUdXVDV2eEg5RVgxU0tWX1BUeVNXVy11VG1tTFdsN3pjZ0hXc25vOU9tQXlXcUJXeVJZcy13QWx2M1MybjNGbXBUYld4a0Y3SE5GUzBr?oc=5",
+      "published": "2026-05-17T06:00:00+00:00",
+      "source": {
+        "name": "LokalPlus",
+        "url": "https://www.lokalplus.nrw"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "2d1785d23a70",
+      "title": "Gesundheitsreform: Milliarden-Last für Pharmaindustrie und Patienten - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVm5ONm5YLTNmRGxObDZkcUdmR0JuVmdVd0hlVE8zR2dKaWdlcUltZ0tQdGZCTkJvUTNvSk44dm43SDdSU0tTN19UNDM0UnJTMV9YbHJPRk0teHQyU2VDNFloUGhoaVowZkVZbkRxQUprRUVVSWtEeFFRd0h1MTBBZjYyc2VEOVFfLVpPYno0eFM1Q1liOFV3NVNZMllsQXhwbTV2eDAtOHZ2eHkzQ0tldDE2NHp4QzJX?oc=5",
+      "published": "2026-05-14T08:59:36+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     }
   ]
