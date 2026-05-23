@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T20:44:32.699996+00:00",
+  "fetched_at": "2026-05-23T21:50:42.564078+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,12 +34,12 @@
       }
     },
     {
-      "id": "e5ca382009d6",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - bundesgesundheitsministerium.de",
+      "id": "359a638ace75",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlp2UC15ODdWb214VmdueWZNQ2pWMFRyd1NZNWNVbS1iTGRTZFNNeTl1WlJJZTZPdGVZUC1DVnVZWEF0N0pla3lSMVEyVl9fLXZHU2s3Q1lVMUVvZ0JIUGVXQllJNlI4TUJIVlFBaU9jeTF3NHVhWXhRdXZGczZRdWY0bnp6UlZnNExna0d2OFRiNVZzYkFuSHFRYjBQd3NQVXNZNVYtZWlkVngxa2JHZTdfVXdzUzFL?oc=5",
       "published": "2026-05-22T10:28:34+00:00",
       "source": {
-        "name": "bundesgesundheitsministerium.de",
+        "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
       }
     },
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "d9aa5a54f390",
-      "title": "Gaza: Lebensrettende Medikamente werden blockiert, während die Tötungen weitergehen und Krankheiten sich ausbreiten – Nachrichten - The European Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeG5ndnYzcW5LeEp5ekZYS0Y0T1hIbFJxZVRxN3FhRFNmWEhwZTNQYTU3RHRQbHIzcVQ5LTV4NXRRT1l0RTQyYzB2RzVsMVlnNl9BUkp5TnYzLW8zdEFlcTVGb0I1LWtfSE80ZUwyQ0ZHT3dvb0dzNWoxX0pmaldNekU5QVUzN1pkUDllNkl2QWpmcWhrSW1rNkdhXzBITlVBMUtpeGpOSDgxNGFmSXBWSVR3anBZQnhTeVFGRVRna21xbXZzNzF6V3pFRkJmSVRNbE52Ui1VbDVldG5VN2Y4bVdEQmljSlJfc0NhLUNuMUdFczVUM0JzV0dpX1laOVdY?oc=5",
-      "published": "2026-05-23T03:25:06+00:00",
-      "source": {
-        "name": "The European Times",
-        "url": "https://www.europeantimes.news"
-      }
-    },
-    {
       "id": "de134094e890",
       "title": "Stabilisierte Versorgung mit Arzneimitteln - Blick",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFBkRFpqc2lIMmZvcjF1bnBjYURVNGxRSXl2TVpsdUpFVENkRV9OR2J1ZllJVDhlc1dJS0E0Z3g3RjNKQ1ZwanlqNUwwMzdXSXhsQUgtNDlFN25odE43UWRVN2xsVXNhNHNCNDVlRjF6UGNrNE9laUIzbG9rSUJNNFkwM1NYRTZPc1g5SllGYlpidmNRQkF0SC1KYVdSZVNUTVo5THMzZEpDU0VNeTR6VXAzZ1c3YnptNTBxU1Nn?oc=5",
@@ -251,6 +241,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "d9aa5a54f390",
+      "title": "Gaza: Lebensrettende Medikamente werden blockiert, während die Tötungen weitergehen und Krankheiten sich ausbreiten – Nachrichten - The European Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeG5ndnYzcW5LeEp5ekZYS0Y0T1hIbFJxZVRxN3FhRFNmWEhwZTNQYTU3RHRQbHIzcVQ5LTV4NXRRT1l0RTQyYzB2RzVsMVlnNl9BUkp5TnYzLW8zdEFlcTVGb0I1LWtfSE80ZUwyQ0ZHT3dvb0dzNWoxX0pmaldNekU5QVUzN1pkUDllNkl2QWpmcWhrSW1rNkdhXzBITlVBMUtpeGpOSDgxNGFmSXBWSVR3anBZQnhTeVFGRVRna21xbXZzNzF6V3pFRkJmSVRNbE52Ui1VbDVldG5VN2Y4bVdEQmljSlJfc0NhLUNuMUdFczVUM0JzV0dpX1laOVdY?oc=5",
+      "published": "2026-05-23T03:25:06+00:00",
+      "source": {
+        "name": "The European Times",
+        "url": "https://www.europeantimes.news"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "a1b3185b0bf2",
-      "title": "Supplement-Boom: Warnungen aus der Forschung mehren sich - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVJWNDZFSHJ2M3daOGFyQnFBTTRIQzV0aFhPd045WmpELWkteWpLZnJtU0lfcF9yU01zSXdDTVVGREJjbzlOcnhraDR5OFpfV3FrRjk0c2Q3MmhoWlo0WHdvQlphS2xRVk5TamdNU2hTUm1xN21FLTRVc0FkZTBldzJCeFNmamVtU3psSUgxYnNoUG8ta2FKYzNUVjFJNFJXdExfYVdnUQ?oc=5",
-      "published": "2026-05-22T22:42:01+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "a43852bf5366",
       "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
@@ -641,6 +631,16 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "a1b3185b0bf2",
+      "title": "Supplement-Boom: Warnungen aus der Forschung mehren sich - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVJWNDZFSHJ2M3daOGFyQnFBTTRIQzV0aFhPd045WmpELWkteWpLZnJtU0lfcF9yU01zSXdDTVVGREJjbzlOcnhraDR5OFpfV3FrRjk0c2Q3MmhoWlo0WHdvQlphS2xRVk5TamdNU2hTUm1xN21FLTRVc0FkZTBldzJCeFNmamVtU3psSUgxYnNoUG8ta2FKYzNUVjFJNFJXdExfYVdnUQ?oc=5",
+      "published": "2026-05-22T22:42:01+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
