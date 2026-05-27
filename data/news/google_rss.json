@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-05-27T15:30:35.453935+00:00",
+  "fetched_at": "2026-05-27T18:23:23.559044+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "5fd73dc2932c",
+      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
+      "published": "2026-05-27T16:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
     {
       "id": "0c29dcfbf87e",
       "title": "BIÖG und ABDA starten digitale Fortbildungsreihe ‚Town Halls‘ für Apothekenteams zur Prävention - Presseportal",
@@ -11,16 +21,6 @@
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "0efb37cd8f97",
-      "title": "Das Gesundheitsministerium bittet darum, dass das kostenlose Medikamentenunterstützungsprogramm nicht für Arzneimittelwerbung missbraucht wird. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjg2YUdZbU5aN2ZhSWdWQUNZODRidEV4TlUyQ2p6MnRBMDdtaFlOamhyZWYwWWc5UG85cHR4VzhKcktRQVR1WlduZTlEbUZyZnZoWk5HdGx2M0V5Q0w3QUdaQlo2UmVueGdNc3VYM0w1bnRGVHFSX25rUGJPM0xYUXhHSmRjd0dKUUp3Y3pjNnE1SThvZU5RMlBud2dOMS1Ec0JiQjNReE5GdlNzOVFj?oc=5",
-      "published": "2026-05-27T02:02:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -44,23 +44,13 @@
       }
     },
     {
-      "id": "f53594bebd3b",
-      "title": "Lebende Therapien schaffen den Durchbruch - FAZ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2JleTlyZWhqNmJyNVh3bG5WLVd2ZWhkaEhhMWdzSFJiYUgySXBGMkJ3SzBXWUdoWHRWQXBaUVJ1Y2R3dVVLUjNVbVNlXzNrd1pJZzJjNmY3bXdXSk5ZeXFOcUhTaE9FTEF1Y1ZMTFpqTlRoQWljX3ZUNTBCdFlsOExaU2MzMlgyOVl6TUE3R2RSWGRQSHhCVEdHTTNCbjlSTGY5SFRUc05CM2JZZm5j?oc=5",
-      "published": "2026-05-26T14:46:02+00:00",
+      "id": "0efb37cd8f97",
+      "title": "Das Gesundheitsministerium bittet darum, dass das kostenlose Medikamentenunterstützungsprogramm nicht für Arzneimittelwerbung missbraucht wird. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjg2YUdZbU5aN2ZhSWdWQUNZODRidEV4TlUyQ2p6MnRBMDdtaFlOamhyZWYwWWc5UG85cHR4VzhKcktRQVR1WlduZTlEbUZyZnZoWk5HdGx2M0V5Q0w3QUdaQlo2UmVueGdNc3VYM0w1bnRGVHFSX25rUGJPM0xYUXhHSmRjd0dKUUp3Y3pjNnE1SThvZU5RMlBud2dOMS1Ec0JiQjNReE5GdlNzOVFj?oc=5",
+      "published": "2026-05-27T02:02:11+00:00",
       "source": {
-        "name": "FAZ",
-        "url": "https://www.faz.net"
-      }
-    },
-    {
-      "id": "ecc1c653cf9d",
-      "title": "Prävention stärken: Neue Online-Fortbildungsreihe zu Präventionsthemen für Apotheken - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE0tUzFnemF3NU96TzBNWk9vSjZjTTNobUhidlNLVEdHVzFjbWdjaGlGRmowY0F5X3FkbmsxV05qZEwtZFBhR2g0blZqWnE2bHd6TTN1NUF6ZkEyUDJaZ244R1p0WmVtWF9paFBCWW9YV1Z3VVlIbmJ1OTNYV3Z5NUc0UjFGeFpqM1cxNWltQUY4UmNuNW9wSVU1Ni1GaGdiX1RpRS1WVmF6eUVUWEFMTWJrcw?oc=5",
-      "published": "2026-05-27T08:15:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -74,16 +64,6 @@
       }
     },
     {
-      "id": "70fa541ef7ce",
-      "title": "Entscheidung zum Anspruch auf Arzneimittel und Medizinprodukte bei chronischem Fatigue Syndrom (CFS) - kobinet-nachrichten",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUtqNjRsVEdsU1R0SWl6b2RoajhLeE81bGV5bFQyODl4RVE2Znc1UDViY2FzVmgxbHZwVDJIWUliNnZ4dnZTYWdGNmNQOC1aak1QZWlvRmtFR2U5cjdMYWNjSWxsZ2t6ZDJiZVU2TkVCWHJYUmdLbkFYSm1YaUxPTkV2TjRCY3NhMDdVSmVmTHR3NmVqMnpCbklxWDV1STlkTjVGOUZaY0VNUVpYYjMzTmZId0dOM1FvYl9LTTFMak41WGR5c2FYcDM0MkZqcmFmOVRERnhUTnE0Zw?oc=5",
-      "published": "2026-05-27T04:43:00+00:00",
-      "source": {
-        "name": "kobinet-nachrichten",
-        "url": "https://kobinet-nachrichten.org"
-      }
-    },
-    {
       "id": "359a638ace75",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlp2UC15ODdWb214VmdueWZNQ2pWMFRyd1NZNWNVbS1iTGRTZFNNeTl1WlJJZTZPdGVZUC1DVnVZWEF0N0pla3lSMVEyVl9fLXZHU2s3Q1lVMUVvZ0JIUGVXQllJNlI4TUJIVlFBaU9jeTF3NHVhWXhRdXZGczZRdWY0bnp6UlZnNExna0d2OFRiNVZzYkFuSHFRYjBQd3NQVXNZNVYtZWlkVngxa2JHZTdfVXdzUzFL?oc=5",
@@ -91,6 +71,16 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "70fa541ef7ce",
+      "title": "Entscheidung zum Anspruch auf Arzneimittel und Medizinprodukte bei chronischem Fatigue Syndrom (CFS) - kobinet-nachrichten",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUtqNjRsVEdsU1R0SWl6b2RoajhLeE81bGV5bFQyODl4RVE2Znc1UDViY2FzVmgxbHZwVDJIWUliNnZ4dnZTYWdGNmNQOC1aak1QZWlvRmtFR2U5cjdMYWNjSWxsZ2t6ZDJiZVU2TkVCWHJYUmdLbkFYSm1YaUxPTkV2TjRCY3NhMDdVSmVmTHR3NmVqMnpCbklxWDV1STlkTjVGOUZaY0VNUVpYYjMzTmZId0dOM1FvYl9LTTFMak41WGR5c2FYcDM0MkZqcmFmOVRERnhUTnE0Zw?oc=5",
+      "published": "2026-05-27T04:43:00+00:00",
+      "source": {
+        "name": "kobinet-nachrichten",
+        "url": "https://kobinet-nachrichten.org"
       }
     },
     {
@@ -104,16 +94,6 @@
       }
     },
     {
-      "id": "bc8103a0a232",
-      "title": "Schwarzes Dreieck auf Medikamenten: Wissen Sie, was es bedeutet? - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFRXVFd6SEs1cWU2U0lqR3pmUnNLcW9uMExnaW1ROG1yY1NXTHU1UDhCZUhLS1JHV0plRUxwWWpheENDbGQ2LUh6OFBsanlYcDV5UHBEcXlneVYtSkp0ZXp5UVZ0SGJlWEpCaGUyMGc0ekNOOG1SdDRKYmV1cUpENXRvRHhWYUZjSXhFNU5oTGxkcGoxVHR5VGhBRk5xMGtldjA0VlNFN3lxR0VSMUxvN0R1SHJZTHIyYm5NOWVfa1VzRkttcWhQanB0RVozT19Md3NJbTZubkgxTWw0Y2N3Yg?oc=5",
-      "published": "2026-05-25T12:12:47+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
-      }
-    },
-    {
       "id": "9ced971ef53e",
       "title": "Finanzierung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
@@ -124,6 +104,16 @@
       }
     },
     {
+      "id": "bc8103a0a232",
+      "title": "Schwarzes Dreieck auf Medikamenten: Wissen Sie, was es bedeutet? - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFRXVFd6SEs1cWU2U0lqR3pmUnNLcW9uMExnaW1ROG1yY1NXTHU1UDhCZUhLS1JHV0plRUxwWWpheENDbGQ2LUh6OFBsanlYcDV5UHBEcXlneVYtSkp0ZXp5UVZ0SGJlWEpCaGUyMGc0ekNOOG1SdDRKYmV1cUpENXRvRHhWYUZjSXhFNU5oTGxkcGoxVHR5VGhBRk5xMGtldjA0VlNFN3lxR0VSMUxvN0R1SHJZTHIyYm5NOWVfa1VzRkttcWhQanB0RVozT19Md3NJbTZubkgxTWw0Y2N3Yg?oc=5",
+      "published": "2026-05-25T12:12:47+00:00",
+      "source": {
+        "name": "CHIP",
+        "url": "https://www.chip.de"
+      }
+    },
+    {
       "id": "e2b4ec3effbe",
       "title": "Zuständigkeit für EU-Arzneimittelgesetz weiterhin unklar - Euractiv",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHR2b1ZaUnVFUW1ZUHJTU0VXZlh3NGoxZ2QtN3dOV2p6aExRRzV4YXlqRWRyV2lLU3BCV0hObU9PcC1mNk9tTG1HOWFQYTg4cFFnQzRUUDlzQklib2JhMUpEbXpRSVZ2S3U3N1AxSnhBelI4NGYyeGw4WEhlRnNIc1lyUDRtTXQxVG5JTVkzLS1Fdw?oc=5",
@@ -131,16 +121,6 @@
       "source": {
         "name": "Euractiv",
         "url": "https://euractiv.com"
-      }
-    },
-    {
-      "id": "136f2c10bc8e",
-      "title": "Senioren Union Bretten informiert sich über Arzneimittelversorgung - Badische Neueste Nachrichten",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3hNX2xNNTVMY1JBbUFEcGNMdVcyMjFSeEQtZjV2ZWw1Q3BVOU8tUmczN2RUODdoUzltN1JqdUhIS203Uy1XQ292bkNoWFhYUjVnTnZ1MjhSVG1LMEtfOEhldkJfNEh6UVgyVFg2b09Db2p2VW9qY1EzYmhpXzhNZUlCanB6eFBrSmtTX0FJVWNNVkhDb2hnYUdYSzlxdU02Unc?oc=5",
-      "published": "2026-05-27T11:03:00+00:00",
-      "source": {
-        "name": "Badische Neueste Nachrichten",
-        "url": "https://bnn.de"
       }
     },
     {
@@ -174,16 +154,6 @@
       }
     },
     {
-      "id": "08f5636c9f6e",
-      "title": "Mehr Hilfe in der Apotheke: Diese Gratis‑Checks zahlt die Kasse - Wochenblatt Reporter",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjdTb2FNaTh0alU1NXlzRlp1bnRBQUZ6dmk3Qy13Q1pLd3RieVdEWExGSmJTQkZhRExVazFELUVtODJBa1V4Zk1xX2FCbDRRanZCT2steUY0QXBWdEFBcndmeFRxUXVKcW5vbHdIbWduTE5YcHd3eTdERFJTVzZ1M1FkaWFheUFDMFJwLTZ6RVU3VjhyQnZLbTV0RF9SUjhvd290elQ4Sk5la1U0X2t1cF9xbFBPc1U?oc=5",
-      "published": "2026-05-27T07:50:04+00:00",
-      "source": {
-        "name": "Wochenblatt Reporter",
-        "url": "https://www.wochenblatt-reporter.de"
-      }
-    },
-    {
       "id": "bbbb55e61434",
       "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - St. Galler Tagblatt",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDA3TE1LU0ZrRDdlaWpmWFduT0t4X3lTaS00N0oyclZnRFJ1U01ZZWhQSTNCWkt3VFRoUUxKWG1ta25pT1hnc2NLaC1BcmkyS1lBV3NGSzMzTTJVVllYTGM2NWU0dzNEX0UyQVFjX0VkOEI2WW55clNtNl9tYUVBUHN2bVQ5cldHMHk5dklvZmQ0SEthOE1j?oc=5",
@@ -214,13 +184,23 @@
       }
     },
     {
-      "id": "434cc9117bb9",
-      "title": "Medikament gegen Übergewicht – Abnehmspritze bald auch als Tablette erhältlich - Heute",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXR0aUxMS0MwV0Z3cWRRRkhUOGJ0Y0xzdmZwcnJsY1ZHQ3hrYWV3X1F5YVRwRkhhTmNwc3ltMmhMZW9tVGtTdTA4SndVdm5HSTZsc25fM1Qtcmlzd19NMzJmeWZkaUlTV2tfZTdGc2Fod0Z2OTRoaDl5aTlnUzZvOXBWSk1ZRUk?oc=5",
-      "published": "2026-05-27T06:55:00+00:00",
+      "id": "08f5636c9f6e",
+      "title": "Mehr Hilfe in der Apotheke: Diese Gratis‑Checks zahlt die Kasse - Wochenblatt Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjdTb2FNaTh0alU1NXlzRlp1bnRBQUZ6dmk3Qy13Q1pLd3RieVdEWExGSmJTQkZhRExVazFELUVtODJBa1V4Zk1xX2FCbDRRanZCT2steUY0QXBWdEFBcndmeFRxUXVKcW5vbHdIbWduTE5YcHd3eTdERFJTVzZ1M1FkaWFheUFDMFJwLTZ6RVU3VjhyQnZLbTV0RF9SUjhvd290elQ4Sk5la1U0X2t1cF9xbFBPc1U?oc=5",
+      "published": "2026-05-27T07:50:04+00:00",
       "source": {
-        "name": "Heute",
-        "url": "https://www.heute.at"
+        "name": "Wochenblatt Reporter",
+        "url": "https://www.wochenblatt-reporter.de"
+      }
+    },
+    {
+      "id": "ecc1c653cf9d",
+      "title": "Prävention stärken: Neue Online-Fortbildungsreihe zu Präventionsthemen für Apotheken - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE0tUzFnemF3NU96TzBNWk9vSjZjTTNobUhidlNLVEdHVzFjbWdjaGlGRmowY0F5X3FkbmsxV05qZEwtZFBhR2g0blZqWnE2bHd6TTN1NUF6ZkEyUDJaZ244R1p0WmVtWF9paFBCWW9YV1Z3VVlIbmJ1OTNYV3Z5NUc0UjFGeFpqM1cxNWltQUY4UmNuNW9wSVU1Ni1GaGdiX1RpRS1WVmF6eUVUWEFMTWJrcw?oc=5",
+      "published": "2026-05-27T08:15:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -234,6 +214,16 @@
       }
     },
     {
+      "id": "ccb310d629ed",
+      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
+      "published": "2026-04-19T07:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
+      }
+    },
+    {
       "id": "fb9e6af126da",
       "title": "DocMorris Versandapotheke als digitale Anlaufstelle für Medikamente - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTJqcm5RMHlfQ0hTYTFMY3lNLUtLb2FSYXNUSzl3YjlwMUZFSFpPUG0yQlBrYmVSU0JPTXVOUlN6N1RXcUx3VW9hdVNYcWtEVWlOdkF5Q2Z3WDVIUThNWVRMZ08wNVhlMEdJS3c4Y0FERnlKMkQ0RUZWSUpEcmdKUlhfaG8ySEp2T2tQU2F3SThfbDJyUjJYWWVWZldvaVdpclpIbUFMSjc2NXpmM2duOWRPc1U4OFYyWlJ1d291dExDVngwZXc?oc=5",
@@ -244,13 +234,13 @@
       }
     },
     {
-      "id": "ccb310d629ed",
-      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
-      "published": "2026-04-19T07:00:00+00:00",
+      "id": "434cc9117bb9",
+      "title": "Medikament gegen Übergewicht – Abnehmspritze bald auch als Tablette erhältlich - Heute",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXR0aUxMS0MwV0Z3cWRRRkhUOGJ0Y0xzdmZwcnJsY1ZHQ3hrYWV3X1F5YVRwRkhhTmNwc3ltMmhMZW9tVGtTdTA4SndVdm5HSTZsc25fM1Qtcmlzd19NMzJmeWZkaUlTV2tfZTdGc2Fod0Z2OTRoaDl5aTlnUzZvOXBWSk1ZRUk?oc=5",
+      "published": "2026-05-27T06:55:00+00:00",
       "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
+        "name": "Heute",
+        "url": "https://www.heute.at"
       }
     },
     {
@@ -334,16 +324,6 @@
       }
     },
     {
-      "id": "1a98a99d15d3",
-      "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, aber zwei enttäuschen - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd25RNlczc0FDVUV6enFORVZvWC12Nnd0RjNoTUVySnMwQlE0c2NsY2xObGtleHMydi1MTERHSkVlU0xNUnJYZzRDcm1hU1NDNkxkNXNRY0J0Z2k1SXdQY1VLS1IxVlAycjBEQWloR0xnclZnci15cmN0NDRBWHU1Q3lrRy1YTi1iMjEtckNlQk1QRXFfS2lDdEpjMkZ5ZXFKOXVSLURaOXJOaGdmMlBycllQMndUdkQyY0JBb3g3a3lkUS1vcEFyTlpUMEg3X1JuTWR2QTZiM0tJc3diVFRkQThES1dSTG5aV3FGNEVleGZiWDZvTTNkY0gzQXZHdDdyYjNXZg?oc=5",
-      "published": "2026-05-23T14:30:00+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
-      }
-    },
-    {
       "id": "db5e5ef8605c",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -361,6 +341,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "1a98a99d15d3",
+      "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, aber zwei enttäuschen - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd25RNlczc0FDVUV6enFORVZvWC12Nnd0RjNoTUVySnMwQlE0c2NsY2xObGtleHMydi1MTERHSkVlU0xNUnJYZzRDcm1hU1NDNkxkNXNRY0J0Z2k1SXdQY1VLS1IxVlAycjBEQWloR0xnclZnci15cmN0NDRBWHU1Q3lrRy1YTi1iMjEtckNlQk1QRXFfS2lDdEpjMkZ5ZXFKOXVSLURaOXJOaGdmMlBycllQMndUdkQyY0JBb3g3a3lkUS1vcEFyTlpUMEg3X1JuTWR2QTZiM0tJc3diVFRkQThES1dSTG5aV3FGNEVleGZiWDZvTTNkY0gzQXZHdDdyYjNXZg?oc=5",
+      "published": "2026-05-23T14:30:00+00:00",
+      "source": {
+        "name": "CHIP",
+        "url": "https://www.chip.de"
       }
     },
     {
@@ -431,6 +421,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "d3a927100252",
+      "title": "Gentherapie VERVE-102: Einmalige Infusion senkt Cholesterin um 88% - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWFEc0RYODdaZjZuWTRBZTVvSU5reVhJLUhUUVh3UHdqOTR3RDNONGVobUlnRTVqUmZ4UGlTaUYxMzFlSjZLYWlGYllRendiUTRoeHZkQjk4T3NrZ0plY2lzcnVub0V1WC1JS04yWWliZjJWbHNvQUJqMWg2WWNjVTBrd1IzdnpBdlBPS1hUQUk3M291d1NFMnpIdXpuZklmNFpZTEJEQXZHMkhvZGNmVEhFQmNYS09VTGhaS1dB?oc=5",
+      "published": "2026-05-27T18:04:34+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
