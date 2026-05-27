@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-27T21:00:03.477323+00:00",
+  "fetched_at": "2026-05-27T22:46:41.008767+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "0c29dcfbf87e",
-      "title": "BIÖG und ABDA starten digitale Fortbildungsreihe ‚Town Halls‘ für Apothekenteams zur Prävention - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Q2hSaWFrcUlfRmd1amc5MTU1c19BNnZHeDdRZmpYdFppRFpWeFhEMDliVVBvaHJyOTFBUmJkYjhPa001emV1aEtnUHVpMl9MN3hFcm5VQQ?oc=5",
-      "published": "2026-05-27T08:49:23+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "075a40db361f",
       "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
@@ -54,13 +44,13 @@
       }
     },
     {
-      "id": "0efb37cd8f97",
-      "title": "Das Gesundheitsministerium bittet darum, dass das kostenlose Medikamentenunterstützungsprogramm nicht für Arzneimittelwerbung missbraucht wird. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjg2YUdZbU5aN2ZhSWdWQUNZODRidEV4TlUyQ2p6MnRBMDdtaFlOamhyZWYwWWc5UG85cHR4VzhKcktRQVR1WlduZTlEbUZyZnZoWk5HdGx2M0V5Q0w3QUdaQlo2UmVueGdNc3VYM0w1bnRGVHFSX25rUGJPM0xYUXhHSmRjd0dKUUp3Y3pjNnE1SThvZU5RMlBud2dOMS1Ec0JiQjNReE5GdlNzOVFj?oc=5",
-      "published": "2026-05-27T02:02:11+00:00",
+      "id": "0c29dcfbf87e",
+      "title": "BIÖG und ABDA starten digitale Fortbildungsreihe ‚Town Halls‘ für Apothekenteams zur Prävention - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Q2hSaWFrcUlfRmd1amc5MTU1c19BNnZHeDdRZmpYdFppRFpWeFhEMDliVVBvaHJyOTFBUmJkYjhPa001emV1aEtnUHVpMl9MN3hFcm5VQQ?oc=5",
+      "published": "2026-05-27T08:49:23+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -71,6 +61,16 @@
       "source": {
         "name": "Taylor Wessing",
         "url": "https://www.taylorwessing.com"
+      }
+    },
+    {
+      "id": "0efb37cd8f97",
+      "title": "Das Gesundheitsministerium bittet darum, dass das kostenlose Medikamentenunterstützungsprogramm nicht für Arzneimittelwerbung missbraucht wird. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjg2YUdZbU5aN2ZhSWdWQUNZODRidEV4TlUyQ2p6MnRBMDdtaFlOamhyZWYwWWc5UG85cHR4VzhKcktRQVR1WlduZTlEbUZyZnZoWk5HdGx2M0V5Q0w3QUdaQlo2UmVueGdNc3VYM0w1bnRGVHFSX25rUGJPM0xYUXhHSmRjd0dKUUp3Y3pjNnE1SThvZU5RMlBud2dOMS1Ec0JiQjNReE5GdlNzOVFj?oc=5",
+      "published": "2026-05-27T02:02:11+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -111,6 +111,16 @@
       "source": {
         "name": "Bayer",
         "url": "https://www.bayer.com"
+      }
+    },
+    {
+      "id": "c14e0f50df70",
+      "title": "Newel Health und Gerresheimer starten strategische Zusammenarbeit zur Unterstützung von Pharmaunter - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEZNTnJtSU9fZkxpbWZRazVmSEdQSjNTY3dXcjViUzFUQUl4bHUwYUlRQldEcVUzNTRhT3F3NDdVQVJTc1JNQVc0Qmo2SEpnd2plWEgxYmtvWXF0Tk9iYnl0SGxRcXhrYV92U0N5Y3h6MV9mbHRXcE9JMnozdGUzUQ?oc=5",
+      "published": "2026-05-27T21:15:22+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -374,6 +384,16 @@
       }
     },
     {
+      "id": "4bb03ba8e6e1",
+      "title": "Eczac?ba?? ?laç-Aktie (TRAECILC91F7): Pharma- und Gesundheitswert aus der Türkei im Fokus - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0FnZG9BdFlDUUgtYnNKS1JveUp6WEZXOGZRSDB0R2F2amhncHMxOE1DbE1RZnh2Zmo4VzVpRzVOWWJsQU1mbnVGazYzYUtKSU1iUmZZb1pES1lWUXBEME9KeHlBQ2NCMGlaZUJDT1ZqVG5NaFU2dk5Lc3l3MnAwR3NqQ0JlZUZ6WHJ2bE5OLUxldEhXMkszZkhydXBYR05hc2NObjMzZmVGN0tZQ3F1ZTA0cERoVWcyZ1lDUmhqVkE4bHM?oc=5",
+      "published": "2026-05-27T20:21:23+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "73bf4e8b26f5",
       "title": "Medikamenten-Engpässe: App soll Abhilfe schaffen - noe.ORF.at",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vR3RZQi1aZlZUR1VVVE9oRlFPTHRqcTh5Nk12OW9uUHlFa2pxUDhQczBDOUZScnhHYWRjZEZOZkU5aGhBb0l5eGtkWQ?oc=5",
@@ -384,16 +404,6 @@
       }
     },
     {
-      "id": "d3a927100252",
-      "title": "Gentherapie VERVE-102: Einmalige Infusion senkt Cholesterin um 88% - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWFEc0RYODdaZjZuWTRBZTVvSU5reVhJLUhUUVh3UHdqOTR3RDNONGVobUlnRTVqUmZ4UGlTaUYxMzFlSjZLYWlGYllRendiUTRoeHZkQjk4T3NrZ0plY2lzcnVub0V1WC1JS04yWWliZjJWbHNvQUJqMWg2WWNjVTBrd1IzdnpBdlBPS1hUQUk3M291d1NFMnpIdXpuZklmNFpZTEJEQXZHMkhvZGNmVEhFQmNYS09VTGhaS1dB?oc=5",
-      "published": "2026-05-27T18:04:34+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "436c4c4cbe79",
       "title": "ABDA warnt vor Apothekensterben - EU-Schwerbehinderung",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzRzS0pNYXo5OHFReDNwYWwteHYxRTBybm9mellRQnR6MXdlV2JnNzY5MEwxTEN6LWNObWN5ME4wSFZ6aDZIWnhQNXBMS3U5VE5BRzZaeDExN2tpcDRLMnRFNUdXS3lnUFRTT2ozRHdPby1GcWhWOWRWV2FNSDZGOEhXOW85bnhONTdjOVE0R0FsNlVndVdGWGdvVF8?oc=5",
@@ -401,6 +411,16 @@
       "source": {
         "name": "EU-Schwerbehinderung",
         "url": "https://www.eu-schwerbehinderung.eu"
+      }
+    },
+    {
+      "id": "d3a927100252",
+      "title": "Gentherapie VERVE-102: Einmalige Infusion senkt Cholesterin um 88% - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWFEc0RYODdaZjZuWTRBZTVvSU5reVhJLUhUUVh3UHdqOTR3RDNONGVobUlnRTVqUmZ4UGlTaUYxMzFlSjZLYWlGYllRendiUTRoeHZkQjk4T3NrZ0plY2lzcnVub0V1WC1JS04yWWliZjJWbHNvQUJqMWg2WWNjVTBrd1IzdnpBdlBPS1hUQUk3M291d1NFMnpIdXpuZklmNFpZTEJEQXZHMkhvZGNmVEhFQmNYS09VTGhaS1dB?oc=5",
+      "published": "2026-05-27T18:04:34+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -624,16 +644,6 @@
       }
     },
     {
-      "id": "4ddd3b0b9cdd",
-      "title": "Der besseren Zugänglichkeit neuartiger Arzneimittel einen Schritt näher - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdDMjNkUmRfZGZEcmtCREJrU0FKZVhObWw5ZGxuZVBJMVo5alUyc1Z6ZjI5YjJYVzhrOTFYbVJJamdJYUZiY1haT1hjUGpWSWhrb0Exd1B2U0htVkVFUnpmQTRpdVV4R1hZcUFnakg4dUdGTUxYQUgtYlhJWHFJUC1MUXpLVmNPN25PSG9MUWl6TnpNenJGRGxZQWd2RXlvbnlDRUdsOHVqZjJJ?oc=5",
-      "published": "2024-04-15T07:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "c1eec9546c3c",
       "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNek45Q0xRLXZlc1ZnTDBKcHk2cUFnMkllakFtcDJzXzU2bVh5WnBMYVhBWTNoMll4Y0FmVTlfeF9kYlIxQ25OUHdJX3VpSEVCNnBJaWIzZFljQmlEeVp2Q2R3cFRXWERWd3BORmh6OF9TeWNick9Ua0dZdWMtdDlLR3FGV3o?oc=5",
@@ -641,6 +651,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "4ddd3b0b9cdd",
+      "title": "Der besseren Zugänglichkeit neuartiger Arzneimittel einen Schritt näher - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdDMjNkUmRfZGZEcmtCREJrU0FKZVhObWw5ZGxuZVBJMVo5alUyc1Z6ZjI5YjJYVzhrOTFYbVJJamdJYUZiY1haT1hjUGpWSWhrb0Exd1B2U0htVkVFUnpmQTRpdVV4R1hZcUFnakg4dUdGTUxYQUgtYlhJWHFJUC1MUXpLVmNPN25PSG9MUWl6TnpNenJGRGxZQWd2RXlvbnlDRUdsOHVqZjJJ?oc=5",
+      "published": "2024-04-15T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -674,16 +694,6 @@
       }
     },
     {
-      "id": "5e0f42d0db80",
-      "title": "Arzneimittelsicherheit - interpharma.ch",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3FSSjBYd0VySGgzenRNRVpzMExITWlkS2FDS295Rm5NMnYyc0FwZ3ZhRGU4RXVGenJwWjAxVmk2UUNqcXdEWm5ucGpVWEJramJWWjNYbC1JZjd6clhEbkVhelBhTE9WUkxZV0drN2lHMG1yZFNHdVpLYjFfMi1IRVJGS2ZxNjlYTjVzcw?oc=5",
-      "published": "2020-03-20T05:28:05+00:00",
-      "source": {
-        "name": "interpharma.ch",
-        "url": "https://www.interpharma.ch"
-      }
-    },
-    {
       "id": "51c4967dad91",
       "title": "Gesundheitsgefahr durch illegale Stoffe - Verbraucherzentrale.de",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0I4azR5X3RTSl84RmlzMzAyNHMyR2tBVXBUNDRySVBtaUdYSnppVFZtT0FFVXhZWThGX3gzX0U3WGNoOHlyeVg2QUlSelFtUTNpTVI3Q1p1SzhrSmxyczVocVVfLS1fX1NyajBkZU1jWDV6NV95dVlMQm9hSGhFVk9vdXh6QnNqcUVkRTBkWlVFRXFvd2Q2Q20wRWItSVBuaXdtVzYzQThlU2pEaWRfeFMtWnJVaWtIR2ZtRmt6Zi10Y3lw?oc=5",
@@ -691,6 +701,16 @@
       "source": {
         "name": "Verbraucherzentrale.de",
         "url": "https://www.verbraucherzentrale.de"
+      }
+    },
+    {
+      "id": "5e0f42d0db80",
+      "title": "Arzneimittelsicherheit - interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3FSSjBYd0VySGgzenRNRVpzMExITWlkS2FDS295Rm5NMnYyc0FwZ3ZhRGU4RXVGenJwWjAxVmk2UUNqcXdEWm5ucGpVWEJramJWWjNYbC1JZjd6clhEbkVhelBhTE9WUkxZV0drN2lHMG1yZFNHdVpLYjFfMi1IRVJGS2ZxNjlYTjVzcw?oc=5",
+      "published": "2020-03-20T05:28:05+00:00",
+      "source": {
+        "name": "interpharma.ch",
+        "url": "https://www.interpharma.ch"
       }
     },
     {
@@ -754,16 +774,6 @@
       }
     },
     {
-      "id": "4bd9c1945413",
-      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
-      "published": "2017-02-16T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "27e57639b0ea",
       "title": "Können Medikamente dem Baby im Bauch schaden? - SRF",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xVZVdUREhSQUpvUFFVY3dqSVc1SlVzc3NSWlJ1aWFVYTlvdDJnNGl4SExfVzEtRVI0RHdUaGdrRXYzUFQwaEo2TU9nMVNxeWJJYzFCQ2V5Umd4c3ZuOHZ5T2ZzSlZaSlNHVk9NY3pHQlQ2eHlKOGtKc0VGS29zVU5CNmxISmVvVW9wWnYxbGUyazU2a3VXdUdwX2JvU25SNVVjbmhB?oc=5",
@@ -781,6 +791,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "4bd9c1945413",
+      "title": "Kosten im Gesundheitswesen - Nicht jeder erhält teure Medikamente - SRF",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2pBWERsZXhEVHZvUXZzUUo5b1Z4UHZsRlVWY1RMdjlrOEtfQ0NnenJkVjNwSFg0dW9oNlV4T2NmMXJoaVotNWxQbDFLckZ1azJjWVhpeTlEeXZwX25yVHhod01hZnp3RUtxbmlWZjE0ekN3TWJtZGxyOHlYazBWSEF5TklLek9kWklDZzV4NG5oV0RiT2QwR2ZrdDY?oc=5",
+      "published": "2017-02-16T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -964,16 +984,6 @@
       }
     },
     {
-      "id": "0e0b262c9aff",
-      "title": "DR Kongo: Vergiftungserscheinungen wegen mangelhafter Medikamente - msf.ch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1VCTlVfQjAwamFFOWVtbzJXaXdXT2tEZE9PTF9XSVh1Z09iQldnSWlyRlpRYXpiM1BhaTRaUjFjTGN3bTR1QjhaT01hWkQzTXpQQjBHZmhaOVRqSlBDT2RoYkticDEwRzEwLVM0YlZhYkdHV1I2VmlzcFF1VTRTMmxMcGEzWWJ3SlZBLXhzSkpydVFsbFFsZllicm1sTUVVN1lVcy0ydjFBdHF5MGhyMjRn?oc=5",
-      "published": "2017-01-17T08:00:00+00:00",
-      "source": {
-        "name": "msf.ch",
-        "url": "https://www.msf.ch"
-      }
-    },
-    {
       "id": "eae05a036d51",
       "title": "Krankenkassen sollen im Ausland gekaufte Medikamente nicht bezahlen müssen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkhSZnlRbk92NUxMYVNKcEczallvU3RqYUVxMEtyRVhIVGc3dE9uOHB2VG9VNko2MU5rdDdjbXhKbnFLUnJHdGNYWXU5UUtOZTJZTE1MV3ZGSW9sa1VzTFdfOVZNbDluaEI1dG1QbDdnc1NFRUprcWlFUko1RTNXcVUyaXVKdUw2QlFNeGtjUnZBMW1lbHBPcldqQkZqSXItWFlua2JudVQ4R1VULXZfczRleGdBVnFwTWUw?oc=5",
@@ -984,23 +994,13 @@
       }
     },
     {
-      "id": "aca34d2e8da7",
-      "title": "Geheimrabatte und zögernde Politik: Warum wir viel zu viel für Medikamente zahlen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWRhbTRpa1ljYnhMXzdWUXhyd2NWQ1prWmNIWGhBanBmRW5QclFnWFBOOE1mZkNjRGxFMkZuVlB4UjNKdGVJQnRyQWtaUHNVU1FpV2g3dTRWeXFVeGQxcTU5RFZFTUlCZVJlWExudzhmQmgtbjd4czNYMmZrOVZQR1piYnczM2YzRjhGMFRiSk5Bb1d2aF9UcEYzbk9kbXM3WklBVllVVnB2OGhrOGhZTFVUWkhPR2xZRmdQejJfU0tlUQ?oc=5",
-      "published": "2021-12-06T08:00:00+00:00",
+      "id": "0e0b262c9aff",
+      "title": "DR Kongo: Vergiftungserscheinungen wegen mangelhafter Medikamente - msf.ch",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1VCTlVfQjAwamFFOWVtbzJXaXdXT2tEZE9PTF9XSVh1Z09iQldnSWlyRlpRYXpiM1BhaTRaUjFjTGN3bTR1QjhaT01hWkQzTXpQQjBHZmhaOVRqSlBDT2RoYkticDEwRzEwLVM0YlZhYkdHV1I2VmlzcFF1VTRTMmxMcGEzWWJ3SlZBLXhzSkpydVFsbFFsZllicm1sTUVVN1lVcy0ydjFBdHF5MGhyMjRn?oc=5",
+      "published": "2017-01-17T08:00:00+00:00",
       "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "7d74daef459b",
-      "title": "Medikamenten-Mangel: Müssen Generika wirklich teurer werden? (Be+) - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWW5QTGJwOVBkZlpSa3ZJWEdLdGw3aXhzNVdzRHBKRE9ybDdxQTE2bzVNTG4ya09xS2VJLThBbkRqTkhmTlFJb2ZDUURYc1lfcDVCT2cxSlpNU1BjSUNfWERTS3lSWWRlTG9PaktDS0c4V2dwdUVmazl5THhZamJxN2dNUnZoUDZXU3h6UkFFeEhmWENVckZvaXQyNTdlSTcxZnc?oc=5",
-      "published": "2023-04-24T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
+        "name": "msf.ch",
+        "url": "https://www.msf.ch"
       }
     }
   ]
