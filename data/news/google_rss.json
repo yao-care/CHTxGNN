@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-30T04:49:51.118891+00:00",
+  "fetched_at": "2026-05-30T07:37:54.693694+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "DW.com",
-        "url": "https://www.dw.com"
-      }
-    },
-    {
       "id": "075a40db361f",
       "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
@@ -64,13 +54,23 @@
       }
     },
     {
-      "id": "4274e7674340",
-      "title": "Medikamente und Hitze: Ohne aktive Kundenansprache geht’s nicht - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3RPNjg2NzNDWkxYS0tUb0dQRFhWZjA1MDJsTWZ5bVRqN09EZ0tfRnpDYUMzOXlnUGJ4SFJYS0piUnlEZ1laM0lpODl2d2lNaHFnN1JhWk56MVFyVEZYY3dodlBFWUtSbkxuaHhIc2FHN2R2WnZNM3pMdkdTb0NmMTlwMDNZWWw1RkZuMkFrcw?oc=5",
-      "published": "2026-05-28T16:00:00+00:00",
+      "id": "7a13262ea554",
+      "title": "Die Marineregion 4 führte medizinische Untersuchungen durch, verteilte Medikamente und überreichte 800 Kindern von Offizieren und Soldaten Geschenke. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVJSaWJFaWJiOWMwSy1rWTRtRmowTF91T1hocUxpS0d2UnhHLXZveGpkS3pUUEQ2bzZLM1NuOWZuNUx2b3JYNzhrZTZUYlNndmxvWlJVVjVvUzBuNDdvMGlrWW8yeHJ2bm1CZ3hWcktWVktQZHhNdHpTOVAwLVRYM3JZSnVuS0ZDSldnZHE2MmQxSnAxdzZHN2VqQVdfajA4MEUxRXpHdw?oc=5",
+      "published": "2026-05-30T05:23:52+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "eff30738baed",
+      "title": "Magnesiumpräparate im Test: Viele sind überdosiert – und haben kritische Zusatzstoffe - Öko-Test",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHZZYWx0d3hyODU3VUFqa2NTOFp6TkVMQVpQYnRRcXNVMmN0UU9aaG5UV0xBeDAtQW9adVUxdnFGN0VRakpNbm9YYnJsV0JBcXBiajdLaTBCQUxxOXViN2VaWkgzQVpKM3hiWW5neEM4TGZDZ2dsRTlrSG1HU1FNOG9LNjhRZDFmNWlqOVJjaFgzdm1nNHdZLTZPMWNad3JmR2lkcXlrd0F0R1VqRDNfSDUzcWszYTdPLXdhNS1iMGdMWWF6UkJHWWszb3JFZHhHNGlCVjBDS0tNV281bHc?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "source": {
+        "name": "Öko-Test",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -84,6 +84,16 @@
       }
     },
     {
+      "id": "4274e7674340",
+      "title": "Medikamente und Hitze: Ohne aktive Kundenansprache geht’s nicht - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3RPNjg2NzNDWkxYS0tUb0dQRFhWZjA1MDJsTWZ5bVRqN09EZ0tfRnpDYUMzOXlnUGJ4SFJYS0piUnlEZ1laM0lpODl2d2lNaHFnN1JhWk56MVFyVEZYY3dodlBFWUtSbkxuaHhIc2FHN2R2WnZNM3pMdkdTb0NmMTlwMDNZWWw1RkZuMkFrcw?oc=5",
+      "published": "2026-05-28T16:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -91,6 +101,16 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
+      "id": "e1de92f5d1f7",
+      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
+      "published": "2026-03-10T07:00:00+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
       }
     },
     {
@@ -134,16 +154,6 @@
       }
     },
     {
-      "id": "2eecf62fe90e",
-      "title": "Rauchstopp als Hebel für Gesundheit und Versorgung - TARA24",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObzhySzRucFNHZ2tUbzRiYnBQVDFyVzJaNlZORVBlbmJ2YVczSkV1TXg3cU9qOFI2RWVlbm9vLTJfSGl5MXZVaVFNRzNFMDN3UXg3UzZCekZuTGo2UzJ6NW5YQVNtOFBNVU5MUkhJdENzSng2VTZnSjlfX1hQV3o5ZHhDY2QwcjVUQmpmRkFTa2VtQQ?oc=5",
-      "published": "2026-05-29T08:00:00+00:00",
-      "source": {
-        "name": "TARA24",
-        "url": "https://www.tara24.at"
-      }
-    },
-    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -151,16 +161,6 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "bbbb55e61434",
-      "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - St. Galler Tagblatt",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDA3TE1LU0ZrRDdlaWpmWFduT0t4X3lTaS00N0oyclZnRFJ1U01ZZWhQSTNCWkt3VFRoUUxKWG1ta25pT1hnc2NLaC1BcmkyS1lBV3NGSzMzTTJVVllYTGM2NWU0dzNEX0UyQVFjX0VkOEI2WW55clNtNl9tYUVBUHN2bVQ5cldHMHk5dklvZmQ0SEthOE1j?oc=5",
-      "published": "2026-04-24T07:00:00+00:00",
-      "source": {
-        "name": "St. Galler Tagblatt",
-        "url": "https://www.tagblatt.ch"
       }
     },
     {
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "d7eb2ae43260",
-      "title": "Verbesserung der Mechanismen zur Förderung der Stärken der traditionellen Medizin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkxUYUJkcURCUTRKNExYNkd6RmhFTTd2eEY1TkZvN3NKTnNoZGY1Y252UGNQR2ZWWEJTYUd5dnYzNTE3Y0x3X3I5Q1hVRV9idC1hdU5UMlJaSFVwTThTZUZWUkN6RHdrNU53S0VKQTFwTWkyVF9uTFJpTmNVcjdpcnZJbUFXMjZYcHdodg?oc=5",
-      "published": "2026-05-29T12:04:19+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "3751bff44cc1",
       "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
@@ -251,16 +241,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "8911abea66a8",
-      "title": "Vietnam verfügt über eine Fülle wertvoller Heilkräuter; warum konnten sie diese bisher nicht nutzen? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnB2SmY4R1FIZnA4SlJlMlNhb3pHTkgyUXU0ejZwdjllZ2RMTGo5R0syeUViTTZBTHZIWW9jLTJZRElxaWE4ZDcwdWNnRzdYeXh3b1FVZFQzYmZLTWN0LTN5eFlrNjZ6czJ2N2o1ZmZ3eUhZY0R1bkpwdDBueDJzdURuT0RTbjQy?oc=5",
-      "published": "2026-05-29T12:38:36+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -284,13 +264,13 @@
       }
     },
     {
-      "id": "90958168935e",
-      "title": "Vorgeschlagene Reformen der Krankenversicherungspolicen, die auch die traditionelle Medizin abdecken. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2x6Y2RYbWpiczNsa1poOWxGVmptZnRVa2tFM0YzajRzUUdXTWQxaXp1MkcwQUt1RTdJRnphajhRY1VCNG90MWVEYm5GMWxUNy0weFZqbExwcU1IZzlUclRpMUV5OGwzUWE4XzBLTURrVG5VWDd6NW0wTi1DVnc4UkRheGpYWWthV0c0cnUwbUJkRG51N0VyNmFqUkY?oc=5",
-      "published": "2026-05-29T15:02:23+00:00",
+      "id": "2eecf62fe90e",
+      "title": "Rauchstopp als Hebel für Gesundheit und Versorgung - TARA24",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObzhySzRucFNHZ2tUbzRiYnBQVDFyVzJaNlZORVBlbmJ2YVczSkV1TXg3cU9qOFI2RWVlbm9vLTJfSGl5MXZVaVFNRzNFMDN3UXg3UzZCekZuTGo2UzJ6NW5YQVNtOFBNVU5MUkhJdENzSng2VTZnSjlfX1hQV3o5ZHhDY2QwcjVUQmpmRkFTa2VtQQ?oc=5",
+      "published": "2026-05-29T08:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "TARA24",
+        "url": "https://www.tara24.at"
       }
     },
     {
@@ -318,6 +298,46 @@
       "title": "Das Gesundheitsministerium bittet darum, dass das kostenlose Medikamentenunterstützungsprogramm nicht für Arzneimittelwerbung missbraucht wird. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjg2YUdZbU5aN2ZhSWdWQUNZODRidEV4TlUyQ2p6MnRBMDdtaFlOamhyZWYwWWc5UG85cHR4VzhKcktRQVR1WlduZTlEbUZyZnZoWk5HdGx2M0V5Q0w3QUdaQlo2UmVueGdNc3VYM0w1bnRGVHFSX25rUGJPM0xYUXhHSmRjd0dKUUp3Y3pjNnE1SThvZU5RMlBud2dOMS1Ec0JiQjNReE5GdlNzOVFj?oc=5",
       "published": "2026-05-27T02:02:11+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "d7eb2ae43260",
+      "title": "Verbesserung der Mechanismen zur Förderung der Stärken der traditionellen Medizin. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkxUYUJkcURCUTRKNExYNkd6RmhFTTd2eEY1TkZvN3NKTnNoZGY1Y252UGNQR2ZWWEJTYUd5dnYzNTE3Y0x3X3I5Q1hVRV9idC1hdU5UMlJaSFVwTThTZUZWUkN6RHdrNU53S0VKQTFwTWkyVF9uTFJpTmNVcjdpcnZJbUFXMjZYcHdodg?oc=5",
+      "published": "2026-05-29T12:04:19+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "8911abea66a8",
+      "title": "Vietnam verfügt über eine Fülle wertvoller Heilkräuter; warum konnten sie diese bisher nicht nutzen? - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnB2SmY4R1FIZnA4SlJlMlNhb3pHTkgyUXU0ejZwdjllZ2RMTGo5R0syeUViTTZBTHZIWW9jLTJZRElxaWE4ZDcwdWNnRzdYeXh3b1FVZFQzYmZLTWN0LTN5eFlrNjZ6czJ2N2o1ZmZ3eUhZY0R1bkpwdDBueDJzdURuT0RTbjQy?oc=5",
+      "published": "2026-05-29T12:38:36+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "772a882d1be7",
+      "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - Luzerner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSENSWTlHYkZWN21fVGQ3NnpGTzRtVlh0V3lSX1RjcHFrUF9OU29xeVRzSTd5Q2VPdDJOaUdueDRMNXBBVGh2S0k2c1VLSFU4SHhZV2czVkxzSjQ2OHJpbzVOZjM5aktqNkhDY25zeGp0cmZ2TWN3WHdtNkYxdGZRVHlBeGlYZzk2YkE4SnFjMk1vRXBVRWxwNmxBdktVNndB?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "source": {
+        "name": "Luzerner Zeitung",
+        "url": "https://www.luzernerzeitung.ch"
+      }
+    },
+    {
+      "id": "90958168935e",
+      "title": "Vorgeschlagene Reformen der Krankenversicherungspolicen, die auch die traditionelle Medizin abdecken. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2x6Y2RYbWpiczNsa1poOWxGVmptZnRVa2tFM0YzajRzUUdXTWQxaXp1MkcwQUt1RTdJRnphajhRY1VCNG90MWVEYm5GMWxUNy0weFZqbExwcU1IZzlUclRpMUV5OGwzUWE4XzBLTURrVG5VWDd6NW0wTi1DVnc4UkRheGpYWWthV0c0cnUwbUJkRG51N0VyNmFqUkY?oc=5",
+      "published": "2026-05-29T15:02:23+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -384,26 +404,6 @@
       }
     },
     {
-      "id": "7e099e6a131f",
-      "title": "Vorschläge zur Reform der Krankenversicherungspolitik mit dem Ziel, den Anteil der Ausgaben für traditionelle Medizin zu erhöhen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnJTRHByODVaUl9LUVA2NDF0OFp2NVhxbjhqN2RNSlNyUG5mZUFad0dnZ3NZYTFjOElMWHJLaU5nOXI5bFY2LXRoRnJqY3BjVDZGeVMwN1pDZ25vakV6VWpJVVo0X1gwSTI3NWJtd1RwU2UyODFJVUk3NkFiMkFQZnJBRzNxRlhrY0J1WEFXazQxQ2RHdGhjMzVEZGdXbDRRRm8yclAxWQ?oc=5",
-      "published": "2026-05-29T10:04:54+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "00ce1d1cd3a3",
-      "title": "Achtung Versichertenverunsicherung! Krankenkassen sprechen von Explosion der ... - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wU19tSUlDRnRwM0RfOTB0V0YwSlNZMlItMlIxMmZHLTl1RjVHUkdSdFNJclhvUFdPRlg4OW5GY0hYUmo2VFhtX3AwNWJBenZ6Zzdycno4VQ?oc=5",
-      "published": "2026-05-29T11:21:18+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "9e53c1068b9b",
       "title": "Behandlungseinrichtungen müssen transparent darüber informieren, dass sie Patienten kostenlos Medikamente zur Verfügung stellen. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3p6STFFTjNkS1BZWU5ZNFI0ajNIWHp1Y3NvX0NDNV8wa1YtSTh5aU45RmlvLXZkajFyWllWM1JGSEQ1QmJRMGM2TU1LN3VOelV2YmJQdDRwN3NvTEozS2JOQ21rMV94NUx4cXJOY3VjVzVJSUFsYWk2d3ZDcldmcUw1OWZ4b2Z3QVVYTzduZ1FwS0U?oc=5",
@@ -428,16 +428,6 @@
       "title": "Frauen leisten mehr für ihre Gesundheit, fühlen sich aber schlechter versorgt - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jWk5EOWlhd1U1RENkZ0N6a2RyMXpPbjF6eEJDUGxnWWs1eWpYaXZrdHVKM0paYkRiaTFWcjdSX1VIQ3N6VVN2b3JjNHM2Zm5FWVlydldJOA?oc=5",
       "published": "2026-05-28T12:10:07+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "00634a6aa606",
-      "title": "Zunehmender Tabakkonsum bei Jugendlichen und verfestigte Abhängigkeit im Erwachsenenalter - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pdklLN09FNFlBeUttcVpqYVZYT0hLNzdYV1pySDAxOFl6cW9GaTNLV0Qtbll1MGFGTkxWTFhBWjI4bUhmVUppa2hyTXY1OUQyYXRpLWxkOA?oc=5",
-      "published": "2026-05-29T12:05:32+00:00",
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
@@ -474,6 +464,26 @@
       }
     },
     {
+      "id": "00ce1d1cd3a3",
+      "title": "Achtung Versichertenverunsicherung! Krankenkassen sprechen von Explosion der ... - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wU19tSUlDRnRwM0RfOTB0V0YwSlNZMlItMlIxMmZHLTl1RjVHUkdSdFNJclhvUFdPRlg4OW5GY0hYUmo2VFhtX3AwNWJBenZ6Zzdycno4VQ?oc=5",
+      "published": "2026-05-29T11:21:18+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "7e099e6a131f",
+      "title": "Vorschläge zur Reform der Krankenversicherungspolitik mit dem Ziel, den Anteil der Ausgaben für traditionelle Medizin zu erhöhen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnJTRHByODVaUl9LUVA2NDF0OFp2NVhxbjhqN2RNSlNyUG5mZUFad0dnZ3NZYTFjOElMWHJLaU5nOXI5bFY2LXRoRnJqY3BjVDZGeVMwN1pDZ25vakV6VWpJVVo0X1gwSTI3NWJtd1RwU2UyODFJVUk3NkFiMkFQZnJBRzNxRlhrY0J1WEFXazQxQ2RHdGhjMzVEZGdXbDRRRm8yclAxWQ?oc=5",
+      "published": "2026-05-29T10:04:54+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "432315fa2251",
       "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
@@ -494,13 +504,13 @@
       }
     },
     {
-      "id": "ecc1c653cf9d",
-      "title": "Prävention stärken: Neue Online-Fortbildungsreihe zu Präventionsthemen für Apotheken - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE0tUzFnemF3NU96TzBNWk9vSjZjTTNobUhidlNLVEdHVzFjbWdjaGlGRmowY0F5X3FkbmsxV05qZEwtZFBhR2g0blZqWnE2bHd6TTN1NUF6ZkEyUDJaZ244R1p0WmVtWF9paFBCWW9YV1Z3VVlIbmJ1OTNYV3Z5NUc0UjFGeFpqM1cxNWltQUY4UmNuNW9wSVU1Ni1GaGdiX1RpRS1WVmF6eUVUWEFMTWJrcw?oc=5",
-      "published": "2026-05-27T08:15:00+00:00",
+      "id": "00634a6aa606",
+      "title": "Zunehmender Tabakkonsum bei Jugendlichen und verfestigte Abhängigkeit im Erwachsenenalter - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pdklLN09FNFlBeUttcVpqYVZYT0hLNzdYV1pySDAxOFl6cW9GaTNLV0Qtbll1MGFGTkxWTFhBWjI4bUhmVUppa2hyTXY1OUQyYXRpLWxkOA?oc=5",
+      "published": "2026-05-29T12:05:32+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -521,6 +531,16 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "ecc1c653cf9d",
+      "title": "Prävention stärken: Neue Online-Fortbildungsreihe zu Präventionsthemen für Apotheken - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE0tUzFnemF3NU96TzBNWk9vSjZjTTNobUhidlNLVEdHVzFjbWdjaGlGRmowY0F5X3FkbmsxV05qZEwtZFBhR2g0blZqWnE2bHd6TTN1NUF6ZkEyUDJaZ244R1p0WmVtWF9paFBCWW9YV1Z3VVlIbmJ1OTNYV3Z5NUc0UjFGeFpqM1cxNWltQUY4UmNuNW9wSVU1Ni1GaGdiX1RpRS1WVmF6eUVUWEFMTWJrcw?oc=5",
+      "published": "2026-05-27T08:15:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -594,33 +614,13 @@
       }
     },
     {
-      "id": "345829b331e2",
-      "title": "Warum die vielen Fragen in der Apotheke gesetzliche Pflicht sind - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTJleUdFNE8zTXhTcG5adjhQMW9tUjBiUHlFMUctcXByOUVBU0YxV251aGh4cmJnV0Z0NlVTMDdBc2FrMGhhWTM3VEt1LTIyZk9OUFREVE80YjBUVC1hTEE5Z083M0Q5M2JQY3RRWURYUVp5NWRZMHZSOUctS2J1SjBWOF9tcURxVnZmcjVhZl8yVURxXzdrclNIUDFTX2dyaFJZcGJUb3RxTHBESjYwcG5DY2hZUFF5dXhvRzF3?oc=5",
-      "published": "2026-03-17T07:00:00+00:00",
+      "id": "248d2692ff4f",
+      "title": "Polypharmazie: Was Sie beachten sollten, wenn Sie täglich viele Medikamente einnehmen - ZDFheute",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmNURjJpcFYzQlZoek5jY1lkLUpjeUtlSDVHVlB3QWxTS0ZET1ljNEVBZG9VMDNTNGNFdDlmTkt1bEtiSHJQMHJwTlRVaGswbmo2VTB5dVJrY0lMNjFGVVdXNURLVmNJTll2YTdJSW90MW5IRzBMVFpoRWx1b0I4ekt3UF9MSjJXWHRzV2dVQ0hBOHZmZUtRNUd2Y04wV2ZUejc0NHZ3OUZLTXBoTjVKdzdsS1V2aTdhTU5HVnotak9QQQ?oc=5",
+      "published": "2026-04-09T07:00:00+00:00",
       "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
-      "id": "f45603899347",
-      "title": "Alles, was Sie über Ihre Medikamente wissen sollten - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNG82a296RjNlNlZtWW5NTWFOVG45c1hyQl84U29ubkpCcW12Ukkzb3diRmxZaDdDOWZnWWtqVjV2UWVyTHZGMzNnYTV4WV9aUTltS2RHUGZzcDhXQlplX3BFRkctM05uNEItcUFOV25qZVpteUt2cUlYV2taVF8temI1Qk42NHRfbmFsRjVLVmVpMWMy?oc=5",
-      "published": "2025-09-09T07:00:00+00:00",
-      "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "e5c9f6b52b1b",
-      "title": "Weil Gesundheit alles verändert - Handelsblatt Live",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQXU3d2J3REtJeXBaWlQ0UTVlRWJDR2U3cTBJRFNaVlBYenpnNmp1QXZJLXB1WFQxY1dOQjJhMGRwVVZTNEE2eWVMZVd0bVZTSzEyOHY2R0NVd2dKVllzVEM3NDRoNEZKUkthRDdSTHA?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
-      "source": {
-        "name": "Handelsblatt Live",
-        "url": "https://live.handelsblatt.com"
+        "name": "ZDFheute",
+        "url": "https://www.zdfheute.de"
       }
     },
     {
@@ -641,16 +641,6 @@
       "source": {
         "name": "MDR",
         "url": "https://www.mdr.de"
-      }
-    },
-    {
-      "id": "375374e60cfb",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -684,6 +674,16 @@
       }
     },
     {
+      "id": "345829b331e2",
+      "title": "Warum die vielen Fragen in der Apotheke gesetzliche Pflicht sind - Aargauer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTJleUdFNE8zTXhTcG5adjhQMW9tUjBiUHlFMUctcXByOUVBU0YxV251aGh4cmJnV0Z0NlVTMDdBc2FrMGhhWTM3VEt1LTIyZk9OUFREVE80YjBUVC1hTEE5Z083M0Q5M2JQY3RRWURYUVp5NWRZMHZSOUctS2J1SjBWOF9tcURxVnZmcjVhZl8yVURxXzdrclNIUDFTX2dyaFJZcGJUb3RxTHBESjYwcG5DY2hZUFF5dXhvRzF3?oc=5",
+      "published": "2026-03-17T07:00:00+00:00",
+      "source": {
+        "name": "Aargauer Zeitung",
+        "url": "https://www.aargauerzeitung.ch"
+      }
+    },
+    {
       "id": "77eea59f7b33",
       "title": "Steigende Arzneimittelkosten: Gesundheitsministerin Warken will Zugang zu neuen Medikamenten für alle erhalten - MDR",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenF3ckVCSXl3ZmNka21FSTVtdkdoeGRZaEQ4Nnc4ZktKZk16U0ZUd19vYWRsZDdQUDZZLVFCd2k2anZScnRpSnJtXzRCbEozRm9fMEpkcVhjZ3dwT21zQVZPX2MybWdSUHBNeTZ3TmtESDFOWFNfM0lPV1Z4M3BmUTNkLTRfVGgxRUh4OWNOblh5ZGdCaUs5WXZmR2VVaVV5d1VHR1BHUFhubGtCWlFyZWk3VnhWZjdpWE9jNE5B0gHDAUFVX3lxTE1YNm5BVEExN05VeGlPeW5Hazh0ZTVFV0ZGUjNpWERheHAxSUZ3TTJGUXBZQ0F1cGdtRGQ4Zy1kbzhhNkRCd2Y4TTllaWd6ZVdTUkgxTmoyR1ZLSHhoNERNa1M0VExFOHluRzhTRWI3VjJkaGlZWTZUUXZ4bFEtVUFMaVAxMWFnYVVwa3J1TklTTjI3WnF4dkJZRFExVEFBb0NfMDVaTnBhZmU0NXFoR0FVcEhXV0dEeW1PeEl0SzdYSFNFVQ?oc=5",
@@ -714,6 +714,16 @@
       }
     },
     {
+      "id": "62ffe309dfbc",
+      "title": "CDU fordert mehr Arzneimittelsicherheit im Saarland - Homburg1",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTA5SUJvdG5DNkRiaFpmSDFGSnhRc0h6ay1QRTc3NFQwLXRiZExJb1lYWmNmLUVVMnhRWmo3VEZwTk1HbUREX2pqem42QzJtR1NzRnJFclQyNUYtLVhRalNIazkwaTZGTkstelA5a0JIcFN1azMwcXE3bG5xZm55RFVtWHl0OWFC?oc=5",
+      "published": "2026-05-30T00:30:44+00:00",
+      "source": {
+        "name": "Homburg1",
+        "url": "https://homburg1.de"
+      }
+    },
+    {
       "id": "1b3c408f1703",
       "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFhLVUdkZzBFTm93WVhvZHdBSkk4ZWlPUWJQRlZFWjlSV3Npei12Wnc4YWhXZW9fMkFOLUs2TjNEanlIUENkRlJ1bmdDQWJKbFhVeEpaMmF2dEp3SjVZbjBHZlNDVUV2Z1NpekF5c3lEaUxsX3VPcDNwRHBGaVFFYXBRZ3dERXpIZWp2TzVralRSb1FEVmdfZjNJTmxMdW9WT25iZGh6QVBfQmV2UGRSby1hcWNOOWl4b2NIajFWRmZZNmhvemN2OVVSZ3dwYnlYTVBfYV9oVGlYM3B5TjJtQTZZUHkwb3cteVd1UzU5M3RaT2hiN2tjczYtOA?oc=5",
@@ -734,16 +744,6 @@
       }
     },
     {
-      "id": "eff30738baed",
-      "title": "Magnesiumpräparate im Test: Viele sind überdosiert – und haben kritische Zusatzstoffe - Öko-Test",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHZZYWx0d3hyODU3VUFqa2NTOFp6TkVMQVpQYnRRcXNVMmN0UU9aaG5UV0xBeDAtQW9adVUxdnFGN0VRakpNbm9YYnJsV0JBcXBiajdLaTBCQUxxOXViN2VaWkgzQVpKM3hiWW5neEM4TGZDZ2dsRTlrSG1HU1FNOG9LNjhRZDFmNWlqOVJjaFgzdm1nNHdZLTZPMWNad3JmR2lkcXlrd0F0R1VqRDNfSDUzcWszYTdPLXdhNS1iMGdMWWF6UkJHWWszb3JFZHhHNGlCVjBDS0tNV281bHc?oc=5",
-      "published": "2026-05-28T03:47:31+00:00",
-      "source": {
-        "name": "Öko-Test",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
       "id": "521a9a756ad8",
       "title": "Forsa-Umfrage: 87 Prozent der Ärztinnen und Ärzte wünschen sich eine bessere ... - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzX29hYU4yZ2l0MmVaemlfWjgtcWpRUy1pUjUxVkpDUnM4b3VEY3FnOGM1M2h6SFVUWjZOVGJmNFRQY2RlSkZJV0tibVBHS1VDX3lrci1n?oc=5",
@@ -761,16 +761,6 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
-      }
-    },
-    {
-      "id": "2be772648a56",
-      "title": "US-Zölle: „Gesundheit darf kein Kollateralschaden der Handelspolitik sein“ - Pharma Fakten",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGRnOWczZVozQzhnVXd4Ukl5U3Z1RXE1WG5ORFU2ZlVZRVpxRms0RkhiODY0WjJoMFQwRV9Kb2NpX2pVbU5fb3hqT3BzeG1lelN4cW1Mc29wei1OcGVOUWttTVpCaXhJMmswSFJ3U181S0kzc3lfel9OUDZzSXkzRXNFdVRfYXhubFQyV1g3U3lMTFhGc19aTmZNV3AwUTlyMVFUVGtR?oc=5",
-      "published": "2025-07-29T07:00:00+00:00",
-      "source": {
-        "name": "Pharma Fakten",
-        "url": "https://pharma-fakten.de"
       }
     },
     {
@@ -974,16 +964,6 @@
       }
     },
     {
-      "id": "bef55277be0e",
-      "title": "Operation PANGEA XVI: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMmdQR0g1QkpGUDh4Tnc5TG9BNDEyTXVoekxYNVdFcDFVbEZvRkRmOE84OFBqdWdvWFJSU0RkZE4wcEM3XzM2THlaWnJacHpPS01DZmtqWk5ZRFBHRDRsblRPRzFYVTdZc3RsQl83VUR3VnNSZmFFa1VWT3REWHdIQXpnbDg5dFNkYTh6RURLWlg0Tm85VXpIZXA0VTdnYTU0dTJ1VWZhWGxxR0hxby1pdlZqMGVtUFZSZndSLXJ5aFhUeTRLTldXZ2tObHN2QU1tSGo4bEFyU3I0VF9qX2szOFUxMlQtSWYyeWtXS1dseU9QaFpsQWhV?oc=5",
-      "published": "2023-10-31T07:00:00+00:00",
-      "source": {
-        "name": "Swissmedic",
-        "url": "https://www.swissmedic.ch"
-      }
-    },
-    {
       "id": "0d877deab3c8",
       "title": "Usbekistan will Bezahlbarkeit von Medikamenten auf der Ebene der primären Gesundheitsversorgung verbessern - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHcxc3ZFWkhLcWVKS3RfWW5xSUZBUFVCQkdxb1pGZGlqai1UWjE1S2s3cG5KMEJCdjFPQ0hQZnc4X0o4bVVSTHhKZURfeWRXb01vNkkzUG5CcGQ0YlZXZjZSQXBfdHVBc0l1S0MzdHBBejJUMVJTQURsS0ZQdG9HVkczVFZXdjNKZWgzZmhGdnpVdl9oZHUzRjRYOXRWLUFWTC1ZR2tBVy04NWtrM2lpYVlKNEw1eUl4TWpqT0JGZUxpdnBRbmJIUk5peENtS1VJRG1sdzR6bw?oc=5",
@@ -994,6 +974,16 @@
       }
     },
     {
+      "id": "bef55277be0e",
+      "title": "Operation PANGEA XVI: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMmdQR0g1QkpGUDh4Tnc5TG9BNDEyTXVoekxYNVdFcDFVbEZvRkRmOE84OFBqdWdvWFJSU0RkZE4wcEM3XzM2THlaWnJacHpPS01DZmtqWk5ZRFBHRDRsblRPRzFYVTdZc3RsQl83VUR3VnNSZmFFa1VWT3REWHdIQXpnbDg5dFNkYTh6RURLWlg0Tm85VXpIZXA0VTdnYTU0dTJ1VWZhWGxxR0hxby1pdlZqMGVtUFZSZndSLXJ5aFhUeTRLTldXZ2tObHN2QU1tSGo4bEFyU3I0VF9qX2szOFUxMlQtSWYyeWtXS1dseU9QaFpsQWhV?oc=5",
+      "published": "2023-10-31T07:00:00+00:00",
+      "source": {
+        "name": "Swissmedic",
+        "url": "https://www.swissmedic.ch"
+      }
+    },
+    {
       "id": "4ddd3b0b9cdd",
       "title": "Der besseren Zugänglichkeit neuartiger Arzneimittel einen Schritt näher - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdDMjNkUmRfZGZEcmtCREJrU0FKZVhObWw5ZGxuZVBJMVo5alUyc1Z6ZjI5YjJYVzhrOTFYbVJJamdJYUZiY1haT1hjUGpWSWhrb0Exd1B2U0htVkVFUnpmQTRpdVV4R1hZcUFnakg4dUdGTUxYQUgtYlhJWHFJUC1MUXpLVmNPN25PSG9MUWl6TnpNenJGRGxZQWd2RXlvbnlDRUdsOHVqZjJJ?oc=5",
@@ -1001,6 +991,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "c1915da31a72",
+      "title": "Geheimrabatte: Preismodelle im Interesse der Pharmaindustrie - PublicEye",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG42NVFTS2ZwRkdTMmhQUjVtaTVGUWhYVUtQd21GenVtdjFaaXJHZ1ZUbElDZnd4ekZHdndVUFpweVBMXzRuNVZqMzdqd1ozR1BlWE5KaklnaFFkMDQ3ZnAwNUwyTnY3VGxvc0JiUjZ4SmotODZJMW9OWEJwSDhOS0pSS2d4Z3RGRmtZNkpfaHNoN25lRWhBeDZxTG1odHdQTmdqNlVWRFhLMVFWQXNFNGFTSXJjQ2J4NEpxdmV4Z2tYSmVkcmc?oc=5",
+      "published": "2024-02-13T02:40:45+00:00",
+      "source": {
+        "name": "PublicEye",
+        "url": "https://www.publiceye.ch"
       }
     }
   ]
