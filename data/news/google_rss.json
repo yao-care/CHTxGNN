@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-05T19:48:47.521744+00:00",
+  "fetched_at": "2026-06-05T21:21:41.972411+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "9ced971ef53e",
-      "title": "Finanzierung - interpharma.ch",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
-      "published": "2026-04-08T23:46:54+00:00",
-      "source": {
-        "name": "interpharma.ch",
-        "url": "https://www.interpharma.ch"
-      }
-    },
-    {
       "id": "b75dab613f5c",
       "title": "Ebola-Ausbruch: Wann kommen Impfstoffe und Medikamente? - RND.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEoxNGZ0d2xCeV9mR3M1SWJzOTdDZDVlRVUwY2FhcnEyc1Q2MDJyQV95QU1DRkRldVNYYWtYdlU5T0ctd0NtZEFreTZHcHY4TDkxdEJjdDNzVlA2Nnl4VWFQczVna0xaZTR3aFhsV0JJWnBiNWs5QXRLZE9MMV9nZ2tDaVF1NHVxOW41LU1UZnVodTFsU25iUGd3X0llSGdDeTVtcmdRNnpkbUJsQ0tpZkF2UTRxcnRIX2xxWnpzSjlYTkZ6M1F3?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "RND.de",
         "url": "https://www.rnd.de"
+      }
+    },
+    {
+      "id": "9ced971ef53e",
+      "title": "Finanzierung - interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
+      "published": "2026-04-08T23:46:54+00:00",
+      "source": {
+        "name": "interpharma.ch",
+        "url": "https://www.interpharma.ch"
       }
     },
     {
@@ -234,26 +234,6 @@
       }
     },
     {
-      "id": "bbbb55e61434",
-      "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - St. Galler Tagblatt",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDA3TE1LU0ZrRDdlaWpmWFduT0t4X3lTaS00N0oyclZnRFJ1U01ZZWhQSTNCWkt3VFRoUUxKWG1ta25pT1hnc2NLaC1BcmkyS1lBV3NGSzMzTTJVVllYTGM2NWU0dzNEX0UyQVFjX0VkOEI2WW55clNtNl9tYUVBUHN2bVQ5cldHMHk5dklvZmQ0SEthOE1j?oc=5",
-      "published": "2026-04-24T07:00:00+00:00",
-      "source": {
-        "name": "St. Galler Tagblatt",
-        "url": "https://www.tagblatt.ch"
-      }
-    },
-    {
-      "id": "56ead2a92356",
-      "title": "Reimann: Nötigung durch die Pharma-Industrie vor der ersten Lesung des GKV-Spargesetzes ist inakzeptabel - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVHRhekg0STVMdllQRTlrOTgybmR5dWQ1Q3F1S3RvcEtZMGc5WUVKM2RYR0V2MWl5OVFtbVBTa2xDXzk1V01iOXJFRGxzOFgzckE4LW13?oc=5",
-      "published": "2026-06-05T12:49:28+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "95ca967314a5",
       "title": "Die traditionelle Medizin macht mittlerweile über 5 % der Ausgaben für die Krankenversicherung aus; es wurde ein Vorschlag zur Erweiterung der Liste der erstattungsfähigen Medikamente unterbreitet. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUkydDYtQkhfbVlpeE9melBjMWdqMW1WZkpqQmplazFWZkVvamd1cW12V1gyV0JUZ2g0YkFZeUxEUllzdUhULXhDeFcxcFRUVHNnY2ZwREJkOU5KWnJIZ2dOZW0yYS1NUXJwVkpoZEduaW91dkhiOTUyOVVQcUktSGZOYW9FbHFjUS14WnVIaC1OdTNOYWJYMlZ5Ykl2czF3ZnU0cGF1UTlTa2dn?oc=5",
@@ -264,6 +244,16 @@
       }
     },
     {
+      "id": "bbbb55e61434",
+      "title": "Überdosiert und zusätzliche Wirkstoffe: Die Gefahr von online bestellten Arzneimitteln - St. Galler Tagblatt",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDA3TE1LU0ZrRDdlaWpmWFduT0t4X3lTaS00N0oyclZnRFJ1U01ZZWhQSTNCWkt3VFRoUUxKWG1ta25pT1hnc2NLaC1BcmkyS1lBV3NGSzMzTTJVVllYTGM2NWU0dzNEX0UyQVFjX0VkOEI2WW55clNtNl9tYUVBUHN2bVQ5cldHMHk5dklvZmQ0SEthOE1j?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "source": {
+        "name": "St. Galler Tagblatt",
+        "url": "https://www.tagblatt.ch"
+      }
+    },
+    {
       "id": "5944c4a17768",
       "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, zwei enttäuschen allerdings - CHIP",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaENtWUU3TlNqcEptRmNvQnRwYUE4U0kwWnlxTU9kVDFQaUxENHpIQUhoRjY4U1h6T19MU0J2LVpWeEc5bGs3ZGYwM2xwb3dGOGVtTk1aWDlCemtFZTR0Q2hVaDNZc2tJX2Joekh5TUNuUEdzckYxNU5EMUg2dUZlMTFCV09GWXlhU1J0R2w3SU40dGZab1dadEJuWURNSHN1N05KekQtYnRzaU1pVmZvdTRZWlFhcnNjVWVKZ2tJdHQxT1hsZnc1RkZIazJ1Z0RCNktDMl9ReEJyWmt2T3B5cUg1ZmNNWUpURXIzeHhlbW1jNjdEMjduaEkwN2VjM3lzTThVZlVxelFrQ1M1?oc=5",
@@ -271,6 +261,16 @@
       "source": {
         "name": "CHIP",
         "url": "https://www.chip.de"
+      }
+    },
+    {
+      "id": "56ead2a92356",
+      "title": "Reimann: Nötigung durch die Pharma-Industrie vor der ersten Lesung des GKV-Spargesetzes ist inakzeptabel - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVHRhekg0STVMdllQRTlrOTgybmR5dWQ1Q3F1S3RvcEtZMGc5WUVKM2RYR0V2MWl5OVFtbVBTa2xDXzk1V01iOXJFRGxzOFgzckE4LW13?oc=5",
+      "published": "2026-06-05T12:49:28+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "3b56a020b60b",
-      "title": "GKV-Spitzenverband: Stoff-Ahnis bittet Pharma zur Kasse - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTBUWG5VYVBIdzg0RmZFUlgyTDZBeGJ0SVZUMXhsd2s2RW5tR1hNelhhQlctMVF5WkVFUWp2VF8ybGJJRXNyZUZqcE1wbEJjb0pOSWNnVTNsSGN2dHIwXzZDZTlWNW51NVRGMGVQdC1IdjkwRm4wS09QaGl5aGZqeUJLWF8tdWxPeEE?oc=5",
-      "published": "2026-06-04T10:30:08+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -321,6 +311,16 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
+      "id": "3b56a020b60b",
+      "title": "GKV-Spitzenverband: Stoff-Ahnis bittet Pharma zur Kasse - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTBUWG5VYVBIdzg0RmZFUlgyTDZBeGJ0SVZUMXhsd2s2RW5tR1hNelhhQlctMVF5WkVFUWp2VF8ybGJJRXNyZUZqcE1wbEJjb0pOSWNnVTNsSGN2dHIwXzZDZTlWNW51NVRGMGVQdC1IdjkwRm4wS09QaGl5aGZqeUJLWF8tdWxPeEE?oc=5",
+      "published": "2026-06-04T10:30:08+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "20f9979eafe7",
-      "title": "Eckpunktepapier: Nachhaltigkeit schafft Versorgungssicherheit - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLS0w4VUx0ZDVGdGtIMEc3SzRscXgzTjk5NHJ1eDVZU29xSXNWMUhGQ2RYSHlsSzROVVQwRkh6TXA4eUwtOWliRUViNW5VdVZ4cmgyUHRtbExlS0NjMHcyUGtpejZIVUk3OS1NUTRTeXdJX1g3Q1dEM1U5UmgwVDZsV2hkMUU2ZWVwTW9DTGEtZ21jZEE?oc=5",
-      "published": "2026-06-03T12:55:32+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "530b31cf9620",
       "title": "Krebsmedikamente – ein teures „Ticket“ zum Überleben. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XcnVBR1VkQUowR0RQdEZnZFZUOXFDQzFfOExPcmNZT3FXWV9MLXZla2hfNUs4WFRlZkE0dk0zRWJuVzFtSDVMZUM4RWdqeFBiMHRkUlBXZ2syOWtwUlYyekVMNnh4YkNoZ1E?oc=5",
@@ -441,6 +431,16 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "20f9979eafe7",
+      "title": "Eckpunktepapier: Nachhaltigkeit schafft Versorgungssicherheit - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlLS0w4VUx0ZDVGdGtIMEc3SzRscXgzTjk5NHJ1eDVZU29xSXNWMUhGQ2RYSHlsSzROVVQwRkh6TXA4eUwtOWliRUViNW5VdVZ4cmgyUHRtbExlS0NjMHcyUGtpejZIVUk3OS1NUTRTeXdJX1g3Q1dEM1U5UmgwVDZsV2hkMUU2ZWVwTW9DTGEtZ21jZEE?oc=5",
+      "published": "2026-06-03T12:55:32+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -464,16 +464,6 @@
       }
     },
     {
-      "id": "08cd030f494b",
-      "title": "Abnehmspritze könnte vor Brustkrebs schützen - FITBOOK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN25tMlg3eG5WNVgtOEVKa1R5Z2RHYTdhclN5UmJIRDVnR3JYM2FhQmpkT2dwajQ4dlQ3LTRiWEFPSjFERXpfQ05rd0pJX3BibkZncmREMG90N19QNURBZzZlTlVSakp0NFlXUk1BSUkxRUJSVEQ5QUFtOFl6T2doMUtzTGRzTkk?oc=5",
-      "published": "2026-06-04T13:16:00+00:00",
-      "source": {
-        "name": "FITBOOK",
-        "url": "https://www.fitbook.de"
-      }
-    },
-    {
       "id": "7f09edf69bc9",
       "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
@@ -481,6 +471,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "08cd030f494b",
+      "title": "Abnehmspritze könnte vor Brustkrebs schützen - FITBOOK",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN25tMlg3eG5WNVgtOEVKa1R5Z2RHYTdhclN5UmJIRDVnR3JYM2FhQmpkT2dwajQ4dlQ3LTRiWEFPSjFERXpfQ05rd0pJX3BibkZncmREMG90N19QNURBZzZlTlVSakp0NFlXUk1BSUkxRUJSVEQ5QUFtOFl6T2doMUtzTGRzTkk?oc=5",
+      "published": "2026-06-04T13:16:00+00:00",
+      "source": {
+        "name": "FITBOOK",
+        "url": "https://www.fitbook.de"
       }
     },
     {
@@ -584,13 +584,13 @@
       }
     },
     {
-      "id": "36bba281c2c7",
-      "title": "Lebensgefahr: Kindersirup wegen Glassplitter-Gefahr zurückgerufen - Kurier",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlMzVG5BV1VqZExiZHV1VEhibDdMLU5OSmtELTBWVVhSTmIxa2o4OHhybkJJVV9MbzdGQTJPR3dFRVh4RWNYMnAxc21ud2RNYkVvRm1CSmlIOERMN2Y3c1psOXJXUHdCTENhSURZTFhkZGJGTVotODdTcmxwZmdTOVF4MElqRmtfWER6Q3JUOA?oc=5",
-      "published": "2026-06-02T09:46:00+00:00",
+      "id": "14965d480852",
+      "title": "Patienten und Ärzte hoffen, dass neue Medikamente bald von den Krankenkassen übernommen werden. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDB4U0lVRFdMeXhkTE5SUUJ3cmsxZWk4UkQ5UERRbmd5MEpJX3B5LUpKSDFYZHNxV0Riek9aR2FTNW0xSHpDRVBzWS1EREVBUzRiQ2o4bmtqZXdDQXA5T0tDYnRjWmNMd1dZWlY5VVJuWEJ0a0E2TW1ieFlyUUE0TGt0TDBURW1UQ1FwTEhzRVFmcXJIUzdkUQ?oc=5",
+      "published": "2026-06-03T02:17:11+00:00",
       "source": {
-        "name": "Kurier",
-        "url": "https://kurier.at"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -604,6 +604,16 @@
       }
     },
     {
+      "id": "36bba281c2c7",
+      "title": "Lebensgefahr: Kindersirup wegen Glassplitter-Gefahr zurückgerufen - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlMzVG5BV1VqZExiZHV1VEhibDdMLU5OSmtELTBWVVhSTmIxa2o4OHhybkJJVV9MbzdGQTJPR3dFRVh4RWNYMnAxc21ud2RNYkVvRm1CSmlIOERMN2Y3c1psOXJXUHdCTENhSURZTFhkZGJGTVotODdTcmxwZmdTOVF4MElqRmtfWER6Q3JUOA?oc=5",
+      "published": "2026-06-02T09:46:00+00:00",
+      "source": {
+        "name": "Kurier",
+        "url": "https://kurier.at"
+      }
+    },
+    {
       "id": "445f92c7e54b",
       "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
@@ -611,16 +621,6 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "14965d480852",
-      "title": "Patienten und Ärzte hoffen, dass neue Medikamente bald von den Krankenkassen übernommen werden. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDB4U0lVRFdMeXhkTE5SUUJ3cmsxZWk4UkQ5UERRbmd5MEpJX3B5LUpKSDFYZHNxV0Riek9aR2FTNW0xSHpDRVBzWS1EREVBUzRiQ2o4bmtqZXdDQXA5T0tDYnRjWmNMd1dZWlY5VVJuWEJ0a0E2TW1ieFlyUUE0TGt0TDBURW1UQ1FwTEhzRVFmcXJIUzdkUQ?oc=5",
-      "published": "2026-06-03T02:17:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -834,13 +834,13 @@
       }
     },
     {
-      "id": "d021f55721db",
-      "title": "Innovative Medikamente: Bundesamt für Gesundheit in der Kritik - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ21uTXFkSVh6aGNJQU5kTWMtalV2cklqeWE1Ul9LSGlnTTNtMm9YcHotS3JVLUdnejIxQmozTEM0dzR0Z1lFMjBxT29iU1phLWhKRW5rQ2I4YXAyVXo1WHdaNXdXTDlRZmRNRzN0RWE4RTRiZWlVazZyb2p2R1ZMY0xtYXJoSmtYSURpY3d6RHYyQXUyeFJrS2dTNUxTUE9sWnNJY2UtLUF3V2haTm9qVGNTRGpPY2VHcHhiVi1kdHpXaFEyX2pSRnhua29OZVhPRU5IQ1IxR25vWTJZUjZFRlhSc2dPQ3Q4Z3UtTlVOX0FQZms?oc=5",
-      "published": "2024-08-30T07:00:00+00:00",
+      "id": "3cd432f850c4",
+      "title": "Nahrungsergänzung: Jeder zweite Bürger hält sie fälschlicherweise für Medikamente - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDZJU3JqTmJpYlRlOUY5UnVELUZDYl9wemVmQWNQeVotbkFMTzZIQmlVZDJFZjVSWm1ZYWE5MmlBNmx1S0lCZDRLaUtZYWhRY3BfZndiRGk5SkEtclZSNDZCRDNRM0N4T2F1Y0JnMlJuNS1NZE9fNDYwamZzeW9Lb0NyYTcxQlVjZF82Z0cxY0x0Z1BUdHVlRjhMbVZZMmRPZUtWTURIeWtHQzhKc1NmT2FkY2cyRDFqLWxGMDNKRQ?oc=5",
+      "published": "2026-06-04T19:21:39+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -854,10 +854,20 @@
       }
     },
     {
-      "id": "3cd432f850c4",
-      "title": "Nahrungsergänzung: Jeder zweite Bürger hält sie fälschlicherweise für Medikamente - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDZJU3JqTmJpYlRlOUY5UnVELUZDYl9wemVmQWNQeVotbkFMTzZIQmlVZDJFZjVSWm1ZYWE5MmlBNmx1S0lCZDRLaUtZYWhRY3BfZndiRGk5SkEtclZSNDZCRDNRM0N4T2F1Y0JnMlJuNS1NZE9fNDYwamZzeW9Lb0NyYTcxQlVjZF82Z0cxY0x0Z1BUdHVlRjhMbVZZMmRPZUtWTURIeWtHQzhKc1NmT2FkY2cyRDFqLWxGMDNKRQ?oc=5",
-      "published": "2026-06-04T19:21:39+00:00",
+      "id": "d021f55721db",
+      "title": "Innovative Medikamente: Bundesamt für Gesundheit in der Kritik - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ21uTXFkSVh6aGNJQU5kTWMtalV2cklqeWE1Ul9LSGlnTTNtMm9YcHotS3JVLUdnejIxQmozTEM0dzR0Z1lFMjBxT29iU1phLWhKRW5rQ2I4YXAyVXo1WHdaNXdXTDlRZmRNRzN0RWE4RTRiZWlVazZyb2p2R1ZMY0xtYXJoSmtYSURpY3d6RHYyQXUyeFJrS2dTNUxTUE9sWnNJY2UtLUF3V2haTm9qVGNTRGpPY2VHcHhiVi1kdHpXaFEyX2pSRnhua29OZVhPRU5IQ1IxR25vWTJZUjZFRlhSc2dPQ3Q4Z3UtTlVOX0FQZms?oc=5",
+      "published": "2024-08-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "0d7a9751f437",
+      "title": "GKV-Spitzenverband warnt vor Schonprogramm für Pharmaindustrie - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTB6Y0YyQXBlaWNoS2xzaUF6eFRuWXNHdW9qZGdWd0tJYU9tV05ua2xRY2MzdTM2VkRmNHZJbHUyN3c0a0o5ZEpoSGhwRkdVcHRxMGhBY0ZpSmlQUTMyX2ozMzlMcnpFY3lKdnF3UThWWUNtVV9oZFJsZXZuUVhNb0dxbVVuMFZmYS1DV3dLTGVJUndOSkRmNlRXOEJsNmc?oc=5",
+      "published": "2026-06-04T04:53:44+00:00",
       "source": {
         "name": "AD HOC NEWS",
         "url": "https://www.ad-hoc-news.de"
@@ -871,16 +881,6 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "0d7a9751f437",
-      "title": "GKV-Spitzenverband warnt vor Schonprogramm für Pharmaindustrie - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTB6Y0YyQXBlaWNoS2xzaUF6eFRuWXNHdW9qZGdWd0tJYU9tV05ua2xRY2MzdTM2VkRmNHZJbHUyN3c0a0o5ZEpoSGhwRkdVcHRxMGhBY0ZpSmlQUTMyX2ozMzlMcnpFY3lKdnF3UThWWUNtVV9oZFJsZXZuUVhNb0dxbVVuMFZmYS1DV3dLTGVJUndOSkRmNlRXOEJsNmc?oc=5",
-      "published": "2026-06-04T04:53:44+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
