@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T20:09:01.191933+00:00",
+  "fetched_at": "2026-06-08T22:23:06.885504+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,12 +24,12 @@
       }
     },
     {
-      "id": "8d1fc40266cd",
-      "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
+      "id": "92f3ae2b28a0",
+      "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - bag.admin.ch",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMEFNZWpPYzRReWJNTkhGRk11RnNpblJQVjNEdE1ISllXWlNUWk4yZFpWclRTOUl0M3ZJTXhSNmpMdEtuVkVWVnV3aEJXdWxld0l3dUVkdGszYnVuNEFxbldsSXNJamc?oc=5",
       "published": "2026-01-30T08:00:00+00:00",
       "source": {
-        "name": "Bundesamt für Gesundheit BAG",
+        "name": "bag.admin.ch",
         "url": "https://www.bag.admin.ch"
       }
     },
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "2de8fdf554d2",
-      "title": "Praxen, Kliniken, Arzneimittel: Ärzte warnen vor „Rasenmäher“ im Gesundheitssystem - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaTZheDB3U21uVWJSY3ZES25Pb1pRR1RvdXgzdVJha0F0TWhDeGcwenVFWHRKV0dGYmp0RzlsX1F0UG1uSUw3VDZqTkNiZkxURUxWSjA3b1ZqdWs1c1FrVkZUYjhlQ3dzNVpJWnI1RHVfbVFTMGVjcVZvN1ExX3cyNTVGaFByS2l1OEZQUHZZLUlZM095U2t5X3lEdUJIWnJTaXQ5ZTZ2ZkMwRDh0bFVuRWYtM3VkVFZ1ZWw5OXcyS0xMQlMzMG9VMTFHTGxNX0xVSDRCeFZZNHZpa0xqaWdpV3k2LXdVV0h2am5aanVMZ25NN1k0?oc=5",
-      "published": "2026-06-05T10:50:55+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "e55e30521cda",
       "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "Taylor Wessing",
         "url": "https://www.taylorwessing.com"
+      }
+    },
+    {
+      "id": "2de8fdf554d2",
+      "title": "Praxen, Kliniken, Arzneimittel: Ärzte warnen vor „Rasenmäher“ im Gesundheitssystem - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaTZheDB3U21uVWJSY3ZES25Pb1pRR1RvdXgzdVJha0F0TWhDeGcwenVFWHRKV0dGYmp0RzlsX1F0UG1uSUw3VDZqTkNiZkxURUxWSjA3b1ZqdWs1c1FrVkZUYjhlQ3dzNVpJWnI1RHVfbVFTMGVjcVZvN1ExX3cyNTVGaFByS2l1OEZQUHZZLUlZM095U2t5X3lEdUJIWnJTaXQ5ZTZ2ZkMwRDh0bFVuRWYtM3VkVFZ1ZWw5OXcyS0xMQlMzMG9VMTFHTGxNX0xVSDRCeFZZNHZpa0xqaWdpV3k2LXdVV0h2am5aanVMZ25NN1k0?oc=5",
+      "published": "2026-06-05T10:50:55+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -174,12 +174,12 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "id": "33612beccf51",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "DW",
         "url": "https://www.dw.com"
       }
     },
@@ -231,16 +231,6 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "3751bff44cc1",
-      "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -334,13 +324,13 @@
       }
     },
     {
-      "id": "de134094e890",
-      "title": "Stabilisierte Versorgung mit Arzneimitteln - Blick",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFBkRFpqc2lIMmZvcjF1bnBjYURVNGxRSXl2TVpsdUpFVENkRV9OR2J1ZllJVDhlc1dJS0E0Z3g3RjNKQ1ZwanlqNUwwMzdXSXhsQUgtNDlFN25odE43UWRVN2xsVXNhNHNCNDVlRjF6UGNrNE9laUIzbG9rSUJNNFkwM1NYRTZPc1g5SllGYlpidmNRQkF0SC1KYVdSZVNUTVo5THMzZEpDU0VNeTR6VXAzZ1c3YnptNTBxU1Nn?oc=5",
-      "published": "2026-02-24T08:00:00+00:00",
+      "id": "3751bff44cc1",
+      "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
+      "published": "2026-02-19T08:00:00+00:00",
       "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -391,6 +381,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "de134094e890",
+      "title": "Stabilisierte Versorgung mit Arzneimitteln - Blick",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFBkRFpqc2lIMmZvcjF1bnBjYURVNGxRSXl2TVpsdUpFVENkRV9OR2J1ZllJVDhlc1dJS0E0Z3g3RjNKQ1ZwanlqNUwwMzdXSXhsQUgtNDlFN25odE43UWRVN2xsVXNhNHNCNDVlRjF6UGNrNE9laUIzbG9rSUJNNFkwM1NYRTZPc1g5SllGYlpidmNRQkF0SC1KYVdSZVNUTVo5THMzZEpDU0VNeTR6VXAzZ1c3YnptNTBxU1Nn?oc=5",
+      "published": "2026-02-24T08:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -484,16 +484,6 @@
       }
     },
     {
-      "id": "5944c4a17768",
-      "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, zwei enttäuschen allerdings - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaENtWUU3TlNqcEptRmNvQnRwYUE4U0kwWnlxTU9kVDFQaUxENHpIQUhoRjY4U1h6T19MU0J2LVpWeEc5bGs3ZGYwM2xwb3dGOGVtTk1aWDlCemtFZTR0Q2hVaDNZc2tJX2Joekh5TUNuUEdzckYxNU5EMUg2dUZlMTFCV09GWXlhU1J0R2w3SU40dGZab1dadEJuWURNSHN1N05KekQtYnRzaU1pVmZvdTRZWlFhcnNjVWVKZ2tJdHQxT1hsZnc1RkZIazJ1Z0RCNktDMl9ReEJyWmt2T3B5cUg1ZmNNWUpURXIzeHhlbW1jNjdEMjduaEkwN2VjM3lzTThVZlVxelFrQ1M1?oc=5",
-      "published": "2026-06-05T11:00:00+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
-      }
-    },
-    {
       "id": "566dd4d9d4e6",
       "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
@@ -501,6 +491,16 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "5944c4a17768",
+      "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, zwei enttäuschen allerdings - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaENtWUU3TlNqcEptRmNvQnRwYUE4U0kwWnlxTU9kVDFQaUxENHpIQUhoRjY4U1h6T19MU0J2LVpWeEc5bGs3ZGYwM2xwb3dGOGVtTk1aWDlCemtFZTR0Q2hVaDNZc2tJX2Joekh5TUNuUEdzckYxNU5EMUg2dUZlMTFCV09GWXlhU1J0R2w3SU40dGZab1dadEJuWURNSHN1N05KekQtYnRzaU1pVmZvdTRZWlFhcnNjVWVKZ2tJdHQxT1hsZnc1RkZIazJ1Z0RCNktDMl9ReEJyWmt2T3B5cUg1ZmNNWUpURXIzeHhlbW1jNjdEMjduaEkwN2VjM3lzTThVZlVxelFrQ1M1?oc=5",
+      "published": "2026-06-05T11:00:00+00:00",
+      "source": {
+        "name": "CHIP",
+        "url": "https://www.chip.de"
       }
     },
     {
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "56ead2a92356",
-      "title": "Reimann: Nötigung durch die Pharma-Industrie vor der ersten Lesung des GKV-Spargesetzes ist inakzeptabel - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVHRhekg0STVMdllQRTlrOTgybmR5dWQ1Q3F1S3RvcEtZMGc5WUVKM2RYR0V2MWl5OVFtbVBTa2xDXzk1V01iOXJFRGxzOFgzckE4LW13?oc=5",
-      "published": "2026-06-05T12:49:28+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "eb232e3bb3c6",
       "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlo3TGZhRDI5UkJJZ3dmZWxEV0RQZm0xTXZWNzY0d0pRZkJCTTduUEg2U3JueV9jT3ViUXZuYTcxVkJZa1NBZkY1WFV2Ui1zZm9NQU81N0JIS1MwbmFJODlFVTVDbEFUNEExLTN0TzhZT25UVk1Rd0NVdmprM0hfVm1GZVhrSjZDYzYzc1dlTEltbWFCTnpXZGlETXdmcXlwbHRaaVllTEEwUF9XYVE?oc=5",
@@ -551,6 +541,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "56ead2a92356",
+      "title": "Reimann: Nötigung durch die Pharma-Industrie vor der ersten Lesung des GKV-Spargesetzes ist inakzeptabel - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVHRhekg0STVMdllQRTlrOTgybmR5dWQ1Q3F1S3RvcEtZMGc5WUVKM2RYR0V2MWl5OVFtbVBTa2xDXzk1V01iOXJFRGxzOFgzckE4LW13?oc=5",
+      "published": "2026-06-05T12:49:28+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "5c814b1f5831",
-      "title": "Studie zeigt Zusammenhang zwischen Abnehmspritze und Brustkrebs - FITBOOK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN25tMlg3eG5WNVgtOEVKa1R5Z2RHYTdhclN5UmJIRDVnR3JYM2FhQmpkT2dwajQ4dlQ3LTRiWEFPSjFERXpfQ05rd0pJX3BibkZncmREMG90N19QNURBZzZlTlVSakp0NFlXUk1BSUkxRUJSVEQ5QUFtOFl6T2doMUtzTGRzTkk?oc=5",
-      "published": "2026-06-04T13:16:00+00:00",
-      "source": {
-        "name": "FITBOOK",
-        "url": "https://www.fitbook.de"
-      }
-    },
-    {
       "id": "0791514ec89d",
       "title": "Steigende Arzneimittelkosten: Gesundheitsministerin Warken will Zugang zu neuen Medikamenten für alle erhalten - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenF3ckVCSXl3ZmNka21FSTVtdkdoeGRZaEQ4Nnc4ZktKZk16U0ZUd19vYWRsZDdQUDZZLVFCd2k2anZScnRpSnJtXzRCbEozRm9fMEpkcVhjZ3dwT21zQVZPX2MybWdSUHBNeTZ3TmtESDFOWFNfM0lPV1Z4M3BmUTNkLTRfVGgxRUh4OWNOblh5ZGdCaUs5WXZmR2VVaVV5d1VHR1BHUFhubGtCWlFyZWk3VnhWZjdpWE9jNE5B?oc=5",
@@ -671,6 +661,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "5c814b1f5831",
+      "title": "Studie zeigt Zusammenhang zwischen Abnehmspritze und Brustkrebs - FITBOOK",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN25tMlg3eG5WNVgtOEVKa1R5Z2RHYTdhclN5UmJIRDVnR3JYM2FhQmpkT2dwajQ4dlQ3LTRiWEFPSjFERXpfQ05rd0pJX3BibkZncmREMG90N19QNURBZzZlTlVSakp0NFlXUk1BSUkxRUJSVEQ5QUFtOFl6T2doMUtzTGRzTkk?oc=5",
+      "published": "2026-06-04T13:16:00+00:00",
+      "source": {
+        "name": "FITBOOK",
+        "url": "https://www.fitbook.de"
       }
     },
     {
@@ -744,12 +744,12 @@
       }
     },
     {
-      "id": "0dba016a69d0",
-      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW.com",
+      "id": "c764291ed284",
+      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzZjM0cwcm1ldnUzc0xrOER4cEk0a05ucnhNX1llWk1YeU9zVnlTeTVFM1lWWmhBR1RrZEJCODVQdlIwNWw3Zmg2N004NVpqa29HT2FBZ1BfUWN5T2hGQlkxc2ZvQWdWVThrdk9sUk80UWc5MXlzaGQ1NXZTYUxtUUNoWmVzR2F5YjRDejhGbU5ZeDBHOGstVGNXLUVEVm9LejJ1RmpUd0Q3T25xb3pxM3hzQVYwaDljcWNycHBPNjZyS3daSVJOU3U1ZU5tWWFMbnfSAdIBQVVfeXFMUDFiX1VoOC1ZdmxVR3o2Q3VRMTNhUUNEaVRHdFZneDJrblJSckE1Zk9icjFaWXZTMGlJMFhHTC13bjIwMjhwWS1mZTRrdU1WcXFyS1ZEQndLRXFtRUZELUJQeFlMRHZ0aUFYbFNjd3NYOUFUZmxHZ0hZMEFNc2xXTVlPN1NVc3RYY3dxd2F6V20xMGdMa215eG9majhKX25kbjRaSXdOR1NoT1JFQnBXM1VmaGdjMWt0Z2IxNDBvOTRiSUlBM250LWJtTTBOZjdJeGtB?oc=5",
       "published": "2025-08-04T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "DW",
         "url": "https://www.dw.com"
       }
     },
@@ -794,23 +794,13 @@
       }
     },
     {
-      "id": "692ed6663b43",
-      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW.com",
+      "id": "84e2adbcfefb",
+      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU1xaGhwXzk2bTZMYV9pdEdESnBqWVZvSnAwXzllTkVsdXYyZTlYSzdEYjktY2FySDA2THNEWUlQend3WWp5cG9uZFo1aTJMcFFINW1ZWEg3NlVDQ2UzdkRmZldhV1JRemg4U3poczloOF9QOEhha1prQnlGZ0U5T0laMXN2ZVBY0gGIAUFVX3lxTE01Wk9oR0RESDZiM1BvOU5qZmtUYk1aNUFxWlpzU3EteXRvRDQ1anBlcG52RXJ5QWdEWjB2SHJCblZSaktVZktvRTBkYUxtYzNfQVE4YXRHajc1Nk9UQllNTkt0Vi1wVjdQTTAzSElvTDRMWXZ5TEpkLUZxRTI2QUZkMVdyRGM4YUg?oc=5",
       "published": "2025-09-14T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "DW",
         "url": "https://www.dw.com"
-      }
-    },
-    {
-      "id": "39655c0e5aa9",
-      "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
-      "published": "2026-01-15T08:00:00+00:00",
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de"
       }
     },
     {
@@ -821,6 +811,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "39655c0e5aa9",
+      "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
+      "published": "2026-01-15T08:00:00+00:00",
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
       }
     },
     {
