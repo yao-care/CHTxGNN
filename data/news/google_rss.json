@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-06-08T03:35:23.606265+00:00",
+  "fetched_at": "2026-06-08T08:49:59.829645+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "28c9aa35f9ac",
+      "title": "Abnehmspritzen: Was die Abnehmspritzen wirklich können - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0NtU2VSYW0wNTVOeFY2LUoxSFphRVFjTkM4VEhTckJiR0JIdG5tRUJHWHhmdlVWNWY0RFRHV0xEQkNIX0xzc0NwajBJRUhra3NGLVU3X0R0RXAyYVM5ZzM1TUtMRS1LSWZISFdyQmRBaDc0bFYtbkJjVkVCay1yZ1NVYUpLTnFqMFdZMFZMS3RCWDNaQXQ3SkdrRWdqTWtxSThlSVpaemhoY3JxQkpN?oc=5",
+      "published": "2026-06-08T08:15:20+00:00",
+      "source": {
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
+      }
+    },
     {
       "id": "3ef1faabcc13",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
@@ -84,16 +94,6 @@
       }
     },
     {
-      "id": "ce41db5cde3e",
-      "title": "Das Gesundheitsministerium verschärft die Kontrollen über besonders kontrollierte Arzneimittel und fördert die Digitalisierung des gesamten Prozesses. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFTM01kOERrZHY4RzBGTTJPRXZVOHdXNVd3alR5d0dtdFE0YnEtaVFKVFdhWjZqNDExWEp6bER6Y0ZSS2RtajZlUWxzWlZ5REZ6R19uU0Z0UTF6cjBTQVRUbDA4NFBuWURoVXpYM3lVdkhjOUtpYVV0UjZ6TzBtQ3dYdEFGQ0x6MkF1LUNRWG13M2dRLVBoamdpalcwVjhmZjNGSGJvTlk?oc=5",
-      "published": "2026-06-04T00:52:31+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -104,6 +104,16 @@
       }
     },
     {
+      "id": "ce41db5cde3e",
+      "title": "Das Gesundheitsministerium verschärft die Kontrollen über besonders kontrollierte Arzneimittel und fördert die Digitalisierung des gesamten Prozesses. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFTM01kOERrZHY4RzBGTTJPRXZVOHdXNVd3alR5d0dtdFE0YnEtaVFKVFdhWjZqNDExWEp6bER6Y0ZSS2RtajZlUWxzWlZ5REZ6R19uU0Z0UTF6cjBTQVRUbDA4NFBuWURoVXpYM3lVdkhjOUtpYVV0UjZ6TzBtQ3dYdEFGQ0x6MkF1LUNRWG13M2dRLVBoamdpalcwVjhmZjNGSGJvTlk?oc=5",
+      "published": "2026-06-04T00:52:31+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "38b8b0aa9188",
       "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
@@ -111,26 +121,6 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "829639537db1",
-      "title": "Studie: PFAS bei vielen Medikamenten verzichtbar - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXR2b0g0aUQyTEM1RHV3aWcwbWgzeXgwZ0NjRHEwZUZtSVp2djRlQjAyV21vQWRSTldVOFZkT0ZoejZlRlpCc3h4VlVDaldIOW1KZHB4RUVnTDh4V3RMTmx5aDV1QWFKdWxhRzk4S1hRUERxdFpoZUdPNHdpR29yOGFrd0lmUUR0VmxPa0lGX2w?oc=5",
-      "published": "2026-06-04T14:20:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "b75dab613f5c",
-      "title": "Ebola-Ausbruch: Wann kommen Impfstoffe und Medikamente? - RND.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEoxNGZ0d2xCeV9mR3M1SWJzOTdDZDVlRVUwY2FhcnEyc1Q2MDJyQV95QU1DRkRldVNYYWtYdlU5T0ctd0NtZEFreTZHcHY4TDkxdEJjdDNzVlA2Nnl4VWFQczVna0xaZTR3aFhsV0JJWnBiNWs5QXRLZE9MMV9nZ2tDaVF1NHVxOW41LU1UZnVodTFsU25iUGd3X0llSGdDeTVtcmdRNnpkbUJsQ0tpZkF2UTRxcnRIX2xxWnpzSjlYTkZ6M1F3?oc=5",
-      "published": "2026-06-03T16:19:36+00:00",
-      "source": {
-        "name": "RND.de",
-        "url": "https://www.rnd.de"
       }
     },
     {
@@ -154,6 +144,16 @@
       }
     },
     {
+      "id": "b75dab613f5c",
+      "title": "Ebola-Ausbruch: Wann kommen Impfstoffe und Medikamente? - RND.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEoxNGZ0d2xCeV9mR3M1SWJzOTdDZDVlRVUwY2FhcnEyc1Q2MDJyQV95QU1DRkRldVNYYWtYdlU5T0ctd0NtZEFreTZHcHY4TDkxdEJjdDNzVlA2Nnl4VWFQczVna0xaZTR3aFhsV0JJWnBiNWs5QXRLZE9MMV9nZ2tDaVF1NHVxOW41LU1UZnVodTFsU25iUGd3X0llSGdDeTVtcmdRNnpkbUJsQ0tpZkF2UTRxcnRIX2xxWnpzSjlYTkZ6M1F3?oc=5",
+      "published": "2026-06-03T16:19:36+00:00",
+      "source": {
+        "name": "RND.de",
+        "url": "https://www.rnd.de"
+      }
+    },
+    {
       "id": "e55e30521cda",
       "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
@@ -174,23 +174,23 @@
       }
     },
     {
-      "id": "ae3d250cee54",
-      "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
-      "published": "2026-05-17T07:00:00+00:00",
+      "id": "491353a8a494",
+      "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORENTMTRnWUd3bk1FdGtsdnpuWW1LWnQ0LVJXUmI2R2RMLTdCQUdFaGNVRFloTVR6aHl1TExaZHVhcnZzbGJ6aG9jWlpuSXpQdmgzNnhHeEtPUTRuQzdhRlR1dlJUYjBSXzdOSS03NXA0MUtGS3dNcHNiQ3pVckNaWHJQZ0I1YjdpbC1aTy1HdWV5Y0dJdG1ONl95RllIaUM3NWZBejRMc000SnczM0wwS3ZBaUNVOU5HRVhZTHlGajFjRmNRRjJFcw?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
       "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "33612beccf51",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
+      "id": "a90452b79917",
+      "title": "Medizinische Nachrichten vom 5. Juni: Vorschlag zur Erhöhung des Erstattungssatzes für traditionelle Medizin durch die Krankenkassen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjVtTnRtdnpvNWV1cC1xdzdOaUtzQ0V2Y0dsY0xSUFFTbTNtakJHcmFNcjQyUWJyMFlfZU1KYmpjbzRWVU5ER2hmbWpLVVJieW5zR1NMN24tdlZMWU5CQXY2cjJyV1J2amlPQlVJY2ZIcHlLZTlOOE15aXJJMXUzQURwZ3N6VmFvMlAzMHhhNE5pMExUbUs0V3VWUWU4N0d5NEhzU3dxT21xdjhHVWNxcDdhN3dkcVlX?oc=5",
+      "published": "2026-06-06T07:33:43+00:00",
       "source": {
-        "name": "DW",
-        "url": "https://www.dw.com"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -201,6 +201,26 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "ae3d250cee54",
+      "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
+      "published": "2026-05-17T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "source": {
+        "name": "DW.com",
+        "url": "https://www.dw.com"
       }
     },
     {
@@ -231,26 +251,6 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "1fe059859008",
-      "title": "Minister Dao Hong Lan beantwortet auf dem 14. Kongress des vietnamesischen Gewerkschaftsbundes eine Reihe von Petitionen zu den Themen Gesundheit, Lebensmittelsicherheit und gefälschte Medikamente. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEJaNDVrTndSNEFEdGgzeWxwaTFmOEdncHZGcUh5R0Z2aGZ1VF9Id3k0b1JoNi1ndnBTZWdZbVJ3ZTEyX2Q2c0pheERORTQ5UndWTXRMTXJEMVkzRWhybWNHWFJyeEYteHZpbFFfTUpLQUtYa3JUMFhsaER4azdvdW8tbzR5RUJQZ2VFcXFJT3ZrcHBTWmFLOUJCWHEtLWNFbVRrODN0aERmcEF2clpONHlxYnNsSmJwRHR4cE5uUmJCOUdSLUE?oc=5",
-      "published": "2026-06-05T03:30:42+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "3751bff44cc1",
-      "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "a90452b79917",
-      "title": "Medizinische Nachrichten vom 5. Juni: Vorschlag zur Erhöhung des Erstattungssatzes für traditionelle Medizin durch die Krankenkassen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjVtTnRtdnpvNWV1cC1xdzdOaUtzQ0V2Y0dsY0xSUFFTbTNtakJHcmFNcjQyUWJyMFlfZU1KYmpjbzRWVU5ER2hmbWpLVVJieW5zR1NMN24tdlZMWU5CQXY2cjJyV1J2amlPQlVJY2ZIcHlLZTlOOE15aXJJMXUzQURwZ3N6VmFvMlAzMHhhNE5pMExUbUs0V3VWUWU4N0d5NEhzU3dxT21xdjhHVWNxcDdhN3dkcVlX?oc=5",
-      "published": "2026-06-06T07:33:43+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "4254b7710513",
       "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
@@ -351,6 +341,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "3751bff44cc1",
+      "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
+      "published": "2026-02-19T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -474,16 +474,6 @@
       }
     },
     {
-      "id": "5944c4a17768",
-      "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, zwei enttäuschen allerdings - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaENtWUU3TlNqcEptRmNvQnRwYUE4U0kwWnlxTU9kVDFQaUxENHpIQUhoRjY4U1h6T19MU0J2LVpWeEc5bGs3ZGYwM2xwb3dGOGVtTk1aWDlCemtFZTR0Q2hVaDNZc2tJX2Joekh5TUNuUEdzckYxNU5EMUg2dUZlMTFCV09GWXlhU1J0R2w3SU40dGZab1dadEJuWURNSHN1N05KekQtYnRzaU1pVmZvdTRZWlFhcnNjVWVKZ2tJdHQxT1hsZnc1RkZIazJ1Z0RCNktDMl9ReEJyWmt2T3B5cUg1ZmNNWUpURXIzeHhlbW1jNjdEMjduaEkwN2VjM3lzTThVZlVxelFrQ1M1?oc=5",
-      "published": "2026-06-05T11:00:00+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
-      }
-    },
-    {
       "id": "589684016df5",
       "title": "BStabG: Eingriffe bei Arzneimittelpreisen gefährden Versorgung - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUNoTTU4eDVHeGxhbnMxaEROTFJyVEt6bXZSVHQ4TndNMXNfRDJ6aWF4cU9PQTlJc09uZEVUV2NMal82emdObUhlTkU5X3dNWHlFWDFiWWc0WVJyUDJYUFNndVhsUFI1WW8yelkxTnpGdk50TmFPTnFWNmxJcE1tZ1IxRnpqVU5EeWdqb0pwMmg2M0FFQi1UZDh6aGdHaXhCeHhjbWNEeXMzS19S?oc=5",
@@ -521,6 +511,16 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
+      }
+    },
+    {
+      "id": "5944c4a17768",
+      "title": "Online-Apotheken bei Stiftung Warentest: Doc Morris ist Testsieger, zwei enttäuschen allerdings - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaENtWUU3TlNqcEptRmNvQnRwYUE4U0kwWnlxTU9kVDFQaUxENHpIQUhoRjY4U1h6T19MU0J2LVpWeEc5bGs3ZGYwM2xwb3dGOGVtTk1aWDlCemtFZTR0Q2hVaDNZc2tJX2Joekh5TUNuUEdzckYxNU5EMUg2dUZlMTFCV09GWXlhU1J0R2w3SU40dGZab1dadEJuWURNSHN1N05KekQtYnRzaU1pVmZvdTRZWlFhcnNjVWVKZ2tJdHQxT1hsZnc1RkZIazJ1Z0RCNktDMl9ReEJyWmt2T3B5cUg1ZmNNWUpURXIzeHhlbW1jNjdEMjduaEkwN2VjM3lzTThVZlVxelFrQ1M1?oc=5",
+      "published": "2026-06-05T11:00:00+00:00",
+      "source": {
+        "name": "CHIP",
+        "url": "https://www.chip.de"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "5c814b1f5831",
-      "title": "Studie zeigt Zusammenhang zwischen Abnehmspritze und Brustkrebs - FITBOOK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN25tMlg3eG5WNVgtOEVKa1R5Z2RHYTdhclN5UmJIRDVnR3JYM2FhQmpkT2dwajQ4dlQ3LTRiWEFPSjFERXpfQ05rd0pJX3BibkZncmREMG90N19QNURBZzZlTlVSakp0NFlXUk1BSUkxRUJSVEQ5QUFtOFl6T2doMUtzTGRzTkk?oc=5",
-      "published": "2026-06-04T13:16:00+00:00",
-      "source": {
-        "name": "FITBOOK",
-        "url": "https://www.fitbook.de"
-      }
-    },
-    {
       "id": "445f92c7e54b",
       "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
@@ -641,6 +631,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "5c814b1f5831",
+      "title": "Studie zeigt Zusammenhang zwischen Abnehmspritze und Brustkrebs - FITBOOK",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN25tMlg3eG5WNVgtOEVKa1R5Z2RHYTdhclN5UmJIRDVnR3JYM2FhQmpkT2dwajQ4dlQ3LTRiWEFPSjFERXpfQ05rd0pJX3BibkZncmREMG90N19QNURBZzZlTlVSakp0NFlXUk1BSUkxRUJSVEQ5QUFtOFl6T2doMUtzTGRzTkk?oc=5",
+      "published": "2026-06-04T13:16:00+00:00",
+      "source": {
+        "name": "FITBOOK",
+        "url": "https://www.fitbook.de"
       }
     },
     {
@@ -764,12 +764,12 @@
       }
     },
     {
-      "id": "c764291ed284",
-      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW",
+      "id": "0dba016a69d0",
+      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzZjM0cwcm1ldnUzc0xrOER4cEk0a05ucnhNX1llWk1YeU9zVnlTeTVFM1lWWmhBR1RrZEJCODVQdlIwNWw3Zmg2N004NVpqa29HT2FBZ1BfUWN5T2hGQlkxc2ZvQWdWVThrdk9sUk80UWc5MXlzaGQ1NXZTYUxtUUNoWmVzR2F5YjRDejhGbU5ZeDBHOGstVGNXLUVEVm9LejJ1RmpUd0Q3T25xb3pxM3hzQVYwaDljcWNycHBPNjZyS3daSVJOU3U1ZU5tWWFMbnfSAdIBQVVfeXFMUDFiX1VoOC1ZdmxVR3o2Q3VRMTNhUUNEaVRHdFZneDJrblJSckE1Zk9icjFaWXZTMGlJMFhHTC13bjIwMjhwWS1mZTRrdU1WcXFyS1ZEQndLRXFtRUZELUJQeFlMRHZ0aUFYbFNjd3NYOUFUZmxHZ0hZMEFNc2xXTVlPN1NVc3RYY3dxd2F6V20xMGdMa215eG9majhKX25kbjRaSXdOR1NoT1JFQnBXM1VmaGdjMWt0Z2IxNDBvOTRiSUlBM250LWJtTTBOZjdJeGtB?oc=5",
       "published": "2025-08-04T07:00:00+00:00",
       "source": {
-        "name": "DW",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -814,12 +814,12 @@
       }
     },
     {
-      "id": "84e2adbcfefb",
-      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW",
+      "id": "692ed6663b43",
+      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU1xaGhwXzk2bTZMYV9pdEdESnBqWVZvSnAwXzllTkVsdXYyZTlYSzdEYjktY2FySDA2THNEWUlQend3WWp5cG9uZFo1aTJMcFFINW1ZWEg3NlVDQ2UzdkRmZldhV1JRemg4U3poczloOF9QOEhha1prQnlGZ0U5T0laMXN2ZVBY0gGIAUFVX3lxTE01Wk9oR0RESDZiM1BvOU5qZmtUYk1aNUFxWlpzU3EteXRvRDQ1anBlcG52RXJ5QWdEWjB2SHJCblZSaktVZktvRTBkYUxtYzNfQVE4YXRHajc1Nk9UQllNTkt0Vi1wVjdQTTAzSElvTDRMWXZ5TEpkLUZxRTI2QUZkMVdyRGM4YUg?oc=5",
       "published": "2025-09-14T07:00:00+00:00",
       "source": {
-        "name": "DW",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "5d7ee06b5e27",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Mitteldeutsche Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFdHTUVOUjN0S0JqeVFISGRPaHpoWUFhM0FBYkFmTnVlOFJqQ2liWHhCUjUwcHM2c1JwZlNKY2UxNzlYaE1PUEk4NEtZWEs0d1pNN2YxdGxhd2dGajFJcFBFX3AyX1JVcVg4YnJGazRFM1ItSUFFYzVOMzdXZEFIODhLa0luT25SMzJ4OC1vaXRHYjM3MHVLMHI3TnVJLVRjdWdMUWE1bHVYVmxzeEI0cQ?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "Mitteldeutsche Zeitung",
-        "url": "https://www.mz.de"
-      }
-    },
-    {
       "id": "f7d7c9b1159f",
       "title": "Tablette oder Kapsel: Warum es viele Formen gibt und wie Medikamente leichter einzunehmen sind - ZDFheute",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEVGcUpndVJUdk5BZzN2alFpQXUzNkpIbThMS0RvSlBTMXRGT3Q3eXdsLWg5OFNGYk1NcXpHMVIzVWliMDhPblhVMlhKSUl6SW93RjJPTldzOUFiZFh2OVAzUU1sTHhIV0UtZjBTVmpDRHNKN09QcmQ5V3FLbHppb0E0ZzdzaGJWT0dB?oc=5",
@@ -881,6 +871,16 @@
       "source": {
         "name": "ZDFheute",
         "url": "https://www.zdfheute.de"
+      }
+    },
+    {
+      "id": "5d7ee06b5e27",
+      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Mitteldeutsche Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFdHTUVOUjN0S0JqeVFISGRPaHpoWUFhM0FBYkFmTnVlOFJqQ2liWHhCUjUwcHM2c1JwZlNKY2UxNzlYaE1PUEk4NEtZWEs0d1pNN2YxdGxhd2dGajFJcFBFX3AyX1JVcVg4YnJGazRFM1ItSUFFYzVOMzdXZEFIODhLa0luT25SMzJ4OC1vaXRHYjM3MHVLMHI3TnVJLVRjdWdMUWE1bHVYVmxzeEI0cQ?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "source": {
+        "name": "Mitteldeutsche Zeitung",
+        "url": "https://www.mz.de"
       }
     },
     {
