@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T21:28:33.579721+00:00",
+  "fetched_at": "2026-06-12T23:13:57.143586+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -57,7 +57,7 @@
       "id": "2568d666e0b6",
       "title": "Prostatakrebs: „Wir glauben, dass solche Therapien langfristig zu Heilungen führen können“ - WELT",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRF9BN2xJc21BTDVFU2Z4bzFWSWFpSUlXMVVtRFRCME5mYnV5N1lPckdQcDN2eW9LTXI2WUtGUmF3Q0Nyb2xoSXhvaUtmNmVZWG96R25FTTZ5Z0tuU2lVVzhxY3hDOU1wX0p1djNCekRnV0FCVmxLbTJMUEd1RF9VVzlnSVA2cnA0X01NaXh1UkN5MUU0TDNTWXMydXRVeFRwaU1ld09uT2QwM1k2N3paejl6RWVYNV9CdV9KVXJoRDBBSVlzWW0zRFpDa0ZhdktUZnZIWnVsMFdMWkpDS0FDMHhZMUQxYnRZdmNZXw?oc=5",
-      "published": "2026-06-12T19:30:03+00:00",
+      "published": "2026-06-12T21:37:56+00:00",
       "source": {
         "name": "WELT",
         "url": "https://www.welt.de"
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "77affb477e9d",
-      "title": "Medikamente ohne Rezept: Was sich jetzt in Apotheken für alle Kundinnen und Kunden ändert - Express",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXo1WGNxc05TbGJrNEZIMFg0a0ZQaER5UHhLbnBBMnhoR2FTbldSWEVCaWxDSlFvMXVtUG42VGZ3azdSOFUzcDA3Wk1EcWtiYXd1NUx4Ykh3SmtxaHo2UEJsOFVrdFkyYnJoclM0NlpXSkl3NzJqX1d2d0dwQkJ6LTdrVi1pV2xscTBIN2dfckpyU3haWG56UlRPN05ybUFOMTZvUVZMOU0zdmNXX3VGTWkwU3luMWNFZHdwOQ?oc=5",
-      "published": "2026-06-12T10:09:15+00:00",
-      "source": {
-        "name": "Express",
-        "url": "https://www.express.de"
-      }
-    },
-    {
       "id": "28c9aa35f9ac",
       "title": "Abnehmspritzen: Was die Abnehmspritzen wirklich können - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0NtU2VSYW0wNTVOeFY2LUoxSFphRVFjTkM4VEhTckJiR0JIdG5tRUJHWHhmdlVWNWY0RFRHV0xEQkNIX0xzc0NwajBJRUhra3NGLVU3X0R0RXAyYVM5ZzM1TUtMRS1LSWZISFdyQmRBaDc0bFYtbkJjVkVCay1yZ1NVYUpLTnFqMFdZMFZMS3RCWDNaQXQ3SkdrRWdqTWtxSThlSVpaemhoY3JxQkpN?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "77affb477e9d",
+      "title": "Medikamente ohne Rezept: Was sich jetzt in Apotheken für alle Kundinnen und Kunden ändert - Express",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXo1WGNxc05TbGJrNEZIMFg0a0ZQaER5UHhLbnBBMnhoR2FTbldSWEVCaWxDSlFvMXVtUG42VGZ3azdSOFUzcDA3Wk1EcWtiYXd1NUx4Ykh3SmtxaHo2UEJsOFVrdFkyYnJoclM0NlpXSkl3NzJqX1d2d0dwQkJ6LTdrVi1pV2xscTBIN2dfckpyU3haWG56UlRPN05ybUFOMTZvUVZMOU0zdmNXX3VGTWkwU3luMWNFZHdwOQ?oc=5",
+      "published": "2026-06-12T10:09:15+00:00",
+      "source": {
+        "name": "Express",
+        "url": "https://www.express.de"
       }
     },
     {
@@ -174,6 +174,16 @@
       }
     },
     {
+      "id": "a25b1fdaed59",
+      "title": "Politik darf vor Drohgebärden der Pharmaindustrie nicht einknicken - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR19nVExhMHdPaFdpbGtJeTYzOHN1QWt3VDMwRzVUenJfeVp6V3dpN2Y4b2VyZk9LZjJFZnFoU3lxeGRaZElrSVJTWUpHS2FNd01TRWp4aU15SkFlTFFJRlc0OEpnQnVJWFJxMmNvWU41T18tYk5Pd3laSS1xcnQ5dFVJNFFhMk5aVm4tZWstN0tkNHcxNl9RWkVBdlFtS05VTHc?oc=5",
+      "published": "2026-06-09T09:07:45+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
       "id": "7bcca76942a6",
       "title": "Mit 2.678 Apotheken erreicht Long Chau einen Meilenstein und bietet Millionen von Familien eine qualitativ hochwertige Gesundheitsversorgung. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVRSMnlEV0ZmaTdULWc1RWV5X3dlWVh0MlFId2dhTEU0UExWVEhKeUt4WnpXNTdhMlFRSEtKdjA0YmxhQXQxRm9nY3hqSEJ5Wks2dUhpZmp1N3lOZVJ6UTlma3lFdVlSbmpBYWVaQzhYaFFtel80b3dZVnBwNEU1OGhCRXY2el9EZW01dVJyNDRUOEs1V25mUXlxS1VpWTFCclUyQXZOMA?oc=5",
@@ -191,16 +201,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "a25b1fdaed59",
-      "title": "Politik darf vor Drohgebärden der Pharmaindustrie nicht einknicken - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR19nVExhMHdPaFdpbGtJeTYzOHN1QWt3VDMwRzVUenJfeVp6V3dpN2Y4b2VyZk9LZjJFZnFoU3lxeGRaZElrSVJTWUpHS2FNd01TRWp4aU15SkFlTFFJRlc0OEpnQnVJWFJxMmNvWU41T18tYk5Pd3laSS1xcnQ5dFVJNFFhMk5aVm4tZWstN0tkNHcxNl9RWkVBdlFtS05VTHc?oc=5",
-      "published": "2026-06-09T09:07:45+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -251,6 +251,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "61ccb642bfab",
+      "title": "Gesundheit - Bericht: Regierung verhandelt mit USA über Medikamentenpreise - UNTERNEHMEN-HEUTE.de",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PeTBIVXlFSFB6YVlzRl82N3FpaVkyc1VNUnAtUUhwS24ydTJHaURFbjZ1My1nTlctQzl6ZkFValZ4OVBIbG9TZHFUem5GNmtmLW9zUlZGR1RrVFprM0ZwYWl3?oc=5",
+      "published": "2026-06-09T09:02:00+00:00",
+      "source": {
+        "name": "UNTERNEHMEN-HEUTE.de",
+        "url": "https://unternehmen-heute.de"
       }
     },
     {
@@ -334,16 +344,6 @@
       }
     },
     {
-      "id": "ac511c7b42d9",
-      "title": "Verreisen mit Arzneimitteln – Was dabei zu beachten ist: Hinweise vom Landesamt für Verbraucherschutz Sachsen-Anhalt - Du bist Halle",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEdhMWlUa050UllYNmYySXMzbGFKNWFSM3RZbk1kLTBlRG5yajBGd1RzZWRIZ2VwU285VndSMF84T1BQYUpsRWdUTVhGajdVaEdqbFhZSVJ1WkdFTXdia1puMFlJc25rSDJkS0NieUFobTBHNUhQdzVPdlhMZm1EMGVmaUhBcUlBRHd3MWhsb01vUm56R21DZzZleFNZczNsU18zbWFQcUFOZTdOV3lRTWxkR3pHTUExUmZZLTZIMHRxZ05lZW9ERExabHRwNDNpcWJ6Sg?oc=5",
-      "published": "2026-06-12T11:59:16+00:00",
-      "source": {
-        "name": "Du bist Halle",
-        "url": "https://dubisthalle.de"
-      }
-    },
-    {
       "id": "1648c3dfecfa",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -351,6 +351,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "ac511c7b42d9",
+      "title": "Verreisen mit Arzneimitteln – Was dabei zu beachten ist: Hinweise vom Landesamt für Verbraucherschutz Sachsen-Anhalt - Du bist Halle",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEdhMWlUa050UllYNmYySXMzbGFKNWFSM3RZbk1kLTBlRG5yajBGd1RzZWRIZ2VwU285VndSMF84T1BQYUpsRWdUTVhGajdVaEdqbFhZSVJ1WkdFTXdia1puMFlJc25rSDJkS0NieUFobTBHNUhQdzVPdlhMZm1EMGVmaUhBcUlBRHd3MWhsb01vUm56R21DZzZleFNZczNsU18zbWFQcUFOZTdOV3lRTWxkR3pHTUExUmZZLTZIMHRxZ05lZW9ERExabHRwNDNpcWJ6Sg?oc=5",
+      "published": "2026-06-12T11:59:16+00:00",
+      "source": {
+        "name": "Du bist Halle",
+        "url": "https://dubisthalle.de"
       }
     },
     {
@@ -714,16 +724,6 @@
       }
     },
     {
-      "id": "bcd30ea5acc5",
-      "title": "Was, wenn uns die Medikamente ausgehen? - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE1oLURqeDZBVEtFcHhtbmFfMWFVdzBLcGRPSVY0b0s3elNMZ0FINmtFckNvQXRjXzktNFdGTklvUF9pcE0wMVgtNG5jTnBYSmFoWlppM1RlSzdfRkxOcmNSNEV2NFdQaEp4VDVEcUpwMUhTQWVxbTZyRW1YbnotNko5cDVudVBzcUxPckZjTWNnbnlPdmc?oc=5",
-      "published": "2025-11-22T08:00:00+00:00",
-      "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
       "id": "9c7eaaba1281",
       "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
@@ -844,6 +844,16 @@
       }
     },
     {
+      "id": "e5c9f6b52b1b",
+      "title": "Weil Gesundheit alles verändert - Handelsblatt Live",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQXU3d2J3REtJeXBaWlQ0UTVlRWJDR2U3cTBJRFNaVlBYenpnNmp1QXZJLXB1WFQxY1dOQjJhMGRwVVZTNEE2eWVMZVd0bVZTSzEyOHY2R0NVd2dKVllzVEM3NDRoNEZKUkthRDdSTHA?oc=5",
+      "published": "2025-12-02T08:00:00+00:00",
+      "source": {
+        "name": "Handelsblatt Live",
+        "url": "https://live.handelsblatt.com"
+      }
+    },
+    {
       "id": "1b3c408f1703",
       "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFhLVUdkZzBFTm93WVhvZHdBSkk4ZWlPUWJQRlZFWjlSV3Npei12Wnc4YWhXZW9fMkFOLUs2TjNEanlIUENkRlJ1bmdDQWJKbFhVeEpaMmF2dEp3SjVZbjBHZlNDVUV2Z1NpekF5c3lEaUxsX3VPcDNwRHBGaVFFYXBRZ3dERXpIZWp2TzVralRSb1FEVmdfZjNJTmxMdW9WT25iZGh6QVBfQmV2UGRSby1hcWNOOWl4b2NIajFWRmZZNmhvemN2OVVSZ3dwYnlYTVBfYV9oVGlYM3B5TjJtQTZZUHkwb3cteVd1UzU5M3RaT2hiN2tjczYtOA?oc=5",
@@ -851,6 +861,16 @@
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "375374e60cfb",
+      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
+      "published": "2025-12-02T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -891,16 +911,6 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "375374e60cfb",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "24ba45b63fb1",
-      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
-      "published": "2024-12-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
