@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T12:21:59.197196+00:00",
+  "fetched_at": "2026-06-13T14:57:06.871189+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -31,6 +31,16 @@
       "source": {
         "name": "Geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "2568d666e0b6",
+      "title": "Prostatakrebs: „Wir glauben, dass solche Therapien langfristig zu Heilungen führen können“ - WELT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRF9BN2xJc21BTDVFU2Z4bzFWSWFpSUlXMVVtRFRCME5mYnV5N1lPckdQcDN2eW9LTXI2WUtGUmF3Q0Nyb2xoSXhvaUtmNmVZWG96R25FTTZ5Z0tuU2lVVzhxY3hDOU1wX0p1djNCekRnV0FCVmxLbTJMUEd1RF9VVzlnSVA2cnA0X01NaXh1UkN5MUU0TDNTWXMydXRVeFRwaU1ld09uT2QwM1k2N3paejl6RWVYNV9CdV9KVXJoRDBBSVlzWW0zRFpDa0ZhdktUZnZIWnVsMFdMWkpDS0FDMHhZMUQxYnRZdmNZXw?oc=5",
+      "published": "2026-06-13T14:08:22+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
       }
     },
     {
@@ -114,6 +124,16 @@
       }
     },
     {
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
       "id": "ae3d250cee54",
       "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
@@ -131,26 +151,6 @@
       "source": {
         "name": "Express",
         "url": "https://www.express.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "2568d666e0b6",
-      "title": "Prostatakrebs: „Wir glauben, dass solche Therapien langfristig zu Heilungen führen können“ - WELT",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRF9BN2xJc21BTDVFU2Z4bzFWSWFpSUlXMVVtRFRCME5mYnV5N1lPckdQcDN2eW9LTXI2WUtGUmF3Q0Nyb2xoSXhvaUtmNmVZWG96R25FTTZ5Z0tuU2lVVzhxY3hDOU1wX0p1djNCekRnV0FCVmxLbTJMUEd1RF9VVzlnSVA2cnA0X01NaXh1UkN5MUU0TDNTWXMydXRVeFRwaU1ld09uT2QwM1k2N3paejl6RWVYNV9CdV9KVXJoRDBBSVlzWW0zRFpDa0ZhdktUZnZIWnVsMFdMWkpDS0FDMHhZMUQxYnRZdmNZXw?oc=5",
-      "published": "2026-06-11T07:00:00+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
       }
     },
     {
@@ -174,36 +174,6 @@
       }
     },
     {
-      "id": "a25b1fdaed59",
-      "title": "Politik darf vor Drohgebärden der Pharmaindustrie nicht einknicken - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR19nVExhMHdPaFdpbGtJeTYzOHN1QWt3VDMwRzVUenJfeVp6V3dpN2Y4b2VyZk9LZjJFZnFoU3lxeGRaZElrSVJTWUpHS2FNd01TRWp4aU15SkFlTFFJRlc0OEpnQnVJWFJxMmNvWU41T18tYk5Pd3laSS1xcnQ5dFVJNFFhMk5aVm4tZWstN0tkNHcxNl9RWkVBdlFtS05VTHc?oc=5",
-      "published": "2026-06-09T09:07:45+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
-      "id": "7bcca76942a6",
-      "title": "Mit 2.678 Apotheken erreicht Long Chau einen Meilenstein und bietet Millionen von Familien eine qualitativ hochwertige Gesundheitsversorgung. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVRSMnlEV0ZmaTdULWc1RWV5X3dlWVh0MlFId2dhTEU0UExWVEhKeUt4WnpXNTdhMlFRSEtKdjA0YmxhQXQxRm9nY3hqSEJ5Wks2dUhpZmp1N3lOZVJ6UTlma3lFdVlSbmpBYWVaQzhYaFFtel80b3dZVnBwNEU1OGhCRXY2el9EZW01dVJyNDRUOEs1V25mUXlxS1VpWTFCclUyQXZOMA?oc=5",
-      "published": "2026-06-12T03:39:38+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "c8102859b3d6",
-      "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - srf.ch",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORENTMTRnWUd3bk1FdGtsdnpuWW1LWnQ0LVJXUmI2R2RMLTdCQUdFaGNVRFloTVR6aHl1TExaZHVhcnZzbGJ6aG9jWlpuSXpQdmgzNnhHeEtPUTRuQzdhRlR1dlJUYjBSXzdOSS03NXA0MUtGS3dNcHNiQ3pVckNaWHJQZ0I1YjdpbC1aTy1HdWV5Y0dJdG1ONl95RllIaUM3NWZBejRMc000SnczM0wwS3ZBaUNVOU5HRVhZTHlGajFjRmNRRjJFcw?oc=5",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": {
-        "name": "srf.ch",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "e55e30521cda",
       "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
@@ -221,6 +191,26 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "c8102859b3d6",
+      "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - srf.ch",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORENTMTRnWUd3bk1FdGtsdnpuWW1LWnQ0LVJXUmI2R2RMLTdCQUdFaGNVRFloTVR6aHl1TExaZHVhcnZzbGJ6aG9jWlpuSXpQdmgzNnhHeEtPUTRuQzdhRlR1dlJUYjBSXzdOSS03NXA0MUtGS3dNcHNiQ3pVckNaWHJQZ0I1YjdpbC1aTy1HdWV5Y0dJdG1ONl95RllIaUM3NWZBejRMc000SnczM0wwS3ZBaUNVOU5HRVhZTHlGajFjRmNRRjJFcw?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": {
+        "name": "srf.ch",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "a25b1fdaed59",
+      "title": "Politik darf vor Drohgebärden der Pharmaindustrie nicht einknicken - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR19nVExhMHdPaFdpbGtJeTYzOHN1QWt3VDMwRzVUenJfeVp6V3dpN2Y4b2VyZk9LZjJFZnFoU3lxeGRaZElrSVJTWUpHS2FNd01TRWp4aU15SkFlTFFJRlc0OEpnQnVJWFJxMmNvWU41T18tYk5Pd3laSS1xcnQ5dFVJNFFhMk5aVm4tZWstN0tkNHcxNl9RWkVBdlFtS05VTHc?oc=5",
+      "published": "2026-06-09T09:07:45+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -264,12 +254,22 @@
       }
     },
     {
-      "id": "8db31424e5bb",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
+      "id": "0dd0c945c1ca",
+      "title": "Von 20 auf 70 Jahre: Wie neue Medikamente Mukoviszidose verändern - Oberösterreichische Nachrichten",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkJpUGdPc2NPRDkwVGswUkRTaTdNZGYyZWdXbnJsV2xMWGxicHFRRGZJR1ZWRi1qaEFSY00zVlpoalVrckZjQTYxdk9pa05HWk9mQmp1b0dUY3dNWUVZWU1VYmhiWkV5LTZWU09qRWFMX3k3aTNqOXdmMzlnN3VqVU14a2VaOXpxbXlsYmc2cTNBR1BvSW03MkZaMWl4R3pkS01ROElvTEsxN1llS2x4TE43RTloa2c3SFM1Mm1rMlR4a2hzWlg5TA?oc=5",
+      "published": "2026-06-09T04:32:00+00:00",
+      "source": {
+        "name": "Oberösterreichische Nachrichten",
+        "url": "https://www.nachrichten.at"
+      }
+    },
+    {
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -484,6 +484,16 @@
       }
     },
     {
+      "id": "93a431bd90a5",
+      "title": "Vitamin-B12-Mangel: Jeder vierte Senior betroffen – Demenzrisiko steigt - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVC0yYWRWaF8tWUtUcUFFa1AwNml2bGdvUl9fR1R3d2xQSjRhMEgyeUNFbDdJUFBIdmZROXBBTE5zN3k1RGNVamRXeFoxOW5laVFrdGhtZER5dEpWdzBBd0otYkpabXhHUnpFMUhneG5DSXNsWlFEU01YTjBpdjA4ZjZ3RnBycnVQRmdsUDQtLXVlUWo0c1hjWVU5emd6Rm9kSTd3dHR4cEhOeXkwb3dsN0EzdlhUYVpW?oc=5",
+      "published": "2026-06-13T05:10:57+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "d9edf968b2d7",
       "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
@@ -504,13 +514,13 @@
       }
     },
     {
-      "id": "da9244502f14",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
+      "id": "ac511c7b42d9",
+      "title": "Verreisen mit Arzneimitteln – Was dabei zu beachten ist: Hinweise vom Landesamt für Verbraucherschutz Sachsen-Anhalt - Du bist Halle",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEdhMWlUa050UllYNmYySXMzbGFKNWFSM3RZbk1kLTBlRG5yajBGd1RzZWRIZ2VwU285VndSMF84T1BQYUpsRWdUTVhGajdVaEdqbFhZSVJ1WkdFTXdia1puMFlJc25rSDJkS0NieUFobTBHNUhQdzVPdlhMZm1EMGVmaUhBcUlBRHd3MWhsb01vUm56R21DZzZleFNZczNsU18zbWFQcUFOZTdOV3lRTWxkR3pHTUExUmZZLTZIMHRxZ05lZW9ERExabHRwNDNpcWJ6Sg?oc=5",
+      "published": "2026-06-12T11:59:16+00:00",
       "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
+        "name": "Du bist Halle",
+        "url": "https://dubisthalle.de"
       }
     },
     {
@@ -524,13 +534,13 @@
       }
     },
     {
-      "id": "ac511c7b42d9",
-      "title": "Verreisen mit Arzneimitteln – Was dabei zu beachten ist: Hinweise vom Landesamt für Verbraucherschutz Sachsen-Anhalt - Du bist Halle",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEdhMWlUa050UllYNmYySXMzbGFKNWFSM3RZbk1kLTBlRG5yajBGd1RzZWRIZ2VwU285VndSMF84T1BQYUpsRWdUTVhGajdVaEdqbFhZSVJ1WkdFTXdia1puMFlJc25rSDJkS0NieUFobTBHNUhQdzVPdlhMZm1EMGVmaUhBcUlBRHd3MWhsb01vUm56R21DZzZleFNZczNsU18zbWFQcUFOZTdOV3lRTWxkR3pHTUExUmZZLTZIMHRxZ05lZW9ERExabHRwNDNpcWJ6Sg?oc=5",
-      "published": "2026-06-12T11:59:16+00:00",
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
       "source": {
-        "name": "Du bist Halle",
-        "url": "https://dubisthalle.de"
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -934,12 +944,12 @@
       }
     },
     {
-      "id": "6ab4ca82bbba",
-      "title": "Gefälschte Medikamente: Ein weltweites Problem - dw.com",
+      "id": "0dba016a69d0",
+      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzZjM0cwcm1ldnUzc0xrOER4cEk0a05ucnhNX1llWk1YeU9zVnlTeTVFM1lWWmhBR1RrZEJCODVQdlIwNWw3Zmg2N004NVpqa29HT2FBZ1BfUWN5T2hGQlkxc2ZvQWdWVThrdk9sUk80UWc5MXlzaGQ1NXZTYUxtUUNoWmVzR2F5YjRDejhGbU5ZeDBHOGstVGNXLUVEVm9LejJ1RmpUd0Q3T25xb3pxM3hzQVYwaDljcWNycHBPNjZyS3daSVJOU3U1ZU5tWWFMbnfSAdIBQVVfeXFMUDFiX1VoOC1ZdmxVR3o2Q3VRMTNhUUNEaVRHdFZneDJrblJSckE1Zk9icjFaWXZTMGlJMFhHTC13bjIwMjhwWS1mZTRrdU1WcXFyS1ZEQndLRXFtRUZELUJQeFlMRHZ0aUFYbFNjd3NYOUFUZmxHZ0hZMEFNc2xXTVlPN1NVc3RYY3dxd2F6V20xMGdMa215eG9majhKX25kbjRaSXdOR1NoT1JFQnBXM1VmaGdjMWt0Z2IxNDBvOTRiSUlBM250LWJtTTBOZjdJeGtB?oc=5",
       "published": "2025-08-04T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "589f73ebbe50",
-      "title": "Gefahr im Medizinschrank: Medikamente richtig lagern - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmZlMUpuMmk2ZlgydlZVUUFRcUYyS1lZbC11S29ET3ZqdTc2cVFTcTU1OEpiQkpIN2VXVGt1akhzdDNTc2NoSkhzUmlxU0FIOVdTQk5Xd0hnbThxcDBDVFJZOE1RMTN1MUl4dXFHUVRFbnJwVC16U2t3TTEzanZnWVZVN3Fnd1NWZE45YmRCeGdKbjh1Nmo0S01R?oc=5",
-      "published": "2024-07-24T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
