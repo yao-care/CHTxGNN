@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T15:43:36.401303+00:00",
+  "fetched_at": "2026-06-20T17:22:00.034789+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "0b9c3545fb7e",
-      "title": "Das Gesundheitsministerium hat darum gebeten, die Versorgung mit Medikamenten sicherzustellen und Engpässe während des Sommers zu vermeiden. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFXcHl6U0xlZnpjRDI0WjVVUEpvS3hnS2h0dVI2R0VUMjRRUVRwdDZYVjlEbWpnV01QT3F0UEh3dzIxd3pkZDh1TGxyZlhxRVV5Z1pwNDRwSkRCbkctU3BCakZ0OWRwVzhHWXhRblZoZ2Z5TEdXU2g4ci1TYjlrX0J3d3gzSmt6Q1ZVWWxMS2xsRFdyVk9LOUs5MmxidDdLV0hJTWZn?oc=5",
-      "published": "2026-06-20T10:37:10+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "9f7c377ed6d2",
       "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "0b9c3545fb7e",
+      "title": "Das Gesundheitsministerium hat darum gebeten, die Versorgung mit Medikamenten sicherzustellen und Engpässe während des Sommers zu vermeiden. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFXcHl6U0xlZnpjRDI0WjVVUEpvS3hnS2h0dVI2R0VUMjRRUVRwdDZYVjlEbWpnV01QT3F0UEh3dzIxd3pkZDh1TGxyZlhxRVV5Z1pwNDRwSkRCbkctU3BCakZ0OWRwVzhHWXhRblZoZ2Z5TEdXU2g4ci1TYjlrX0J3d3gzSmt6Q1ZVWWxMS2xsRFdyVk9LOUs5MmxidDdLV0hJTWZn?oc=5",
+      "published": "2026-06-20T10:37:10+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -264,12 +264,12 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "id": "8db31424e5bb",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -394,16 +394,6 @@
       }
     },
     {
-      "id": "1c3dadd31214",
-      "title": "Aufbau eines modernen, menschenfreundlichen Gesundheitssystems. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10WU8wemxZWnpsMEc4ZlJtX0VWMlhJYm5SNE40TXZycEhnQzNmaS1xRnFqcmRfdE85WUJSNU9YV0htT3ZhaWZ6b3U0bTRTdGNTNnNHVWhmZXdhellZaVJXQzExdi03SHVKcTNBWGNDTVktXzQ?oc=5",
-      "published": "2026-06-20T00:55:23+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "9c7eaaba1281",
       "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
@@ -421,6 +411,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "1c3dadd31214",
+      "title": "Aufbau eines modernen, menschenfreundlichen Gesundheitssystems. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10WU8wemxZWnpsMEc4ZlJtX0VWMlhJYm5SNE40TXZycEhnQzNmaS1xRnFqcmRfdE85WUJSNU9YV0htT3ZhaWZ6b3U0bTRTdGNTNnNHVWhmZXdhellZaVJXQzExdi03SHVKcTNBWGNDTVktXzQ?oc=5",
+      "published": "2026-06-20T00:55:23+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -504,13 +504,13 @@
       }
     },
     {
-      "id": "f52589adc53b",
-      "title": "Gesundheitsrisiken durch Hitze - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yUEtJS0pMRjNCYWFuT1Z1bzYxVFFyWUJIYjlxSmNGNmN2cVhKNmxva2VtTWxEMjlvbDZvaUh4WEl2R0JlQ1BDcnV1QkVSY2FXUC10MjBmVQ?oc=5",
-      "published": "2026-06-17T10:13:48+00:00",
+      "id": "5c9611500d5c",
+      "title": "Morbus Crohn & Colitis ulcerosa: Das sollten Sie bei der Anwendung neuerer Medikamente beachten - AerzteZeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNODkzSExJTDZHY0RROHlhejVTUGcyWFFfcld4SkZKRWZhS3dNRUtsZHdfVmVwT05lWDZXYUxCUGl4dkNpUmhOWnU3WlVveld0WnJhUXQ1cFB1SkJPSGlUWmlXQkxJWlRsMWgyemttN0NWdEo2Qk96OGpEbXFyQUVLWHd1Z05XUnQzbVFoV2x4ekd3UmVMcVBvbU5jdTk2dWsyTXhwYjNqVXp4MVJwRndUdmpDQWFWTjlNYTF3Vjl1OVhPZ25BTm5aS2JhNXU5bG1IOTNYQ2F6NE56MUU?oc=5",
+      "published": "2026-06-18T02:19:18+00:00",
       "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
+        "name": "AerzteZeitung.de",
+        "url": "https://www.aerztezeitung.de"
       }
     },
     {
@@ -521,6 +521,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "f52589adc53b",
+      "title": "Gesundheitsrisiken durch Hitze - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yUEtJS0pMRjNCYWFuT1Z1bzYxVFFyWUJIYjlxSmNGNmN2cVhKNmxva2VtTWxEMjlvbDZvaUh4WEl2R0JlQ1BDcnV1QkVSY2FXUC10MjBmVQ?oc=5",
+      "published": "2026-06-17T10:13:48+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -704,16 +714,6 @@
       }
     },
     {
-      "id": "359a638ace75",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlp2UC15ODdWb214VmdueWZNQ2pWMFRyd1NZNWNVbS1iTGRTZFNNeTl1WlJJZTZPdGVZUC1DVnVZWEF0N0pla3lSMVEyVl9fLXZHU2s3Q1lVMUVvZ0JIUGVXQllJNlI4TUJIVlFBaU9jeTF3NHVhWXhRdXZGczZRdWY0bnp6UlZnNExna0d2OFRiNVZzYkFuSHFRYjBQd3NQVXNZNVYtZWlkVngxa2JHZTdfVXdzUzFL?oc=5",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": {
-        "name": "Bundesministerium für Gesundheit (BMG)",
-        "url": "https://www.bundesgesundheitsministerium.de"
-      }
-    },
-    {
       "id": "445f92c7e54b",
       "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
@@ -721,6 +721,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "359a638ace75",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlp2UC15ODdWb214VmdueWZNQ2pWMFRyd1NZNWNVbS1iTGRTZFNNeTl1WlJJZTZPdGVZUC1DVnVZWEF0N0pla3lSMVEyVl9fLXZHU2s3Q1lVMUVvZ0JIUGVXQllJNlI4TUJIVlFBaU9jeTF3NHVhWXhRdXZGczZRdWY0bnp6UlZnNExna0d2OFRiNVZzYkFuSHFRYjBQd3NQVXNZNVYtZWlkVngxa2JHZTdfVXdzUzFL?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": {
+        "name": "Bundesministerium für Gesundheit (BMG)",
+        "url": "https://www.bundesgesundheitsministerium.de"
       }
     },
     {
@@ -914,12 +924,12 @@
       }
     },
     {
-      "id": "0dba016a69d0",
-      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW.com",
+      "id": "6ab4ca82bbba",
+      "title": "Gefälschte Medikamente: Ein weltweites Problem - dw.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzZjM0cwcm1ldnUzc0xrOER4cEk0a05ucnhNX1llWk1YeU9zVnlTeTVFM1lWWmhBR1RrZEJCODVQdlIwNWw3Zmg2N004NVpqa29HT2FBZ1BfUWN5T2hGQlkxc2ZvQWdWVThrdk9sUk80UWc5MXlzaGQ1NXZTYUxtUUNoWmVzR2F5YjRDejhGbU5ZeDBHOGstVGNXLUVEVm9LejJ1RmpUd0Q3T25xb3pxM3hzQVYwaDljcWNycHBPNjZyS3daSVJOU3U1ZU5tWWFMbnfSAdIBQVVfeXFMUDFiX1VoOC1ZdmxVR3o2Q3VRMTNhUUNEaVRHdFZneDJrblJSckE1Zk9icjFaWXZTMGlJMFhHTC13bjIwMjhwWS1mZTRrdU1WcXFyS1ZEQndLRXFtRUZELUJQeFlMRHZ0aUFYbFNjd3NYOUFUZmxHZ0hZMEFNc2xXTVlPN1NVc3RYY3dxd2F6V20xMGdMa215eG9majhKX25kbjRaSXdOR1NoT1JFQnBXM1VmaGdjMWt0Z2IxNDBvOTRiSUlBM250LWJtTTBOZjdJeGtB?oc=5",
       "published": "2025-08-04T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -954,12 +964,12 @@
       }
     },
     {
-      "id": "692ed6663b43",
-      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW.com",
+      "id": "e0194a7c0b5d",
+      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU1xaGhwXzk2bTZMYV9pdEdESnBqWVZvSnAwXzllTkVsdXYyZTlYSzdEYjktY2FySDA2THNEWUlQend3WWp5cG9uZFo1aTJMcFFINW1ZWEg3NlVDQ2UzdkRmZldhV1JRemg4U3poczloOF9QOEhha1prQnlGZ0U5T0laMXN2ZVBY0gGIAUFVX3lxTE01Wk9oR0RESDZiM1BvOU5qZmtUYk1aNUFxWlpzU3EteXRvRDQ1anBlcG52RXJ5QWdEWjB2SHJCblZSaktVZktvRTBkYUxtYzNfQVE4YXRHajc1Nk9UQllNTkt0Vi1wVjdQTTAzSElvTDRMWXZ5TEpkLUZxRTI2QUZkMVdyRGM4YUg?oc=5",
       "published": "2025-09-14T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "4b1158ee3097",
-      "title": "Homöopathie-Debatte: Was sich für Versicherte bald ändern könnte - Wochenblatt Reporter",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3VwS3o5TEtONDZFOEJ0TjdKLVlqRU1MeHRFcHJpWGJ3bVdJdHItOTNXbXNMbGpvc3ozYzE0V2hBNXlodHg1RjVGMGUtLVJBcGpXYkZhMjJQV0hEU3hOTEREaUlvVndBd3JhZzdTaUg2OTRiUm9SaHRwcTVONkdXeHJERDdrd29pTjB5c1VOYUR0U3lISTZ4Y3hIcVc5ZF8wS1ZCcGttbTZKVGJOWHlaeUJZdEQ4TDBBekVRN3ZvYw?oc=5",
-      "published": "2026-06-19T12:23:33+00:00",
-      "source": {
-        "name": "Wochenblatt Reporter",
-        "url": "https://www.wochenblatt-reporter.de"
       }
     }
   ]
