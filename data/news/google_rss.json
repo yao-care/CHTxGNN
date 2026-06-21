@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T03:42:34.806723+00:00",
+  "fetched_at": "2026-06-21T08:26:02.843211+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "49bf6869d90c",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Preisdruck auf Medikamente - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
-      "published": "2026-06-16T17:46:07+00:00",
-      "source": {
-        "name": "Euronews.com",
-        "url": "https://de.euronews.com"
-      }
-    },
-    {
       "id": "4c513ec7ba3b",
       "title": "Das Gesundheitsministerium hat darum gebeten, dass es im Sommer zu keinen Medikamentenengpässen kommt. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0NJaTh1ZnFCMHN0NHJYTlNqTkpMcUw0OUt5eFNzczk1dGJWVW1kX2lPbHVBMVJrRlhTNW9faHM3b2kwZnpiRU5GRkxoRUdRSFlTbHBaRGd6M0VRUmpFUWFmeVA3WkhRZlJhTkNiN1hxdmFDdVJ1VHNMMEdTRWEzUnBIaUMxelUxWHhnWA?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "ba96bb5c2c8b",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Preisdruck auf Medikamente - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
+      "published": "2026-06-16T17:46:07+00:00",
+      "source": {
+        "name": "Euronews",
+        "url": "https://de.euronews.com"
       }
     },
     {
@@ -84,6 +84,16 @@
       }
     },
     {
+      "id": "6a6b6fdc1752",
+      "title": "Achtung, Sommerhitze: Ihre Medikamente könnten anders wirken - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONF9uVnBJZk44c3k3TV9xMkx1aTlkTUlTaTJjUm9Pa0VGMVJyTUtoWnpmVlROazJYbEY5ZTh6bklGSjN6cmxWb1hDVlRGVDI4MndtQklQdk5BRGtDNVFfRTBFMTJzUEdXMC05SWd1OWszSDNKZThkTV9GVDE3SnFxQlNCU3lFVjYzMXdfS1RPYnlvVkJwMVF3Sy1SSTl4TDJ6RzZlZjNXLUFpZ0dyZFdGTHlLWWVYRU45STdRcl92WkVOOXpzQXBZ?oc=5",
+      "published": "2026-06-19T11:52:28+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
+    {
       "id": "9ace6c5aad6d",
       "title": "Säureblocker gegen Sodbrennen: Warum viele Betroffene sie zu häufig und zu lange einnehmen - ZDFheute",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHdLN2JFN2pySU45TXExN0JlT2NVSjMtazJDWlVLd29LUjdoeWJwdjVna0kzM3NpN2Z1MjBzWjlmN2t6MlppZVFzamk4R0NNaFQ2aTRhc0tPUHpzSTdwREhYaXBTY3RvMG5vaXJ1cDh4bnZmSWdFVTdFdDEwV1pEYWdULUFjQ0RsaXlUSWNKYXBkMkxiM1VtYlNMcWlWYnc0ZzVJbEtIbw?oc=5",
@@ -91,16 +101,6 @@
       "source": {
         "name": "ZDFheute",
         "url": "https://www.zdfheute.de"
-      }
-    },
-    {
-      "id": "a7bc498f2f6e",
-      "title": "»Qua­li­tät gibt es nicht zum Null­ta­rif« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkFHY0NGbWhOVUNvNnpYcDRXYXJwdTVRRUVuMG80dTN3U3NZS3ZhbTR6eDFwNFJMcXl5SGtVRnR0d254d1VBV0pDQjBDbU9lT1ltNWZqUmdRV2Z6Szlkb05oZUE2aHktU0l4NnQ5c3JWRk5uOWhlaVg0WjljOUcwSGZzdkdTMVFGZ3JEWg?oc=5",
-      "published": "2026-06-18T15:30:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "e55e30521cda",
-      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
-      "published": "2026-05-04T09:31:59+00:00",
-      "source": {
-        "name": "Taylor Wessing",
-        "url": "https://www.taylorwessing.com"
-      }
-    },
-    {
       "id": "6ddf1528ad72",
       "title": "Dr. Weigl warnt: Diese Medikamente solltest du meiden - FIT FOR FUN",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGxvMnItb1hlQUxOSnBCMGZxTmhMbEZsMUJrWU5hOGV0R1BqVHY5VHZna1JkbnY3WEZKc2ZRV1lKeFUyak1iV2FLdkVkTTJhSjc5U0ZYUS1GM0s3ZGN2U0I3UDN0NVZVaW56VENrdmNjRzJPVEI2T3diQ1p5R0RnNmhyZ2RUMmVNa25WeHNhWkdMSGI3aDBLUkVIX0tjQThyNWVJSnpqaUY1aG1PdWVpNGhUTUxzV1BWXzlpTG53clYxN1BPS1hzdg?oc=5",
@@ -174,13 +164,23 @@
       }
     },
     {
-      "id": "2e383bc21b49",
-      "title": "Die Werte der traditionellen Medizin verbreiten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54TWl2dW9hNDBIa3Q5UkM3WkYtUWlURkpPUnJvWkMtSnk4ellxeUJ5NlJSSmN0VVF0UjJUcXBLdUpyeWp5bFZRdG5jc2RvWW00SkQ3bGtzd19qdlFaSTNHZHZaRFRUdG9IVjFuWDZB?oc=5",
-      "published": "2026-06-20T23:36:53+00:00",
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
+      "published": "2026-03-09T07:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Gesundheit.gv.at",
+        "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
+      "id": "e55e30521cda",
+      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
+      "published": "2026-05-04T09:31:59+00:00",
+      "source": {
+        "name": "Taylor Wessing",
+        "url": "https://www.taylorwessing.com"
       }
     },
     {
@@ -201,16 +201,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "51e8c4b74840",
-      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": {
-        "name": "Gesundheit.gv.at",
-        "url": "https://www.gesundheit.gv.at"
       }
     },
     {
@@ -274,6 +264,16 @@
       }
     },
     {
+      "id": "f46409ab979a",
+      "title": "Arzneimittelwerbung: Das wird sich ändern - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemlpVWQ1VkF6UHNzS1VDVzVsVFhFR09PQ3U0QkJSamx6anVQYTNVZUoyQmQwdm9ibVlocnZqRVUzWkV5YW42bkVKZDF3NDZ2dy14U0FPRGZ2LVpDQllIeFBpU3NDR3BudGNvRzNLSHJfUTlkampDVFN2YmNQdmE3R1YyWkx3dVpoNGRuRHc0SHVhc1hSakh0U1FnNjBEWndDVHR6dW9ha29LaW8?oc=5",
+      "published": "2026-06-15T05:00:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
+      }
+    },
+    {
       "id": "9ca3cbedf580",
       "title": "Durchbruch bei einer der tödlichsten Krebsarten? - WEB.DE",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdV9uRDhvYnhpa0MtSHJHWTIxaGZWaVVjelBFTWFsa3c1T3pCRWtHUlVZZWlaVHF4eFEybHpRZXQ4ZVRDYUhxSm5GWmlMb0FUMGNFM2MtNkl5RllBX3pHaVN6OHJ4ZjVRWnE0cXZNdWoxaWFkd2hZdDhuR0lOWXNCX0Ewd0M?oc=5",
@@ -304,6 +304,16 @@
       }
     },
     {
+      "id": "2a4cd6eb6d1d",
+      "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": {
+        "name": "European Parliament",
+        "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
       "id": "8db31424e5bb",
       "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
@@ -321,16 +331,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "2a4cd6eb6d1d",
-      "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
-      "published": "2026-03-31T07:00:00+00:00",
-      "source": {
-        "name": "European Parliament",
-        "url": "https://www.europarl.europa.eu"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "2de8fdf554d2",
-      "title": "Praxen, Kliniken, Arzneimittel: Ärzte warnen vor „Rasenmäher“ im Gesundheitssystem - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaTZheDB3U21uVWJSY3ZES25Pb1pRR1RvdXgzdVJha0F0TWhDeGcwenVFWHRKV0dGYmp0RzlsX1F0UG1uSUw3VDZqTkNiZkxURUxWSjA3b1ZqdWs1c1FrVkZUYjhlQ3dzNVpJWnI1RHVfbVFTMGVjcVZvN1ExX3cyNTVGaFByS2l1OEZQUHZZLUlZM095U2t5X3lEdUJIWnJTaXQ5ZTZ2ZkMwRDh0bFVuRWYtM3VkVFZ1ZWw5OXcyS0xMQlMzMG9VMTFHTGxNX0xVSDRCeFZZNHZpa0xqaWdpV3k2LXdVV0h2am5aanVMZ25NN1k0?oc=5",
-      "published": "2026-06-05T07:00:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "f71a91a6c39f",
       "title": "Engpässe bei Arzneimitteln: Geopolitik erschwert Europas Streben nach Unabhängigkeit - Euractiv",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2lScFVHU3ZELWZOdzJOUGU2YUQ3c2ZpbWhIYWFiVUNoRFZHTm5JM1BfUWVnanhicnRvanhQdGx4UHVuTnZ5dG4ySEY4eVE3dUxGaXVLSm5sM1liQzRtc19GVVE3RkNnUGhhTkhZTXAtMkhWZ3JqOVREWlhfRnBSX1FPRXlaaUE5d2d6cFVEakt5NDJaUkgzXzA3TUpqUUJTbzhRQXFpbmZCTGMwdlRDSXR3cHNjZw?oc=5",
@@ -371,6 +361,16 @@
       "source": {
         "name": "Euractiv",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "2de8fdf554d2",
+      "title": "Praxen, Kliniken, Arzneimittel: Ärzte warnen vor „Rasenmäher“ im Gesundheitssystem - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaTZheDB3U21uVWJSY3ZES25Pb1pRR1RvdXgzdVJha0F0TWhDeGcwenVFWHRKV0dGYmp0RzlsX1F0UG1uSUw3VDZqTkNiZkxURUxWSjA3b1ZqdWs1c1FrVkZUYjhlQ3dzNVpJWnI1RHVfbVFTMGVjcVZvN1ExX3cyNTVGaFByS2l1OEZQUHZZLUlZM095U2t5X3lEdUJIWnJTaXQ5ZTZ2ZkMwRDh0bFVuRWYtM3VkVFZ1ZWw5OXcyS0xMQlMzMG9VMTFHTGxNX0xVSDRCeFZZNHZpa0xqaWdpV3k2LXdVV0h2am5aanVMZ25NN1k0?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "5fd73dc2932c",
-      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
-      "published": "2026-05-27T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "3751bff44cc1",
       "title": "Mengenrabatte auf umsatzstärkste Medikamente sollen Prämien drücken - Watson",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURnal8xSmJHUWhCM0dybEQ2OE1WanhrakNlVGtuQlV2TXo3NGRZd0NxaUlUUkRZZWd0U1lOMkNwVFktcmVNS0pDYlZhWUhyT3dXRXFESjNSbjhQMkhhWVZOU2s1ZllsWThJN1BldTR5M013RTZwN0tDLXE3OEx4b29TQW5sNW9XVHlqM3VUNW9WbDVJU21ZMzZFdTZTREs1TlA1Xzh3WlRIekVEamNIWGhsc0Zua18tVGxyeFh3?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "5fd73dc2932c",
+      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -534,6 +534,16 @@
       }
     },
     {
+      "id": "20a64d917dfc",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
+      "published": "2026-03-22T07:00:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
+      }
+    },
+    {
       "id": "4b1158ee3097",
       "title": "Homöopathie-Debatte: Was sich für Versicherte bald ändern könnte - Wochenblatt Reporter",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3VwS3o5TEtONDZFOEJ0TjdKLVlqRU1MeHRFcHJpWGJ3bVdJdHItOTNXbXNMbGpvc3ozYzE0V2hBNXlodHg1RjVGMGUtLVJBcGpXYkZhMjJQV0hEU3hOTEREaUlvVndBd3JhZzdTaUg2OTRiUm9SaHRwcTVONkdXeHJERDdrd29pTjB5c1VOYUR0U3lISTZ4Y3hIcVc5ZF8wS1ZCcGttbTZKVGJOWHlaeUJZdEQ4TDBBekVRN3ZvYw?oc=5",
@@ -541,16 +551,6 @@
       "source": {
         "name": "Wochenblatt Reporter",
         "url": "https://www.wochenblatt-reporter.de"
-      }
-    },
-    {
-      "id": "359a638ace75",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlp2UC15ODdWb214VmdueWZNQ2pWMFRyd1NZNWNVbS1iTGRTZFNNeTl1WlJJZTZPdGVZUC1DVnVZWEF0N0pla3lSMVEyVl9fLXZHU2s3Q1lVMUVvZ0JIUGVXQllJNlI4TUJIVlFBaU9jeTF3NHVhWXhRdXZGczZRdWY0bnp6UlZnNExna0d2OFRiNVZzYkFuSHFRYjBQd3NQVXNZNVYtZWlkVngxa2JHZTdfVXdzUzFL?oc=5",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": {
-        "name": "Bundesministerium für Gesundheit (BMG)",
-        "url": "https://www.bundesgesundheitsministerium.de"
       }
     },
     {
@@ -574,6 +574,16 @@
       }
     },
     {
+      "id": "359a638ace75",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlp2UC15ODdWb214VmdueWZNQ2pWMFRyd1NZNWNVbS1iTGRTZFNNeTl1WlJJZTZPdGVZUC1DVnVZWEF0N0pla3lSMVEyVl9fLXZHU2s3Q1lVMUVvZ0JIUGVXQllJNlI4TUJIVlFBaU9jeTF3NHVhWXhRdXZGczZRdWY0bnp6UlZnNExna0d2OFRiNVZzYkFuSHFRYjBQd3NQVXNZNVYtZWlkVngxa2JHZTdfVXdzUzFL?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": {
+        "name": "Bundesministerium für Gesundheit (BMG)",
+        "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
       "id": "d9edf968b2d7",
       "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
@@ -581,16 +591,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "20a64d917dfc",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
-      "published": "2026-03-22T07:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -611,6 +611,16 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
+      "id": "16c0c8a64bf6",
+      "title": "Blutzucker-Kontrolle: Normale Werte senken Herztod-Risiko um 58% - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUtNS2oxQTVzSGJpbDZXQTR2NmJxMV9DcGJTd1ltWXhZWmR6cjVmOEdaRExaaVdyX0pITFpPTlNabjh0alFtZTFUQTU3Y3FTRTUybXJjdXFwWTNiR0R5YmRHamlBVTFsSjJXZDF3V0tVYjc1QjF3QkNEUUdjM3UxMVN3OFg3a2xBX1pQV0dWTVhDVEQ3NnZmenJGSHp5bC1rRndJcmVwUTdvM1A1OUlwR3VxMkFMWXlNS2Nr?oc=5",
+      "published": "2026-06-21T03:53:44+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "a83af48a47d9",
-      "title": "«Lehnen solche Rabatte ab»: Roche Schweiz Chefin Katharina Gasser im Interview - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc3pnZFJvM1VwNEhmMERZbWRzLUkyczRrQ2VtTXZwSVVxMVZINGN1X1g5RFp2dUthWXpQTWxmSVdxd2VxWkNUdEVnU0xTQndlenhQOVZtbVVqQ1M0WFRPcUtIbWxvQUc3Tzk3YVJvLWR1Mk9Vd0VkQ1BhVUtGcHBic212R1AtNC1PMDAya0MtejlYT2NVZmhkY1h5TUNqX1ctSEJoS28xMjdyQzE4RTQ0cTVvZWJyYkc3UXR5ZDNfZVppcXdzSlZuMk5PT2FGNXRjR0EwYzR3dmstaWMwSlNhYVA0eTdXS0JiWi1R?oc=5",
-      "published": "2025-03-19T07:00:00+00:00",
-      "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
       }
     }
   ]
