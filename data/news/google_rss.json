@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T04:56:31.754719+00:00",
+  "fetched_at": "2026-06-23T08:28:21.446172+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "cf0f2ef6b191",
-      "title": "Wenn Medikamente sich nicht vertragen – Risiken erkennen und vermeiden - wochenblatt.net",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkRsT3JtMVRSS1VBNTdnUkllVTgxaGgzUng5alJQZ2JjZUhaY1ZqYjBUMHl6N3h6cnpmLVFJNmw1Ulk2V1pNVHZWa09KNHduU1UwaVNQdEdodFNPdXVzTmJZTzlIX2RCOGhDS2UtQzM0Z3NQTjk5NmM3emhaTE4tVlVNWURHOW16NWlsQmZWQ3ZsajM1T0o0cjV6TmN0MHE4RV9BU2R2azFwbFJiblVPaVgwOURJLXRYbHhrTzlkQ2xiWFl4VlNF?oc=5",
-      "published": "2026-06-22T07:49:02+00:00",
-      "source": {
-        "name": "wochenblatt.net",
-        "url": "https://www.wochenblatt.net"
-      }
-    },
-    {
       "id": "8c241dbc3ada",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "cf0f2ef6b191",
+      "title": "Wenn Medikamente sich nicht vertragen – Risiken erkennen und vermeiden - wochenblatt.net",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkRsT3JtMVRSS1VBNTdnUkllVTgxaGgzUng5alJQZ2JjZUhaY1ZqYjBUMHl6N3h6cnpmLVFJNmw1Ulk2V1pNVHZWa09KNHduU1UwaVNQdEdodFNPdXVzTmJZTzlIX2RCOGhDS2UtQzM0Z3NQTjk5NmM3emhaTE4tVlVNWURHOW16NWlsQmZWQ3ZsajM1T0o0cjV6TmN0MHE4RV9BU2R2azFwbFJiblVPaVgwOURJLXRYbHhrTzlkQ2xiWFl4VlNF?oc=5",
+      "published": "2026-06-22T07:49:02+00:00",
+      "source": {
+        "name": "wochenblatt.net",
+        "url": "https://www.wochenblatt.net"
       }
     },
     {
@@ -54,13 +54,33 @@
       }
     },
     {
-      "id": "49bf6869d90c",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Preisdruck auf Medikamente - Euronews.com",
+      "id": "edcf559b1a0c",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
       "published": "2026-06-16T17:46:07+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "Euronews",
         "url": "https://de.euronews.com"
+      }
+    },
+    {
+      "id": "f3294abf95d7",
+      "title": "Mehr bezahlen, früher sterben - Jungle.World",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmxpNmM3TEc0MEVJeEw4bC1mYmtybzFHN05lSElZVmREZGdLODFURzl5WXJZNk5vZjVaTm52NFlUeHVWWXIta0M5dTZINGE1NGp2RkNJTVAyQ1hyUUp0M28yeDZUSzFPN19UMF96Mm4zWUtYMDVINlF4U29wRmc2T3FDTGI0Ym83RXA0bkQwbnhJS0VvQzln?oc=5",
+      "published": "2026-06-23T08:04:16+00:00",
+      "source": {
+        "name": "Jungle.World",
+        "url": "https://jungle.world"
+      }
+    },
+    {
+      "id": "1c3770179051",
+      "title": "Wenn die Blasenentzündung immer wiederkommt: / Aktuelle Studie zeigt: Kapuzinerkresse ... - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mQmxCTlRyR3NaUi1WQ0VXc21VSnFTNEVYUmF1VVoyeEJZYU9CUEhZaE50VkxuLTZZcXhlSXFScVVfYXo4ZDc2cVFlZzUyV3Rucms1UGln?oc=5",
+      "published": "2026-06-23T08:00:12+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -114,16 +134,6 @@
       }
     },
     {
-      "id": "14f3b2f757dc",
-      "title": "Wachsende Sorgen um die Gesundheitsversorgung in Deutschland - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNVh3QVA3aERMNGVsZ3lOT2hrYnVZMWRTSUpPSzYxVGwzVEM5bUZHdTVfQ0l4QW9BTlNqUGxLbkxhVTFwNlRkRm56eUFuTkctX0w0Zjl6VQ?oc=5",
-      "published": "2026-06-22T10:26:44+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "054c2beef78c",
       "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
@@ -131,16 +141,6 @@
       "source": {
         "name": "Fortune Business Insights",
         "url": "https://www.fortunebusinessinsights.com"
-      }
-    },
-    {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-05-01T07:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
       }
     },
     {
@@ -204,33 +204,23 @@
       }
     },
     {
-      "id": "ba81ff52779e",
-      "title": "7 Bedingungen, unter denen die Krankenversicherung die Kosten für selbst gekaufte Medikamente übernimmt. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzNtaUJHeTBEY1NVbXkzcWhrLTNkNy01LW02VE1JMFpsRGJQX1IyZUphdmlNbXNXSUNqcUZORzFzQ1VkS0lVREtXLTh1X1BTZmx2b1gxTm1ldENHckdDQXlORDJKR0lhaHlnY0dGa1hGNDBqaDQyY1ZWdTBSb2NuS1I2c0N2ZGx1OVQyakMtdmc?oc=5",
-      "published": "2026-06-20T00:25:53+00:00",
+      "id": "075a40db361f",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "ADAC",
+        "url": "https://www.adac.de"
       }
     },
     {
-      "id": "ba3114c59bb3",
-      "title": "Lauffen am Neckar - Lauffener Bote - Lauffener Unternehmensgespräche: Fast 50 Jahre Hölderlin Apotheke – Engagement für die Gesundheit in Lauffen am Neckar - Stadt Lauffen am Neckar",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9reGlaZU9IZFlPbEtxUko3TmdSOUFEb2ZZUDFaZThyZ3N3ajBUdU5hT1Zrb3kwSUkwY0l5bHEteGVlcTRBam9sd0ZmaXBOOG50cXc4cEVMcmFNR0hOeFhwRV9qX0plRnV0YXU3QnFJbm9HVW11VkRxXw?oc=5",
-      "published": "2026-06-22T08:39:24+00:00",
+      "id": "14f3b2f757dc",
+      "title": "Wachsende Sorgen um die Gesundheitsversorgung in Deutschland - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNVh3QVA3aERMNGVsZ3lOT2hrYnVZMWRTSUpPSzYxVGwzVEM5bUZHdTVfQ0l4QW9BTlNqUGxLbkxhVTFwNlRkRm56eUFuTkctX0w0Zjl6VQ?oc=5",
+      "published": "2026-06-22T10:26:44+00:00",
       "source": {
-        "name": "Stadt Lauffen am Neckar",
-        "url": "https://www.lauffen.de"
-      }
-    },
-    {
-      "id": "0b9c3545fb7e",
-      "title": "Das Gesundheitsministerium hat darum gebeten, die Versorgung mit Medikamenten sicherzustellen und Engpässe während des Sommers zu vermeiden. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFXcHl6U0xlZnpjRDI0WjVVUEpvS3hnS2h0dVI2R0VUMjRRUVRwdDZYVjlEbWpnV01QT3F0UEh3dzIxd3pkZDh1TGxyZlhxRVV5Z1pwNDRwSkRCbkctU3BCakZ0OWRwVzhHWXhRblZoZ2Z5TEdXU2g4ci1TYjlrX0J3d3gzSmt6Q1ZVWWxMS2xsRFdyVk9LOUs5MmxidDdLV0hJTWZn?oc=5",
-      "published": "2026-06-20T10:37:10+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -251,6 +241,16 @@
       "source": {
         "name": "Taylor Wessing",
         "url": "https://www.taylorwessing.com"
+      }
+    },
+    {
+      "id": "0b9c3545fb7e",
+      "title": "Das Gesundheitsministerium hat darum gebeten, die Versorgung mit Medikamenten sicherzustellen und Engpässe während des Sommers zu vermeiden. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTFXcHl6U0xlZnpjRDI0WjVVUEpvS3hnS2h0dVI2R0VUMjRRUVRwdDZYVjlEbWpnV01QT3F0UEh3dzIxd3pkZDh1TGxyZlhxRVV5Z1pwNDRwSkRCbkctU3BCakZ0OWRwVzhHWXhRblZoZ2Z5TEdXU2g4ci1TYjlrX0J3d3gzSmt6Q1ZVWWxMS2xsRFdyVk9LOUs5MmxidDdLV0hJTWZn?oc=5",
+      "published": "2026-06-20T10:37:10+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -324,16 +324,6 @@
       }
     },
     {
-      "id": "2f2708fe72cc",
-      "title": "Die Versorgung mit Medikamenten zur Bekämpfung von Epidemien und anhaltenden Hitzewellen proaktiv sicherstellen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUlfNTIxNWs2bWRxeUotS0dUaklkYnU5Nm00cldtTnNFQkNlUDZGSURvU1dOVkN3WFg4QlFvVk96TjNqVlRlMm42VldHQWRsdzhtQWNBLXIyTHJsSU02bkRFUXBTc0REdXdpYmcwZ1ZxTk5NR2xRaUlTcC1fWmNid2c0WDhJUUZjYkFZOGtYanpVR1B4YlYyZkRwNkJUMEk?oc=5",
-      "published": "2026-06-21T14:59:46+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "a620e539ca0e",
       "title": "Singen und neue Medikamente gegen Alzheimer - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajVWOUJaNk94VXAtdHZQdnhVTHNIdnQ1VWd3NEo5RU4tNjRMbHFrQWo2d0pDU3hQaTRVWjlXeWwydUUxQ21SMWVoVXJCRWs5by03QTRMbjI1cDFnRWRPdUpLcloxV1dxN09WRnpBOUlCQV8tSGZadF95bDdkYkRodXYxaWJtdmFMdHhWeHFZMXlsMGc0VXUwRHhuanBwV3JCMjNGYUo3WlFoaVJmeHQ0MDVLbjh4ZDhCT0RxNnN2aUd0cFhzSll0ejJ1RnVSQmNPUG9IRW1xNThLdElXcjM3Zg?oc=5",
@@ -351,6 +341,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "2f2708fe72cc",
+      "title": "Die Versorgung mit Medikamenten zur Bekämpfung von Epidemien und anhaltenden Hitzewellen proaktiv sicherstellen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUlfNTIxNWs2bWRxeUotS0dUaklkYnU5Nm00cldtTnNFQkNlUDZGSURvU1dOVkN3WFg4QlFvVk96TjNqVlRlMm42VldHQWRsdzhtQWNBLXIyTHJsSU02bkRFUXBTc0REdXdpYmcwZ1ZxTk5NR2xRaUlTcC1fWmNid2c0WDhJUUZjYkFZOGtYanpVR1B4YlYyZkRwNkJUMEk?oc=5",
+      "published": "2026-06-21T14:59:46+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -374,13 +374,23 @@
       }
     },
     {
-      "id": "8db31424e5bb",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
+      }
+    },
+    {
+      "id": "ba3114c59bb3",
+      "title": "Lauffen am Neckar - Lauffener Bote - Lauffener Unternehmensgespräche: Fast 50 Jahre Hölderlin Apotheke – Engagement für die Gesundheit in Lauffen am Neckar - Stadt Lauffen am Neckar",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9reGlaZU9IZFlPbEtxUko3TmdSOUFEb2ZZUDFaZThyZ3N3ajBUdU5hT1Zrb3kwSUkwY0l5bHEteGVlcTRBam9sd0ZmaXBOOG50cXc4cEVMcmFNR0hOeFhwRV9qX0plRnV0YXU3QnFJbm9HVW11VkRxXw?oc=5",
+      "published": "2026-06-22T08:39:24+00:00",
+      "source": {
+        "name": "Stadt Lauffen am Neckar",
+        "url": "https://www.lauffen.de"
       }
     },
     {
@@ -411,16 +421,6 @@
       "source": {
         "name": "Aargauer Zeitung",
         "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
-      "id": "7538a2b541cd",
-      "title": "Medikamente bei Hitze richtig nutzen: Wann Vorsicht nötig ist - Wochenblatt Reporter",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGtEbHhZSXVBN3BJWWJ4VVpIU1NmQ09ZakhoY0dRT0p5TV90ZHpORjBFWTA4S21zUjlFcGpfUnlZcnhySndIV0JvMnFvbXBvN25aLUszY2xXRVN6aGtEY1NuUlV6dVpHd216MmNpVEIxVy0zZkk5VkdodVpwQWw0dUFuX2VaYVFuZjhfV0tBeWdiQVNkd1ViQ2dkQWhFTlhWbkxlSTlpY2Z2a2RhYVVsWi1fMmtBLXM?oc=5",
-      "published": "2026-06-22T06:36:10+00:00",
-      "source": {
-        "name": "Wochenblatt Reporter",
-        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
@@ -464,23 +464,13 @@
       }
     },
     {
-      "id": "f52589adc53b",
-      "title": "Gesundheitsrisiken durch Hitze - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yUEtJS0pMRjNCYWFuT1Z1bzYxVFFyWUJIYjlxSmNGNmN2cVhKNmxva2VtTWxEMjlvbDZvaUh4WEl2R0JlQ1BDcnV1QkVSY2FXUC10MjBmVQ?oc=5",
-      "published": "2026-06-17T10:13:48+00:00",
+      "id": "7538a2b541cd",
+      "title": "Medikamente bei Hitze richtig nutzen: Wann Vorsicht nötig ist - Wochenblatt Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGtEbHhZSXVBN3BJWWJ4VVpIU1NmQ09ZakhoY0dRT0p5TV90ZHpORjBFWTA4S21zUjlFcGpfUnlZcnhySndIV0JvMnFvbXBvN25aLUszY2xXRVN6aGtEY1NuUlV6dVpHd216MmNpVEIxVy0zZkk5VkdodVpwQWw0dUFuX2VaYVFuZjhfV0tBeWdiQVNkd1ViQ2dkQWhFTlhWbkxlSTlpY2Z2a2RhYVVsWi1fMmtBLXM?oc=5",
+      "published": "2026-06-22T06:36:10+00:00",
       "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "570047baea79",
-      "title": "Aufnahme von Krebsmedikamenten der neuen Generation in die Krankenversicherung: Mehr Überlebenschancen für arme Patienten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOam9UT3p6elBaYlM5UGMzZk1JVlFlNVpiODZvdXh4anYwOUNaVzNDeUN4d0xDUllMeXpXa291Z3NZcGpNMFJEZ0lmdEwyZV9tUWtoX0JSRzdsUGZGQVU2N0I5eDJ6NnZrdEVUUWRhUlRuQ0R6M1hRbldUUGUwRkVfeW82V1FmQjQtWExESFNmN21DS05SUFlpcDBRbW02dFJ0eHc?oc=5",
-      "published": "2026-06-22T03:38:21+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Wochenblatt Reporter",
+        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
@@ -494,13 +484,23 @@
       }
     },
     {
-      "id": "2bff10f0a217",
-      "title": "Es wird erwartet, dass die Krankenversicherung 30 Medikamente zur Krebsbehandlung abdeckt, von denen einige 50 bis 60 Millionen VND pro Ampulle kosten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1pHQnBUcTBCaUJFdjV5alFDRGJ1UEw3dFZwUTRoSkNtSUZuVFFkUTU5ZVFJVGNySFZvWmZWai1SOEVMQlpqdlVZZVVfckxZbFl5MjhlVFJMWkp3TkFUZ083anB1eDQzVjdRNDc0QUZHRDJvbGFIOTJBa0NLWFJyN1FQNGVocS1uZUZaUEtWUnFqQ3ZERzFSWnRoUDczWXZvRDYwaTZFMlpsSnRXdUNvLQ?oc=5",
-      "published": "2026-06-18T04:48:53+00:00",
+      "id": "570047baea79",
+      "title": "Aufnahme von Krebsmedikamenten der neuen Generation in die Krankenversicherung: Mehr Überlebenschancen für arme Patienten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOam9UT3p6elBaYlM5UGMzZk1JVlFlNVpiODZvdXh4anYwOUNaVzNDeUN4d0xDUllMeXpXa291Z3NZcGpNMFJEZ0lmdEwyZV9tUWtoX0JSRzdsUGZGQVU2N0I5eDJ6NnZrdEVUUWRhUlRuQ0R6M1hRbldUUGUwRkVfeW82V1FmQjQtWExESFNmN21DS05SUFlpcDBRbW02dFJ0eHc?oc=5",
+      "published": "2026-06-22T03:38:21+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "f52589adc53b",
+      "title": "Gesundheitsrisiken durch Hitze - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yUEtJS0pMRjNCYWFuT1Z1bzYxVFFyWUJIYjlxSmNGNmN2cVhKNmxva2VtTWxEMjlvbDZvaUh4WEl2R0JlQ1BDcnV1QkVSY2FXUC10MjBmVQ?oc=5",
+      "published": "2026-06-17T10:13:48+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -834,16 +834,6 @@
       }
     },
     {
-      "id": "87b098ef1b52",
-      "title": "Religionskrieg gegen Komplementärmedizin - Pressenza - International Press Agency",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWTJGWFpJMlFZVjVjb3Q4Q0JpWHpCZ0tVc29QbzcyRGpyYjZNRllMRTdCdHBDRWlXRzJkMnFzaXM1aU9NUFNWSmUwVGZTeG1ZSFFfOW81WUw4Y3JjNlY4bEVxQWVFRWV4c2hRTnJGUlFPSVA5bmpLakNzMV8tZ01ackdwOEZfQQ?oc=5",
-      "published": "2026-06-21T15:38:56+00:00",
-      "source": {
-        "name": "Pressenza - International Press Agency",
-        "url": "https://www.pressenza.com"
-      }
-    },
-    {
       "id": "39655c0e5aa9",
       "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
@@ -911,6 +901,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "bcd30ea5acc5",
+      "title": "Was, wenn uns die Medikamente ausgehen? - Aargauer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE1oLURqeDZBVEtFcHhtbmFfMWFVdzBLcGRPSVY0b0s3elNMZ0FINmtFckNvQXRjXzktNFdGTklvUF9pcE0wMVgtNG5jTnBYSmFoWlppM1RlSzdfRkxOcmNSNEV2NFdQaEp4VDVEcUpwMUhTQWVxbTZyRW1YbnotNko5cDVudVBzcUxPckZjTWNnbnlPdmc?oc=5",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": {
+        "name": "Aargauer Zeitung",
+        "url": "https://www.aargauerzeitung.ch"
       }
     },
     {
