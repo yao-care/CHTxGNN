@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T18:48:54.218300+00:00",
+  "fetched_at": "2026-06-24T20:45:06.684262+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,6 +44,16 @@
       }
     },
     {
+      "id": "c5d8b7d25cb7",
+      "title": "Wie schütze ich mich gut vor Hitze? Tipps und Warnsignale - RiffReporter",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0dCOUVKTlFyRkxNeGVUOWJOX2Iyc19EVkx3aldKemFRVU5WOFBxWWJ4VWhzUkN0ZkJNdDFLcEtER0tCai1Sb2FpVmEyTFBqVnNZSmw1Wi1YR05jOWxSZnhkVGVkdnFHcnBRMHFaaFg1Z2JFa3RpOWd3WWxLa29rMGRTU2hDM2RWTTEtY3lfaG9tdHNlOGo5Vg?oc=5",
+      "published": "2026-06-19T13:40:46+00:00",
+      "source": {
+        "name": "RiffReporter",
+        "url": "https://www.riffreporter.de"
+      }
+    },
+    {
       "id": "31ccb4e1f93f",
       "title": "Hitzewelle: Gefährliche Überdosis bei Fentanyl - apotheke adhoc",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlZRVEpjVFlDd0RfQWl0RDl6UnFlSDBOUlo1elhmV3U4eERYdEJJV2VlV2VIWXVDbV9VY2pWMFJldk9WWUs2X1dQakIyVjg5Wmg3YWJhQjdSeUpDNktjZDR5VmJRbzJkSFAyVy1QMzFmejlrcmpTcC1reGRHams0a0lCeEJWSmRPVWZTRmdSTHR4X3NibDVTbWdHNnZhWERabUZvekQ3MEpXZ19aUmlxQjEwMA?oc=5",
@@ -61,16 +71,6 @@
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "d240d789ef31",
-      "title": "Wie schütze ich mich gut vor Hitze? Tipps und Warnsignale - riffreporter.de",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0dCOUVKTlFyRkxNeGVUOWJOX2Iyc19EVkx3aldKemFRVU5WOFBxWWJ4VWhzUkN0ZkJNdDFLcEtER0tCai1Sb2FpVmEyTFBqVnNZSmw1Wi1YR05jOWxSZnhkVGVkdnFHcnBRMHFaaFg1Z2JFa3RpOWd3WWxLa29rMGRTU2hDM2RWTTEtY3lfaG9tdHNlOGo5Vg?oc=5",
-      "published": "2026-06-19T13:40:46+00:00",
-      "source": {
-        "name": "riffreporter.de",
-        "url": "https://www.riffreporter.de"
       }
     },
     {
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "08f761ee3a89",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "source": {
-        "name": "Euronews.com",
-        "url": "https://de.euronews.com"
-      }
-    },
-    {
       "id": "48f0ff90c2bf",
       "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclR6WW1wSzczdDBSR0pxVXU2dldNWWZiNVdiZ2JKMzlXRGgxOFZNSGxTc1UyRFJGTlFLOVpfTUI5cmp3Y3Bic2FrQUs2Wjk3Y0doTXN3Q0pIMU56REJ6Z3poUVIwM09XUTRlQmpsY0kzMktXQVh2U1JtdlptYW1aNzY4cVA1bmF3LUNycFZBUHZQNGh0R0NkbU1BelZyVWxGV20wa2o0emtjYnRtb2FjS282b3o0VFJ6RHZYV3ZYaGowZw?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "08f761ee3a89",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://de.euronews.com"
       }
     },
     {
@@ -314,16 +314,6 @@
       }
     },
     {
-      "id": "5b5cfb9b7306",
-      "title": "Vorsorglich Medikamente einlagern, um auf Krankheitsausbrüche und anhaltende Hitzewellen reagieren zu können. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjZCa0FocERpM0NyY1FMTy1BZmZUcHVBTzA0clFDWGgwOUxzYm9DLUJvR05UM2owUUUzQVJCNHVnMUF5X0tSYWh2Q2VjUlM3aXAtX1FEb08tb2RlcjhKS0NrSU9ub0ZJdWVBbXJFMmNVYjRXRnNqR0VkRUN5TDBQdUdrNFRsbTNJM3VxQmtrcw?oc=5",
-      "published": "2026-06-21T11:17:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "1648c3dfecfa",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -334,6 +324,16 @@
       }
     },
     {
+      "id": "5b5cfb9b7306",
+      "title": "Vorsorglich Medikamente einlagern, um auf Krankheitsausbrüche und anhaltende Hitzewellen reagieren zu können. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjZCa0FocERpM0NyY1FMTy1BZmZUcHVBTzA0clFDWGgwOUxzYm9DLUJvR05UM2owUUUzQVJCNHVnMUF5X0tSYWh2Q2VjUlM3aXAtX1FEb08tb2RlcjhKS0NrSU9ub0ZJdWVBbXJFMmNVYjRXRnNqR0VkRUN5TDBQdUdrNFRsbTNJM3VxQmtrcw?oc=5",
+      "published": "2026-06-21T11:17:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "f3294abf95d7",
       "title": "Mehr bezahlen, früher sterben - Jungle.World",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmxpNmM3TEc0MEVJeEw4bC1mYmtybzFHN05lSElZVmREZGdLODFURzl5WXJZNk5vZjVaTm52NFlUeHVWWXIta0M5dTZINGE1NGp2RkNJTVAyQ1hyUUp0M28yeDZUSzFPN19UMF96Mm4zWUtYMDVINlF4U29wRmc2T3FDTGI0Ym83RXA0bkQwbnhJS0VvQzln?oc=5",
@@ -341,6 +341,16 @@
       "source": {
         "name": "Jungle.World",
         "url": "https://jungle.world"
+      }
+    },
+    {
+      "id": "4254b7710513",
+      "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
+      "published": "2025-08-19T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -401,16 +411,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "4254b7710513",
-      "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
-      "published": "2025-08-19T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
@@ -584,16 +584,6 @@
       }
     },
     {
-      "id": "7b69e052f6bb",
-      "title": "Diabetes bei Frauen: Insulinbedarf steigt in zweiter Zyklushälfte um 15% - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVgzbUVXaDlNZ2NYOHpXUHVrTnFFOU5lVWVla1VuRFhmYWZBeV94cF9RVjZ1RWx4QU9TLWxUZ3czYkNuVWtuTGJfdlVndjZTd3RqY0t1ZlFUbGFUc1k0UjAxUDB6U0JYWTh3UEMtbkJOb0tJWlVVTk9hOEZDMGs2SlYwLWFuWUg3bkRmUW90aWthTlptd2poZ3Q2ZmxCT0pQVnA2aDhTT0t4MWhoWmZkWnUzZENfMTRaeC0tRQ?oc=5",
-      "published": "2026-06-24T16:09:55+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "4f930e0f3811",
       "title": "FDA genehmigt erstes Generikum zur einmaligen Anwendung für die Behandlung und Vorbeugung von Grippe. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVh1OXFabjNEZVY2T2dzalg5VGRzT192ZW5pSmdLeEREYXNKVWlHMVZfVDBMcmMyMkN3QU95Z1J3YmhwaG5pS3dFQUJUZUlwemNhNEJLbmN1SlZPb0o1RzlsSTZOX2dMelRRWFhjVXAyRnk1OXh0TkUtYmxWREQwaWZka0piLWFLOHVwbTRMRU9qSHAwZllFR1B3OHdDNkV3eGRN?oc=5",
@@ -604,16 +594,6 @@
       }
     },
     {
-      "id": "20a64d917dfc",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
-      "published": "2026-03-22T07:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
       "id": "1f4441bb42a2",
       "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDQ4aUF0OUVjbTB5LXZPc1JjcGo2U2RMUHdCNlpmQXV3RHFQeHJfRHlGcUZxVDRjZEVZV21TRmRTalZTdU9WN1RWeFREc212am9oREtTNjNBU0o5dW51RHM3US1WOXdFbWtnZ1RwM2diM21uTkVRN25HTVc1ZjNiM2Vhc0FjYXlBd1FadUM2RGd0UkEyalBmUWNpcmxMNTV3dUswMGlQSQ?oc=5",
@@ -621,6 +601,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "20a64d917dfc",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
+      "published": "2026-03-22T07:00:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -804,16 +794,6 @@
       }
     },
     {
-      "id": "51d9137003bd",
-      "title": "Hüten Sie sich vor gefälschten Medikamenten in den Bergregionen von Tuyen Quang. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1loSFM0dklMNGpTTGNvZEJ6TUxXMmt6N0lmXzA2d25GUTJKSkxuYVhYM2RIcWxaY1BETXNxU2lJOG9mWjlTYkQ3dEJSQTZER0xYOHpVSjY0UktEblVFbmlkSFl6bHBTd2JqTERERDlZX2Q4bU1pQk5tV2pVclRfczJBVUNYSFo1RFNB?oc=5",
-      "published": "2026-06-23T04:09:04+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "4f1eeceab428",
       "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
@@ -864,16 +844,6 @@
       }
     },
     {
-      "id": "5fd73dc2932c",
-      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
-      "published": "2026-05-27T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "e7fc237accfb",
       "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - STERN.de",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG5SMnM4aXU5czJ1S2dnUzdMeFBmb3IxQVBKWGVvcVB0eUJQUjkxRU00RHEtQlRjVU1EM0Z2WF95SG85WDJPSjVNcjRTWFM1OHVXNm5pdVAxZGtDcHJTSXFpSDAtdUstM0JISWRKcEI5OXRXZ2hXSzQ3cFJqb0g5N0ZRajJtY21JUmRNNmZweXg1bEpuOXc0Rk9CNENaMHNOYTc4OGtjZw?oc=5",
@@ -884,13 +854,13 @@
       }
     },
     {
-      "id": "985174a63ec4",
-      "title": "Weniger Medikamente für Hochbetagte: Regierung gegen Vorstoß von Drogenbeauftragtem – News - Deutsches Ärzteblatt",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaE9NQ3JtTVB5a2Y0eGRyRDVxcEd6aEhpRVEyUlFKMWkwa3RMNVVaUklLRURNcDE3Z2dfa0tjNFNzdU1Fd3Y0SXdvU1Nod3lTX2hDN3MtRDJLLWVsNDA3Um9DOUdLaG0yZ0VxcEdfeE9oci1Kai1aTy1vS2ZyQ3drMk1FWXl1ejlGSmVhRURvZklVNVZ6TTRDSTA5S1ZYOUFPQk1JTUZMWVJJMzhBeWxDeVRBem9ESV9PdHRkMjN2U0FBaDFBaXd6Yy05TGR6T2ExSUdacW12T2gzM2swOHlxc0JSTThjOHc?oc=5",
-      "published": "2025-11-14T08:00:00+00:00",
+      "id": "5fd73dc2932c",
+      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
       "source": {
-        "name": "Deutsches Ärzteblatt",
-        "url": "https://www.aerzteblatt.de"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -924,16 +894,6 @@
       }
     },
     {
-      "id": "eae05a036d51",
-      "title": "Krankenkassen sollen im Ausland gekaufte Medikamente nicht bezahlen müssen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkhSZnlRbk92NUxMYVNKcEczallvU3RqYUVxMEtyRVhIVGc3dE9uOHB2VG9VNko2MU5rdDdjbXhKbnFLUnJHdGNYWXU5UUtOZTJZTE1MV3ZGSW9sa1VzTFdfOVZNbDluaEI1dG1QbDdnc1NFRUprcWlFUko1RTNXcVUyaXVKdUw2QlFNeGtjUnZBMW1lbHBPcldqQkZqSXItWFlua2JudVQ4R1VULXZfczRleGdBVnFwTWUw?oc=5",
-      "published": "2025-09-18T07:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
       "id": "b9ca65e5a941",
       "title": "Marktbericht: dm steigt in den Gesundheitsmarkt ein - tagesschau.de",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0RWVjQ1MFJ3RDJCdFRnZ3Z1RUU4YThkS1F2bnowNnZBQWk1QlIxdWNtMFN6a19KWWlhTnFyVUNRSGNLanRyR01ZM0lxSG1HRFBqQ3l3QXBMR1F6UU43X29oLTZEODQ1TktKWmhOVVR4YW10YWY1Qm5JZlZoLU8tMlhDYw?oc=5",
@@ -941,6 +901,16 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "eae05a036d51",
+      "title": "Krankenkassen sollen im Ausland gekaufte Medikamente nicht bezahlen müssen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkhSZnlRbk92NUxMYVNKcEczallvU3RqYUVxMEtyRVhIVGc3dE9uOHB2VG9VNko2MU5rdDdjbXhKbnFLUnJHdGNYWXU5UUtOZTJZTE1MV3ZGSW9sa1VzTFdfOVZNbDluaEI1dG1QbDdnc1NFRUprcWlFUko1RTNXcVUyaXVKdUw2QlFNeGtjUnZBMW1lbHBPcldqQkZqSXItWFlua2JudVQ4R1VULXZfczRleGdBVnFwTWUw?oc=5",
+      "published": "2025-09-18T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -1001,6 +971,36 @@
       "source": {
         "name": "dw.com",
         "url": "https://www.dw.com"
+      }
+    },
+    {
+      "id": "d6702eea68c6",
+      "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYWlNEMVdKV0JFOGp6aTR3NHotVFlWc1pUajJ6WVc0SVVLNmo5c2otX0tmbnF3QmhvNFlQS2FJNkwzejFfeXU2a1U1d2ZPSzgwMHdVSThrbw?oc=5",
+      "published": "2026-03-06T08:00:00+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "6eaac0e35900",
+      "title": "Ukraine: Von der Europäischen Union finanzierte Kliniken für die primäre Gesundheitsversorgung verändern das Leben von Patienten - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbDQ0OTlwYWJLOTJYdnhPLWpjTGJhZ0R6Q1lzblVyc0hNZUZsUUxXZWRBYmt0VVo0dGpEY3pKUlFCY0NtUk02MDQ0VmhzQk01TlZJcHZMamt5OGFvdWkzVFpjOVBhWVd4S1Y5bFJMRGdVM25TSFVJUWdqb0ZRSlJhcDdYSktVckIxVTY2UkhXd04zZTA4c1VvYnRwcC1JaVdBNDl3UmpISUQwV1NhZHNUT0hXZ2pSWHlwMEpFcERHZ0JuSXRqT0s1OTdrWG1QeE5ETVBTVzRzb3I4QTNNZzlFWGZvcVR2NzV4?oc=5",
+      "published": "2025-07-04T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "c186b4db6c10",
+      "title": "Teure Medikamente für 100-Jährige? Streecks Aussagen zu sehr alten Menschen stoßen auf Zuspruch und scharfe Kritik - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclVaUzUxWl9ZNUVvOVZHTXhQdEtRQ205NGJtNU9TQTZTQWUxMVJPNzFsMHFZbXVIa2NfQ1JRSjJicV9YSGQ1dFVXcWFJa2ZZR1o5ZmNwcjA3TmxjRFRhb3ptX25MZzEwdWszclJpNThyUHc5VDFSX2NiTk8tc0tBOUJWcFV5RHhvMGYwa1FlbldHYVVpbHl3cUZ1N0ZseU1rSjFlb2N6WjJoeFQ4QXNhLU9oeTBYTkpDMzZ3NmFyQko1M2dKRzJtbWlfMVJyN2VaemdDMTQ1a19UcTlFOGI3NHRXeXo5STZ2Mi1vREpIWDg3VGlYbXl3?oc=5",
+      "published": "2025-11-13T08:00:00+00:00",
+      "source": {
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
       }
     }
   ]
