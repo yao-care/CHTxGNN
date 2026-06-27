@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T07:45:50.323334+00:00",
+  "fetched_at": "2026-06-27T10:02:29.442940+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,6 +24,16 @@
       }
     },
     {
+      "id": "9f0ca33bb812",
+      "title": "Arzt warnt vor Medikamenten bei Hitze: „Plötzlich andere Dosierung“ - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWWJvbXVvRGFKRWEycTd5Y0RGcmRLUWtWOGE5TlFkV1FZY3NNRWd2QS1JOWl6dDZ2LXZQMVA4akEyTDZ0aUhuMFFuMkVoamNneU9ES3VJWmVla3ZKdFIzRXo1WkE4WlNrcFdQMG5lakRReER2Y2x0N1BHQVVFc0NpWWFfakt4TC1xMVBnVVZEZEZoQmRmQ2xvWEpTaGxvc3o3OU54cUk2cVlSOGtiMUdrSzBIOEpkb1d5Q3prU1ZoZ0tyQ29w?oc=5",
+      "published": "2026-06-27T09:25:32+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
+      }
+    },
+    {
       "id": "9ced971ef53e",
       "title": "Finanzierung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
@@ -44,13 +54,13 @@
       }
     },
     {
-      "id": "736900562b55",
-      "title": "Die Abnehmspritzen, die alles verändern könnten - RND.de",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVGlHcG00QVd6alJhUDVNclNXM0txR3N2eUl2ODJZVEcxUHhYY3gwbHQtWU9ab0l4cE1JWmU2eEp2czhrdVlDS0UwS2IzalFQeXo3aWpGZndzMVFRT2YyazU1djlBcWE5M3ZOc2pBR2hCMk9oQUVlR0VNVVpQbEtUeWZHbUFvVUFrMVkxM3VyN0ZtMGdvMDYxa2U2cGJnbFRpN25hQ0lRQ0RXcTNTTEJLNVpjaTlmMEhaekI3NUFDc2NNeGI0V25YZXZYekFJN3pvc2xmSTR2aXBIaVNLRExB?oc=5",
-      "published": "2026-06-26T10:06:08+00:00",
+      "id": "6af01eeaba54",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS08wZEpmX0JlRkdDbzFDUEtNTkRnOWpaTHQyNE9sa0NjX0lIMGNnSFNfTXc5dkZ4Zlp6Z3k3WjhPLWdSTWp0Zy1QdnBERmczeXR1ZWEyRUhjUmdreDBBY3JMOTU1SUJHdjBUZkV3M200SWM3N0ppSnJKR09LM1U5SFVXNXVNM1ZTOGR6VEh6WFRUbGl6WExWZ19TS2h5SlAtcEJRZjZUM3V1N24xRDlWc0dOdWNTNjktaXNOU1htQkY?oc=5",
+      "published": "2026-06-27T03:27:23+00:00",
       "source": {
-        "name": "RND.de",
-        "url": "https://www.rnd.de"
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -61,16 +71,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "b3c4e3eb9137",
-      "title": "So legen Sie aponet.de als bevorzugte Nachrichtenquelle bei Google fest - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHNDWnh1WjFuWkRjdVBlLXFXdWd3RHpZNHhqOFpqdDVtdmd6ODhjbllRaEhDRWJPZjRfWWQxbF9kb0VkZTA0aC1RYWladHdIMlNsSU1zRjd1MzhiVTFZTHRILUZlQmpqdGZhV2FvNDEybWNZaFNaaVBPLVZyM1ZaS19PS1lERDNLNy1jY1FUOTJJNUFwQjdpaGg5ZGtrVnhESnRDYllveFBKZw?oc=5",
-      "published": "2026-06-26T08:14:17+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
       }
     },
     {
@@ -104,6 +104,16 @@
       }
     },
     {
+      "id": "b3c4e3eb9137",
+      "title": "So legen Sie aponet.de als bevorzugte Nachrichtenquelle bei Google fest - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHNDWnh1WjFuWkRjdVBlLXFXdWd3RHpZNHhqOFpqdDVtdmd6ODhjbllRaEhDRWJPZjRfWWQxbF9kb0VkZTA0aC1RYWladHdIMlNsSU1zRjd1MzhiVTFZTHRILUZlQmpqdGZhV2FvNDEybWNZaFNaaVBPLVZyM1ZaS19PS1lERDNLNy1jY1FUOTJJNUFwQjdpaGg5ZGtrVnhESnRDYllveFBKZw?oc=5",
+      "published": "2026-06-26T08:14:17+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
       "id": "38b8b0aa9188",
       "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
@@ -124,13 +134,13 @@
       }
     },
     {
-      "id": "5da14e5482e8",
-      "title": "Welche Vorsichtsmaßnahmen sollten bei der Einnahme von Medikamenten an heißen Tagen getroffen werden, um Austrocknung und niedrigen Blutdruck zu vermeiden? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmh6TXUtSTBZek05dENPT1lDREtGNkEyWF90c0RSbHdsNk03dG5QR3BGM3pXeTlhLWtIbnJ0NU9wOE9qRTBlTlU2RzlnMVhyRnVCNU9TQVFaT0R0bVBmNXNtVDB2V3RTcE92UTl6RW5ONENJcHl1N1dVdUFBQmpHUDB5WjR0em5xOEVMa2g5NGZOUFBpQW1QMjF6ak1ITU0?oc=5",
-      "published": "2026-06-26T23:11:54+00:00",
+      "id": "e55e30521cda",
+      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
+      "published": "2026-05-04T09:31:59+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Taylor Wessing",
+        "url": "https://www.taylorwessing.com"
       }
     },
     {
@@ -144,23 +154,23 @@
       }
     },
     {
-      "id": "e55e30521cda",
-      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
-      "published": "2026-05-04T09:31:59+00:00",
+      "id": "736900562b55",
+      "title": "Die Abnehmspritzen, die alles verändern könnten - RND.de",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVGlHcG00QVd6alJhUDVNclNXM0txR3N2eUl2ODJZVEcxUHhYY3gwbHQtWU9ab0l4cE1JWmU2eEp2czhrdVlDS0UwS2IzalFQeXo3aWpGZndzMVFRT2YyazU1djlBcWE5M3ZOc2pBR2hCMk9oQUVlR0VNVVpQbEtUeWZHbUFvVUFrMVkxM3VyN0ZtMGdvMDYxa2U2cGJnbFRpN25hQ0lRQ0RXcTNTTEJLNVpjaTlmMEhaekI3NUFDc2NNeGI0V25YZXZYekFJN3pvc2xmSTR2aXBIaVNLRExB?oc=5",
+      "published": "2026-06-26T10:06:08+00:00",
       "source": {
-        "name": "Taylor Wessing",
-        "url": "https://www.taylorwessing.com"
+        "name": "RND.de",
+        "url": "https://www.rnd.de"
       }
     },
     {
-      "id": "a9912f11a532",
-      "title": "„Backofen Lieferwagen: Heiße Luft kann töten“ - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpRQWIyRHB1VUgtZUNuLXdTWC1oUmNodmNwd2thSUdrTlB2em54bHA4Ukk2MHZzRUl1RlYtR292M0c0anhmZ0NxUGdYUWpJRFBqYXplSGlIZmtRMXczcU5SWGlJUUl0QWh6QjQxc2o2VlZMTXJ2OGx3dzRuRFIwNUcwQQ?oc=5",
-      "published": "2026-06-26T09:18:22+00:00",
+      "id": "5da14e5482e8",
+      "title": "Welche Vorsichtsmaßnahmen sollten bei der Einnahme von Medikamenten an heißen Tagen getroffen werden, um Austrocknung und niedrigen Blutdruck zu vermeiden? - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmh6TXUtSTBZek05dENPT1lDREtGNkEyWF90c0RSbHdsNk03dG5QR3BGM3pXeTlhLWtIbnJ0NU9wOE9qRTBlTlU2RzlnMVhyRnVCNU9TQVFaT0R0bVBmNXNtVDB2V3RTcE92UTl6RW5ONENJcHl1N1dVdUFBQmpHUDB5WjR0em5xOEVMa2g5NGZOUFBpQW1QMjF6ak1ITU0?oc=5",
+      "published": "2026-06-26T23:11:54+00:00",
       "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -171,16 +181,6 @@
       "source": {
         "name": "PublicEye",
         "url": "https://www.publiceye.ch"
-      }
-    },
-    {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
+      }
+    },
+    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -224,13 +234,13 @@
       }
     },
     {
-      "id": "1a802f0773d1",
-      "title": "Psychopharmaka und Hitze: So gehen Sie gut mit dem Risiko um - Westdeutsche Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWViV3V5MXhQOEFpdVhib3lzZ0Y5WExXMjFTS09HV29IRTJwRlA1YWp0dDk2M05CUHN3TkhYai1wU2x1NzhoRFJQOXdDb3JxR1lwSFQ5WDJsXzNpVXdJZW9hUDlSVDVNaVNBcGlqQ3RjN0VYenRrSU1iTXFGaENnVTk3TWZHUjdINzZhUU40ZVRhaVNaTlg3djBrSzBGSWIxWHQxQndnQm5sbEdrUHk4UTVrV1JaQ3FidG1mREthYW8tTTNn?oc=5",
-      "published": "2026-06-26T12:10:00+00:00",
+      "id": "a9912f11a532",
+      "title": "„Backofen Lieferwagen: Heiße Luft kann töten“ - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpRQWIyRHB1VUgtZUNuLXdTWC1oUmNodmNwd2thSUdrTlB2em54bHA4Ukk2MHZzRUl1RlYtR292M0c0anhmZ0NxUGdYUWpJRFBqYXplSGlIZmtRMXczcU5SWGlJUUl0QWh6QjQxc2o2VlZMTXJ2OGx3dzRuRFIwNUcwQQ?oc=5",
+      "published": "2026-06-26T09:18:22+00:00",
       "source": {
-        "name": "Westdeutsche Zeitung",
-        "url": "https://www.wz.de"
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -321,6 +331,16 @@
       "source": {
         "name": "Euractiv",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "9aeb9db8c31f",
+      "title": "Apothekerin und Arzt erklären: Psychopharmaka und Hitze: So gehen Sie gut mit dem Risiko um - RP Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2RJMkFuSGk2cTh4Ykx4alhJR0wwZzUzWW0yelhYYjc3aXNXN0F5aUFDTXVTWTBlZXcyb2ZQOGdQdWRDMFlGMlZhUV9lS3lhTFd2NlR4NERKVDBFZW1fVkFpNWx1ZU5DVXk0OS1OM3gweVNLcHVwR2F0d2xjaV9DSWlaczF6UnhYWWNZZ1ZFZ195OTRvbm9udlNfNllxYlgzVThkRkNuTTZ0eGVfSTljUQ?oc=5",
+      "published": "2026-06-26T12:10:00+00:00",
+      "source": {
+        "name": "RP Online",
+        "url": "https://rp-online.de"
       }
     },
     {
@@ -464,16 +484,6 @@
       }
     },
     {
-      "id": "f3294abf95d7",
-      "title": "Mehr bezahlen, früher sterben - Jungle.World",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmxpNmM3TEc0MEVJeEw4bC1mYmtybzFHN05lSElZVmREZGdLODFURzl5WXJZNk5vZjVaTm52NFlUeHVWWXIta0M5dTZINGE1NGp2RkNJTVAyQ1hyUUp0M28yeDZUSzFPN19UMF96Mm4zWUtYMDVINlF4U29wRmc2T3FDTGI0Ym83RXA0bkQwbnhJS0VvQzln?oc=5",
-      "published": "2026-06-23T08:04:16+00:00",
-      "source": {
-        "name": "Jungle.World",
-        "url": "https://jungle.world"
-      }
-    },
-    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -481,6 +491,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "f3294abf95d7",
+      "title": "Mehr bezahlen, früher sterben - Jungle.World",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmxpNmM3TEc0MEVJeEw4bC1mYmtybzFHN05lSElZVmREZGdLODFURzl5WXJZNk5vZjVaTm52NFlUeHVWWXIta0M5dTZINGE1NGp2RkNJTVAyQ1hyUUp0M28yeDZUSzFPN19UMF96Mm4zWUtYMDVINlF4U29wRmc2T3FDTGI0Ym83RXA0bkQwbnhJS0VvQzln?oc=5",
+      "published": "2026-06-23T08:04:16+00:00",
+      "source": {
+        "name": "Jungle.World",
+        "url": "https://jungle.world"
       }
     },
     {
@@ -521,16 +541,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "42951d235f55",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHhiR09Hbzh2cWgwNDFHVzY3SjlMV1BUa0ZBaEZqOHVuZEtpQjVsb25Dd0JMMjF6OFlwRE9xZXduOXVlSWdtdzd6VnEzUkh5a0lOWE4zVnBtRGVvTDBybHRMU2U2cHBiLWdURllwMWJQZHo5UHlSMHNON1JwNG5tdUVDaHhuX1ZMSUoyWTVzSWxtVEZ4LVp3dWUwNXlVZ0lUYVFpQjNMaV93Vi1wQ2FyRThwNkZWV0RQRy1oODFsOVA?oc=5",
-      "published": "2026-06-23T03:26:44+00:00",
-      "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -654,16 +664,6 @@
       }
     },
     {
-      "id": "19f233cadfd8",
-      "title": "Tag der Apotheker: Bevölkerung für mehr Gesundheitsleistungen in der Apotheke - OTS.at",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzFVenNKYnRfdHhVV3ZxY3FmY19FNUFoU0FIOFhwaDBVWVF6RGxYTkZkQ1Z4ZHRNblUydERsVlAyWG1DVUNMZ2o0NFNITGFiVjRxRlhjSjRKbGVqMVN2S1VoZnRUWGVrUVlIRUVBVHJodk1NMUpULXB4X3dKQUhxdjdDTENmNWJGTTNRSzcxTjNjMXNDYkdFQVhnc0djMHh4TmxsVHBaUW1YRzdac2FuWlhFV2lmQmlGc2V6Q1dzR2ZLTmV4RWtRMlpoWjFFR2I5?oc=5",
-      "published": "2026-06-26T07:00:35+00:00",
-      "source": {
-        "name": "OTS.at",
-        "url": "https://www.ots.at"
-      }
-    },
-    {
       "id": "bf4677339511",
       "title": "Medikamente in der Online- oder Offline-Apotheke kaufen? - Statista",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDByRFg3TzdRckNmUlZFTHlDcV9uaVBDbHdNSTBmclFnU25WZmg1WVhwcUZKRm9hNlhOdVgzSE5tWWZUNlZxcFJFVEVwUVhRUkdmb1NwSEdiZkxZLWZBcW5LNk52dHBpLXFEU1FYcGRWeGcwUi11MURVRk1Nc240TnFEeEsyZThnWnBwZ1hiQ2M5cmt6ODZCRF9raV9jZlpIeFdfb3NTQXI2R0RSSnBF0gG0AUFVX3lxTE8tT1ZPcHpINi12SFg3eVgtM3BZMFVhMHRNQmZvdzJ3NTZSRUZUb3REdHpWaG1leld5QkN4N0xaWUVYcHotM0J2SVNTWUJVQmtxcmVxRTVILVY0LW1iUWp4QTVkSmg5QkE1NHhrZmUtZ1RRenRKR1ZSTktxeGVDVnJUZ2pvbmR5NHlnUzlHQ1BVaUtOMmxIOE9QTlVrQVFIc21FdW9PR0UxU19PZlJnbGJyZjdPbg?oc=5",
@@ -674,6 +674,16 @@
       }
     },
     {
+      "id": "19f233cadfd8",
+      "title": "Tag der Apotheker: Bevölkerung für mehr Gesundheitsleistungen in der Apotheke - OTS.at",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzFVenNKYnRfdHhVV3ZxY3FmY19FNUFoU0FIOFhwaDBVWVF6RGxYTkZkQ1Z4ZHRNblUydERsVlAyWG1DVUNMZ2o0NFNITGFiVjRxRlhjSjRKbGVqMVN2S1VoZnRUWGVrUVlIRUVBVHJodk1NMUpULXB4X3dKQUhxdjdDTENmNWJGTTNRSzcxTjNjMXNDYkdFQVhnc0djMHh4TmxsVHBaUW1YRzdac2FuWlhFV2lmQmlGc2V6Q1dzR2ZLTmV4RWtRMlpoWjFFR2I5?oc=5",
+      "published": "2026-06-26T07:00:35+00:00",
+      "source": {
+        "name": "OTS.at",
+        "url": "https://www.ots.at"
+      }
+    },
+    {
       "id": "566dd4d9d4e6",
       "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
@@ -681,16 +691,6 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
-      }
-    },
-    {
-      "id": "14f3b2f757dc",
-      "title": "Wachsende Sorgen um die Gesundheitsversorgung in Deutschland - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNVh3QVA3aERMNGVsZ3lOT2hrYnVZMWRTSUpPSzYxVGwzVEM5bUZHdTVfQ0l4QW9BTlNqUGxLbkxhVTFwNlRkRm56eUFuTkctX0w0Zjl6VQ?oc=5",
-      "published": "2026-06-22T10:26:44+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
       }
     },
     {
