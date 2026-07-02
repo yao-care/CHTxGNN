@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T19:18:13.047447+00:00",
+  "fetched_at": "2026-07-02T21:00:30.820186+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "3ebb0c2080d6",
-      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
-      "published": "2026-07-02T13:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "9ced971ef53e",
       "title": "Finanzierung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
@@ -44,13 +34,13 @@
       }
     },
     {
-      "id": "0e541b828955",
-      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTDFWNUZxWUU2WWg5amJnaTZ4aHV6LTVGamFHVnBYaUJabUZxY1lEdFhGaUNLMmlpWC1weWhjSkFiSXlqY2ZwQ1ZoeDJDUXc4OVBsN3NBWGRUMXMyazgweGE3bFpvRFIwX2QxNHVHdk9SWEowVGtGblU1d0dtaTQwTHA2ME1iM0JMREw2cW9OemtfRnBzTmt1Ymc4NFc0Q3FaRnkyeGdlZjdUNGdRazkyN3p4NVVsN09SZlRZNy1fVFNpNlQzWmU4N2ttTng2OUpnOHdfWGZhOTBfZXMyblFwNzZON3VOamlmSXlhRlhia25zbnkz?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
+      "id": "3ebb0c2080d6",
+      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
+      "published": "2026-07-02T13:00:00+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -164,6 +154,16 @@
       }
     },
     {
+      "id": "4080c21f4b27",
+      "title": "Multiple Sklerose: Was neue Medikamente für Betroffene verändern - Oberösterreichische Nachrichten",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTlJobzdQSFlLTHh2akNkRml2RGlET1Zuajc4LVJ3c3o0MGd1QjQzUWJ3dXhXLWFiQjd1Y3FwMWpCNkRYOEl6VkFOSWxJSm1HalZFcmhNcTNMQW5RQlNUaGhLZnl4NEUwVFpwNDduR2V6N3ZvSjNIMEplZjFodHpmRUxKN2YzZEdGZ2haclZtQUpjVnV5RU1DNWdDc0V6NFk?oc=5",
+      "published": "2026-07-02T12:02:00+00:00",
+      "source": {
+        "name": "Oberösterreichische Nachrichten",
+        "url": "https://www.nachrichten.at"
+      }
+    },
+    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -171,16 +171,6 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "e6d4fd732f31",
-      "title": "Cigna Group stärkt ihre Rolle im US-Gesundheitsmarkt. Fokus auf Versicherung und Service - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdk41R21SSE12QUVxVXJlcWFoYmsxTGkyMVJIeVV1dzNzYlliYTRKSERUcDVlb3EzbUZQWmpyTFZIUW5KS2YwYVdfZk5sLUExV2hnU2FRV0stZHYyQllkd0xwMVhSNmJfSWxvTjBqU0hOcHNJYUgwdzF0TkEwT1p2SWtKWi1rTWx6bnhaZzh0MUJvUEQzQk5TNDE1UEFTV2hGd3U4NE5WWHdKZVdkYjJScktyc2lwUEhzRVdSUUdGZw?oc=5",
-      "published": "2026-07-02T09:11:41+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -221,6 +211,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "e6d4fd732f31",
+      "title": "Cigna Group stärkt ihre Rolle im US-Gesundheitsmarkt. Fokus auf Versicherung und Service - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdk41R21SSE12QUVxVXJlcWFoYmsxTGkyMVJIeVV1dzNzYlliYTRKSERUcDVlb3EzbUZQWmpyTFZIUW5KS2YwYVdfZk5sLUExV2hnU2FRV0stZHYyQllkd0xwMVhSNmJfSWxvTjBqU0hOcHNJYUgwdzF0TkEwT1p2SWtKWi1rTWx6bnhaZzh0MUJvUEQzQk5TNDE1UEFTV2hGd3U4NE5WWHdKZVdkYjJScktyc2lwUEhzRVdSUUdGZw?oc=5",
+      "published": "2026-07-02T09:11:41+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -334,13 +334,13 @@
       }
     },
     {
-      "id": "b3c4e3eb9137",
-      "title": "So legen Sie aponet.de als bevorzugte Nachrichtenquelle bei Google fest - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHNDWnh1WjFuWkRjdVBlLXFXdWd3RHpZNHhqOFpqdDVtdmd6ODhjbllRaEhDRWJPZjRfWWQxbF9kb0VkZTA0aC1RYWladHdIMlNsSU1zRjd1MzhiVTFZTHRILUZlQmpqdGZhV2FvNDEybWNZaFNaaVBPLVZyM1ZaS19PS1lERDNLNy1jY1FUOTJJNUFwQjdpaGg5ZGtrVnhESnRDYllveFBKZw?oc=5",
-      "published": "2026-06-26T08:14:17+00:00",
+      "id": "9c7eaaba1281",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
+      "published": "2025-11-12T08:00:00+00:00",
       "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -354,13 +354,13 @@
       }
     },
     {
-      "id": "9c7eaaba1281",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
+      "id": "b3c4e3eb9137",
+      "title": "So legen Sie aponet.de als bevorzugte Nachrichtenquelle bei Google fest - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHNDWnh1WjFuWkRjdVBlLXFXdWd3RHpZNHhqOFpqdDVtdmd6ODhjbllRaEhDRWJPZjRfWWQxbF9kb0VkZTA0aC1RYWladHdIMlNsSU1zRjd1MzhiVTFZTHRILUZlQmpqdGZhV2FvNDEybWNZaFNaaVBPLVZyM1ZaS19PS1lERDNLNy1jY1FUOTJJNUFwQjdpaGg5ZGtrVnhESnRDYllveFBKZw?oc=5",
+      "published": "2026-06-26T08:14:17+00:00",
       "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -371,16 +371,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "c15b9dc3ee6b",
-      "title": "Walgreens Boots Alliance setzt auf Apothekennetz. Der Gesundheitskonzern justiert sein Geschäftsmodell - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWENab0ZKVUdoMXRFMzJSMk9QOXUyaVQ5RFd0TjFjTGFsQ3FRZ3pOOUVSYmMwdWJ2T2dCaDNyei1zVkFjcVQybFY4Q1M1WG9UeGZNSlM0MHI0V2FOdUNnRXE5NElYbkhOdTNPd3BDWFRVSjFVV1lnZFFsd2w4UzRXc0Jja2xMYXhvNmd4ems2TUlCOUkzcFJMS1hFOXdBZ0lOVjNuMk9iWHo1REdwYXVES2xZbHFzOGQwUFZYVHFfM1dmeHYtZTdkb2Jn?oc=5",
-      "published": "2026-07-02T11:41:06+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -421,6 +411,16 @@
       "source": {
         "name": "baden-wuerttemberg.de",
         "url": "https://www.baden-wuerttemberg.de"
+      }
+    },
+    {
+      "id": "c15b9dc3ee6b",
+      "title": "Walgreens Boots Alliance setzt auf Apothekennetz. Der Gesundheitskonzern justiert sein Geschäftsmodell - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWENab0ZKVUdoMXRFMzJSMk9QOXUyaVQ5RFd0TjFjTGFsQ3FRZ3pOOUVSYmMwdWJ2T2dCaDNyei1zVkFjcVQybFY4Q1M1WG9UeGZNSlM0MHI0V2FOdUNnRXE5NElYbkhOdTNPd3BDWFRVSjFVV1lnZFFsd2w4UzRXc0Jja2xMYXhvNmd4ems2TUlCOUkzcFJMS1hFOXdBZ0lOVjNuMk9iWHo1REdwYXVES2xZbHFzOGQwUFZYVHFfM1dmeHYtZTdkb2Jn?oc=5",
+      "published": "2026-07-02T11:41:06+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "471e5bf5c2db",
-      "title": "Biomed Lublin setzt auf Impfstoffe und Diagnostik. Der polnische Pharmakonzern bleibt im Gesundheits - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObThERFBWcXNHTWZhUVhpX1l5cWVJRzdlaFRhWXFxRm43VUs1a2NELXE4YWJLMFV4R0s1TVpRLUh5RDYxZmtKZmlLbklFbEF4THN5ZHREUkh2MDJ6UTFTazh1ekdmX2d4Njg2dWlFbzdDMUJOTHBPMjB1M19DM2c3MHo0M1ZBMElsZ2luMmJwY0FPbEo3bFl4Tkp4M29nMFp0WmpBVUdHNXpTQWZSMVlaS0RHcXV6Y3dDS25kdGRMdw?oc=5",
-      "published": "2026-07-02T11:22:06+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "bf4677339511",
       "title": "Medikamente in der Online- oder Offline-Apotheke kaufen? - Statista",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDByRFg3TzdRckNmUlZFTHlDcV9uaVBDbHdNSTBmclFnU25WZmg1WVhwcUZKRm9hNlhOdVgzSE5tWWZUNlZxcFJFVEVwUVhRUkdmb1NwSEdiZkxZLWZBcW5LNk52dHBpLXFEU1FYcGRWeGcwUi11MURVRk1Nc240TnFEeEsyZThnWnBwZ1hiQ2M5cmt6ODZCRF9raV9jZlpIeFdfb3NTQXI2R0RSSnBF0gG0AUFVX3lxTE8tT1ZPcHpINi12SFg3eVgtM3BZMFVhMHRNQmZvdzJ3NTZSRUZUb3REdHpWaG1leld5QkN4N0xaWUVYcHotM0J2SVNTWUJVQmtxcmVxRTVILVY0LW1iUWp4QTVkSmg5QkE1NHhrZmUtZ1RRenRKR1ZSTktxeGVDVnJUZ2pvbmR5NHlnUzlHQ1BVaUtOMmxIOE9QTlVrQVFIc21FdW9PR0UxU19PZlJnbGJyZjdPbg?oc=5",
@@ -681,6 +671,16 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "471e5bf5c2db",
+      "title": "Biomed Lublin setzt auf Impfstoffe und Diagnostik. Der polnische Pharmakonzern bleibt im Gesundheits - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObThERFBWcXNHTWZhUVhpX1l5cWVJRzdlaFRhWXFxRm43VUs1a2NELXE4YWJLMFV4R0s1TVpRLUh5RDYxZmtKZmlLbklFbEF4THN5ZHREUkh2MDJ6UTFTazh1ekdmX2d4Njg2dWlFbzdDMUJOTHBPMjB1M19DM2c3MHo0M1ZBMElsZ2luMmJwY0FPbEo3bFl4Tkp4M29nMFp0WmpBVUdHNXpTQWZSMVlaS0RHcXV6Y3dDS25kdGRMdw?oc=5",
+      "published": "2026-07-02T11:22:06+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
