@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T19:13:44.872039+00:00",
+  "fetched_at": "2026-07-03T20:59:51.155649+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "da9244502f14",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "38b8b0aa9188",
       "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -274,13 +274,13 @@
       }
     },
     {
-      "id": "b18f1f9ceaac",
-      "title": "Sanofi stärkt ihr Pharmageschäft. Langfristiger Fokus auf Innovation und Gesundheit - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFpXTFB6VGtaN2g2VlRfclpla2xOZDlBdWhkc0Rqc0NqZDNrODJrTnN4QXBsSWRtczl6R1E0Vkw5Y1FiS0dLSlJnYjZhcjVDZUszWW5zRjVkU3Vzd0tGeU1FS0RpLURWX2dBN1JIQ0Z3aXNCaDBjQk1kdHZnYWg5ejROZUx1RS1iQ2dPaW1JYlBueXVlVGtuNkZsNU5hMTJ5SE55MjJWano1cWVPRHRCSWlEWEtpT3lsblJTYnV3Q01kR2dNa3ZYYURQZGo?oc=5",
-      "published": "2026-07-03T11:24:36+00:00",
+      "id": "e21e174e9cc9",
+      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
       "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -294,6 +294,16 @@
       }
     },
     {
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "bb553491699c",
       "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openPetition",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
@@ -304,23 +314,13 @@
       }
     },
     {
-      "id": "e21e174e9cc9",
-      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
+      "id": "b18f1f9ceaac",
+      "title": "Sanofi stärkt ihr Pharmageschäft. Langfristiger Fokus auf Innovation und Gesundheit - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFpXTFB6VGtaN2g2VlRfclpla2xOZDlBdWhkc0Rqc0NqZDNrODJrTnN4QXBsSWRtczl6R1E0Vkw5Y1FiS0dLSlJnYjZhcjVDZUszWW5zRjVkU3Vzd0tGeU1FS0RpLURWX2dBN1JIQ0Z3aXNCaDBjQk1kdHZnYWg5ejROZUx1RS1iQ2dPaW1JYlBueXVlVGtuNkZsNU5hMTJ5SE55MjJWano1cWVPRHRCSWlEWEtpT3lsblJTYnV3Q01kR2dNa3ZYYURQZGo?oc=5",
+      "published": "2026-07-03T11:24:36+00:00",
       "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "5041122093e4",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "963aab855fa5",
-      "title": "Novo Nordisk setzt auf Wachstum mit Diabetes- und Adipositas-Therapien. Der Gesundheitskonzern bleib - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmdGV3hCZXJvZWF4dGJ5bUw0YlZxVnBhbFR3bXlwc3pIRUNPWGV1aHp5VDNtdDBLWDVuMDNmcDNmS2VYSWg5dHQ5VnZ6WDFSS3RPYllCdEFYUEdocnFJeF84XzVpb0xYMjUtQmprYmJoY0ZEYlFtdTZPU24zeTJrUnllQW1qaHpmVWc3X0JaODlyWjRMWWtVQjZuTHQ5S1hoeFRSWnkzQ3M2THBGSnJXUXhHS2pmU0NGMUhraGx2dGtLU2NoZVJZ?oc=5",
-      "published": "2026-07-03T16:36:19+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "0bc7c014a500",
       "title": "Umfrage: Jeder Zweite hat gewünschte Arzneimittel nicht erhalten - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTy1pV2pHcVhZLXNFb05nT00xaVNrWkpUa0diY1ZtVkIzVDJ0T3dJdGMwWWRvMmtaUXZ5RDU3S1JaMzJGTldiVGY5ekNTTVBucXpsd1otZUV3a0QtdUxvc2gyZkY5cEsxVzE1cHBrUjZIQURsRkdlbVRCZ1MzTU5qSTZZZ3BTaGlUS2ZkVjBjZmFQclBGbGYzbDV1RGhaY2ZkM0Fhd2dn?oc=5",
@@ -581,6 +571,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "963aab855fa5",
+      "title": "Novo Nordisk setzt auf Wachstum mit Diabetes- und Adipositas-Therapien. Der Gesundheitskonzern bleib - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmdGV3hCZXJvZWF4dGJ5bUw0YlZxVnBhbFR3bXlwc3pIRUNPWGV1aHp5VDNtdDBLWDVuMDNmcDNmS2VYSWg5dHQ5VnZ6WDFSS3RPYllCdEFYUEdocnFJeF84XzVpb0xYMjUtQmprYmJoY0ZEYlFtdTZPU24zeTJrUnllQW1qaHpmVWc3X0JaODlyWjRMWWtVQjZuTHQ5S1hoeFRSWnkzQ3M2THBGSnJXUXhHS2pmU0NGMUhraGx2dGtLU2NoZVJZ?oc=5",
+      "published": "2026-07-03T16:36:19+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -771,16 +771,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "618351e249d1",
-      "title": "Haushaltspläne: Mehr Geld für Produktion kritischer Arzneimittel, keine Mittel für Gesundheit und Pflege - Deutsches Ärzteblatt",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa19XTmtzLWdGTUNhcTkyNVVMZnhDVnlNVkxETGwwVDZ1X3dFVExwZEpDZU0wREhkUk91WEgwV0lJSXEwNTJydG1TbjVRV0FVRy1rUDhwYWtBeVdkYVJuSXo2SmhPUHJ1cWRZYWc3YW5pN21mc18wZUp4Y2FSZG53QnJQZk1RZ2FFeXBxN2VkUDRFYy16ZjgxQkNSc3ppZ1ZPWGdNdG9SanVveHNHc2ZUQU5qV2JDQXpINnVVd2x5eXplUnBDZjJCdGJLRk9QemRtaEpvYlNrTjM0anBWaDRDbHBYY1d2NUtZY1N2Zmx1SWU?oc=5",
-      "published": "2025-11-11T08:00:00+00:00",
-      "source": {
-        "name": "Deutsches Ärzteblatt",
-        "url": "https://www.aerzteblatt.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Volksstimme",
         "url": "https://www.volksstimme.de"
+      }
+    },
+    {
+      "id": "b510bdfc6886",
+      "title": "»Tageschau«-Bericht: Zwei Millionen gefälschte Arzneimittel pro Jahr - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd292Q191YU4tSkYwbERhdHVmRC10bkVuMVVxTVcxQThBN0dQRHhLbllKZkotMkpuZFlNc21BQ2plSGl0QXgzTE83MWJ1VnpVZjBfcW5OYkVwbkEyelJvWXo0MGs2Qlh4bG8wQWdyV0RZN0F4SnVSSDIza3RsRjl4TVdhejBDWUJvZy1LR1BDOXBlTTY2eVB2czVCdw?oc=5",
+      "published": "2025-09-22T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     }
   ]
