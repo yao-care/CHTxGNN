@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T19:49:09.479417+00:00",
+  "fetched_at": "2026-07-07T21:19:47.801241+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -7,7 +7,7 @@
       "id": "d70fea42325c",
       "title": "Krebs: „Wir glauben, dass solche Therapien langfristig zu Heilungen führen können“ - WELT",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS3p2OWo5TjI1NHZKS1BqcTdXaWkyRzRJcGlxSXhIanBzY1lzMWowNzdHNlVYQkswNFZLQzFXZ1RNN2RKWm1Jc3c2Qi12b0FoVU0tN19BdWlFSlZTeGtHZlJ5UTBMUFNxcmFTN0xQaHQxTzBwaTdXLVVLY2J1YzBzc29EWTB0Wm0zcFNGOGVfRkRveUljNWRhVVNtLXNIQW44R19Lbm8zcEx6SUpRX2JqU2p4ZXktVmMtaF8yMF9lcU1XM3dzZWJNYS1YQmxJdEJsNDlJaGNIU3pHNmowaVZYVjN3?oc=5",
-      "published": "2026-07-07T19:23:29+00:00",
+      "published": "2026-07-07T20:57:10+00:00",
       "source": {
         "name": "WELT",
         "url": "https://www.welt.de"
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "7784dc431a20",
-      "title": "Krank im Urlaub: Deshalb sind Medikamente im EU-Ausland oft günstiger - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3JyMFJwaXhKb1BTRFRVanBqNzdOTGcyOUNHX3NpU1pMcm44ejZjekVWQkRTNzY2Zmp5ZzFESWtBUzU4VTZIV0lLT2NiWGZOaUZsdTBncWVqNjh0eFRndnhOeHBOZGtOUzBuUE83RENqZ0F5aWtleDUyVXFYNmJPdWJ5Z0x1dE9ZUk94YWJib3RTV0pwd1BiZ2hRV2hxMWg4eHBQYkhia3B1YzVFRGtUOFgwLWV1am9QWm43dFhyelRTcGRtd2RYSWN2WQ?oc=5",
-      "published": "2026-07-07T05:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
       "id": "8c241dbc3ada",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "7784dc431a20",
+      "title": "Krank im Urlaub: Deshalb sind Medikamente im EU-Ausland oft günstiger - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3JyMFJwaXhKb1BTRFRVanBqNzdOTGcyOUNHX3NpU1pMcm44ejZjekVWQkRTNzY2Zmp5ZzFESWtBUzU4VTZIV0lLT2NiWGZOaUZsdTBncWVqNjh0eFRndnhOeHBOZGtOUzBuUE83RENqZ0F5aWtleDUyVXFYNmJPdWJ5Z0x1dE9ZUk94YWJib3RTV0pwd1BiZ2hRV2hxMWg4eHBQYkhia3B1YzVFRGtUOFgwLWV1am9QWm43dFhyelRTcGRtd2RYSWN2WQ?oc=5",
+      "published": "2026-07-07T05:00:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "823ae5e575ee",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWG90TDNVaUVHNXl4Rzc3bHZJMnlNcDFNWXNReXBCaHB1NlR1RzR2Q2l1eTBRNVpUWGpVTHk3Smw0UWR6c1RWaE9QblZZM2pvdl83ajQ4UnA0OTZHSy14Q09FSlJ1a1ZMc1VfYjFVMWt1Z3dPNkFGdjU1TzRJckRONVdLYVQwWVFSd3lOcnU5OHZ4dzVXejY0ajhSRkRwMlFmbmZLc2RYdnV0WWNpa2ZTbjM4b0F6ejJtWVBzZFNhUWF2Zw?oc=5",
-      "published": "2026-07-07T03:26:56+00:00",
-      "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
-      }
-    },
-    {
       "id": "02e9917bea66",
       "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "DW.com",
         "url": "https://www.dw.com"
+      }
+    },
+    {
+      "id": "823ae5e575ee",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWG90TDNVaUVHNXl4Rzc3bHZJMnlNcDFNWXNReXBCaHB1NlR1RzR2Q2l1eTBRNVpUWGpVTHk3Smw0UWR6c1RWaE9QblZZM2pvdl83ajQ4UnA0OTZHSy14Q09FSlJ1a1ZMc1VfYjFVMWt1Z3dPNkFGdjU1TzRJckRONVdLYVQwWVFSd3lOcnU5OHZ4dzVXejY0ajhSRkRwMlFmbmZLc2RYdnV0WWNpa2ZTbjM4b0F6ejJtWVBzZFNhUWF2Zw?oc=5",
+      "published": "2026-07-07T03:26:56+00:00",
+      "source": {
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "5041122093e4",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
       "id": "188e6d18b00f",
       "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
@@ -321,6 +311,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -344,16 +344,6 @@
       }
     },
     {
-      "id": "9c7eaaba1281",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "bcd30ea5acc5",
       "title": "Was, wenn uns die Medikamente ausgehen? - Aargauer Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE1oLURqeDZBVEtFcHhtbmFfMWFVdzBLcGRPSVY0b0s3elNMZ0FINmtFckNvQXRjXzktNFdGTklvUF9pcE0wMVgtNG5jTnBYSmFoWlppM1RlSzdfRkxOcmNSNEV2NFdQaEp4VDVEcUpwMUhTQWVxbTZyRW1YbnotNko5cDVudVBzcUxPckZjTWNnbnlPdmc?oc=5",
@@ -361,6 +351,16 @@
       "source": {
         "name": "Aargauer Zeitung",
         "url": "https://www.aargauerzeitung.ch"
+      }
+    },
+    {
+      "id": "9c7eaaba1281",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
+      "published": "2025-11-12T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "20a64d917dfc",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
-      "published": "2026-03-22T07:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
       "id": "054c2beef78c",
       "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
@@ -421,6 +411,16 @@
       "source": {
         "name": "Fortune Business Insights",
         "url": "https://www.fortunebusinessinsights.com"
+      }
+    },
+    {
+      "id": "20a64d917dfc",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
+      "published": "2026-03-22T07:00:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -444,16 +444,6 @@
       }
     },
     {
-      "id": "e7be2df5c947",
-      "title": "Was sich hinter der Abnehmpille verbirgt - GMX",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVkplVzJxa2RrcnRmUDdyR1NGTER6dmRSa21sT015WVkyNFFoVjMwOXgyT2dTQlYzMTIybEZHVmxOMDFBY1RVc0xnZUI5UlU1bEMwS1lOUDNnMmM4TFpseXdQbjhtWmhwNlZTcnBZZWotbGF3VzNOVQ?oc=5",
-      "published": "2026-07-07T14:30:47+00:00",
-      "source": {
-        "name": "GMX",
-        "url": "https://www.gmx.net"
-      }
-    },
-    {
       "id": "c8f8589753c1",
       "title": "Warum brauchbare Medikamente im Abfall landen - Zentralplus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
@@ -461,6 +451,16 @@
       "source": {
         "name": "Zentralplus",
         "url": "https://www.zentralplus.ch"
+      }
+    },
+    {
+      "id": "e7be2df5c947",
+      "title": "Was sich hinter der Abnehmpille verbirgt - GMX",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVkplVzJxa2RrcnRmUDdyR1NGTER6dmRSa21sT015WVkyNFFoVjMwOXgyT2dTQlYzMTIybEZHVmxOMDFBY1RVc0xnZUI5UlU1bEMwS1lOUDNnMmM4TFpseXdQbjhtWmhwNlZTcnBZZWotbGF3VzNOVQ?oc=5",
+      "published": "2026-07-07T14:30:47+00:00",
+      "source": {
+        "name": "GMX",
+        "url": "https://www.gmx.net"
       }
     },
     {
@@ -624,16 +624,6 @@
       }
     },
     {
-      "id": "b1da6c2869dc",
-      "title": "Redcare Pharmacy setzt auf digitales Apothekengeschäft. Die Online-Apotheke fokussiert Wachstum im - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTdFTjBQWXJ1VWxZQTg4eTd6ZlB3TEs2b0JFSGRFX3lwQ0ExWVh1TnJMZi0zVEpiU3lUVFhLbXZnd1dITmtfUEVBOWh4YzlOd2lfSC1KcFRjd3k3Wko2MERha0hHTGJPREZSa1dOcDhsdGZfQUpKMGNCb1JuQzlyTVpMbVZqYVcxSVRFSk9WNEIycjdpSkVNcjRranpzVGhYSHRPZUNKUThjWVlPRDg2VXRKeUl3TG42c2c?oc=5",
-      "published": "2026-07-07T09:40:29+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "5d8c89f1b6f0",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
@@ -681,6 +671,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "b1da6c2869dc",
+      "title": "Redcare Pharmacy setzt auf digitales Apothekengeschäft. Die Online-Apotheke fokussiert Wachstum im - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTdFTjBQWXJ1VWxZQTg4eTd6ZlB3TEs2b0JFSGRFX3lwQ0ExWVh1TnJMZi0zVEpiU3lUVFhLbXZnd1dITmtfUEVBOWh4YzlOd2lfSC1KcFRjd3k3Wko2MERha0hHTGJPREZSa1dOcDhsdGZfQUpKMGNCb1JuQzlyTVpMbVZqYVcxSVRFSk9WNEIycjdpSkVNcjRranpzVGhYSHRPZUNKUThjWVlPRDg2VXRKeUl3TG42c2c?oc=5",
+      "published": "2026-07-07T09:40:29+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -734,6 +734,16 @@
       }
     },
     {
+      "id": "5a1cba6f6d13",
+      "title": "Walgreens Boots Alliance blickt nach vorne. Pharmakette setzt auf Transformation - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1VjMXFwZ3BpS3p5WmROa1lTR2dxQkFTLXJWSXFBQlhzZFlrdm5mQTZDMkwtTDlLWS1jSVlrOUF0Sm9QV2MyMVNfX1gxNWlTODgtOEx3LThmcjFTaHFMa0tfT09VdTRFbTFxeFI2YngzVW5mTExReXJtZkV2eVBGel9CeDJDQWFlQzNWdlB1SlhPNFpiMzJzUFNOY1JQYXNpRHZieTFnLVZVUmFzWGVVdnRBbHRXc3NUdS1vbEQ2RHc?oc=5",
+      "published": "2026-07-05T06:53:35+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "5cfa2762dc20",
       "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXlzU1VBOUhWa05wcTVDNnBBdHRkeDl5TnZ1S1A3T0swT2pKTjZlaU1pempxQVJkMXMySXBtd2xpaUk5WWN4Q1VyakdMbnN2eF9mRncxakUwN21WbGFQMWpuR2VoOG1tUDYtWERUbS1LSVpOdUNaTE1SWmhDSkVUdTlubVNEWGNtUXNaYk5tcTJibTRDZTJv?oc=5",
@@ -748,16 +758,6 @@
       "title": "Walgreens Boots Alliance im Fokus. US9314271019 bleibt ein zentraler Gesundheitswert - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlg3SzkyNGxySV9pQk12aUU3SnFFSTd3dWNjY2I5akJZaEhnWTBkb2kxM3lETnpXQkpEZ0EyTFVjTGdpVm9yVXRjb1psd2dMdWU3WTg4ZXE4Y0VKcEpROUx1YVlOREtvMEU5Szl5ZlprTzItbHVLTllqVHVNMEdvRm8tdXluOTVjeFJsY2VHTUZPYkRERWxKb1A2TEUxbkFDYlhodjRSQWM5QVFNN3FtRXdZUTBnX1NDTFprejlqUHVOeWt6?oc=5",
       "published": "2026-07-06T06:10:32+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "3fc715d76d03",
-      "title": "Novo Nordisk A/ S setzt auf Wachstum. Pharma-Spezialist bleibt im Fokus der Anleger - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZE5SdjhaaGhZU2ktdTBGcDBCWEg1X1JEU3J6NWFrbWkyaXBNUHF4em5hQVRHWkJZVk45Y2k1NWlsc0p3WTZsMHpGS1V5ZEpxSHVvbWtSZXhUSGZKOXM5dHViYTlCOFd2bUlTN3c0SzdaM0E1TVItOTZIeVdValdfNmlOUXVYNmpCM3JaWWhpT1BlUmNzSDBJdDVKR2t0THoyVXc0cWhTUnloRXdkLUhjRGNJLUNNRlNSOUlXb1JXNGpNMHptcjVMQXRRZ2Q?oc=5",
-      "published": "2026-07-07T06:05:20+00:00",
       "source": {
         "name": "AD HOC NEWS",
         "url": "https://www.ad-hoc-news.de"
@@ -794,6 +794,16 @@
       }
     },
     {
+      "id": "3fc715d76d03",
+      "title": "Novo Nordisk A/ S setzt auf Wachstum. Pharma-Spezialist bleibt im Fokus der Anleger - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZE5SdjhaaGhZU2ktdTBGcDBCWEg1X1JEU3J6NWFrbWkyaXBNUHF4em5hQVRHWkJZVk45Y2k1NWlsc0p3WTZsMHpGS1V5ZEpxSHVvbWtSZXhUSGZKOXM5dHViYTlCOFd2bUlTN3c0SzdaM0E1TVItOTZIeVdValdfNmlOUXVYNmpCM3JaWWhpT1BlUmNzSDBJdDVKR2t0THoyVXc0cWhTUnloRXdkLUhjRGNJLUNNRlNSOUlXb1JXNGpNMHptcjVMQXRRZ2Q?oc=5",
+      "published": "2026-07-07T06:05:20+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "73821728fb6f",
       "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
@@ -811,16 +821,6 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
-      }
-    },
-    {
-      "id": "5a1cba6f6d13",
-      "title": "Walgreens Boots Alliance blickt nach vorne. Pharmakette setzt auf Transformation - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1VjMXFwZ3BpS3p5WmROa1lTR2dxQkFTLXJWSXFBQlhzZFlrdm5mQTZDMkwtTDlLWS1jSVlrOUF0Sm9QV2MyMVNfX1gxNWlTODgtOEx3LThmcjFTaHFMa0tfT09VdTRFbTFxeFI2YngzVW5mTExReXJtZkV2eVBGel9CeDJDQWFlQzNWdlB1SlhPNFpiMzJzUFNOY1JQYXNpRHZieTFnLVZVUmFzWGVVdnRBbHRXc3NUdS1vbEQ2RHc?oc=5",
-      "published": "2026-07-05T06:53:35+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -844,6 +844,16 @@
       }
     },
     {
+      "id": "27daef187974",
+      "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - stern.de",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG5SMnM4aXU5czJ1S2dnUzdMeFBmb3IxQVBKWGVvcVB0eUJQUjkxRU00RHEtQlRjVU1EM0Z2WF95SG85WDJPSjVNcjRTWFM1OHVXNm5pdVAxZGtDcHJTSXFpSDAtdUstM0JISWRKcEI5OXRXZ2hXSzQ3cFJqb0g5N0ZRajJtY21JUmRNNmZweXg1bEpuOXc0Rk9CNENaMHNOYTc4OGtjZw?oc=5",
+      "published": "2025-12-16T08:00:00+00:00",
+      "source": {
+        "name": "stern.de",
+        "url": "https://www.stern.de"
+      }
+    },
+    {
       "id": "de64fb743128",
       "title": "Johnson & Johnson im Fokus. Gesundheitsriese bleibt Stabilitätsanker - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXJGWmpEWXl2R2haVHFmX3kwN2p3RmRMNWliZ1ZKMkxseWd5N2VmYTM1bGh5THM2djlGU3didE15MC1QUF9MTk5wdUJkWXFpZHdrclROM0NQc0FUT0xleGotQndfaElMaFZWMmdFSm9GSm9MV2F3OEJZeXRfUnVrV1ViQnliY1pDWjgwQ3A3bWlGbjlXTlZoZDg2OGJhNFBnbVMwODNXemlGMzhDWS0wa0I5UTA0Mkd4NUZvdGpxbG9janlHTERXVQ?oc=5",
@@ -851,16 +861,6 @@
       "source": {
         "name": "AD HOC NEWS",
         "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "e7fc237accfb",
-      "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG5SMnM4aXU5czJ1S2dnUzdMeFBmb3IxQVBKWGVvcVB0eUJQUjkxRU00RHEtQlRjVU1EM0Z2WF95SG85WDJPSjVNcjRTWFM1OHVXNm5pdVAxZGtDcHJTSXFpSDAtdUstM0JISWRKcEI5OXRXZ2hXSzQ3cFJqb0g5N0ZRajJtY21JUmRNNmZweXg1bEpuOXc0Rk9CNENaMHNOYTc4OGtjZw?oc=5",
-      "published": "2025-12-16T08:00:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
       }
     },
     {
@@ -974,16 +974,6 @@
       }
     },
     {
-      "id": "42f984299fe2",
-      "title": "Apotheken schlagen Alarm: Medikamenten-Engpässe drohen - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1BYUUNyUEFvd2tlZmtVUUZiR2xwR29INjIyY0lzOEJNbFJ5c1VfQWRKaTNaQnZzOE9obk9kTEpBWTRlUjFIeXRrSG0wOHRXck5vQVNKRUVhUVA3cnhBajI1TnJWOUxmYmJmVndyYXFVNzBTbWtCalJjMlh4ck5hRTFzT2d6WnJ3ai1hY3dVcFVkdFRoVzh1QzhRN0ZGR2YxYjUzREtEZWxtZw?oc=5",
-      "published": "2025-09-14T07:00:00+00:00",
-      "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
-      }
-    },
-    {
       "id": "d6702eea68c6",
       "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYWlNEMVdKV0JFOGp6aTR3NHotVFlWc1pUajJ6WVc0SVVLNmo5c2otX0tmbnF3QmhvNFlQS2FJNkwzejFfeXU2a1U1d2ZPSzgwMHdVSThrbw?oc=5",
@@ -991,6 +981,16 @@
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "42f984299fe2",
+      "title": "Apotheken schlagen Alarm: Medikamenten-Engpässe drohen - ZDFheute",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1BYUUNyUEFvd2tlZmtVUUZiR2xwR29INjIyY0lzOEJNbFJ5c1VfQWRKaTNaQnZzOE9obk9kTEpBWTRlUjFIeXRrSG0wOHRXck5vQVNKRUVhUVA3cnhBajI1TnJWOUxmYmJmVndyYXFVNzBTbWtCalJjMlh4ck5hRTFzT2d6WnJ3ai1hY3dVcFVkdFRoVzh1QzhRN0ZGR2YxYjUzREtEZWxtZw?oc=5",
+      "published": "2025-09-14T07:00:00+00:00",
+      "source": {
+        "name": "ZDFheute",
+        "url": "https://www.zdfheute.de"
       }
     },
     {
