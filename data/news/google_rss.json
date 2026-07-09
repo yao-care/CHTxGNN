@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T16:24:30.776417+00:00",
+  "fetched_at": "2026-07-09T18:47:24.029275+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,6 +24,16 @@
       }
     },
     {
+      "id": "7dfc801a47aa",
+      "title": "Reiseapotheke: Medikamente im Urlaub: So schützen Sie sich vor Fälschungen - Handelsblatt",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR24zaUhzT0xUU2ZteHdaTjFTTDJhWS1TNDNHQUZOVVRUdHJQQ2NxMEVQZXBVTFNaZnUtRS16bmJzOUtXMEFHMk01VUpDdFdXNHZfeUMyZlJxUGVNTDVYaWtPNGxwRkZ1NTlSNWVuYllOa0k3cGt1dE5ZME91ZHBrOU95OVEwSmhCaFRLYTluSWV6SHIwZ25GNGhST09XUlRGU1d4LWxLNGIxTks4cVE0ZkpsWEdmTGdzRnN3R1pVY2t3TVhuNXRiMXBPc2FNWnM?oc=5",
+      "published": "2026-07-08T13:29:58+00:00",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
       "id": "560b820c2a6d",
       "title": "Keine Schwellung: Helfen Heuschnupfentabletten gegen Mückenstiche? - Öko-Test",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUwzMWlLaUJ6dTlPMHNtUV9HbEg3a2xmeXpsMExzMEJBRXhCenM0RF9Welp1d1ZUeHIxZWMxelVmT01ZUm1QYUdPX1dYcmNkYzFNNTE3M1JWV0k1QWJQYTZJWVFPdG4tbjZ6RGt3NXNiSXpINXJqUjFpY2pMc1NTam5Hdjg4QnhRYTl3RklzZUJ1bEptcHo5RkUwaDd5ck1FdXdMNk5ON0ozT09jeXY1ZHUxaENWdWZWN2FhT1lxM1dCajEx?oc=5",
@@ -41,16 +51,6 @@
       "source": {
         "name": "gesundheit adhoc",
         "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
-      "id": "7dfc801a47aa",
-      "title": "Reiseapotheke: Medikamente im Urlaub: So schützen Sie sich vor Fälschungen - Handelsblatt",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR24zaUhzT0xUU2ZteHdaTjFTTDJhWS1TNDNHQUZOVVRUdHJQQ2NxMEVQZXBVTFNaZnUtRS16bmJzOUtXMEFHMk01VUpDdFdXNHZfeUMyZlJxUGVNTDVYaWtPNGxwRkZ1NTlSNWVuYllOa0k3cGt1dE5ZME91ZHBrOU95OVEwSmhCaFRLYTluSWV6SHIwZ25GNGhST09XUlRGU1d4LWxLNGIxTks4cVE0ZkpsWEdmTGdzRnN3R1pVY2t3TVhuNXRiMXBPc2FNWnM?oc=5",
-      "published": "2026-07-08T13:29:58+00:00",
-      "source": {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com"
       }
     },
     {
@@ -94,6 +94,26 @@
       }
     },
     {
+      "id": "3ef1faabcc13",
+      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "6d43ceb8b221",
+      "title": "Recruiting läuft - Rossmann startet Online-Apotheke: E-Rezepte künftig per App einlösbar - leadersnet.de",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmRYUFpnWHIxNGhpMjZ6TGZqTENVQ2V6aDRXZTFYMEozYXIwN00yR29GQ3FnRmpJNGVxdTZwby0yVUV1UU5YQm9PTWo2TWszZ05iYm1seHdfTmpwaTJwSTkzOUJQT3JyRER6U3BUZXQxRERvQjZEMXF0UEVPX3JRQ0RwNjktZkUyeVVHNERVY3VLdWxuYmdSdmlfenVqZmU5aWFaRA?oc=5",
+      "published": "2026-07-09T18:28:44+00:00",
+      "source": {
+        "name": "leadersnet.de",
+        "url": "https://www.leadersnet.de"
+      }
+    },
+    {
       "id": "7784dc431a20",
       "title": "Krank im Urlaub: Deshalb sind Medikamente im EU-Ausland oft günstiger - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3JyMFJwaXhKb1BTRFRVanBqNzdOTGcyOUNHX3NpU1pMcm44ejZjekVWQkRTNzY2Zmp5ZzFESWtBUzU4VTZIV0lLT2NiWGZOaUZsdTBncWVqNjh0eFRndnhOeHBOZGtOUzBuUE83RENqZ0F5aWtleDUyVXFYNmJPdWJ5Z0x1dE9ZUk94YWJib3RTV0pwd1BiZ2hRV2hxMWg4eHBQYkhia3B1YzVFRGtUOFgwLWV1am9QWm43dFhyelRTcGRtd2RYSWN2WQ?oc=5",
@@ -124,16 +144,6 @@
       }
     },
     {
-      "id": "69fc62ead92b",
-      "title": "Lieferengpässe: Bulgarien stampft Rabatt-Regelungen ein - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhSVURRTWJodWphUFJKeEI5SUsxWkVOd0tvRGVxQVZYWmQ2TWdvaFVpbUhHY0dBS3dmaGNVY2hRMzlZQkFKY2JQVGd5Q1NFSVpBdnl3OS1TanMxUzhYMnU3UFE0MUplVE5VZTlLOTdYNTRDdDFENDNLcGV4a3VmTm5GeGVKYV91Rjk1U1JkcExBUE52VC12Q0I4OTVhOG1fa2JyQ05OaDZpUkZfdUhHWGxYRUEyNG5ibjl6bWFn?oc=5",
-      "published": "2026-07-06T03:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
       "id": "7a99adaec5c0",
       "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
@@ -141,6 +151,16 @@
       "source": {
         "name": "Geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "69fc62ead92b",
+      "title": "Lieferengpässe: Bulgarien stampft Rabatt-Regelungen ein - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhSVURRTWJodWphUFJKeEI5SUsxWkVOd0tvRGVxQVZYWmQ2TWdvaFVpbUhHY0dBS3dmaGNVY2hRMzlZQkFKY2JQVGd5Q1NFSVpBdnl3OS1TanMxUzhYMnU3UFE0MUplVE5VZTlLOTdYNTRDdDFENDNLcGV4a3VmTm5GeGVKYV91Rjk1U1JkcExBUE52VC12Q0I4OTVhOG1fa2JyQ05OaDZpUkZfdUhHWGxYRUEyNG5ibjl6bWFn?oc=5",
+      "published": "2026-07-06T03:00:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -164,6 +184,26 @@
       }
     },
     {
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "23f8cc8de77f",
+      "title": "Pfizer Ltd im indischen Pharmamarkt. Solider Gesundheitswert mit internationalem Hintergrund - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajM5d2szdDg3dk9uNXpKSjVJNlE4WUlUd2tKaGJkU25NR25SXzVtdk9sWms5R1NPZ0QxdWpQRGlFb1BHOXNSem4yYlMtSms1MTVCMWxFQ3RtcDRFcVVidTZUeUQyTmoxTkpsSE55YW5uV1A2TmpQbkthOUFNeTBzQ3IwMnBqaWNYM3lqcEV4RkpLUmhHNHpWdk1Mb1RfTGkyUW1ZQ0JiOVFOdlNBQTRrY2NVSVB6bG5VMmIzTktlVQ?oc=5",
+      "published": "2026-07-09T11:26:24+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "e55e30521cda",
       "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
@@ -184,30 +224,10 @@
       }
     },
     {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "50b286c04715",
       "title": "West Pharmaceutical setzt auf Lösungen für die Gesundheitsindustrie. Langfristiger Bedarf stützt - Ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWFJwMjNJdmtROWhZZDQ3bGpWbmwzOS1DWUpyZHRFa09xOUtKajVrWE5xQ2w2WkRpRlF5UjNqODlvMVZuSng0M3E1TmFTdktiSDRWTEJJUWxZVkRSYl9VamlXZURDc214OU40b2VDSkluVGVyUndzVWFFbWFSS2JCU2Y5ZmZraGpNeW1IbGUxQlM5OEVUWUJ4Vmcxb3NKWWVIUGJmZ2MzWXJOUGlaNzNma2pTbmI1UHU1OVVxVDJfMEdiT1lZT3NZ?oc=5",
       "published": "2026-07-07T18:29:56+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "23f8cc8de77f",
-      "title": "Pfizer Ltd im indischen Pharmamarkt. Solider Gesundheitswert mit internationalem Hintergrund - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajM5d2szdDg3dk9uNXpKSjVJNlE4WUlUd2tKaGJkU25NR25SXzVtdk9sWms5R1NPZ0QxdWpQRGlFb1BHOXNSem4yYlMtSms1MTVCMWxFQ3RtcDRFcVVidTZUeUQyTmoxTkpsSE55YW5uV1A2TmpQbkthOUFNeTBzQ3IwMnBqaWNYM3lqcEV4RkpLUmhHNHpWdk1Mb1RfTGkyUW1ZQ0JiOVFOdlNBQTRrY2NVSVB6bG5VMmIzTktlVQ?oc=5",
-      "published": "2026-07-09T11:26:24+00:00",
       "source": {
         "name": "Ad-hoc-news.de",
         "url": "https://www.ad-hoc-news.de"
@@ -404,16 +424,6 @@
       }
     },
     {
-      "id": "28b48f70dfbc",
-      "title": "Merck & Co. setzt auf stabile Medikamentenumsätze. Der US-Pharmakonzern bleibt ein Schwergewicht im - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR25vQVo4eHlxbmkxT1ZqS1lDNnYyN2J4Tlg5Q29RWWphWl9IRWpxSVN1M3BUTGZuSjBORExqRmdaUUQwSDZrd0Nwa19NaTFRWkxxdGkwMW1SdC1TQ21zc25ITUV0aTM4RHpiQjRxaFVVVjYxYXB6LUJmZ19TVEpsYklobmh3ajFxU3hfajZ1MG4wS2o1UDM5dmNOOUd4N3RITDNKcC03aUJJdnZ6Q2FhS281dU4?oc=5",
-      "published": "2026-07-06T10:01:35+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "20a64d917dfc",
       "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
@@ -424,6 +434,16 @@
       }
     },
     {
+      "id": "28b48f70dfbc",
+      "title": "Merck & Co. setzt auf stabile Medikamentenumsätze. Der US-Pharmakonzern bleibt ein Schwergewicht im - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR25vQVo4eHlxbmkxT1ZqS1lDNnYyN2J4Tlg5Q29RWWphWl9IRWpxSVN1M3BUTGZuSjBORExqRmdaUUQwSDZrd0Nwa19NaTFRWkxxdGkwMW1SdC1TQ21zc25ITUV0aTM4RHpiQjRxaFVVVjYxYXB6LUJmZ19TVEpsYklobmh3ajFxU3hfajZ1MG4wS2o1UDM5dmNOOUd4N3RITDNKcC03aUJJdnZ6Q2FhS281dU4?oc=5",
+      "published": "2026-07-06T10:01:35+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "9f9b35e4948f",
       "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - WirtschaftsWoche",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUY3SndFdHc5MWdPYWkzRjVIbzFjcG9Kcmd6NEdmbEN4ejBkU01hd2ZvdGpjT1hYcjIwOHQzY0F4TjZBWDJ3Z0UtbkdvbExoWWhJTFZlZjZzNG00RnhoU0VPNXlxeFFhQzZpbWhBbnlhMUl2Y0JXanhFREpBSzNMNFU4OFNnNDMtWWc5dmFpUTRhRS1WV1pMSlNIOUh6NER6U0U2OUZ6YVdHV0ZBUTFHWlkxajg3QQ?oc=5",
@@ -431,26 +451,6 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
-      }
-    },
-    {
-      "id": "f92665691e36",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
-      }
-    },
-    {
-      "id": "688fd976f613",
-      "title": "Merck & Co. setzt auf stabile Pharmapipeline. Langfristiger Fokus auf verschreibungspflichtige Medik - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1VtVFh6VW5QbDhhZ0ZUY21HTEVhMnVEeDdCTmxVWmZKTGlEVjNHNzRRMkJmTEl0TnRQb1FMTmxLZVNnVVlidTdUWDA2ZnlfWDdfLWMyYnFSbDlwVnR3MjhfWUl4SWpIVmx2SnpWMHVndkNzU0ZodUNSMzhYdEhjUFBZOWo5TGpTOXhwRTh3VVRRZUQ3WUJvcG1PNlN3UjQwQXMzLW9UbXYxaGU5R3lOQ0plSzJvM2ZsbWh2OU11UWtCUGhqMlpj?oc=5",
-      "published": "2026-07-06T16:09:48+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -504,16 +504,6 @@
       }
     },
     {
-      "id": "7f09edf69bc9",
-      "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "566dd4d9d4e6",
       "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
@@ -521,6 +511,16 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "7f09edf69bc9",
+      "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
+      "published": "2026-02-06T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "561d95a97c02",
-      "title": "GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5",
-      "published": "2026-07-09T08:33:01+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "a43852bf5366",
       "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
@@ -661,6 +651,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "561d95a97c02",
+      "title": "GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5",
+      "published": "2026-07-09T08:33:01+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -811,6 +811,16 @@
       "source": {
         "name": "Springer Nature Link",
         "url": "https://link.springer.com"
+      }
+    },
+    {
+      "id": "86bfd7dc0089",
+      "title": "Interview: EU soll Wissenschaft weiter hochhalten, sagt Chefin der EU-Arzneimittelbehörde - Euractiv",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazVtUTV3QlM1dk9yT3JVd0VoSUUyR2kyOUFscXZfemlFSTNVOG9oeW9KS3lEbV96d1dVQ1RYR3prTU5qTzR3MGdGR1pJNHBOVkNfbTdOTks5dVBEOVNKclVycERJWFpKMFJfal9FeG9jZ2ozYkhHQV9uUlN4X2laZEFQV0EyUE1FcGlzanB4anUteWwxdjgybkdCZVllTG1sVWQ4alh1TkpFOGtDaEtickRJaDVPb1RQdnpkdnFzaTU?oc=5",
+      "published": "2025-10-20T07:00:00+00:00",
+      "source": {
+        "name": "Euractiv",
+        "url": "https://euractiv.com"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Euractiv",
         "url": "https://euractiv.com"
-      }
-    },
-    {
-      "id": "24ba45b63fb1",
-      "title": "Durch Generika spart die Schweiz Millionen - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREdLQmsxSEYzelRWSXRiQWtyd1NjNWtVS3RZQ0hfTUJ0enVxdDhHdFJOX1RJNElSTlVmMnc0NEc0NF9vUmhoU3pjZU9HT1psdjREYkxMdTZPMkhxUzhfUEZkZE9JN3UyWTViY09QRU1mVWFlRWtBUlBxemJlTDNpOUdWM1lObW5pTjBJNGpfaFBvNHFTMEk0b2ltR3NGQ1FyYk1oRWVJR0o5a2ZmSkMxVy1GT2c?oc=5",
-      "published": "2024-12-31T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
