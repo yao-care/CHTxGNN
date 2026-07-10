@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-07-10T04:46:20.066201+00:00",
+  "fetched_at": "2026-07-10T08:18:02.994816+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "55782c10a3fe",
-      "title": "Wer jetzt schon Medikamente ohne Rezept bekommt - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnZ4VVctdUJJVnFyTmtpQU00ci1wTG5qOEZXLXVWalltWFBlSVgtNllTV3Y4S080LWt2ZHZOSXg4Q1ZnUXl1MFUwM3M5YWoxdTdWeVNCSXZZTmhLRHUtYUllSDlqQjhJV1VfcXdhUUMyd18wXy02U05aVmdvbWV6QURibFhWZjBkSUVRUjdPd29CSUczdVZ2ckt5dUotNVh6SEVGVG1BVEZVSVpYVEZIcnlXMkFacFAxTHNBdnZxdFpqQQ?oc=5",
-      "published": "2026-07-09T13:08:30+00:00",
+      "id": "073f7e8a3a3f",
+      "title": "Warum der Erwerb von Arzneimitteln im Ausland riskant sein kann - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUM0VkhBTzlsUmJGMWQwWEJHaE9VR2hpRkQ0Z1hPWkhpSklMd3RocWlBa0ltVXQyQzZLZlBaakRzM2pUWkVhcl9Nak9YQVI1QW9DVVBZY3J6SVMyZGRTSGJvcUJOaVJTMzdtdGEwN0lGVW5GRDF3aTFNSmFWX1lsZ3k3eXc5dTlpUnlZbTNuT2dOTXN4bnpiU0Q0SUhVUERzZUN5cWMteGZkUmM0bFFfLUpLNXJmVzVEUkVNZUlCeWd1R2ludkwzRQ?oc=5",
+      "published": "2026-07-09T22:00:00+00:00",
       "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -21,6 +21,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "55782c10a3fe",
+      "title": "Wer jetzt schon Medikamente ohne Rezept bekommt - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnZ4VVctdUJJVnFyTmtpQU00ci1wTG5qOEZXLXVWalltWFBlSVgtNllTV3Y4S080LWt2ZHZOSXg4Q1ZnUXl1MFUwM3M5YWoxdTdWeVNCSXZZTmhLRHUtYUllSDlqQjhJV1VfcXdhUUMyd18wXy02U05aVmdvbWV6QURibFhWZjBkSUVRUjdPd29CSUczdVZ2ckt5dUotNVh6SEVGVG1BVEZVSVpYVEZIcnlXMkFacFAxTHNBdnZxdFpqQQ?oc=5",
+      "published": "2026-07-09T13:08:30+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -54,6 +64,26 @@
       }
     },
     {
+      "id": "ca73b8188935",
+      "title": "Vietnam entwickelt Impfstoffe und testet neue Medikamente. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkRhbGJrUFF4WG1QenNZa1VfdW5HbXY0Y1RXWGFIVVAwRHBTbEY3UnBFTU1ndkdXdFp3YllGc2QtWEJPNjc2TUVuM2ZDMVRHM1Jxa1R6V1E4Rms0c1Nfa3JMby1UaGxmcldYb2FmdHVCOHpsRU1qejdOaXNsdUNEZ1pBTHlEQXMzMlhz?oc=5",
+      "published": "2026-07-10T01:50:45+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "63b3873142ea",
+      "title": "Abnehmpille: Für jeden geeignet? - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82LUZNbjMzQVRRdGJ5ejktem43QlFkUEh6MTd5aFNLVnhPdm9QTHFjN3NHc2g5SGZpbmpHT3BxTVhvcjl0T2NJV2UxUWdEQjZLb3RsWmVack5GbHYwWHBpR1RkRHFobElFekEyWGpVUlZ0QQ?oc=5",
+      "published": "2026-07-10T06:58:20+00:00",
+      "source": {
+        "name": "WEB.DE",
+        "url": "https://web.de"
+      }
+    },
+    {
       "id": "f24895134c0e",
       "title": "Wenn Medikamente gefährlich werden - vor allem bei Hitze im Sommer - brisant.de",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaHdjaXN6c1JpaHBMWVRFUHZISXBFLTZ3TGxyNmxNMzhhc2lxMUVGOFpub3RPeDVvZUg0dnd0OXFGV2NBRm0xS1N4c1c3OGdfTUxmaW55d2VET3FZaXVmRnlWRnppVTB2Z3kxakFKRVNTZXdjeU5jZE1BU1JsbXgyMl9JTDhTOWxjbkI1UHBPVGVNdFB6RzZVbml0TnB1aW51NXgzWkZuOVNzTTNHTVpHNHZIRURzbUJwSDVFSXBiMWhtSzZhUk9JUFFCVXNCZjZjaERqMzBpcw?oc=5",
@@ -71,26 +101,6 @@
       "source": {
         "name": "Bild der Wissenschaft",
         "url": "https://wissenschaft.de"
-      }
-    },
-    {
-      "id": "560b820c2a6d",
-      "title": "Keine Schwellung: Helfen Heuschnupfentabletten gegen Mückenstiche? - Öko-Test",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUwzMWlLaUJ6dTlPMHNtUV9HbEg3a2xmeXpsMExzMEJBRXhCenM0RF9Welp1d1ZUeHIxZWMxelVmT01ZUm1QYUdPX1dYcmNkYzFNNTE3M1JWV0k1QWJQYTZJWVFPdG4tbjZ6RGt3NXNiSXpINXJqUjFpY2pMc1NTam5Hdjg4QnhRYTl3RklzZUJ1bEptcHo5RkUwaDd5ck1FdXdMNk5ON0ozT09jeXY1ZHUxaENWdWZWN2FhT1lxM1dCajEx?oc=5",
-      "published": "2026-07-09T10:12:58+00:00",
-      "source": {
-        "name": "Öko-Test",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
-      "id": "ca3fbb8f0e20",
-      "title": "SPD macht Arzneimittelversorgung zur Sicherheitsfrage - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUx0Nm5DX2dXSFptbnJSOFlNVzVxaHpReWZiSVVVb0JMSnFzR3dVOHdiYzVEOGRaczRySGhxSVI3TlJOa3BJdzRyejl3bEhObFE0WWxKTVJ4NFd4MVJ2eW43RFF5dUFrNFNlTnZnZWZaVXRoMk14VlZPVi0yREtsa2ZIOURjQUpvNVZSMlV5cw?oc=5",
-      "published": "2026-07-09T10:41:12+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -114,6 +124,26 @@
       }
     },
     {
+      "id": "560b820c2a6d",
+      "title": "Keine Schwellung: Helfen Heuschnupfentabletten gegen Mückenstiche? - Öko-Test",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUwzMWlLaUJ6dTlPMHNtUV9HbEg3a2xmeXpsMExzMEJBRXhCenM0RF9Welp1d1ZUeHIxZWMxelVmT01ZUm1QYUdPX1dYcmNkYzFNNTE3M1JWV0k1QWJQYTZJWVFPdG4tbjZ6RGt3NXNiSXpINXJqUjFpY2pMc1NTam5Hdjg4QnhRYTl3RklzZUJ1bEptcHo5RkUwaDd5ck1FdXdMNk5ON0ozT09jeXY1ZHUxaENWdWZWN2FhT1lxM1dCajEx?oc=5",
+      "published": "2026-07-09T10:12:58+00:00",
+      "source": {
+        "name": "Öko-Test",
+        "url": "https://www.oekotest.de"
+      }
+    },
+    {
+      "id": "ca3fbb8f0e20",
+      "title": "SPD macht Arzneimittelversorgung zur Sicherheitsfrage - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUx0Nm5DX2dXSFptbnJSOFlNVzVxaHpReWZiSVVVb0JMSnFzR3dVOHdiYzVEOGRaczRySGhxSVI3TlJOa3BJdzRyejl3bEhObFE0WWxKTVJ4NFd4MVJ2eW43RFF5dUFrNFNlTnZnZWZaVXRoMk14VlZPVi0yREtsa2ZIOURjQUpvNVZSMlV5cw?oc=5",
+      "published": "2026-07-09T10:41:12+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
       "id": "da9244502f14",
       "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
@@ -134,6 +164,16 @@
       }
     },
     {
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": {
+        "name": "Gesundheit.gv.at",
+        "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
       "id": "7784dc431a20",
       "title": "Krank im Urlaub: Deshalb sind Medikamente im EU-Ausland oft günstiger - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3JyMFJwaXhKb1BTRFRVanBqNzdOTGcyOUNHX3NpU1pMcm44ejZjekVWQkRTNzY2Zmp5ZzFESWtBUzU4VTZIV0lLT2NiWGZOaUZsdTBncWVqNjh0eFRndnhOeHBOZGtOUzBuUE83RENqZ0F5aWtleDUyVXFYNmJPdWJ5Z0x1dE9ZUk94YWJib3RTV0pwd1BiZ2hRV2hxMWg4eHBQYkhia3B1YzVFRGtUOFgwLWV1am9QWm43dFhyelRTcGRtd2RYSWN2WQ?oc=5",
@@ -144,23 +184,13 @@
       }
     },
     {
-      "id": "c1f5975f61ef",
-      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
+      "id": "9f7c377ed6d2",
+      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
+      "published": "2026-04-16T07:55:26+00:00",
       "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
-      }
-    },
-    {
-      "id": "51e8c4b74840",
-      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": {
-        "name": "Gesundheit.gv.at",
-        "url": "https://www.gesundheit.gv.at"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -174,6 +204,16 @@
       }
     },
     {
+      "id": "c1f5975f61ef",
+      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
+      }
+    },
+    {
       "id": "95d55d1267a1",
       "title": "Mit Abnehmspritze Kilos loswerden - was ist dran an Ozempic & Co.? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGFzLTFfUHozOUJiWWtWdlRPUm5mZ0VkMGMxLVVGcmxmMzlONHZRV21qZmFHYUo3d2gzV3VDVm9OUHp6Qk4wQjlZTHU3V3RnckthWTZSbVpVMGE1VWxiMFMtVVJCSWdWb3hibzlscllodzVwWmpDMS1ZOXNxYkFfQVJzdlRzeGRQOWdtcW55UVRNSE16QmhJZXhVYmRmYl9iUmJBN1g2cG8?oc=5",
@@ -181,16 +221,6 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "9f7c377ed6d2",
-      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
-      "published": "2026-04-16T07:55:26+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
       }
     },
     {
@@ -234,6 +264,16 @@
       }
     },
     {
+      "id": "08f761ee3a89",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://de.euronews.com"
+      }
+    },
+    {
       "id": "02e9917bea66",
       "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
@@ -264,20 +304,20 @@
       }
     },
     {
-      "id": "1648c3dfecfa",
-      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
+      "id": "e21e174e9cc9",
+      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
     {
-      "id": "e21e174e9cc9",
-      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
+      "id": "1648c3dfecfa",
+      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
@@ -291,16 +331,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "302166f50d6d",
-      "title": "Pharma-Lobby: Gnadenloser Kampf gegen die Gesundheitsreform - WirtschaftsWoche",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3NSejFqVWdpTVNCdDFPZGVQREdYZWh5SjI5dmlfQWZXNU5LQ2dKck9xaTRJTVFSUEp5SDFUUFdNbi1HbGJyOHBxdE44Q0MyQm1NZWxYb1ZSeklMck5uRXI0OVliajd3MjNWY1VPYVFQU05XUHRYZmwyZnB4aGhjWHJjTUtWcjR5WUc0bzJydjRiMW5PTUhnQUd4dGlNd3J3YzJVMjh3VWVNUTctQU81QndRdTYwdw?oc=5",
-      "published": "2026-07-06T18:26:18+00:00",
-      "source": {
-        "name": "WirtschaftsWoche",
-        "url": "https://www.wiwo.de"
       }
     },
     {
@@ -321,6 +351,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "302166f50d6d",
+      "title": "Pharma-Lobby: Gnadenloser Kampf gegen die Gesundheitsreform - WirtschaftsWoche",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3NSejFqVWdpTVNCdDFPZGVQREdYZWh5SjI5dmlfQWZXNU5LQ2dKck9xaTRJTVFSUEp5SDFUUFdNbi1HbGJyOHBxdE44Q0MyQm1NZWxYb1ZSeklMck5uRXI0OVliajd3MjNWY1VPYVFQU05XUHRYZmwyZnB4aGhjWHJjTUtWcjR5WUc0bzJydjRiMW5PTUhnQUd4dGlNd3J3YzJVMjh3VWVNUTctQU81QndRdTYwdw?oc=5",
+      "published": "2026-07-06T18:26:18+00:00",
+      "source": {
+        "name": "WirtschaftsWoche",
+        "url": "https://www.wiwo.de"
       }
     },
     {
@@ -354,16 +394,6 @@
       }
     },
     {
-      "id": "6d43ceb8b221",
-      "title": "Recruiting läuft - Rossmann startet Online-Apotheke: E-Rezepte künftig per App einlösbar - leadersnet.de",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmRYUFpnWHIxNGhpMjZ6TGZqTENVQ2V6aDRXZTFYMEozYXIwN00yR29GQ3FnRmpJNGVxdTZwby0yVUV1UU5YQm9PTWo2TWszZ05iYm1seHdfTmpwaTJwSTkzOUJQT3JyRER6U3BUZXQxRERvQjZEMXF0UEVPX3JRQ0RwNjktZkUyeVVHNERVY3VLdWxuYmdSdmlfenVqZmU5aWFaRA?oc=5",
-      "published": "2026-07-09T08:00:00+00:00",
-      "source": {
-        "name": "leadersnet.de",
-        "url": "https://www.leadersnet.de"
-      }
-    },
-    {
       "id": "ae3d250cee54",
       "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
@@ -371,16 +401,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "88782b763d6e",
-      "title": "Der Hustensaft Bao Thanh begleitet die medizinischen Untersuchungs- und Behandlungsaktivitäten von Freiwilligen in Tuyen Quang. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlI2bzFKQVMzY3lZWDJIRUtTWFJOQWZkYlhRc0ZkeTVVY1RYYmk4dEg3VHFTXzQ4SFkwMGpLcmdpTW9lMHNUNFRFSnVKaWJ0Z0Z5S2h4ZE5Zam1TRk5QcTZEYkdRQnh3eXpjUjk2NDVWT2o3dFVLc2J6TjJxdHh1eXlBUUNic2Z3WjY2Y0pSWTdBSmVpTWtMYUxoc0xjWjYtb3QxRTQ2bw?oc=5",
-      "published": "2026-07-09T11:31:19+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -434,6 +454,16 @@
       }
     },
     {
+      "id": "6d43ceb8b221",
+      "title": "Recruiting läuft - Rossmann startet Online-Apotheke: E-Rezepte künftig per App einlösbar - leadersnet.de",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmRYUFpnWHIxNGhpMjZ6TGZqTENVQ2V6aDRXZTFYMEozYXIwN00yR29GQ3FnRmpJNGVxdTZwby0yVUV1UU5YQm9PTWo2TWszZ05iYm1seHdfTmpwaTJwSTkzOUJQT3JyRER6U3BUZXQxRERvQjZEMXF0UEVPX3JRQ0RwNjktZkUyeVVHNERVY3VLdWxuYmdSdmlfenVqZmU5aWFaRA?oc=5",
+      "published": "2026-07-09T08:00:00+00:00",
+      "source": {
+        "name": "leadersnet.de",
+        "url": "https://www.leadersnet.de"
+      }
+    },
+    {
       "id": "054c2beef78c",
       "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
@@ -441,16 +471,6 @@
       "source": {
         "name": "Fortune Business Insights",
         "url": "https://www.fortunebusinessinsights.com"
-      }
-    },
-    {
-      "id": "823ae5e575ee",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWG90TDNVaUVHNXl4Rzc3bHZJMnlNcDFNWXNReXBCaHB1NlR1RzR2Q2l1eTBRNVpUWGpVTHk3Smw0UWR6c1RWaE9QblZZM2pvdl83ajQ4UnA0OTZHSy14Q09FSlJ1a1ZMc1VfYjFVMWt1Z3dPNkFGdjU1TzRJckRONVdLYVQwWVFSd3lOcnU5OHZ4dzVXejY0ajhSRkRwMlFmbmZLc2RYdnV0WWNpa2ZTbjM4b0F6ejJtWVBzZFNhUWF2Zw?oc=5",
-      "published": "2026-07-07T03:26:56+00:00",
-      "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -471,6 +491,26 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "88782b763d6e",
+      "title": "Der Hustensaft Bao Thanh begleitet die medizinischen Untersuchungs- und Behandlungsaktivitäten von Freiwilligen in Tuyen Quang. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlI2bzFKQVMzY3lZWDJIRUtTWFJOQWZkYlhRc0ZkeTVVY1RYYmk4dEg3VHFTXzQ4SFkwMGpLcmdpTW9lMHNUNFRFSnVKaWJ0Z0Z5S2h4ZE5Zam1TRk5QcTZEYkdRQnh3eXpjUjk2NDVWT2o3dFVLc2J6TjJxdHh1eXlBUUNic2Z3WjY2Y0pSWTdBSmVpTWtMYUxoc0xjWjYtb3QxRTQ2bw?oc=5",
+      "published": "2026-07-09T11:31:19+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "823ae5e575ee",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWG90TDNVaUVHNXl4Rzc3bHZJMnlNcDFNWXNReXBCaHB1NlR1RzR2Q2l1eTBRNVpUWGpVTHk3Smw0UWR6c1RWaE9QblZZM2pvdl83ajQ4UnA0OTZHSy14Q09FSlJ1a1ZMc1VfYjFVMWt1Z3dPNkFGdjU1TzRJckRONVdLYVQwWVFSd3lOcnU5OHZ4dzVXejY0ajhSRkRwMlFmbmZLc2RYdnV0WWNpa2ZTbjM4b0F6ejJtWVBzZFNhUWF2Zw?oc=5",
+      "published": "2026-07-07T03:26:56+00:00",
+      "source": {
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -644,16 +684,6 @@
       }
     },
     {
-      "id": "cef08f0e7c6b",
-      "title": "Pfizer Ltd im indischen Pharmamarkt. Solider Gesundheitswert mit internationalem Hintergrund - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajM5d2szdDg3dk9uNXpKSjVJNlE4WUlUd2tKaGJkU25NR25SXzVtdk9sWms5R1NPZ0QxdWpQRGlFb1BHOXNSem4yYlMtSms1MTVCMWxFQ3RtcDRFcVVidTZUeUQyTmoxTkpsSE55YW5uV1A2TmpQbkthOUFNeTBzQ3IwMnBqaWNYM3lqcEV4RkpLUmhHNHpWdk1Mb1RfTGkyUW1ZQ0JiOVFOdlNBQTRrY2NVSVB6bG5VMmIzTktlVQ?oc=5",
-      "published": "2026-07-09T11:26:24+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "5b3c21a9706f",
       "title": "Hendrik Streeck hinterfragt teure Medikamente für alte Menschen - Spiegel",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdklWd0VveEdNaGZxM3F3RmFVdXFOQi10dUZONzlqUjBCS1EyMERpajY5dm9UajBXQnNaaG1Kc2NYUl8tOHpBZFBTQjl4X2NUdXNmckMxdDllNEVmMnZkNVRvU2Y1d3R6WUswWVFLek9rWUhOb01pSjkwbFB1SVdWaTQyc25VWi1aUGxWUGpETWU1b0plSW5qQXNZNzNmbzRPUUg0dGRVOHpEQnI4SWpkZ2diak1XSWNmNFhzSXVUd1BDYktCSkxIVmt2ekpXdGJ3ZDdYRXdWa1FwNDVo?oc=5",
@@ -771,6 +801,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "cef08f0e7c6b",
+      "title": "Pfizer Ltd im indischen Pharmamarkt. Solider Gesundheitswert mit internationalem Hintergrund - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajM5d2szdDg3dk9uNXpKSjVJNlE4WUlUd2tKaGJkU25NR25SXzVtdk9sWms5R1NPZ0QxdWpQRGlFb1BHOXNSem4yYlMtSms1MTVCMWxFQ3RtcDRFcVVidTZUeUQyTmoxTkpsSE55YW5uV1A2TmpQbkthOUFNeTBzQ3IwMnBqaWNYM3lqcEV4RkpLUmhHNHpWdk1Mb1RfTGkyUW1ZQ0JiOVFOdlNBQTRrY2NVSVB6bG5VMmIzTktlVQ?oc=5",
+      "published": "2026-07-09T11:26:24+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -894,13 +934,13 @@
       }
     },
     {
-      "id": "8d5c421af2dc",
-      "title": "Merck & Co. setzt auf stabile Medikamentenumsätze. Der US-Pharmakonzern bleibt ein Schwergewicht im - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR25vQVo4eHlxbmkxT1ZqS1lDNnYyN2J4Tlg5Q29RWWphWl9IRWpxSVN1M3BUTGZuSjBORExqRmdaUUQwSDZrd0Nwa19NaTFRWkxxdGkwMW1SdC1TQ21zc25ITUV0aTM4RHpiQjRxaFVVVjYxYXB6LUJmZ19TVEpsYklobmh3ajFxU3hfajZ1MG4wS2o1UDM5dmNOOUd4N3RITDNKcC03aUJJdnZ6Q2FhS281dU4?oc=5",
-      "published": "2026-07-06T10:01:35+00:00",
+      "id": "b9ca65e5a941",
+      "title": "Marktbericht: dm steigt in den Gesundheitsmarkt ein - tagesschau.de",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0RWVjQ1MFJ3RDJCdFRnZ3Z1RUU4YThkS1F2bnowNnZBQWk1QlIxdWNtMFN6a19KWWlhTnFyVUNRSGNLanRyR01ZM0lxSG1HRFBqQ3l3QXBMR1F6UU43X29oLTZEODQ1TktKWmhOVVR4YW10YWY1Qm5JZlZoLU8tMlhDYw?oc=5",
+      "published": "2025-12-15T08:00:00+00:00",
       "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
+        "name": "tagesschau.de",
+        "url": "https://www.tagesschau.de"
       }
     },
     {
@@ -911,16 +951,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "b9ca65e5a941",
-      "title": "Marktbericht: dm steigt in den Gesundheitsmarkt ein - tagesschau.de",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0RWVjQ1MFJ3RDJCdFRnZ3Z1RUU4YThkS1F2bnowNnZBQWk1QlIxdWNtMFN6a19KWWlhTnFyVUNRSGNLanRyR01ZM0lxSG1HRFBqQ3l3QXBMR1F6UU43X29oLTZEODQ1TktKWmhOVVR4YW10YWY1Qm5JZlZoLU8tMlhDYw?oc=5",
-      "published": "2025-12-15T08:00:00+00:00",
-      "source": {
-        "name": "tagesschau.de",
-        "url": "https://www.tagesschau.de"
       }
     },
     {
@@ -971,36 +1001,6 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "d6702eea68c6",
-      "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYWlNEMVdKV0JFOGp6aTR3NHotVFlWc1pUajJ6WVc0SVVLNmo5c2otX0tmbnF3QmhvNFlQS2FJNkwzejFfeXU2a1U1d2ZPSzgwMHdVSThrbw?oc=5",
-      "published": "2026-03-06T08:00:00+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "42f984299fe2",
-      "title": "Apotheken schlagen Alarm: Medikamenten-Engpässe drohen - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1BYUUNyUEFvd2tlZmtVUUZiR2xwR29INjIyY0lzOEJNbFJ5c1VfQWRKaTNaQnZzOE9obk9kTEpBWTRlUjFIeXRrSG0wOHRXck5vQVNKRUVhUVA3cnhBajI1TnJWOUxmYmJmVndyYXFVNzBTbWtCalJjMlh4ck5hRTFzT2d6WnJ3ai1hY3dVcFVkdFRoVzh1QzhRN0ZGR2YxYjUzREtEZWxtZw?oc=5",
-      "published": "2025-09-14T07:00:00+00:00",
-      "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
-      }
-    },
-    {
-      "id": "770d335601a9",
-      "title": "Aktuelle Meldungen - Per App mehr Schutz für ungeborene Kinder - saarland.de",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSlB2RHNPd3RCZDFZaXIwbGFmMXhRQW9DTWNBNEY1Mk5WV0pxY2h4X2t0QmEtaHJ1Z3pVV0p3ZXNpSmEtVl9XdTY1MUdlbU90M2trWXduX3VjQk9MbmVpa2hsalBTa21yWkZzZFJkdklqLXllZjNzVE1DUmoyTVZydTc2Z0RSQXlVbnNpdXNSN2VlVWZ6WEM4bEN6cXFWVjJSbEFuaGJIUXZNWUIyM09ackpiV1h0cC1GM05DalBndWNUa1VJc1NhbWd3VlFWbnc1ZUg2YTZlWlR3RVdQQW9lRjhqQ2c5Zl9MQkJrTElWTFk?oc=5",
-      "published": "2025-12-04T08:00:00+00:00",
-      "source": {
-        "name": "saarland.de",
-        "url": "https://www.saarland.de"
       }
     }
   ]
