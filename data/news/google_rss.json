@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-07-16T08:05:17.453050+00:00",
+  "fetched_at": "2026-07-16T10:54:47.087451+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "9f7c377ed6d2",
-      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
-      "published": "2026-07-09T09:36:54+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
     {
       "id": "8d1fc40266cd",
       "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "9f7c377ed6d2",
+      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
+      "published": "2026-07-09T09:36:54+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -54,6 +54,16 @@
       }
     },
     {
+      "id": "8f3adff540a8",
+      "title": "Longevity: Was die Wissenschaft heute über den Alterungsprozess weiß - Handelsblatt",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjRXd0hkOHh0TDA1R1NoZ3ZpSS11V0UyRVhoLTgxNGZ6dWpNc2hKLV9RandiNnJ5MlFQdXBSTVFaNUFsbzItVWFKZ1o3eWc0VlpNeC12ZTZTWlJuX21Pb3dyTW5DTWI1OThhYlBhaTk4QWJ0NW53MG5uQUlHY3FEOU9mc1ZVUHFjYUk2eEtBbFBqV05wYjNoMDVaNl9mSW5CTlZ2UUw2dDhvVFRRSVlXQUt0NVlnaC1xNzB1aTJpTXpQVDhmU011Zg?oc=5",
+      "published": "2026-07-15T13:57:00+00:00",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
       "id": "a48a34dcb337",
       "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
@@ -64,13 +74,13 @@
       }
     },
     {
-      "id": "8877bd184e20",
-      "title": "Darmmikrobiom-Selbsttest: Warum Experten davon abraten – und einen Arztbesuch empfehlen - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEk0bnBpVDZ0d1ljamJmVkxkeHlzLWdhQ0FyekRxUXA5M1hhY2x2QS0wSFlMd2ZlOThUaFpYSDdBeEtET0JXRHoxVmptZzZkUFRlZDl0SW1VcnZsdFB1bjVpQVRpdllCMTZ0Z2tKRzNiZWJwTW1HaFBlVFBISTNiVkNjeVZCX1JqZ2xNTUxzbHJlV1Vmb1g1S2t4S1VNdGd6OVdGNHV4cW52M3BpM1RBVFllel9hcm5IQWV1NWlLUTltOVZIN2tjWkJYdkgxSER2S0lrcWw3SWw4LTJrT3c?oc=5",
-      "published": "2026-07-15T15:29:30+00:00",
+      "id": "d8ee5b6f18b2",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTBZZk9xVDR1WkZJZmFhb2ZGY2djYnpIaWJ2XzU1UGhBTzZTWGpPdWVURVhSZ04tLTRLZk5HQ2d0QmluZzJ1akZfOEt3Z0wxdFpmbDJIZjRTT0UwWTRPWTg4NHF0QUdqdF9zc2RQUFVOR3p4c2ozRmZHbkdRdDJ3YVNVTFNuTWJuanA1U1lYbUdOM0g2N0FSWHd0YTRvWXgza0RRc2hYU0RMUldOWm9oOTB5MFhKYzhWX0s4eTFWLTBJUQ?oc=5",
+      "published": "2026-07-16T08:58:19+00:00",
       "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -101,6 +111,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "8877bd184e20",
+      "title": "Darmmikrobiom-Selbsttest: Warum Experten davon abraten – und einen Arztbesuch empfehlen - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEk0bnBpVDZ0d1ljamJmVkxkeHlzLWdhQ0FyekRxUXA5M1hhY2x2QS0wSFlMd2ZlOThUaFpYSDdBeEtET0JXRHoxVmptZzZkUFRlZDl0SW1VcnZsdFB1bjVpQVRpdllCMTZ0Z2tKRzNiZWJwTW1HaFBlVFBISTNiVkNjeVZCX1JqZ2xNTUxzbHJlV1Vmb1g1S2t4S1VNdGd6OVdGNHV4cW52M3BpM1RBVFllel9hcm5IQWV1NWlLUTltOVZIN2tjWkJYdkgxSER2S0lrcWw3SWw4LTJrT3c?oc=5",
+      "published": "2026-07-15T15:29:30+00:00",
+      "source": {
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -154,26 +174,6 @@
       }
     },
     {
-      "id": "c1f5975f61ef",
-      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
-      }
-    },
-    {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "491353a8a494",
       "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - SRF",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORENTMTRnWUd3bk1FdGtsdnpuWW1LWnQ0LVJXUmI2R2RMLTdCQUdFaGNVRFloTVR6aHl1TExaZHVhcnZzbGJ6aG9jWlpuSXpQdmgzNnhHeEtPUTRuQzdhRlR1dlJUYjBSXzdOSS03NXA0MUtGS3dNcHNiQ3pVckNaWHJQZ0I1YjdpbC1aTy1HdWV5Y0dJdG1ONl95RllIaUM3NWZBejRMc000SnczM0wwS3ZBaUNVOU5HRVhZTHlGajFjRmNRRjJFcw?oc=5",
@@ -201,6 +201,26 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "c1f5975f61ef",
+      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -234,16 +254,6 @@
       }
     },
     {
-      "id": "a91bce131989",
-      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
-      "published": "2026-07-10T11:30:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -254,10 +264,10 @@
       }
     },
     {
-      "id": "452b989ec437",
-      "title": "WHO: Gesunder Lebensstil kann Demenzrisiko senken - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmN6YXB4dTZKbVBKUFltRjIwM3JmSnR0LWlVaVh6MnZudHBKdXViaVZLRW5CV1ZkSDNrUWRLc1FhOF9QSGdsV3F0Q29yRzJySUU2SWw1UlRCTUpRLVI4MDlVUEhwVjR6YzdkejY3a1NsVUl0QlhPRGJUZFNYRzFfMUhqd1ctMUVuUG1oaUNhejYtQ3ZRelE?oc=5",
-      "published": "2026-07-15T15:00:00+00:00",
+      "id": "a91bce131989",
+      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
+      "published": "2026-07-10T11:30:00+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
@@ -311,6 +321,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "452b989ec437",
+      "title": "WHO: Gesunder Lebensstil kann Demenzrisiko senken - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmN6YXB4dTZKbVBKUFltRjIwM3JmSnR0LWlVaVh6MnZudHBKdXViaVZLRW5CV1ZkSDNrUWRLc1FhOF9QSGdsV3F0Q29yRzJySUU2SWw1UlRCTUpRLVI4MDlVUEhwVjR6YzdkejY3a1NsVUl0QlhPRGJUZFNYRzFfMUhqd1ctMUVuUG1oaUNhejYtQ3ZRelE?oc=5",
+      "published": "2026-07-15T15:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -414,6 +434,16 @@
       }
     },
     {
+      "id": "7a99adaec5c0",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": {
+        "name": "Geo.de",
+        "url": "https://www.geo.de"
+      }
+    },
+    {
       "id": "5e1e391b3310",
       "title": "Arzneimittelsicherheit: Resilienz bei Gesundheit und Regierung - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMW1pUE5xODlSb1Nid1d5eFhmOTBocnNWZVYtUHh3RjhEdWw1UHFBLW9KY01UX1p2TEJGUkxfVktfcG8yRFk0ZTNIV09ucV84Z1hqby1OaExLS0NxRUMtaFU0a1ZvX1hZdWlydVBDYnVJTHMtT3JpTFk5RlNEcmVRT3gtaGVCVzczTWJwWlpR?oc=5",
@@ -421,16 +451,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "47afc2884d76",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
-      "published": "2026-06-19T07:00:00+00:00",
-      "source": {
-        "name": "geo.de",
-        "url": "https://www.geo.de"
       }
     },
     {
@@ -461,16 +481,6 @@
       "source": {
         "name": "baden-wuerttemberg.de",
         "url": "https://www.baden-wuerttemberg.de"
-      }
-    },
-    {
-      "id": "185c43662060",
-      "title": "Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5",
-      "published": "2026-07-15T21:05:08+00:00",
-      "source": {
-        "name": "Ad Hoc News",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -584,6 +594,16 @@
       }
     },
     {
+      "id": "185c43662060",
+      "title": "Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5",
+      "published": "2026-07-15T21:05:08+00:00",
+      "source": {
+        "name": "Ad Hoc News",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -654,16 +674,6 @@
       }
     },
     {
-      "id": "3ebb0c2080d6",
-      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
-      "published": "2026-07-02T13:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "5d8c89f1b6f0",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
@@ -671,6 +681,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "3ebb0c2080d6",
+      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
+      "published": "2026-07-02T13:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -934,16 +954,6 @@
       }
     },
     {
-      "id": "228667018786",
-      "title": "Frauengesundheit: 170 Millionen mit PMOS kämpfen gegen Insulinresistenz - Ad Hoc News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMW9MQlJpSlRwQTFVWTA5eDdKcEJCcWN4Zk9HNk1sVUlBbU1PcF9XLXFmNEZUUEh2bFEwOU5qVlFyT0w0blFaM2pQcVJ1bV9KTW5COGZqWTdpcjVnVUEtRzgwZ0V6SFZqR2RaNy1Qb01LYlAwcDJVNzVfUGE2UndBeHhBU19Ga2xUTDY3QlBrcmItZi1MS0RIbUxTYmYwTmN6VGtFRVhOSHNQeW5VZFR1ZGNJVDBRdzViQUZLYg?oc=5",
-      "published": "2026-07-15T22:20:07+00:00",
-      "source": {
-        "name": "Ad Hoc News",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "cb9e82b5a596",
       "title": "Pharma-Brief Spezial 3/2025: Arzneimittel als Umweltproblem - BUKO Pharma-Kampagne",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDdWTFg4MmVyMTJlZDZWcUtYOGREV1BOcUNuQ3NZY29fVzdzSjc3Z1o3T3hXUzVva00tTUdINnlpa2NSc2dNVVcxazFpZFpzODYtVjV2bVRtd3k3Uk0zVXotMldEalRmRFJVZV9CTkxMUHlNVUsxZ2xqTjlaaWJpMElqMlQ2b2kwRlIyMjVxVk5OaFNOTWNGSg?oc=5",
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "0dba016a69d0",
-      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzZjM0cwcm1ldnUzc0xrOER4cEk0a05ucnhNX1llWk1YeU9zVnlTeTVFM1lWWmhBR1RrZEJCODVQdlIwNWw3Zmg2N004NVpqa29HT2FBZ1BfUWN5T2hGQlkxc2ZvQWdWVThrdk9sUk80UWc5MXlzaGQ1NXZTYUxtUUNoWmVzR2F5YjRDejhGbU5ZeDBHOGstVGNXLUVEVm9LejJ1RmpUd0Q3T25xb3pxM3hzQVYwaDljcWNycHBPNjZyS3daSVJOU3U1ZU5tWWFMbnfSAdIBQVVfeXFMUDFiX1VoOC1ZdmxVR3o2Q3VRMTNhUUNEaVRHdFZneDJrblJSckE1Zk9icjFaWXZTMGlJMFhHTC13bjIwMjhwWS1mZTRrdU1WcXFyS1ZEQndLRXFtRUZELUJQeFlMRHZ0aUFYbFNjd3NYOUFUZmxHZ0hZMEFNc2xXTVlPN1NVc3RYY3dxd2F6V20xMGdMa215eG9majhKX25kbjRaSXdOR1NoT1JFQnBXM1VmaGdjMWt0Z2IxNDBvOTRiSUlBM250LWJtTTBOZjdJeGtB?oc=5",
-      "published": "2025-08-04T07:00:00+00:00",
-      "source": {
-        "name": "DW.com",
-        "url": "https://www.dw.com"
       }
     }
   ]
