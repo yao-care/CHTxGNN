@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T20:03:43.271434+00:00",
+  "fetched_at": "2026-07-18T21:45:28.653385+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "64cfe633b8e0",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUndZSEI1eXZGak11Rng1cTl0UkQxdW1GaldNRDg2eFJ0U2pOUTNNMXV5c0k4N2VDN2ppSXREZ2JyV3lHTVZmejcyTU1HQlE0dUc5T01tcW5kQzNLb0tFYl9ZbFRMSDhRQzhrV3VTVDBlVnRxTDFnMVpXc1F2YTZocHBGMVIzbUhONEJCLUM1aGlkZmlsR2E4WDRoX1h0UUcwQ3c1TTl3S21jMG5USGlXbVdERjlDWHU0LUQ3dUJpUUc3dw?oc=5",
-      "published": "2026-07-18T03:26:52+00:00",
-      "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
-      }
-    },
-    {
       "id": "e4d74f6ebf64",
       "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Jüdische Allgemeine",
         "url": "https://www.juedische-allgemeine.de"
+      }
+    },
+    {
+      "id": "64cfe633b8e0",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUndZSEI1eXZGak11Rng1cTl0UkQxdW1GaldNRDg2eFJ0U2pOUTNNMXV5c0k4N2VDN2ppSXREZ2JyV3lHTVZmejcyTU1HQlE0dUc5T01tcW5kQzNLb0tFYl9ZbFRMSDhRQzhrV3VTVDBlVnRxTDFnMVpXc1F2YTZocHBGMVIzbUhONEJCLUM1aGlkZmlsR2E4WDRoX1h0UUcwQ3c1TTl3S21jMG5USGlXbVdERjlDWHU0LUQ3dUJpUUc3dw?oc=5",
+      "published": "2026-07-18T03:26:52+00:00",
+      "source": {
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -244,16 +244,6 @@
       }
     },
     {
-      "id": "b7c47ca36b58",
-      "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
-      "published": "2026-07-16T13:22:07+00:00",
-      "source": {
-        "name": "n-tv.de",
-        "url": "https://www.n-tv.de"
-      }
-    },
-    {
       "id": "db5e5ef8605c",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -261,6 +251,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "b7c47ca36b58",
+      "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
+      "published": "2026-07-16T13:22:07+00:00",
+      "source": {
+        "name": "n-tv.de",
+        "url": "https://www.n-tv.de"
       }
     },
     {
@@ -324,16 +324,6 @@
       }
     },
     {
-      "id": "2f34179105c8",
-      "title": "„Lässt Demenzrisiko steigen“: Ärztin warnt vor diesem Cholesterin-Wert - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLW9UVDJmdXpRQmp1Wks2U3BvMEdFckEzSFJwVHdkTkJpckRuVnA2a093VV90UVMzOGRBQWp2ZnF3QjZvX2lITzZsdUZ4c1JESEVCN0VqOXRFSl9TYzBCTzJ2MThFbFBzemdUMmcxODBlZHozdnR0Mk56U3BMMFl2cE5NNk5IQlQ5NW5CSTN2SGprOE5kMFpqLXBCOEtWWFM5bEJCWHdXbkltLTBsaFlITGpubDl6cFRCWTYtVVhLRWx6eklROUZUNDBobm5KYmswWEdhQVc5clg?oc=5",
-      "published": "2026-07-14T11:53:09+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
       "id": "08f761ee3a89",
       "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
@@ -341,6 +331,16 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://de.euronews.com"
+      }
+    },
+    {
+      "id": "2f34179105c8",
+      "title": "„Lässt Demenzrisiko steigen“: Ärztin warnt vor diesem Cholesterin-Wert - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLW9UVDJmdXpRQmp1Wks2U3BvMEdFckEzSFJwVHdkTkJpckRuVnA2a093VV90UVMzOGRBQWp2ZnF3QjZvX2lITzZsdUZ4c1JESEVCN0VqOXRFSl9TYzBCTzJ2MThFbFBzemdUMmcxODBlZHozdnR0Mk56U3BMMFl2cE5NNk5IQlQ5NW5CSTN2SGprOE5kMFpqLXBCOEtWWFM5bEJCWHdXbkltLTBsaFlITGpubDl6cFRCWTYtVVhLRWx6eklROUZUNDBobm5KYmswWEdhQVc5clg?oc=5",
+      "published": "2026-07-14T11:53:09+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -654,16 +654,6 @@
       }
     },
     {
-      "id": "93b85f067a4a",
-      "title": "Wirksamste Abnehm-Medikamente haben meisten Nebenwirkungen - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlVzSE9WQzFOS05rS196STZKRzgxUHVzWUJuOGpSbWxNM0ZXZFBNclZld1NvejR2Y1VoZTZhYmJIajI1SW5XTDZhQ3FHQ3BTQWNhVGd1RmdqNDZoaTZFVkFoRmtsblJfQUFtbWhXYVlOb0JkUmFCUFlvZUVwUkVaSGlONnJSb0k2cGRZNTItdThlOXd5dE4zX2NEOXI1elYyNnN2bnJlQ0pRdUNIemF6ZzNib0ZiYVU2M3VaX3VvSEk?oc=5",
-      "published": "2026-07-18T04:48:14+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "5d8c89f1b6f0",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
@@ -691,6 +681,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "93b85f067a4a",
+      "title": "Wirksamste Abnehm-Medikamente haben meisten Nebenwirkungen - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlVzSE9WQzFOS05rS196STZKRzgxUHVzWUJuOGpSbWxNM0ZXZFBNclZld1NvejR2Y1VoZTZhYmJIajI1SW5XTDZhQ3FHQ3BTQWNhVGd1RmdqNDZoaTZFVkFoRmtsblJfQUFtbWhXYVlOb0JkUmFCUFlvZUVwUkVaSGlONnJSb0k2cGRZNTItdThlOXd5dE4zX2NEOXI1elYyNnN2bnJlQ0pRdUNIemF6ZzNib0ZiYVU2M3VaX3VvSEk?oc=5",
+      "published": "2026-07-18T04:48:14+00:00",
+      "source": {
+        "name": "MSN",
+        "url": "https://www.msn.com"
       }
     },
     {
@@ -894,16 +894,6 @@
       }
     },
     {
-      "id": "d39d07e3397b",
-      "title": "Sommerhitze: Achtung, manche Medikamente wirken anders - Ihre-Vorsorge.de",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWW1icWFIbGQyaUMxVWU3T29QcUd1RUhxN0N4VF9vbVBnNHJySEV0d3Y2V2dYcEFQRVJGMjlQOHotSVcxNzBhVE45QnZVdnhEckF4Y3BuUkJfTVVPcXRtR19HWlBVMndWZWgwTzZ0RXlRaHNpRk5UUmdnTVdXeEZpTEdtd0dPNnZrQWNOZFAxTDJyTnBibUFsRXoxOWtYYm5iZVF1Q2dfSQ?oc=5",
-      "published": "2026-06-19T07:00:00+00:00",
-      "source": {
-        "name": "Ihre-Vorsorge.de",
-        "url": "https://www.ihre-vorsorge.de"
-      }
-    },
-    {
       "id": "a43852bf5366",
       "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
@@ -911,6 +901,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "d39d07e3397b",
+      "title": "Sommerhitze: Achtung, manche Medikamente wirken anders - Ihre-Vorsorge.de",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWW1icWFIbGQyaUMxVWU3T29QcUd1RUhxN0N4VF9vbVBnNHJySEV0d3Y2V2dYcEFQRVJGMjlQOHotSVcxNzBhVE45QnZVdnhEckF4Y3BuUkJfTVVPcXRtR19HWlBVMndWZWgwTzZ0RXlRaHNpRk5UUmdnTVdXeEZpTEdtd0dPNnZrQWNOZFAxTDJyTnBibUFsRXoxOWtYYm5iZVF1Q2dfSQ?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": {
+        "name": "Ihre-Vorsorge.de",
+        "url": "https://www.ihre-vorsorge.de"
       }
     },
     {
@@ -934,16 +934,6 @@
       }
     },
     {
-      "id": "86799bd3d9d6",
-      "title": "Alterung: Neue Proteomik zeigt Schübe um 34., 60. und 78. Jahr - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWJENUNBTHNZT214M3FnMmtEbGU2MUhWUnRmZFg0VFpXVHY5eXpVY01UTWxXYndkMmZPb0Y4VU9uS3dEeVJ2NkFURDR1eVA5SzVTU001blU3R0g0Y1czRDc5REZ3cXFTOVhELVRDanlQX0xnOTRMd0IybW54ZWwwbzJQMzNHMFpGeDMtdHNGeXN3OXlTUDlTVzBUVlo3ZkJGYXBRQ2pZa0oycjA?oc=5",
-      "published": "2026-07-18T10:39:25+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "2aa053163d77",
       "title": "Krisenfall: Schwaches Gesundheitssystem, schwacher Staat - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0JucXpoc0ZtZjFpUHphX3JmWF84RDd1ZXhfc1Z1MW9oVEtYRUdOTzZ1NVhBdnZMVE8wRTBQQ01hZzRicDBrRXdaRlhCcnFLRjdZblNoYmxMSGhXOEYtNjJ3aHVYZm93MjRHSEhvNDEwUXp6YmZhUjl2eTNLNlJ4T2Z5ejc4UDgzUHdKU0dOQjRJUDBp?oc=5",
@@ -964,10 +954,10 @@
       }
     },
     {
-      "id": "60a76794ad38",
-      "title": "Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5",
-      "published": "2026-07-15T21:05:08+00:00",
+      "id": "86799bd3d9d6",
+      "title": "Alterung: Neue Proteomik zeigt Schübe um 34., 60. und 78. Jahr - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWJENUNBTHNZT214M3FnMmtEbGU2MUhWUnRmZFg0VFpXVHY5eXpVY01UTWxXYndkMmZPb0Y4VU9uS3dEeVJ2NkFURDR1eVA5SzVTU001blU3R0g0Y1czRDc5REZ3cXFTOVhELVRDanlQX0xnOTRMd0IybW54ZWwwbzJQMzNHMFpGeDMtdHNGeXN3OXlTUDlTVzBUVlo3ZkJGYXBRQ2pZa0oycjA?oc=5",
+      "published": "2026-07-18T10:39:25+00:00",
       "source": {
         "name": "ad-hoc-news.de",
         "url": "https://www.ad-hoc-news.de"
@@ -981,6 +971,16 @@
       "source": {
         "name": "DW.com",
         "url": "https://www.dw.com"
+      }
+    },
+    {
+      "id": "60a76794ad38",
+      "title": "Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5",
+      "published": "2026-07-15T21:05:08+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
