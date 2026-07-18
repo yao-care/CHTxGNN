@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T05:20:24.913767+00:00",
+  "fetched_at": "2026-07-18T07:41:52.123240+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,13 +44,13 @@
       }
     },
     {
-      "id": "a48a34dcb337",
-      "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
-      "published": "2026-07-05T07:00:00+00:00",
+      "id": "64cfe633b8e0",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUndZSEI1eXZGak11Rng1cTl0UkQxdW1GaldNRDg2eFJ0U2pOUTNNMXV5c0k4N2VDN2ppSXREZ2JyV3lHTVZmejcyTU1HQlE0dUc5T01tcW5kQzNLb0tFYl9ZbFRMSDhRQzhrV3VTVDBlVnRxTDFnMVpXc1F2YTZocHBGMVIzbUhONEJCLUM1aGlkZmlsR2E4WDRoX1h0UUcwQ3c1TTl3S21jMG5USGlXbVdERjlDWHU0LUQ3dUJpUUc3dw?oc=5",
+      "published": "2026-07-18T03:26:52+00:00",
       "source": {
-        "name": "Jüdische Allgemeine",
-        "url": "https://www.juedische-allgemeine.de"
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -71,6 +71,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "a48a34dcb337",
+      "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "source": {
+        "name": "Jüdische Allgemeine",
+        "url": "https://www.juedische-allgemeine.de"
       }
     },
     {
@@ -144,16 +154,6 @@
       }
     },
     {
-      "id": "10652a08cd24",
-      "title": "(S+) Wegovy: EU lässt neue Abnehmtablette zu – über Nutzen und Risiken - Spiegel",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdk10WXpWbHVEUzBJM3o1V2k2RWNqT1ViR0o0VXU5MlRFN3Vzd3RYUG5iclM2QUZuQjFSclZ6b0o4SmRWaFVxazdXX3RYWFZSclVuUTZVWHRXZ1RxblE3OTVRdWQ3eDRZVGVaX1ZhbVZfdTFyQ19tYTJlN1Z0cUFTRzlja1hRWnlMcVpKS3dxUFRGOWtJbk9SSVNueUpja3hQWk1nTWVJSXF5eGNUbzg5b2JDYnF4alBaakhUWW1JdlhybndENDh1R0tGeGJLVWtQaTFXOFhDbzdIOGk4UGRJTDh2eWJpbkJU?oc=5",
-      "published": "2026-07-17T13:10:00+00:00",
-      "source": {
-        "name": "Spiegel",
-        "url": "https://www.spiegel.de"
-      }
-    },
-    {
       "id": "9fa13ce5acf5",
       "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
@@ -214,6 +214,16 @@
       }
     },
     {
+      "id": "10652a08cd24",
+      "title": "(S+) Wegovy: EU lässt neue Abnehmtablette zu – über Nutzen und Risiken - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdk10WXpWbHVEUzBJM3o1V2k2RWNqT1ViR0o0VXU5MlRFN3Vzd3RYUG5iclM2QUZuQjFSclZ6b0o4SmRWaFVxazdXX3RYWFZSclVuUTZVWHRXZ1RxblE3OTVRdWQ3eDRZVGVaX1ZhbVZfdTFyQ19tYTJlN1Z0cUFTRzlja1hRWnlMcVpKS3dxUFRGOWtJbk9SSVNueUpja3hQWk1nTWVJSXF5eGNUbzg5b2JDYnF4alBaakhUWW1JdlhybndENDh1R0tGeGJLVWtQaTFXOFhDbzdIOGk4UGRJTDh2eWJpbkJU?oc=5",
+      "published": "2026-07-17T13:10:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
+      }
+    },
+    {
       "id": "b7c47ca36b58",
       "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
@@ -224,16 +234,6 @@
       }
     },
     {
-      "id": "926a1f681898",
-      "title": "„Wegovy“ als Pille: So wirkt das neue Mittel gegen Adipositas - RND.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVZma2Mwem41UjRwLXdyMnQxUmd4ZVBMZGVjV2lQdWlBSmViTmJDbkk5eUJGZ1BNdlV2dGJCUFhBcGR3aTF0Y3FqMkRvSHBhV1NDUjNCdk45dlF2YUh2bVNfVkU3R0R3MzVIQ3NQaEJPQ1QteG1RVUFrQTFKOU9VdFNBQlh1QUVpU1dBVEI3eEFCMjFNZHVsbHlRWDFHNkFtUk56Tm44UElDOFhsaHBNWmxON3N5Z2RMVWlxYWZRTkZSbnV2aXJR?oc=5",
-      "published": "2026-07-17T13:58:51+00:00",
-      "source": {
-        "name": "RND.de",
-        "url": "https://www.rnd.de"
-      }
-    },
-    {
       "id": "087891737758",
       "title": "Engpässe bei Arzneimitteln: Geopolitik erschwert Europas Streben nach Unabhängigkeit - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2lScFVHU3ZELWZOdzJOUGU2YUQ3c2ZpbWhIYWFiVUNoRFZHTm5JM1BfUWVnanhicnRvanhQdGx4UHVuTnZ5dG4ySEY4eVE3dUxGaXVLSm5sM1liQzRtc19GVVE3RkNnUGhhTkhZTXAtMkhWZ3JqOVREWlhfRnBSX1FPRXlaaUE5d2d6cFVEakt5NDJaUkgzXzA3TUpqUUJTbzhRQXFpbmZCTGMwdlRDSXR3cHNjZw?oc=5",
@@ -241,6 +241,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "926a1f681898",
+      "title": "„Wegovy“ als Pille: So wirkt das neue Mittel gegen Adipositas - RND.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVZma2Mwem41UjRwLXdyMnQxUmd4ZVBMZGVjV2lQdWlBSmViTmJDbkk5eUJGZ1BNdlV2dGJCUFhBcGR3aTF0Y3FqMkRvSHBhV1NDUjNCdk45dlF2YUh2bVNfVkU3R0R3MzVIQ3NQaEJPQ1QteG1RVUFrQTFKOU9VdFNBQlh1QUVpU1dBVEI3eEFCMjFNZHVsbHlRWDFHNkFtUk56Tm44UElDOFhsaHBNWmxON3N5Z2RMVWlxYWZRTkZSbnV2aXJR?oc=5",
+      "published": "2026-07-17T13:58:51+00:00",
+      "source": {
+        "name": "RND.de",
+        "url": "https://www.rnd.de"
       }
     },
     {
@@ -424,16 +434,6 @@
       }
     },
     {
-      "id": "ca0d2f573d69",
-      "title": "Medizinische Cannabisblüten: Was die zuständigen Behörden von einer Vortrocknung unter GACP halten - Krautinvest",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHNuZHczN3RVbkZieGhrZDFuMHhBZ1FUOS1JMndvWEItd0lEaVVWRUw0blhBOUs1WTExckFNU2FEbHQzdXB1YkV0WWxwUXNDY0JKNFFnSGk5TEIxeGNCQUVoZS13bkl5MzVzTFBFQ3hjWmRTcEZxOUNLeHoyUDhBel9RQThwRi1pX0M5alBUSW84Z0R6RkhraTdOdHZ2WkllUGYxMUJPLXBqWUlfNDZJTXU4V0RJdDBLNzBBMGprZWg1UQ?oc=5",
-      "published": "2026-07-17T08:00:38+00:00",
-      "source": {
-        "name": "Krautinvest",
-        "url": "https://krautinvest.de"
-      }
-    },
-    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -444,12 +444,12 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -494,13 +494,13 @@
       }
     },
     {
-      "id": "adbc9bcd0157",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHRJNmJrNzV2TF9MQzB3Rk11cTlaOF8yZnpnUE1RV1hnTmplUEdHX1JMSXNUYzg0dzV3VUlrRHZMbFZFU091STBoeExVb2FUNEYwWlEtSjlhT1l4SHY1VGQwdnB0QzZ6MUthVE9JQ0daR1A3Vm5qTGRRaGVjZ2UxS1ExUmVPSDVwbHQ4Z2x2bTk4NUszYnhaQnpZRDc3aVQ5OXJPaXpOalYxQUNtYWc1TlhnWUZ3ekxNUC1VakVLWnEyUQ?oc=5",
-      "published": "2026-07-14T03:26:20+00:00",
+      "id": "ca0d2f573d69",
+      "title": "Medizinische Cannabisblüten: Was die zuständigen Behörden von einer Vortrocknung unter GACP halten - Krautinvest",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHNuZHczN3RVbkZieGhrZDFuMHhBZ1FUOS1JMndvWEItd0lEaVVWRUw0blhBOUs1WTExckFNU2FEbHQzdXB1YkV0WWxwUXNDY0JKNFFnSGk5TEIxeGNCQUVoZS13bkl5MzVzTFBFQ3hjWmRTcEZxOUNLeHoyUDhBel9RQThwRi1pX0M5alBUSW84Z0R6RkhraTdOdHZ2WkllUGYxMUJPLXBqWUlfNDZJTXU4V0RJdDBLNzBBMGprZWg1UQ?oc=5",
+      "published": "2026-07-17T08:00:38+00:00",
       "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
+        "name": "Krautinvest",
+        "url": "https://krautinvest.de"
       }
     },
     {
@@ -634,6 +634,16 @@
       }
     },
     {
+      "id": "5d8c89f1b6f0",
+      "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
+      "published": "2026-04-26T07:00:00+00:00",
+      "source": {
+        "name": "MDR.de",
+        "url": "https://www.mdr.de"
+      }
+    },
+    {
       "id": "0791514ec89d",
       "title": "Steigende Arzneimittelkosten: Gesundheitsministerin Warken will Zugang zu neuen Medikamenten für alle erhalten - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenF3ckVCSXl3ZmNka21FSTVtdkdoeGRZaEQ4Nnc4ZktKZk16U0ZUd19vYWRsZDdQUDZZLVFCd2k2anZScnRpSnJtXzRCbEozRm9fMEpkcVhjZ3dwT21zQVZPX2MybWdSUHBNeTZ3TmtESDFOWFNfM0lPV1Z4M3BmUTNkLTRfVGgxRUh4OWNOblh5ZGdCaUs5WXZmR2VVaVV5d1VHR1BHUFhubGtCWlFyZWk3VnhWZjdpWE9jNE5B?oc=5",
@@ -641,16 +651,6 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
-      }
-    },
-    {
-      "id": "e5c9f6b52b1b",
-      "title": "Weil Gesundheit alles verändert - Handelsblatt Live",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQXU3d2J3REtJeXBaWlQ0UTVlRWJDR2U3cTBJRFNaVlBYenpnNmp1QXZJLXB1WFQxY1dOQjJhMGRwVVZTNEE2eWVMZVd0bVZTSzEyOHY2R0NVd2dKVllzVEM3NDRoNEZKUkthRDdSTHA?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
-      "source": {
-        "name": "Handelsblatt Live",
-        "url": "https://live.handelsblatt.com"
       }
     },
     {
@@ -704,16 +704,6 @@
       }
     },
     {
-      "id": "3ebb0c2080d6",
-      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
-      "published": "2026-07-02T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "5b55e1ba56e3",
       "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WirtschaftsWoche",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
@@ -721,6 +711,16 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
+      }
+    },
+    {
+      "id": "3ebb0c2080d6",
+      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -741,16 +741,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "5d8c89f1b6f0",
-      "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
-      "published": "2026-04-26T07:00:00+00:00",
-      "source": {
-        "name": "MDR.de",
-        "url": "https://www.mdr.de"
       }
     },
     {
@@ -904,16 +894,6 @@
       }
     },
     {
-      "id": "60a76794ad38",
-      "title": "Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5",
-      "published": "2026-07-15T21:05:08+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "2aa053163d77",
       "title": "Krisenfall: Schwaches Gesundheitssystem, schwacher Staat - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0JucXpoc0ZtZjFpUHphX3JmWF84RDd1ZXhfc1Z1MW9oVEtYRUdOTzZ1NVhBdnZMVE8wRTBQQ01hZzRicDBrRXdaRlhCcnFLRjdZblNoYmxMSGhXOEYtNjJ3aHVYZm93MjRHSEhvNDEwUXp6YmZhUjl2eTNLNlJ4T2Z5ejc4UDgzUHdKU0dOQjRJUDBp?oc=5",
@@ -931,6 +911,16 @@
       "source": {
         "name": "Tagesspiegel",
         "url": "https://www.tagesspiegel.de"
+      }
+    },
+    {
+      "id": "60a76794ad38",
+      "title": "Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5",
+      "published": "2026-07-15T21:05:08+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -964,16 +954,6 @@
       }
     },
     {
-      "id": "0e1905d4a3b3",
-      "title": "Shared Decision Making: Über 90% der Patienten fordern Mitsprache - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTNUOXZzZ0xWZmdVNlI0UEtkY3lxckRRZWVMYm5WMmpBQy1nZ1NKM0xVSWZuUXhxQlc4Uy14MVVIbkZhZ3E0UzVCNm5WbDFkWVJlQjZtd1ZZTnRpeHVvWlJubl9CWjkteE41QW1HN3hfQlo0aVhvZVB6WDVwVUlLUDNqYWttVUcwM3JFV1hsVEY4UEZ3UEFIVENNYWNvTTdyRGRNN0lldE9ZZ19keGZLVXU2VV9ZQ0toNzMzVS1n?oc=5",
-      "published": "2026-07-15T01:10:15+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "bfaa55a07020",
       "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0k1d1FLSG9YQWVIaVZLYzc3NlUzdURKM2FHc2tZR25lQlVMWFZxcndHM3hNbmRSMTRNZ1JWc2Y2WFpURWs2cDE1Mk5fdXpVb0pLbFFZc0RGSzNXajY2NC1sVlVlcXVkZ2RUeW9keW02UlYxMGFlU3FTVVo5a3RhV09KLTF3Qy01bnpxTGd1MHhOYW5fTURPLTVNa1cwZmM5by1zNmczdUZBVUZ0Ymtrd1hBVi04VS02V08zRkJucTVMSXZUR2Jtd3hZMVF1WkpXdnc?oc=5",
@@ -1001,6 +981,26 @@
       "source": {
         "name": "ZDFheute",
         "url": "https://www.zdfheute.de"
+      }
+    },
+    {
+      "id": "0d877deab3c8",
+      "title": "Usbekistan will Bezahlbarkeit von Medikamenten auf der Ebene der primären Gesundheitsversorgung verbessern - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHcxc3ZFWkhLcWVKS3RfWW5xSUZBUFVCQkdxb1pGZGlqai1UWjE1S2s3cG5KMEJCdjFPQ0hQZnc4X0o4bVVSTHhKZURfeWRXb01vNkkzUG5CcGQ0YlZXZjZSQXBfdHVBc0l1S0MzdHBBejJUMVJTQURsS0ZQdG9HVkczVFZXdjNKZWgzZmhGdnpVdl9oZHUzRjRYOXRWLUFWTC1ZR2tBVy04NWtrM2lpYVlKNEw1eUl4TWpqT0JGZUxpdnBRbmJIUk5peENtS1VJRG1sdzR6bw?oc=5",
+      "published": "2024-11-26T08:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "2f0394c48ff1",
+      "title": "Diskussionsrunde : Teure Orphan Drugs setzen GKV unter Druck - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMm9GbF9MdlR1T05IVU9La29FSnJzYmpWYTNqNW05eHVvMW1OVTdOX3FMaHhPT2JuUExjdkV6Zlg1NUh6WHEzS3RkQmhFLUVKWllJa2IxdDBacXl5SDZsbzc1YXY3TnIzYUpjalNfaDl6dnE2YUV0eGt1cWd0OTBiVVNYYzIzMEUybmdDRjZGQ3ZKZw?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     }
   ]
