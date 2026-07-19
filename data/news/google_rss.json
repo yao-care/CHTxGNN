@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-07-19T13:07:39.403462+00:00",
+  "fetched_at": "2026-07-19T14:51:06.975592+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "198b0da65ee5",
-      "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWhsNWk1Tkc5MzNycUQ5RzhaaXhPTGlCcHJ1Yl9wajZ0VkV3akIxR255SUd6clB5aU5fZmNlUGZIcTVNanZlTmctSDJqUFB5Zk5XempaWnhrbDBlVWZuOE9xWDRSREhKRm5sa0lrbGVnVjl0TE5NNWtTY25CUzRmdG5jQlBZc1pFakFyT0hITHU5NmpfaUE?oc=5",
-      "published": "2026-07-18T14:08:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
     {
       "id": "8d1fc40266cd",
       "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
@@ -31,6 +21,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "198b0da65ee5",
+      "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWhsNWk1Tkc5MzNycUQ5RzhaaXhPTGlCcHJ1Yl9wajZ0VkV3akIxR255SUd6clB5aU5fZmNlUGZIcTVNanZlTmctSDJqUFB5Zk5XempaWnhrbDBlVWZuOE9xWDRSREhKRm5sa0lrbGVnVjl0TE5NNWtTY25CUzRmdG5jQlBZc1pFakFyT0hITHU5NmpfaUE?oc=5",
+      "published": "2026-07-18T14:08:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "b7c47ca36b58",
-      "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
-      "published": "2026-07-16T13:22:07+00:00",
-      "source": {
-        "name": "n-tv.de",
-        "url": "https://www.n-tv.de"
-      }
-    },
-    {
       "id": "087891737758",
       "title": "Engpässe bei Arzneimitteln: Geopolitik erschwert Europas Streben nach Unabhängigkeit - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2lScFVHU3ZELWZOdzJOUGU2YUQ3c2ZpbWhIYWFiVUNoRFZHTm5JM1BfUWVnanhicnRvanhQdGx4UHVuTnZ5dG4ySEY4eVE3dUxGaXVLSm5sM1liQzRtc19GVVE3RkNnUGhhTkhZTXAtMkhWZ3JqOVREWlhfRnBSX1FPRXlaaUE5d2d6cFVEakt5NDJaUkgzXzA3TUpqUUJTbzhRQXFpbmZCTGMwdlRDSXR3cHNjZw?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "b7c47ca36b58",
+      "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
+      "published": "2026-07-16T13:22:07+00:00",
+      "source": {
+        "name": "n-tv.de",
+        "url": "https://www.n-tv.de"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "b5466f5de3a9",
-      "title": "Ca Mau: Das Thanh Vu Allgemeine Krankenhaus führt verschiedene Aktivitäten durch, um Gesundheitschecks und Beratungen für die Bevölkerung anzubieten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDVmdkdFZlJjM3hGM2tqZVlVVWJHSkRCNy1GNjhDak8xZkZsQXJWOVB4VG4zZC0zeS1IdUNCZDV5Skd5dGhVS0c4N19DcE9xQU1vZEUyZngyZERZcnBIbmpCQXlHak4zR3V1WE5BcWxYWndQYV91QnF3blFPMDE0T19Kc29wSkhZYVZlOElrRWRfQU1oRlJlWTZiZVE0c0YzN1RDTVg4akpFR0VES3R5N0l3QWd6TTJtZW1mag?oc=5",
-      "published": "2026-07-19T11:51:59+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "188e6d18b00f",
       "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
@@ -394,13 +384,13 @@
       }
     },
     {
-      "id": "a1a346023cba",
-      "title": "Wegovy-Pille: EU lässt neue Abnehmtablette zu – wie sie wirkt und welche Risiken es gibt - Spiegel",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdk10WXpWbHVEUzBJM3o1V2k2RWNqT1ViR0o0VXU5MlRFN3Vzd3RYUG5iclM2QUZuQjFSclZ6b0o4SmRWaFVxazdXX3RYWFZSclVuUTZVWHRXZ1RxblE3OTVRdWQ3eDRZVGVaX1ZhbVZfdTFyQ19tYTJlN1Z0cUFTRzlja1hRWnlMcVpKS3dxUFRGOWtJbk9SSVNueUpja3hQWk1nTWVJSXF5eGNUbzg5b2JDYnF4alBaakhUWW1JdlhybndENDh1R0tGeGJLVWtQaTFXOFhDbzdIOGk4UGRJTDh2eWJpbkJU?oc=5",
-      "published": "2026-07-17T13:10:00+00:00",
+      "id": "b5466f5de3a9",
+      "title": "Ca Mau: Das Thanh Vu Allgemeine Krankenhaus führt verschiedene Aktivitäten durch, um Gesundheitschecks und Beratungen für die Bevölkerung anzubieten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDVmdkdFZlJjM3hGM2tqZVlVVWJHSkRCNy1GNjhDak8xZkZsQXJWOVB4VG4zZC0zeS1IdUNCZDV5Skd5dGhVS0c4N19DcE9xQU1vZEUyZngyZERZcnBIbmpCQXlHak4zR3V1WE5BcWxYWndQYV91QnF3blFPMDE0T19Kc29wSkhZYVZlOElrRWRfQU1oRlJlWTZiZVE0c0YzN1RDTVg4akpFR0VES3R5N0l3QWd6TTJtZW1mag?oc=5",
+      "published": "2026-07-19T11:51:59+00:00",
       "source": {
-        "name": "Spiegel",
-        "url": "https://www.spiegel.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -411,6 +401,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "a1a346023cba",
+      "title": "Wegovy-Pille: EU lässt neue Abnehmtablette zu – wie sie wirkt und welche Risiken es gibt - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdk10WXpWbHVEUzBJM3o1V2k2RWNqT1ViR0o0VXU5MlRFN3Vzd3RYUG5iclM2QUZuQjFSclZ6b0o4SmRWaFVxazdXX3RYWFZSclVuUTZVWHRXZ1RxblE3OTVRdWQ3eDRZVGVaX1ZhbVZfdTFyQ19tYTJlN1Z0cUFTRzlja1hRWnlMcVpKS3dxUFRGOWtJbk9SSVNueUpja3hQWk1nTWVJSXF5eGNUbzg5b2JDYnF4alBaakhUWW1JdlhybndENDh1R0tGeGJLVWtQaTFXOFhDbzdIOGk4UGRJTDh2eWJpbkJU?oc=5",
+      "published": "2026-07-17T13:10:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
       }
     },
     {
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "091a002ed2d2",
-      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
-      "published": "2025-09-17T07:00:00+00:00",
-      "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
-      }
-    },
-    {
       "id": "5fd73dc2932c",
       "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
@@ -884,13 +874,13 @@
       }
     },
     {
-      "id": "f45603899347",
-      "title": "Alles, was Sie über Ihre Medikamente wissen sollten - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNG82a296RjNlNlZtWW5NTWFOVG45c1hyQl84U29ubkpCcW12Ukkzb3diRmxZaDdDOWZnWWtqVjV2UWVyTHZGMzNnYTV4WV9aUTltS2RHUGZzcDhXQlplX3BFRkctM05uNEItcUFOV25qZVpteUt2cUlYV2taVF8temI1Qk42NHRfbmFsRjVLVmVpMWMy?oc=5",
-      "published": "2025-09-09T07:00:00+00:00",
+      "id": "091a002ed2d2",
+      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
+      "published": "2025-09-17T07:00:00+00:00",
       "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
       }
     },
     {
@@ -901,6 +891,16 @@
       "source": {
         "name": "Ihre-Vorsorge.de",
         "url": "https://www.ihre-vorsorge.de"
+      }
+    },
+    {
+      "id": "f45603899347",
+      "title": "Alles, was Sie über Ihre Medikamente wissen sollten - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNG82a296RjNlNlZtWW5NTWFOVG45c1hyQl84U29ubkpCcW12Ukkzb3diRmxZaDdDOWZnWWtqVjV2UWVyTHZGMzNnYTV4WV9aUTltS2RHUGZzcDhXQlplX3BFRkctM05uNEItcUFOV25qZVpteUt2cUlYV2taVF8temI1Qk42NHRfbmFsRjVLVmVpMWMy?oc=5",
+      "published": "2025-09-09T07:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
       }
     },
     {
