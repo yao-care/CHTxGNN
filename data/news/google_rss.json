@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-07-21T05:45:54.701225+00:00",
+  "fetched_at": "2026-07-21T08:20:35.303502+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "2d2eb18b008a",
+      "title": "Gesundheitsausgaben steigen – Pflege und Medikamente treiben Kosten - BILD",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGFuQlFLOWo5WjR1d01GbGlhcjJONWJpWnlYLUFDMXN3RmtDYi11LWhWbThXTlVfQ2pPYlVJY2J2ZklDTFFpME0tX0JkZk1IckNCMDFwSUxWdlJTdmYzZ2lhbW5NZDBaSHh6QUVEVng5UGsySF9VYmI0bm5DbmlkVXh3d2lZelZsRXgxS2x2ak1wTkhsd0d5ZHM1aWZmTlQ0NXdwbUNUeGdmVWVKMXRoZ1pGYnRLbHZPWTY0cDdZVTBVaVU?oc=5",
+      "published": "2026-07-21T07:58:47+00:00",
+      "source": {
+        "name": "BILD",
+        "url": "https://www.bild.de"
+      }
+    },
     {
       "id": "9f7c377ed6d2",
       "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
@@ -21,16 +31,6 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "44ffffc0de4e",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2JmblNHM1Y5WHVJS3NKb2dPMXJpbVMwQlVtZkNYQnJTd3R6c0tYUXE3Y2tCR09salF0MU1Sa09DY0dhUVphbWo2Z2dUbi1nc2hsek5uNjVoZHlJLUdGeV9CUW9LaFBSWThnRkhhdXplVkcyeVBDZklpWUFhb2haY1ZIS1dteTZIT1dsUkJfTUplUmdwTlRtTm9hbkk3TG5yb2RuOUVjX1QzMERreDdEX3MzNzJ4M3I4NUFWdDVlbHlyZw?oc=5",
-      "published": "2026-07-21T03:26:50+00:00",
-      "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -64,6 +64,16 @@
       }
     },
     {
+      "id": "43fb140ce647",
+      "title": "Die Wiedereingliederung von Drogenabhängigen in die Gesellschaft. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XODJFYXNxQ0l1SDhIUDRmYVVPTk9oeUp5UlJJVTBmNnJfRWZYMVFvOUEweUNIdzZBM0ZpS2NuZXhOZEoyam1teFNYZlo3blhrQ0FOR1NaLXdwOFB3aTQyRWJCNlhoaTl0TTZNcEFrMEdVbTlqbWc?oc=5",
+      "published": "2026-07-21T07:55:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "9ced971ef53e",
       "title": "Finanzierung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
@@ -71,6 +81,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "64cfe633b8e0",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUndZSEI1eXZGak11Rng1cTl0UkQxdW1GaldNRDg2eFJ0U2pOUTNNMXV5c0k4N2VDN2ppSXREZ2JyV3lHTVZmejcyTU1HQlE0dUc5T01tcW5kQzNLb0tFYl9ZbFRMSDhRQzhrV3VTVDBlVnRxTDFnMVpXc1F2YTZocHBGMVIzbUhONEJCLUM1aGlkZmlsR2E4WDRoX1h0UUcwQ3c1TTl3S21jMG5USGlXbVdERjlDWHU0LUQ3dUJpUUc3dw?oc=5",
+      "published": "2026-07-18T03:26:52+00:00",
+      "source": {
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -91,16 +111,6 @@
       "source": {
         "name": "Fortune Business Insights",
         "url": "https://www.fortunebusinessinsights.com"
-      }
-    },
-    {
-      "id": "3ef13dd3adfa",
-      "title": "Sind Medikamente ohne Rezept harmlos? Apothekerin klärt häufigen Irrtum auf - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPejlNTnE0eDJxWXluVTU3YVlXUFJqUTQ4X01RV3ZmTnc5eW9pU3c3WUxqemhNM2xkQnFNNWlibWtHS0N5bjNjZzhNTmVodXBiUloza29jY3VpRGNwRm1HTGNYNGtacEFtOEZlMjQtanNhRmN6NHhYWkxuSG9vOFNmTXRaODlLclhNRGNaUkdxWmFqY0FqcXItSmdWYWtwZU1sdVdhVWZXaW1DbE1jWmRLUktyOUVwSURyb2o3TUZveWl1NzFwNFlGRnd1QQ?oc=5",
-      "published": "2026-07-15T05:00:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -354,16 +364,6 @@
       }
     },
     {
-      "id": "923644c6a14e",
-      "title": "Diese Abnehmmedikamente sind am wirksamsten - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0NsZ3FKUUQ5WUk2bHROSTczUnVzcnFjbjlFUkxiRFNpOUJ1ZUF4VzktOWR3b0wyVnFhSlJpTmxSVU5LUjR2aS1MeFRzX0VHN01DNDhQbFJzVks3ZG9wckF3R3FnVmczd0FXbm1OczZNMlA1UE1fSGJDS2hHb25MUW8ybktYTnM3Qk0zSUFISDU4TXQ5bVBuNHdVUy1uSkl0bkRNeEV4Ti1SQnB2cHNfY0ZtYV9DOHZqUlV6bTQxMjVNRl9kenhSNTlRUEZyY0x4Tmw2Yk50RVdVRHF3eUZxUWg0WmtKOUdiMzRpd1l3?oc=5",
-      "published": "2026-07-20T01:45:08+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "ee0848383f96",
       "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
@@ -374,12 +374,22 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "923644c6a14e",
+      "title": "Diese Abnehmmedikamente sind am wirksamsten - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0NsZ3FKUUQ5WUk2bHROSTczUnVzcnFjbjlFUkxiRFNpOUJ1ZUF4VzktOWR3b0wyVnFhSlJpTmxSVU5LUjR2aS1MeFRzX0VHN01DNDhQbFJzVks3ZG9wckF3R3FnVmczd0FXbm1OczZNMlA1UE1fSGJDS2hHb25MUW8ybktYTnM3Qk0zSUFISDU4TXQ5bVBuNHdVUy1uSkl0bkRNeEV4Ti1SQnB2cHNfY0ZtYV9DOHZqUlV6bTQxMjVNRl9kenhSNTlRUEZyY0x4Tmw2Yk50RVdVRHF3eUZxUWg0WmtKOUdiMzRpd1l3?oc=5",
+      "published": "2026-07-20T01:45:08+00:00",
+      "source": {
+        "name": "MSN",
+        "url": "https://www.msn.com"
+      }
+    },
+    {
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -424,13 +434,13 @@
       }
     },
     {
-      "id": "86a17f0e6c53",
-      "title": "Produkte von InfectoPharm jetzt auch in Polen - PressNetwork.de",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYOHBsUHpoVF9ZT3JEcDlieGU0YmVQNC0zTkdudjhDOEI5QmZnQmhvRmZwRDFGaUpsa2Z3VV9fNjVkcEpZMUdScTRpTXNhX09ydm40NUtFRFdCQkw0a3IzS3U4eXNaYThPQVg5WS1CdGRGczVwRG9qU2Nn?oc=5",
-      "published": "2026-07-20T15:06:09+00:00",
+      "id": "20a64d917dfc",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
+      "published": "2026-03-22T07:00:00+00:00",
       "source": {
-        "name": "PressNetwork.de",
-        "url": "https://pressnetwork.de"
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -444,13 +454,13 @@
       }
     },
     {
-      "id": "20a64d917dfc",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
-      "published": "2026-03-22T07:00:00+00:00",
+      "id": "86a17f0e6c53",
+      "title": "Produkte von InfectoPharm jetzt auch in Polen - PressNetwork.de",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYOHBsUHpoVF9ZT3JEcDlieGU0YmVQNC0zTkdudjhDOEI5QmZnQmhvRmZwRDFGaUpsa2Z3VV9fNjVkcEpZMUdScTRpTXNhX09ydm40NUtFRFdCQkw0a3IzS3U4eXNaYThPQVg5WS1CdGRGczVwRG9qU2Nn?oc=5",
+      "published": "2026-07-20T15:06:09+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
+        "name": "PressNetwork.de",
+        "url": "https://pressnetwork.de"
       }
     },
     {
@@ -504,16 +514,6 @@
       }
     },
     {
-      "id": "93b85f067a4a",
-      "title": "Wirksamste Abnehm-Medikamente haben meisten Nebenwirkungen - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlVzSE9WQzFOS05rS196STZKRzgxUHVzWUJuOGpSbWxNM0ZXZFBNclZld1NvejR2Y1VoZTZhYmJIajI1SW5XTDZhQ3FHQ3BTQWNhVGd1RmdqNDZoaTZFVkFoRmtsblJfQUFtbWhXYVlOb0JkUmFCUFlvZUVwUkVaSGlONnJSb0k2cGRZNTItdThlOXd5dE4zX2NEOXI1elYyNnN2bnJlQ0pRdUNIemF6ZzNib0ZiYVU2M3VaX3VvSEk?oc=5",
-      "published": "2026-07-18T04:48:14+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "5d8c89f1b6f0",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
@@ -521,6 +521,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "93b85f067a4a",
+      "title": "Wirksamste Abnehm-Medikamente haben meisten Nebenwirkungen - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlVzSE9WQzFOS05rS196STZKRzgxUHVzWUJuOGpSbWxNM0ZXZFBNclZld1NvejR2Y1VoZTZhYmJIajI1SW5XTDZhQ3FHQ3BTQWNhVGd1RmdqNDZoaTZFVkFoRmtsblJfQUFtbWhXYVlOb0JkUmFCUFlvZUVwUkVaSGlONnJSb0k2cGRZNTItdThlOXd5dE4zX2NEOXI1elYyNnN2bnJlQ0pRdUNIemF6ZzNib0ZiYVU2M3VaX3VvSEk?oc=5",
+      "published": "2026-07-18T04:48:14+00:00",
+      "source": {
+        "name": "MSN",
+        "url": "https://www.msn.com"
       }
     },
     {
@@ -844,6 +854,16 @@
       }
     },
     {
+      "id": "53357c2f4851",
+      "title": "Kritische Arzneimittel wieder stärker in Europa produzieren - Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUEt0ckdtYTRpT2d2ZGVBenNHcEJURVlwOHZpTElSbWMtWWRlNmI5bE10Q3NUclQ5N2lDVW9WODdDNldjbW5pZDNKZmxxanhoY21qdGI0dnpfQ1Znb3NIZmlGN1l2d2tPb3ZxWGhkbFk1VklKcTMxZTdZWWhNc3htTVcwWER3X3psRmdibDJwRnFqOXQ4X2VTb1h2eFVtc2syLVdnMkk4dExEaC1XUGtxVDNWdU1nMFE0TGlKVUZ6RmcxTGN6VUEzQmkwd2tSRXlzbGJMa2RXX1hmV2xPTzdITg?oc=5",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": {
+        "name": "Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
+        "url": "https://sozialministerium.baden-wuerttemberg.de"
+      }
+    },
+    {
       "id": "2ae0768acb65",
       "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
@@ -864,20 +884,20 @@
       }
     },
     {
-      "id": "d46f6ce1c2b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
-      "published": "2025-09-23T07:00:00+00:00",
+      "id": "445f92c7e54b",
+      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
+      "published": "2025-09-16T07:00:00+00:00",
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
       }
     },
     {
-      "id": "445f92c7e54b",
-      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
-      "published": "2025-09-16T07:00:00+00:00",
+      "id": "d46f6ce1c2b9",
+      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
+      "published": "2025-09-23T07:00:00+00:00",
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "2e573a70d6cb",
-      "title": "Apotheken: 60 Prozent der Produkte im Schaufenster sind unwirksam - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkZEYnBtV2dvUktGb0swV0RSN3JhYUJzQWxoczl0NUpKRGo4cHpVN2tCNG05bU8xbEVRU2VVQlNCNWVnZFNqa1dWaWNOU0NZWW5GU0lTN1lsb1lMOUFfUDQ3Vm9Nc01xd0YtR004VFZUUzEzRXVyTUNVWHhOU3cyVzNlQjd1eFh5bE1Wd1F0TDVEdkxOWDFkMEFiWjNhWjRDY3htTGJzS1c3SlJzeEV6RDR0QUVzN28?oc=5",
-      "published": "2023-10-04T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "8d4767c82033",
-      "title": "Was darf ein zusätzliches Lebensjahr kosten? - Avenir Suisse",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCb0ZUOTVSbzM0Ylk1S1pBaHFhcVlKQUk4Y2tBSk1rU3RvZS1fa25kT0RzZzBnVXNBc09QUWdXVHhwMkxYbEE2YzY5VTBnMHlFYkJiZ2h1bmNRVVQtaUViQ1BwM0ZpQTNXdnFuYjVaN2wwMlFubUJrdU9UMGFPaUk?oc=5",
-      "published": "2023-09-18T07:00:00+00:00",
-      "source": {
-        "name": "Avenir Suisse",
-        "url": "https://www.avenir-suisse.ch"
       }
     }
   ]
