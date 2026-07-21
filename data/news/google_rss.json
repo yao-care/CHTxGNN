@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T19:13:58.988392+00:00",
+  "fetched_at": "2026-07-21T21:02:57.460607+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "3ef1faabcc13",
-      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "198b0da65ee5",
       "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWhsNWk1Tkc5MzNycUQ5RzhaaXhPTGlCcHJ1Yl9wajZ0VkV3akIxR255SUd6clB5aU5fZmNlUGZIcTVNanZlTmctSDJqUFB5Zk5XempaWnhrbDBlVWZuOE9xWDRSREhKRm5sa0lrbGVnVjl0TE5NNWtTY25CUzRmdG5jQlBZc1pFakFyT0hITHU5NmpfaUE?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "3ef1faabcc13",
+      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "44ffffc0de4e",
-      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2JmblNHM1Y5WHVJS3NKb2dPMXJpbVMwQlVtZkNYQnJTd3R6c0tYUXE3Y2tCR09salF0MU1Sa09DY0dhUVphbWo2Z2dUbi1nc2hsek5uNjVoZHlJLUdGeV9CUW9LaFBSWThnRkhhdXplVkcyeVBDZklpWUFhb2haY1ZIS1dteTZIT1dsUkJfTUplUmdwTlRtTm9hbkk3TG5yb2RuOUVjX1QzMERreDdEX3MzNzJ4M3I4NUFWdDVlbHlyZw?oc=5",
-      "published": "2026-07-21T03:26:50+00:00",
-      "source": {
-        "name": "Allgäuer Zeitung",
-        "url": "https://www.allgaeuer-zeitung.de"
-      }
-    },
-    {
       "id": "e4d74f6ebf64",
       "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
@@ -104,13 +94,13 @@
       }
     },
     {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
+      "id": "44ffffc0de4e",
+      "title": "6-R-Regel in der Pflege: Was dahintersteckt und warum sie so wichtig ist - Allgäuer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2JmblNHM1Y5WHVJS3NKb2dPMXJpbVMwQlVtZkNYQnJTd3R6c0tYUXE3Y2tCR09salF0MU1Sa09DY0dhUVphbWo2Z2dUbi1nc2hsek5uNjVoZHlJLUdGeV9CUW9LaFBSWThnRkhhdXplVkcyeVBDZklpWUFhb2haY1ZIS1dteTZIT1dsUkJfTUplUmdwTlRtTm9hbkk3TG5yb2RuOUVjX1QzMERreDdEX3MzNzJ4M3I4NUFWdDVlbHlyZw?oc=5",
+      "published": "2026-07-21T03:26:50+00:00",
       "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
+        "name": "Allgäuer Zeitung",
+        "url": "https://www.allgaeuer-zeitung.de"
       }
     },
     {
@@ -121,6 +111,16 @@
       "source": {
         "name": "Jüdische Allgemeine",
         "url": "https://www.juedische-allgemeine.de"
+      }
+    },
+    {
+      "id": "38b8b0aa9188",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -234,12 +234,12 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "id": "8db31424e5bb",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "43fb140ce647",
-      "title": "Die Wiedereingliederung von Drogenabhängigen in die Gesellschaft. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XODJFYXNxQ0l1SDhIUDRmYVVPTk9oeUp5UlJJVTBmNnJfRWZYMVFvOUEweUNIdzZBM0ZpS2NuZXhOZEoyam1teFNYZlo3blhrQ0FOR1NaLXdwOFB3aTQyRWJCNlhoaTl0TTZNcEFrMEdVbTlqbWc?oc=5",
-      "published": "2026-07-21T07:55:28+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "ee0848383f96",
       "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
@@ -291,6 +281,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "43fb140ce647",
+      "title": "Die Wiedereingliederung von Drogenabhängigen in die Gesellschaft. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XODJFYXNxQ0l1SDhIUDRmYVVPTk9oeUp5UlJJVTBmNnJfRWZYMVFvOUEweUNIdzZBM0ZpS2NuZXhOZEoyam1teFNYZlo3blhrQ0FOR1NaLXdwOFB3aTQyRWJCNlhoaTl0TTZNcEFrMEdVbTlqbWc?oc=5",
+      "published": "2026-07-21T07:55:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "be7b09aa679c",
-      "title": "Nahrungsergänzung: 415 Millionen Packungen trotz fehlender Belege - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTZadlZUM0tCLTk2c0NMUE05UFlkWTQ1UV8xWmhCR19GU2puNTlYRi1td2ZHc0RfVkI1UEE4bElaXzRWX1EzTGZScjhoV19SdDUyWkNobXJEanlVWkNURzA2WnYzTUx0eEtIblQyRVdzOFlmTkZ5SUltSnJvNWNEZUUzUXN2YU91X0p1bU1xUzdyaUlnYWpVVXh1VlRVMHhyS3lmZDlHUDkta0NSaTVIQXZ4d2U?oc=5",
-      "published": "2026-07-21T09:09:15+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "a91bce131989",
       "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
@@ -444,6 +434,16 @@
       }
     },
     {
+      "id": "be7b09aa679c",
+      "title": "Nahrungsergänzung: 415 Millionen Packungen trotz fehlender Belege - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTZadlZUM0tCLTk2c0NMUE05UFlkWTQ1UV8xWmhCR19GU2puNTlYRi1td2ZHc0RfVkI1UEE4bElaXzRWX1EzTGZScjhoV19SdDUyWkNobXJEanlVWkNURzA2WnYzTUx0eEtIblQyRVdzOFlmTkZ5SUltSnJvNWNEZUUzUXN2YU91X0p1bU1xUzdyaUlnYWpVVXh1VlRVMHhyS3lmZDlHUDkta0NSaTVIQXZ4d2U?oc=5",
+      "published": "2026-07-21T09:09:15+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -464,12 +464,12 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -484,16 +484,6 @@
       }
     },
     {
-      "id": "2c6b80844fe8",
-      "title": "Zwischen Sonnencreme und Reisepass: Medikamente nicht vergessen - LokalKlick.eu",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnpyUHU0Y3NTUVVLbnljUDZkaTJuZ0hNMkFMU2N0SjFZb0tWTXExRWVQa3R2UFBiSVBGNXF5VTZUNFF4TjlZTGRPWUd6VmtxdDdDMDNqMnhFdllac1hJbTF2ZUt4ZkJxeDhXWXRYMkV3bkhIVjhrOHpqVThjQnB3NjJtMzJDWmdLTlV3b18tZXdvMXdleGtmdHplY3Q?oc=5",
-      "published": "2026-07-16T00:03:58+00:00",
-      "source": {
-        "name": "LokalKlick.eu",
-        "url": "https://lokalklick.eu"
-      }
-    },
-    {
       "id": "8c707dc2ce96",
       "title": "Sparer ausgebremst: Die Krankenkasse zahlt im Ausland eingekaufte Medikamente nicht. - Luzerner Zeitung",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWlvTmhlbk40QnRvQ0E5clBGNlRmb253THdkVHZxQ3NVa180eVhxNG51ZWM0OEJvSHowb0JfT3IzSW5BV2lFaWI0MjZSOG9KTlIzVjVuSDNYSXE1SS1vN3FwQlgzNDhPMlVoWmgwTDlQSnRsQkgyc0R3SGRlYXlBdi1ERkZmcUEwTDVzUkRZMGYtUzlJelFUcWhGcW1qTUJDR2VUc2VSRnduLUI2dmZEelFIOEZUQQ?oc=5",
@@ -501,6 +491,16 @@
       "source": {
         "name": "Luzerner Zeitung",
         "url": "https://www.luzernerzeitung.ch"
+      }
+    },
+    {
+      "id": "2c6b80844fe8",
+      "title": "Zwischen Sonnencreme und Reisepass: Medikamente nicht vergessen - LokalKlick.eu",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnpyUHU0Y3NTUVVLbnljUDZkaTJuZ0hNMkFMU2N0SjFZb0tWTXExRWVQa3R2UFBiSVBGNXF5VTZUNFF4TjlZTGRPWUd6VmtxdDdDMDNqMnhFdllac1hJbTF2ZUt4ZkJxeDhXWXRYMkV3bkhIVjhrOHpqVThjQnB3NjJtMzJDWmdLTlV3b18tZXdvMXdleGtmdHplY3Q?oc=5",
+      "published": "2026-07-16T00:03:58+00:00",
+      "source": {
+        "name": "LokalKlick.eu",
+        "url": "https://lokalklick.eu"
       }
     },
     {
@@ -724,16 +724,6 @@
       }
     },
     {
-      "id": "5b37cb52bb5d",
-      "title": "Achtung, diese Medikamente wirken bei Hitze anders - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkxPeHhBZi12TThJUUFnazZSbGFBaUtxRDlMRzVSblhmai1LV1BNVmNEbGlmeklDM1hEa2RJS0JUVm9GSWZZQUJUSUwwRjVqOTMzdVVRQ0JLcGd3WW9uUmZvbDV6ZGZ2dGxMMmFuM1hGVkVoSTkwWkN1bU1Jd2dmam5xUnNIdXBvMHhHX1VlT2o?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
-      }
-    },
-    {
       "id": "445f92c7e54b",
       "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
@@ -741,6 +731,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "5b37cb52bb5d",
+      "title": "Achtung, diese Medikamente wirken bei Hitze anders - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkxPeHhBZi12TThJUUFnazZSbGFBaUtxRDlMRzVSblhmai1LV1BNVmNEbGlmeklDM1hEa2RJS0JUVm9GSWZZQUJUSUwwRjVqOTMzdVVRQ0JLcGd3WW9uUmZvbDV6ZGZ2dGxMMmFuM1hGVkVoSTkwWkN1bU1Jd2dmam5xUnNIdXBvMHhHX1VlT2o?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": {
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
@@ -854,16 +854,6 @@
       }
     },
     {
-      "id": "85a03dbbfe05",
-      "title": "Wahlkampf Baden-Württemberg: Rülke: »Gute Gesundheit geht nur mit öffentlichen Apotheken« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDY3aENWRUZGTC15UlN4YlFuU0JEdUkxREFqNzQtN282NElEbHZWRlRveVpDTzFUTml2c1ZYNTFUWnliQl81SC1VdVctWUk2UGJ6UWI4cW82Z1IydG5iN2FUR21ST3gweUJNOW94VGxkemJuRC1tY2NvZERfVndyekRMbFc0TjVIdGJYUGVGVzJnOFRRNS1RamtZb1F5b2VseUNPRUowYmVKUQ?oc=5",
-      "published": "2026-02-03T08:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "73821728fb6f",
       "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
@@ -874,10 +864,10 @@
       }
     },
     {
-      "id": "5fd73dc2932c",
-      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
-      "published": "2026-05-27T07:00:00+00:00",
+      "id": "85a03dbbfe05",
+      "title": "Wahlkampf Baden-Württemberg: Rülke: »Gute Gesundheit geht nur mit öffentlichen Apotheken« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDY3aENWRUZGTC15UlN4YlFuU0JEdUkxREFqNzQtN282NElEbHZWRlRveVpDTzFUTml2c1ZYNTFUWnliQl81SC1VdVctWUk2UGJ6UWI4cW82Z1IydG5iN2FUR21ST3gweUJNOW94VGxkemJuRC1tY2NvZERfVndyekRMbFc0TjVIdGJYUGVGVzJnOFRRNS1RamtZb1F5b2VseUNPRUowYmVKUQ?oc=5",
+      "published": "2026-02-03T08:00:00+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
@@ -891,6 +881,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "5fd73dc2932c",
+      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -974,12 +974,12 @@
       }
     },
     {
-      "id": "692ed6663b43",
-      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - DW.com",
+      "id": "e0194a7c0b5d",
+      "title": "Deutsche Apotheker warnen vor Medikamentenmangel - dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU1xaGhwXzk2bTZMYV9pdEdESnBqWVZvSnAwXzllTkVsdXYyZTlYSzdEYjktY2FySDA2THNEWUlQend3WWp5cG9uZFo1aTJMcFFINW1ZWEg3NlVDQ2UzdkRmZldhV1JRemg4U3poczloOF9QOEhha1prQnlGZ0U5T0laMXN2ZVBY0gGIAUFVX3lxTE01Wk9oR0RESDZiM1BvOU5qZmtUYk1aNUFxWlpzU3EteXRvRDQ1anBlcG52RXJ5QWdEWjB2SHJCblZSaktVZktvRTBkYUxtYzNfQVE4YXRHajc1Nk9UQllNTkt0Vi1wVjdQTTAzSElvTDRMWXZ5TEpkLUZxRTI2QUZkMVdyRGM4YUg?oc=5",
       "published": "2025-09-14T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     },
@@ -994,12 +994,12 @@
       }
     },
     {
-      "id": "0dba016a69d0",
-      "title": "Gefälschte Medikamente: Ein weltweites Problem - DW.com",
+      "id": "6ab4ca82bbba",
+      "title": "Gefälschte Medikamente: Ein weltweites Problem - dw.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSzZjM0cwcm1ldnUzc0xrOER4cEk0a05ucnhNX1llWk1YeU9zVnlTeTVFM1lWWmhBR1RrZEJCODVQdlIwNWw3Zmg2N004NVpqa29HT2FBZ1BfUWN5T2hGQlkxc2ZvQWdWVThrdk9sUk80UWc5MXlzaGQ1NXZTYUxtUUNoWmVzR2F5YjRDejhGbU5ZeDBHOGstVGNXLUVEVm9LejJ1RmpUd0Q3T25xb3pxM3hzQVYwaDljcWNycHBPNjZyS3daSVJOU3U1ZU5tWWFMbnfSAdIBQVVfeXFMUDFiX1VoOC1ZdmxVR3o2Q3VRMTNhUUNEaVRHdFZneDJrblJSckE1Zk9icjFaWXZTMGlJMFhHTC13bjIwMjhwWS1mZTRrdU1WcXFyS1ZEQndLRXFtRUZELUJQeFlMRHZ0aUFYbFNjd3NYOUFUZmxHZ0hZMEFNc2xXTVlPN1NVc3RYY3dxd2F6V20xMGdMa215eG9majhKX25kbjRaSXdOR1NoT1JFQnBXM1VmaGdjMWt0Z2IxNDBvOTRiSUlBM250LWJtTTBOZjdJeGtB?oc=5",
       "published": "2025-08-04T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://www.dw.com"
       }
     }
