@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-07-22T11:04:44.973444+00:00",
+  "fetched_at": "2026-07-22T13:41:27.649971+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "794910fd38ae",
+      "title": "Kortison-Creme, Augentropfen & Co.: Diese drei Medikamente gibt es bald ohne Rezept - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGRtUTdVMDJWVGJfeHgzNDhhSkQxMjRLR1ZGcVJLQlBxSWdaU1hyR1NiVGVvWjZzWmpRYnRmUXJPd1p2bG1ZY19nb3ItVFJRamNRYkU4TXpqaktudmlBR1FhZWVrZG1hSE80aGgxaVhINHlXRHFiUURDUnlLb2paLS1lYl9qRmtHWkFiRng3U0JmblUtOU9fVm90eDRIX08tOV9iUVBQTmhEWUtQeHNOWU12d0hBbUE?oc=5",
+      "published": "2026-07-22T11:28:00+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
     {
       "id": "9f7c377ed6d2",
       "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
@@ -34,16 +44,6 @@
       }
     },
     {
-      "id": "51917339f8d3",
-      "title": "Ärzte ohne Grenzen kritisieren Lenacapavir-Preis - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFoyYlZqNE9PNlpOQ3JucjZBSjl1RnJyb1FTVm9oWE1ZVklkM2p3SzBOTUprZTl3ZEJ0U0VRTXhIY2o5YWtTZk9iU1NDd0c2cmUzN3ZZanRoUVB4VU56d1BrWEM3WUJPTmhQQ2ZieG1qV3JIaTEyMlUtN1VUSmp5a1JkT1A2bEdOWkhzSFZFSXNfNDQ2MENhSk9GU014bFNBa2NjWDQ1S2pyd1hOdURfQVdqZkhIdw?oc=5",
-      "published": "2026-07-21T22:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
       "id": "3ef1faabcc13",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
@@ -61,6 +61,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "51917339f8d3",
+      "title": "Ärzte ohne Grenzen kritisieren Lenacapavir-Preis - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFoyYlZqNE9PNlpOQ3JucjZBSjl1RnJyb1FTVm9oWE1ZVklkM2p3SzBOTUprZTl3ZEJ0U0VRTXhIY2o5YWtTZk9iU1NDd0c2cmUzN3ZZanRoUVB4VU56d1BrWEM3WUJPTmhQQ2ZieG1qV3JIaTEyMlUtN1VUSmp5a1JkT1A2bEdOWkhzSFZFSXNfNDQ2MENhSk9GU014bFNBa2NjWDQ1S2pyd1hOdURfQVdqZkhIdw?oc=5",
+      "published": "2026-07-21T22:00:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -144,16 +154,6 @@
       }
     },
     {
-      "id": "b7c47ca36b58",
-      "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
-      "published": "2026-07-16T13:22:07+00:00",
-      "source": {
-        "name": "n-tv.de",
-        "url": "https://www.n-tv.de"
-      }
-    },
-    {
       "id": "39aeeb5800f5",
       "title": "»In die­sen Mo­men­ten hilft keine Ver­sand­apo­the­ke« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVlmOEhjQUhhaEZzYWJlVm5jcUkxMnIwcEFPYm1abE5qR2VVbHgwWEpvWThGMHFGUzZkY21mbzM5UlVEdG1IM1ZfTTJyTmdUc19SalZwUTNiWXVmOHM5OVlOU2FQUEhQcURZSEplZ0tBdnh3SkthVFlYVjBUMS1SaVFSRDdYbU5jLXpGLTRzVG5Fem51UEZtOQ?oc=5",
@@ -164,13 +164,13 @@
       }
     },
     {
-      "id": "51e8c4b74840",
-      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
-      "published": "2026-03-09T07:00:00+00:00",
+      "id": "b7c47ca36b58",
+      "title": "dm und Lidl sägen an Institution: Wofür brauchen wir eigentlich noch Apotheken? - n-tv.de",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYS1Z1RFNzTURxMWpzNW5rNlN0eHpfVEtlU2dwRGNXX0szckhoMVl0NTROLWx0X3J5RlZDMzd1djF1NW5KMVRtc2kydXNva005eXVveGk5SGptRlppYzlTdzVCX0FIVGFEOTF6anNEV0hzcmRjamM4bVVhVVJFTm1PX3M5Wnl3Z3IwUzN2V3p4NFMyV0JZ?oc=5",
+      "published": "2026-07-16T13:22:07+00:00",
       "source": {
-        "name": "Gesundheit.gv.at",
-        "url": "https://www.gesundheit.gv.at"
+        "name": "n-tv.de",
+        "url": "https://www.n-tv.de"
       }
     },
     {
@@ -191,6 +191,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": {
+        "name": "Gesundheit.gv.at",
+        "url": "https://www.gesundheit.gv.at"
       }
     },
     {
@@ -254,16 +264,6 @@
       }
     },
     {
-      "id": "48f0ff90c2bf",
-      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclR6WW1wSzczdDBSR0pxVXU2dldNWWZiNVdiZ2JKMzlXRGgxOFZNSGxTc1UyRFJGTlFLOVpfTUI5cmp3Y3Bic2FrQUs2Wjk3Y0doTXN3Q0pIMU56REJ6Z3poUVIwM09XUTRlQmpsY0kzMktXQVh2U1JtdlptYW1aNzY4cVA1bmF3LUNycFZBUHZQNGh0R0NkbU1BelZyVWxGV20wa2o0emtjYnRtb2FjS282b3o0VFJ6RHZYV3ZYaGowZw?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
-      }
-    },
-    {
       "id": "ae3d250cee54",
       "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
@@ -271,6 +271,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "48f0ff90c2bf",
+      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclR6WW1wSzczdDBSR0pxVXU2dldNWWZiNVdiZ2JKMzlXRGgxOFZNSGxTc1UyRFJGTlFLOVpfTUI5cmp3Y3Bic2FrQUs2Wjk3Y0doTXN3Q0pIMU56REJ6Z3poUVIwM09XUTRlQmpsY0kzMktXQVh2U1JtdlptYW1aNzY4cVA1bmF3LUNycFZBUHZQNGh0R0NkbU1BelZyVWxGV20wa2o0emtjYnRtb2FjS282b3o0VFJ6RHZYV3ZYaGowZw?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -334,12 +344,12 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Avenir Suisse",
         "url": "https://www.avenir-suisse.ch"
-      }
-    },
-    {
-      "id": "857fb97b45b2",
-      "title": "Operation PANGEA XV: Internationale Aktion gegen gefälschte und illegal importierte Arzneimittel - Swissmedic",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkJFeWFkWFEtNmd3QnNVNURIUmRFX25BaHBZQ2hPa3RwYWFlTDduY3dSZVk5MTlRRklwclFJcXBWdGVhLWJzMm9Ra2VrZ0U3R0NtaUJJcDNMZFBHQTM5V2lwRjFGQW1tS0Y2UVFzWkdHLWUxTE5zQTlKYlJwcTNXMTZLQm43TXMwRS1BUXY5ZHh1bGY3?oc=5",
-      "published": "2022-07-20T07:00:00+00:00",
-      "source": {
-        "name": "Swissmedic",
-        "url": "https://www.swissmedic.ch"
       }
     }
   ]
