@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T22:07:14.559071+00:00",
+  "fetched_at": "2026-07-23T23:56:21.341144+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "f42206726e6b",
-      "title": "Gilead Sciences: Medizinprodukte und Therapien kurz erklärt - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnFBTk9KbHZqWmltcHFISktjdEE5SE9FOF9namk1VERqRzFwRHphN1lTa0VvckpXOEI4MnJfeElvRFdUWWhoNlV4T2tSUnJtUXA1dEk2Qk9PN25rVEhoQW04M0o0cXpaM1dpbmszamltRkJiZDVnSjdWaE9fenFVd0pRQjhFbUVfN3dDbDg0OENmQXpkd0dRa0ZPOXk4TllBTnVNMUtOZWZnSEhXcUk2YkE2UGJxTVFUSFE?oc=5",
-      "published": "2026-07-23T13:19:18+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "51917339f8d3",
       "title": "Ärzte ohne Grenzen kritisieren Lenacapavir-Preis - Deutsche Apotheker Zeitung, DAZ",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFoyYlZqNE9PNlpOQ3JucjZBSjl1RnJyb1FTVm9oWE1ZVklkM2p3SzBOTUprZTl3ZEJ0U0VRTXhIY2o5YWtTZk9iU1NDd0c2cmUzN3ZZanRoUVB4VU56d1BrWEM3WUJPTmhQQ2ZieG1qV3JIaTEyMlUtN1VUSmp5a1JkT1A2bEdOWkhzSFZFSXNfNDQ2MENhSk9GU014bFNBa2NjWDQ1S2pyd1hOdURfQVdqZkhIdw?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Medinside",
         "url": "https://www.medinside.ch"
+      }
+    },
+    {
+      "id": "f42206726e6b",
+      "title": "Gilead Sciences: Medizinprodukte und Therapien kurz erklärt - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnFBTk9KbHZqWmltcHFISktjdEE5SE9FOF9namk1VERqRzFwRHphN1lTa0VvckpXOEI4MnJfeElvRFdUWWhoNlV4T2tSUnJtUXA1dEk2Qk9PN25rVEhoQW04M0o0cXpaM1dpbmszamltRkJiZDVnSjdWaE9fenFVd0pRQjhFbUVfN3dDbDg0OENmQXpkd0dRa0ZPOXk4TllBTnVNMUtOZWZnSEhXcUk2YkE2UGJxTVFUSFE?oc=5",
+      "published": "2026-07-23T13:19:18+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -334,16 +334,6 @@
       }
     },
     {
-      "id": "ec24c4231732",
-      "title": "Nutzenbewertung von Arzneimitteln: IWiG erweitert den Blick auf die Bewertung neuer Therapien - PresseBox",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUVVJT0hoakpaN3BCUHFqSUdNODByNjhHeHU3VUJCaFVFU2tOY3o0cURmZDRBWGdwNjVjb1ZsOWR3WjcyUGU4VU5IS0VfcDNRSWlsQ2ZSbWV3Q0dqNmlzY1J0dEFiTGxxR0N2dkxSSjV2cVNsazkzWGEwXy14ekRmQUVmMldFeDVIbGp6TVNhWmFlZllWaGVNNktzVWVRRzlQZUFUVHJQcVlIeFFjd20zMGZnWFVOVGxIZHQyUU1pQlN1RS1Fc0U5U0hIR2dSRU1ESlc3NnlGamdPd1JydV9SYXh4Znc3eEtYd3hvV3NFYnpvVmJRTVBZMDBBVmJ0dXV0LUpTNjJtZlZOU18tNnZXTEM1R1hPZ08tMEJWOS1HeFhOeGhmbzBXY1IzUlJGYU5VeWtjbk42LWZxTC00MktlUkFR?oc=5",
-      "published": "2026-07-22T13:26:00+00:00",
-      "source": {
-        "name": "PresseBox",
-        "url": "https://www.pressebox.de"
-      }
-    },
-    {
       "id": "02e9917bea66",
       "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
@@ -354,13 +344,13 @@
       }
     },
     {
-      "id": "3458fe1a7fed",
-      "title": "Definition der Rolle der Krankenhausapotheke - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUnNBSTF6dXYzTzcxRW0yY3d3S2hyNnRjenNKblpyaWJjMXpLLTI2TldnNWc1S01YdFdMQVNTR0E5aU1LQVJ3VTh2djB1RVVRYWNkb19HSWt1bXY0WHZDLXJOSFZ5LWJYUTMxTg?oc=5",
-      "published": "2026-07-23T02:30:16+00:00",
+      "id": "ec24c4231732",
+      "title": "Nutzenbewertung von Arzneimitteln: IWiG erweitert den Blick auf die Bewertung neuer Therapien - PresseBox",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUVVJT0hoakpaN3BCUHFqSUdNODByNjhHeHU3VUJCaFVFU2tOY3o0cURmZDRBWGdwNjVjb1ZsOWR3WjcyUGU4VU5IS0VfcDNRSWlsQ2ZSbWV3Q0dqNmlzY1J0dEFiTGxxR0N2dkxSSjV2cVNsazkzWGEwXy14ekRmQUVmMldFeDVIbGp6TVNhWmFlZllWaGVNNktzVWVRRzlQZUFUVHJQcVlIeFFjd20zMGZnWFVOVGxIZHQyUU1pQlN1RS1Fc0U5U0hIR2dSRU1ESlc3NnlGamdPd1JydV9SYXh4Znc3eEtYd3hvV3NFYnpvVmJRTVBZMDBBVmJ0dXV0LUpTNjJtZlZOU18tNnZXTEM1R1hPZ08tMEJWOS1HeFhOeGhmbzBXY1IzUlJGYU5VeWtjbk42LWZxTC00MktlUkFR?oc=5",
+      "published": "2026-07-22T13:26:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "PresseBox",
+        "url": "https://www.pressebox.de"
       }
     },
     {
@@ -401,6 +391,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "3458fe1a7fed",
+      "title": "Definition der Rolle der Krankenhausapotheke - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUnNBSTF6dXYzTzcxRW0yY3d3S2hyNnRjenNKblpyaWJjMXpLLTI2TldnNWc1S01YdFdMQVNTR0E5aU1LQVJ3VTh2djB1RVVRYWNkb19HSWt1bXY0WHZDLXJOSFZ5LWJYUTMxTg?oc=5",
+      "published": "2026-07-23T02:30:16+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -454,6 +454,16 @@
       }
     },
     {
+      "id": "f7c833495bd1",
+      "title": "Me­di­ka­men­te im Ur­laub: So schüt­zen Sie sich vor Fäl­schun­gen - Die Rheinpfalz",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVlsX3VLeWJGQmtrMVQ1dFdSRGpQZEN1NFl2T0NvelNQbFBQMFgwUEI0UGtQdU5OZHNCRG5TTU1NZFlPYlFuX1pkOGllRkYtT1RPeGRlZXIwa0p4OTc5NlRHVWpCY05FQ1FvZEU2MlUxR3BsRmctVDliQVNLMEY3V1d5bHB0UG9oVVNFTmtGT204eDNjLXJ5R2dNZ3Q2eUlNZ2RId1lDUTIwdG52X2ZINUtsNThxNEtTci1BNGlzODcyemtfVzVLUUJtZGZIY3FaRGNZVlB4OGZRdw?oc=5",
+      "published": "2026-07-08T13:31:00+00:00",
+      "source": {
+        "name": "Die Rheinpfalz",
+        "url": "https://www.rheinpfalz.de"
+      }
+    },
+    {
       "id": "5041122093e4",
       "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
@@ -484,16 +494,6 @@
       }
     },
     {
-      "id": "9c7eaaba1281",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "7f09edf69bc9",
       "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
@@ -501,6 +501,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "9c7eaaba1281",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
+      "published": "2025-11-12T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -764,16 +774,6 @@
       }
     },
     {
-      "id": "8f7a16a55972",
-      "title": "Arzneimittelpreise: Medikamente in Deutschland günstiger als USA trotz Trump-Deals - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnBJZGx2V2VkNEJfQy1NTDk2NFJXOE5MY3k2VE1yNmxuZzNiWWNlalNjN0MzTjJzSUwxTDRPRTlJai1XeXVUODNhaGlrRXJhaVpJdVQ0eV9mNHc1QWZkaXhtUTVfdjZNWEU2eWptcVk1WkNUZHJNRUpNQzM2TXduRFpPS0tTbjhtajdRWmtMbTM2N1owQ1I1Y2g1MmJiUzNpdnc?oc=5",
-      "published": "2026-03-18T07:00:00+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
       "id": "e5c9f6b52b1b",
       "title": "Weil Gesundheit alles verändert - Handelsblatt Live",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQXU3d2J3REtJeXBaWlQ0UTVlRWJDR2U3cTBJRFNaVlBYenpnNmp1QXZJLXB1WFQxY1dOQjJhMGRwVVZTNEE2eWVMZVd0bVZTSzEyOHY2R0NVd2dKVllzVEM3NDRoNEZKUkthRDdSTHA?oc=5",
@@ -884,16 +884,6 @@
       }
     },
     {
-      "id": "5b37cb52bb5d",
-      "title": "Achtung, diese Medikamente wirken bei Hitze anders - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkxPeHhBZi12TThJUUFnazZSbGFBaUtxRDlMRzVSblhmai1LV1BNVmNEbGlmeklDM1hEa2RJS0JUVm9GSWZZQUJUSUwwRjVqOTMzdVVRQ0JLcGd3WW9uUmZvbDV6ZGZ2dGxMMmFuM1hGVkVoSTkwWkN1bU1Jd2dmam5xUnNIdXBvMHhHX1VlT2o?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
-      }
-    },
-    {
       "id": "8c6176b8d248",
       "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WiWo",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
@@ -901,6 +891,16 @@
       "source": {
         "name": "WiWo",
         "url": "https://www.wiwo.de"
+      }
+    },
+    {
+      "id": "5b37cb52bb5d",
+      "title": "Achtung, diese Medikamente wirken bei Hitze anders - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkxPeHhBZi12TThJUUFnazZSbGFBaUtxRDlMRzVSblhmai1LV1BNVmNEbGlmeklDM1hEa2RJS0JUVm9GSWZZQUJUSUwwRjVqOTMzdVVRQ0JLcGd3WW9uUmZvbDV6ZGZ2dGxMMmFuM1hGVkVoSTkwWkN1bU1Jd2dmam5xUnNIdXBvMHhHX1VlT2o?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": {
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
