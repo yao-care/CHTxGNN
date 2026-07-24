@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T10:59:38.269104+00:00",
+  "fetched_at": "2026-07-24T12:23:28.246635+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "9f7c377ed6d2",
-      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
-      "published": "2026-07-09T09:36:54+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "3ef1faabcc13",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "9f7c377ed6d2",
+      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
+      "published": "2026-07-09T09:36:54+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "661c923c4588",
-      "title": "Neue Abnehmpille mit Semaglutid: Was sie kann, für wen sie geeignet ist und wann sie zum Risiko wird - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1Rkd2duVTZnX283SmJtX0lkSWVOeDJvX3ViWVZFOGlOU251TU9Tck1sb2w3Y21iZlhQSjNNVE5jeWE3Nm5uS3JLZU1oNTVTamRMejNtbXJEUEpzV3JaQ2U1cXJDSTFPc3BlUTYzZGFuM3ZCWEZoRkNfSi0yRkpFaUZidXdBUV94UmNqSjRMUmpzQXJVWHNDeUo5S1FlX29IUGNnVUotcHFMNFU?oc=5",
-      "published": "2026-07-23T13:36:36+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "a2ee90b2b29a",
       "title": "Kortison-Creme und Augentropfen: Diese drei Medikamente gibt es bald ohne Rezept - T-Online",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUpjVGFQVTdYMFBlTEJWclBrUF9SWWQzczVfb19jSUlNNjVjRVc0bEZvdlhieDFhdTdjbGRoOWVEVC1vcWt3MmtFSjNlZzkxeHdXM1pBbDhQaExURHViaUdyQVBHVVRXLUlnX2l3SVp1VjJnQXBEYmdGZ1ZEa1htT0tLRHExUzZKMDhrclJEZl9kdjk1b2ppWUVnUHVULWltQVVjdnVEakxNcjJtbUFfTXEzUHZZeGs?oc=5",
@@ -104,6 +94,16 @@
       }
     },
     {
+      "id": "661c923c4588",
+      "title": "Neue Abnehmpille mit Semaglutid: Was sie kann, für wen sie geeignet ist und wann sie zum Risiko wird - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1Rkd2duVTZnX283SmJtX0lkSWVOeDJvX3ViWVZFOGlOU251TU9Tck1sb2w3Y21iZlhQSjNNVE5jeWE3Nm5uS3JLZU1oNTVTamRMejNtbXJEUEpzV3JaQ2U1cXJDSTFPc3BlUTYzZGFuM3ZCWEZoRkNfSi0yRkpFaUZidXdBUV94UmNqSjRMUmpzQXJVWHNDeUo5S1FlX29IUGNnVUotcHFMNFU?oc=5",
+      "published": "2026-07-23T13:36:36+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
+      }
+    },
+    {
       "id": "935399c7b1f9",
       "title": "Folgen des Absetzens von GLP-1-Medikamenten für suchtbedingte Krankenhausaufnahmen - Journalmed.de",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2dLeFplWl9mUWg1WWxsUlZIQVRlQnlNRDhpeHZjdWkyZFBUV0g4MXpfa0JpblJYanFDZHV4eExacHRwbU9vaXlvNWQtMjlhLUxNeWFLUGhtaUtBMkYyQkFTazNrQjhhREp0VGV6aVppVFVOT09SdVFSWEFKNm12dFhrOEhDQ0I5LWFSaGotcDhraDZCMVJabTZTZw?oc=5",
@@ -111,16 +111,6 @@
       "source": {
         "name": "Journalmed.de",
         "url": "https://www.journalmed.de"
-      }
-    },
-    {
-      "id": "ec04455a13f7",
-      "title": "Ozempic und Wegovy bei Brustkrebs: Studie deutet auf bessere Überlebenschancen hin - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc045eGJJYWdkWGJaZ2g3QVo0aXNtU3JCSVVnYktOWkpWRXN0WkdQR01temd3ek5vTmRUUldneTZfRDZuSTI5YTQzRkE5N0wtb3FkTzhXRV8yOXlGekV5TnprRUtndE5YVVFuQzVza3ZkRGxxWnpsdXdhVWVfZHRTTkJTMzdSUE5EdFg4MFV3R3ZEMnNuSXdrWUFFd3A4LVUyRnFvVjdmWWxRUGZfNElua0RVU1k5MjlzNG9jZmNaY0FCQQ?oc=5",
-      "published": "2026-07-23T13:29:30+00:00",
-      "source": {
-        "name": "Frankfurter Rundschau",
-        "url": "https://www.fr.de"
       }
     },
     {
@@ -151,6 +141,16 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "38b8b0aa9188",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "a48a34dcb337",
       "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "Jüdische Allgemeine",
         "url": "https://www.juedische-allgemeine.de"
+      }
+    },
+    {
+      "id": "ec04455a13f7",
+      "title": "Ozempic und Wegovy bei Brustkrebs: Studie deutet auf bessere Überlebenschancen hin - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc045eGJJYWdkWGJaZ2g3QVo0aXNtU3JCSVVnYktOWkpWRXN0WkdQR01temd3ek5vTmRUUldneTZfRDZuSTI5YTQzRkE5N0wtb3FkTzhXRV8yOXlGekV5TnprRUtndE5YVVFuQzVza3ZkRGxxWnpsdXdhVWVfZHRTTkJTMzdSUE5EdFg4MFV3R3ZEMnNuSXdrWUFFd3A4LVUyRnFvVjdmWWxRUGZfNElua0RVU1k5MjlzNG9jZmNaY0FCQQ?oc=5",
+      "published": "2026-07-23T13:29:30+00:00",
+      "source": {
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
       }
     },
     {
@@ -344,6 +344,16 @@
       }
     },
     {
+      "id": "ec24c4231732",
+      "title": "Nutzenbewertung von Arzneimitteln: IWiG erweitert den Blick auf die Bewertung neuer Therapien - PresseBox",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUVVJT0hoakpaN3BCUHFqSUdNODByNjhHeHU3VUJCaFVFU2tOY3o0cURmZDRBWGdwNjVjb1ZsOWR3WjcyUGU4VU5IS0VfcDNRSWlsQ2ZSbWV3Q0dqNmlzY1J0dEFiTGxxR0N2dkxSSjV2cVNsazkzWGEwXy14ekRmQUVmMldFeDVIbGp6TVNhWmFlZllWaGVNNktzVWVRRzlQZUFUVHJQcVlIeFFjd20zMGZnWFVOVGxIZHQyUU1pQlN1RS1Fc0U5U0hIR2dSRU1ESlc3NnlGamdPd1JydV9SYXh4Znc3eEtYd3hvV3NFYnpvVmJRTVBZMDBBVmJ0dXV0LUpTNjJtZlZOU18tNnZXTEM1R1hPZ08tMEJWOS1HeFhOeGhmbzBXY1IzUlJGYU5VeWtjbk42LWZxTC00MktlUkFR?oc=5",
+      "published": "2026-07-22T13:26:00+00:00",
+      "source": {
+        "name": "PresseBox",
+        "url": "https://www.pressebox.de"
+      }
+    },
+    {
       "id": "db5e5ef8605c",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -424,16 +434,6 @@
       }
     },
     {
-      "id": "152313a154f2",
-      "title": "Roche Holding AG als Gesundheitskonzern verstehen - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkM2RGVHU0w4RHhJbTJxVnRRaERvekllV3dSLVo4YlBfSWdVaEJ0eW5PdV9qOUo1b0MxWFlMY1FwSHQtRG4xa2s1NV94dDQtTVAzbVItSkdZa0xMeXBxOEU1dU5uZy1VS2hWRmh5MlFrQllIcW1ZcnhzU1hPUkhYMGFkV0tvUjNQZFREc0tCZXloRjFoMmJqX255SHJHTEhQLTJLVC1VVzI3QTRP?oc=5",
-      "published": "2026-07-23T15:35:37+00:00",
-      "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "f7c833495bd1",
       "title": "Me­di­ka­men­te im Ur­laub: So schüt­zen Sie sich vor Fäl­schun­gen - Die Rheinpfalz",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVlsX3VLeWJGQmtrMVQ1dFdSRGpQZEN1NFl2T0NvelNQbFBQMFgwUEI0UGtQdU5OZHNCRG5TTU1NZFlPYlFuX1pkOGllRkYtT1RPeGRlZXIwa0p4OTc5NlRHVWpCY05FQ1FvZEU2MlUxR3BsRmctVDliQVNLMEY3V1d5bHB0UG9oVVNFTmtGT204eDNjLXJ5R2dNZ3Q2eUlNZ2RId1lDUTIwdG52X2ZINUtsNThxNEtTci1BNGlzODcyemtfVzVLUUJtZGZIY3FaRGNZVlB4OGZRdw?oc=5",
@@ -461,6 +461,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "152313a154f2",
+      "title": "Roche Holding AG als Gesundheitskonzern verstehen - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkM2RGVHU0w4RHhJbTJxVnRRaERvekllV3dSLVo4YlBfSWdVaEJ0eW5PdV9qOUo1b0MxWFlMY1FwSHQtRG4xa2s1NV94dDQtTVAzbVItSkdZa0xMeXBxOEU1dU5uZy1VS2hWRmh5MlFrQllIcW1ZcnhzU1hPUkhYMGFkV0tvUjNQZFREc0tCZXloRjFoMmJqX255SHJHTEhQLTJLVC1VVzI3QTRP?oc=5",
+      "published": "2026-07-23T15:35:37+00:00",
+      "source": {
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -504,13 +514,13 @@
       }
     },
     {
-      "id": "f42206726e6b",
-      "title": "Gilead Sciences: Medizinprodukte und Therapien kurz erklärt - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnFBTk9KbHZqWmltcHFISktjdEE5SE9FOF9namk1VERqRzFwRHphN1lTa0VvckpXOEI4MnJfeElvRFdUWWhoNlV4T2tSUnJtUXA1dEk2Qk9PN25rVEhoQW04M0o0cXpaM1dpbmszamltRkJiZDVnSjdWaE9fenFVd0pRQjhFbUVfN3dDbDg0OENmQXpkd0dRa0ZPOXk4TllBTnVNMUtOZWZnSEhXcUk2YkE2UGJxTVFUSFE?oc=5",
-      "published": "2026-07-23T13:19:18+00:00",
+      "id": "999aee3b0dc2",
+      "title": "Das Gesundheitsamt der Stadt Hai Phong gibt den Rückruf von Paracetamol 500mg Tabletten bekannt. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGFEbDZBbjlvTGZpeTMtM09ZLWE5eHBVU19WM3dFeENlOXV6Y3VMcE0tbTJSREF6V2tncV81ZnExem9jb1VIN1ZIMEs3eHBsTGlsMXIyMkRhM0g4bDZZUF9YVVN4SU9Vcm44M1FfVUpBMFVBR2hja1VUWWZGbDBmeEFVdlVlTm9idzNTd25objdWOWdsdHlrR3lRMzJpZw?oc=5",
+      "published": "2026-07-24T11:01:27+00:00",
       "source": {
-        "name": "Ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -544,13 +554,13 @@
       }
     },
     {
-      "id": "7aa8c1156c22",
-      "title": "Apotheker im Kreis Heinsberg empfehlen: Warum die Reiseapotheke wichtiger denn je ist - RP Online",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclNzOHhfbnRmRldSM0pPc0FSRFp0SkxlcFBjM3VLS0NlZDRDSkZLRGt4WkNqSlhJRXJoODBROWFVdTlsSGUzSU5XZTBMd2J3Q2xuYmpKZUZESnBUbkRaRHNmU2tYbFFGTnVOUFFCbzRUUVZDSVIxQV8tdUUxMXdkbzFIZ25UanN1a0dKakZZRlZYenUxSGVaXzkxa3JUa3FhNWxua2dXOWVtSVBDdVQ3YVoybXJGay1PUWo2N2tOd0FfUQ?oc=5",
-      "published": "2026-07-24T03:10:00+00:00",
+      "id": "f42206726e6b",
+      "title": "Gilead Sciences: Medizinprodukte und Therapien kurz erklärt - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnFBTk9KbHZqWmltcHFISktjdEE5SE9FOF9namk1VERqRzFwRHphN1lTa0VvckpXOEI4MnJfeElvRFdUWWhoNlV4T2tSUnJtUXA1dEk2Qk9PN25rVEhoQW04M0o0cXpaM1dpbmszamltRkJiZDVnSjdWaE9fenFVd0pRQjhFbUVfN3dDbDg0OENmQXpkd0dRa0ZPOXk4TllBTnVNMUtOZWZnSEhXcUk2YkE2UGJxTVFUSFE?oc=5",
+      "published": "2026-07-23T13:19:18+00:00",
       "source": {
-        "name": "RP Online",
-        "url": "https://rp-online.de"
+        "name": "Ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -564,13 +574,23 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "7aa8c1156c22",
+      "title": "Apotheker im Kreis Heinsberg empfehlen: Warum die Reiseapotheke wichtiger denn je ist - RP Online",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclNzOHhfbnRmRldSM0pPc0FSRFp0SkxlcFBjM3VLS0NlZDRDSkZLRGt4WkNqSlhJRXJoODBROWFVdTlsSGUzSU5XZTBMd2J3Q2xuYmpKZUZESnBUbkRaRHNmU2tYbFFGTnVOUFFCbzRUUVZDSVIxQV8tdUUxMXdkbzFIZ25UanN1a0dKakZZRlZYenUxSGVaXzkxa3JUa3FhNWxua2dXOWVtSVBDdVQ3YVoybXJGay1PUWo2N2tOd0FfUQ?oc=5",
+      "published": "2026-07-24T03:10:00+00:00",
+      "source": {
+        "name": "RP Online",
+        "url": "https://rp-online.de"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
-      }
-    },
-    {
-      "id": "091a002ed2d2",
-      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
-      "published": "2025-09-17T07:00:00+00:00",
-      "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "a43852bf5366",
-      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
-      "published": "2026-04-02T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     }
   ]
