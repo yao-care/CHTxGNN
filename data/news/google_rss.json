@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-07-25T17:55:02.728445+00:00",
+  "fetched_at": "2026-07-25T19:01:50.275272+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "aaeed612b526",
-      "title": "Medikamente gratis auf Telegram: Zürcher Behörden warnen vor Risiken - Zofinger Tagblatt",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUnJ5SUlhWWZCZXp0bUdqcE1ETWUzaVNTVDExb2NheW1aTjhCUDVySTdDZUxMc1lUZS1NWVJBSWtSZ0l3bDU0S1ZMSUFOa19KNGRsQ2R2S3huVW9vX01Kb0s1TXgza0NSQWtRT3h3TlM1UHFJSW9faVhDVWlEelR6bDVyVVE2NDEyTDR6SXptdGJnR1Vtd2lhdTI4WnhCX2dhQkhydFBrcmFVX1JMdkZIdzQ0QXd3QXV2LWItazFtR0lIMHl4bGc?oc=5",
+      "id": "31c1603bbcb4",
+      "title": "Medikamente gratis auf Telegram: Zürcher Behörden warnen vor Risiken - Aargauer Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWgzSHFkNHdGZGZtaFlXRjVSYi1hdlY2ODVtMHFINHdLQ1N3c1RabUV0elprSFBvR203UVc2QjFTOU1tR0VNX2E3QTFzZ1VpaTB6QnpEQl85cEVmejVVdkZGQzR0VkhHeUN1MjZNaXlEOHpVS2phT1YxWHhLWGVBSy1hOGN1RzNHRnhvSWpCSGswcndaLU9lRVAzRHdtS182SW4wNGlmYnVxcW5DRkJ5LUpralRheGRoeWtvZzR5LVRRa09Y?oc=5",
       "published": "2026-07-25T03:00:00+00:00",
       "source": {
-        "name": "Zofinger Tagblatt",
-        "url": "https://www.zofingertagblatt.ch"
+        "name": "Aargauer Zeitung",
+        "url": "https://www.aargauerzeitung.ch"
       }
     },
     {
@@ -144,13 +144,13 @@
       }
     },
     {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-05-01T07:00:00+00:00",
+      "id": "38b8b0aa9188",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
       "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -191,16 +191,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
       }
     },
     {
@@ -544,6 +534,16 @@
       }
     },
     {
+      "id": "b9c0e221906c",
+      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3liNnk4SkJYQlFSbXZSWEpPNmpPdWJzM3hjUzdOaU81cTdHMGZRWUFVT01BVUFZMU1aV0Q4cGpwZjB0cWswVVBfU1RNRkxUaTJTeFRSSXU2NHdFTGhQUkVsQjNRR2tpTWRjTkR1VmRNRHpXQVFQRDR6YVNxLXRkT0hMdFFQb3dpdDZrZHdWTzJldW9KTmZhOTJCNW5mcjJBWUl4U0d0UHR1UVR0SWxfT2R5N3R5RmRJS2NkZ01VdHdLNUd2a2EycQ?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "7a99adaec5c0",
       "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
@@ -641,6 +641,16 @@
       "source": {
         "name": "Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
         "url": "https://sozialministerium.baden-wuerttemberg.de"
+      }
+    },
+    {
+      "id": "9b4ec0dc8566",
+      "title": "Arzneimittel-Kompass der AOK: Ein Faktencheck - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNlN2NkNFZqd0ZfUHA2OE9YbG1zOGdGbGxhY0pDRENaX1RLYS1VNV9tRE1nN0tyTEhGOTZKQ21XTXhiQjdJb0FxTGI5V09qYXNWXy1GRkNLenBnVDRZbTA4NEhnX3gzcjZabTZBc1NOcTRtOVMtS1RIMU9GUkI0MjJsSUhVQk1BQVR0T2FnUW9ZYTI0clhjNGJMOEcwVnM?oc=5",
+      "published": "2025-12-10T08:00:00+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -911,16 +921,6 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
-      }
-    },
-    {
-      "id": "5b37cb52bb5d",
-      "title": "Achtung, diese Medikamente wirken bei Hitze anders - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkxPeHhBZi12TThJUUFnazZSbGFBaUtxRDlMRzVSblhmai1LV1BNVmNEbGlmeklDM1hEa2RJS0JUVm9GSWZZQUJUSUwwRjVqOTMzdVVRQ0JLcGd3WW9uUmZvbDV6ZGZ2dGxMMmFuM1hGVkVoSTkwWkN1bU1Jd2dmam5xUnNIdXBvMHhHX1VlT2o?oc=5",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
       }
     },
     {
