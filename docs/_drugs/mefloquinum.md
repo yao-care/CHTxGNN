@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MEFLOQUINUM
 drugbank_id: DB00358
 evidence_level: L5

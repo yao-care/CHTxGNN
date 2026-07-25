@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TICAGRELORUM
 drugbank_id: DB08816
 evidence_level: L5

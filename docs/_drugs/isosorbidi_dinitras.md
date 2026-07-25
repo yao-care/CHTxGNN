@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ISOSORBIDI DINITRAS
 drugbank_id: DB09401
 evidence_level: L5

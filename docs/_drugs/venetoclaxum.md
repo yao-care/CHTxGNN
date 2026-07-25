@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VENETOCLAXUM
 drugbank_id: DB11581
 evidence_level: L5

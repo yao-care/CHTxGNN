@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUVOXAMINI MALEAS
 drugbank_id: DB00176
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ISATUXIMABUM
 drugbank_id: DB14811
 evidence_level: L5

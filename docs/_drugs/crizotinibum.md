@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CRIZOTINIBUM
 drugbank_id: DB08865
 evidence_level: L5

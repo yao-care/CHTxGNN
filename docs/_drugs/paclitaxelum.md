@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PACLITAXELUM
 drugbank_id: DB01229
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALPRAZOLAMUM
 drugbank_id: DB00404
 evidence_level: L5

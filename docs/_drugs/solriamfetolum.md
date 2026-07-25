@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SOLRIAMFETOLUM
 drugbank_id: DB14754
 evidence_level: L5

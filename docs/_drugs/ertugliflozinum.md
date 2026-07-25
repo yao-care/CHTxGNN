@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ERTUGLIFLOZINUM
 drugbank_id: DB11827
 evidence_level: L5

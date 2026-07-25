@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: KETOCONAZOLUM
 drugbank_id: DB01026
 evidence_level: L5

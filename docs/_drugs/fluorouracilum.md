@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUOROURACILUM
 drugbank_id: DB00544
 evidence_level: L5

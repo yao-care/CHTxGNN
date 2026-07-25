@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ISOPRENALINI HYDROCHLORIDUM
 drugbank_id: DB01064
 evidence_level: L5

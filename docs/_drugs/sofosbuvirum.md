@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SOFOSBUVIRUM
 drugbank_id: DB08934
 evidence_level: L5

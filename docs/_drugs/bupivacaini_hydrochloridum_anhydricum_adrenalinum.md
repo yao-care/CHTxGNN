@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BUPIVACAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM
 drugbank_id: DB00297
 evidence_level: L5

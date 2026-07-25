@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: INSULINUM DEGLUDECUM
 drugbank_id: DB09564
 evidence_level: L5

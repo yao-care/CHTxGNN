@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NYSTATINUM
 drugbank_id: DB00646
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GLIBENCLAMIDUM
 drugbank_id: DB01016
 evidence_level: L5

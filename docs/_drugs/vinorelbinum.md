@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VINORELBINUM
 drugbank_id: DB00361
 evidence_level: L5

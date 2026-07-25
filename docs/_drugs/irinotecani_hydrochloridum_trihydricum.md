@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IRINOTECANI HYDROCHLORIDUM TRIHYDRICUM
 drugbank_id: DB00762
 evidence_level: L5

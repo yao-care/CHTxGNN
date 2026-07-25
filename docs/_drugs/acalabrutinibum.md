@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACALABRUTINIBUM
 drugbank_id: DB11703
 evidence_level: L5

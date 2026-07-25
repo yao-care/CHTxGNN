@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IVACAFTORUM
 drugbank_id: DB08820
 evidence_level: L5

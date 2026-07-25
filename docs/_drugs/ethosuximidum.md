@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ETHOSUXIMIDUM
 drugbank_id: DB00593
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ENALAPRILI MALEAS
 drugbank_id: DB00584
 evidence_level: L5

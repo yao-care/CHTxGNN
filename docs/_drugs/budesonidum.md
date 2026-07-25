@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BUDESONIDUM
 drugbank_id: DB01222
 evidence_level: L5

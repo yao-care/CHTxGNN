@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CALCIFEDIOLUM
 drugbank_id: DB00146
 evidence_level: L5

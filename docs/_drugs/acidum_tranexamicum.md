@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM TRANEXAMICUM
 drugbank_id: DB00302
 evidence_level: L5

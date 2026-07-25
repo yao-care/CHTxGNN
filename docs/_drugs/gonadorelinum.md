@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GONADORELINUM
 drugbank_id: DB00644
 evidence_level: L5

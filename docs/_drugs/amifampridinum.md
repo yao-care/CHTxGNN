@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AMIFAMPRIDINUM
 drugbank_id: DB11640
 evidence_level: L5

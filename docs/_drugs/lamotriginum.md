@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LAMOTRIGINUM
 drugbank_id: DB00555
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MUPIROCINUM
 drugbank_id: DB00410
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ADENOSINUM
 drugbank_id: DB00640
 evidence_level: L5

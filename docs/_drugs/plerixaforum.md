@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PLERIXAFORUM
 drugbank_id: DB06809
 evidence_level: L5

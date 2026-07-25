@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRASUGRELUM
 drugbank_id: DB06209
 evidence_level: L5

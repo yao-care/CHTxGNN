@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRASTERONUM
 drugbank_id: DB01708
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OXYBUTYNINUM
 drugbank_id: DB01062
 evidence_level: L5

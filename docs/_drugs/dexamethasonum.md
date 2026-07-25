@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEXAMETHASONUM
 drugbank_id: DB01234
 evidence_level: L5

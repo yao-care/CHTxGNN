@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OPICAPONUM
 drugbank_id: DB11632
 evidence_level: L5

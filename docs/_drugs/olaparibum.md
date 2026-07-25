@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OLAPARIBUM
 drugbank_id: DB09074
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PREDNICARBATUM
 drugbank_id: DB01130
 evidence_level: L5

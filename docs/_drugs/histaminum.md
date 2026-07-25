@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: HISTAMINUM
 drugbank_id: DB05381
 evidence_level: L5

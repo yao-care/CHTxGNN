@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TERIPARATIDUM ADNR
 drugbank_id: DB06285
 evidence_level: L5

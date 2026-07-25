@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: USTEKINUMABUM
 drugbank_id: DB05679
 evidence_level: L5

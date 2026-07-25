@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LANSOPRAZOLUM
 drugbank_id: DB00448
 evidence_level: L5

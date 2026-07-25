@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AMBROXOLI HYDROCHLORIDUM
 drugbank_id: DB06742
 evidence_level: L5

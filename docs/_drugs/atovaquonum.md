@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ATOVAQUONUM
 drugbank_id: DB01117
 evidence_level: L5

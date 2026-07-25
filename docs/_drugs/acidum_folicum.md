@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM FOLICUM
 drugbank_id: DB00158
 evidence_level: L5

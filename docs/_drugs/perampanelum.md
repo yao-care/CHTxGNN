@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PERAMPANELUM
 drugbank_id: DB08883
 evidence_level: L5

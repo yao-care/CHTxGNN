@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CANAGLIFLOZINUM
 drugbank_id: DB08907
 evidence_level: L5

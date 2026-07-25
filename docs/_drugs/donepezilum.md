@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DONEPEZILUM
 drugbank_id: DB00843
 evidence_level: L5

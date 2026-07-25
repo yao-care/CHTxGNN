@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ZANUBRUTINIBUM
 drugbank_id: DB15035
 evidence_level: L5

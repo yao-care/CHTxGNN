@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALISKIRENUM
 drugbank_id: DB09026
 evidence_level: L5

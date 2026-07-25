@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOBRAMYCINUM
 drugbank_id: DB00684
 evidence_level: L5

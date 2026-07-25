@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: REGORAFENIBUM
 drugbank_id: DB08896
 evidence_level: L5

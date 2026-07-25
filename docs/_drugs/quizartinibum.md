@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: QUIZARTINIBUM
 drugbank_id: DB12874
 evidence_level: L5

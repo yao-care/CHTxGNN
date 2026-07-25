@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: METHENAMINUM
 drugbank_id: DB06799
 evidence_level: L5

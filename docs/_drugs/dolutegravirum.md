@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DOLUTEGRAVIRUM
 drugbank_id: DB08930
 evidence_level: L5

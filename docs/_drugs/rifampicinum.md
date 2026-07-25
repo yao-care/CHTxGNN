@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RIFAMPICINUM
 drugbank_id: DB01045
 evidence_level: L5

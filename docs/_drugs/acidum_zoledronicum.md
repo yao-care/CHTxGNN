@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM ZOLEDRONICUM
 drugbank_id: DB00399
 evidence_level: L5

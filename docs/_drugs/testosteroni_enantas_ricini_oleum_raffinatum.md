@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TESTOSTERONI ENANTAS, RICINI OLEUM RAFFINATUM
 drugbank_id: DB00624
 evidence_level: L5

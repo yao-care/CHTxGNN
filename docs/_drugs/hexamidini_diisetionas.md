@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: HEXAMIDINI DIISETIONAS
 drugbank_id: DB03808
 evidence_level: L5

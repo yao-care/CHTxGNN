@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MIDODRINI HYDROCHLORIDUM
 drugbank_id: DB00211
 evidence_level: L5

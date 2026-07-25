@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DOXYLAMINUM
 drugbank_id: DB00366
 evidence_level: L5

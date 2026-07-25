@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MIANSERINI HYDROCHLORIDUM
 drugbank_id: DB06148
 evidence_level: L5

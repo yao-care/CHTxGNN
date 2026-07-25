@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEXPANTHENOLUM
 drugbank_id: DB09357
 evidence_level: L5

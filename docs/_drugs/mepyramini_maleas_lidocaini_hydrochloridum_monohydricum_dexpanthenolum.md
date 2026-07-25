@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MEPYRAMINI MALEAS, LIDOCAINI HYDROCHLORIDUM MONOHYDRICUM, DEXPANTHENOLUM
 drugbank_id: DB06691
 evidence_level: L5

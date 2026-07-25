@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SULFADIAZINUM ARGENTICUM
 drugbank_id: DB00359
 evidence_level: L5

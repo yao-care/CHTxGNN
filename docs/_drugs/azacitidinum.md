@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AZACITIDINUM
 drugbank_id: DB00928
 evidence_level: L5

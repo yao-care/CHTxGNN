@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RUCAPARIBUM
 drugbank_id: DB12332
 evidence_level: L5

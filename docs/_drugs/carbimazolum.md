@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CARBIMAZOLUM
 drugbank_id: DB00389
 evidence_level: L5

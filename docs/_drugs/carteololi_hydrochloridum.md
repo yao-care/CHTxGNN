@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CARTEOLOLI HYDROCHLORIDUM
 drugbank_id: DB00521
 evidence_level: L5

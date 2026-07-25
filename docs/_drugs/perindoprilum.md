@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PERINDOPRILUM
 drugbank_id: DB00790
 evidence_level: L5

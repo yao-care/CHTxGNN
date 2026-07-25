@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DESMOPRESSINUM
 drugbank_id: DB00035
 evidence_level: L5

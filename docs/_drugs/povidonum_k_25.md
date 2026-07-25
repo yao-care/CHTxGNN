@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: POVIDONUM K 25
 drugbank_id: DB11061
 evidence_level: L5

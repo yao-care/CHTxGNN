@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DIHYDROCODEINI THIOCYANAS
 drugbank_id: DB01551
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ZIDOVUDINUM
 drugbank_id: DB00495
 evidence_level: L5

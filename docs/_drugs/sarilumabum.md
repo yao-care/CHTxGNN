@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SARILUMABUM
 drugbank_id: DB11767
 evidence_level: L5

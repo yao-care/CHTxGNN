@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLURBIPROFENUM
 drugbank_id: DB00712
 evidence_level: L5

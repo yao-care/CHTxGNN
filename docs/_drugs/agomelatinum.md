@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AGOMELATINUM
 drugbank_id: DB06594
 evidence_level: L5

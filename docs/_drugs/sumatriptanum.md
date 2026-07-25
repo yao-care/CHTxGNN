@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SUMATRIPTANUM
 drugbank_id: DB00669
 evidence_level: L5

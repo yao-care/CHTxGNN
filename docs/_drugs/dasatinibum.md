@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DASATINIBUM
 drugbank_id: DB01254
 evidence_level: L5

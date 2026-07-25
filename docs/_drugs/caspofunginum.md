@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CASPOFUNGINUM
 drugbank_id: DB00520
 evidence_level: L5

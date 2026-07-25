@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLEMASTINUM
 drugbank_id: DB00283
 evidence_level: L5

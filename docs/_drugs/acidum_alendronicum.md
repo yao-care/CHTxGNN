@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM ALENDRONICUM
 drugbank_id: DB00630
 evidence_level: L5

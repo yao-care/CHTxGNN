@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACEMETACINUM
 drugbank_id: DB13783
 evidence_level: L5

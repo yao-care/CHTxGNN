@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM SALICYLICUM
 drugbank_id: DB00936
 evidence_level: L5

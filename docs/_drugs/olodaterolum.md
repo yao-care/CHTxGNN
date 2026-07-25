@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OLODATEROLUM
 drugbank_id: DB09080
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LETERMOVIRUM
 drugbank_id: DB12070
 evidence_level: L5

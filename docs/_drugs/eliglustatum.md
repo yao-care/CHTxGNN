@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ELIGLUSTATUM
 drugbank_id: DB09039
 evidence_level: L5

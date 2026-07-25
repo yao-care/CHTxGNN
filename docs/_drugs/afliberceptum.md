@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AFLIBERCEPTUM
 drugbank_id: DB08885
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUOCINONIDUM
 drugbank_id: DB01047
 evidence_level: L5

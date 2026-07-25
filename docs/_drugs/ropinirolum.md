@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ROPINIROLUM
 drugbank_id: DB00268
 evidence_level: L5

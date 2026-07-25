@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RASBURICASUM
 drugbank_id: DB00049
 evidence_level: L5

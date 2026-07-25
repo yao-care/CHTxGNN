@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVETIRACETAMUM
 drugbank_id: DB01202
 evidence_level: L5

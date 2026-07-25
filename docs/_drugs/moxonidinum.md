@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MOXONIDINUM
 drugbank_id: DB09242
 evidence_level: L5

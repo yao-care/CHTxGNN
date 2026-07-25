@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PYRIMETHAMINUM
 drugbank_id: DB00205
 evidence_level: L5

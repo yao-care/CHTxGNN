@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VANCOMYCINUM
 drugbank_id: DB00512
 evidence_level: L5

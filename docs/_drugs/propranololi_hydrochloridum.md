@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PROPRANOLOLI HYDROCHLORIDUM
 drugbank_id: DB00571
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLINDAMYCINUM
 drugbank_id: DB01190
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EDARAVONUM
 drugbank_id: DB12243
 evidence_level: L5

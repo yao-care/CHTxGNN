@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LIFITEGRASTUM
 drugbank_id: DB11611
 evidence_level: L5

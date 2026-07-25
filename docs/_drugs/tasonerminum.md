@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TASONERMINUM
 drugbank_id: DB11626
 evidence_level: L5

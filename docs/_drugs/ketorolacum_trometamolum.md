@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: KETOROLACUM TROMETAMOLUM
 drugbank_id: DB00465
 evidence_level: L5

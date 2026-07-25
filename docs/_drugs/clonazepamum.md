@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLONAZEPAMUM
 drugbank_id: DB01068
 evidence_level: L5

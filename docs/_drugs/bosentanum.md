@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BOSENTANUM
 drugbank_id: DB00559
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TIROFIBANUM
 drugbank_id: DB00775
 evidence_level: L5

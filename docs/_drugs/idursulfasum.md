@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IDURSULFASUM
 drugbank_id: DB01271
 evidence_level: L5

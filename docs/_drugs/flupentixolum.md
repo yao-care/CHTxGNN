@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUPENTIXOLUM
 drugbank_id: DB00875
 evidence_level: L5

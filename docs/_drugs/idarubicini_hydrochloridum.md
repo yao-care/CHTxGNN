@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IDARUBICINI HYDROCHLORIDUM
 drugbank_id: DB01177
 evidence_level: L5

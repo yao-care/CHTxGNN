@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ELOTUZUMABUM
 drugbank_id: DB06317
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TIBOLONUM
 drugbank_id: DB09070
 evidence_level: L5

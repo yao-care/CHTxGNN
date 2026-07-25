@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DARIFENACINUM
 drugbank_id: DB00496
 evidence_level: L5

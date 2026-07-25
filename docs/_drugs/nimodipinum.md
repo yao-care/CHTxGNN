@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NIMODIPINUM
 drugbank_id: DB00393
 evidence_level: L5

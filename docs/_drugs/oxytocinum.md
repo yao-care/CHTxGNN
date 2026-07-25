@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OXYTOCINUM
 drugbank_id: DB00107
 evidence_level: L5

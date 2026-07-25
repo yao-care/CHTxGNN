@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: HYDROMORPHONI HYDROCHLORIDUM
 drugbank_id: DB00327
 evidence_level: L5

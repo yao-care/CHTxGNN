@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRIAMCINOLONUM
 drugbank_id: DB00620
 evidence_level: L5

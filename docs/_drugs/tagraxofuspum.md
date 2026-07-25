@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TAGRAXOFUSPUM
 drugbank_id: DB14731
 evidence_level: L5

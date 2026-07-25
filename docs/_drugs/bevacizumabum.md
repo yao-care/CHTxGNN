@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BEVACIZUMABUM
 drugbank_id: DB00112
 evidence_level: L5

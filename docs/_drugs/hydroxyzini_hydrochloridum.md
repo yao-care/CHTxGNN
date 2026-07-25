@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: HYDROXYZINI HYDROCHLORIDUM
 drugbank_id: DB00557
 evidence_level: L5

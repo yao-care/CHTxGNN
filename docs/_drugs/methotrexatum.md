@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: METHOTREXATUM
 drugbank_id: DB00563
 evidence_level: L5

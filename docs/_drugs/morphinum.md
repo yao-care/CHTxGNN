@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MORPHINUM
 drugbank_id: DB00295
 evidence_level: L5

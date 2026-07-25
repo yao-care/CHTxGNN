@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SCOPOLAMINI BUTYLBROMIDUM
 drugbank_id: DB00747
 evidence_level: L5

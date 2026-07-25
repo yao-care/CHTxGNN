@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: METHYLPHENIDATI HYDROCHLORIDUM
 drugbank_id: DB00422
 evidence_level: L5

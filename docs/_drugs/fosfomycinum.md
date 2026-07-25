@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FOSFOMYCINUM
 drugbank_id: DB00828
 evidence_level: L5

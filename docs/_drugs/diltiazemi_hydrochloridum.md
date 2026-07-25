@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DILTIAZEMI HYDROCHLORIDUM
 drugbank_id: DB00343
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALTEPLASUM ADNR
 drugbank_id: DB00009
 evidence_level: L5

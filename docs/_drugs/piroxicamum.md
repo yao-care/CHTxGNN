@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PIROXICAMUM
 drugbank_id: DB00554
 evidence_level: L5

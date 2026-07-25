@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FESOTERODINUM
 drugbank_id: DB06702
 evidence_level: L5

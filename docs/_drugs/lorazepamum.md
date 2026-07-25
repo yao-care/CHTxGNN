@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LORAZEPAMUM
 drugbank_id: DB00186
 evidence_level: L5

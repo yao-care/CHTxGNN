@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EPHEDRINI HYDROCHLORIDUM, CODEINI PHOSPHAS HEMIHYDRICUS, THYMI HERBAE EXTRACTUM AQUOSUM SICCUM
 drugbank_id: DB01364
 evidence_level: L5

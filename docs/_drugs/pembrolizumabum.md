@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PEMBROLIZUMABUM
 drugbank_id: DB09037
 evidence_level: L5

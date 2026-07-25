@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CHLORPROTHIXENI HYDROCHLORIDUM
 drugbank_id: DB01239
 evidence_level: L5

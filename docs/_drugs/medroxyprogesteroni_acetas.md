@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MEDROXYPROGESTERONI ACETAS
 drugbank_id: DB00603
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VINCRISTINI SULFAS
 drugbank_id: DB00541
 evidence_level: L5

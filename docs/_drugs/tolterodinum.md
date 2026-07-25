@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOLTERODINUM
 drugbank_id: DB01036
 evidence_level: L5

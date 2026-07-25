@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MAGNESII HYDROXIDUM
 drugbank_id: DB09104
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CAPSAICINUM
 drugbank_id: DB06774
 evidence_level: L5

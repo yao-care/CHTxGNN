@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BRIGATINIBUM
 drugbank_id: DB12267
 evidence_level: L5

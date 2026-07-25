@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DALTEPARINUM NATRICUM
 drugbank_id: DB06779
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OSILODROSTATUM
 drugbank_id: DB11837
 evidence_level: L5

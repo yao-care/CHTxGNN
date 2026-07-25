@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRIFAROTENUM
 drugbank_id: DB12808
 evidence_level: L5

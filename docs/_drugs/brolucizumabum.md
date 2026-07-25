@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BROLUCIZUMABUM
 drugbank_id: DB14864
 evidence_level: L5

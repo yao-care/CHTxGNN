@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CITALOPRAMUM
 drugbank_id: DB00215
 evidence_level: L5

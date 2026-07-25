@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DELAFLOXACINUM
 drugbank_id: DB11943
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TAFAMIDISUM
 drugbank_id: DB11644
 evidence_level: L5

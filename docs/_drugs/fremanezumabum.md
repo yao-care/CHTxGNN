@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FREMANEZUMABUM
 drugbank_id: DB14041
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GEMCITABINUM
 drugbank_id: DB00441
 evidence_level: L5

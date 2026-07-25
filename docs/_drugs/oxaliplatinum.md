@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OXALIPLATINUM
 drugbank_id: DB00526
 evidence_level: L5

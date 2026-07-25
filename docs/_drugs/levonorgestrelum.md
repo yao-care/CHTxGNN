@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVONORGESTRELUM
 drugbank_id: DB00367
 evidence_level: L5

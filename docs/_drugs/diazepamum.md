@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DIAZEPAMUM
 drugbank_id: DB00829
 evidence_level: L5

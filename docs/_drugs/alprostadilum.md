@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALPROSTADILUM
 drugbank_id: DB00770
 evidence_level: L5

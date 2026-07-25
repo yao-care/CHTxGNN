@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM BENZOICUM E RESINA
 drugbank_id: DB03793
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: APALUTAMIDUM
 drugbank_id: DB11901
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEMECLOCYCLINUM CALCICUM, TRIAMCINOLONI ACETONIDUM
 drugbank_id: DB00618
 evidence_level: L5

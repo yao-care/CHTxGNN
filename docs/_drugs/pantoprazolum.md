@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PANTOPRAZOLUM
 drugbank_id: DB00213
 evidence_level: L5

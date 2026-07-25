@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TERBUTALINI SULFAS
 drugbank_id: DB00871
 evidence_level: L5

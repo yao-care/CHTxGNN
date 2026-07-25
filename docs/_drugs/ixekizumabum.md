@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IXEKIZUMABUM
 drugbank_id: DB11569
 evidence_level: L5

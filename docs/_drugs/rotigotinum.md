@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ROTIGOTINUM
 drugbank_id: DB05271
 evidence_level: L5

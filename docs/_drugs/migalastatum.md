@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MIGALASTATUM
 drugbank_id: DB05018
 evidence_level: L5

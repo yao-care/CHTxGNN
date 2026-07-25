@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LISDEXAMFETAMINI DIMESILAS
 drugbank_id: DB01255
 evidence_level: L5

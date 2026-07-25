@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: HYDROXYCHLOROQUINI SULFAS
 drugbank_id: DB01611
 evidence_level: L5

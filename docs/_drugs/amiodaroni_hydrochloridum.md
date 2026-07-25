@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AMIODARONI HYDROCHLORIDUM
 drugbank_id: DB01118
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BRINZOLAMIDUM
 drugbank_id: DB01194
 evidence_level: L5

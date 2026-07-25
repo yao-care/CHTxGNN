@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CELIPROLOLI HYDROCHLORIDUM
 drugbank_id: DB04846
 evidence_level: L5

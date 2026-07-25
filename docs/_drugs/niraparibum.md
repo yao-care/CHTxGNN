@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NIRAPARIBUM
 drugbank_id: DB11793
 evidence_level: L5

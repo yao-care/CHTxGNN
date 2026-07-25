@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CHLORAMBUCILUM
 drugbank_id: DB00291
 evidence_level: L5

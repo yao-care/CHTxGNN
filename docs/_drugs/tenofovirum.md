@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TENOFOVIRUM
 drugbank_id: DB14126
 evidence_level: L5

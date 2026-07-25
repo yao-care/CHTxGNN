@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FELODIPINUM
 drugbank_id: DB01023
 evidence_level: L5

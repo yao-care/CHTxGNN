@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EMPAGLIFLOZINUM
 drugbank_id: DB09038
 evidence_level: L5

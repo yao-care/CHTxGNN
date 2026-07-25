@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CERITINIBUM
 drugbank_id: DB09063
 evidence_level: L5

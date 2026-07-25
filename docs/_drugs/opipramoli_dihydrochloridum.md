@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OPIPRAMOLI DIHYDROCHLORIDUM
 drugbank_id: DB12930
 evidence_level: L5

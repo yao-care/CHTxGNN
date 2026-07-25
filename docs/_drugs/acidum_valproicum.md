@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM VALPROICUM
 drugbank_id: DB00313
 evidence_level: L5

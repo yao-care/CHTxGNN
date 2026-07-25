@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ETOPOSIDUM
 drugbank_id: DB00773
 evidence_level: L5

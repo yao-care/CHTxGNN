@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ISOTRETINOINUM
 drugbank_id: DB00982
 evidence_level: L5

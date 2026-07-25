@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRUCALOPRIDUM
 drugbank_id: DB06480
 evidence_level: L5

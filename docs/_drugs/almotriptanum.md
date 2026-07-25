@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALMOTRIPTANUM
 drugbank_id: DB00918
 evidence_level: L5

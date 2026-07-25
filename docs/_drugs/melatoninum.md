@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MELATONINUM
 drugbank_id: DB01065
 evidence_level: L5

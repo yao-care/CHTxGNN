@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CARIPRAZINUM
 drugbank_id: DB06016
 evidence_level: L5

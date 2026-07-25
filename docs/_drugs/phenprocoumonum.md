@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PHENPROCOUMONUM
 drugbank_id: DB00946
 evidence_level: L5

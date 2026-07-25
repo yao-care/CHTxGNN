@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AVATROMBOPAGUM
 drugbank_id: DB11995
 evidence_level: L5

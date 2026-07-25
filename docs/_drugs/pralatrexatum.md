@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRALATREXATUM
 drugbank_id: DB06813
 evidence_level: L5

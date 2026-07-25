@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DIMENHYDRINATUM
 drugbank_id: DB00985
 evidence_level: L5

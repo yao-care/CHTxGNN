@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: METOPROLOLI TARTRAS
 drugbank_id: DB00264
 evidence_level: L5

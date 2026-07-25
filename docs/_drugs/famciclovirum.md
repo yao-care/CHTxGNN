@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FAMCICLOVIRUM
 drugbank_id: DB00426
 evidence_level: L5

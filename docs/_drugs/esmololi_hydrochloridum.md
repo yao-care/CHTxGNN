@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ESMOLOLI HYDROCHLORIDUM
 drugbank_id: DB00187
 evidence_level: L5

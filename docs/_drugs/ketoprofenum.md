@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: KETOPROFENUM
 drugbank_id: DB01009
 evidence_level: L5

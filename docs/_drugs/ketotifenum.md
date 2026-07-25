@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: KETOTIFENUM
 drugbank_id: DB00920
 evidence_level: L5

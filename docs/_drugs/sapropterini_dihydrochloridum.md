@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SAPROPTERINI DIHYDROCHLORIDUM
 drugbank_id: DB00360
 evidence_level: L5

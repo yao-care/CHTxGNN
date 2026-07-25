@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOFACITINIBUM
 drugbank_id: DB08895
 evidence_level: L5

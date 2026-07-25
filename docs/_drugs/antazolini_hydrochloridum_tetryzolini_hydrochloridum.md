@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ANTAZOLINI HYDROCHLORIDUM, TETRYZOLINI HYDROCHLORIDUM
 drugbank_id: DB08799
 evidence_level: L5

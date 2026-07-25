@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVOFLOXACINUM
 drugbank_id: DB01137
 evidence_level: L5

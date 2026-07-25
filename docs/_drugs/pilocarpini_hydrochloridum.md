@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PILOCARPINI HYDROCHLORIDUM
 drugbank_id: DB01085
 evidence_level: L5

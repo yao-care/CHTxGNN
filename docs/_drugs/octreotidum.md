@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OCTREOTIDUM
 drugbank_id: DB00104
 evidence_level: L5

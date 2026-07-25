@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CEFTAZIDIMUM
 drugbank_id: DB00438
 evidence_level: L5

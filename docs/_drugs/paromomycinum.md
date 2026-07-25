@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PAROMOMYCINUM
 drugbank_id: DB01421
 evidence_level: L5

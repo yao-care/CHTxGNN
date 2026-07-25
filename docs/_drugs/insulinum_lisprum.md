@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: INSULINUM LISPRUM
 drugbank_id: DB00046
 evidence_level: L5

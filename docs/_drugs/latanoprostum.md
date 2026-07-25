@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LATANOPROSTUM
 drugbank_id: DB00654
 evidence_level: L5

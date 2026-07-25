@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SALBUTAMOLUM
 drugbank_id: DB01001
 evidence_level: L5

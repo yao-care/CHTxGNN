@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MODAFINILUM
 drugbank_id: DB00745
 evidence_level: L5

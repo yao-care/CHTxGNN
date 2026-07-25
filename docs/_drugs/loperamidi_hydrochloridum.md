@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LOPERAMIDI HYDROCHLORIDUM
 drugbank_id: DB00836
 evidence_level: L5
