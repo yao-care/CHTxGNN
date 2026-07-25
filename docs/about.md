@@ -116,7 +116,7 @@ Arzneimitteln gegen seltene Krankheiten vorherzusagen.»
 
 | Position | Wert |
 |------|-------|
-| Arzneimittelberichte | 730 |
+| Arzneimittelberichte | {{ site.drugs.size }} |
 | Zulassungsbehörde | Swissmedic |
 | Bereitgestellte Websites | 30 Länder / Regionen |
 
