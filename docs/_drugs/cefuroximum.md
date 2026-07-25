@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CEFUROXIMUM
 drugbank_id: DB01112
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EPINASTINI HYDROCHLORIDUM
 drugbank_id: DB00751
 evidence_level: L5

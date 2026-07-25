@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TORASEMIDUM
 drugbank_id: DB00214
 evidence_level: L5

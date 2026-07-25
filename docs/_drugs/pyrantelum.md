@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PYRANTELUM
 drugbank_id: DB11156
 evidence_level: L5

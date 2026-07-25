@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ABACAVIRUM
 drugbank_id: DB01048
 evidence_level: L5

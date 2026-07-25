@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LABETALOLI HYDROCHLORIDUM
 drugbank_id: DB00598
 evidence_level: L5

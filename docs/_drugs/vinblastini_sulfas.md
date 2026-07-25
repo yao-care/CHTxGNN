@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VINBLASTINI SULFAS
 drugbank_id: DB00570
 evidence_level: L5

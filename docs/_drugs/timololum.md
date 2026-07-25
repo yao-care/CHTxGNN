@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TIMOLOLUM
 drugbank_id: DB00373
 evidence_level: L5

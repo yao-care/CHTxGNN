@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: INFLIXIMABUM
 drugbank_id: DB00065
 evidence_level: L5

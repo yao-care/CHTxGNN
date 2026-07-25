@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CENOBAMATUM
 drugbank_id: DB06119
 evidence_level: L5

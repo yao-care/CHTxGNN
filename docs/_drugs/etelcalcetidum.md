@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ETELCALCETIDUM
 drugbank_id: DB12865
 evidence_level: L5

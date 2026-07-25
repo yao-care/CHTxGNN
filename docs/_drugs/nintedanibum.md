@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NINTEDANIBUM
 drugbank_id: DB09079
 evidence_level: L5

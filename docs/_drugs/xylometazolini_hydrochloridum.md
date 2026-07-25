@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: XYLOMETAZOLINI HYDROCHLORIDUM
 drugbank_id: DB06694
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRAMADOLI HYDROCHLORIDUM
 drugbank_id: DB00193
 evidence_level: L5

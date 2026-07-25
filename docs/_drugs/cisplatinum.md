@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CISPLATINUM
 drugbank_id: DB00515
 evidence_level: L5

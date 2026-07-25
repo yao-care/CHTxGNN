@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOCILIZUMABUM
 drugbank_id: DB06273
 evidence_level: L5

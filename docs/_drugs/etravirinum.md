@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ETRAVIRINUM
 drugbank_id: DB06414
 evidence_level: L5

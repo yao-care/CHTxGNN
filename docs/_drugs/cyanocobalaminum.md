@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CYANOCOBALAMINUM
 drugbank_id: DB00115
 evidence_level: L5

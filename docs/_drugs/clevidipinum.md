@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLEVIDIPINUM
 drugbank_id: DB04920
 evidence_level: L5

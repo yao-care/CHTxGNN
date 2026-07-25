@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PEGASPARGASUM
 drugbank_id: DB00059
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLONIDINI HYDROCHLORIDUM
 drugbank_id: DB00575
 evidence_level: L5

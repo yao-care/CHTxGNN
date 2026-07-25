@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CODEINI PHOSPHAS HEMIHYDRICUS
 drugbank_id: DB00318
 evidence_level: L5

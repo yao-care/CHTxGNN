@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TEDUGLUTIDUM
 drugbank_id: DB08900
 evidence_level: L5

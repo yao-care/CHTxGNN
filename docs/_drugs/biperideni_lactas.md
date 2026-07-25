@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BIPERIDENI LACTAS
 drugbank_id: DB00810
 evidence_level: L5

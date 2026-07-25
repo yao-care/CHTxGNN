@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOLCAPONUM
 drugbank_id: DB00323
 evidence_level: L5

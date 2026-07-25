@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ICATIBANTUM
 drugbank_id: DB06196
 evidence_level: L5

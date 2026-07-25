@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BIOTINUM
 drugbank_id: DB00121
 evidence_level: L5

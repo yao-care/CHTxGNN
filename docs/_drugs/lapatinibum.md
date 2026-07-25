@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LAPATINIBUM
 drugbank_id: DB01259
 evidence_level: L5

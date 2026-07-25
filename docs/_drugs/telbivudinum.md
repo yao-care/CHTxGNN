@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TELBIVUDINUM
 drugbank_id: DB01265
 evidence_level: L5

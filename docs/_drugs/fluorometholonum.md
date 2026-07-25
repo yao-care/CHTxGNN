@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUOROMETHOLONUM
 drugbank_id: DB00324
 evidence_level: L5

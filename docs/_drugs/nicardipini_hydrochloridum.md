@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NICARDIPINI HYDROCHLORIDUM
 drugbank_id: DB00622
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EZETIMIBUM
 drugbank_id: DB00973
 evidence_level: L5

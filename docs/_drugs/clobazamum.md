@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLOBAZAMUM
 drugbank_id: DB00349
 evidence_level: L5

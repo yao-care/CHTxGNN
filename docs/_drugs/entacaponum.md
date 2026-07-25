@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ENTACAPONUM
 drugbank_id: DB00494
 evidence_level: L5

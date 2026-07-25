@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OFLOXACINUM
 drugbank_id: DB01165
 evidence_level: L5

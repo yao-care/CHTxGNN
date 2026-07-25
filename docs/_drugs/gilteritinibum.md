@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GILTERITINIBUM
 drugbank_id: DB12141
 evidence_level: L5

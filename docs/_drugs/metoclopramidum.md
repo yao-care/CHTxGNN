@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: METOCLOPRAMIDUM
 drugbank_id: DB01233
 evidence_level: L5

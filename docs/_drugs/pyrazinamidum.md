@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PYRAZINAMIDUM
 drugbank_id: DB00339
 evidence_level: L5

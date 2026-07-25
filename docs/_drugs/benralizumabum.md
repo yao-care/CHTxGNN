@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BENRALIZUMABUM
 drugbank_id: DB12023
 evidence_level: L5

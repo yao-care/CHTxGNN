@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TETRACYCLINUM
 drugbank_id: DB00759
 evidence_level: L5

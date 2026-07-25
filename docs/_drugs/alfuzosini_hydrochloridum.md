@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALFUZOSINI HYDROCHLORIDUM
 drugbank_id: DB00346
 evidence_level: L5

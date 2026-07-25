@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RISANKIZUMABUM
 drugbank_id: DB14762
 evidence_level: L5

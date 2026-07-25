@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: HYDROCHLOROTHIAZIDUM
 drugbank_id: DB00999
 evidence_level: L5

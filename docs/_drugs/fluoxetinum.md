@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUOXETINUM
 drugbank_id: DB00472
 evidence_level: L5

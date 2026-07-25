@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DIPHENHYDRAMINI HYDROCHLORIDUM
 drugbank_id: DB01075
 evidence_level: L5

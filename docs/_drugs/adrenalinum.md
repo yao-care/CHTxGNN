@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ADRENALINUM
 drugbank_id: DB00668
 evidence_level: L5

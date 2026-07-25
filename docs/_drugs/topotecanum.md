@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOPOTECANUM
 drugbank_id: DB01030
 evidence_level: L5

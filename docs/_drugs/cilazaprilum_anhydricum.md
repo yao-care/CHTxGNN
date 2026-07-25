@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CILAZAPRILUM ANHYDRICUM
 drugbank_id: DB01340
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IXAZOMIBUM
 drugbank_id: DB09570
 evidence_level: L5

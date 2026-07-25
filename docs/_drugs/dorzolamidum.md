@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DORZOLAMIDUM
 drugbank_id: DB00869
 evidence_level: L5

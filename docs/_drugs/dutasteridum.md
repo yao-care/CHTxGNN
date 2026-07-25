@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DUTASTERIDUM
 drugbank_id: DB01126
 evidence_level: L5

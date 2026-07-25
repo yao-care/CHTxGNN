@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRAVASTATINUM NATRICUM
 drugbank_id: DB00175
 evidence_level: L5

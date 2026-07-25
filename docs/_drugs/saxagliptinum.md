@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SAXAGLIPTINUM
 drugbank_id: DB06335
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AVANAFILUM
 drugbank_id: DB06237
 evidence_level: L5

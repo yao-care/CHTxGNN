@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EDOXABANUM
 drugbank_id: DB09075
 evidence_level: L5

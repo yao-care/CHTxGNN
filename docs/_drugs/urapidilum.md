@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: URAPIDILUM
 drugbank_id: DB12661
 evidence_level: L5

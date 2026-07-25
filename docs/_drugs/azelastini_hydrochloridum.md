@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AZELASTINI HYDROCHLORIDUM
 drugbank_id: DB00972
 evidence_level: L5

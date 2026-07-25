@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MERCAPTOPURINUM MONOHYDRICUM
 drugbank_id: DB01033
 evidence_level: L5

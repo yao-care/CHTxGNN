@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TERIFLUNOMIDUM
 drugbank_id: DB08880
 evidence_level: L5

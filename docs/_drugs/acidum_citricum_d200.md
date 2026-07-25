@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM CITRICUM D200
 drugbank_id: DB04272
 evidence_level: L5

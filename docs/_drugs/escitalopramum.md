@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ESCITALOPRAMUM
 drugbank_id: DB01175
 evidence_level: L5

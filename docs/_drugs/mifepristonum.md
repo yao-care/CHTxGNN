@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MIFEPRISTONUM
 drugbank_id: DB00834
 evidence_level: L5

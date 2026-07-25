@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CELECOXIBUM
 drugbank_id: DB00482
 evidence_level: L5

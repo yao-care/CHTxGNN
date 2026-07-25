@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DORAVIRINUM
 drugbank_id: DB12301
 evidence_level: L5

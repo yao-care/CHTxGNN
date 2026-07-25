@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AXITINIBUM
 drugbank_id: DB06626
 evidence_level: L5

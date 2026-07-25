@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BLEOMYCINUM
 drugbank_id: DB00290
 evidence_level: L5

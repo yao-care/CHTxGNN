@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TADALAFILUM
 drugbank_id: DB00820
 evidence_level: L5

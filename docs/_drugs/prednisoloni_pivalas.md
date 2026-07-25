@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PREDNISOLONI PIVALAS
 drugbank_id: DB00860
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRETINOINUM
 drugbank_id: DB00755
 evidence_level: L5

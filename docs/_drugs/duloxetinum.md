@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DULOXETINUM
 drugbank_id: DB00476
 evidence_level: L5

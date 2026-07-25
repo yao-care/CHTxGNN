@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AZITHROMYCINUM
 drugbank_id: DB00207
 evidence_level: L5

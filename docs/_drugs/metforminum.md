@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: METFORMINUM
 drugbank_id: DB00331
 evidence_level: L5

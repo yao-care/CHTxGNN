@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FENOFIBRATUM
 drugbank_id: DB01039
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FORMOTEROLI FUMARAS DIHYDRICUS
 drugbank_id: DB00983
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALECTINIBUM
 drugbank_id: DB11363
 evidence_level: L5

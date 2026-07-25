@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ZUCLOPENTHIXOLI DECANOAS
 drugbank_id: DB01624
 evidence_level: L5

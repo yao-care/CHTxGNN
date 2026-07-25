@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LACTULOSUM LIQUIDUM
 drugbank_id: DB00581
 evidence_level: L5

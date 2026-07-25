@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DOXEPINUM
 drugbank_id: DB01142
 evidence_level: L5

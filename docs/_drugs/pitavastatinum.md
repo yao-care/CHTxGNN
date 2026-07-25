@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PITAVASTATINUM
 drugbank_id: DB08860
 evidence_level: L5

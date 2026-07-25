@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEFERASIROXUM
 drugbank_id: DB01609
 evidence_level: L5

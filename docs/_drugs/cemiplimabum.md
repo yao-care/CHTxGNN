@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CEMIPLIMABUM
 drugbank_id: DB14707
 evidence_level: L5

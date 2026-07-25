@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NITRAZEPAMUM
 drugbank_id: DB01595
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FELBAMATUM
 drugbank_id: DB00949
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CINNARIZINUM
 drugbank_id: DB00568
 evidence_level: L5

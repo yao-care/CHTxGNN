@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CICLESONIDUM
 drugbank_id: DB01410
 evidence_level: L5

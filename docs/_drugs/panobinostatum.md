@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PANOBINOSTATUM
 drugbank_id: DB06603
 evidence_level: L5

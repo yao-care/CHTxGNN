@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TETRACAINI HYDROCHLORIDUM
 drugbank_id: DB09085
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ILOPROSTUM
 drugbank_id: DB01088
 evidence_level: L5

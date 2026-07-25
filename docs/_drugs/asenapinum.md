@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ASENAPINUM
 drugbank_id: DB06216
 evidence_level: L5

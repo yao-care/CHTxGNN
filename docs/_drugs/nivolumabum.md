@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NIVOLUMABUM
 drugbank_id: DB09035
 evidence_level: L5

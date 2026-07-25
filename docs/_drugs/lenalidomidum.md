@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LENALIDOMIDUM
 drugbank_id: DB00480
 evidence_level: L5

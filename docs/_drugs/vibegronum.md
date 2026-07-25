@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VIBEGRONUM
 drugbank_id: DB14895
 evidence_level: L5

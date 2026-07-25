@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NIFEDIPINUM
 drugbank_id: DB01115
 evidence_level: L5

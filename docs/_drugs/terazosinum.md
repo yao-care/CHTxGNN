@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TERAZOSINUM
 drugbank_id: DB01162
 evidence_level: L5

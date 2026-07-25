@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: OXAZEPAMUM
 drugbank_id: DB00842
 evidence_level: L5

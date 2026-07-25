@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MITOMYCINUM
 drugbank_id: DB00305
 evidence_level: L5

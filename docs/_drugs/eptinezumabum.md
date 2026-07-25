@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EPTINEZUMABUM
 drugbank_id: DB14040
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: COBIMETINIBUM
 drugbank_id: DB05239
 evidence_level: L5

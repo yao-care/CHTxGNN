@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PIMECROLIMUSUM
 drugbank_id: DB00337
 evidence_level: L5

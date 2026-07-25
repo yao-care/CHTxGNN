@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ZANAMIVIRUM
 drugbank_id: DB00558
 evidence_level: L5

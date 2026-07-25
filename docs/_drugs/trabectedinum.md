@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRABECTEDINUM
 drugbank_id: DB05109
 evidence_level: L5

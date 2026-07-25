@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MANNITOLUM
 drugbank_id: DB00742
 evidence_level: L5

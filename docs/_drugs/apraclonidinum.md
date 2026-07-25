@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: APRACLONIDINUM
 drugbank_id: DB00964
 evidence_level: L5

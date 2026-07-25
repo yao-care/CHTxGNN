@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IMIPENEMUM ANHYDRICUM, CILASTATINUM
 drugbank_id: DB01598
 evidence_level: L5

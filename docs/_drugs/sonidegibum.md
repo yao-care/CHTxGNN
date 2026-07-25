@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SONIDEGIBUM
 drugbank_id: DB09143
 evidence_level: L5

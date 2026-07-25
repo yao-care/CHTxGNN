@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RAMIPRILUM
 drugbank_id: DB00178
 evidence_level: L5

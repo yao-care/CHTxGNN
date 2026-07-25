@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BROMOCRIPTINUM
 drugbank_id: DB01200
 evidence_level: L5

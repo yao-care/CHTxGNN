@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BISACODYLUM
 drugbank_id: DB09020
 evidence_level: L5

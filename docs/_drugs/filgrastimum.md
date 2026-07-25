@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FILGRASTIMUM
 drugbank_id: DB00099
 evidence_level: L5

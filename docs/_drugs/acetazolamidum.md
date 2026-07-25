@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACETAZOLAMIDUM
 drugbank_id: DB00819
 evidence_level: L5

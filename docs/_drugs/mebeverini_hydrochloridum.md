@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MEBEVERINI HYDROCHLORIDUM
 drugbank_id: DB12554
 evidence_level: L5

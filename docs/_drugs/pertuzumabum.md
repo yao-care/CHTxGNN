@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PERTUZUMABUM
 drugbank_id: DB06366
 evidence_level: L5

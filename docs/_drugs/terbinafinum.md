@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TERBINAFINUM
 drugbank_id: DB00857
 evidence_level: L5

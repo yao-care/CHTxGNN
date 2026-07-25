@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RIBOFLAVINUM
 drugbank_id: DB00140
 evidence_level: L5

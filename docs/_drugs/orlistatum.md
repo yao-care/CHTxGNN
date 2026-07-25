@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ORLISTATUM
 drugbank_id: DB01083
 evidence_level: L5

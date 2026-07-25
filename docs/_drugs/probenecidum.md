@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PROBENECIDUM
 drugbank_id: DB01032
 evidence_level: L5

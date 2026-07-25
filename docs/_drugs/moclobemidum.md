@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MOCLOBEMIDUM
 drugbank_id: DB01171
 evidence_level: L5

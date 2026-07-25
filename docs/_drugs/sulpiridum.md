@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SULPIRIDUM
 drugbank_id: DB00391
 evidence_level: L5

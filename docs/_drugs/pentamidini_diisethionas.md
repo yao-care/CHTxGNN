@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PENTAMIDINI DIISETHIONAS
 drugbank_id: DB00738
 evidence_level: L5

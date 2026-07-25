@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLUOCINOLONI ACETONIDUM, NEOMYCINUM
 drugbank_id: DB00591
 evidence_level: L5

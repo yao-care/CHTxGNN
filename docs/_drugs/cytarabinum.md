@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CYTARABINUM
 drugbank_id: DB00987
 evidence_level: L5

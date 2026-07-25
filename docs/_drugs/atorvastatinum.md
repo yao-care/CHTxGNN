@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ATORVASTATINUM
 drugbank_id: DB01076
 evidence_level: L5

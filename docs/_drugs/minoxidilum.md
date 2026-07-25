@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MINOXIDILUM
 drugbank_id: DB00350
 evidence_level: L5

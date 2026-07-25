@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AZTREONAMUM
 drugbank_id: DB00355
 evidence_level: L5

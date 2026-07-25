@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SEMAGLUTIDUM
 drugbank_id: DB13928
 evidence_level: L5

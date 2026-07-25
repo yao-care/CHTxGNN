@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PHENYLEPHRINI HYDROCHLORIDUM, TROPICAMIDUM
 drugbank_id: DB00388
 evidence_level: L5

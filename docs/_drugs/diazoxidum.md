@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DIAZOXIDUM
 drugbank_id: DB01119
 evidence_level: L5

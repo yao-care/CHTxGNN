@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: IRBESARTANUM
 drugbank_id: DB01029
 evidence_level: L5

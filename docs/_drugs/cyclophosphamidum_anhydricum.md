@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CYCLOPHOSPHAMIDUM ANHYDRICUM
 drugbank_id: DB00531
 evidence_level: L5

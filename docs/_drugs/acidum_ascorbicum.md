@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM ASCORBICUM
 drugbank_id: DB00126
 evidence_level: L5

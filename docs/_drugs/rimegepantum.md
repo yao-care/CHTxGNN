@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RIMEGEPANTUM
 drugbank_id: DB12457
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TEICOPLANINUM
 drugbank_id: DB06149
 evidence_level: L5

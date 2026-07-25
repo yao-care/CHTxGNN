@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVOSIMENDANUM
 drugbank_id: DB00922
 evidence_level: L5

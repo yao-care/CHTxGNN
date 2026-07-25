@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACETYLCYSTEINUM
 drugbank_id: DB06151
 evidence_level: L5

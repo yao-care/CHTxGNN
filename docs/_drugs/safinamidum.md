@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SAFINAMIDUM
 drugbank_id: DB06654
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: APREMILASTUM
 drugbank_id: DB05676
 evidence_level: L5

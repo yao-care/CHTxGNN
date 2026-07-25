@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GUANFACINUM
 drugbank_id: DB01018
 evidence_level: L5

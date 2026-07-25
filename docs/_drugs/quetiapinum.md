@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: QUETIAPINUM
 drugbank_id: DB01224
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LINACLOTIDUM
 drugbank_id: DB08890
 evidence_level: L5

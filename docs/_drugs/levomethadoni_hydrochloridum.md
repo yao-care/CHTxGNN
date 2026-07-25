@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVOMETHADONI HYDROCHLORIDUM
 drugbank_id: DB13515
 evidence_level: L5

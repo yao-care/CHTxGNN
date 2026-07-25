@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ARIPIPRAZOLUM
 drugbank_id: DB01238
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM AZELAICUM
 drugbank_id: DB00548
 evidence_level: L5

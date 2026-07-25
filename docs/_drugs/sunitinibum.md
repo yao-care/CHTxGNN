@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SUNITINIBUM
 drugbank_id: DB01268
 evidence_level: L5

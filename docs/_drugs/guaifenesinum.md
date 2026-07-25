@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GUAIFENESINUM
 drugbank_id: DB00874
 evidence_level: L5

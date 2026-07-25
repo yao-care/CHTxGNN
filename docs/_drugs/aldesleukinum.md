@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ALDESLEUKINUM
 drugbank_id: DB00041
 evidence_level: L5

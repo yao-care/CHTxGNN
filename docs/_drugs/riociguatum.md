@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RIOCIGUATUM
 drugbank_id: DB08931
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACENOCOUMAROLUM
 drugbank_id: DB01418
 evidence_level: L5

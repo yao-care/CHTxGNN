@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRIMIPRAMINUM
 drugbank_id: DB00726
 evidence_level: L5

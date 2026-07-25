@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RILPIVIRINUM
 drugbank_id: DB08864
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ETODOLACUM
 drugbank_id: DB00749
 evidence_level: L5

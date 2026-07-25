@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CICLOPIROXUM OLAMINUM
 drugbank_id: DB01188
 evidence_level: L5

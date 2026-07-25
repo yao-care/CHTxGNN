@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CEFACLORUM
 drugbank_id: DB00833
 evidence_level: L5

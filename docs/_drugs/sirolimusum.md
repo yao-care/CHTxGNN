@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SIROLIMUSUM
 drugbank_id: DB00877
 evidence_level: L5

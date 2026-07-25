@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ROMOSOZUMABUM
 drugbank_id: DB11866
 evidence_level: L5

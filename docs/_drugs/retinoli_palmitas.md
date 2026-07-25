@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RETINOLI PALMITAS
 drugbank_id: DB00162
 evidence_level: L5

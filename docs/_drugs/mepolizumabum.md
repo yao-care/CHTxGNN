@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MEPOLIZUMABUM
 drugbank_id: DB06612
 evidence_level: L5

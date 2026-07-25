@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEXIBUPROFENUM
 drugbank_id: DB09213
 evidence_level: L5

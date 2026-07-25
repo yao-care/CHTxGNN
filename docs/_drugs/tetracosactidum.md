@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TETRACOSACTIDUM
 drugbank_id: DB01284
 evidence_level: L5

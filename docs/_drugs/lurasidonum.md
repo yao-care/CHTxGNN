@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LURASIDONUM
 drugbank_id: DB08815
 evidence_level: L5

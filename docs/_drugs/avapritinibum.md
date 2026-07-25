@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AVAPRITINIBUM
 drugbank_id: DB15233
 evidence_level: L5

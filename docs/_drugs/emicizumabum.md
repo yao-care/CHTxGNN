@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: EMICIZUMABUM
 drugbank_id: DB13923
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CANNABIDIOLUM
 drugbank_id: DB09061
 evidence_level: L5

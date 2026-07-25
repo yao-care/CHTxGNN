@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRAMIPEXOLUM
 drugbank_id: DB00413
 evidence_level: L5

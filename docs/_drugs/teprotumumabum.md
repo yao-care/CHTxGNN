@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TEPROTUMUMABUM
 drugbank_id: DB06343
 evidence_level: L5

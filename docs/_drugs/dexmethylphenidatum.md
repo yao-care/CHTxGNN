@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEXMETHYLPHENIDATUM
 drugbank_id: DB06701
 evidence_level: L5

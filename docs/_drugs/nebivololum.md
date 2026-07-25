@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NEBIVOLOLUM
 drugbank_id: DB04861
 evidence_level: L5

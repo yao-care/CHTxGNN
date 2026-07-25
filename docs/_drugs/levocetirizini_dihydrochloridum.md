@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVOCETIRIZINI DIHYDROCHLORIDUM
 drugbank_id: DB06282
 evidence_level: L5

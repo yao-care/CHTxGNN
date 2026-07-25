@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CENEGERMINUM
 drugbank_id: DB13926
 evidence_level: L5

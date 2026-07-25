@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PROMAZINI HYDROCHLORIDUM
 drugbank_id: DB00420
 evidence_level: L5

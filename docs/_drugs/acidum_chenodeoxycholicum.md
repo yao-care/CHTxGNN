@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ACIDUM CHENODEOXYCHOLICUM
 drugbank_id: DB06777
 evidence_level: L5

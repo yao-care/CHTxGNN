@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: AMOXICILLINUM ANHYDRICUM
 drugbank_id: DB01060
 evidence_level: L5

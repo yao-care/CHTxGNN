@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GALCANEZUMABUM
 drugbank_id: DB14042
 evidence_level: L5

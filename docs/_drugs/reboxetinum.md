@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: REBOXETINUM
 drugbank_id: DB00234
 evidence_level: L5

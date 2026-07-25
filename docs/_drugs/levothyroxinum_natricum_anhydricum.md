@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: LEVOTHYROXINUM NATRICUM ANHYDRICUM
 drugbank_id: DB00451
 evidence_level: L5

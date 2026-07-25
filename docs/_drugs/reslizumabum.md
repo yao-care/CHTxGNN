@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RESLIZUMABUM
 drugbank_id: DB06602
 evidence_level: L5

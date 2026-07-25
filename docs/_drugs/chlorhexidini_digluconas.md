@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CHLORHEXIDINI DIGLUCONAS
 drugbank_id: DB00878
 evidence_level: L5

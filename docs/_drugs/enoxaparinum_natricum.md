@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: ENOXAPARINUM NATRICUM
 drugbank_id: DB01225
 evidence_level: L5

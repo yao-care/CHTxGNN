@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VILDAGLIPTINUM
 drugbank_id: DB04876
 evidence_level: L5

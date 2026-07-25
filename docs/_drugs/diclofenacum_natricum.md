@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DICLOFENACUM NATRICUM
 drugbank_id: DB00586
 evidence_level: L5

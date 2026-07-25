@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: GLIMEPIRIDUM
 drugbank_id: DB00222
 evidence_level: L5

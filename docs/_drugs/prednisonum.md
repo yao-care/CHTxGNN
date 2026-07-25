@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PREDNISONUM
 drugbank_id: DB00635
 evidence_level: L5

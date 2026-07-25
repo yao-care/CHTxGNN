@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CLARITHROMYCINUM
 drugbank_id: DB01211
 evidence_level: L5

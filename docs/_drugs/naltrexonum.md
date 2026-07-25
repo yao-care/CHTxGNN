@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: NALTREXONUM
 drugbank_id: DB00704
 evidence_level: L5

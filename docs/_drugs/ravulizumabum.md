@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: RAVULIZUMABUM
 drugbank_id: DB11580
 evidence_level: L5

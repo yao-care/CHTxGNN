@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: SOTALOLI HYDROCHLORIDUM
 drugbank_id: DB00489
 evidence_level: L5

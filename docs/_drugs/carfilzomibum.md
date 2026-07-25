@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CARFILZOMIBUM
 drugbank_id: DB08889
 evidence_level: L5

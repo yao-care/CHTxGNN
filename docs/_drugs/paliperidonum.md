@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PALIPERIDONUM
 drugbank_id: DB01267
 evidence_level: L5

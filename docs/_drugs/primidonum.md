@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PRIMIDONUM
 drugbank_id: DB00794
 evidence_level: L5

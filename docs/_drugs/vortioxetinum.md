@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VORTIOXETINUM
 drugbank_id: DB09068
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: BISOPROLOLI FUMARAS
 drugbank_id: DB00612
 evidence_level: L5

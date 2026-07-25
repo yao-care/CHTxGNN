@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TOLVAPTANUM
 drugbank_id: DB06212
 evidence_level: L5

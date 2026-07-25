@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: THIOPENTALUM
 drugbank_id: DB00599
 evidence_level: L5

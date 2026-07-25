@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: VINDESINI SULFAS
 drugbank_id: DB00309
 evidence_level: L5

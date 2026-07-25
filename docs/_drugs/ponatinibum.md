@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PONATINIBUM
 drugbank_id: DB08901
 evidence_level: L5

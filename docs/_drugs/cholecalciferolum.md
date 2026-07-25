@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: CHOLECALCIFEROLUM
 drugbank_id: DB00169
 evidence_level: L5

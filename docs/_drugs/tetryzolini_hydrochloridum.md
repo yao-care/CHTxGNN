@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TETRYZOLINI HYDROCHLORIDUM
 drugbank_id: DB06764
 evidence_level: L5

@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: PHENOXYMETHYLPENICILLINUM KALICUM
 drugbank_id: DB00417
 evidence_level: L5

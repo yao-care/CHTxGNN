@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: TRAZODONUM
 drugbank_id: DB00656
 evidence_level: L5

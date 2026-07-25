@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: FLECAINIDI ACETAS
 drugbank_id: DB01195
 evidence_level: L5

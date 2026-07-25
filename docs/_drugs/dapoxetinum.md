@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DAPOXETINUM
 drugbank_id: DB04884
 evidence_level: L5
