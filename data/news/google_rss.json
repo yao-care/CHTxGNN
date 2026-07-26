@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26T20:53:12.404462+00:00",
+  "fetched_at": "2026-07-26T21:55:11.534818+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -274,23 +274,13 @@
       }
     },
     {
-      "id": "8db31424e5bb",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
-      }
-    },
-    {
-      "id": "c1f5975f61ef",
-      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
       }
     },
     {
@@ -301,6 +291,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "c1f5975f61ef",
+      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "5451bc7b96ac",
-      "title": "Bayer AG: Was der Chemie- und Pharmakonzern bietet - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2xoNFZXNnRWU2Fya1NpdVVNLXhxaE1rVWYySVpFcHVsX01GVXJUWm9Rbi0wRlNNTVJSbnFsRmtOcWhoSFNSNFU0U29zSXpoOXk4T2hSNnBpd2pRc0VDTzZLZ0ktZG5CYkw1Rl8yYVF1RU90aUxXVGNUU2Nsc0dNNWhZUkRNWmJiOVliTnBab1ItWVFTcDljNU1Bb0E3VDVLWVlRc3poQ3FyYjA?oc=5",
-      "published": "2026-07-26T18:33:29+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "08f761ee3a89",
       "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
@@ -371,6 +361,16 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://de.euronews.com"
+      }
+    },
+    {
+      "id": "5451bc7b96ac",
+      "title": "Bayer AG: Was der Chemie- und Pharmakonzern bietet - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2xoNFZXNnRWU2Fya1NpdVVNLXhxaE1rVWYySVpFcHVsX01GVXJUWm9Rbi0wRlNNTVJSbnFsRmtOcWhoSFNSNFU0U29zSXpoOXk4T2hSNnBpd2pRc0VDTzZLZ0ktZG5CYkw1Rl8yYVF1RU90aUxXVGNUU2Nsc0dNNWhZUkRNWmJiOVliTnBab1ItWVFTcDljNU1Bb0E3VDVLWVlRc3poQ3FyYjA?oc=5",
+      "published": "2026-07-26T18:33:29+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
