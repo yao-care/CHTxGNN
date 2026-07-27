@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T22:01:59.428265+00:00",
+  "fetched_at": "2026-07-27T23:58:41.538738+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "a50000bb12f5",
-      "title": "Gesundheitsreform: Wieso Ärzte mit Apotheken streiten - FAZ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNld4eXB2WW5seEFqWHc5UlcyVzhnZW1SU3BvSjFsNTJDZGNhYW9PMDgxSmFLbjZlV0p2aXM5WUpyUEFJZUJfbHdody0tMG9vOWlsa0MzcUh6Q3llSFZSeEs4eVF5OURzNEwwMWtFR3RlNHlBbzRPckJNaUxGT0RDNHNZcnh4TzNwbHB2eG5kV1c3aUtqOGFKWTZLcUtidE5HNTJlN1dCd3EwQVBwV0NmWWRwUkxoTDRSb2c?oc=5",
-      "published": "2026-07-27T14:58:36+00:00",
-      "source": {
-        "name": "FAZ",
-        "url": "https://www.faz.net"
-      }
-    },
-    {
       "id": "1c099be23d11",
       "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUeEgtM1U3TnUxTHVBMGs2QjhyTGY1U1AtMklWMEwwZFFwa0NvS2dweFdqRlF3aHQ4RkI1Yk1BOVRJTWFXVW1RSEhUbW9aWlZLTlZKQ2JTUURvUkxKdDBxcWZCMFF2RHM0WmtXcjM1bUM?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "a50000bb12f5",
+      "title": "Gesundheitsreform: Wieso Ärzte mit Apotheken streiten - FAZ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNld4eXB2WW5seEFqWHc5UlcyVzhnZW1SU3BvSjFsNTJDZGNhYW9PMDgxSmFLbjZlV0p2aXM5WUpyUEFJZUJfbHdody0tMG9vOWlsa0MzcUh6Q3llSFZSeEs4eVF5OURzNEwwMWtFR3RlNHlBbzRPckJNaUxGT0RDNHNZcnh4TzNwbHB2eG5kV1c3aUtqOGFKWTZLcUtidE5HNTJlN1dCd3EwQVBwV0NmWWRwUkxoTDRSb2c?oc=5",
+      "published": "2026-07-27T14:58:36+00:00",
+      "source": {
+        "name": "FAZ",
+        "url": "https://www.faz.net"
       }
     },
     {
@@ -124,13 +124,13 @@
       }
     },
     {
-      "id": "bb2eb53e7c32",
-      "title": "»Ärzte ohne Gren­zen« for­dert Zu­gang zu HIV-Me­di­ka­ment - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTBLLVdfQnNXUnc4OUhpLU95RkJTWWtUU2lxblN4NnBsU0NsYzVpQ3VXM1dYdVBxbTNyM096cFdNNmNUSTMwQXFhNVREeWlwQkJ2UFpKaUh0bFFaZmJVczF5d1NSNmR5bFZHd2doeHk5SnFOWXlFVkVBU0VWbVB5QWRXdE1uV3RBbm1fajF3eVhtdzRtRU5CSDFXUmVhYkZx?oc=5",
-      "published": "2026-07-22T15:00:00+00:00",
+      "id": "26d72d00279e",
+      "title": "Antibiotika werden laut Studie oft falsch eingesetzt - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLTRsT3UzVFhGWGszU3RuTVBoR2RjWjZULWFEVWNsSkEtcXZGUGxrZVhqTVFwdFJqM2JpdjJiZnBLSlVmanRNa3hXbURKMVY4dVI3MHNfdFdacVJIRGNHSTN3Slg2a3hFaWw3SFNkWENOYUZReExGZlMzZmVCU2lBRkg2WlRqZTB2WVA2b1BPajIzXzdSeDZGQXFSUVB6QjZWUHVzNVNRdEgtczd0VDl5UkpWUXZlZXBoN1pfU1hWUE1oV0pUU19qc2dBdkJkb1d4?oc=5",
+      "published": "2026-07-22T15:18:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
       }
     },
     {
@@ -144,13 +144,13 @@
       }
     },
     {
-      "id": "9f7c377ed6d2",
-      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
-      "published": "2026-04-16T07:55:26+00:00",
+      "id": "bb2eb53e7c32",
+      "title": "»Ärzte ohne Gren­zen« for­dert Zu­gang zu HIV-Me­di­ka­ment - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTBLLVdfQnNXUnc4OUhpLU95RkJTWWtUU2lxblN4NnBsU0NsYzVpQ3VXM1dYdVBxbTNyM096cFdNNmNUSTMwQXFhNVREeWlwQkJ2UFpKaUh0bFFaZmJVczF5d1NSNmR5bFZHd2doeHk5SnFOWXlFVkVBU0VWbVB5QWRXdE1uV3RBbm1fajF3eVhtdzRtRU5CSDFXUmVhYkZx?oc=5",
+      "published": "2026-07-22T15:00:00+00:00",
       "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -181,6 +181,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "9f7c377ed6d2",
+      "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
+      "published": "2026-04-16T07:55:26+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "d9882fc31b6c",
-      "title": "Medikamente werden bald bis zu 70 Prozent teurer - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3NWRV90cUlESXREdHVPMmEwY1VxSnNUTFNRS1dmLWJ1WEdCSjl6RzVjaTdfYUNRRF9jWVZaSDZ4aFl5cnRMZmxlRUtGVVZ0YWJmd3NRZm5XRWp5d2NNcnVhZlBtaFpRRk9uV0xVNERHWE91ZnJOR2ZUS2lsQXJCSUhlbTUyT01ueGNvdFRIbXV0cEtvUmVaWg?oc=5",
-      "published": "2023-08-29T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     }
   ]
