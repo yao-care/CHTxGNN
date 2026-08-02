@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T20:49:44.839170+00:00",
+  "fetched_at": "2026-08-02T21:51:18.354491+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,16 +11,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "7da310e2aa2f",
-      "title": "Von Antidepressiva bis Ibuprofen Diese Medikamente können bei Hitze zum Problem werden - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZjhWcVNRNld6RWZRdm1Ld0F6SUJOWDRkNFBLVkx3VWxDTEV5S21IT25Wa3gwWWE5RHZRNnp0UXFqejZkX3c5dWdWaUJYLWk2Wk1pbUh4eXBTNmRLcUpZeFNNQ0UtOGN4SHkwV3BiMExaY0NrbGhCXzNtS0MySXVmWFdGSHVwendLRHE1cmxGNEZXdXhFWEFINWQ5eW9oOUVoRXJTdDU4TmZGTU5HVVZFVVl3SGE2VXdBdXhYTHlHZFVOcTRFQUZJZFVUdGxoUGdLTkdmaHlR?oc=5",
-      "published": "2026-08-02T09:10:00+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
       }
     },
     {
@@ -44,6 +34,16 @@
       }
     },
     {
+      "id": "7da310e2aa2f",
+      "title": "Von Antidepressiva bis Ibuprofen Diese Medikamente können bei Hitze zum Problem werden - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZjhWcVNRNld6RWZRdm1Ld0F6SUJOWDRkNFBLVkx3VWxDTEV5S21IT25Wa3gwWWE5RHZRNnp0UXFqejZkX3c5dWdWaUJYLWk2Wk1pbUh4eXBTNmRLcUpZeFNNQ0UtOGN4SHkwV3BiMExaY0NrbGhCXzNtS0MySXVmWFdGSHVwendLRHE1cmxGNEZXdXhFWEFINWQ5eW9oOUVoRXJTdDU4TmZGTU5HVVZFVVl3SGE2VXdBdXhYTHlHZFVOcTRFQUZJZFVUdGxoUGdLTkdmaHlR?oc=5",
+      "published": "2026-08-02T09:10:00+00:00",
+      "source": {
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
+      }
+    },
+    {
       "id": "5431265615fd",
       "title": "Patente und Profitorientierung blockieren Arzneimittel: Warum Millionen keinen Zugang haben - Frankfurter Rundschau",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0JSbmVWcVk1ajdydzIzRF9PM2hHQWFaYWNuSjhZbmZBbXplUGFBNklQVFptakVZdGN5UVA4VW9fS3VoRmluVzd5OHV1MXJMM3NudGpTdHR5MEI4dExjSmIzM0VoVUtCeHU2VnFfWGNTSVZYWFBsOEhValduakNSd1Z1TTZEM20zTFF0R3RLYy1NWHYza196cEkwM1ljMEtKdDdCdU1TN0J2LVU0Sk9UckdzRXpJNHVMdzZvaG9Ya2FxNEk?oc=5",
@@ -64,23 +64,13 @@
       }
     },
     {
-      "id": "0abca50a3c8a",
-      "title": "Neue Abnehmpille Wegovy: Was sie kann, für wen sie geeignet ist und wann sie zum Risiko wird - NDR.de",
+      "id": "5024c11f36df",
+      "title": "Neue Abnehmpille Wegovy: Was sie kann, für wen sie geeignet ist und wann sie zum Risiko wird - ndr.de",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS12bDBPVE5kWlktX2tWbzhmUE5sODR2UWxoM0RRam9kRnpDVkk4bk9NX2Jqd0pRYVg4SUlwTkE1eEs4aFJTR2c5RnhpcGE2cmlhZ2hGNGJTdU5iV2VjQVl2LWwxb0N5VWNWbE1xeXV1U0hHVGVpUUdWQVc3b01SUDN5ZXcwdUNqYkY3bEwwVmF6UGFtQlJEbWl3?oc=5",
       "published": "2026-07-30T15:02:00+00:00",
       "source": {
-        "name": "NDR.de",
+        "name": "ndr.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "3ef1faabcc13",
-      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
@@ -91,6 +81,16 @@
       "source": {
         "name": "Apotheken Umschau",
         "url": "https://www.apotheken-umschau.de"
+      }
+    },
+    {
+      "id": "3ef1faabcc13",
+      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -154,12 +154,12 @@
       }
     },
     {
-      "id": "198b0da65ee5",
-      "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - NDR.de",
+      "id": "6a3a426544ab",
+      "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - ndr.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWhsNWk1Tkc5MzNycUQ5RzhaaXhPTGlCcHJ1Yl9wajZ0VkV3akIxR255SUd6clB5aU5fZmNlUGZIcTVNanZlTmctSDJqUFB5Zk5XempaWnhrbDBlVWZuOE9xWDRSREhKRm5sa0lrbGVnVjl0TE5NNWtTY25CUzRmdG5jQlBZc1pFakFyT0hITHU5NmpfaUE?oc=5",
       "published": "2026-07-18T07:00:00+00:00",
       "source": {
-        "name": "NDR.de",
+        "name": "ndr.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -194,12 +194,12 @@
       }
     },
     {
-      "id": "0a34e14e1a1c",
-      "title": "USA: USA streichen Medicare-Zuschüsse - pharmazeutische-zeitung.de",
+      "id": "fc4ff1672d03",
+      "title": "USA: USA streichen Medicare-Zuschüsse - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzVveVlieXE0VFlPd0xUNG00cXJMOHNZNGNmVUpnODRUMGdvQWNEeDVYX2p4aVNFQ0tSSXc1eWJrYmRwcmhZWi03OG1Dc2F2ZGtTT1pKU3IzT281OV9yQ1o5SUtLdFota3NDVDZSeDV0REViaTRsVlYwSy00dG9UNVNIdWk0TGc?oc=5",
       "published": "2026-07-31T08:30:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -254,16 +254,6 @@
       }
     },
     {
-      "id": "a48a34dcb337",
-      "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
-      "published": "2026-07-05T07:00:00+00:00",
-      "source": {
-        "name": "Jüdische Allgemeine",
-        "url": "https://www.juedische-allgemeine.de"
-      }
-    },
-    {
       "id": "38b8b0aa9188",
       "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
@@ -271,6 +261,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "a48a34dcb337",
+      "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "source": {
+        "name": "Jüdische Allgemeine",
+        "url": "https://www.juedische-allgemeine.de"
       }
     },
     {
@@ -284,12 +284,12 @@
       }
     },
     {
-      "id": "d21c63f97c20",
-      "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - watson.ch",
+      "id": "ae3d250cee54",
+      "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
       "published": "2026-05-17T07:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
@@ -374,43 +374,33 @@
       }
     },
     {
-      "id": "8a5f0b9eb218",
-      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - pharmazeutische-zeitung.de",
+      "id": "b9c0e221906c",
+      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3liNnk4SkJYQlFSbXZSWEpPNmpPdWJzM3hjUzdOaU81cTdHMGZRWUFVT01BVUFZMU1aV0Q4cGpwZjB0cWswVVBfU1RNRkxUaTJTeFRSSXU2NHdFTGhQUkVsQjNRR2tpTWRjTkR1VmRNRHpXQVFQRDR6YVNxLXRkT0hMdFFQb3dpdDZrZHdWTzJldW9KTmZhOTJCNW5mcjJBWUl4U0d0UHR1UVR0SWxfT2R5N3R5RmRJS2NkZ01VdHdLNUd2a2EycQ?oc=5",
       "published": "2026-07-10T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
-      "id": "2124f3fa3766",
-      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - watson.ch",
+      "id": "e21e174e9cc9",
+      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
     {
-      "id": "be0ac394312d",
-      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - watson.ch",
+      "id": "1648c3dfecfa",
+      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
       "published": "2026-03-20T07:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "88c89f6424e3",
-      "title": "Wie entsorgt man abgelaufene Medikamente? - blick.ch",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
-      "published": "2026-04-21T07:00:00+00:00",
-      "source": {
-        "name": "blick.ch",
-        "url": "https://www.blick.ch"
       }
     },
     {
@@ -421,6 +411,16 @@
       "source": {
         "name": "geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "188e6d18b00f",
+      "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBNek5UTGxiekt0clFVMW9JcVU1VjdpaG84OVFPQUdrZENNYkNCZnFuQUxxeGp4RFpDVzUxVmVFcUZVUzVUS1VhM19GSzN5TU5uNEpXQk5wbm5peU5ET1ZWbzhsaU9aWHZoYmVWNFVmcmpWX2JHaC0wbTgxZV9Oa3N6cjh2MzFoQmpFZnM0M2gwcThVMnB2M19MaVFZc25MaFRlY2tCTVlMWHNJMGxpa2ZvU3VKOTlfR21Zcl8yNGVUYWY0Tm1tVkVqNlJqdkd5Vk5V?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -494,6 +494,16 @@
       }
     },
     {
+      "id": "db5e5ef8605c",
+      "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
+      "published": "2026-02-17T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "f92665691e36",
       "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
@@ -504,12 +514,12 @@
       }
     },
     {
-      "id": "0795f6a8691c",
-      "title": "Studie: PFAS bei vielen Medikamenten verzichtbar - pharmazeutische-zeitung.de",
+      "id": "829639537db1",
+      "title": "Studie: PFAS bei vielen Medikamenten verzichtbar - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXR2b0g0aUQyTEM1RHV3aWcwbWgzeXgwZ0NjRHEwZUZtSVp2djRlQjAyV21vQWRSTldVOFZkT0ZoejZlRlpCc3h4VlVDaldIOW1KZHB4RUVnTDh4V3RMTmx5aDV1QWFKdWxhRzk4S1hRUERxdFpoZUdPNHdpR29yOGFrd0lmUUR0VmxPa0lGX2w?oc=5",
       "published": "2026-06-04T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -544,12 +554,12 @@
       }
     },
     {
-      "id": "46397d4d7a84",
-      "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - pharmazeutische-zeitung.de",
+      "id": "d9edf968b2d7",
+      "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
       "published": "2026-03-30T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -584,12 +594,12 @@
       }
     },
     {
-      "id": "bc07811777fa",
-      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - pharmazeutische-zeitung.de",
+      "id": "5fd73dc2932c",
+      "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
       "published": "2026-05-27T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -614,12 +624,12 @@
       }
     },
     {
-      "id": "cab2d4e79d26",
-      "title": "Erstattung: Gericht sieht Abnehmspritze als Lifestyle-Medikament - pharmazeutische-zeitung.de",
+      "id": "8dce1ff85348",
+      "title": "Erstattung: Gericht sieht Abnehmspritze als Lifestyle-Medikament - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdThMaUs3T0FfWmlEYnNHWkw3VHVTX3R4MUptMEUySkkwZk1OY19nU0xZcF9KT0IweUNoTzhzV2RkUUJhRl9Jdk8zTTgxeHlTbmV6a1R3NUx2ZDc1c0RMSVcyLU9NazE5aURIaW1FTzZhUTQ3U2JmQkhydXRHUEZXR1pGX0ZUODFRaWh0S3RDdzIxQ2hOMkZMc0VaZWdsTVlw?oc=5",
       "published": "2026-05-11T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -644,12 +654,12 @@
       }
     },
     {
-      "id": "095db588117c",
-      "title": "»Ge­ra­de in der Apo­the­ke wird Ge­sund­heit ge­lebt« - pharmazeutische-zeitung.de",
+      "id": "8308fd9ff3ea",
+      "title": "»Ge­ra­de in der Apo­the­ke wird Ge­sund­heit ge­lebt« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI5Ni1Wb1RMSGlZbElwcDdtVjF5TzJBTVpUd0xoblBOUHl5UG8tcXlNY1FPTHBPbU5tT2J2S2VTRkFlZlVxejM2S3V6Ty14bHlXVmEtRmRPUnNoeEd0U3pWZlQ5SlZjNGF3bnhWWGF0M2h5MHVSaFZRZjBZZy1KOEZva1l2N1dzbkF0Q2dvRUc1SVN3OVVF?oc=5",
       "published": "2026-03-19T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -674,12 +684,12 @@
       }
     },
     {
-      "id": "a6b06ffed50f",
-      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - pharmazeutische-zeitung.de",
+      "id": "3ebb0c2080d6",
+      "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
       "published": "2026-07-02T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -694,22 +704,22 @@
       }
     },
     {
-      "id": "46e1933e90dc",
-      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - pharmazeutische-zeitung.de",
+      "id": "a43852bf5366",
+      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
       "published": "2026-04-02T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
-      "id": "a4032b3403be",
-      "title": "Krisenfall: Schwaches Gesundheitssystem, schwacher Staat - pharmazeutische-zeitung.de",
+      "id": "2aa053163d77",
+      "title": "Krisenfall: Schwaches Gesundheitssystem, schwacher Staat - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0JucXpoc0ZtZjFpUHphX3JmWF84RDd1ZXhfc1Z1MW9oVEtYRUdOTzZ1NVhBdnZMVE8wRTBQQ01hZzRicDBrRXdaRlhCcnFLRjdZblNoYmxMSGhXOEYtNjJ3aHVYZm93MjRHSEhvNDEwUXp6YmZhUjl2eTNLNlJ4T2Z5ejc4UDgzUHdKU0dOQjRJUDBp?oc=5",
       "published": "2026-04-22T07:00:00+00:00",
       "source": {
-        "name": "pharmazeutische-zeitung.de",
+        "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
@@ -774,12 +784,12 @@
       }
     },
     {
-      "id": "00273f0d116c",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - watson.ch",
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
       "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
@@ -824,16 +834,6 @@
       }
     },
     {
-      "id": "bfaa55a07020",
-      "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0k1d1FLSG9YQWVIaVZLYzc3NlUzdURKM2FHc2tZR25lQlVMWFZxcndHM3hNbmRSMTRNZ1JWc2Y2WFpURWs2cDE1Mk5fdXpVb0pLbFFZc0RGSzNXajY2NC1sVlVlcXVkZ2RUeW9keW02UlYxMGFlU3FTVVo5a3RhV09KLTF3Qy01bnpxTGd1MHhOYW5fTURPLTVNa1cwZmM5by1zNmczdUZBVUZ0Ymtrd1hBVi04VS02V08zRkJucTVMSXZUR2Jtd3hZMVF1WkpXdnc?oc=5",
-      "published": "2024-01-31T08:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "4254b7710513",
       "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
@@ -841,6 +841,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "bfaa55a07020",
+      "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0k1d1FLSG9YQWVIaVZLYzc3NlUzdURKM2FHc2tZR25lQlVMWFZxcndHM3hNbmRSMTRNZ1JWc2Y2WFpURWs2cDE1Mk5fdXpVb0pLbFFZc0RGSzNXajY2NC1sVlVlcXVkZ2RUeW9keW02UlYxMGFlU3FTVVo5a3RhV09KLTF3Qy01bnpxTGd1MHhOYW5fTURPLTVNa1cwZmM5by1zNmczdUZBVUZ0Ymtrd1hBVi04VS02V08zRkJucTVMSXZUR2Jtd3hZMVF1WkpXdnc?oc=5",
+      "published": "2024-01-31T08:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
       }
     },
     {
@@ -864,12 +874,12 @@
       }
     },
     {
-      "id": "00163a97bcb9",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - watson.ch",
+      "id": "375374e60cfb",
+      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
       "published": "2025-12-02T08:00:00+00:00",
       "source": {
-        "name": "watson.ch",
+        "name": "Watson",
         "url": "https://www.watson.ch"
       }
     },
@@ -884,12 +894,12 @@
       }
     },
     {
-      "id": "445f92c7e54b",
-      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
+      "id": "c4a8865d7816",
+      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - ndr.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
       "published": "2025-09-16T07:00:00+00:00",
       "source": {
-        "name": "NDR.de",
+        "name": "ndr.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -904,12 +914,12 @@
       }
     },
     {
-      "id": "d46f6ce1c2b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
+      "id": "3df13db287b9",
+      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - ndr.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
       "published": "2025-09-23T07:00:00+00:00",
       "source": {
-        "name": "NDR.de",
+        "name": "ndr.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
-      }
-    },
-    {
-      "id": "a0a39a540d38",
-      "title": "Ein nachhaltiges Gesundheitswesen muss für alle Stakeholder funktionieren - Bristol Myers Squibb",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDZ1ZzlydDNXTlhWWGphODYtUFcxNkFSMzhFUlMzeVJKYWMtOEZSdjVqT1VJa21lal9NMjRTTkNDeVpXVkFBcEI2ZWJGREtnclZZU0R2RnI5YlJHQWlWS0Mwc1RpVXF3T3laX3RRRi0tTjlzTGRUY3NCSThUZnJ3NGJKR3paNDBHalJDdWI4bkV6MmJmbFVlYnhoR1Q2RTBrSVVJ?oc=5",
-      "published": "2025-03-26T07:00:00+00:00",
-      "source": {
-        "name": "Bristol Myers Squibb",
-        "url": "https://www.bms.com"
       }
     }
   ]
