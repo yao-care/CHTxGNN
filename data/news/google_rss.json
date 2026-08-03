@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T20:23:42.568421+00:00",
+  "fetched_at": "2026-08-03T22:04:06.987443+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,12 +64,12 @@
       }
     },
     {
-      "id": "e37c6e8e01d3",
-      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
+      "id": "da2a14035471",
+      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - infosperber.ch",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
       "published": "2026-07-29T07:32:00+00:00",
       "source": {
-        "name": "Infosperber",
+        "name": "infosperber.ch",
         "url": "https://www.infosperber.ch"
       }
     },
@@ -194,16 +194,6 @@
       }
     },
     {
-      "id": "8d6c0a6ead93",
-      "title": "Shop Apotheke: Zäpfchen schmelzen in Packstation - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDNQUWpGZ0FTeFZEQ1oxaHF2ZTRqWnNuZ0tkTHp1R1dCZHlYSTZweU5NVno0cGQtbkFadGFoUTAweUlMSmYwQ1ZxaUlBckMxcFp4cUtINllkRmpYRXpzM01LWnJmZU5mU2szcVROY0ZMTURyVzFHZHRPbDFWYnFNR2hjU3FoRW0x?oc=5",
-      "published": "2026-08-03T07:25:22+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "c8b850eb6851",
       "title": "Keytruda – das Milliarden-Märchen eines Pharmakonzerns? - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ005MFpPNzJ1RTBHNDJYMnloM1k3UVNuTXNYcUl5UFB2RVVVbERxT3RQZzdxWjBOc1NIaW1kbE05M3Q1MmRLc21tMFlrcWFiUVZYMHVZZGxFczZ4YlJtZE5zOHNzWGs4aEJYc1RSNDJBaktQY3AtUlRzbWszcmZPbkdWYThNa2JvTkdWVGE2b2FiRlpSOXZwdHhWQTg?oc=5",
@@ -211,6 +201,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "8d6c0a6ead93",
+      "title": "Shop Apotheke: Zäpfchen schmelzen in Packstation - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDNQUWpGZ0FTeFZEQ1oxaHF2ZTRqWnNuZ0tkTHp1R1dCZHlYSTZweU5NVno0cGQtbkFadGFoUTAweUlMSmYwQ1ZxaUlBckMxcFp4cUtINllkRmpYRXpzM01LWnJmZU5mU2szcVROY0ZMTURyVzFHZHRPbDFWYnFNR2hjU3FoRW0x?oc=5",
+      "published": "2026-08-03T07:25:22+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -334,6 +334,16 @@
       }
     },
     {
+      "id": "054c2beef78c",
+      "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": {
+        "name": "Fortune Business Insights",
+        "url": "https://www.fortunebusinessinsights.com"
+      }
+    },
+    {
       "id": "a48a34dcb337",
       "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
@@ -341,16 +351,6 @@
       "source": {
         "name": "Jüdische Allgemeine",
         "url": "https://www.juedische-allgemeine.de"
-      }
-    },
-    {
-      "id": "6a1bab83b637",
-      "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - fortunebusinessinsights.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
-      "published": "2026-06-29T07:00:00+00:00",
-      "source": {
-        "name": "fortunebusinessinsights.com",
-        "url": "https://www.fortunebusinessinsights.com"
       }
     },
     {
@@ -454,32 +454,32 @@
       }
     },
     {
-      "id": "20a64d917dfc",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
+      "id": "b35e16b362c0",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - morgenpost.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
       "published": "2026-03-22T07:00:00+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
+        "name": "morgenpost.de",
         "url": "https://www.morgenpost.de"
       }
     },
     {
-      "id": "09e9d0a2ff53",
-      "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
+      "id": "357e06fb00a3",
+      "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
       "published": "2026-04-13T07:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
     {
-      "id": "ccb310d629ed",
-      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
+      "id": "9441e66b566b",
+      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - infosperber.ch",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
       "published": "2026-04-19T07:00:00+00:00",
       "source": {
-        "name": "Infosperber",
+        "name": "infosperber.ch",
         "url": "https://www.infosperber.ch"
       }
     },
@@ -534,12 +534,12 @@
       }
     },
     {
-      "id": "1f4441bb42a2",
-      "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - DIE ZEIT",
+      "id": "ab385b82f30b",
+      "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDQ4aUF0OUVjbTB5LXZPc1JjcGo2U2RMUHdCNlpmQXV3RHFQeHJfRHlGcUZxVDRjZEVZV21TRmRTalZTdU9WN1RWeFREc212am9oREtTNjNBU0o5dW51RHM3US1WOXdFbWtnZ1RwM2diM21uTkVRN25HTVc1ZjNiM2Vhc0FjYXlBd1FadUM2RGd0UkEyalBmUWNpcmxMNTV3dUswMGlQSQ?oc=5",
       "published": "2026-02-19T08:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
@@ -564,22 +564,22 @@
       }
     },
     {
-      "id": "375374e60cfb",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
+      "id": "f92665691e36",
+      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "Tagesspiegel",
+        "url": "https://www.tagesspiegel.de"
       }
     },
     {
-      "id": "2a88ab722e68",
-      "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - WiWo",
+      "id": "6e4d3cdd90b2",
+      "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - wiwo.de",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEkzamFzeFFHZEk3NjFIbFJmYjZvajlGOVMtcHo3aUZsWFlvdkcyMzFTODZXZFM1dWhNWU1lT3FVVDk4dlduRjBqV2paSEFVbkE2YWktMVJIanA4U3J2QW1rMnFtOUljc0pXb2hEbVNSWkxYdGlkRHRMRGE3aGpSYjlrU0FzN0RjN1dhWkJWZldkUmVpbm9xbXpSZmR3b0xGR2ZXQmdvVVZ4bWh5bmVNbkdOOU1rNEdiZElEc0NEeDE3LXpqVkE?oc=5",
       "published": "2026-04-16T07:00:00+00:00",
       "source": {
-        "name": "WiWo",
+        "name": "wiwo.de",
         "url": "https://www.wiwo.de"
       }
     },
@@ -594,6 +594,16 @@
       }
     },
     {
+      "id": "375374e60cfb",
+      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
+      "published": "2025-12-02T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "b9c0e221906c",
       "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3liNnk4SkJYQlFSbXZSWEpPNmpPdWJzM3hjUzdOaU81cTdHMGZRWUFVT01BVUFZMU1aV0Q4cGpwZjB0cWswVVBfU1RNRkxUaTJTeFRSSXU2NHdFTGhQUkVsQjNRR2tpTWRjTkR1VmRNRHpXQVFQRDR6YVNxLXRkT0hMdFFQb3dpdDZrZHdWTzJldW9KTmZhOTJCNW5mcjJBWUl4U0d0UHR1UVR0SWxfT2R5N3R5RmRJS2NkZ01VdHdLNUd2a2EycQ?oc=5",
@@ -604,43 +614,33 @@
       }
     },
     {
-      "id": "f92665691e36",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
-      }
-    },
-    {
-      "id": "a2149f852b2d",
-      "title": "Apolife-Chef: „Wir Apotheken stecken im Schwitzkasten“ - Kurier",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQakpIYjdPMXVyakQ2TjBRZWpqTldERVVBVzJRWGFTLTJBT0NzejI4dXlnN2RlM09xWTJrTk9ueVRUS3o5OEJPVWNnbzEzazVRNmdaekpGck5qMzBGMEpFWHhMTFU1d0tkZDZTWHVTVlUzMUg0eWtzdlNadTlYOUxXNFI3TTI5QQ?oc=5",
-      "published": "2026-08-03T03:05:00+00:00",
-      "source": {
-        "name": "Kurier",
-        "url": "https://kurier.at"
-      }
-    },
-    {
-      "id": "d04f77528724",
-      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - DIE ZEIT",
+      "id": "090f2adcf4c5",
+      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnNYX0ZIOXRaeWxnUDA2UTMwRG5DVmhTUmNKWlNTRTJQLVNWbDAzaXpIY2FEQ0dzaTRFYzNPSE9zUEVfU2F1WkZoZmt3NWhMMkI2VkhwbU9maWFPdnBnRXdKOU8taHRHakljeUstTHlNRUxGbVNQQ3dQckcwSlhIZnZYLVFmblBWeVhVWC1NTmE3ZjhaY0x5Z092VC1Rd2tZa20wUlBxU2tpMlRrWkpnNFJYb3Jpdw?oc=5",
       "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
     {
-      "id": "566dd4d9d4e6",
-      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
+      "id": "600c09be124c",
+      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - morgenpost.de",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
       "published": "2026-04-28T07:00:00+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
+        "name": "morgenpost.de",
         "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "4f1eeceab428",
+      "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
       }
     },
     {
@@ -654,13 +654,13 @@
       }
     },
     {
-      "id": "4f1eeceab428",
-      "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
-      "published": "2026-04-13T07:00:00+00:00",
+      "id": "a2149f852b2d",
+      "title": "Apolife-Chef: „Wir Apotheken stecken im Schwitzkasten“ - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQakpIYjdPMXVyakQ2TjBRZWpqTldERVVBVzJRWGFTLTJBT0NzejI4dXlnN2RlM09xWTJrTk9ueVRUS3o5OEJPVWNnbzEzazVRNmdaekpGck5qMzBGMEpFWHhMTFU1d0tkZDZTWHVTVlUzMUg0eWtzdlNadTlYOUxXNFI3TTI5QQ?oc=5",
+      "published": "2026-08-03T03:05:00+00:00",
       "source": {
-        "name": "Spiegel",
-        "url": "https://www.spiegel.de"
+        "name": "Kurier",
+        "url": "https://kurier.at"
       }
     },
     {
@@ -804,12 +804,12 @@
       }
     },
     {
-      "id": "8c6176b8d248",
-      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WiWo",
+      "id": "4caf97f61420",
+      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - wiwo.de",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
       "published": "2026-05-05T07:00:00+00:00",
       "source": {
-        "name": "WiWo",
+        "name": "wiwo.de",
         "url": "https://www.wiwo.de"
       }
     },
@@ -854,16 +854,6 @@
       }
     },
     {
-      "id": "73821728fb6f",
-      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
-      "published": "2025-11-02T07:00:00+00:00",
-      "source": {
-        "name": "SWR",
-        "url": "https://www.swr.de"
-      }
-    },
-    {
       "id": "5fd73dc2932c",
       "title": "Menschen und Arzneimittel: Hitze gefährdet alle - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOVJuZkZFZTdsNFlWTmNONVQxN2ZFbnh0M045WmxqeGV6cHZ4Z1c4Z2xnYjkwUXNUcTJvWkptS0NHUUxocGIwZm04ejc3TFM2ZU5hNmtlZUtjQ2VTMWwtcEtRX0YxSXdCcE5UY252Z2dHWURtVGxn?oc=5",
@@ -891,6 +881,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "73821728fb6f",
+      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
+      "published": "2025-11-02T07:00:00+00:00",
+      "source": {
+        "name": "SWR",
+        "url": "https://www.swr.de"
       }
     },
     {
@@ -954,33 +954,23 @@
       }
     },
     {
-      "id": "091a002ed2d2",
-      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
+      "id": "a8d3c592ea71",
+      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
       "published": "2025-09-17T07:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
     {
-      "id": "122aa3046374",
-      "title": "EU-Generalanwalt: Versandverbot nein, aber ... - apotheke-adhoc.de",
+      "id": "03505c881614",
+      "title": "EU-Generalanwalt: Versandverbot nein, aber ... - Apotheke Adhoc",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGRRUFJ5MDV6WGZaTE84UlB3SU83OElpQ2dBVXJTMFRLWWFlSmN0alJ0eS1ZdF9zN09MZUhESFJDd2J1TVNQeHZRQ1ZLMVNtMC1OSm9DV01oVXhWVzRtOENHbUpnRE10akgwUnRyRmkzckZ1UFhIb05aM1ZLcVN1WkFKRUVRd3VaaWpZVUdraVRVdUtER2tIc1FjTWFqS3VIY0IzeERfWnJ4UQ?oc=5",
       "published": "2026-01-13T08:00:00+00:00",
       "source": {
-        "name": "apotheke-adhoc.de",
+        "name": "Apotheke Adhoc",
         "url": "https://www.apotheke-adhoc.de"
-      }
-    },
-    {
-      "id": "51e07fadcfcf",
-      "title": "Adipositas-Spritzen: G-BA signalisiert Offenheit für GKV-Erstattung - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVE3SVRZYWpYbmowa3NxamNiMEJZU1Ffa1NaYnhhVlB5OEE3Ml96el9EMzhLUTZLVF9JV19rOHRyTHRfeVRhVDFiTFB4SndHNzdtUU9VMjA1Vm1Nc1ZxcXpkNEJReGJzZDE1R3lkYkNDMHJoSkV6azhpNzIxS0FvcS1fQXVyQ3ZQZXc0Rksxd0FrQ0xvSkkwR2pYQTRNMUZmaWNDelpJc2I0UGxhWUFMai1pUFRBaHM?oc=5",
-      "published": "2026-08-03T18:19:15+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -991,6 +981,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "51e07fadcfcf",
+      "title": "Adipositas-Spritzen: G-BA signalisiert Offenheit für GKV-Erstattung - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVE3SVRZYWpYbmowa3NxamNiMEJZU1Ffa1NaYnhhVlB5OEE3Ml96el9EMzhLUTZLVF9JV19rOHRyTHRfeVRhVDFiTFB4SndHNzdtUU9VMjA1Vm1Nc1ZxcXpkNEJReGJzZDE1R3lkYkNDMHJoSkV6azhpNzIxS0FvcS1fQXVyQ3ZQZXc0Rksxd0FrQ0xvSkkwR2pYQTRNMUZmaWNDelpJc2I0UGxhWUFMai1pUFRBaHM?oc=5",
+      "published": "2026-08-03T18:19:15+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
