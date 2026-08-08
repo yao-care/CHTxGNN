@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T06:42:51.912086+00:00",
+  "fetched_at": "2026-08-08T07:44:30.194000+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -364,12 +364,12 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -394,16 +394,6 @@
       }
     },
     {
-      "id": "b85d988eb663",
-      "title": "Zivilisationskrankheiten in Deutschland: Pillen statt Prävention - Weser Kurier",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQjhaekdRU2haU21JMGlySVk1X1JJb2gzbkNSU08wNkQxanpOMmpiektrbWVNSDVhemo0cHlhUWhZdXVkLWVQN3RKTm1OMHBCdHdNV0U4bFFFa1ZuR2RJNGVWUXhZRVVtTGx6QlNuMVl6LUlFZHdMdDlRVklJbDFBOGVUT29PbVRWODl0b3pFVVBMNXlURjFfOVNnUDlyblAwNVhMVk1TS3Fmbk1jSVlaYktPaHBUWjg4dFdYRk92a28wRlg5S2ZLNExn?oc=5",
-      "published": "2026-08-05T03:00:00+00:00",
-      "source": {
-        "name": "Weser Kurier",
-        "url": "https://www.weser-kurier.de"
-      }
-    },
-    {
       "id": "44a936f3300e",
       "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openpetition.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
@@ -411,6 +401,16 @@
       "source": {
         "name": "openpetition.de",
         "url": "https://www.openpetition.de"
+      }
+    },
+    {
+      "id": "b85d988eb663",
+      "title": "Zivilisationskrankheiten in Deutschland: Pillen statt Prävention - Weser Kurier",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQjhaekdRU2haU21JMGlySVk1X1JJb2gzbkNSU08wNkQxanpOMmpiektrbWVNSDVhemo0cHlhUWhZdXVkLWVQN3RKTm1OMHBCdHdNV0U4bFFFa1ZuR2RJNGVWUXhZRVVtTGx6QlNuMVl6LUlFZHdMdDlRVklJbDFBOGVUT29PbVRWODl0b3pFVVBMNXlURjFfOVNnUDlyblAwNVhMVk1TS3Fmbk1jSVlaYktPaHBUWjg4dFdYRk92a28wRlg5S2ZLNExn?oc=5",
+      "published": "2026-08-05T03:00:00+00:00",
+      "source": {
+        "name": "Weser Kurier",
+        "url": "https://www.weser-kurier.de"
       }
     },
     {
@@ -514,12 +514,12 @@
       }
     },
     {
-      "id": "877ce8f34648",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - tagesspiegel.de",
+      "id": "f92665691e36",
+      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "tagesspiegel.de",
+        "name": "Tagesspiegel",
         "url": "https://www.tagesspiegel.de"
       }
     },
@@ -624,16 +624,6 @@
       }
     },
     {
-      "id": "ca3fbb8f0e20",
-      "title": "SPD macht Arzneimittelversorgung zur Sicherheitsfrage - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUx0Nm5DX2dXSFptbnJSOFlNVzVxaHpReWZiSVVVb0JMSnFzR3dVOHdiYzVEOGRaczRySGhxSVI3TlJOa3BJdzRyejl3bEhObFE0WWxKTVJ4NFd4MVJ2eW43RFF5dUFrNFNlTnZnZWZaVXRoMk14VlZPVi0yREtsa2ZIOURjQUpvNVZSMlV5cw?oc=5",
-      "published": "2026-07-09T10:41:12+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "3ebb0c2080d6",
       "title": "Betriebsfähigkeit: Lageso mahnt Apotheken zu Temperaturkontrollen - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEM4X295eTdhRHlSR0k5S0MwMm1pSnZhamI1OWFaMGJnaURSLU5fdnB4aVJBNHRVd1RmMzdkM3ZUTk84ekFWUDhtT1pURUVMeFlnV3pRNTFfb0N2eFd6MHpPX1pQa0x4RnRneURZenNEQ0k0NDQxVWdEcW9XdkcwVTdFX3dvcU1zWEZCaFVsbjQ0V2cwVjRUbg?oc=5",
@@ -641,6 +631,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "ca3fbb8f0e20",
+      "title": "SPD macht Arzneimittelversorgung zur Sicherheitsfrage - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUx0Nm5DX2dXSFptbnJSOFlNVzVxaHpReWZiSVVVb0JMSnFzR3dVOHdiYzVEOGRaczRySGhxSVI3TlJOa3BJdzRyejl3bEhObFE0WWxKTVJ4NFd4MVJ2eW43RFF5dUFrNFNlTnZnZWZaVXRoMk14VlZPVi0yREtsa2ZIOURjQUpvNVZSMlV5cw?oc=5",
+      "published": "2026-07-09T10:41:12+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -944,12 +944,12 @@
       }
     },
     {
-      "id": "b62b55828808",
-      "title": "Medikamente in der Online- oder Offline-Apotheke kaufen? - de.statista.com",
+      "id": "bf4677339511",
+      "title": "Medikamente in der Online- oder Offline-Apotheke kaufen? - Statista",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDByRFg3TzdRckNmUlZFTHlDcV9uaVBDbHdNSTBmclFnU25WZmg1WVhwcUZKRm9hNlhOdVgzSE5tWWZUNlZxcFJFVEVwUVhRUkdmb1NwSEdiZkxZLWZBcW5LNk52dHBpLXFEU1FYcGRWeGcwUi11MURVRk1Nc240TnFEeEsyZThnWnBwZ1hiQ2M5cmt6ODZCRF9raV9jZlpIeFdfb3NTQXI2R0RSSnBF0gG0AUFVX3lxTE8tT1ZPcHpINi12SFg3eVgtM3BZMFVhMHRNQmZvdzJ3NTZSRUZUb3REdHpWaG1leld5QkN4N0xaWUVYcHotM0J2SVNTWUJVQmtxcmVxRTVILVY0LW1iUWp4QTVkSmg5QkE1NHhrZmUtZ1RRenRKR1ZSTktxeGVDVnJUZ2pvbmR5NHlnUzlHQ1BVaUtOMmxIOE9QTlVrQVFIc21FdW9PR0UxU19PZlJnbGJyZjdPbg?oc=5",
       "published": "2025-09-26T07:00:00+00:00",
       "source": {
-        "name": "de.statista.com",
+        "name": "Statista",
         "url": "https://de.statista.com"
       }
     },
