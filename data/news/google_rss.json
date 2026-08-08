@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T10:26:54.803511+00:00",
+  "fetched_at": "2026-08-08T11:23:38.315307+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,12 +84,12 @@
       }
     },
     {
-      "id": "1d15f3b6b9c3",
-      "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
+      "id": "71836b7b68f7",
+      "title": "Medikament online bestellen: Was (nicht) gespart werden kann - mdr.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
       "published": "2026-07-30T07:00:00+00:00",
       "source": {
-        "name": "MDR.de",
+        "name": "mdr.de",
         "url": "https://www.mdr.de"
       }
     },
@@ -264,12 +264,12 @@
       }
     },
     {
-      "id": "08f761ee3a89",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
+      "id": "edcf559b1a0c",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "Euronews",
         "url": "https://de.euronews.com"
       }
     },
@@ -294,16 +294,6 @@
       }
     },
     {
-      "id": "f64d3c34a74e",
-      "title": "Shop Apotheke: Zäpfchen schmelzen in Packstation - gesundheit-adhoc.de",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDNQUWpGZ0FTeFZEQ1oxaHF2ZTRqWnNuZ0tkTHp1R1dCZHlYSTZweU5NVno0cGQtbkFadGFoUTAweUlMSmYwQ1ZxaUlBckMxcFp4cUtINllkRmpYRXpzM01LWnJmZU5mU2szcVROY0ZMTURyVzFHZHRPbDFWYnFNR2hjU3FoRW0x?oc=5",
-      "published": "2026-08-03T07:25:22+00:00",
-      "source": {
-        "name": "gesundheit-adhoc.de",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "e4d74f6ebf64",
       "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
@@ -311,6 +301,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "f64d3c34a74e",
+      "title": "Shop Apotheke: Zäpfchen schmelzen in Packstation - gesundheit-adhoc.de",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDNQUWpGZ0FTeFZEQ1oxaHF2ZTRqWnNuZ0tkTHp1R1dCZHlYSTZweU5NVno0cGQtbkFadGFoUTAweUlMSmYwQ1ZxaUlBckMxcFp4cUtINllkRmpYRXpzM01LWnJmZU5mU2szcVROY0ZMTURyVzFHZHRPbDFWYnFNR2hjU3FoRW0x?oc=5",
+      "published": "2026-08-03T07:25:22+00:00",
+      "source": {
+        "name": "gesundheit-adhoc.de",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -384,22 +384,22 @@
       }
     },
     {
-      "id": "44a936f3300e",
-      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openpetition.de",
+      "id": "bb553491699c",
+      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openPetition",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
       "published": "2026-04-27T15:29:32+00:00",
       "source": {
-        "name": "openpetition.de",
+        "name": "openPetition",
         "url": "https://www.openpetition.de"
       }
     },
     {
-      "id": "b85d988eb663",
-      "title": "Zivilisationskrankheiten in Deutschland: Pillen statt Prävention - Weser Kurier",
+      "id": "aa03356cd5cb",
+      "title": "Zivilisationskrankheiten in Deutschland: Pillen statt Prävention - weser-kurier.de",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQjhaekdRU2haU21JMGlySVk1X1JJb2gzbkNSU08wNkQxanpOMmpiektrbWVNSDVhemo0cHlhUWhZdXVkLWVQN3RKTm1OMHBCdHdNV0U4bFFFa1ZuR2RJNGVWUXhZRVVtTGx6QlNuMVl6LUlFZHdMdDlRVklJbDFBOGVUT29PbVRWODl0b3pFVVBMNXlURjFfOVNnUDlyblAwNVhMVk1TS3Fmbk1jSVlaYktPaHBUWjg4dFdYRk92a28wRlg5S2ZLNExn?oc=5",
       "published": "2026-08-05T03:00:00+00:00",
       "source": {
-        "name": "Weser Kurier",
+        "name": "weser-kurier.de",
         "url": "https://www.weser-kurier.de"
       }
     },
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "a91bce131989",
-      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
-      "published": "2026-07-10T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "877ce8f34648",
       "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - tagesspiegel.de",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
@@ -514,12 +504,22 @@
       }
     },
     {
-      "id": "6e4d3cdd90b2",
-      "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - wiwo.de",
+      "id": "a91bce131989",
+      "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "2a88ab722e68",
+      "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - WiWo",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEkzamFzeFFHZEk3NjFIbFJmYjZvajlGOVMtcHo3aUZsWFlvdkcyMzFTODZXZFM1dWhNWU1lT3FVVDk4dlduRjBqV2paSEFVbkE2YWktMVJIanA4U3J2QW1rMnFtOUljc0pXb2hEbVNSWkxYdGlkRHRMRGE3aGpSYjlrU0FzN0RjN1dhWkJWZldkUmVpbm9xbXpSZmR3b0xGR2ZXQmdvVVZ4bWh5bmVNbkdOOU1rNEdiZElEc0NEeDE3LXpqVkE?oc=5",
       "published": "2026-04-16T07:00:00+00:00",
       "source": {
-        "name": "wiwo.de",
+        "name": "WiWo",
         "url": "https://www.wiwo.de"
       }
     },
@@ -564,12 +564,12 @@
       }
     },
     {
-      "id": "5d8c89f1b6f0",
-      "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
+      "id": "fd0abc78a0e7",
+      "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - mdr.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
       "published": "2026-04-26T07:00:00+00:00",
       "source": {
-        "name": "MDR.de",
+        "name": "mdr.de",
         "url": "https://www.mdr.de"
       }
     },
@@ -594,12 +594,12 @@
       }
     },
     {
-      "id": "4caf97f61420",
-      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - wiwo.de",
+      "id": "8c6176b8d248",
+      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WiWo",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
       "published": "2026-05-05T07:00:00+00:00",
       "source": {
-        "name": "wiwo.de",
+        "name": "WiWo",
         "url": "https://www.wiwo.de"
       }
     },
@@ -764,12 +764,12 @@
       }
     },
     {
-      "id": "59d03ee6896b",
-      "title": "Medikamente ohne Zuzahlung können ungesunde Nebenwirkungen haben - MDR.de",
+      "id": "7017bc3a42ba",
+      "title": "Medikamente ohne Zuzahlung können ungesunde Nebenwirkungen haben - mdr.de",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1BRZ1RkZDlsQTQtUVVvek1KQlI2S2I5eUVpaHh0cGxseUJubDAxX01JeC1qRmczWTNSYWdhSnNMa3FGY2M3ZlcxVFo5UXpVMUt5RUw2T3VJMXZmdTlKOTYtaGtzY1EzZFpSVVM2UWY3YXpjM3lMOU8wMlJRbnlJY1FuTXcyMURpdHBsaVFvSDBmSm9NaGwtR3BWUEQ0c2FsTmpuZ3VnX2RkM05weXYtZkRxY2VZV3ZBWUp0OFk4RVd5MUFjZExvLXJKUjBXdWMzQzVud1RR?oc=5",
       "published": "2026-02-12T08:00:00+00:00",
       "source": {
-        "name": "MDR.de",
+        "name": "mdr.de",
         "url": "https://www.mdr.de"
       }
     },
@@ -904,12 +904,12 @@
       }
     },
     {
-      "id": "7223dff6ff9e",
-      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews.com",
+      "id": "ae0d47394c9c",
+      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjhQS01ta3Y4VGFuVFEzZDhuanczU2hVNWJvM1BlMzlNTEJIeGNreGM5cHVWVy1rTUtlODE3alItNUdFOWlOUURwT0hsMjFSZEVQai1sTTBIWHhWaGpSWkZubGo1WFNhQjFVa05MQzNzNW1UbXpzYlZodGc0WjFmYW9FSTUwZzlTRGdkbFlZamZJVTQ3bnBtZHVwNE01QnFINmxIRFhpVmxDMmlKNEU4SGJR?oc=5",
       "published": "2025-11-03T08:00:00+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "Euronews",
         "url": "https://de.euronews.com"
       }
     },
