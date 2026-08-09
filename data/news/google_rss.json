@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T08:36:05.449538+00:00",
+  "fetched_at": "2026-08-09T09:34:02.376570+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "e198bcd85fa9",
-      "title": "Die neue Abnehmpille: Wer von ihr profitiert und welche Risiken sie birgt - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGNabm9fNF9IS0JmYndYUFpUZXJqYnJxOXlWWk9LVk5Uc3FQYUZzaFJkVFRLZXdPUnBqSUVfbTFETmJueXpTUU1xLUw0NEZJRVUtVnc0N0RlZzlkdERkSjd1UWIzWG05R09CM1Y4V1lqY2VWUmNrS1BXUkdnOG9PMzJaTkZTa3hMLW1sSzJOUGFsY20yd3pNUE12Nk4tYVctOVF3NTVXRVp3cjNm?oc=5",
-      "published": "2026-08-05T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "075a40db361f",
       "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "e198bcd85fa9",
+      "title": "Die neue Abnehmpille: Wer von ihr profitiert und welche Risiken sie birgt - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGNabm9fNF9IS0JmYndYUFpUZXJqYnJxOXlWWk9LVk5Uc3FQYUZzaFJkVFRLZXdPUnBqSUVfbTFETmJueXpTUU1xLUw0NEZJRVUtVnc0N0RlZzlkdERkSjd1UWIzWG05R09CM1Y4V1lqY2VWUmNrS1BXUkdnOG9PMzJaTkZTa3hMLW1sSzJOUGFsY20yd3pNUE12Nk4tYVctOVF3NTVXRVp3cjNm?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -224,12 +224,12 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "id": "33612beccf51",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "DW",
         "url": "https://www.dw.com"
       }
     },
@@ -324,12 +324,12 @@
       }
     },
     {
-      "id": "47d8610c16f3",
-      "title": "Online-Apotheken: Shopping mit Wechselwirkungen? - presseportal.de",
+      "id": "29f397942ed6",
+      "title": "Online-Apotheken: Shopping mit Wechselwirkungen? - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uWHRCTmxFRFhsTEpNcEoxTk1nUFBPZE5LMGFILXFMRXhYUWNmUTdXenJEdWRxUVRSN3RjNlc2NUp4TDlwX2J4ZlBtZi1PNm1VeWpMd2MyY1k?oc=5",
       "published": "2026-08-06T05:15:14+00:00",
       "source": {
-        "name": "presseportal.de",
+        "name": "Presseportal",
         "url": "https://www.presseportal.de"
       }
     },
@@ -384,12 +384,12 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -444,12 +444,12 @@
       }
     },
     {
-      "id": "bb553491699c",
-      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openPetition",
+      "id": "44a936f3300e",
+      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openpetition.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
       "published": "2026-04-27T15:29:32+00:00",
       "source": {
-        "name": "openPetition",
+        "name": "openpetition.de",
         "url": "https://www.openpetition.de"
       }
     },
@@ -484,12 +484,12 @@
       }
     },
     {
-      "id": "357e06fb00a3",
-      "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - zeit.de",
+      "id": "09e9d0a2ff53",
+      "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
       "published": "2026-04-13T07:00:00+00:00",
       "source": {
-        "name": "zeit.de",
+        "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
       }
     },
@@ -544,12 +544,12 @@
       }
     },
     {
-      "id": "ab385b82f30b",
-      "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - zeit.de",
+      "id": "1f4441bb42a2",
+      "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDQ4aUF0OUVjbTB5LXZPc1JjcGo2U2RMUHdCNlpmQXV3RHFQeHJfRHlGcUZxVDRjZEVZV21TRmRTalZTdU9WN1RWeFREc212am9oREtTNjNBU0o5dW51RHM3US1WOXdFbWtnZ1RwM2diM21uTkVRN25HTVc1ZjNiM2Vhc0FjYXlBd1FadUM2RGd0UkEyalBmUWNpcmxMNTV3dUswMGlQSQ?oc=5",
       "published": "2026-02-19T08:00:00+00:00",
       "source": {
-        "name": "zeit.de",
+        "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
       }
     },
@@ -614,22 +614,22 @@
       }
     },
     {
-      "id": "090f2adcf4c5",
-      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - zeit.de",
+      "id": "d04f77528724",
+      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnNYX0ZIOXRaeWxnUDA2UTMwRG5DVmhTUmNKWlNTRTJQLVNWbDAzaXpIY2FEQ0dzaTRFYzNPSE9zUEVfU2F1WkZoZmt3NWhMMkI2VkhwbU9maWFPdnBnRXdKOU8taHRHakljeUstTHlNRUxGbVNQQ3dQckcwSlhIZnZYLVFmblBWeVhVWC1NTmE3ZjhaY0x5Z092VC1Rd2tZa20wUlBxU2tpMlRrWkpnNFJYb3Jpdw?oc=5",
       "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "zeit.de",
+        "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
       }
     },
     {
-      "id": "f92665691e36",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
+      "id": "877ce8f34648",
+      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - tagesspiegel.de",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "Tagesspiegel",
+        "name": "tagesspiegel.de",
         "url": "https://www.tagesspiegel.de"
       }
     },
@@ -854,12 +854,12 @@
       }
     },
     {
-      "id": "fad88aff2400",
-      "title": "Arzneimittelausgaben steigen auf Rekordhoch Sieben Prozent der Medikamente verursachen mehr als die Hälfte der Kosten - Tagesspiegel",
+      "id": "abacee78c1f0",
+      "title": "Arzneimittelausgaben steigen auf Rekordhoch Sieben Prozent der Medikamente verursachen mehr als die Hälfte der Kosten - tagesspiegel.de",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeVh1VDdIZEd5TXZoV2hGdlRCOXNMcFBvMjMyYTRMeTF1TnVaVEg1dXY2SWtZNUhocnFnM2staDhwZnptemFfVGUxbFpIQ3JwNnhCSEREbmEwcmNRNHdSbENtemYwdmJHNVREYWQ2S2VQZVlNNVFGYlJhbGFfeWVySUFiY3lhQXNmZWxUQndTTXFHdGdRVHlQaVN5U1lSWlNLWUo3SDFOcjdyT3d5c0h4c0FMdWxra2hrekpJZDNGeDQ2c3NqVFdTSnJTNHZ3Mm1KeWkzLUZNMHJRTjROVEE5OUNrWW1yaTdLWkJvNG1oQ3dPU0MzTldsZXFNblVlQVE?oc=5",
       "published": "2025-12-09T08:00:00+00:00",
       "source": {
-        "name": "Tagesspiegel",
+        "name": "tagesspiegel.de",
         "url": "https://www.tagesspiegel.de"
       }
     },
@@ -964,12 +964,12 @@
       }
     },
     {
-      "id": "a8d3c592ea71",
-      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - zeit.de",
+      "id": "091a002ed2d2",
+      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
       "published": "2025-09-17T07:00:00+00:00",
       "source": {
-        "name": "zeit.de",
+        "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
       }
     },
@@ -994,12 +994,12 @@
       }
     },
     {
-      "id": "c186b4db6c10",
-      "title": "Teure Medikamente für 100-Jährige? Streecks Aussagen zu sehr alten Menschen stoßen auf Zuspruch und scharfe Kritik - Tagesspiegel",
+      "id": "5bc36274dc60",
+      "title": "Teure Medikamente für 100-Jährige? Streecks Aussagen zu sehr alten Menschen stoßen auf Zuspruch und scharfe Kritik - tagesspiegel.de",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclVaUzUxWl9ZNUVvOVZHTXhQdEtRQ205NGJtNU9TQTZTQWUxMVJPNzFsMHFZbXVIa2NfQ1JRSjJicV9YSGQ1dFVXcWFJa2ZZR1o5ZmNwcjA3TmxjRFRhb3ptX25MZzEwdWszclJpNThyUHc5VDFSX2NiTk8tc0tBOUJWcFV5RHhvMGYwa1FlbldHYVVpbHl3cUZ1N0ZseU1rSjFlb2N6WjJoeFQ4QXNhLU9oeTBYTkpDMzZ3NmFyQko1M2dKRzJtbWlfMVJyN2VaemdDMTQ1a19UcTlFOGI3NHRXeXo5STZ2Mi1vREpIWDg3VGlYbXl3?oc=5",
       "published": "2025-11-13T08:00:00+00:00",
       "source": {
-        "name": "Tagesspiegel",
+        "name": "tagesspiegel.de",
         "url": "https://www.tagesspiegel.de"
       }
     }
