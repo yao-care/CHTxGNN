@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T03:39:18.274046+00:00",
+  "fetched_at": "2026-08-11T05:02:30.003016+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "3ef1faabcc13",
-      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "9ced971ef53e",
       "title": "Finanzierung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "0e541b828955",
+      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTDFWNUZxWUU2WWg5amJnaTZ4aHV6LTVGamFHVnBYaUJabUZxY1lEdFhGaUNLMmlpWC1weWhjSkFiSXlqY2ZwQ1ZoeDJDUXc4OVBsN3NBWGRUMXMyazgweGE3bFpvRFIwX2QxNHVHdk9SWEowVGtGblU1d0dtaTQwTHA2ME1iM0JMREw2cW9OemtfRnBzTmt1Ymc4NFc0Q3FaRnkyeGdlZjdUNGdRazkyN3p4NVVsN09SZlRZNy1fVFNpNlQzWmU4N2ttTng2OUpnOHdfWGZhOTBfZXMyblFwNzZON3VOamlmSXlhRlhia25zbnkz?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -224,12 +224,12 @@
       }
     },
     {
-      "id": "467c2c350e23",
-      "title": "Die neue Abnehmpille: Wer von ihr profitiert und welche Risiken sie birgt - ndr.de",
+      "id": "e198bcd85fa9",
+      "title": "Die neue Abnehmpille: Wer von ihr profitiert und welche Risiken sie birgt - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGNabm9fNF9IS0JmYndYUFpUZXJqYnJxOXlWWk9LVk5Uc3FQYUZzaFJkVFRLZXdPUnBqSUVfbTFETmJueXpTUU1xLUw0NEZJRVUtVnc0N0RlZzlkdERkSjd1UWIzWG05R09CM1Y4V1lqY2VWUmNrS1BXUkdnOG9PMzJaTkZTa3hMLW1sSzJOUGFsY20yd3pNUE12Nk4tYVctOVF3NTVXRVp3cjNm?oc=5",
       "published": "2026-08-05T07:00:00+00:00",
       "source": {
-        "name": "ndr.de",
+        "name": "NDR.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "c459acd63d20",
-      "title": "Hitze und Arzneimittel: DHL fühlt sich nicht zuständig - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUh2SjhBemNBQ0ZTWkNwb1JPeXo1aXYyWVctc3Baemp3dVhkOWsyNW82S1hqaG03dFJzR0taVl9GNTUwaktxSV9NQUZqSXplckVKMzhqVU9jYUJCRXZIVWcydHpMVTh3YmFtOXI4a0ZUMUlremVMNWxMaERXZFduOG9obm1mVWJnNkR0czZOSzBqQQ?oc=5",
-      "published": "2026-08-05T09:15:47+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "bc82085c3a46",
       "title": "Erstmals in Europa: Drohne wirft Arzneimittel für Patienten ab - Medinside",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWk5QY2lfWEVwNVhyUThpMnI4SG5CUVUzUHVKOW1CekNHNWtsN3J2WkFwMTh4LU1UZEZIWjM3bWtacjYweU1PWXN2TEl6VkstaHRKNTRvcExnLS1hMnF6MDVsTWZpWjk0X2dzQWQ1RFJVMGZsODA3WEgzQkE2QmQzWXZQamdfT1ZWSXQ2NG9IaDFaZGtMcGRWY1hiU3ZJNzhF?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Medinside",
         "url": "https://www.medinside.ch"
+      }
+    },
+    {
+      "id": "c459acd63d20",
+      "title": "Hitze und Arzneimittel: DHL fühlt sich nicht zuständig - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUh2SjhBemNBQ0ZTWkNwb1JPeXo1aXYyWVctc3Baemp3dVhkOWsyNW82S1hqaG03dFJzR0taVl9GNTUwaktxSV9NQUZqSXplckVKMzhqVU9jYUJCRXZIVWcydHpMVTh3YmFtOXI4a0ZUMUlremVMNWxMaERXZFduOG9obm1mVWJnNkR0czZOSzBqQQ?oc=5",
+      "published": "2026-08-05T09:15:47+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -324,12 +324,12 @@
       }
     },
     {
-      "id": "edcf559b1a0c",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews",
+      "id": "08f761ee3a89",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -354,12 +354,12 @@
       }
     },
     {
-      "id": "6a3a426544ab",
-      "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - ndr.de",
+      "id": "198b0da65ee5",
+      "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWhsNWk1Tkc5MzNycUQ5RzhaaXhPTGlCcHJ1Yl9wajZ0VkV3akIxR255SUd6clB5aU5fZmNlUGZIcTVNanZlTmctSDJqUFB5Zk5XempaWnhrbDBlVWZuOE9xWDRSREhKRm5sa0lrbGVnVjl0TE5NNWtTY25CUzRmdG5jQlBZc1pFakFyT0hITHU5NmpfaUE?oc=5",
       "published": "2026-07-18T07:00:00+00:00",
       "source": {
-        "name": "ndr.de",
+        "name": "NDR.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -494,12 +494,12 @@
       }
     },
     {
-      "id": "8facb188a23e",
-      "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
+      "id": "1b9acbd549cc",
+      "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - link.springer.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
       "published": "2025-12-17T08:00:00+00:00",
       "source": {
-        "name": "Springer Nature Link",
+        "name": "link.springer.com",
         "url": "https://link.springer.com"
       }
     },
@@ -524,12 +524,12 @@
       }
     },
     {
-      "id": "20a64d917dfc",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
+      "id": "b35e16b362c0",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - morgenpost.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
       "published": "2026-03-22T07:00:00+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
+        "name": "morgenpost.de",
         "url": "https://www.morgenpost.de"
       }
     },
@@ -564,22 +564,22 @@
       }
     },
     {
-      "id": "499b248b85cd",
-      "title": "Ozempic und Wegovy: Studie weist auf überraschendes Risiko hin - Berliner Morgenpost",
+      "id": "bd9b3750aaea",
+      "title": "Ozempic und Wegovy: Studie weist auf überraschendes Risiko hin - morgenpost.de",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGtKeFNpVUpnLXZqQmN4TmVVSHlQcWt1QWxzWDJwNTZHRExHUE9KNlpFbG92TmJycWowa2RTM0QxRkltcklibmI4NTllSWN0SlA4dXVCQU94WlI4aHVRWmJlUUVleVEycnFPdHdlU0NzZ2l2V05zckNZajRRYzVSVUt3ZkdwR3dHWmxIRzR5WUlOTFFfeU5lZm9xbVZjbkFySl9JV1NGaU9NQVhSWWFJVGw2NEpWR3ZGdV9MMU5MOHYwZFBKTzg4OEY5SFFUZGhI?oc=5",
       "published": "2026-08-06T10:27:23+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
+        "name": "morgenpost.de",
         "url": "https://www.morgenpost.de"
       }
     },
     {
-      "id": "433cfaf12993",
-      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus.ch",
+      "id": "735d45108e1f",
+      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
       "published": "2026-02-21T08:00:00+00:00",
       "source": {
-        "name": "zentralplus.ch",
+        "name": "zentralplus",
         "url": "https://www.zentralplus.ch"
       }
     },
@@ -674,12 +674,12 @@
       }
     },
     {
-      "id": "566dd4d9d4e6",
-      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
+      "id": "600c09be124c",
+      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - morgenpost.de",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
       "published": "2026-04-28T07:00:00+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
+        "name": "morgenpost.de",
         "url": "https://www.morgenpost.de"
       }
     },
@@ -694,12 +694,12 @@
       }
     },
     {
-      "id": "ae0d47394c9c",
-      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews",
+      "id": "7223dff6ff9e",
+      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjhQS01ta3Y4VGFuVFEzZDhuanczU2hVNWJvM1BlMzlNTEJIeGNreGM5cHVWVy1rTUtlODE3alItNUdFOWlOUURwT0hsMjFSZEVQai1sTTBIWHhWaGpSWkZubGo1WFNhQjFVa05MQzNzNW1UbXpzYlZodGc0WjFmYW9FSTUwZzlTRGdkbFlZamZJVTQ3bnBtZHVwNE01QnFINmxIRFhpVmxDMmlKNEU4SGJR?oc=5",
       "published": "2025-11-03T08:00:00+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -744,12 +744,12 @@
       }
     },
     {
-      "id": "3df13db287b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - ndr.de",
+      "id": "d46f6ce1c2b9",
+      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
       "published": "2025-09-23T07:00:00+00:00",
       "source": {
-        "name": "ndr.de",
+        "name": "NDR.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -774,12 +774,12 @@
       }
     },
     {
-      "id": "c4a8865d7816",
-      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - ndr.de",
+      "id": "445f92c7e54b",
+      "title": "Wundermittel oder Wahnsinn? Der riskante Hype um Methylenblau - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjdVekdjMzQzUFRaQlJaZW5GM3l0bmZFay1iTWxoVXpOLWFfTkVQejhNU1FwSTR6Q1RETXRFYm56enYwNm8tZXBXZlRmb0JKalI4REI2dEVNcUh6NHhMMDBlTkNkOXRaTU1hS2ZXNWZhVnk3TUthaFpuTFh2c3NtVUNmcUtYc290bFI1MERTaDFjaXNNcDFpczNjX004TUV4MjBjdWFhM2F1dXF4bktZQWtvS0hGUHM?oc=5",
       "published": "2025-09-16T07:00:00+00:00",
       "source": {
-        "name": "ndr.de",
+        "name": "NDR.de",
         "url": "https://www.ndr.de"
       }
     },
@@ -801,16 +801,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "0791514ec89d",
-      "title": "Steigende Arzneimittelkosten: Gesundheitsministerin Warken will Zugang zu neuen Medikamenten für alle erhalten - MDR.de",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenF3ckVCSXl3ZmNka21FSTVtdkdoeGRZaEQ4Nnc4ZktKZk16U0ZUd19vYWRsZDdQUDZZLVFCd2k2anZScnRpSnJtXzRCbEozRm9fMEpkcVhjZ3dwT21zQVZPX2MybWdSUHBNeTZ3TmtESDFOWFNfM0lPV1Z4M3BmUTNkLTRfVGgxRUh4OWNOblh5ZGdCaUs5WXZmR2VVaVV5d1VHR1BHUFhubGtCWlFyZWk3VnhWZjdpWE9jNE5B?oc=5",
-      "published": "2025-12-09T08:00:00+00:00",
-      "source": {
-        "name": "MDR.de",
-        "url": "https://www.mdr.de"
       }
     },
     {
@@ -844,16 +834,6 @@
       }
     },
     {
-      "id": "4254b7710513",
-      "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
-      "published": "2025-08-19T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "8c6176b8d248",
       "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WiWo",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
@@ -871,6 +851,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "4254b7710513",
+      "title": "So kommen Medikamente auf den Schweizer Markt - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSE1QSzdTemNPazREYVpMcXpCLVNFeVV1RHU1aXVRWVVQemI4Rl8taEtqeVZPQTBGWVktV3RLTVgzRGV4NG9LQ2hSUVp2VF9zSkljVGxyNjFjdUUzdDFPSjBQWm1mcGhnQjJ4NUloQm1UU0t2Q3VDdU5zZ190ZmVseG9tZEdTQUF4TERDcVhsUTdnMkF2U3BoZmRCd00wY0FsUDhlTVNWb1A3alE?oc=5",
+      "published": "2025-08-19T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -904,12 +894,22 @@
       }
     },
     {
-      "id": "601c3008c0e2",
-      "title": "Erwerbstätige bekommen so viele Medikamente verschrieben wie noch nie - nordkurier.de",
+      "id": "85a03dbbfe05",
+      "title": "Wahlkampf Baden-Württemberg: Rülke: »Gute Gesundheit geht nur mit öffentlichen Apotheken« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDY3aENWRUZGTC15UlN4YlFuU0JEdUkxREFqNzQtN282NElEbHZWRlRveVpDTzFUTml2c1ZYNTFUWnliQl81SC1VdVctWUk2UGJ6UWI4cW82Z1IydG5iN2FUR21ST3gweUJNOW94VGxkemJuRC1tY2NvZERfVndyekRMbFc0TjVIdGJYUGVGVzJnOFRRNS1RamtZb1F5b2VseUNPRUowYmVKUQ?oc=5",
+      "published": "2026-02-03T08:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "06250e7ce690",
+      "title": "Erwerbstätige bekommen so viele Medikamente verschrieben wie noch nie - Nordkurier",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSi1EOW5qbXJJNmpVQS1HZ09OX0kzeUxfLWc3akJmQzhSWGs5M05rY2xDeV9VeWxrdXQ1ZEVGdzBXNUYyRENpOF9qSzRJMVFlTlJ0ZlEtWUlnMmNwQlZnZkkzdTlqa0h3TzUwLVJKbGczUkFfM2VuS09IMkotTzd5cW5Ybll3UVFnMVJyM2J3TVh4cUNGdWE5cmhBRjF6STYwZFlMQ3pUVEZ0V2QzZlFOcHZn?oc=5",
       "published": "2026-08-04T04:29:00+00:00",
       "source": {
-        "name": "nordkurier.de",
+        "name": "Nordkurier",
         "url": "https://www.nordkurier.de"
       }
     },
@@ -994,13 +994,13 @@
       }
     },
     {
-      "id": "85a03dbbfe05",
-      "title": "Wahlkampf Baden-Württemberg: Rülke: »Gute Gesundheit geht nur mit öffentlichen Apotheken« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDY3aENWRUZGTC15UlN4YlFuU0JEdUkxREFqNzQtN282NElEbHZWRlRveVpDTzFUTml2c1ZYNTFUWnliQl81SC1VdVctWUk2UGJ6UWI4cW82Z1IydG5iN2FUR21ST3gweUJNOW94VGxkemJuRC1tY2NvZERfVndyekRMbFc0TjVIdGJYUGVGVzJnOFRRNS1RamtZb1F5b2VseUNPRUowYmVKUQ?oc=5",
-      "published": "2026-02-03T08:00:00+00:00",
+      "id": "091a002ed2d2",
+      "title": "Arzneimittelengpässe: Rechnungshof sieht Risiko für Medikamentenengpässe in der EU - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejgweWNVRGltRU1FaUMtRF92NTF6czFQUGltbGp3TG9DM09seC1BSlM2eHgwaXNQaGl6R0hvWm9FdzRsbEZNVW4wUV9GM3p2eGtWeUUxQzBCbFNibE5MaFM2YTh3OG5UeHFwdV9oOHgzbUdUS2FYOUJyVmtaZzlLR2VkOV9mRklPSFlXZ2llR3Z6RG5Ra19uR2dpWEM?oc=5",
+      "published": "2025-09-17T07:00:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
       }
     }
   ]
