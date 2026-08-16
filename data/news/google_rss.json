@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T23:15:08.617124+00:00",
+  "fetched_at": "2026-08-16T01:01:42.615496+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "456d3ec09be9",
-      "title": "Krebskranker bekommt nach 18 Jahren Behandlung mit falschem Medikament 640.000 Euro Entschädigung - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWU40akNNQ2p2WU9ESHFxWHdjM3RBaXA2bDlYZXlTakZxd2xzYWVHaG9Hd1lMOUxNeFNlY0J0S1FnNWl6RkxHdXFfMlBQYWwwSDBYamVlckJVOEhCdmZZcDlnUmFxMkdXbExSakJ5X1ktVXR3Z1NJNGc3ai04RHpyT2tudzZrUEFSb1RTZ2dld2ZnUGsyZG5ULXdJeFJqLVlaOHhwWDJwdWdkaC1LeUMzSDdwWUxOQVNtVkRJbDdQZmRxTGR4TFduSlJMa1lsV0U0c0h6NFlRZzlWQ1dwZnRtc3o0UndIS21DTi1GeW5mbzRxazVXMGtCUmdhd3hvbEdyN1I1a2pITnNldEYtQzRrSGR3?oc=5",
-      "published": "2026-08-15T09:41:00+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
-      }
-    },
-    {
       "id": "da9244502f14",
       "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "456d3ec09be9",
+      "title": "Krebskranker bekommt nach 18 Jahren Behandlung mit falschem Medikament 640.000 Euro Entschädigung - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWU40akNNQ2p2WU9ESHFxWHdjM3RBaXA2bDlYZXlTakZxd2xzYWVHaG9Hd1lMOUxNeFNlY0J0S1FnNWl6RkxHdXFfMlBQYWwwSDBYamVlckJVOEhCdmZZcDlnUmFxMkdXbExSakJ5X1ktVXR3Z1NJNGc3ai04RHpyT2tudzZrUEFSb1RTZ2dld2ZnUGsyZG5ULXdJeFJqLVlaOHhwWDJwdWdkaC1LeUMzSDdwWUxOQVNtVkRJbDdQZmRxTGR4TFduSlJMa1lsV0U0c0h6NFlRZzlWQ1dwZnRtc3o0UndIS21DTi1GeW5mbzRxazVXMGtCUmdhd3hvbEdyN1I1a2pITnNldEYtQzRrSGR3?oc=5",
+      "published": "2026-08-15T09:41:00+00:00",
+      "source": {
+        "name": "CHIP",
+        "url": "https://www.chip.de"
       }
     },
     {
@@ -264,6 +264,16 @@
       }
     },
     {
+      "id": "9b2db3d921bc",
+      "title": "Tirzepatid: Schutz vor Myokardinfarkt, aber nicht vor Schlaganfall? - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2RocTZxTGtUN1lsUEpfWGFYczFLREVBOGZ0TnpodVh5R1FoWHdhZUFyX1hlVkRGcFR3MExoVkdtbHVkdWJ0ZFlDSGxtbUNVSDRiUjgxZWFFa1VLc1EtajNSYVRiVDRCaHlIOUk4eXBIcDJIZzFuUHJMTGcwUWNmZjNHMXEwZElhSUpkZFVkbFdtY21PbmZEaXVEYnBLUlY5dHpKaHpYbVk5cnBFVXJBZ1ZJQUNTYVNnM2czRHYwVVhsOHVTb3gwQThn?oc=5",
+      "published": "2026-08-11T04:15:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
+      }
+    },
+    {
       "id": "976b3743b89a",
       "title": "Der Missbrauch von Patenten durch Roche gefährdet die Gesundheit - PublicEye",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTFVrYmZwUUtPNzNHNGJieVpJWGdlZkhtUjNNMDItVmVVazEydndLbnM2VVlRQldzVGhESllWVE43Ny1fTjhyMERpTzFuUjNJRUFNWU1EaXdfaF9RRXM3Rkk3b1pQR0ZWZzhKZktYVkNxRDluZjg1LXI0V04zTHV4QWZLSWhCeUJYREJqUFQ2SHVnMTBGMVRUUVNTUzZVRllUSER1bU1WaE1IZERaUEF3ZWlxc1BzQUxIOWxtenppQllPNEcwWVZhTUJCSS1oU1VXSnhPRFp4WDFFVE1kaGpKeEt3NnVHa05hYk5TN0tJaVBIZUMtX3plRHpzN2RFSDN5dnRzeFIzTVlEd1BqbkJjbU5ySDEteGZ4b1E?oc=5",
@@ -284,16 +294,6 @@
       }
     },
     {
-      "id": "54fa0a4907a2",
-      "title": "Hitze kann Wirkung von Medikamenten verändern: Branchenverband mahnt zu Vorsicht - gesundheit.de",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUw5ODJ5dkNKSG54akhlaGNlN3h5RFdRNFRrTGtsU0dyOW9wTFh0N2x6LWJLOWxPc0RsRU1WVnBpSDdGSzh3djBqTFJjbjJPMlgzR3NJVklPYTNjeVpzVmxlR1l2NWN5Y2hzR0FjTHdIVGN1bDdLMVAxd0pNSzZURUlPakdaQTZaRW9kRFZYQXplNnhZMkFsNW9ZTjZzVUxFMkdJMTJYRlBkT05tMjdyWTRKVkVXc2VCc3BkMw?oc=5",
-      "published": "2026-08-12T09:41:00+00:00",
-      "source": {
-        "name": "gesundheit.de",
-        "url": "https://www.gesundheit.de"
-      }
-    },
-    {
       "id": "a48a34dcb337",
       "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
@@ -301,6 +301,16 @@
       "source": {
         "name": "Jüdische Allgemeine",
         "url": "https://www.juedische-allgemeine.de"
+      }
+    },
+    {
+      "id": "54fa0a4907a2",
+      "title": "Hitze kann Wirkung von Medikamenten verändern: Branchenverband mahnt zu Vorsicht - gesundheit.de",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUw5ODJ5dkNKSG54akhlaGNlN3h5RFdRNFRrTGtsU0dyOW9wTFh0N2x6LWJLOWxPc0RsRU1WVnBpSDdGSzh3djBqTFJjbjJPMlgzR3NJVklPYTNjeVpzVmxlR1l2NWN5Y2hzR0FjTHdIVGN1bDdLMVAxd0pNSzZURUlPakdaQTZaRW9kRFZYQXplNnhZMkFsNW9ZTjZzVUxFMkdJMTJYRlBkT05tMjdyWTRKVkVXc2VCc3BkMw?oc=5",
+      "published": "2026-08-12T09:41:00+00:00",
+      "source": {
+        "name": "gesundheit.de",
+        "url": "https://www.gesundheit.de"
       }
     },
     {
@@ -464,16 +474,6 @@
       }
     },
     {
-      "id": "e4aec8e322e1",
-      "title": "Studie: Darum haben Bauernhofkinder weniger Allergien - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTld3dUczMmVmOHNIMTN4YkpQc1haSkRQSklMOHRfOE9pQXZvSVJwdUlRRlpKeWxXUm95aUxYNmphVkQ5S2VXM2lnSjR6UVJ0eFJieVg3T194RGU1c2V0aTA0eHFzZ1dVa3paT3h1MTBDYUZwYlVNVGswa3E3b3VpT2JmNkFaN3AtY0hJOGpLS1BaSVZqeEo5MXRNVFhVUWpEV0pkT0V2cEpueThjemJ1dG1Idw?oc=5",
-      "published": "2026-08-11T16:55:36+00:00",
-      "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
       "id": "1855fc9250b3",
       "title": "Medikamentenkosten sind auf über 9 Milliarden gestiegen - Nau",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnhMSU5Mbkd3NEd1emNSNF9jbm4ydXJLcmFLUmkweHNaS3pkbXBfTjhNVktzMEcxcF9iem1lLUNxdVVXYmVFci1KVWRmeFdkUjlBNWdXQ2pGRE5lZE9hTUpxZkZRTEQ5RFg2ekk4d0xiYU8wT3hPTWtyUHlMb3FGZ3RfTk84MTFTMG1RNm1GWE81WGlYeDRYLXVBYUE?oc=5",
@@ -481,6 +481,16 @@
       "source": {
         "name": "Nau",
         "url": "https://www.nau.ch"
+      }
+    },
+    {
+      "id": "e4aec8e322e1",
+      "title": "Studie: Darum haben Bauernhofkinder weniger Allergien - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTld3dUczMmVmOHNIMTN4YkpQc1haSkRQSklMOHRfOE9pQXZvSVJwdUlRRlpKeWxXUm95aUxYNmphVkQ5S2VXM2lnSjR6UVJ0eFJieVg3T194RGU1c2V0aTA0eHFzZ1dVa3paT3h1MTBDYUZwYlVNVGswa3E3b3VpT2JmNkFaN3AtY0hJOGpLS1BaSVZqeEo5MXRNVFhVUWpEV0pkT0V2cEpueThjemJ1dG1Idw?oc=5",
+      "published": "2026-08-11T16:55:36+00:00",
+      "source": {
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -514,16 +524,6 @@
       }
     },
     {
-      "id": "a904bc889948",
-      "title": "Abnehmtablette kommt in deutsche Apotheken: Wirkt Sie wie die Abnehmspritze? - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelp2R0M1dUtMdEFzUjJsRW9tYVMwVVB0NnN1WXpISWVLSWZRdWZ6NmZGRVlNWENKd01MYkMtS25HOENhV1VSbGtIRmVELXNSejEzTHZPa2ZPUHVyS3M2YlEzUjJJelpkZXNGLV91bjJrSm1SVzNSN2MzOEFad01YaHJBam1jdXhTM042TnpHRzAwcHVXMFZJUTBtRUNMNjBhRXNESWEtYjJ0bHBaMXVFQTlkZmQ1WWJjYXQ2bWJFdmdhMHhuUW94dUVB?oc=5",
-      "published": "2026-08-13T06:01:46+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
-      }
-    },
-    {
       "id": "ae3d250cee54",
       "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
@@ -531,6 +531,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "f137dffa3ab1",
+      "title": "Abnehmtablette kommt in deutsche Apotheken: Wirkt Sie wie die Abnehmspritze? - t-online.de",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelp2R0M1dUtMdEFzUjJsRW9tYVMwVVB0NnN1WXpISWVLSWZRdWZ6NmZGRVlNWENKd01MYkMtS25HOENhV1VSbGtIRmVELXNSejEzTHZPa2ZPUHVyS3M2YlEzUjJJelpkZXNGLV91bjJrSm1SVzNSN2MzOEFad01YaHJBam1jdXhTM042TnpHRzAwcHVXMFZJUTBtRUNMNjBhRXNESWEtYjJ0bHBaMXVFQTlkZmQ1WWJjYXQ2bWJFdmdhMHhuUW94dUVB?oc=5",
+      "published": "2026-08-13T06:01:46+00:00",
+      "source": {
+        "name": "t-online.de",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -554,12 +564,12 @@
       }
     },
     {
-      "id": "b35e16b362c0",
-      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - morgenpost.de",
+      "id": "20a64d917dfc",
+      "title": "Medikamente für Senioren: Studie warnt vor riskanten Wirkstoffen - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29BeW1jeXNBMHJfUWNHT1RfQWNhcG9TUzJwbE11cl9XN1VvWElYUmJORUxoclg3R08xa3VsaXhSMlBnSlE2ZkhOdWF2Z0lVempDdE9XMnBZcEVQUm5KVDBaM0I0ZWpxdzBYbkxYOWtjOGN1ZGxCUkh5TDUzeUxJc0F1dm55XzdHMEwyNUZheFRiaFdKUGtUR1JmYXRGelY0UlM3OFh4SkExRGFTVWZFamxqYXFQOHRCZjFTQThnbjRWU1JMcEM0?oc=5",
       "published": "2026-03-22T07:00:00+00:00",
       "source": {
-        "name": "morgenpost.de",
+        "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
       }
     },
@@ -684,16 +694,6 @@
       }
     },
     {
-      "id": "06110c15c4aa",
-      "title": "Aktuelle Umfrage: Apotheker:innen sehen mehr Hitzebeschwerden und wachsende Medikationsrisiken - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFVUcUo5TF9UMjVMVDZlWmQ5c2dPeENGRGRheGpLTktuT3ctMHcwQ01hd3d5NnZ0aDFCRTBkT1pqQUZoNEI0dTYtakFWaU1WMzBPTUh4M1hjS0tFakp1NFlQUmRtaDdkSGF1bDQtdWpHV0NnRjhtZ29kVzZ4UDhOQ0paMkVVbVl0Zlg5VnNIQWhkT0FuR2pnaUZ3T2t2c1d0dFNseU5IUU9aTWllbWRIZmVNMmxEa1NYanFhMDluR21DY2c?oc=5",
-      "published": "2026-08-11T13:48:02+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "432315fa2251",
       "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
@@ -701,6 +701,16 @@
       "source": {
         "name": "tagesschau.de",
         "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "06110c15c4aa",
+      "title": "Aktuelle Umfrage: Apotheker:innen sehen mehr Hitzebeschwerden und wachsende Medikationsrisiken - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFVUcUo5TF9UMjVMVDZlWmQ5c2dPeENGRGRheGpLTktuT3ctMHcwQ01hd3d5NnZ0aDFCRTBkT1pqQUZoNEI0dTYtakFWaU1WMzBPTUh4M1hjS0tFakp1NFlQUmRtaDdkSGF1bDQtdWpHV0NnRjhtZ29kVzZ4UDhOQ0paMkVVbVl0Zlg5VnNIQWhkT0FuR2pnaUZ3T2t2c1d0dFNseU5IUU9aTWllbWRIZmVNMmxEa1NYanFhMDluR21DY2c?oc=5",
+      "published": "2026-08-11T13:48:02+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -754,12 +764,12 @@
       }
     },
     {
-      "id": "600c09be124c",
-      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - morgenpost.de",
+      "id": "566dd4d9d4e6",
+      "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
       "published": "2026-04-28T07:00:00+00:00",
       "source": {
-        "name": "morgenpost.de",
+        "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
-      }
-    },
-    {
-      "id": "d60d4f4ff5ae",
-      "title": "Gesundheit - Auch SoVD fordert Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmF3c1ZhS2dyTG9MdkxYcjU4OHB6ZU8yNExEbkpFYVpBZWRfeDFWN3BHOS0wdVNheXF5Tzh0bGoxeTZONGw1R001LVNCWlI0UTNsNHo2cGFjbEw0V3B4dmZIbUVxYnhfb25tRDF6SXhvVUtZN0ZkaVFTZnZMYUg1MEZ2X0YwQ1hvWG54eTNVb09sNXlxUzd3cHVmdWJJbEJiNlI1ZjdB?oc=5",
-      "published": "2026-03-18T07:00:00+00:00",
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de"
       }
     }
   ]
