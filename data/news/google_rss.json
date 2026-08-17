@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-17T16:21:27.411940+00:00",
+  "fetched_at": "2026-08-17T17:22:00.699553+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "566fc4586e72",
+      "title": "Hautprobleme im Sommer: Wenn Medikamente die Haut lichtempfindlich machen - Handelsblatt",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFhjZ1V2ZXM2MFpPdUtoR2E2dWs1cVlMU25ucUJUVmZSSUFzMnNkbGJoYmFQeGg3aWRzbkhZSHNnUDRGZmtVbVFVWUNmcDJ4VThOZERvN3EtUl8zb3NnaTQxbUJibklPZm1BRUYtdXgwU1Ztd2hSekNXcGZfUFUxcGRIWjM4RVFyOXlFdGZ3aGYxSDV1QzA1NnVQM1dUQ2QteDZFN0JQd1IwR1NweWZjZnhXSmRmYmw0bEhmb29pSjhoaHVPYklxM1NfdjA?oc=5",
+      "published": "2026-08-17T04:36:04+00:00",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com"
+      }
+    },
     {
       "id": "af287c654a3c",
       "title": "Prämien: Die Pharma-Lobby hat die Schweiz im Griff - Beobachter",
@@ -34,16 +44,6 @@
       }
     },
     {
-      "id": "cdd89b28f2d6",
-      "title": "Wenn Medikamente die Haut lichtempfindlich machen - 24vita",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXF6cVVMWFZ1UXhrcndZaDZPa1VqWDQzR0E3dlM1dG00LVQ3bTd1QVlKZ0tJNjlfYUc4YlI1WGpERDZvZGNjczJWU0ZrRThfT05tWGdvS0stT2NJX29Sd3NiT2FwZ3VVNHBTeE5oNWlvMGRfdjNNT0ZyVkNqTFJLd0VLN09saFBiNEcxamNVZ243WWtYM3BHLUM2TGR6RDFx?oc=5",
-      "published": "2026-08-17T04:37:15+00:00",
-      "source": {
-        "name": "24vita",
-        "url": "https://www.24vita.de"
-      }
-    },
-    {
       "id": "a7e93d9466df",
       "title": "Krankenversicherung: Warum Arme viel höhere Gesundheitskosten verursachen als Reiche - Finanz und Wirtschaft",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmV0MFI3NHhULTRCWjZGMGNNMkdHN2tjVm5rNThZemJjRVBtUG1aeDNLczluM2xNaXpyRHpZR2wwY21ZS0FqcFdmeU1hb2tlME9Qb211QzNGeHhBVjhZbE93RkNfcU5wTnhxNHpuY3UxYTJ5WmdjMUl0Z0hTT25tLTY3c1NxRnN2WE1Maw?oc=5",
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "20cda3a80103",
-      "title": "Bald gibt es die Abnehmpille auch bei uns. Ist sie besser als die Spritze? - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3JZYnE4eXZtSW8xYk9sbDBTQzFkZmNfV09LTXBsS3BzeGd1NFBHR0lXT1B4UDNPNy1qamJ4R3JXaUxKeVNLY1RTVlNYUVBmOFBaS0Nkb29qRTFGcDAyV3JMaGVzQnM4WlhDN0plT004V2pGR09zQ19jUnNxaktLMlNYdWJ4X2FHRmVja0RCUWF2OFJ5d3lBck9EZC03aG81OFE?oc=5",
-      "published": "2026-08-17T10:04:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "9ced971ef53e",
       "title": "Finanzierung - interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13X09fTmFnRUU1NFVRVU5ld2pOdlNXWHI5WW8xdklGcFQxc3Utdmc4QTVYLXhlTUVNQUlINTZMTmZlNDJBbW1kdXFYNHdkeWlKenRDeFpQbjNRNUZ1dVBjSWZLbkFMMHhJbllwME84OERoVkczRjBWbGJpUDUwemM?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "20cda3a80103",
+      "title": "Bald gibt es die Abnehmpille auch bei uns. Ist sie besser als die Spritze? - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3JZYnE4eXZtSW8xYk9sbDBTQzFkZmNfV09LTXBsS3BzeGd1NFBHR0lXT1B4UDNPNy1qamJ4R3JXaUxKeVNLY1RTVlNYUVBmOFBaS0Nkb29qRTFGcDAyV3JMaGVzQnM4WlhDN0plT004V2pGR09zQ19jUnNxaktLMlNYdWJ4X2FHRmVja0RCUWF2OFJ5d3lBck9EZC03aG81OFE?oc=5",
+      "published": "2026-08-17T10:04:00+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -314,6 +314,16 @@
       }
     },
     {
+      "id": "bc82085c3a46",
+      "title": "Erstmals in Europa: Drohne wirft Arzneimittel für Patienten ab - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWk5QY2lfWEVwNVhyUThpMnI4SG5CUVUzUHVKOW1CekNHNWtsN3J2WkFwMTh4LU1UZEZIWjM3bWtacjYweU1PWXN2TEl6VkstaHRKNTRvcExnLS1hMnF6MDVsTWZpWjk0X2dzQWQ1RFJVMGZsODA3WEgzQkE2QmQzWXZQamdfT1ZWSXQ2NG9IaDFaZGtMcGRWY1hiU3ZJNzhF?oc=5",
+      "published": "2026-02-19T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
+      }
+    },
+    {
       "id": "4d890df4f302",
       "title": "Versicherungen und Arbeitsschutz: Apotheken müssen sich gegen Hitze wappnen - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTTE3OHlXa0RWTjJ1dTVfZHA4UmwwZG1oUTE5R1AwT1BjV0V5YkZRZjE3elhucVlNa0xtZmJrdGR2UC1OZnZsWXZKY3NjSXhMNmhNZ2Fmc1huamtuZXFfNUQ2aVVyVy1SemJ5UlMxTXBPQndMZnBNTnlJeEhPajB3SWlWQ3NZQWZqWUQ1RkJ6SG4wc0E?oc=5",
@@ -321,6 +331,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "e4d74f6ebf64",
+      "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
+      "published": "2026-07-03T07:19:40+00:00",
+      "source": {
+        "name": "euractiv.com",
+        "url": "https://euractiv.com"
       }
     },
     {
@@ -334,16 +354,6 @@
       }
     },
     {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -351,6 +361,16 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -394,13 +414,23 @@
       }
     },
     {
-      "id": "d3d3f516697b",
-      "title": "Wegen starker Wespensaison: Teils Engpass bei Adrenalin-Pens - Der Standard",
+      "id": "3830e9ebc7bf",
+      "title": "Wegen starker Wespensaison: Teils Engpass bei Adrenalin-Pens - derstandard.at",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3ZMZF81dUZ3UmNRU1FoT3IyQ0FxTXFhZnVBejJ2VHlnUHNLRkJMdkI1UmVVbWFnSVUzNmR2ZkZVVVk4dGFtbnZFTGlRb2xQS21mREI5TWtpWFpGTkhpek5uS0hIMk1wOUtkMDBuV3dSS1gyaG5DNV9YNzRHR2NuMjViS1ZhOGFDa1NQUEFmVE9temxNcXVRRmVfTzNIWHQ2elRNOFY2dW1UdXZ1amhmNkF2RGJtdw?oc=5",
       "published": "2026-08-14T09:48:00+00:00",
       "source": {
-        "name": "Der Standard",
+        "name": "derstandard.at",
         "url": "https://www.derstandard.at"
+      }
+    },
+    {
+      "id": "a59024d7295e",
+      "title": "Sonnenbrand vermeiden: Diese Medikamente machen lichtempfindlich - Wochenblatt Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazQ5RlVKb04xU05lYzA4RU1lRjBQODNveUI3TWlpOHB6bEhCVFR6U2FjY0VoUHZCSU9wd0ZIdlNlX1BFazllSVFjVmZkRTdOVXRDR2k2Q3ZyUWpTaDloSm5WT0pybUNhVFg3QTFObDVlMlRIaHRRMWtURWZucFN4UHVybUtVYWs4dFJFdUVCOXRZb2ptd3RJUjNfQktQd3VTek56U1RZdHZxWjZhaUxRall5ZWFGNi1xUFE?oc=5",
+      "published": "2026-08-17T15:51:16+00:00",
+      "source": {
+        "name": "Wochenblatt Reporter",
+        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
@@ -461,16 +491,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "200e6df95009",
-      "title": "Gesundheitsminister: 60 % der in Vietnam verwendeten Medikamente werden im Inland hergestellt. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEFfYlliUk5mb2wyaWRXYW91eWNxSjBSR3gtZk42VGxEQUsyMUdQYW1kNlByb1lKcWk5UEpVUTMtWGN4SXNRLU90TVIybEdvdEYtR2dGRHpLOWZfd2JUWXZJV01VcnZOM3hpYk16bzhDZm5KV29GVmVQZzhLSFRzN0ZGMlF0SHE4cDBjRVp0b3FaaFNhZzc5U19rUjhaYTlHLW80?oc=5",
-      "published": "2026-08-07T15:09:21+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -594,12 +614,12 @@
       }
     },
     {
-      "id": "a904bc889948",
-      "title": "Abnehmtablette kommt in deutsche Apotheken: Wirkt Sie wie die Abnehmspritze? - T-Online",
+      "id": "f137dffa3ab1",
+      "title": "Abnehmtablette kommt in deutsche Apotheken: Wirkt Sie wie die Abnehmspritze? - t-online.de",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelp2R0M1dUtMdEFzUjJsRW9tYVMwVVB0NnN1WXpISWVLSWZRdWZ6NmZGRVlNWENKd01MYkMtS25HOENhV1VSbGtIRmVELXNSejEzTHZPa2ZPUHVyS3M2YlEzUjJJelpkZXNGLV91bjJrSm1SVzNSN2MzOEFad01YaHJBam1jdXhTM042TnpHRzAwcHVXMFZJUTBtRUNMNjBhRXNESWEtYjJ0bHBaMXVFQTlkZmQ1WWJjYXQ2bWJFdmdhMHhuUW94dUVB?oc=5",
       "published": "2026-08-13T06:01:46+00:00",
       "source": {
-        "name": "T-Online",
+        "name": "t-online.de",
         "url": "https://www.t-online.de"
       }
     },
@@ -614,16 +634,6 @@
       }
     },
     {
-      "id": "a63d0c6179e0",
-      "title": "Abnehmtablette: Was Sie zur Spritzen-Alternative wissen sollten - zdfheute.de",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW81SmZINDluajBQRXVmd3l0ZmVzbHJTZWNlLXJidHB5S244MDBfUlZ1ekgxYi1XLXFLVUE4YTZ1bVYwNHc1dV84ZHkweWZ4cU8wSjd6Y2ZQcV84dF9lenJuTG0waVd1ZVJyaXBuMHI2X3N0R2dkcmJ6R2dqLXBuREtUTkZNd0xXR21JZ2hkYUZlbnJhS0JzbEw4aFR6M1ZldVljdFM4RzFyNDk2MWNnLTI5T1doQQ?oc=5",
-      "published": "2026-08-13T09:56:00+00:00",
-      "source": {
-        "name": "zdfheute.de",
-        "url": "https://www.zdfheute.de"
-      }
-    },
-    {
       "id": "fa42bd387f7a",
       "title": "Markteinführung im Herbst: Abnehmtablette bald in deutschen Apotheken erhältlich – Fragen und Antworten - RP Online",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanRNVDFSM3BNS01PU3RrcVhhU05mZ0plX1l3SENYX2tBV0ozNEdqeEZaR01kenB0VnZqNzJOX2l4dWM5YTRRbGI1UmVtODAyMmNCTDA4ektNcHM3RXVTYVdNUTJKN2xjaU1ZaVdxc21Ta1JWNTJnejdETXZfdGtWb093VTJXNE9kaE5qZFR4SlZFejBWTHVuOG9kU1lBVVdQNldLdk5zWkttVlZQUkE?oc=5",
@@ -631,6 +641,16 @@
       "source": {
         "name": "RP Online",
         "url": "https://rp-online.de"
+      }
+    },
+    {
+      "id": "1cb95fe9e835",
+      "title": "Abnehmtablette: Was Sie zur Spritzen-Alternative wissen sollten - ZDFheute",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW81SmZINDluajBQRXVmd3l0ZmVzbHJTZWNlLXJidHB5S244MDBfUlZ1ekgxYi1XLXFLVUE4YTZ1bVYwNHc1dV84ZHkweWZ4cU8wSjd6Y2ZQcV84dF9lenJuTG0waVd1ZVJyaXBuMHI2X3N0R2dkcmJ6R2dqLXBuREtUTkZNd0xXR21JZ2hkYUZlbnJhS0JzbEw4aFR6M1ZldVljdFM4RzFyNDk2MWNnLTI5T1doQQ?oc=5",
+      "published": "2026-08-13T09:56:00+00:00",
+      "source": {
+        "name": "ZDFheute",
+        "url": "https://www.zdfheute.de"
       }
     },
     {
@@ -734,16 +754,6 @@
       }
     },
     {
-      "id": "375374e60cfb",
-      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
-      "published": "2025-12-02T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
       "id": "566dd4d9d4e6",
       "title": "Gesundheit: Medikamente mit Wechselwirkung? Vor diesen Fehlern schützt die ePA - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnJXQjdvZFhaOHdKUjFfTHRXcU9oTF9vc21mN2U2bmNqOXF3M2o3RWIxU2R1bkx5eGRIYWJIWnF5Ty1yM0pMcW1DcG5LR2JiYlRPdFBXbUdFYmhaeVh5enZDdmY2YWlFdkQtNjVRalZKdzV0alNFbGlLWmM1c1BpcTlXcC01blFGM0dMVV83ZlpQN19kVGx3WVVKNTlXS0t0R1U2dmY0R1MwdGNzOC12MUJzcEh2M2lWendsZFphd1JxanR6elNEalAwSlRBSlczTk5jLVpvYjVQN0kyaGd3Ug?oc=5",
@@ -751,6 +761,16 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "375374e60cfb",
+      "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
+      "published": "2025-12-02T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -764,16 +784,6 @@
       }
     },
     {
-      "id": "fa5ea3c39e72",
-      "title": "Prostatahyperplasie: Pollstimol um 38% günstiger ab August - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2l4S0lJcVBpSzJSQ29RaVFnTUNMTFU1MWhtb0ZkWjBDdF9WV2Z2cVVxQlRUQzZudzVHNXdiX2Z4ZTh4cFRsWFdCVXhDNU5YTHN1SEdBak5rcGEzZnFfU0pmZWpfUWdKd3FmMjRpblVGdGxPdU9mbkNWMnRncFlqaFBqTkhvVG93VmsxclUwTkxsRnZqY0FLZm1JOUdSZTBhb29ZdTdyY2txTjY3dFp4Uk43MnY?oc=5",
-      "published": "2026-08-16T23:18:08+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "130be35f7471",
       "title": "Pharmastrategie der Bundesregierung muss Versorgung, Finanzierung und Wirtschaftspolitik verbinden - Presseportal",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4dVdPWEtVVVlsV09sbkJoUm9xVkJkdW9xZ0NOY0UxYTQyV1ZwVFlrZTRwRVZ6dXJhRHltN1U3Sm5sZkxaY19yT2xIYmZDOHFVTnVJTDVpTQ?oc=5",
@@ -781,6 +791,16 @@
       "source": {
         "name": "Presseportal",
         "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "a5c086141ecb",
+      "title": "Prostatahyperplasie: Pollstimol um 38% günstiger ab August - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2l4S0lJcVBpSzJSQ29RaVFnTUNMTFU1MWhtb0ZkWjBDdF9WV2Z2cVVxQlRUQzZudzVHNXdiX2Z4ZTh4cFRsWFdCVXhDNU5YTHN1SEdBak5rcGEzZnFfU0pmZWpfUWdKd3FmMjRpblVGdGxPdU9mbkNWMnRncFlqaFBqTkhvVG93VmsxclUwTkxsRnZqY0FLZm1JOUdSZTBhb29ZdTdyY2txTjY3dFp4Uk43MnY?oc=5",
+      "published": "2026-08-16T23:18:08+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -924,12 +944,12 @@
       }
     },
     {
-      "id": "886d9cd36667",
-      "title": "Pharma-Verband fordert: Prävention und Selbstmedikation ausbauen - AD HOC NEWS",
+      "id": "1c4592d7f011",
+      "title": "Pharma-Verband fordert: Prävention und Selbstmedikation ausbauen - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTExR1N2T2hHV0FHbXl5Z0xBNU9pT3JaRmhSUURfQnRiRUM1Mjc3eTNnZlBxbTlvSHExVmNUU3RmZ2hsX18wNFBZOXBKY1FITGhrc3VKVnF2emx3SFZFTlVNT2MtTVFjdE9yakp6RnNscU4zUVhUcDRFbGFBZDhYc0JpbWJBXzJWM21XUUtET0dralBiVDN6T0NtX1Z5TjUxU3VpcnZfSk1TTUxEZ2VaVDNCdw?oc=5",
       "published": "2026-08-16T02:00:54+00:00",
       "source": {
-        "name": "AD HOC NEWS",
+        "name": "ad-hoc-news.de",
         "url": "https://www.ad-hoc-news.de"
       }
     },
@@ -974,30 +994,10 @@
       }
     },
     {
-      "id": "d46f6ce1c2b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
-      "published": "2025-09-23T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
-      }
-    },
-    {
       "id": "5cfa2762dc20",
       "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXlzU1VBOUhWa05wcTVDNnBBdHRkeDl5TnZ1S1A3T0swT2pKTjZlaU1pempxQVJkMXMySXBtd2xpaUk5WWN4Q1VyakdMbnN2eF9mRncxakUwN21WbGFQMWpuR2VoOG1tUDYtWERUbS1LSVpOdUNaTE1SWmhDSkVUdTlubVNEWGNtUXNaYk5tcTJibTRDZTJv?oc=5",
       "published": "2026-03-15T07:00:00+00:00",
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de"
-      }
-    },
-    {
-      "id": "d60d4f4ff5ae",
-      "title": "Gesundheit - Auch SoVD fordert Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmF3c1ZhS2dyTG9MdkxYcjU4OHB6ZU8yNExEbkpFYVpBZWRfeDFWN3BHOS0wdVNheXF5Tzh0bGoxeTZONGw1R001LVNCWlI0UTNsNHo2cGFjbEw0V3B4dmZIbUVxYnhfb25tRDF6SXhvVUtZN0ZkaVFTZnZMYUg1MEZ2X0YwQ1hvWG54eTNVb09sNXlxUzd3cHVmdWJJbEJiNlI1ZjdB?oc=5",
-      "published": "2026-03-18T07:00:00+00:00",
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
