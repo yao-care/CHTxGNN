@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T19:23:39.203624+00:00",
+  "fetched_at": "2026-08-17T20:20:18.568027+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,12 +44,12 @@
       }
     },
     {
-      "id": "55b4f00cf28b",
-      "title": "Krankenversicherung: Warum Arme viel höhere Gesundheitskosten verursachen als Reiche - fuw.ch",
+      "id": "a7e93d9466df",
+      "title": "Krankenversicherung: Warum Arme viel höhere Gesundheitskosten verursachen als Reiche - Finanz und Wirtschaft",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmV0MFI3NHhULTRCWjZGMGNNMkdHN2tjVm5rNThZemJjRVBtUG1aeDNLczluM2xNaXpyRHpZR2wwY21ZS0FqcFdmeU1hb2tlME9Qb211QzNGeHhBVjhZbE93RkNfcU5wTnhxNHpuY3UxYTJ5WmdjMUl0Z0hTT25tLTY3c1NxRnN2WE1Maw?oc=5",
       "published": "2026-08-13T08:23:52+00:00",
       "source": {
-        "name": "fuw.ch",
+        "name": "Finanz und Wirtschaft",
         "url": "https://www.fuw.ch"
       }
     },
@@ -84,12 +84,12 @@
       }
     },
     {
-      "id": "20cda3a80103",
-      "title": "Bald gibt es die Abnehmpille auch bei uns. Ist sie besser als die Spritze? - STERN.de",
+      "id": "fa597d7b0558",
+      "title": "Bald gibt es die Abnehmpille auch bei uns. Ist sie besser als die Spritze? - stern.de",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3JZYnE4eXZtSW8xYk9sbDBTQzFkZmNfV09LTXBsS3BzeGd1NFBHR0lXT1B4UDNPNy1qamJ4R3JXaUxKeVNLY1RTVlNYUVBmOFBaS0Nkb29qRTFGcDAyV3JMaGVzQnM4WlhDN0plT004V2pGR09zQ19jUnNxaktLMlNYdWJ4X2FHRmVja0RCUWF2OFJ5d3lBck9EZC03aG81OFE?oc=5",
       "published": "2026-08-17T10:04:00+00:00",
       "source": {
-        "name": "STERN.de",
+        "name": "stern.de",
         "url": "https://www.stern.de"
       }
     },
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "ddc10607dcd9",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - adac.de",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "source": {
+        "name": "adac.de",
+        "url": "https://www.adac.de"
+      }
+    },
+    {
       "id": "276388a2174d",
       "title": "Stärkung des staatlichen Managements im Bereich der traditionellen Medizin und Pharmazie. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjR2el9pVktpVTA0aWowUmlaLTVMc3liOVNXQzZfd282TTBabkg0bWZDWmRtZDNSTU03V0swMW05aC1haXZFT1ktdVV5WXJuZ0hoSzFNVDBkMGVpY1QyUTY0LTBDZUlTRm52aWdEaFVfaUVtaE5aZUpIMnJlc0xDLUN6WjRwLWJ2eHJPcXJ4OHR5STNuMXBVdzNR?oc=5",
@@ -211,16 +221,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-05-01T07:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "112e50098de3",
-      "title": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQckpLcGpuVTNwRllTX3BIUFdvT0Z0eEpGbFBWc1pVTTFwWVQ5RWRtTVpEX2NKUVd2aXd6TzFFdjNBWFB3enNxN1E4MlVFTjh3aFZTMGc1TmVxMTVlRVRtNjNjeFV6QVcyeGRYT1dtUUxnTXR6V1l6N2hpZlloV0xfNnBqZEh6WEVoYkVHVDVjWk1oenFZVXh2Ry1Va1d4aTZaWmpjcWJhQ0ZDamQxaUJlV0VCY1kyWTVPTWMtRUpVbC1QcWRWZG5PdUJNWFdXZGxNT1VIdlk4U1hUZEVNZTJDc0I0S3Vya1VRLURERzI4TnllLWEzNFhPYlpB?oc=5",
-      "published": "2026-08-13T06:20:52+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
       "id": "456d3ec09be9",
       "title": "Krebskranker bekommt nach 18 Jahren Behandlung mit falschem Medikament 640.000 Euro Entschädigung - CHIP",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWU40akNNQ2p2WU9ESHFxWHdjM3RBaXA2bDlYZXlTakZxd2xzYWVHaG9Hd1lMOUxNeFNlY0J0S1FnNWl6RkxHdXFfMlBQYWwwSDBYamVlckJVOEhCdmZZcDlnUmFxMkdXbExSakJ5X1ktVXR3Z1NJNGc3ai04RHpyT2tudzZrUEFSb1RTZ2dld2ZnUGsyZG5ULXdJeFJqLVlaOHhwWDJwdWdkaC1LeUMzSDdwWUxOQVNtVkRJbDdQZmRxTGR4TFduSlJMa1lsV0U0c0h6NFlRZzlWQ1dwZnRtc3o0UndIS21DTi1GeW5mbzRxazVXMGtCUmdhd3hvbEdyN1I1a2pITnNldEYtQzRrSGR3?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "CHIP",
         "url": "https://www.chip.de"
+      }
+    },
+    {
+      "id": "112e50098de3",
+      "title": "Zügelt den Appetit - Abnehmtablette kommt in deutsche Apotheken - Ein Überblick - Gesundheit - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQckpLcGpuVTNwRllTX3BIUFdvT0Z0eEpGbFBWc1pVTTFwWVQ5RWRtTVpEX2NKUVd2aXd6TzFFdjNBWFB3enNxN1E4MlVFTjh3aFZTMGc1TmVxMTVlRVRtNjNjeFV6QVcyeGRYT1dtUUxnTXR6V1l6N2hpZlloV0xfNnBqZEh6WEVoYkVHVDVjWk1oenFZVXh2Ry1Va1d4aTZaWmpjcWJhQ0ZDamQxaUJlV0VCY1kyWTVPTWMtRUpVbC1QcWRWZG5PdUJNWFdXZGxNT1VIdlk4U1hUZEVNZTJDc0I0S3Vya1VRLURERzI4TnllLWEzNFhPYlpB?oc=5",
+      "published": "2026-08-13T06:20:52+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -444,16 +444,6 @@
       }
     },
     {
-      "id": "a59024d7295e",
-      "title": "Sonnenbrand vermeiden: Diese Medikamente machen lichtempfindlich - Wochenblatt Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazQ5RlVKb04xU05lYzA4RU1lRjBQODNveUI3TWlpOHB6bEhCVFR6U2FjY0VoUHZCSU9wd0ZIdlNlX1BFazllSVFjVmZkRTdOVXRDR2k2Q3ZyUWpTaDloSm5WT0pybUNhVFg3QTFObDVlMlRIaHRRMWtURWZucFN4UHVybUtVYWs4dFJFdUVCOXRZb2ptd3RJUjNfQktQd3VTek56U1RZdHZxWjZhaUxRall5ZWFGNi1xUFE?oc=5",
-      "published": "2026-08-17T15:51:16+00:00",
-      "source": {
-        "name": "Wochenblatt Reporter",
-        "url": "https://www.wochenblatt-reporter.de"
-      }
-    },
-    {
       "id": "7f09edf69bc9",
       "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
@@ -471,6 +461,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "a59024d7295e",
+      "title": "Sonnenbrand vermeiden: Diese Medikamente machen lichtempfindlich - Wochenblatt Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazQ5RlVKb04xU05lYzA4RU1lRjBQODNveUI3TWlpOHB6bEhCVFR6U2FjY0VoUHZCSU9wd0ZIdlNlX1BFazllSVFjVmZkRTdOVXRDR2k2Q3ZyUWpTaDloSm5WT0pybUNhVFg3QTFObDVlMlRIaHRRMWtURWZucFN4UHVybUtVYWs4dFJFdUVCOXRZb2ptd3RJUjNfQktQd3VTek56U1RZdHZxWjZhaUxRall5ZWFGNi1xUFE?oc=5",
+      "published": "2026-08-17T15:51:16+00:00",
+      "source": {
+        "name": "Wochenblatt Reporter",
+        "url": "https://www.wochenblatt-reporter.de"
       }
     },
     {
@@ -514,12 +514,12 @@
       }
     },
     {
-      "id": "c61dadd61a8b",
-      "title": "Medikamentenkosten sind auf über 9 Milliarden gestiegen - nau.ch",
+      "id": "1855fc9250b3",
+      "title": "Medikamentenkosten sind auf über 9 Milliarden gestiegen - Nau",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnhMSU5Mbkd3NEd1emNSNF9jbm4ydXJLcmFLUmkweHNaS3pkbXBfTjhNVktzMEcxcF9iem1lLUNxdVVXYmVFci1KVWRmeFdkUjlBNWdXQ2pGRE5lZE9hTUpxZkZRTEQ5RFg2ekk4d0xiYU8wT3hPTWtyUHlMb3FGZ3RfTk84MTFTMG1RNm1GWE81WGlYeDRYLXVBYUE?oc=5",
       "published": "2026-01-30T08:00:00+00:00",
       "source": {
-        "name": "nau.ch",
+        "name": "Nau",
         "url": "https://www.nau.ch"
       }
     },
@@ -534,12 +534,12 @@
       }
     },
     {
-      "id": "c1f5975f61ef",
-      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
+      "id": "02952c88ccfa",
+      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - adac.de",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
       "published": "2026-07-03T07:00:00+00:00",
       "source": {
-        "name": "ADAC",
+        "name": "adac.de",
         "url": "https://www.adac.de"
       }
     },
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "1cb95fe9e835",
-      "title": "Abnehmtablette: Was Sie zur Spritzen-Alternative wissen sollten - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW81SmZINDluajBQRXVmd3l0ZmVzbHJTZWNlLXJidHB5S244MDBfUlZ1ekgxYi1XLXFLVUE4YTZ1bVYwNHc1dV84ZHkweWZ4cU8wSjd6Y2ZQcV84dF9lenJuTG0waVd1ZVJyaXBuMHI2X3N0R2dkcmJ6R2dqLXBuREtUTkZNd0xXR21JZ2hkYUZlbnJhS0JzbEw4aFR6M1ZldVljdFM4RzFyNDk2MWNnLTI5T1doQQ?oc=5",
-      "published": "2026-08-13T09:56:00+00:00",
-      "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
-      }
-    },
-    {
       "id": "198b0da65ee5",
       "title": "HIV-Schutz mit Tabletten: Wie sicher ist PrEP im Alltag? - NDR.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWhsNWk1Tkc5MzNycUQ5RzhaaXhPTGlCcHJ1Yl9wajZ0VkV3akIxR255SUd6clB5aU5fZmNlUGZIcTVNanZlTmctSDJqUFB5Zk5XempaWnhrbDBlVWZuOE9xWDRSREhKRm5sa0lrbGVnVjl0TE5NNWtTY25CUzRmdG5jQlBZc1pFakFyT0hITHU5NmpfaUE?oc=5",
@@ -661,6 +651,16 @@
       "source": {
         "name": "NDR.de",
         "url": "https://www.ndr.de"
+      }
+    },
+    {
+      "id": "1cb95fe9e835",
+      "title": "Abnehmtablette: Was Sie zur Spritzen-Alternative wissen sollten - ZDFheute",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW81SmZINDluajBQRXVmd3l0ZmVzbHJTZWNlLXJidHB5S244MDBfUlZ1ekgxYi1XLXFLVUE4YTZ1bVYwNHc1dV84ZHkweWZ4cU8wSjd6Y2ZQcV84dF9lenJuTG0waVd1ZVJyaXBuMHI2X3N0R2dkcmJ6R2dqLXBuREtUTkZNd0xXR21JZ2hkYUZlbnJhS0JzbEw4aFR6M1ZldVljdFM4RzFyNDk2MWNnLTI5T1doQQ?oc=5",
+      "published": "2026-08-13T09:56:00+00:00",
+      "source": {
+        "name": "ZDFheute",
+        "url": "https://www.zdfheute.de"
       }
     },
     {
@@ -764,16 +764,6 @@
       }
     },
     {
-      "id": "0be6becf5480",
-      "title": "Sommerhitze: So schützen sich Herzkranke - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xQjJFeERadWs5RWUwSDBCeXFROTdVYmx4UG5QQ1Q5M3JoRnRCQ3dqcWNXVmdLOWNydVU4ZjNUTFFuTTM2amJwUVRlTmJIZVVUXzNlUTB3cnB2Rm9QZjJhNU54aU1JNm9DamVjODk2V0s3MVVrVmFQV3dJSGdqUQ?oc=5",
-      "published": "2026-08-13T10:35:29+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "5d8c89f1b6f0",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
@@ -781,6 +771,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "0be6becf5480",
+      "title": "Sommerhitze: So schützen sich Herzkranke - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xQjJFeERadWs5RWUwSDBCeXFROTdVYmx4UG5QQ1Q5M3JoRnRCQ3dqcWNXVmdLOWNydVU4ZjNUTFFuTTM2amJwUVRlTmJIZVVUXzNlUTB3cnB2Rm9QZjJhNU54aU1JNm9DamVjODk2V0s3MVVrVmFQV3dJSGdqUQ?oc=5",
+      "published": "2026-08-13T10:35:29+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
       }
     },
     {
@@ -804,22 +804,22 @@
       }
     },
     {
-      "id": "3843ee8c2190",
-      "title": "Gesundheit - Beipackzettel von Medikamenten sollen digital werden - Ausdrucke in Apotheken sollen Option sein - Deutschlandfunk",
+      "id": "92c3211b6121",
+      "title": "Gesundheit - Beipackzettel von Medikamenten sollen digital werden - Ausdrucke in Apotheken sollen Option sein - deutschlandfunk.de",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOclZxcXdzdDlfTXNBVkNkV1g0a1RMa05OWGcyX0RXaW5YMmpyUElhUnBJQU9QM3BzUG9iSFZnaWE0ek1iLTFQeE1wbkVhaDdrT3pVMERnT3l3VGhoOUtuS0EtT3pwazNMMGZmcmI1Z2puUHg1WWc5MzBXdHJma0l0dWNlNEhQdFdBUXF5X0V3OVRQWVA1RXFJNXJtbTVGMjNYQVlSWjNrdEttY0pQMXF0dWlwdGNUVWpFcF83a3RyX0oxSWpLaFVmc2NoVEhGNXc?oc=5",
       "published": "2026-03-12T07:00:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
+        "name": "deutschlandfunk.de",
         "url": "https://www.deutschlandfunk.de"
       }
     },
     {
-      "id": "4f1eeceab428",
-      "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
+      "id": "af1d6e81815f",
+      "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - spiegel.de",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
       "published": "2026-04-13T07:00:00+00:00",
       "source": {
-        "name": "Spiegel",
+        "name": "spiegel.de",
         "url": "https://www.spiegel.de"
       }
     },
@@ -854,22 +854,12 @@
       }
     },
     {
-      "id": "fa5ea3c39e72",
-      "title": "Prostatahyperplasie: Pollstimol um 38% günstiger ab August - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2l4S0lJcVBpSzJSQ29RaVFnTUNMTFU1MWhtb0ZkWjBDdF9WV2Z2cVVxQlRUQzZudzVHNXdiX2Z4ZTh4cFRsWFdCVXhDNU5YTHN1SEdBak5rcGEzZnFfU0pmZWpfUWdKd3FmMjRpblVGdGxPdU9mbkNWMnRncFlqaFBqTkhvVG93VmsxclUwTkxsRnZqY0FLZm1JOUdSZTBhb29ZdTdyY2txTjY3dFp4Uk43MnY?oc=5",
-      "published": "2026-08-16T23:18:08+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "1f7889aee096",
-      "title": "Weil Gesundheit alles verändert - live.handelsblatt.com",
+      "id": "e5c9f6b52b1b",
+      "title": "Weil Gesundheit alles verändert - Handelsblatt Live",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQXU3d2J3REtJeXBaWlQ0UTVlRWJDR2U3cTBJRFNaVlBYenpnNmp1QXZJLXB1WFQxY1dOQjJhMGRwVVZTNEE2eWVMZVd0bVZTSzEyOHY2R0NVd2dKVllzVEM3NDRoNEZKUkthRDdSTHA?oc=5",
       "published": "2025-12-02T08:00:00+00:00",
       "source": {
-        "name": "live.handelsblatt.com",
+        "name": "Handelsblatt Live",
         "url": "https://live.handelsblatt.com"
       }
     },
@@ -884,12 +874,12 @@
       }
     },
     {
-      "id": "5b3c21a9706f",
-      "title": "Hendrik Streeck hinterfragt teure Medikamente für alte Menschen - Spiegel",
+      "id": "45f61385dc96",
+      "title": "Hendrik Streeck hinterfragt teure Medikamente für alte Menschen - spiegel.de",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdklWd0VveEdNaGZxM3F3RmFVdXFOQi10dUZONzlqUjBCS1EyMERpajY5dm9UajBXQnNaaG1Kc2NYUl8tOHpBZFBTQjl4X2NUdXNmckMxdDllNEVmMnZkNVRvU2Y1d3R6WUswWVFLek9rWUhOb01pSjkwbFB1SVdWaTQyc25VWi1aUGxWUGpETWU1b0plSW5qQXNZNzNmbzRPUUg0dGRVOHpEQnI4SWpkZ2diak1XSWNmNFhzSXVUd1BDYktCSkxIVmt2ekpXdGJ3ZDdYRXdWa1FwNDVo?oc=5",
       "published": "2025-11-12T08:00:00+00:00",
       "source": {
-        "name": "Spiegel",
+        "name": "spiegel.de",
         "url": "https://www.spiegel.de"
       }
     },
@@ -901,6 +891,16 @@
       "source": {
         "name": "de.euronews.com",
         "url": "https://de.euronews.com"
+      }
+    },
+    {
+      "id": "a5c086141ecb",
+      "title": "Prostatahyperplasie: Pollstimol um 38% günstiger ab August - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2l4S0lJcVBpSzJSQ29RaVFnTUNMTFU1MWhtb0ZkWjBDdF9WV2Z2cVVxQlRUQzZudzVHNXdiX2Z4ZTh4cFRsWFdCVXhDNU5YTHN1SEdBak5rcGEzZnFfU0pmZWpfUWdKd3FmMjRpblVGdGxPdU9mbkNWMnRncFlqaFBqTkhvVG93VmsxclUwTkxsRnZqY0FLZm1JOUdSZTBhb29ZdTdyY2txTjY3dFp4Uk43MnY?oc=5",
+      "published": "2026-08-16T23:18:08+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -924,12 +924,12 @@
       }
     },
     {
-      "id": "e7fc237accfb",
-      "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - STERN.de",
+      "id": "27daef187974",
+      "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - stern.de",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG5SMnM4aXU5czJ1S2dnUzdMeFBmb3IxQVBKWGVvcVB0eUJQUjkxRU00RHEtQlRjVU1EM0Z2WF95SG85WDJPSjVNcjRTWFM1OHVXNm5pdVAxZGtDcHJTSXFpSDAtdUstM0JISWRKcEI5OXRXZ2hXSzQ3cFJqb0g5N0ZRajJtY21JUmRNNmZweXg1bEpuOXc0Rk9CNENaMHNOYTc4OGtjZw?oc=5",
       "published": "2025-12-16T08:00:00+00:00",
       "source": {
-        "name": "STERN.de",
+        "name": "stern.de",
         "url": "https://www.stern.de"
       }
     },
@@ -964,22 +964,22 @@
       }
     },
     {
-      "id": "886d9cd36667",
-      "title": "Pharma-Verband fordert: Prävention und Selbstmedikation ausbauen - AD HOC NEWS",
+      "id": "1c4592d7f011",
+      "title": "Pharma-Verband fordert: Prävention und Selbstmedikation ausbauen - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTExR1N2T2hHV0FHbXl5Z0xBNU9pT3JaRmhSUURfQnRiRUM1Mjc3eTNnZlBxbTlvSHExVmNUU3RmZ2hsX18wNFBZOXBKY1FITGhrc3VKVnF2emx3SFZFTlVNT2MtTVFjdE9yakp6RnNscU4zUVhUcDRFbGFBZDhYc0JpbWJBXzJWM21XUUtET0dralBiVDN6T0NtX1Z5TjUxU3VpcnZfSk1TTUxEZ2VaVDNCdw?oc=5",
       "published": "2026-08-16T02:00:54+00:00",
       "source": {
-        "name": "AD HOC NEWS",
+        "name": "ad-hoc-news.de",
         "url": "https://www.ad-hoc-news.de"
       }
     },
     {
-      "id": "4827c0f2d4e4",
-      "title": "Gesundheit - Gesetzliche Krankenkassen fordern Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
+      "id": "cbcc1b4f8669",
+      "title": "Gesundheit - Gesetzliche Krankenkassen fordern Maßnahmen gegen steigende Arzneimittelpreise - deutschlandfunk.de",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2ZXSGh3TS1SUVdMakVnd0tYT040NWVQRFJQX3ZVY1VONVQ4U2lZX0xVcEZ4dXZYOURsbDJCWmM4MXVMYWJwbjE1M09oVmxVTF9UODQ4MmUtRlhVdGpuZzV1bjZOY0U4SEk5VjNEM25vU1M4a2lBNmpfa1ZzTWE2ODlBQTBfemV0M0kxMEsyTWFuYnpvd3ZVT0pFeW9aRTJhRFdHX3UtNVpONmdXNUkwMDFydmh0YXpMTVVR?oc=5",
       "published": "2026-03-15T07:00:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
+        "name": "deutschlandfunk.de",
         "url": "https://www.deutschlandfunk.de"
       }
     },
