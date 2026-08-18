@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T18:30:42.741800+00:00",
+  "fetched_at": "2026-08-18T19:23:15.756570+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "a2c6b187f94d",
-      "title": "Fast jede vierte Apotheke ist weg: Wie Versender den Druck im Arzneimittelhandel erhöhen - Augsburger Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmxHRnVrZVdQXzNQMmhOanhsbXlFSU53UnBGaFVkSmdFR28xWVhFa3Z5TTlaMGtnS3lxTzBkdmpNekFNMWU3U0RzZzBmYzBjQy1qaXhNalpsNEdKVl9STUI5SFBkdTk0Y3MyM3QwYjY1b0pSS2VfazM5YWxwS3pyYUJXUXVaZjVlU2lYdlhvVWNCNEpzWlQ1MUZDbENpUUdmQmhoXzhrWGRWS2h3UFVKUlp0a3U5c2hFYnQzRw?oc=5",
-      "published": "2026-08-18T10:00:00+00:00",
-      "source": {
-        "name": "Augsburger Allgemeine",
-        "url": "https://www.augsburger-allgemeine.de"
-      }
-    },
-    {
       "id": "38b8b0aa9188",
       "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "a2c6b187f94d",
+      "title": "Fast jede vierte Apotheke ist weg: Wie Versender den Druck im Arzneimittelhandel erhöhen - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmxHRnVrZVdQXzNQMmhOanhsbXlFSU53UnBGaFVkSmdFR28xWVhFa3Z5TTlaMGtnS3lxTzBkdmpNekFNMWU3U0RzZzBmYzBjQy1qaXhNalpsNEdKVl9STUI5SFBkdTk0Y3MyM3QwYjY1b0pSS2VfazM5YWxwS3pyYUJXUXVaZjVlU2lYdlhvVWNCNEpzWlQ1MUZDbENpUUdmQmhoXzhrWGRWS2h3UFVKUlp0a3U5c2hFYnQzRw?oc=5",
+      "published": "2026-08-18T10:00:00+00:00",
+      "source": {
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
       }
     },
     {
@@ -224,12 +224,12 @@
       }
     },
     {
-      "id": "91d9d479bbed",
-      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - gesundheit.gv.at",
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
       "published": "2026-03-09T07:00:00+00:00",
       "source": {
-        "name": "gesundheit.gv.at",
+        "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
       }
     },
@@ -324,12 +324,12 @@
       }
     },
     {
-      "id": "5b3425ab81eb",
-      "title": "Diese Medikamente machen Sonne plötzlich zur Gefahr - mopo.de",
+      "id": "5dd8597bc592",
+      "title": "Diese Medikamente machen Sonne plötzlich zur Gefahr - MOPO",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnVIdHh6MWZBZTYyNlBNNVJFWWxYSUdtQkJrRTdpdXpubUM3c3FyNjVNdVk0Q0ZBaFFjeW1hN3c0ajhucG9ZT3F4b3draFhMY3FyR29PWXBmQWY4VWdHelJ5aWFZUVNycXBzbE1PQW1tQzZKdGQxMFJDUXZwdlRnU3lETEdiSW1Vb2NnRl9oSWZzdjY1SlU2SGRtN0NtWjNyM25laDB0eHRXa09jZFZVankwSGtOalE?oc=5",
       "published": "2026-08-17T12:00:00+00:00",
       "source": {
-        "name": "mopo.de",
+        "name": "MOPO",
         "url": "https://www.mopo.de"
       }
     },
@@ -624,12 +624,12 @@
       }
     },
     {
-      "id": "09e9d0a2ff53",
-      "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
+      "id": "357e06fb00a3",
+      "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
       "published": "2026-04-13T07:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
@@ -684,12 +684,12 @@
       }
     },
     {
-      "id": "1f4441bb42a2",
-      "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - DIE ZEIT",
+      "id": "ab385b82f30b",
+      "title": "Medizinprodukte: US-Arzneibehörde will Auflagen für neue Medikamente lockern - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDQ4aUF0OUVjbTB5LXZPc1JjcGo2U2RMUHdCNlpmQXV3RHFQeHJfRHlGcUZxVDRjZEVZV21TRmRTalZTdU9WN1RWeFREc212am9oREtTNjNBU0o5dW51RHM3US1WOXdFbWtnZ1RwM2diM21uTkVRN25HTVc1ZjNiM2Vhc0FjYXlBd1FadUM2RGd0UkEyalBmUWNpcmxMNTV3dUswMGlQSQ?oc=5",
       "published": "2026-02-19T08:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
@@ -764,22 +764,12 @@
       }
     },
     {
-      "id": "1cb95fe9e835",
-      "title": "Abnehmtablette: Was Sie zur Spritzen-Alternative wissen sollten - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW81SmZINDluajBQRXVmd3l0ZmVzbHJTZWNlLXJidHB5S244MDBfUlZ1ekgxYi1XLXFLVUE4YTZ1bVYwNHc1dV84ZHkweWZ4cU8wSjd6Y2ZQcV84dF9lenJuTG0waVd1ZVJyaXBuMHI2X3N0R2dkcmJ6R2dqLXBuREtUTkZNd0xXR21JZ2hkYUZlbnJhS0JzbEw4aFR6M1ZldVljdFM4RzFyNDk2MWNnLTI5T1doQQ?oc=5",
-      "published": "2026-08-13T09:56:00+00:00",
-      "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
-      }
-    },
-    {
-      "id": "d04f77528724",
-      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - DIE ZEIT",
+      "id": "090f2adcf4c5",
+      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - zeit.de",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnNYX0ZIOXRaeWxnUDA2UTMwRG5DVmhTUmNKWlNTRTJQLVNWbDAzaXpIY2FEQ0dzaTRFYzNPSE9zUEVfU2F1WkZoZmt3NWhMMkI2VkhwbU9maWFPdnBnRXdKOU8taHRHakljeUstTHlNRUxGbVNQQ3dQckcwSlhIZnZYLVFmblBWeVhVWC1NTmE3ZjhaY0x5Z092VC1Rd2tZa20wUlBxU2tpMlRrWkpnNFJYb3Jpdw?oc=5",
       "published": "2026-02-05T08:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
+        "name": "zeit.de",
         "url": "https://www.zeit.de"
       }
     },
@@ -874,12 +864,12 @@
       }
     },
     {
-      "id": "130be35f7471",
-      "title": "Pharmastrategie der Bundesregierung muss Versorgung, Finanzierung und Wirtschaftspolitik verbinden - Presseportal",
+      "id": "15aea23b7d3b",
+      "title": "Pharmastrategie der Bundesregierung muss Versorgung, Finanzierung und Wirtschaftspolitik verbinden - presseportal.de",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4dVdPWEtVVVlsV09sbkJoUm9xVkJkdW9xZ0NOY0UxYTQyV1ZwVFlrZTRwRVZ6dXJhRHltN1U3Sm5sZkxaY19yT2xIYmZDOHFVTnVJTDVpTQ?oc=5",
       "published": "2026-08-14T09:00:14+00:00",
       "source": {
-        "name": "Presseportal",
+        "name": "presseportal.de",
         "url": "https://www.presseportal.de"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Deutsches Ärzteblatt",
         "url": "https://www.aerzteblatt.de"
+      }
+    },
+    {
+      "id": "4827c0f2d4e4",
+      "title": "Gesundheit - Gesetzliche Krankenkassen fordern Maßnahmen gegen steigende Arzneimittelpreise - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2ZXSGh3TS1SUVdMakVnd0tYT040NWVQRFJQX3ZVY1VONVQ4U2lZX0xVcEZ4dXZYOURsbDJCWmM4MXVMYWJwbjE1M09oVmxVTF9UODQ4MmUtRlhVdGpuZzV1bjZOY0U4SEk5VjNEM25vU1M4a2lBNmpfa1ZzTWE2ODlBQTBfemV0M0kxMEsyTWFuYnpvd3ZVT0pFeW9aRTJhRFdHX3UtNVpONmdXNUkwMDFydmh0YXpMTVVR?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
       }
     }
   ]
