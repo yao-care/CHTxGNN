@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-19T05:24:33.980379+00:00",
+  "fetched_at": "2026-08-19T06:35:58.531546+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "bf1899a3dee3",
+      "title": "Ärzte behalten Medikamentenrabatte ein: 360 Millionen entgehen den Kassen - NZZ – Neue Zürcher Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORGdHaDE5M1RWaUVFcnJucVZrZENrcnloUVc0RFhvcnRqN19IWlpYNVRqT0t0b2czMmNtdHgtdnprSUthWFRKNl9Ra2ZhOWNobGh2S085MHVWNmRTOHhfMWJKQ1pnc1VLbXhkN0ctc3VlSmswQWdnUl90UzZpdUZtcHpib1l1UmE4QzVGRzNIcXB2eVd1VElBUTFqZU10SnBmeC1POHBYVGRkN2R1NXlyWGlpeEV2eTNha3UwMUpKbXA2LTlaWW9wb3Q3VnN5VVlXN1B5OGZCMS0tT0JNTWpBTmg3UXhfNmVTbGRsQkotelpLbjRmekE?oc=5",
+      "published": "2026-08-13T15:31:41+00:00",
+      "source": {
+        "name": "NZZ – Neue Zürcher Zeitung",
+        "url": "https://www.nzz.ch"
+      }
+    },
     {
       "id": "d39b017e6a34",
       "title": "USA: Sinkt die Adipositasrate wegen Ozempic-Effekt? - DW.com",
@@ -14,16 +24,6 @@
       }
     },
     {
-      "id": "fe43c4851ee4",
-      "title": "Gesundheitsnachrichten vom 19. August: Wie wirken sich Medikamente auf den Körper aus? | Warum verfolgen uns unvollendete Dinge? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1FLLUlYaVNHaGJmcDRneFJ4TmlqZHhIQUwtOFNXTG90WTJkZk1zZ1JRMGNybWtpZ09sOFdNX3FZSGc3YnkzN1VaQU1jZEE4bl9PaHdBTWlLVjZUZ3BvamlPd205TGp0dVlLTlhCT1VVWXdiSGRTSzJlUnRNb2dhTEJzUllqOGs5amxKSktqVjllSkNLRlY4djNTXzdkakNlOEh2Y0lWSEVSYjVYMmlydWtTS01JWEdhRmU4?oc=5",
-      "published": "2026-08-19T00:01:52+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "8d1fc40266cd",
       "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMEFNZWpPYzRReWJNTkhGRk11RnNpblJQVjNEdE1ISllXWlNUWk4yZFpWclRTOUl0M3ZJTXhSNmpMdEtuVkVWVnV3aEJXdWxld0l3dUVkdGszYnVuNEFxbldsSXNJamc?oc=5",
@@ -31,6 +31,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "fe43c4851ee4",
+      "title": "Gesundheitsnachrichten vom 19. August: Wie wirken sich Medikamente auf den Körper aus? | Warum verfolgen uns unvollendete Dinge? - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1FLLUlYaVNHaGJmcDRneFJ4TmlqZHhIQUwtOFNXTG90WTJkZk1zZ1JRMGNybWtpZ09sOFdNX3FZSGc3YnkzN1VaQU1jZEE4bl9PaHdBTWlLVjZUZ3BvamlPd205TGp0dVlLTlhCT1VVWXdiSGRTSzJlUnRNb2dhTEJzUllqOGs5amxKSktqVjllSkNLRlY4djNTXzdkakNlOEh2Y0lWSEVSYjVYMmlydWtTS01JWEdhRmU4?oc=5",
+      "published": "2026-08-19T00:01:52+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -54,12 +64,12 @@
       }
     },
     {
-      "id": "566fc4586e72",
-      "title": "Hautprobleme im Sommer: Wenn Medikamente die Haut lichtempfindlich machen - Handelsblatt",
+      "id": "41c8c878323a",
+      "title": "Hautprobleme im Sommer: Wenn Medikamente die Haut lichtempfindlich machen - handelsblatt.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFhjZ1V2ZXM2MFpPdUtoR2E2dWs1cVlMU25ucUJUVmZSSUFzMnNkbGJoYmFQeGg3aWRzbkhZSHNnUDRGZmtVbVFVWUNmcDJ4VThOZERvN3EtUl8zb3NnaTQxbUJibklPZm1BRUYtdXgwU1Ztd2hSekNXcGZfUFUxcGRIWjM4RVFyOXlFdGZ3aGYxSDV1QzA1NnVQM1dUQ2QteDZFN0JQd1IwR1NweWZjZnhXSmRmYmw0bEhmb29pSjhoaHVPYklxM1NfdjA?oc=5",
       "published": "2026-08-17T04:36:04+00:00",
       "source": {
-        "name": "Handelsblatt",
+        "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
       }
     },
@@ -134,16 +144,6 @@
       }
     },
     {
-      "id": "e37c6e8e01d3",
-      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
-      }
-    },
-    {
       "id": "ed5eb424a423",
       "title": "Stellvertretender Gesundheitsminister: Die Empfehlungen der WHO müssen in konkrete Aufgaben umgesetzt werden. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHVlVUE3d3RGcC0xWWlKajlDcG5oQXpaa1dta3VmYUtELXJIMllMazZYNTB1dTZjaXFnZFlYSUo3ZjhuQ21lOFJXaC0zYVBJYlprSlIyTHFUZTA0ZGdDQXVIekV2WGhXN09YUHZJbnhvXzB5c2xxejdGUENuMmZvMzZWWHA5RmNiMzlpWTJMSkRQU0p1REQ3V3FPOA?oc=5",
@@ -194,6 +194,16 @@
       }
     },
     {
+      "id": "e37c6e8e01d3",
+      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
+      }
+    },
+    {
       "id": "e1de92f5d1f7",
       "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
@@ -224,16 +234,6 @@
       }
     },
     {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-05-01T07:00:00+00:00",
-      "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
-      }
-    },
-    {
       "id": "c8b850eb6851",
       "title": "Keytruda – das Milliarden-Märchen eines Pharmakonzerns? - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ005MFpPNzJ1RTBHNDJYMnloM1k3UVNuTXNYcUl5UFB2RVVVbERxT3RQZzdxWjBOc1NIaW1kbE05M3Q1MmRLc21tMFlrcWFiUVZYMHVZZGxFczZ4YlJtZE5zOHNzWGs4aEJYc1RSNDJBaktQY3AtUlRzbWszcmZPbkdWYThNa2JvTkdWVGE2b2FiRlpSOXZwdHhWQTg?oc=5",
@@ -241,6 +241,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "075a40db361f",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
       }
     },
     {
@@ -304,6 +314,16 @@
       }
     },
     {
+      "id": "2ed7944d3d73",
+      "title": "Der Missbrauch von Patenten durch Roche gefährdet die Gesundheit - publiceye.ch",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTFVrYmZwUUtPNzNHNGJieVpJWGdlZkhtUjNNMDItVmVVazEydndLbnM2VVlRQldzVGhESllWVE43Ny1fTjhyMERpTzFuUjNJRUFNWU1EaXdfaF9RRXM3Rkk3b1pQR0ZWZzhKZktYVkNxRDluZjg1LXI0V04zTHV4QWZLSWhCeUJYREJqUFQ2SHVnMTBGMVRUUVNTUzZVRllUSER1bU1WaE1IZERaUEF3ZWlxc1BzQUxIOWxtenppQllPNEcwWVZhTUJCSS1oU1VXSnhPRFp4WDFFVE1kaGpKeEt3NnVHa05hYk5TN0tJaVBIZUMtX3plRHpzN2RFSDN5dnRzeFIzTVlEd1BqbkJjbU5ySDEteGZ4b1E?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "publiceye.ch",
+        "url": "https://www.publiceye.ch"
+      }
+    },
+    {
       "id": "2c4d1903c122",
       "title": "Die Entwicklung einer nationalen Arzneimittelpolitik verfolgt drei Ziele: öffentliche Gesundheit, Arzneimittelsicherheit und die Entwicklung der pharmazeutischen Industrie. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmRKWi1Nc3JrdjZQZTBTWWZOZkpvVUdwaFlvdFpfSVgwUUc5T2ZCOEkxRTRCRkJVOFlBYWQ5dXZYRjhBSGpobzFzQktSSlQ0d3ZyR21EU0ltczdhZ0dubWZ4WTBMa1NXQVhXbDVsYk1LbkNPTzc1dktVSkZ1Q1dMaE45bWxpcG9vd0JqdzNXcWRiQS1qb3FFRnRmRms1Nzdub0dvTzRzWC1SdC1jcWZHRmlIdTdnOTRBZGdjc3lkd0NkN2xGOWl6WEhhWGsxanVuZEwtTmtGQQ?oc=5",
@@ -311,16 +331,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "976b3743b89a",
-      "title": "Der Missbrauch von Patenten durch Roche gefährdet die Gesundheit - PublicEye",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTFVrYmZwUUtPNzNHNGJieVpJWGdlZkhtUjNNMDItVmVVazEydndLbnM2VVlRQldzVGhESllWVE43Ny1fTjhyMERpTzFuUjNJRUFNWU1EaXdfaF9RRXM3Rkk3b1pQR0ZWZzhKZktYVkNxRDluZjg1LXI0V04zTHV4QWZLSWhCeUJYREJqUFQ2SHVnMTBGMVRUUVNTUzZVRllUSER1bU1WaE1IZERaUEF3ZWlxc1BzQUxIOWxtenppQllPNEcwWVZhTUJCSS1oU1VXSnhPRFp4WDFFVE1kaGpKeEt3NnVHa05hYk5TN0tJaVBIZUMtX3plRHpzN2RFSDN5dnRzeFIzTVlEd1BqbkJjbU5ySDEteGZ4b1E?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "PublicEye",
-        "url": "https://www.publiceye.ch"
       }
     },
     {
@@ -474,22 +484,12 @@
       }
     },
     {
-      "id": "1648c3dfecfa",
-      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "054c2beef78c",
-      "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
+      "id": "6a1bab83b637",
+      "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - fortunebusinessinsights.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
       "published": "2026-06-29T07:00:00+00:00",
       "source": {
-        "name": "Fortune Business Insights",
+        "name": "fortunebusinessinsights.com",
         "url": "https://www.fortunebusinessinsights.com"
       }
     },
@@ -518,6 +518,16 @@
       "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "1648c3dfecfa",
+      "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
@@ -704,16 +714,6 @@
       }
     },
     {
-      "id": "54fa0a4907a2",
-      "title": "Hitze kann Wirkung von Medikamenten verändern: Branchenverband mahnt zu Vorsicht - gesundheit.de",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUw5ODJ5dkNKSG54akhlaGNlN3h5RFdRNFRrTGtsU0dyOW9wTFh0N2x6LWJLOWxPc0RsRU1WVnBpSDdGSzh3djBqTFJjbjJPMlgzR3NJVklPYTNjeVpzVmxlR1l2NWN5Y2hzR0FjTHdIVGN1bDdLMVAxd0pNSzZURUlPakdaQTZaRW9kRFZYQXplNnhZMkFsNW9ZTjZzVUxFMkdJMTJYRlBkT05tMjdyWTRKVkVXc2VCc3BkMw?oc=5",
-      "published": "2026-08-12T09:41:00+00:00",
-      "source": {
-        "name": "gesundheit.de",
-        "url": "https://www.gesundheit.de"
-      }
-    },
-    {
       "id": "6e56e1c99277",
       "title": "Onkologische Arzneimittel: Analyse der Marktsituation - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMi1WQVZnaGJPSm9GcVAzRWlGSHRDRVg2MXhXMTJUenNuQUpRcElfbjBDZVp3Y3Z1UUNzNm5PSUY0eVdXMWcyQ3J0WkUxSjVSY0xxWFJ5X0lJc3Y1VExsallLS24xQUxyUVMyTDdsWUtnTThIZjc2TWZsdGpWMlMxUDVfXzVmeXZNdlhwZGNWb0VXbFZnVEVYOFVHSmxtUjBFVEU2alRzVlpCMlJ4?oc=5",
@@ -731,6 +731,16 @@
       "source": {
         "name": "WELT",
         "url": "https://www.welt.de"
+      }
+    },
+    {
+      "id": "54fa0a4907a2",
+      "title": "Hitze kann Wirkung von Medikamenten verändern: Branchenverband mahnt zu Vorsicht - gesundheit.de",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUw5ODJ5dkNKSG54akhlaGNlN3h5RFdRNFRrTGtsU0dyOW9wTFh0N2x6LWJLOWxPc0RsRU1WVnBpSDdGSzh3djBqTFJjbjJPMlgzR3NJVklPYTNjeVpzVmxlR1l2NWN5Y2hzR0FjTHdIVGN1bDdLMVAxd0pNSzZURUlPakdaQTZaRW9kRFZYQXplNnhZMkFsNW9ZTjZzVUxFMkdJMTJYRlBkT05tMjdyWTRKVkVXc2VCc3BkMw?oc=5",
+      "published": "2026-08-12T09:41:00+00:00",
+      "source": {
+        "name": "gesundheit.de",
+        "url": "https://www.gesundheit.de"
       }
     },
     {
@@ -894,16 +904,6 @@
       }
     },
     {
-      "id": "ef93e82f3f49",
-      "title": "Medikamentenpreise in der Schweiz – häufige Fragen - Bundesamt für Gesundheit BAG",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xsQUM1X3BSSDR3SG1LRG1PUnVQdHhSTTVLU2ktV2p2VFdqbmpOWUFuSGZtRnY2OFZ3TmhHTFMzYzlNbF9QZ0h4WUp6ekxiWjdpT1ZQN3A4YUFxUFRnc09kYTBJUFhOZ1NqTmZXei0ybDY5bGF0ZDl3WHpUQnFoRFhXOA?oc=5",
-      "published": "2025-08-19T08:18:53+00:00",
-      "source": {
-        "name": "Bundesamt für Gesundheit BAG",
-        "url": "https://www.bag.admin.ch"
-      }
-    },
-    {
       "id": "5d8c89f1b6f0",
       "title": "Gesundheitsökonom Kugler: \"Wir bezahlen nur wirklich nützliche Medikamente\" - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDlDNjhEYjgwOHl4R3NZUWFqaEo4Qkd4OUZISDllZG9TcVJubHF1MnUwRVRPY2pZLWZFdlQzdktxelU5SktXdlBaSkIxcFJjN2dJUXJTYklvSFpOckcxSjdvRkxRM0RjRy0yUEtIRWVPWF9JZmNMc1d1NXFMWHFVajJ0LWY1cDh6Ql9aYmFUQnE4LVlGNUFIZW5IR0E5TU5nak5ESlB0d2hSU2U0UWJQeWRfZllHVkcyeGdMVi1uRlFFU25OV0dv?oc=5",
@@ -921,6 +921,16 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
+      }
+    },
+    {
+      "id": "ef93e82f3f49",
+      "title": "Medikamentenpreise in der Schweiz – häufige Fragen - Bundesamt für Gesundheit BAG",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xsQUM1X3BSSDR3SG1LRG1PUnVQdHhSTTVLU2ktV2p2VFdqbmpOWUFuSGZtRnY2OFZ3TmhHTFMzYzlNbF9QZ0h4WUp6ekxiWjdpT1ZQN3A4YUFxUFRnc09kYTBJUFhOZ1NqTmZXei0ybDY5bGF0ZDl3WHpUQnFoRFhXOA?oc=5",
+      "published": "2025-08-19T08:18:53+00:00",
+      "source": {
+        "name": "Bundesamt für Gesundheit BAG",
+        "url": "https://www.bag.admin.ch"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
-      }
-    },
-    {
-      "id": "59d03ee6896b",
-      "title": "Medikamente ohne Zuzahlung können ungesunde Nebenwirkungen haben - MDR.de",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1BRZ1RkZDlsQTQtUVVvek1KQlI2S2I5eUVpaHh0cGxseUJubDAxX01JeC1qRmczWTNSYWdhSnNMa3FGY2M3ZlcxVFo5UXpVMUt5RUw2T3VJMXZmdTlKOTYtaGtzY1EzZFpSVVM2UWY3YXpjM3lMOU8wMlJRbnlJY1FuTXcyMURpdHBsaVFvSDBmSm9NaGwtR3BWUEQ0c2FsTmpuZ3VnX2RkM05weXYtZkRxY2VZV3ZBWUp0OFk4RVd5MUFjZExvLXJKUjBXdWMzQzVud1RR?oc=5",
-      "published": "2026-02-12T08:00:00+00:00",
-      "source": {
-        "name": "MDR.de",
-        "url": "https://www.mdr.de"
       }
     }
   ]
