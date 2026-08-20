@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-20T10:23:58.978974+00:00",
+  "fetched_at": "2026-08-20T11:21:27.484208+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "a76fd6b08d08",
+      "title": "Warum die Entwicklung neuer Medikamente immer teurer wird - SWI swissinfo.ch",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmQ0QU9CZVRqLUEzUVhFTC1GeFY0Szl6ZGVrYmk5Z1hCMjM5WVZqdkk5eW1lM0ZJOTFIdUc5UW1ieEkwUHpjVWxCVzl6M3JtNDVJUUdzcDlXZ0VseF9Ta08ybV9IWjJYeWhsZnZiNWJQeGx3NWZHY0pnMlNVZzQyckdvQWlsNW96dkFKdHBtQW9rMnNkbjNwWUk1VG1PRzMtQ1Uta3Y2eFpYblFjX2RXakFtTGxvYUpLd21GY3IyM3otdHRHaUJn?oc=5",
+      "published": "2026-08-20T08:36:05+00:00",
+      "source": {
+        "name": "SWI swissinfo.ch",
+        "url": "https://www.swissinfo.ch"
+      }
+    },
     {
       "id": "8d1fc40266cd",
       "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
@@ -21,16 +31,6 @@
       "source": {
         "name": "NZZ – Neue Zürcher Zeitung",
         "url": "https://www.nzz.ch"
-      }
-    },
-    {
-      "id": "af287c654a3c",
-      "title": "Prämien: Die Pharma-Lobby hat die Schweiz im Griff - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpQM2o2NkNkZVZNTFVEYmZpWU44Wkk4OGtSTjl1bXp0Tk5fNVEzblVGanRNcmx0cXVydXN3NGhaM2VlMzJzTjN1Z3h1bXVFby1FeWt4eVhIZmQ5VXJDOC1UdlYzXzVEbVNKeXdlclBNWDBRdVNZeFMyZ2cyWFY3eGtHRW1wRGhVUzMwQ1ZDNFhLN0Ju?oc=5",
-      "published": "2026-08-12T07:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -71,6 +71,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "af287c654a3c",
+      "title": "Prämien: Die Pharma-Lobby hat die Schweiz im Griff - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpQM2o2NkNkZVZNTFVEYmZpWU44Wkk4OGtSTjl1bXp0Tk5fNVEzblVGanRNcmx0cXVydXN3NGhaM2VlMzJzTjN1Z3h1bXVFby1FeWt4eVhIZmQ5VXJDOC1UdlYzXzVEbVNKeXdlclBNWDBRdVNZeFMyZ2cyWFY3eGtHRW1wRGhVUzMwQ1ZDNFhLN0Ju?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -204,16 +214,6 @@
       }
     },
     {
-      "id": "e1de92f5d1f7",
-      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
-      "published": "2026-03-10T07:00:00+00:00",
-      "source": {
-        "name": "Tages-Anzeiger",
-        "url": "https://www.tagesanzeiger.ch"
-      }
-    },
-    {
       "id": "e55e30521cda",
       "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
@@ -221,6 +221,16 @@
       "source": {
         "name": "Taylor Wessing",
         "url": "https://www.taylorwessing.com"
+      }
+    },
+    {
+      "id": "e1de92f5d1f7",
+      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
+      "published": "2026-03-10T07:00:00+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
       }
     },
     {
@@ -494,12 +504,12 @@
       }
     },
     {
-      "id": "47afc2884d76",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
+      "id": "7a99adaec5c0",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "geo.de",
+        "name": "Geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de"
-      }
-    },
-    {
-      "id": "d46f6ce1c2b9",
-      "title": "Ibuprofen, Aspirin und Co.: Schmerzmittel der Gruppe NSAR können Nebenwirkungen haben - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmwyTW8wT3dfaXgyZ1VyaXFYUG1lWXY5VUZXZkkwWjd4STI2dWVSY1d3bVhub1NxRE9sNGt2bW83blh3T2hPRzlWcnVvUElQSmw4WE9KOHhscFdsSEE4TmF2cnhXaTktUWRfc3NQMnpoWmZDUXF5WWt6czNsbWdLQTRtVVJ3Mzdtb250RGVhbldmNUpVOTNDOTFhOWpldzV0MUlpVFdMRmpfOGM3WW5HbmRYaVJFT1ZzYUxn?oc=5",
-      "published": "2025-09-23T07:00:00+00:00",
-      "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
       }
     }
   ]
