@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T16:27:02.433326+00:00",
+  "fetched_at": "2026-08-21T17:23:36.130945+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -474,12 +474,12 @@
       }
     },
     {
-      "id": "7a99adaec5c0",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "id": "47afc2884d76",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Geo.de",
+        "name": "geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -804,16 +804,6 @@
       }
     },
     {
-      "id": "a2c6b187f94d",
-      "title": "Fast jede vierte Apotheke ist weg: Wie Versender den Druck im Arzneimittelhandel erhöhen - Augsburger Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmxHRnVrZVdQXzNQMmhOanhsbXlFSU53UnBGaFVkSmdFR28xWVhFa3Z5TTlaMGtnS3lxTzBkdmpNekFNMWU3U0RzZzBmYzBjQy1qaXhNalpsNEdKVl9STUI5SFBkdTk0Y3MyM3QwYjY1b0pSS2VfazM5YWxwS3pyYUJXUXVaZjVlU2lYdlhvVWNCNEpzWlQ1MUZDbENpUUdmQmhoXzhrWGRWS2h3UFVKUlp0a3U5c2hFYnQzRw?oc=5",
-      "published": "2026-08-18T10:00:00+00:00",
-      "source": {
-        "name": "Augsburger Allgemeine",
-        "url": "https://www.augsburger-allgemeine.de"
-      }
-    },
-    {
       "id": "375374e60cfb",
       "title": "Medikamente sind in der Schweiz so teuer wie noch nie - Watson",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXlFVzBnMkIydjZwMWh1SXpubTFlaDRMNTBDd1pqQUIwRVVhQWFRUkIyNExLZENjZHV0bmh3bzBjQ1ZWQ2VkNGE3QzZmUlFTTDVWZ2RvQlViUzBsZmZseEJIUDh5MHd6ekEwdC15LVRUVVplZVRvT0ZHV2lYWllZdndQQUxRc1ZfZmxYaVVINWVSR3pYR2FIaHg1NWd3VUM4ZXNGbzZ4UQ?oc=5",
@@ -821,6 +811,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "a2c6b187f94d",
+      "title": "Fast jede vierte Apotheke ist weg: Wie Versender den Druck im Arzneimittelhandel erhöhen - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmxHRnVrZVdQXzNQMmhOanhsbXlFSU53UnBGaFVkSmdFR28xWVhFa3Z5TTlaMGtnS3lxTzBkdmpNekFNMWU3U0RzZzBmYzBjQy1qaXhNalpsNEdKVl9STUI5SFBkdTk0Y3MyM3QwYjY1b0pSS2VfazM5YWxwS3pyYUJXUXVaZjVlU2lYdlhvVWNCNEpzWlQ1MUZDbENpUUdmQmhoXzhrWGRWS2h3UFVKUlp0a3U5c2hFYnQzRw?oc=5",
+      "published": "2026-08-18T10:00:00+00:00",
+      "source": {
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
       }
     },
     {
