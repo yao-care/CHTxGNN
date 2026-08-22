@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-22T12:29:27.875869+00:00",
+  "fetched_at": "2026-08-22T13:27:10.767647+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "81d531e7026f",
-      "title": "Forscher entdecken möglichen neuen Weg zu wirksameren mRNA-Medikamenten - Euronews",
+      "id": "ea195cf8a0a4",
+      "title": "Forscher entdecken möglichen neuen Weg zu wirksameren mRNA-Medikamenten - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGw3bVkyby0yMEVPc0VaRm1sVVAzYnVmcjMwS0NscG1DVkE1OVdXbXBjWFgyNHNGM0x1dXRlQkxmOGNheEVIQ1Jyem4xQWVYdlRUWkFqY0lhTWYxc3hNdEFOY0ZQSzk3YlMxTzVPWDduZWgxNmEwQk16dWxiOFM5cUJPOFc2VWZmWHhwQ25sWkduSlhQNWs5M2dSMS13eXhtQ1FqUFhITmUxdUlJTlN3Vm5VZUg3cmpy?oc=5",
       "published": "2026-08-22T06:32:45+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "540fe0d1ece6",
-      "title": "Bald gibt es die Abnehmpille auch bei uns. Ist sie besser als die Spritze? - stern.de",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUlnbGpFM216Q1F2ZzVTbmJmSDhkWlMwaVlKS2xzNjdoNGlPeDNKSjBHYnpOX2VTeG0yVzAyUXM0MVUydHhWLWdBTlVTdWlSTmhQREhpc2tNTUQ1eW1ETmZ3Y0NSZlhvemJHdkZoSXQxN3NLWGpCWEU2blZlMWFEbDl3NjNVb2xRdGVpb0xRSUhzNFdZN2psdFpESHVNTDNHR2tKdG0tOERfUQ?oc=5",
-      "published": "2026-08-21T16:04:00+00:00",
-      "source": {
-        "name": "stern.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "1d15f3b6b9c3",
       "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
@@ -251,6 +241,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "075a40db361f",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "source": {
+        "name": "ADAC",
+        "url": "https://www.adac.de"
       }
     },
     {
@@ -264,13 +264,13 @@
       }
     },
     {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
-      "published": "2026-05-01T07:00:00+00:00",
+      "id": "0fb861264008",
+      "title": "Bald gibt es die Abnehmpille auch bei uns. Ist sie besser als die Spritze? - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUlnbGpFM216Q1F2ZzVTbmJmSDhkWlMwaVlKS2xzNjdoNGlPeDNKSjBHYnpOX2VTeG0yVzAyUXM0MVUydHhWLWdBTlVTdWlSTmhQREhpc2tNTUQ1eW1ETmZ3Y0NSZlhvemJHdkZoSXQxN3NLWGpCWEU2blZlMWFEbDl3NjNVb2xRdGVpb0xRSUhzNFdZN2psdFpESHVNTDNHR2tKdG0tOERfUQ?oc=5",
+      "published": "2026-08-21T16:04:00+00:00",
       "source": {
-        "name": "ADAC",
-        "url": "https://www.adac.de"
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -344,22 +344,22 @@
       }
     },
     {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "id": "33612beccf51",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "DW.com",
+        "name": "DW",
         "url": "https://www.dw.com"
       }
     },
     {
-      "id": "edcf559b1a0c",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews",
+      "id": "08f761ee3a89",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -724,16 +724,6 @@
       }
     },
     {
-      "id": "9348bc463871",
-      "title": "Thanh Hoa: Anordnung, den Handel und die Verwendung der traditionellen Medizin *Achyranthes-Wurzel* (Ngưu tất chích rượu) einzustellen - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdng3MF9oZjk3RVM4bWdhM3dqMXlOYzRRU29fNjVzYjNpWHkyRjNOLXFqRmN5MktRcnN5cXFMcW1BRHpUdEVfakNXNlhGSmItN09QbGtjVXd0QmZEaXU1dmlXNkQ3ZXlwZXhhY1E4UkdGRHFqZnhPQjBnNThGMzFJaEhPSWZtQ3JhS2tLQmFMTnA4UjczNEhOelR4OGZTR0hPNlJsVzZOOFc1dw?oc=5",
-      "published": "2026-08-21T05:06:20+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "d9edf968b2d7",
       "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
@@ -914,22 +904,22 @@
       }
     },
     {
-      "id": "27daef187974",
-      "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - stern.de",
+      "id": "e7fc237accfb",
+      "title": "Medikamente im DM-Drogeriemarkt – Apotheken laufen Sturm - STERN.de",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG5SMnM4aXU5czJ1S2dnUzdMeFBmb3IxQVBKWGVvcVB0eUJQUjkxRU00RHEtQlRjVU1EM0Z2WF95SG85WDJPSjVNcjRTWFM1OHVXNm5pdVAxZGtDcHJTSXFpSDAtdUstM0JISWRKcEI5OXRXZ2hXSzQ3cFJqb0g5N0ZRajJtY21JUmRNNmZweXg1bEpuOXc0Rk9CNENaMHNOYTc4OGtjZw?oc=5",
       "published": "2025-12-16T08:00:00+00:00",
       "source": {
-        "name": "stern.de",
+        "name": "STERN.de",
         "url": "https://www.stern.de"
       }
     },
     {
-      "id": "ae0d47394c9c",
-      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews",
+      "id": "7223dff6ff9e",
+      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjhQS01ta3Y4VGFuVFEzZDhuanczU2hVNWJvM1BlMzlNTEJIeGNreGM5cHVWVy1rTUtlODE3alItNUdFOWlOUURwT0hsMjFSZEVQai1sTTBIWHhWaGpSWkZubGo1WFNhQjFVa05MQzNzNW1UbXpzYlZodGc0WjFmYW9FSTUwZzlTRGdkbFlZamZJVTQ3bnBtZHVwNE01QnFINmxIRFhpVmxDMmlKNEU4SGJR?oc=5",
       "published": "2025-11-03T08:00:00+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "5cfa2762dc20",
+      "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXlzU1VBOUhWa05wcTVDNnBBdHRkeDl5TnZ1S1A3T0swT2pKTjZlaU1pempxQVJkMXMySXBtd2xpaUk5WWN4Q1VyakdMbnN2eF9mRncxakUwN21WbGFQMWpuR2VoOG1tUDYtWERUbS1LSVpOdUNaTE1SWmhDSkVUdTlubVNEWGNtUXNaYk5tcTJibTRDZTJv?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
       }
     }
   ]
