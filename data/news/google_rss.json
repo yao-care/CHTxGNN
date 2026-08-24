@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T23:15:55.299560+00:00",
+  "fetched_at": "2026-08-24T01:01:02.509176+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,6 +54,16 @@
       }
     },
     {
+      "id": "c5860c59fba7",
+      "title": "CBD-Öl gegen Stress, Schmerzen und Schlafprobleme: Was ist tatsächlich belegt? - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmhpLWI4cGUtOUJSblE0SmdWTDRWY0trWlM0aVlQamxWTU40V1dSNnpXNzBvSDVVSHhrNHluSW9ZaEpSY1k5NF9kZ2lmamk3SDNBMEFzX0dHOHllMHNmYVFIODFKS0lKdE5HOHV3cEdydWo4V21BeGltOW5XWlkyU3FQOFFhS0ZmN05zZ3ljdjVwd1A3dWJ4dlVzOEdLM3JPNUN0Q1haWUlBVV84WjFJbjRn?oc=5",
+      "published": "2026-08-23T09:30:00+00:00",
+      "source": {
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
+      }
+    },
+    {
       "id": "a09b3e771b2a",
       "title": "Schweizer Bevölkerung zahlte zu viel für Medikamente – der Fall in 8 Punkten - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUZYaDBGUVlsVU53U2h6WWlndHhfNVUzYlVwbkNzVjE0bHB2SEVQVWF6Z0tBTWJCWXp1dkZjTGczbF9SdFlBZXJJaEhaWm4wNUluN0tDV202X0xvU1J0ZEZVOVFrT245ajR4LUlGUDJ6Umd1R1IwRTVfUU5TWFphejI4R3NudjZiTnl2bjlHOTlXUzFhdU1WU1ZDbGNTRVRWeGRSUXc3U3doSmg2c203R0NzWHlQYmE1amNPenN6V0c?oc=5",
@@ -104,16 +114,6 @@
       }
     },
     {
-      "id": "2ea158f4be81",
-      "title": "Impfung gegen Hautkrebs: Ein Meilenstein in der Krebsmedizin - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEZUUXdGNjBLVlN3b055cURENWxtRldFTEZpWGRqcnBuV2Q5YUF4QVhQOWZCZmp0MDlmT2dfaldnOHFwNW91NWhHZU90RVo4Zlc4LUNyNHVPbWJNUVdiNFhLM00yQXlUaEJSeTYzWW1tZjNKdklMakQ0ekxKT1V0b2M5MkNOZ3pZcFJ0TFNMWDZzNkxt?oc=5",
-      "published": "2026-08-20T14:16:04+00:00",
-      "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
-      }
-    },
-    {
       "id": "e1de92f5d1f7",
       "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
@@ -121,6 +121,16 @@
       "source": {
         "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
+      "id": "2ea158f4be81",
+      "title": "Impfung gegen Hautkrebs: Ein Meilenstein in der Krebsmedizin - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEZUUXdGNjBLVlN3b055cURENWxtRldFTEZpWGRqcnBuV2Q5YUF4QVhQOWZCZmp0MDlmT2dfaldnOHFwNW91NWhHZU90RVo4Zlc4LUNyNHVPbWJNUVdiNFhLM00yQXlUaEJSeTYzWW1tZjNKdklMakQ0ekxKT1V0b2M5MkNOZ3pZcFJ0TFNMWDZzNkxt?oc=5",
+      "published": "2026-08-20T14:16:04+00:00",
+      "source": {
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
       }
     },
     {
@@ -164,16 +174,6 @@
       }
     },
     {
-      "id": "61312f4f8713",
-      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
-      "published": "2026-06-29T07:00:00+00:00",
-      "source": {
-        "name": "Tages-Anzeiger",
-        "url": "https://www.tagesanzeiger.ch"
-      }
-    },
-    {
       "id": "a620e539ca0e",
       "title": "Singen und neue Medikamente gegen Alzheimer - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajVWOUJaNk94VXAtdHZQdnhVTHNIdnQ1VWd3NEo5RU4tNjRMbHFrQWo2d0pDU3hQaTRVWjlXeWwydUUxQ21SMWVoVXJCRWs5by03QTRMbjI1cDFnRWRPdUpLcloxV1dxN09WRnpBOUlCQV8tSGZadF95bDdkYkRodXYxaWJtdmFMdHhWeHFZMXlsMGc0VXUwRHhuanBwV3JCMjNGYUo3WlFoaVJmeHQ0MDVLbjh4ZDhCT0RxNnN2aUd0cFhzSll0ejJ1RnVSQmNPUG9IRW1xNThLdElXcjM3Zg?oc=5",
@@ -191,6 +191,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "61312f4f8713",
+      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
       }
     },
     {
@@ -364,16 +374,6 @@
       }
     },
     {
-      "id": "3b7d9e5db758",
-      "title": "Bei Hitze droht Gefahr: Viele Medikamente sind temperaturempfindlich - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd2RSZWxtaElsUm5mUm93S08yc2NuOHNIS0FqODU1emxLTFhwZWpjRk80M3FuTm1hVElEbEJnZ0NtQmtud05ENW1VTEJrZHI5d2U3eWd6MW94czJ2OGUwMHU4bERheEY1LXBrbWJZMFBOYTZEQ1FpZUR4TWlxOXJOaERrdmVyYVRpWW5sNlYtWURtTUlUU3FqSl91QUhkNUttdndnWVJZOVJ1SUZfYUNTYVIzX1NLMjRyQmdmV2tQbC1mXzFNWWJYb19LeHQ4T2tkNVN0dkstcnZ0NllpTjZ4NElscVp5R1hm?oc=5",
-      "published": "2026-08-16T09:51:00+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
-      }
-    },
-    {
       "id": "1648c3dfecfa",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -381,6 +381,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "3b7d9e5db758",
+      "title": "Bei Hitze droht Gefahr: Viele Medikamente sind temperaturempfindlich - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd2RSZWxtaElsUm5mUm93S08yc2NuOHNIS0FqODU1emxLTFhwZWpjRk80M3FuTm1hVElEbEJnZ0NtQmtud05ENW1VTEJrZHI5d2U3eWd6MW94czJ2OGUwMHU4bERheEY1LXBrbWJZMFBOYTZEQ1FpZUR4TWlxOXJOaERrdmVyYVRpWW5sNlYtWURtTUlUU3FqSl91QUhkNUttdndnWVJZOVJ1SUZfYUNTYVIzX1NLMjRyQmdmV2tQbC1mXzFNWWJYb19LeHQ4T2tkNVN0dkstcnZ0NllpTjZ4NElscVp5R1hm?oc=5",
+      "published": "2026-08-16T09:51:00+00:00",
+      "source": {
+        "name": "CHIP",
+        "url": "https://www.chip.de"
       }
     },
     {
@@ -484,12 +494,12 @@
       }
     },
     {
-      "id": "a3fe36c8de24",
-      "title": "Ärzte vs. Apotheker – Der Verteilungskampf um die Gesundheit eskaliert - welt.de",
+      "id": "d9cb7465e8c6",
+      "title": "Ärzte vs. Apotheker – Der Verteilungskampf um die Gesundheit eskaliert - WELT",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWwtS2t0RWtxOWhiY3Bpcl9oaG9YUGFZeXRJZ3ZXcFMzRU9EbTBISDdZa1pYQXZCZjZ3Z19Kd18wei11cWluU3lDQ3RSVURjN05wdVU1WTBDWGFrV0lCbnJmR3FieGVDNUlMXzhyMDV2UkhCZy00M2t1Tk5rT1lrY0VFZ0tUREZTVkhkdmYxaDZLQXgzRTlRZEJveDJQZVdYWHNNM1I1U3FQZktfWElRZDV0VlBQN0gzX2NvVURQWDNUSnA0M1JNZk9pQWNwQQ?oc=5",
       "published": "2026-07-13T07:00:00+00:00",
       "source": {
-        "name": "welt.de",
+        "name": "WELT",
         "url": "https://www.welt.de"
       }
     },
@@ -824,16 +834,6 @@
       }
     },
     {
-      "id": "a0c803609fce",
-      "title": "Halbjahresbilanz der GKV entlarvt Panikmache: Krankenkassen erwirtschaften Milliarden-Überschuss - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5ZEV4RUE3d09heHl1SUhPM0owd1hZeDRCS0FndEpPb1N4WFdMNUx0VXBuSVFBRVpwVWFMeGlxSXZRUnZWeVNQWHFfM1VweVhUNWVLRU04NA?oc=5",
-      "published": "2026-08-20T14:04:32+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "0791514ec89d",
       "title": "Steigende Arzneimittelkosten: Gesundheitsministerin Warken will Zugang zu neuen Medikamenten für alle erhalten - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenF3ckVCSXl3ZmNka21FSTVtdkdoeGRZaEQ4Nnc4ZktKZk16U0ZUd19vYWRsZDdQUDZZLVFCd2k2anZScnRpSnJtXzRCbEozRm9fMEpkcVhjZ3dwT21zQVZPX2MybWdSUHBNeTZ3TmtESDFOWFNfM0lPV1Z4M3BmUTNkLTRfVGgxRUh4OWNOblh5ZGdCaUs5WXZmR2VVaVV5d1VHR1BHUFhubGtCWlFyZWk3VnhWZjdpWE9jNE5B?oc=5",
@@ -841,6 +841,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "a0c803609fce",
+      "title": "Halbjahresbilanz der GKV entlarvt Panikmache: Krankenkassen erwirtschaften Milliarden-Überschuss - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5ZEV4RUE3d09heHl1SUhPM0owd1hZeDRCS0FndEpPb1N4WFdMNUx0VXBuSVFBRVpwVWFMeGlxSXZRUnZWeVNQWHFfM1VweVhUNWVLRU04NA?oc=5",
+      "published": "2026-08-20T14:04:32+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "c1eec9546c3c",
-      "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNek45Q0xRLXZlc1ZnTDBKcHk2cUFnMkllakFtcDJzXzU2bVh5WnBMYVhBWTNoMll4Y0FmVTlfeF9kYlIxQ25OUHdJX3VpSEVCNnBJaWIzZFljQmlEeVp2Q2R3cFRXWERWd3BORmh6OF9TeWNick9Ua0dZdWMtdDlLR3FGV3o?oc=5",
-      "published": "2025-09-22T07:00:00+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
       }
     }
   ]
