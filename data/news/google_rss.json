@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T16:30:56.770994+00:00",
+  "fetched_at": "2026-08-25T17:26:48.206219+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "20f93b335e4c",
+      "title": "9 Milliarden Franken: Medi-Preise auf Rekordhoch - Watson",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjZCNXZxVWNZQW1fa1pPVUx6RXhZajZDa090MFRvU2NINEtFdkwtSW90cnY0NEdOSjhKMTFnUTNQQk1Ib0lSOF8ydk8yVkRScUxld3pUMmVtVjZWSjk4U1Bvd001MFNnVWNSY1ZFSFhrTGF6dmhlWGcyTnBKc0Q2TXRaQ0xBMThKN0pPaDJmaktENl9RLU5hbjZFVVRaTEE?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "61312f4f8713",
       "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
@@ -284,16 +294,6 @@
       }
     },
     {
-      "id": "33612beccf51",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "DW",
-        "url": "https://www.dw.com"
-      }
-    },
-    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -324,6 +324,16 @@
       }
     },
     {
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "source": {
+        "name": "DW.com",
+        "url": "https://www.dw.com"
+      }
+    },
+    {
       "id": "08f761ee3a89",
       "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
@@ -334,16 +344,6 @@
       }
     },
     {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "177ce06ec302",
       "title": "Bewusstseinsstörungen: Auf welche Intoxikationsmerkmale Sie achten können - Ärzte Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYktTRnl1cEdkbDFWOTZPMkplM2dNdTAyakt6V0JUUnFBTzA3Tm1jUlI4QUViZmF2T1I4TDBKN0xYUGZYY3I0aE4xV3ZTVURtUXg0Y1FqWUFZR3g5eFRoOW1uZlJzdkVxSG5GLWd0Qm9ZQlNCYkl0WUFYdjZZNVEzckxpU0dGd1pGR283ZVBaTG4ybFV1S2lRQV9mRFluUGdkQWt5X3Jjd25Iajk5c29hNVMxOFFoRVg1YkoxTk1Ic2k?oc=5",
@@ -351,6 +351,16 @@
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -424,23 +434,13 @@
       }
     },
     {
-      "id": "47afc2884d76",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
+      "id": "7a99adaec5c0",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "geo.de",
+        "name": "Geo.de",
         "url": "https://www.geo.de"
-      }
-    },
-    {
-      "id": "1855fc9250b3",
-      "title": "Medikamentenkosten sind auf über 9 Milliarden gestiegen - Nau",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnhMSU5Mbkd3NEd1emNSNF9jbm4ydXJLcmFLUmkweHNaS3pkbXBfTjhNVktzMEcxcF9iem1lLUNxdVVXYmVFci1KVWRmeFdkUjlBNWdXQ2pGRE5lZE9hTUpxZkZRTEQ5RFg2ekk4d0xiYU8wT3hPTWtyUHlMb3FGZ3RfTk84MTFTMG1RNm1GWE81WGlYeDRYLXVBYUE?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "Nau",
-        "url": "https://www.nau.ch"
       }
     },
     {
@@ -474,26 +474,6 @@
       }
     },
     {
-      "id": "7596fb323e77",
-      "title": "Gesundheit im Kreis Heinsberg: Abnehmpille und Vitamin D – Apotheken warnen vor riskanten Internetkäufen - RP Online",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVFDOVQ3bkFsbmV4em9nLXlvaFM3NndTUXN3blU4OFJoM09hb1JkYnhUb25hRVl0YS01WnhvWGdqMDVEVERKMzZYdmtid3lOZ3ljZ0xiNmpEcldBOFMxTlZjRDI5aUZsbmdhMXRROXY3YS1tZUQzbnBWbnpLSjBMaVBfX3M0OXpkcnBOaTRrUDA0d29lQlNnR29QVDQxNU54RXBLVFZhb0p3ZVFTM3ZtYlBzSVd3bW1QazNVOTNVSjFnZ0E?oc=5",
-      "published": "2026-08-25T03:10:00+00:00",
-      "source": {
-        "name": "RP Online",
-        "url": "https://rp-online.de"
-      }
-    },
-    {
-      "id": "18e4cdf5076c",
-      "title": "Abnehmpille per Klick: Apotheker warnen vor dubiosen Online-Deals - Teltarif",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhaLWtuVEl1WWZrTjREcWZiMk9BUEVzbUtySkdMWlBqOXFNbWJHeHVlVXdZZ3dESWtSNTUta281TDVhYXFSSWxFamFPb0FHQTJiaEx2RmF5alltRklTNW81d25WNXA2YWQ4SXJZMHpBbzF6S3Q5VGtRcHd4aHMxYzVVTFk5dXFCM2VIWW82dGRBd2ZGRER4Qw?oc=5",
-      "published": "2026-08-25T14:00:00+00:00",
-      "source": {
-        "name": "Teltarif",
-        "url": "https://www.teltarif.de"
-      }
-    },
-    {
       "id": "e21e174e9cc9",
       "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
@@ -514,12 +494,32 @@
       }
     },
     {
-      "id": "164ad656582d",
-      "title": "USA: Weniger Adipositas wegen Ozempic-Effekt? - DW",
+      "id": "7596fb323e77",
+      "title": "Gesundheit im Kreis Heinsberg: Abnehmpille und Vitamin D – Apotheken warnen vor riskanten Internetkäufen - RP Online",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVFDOVQ3bkFsbmV4em9nLXlvaFM3NndTUXN3blU4OFJoM09hb1JkYnhUb25hRVl0YS01WnhvWGdqMDVEVERKMzZYdmtid3lOZ3ljZ0xiNmpEcldBOFMxTlZjRDI5aUZsbmdhMXRROXY3YS1tZUQzbnBWbnpLSjBMaVBfX3M0OXpkcnBOaTRrUDA0d29lQlNnR29QVDQxNU54RXBLVFZhb0p3ZVFTM3ZtYlBzSVd3bW1QazNVOTNVSjFnZ0E?oc=5",
+      "published": "2026-08-25T03:10:00+00:00",
+      "source": {
+        "name": "RP Online",
+        "url": "https://rp-online.de"
+      }
+    },
+    {
+      "id": "18e4cdf5076c",
+      "title": "Abnehmpille per Klick: Apotheker warnen vor dubiosen Online-Deals - Teltarif",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhaLWtuVEl1WWZrTjREcWZiMk9BUEVzbUtySkdMWlBqOXFNbWJHeHVlVXdZZ3dESWtSNTUta281TDVhYXFSSWxFamFPb0FHQTJiaEx2RmF5alltRklTNW81d25WNXA2YWQ4SXJZMHpBbzF6S3Q5VGtRcHd4aHMxYzVVTFk5dXFCM2VIWW82dGRBd2ZGRER4Qw?oc=5",
+      "published": "2026-08-25T14:00:00+00:00",
+      "source": {
+        "name": "Teltarif",
+        "url": "https://www.teltarif.de"
+      }
+    },
+    {
+      "id": "77b7dff3461e",
+      "title": "USA: Weniger Adipositas wegen Ozempic-Effekt? - DW.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFRMcFM1Ti1CT21Da0lRS3Nvb0gxRmp5UTQ0akFiQmNmdWVaM2g0MVlGbjc1LW1hVWlqVS1DWll0TDR4eEhEREpHT20wWDlBVEJMcndYSWVsSnQ4LUtvNjRuWWFzblhHSkpLSDZUQVpEREUyeU96QkRScmtnN1lRVjNReGRVakROTHZjMVcwR1hRZ1FpdTVQUHFhVUdBckx0cmdVYk93dWJwVkpBLUNtSUhR0gGyAUFVX3lxTE14UVQ5Q1FGV1ZaNlpNa2ZfR181ZnZFdno4R0Z6V1RFVW0zMk1LczI2cWdwVC1ETGRleFd5OVZIS004Qi1NMFJDRmlrams3d0dTN0Y1cXRkM3V3TG9kQ1FURmJ4Q1BTNXE2Zk1RVzNHV3VRMnlEVDJOZ29VNUJBd3UtSFpOb0pCZ2dLX3EwZnpBdHEyeGlzQ0xUVll3RDVJekQ5Y3B4OWxybjFZazhFNFIzekE?oc=5",
       "published": "2026-08-18T09:03:45+00:00",
       "source": {
-        "name": "DW",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -554,16 +554,6 @@
       }
     },
     {
-      "id": "9c7eaaba1281",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "200e6df95009",
       "title": "Gesundheitsminister: 60 % der in Vietnam verwendeten Medikamente werden im Inland hergestellt. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEFfYlliUk5mb2wyaWRXYW91eWNxSjBSR3gtZk42VGxEQUsyMUdQYW1kNlByb1lKcWk5UEpVUTMtWGN4SXNRLU90TVIybEdvdEYtR2dGRHpLOWZfd2JUWXZJV01VcnZOM3hpYk16bzhDZm5KV29GVmVQZzhLSFRzN0ZGMlF0SHE4cDBjRVp0b3FaaFNhZzc5U19rUjhaYTlHLW80?oc=5",
@@ -574,13 +564,13 @@
       }
     },
     {
-      "id": "8facb188a23e",
-      "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
-      "published": "2025-12-17T08:00:00+00:00",
+      "id": "9c7eaaba1281",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
+      "published": "2025-11-12T08:00:00+00:00",
       "source": {
-        "name": "Springer Nature Link",
-        "url": "https://link.springer.com"
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -594,6 +584,16 @@
       }
     },
     {
+      "id": "8facb188a23e",
+      "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
+      "published": "2025-12-17T08:00:00+00:00",
+      "source": {
+        "name": "Springer Nature Link",
+        "url": "https://link.springer.com"
+      }
+    },
+    {
       "id": "ccb310d629ed",
       "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
@@ -601,6 +601,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "735d45108e1f",
+      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
+      "published": "2026-02-21T08:00:00+00:00",
+      "source": {
+        "name": "zentralplus",
+        "url": "https://www.zentralplus.ch"
       }
     },
     {
@@ -621,16 +631,6 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
-      }
-    },
-    {
-      "id": "735d45108e1f",
-      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
-      "published": "2026-02-21T08:00:00+00:00",
-      "source": {
-        "name": "zentralplus",
-        "url": "https://www.zentralplus.ch"
       }
     },
     {
@@ -874,16 +874,6 @@
       }
     },
     {
-      "id": "b9ca65e5a941",
-      "title": "Marktbericht: dm steigt in den Gesundheitsmarkt ein - tagesschau.de",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0RWVjQ1MFJ3RDJCdFRnZ3Z1RUU4YThkS1F2bnowNnZBQWk1QlIxdWNtMFN6a19KWWlhTnFyVUNRSGNLanRyR01ZM0lxSG1HRFBqQ3l3QXBMR1F6UU43X29oLTZEODQ1TktKWmhOVVR4YW10YWY1Qm5JZlZoLU8tMlhDYw?oc=5",
-      "published": "2025-12-15T08:00:00+00:00",
-      "source": {
-        "name": "tagesschau.de",
-        "url": "https://www.tagesschau.de"
-      }
-    },
-    {
       "id": "829639537db1",
       "title": "Studie: PFAS bei vielen Medikamenten verzichtbar - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXR2b0g0aUQyTEM1RHV3aWcwbWgzeXgwZ0NjRHEwZUZtSVp2djRlQjAyV21vQWRSTldVOFZkT0ZoejZlRlpCc3h4VlVDaldIOW1KZHB4RUVnTDh4V3RMTmx5aDV1QWFKdWxhRzk4S1hRUERxdFpoZUdPNHdpR29yOGFrd0lmUUR0VmxPa0lGX2w?oc=5",
@@ -891,6 +881,16 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "b9ca65e5a941",
+      "title": "Marktbericht: dm steigt in den Gesundheitsmarkt ein - tagesschau.de",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0RWVjQ1MFJ3RDJCdFRnZ3Z1RUU4YThkS1F2bnowNnZBQWk1QlIxdWNtMFN6a19KWWlhTnFyVUNRSGNLanRyR01ZM0lxSG1HRFBqQ3l3QXBMR1F6UU43X29oLTZEODQ1TktKWmhOVVR4YW10YWY1Qm5JZlZoLU8tMlhDYw?oc=5",
+      "published": "2025-12-15T08:00:00+00:00",
+      "source": {
+        "name": "tagesschau.de",
+        "url": "https://www.tagesschau.de"
       }
     },
     {
