@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T04:41:41.440439+00:00",
+  "fetched_at": "2026-08-26T05:29:41.333184+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "f58e17f68346",
-      "title": "Kommt jetzt „Sport in Tablettenform“? - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnR0Ykc2NWlPRTJaQWhpVjlGR3B2Mkh3bHkzaHBCam9yZ3NZWE14SHc2UzJsM2xFZFFQREczN0Vva29mUlplTEtvUzV5dlB4eWdZXzZKWjZSdXFQVFY1aXJXY2NDcUtDX3ZRNjNiU2xocGxIYVk3VE1wNGp6bXQzSjVzeFF1WG5ReFZOcHR0ZHp1UmNxY2dYNEhWUTk1OHU4bGtqVmtfTkUwWHYxNDd0MWZwNC1jeHd3X01pRXVzUGcydVkxbVZhVWJIWdIB0AFBVV95cUxQM2J4cUkwd3gzaGJNOXB3NF85dWFzby1oQVZNZlZPdVpqOUdJVjRlQk1XdE1veHdEQ2ExS0l4UVl0OXJodGRoRTFTcHN4VGFJT0MxMnljLWl1dnZVSWw0YVI4RG9wb1Fqcm5JZlFzUFVpRlZUZi13ZE9OYV92ekprNVJNeXRtTVlncms2alFtZzZiUVpFRFlBRUx3TVdqZGtVcDNhSVNuMFI4OW1wV29PcTBFal9OZWRYUnlwemhzWU5haDMtanRWa3pRTi02aXh5?oc=5",
-      "published": "2026-08-25T07:12:00+00:00",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
-      }
-    },
-    {
       "id": "3ef1faabcc13",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "f58e17f68346",
+      "title": "Kommt jetzt „Sport in Tablettenform“? - RaiNews",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnR0Ykc2NWlPRTJaQWhpVjlGR3B2Mkh3bHkzaHBCam9yZ3NZWE14SHc2UzJsM2xFZFFQREczN0Vva29mUlplTEtvUzV5dlB4eWdZXzZKWjZSdXFQVFY1aXJXY2NDcUtDX3ZRNjNiU2xocGxIYVk3VE1wNGp6bXQzSjVzeFF1WG5ReFZOcHR0ZHp1UmNxY2dYNEhWUTk1OHU4bGtqVmtfTkUwWHYxNDd0MWZwNC1jeHd3X01pRXVzUGcydVkxbVZhVWJIWdIB0AFBVV95cUxQM2J4cUkwd3gzaGJNOXB3NF85dWFzby1oQVZNZlZPdVpqOUdJVjRlQk1XdE1veHdEQ2ExS0l4UVl0OXJodGRoRTFTcHN4VGFJT0MxMnljLWl1dnZVSWw0YVI4RG9wb1Fqcm5JZlFzUFVpRlZUZi13ZE9OYV92ekprNVJNeXRtTVlncms2alFtZzZiUVpFRFlBRUx3TVdqZGtVcDNhSVNuMFI4OW1wV29PcTBFal9OZWRYUnlwemhzWU5haDMtanRWa3pRTi02aXh5?oc=5",
+      "published": "2026-08-25T07:12:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it"
       }
     },
     {
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "101f01548376",
-      "title": "Vitamin D und Abnehmpille: Essener Apotheker warnen vor dubiosen Online-Angeboten - WAZ",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2VmTkExV1JFVzdjQkY5d0t1eXNFSGFOb0hhdXZtSXc3Z0swNTlSU3hUZklJMjR4UE9FSUhqaUFVWFpYOWRRZmNOb1FteVU3Wjk0cTdzSklqZVV5Vlg0R2xVT1BrcDhkTXhhanBlVzluNkFycVc0SWgzX3BWLVlReXg3cVlva2I2UjhwOTRGSlp3eGVsMnhielQ1RHphRVA5dDJ0X3NmZ3o0enpwbERjVXo1TGYzV3RPUVdMNmJVMEMxN1dLZXE2WjRMNjFjbHM2?oc=5",
-      "published": "2026-08-26T03:00:00+00:00",
-      "source": {
-        "name": "WAZ",
-        "url": "https://www.waz.de"
-      }
-    },
-    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -151,6 +141,16 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
+      "id": "101f01548376",
+      "title": "Vitamin D und Abnehmpille: Essener Apotheker warnen vor dubiosen Online-Angeboten - WAZ",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2VmTkExV1JFVzdjQkY5d0t1eXNFSGFOb0hhdXZtSXc3Z0swNTlSU3hUZklJMjR4UE9FSUhqaUFVWFpYOWRRZmNOb1FteVU3Wjk0cTdzSklqZVV5Vlg0R2xVT1BrcDhkTXhhanBlVzluNkFycVc0SWgzX3BWLVlReXg3cVlva2I2UjhwOTRGSlp3eGVsMnhielQ1RHphRVA5dDJ0X3NmZ3o0enpwbERjVXo1TGYzV3RPUVdMNmJVMEMxN1dLZXE2WjRMNjFjbHM2?oc=5",
+      "published": "2026-08-26T03:00:00+00:00",
+      "source": {
+        "name": "WAZ",
+        "url": "https://www.waz.de"
       }
     },
     {
@@ -724,16 +724,6 @@
       }
     },
     {
-      "id": "18e4cdf5076c",
-      "title": "Abnehmpille per Klick: Apotheker warnen vor dubiosen Online-Deals - Teltarif",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhaLWtuVEl1WWZrTjREcWZiMk9BUEVzbUtySkdMWlBqOXFNbWJHeHVlVXdZZ3dESWtSNTUta281TDVhYXFSSWxFamFPb0FHQTJiaEx2RmF5alltRklTNW81d25WNXA2YWQ4SXJZMHpBbzF6S3Q5VGtRcHd4aHMxYzVVTFk5dXFCM2VIWW82dGRBd2ZGRER4Qw?oc=5",
-      "published": "2026-08-25T14:00:00+00:00",
-      "source": {
-        "name": "Teltarif",
-        "url": "https://www.teltarif.de"
-      }
-    },
-    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -741,6 +731,16 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "18e4cdf5076c",
+      "title": "Abnehmpille per Klick: Apotheker warnen vor dubiosen Online-Deals - Teltarif",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhaLWtuVEl1WWZrTjREcWZiMk9BUEVzbUtySkdMWlBqOXFNbWJHeHVlVXdZZ3dESWtSNTUta281TDVhYXFSSWxFamFPb0FHQTJiaEx2RmF5alltRklTNW81d25WNXA2YWQ4SXJZMHpBbzF6S3Q5VGtRcHd4aHMxYzVVTFk5dXFCM2VIWW82dGRBd2ZGRER4Qw?oc=5",
+      "published": "2026-08-25T14:00:00+00:00",
+      "source": {
+        "name": "Teltarif",
+        "url": "https://www.teltarif.de"
       }
     },
     {
