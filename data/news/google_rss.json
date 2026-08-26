@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T10:30:22.812066+00:00",
+  "fetched_at": "2026-08-26T11:24:33.190754+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "101f01548376",
-      "title": "Vitamin D und Abnehmpille: Essener Apotheker warnen vor dubiosen Online-Angeboten - WAZ",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2VmTkExV1JFVzdjQkY5d0t1eXNFSGFOb0hhdXZtSXc3Z0swNTlSU3hUZklJMjR4UE9FSUhqaUFVWFpYOWRRZmNOb1FteVU3Wjk0cTdzSklqZVV5Vlg0R2xVT1BrcDhkTXhhanBlVzluNkFycVc0SWgzX3BWLVlReXg3cVlva2I2UjhwOTRGSlp3eGVsMnhielQ1RHphRVA5dDJ0X3NmZ3o0enpwbERjVXo1TGYzV3RPUVdMNmJVMEMxN1dLZXE2WjRMNjFjbHM2?oc=5",
-      "published": "2026-08-26T03:00:00+00:00",
-      "source": {
-        "name": "WAZ",
-        "url": "https://www.waz.de"
-      }
-    },
-    {
       "id": "71c2e69b9417",
       "title": "EU lässt erstmals Abnehmpille zu - südtirol.ORF.at",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRXRpR3pHWk9zTHRtQ0tiYlVieGhZOWZsc0E3eS1QNGtNa0I2S3lsUTM2VjZUYXNfTU9HWnFmeFgyV082R1ZYRnc1d3Y0NHlMVHdF?oc=5",
@@ -104,13 +94,23 @@
       }
     },
     {
-      "id": "2ea158f4be81",
-      "title": "Impfung gegen Hautkrebs: Ein Meilenstein in der Krebsmedizin - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEZUUXdGNjBLVlN3b055cURENWxtRldFTEZpWGRqcnBuV2Q5YUF4QVhQOWZCZmp0MDlmT2dfaldnOHFwNW91NWhHZU90RVo4Zlc4LUNyNHVPbWJNUVdiNFhLM00yQXlUaEJSeTYzWW1tZjNKdklMakQ0ekxKT1V0b2M5MkNOZ3pZcFJ0TFNMWDZzNkxt?oc=5",
-      "published": "2026-08-20T14:16:04+00:00",
+      "id": "101f01548376",
+      "title": "Vitamin D und Abnehmpille: Essener Apotheker warnen vor dubiosen Online-Angeboten - WAZ",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2VmTkExV1JFVzdjQkY5d0t1eXNFSGFOb0hhdXZtSXc3Z0swNTlSU3hUZklJMjR4UE9FSUhqaUFVWFpYOWRRZmNOb1FteVU3Wjk0cTdzSklqZVV5Vlg0R2xVT1BrcDhkTXhhanBlVzluNkFycVc0SWgzX3BWLVlReXg3cVlva2I2UjhwOTRGSlp3eGVsMnhielQ1RHphRVA5dDJ0X3NmZ3o0enpwbERjVXo1TGYzV3RPUVdMNmJVMEMxN1dLZXE2WjRMNjFjbHM2?oc=5",
+      "published": "2026-08-26T03:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
+        "name": "WAZ",
+        "url": "https://www.waz.de"
+      }
+    },
+    {
+      "id": "7258de72df30",
+      "title": "Vitamin-D-Mangel: Für wen ist das Risiko besonders hoch? - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2xCTGhuUV9kLUZTN1Uta2d1RUJFa2tFTDhBQ0dYdnB5U3FheG53LTdaSlAyZXBzWm02bnJwMHpCOURiZ2NCbHN3Vlo0Qi02TDlud2VGOGt6R3N4RzJ5X2RhSENsX0E2VHN3SXVSNFQ4czFCZW9taVB0dmFHU0V3X0tjYTNYRk5HdWJ3bzB6cVowYzhKT0xOWUVCR3hydmdHMHhBNVRTWEUxM2djbmVNd3VMMnMzZw?oc=5",
+      "published": "2026-08-26T11:19:49+00:00",
+      "source": {
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
       }
     },
     {
@@ -121,6 +121,16 @@
       "source": {
         "name": "interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "2ea158f4be81",
+      "title": "Impfung gegen Hautkrebs: Ein Meilenstein in der Krebsmedizin - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEZUUXdGNjBLVlN3b055cURENWxtRldFTEZpWGRqcnBuV2Q5YUF4QVhQOWZCZmp0MDlmT2dfaldnOHFwNW91NWhHZU90RVo4Zlc4LUNyNHVPbWJNUVdiNFhLM00yQXlUaEJSeTYzWW1tZjNKdklMakQ0ekxKT1V0b2M5MkNOZ3pZcFJ0TFNMWDZzNkxt?oc=5",
+      "published": "2026-08-20T14:16:04+00:00",
+      "source": {
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
       }
     },
     {
@@ -154,16 +164,6 @@
       }
     },
     {
-      "id": "95fb89102eb5",
-      "title": "Experten aus Hilden und Haan: Abnehmpille und Vitamin D – Apotheker warnen vor dubiosen Online-Trends - RP Online",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDhzV0hweWt4alh4eGFlU3JRdW9XeGhrbXpWU25Lc01TSHFxWG1yaW1DZ01jNkNYanB3SWxXSFI1b3FKWlRjNU5TcHZzRGIzUy1OZERZelBMZ1YwbFhYMkhWVFpsSkxrUTJ5bFZ3S2VMYnUza3FfM0wzRFpBN2xyZlZac2ZhOS1aRlEtYW1NNXBQbGpvMUVwRGU4bERILVJ0bHBQeG5fTTZsVGRL?oc=5",
-      "published": "2026-08-24T15:45:00+00:00",
-      "source": {
-        "name": "RP Online",
-        "url": "https://rp-online.de"
-      }
-    },
-    {
       "id": "8e6dfc62765a",
       "title": "Bewusstseinsstörungen: Auf welche Intoxikationsmerkmale Sie achten können - AerzteZeitung.de",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYktTRnl1cEdkbDFWOTZPMkplM2dNdTAyakt6V0JUUnFBTzA3Tm1jUlI4QUViZmF2T1I4TDBKN0xYUGZYY3I0aE4xV3ZTVURtUXg0Y1FqWUFZR3g5eFRoOW1uZlJzdkVxSG5GLWd0Qm9ZQlNCYkl0WUFYdjZZNVEzckxpU0dGd1pGR283ZVBaTG4ybFV1S2lRQV9mRFluUGdkQWt5X3Jjd25Iajk5c29hNVMxOFFoRVg1YkoxTk1Ic2k?oc=5",
@@ -191,6 +191,16 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "95fb89102eb5",
+      "title": "Experten aus Hilden und Haan: Abnehmpille und Vitamin D – Apotheker warnen vor dubiosen Online-Trends - RP Online",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDhzV0hweWt4alh4eGFlU3JRdW9XeGhrbXpWU25Lc01TSHFxWG1yaW1DZ01jNkNYanB3SWxXSFI1b3FKWlRjNU5TcHZzRGIzUy1OZERZelBMZ1YwbFhYMkhWVFpsSkxrUTJ5bFZ3S2VMYnUza3FfM0wzRFpBN2xyZlZac2ZhOS1aRlEtYW1NNXBQbGpvMUVwRGU4bERILVJ0bHBQeG5fTTZsVGRL?oc=5",
+      "published": "2026-08-24T15:45:00+00:00",
+      "source": {
+        "name": "RP Online",
+        "url": "https://rp-online.de"
       }
     },
     {
@@ -324,12 +334,12 @@
       }
     },
     {
-      "id": "8db31424e5bb",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -404,16 +414,6 @@
       }
     },
     {
-      "id": "18e4cdf5076c",
-      "title": "Abnehmpille per Klick: Apotheker warnen vor dubiosen Online-Deals - Teltarif",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhaLWtuVEl1WWZrTjREcWZiMk9BUEVzbUtySkdMWlBqOXFNbWJHeHVlVXdZZ3dESWtSNTUta281TDVhYXFSSWxFamFPb0FHQTJiaEx2RmF5alltRklTNW81d25WNXA2YWQ4SXJZMHpBbzF6S3Q5VGtRcHd4aHMxYzVVTFk5dXFCM2VIWW82dGRBd2ZGRER4Qw?oc=5",
-      "published": "2026-08-25T14:00:00+00:00",
-      "source": {
-        "name": "Teltarif",
-        "url": "https://www.teltarif.de"
-      }
-    },
-    {
       "id": "ae3d250cee54",
       "title": "Todesfälle mit Tavneos: Swissmedic wartet ab - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHNPLXpycS1URHYwNXkxYXppM2pnV2pPc2ZBRVR6cmxxZkZhU2ZjYUdRYXBqNUJpa3FwcWVnTkRfcV9IVlZ4WmFZV3hHNGxXUmdoU1MtRTFWdjBNTUZXNnY4WnBpYkVQV2lZRUJuang4dGlwejZwU1l3RE5FT2JQRHhDQ1o3OTNJS1BTZXgtRkpjVzJ1WWxfazdOVXdaWWxQQVpxOHJ6Z1BWQVhT?oc=5",
@@ -421,6 +421,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "18e4cdf5076c",
+      "title": "Abnehmpille per Klick: Apotheker warnen vor dubiosen Online-Deals - Teltarif",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhaLWtuVEl1WWZrTjREcWZiMk9BUEVzbUtySkdMWlBqOXFNbWJHeHVlVXdZZ3dESWtSNTUta281TDVhYXFSSWxFamFPb0FHQTJiaEx2RmF5alltRklTNW81d25WNXA2YWQ4SXJZMHpBbzF6S3Q5VGtRcHd4aHMxYzVVTFk5dXFCM2VIWW82dGRBd2ZGRER4Qw?oc=5",
+      "published": "2026-08-25T14:00:00+00:00",
+      "source": {
+        "name": "Teltarif",
+        "url": "https://www.teltarif.de"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "432315fa2251",
-      "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
-      "published": "2025-11-20T08:00:00+00:00",
-      "source": {
-        "name": "tagesschau.de",
-        "url": "https://www.tagesschau.de"
       }
     }
   ]
