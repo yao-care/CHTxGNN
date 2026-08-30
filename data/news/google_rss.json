@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T22:15:09.841218+00:00",
+  "fetched_at": "2026-08-30T00:58:53.521924+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,6 +11,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "1421636aad10",
+      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeE9zejliNGZXSmxFd1NpSS02ODhwVW5rWDhUSFBIV252NHlabVVadkpjanY4WkFPT3hmTWN3dHBYLXRFdDBXTkRjTGh1dVFqN3NtWEVRVTU4WUg4aUVjejFndlR0T2RKSUtXenRjLVF4d0liVW9mSnhMTGVXZENwZHRPZTVrYU5vMkJVMWxSSkJweEhWNzNlT05pNFhSOGlWTGthQXlLdFdYZkFiUTJqLVg1NjhoYTAyaGJIMHhvT0dUeEtwSHZ0VU5pNS1aOVNjWk9TaF9MeUx0ckQwNVliU1NIXzltLVMzTWc?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -134,16 +144,6 @@
       }
     },
     {
-      "id": "e55e30521cda",
-      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
-      "published": "2026-05-04T09:31:59+00:00",
-      "source": {
-        "name": "Taylor Wessing",
-        "url": "https://www.taylorwessing.com"
-      }
-    },
-    {
       "id": "e4d74f6ebf64",
       "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
@@ -151,6 +151,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "e55e30521cda",
+      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
+      "published": "2026-05-04T09:31:59+00:00",
+      "source": {
+        "name": "Taylor Wessing",
+        "url": "https://www.taylorwessing.com"
       }
     },
     {
@@ -174,16 +184,6 @@
       }
     },
     {
-      "id": "1d15f3b6b9c3",
-      "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
-      "published": "2026-07-30T07:00:00+00:00",
-      "source": {
-        "name": "MDR.de",
-        "url": "https://www.mdr.de"
-      }
-    },
-    {
       "id": "669cb125b1fb",
       "title": "Migräneprophylaxe: Wie wirksam und verträglich sind die empfohlenen Medikamente? - AerzteZeitung.de",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUG9XRUtFVjk5NnRxa2lIS2k3ZjY0R3J4dW52clRqNVRZQ191LXpqOGxHWWxzTjNyT3pzQktiMU1WdVlaNmZSdk5ydW5UaDRpdUlfUlYyQzZwekJ0OE1Id1U3alB1eEVNYm9KcklnRXpEQzNzYWlfeXBXSHlscTB2azBPb3NMd2hUajRfNGNWcWlZUjVHR2dBdTlpU2ZISDJzZDNNZm5GVFBUcjNqdFlaT1g0S0poMGhPV1pzdEkwNnQwWDQzdUpTcQ?oc=5",
@@ -201,6 +201,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "1d15f3b6b9c3",
+      "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "source": {
+        "name": "MDR.de",
+        "url": "https://www.mdr.de"
       }
     },
     {
@@ -274,6 +284,16 @@
       }
     },
     {
+      "id": "7a99adaec5c0",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": {
+        "name": "Geo.de",
+        "url": "https://www.geo.de"
+      }
+    },
+    {
       "id": "101f01548376",
       "title": "Vitamin D und Abnehmpille: Essener Apotheker warnen vor dubiosen Online-Angeboten - WAZ",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2VmTkExV1JFVzdjQkY5d0t1eXNFSGFOb0hhdXZtSXc3Z0swNTlSU3hUZklJMjR4UE9FSUhqaUFVWFpYOWRRZmNOb1FteVU3Wjk0cTdzSklqZVV5Vlg0R2xVT1BrcDhkTXhhanBlVzluNkFycVc0SWgzX3BWLVlReXg3cVlva2I2UjhwOTRGSlp3eGVsMnhielQ1RHphRVA5dDJ0X3NmZ3o0enpwbERjVXo1TGYzV3RPUVdMNmJVMEMxN1dLZXE2WjRMNjFjbHM2?oc=5",
@@ -281,16 +301,6 @@
       "source": {
         "name": "WAZ",
         "url": "https://www.waz.de"
-      }
-    },
-    {
-      "id": "47afc2884d76",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
-      "published": "2026-06-19T07:00:00+00:00",
-      "source": {
-        "name": "geo.de",
-        "url": "https://www.geo.de"
       }
     },
     {
@@ -394,16 +404,6 @@
       }
     },
     {
-      "id": "5431265615fd",
-      "title": "Patente und Profitorientierung blockieren Arzneimittel: Warum Millionen keinen Zugang haben - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0JSbmVWcVk1ajdydzIzRF9PM2hHQWFaYWNuSjhZbmZBbXplUGFBNklQVFptakVZdGN5UVA4VW9fS3VoRmluVzd5OHV1MXJMM3NudGpTdHR5MEI4dExjSmIzM0VoVUtCeHU2VnFfWGNTSVZYWFBsOEhValduakNSd1Z1TTZEM20zTFF0R3RLYy1NWHYza196cEkwM1ljMEtKdDdCdU1TN0J2LVU0Sk9UckdzRXpJNHVMdzZvaG9Ya2FxNEk?oc=5",
-      "published": "2026-07-31T07:00:00+00:00",
-      "source": {
-        "name": "Frankfurter Rundschau",
-        "url": "https://www.fr.de"
-      }
-    },
-    {
       "id": "e1de92f5d1f7",
       "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
@@ -411,6 +411,16 @@
       "source": {
         "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
+      "id": "5431265615fd",
+      "title": "Patente und Profitorientierung blockieren Arzneimittel: Warum Millionen keinen Zugang haben - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0JSbmVWcVk1ajdydzIzRF9PM2hHQWFaYWNuSjhZbmZBbXplUGFBNklQVFptakVZdGN5UVA4VW9fS3VoRmluVzd5OHV1MXJMM3NudGpTdHR5MEI4dExjSmIzM0VoVUtCeHU2VnFfWGNTSVZYWFBsOEhValduakNSd1Z1TTZEM20zTFF0R3RLYy1NWHYza196cEkwM1ljMEtKdDdCdU1TN0J2LVU0Sk9UckdzRXpJNHVMdzZvaG9Ya2FxNEk?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "source": {
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
       }
     },
     {
@@ -431,16 +441,6 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
-      }
-    },
-    {
-      "id": "e5c2064707e7",
-      "title": "Pankreaskrebs: Neues Medikament verdoppelt Überlebensdauer - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmtzaDc0T0ZnUjlVTmNXWUVFYVQza01VaUcxejhxeGVrWVNhdXRFcHdLS3FGa1ZXTk5DdmcwYlhwSkc3XzQ5UGdRMUh6bTRoMEU3T2p0OUt0dklaSEV0Y2h4YlZlTUtmZVBKT20tVVRfY0M3MnRWR2V3a21kVE1sMTdaMlBRclEyYy1RanFvUWZOMlM1VU1LUFhsbWNKZDE0NzNyMlZGcEJqRFE?oc=5",
-      "published": "2026-08-28T23:02:45+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -481,6 +481,16 @@
       "source": {
         "name": "oekotest.de",
         "url": "https://www.oekotest.de"
+      }
+    },
+    {
+      "id": "e5c2064707e7",
+      "title": "Pankreaskrebs: Neues Medikament verdoppelt Überlebensdauer - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmtzaDc0T0ZnUjlVTmNXWUVFYVQza01VaUcxejhxeGVrWVNhdXRFcHdLS3FGa1ZXTk5DdmcwYlhwSkc3XzQ5UGdRMUh6bTRoMEU3T2p0OUt0dklaSEV0Y2h4YlZlTUtmZVBKT20tVVRfY0M3MnRWR2V3a21kVE1sMTdaMlBRclEyYy1RanFvUWZOMlM1VU1LUFhsbWNKZDE0NzNyMlZGcEJqRFE?oc=5",
+      "published": "2026-08-28T23:02:45+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -864,6 +874,16 @@
       }
     },
     {
+      "id": "db5e5ef8605c",
+      "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
+      "published": "2026-02-17T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "8facb188a23e",
       "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
@@ -901,6 +921,16 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "735d45108e1f",
+      "title": "Warum brauchbare Medikamente im Abfall landen - zentralplus",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGpqeEU1MXZGa00wT1kzdmN4akRlUVRyNXVtRWRwVU12cTdWWl9Pb3FwZnljN1kyQml5d2dVRnJVdkRkQ0ExZjlpaGpnWVVYQzVmTlN6TmJUZ0l1cWhvVEg4RGs4Q0tZdmlvOUZYeEJ1amU1MmRtQ3o2N2JXWEl3YXdscWF3MGs4aXFXLUZfN1pUX3VJU0JpektvRWRoQjVHaVE?oc=5",
+      "published": "2026-02-21T08:00:00+00:00",
+      "source": {
+        "name": "zentralplus",
+        "url": "https://www.zentralplus.ch"
       }
     },
     {
@@ -971,36 +1001,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "4ddd3b0b9cdd",
-      "title": "Der besseren Zugänglichkeit neuartiger Arzneimittel einen Schritt näher - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdDMjNkUmRfZGZEcmtCREJrU0FKZVhObWw5ZGxuZVBJMVo5alUyc1Z6ZjI5YjJYVzhrOTFYbVJJamdJYUZiY1haT1hjUGpWSWhrb0Exd1B2U0htVkVFUnpmQTRpdVV4R1hZcUFnakg4dUdGTUxYQUgtYlhJWHFJUC1MUXpLVmNPN25PSG9MUWl6TnpNenJGRGxZQWd2RXlvbnlDRUdsOHVqZjJJ?oc=5",
-      "published": "2024-04-15T07:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "0d877deab3c8",
-      "title": "Usbekistan will Bezahlbarkeit von Medikamenten auf der Ebene der primären Gesundheitsversorgung verbessern - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHcxc3ZFWkhLcWVKS3RfWW5xSUZBUFVCQkdxb1pGZGlqai1UWjE1S2s3cG5KMEJCdjFPQ0hQZnc4X0o4bVVSTHhKZURfeWRXb01vNkkzUG5CcGQ0YlZXZjZSQXBfdHVBc0l1S0MzdHBBejJUMVJTQURsS0ZQdG9HVkczVFZXdjNKZWgzZmhGdnpVdl9oZHUzRjRYOXRWLUFWTC1ZR2tBVy04NWtrM2lpYVlKNEw1eUl4TWpqT0JGZUxpdnBRbmJIUk5peENtS1VJRG1sdzR6bw?oc=5",
-      "published": "2024-11-26T08:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
-      "id": "d04f77528724",
-      "title": "Arzneimittel: Apothekerverband registriert deutlich gestiegene Ausgaben für Arzneien - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnNYX0ZIOXRaeWxnUDA2UTMwRG5DVmhTUmNKWlNTRTJQLVNWbDAzaXpIY2FEQ0dzaTRFYzNPSE9zUEVfU2F1WkZoZmt3NWhMMkI2VkhwbU9maWFPdnBnRXdKOU8taHRHakljeUstTHlNRUxGbVNQQ3dQckcwSlhIZnZYLVFmblBWeVhVWC1NTmE3ZjhaY0x5Z092VC1Rd2tZa20wUlBxU2tpMlRrWkpnNFJYb3Jpdw?oc=5",
-      "published": "2026-02-05T08:00:00+00:00",
-      "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
       }
     }
   ]
