@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T23:05:30.961444+00:00",
+  "fetched_at": "2026-08-31T03:15:06.917532+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,6 +44,16 @@
       }
     },
     {
+      "id": "0e7fc7c3985d",
+      "title": "Medikamentenversand bei Hitze: Was ein Testkauf zeigt - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYmNQMnNsejF2Z2Ria0wxLWVsdUo0MmFzZFBtWU1Wa0JibjRRa29fMmxEOWczUHJEOGFNb0VQM1l1b3gyeDdEenBrLXRZbXAzekppZlJCYmZtOHlrTHlUaEpZTUFGOHAxbDY5a3dmLVdMOVlXdWZxekM5NndXdnhEa25nVmgxdi15U2E2UlVXSXZWY01nUHNFbHpkcUFJOXpPTDA3Q19DYTBwN0kyNlo4RmQ5NEYwV2lTU1YxZTVteWVEWWN6aEt6U2xRZkFZeG1HQ3A5OE5jYXozMXpTWmNkVGJSVTh0UGZnVnN3aHZ3ZkFhc3lPb25ITVlybDZ6dmZLOWhlblhIeEYwLVVoZG1veUNB?oc=5",
+      "published": "2026-08-31T03:02:43+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
+      }
+    },
+    {
       "id": "a09b3e771b2a",
       "title": "Schweizer Bevölkerung zahlte zu viel für Medikamente – der Fall in 8 Punkten - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUZYaDBGUVlsVU53U2h6WWlndHhfNVUzYlVwbkNzVjE0bHB2SEVQVWF6Z0tBTWJCWXp1dkZjTGczbF9SdFlBZXJJaEhaWm4wNUluN0tDV202X0xvU1J0ZEZVOVFrT245ajR4LUlGUDJ6Umd1R1IwRTVfUU5TWFphejI4R3NudjZiTnl2bjlHOTlXUzFhdU1WU1ZDbGNTRVRWeGRSUXc3U3doSmg2c203R0NzWHlQYmE1amNPenN6V0c?oc=5",
@@ -64,16 +74,6 @@
       }
     },
     {
-      "id": "928ceb4617ed",
-      "title": "Abnehmspritze: Ozempic verändert die ganze Welt - FAZ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWZXY21RTVFEZHNveFo0Z3pRb3Z6STk4Rk14U0lTT3ZnYmxjaVFJcjVrVWpURjdMZzR4X3h6UVZERzZZSWNzSmVyblFPZXhBb0tSZTNVQWdhdWl6Y3JiYm44VHA3bE43c0pKb0hqMlRkNVZidUJXTVBkQklTZEg1YXhtYzZxZEN1dVlxQkVPS3VzSTNxajVKYnVuX1JqUW9IMHBtU1dnNHhjY1FCWV9fcWlBeWg3U3NvalE?oc=5",
-      "published": "2026-08-26T11:29:25+00:00",
-      "source": {
-        "name": "FAZ",
-        "url": "https://www.faz.net"
-      }
-    },
-    {
       "id": "38b8b0aa9188",
       "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
@@ -81,6 +81,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "928ceb4617ed",
+      "title": "Abnehmspritze: Ozempic verändert die ganze Welt - FAZ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWZXY21RTVFEZHNveFo0Z3pRb3Z6STk4Rk14U0lTT3ZnYmxjaVFJcjVrVWpURjdMZzR4X3h6UVZERzZZSWNzSmVyblFPZXhBb0tSZTNVQWdhdWl6Y3JiYm44VHA3bE43c0pKb0hqMlRkNVZidUJXTVBkQklTZEg1YXhtYzZxZEN1dVlxQkVPS3VzSTNxajVKYnVuX1JqUW9IMHBtU1dnNHhjY1FCWV9fcWlBeWg3U3NvalE?oc=5",
+      "published": "2026-08-26T11:29:25+00:00",
+      "source": {
+        "name": "FAZ",
+        "url": "https://www.faz.net"
       }
     },
     {
@@ -101,16 +111,6 @@
       "source": {
         "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
-      }
-    },
-    {
-      "id": "7e2a5b11d39d",
-      "title": "Pressekonferenz in Sana'a über die Auswirkungen der saudischen Blockade und das Leiden von Patienten mit chronischen Krankheiten - وكالة سبأ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPeGlZbkZydTVkMnlMNXpfUGpfVW9VQlJaOHFCZUhDaC05Ulctck9ZUFRmOGxxNEdfekV6WmxMUVlxM1VGYW51MkxCb2hLZDg?oc=5",
-      "published": "2026-08-30T13:58:46+00:00",
-      "source": {
-        "name": "وكالة سبأ",
-        "url": "https://www.saba.ye"
       }
     },
     {
@@ -144,13 +144,13 @@
       }
     },
     {
-      "id": "e4d74f6ebf64",
-      "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
-      "published": "2026-07-03T07:19:40+00:00",
+      "id": "7e2a5b11d39d",
+      "title": "Pressekonferenz in Sana'a über die Auswirkungen der saudischen Blockade und das Leiden von Patienten mit chronischen Krankheiten - وكالة سبأ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPeGlZbkZydTVkMnlMNXpfUGpfVW9VQlJaOHFCZUhDaC05Ulctck9ZUFRmOGxxNEdfekV6WmxMUVlxM1VGYW51MkxCb2hLZDg?oc=5",
+      "published": "2026-08-30T13:58:46+00:00",
       "source": {
-        "name": "euractiv.com",
-        "url": "https://euractiv.com"
+        "name": "وكالة سبأ",
+        "url": "https://www.saba.ye"
       }
     },
     {
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "e4d74f6ebf64",
+      "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
+      "published": "2026-07-03T07:19:40+00:00",
+      "source": {
+        "name": "euractiv.com",
+        "url": "https://euractiv.com"
+      }
+    },
+    {
       "id": "2a4cd6eb6d1d",
       "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
@@ -211,16 +221,6 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "f13df0447f07",
-      "title": "Nesselsucht nach Tabletten-Einnahme: Wie Sie bei Arzneimittel-Allergien vorgehen sollten - AerzteZeitung.de",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYmM5SjMxcDZJejRwcDZDN1A2R3U3QUZVeTduTXVwbl84aGpPV29pTEtJLW9xVDJrNGM3bGxhSlg5TW84QzR0Uzl0ekEzd3pwNXQwMUNEUTBIWDQ5WDhVWE15bnJEUmE0VTJmMk54aTQzU0lfZW55bFRuMHp4Z21tUGxzd2VHNmtlSy1zaWxYRW9wNVlzekNyYlRMZlVaRDVVUHJ5TC1QWTh2SHEwYTZZUVFwXzhFTkx6UWNZVElMUQ?oc=5",
-      "published": "2026-08-24T03:00:00+00:00",
-      "source": {
-        "name": "AerzteZeitung.de",
-        "url": "https://www.aerztezeitung.de"
       }
     },
     {
@@ -254,6 +254,16 @@
       }
     },
     {
+      "id": "f13df0447f07",
+      "title": "Nesselsucht nach Tabletten-Einnahme: Wie Sie bei Arzneimittel-Allergien vorgehen sollten - AerzteZeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYmM5SjMxcDZJejRwcDZDN1A2R3U3QUZVeTduTXVwbl84aGpPV29pTEtJLW9xVDJrNGM3bGxhSlg5TW84QzR0Uzl0ekEzd3pwNXQwMUNEUTBIWDQ5WDhVWE15bnJEUmE0VTJmMk54aTQzU0lfZW55bFRuMHp4Z21tUGxzd2VHNmtlSy1zaWxYRW9wNVlzekNyYlRMZlVaRDVVUHJ5TC1QWTh2SHEwYTZZUVFwXzhFTkx6UWNZVElMUQ?oc=5",
+      "published": "2026-08-24T03:00:00+00:00",
+      "source": {
+        "name": "AerzteZeitung.de",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
       "id": "bb553491699c",
       "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openPetition",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
@@ -284,12 +294,12 @@
       }
     },
     {
-      "id": "08f761ee3a89",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
+      "id": "edcf559b1a0c",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "Euronews",
         "url": "https://de.euronews.com"
       }
     },
@@ -354,16 +364,6 @@
       }
     },
     {
-      "id": "a48a34dcb337",
-      "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
-      "published": "2026-07-05T07:00:00+00:00",
-      "source": {
-        "name": "Jüdische Allgemeine",
-        "url": "https://www.juedische-allgemeine.de"
-      }
-    },
-    {
       "id": "7a99adaec5c0",
       "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
@@ -401,6 +401,16 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "a48a34dcb337",
+      "title": "Opioide: Israel führt weltweit beim Pro-Kopf-Konsum - Jüdische Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVF2WFVHNi01ZVZ4STRQeWMxTW9FN1lFYS1jdy0tRXhzcGRCazhCMWdWLWVpcHZzcEVNYUpqNE40OVgzYU1TazBoOXBEdkZtVEE3R3ZST0Y4WHJXcHNzWVdFdGx6aUJ6eWNIN3pEeFg0SnU0RWc?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "source": {
+        "name": "Jüdische Allgemeine",
+        "url": "https://www.juedische-allgemeine.de"
       }
     },
     {
@@ -544,16 +554,6 @@
       }
     },
     {
-      "id": "669cb125b1fb",
-      "title": "Migräneprophylaxe: Wie wirksam und verträglich sind die empfohlenen Medikamente? - AerzteZeitung.de",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUG9XRUtFVjk5NnRxa2lIS2k3ZjY0R3J4dW52clRqNVRZQ191LXpqOGxHWWxzTjNyT3pzQktiMU1WdVlaNmZSdk5ydW5UaDRpdUlfUlYyQzZwekJ0OE1Id1U3alB1eEVNYm9KcklnRXpEQzNzYWlfeXBXSHlscTB2azBPb3NMd2hUajRfNGNWcWlZUjVHR2dBdTlpU2ZISDJzZDNNZm5GVFBUcjNqdFlaT1g0S0poMGhPV1pzdEkwNnQwWDQzdUpTcQ?oc=5",
-      "published": "2026-08-24T03:00:00+00:00",
-      "source": {
-        "name": "AerzteZeitung.de",
-        "url": "https://www.aerztezeitung.de"
-      }
-    },
-    {
       "id": "a91bce131989",
       "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
@@ -614,6 +614,16 @@
       }
     },
     {
+      "id": "669cb125b1fb",
+      "title": "Migräneprophylaxe: Wie wirksam und verträglich sind die empfohlenen Medikamente? - AerzteZeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUG9XRUtFVjk5NnRxa2lIS2k3ZjY0R3J4dW52clRqNVRZQ191LXpqOGxHWWxzTjNyT3pzQktiMU1WdVlaNmZSdk5ydW5UaDRpdUlfUlYyQzZwekJ0OE1Id1U3alB1eEVNYm9KcklnRXpEQzNzYWlfeXBXSHlscTB2azBPb3NMd2hUajRfNGNWcWlZUjVHR2dBdTlpU2ZISDJzZDNNZm5GVFBUcjNqdFlaT1g0S0poMGhPV1pzdEkwNnQwWDQzdUpTcQ?oc=5",
+      "published": "2026-08-24T03:00:00+00:00",
+      "source": {
+        "name": "AerzteZeitung.de",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
       "id": "ccc37dea8549",
       "title": "Arzneimittel: Nutzen für Gesundheit, Lebensqualität und Wirtschaft - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUlobHJUaWg5MGJ5NW1VNVRFZ1pWdHZCbzRHX0s1eTNEUXc3V05tckRCaG96ZEFGZ3dCMVVmdUN4MXdKRmZwQVFtR29rQmxCQkRybko4ZUczdWJURnI3TF9VLVhBZEdrUk51aXp4aE14YkJ6M3JpdlBteWFoSllaR3ZBemJ4NW9TSEtCNms2SkM0b2lyYkhFdkZtUFpTTUs0OWlsb05HZnlKWThCUGUwbWRB?oc=5",
@@ -654,13 +664,13 @@
       }
     },
     {
-      "id": "29aa78d02717",
-      "title": "Landtagswahlen Sachsen-Anhalt: Schulze: »Die Apotheke vor Ort ist nicht zu ersetzen« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1hidGh0bmo3MFFjcjBnWWI3M09JOEV2NGRrTjU2bzE4NU1zSml4dU83am9yUDUwdkFkalJnVWRDYVJDWmNNSXp4RHpLNFVSU1BQSzdtNGJ0ODMwYUYyRHR3NnZjTUFHaGtpNUZiaEw5cU5fMFJpU0VVdVRNbk9JYjR4Tll4Ui02X21iYnZWOVh4aU9sVkFMU3FZa0o5QQ?oc=5",
-      "published": "2026-08-26T07:00:00+00:00",
+      "id": "5431265615fd",
+      "title": "Patente und Profitorientierung blockieren Arzneimittel: Warum Millionen keinen Zugang haben - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0JSbmVWcVk1ajdydzIzRF9PM2hHQWFaYWNuSjhZbmZBbXplUGFBNklQVFptakVZdGN5UVA4VW9fS3VoRmluVzd5OHV1MXJMM3NudGpTdHR5MEI4dExjSmIzM0VoVUtCeHU2VnFfWGNTSVZYWFBsOEhValduakNSd1Z1TTZEM20zTFF0R3RLYy1NWHYza196cEkwM1ljMEtKdDdCdU1TN0J2LVU0Sk9UckdzRXpJNHVMdzZvaG9Ya2FxNEk?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
       }
     },
     {
@@ -671,16 +681,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "5431265615fd",
-      "title": "Patente und Profitorientierung blockieren Arzneimittel: Warum Millionen keinen Zugang haben - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0JSbmVWcVk1ajdydzIzRF9PM2hHQWFaYWNuSjhZbmZBbXplUGFBNklQVFptakVZdGN5UVA4VW9fS3VoRmluVzd5OHV1MXJMM3NudGpTdHR5MEI4dExjSmIzM0VoVUtCeHU2VnFfWGNTSVZYWFBsOEhValduakNSd1Z1TTZEM20zTFF0R3RLYy1NWHYza196cEkwM1ljMEtKdDdCdU1TN0J2LVU0Sk9UckdzRXpJNHVMdzZvaG9Ya2FxNEk?oc=5",
-      "published": "2026-07-31T07:00:00+00:00",
-      "source": {
-        "name": "Frankfurter Rundschau",
-        "url": "https://www.fr.de"
       }
     },
     {
@@ -711,6 +711,16 @@
       "source": {
         "name": "Tagesspiegel",
         "url": "https://www.tagesspiegel.de"
+      }
+    },
+    {
+      "id": "29aa78d02717",
+      "title": "Landtagswahlen Sachsen-Anhalt: Schulze: »Die Apotheke vor Ort ist nicht zu ersetzen« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1hidGh0bmo3MFFjcjBnWWI3M09JOEV2NGRrTjU2bzE4NU1zSml4dU83am9yUDUwdkFkalJnVWRDYVJDWmNNSXp4RHpLNFVSU1BQSzdtNGJ0ODMwYUYyRHR3NnZjTUFHaGtpNUZiaEw5cU5fMFJpU0VVdVRNbk9JYjR4Tll4Ui02X21iYnZWOVh4aU9sVkFMU3FZa0o5QQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -874,6 +884,16 @@
       }
     },
     {
+      "id": "ae0d47394c9c",
+      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjhQS01ta3Y4VGFuVFEzZDhuanczU2hVNWJvM1BlMzlNTEJIeGNreGM5cHVWVy1rTUtlODE3alItNUdFOWlOUURwT0hsMjFSZEVQai1sTTBIWHhWaGpSWkZubGo1WFNhQjFVa05MQzNzNW1UbXpzYlZodGc0WjFmYW9FSTUwZzlTRGdkbFlZamZJVTQ3bnBtZHVwNE01QnFINmxIRFhpVmxDMmlKNEU4SGJR?oc=5",
+      "published": "2025-11-03T08:00:00+00:00",
+      "source": {
+        "name": "Euronews",
+        "url": "https://de.euronews.com"
+      }
+    },
+    {
       "id": "7258de72df30",
       "title": "Vitamin-D-Mangel: Für wen ist das Risiko besonders hoch? - Augsburger Allgemeine",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2xCTGhuUV9kLUZTN1Uta2d1RUJFa2tFTDhBQ0dYdnB5U3FheG53LTdaSlAyZXBzWm02bnJwMHpCOURiZ2NCbHN3Vlo0Qi02TDlud2VGOGt6R3N4RzJ5X2RhSENsX0E2VHN3SXVSNFQ4czFCZW9taVB0dmFHU0V3X0tjYTNYRk5HdWJ3bzB6cVowYzhKT0xOWUVCR3hydmdHMHhBNVRTWEUxM2djbmVNd3VMMnMzZw?oc=5",
@@ -884,16 +904,6 @@
       }
     },
     {
-      "id": "7223dff6ff9e",
-      "title": "Spanien kämpft mit Medikamentenmangel durch Abhängigkeit von China - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjhQS01ta3Y4VGFuVFEzZDhuanczU2hVNWJvM1BlMzlNTEJIeGNreGM5cHVWVy1rTUtlODE3alItNUdFOWlOUURwT0hsMjFSZEVQai1sTTBIWHhWaGpSWkZubGo1WFNhQjFVa05MQzNzNW1UbXpzYlZodGc0WjFmYW9FSTUwZzlTRGdkbFlZamZJVTQ3bnBtZHVwNE01QnFINmxIRFhpVmxDMmlKNEU4SGJR?oc=5",
-      "published": "2025-11-03T08:00:00+00:00",
-      "source": {
-        "name": "Euronews.com",
-        "url": "https://de.euronews.com"
-      }
-    },
-    {
       "id": "618351e249d1",
       "title": "Haushaltspläne: Mehr Geld für Produktion kritischer Arzneimittel, keine Mittel für Gesundheit und Pflege - Deutsches Ärzteblatt",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa19XTmtzLWdGTUNhcTkyNVVMZnhDVnlNVkxETGwwVDZ1X3dFVExwZEpDZU0wREhkUk91WEgwV0lJSXEwNTJydG1TbjVRV0FVRy1rUDhwYWtBeVdkYVJuSXo2SmhPUHJ1cWRZYWc3YW5pN21mc18wZUp4Y2FSZG53QnJQZk1RZ2FFeXBxN2VkUDRFYy16ZjgxQkNSc3ppZ1ZPWGdNdG9SanVveHNHc2ZUQU5qV2JDQXpINnVVd2x5eXplUnBDZjJCdGJLRk9QemRtaEpvYlNrTjM0anBWaDRDbHBYY1d2NUtZY1N2Zmx1SWU?oc=5",
@@ -901,16 +911,6 @@
       "source": {
         "name": "Deutsches Ärzteblatt",
         "url": "https://www.aerzteblatt.de"
-      }
-    },
-    {
-      "id": "71c2e69b9417",
-      "title": "EU lässt erstmals Abnehmpille zu - südtirol.ORF.at",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRXRpR3pHWk9zTHRtQ0tiYlVieGhZOWZsc0E3eS1QNGtNa0I2S3lsUTM2VjZUYXNfTU9HWnFmeFgyV082R1ZYRnc1d3Y0NHlMVHdF?oc=5",
-      "published": "2026-08-24T10:48:11+00:00",
-      "source": {
-        "name": "südtirol.ORF.at",
-        "url": "https://suedtirol.orf.at"
       }
     },
     {
@@ -964,16 +964,6 @@
       }
     },
     {
-      "id": "eb232e3bb3c6",
-      "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlo3TGZhRDI5UkJJZ3dmZWxEV0RQZm0xTXZWNzY0d0pRZkJCTTduUEg2U3JueV9jT3ViUXZuYTcxVkJZa1NBZkY1WFV2Ui1zZm9NQU81N0JIS1MwbmFJODlFVTVDbEFUNEExLTN0TzhZT25UVk1Rd0NVdmprM0hfVm1GZVhrSjZDYzYzc1dlTEltbWFCTnpXZGlETXdmcXlwbHRaaVllTEEwUF9XYVE?oc=5",
-      "published": "2025-09-22T07:00:00+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "ca3fbb8f0e20",
       "title": "SPD macht Arzneimittelversorgung zur Sicherheitsfrage - gesundheit adhoc",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUx0Nm5DX2dXSFptbnJSOFlNVzVxaHpReWZiSVVVb0JMSnFzR3dVOHdiYzVEOGRaczRySGhxSVI3TlJOa3BJdzRyejl3bEhObFE0WWxKTVJ4NFd4MVJ2eW43RFF5dUFrNFNlTnZnZWZaVXRoMk14VlZPVi0yREtsa2ZIOURjQUpvNVZSMlV5cw?oc=5",
@@ -981,6 +971,16 @@
       "source": {
         "name": "gesundheit adhoc",
         "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
+      "id": "eb232e3bb3c6",
+      "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlo3TGZhRDI5UkJJZ3dmZWxEV0RQZm0xTXZWNzY0d0pRZkJCTTduUEg2U3JueV9jT3ViUXZuYTcxVkJZa1NBZkY1WFV2Ui1zZm9NQU81N0JIS1MwbmFJODlFVTVDbEFUNEExLTN0TzhZT25UVk1Rd0NVdmprM0hfVm1GZVhrSjZDYzYzc1dlTEltbWFCTnpXZGlETXdmcXlwbHRaaVllTEEwUF9XYVE?oc=5",
+      "published": "2025-09-22T07:00:00+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
