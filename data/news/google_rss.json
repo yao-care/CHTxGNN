@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-09-01T07:09:23.422376+00:00",
+  "fetched_at": "2026-09-01T13:00:15.365556+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "e745da0dae39",
-      "title": "Hitzewelle: Zu heiß für den Medikamentenversand? - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFpweWlmUW0xajBaR2VMSFI3NU5pam9SX2dCWGdBVEx0cm94Mkh2ZjhLYl9uNldzWDV2UDViclFJTExQWGJsWnpBSkxyQ3B5cGNGSktVSEx5Y2xsTExwMFBmU0E3T0tDRDVPTDFhNTBfRVlVWVpfZHlVdEdXMWtVVnFKT2o5c2FKbGVYc1N0ZHQ1bk1Ram5uQXBjN0VuNld0NzNVZFJBcmpwemNsanc?oc=5",
-      "published": "2026-08-31T14:40:04+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
     {
       "id": "1421636aad10",
       "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
@@ -24,13 +14,23 @@
       }
     },
     {
-      "id": "ef2ed256b619",
-      "title": "(S+) Wegovy/Semaglutid: Was Sie zur neuen Abnehmtablette wissen müssen - Spiegel",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1ZqQjZLcXRvYTFvSmw1bEQ0S3d1VGI4MGdZcU5jZ0VOQUJmYU5iQjk5QVYyeWl2UzBSX05YSGdkVlFvV0Z5MHYzSjFORnhXTm1Pb09rcWY5Mi1XYUtfeTBOWmN2MEZfbTU0OVlZYjFzZ0JDTXhrcFBkRkNYRDhQQzVyZm55dGx1R1lPVklRakxtbDRfOXFaVWtrb2NDa0EyYWk3eWd4aVlzbV9WMEpNajlKbTctSGJ5MFg4S0k5MHZiZmlHMDZwZU9laGY0amtNUHRMNg?oc=5",
-      "published": "2026-09-01T06:43:00+00:00",
+      "id": "98530fefc2d5",
+      "title": "Bundesamt warnt vor Nahrungsergänzungsmitteln mit Lithium - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjM0YnVMN3Q4MG53WmdxZWotbEJzODN3cl9VT1kyM2YyOElVUTVWMUNraldPbnhmd2JmbzM1bVdFYWdSYjB3bFJWRnE5VVZWYkNxcVJVNWUzcFMxZTllYmVxaGhhNGE2YlE5SUpzOU5EQVRJbGdYLW9IZm1GcVZsbnlYMlFjWElHRzJILUNPTEVidVB2QkIzaVV6SWhKUzVVd3lfZHF3MkJCLURhamlEdEgyeHlnckVsMmR3?oc=5",
+      "published": "2026-09-01T08:27:30+00:00",
       "source": {
-        "name": "Spiegel",
-        "url": "https://www.spiegel.de"
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
+      }
+    },
+    {
+      "id": "ce2882990a55",
+      "title": "Hitzewelle: Zu heiß für den Medikamentenversand? - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFpweWlmUW0xajBaR2VMSFI3NU5pam9SX2dCWGdBVEx0cm94Mkh2ZjhLYl9uNldzWDV2UDViclFJTExQWGJsWnpBSkxyQ3B5cGNGSktVSEx5Y2xsTExwMFBmU0E3T0tDRDVPTDFhNTBfRVlVWVpfZHlVdEdXMWtVVnFKT2o5c2FKbGVYc1N0ZHQ1bk1Ram5uQXBjN0VuNld0NzNVZFJBcmpwemNsanc?oc=5",
+      "published": "2026-08-31T14:40:04+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -44,6 +44,16 @@
       }
     },
     {
+      "id": "ef2ed256b619",
+      "title": "(S+) Wegovy/Semaglutid: Was Sie zur neuen Abnehmtablette wissen müssen - Spiegel",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1ZqQjZLcXRvYTFvSmw1bEQ0S3d1VGI4MGdZcU5jZ0VOQUJmYU5iQjk5QVYyeWl2UzBSX05YSGdkVlFvV0Z5MHYzSjFORnhXTm1Pb09rcWY5Mi1XYUtfeTBOWmN2MEZfbTU0OVlZYjFzZ0JDTXhrcFBkRkNYRDhQQzVyZm55dGx1R1lPVklRakxtbDRfOXFaVWtrb2NDa0EyYWk3eWd4aVlzbV9WMEpNajlKbTctSGJ5MFg4S0k5MHZiZmlHMDZwZU9laGY0amtNUHRMNg?oc=5",
+      "published": "2026-09-01T06:43:00+00:00",
+      "source": {
+        "name": "Spiegel",
+        "url": "https://www.spiegel.de"
+      }
+    },
+    {
       "id": "3c85d0f87a4d",
       "title": "Medikament gegen Krebs: »Ein echter Durchbruch« - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUVhaUlIeXBtYndmQUxKTDJtaktMZU5GVjg3ejRFQkx4YkE5cnZXenlGU3FRWHBTdE9qMnNFckdHRFVhZjB4UnNGY3g3MWEtZWJ1M0ZkTGhzcEpUMHdzNm9OX1l4OUswcWcwb25vWkVkeEZRV2RJZjZxa19CZ3VnRU00S1ZYdnNybDJTQmFzdFZPOXhNbWJvbGFndGJrcUREY1VkaFRpNkwyUQ?oc=5",
@@ -51,26 +61,6 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "ed4f7029ac4d",
-      "title": "Durchbrüche in der Medizin – worauf wir jetzt hoffen dürfen - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQy1tOXNUMHYxZ0lVVkxSOHFrWTdkZGxlUFRiLTV3LS1BOUhNb2tLdHItTmNjWmllMlJKVTRaOXJDTlFkdXZBWnpfUmFCWUtsdTZxcExrY0ViSzV2MDRfc1gtaVZxd3d1WWx1MGRXV1pKRV9wWWJUYUQwWVZuc3JveW11M1YtTk14ZE0wbzBVOVZWWXVaTXNiYzJRSFU1VktjUEUtWg?oc=5",
-      "published": "2026-08-31T09:59:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
-      "id": "c61b16e8a725",
-      "title": "Schmerzmittel, Insulin und Co.: Diesen Einfluss hat der weibliche Zyklus auf die Wirkung von Medikamenten - Augsburger Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2lhWllvV3luR3RLc1RiY2d2NnBxZ2tJMFlKdzhkelVKdmhUT2xHeGNjWUhHWmFNNEhBdXA3eFBacUxST1RDMERIc1ZRbWlPLXdrRC1BMHExc3pIVXE4QlNCdEZra1V0S0QxN09wbW9NMUhnTF9OS3lheGNmQlpXWkZMNTc5UFZHdzFoQlhSdzdXMVJiLWZTYVZ3cWVnV1o1aXFhcklacldrbkFRZjBQVHhBYkJjeEc3d21ENDhNNkhMbzRBUUdnXzRVM2ZjZkdTeVhBVXVwOXpJeUVVWVJmQmlYeC1PdlFLVzBiLWhGSkVidw?oc=5",
-      "published": "2026-08-31T12:09:25+00:00",
-      "source": {
-        "name": "Augsburger Allgemeine",
-        "url": "https://www.augsburger-allgemeine.de"
       }
     },
     {
@@ -84,16 +74,6 @@
       }
     },
     {
-      "id": "da19a04bfc86",
-      "title": "Erste Pille gegen hohes Cholesterin auf dem Markt – für wen sie geeignet ist - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaDBiM2ozTmtiQkxqZzRpT1R0WVc0bkNlaldBb0JwV2tMTWl1MHh0dVV3T2dQd290R3BWQmZoYzhfYnBnNzh5VWN1WFJFbmNGZGxMZTZ1Rm9tLVJCR01UdE9qNktfT0tHU2lWYTh1cGo2V0Q0eE52NklRWGVLR2RteG0tMjBhWmZIb1ItZi1ETGRKREtQcG9Cc2tUWHRGd1o2VnJSMzN6ZUNza3ZSVTRrWEdmbUhiSkpZSUxnZ2EyckF2MzdyRWQtSlU5NXFBNDQ?oc=5",
-      "published": "2026-09-01T05:00:00+00:00",
-      "source": {
-        "name": "Frankfurter Rundschau",
-        "url": "https://www.fr.de"
-      }
-    },
-    {
       "id": "af287c654a3c",
       "title": "Prämien: Die Pharma-Lobby hat die Schweiz im Griff - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpQM2o2NkNkZVZNTFVEYmZpWU44Wkk4OGtSTjl1bXp0Tk5fNVEzblVGanRNcmx0cXVydXN3NGhaM2VlMzJzTjN1Z3h1bXVFby1FeWt4eVhIZmQ5VXJDOC1UdlYzXzVEbVNKeXdlclBNWDBRdVNZeFMyZ2cyWFY3eGtHRW1wRGhVUzMwQ1ZDNFhLN0Ju?oc=5",
@@ -101,16 +81,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "03bc5de4371f",
-      "title": "Arzneiversand: Warum in Sachen Kühlung eine systematische Überwachungslücke besteht - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVd2R2tkOHhLNHU4TUJUOUd2bUZYZWt0MjBVXzYzTFFSYkF2VUl5TmFaWXItVzkzakR2Zm0xMHdJczhUUUFYS2R1U1hZSmxGcm8zeXpyTHdiT0FyVzFSZkptajNNaWw0Tm1oR2lTaDZoSllpdktadjZGaHFTcG5NTjNyUVBGQkpycDFNM21sOUZJNzZ2MTk0YW1NZ0lzTnU4NE5WM24xOS1RN1djQVZBSXpvY1FNV2dxU3pQZDJTdG9pbk45c0Z5QlpORzNFREFy?oc=5",
-      "published": "2026-08-31T15:10:25+00:00",
-      "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
       }
     },
     {
@@ -124,6 +94,26 @@
       }
     },
     {
+      "id": "df5bfde8c738",
+      "title": "Abnehmtablette kommt in deutsche Apotheken: Wirkt sie wie die Abnehmspritze? - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMnVfOTJnb3h4OUZ1NERXRUdkQzk3UTlPYUhCeEVjRmJOeWpIelI2b3JCeF9WcHhxZ0cwVWZXd2J1eUdpZjVVUFJ4WHQ2eWNMclliamJEMFR1cHQwc0dwN0VoTnk1Q0lUTktYOE9MMXBYT0UtUEtCSkMzNW52ejFmLUxQZUgtcTlFbTVJYy1KT2lUcUFQVHkzR0pmYmFZbkg2Nk4xbUVRN0hPT2M0bTFrU1RmRzFZWFZIMWNNeW9Rcl8wUHFWSjlSLVlaOA?oc=5",
+      "published": "2026-09-01T07:44:00+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
+    {
+      "id": "ed4f7029ac4d",
+      "title": "Durchbrüche in der Medizin – worauf wir jetzt hoffen dürfen - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQy1tOXNUMHYxZ0lVVkxSOHFrWTdkZGxlUFRiLTV3LS1BOUhNb2tLdHItTmNjWmllMlJKVTRaOXJDTlFkdXZBWnpfUmFCWUtsdTZxcExrY0ViSzV2MDRfc1gtaVZxd3d1WWx1MGRXV1pKRV9wWWJUYUQwWVZuc3JveW11M1YtTk14ZE0wbzBVOVZWWXVaTXNiYzJRSFU1VktjUEUtWg?oc=5",
+      "published": "2026-08-31T09:59:00+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
+      }
+    },
+    {
       "id": "a09b3e771b2a",
       "title": "Schweizer Bevölkerung zahlte zu viel für Medikamente – der Fall in 8 Punkten - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUZYaDBGUVlsVU53U2h6WWlndHhfNVUzYlVwbkNzVjE0bHB2SEVQVWF6Z0tBTWJCWXp1dkZjTGczbF9SdFlBZXJJaEhaWm4wNUluN0tDV202X0xvU1J0ZEZVOVFrT245ajR4LUlGUDJ6Umd1R1IwRTVfUU5TWFphejI4R3NudjZiTnl2bjlHOTlXUzFhdU1WU1ZDbGNTRVRWeGRSUXc3U3doSmg2c203R0NzWHlQYmE1amNPenN6V0c?oc=5",
@@ -131,6 +121,26 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "c61b16e8a725",
+      "title": "Schmerzmittel, Insulin und Co.: Diesen Einfluss hat der weibliche Zyklus auf die Wirkung von Medikamenten - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2lhWllvV3luR3RLc1RiY2d2NnBxZ2tJMFlKdzhkelVKdmhUT2xHeGNjWUhHWmFNNEhBdXA3eFBacUxST1RDMERIc1ZRbWlPLXdrRC1BMHExc3pIVXE4QlNCdEZra1V0S0QxN09wbW9NMUhnTF9OS3lheGNmQlpXWkZMNTc5UFZHdzFoQlhSdzdXMVJiLWZTYVZ3cWVnV1o1aXFhcklacldrbkFRZjBQVHhBYkJjeEc3d21ENDhNNkhMbzRBUUdnXzRVM2ZjZkdTeVhBVXVwOXpJeUVVWVJmQmlYeC1PdlFLVzBiLWhGSkVidw?oc=5",
+      "published": "2026-08-31T12:09:25+00:00",
+      "source": {
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
+      }
+    },
+    {
+      "id": "03bc5de4371f",
+      "title": "Arzneiversand: Warum in Sachen Kühlung eine systematische Überwachungslücke besteht - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVd2R2tkOHhLNHU4TUJUOUd2bUZYZWt0MjBVXzYzTFFSYkF2VUl5TmFaWXItVzkzakR2Zm0xMHdJczhUUUFYS2R1U1hZSmxGcm8zeXpyTHdiT0FyVzFSZkptajNNaWw0Tm1oR2lTaDZoSllpdktadjZGaHFTcG5NTjNyUVBGQkpycDFNM21sOUZJNzZ2MTk0YW1NZ0lzTnU4NE5WM24xOS1RN1djQVZBSXpvY1FNV2dxU3pQZDJTdG9pbk45c0Z5QlpORzNFREFy?oc=5",
+      "published": "2026-08-31T15:10:25+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
       }
     },
     {
@@ -144,6 +154,16 @@
       }
     },
     {
+      "id": "7a4b0d24029c",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - who.int",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int"
+      }
+    },
+    {
       "id": "0cae5dba7266",
       "title": "Abnehmpille statt Spritze: Was sich dadurch ändern wird - quarks.de",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByZjB4azFXVzJHcmJoOVExN2x3ZlQydmdmLS1Zc01CWWpfYUpWMm5SMUpUZEJYck5WMUp4VVgxY0RqakZTcmJTTWRGb2JaTE1CVTJwNFJ6X0ZiQTdRX2hfZmJQOHBUYkNvZWlydzQxTnZXQWZh?oc=5",
@@ -154,13 +174,13 @@
       }
     },
     {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
+      "id": "79aecf5ebbde",
+      "title": "Abnehmen ohne Stress mit Ozempic und Mounjaro? Das müssen Sie über Abnehmspritzen wissen - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeEdzekVORUVEQ1RZbkt5YjlDUFFyamNmZmJjYVp0ZnRDR21fWlNKTzlyelQyOGRpcEZ5UGNaSzdQNTdoZm1IeVQxZGpMdzBMMmdaWHZUR0xMVFZwZ1ZCcFlEc1J2ZFhwcVNPSlJLUnV5cHRBX3BqeW5tNzRtcHFIMlJEOGx1cDFPc05ucGY2TVdCTGhNYnpUZjFaZ09JbVVIOEFIYnJvdmFZQWJiU3pSd09SNlJjZ1pmMkl1N05PZ1F6bUJTWGd4c1VPYWVaQlU4ekNFdXNfaGJ5bGZlczZrUVhOVk5jdWY4V0d4SkFwRQ?oc=5",
+      "published": "2026-09-01T09:03:00+00:00",
       "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -191,6 +211,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "58230611e218",
+      "title": "»Vor­wärts mit der Phar­ma­zie. Vor­wärts mit FIP« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1ppeDV6VXczRV9FdUZjaU90SFdYenI2OXk2X2pIUzBPTGNzWm1kcFp5NnpTcUFVbGFqcTRzb0loTFcxSzRvSjVjaHRraDN3bTRVN0c1TzVDN2lVc045ZGVoTzZKR3dpX3hrQlV4WlVVZ1hkeDBVTHZYYjZiaTBsN1ktT1Zja01XVlBxVkRGeUtwMXRqRW1V?oc=5",
+      "published": "2026-08-31T14:20:09+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -231,16 +261,6 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
-      }
-    },
-    {
-      "id": "928ceb4617ed",
-      "title": "Abnehmspritze: Ozempic verändert die ganze Welt - FAZ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWZXY21RTVFEZHNveFo0Z3pRb3Z6STk4Rk14U0lTT3ZnYmxjaVFJcjVrVWpURjdMZzR4X3h6UVZERzZZSWNzSmVyblFPZXhBb0tSZTNVQWdhdWl6Y3JiYm44VHA3bE43c0pKb0hqMlRkNVZidUJXTVBkQklTZEg1YXhtYzZxZEN1dVlxQkVPS3VzSTNxajVKYnVuX1JqUW9IMHBtU1dnNHhjY1FCWV9fcWlBeWg3U3NvalE?oc=5",
-      "published": "2026-08-26T11:29:25+00:00",
-      "source": {
-        "name": "FAZ",
-        "url": "https://www.faz.net"
       }
     },
     {
@@ -314,16 +334,6 @@
       }
     },
     {
-      "id": "1d15f3b6b9c3",
-      "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
-      "published": "2026-07-30T07:00:00+00:00",
-      "source": {
-        "name": "MDR.de",
-        "url": "https://www.mdr.de"
-      }
-    },
-    {
       "id": "08f761ee3a89",
       "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
@@ -334,13 +344,13 @@
       }
     },
     {
-      "id": "0e7fc7c3985d",
-      "title": "Medikamentenversand bei Hitze: Was ein Testkauf zeigt - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYmNQMnNsejF2Z2Ria0wxLWVsdUo0MmFzZFBtWU1Wa0JibjRRa29fMmxEOWczUHJEOGFNb0VQM1l1b3gyeDdEenBrLXRZbXAzekppZlJCYmZtOHlrTHlUaEpZTUFGOHAxbDY5a3dmLVdMOVlXdWZxekM5NndXdnhEa25nVmgxdi15U2E2UlVXSXZWY01nUHNFbHpkcUFJOXpPTDA3Q19DYTBwN0kyNlo4RmQ5NEYwV2lTU1YxZTVteWVEWWN6aEt6U2xRZkFZeG1HQ3A5OE5jYXozMXpTWmNkVGJSVTh0UGZnVnN3aHZ3ZkFhc3lPb25ITVlybDZ6dmZLOWhlblhIeEYwLVVoZG1veUNB?oc=5",
-      "published": "2026-08-31T03:02:43+00:00",
+      "id": "1d15f3b6b9c3",
+      "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
       "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
+        "name": "MDR.de",
+        "url": "https://www.mdr.de"
       }
     },
     {
@@ -351,6 +361,16 @@
       "source": {
         "name": "PublicEye",
         "url": "https://www.publiceye.ch"
+      }
+    },
+    {
+      "id": "0e7fc7c3985d",
+      "title": "Medikamentenversand bei Hitze: Was ein Testkauf zeigt - Apotheken Umschau",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYmNQMnNsejF2Z2Ria0wxLWVsdUo0MmFzZFBtWU1Wa0JibjRRa29fMmxEOWczUHJEOGFNb0VQM1l1b3gyeDdEenBrLXRZbXAzekppZlJCYmZtOHlrTHlUaEpZTUFGOHAxbDY5a3dmLVdMOVlXdWZxekM5NndXdnhEa25nVmgxdi15U2E2UlVXSXZWY01nUHNFbHpkcUFJOXpPTDA3Q19DYTBwN0kyNlo4RmQ5NEYwV2lTU1YxZTVteWVEWWN6aEt6U2xRZkFZeG1HQ3A5OE5jYXozMXpTWmNkVGJSVTh0UGZnVnN3aHZ3ZkFhc3lPb25ITVlybDZ6dmZLOWhlblhIeEYwLVVoZG1veUNB?oc=5",
+      "published": "2026-08-31T03:02:43+00:00",
+      "source": {
+        "name": "Apotheken Umschau",
+        "url": "https://www.apotheken-umschau.de"
       }
     },
     {
@@ -384,12 +404,12 @@
       }
     },
     {
-      "id": "bb553491699c",
-      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openPetition",
+      "id": "44a936f3300e",
+      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openpetition.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
       "published": "2026-04-27T15:29:32+00:00",
       "source": {
-        "name": "openPetition",
+        "name": "openpetition.de",
         "url": "https://www.openpetition.de"
       }
     },
@@ -414,32 +434,12 @@
       }
     },
     {
-      "id": "e21e174e9cc9",
-      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "da2a14035471",
-      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - infosperber.ch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "infosperber.ch",
-        "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "47afc2884d76",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
+      "id": "7a99adaec5c0",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "geo.de",
+        "name": "Geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "fba267fd7eb5",
-      "title": "Blut und Plasma sind Teil der Versorgungssicherheit - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iakh1ektIZWhBbUZhQkhrQXRXemg3S05IeldKbU1yNk9NVVo1cTl2NFBIS0k4blZvV3lwVzl3b3V6UWNUSy1XOENYZU11bjBLMmJTN1V3Zw?oc=5",
-      "published": "2026-08-28T08:56:55+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "db5e5ef8605c",
       "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
@@ -511,6 +501,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "9c7eaaba1281",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
+      "published": "2025-11-12T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -524,13 +524,13 @@
       }
     },
     {
-      "id": "9c7eaaba1281",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
+      "id": "fba267fd7eb5",
+      "title": "Blut und Plasma sind Teil der Versorgungssicherheit - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iakh1ektIZWhBbUZhQkhrQXRXemg3S05IeldKbU1yNk9NVVo1cTl2NFBIS0k4blZvV3lwVzl3b3V6UWNUSy1XOENYZU11bjBLMmJTN1V3Zw?oc=5",
+      "published": "2026-08-28T08:56:55+00:00",
       "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -571,16 +571,6 @@
       "source": {
         "name": "infosperber.ch",
         "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "f2bde3602e55",
-      "title": "US-Arzneimittelbehörde erteilt neuartigem Bauchspeicheldrüsenkrebs-Medikament die Zulassung - UNTERNEHMEN-HEUTE.de",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JOUk3cXFkMnlERXg4ZXVmTlM3N0hmUEJDLXFwMjJlVTV4LUFqck5URUpzTFF2em5ITHZRMTgyZE1ZTGszdkc1ckpMR0tZdHprYjJseFhQYXdmNjJ3NWdDMjJ3?oc=5",
-      "published": "2026-08-27T02:03:00+00:00",
-      "source": {
-        "name": "UNTERNEHMEN-HEUTE.de",
-        "url": "https://unternehmen-heute.de"
       }
     },
     {
@@ -684,16 +674,6 @@
       }
     },
     {
-      "id": "432315fa2251",
-      "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
-      "published": "2025-11-20T08:00:00+00:00",
-      "source": {
-        "name": "tagesschau.de",
-        "url": "https://www.tagesschau.de"
-      }
-    },
-    {
       "id": "9d83d0e91268",
       "title": "Gutachten: PFAS in Arzneimitteln sind oft ersetzbar - oekotest.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFwTWtsWWNqb3BaNFc3UFNBT0VDcmRFbC1falEyOVlfNGlwT0FTVklPc2lKRWpFeTRVbmVrT2FkbW95SHFNeGZxdHQ1RzdicGxuNmQzTDNXb2FETWlVd3lIbU43Z2tFdThxYVJEb3RKdXJqT3NSYXQ5ZzRuNlZVRUw2RlNEZkRhRlVfLUpBWGx5cnBPRkJXNThjTk5wcjIyUFJqR0o0NFBRcEkwWUE1RQ?oc=5",
@@ -701,6 +681,16 @@
       "source": {
         "name": "oekotest.de",
         "url": "https://www.oekotest.de"
+      }
+    },
+    {
+      "id": "432315fa2251",
+      "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
+      "published": "2025-11-20T08:00:00+00:00",
+      "source": {
+        "name": "tagesschau.de",
+        "url": "https://www.tagesschau.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "gesundheit adhoc",
         "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
+      "id": "eb232e3bb3c6",
+      "title": "Arzneimittel als Zukunftsinvestition - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlo3TGZhRDI5UkJJZ3dmZWxEV0RQZm0xTXZWNzY0d0pRZkJCTTduUEg2U3JueV9jT3ViUXZuYTcxVkJZa1NBZkY1WFV2Ui1zZm9NQU81N0JIS1MwbmFJODlFVTVDbEFUNEExLTN0TzhZT25UVk1Rd0NVdmprM0hfVm1GZVhrSjZDYzYzc1dlTEltbWFCTnpXZGlETXdmcXlwbHRaaVllTEEwUF9XYVE?oc=5",
+      "published": "2025-09-22T07:00:00+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     }
   ]
