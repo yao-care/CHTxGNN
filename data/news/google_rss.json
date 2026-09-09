@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-09-08T23:08:17.612399+00:00",
+  "fetched_at": "2026-09-09T02:49:09.485121+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "fed545afcbd4",
-      "title": "Premierminister: Keine Gesundheitsstationen ohne Geräte, keine Bürger ohne Medikamente - vovworld.vn",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFdDU1VJU3dfbkZON1RQRzc3U3YySnVaOGVnU2FVUkpvUG1qcWFjYzlzd2VNblhsb0l0Vjd6bkl1MVlDYzV2TmJxRHphRlJOZmRWZHI5SG1heGpwSXJGMlFWeGVHVjZCZHZUX3NRcGtHM1RXUTJrWG9nOWpjWTZSQW1lOEVoYnI1dGRYM0tzOXhrNktWWWVTNG1tX3I3SEtsYm5KRWRQSV9pLWJuYWd3bU52d0Nsdm1LN0VjY0xkUjFQU1dEbjBPLTVQMjN5Yzdk?oc=5",
-      "published": "2026-09-08T12:23:00+00:00",
-      "source": {
-        "name": "vovworld.vn",
-        "url": "https://vovworld.vn"
-      }
-    },
     {
       "id": "8d1fc40266cd",
       "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
@@ -24,10 +14,20 @@
       }
     },
     {
-      "id": "0e37c962814d",
-      "title": "Sicherstellung einer ausreichenden Versorgung mit Medikamenten und medizinischen Geräten zu angemessenen Preisen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenF2TUk2dFA5Z0lHb3M2LXZMZ25yLWhhdlVqYUdUVlJFYzRwcXdtN2xRalk3RjBXQk9ZZXAyZU43eGljWW1hOEl5b05OcWoyTWxwbDVieUs4dGtuZGp6MWk2ajY1OS12a1Y1MHNfVFByeDVKdGNpa0ZlLXJoU0k3cDhQY1pVOGhvRkVWeEdPZw?oc=5",
-      "published": "2026-09-08T13:29:53+00:00",
+      "id": "486778e49f50",
+      "title": "Premierminister: Keine Gesundheitsstationen ohne Geräte, keine Bürger ohne Medikamente - VOV World",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFdDU1VJU3dfbkZON1RQRzc3U3YySnVaOGVnU2FVUkpvUG1qcWFjYzlzd2VNblhsb0l0Vjd6bkl1MVlDYzV2TmJxRHphRlJOZmRWZHI5SG1heGpwSXJGMlFWeGVHVjZCZHZUX3NRcGtHM1RXUTJrWG9nOWpjWTZSQW1lOEVoYnI1dGRYM0tzOXhrNktWWWVTNG1tX3I3SEtsYm5KRWRQSV9pLWJuYWd3bU52d0Nsdm1LN0VjY0xkUjFQU1dEbjBPLTVQMjN5Yzdk?oc=5",
+      "published": "2026-09-08T12:23:00+00:00",
+      "source": {
+        "name": "VOV World",
+        "url": "https://vovworld.vn"
+      }
+    },
+    {
+      "id": "360290db9a23",
+      "title": "Sicherstellung der Versorgung mit Arzneimitteln zu angemessenen Preisen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81M05xZ2c5bHYySU8zMjROd29TMGVBdUJuYTBSQmxLTk0xVjd5NHo4ZzJyVFZhajI4d3NXV3kzcEpRR3I2bFhXZDVWVDNoMzd4R0JTSnh5b3B2cmlIX1A0V2hlTFNza1d2aTlOZ2ZZSi16b0d0QTNUdTJMQQ?oc=5",
+      "published": "2026-09-08T23:26:15+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -41,16 +41,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "5adbc43358a4",
-      "title": "Was Beipackzettel verschweigen - Bielefeld.JETZT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sOXFZZjVtWUJYeHRXSWZDYlkycEtHMUxwWFFoRHd5dXI4SE9fVWtpVEV0bGE2c3pqOWNfMUFJYUZkNTFPaWlGWUcwNS04TXBlQ2c?oc=5",
-      "published": "2026-09-08T14:35:05+00:00",
-      "source": {
-        "name": "Bielefeld.JETZT",
-        "url": "https://www.bielefeld.jetzt"
       }
     },
     {
@@ -74,6 +64,16 @@
       }
     },
     {
+      "id": "005c665dfd62",
+      "title": "Was Beipackzettel verschweigen - bielefeld.jetzt",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sOXFZZjVtWUJYeHRXSWZDYlkycEtHMUxwWFFoRHd5dXI4SE9fVWtpVEV0bGE2c3pqOWNfMUFJYUZkNTFPaWlGWUcwNS04TXBlQ2c?oc=5",
+      "published": "2026-09-08T14:35:05+00:00",
+      "source": {
+        "name": "bielefeld.jetzt",
+        "url": "https://www.bielefeld.jetzt"
+      }
+    },
+    {
       "id": "a09b3e771b2a",
       "title": "Schweizer Bevölkerung zahlte zu viel für Medikamente – der Fall in 8 Punkten - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUZYaDBGUVlsVU53U2h6WWlndHhfNVUzYlVwbkNzVjE0bHB2SEVQVWF6Z0tBTWJCWXp1dkZjTGczbF9SdFlBZXJJaEhaWm4wNUluN0tDV202X0xvU1J0ZEZVOVFrT245ajR4LUlGUDJ6Umd1R1IwRTVfUU5TWFphejI4R3NudjZiTnl2bjlHOTlXUzFhdU1WU1ZDbGNTRVRWeGRSUXc3U3doSmg2c203R0NzWHlQYmE1amNPenN6V0c?oc=5",
@@ -84,22 +84,12 @@
       }
     },
     {
-      "id": "51e9eb059d17",
-      "title": "MSD Schweiz gewinnt den Prix Galien Suisse 2026 mit WINREVAIR® (Sotatercept) - Presseportal.ch",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlN5OV9qeW5XNHpiRzJUM19HWE9veC03UHNqemxfZndaZ29KVmRwMXIteFZwR1ExUFExcXktNnVGdlBBbnBjOVNNMGF3b0FKdU1pYVZCX1c5Qy1WYXhhcW9qMA?oc=5",
-      "published": "2026-09-02T06:00:07+00:00",
-      "source": {
-        "name": "Presseportal.ch",
-        "url": "https://www.presseportal.ch"
-      }
-    },
-    {
-      "id": "70dee0234605",
-      "title": "Imec fordert eine europäische Infrastruktur für biologische Daten zur Entwicklung von Arzneimitteln mit künstlicher Intelligenz - Informat.ro",
+      "id": "851b29ee7318",
+      "title": "Imec fordert eine europäische Infrastruktur für biologische Daten zur Entwicklung von Arzneimitteln mit künstlicher Intelligenz - informat.ro",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRzQ1STZaakM1alU2dXp4Y0FLek9DSllZdGh2UjZicWNXa2p3TXdwQlBibll3bGRZWW4yeURaTGt0aWt3Qkdld3NzM2NYcHpCMk12dkFSQlc1ajMxUmw0YXVGRDdvYWtaZ2l1eXlkRHRBMjMwT3FKemVweVY2OWF2UGV4aGlqdnFIZk0ySVdfVDZhci1HSlAwNlE5ckxMVWE3RjRpTGNhNno0MkdEck1fVGpPOGdia0FzR0Y0dlVmdm9KaEVKMVJtUDlTYnViUWxPTmFSVk1VYkNtdXUtcHpDNExfVGhWNUNSUm44RkxkNHZEUQ?oc=5",
       "published": "2026-09-08T14:54:46+00:00",
       "source": {
-        "name": "Informat.ro",
+        "name": "informat.ro",
         "url": "https://informat.ro"
       }
     },
@@ -114,12 +104,12 @@
       }
     },
     {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "id": "7a4b0d24029c",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - who.int",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
       "published": "2026-03-30T07:00:00+00:00",
       "source": {
-        "name": "World Health Organization (WHO)",
+        "name": "who.int",
         "url": "https://www.who.int"
       }
     },
@@ -134,10 +124,10 @@
       }
     },
     {
-      "id": "b1d08c593275",
-      "title": "Premierminister: Die Kosten für Medikamente und medizinische Geräte müssen von Anfang an streng kontrolliert werden; alle Zwischenkosten müssen konsequent beseitigt werden. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdTRLa3JMNGlIQmctekZGYmxwenpFRnlGWWFQV0RQWHZwLTV4bTU1d3BEMU1EWFdBU2FiV1FYd0c1MktOSGRBMGp6MVZvWGd0bUxVbjdFZk0zWVJScVp2U2N6dUdEYkRJdnZVUE9WN2lCaFZoTzZGRW9seUZ2RjNhT2VzNGRRd3d2aENfWi1NRzhCQWJhbHI1MzhzZk9VaTdIRk1vYXMwbTlEOGJTejVyZFBBNlE1ckJLTTRjclVCaEhvN0J5ZGpKWWtvM2NVdklqcjdZNw?oc=5",
-      "published": "2026-09-08T15:45:12+00:00",
+      "id": "0e37c962814d",
+      "title": "Sicherstellung einer ausreichenden Versorgung mit Medikamenten und medizinischen Geräten zu angemessenen Preisen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenF2TUk2dFA5Z0lHb3M2LXZMZ25yLWhhdlVqYUdUVlJFYzRwcXdtN2xRalk3RjBXQk9ZZXAyZU43eGljWW1hOEl5b05OcWoyTWxwbDVieUs4dGtuZGp6MWk2ajY1OS12a1Y1MHNfVFByeDVKdGNpa0ZlLXJoU0k3cDhQY1pVOGhvRkVWeEdPZw?oc=5",
+      "published": "2026-09-08T13:29:53+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -154,10 +144,30 @@
       }
     },
     {
+      "id": "a620e539ca0e",
+      "title": "Singen und neue Medikamente gegen Alzheimer - GESUNDHEITHEUTE - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajVWOUJaNk94VXAtdHZQdnhVTHNIdnQ1VWd3NEo5RU4tNjRMbHFrQWo2d0pDU3hQaTRVWjlXeWwydUUxQ21SMWVoVXJCRWs5by03QTRMbjI1cDFnRWRPdUpLcloxV1dxN09WRnpBOUlCQV8tSGZadF95bDdkYkRodXYxaWJtdmFMdHhWeHFZMXlsMGc0VXUwRHhuanBwV3JCMjNGYUo3WlFoaVJmeHQ0MDVLbjh4ZDhCT0RxNnN2aUd0cFhzSll0ejJ1RnVSQmNPUG9IRW1xNThLdElXcjM3Zg?oc=5",
+      "published": "2026-02-07T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
       "id": "39564a905741",
       "title": "Premierminister: Gewährleisten Sie eine ausreichende Versorgung mit Medikamenten und medizinischer Ausrüstung zu angemessenen Preisen. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzlOR0xWVU5yMllXTlVjM2gyX0VNcFFheXVjQ0p3NWlZYmM4QkRuRkdkN3JfMEN1aTZfdjd4U1V2Q1FQbS1VeEFSRmptZGY3clVxa1BXSXFwcnZncGVvaVNrUFd5VHVkSmkzOVdheE5TMkw2U1Z0V0QxRUVUOGlaTUhSNHZFLUlqWEh6SnQzUWh5aHFNdjVrTnpPMk9QclhocnJxbA?oc=5",
       "published": "2026-09-08T13:34:26+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "8c126e8d28a7",
+      "title": "Premierminister: Die Kosten für Medikamente und medizinische Geräte müssen streng von Anfang an kontrolliert werden. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnNfT1RhanZxNmdmTDRrb2xZUGQ1ZGdsa1p1Q2IzNVNjNTZ5LThRVVBMYTNPeS1jbi1IVWhMd3BYcXNFSHFEQVFqT1U3dDF4YkwtZ1ZHSEdKRUd6aWo2SkRkUHE2NUtnbXRoTm9TbWZlQ0IwbjlkZHRjSTB3czV0RFBOSXVyMXN5NEx1a0F3MV9sNm0yNFFBWGFLRQ?oc=5",
+      "published": "2026-09-08T13:42:13+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -194,16 +204,6 @@
       }
     },
     {
-      "id": "a620e539ca0e",
-      "title": "Singen und neue Medikamente gegen Alzheimer - GESUNDHEITHEUTE - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajVWOUJaNk94VXAtdHZQdnhVTHNIdnQ1VWd3NEo5RU4tNjRMbHFrQWo2d0pDU3hQaTRVWjlXeWwydUUxQ21SMWVoVXJCRWs5by03QTRMbjI1cDFnRWRPdUpLcloxV1dxN09WRnpBOUlCQV8tSGZadF95bDdkYkRodXYxaWJtdmFMdHhWeHFZMXlsMGc0VXUwRHhuanBwV3JCMjNGYUo3WlFoaVJmeHQ0MDVLbjh4ZDhCT0RxNnN2aUd0cFhzSll0ejJ1RnVSQmNPUG9IRW1xNThLdElXcjM3Zg?oc=5",
-      "published": "2026-02-07T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "0e5e0281ad97",
       "title": "Krankenkasse: Wie wir jedes Jahr 1000 Franken sparen könnten - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXNjc2hsTHYzeFkyaHVSWmJnQmM4bkl0b2VNOV9oNlY1dW5BVVRMRThZeDdFbWpLNjRhOUFRWVJUTzYwNFZuYko3M3FSVXdWZ19EWEI5LUkzc1NUeGcwdXZGVVhJc1VVWU40NFBMckV1SWtHaHU5V2tIU2taZk56RkRTWVZUZ2RmT2gzNkVJaEhFTXBTbnlaNDdvbUdwVFkxRG41UFI0SUN1dC1pMTE3OW1MOA?oc=5",
@@ -234,22 +234,22 @@
       }
     },
     {
-      "id": "e1de92f5d1f7",
-      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
+      "id": "40e038c76276",
+      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - tagesanzeiger.ch",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
       "published": "2026-03-10T07:00:00+00:00",
       "source": {
-        "name": "Tages-Anzeiger",
+        "name": "tagesanzeiger.ch",
         "url": "https://www.tagesanzeiger.ch"
       }
     },
     {
-      "id": "5de7f5f9a046",
-      "title": "Arzneimittelinnovationen: Gesundheit lohnt sich - Pharma Fakten",
+      "id": "962d7629b105",
+      "title": "Arzneimittelinnovationen: Gesundheit lohnt sich - pharma-fakten.de",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeUYyY3VPbmUwNDhySlJRZGhLSV9CUDRaUlVxek44dHRjQ0JhQ25lcFNwaW5YaVpCbFI2MVJCU1lUZVZkNHBrQVpPQm9iTGlQWlRYMXdIazdCSmhHU0lpd3JMaWtaaEoxcUNScGZQckY2VTVJcklHZWxfb015TVM2bzE5bw?oc=5",
       "published": "2026-01-30T08:00:00+00:00",
       "source": {
-        "name": "Pharma Fakten",
+        "name": "pharma-fakten.de",
         "url": "https://pharma-fakten.de"
       }
     },
@@ -284,23 +284,13 @@
       }
     },
     {
-      "id": "61312f4f8713",
-      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
+      "id": "4c18f8d60f2d",
+      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - tagesanzeiger.ch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
       "published": "2026-06-29T07:00:00+00:00",
       "source": {
-        "name": "Tages-Anzeiger",
+        "name": "tagesanzeiger.ch",
         "url": "https://www.tagesanzeiger.ch"
-      }
-    },
-    {
-      "id": "1f789fff5cdb",
-      "title": "Sicher unterwegs auf Schusters Rappen So werden Wandertouren zum unbeschwerten Naturerlebnis - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5NDEwODRrV3JLbGVuT0ZxVHNnYm56LXJydmo5MVB2d2xnV3dJRjlpMi14c0oyU21aMWhfVGJ0UmRackt4ZkNzWEkxb2FULWphTmdiSFBTWQ?oc=5",
-      "published": "2026-09-08T09:11:51+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -314,6 +304,16 @@
       }
     },
     {
+      "id": "2a4cd6eb6d1d",
+      "title": "Arzneimittelengpässe in Europa – so reagiert die EU - European Parliament",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUFLam5JQVMtSlNuNWlqSTJrRUNDN215RDlRU2hOMEE0Rkp3cHBodVhSbXRsSUhvTTRhMTVLWEE5QmM0dXJRNGlPSkwyZ2doMHhlaEpHbW5DZl8tazhQc3lPcEN4SmtLaEdGMk9IZjF5MGZvNEd3a2tXSnJXT1ItanFsV2gtRGpMYjlUbHV2OURrMkM5OXA3emh5OERlMlpXc1J1UlNVYUp1UlBUd1gzREtLUkZRZw?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": {
+        "name": "European Parliament",
+        "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
       "id": "e4d74f6ebf64",
       "title": "Patienten und die Generikabranche fordern die EU auf, auf Trumps Drohungen bezüglich der Arzneimittelpreise zu reagieren - euractiv.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm0tcngyMXZvMXBmQW9MbjlzWEp1d0JKLVdvV2g4NDkyQ2FxMzhhQTFHUEtyX25Tb0VTdGVPUkt0WXJEeV9QNl84MTZ3MTU0QjgtN3VWeFc3dDVuMWNjb3ZIQ2JyemdRVXJhSHFCQ21yazg4RGU5djlTSkEzdVlsdWNnOUxvWXRyRjVVNUg5N1pRSW1aX2FlOWQ4S0pYXzNkYlJmSE9GNWRmcmNBMWIwOXc0aFJybUJYLU9xUlVVLWplN3ZkNmNvQnQ3ME55TGpVcng0TkxPd2M4MDdBc3hXNVBHNA?oc=5",
@@ -321,6 +321,16 @@
       "source": {
         "name": "euractiv.com",
         "url": "https://euractiv.com"
+      }
+    },
+    {
+      "id": "edbca67f1091",
+      "title": "Sicher unterwegs auf Schusters Rappen So werden Wandertouren zum unbeschwerten Naturerlebnis - presseportal.de",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5NDEwODRrV3JLbGVuT0ZxVHNnYm56LXJydmo5MVB2d2xnV3dJRjlpMi14c0oyU21aMWhfVGJ0UmRackt4ZkNzWEkxb2FULWphTmdiSFBTWQ?oc=5",
+      "published": "2026-09-08T09:11:51+00:00",
+      "source": {
+        "name": "presseportal.de",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -424,6 +434,16 @@
       }
     },
     {
+      "id": "e37c6e8e01d3",
+      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
+      }
+    },
+    {
       "id": "e21e174e9cc9",
       "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
@@ -441,16 +461,6 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
-      }
-    },
-    {
-      "id": "e37c6e8e01d3",
-      "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
       }
     },
     {
@@ -474,16 +484,6 @@
       }
     },
     {
-      "id": "087891737758",
-      "title": "Engpässe bei Arzneimitteln: Geopolitik erschwert Europas Streben nach Unabhängigkeit - euractiv.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2lScFVHU3ZELWZOdzJOUGU2YUQ3c2ZpbWhIYWFiVUNoRFZHTm5JM1BfUWVnanhicnRvanhQdGx4UHVuTnZ5dG4ySEY4eVE3dUxGaXVLSm5sM1liQzRtc19GVVE3RkNnUGhhTkhZTXAtMkhWZ3JqOVREWlhfRnBSX1FPRXlaaUE5d2d6cFVEakt5NDJaUkgzXzA3TUpqUUJTbzhRQXFpbmZCTGMwdlRDSXR3cHNjZw?oc=5",
-      "published": "2026-05-14T14:42:11+00:00",
-      "source": {
-        "name": "euractiv.com",
-        "url": "https://euractiv.com"
-      }
-    },
-    {
       "id": "bcd30ea5acc5",
       "title": "Was, wenn uns die Medikamente ausgehen? - Aargauer Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE1oLURqeDZBVEtFcHhtbmFfMWFVdzBLcGRPSVY0b0s3elNMZ0FINmtFckNvQXRjXzktNFdGTklvUF9pcE0wMVgtNG5jTnBYSmFoWlppM1RlSzdfRkxOcmNSNEV2NFdQaEp4VDVEcUpwMUhTQWVxbTZyRW1YbnotNko5cDVudVBzcUxPckZjTWNnbnlPdmc?oc=5",
@@ -491,6 +491,16 @@
       "source": {
         "name": "Aargauer Zeitung",
         "url": "https://www.aargauerzeitung.ch"
+      }
+    },
+    {
+      "id": "087891737758",
+      "title": "Engpässe bei Arzneimitteln: Geopolitik erschwert Europas Streben nach Unabhängigkeit - euractiv.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2lScFVHU3ZELWZOdzJOUGU2YUQ3c2ZpbWhIYWFiVUNoRFZHTm5JM1BfUWVnanhicnRvanhQdGx4UHVuTnZ5dG4ySEY4eVE3dUxGaXVLSm5sM1liQzRtc19GVVE3RkNnUGhhTkhZTXAtMkhWZ3JqOVREWlhfRnBSX1FPRXlaaUE5d2d6cFVEakt5NDJaUkgzXzA3TUpqUUJTbzhRQXFpbmZCTGMwdlRDSXR3cHNjZw?oc=5",
+      "published": "2026-05-14T14:42:11+00:00",
+      "source": {
+        "name": "euractiv.com",
+        "url": "https://euractiv.com"
       }
     },
     {
@@ -504,16 +514,6 @@
       }
     },
     {
-      "id": "af86681a9b7e",
-      "title": "Meilenstein im EuGH-Verfahren Polens gegen die Kommunalabwasserrichtlinie - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmE2bmlvQzlVWkNYc0toNTZtMFkyT0Q5TENRWWZURzZTcXhMdzcwYkVLNXhpcFlkNGxYMTF0Y1BSakEzb1NmeE03NXRoeTZQbV9xdEhOZ2NrMnpBaVltWmVoVDA4SzZtQVplckU0SHhRMkpKcVBiV2hLUXdLdHJ4SlVhRlZRSFVRNEJBVkU2U2NTRmM2elFWVFoyWmR3aTJDN1ZYVWllTXdCUQ?oc=5",
-      "published": "2026-09-03T10:29:18+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "5041122093e4",
       "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
@@ -524,12 +524,22 @@
       }
     },
     {
-      "id": "a3fe36c8de24",
-      "title": "Ärzte vs. Apotheker – Der Verteilungskampf um die Gesundheit eskaliert - welt.de",
+      "id": "53fd5e958242",
+      "title": "Meilenstein im EuGH-Verfahren Polens gegen die Kommunalabwasserrichtlinie - gesundheit-adhoc.de",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmE2bmlvQzlVWkNYc0toNTZtMFkyT0Q5TENRWWZURzZTcXhMdzcwYkVLNXhpcFlkNGxYMTF0Y1BSakEzb1NmeE03NXRoeTZQbV9xdEhOZ2NrMnpBaVltWmVoVDA4SzZtQVplckU0SHhRMkpKcVBiV2hLUXdLdHJ4SlVhRlZRSFVRNEJBVkU2U2NTRmM2elFWVFoyWmR3aTJDN1ZYVWllTXdCUQ?oc=5",
+      "published": "2026-09-03T10:29:18+00:00",
+      "source": {
+        "name": "gesundheit-adhoc.de",
+        "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
+      "id": "d9cb7465e8c6",
+      "title": "Ärzte vs. Apotheker – Der Verteilungskampf um die Gesundheit eskaliert - WELT",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWwtS2t0RWtxOWhiY3Bpcl9oaG9YUGFZeXRJZ3ZXcFMzRU9EbTBISDdZa1pYQXZCZjZ3Z19Kd18wei11cWluU3lDQ3RSVURjN05wdVU1WTBDWGFrV0lCbnJmR3FieGVDNUlMXzhyMDV2UkhCZy00M2t1Tk5rT1lrY0VFZ0tUREZTVkhkdmYxaDZLQXgzRTlRZEJveDJQZVdYWHNNM1I1U3FQZktfWElRZDV0VlBQN0gzX2NvVURQWDNUSnA0M1JNZk9pQWNwQQ?oc=5",
       "published": "2026-07-13T07:00:00+00:00",
       "source": {
-        "name": "welt.de",
+        "name": "WELT",
         "url": "https://www.welt.de"
       }
     },
@@ -594,6 +604,16 @@
       }
     },
     {
+      "id": "aa510e8009c1",
+      "title": "\"Am Ende entscheidet der Geldbeutel\": Experte zu Chancen und Grenzen der neuen Abnehmtablette - ZDFheute",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUphX24wMXkzRkdTQTRCZ2E4Z1FUZmJiSGEzTnBlSmtJbDg5OXlEY1Z5cVlNb21oZjRiTEM4YUZ5SGpmc1MydmRvRVNsa0tCXy1GM3RLOUNWdDRPamdsd2ZRN3VoOF9iVWZUaHE1ZlAwaDgwc3B5Z1p6TzFMN0NqbkxvcjJtVVlGQ1ROLWR5VkR3Uk4tU3NCd1dlcklmTXA4Sy1VbG5TNzRnZzE1MXQtSlJ1b01fQ1Zz?oc=5",
+      "published": "2026-09-05T04:10:00+00:00",
+      "source": {
+        "name": "ZDFheute",
+        "url": "https://www.zdfheute.de"
+      }
+    },
+    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -614,23 +634,13 @@
       }
     },
     {
-      "id": "6e4d3cdd90b2",
-      "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - wiwo.de",
+      "id": "2a88ab722e68",
+      "title": "Wie viel darf Gesundheit kosten? Streit um Medikamentenpreise eskaliert - WiWo",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEkzamFzeFFHZEk3NjFIbFJmYjZvajlGOVMtcHo3aUZsWFlvdkcyMzFTODZXZFM1dWhNWU1lT3FVVDk4dlduRjBqV2paSEFVbkE2YWktMVJIanA4U3J2QW1rMnFtOUljc0pXb2hEbVNSWkxYdGlkRHRMRGE3aGpSYjlrU0FzN0RjN1dhWkJWZldkUmVpbm9xbXpSZmR3b0xGR2ZXQmdvVVZ4bWh5bmVNbkdOOU1rNEdiZElEc0NEeDE3LXpqVkE?oc=5",
       "published": "2026-04-16T07:00:00+00:00",
       "source": {
-        "name": "wiwo.de",
+        "name": "WiWo",
         "url": "https://www.wiwo.de"
-      }
-    },
-    {
-      "id": "aa510e8009c1",
-      "title": "\"Am Ende entscheidet der Geldbeutel\": Experte zu Chancen und Grenzen der neuen Abnehmtablette - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUphX24wMXkzRkdTQTRCZ2E4Z1FUZmJiSGEzTnBlSmtJbDg5OXlEY1Z5cVlNb21oZjRiTEM4YUZ5SGpmc1MydmRvRVNsa0tCXy1GM3RLOUNWdDRPamdsd2ZRN3VoOF9iVWZUaHE1ZlAwaDgwc3B5Z1p6TzFMN0NqbkxvcjJtVVlGQ1ROLWR5VkR3Uk4tU3NCd1dlcklmTXA4Sy1VbG5TNzRnZzE1MXQtSlJ1b01fQ1Zz?oc=5",
-      "published": "2026-09-05T04:10:00+00:00",
-      "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
       }
     },
     {
@@ -654,33 +664,33 @@
       }
     },
     {
-      "id": "4e6d48112005",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
+      "id": "6888ded94d27",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - bundesgesundheitsministerium.de",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
       "published": "2026-05-22T07:00:00+00:00",
       "source": {
-        "name": "Bundesministerium für Gesundheit (BMG)",
+        "name": "bundesgesundheitsministerium.de",
         "url": "https://www.bundesgesundheitsministerium.de"
       }
     },
     {
-      "id": "53357c2f4851",
-      "title": "Kritische Arzneimittel wieder stärker in Europa produzieren - Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUEt0ckdtYTRpT2d2ZGVBenNHcEJURVlwOHZpTElSbWMtWWRlNmI5bE10Q3NUclQ5N2lDVW9WODdDNldjbW5pZDNKZmxxanhoY21qdGI0dnpfQ1Znb3NIZmlGN1l2d2tPb3ZxWGhkbFk1VklKcTMxZTdZWWhNc3htTVcwWER3X3psRmdibDJwRnFqOXQ4X2VTb1h2eFVtc2syLVdnMkk4dExEaC1XUGtxVDNWdU1nMFE0TGlKVUZ6RmcxTGN6VUEzQmkwd2tSRXlzbGJMa2RXX1hmV2xPTzdITg?oc=5",
-      "published": "2026-01-20T08:00:00+00:00",
-      "source": {
-        "name": "Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
-        "url": "https://sozialministerium.baden-wuerttemberg.de"
-      }
-    },
-    {
-      "id": "877ce8f34648",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - tagesspiegel.de",
+      "id": "f92665691e36",
+      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "tagesspiegel.de",
+        "name": "Tagesspiegel",
         "url": "https://www.tagesspiegel.de"
+      }
+    },
+    {
+      "id": "9b538b3856d7",
+      "title": "Kritische Arzneimittel wieder stärker in Europa produzieren - sozialministerium.baden-wuerttemberg.de",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUEt0ckdtYTRpT2d2ZGVBenNHcEJURVlwOHZpTElSbWMtWWRlNmI5bE10Q3NUclQ5N2lDVW9WODdDNldjbW5pZDNKZmxxanhoY21qdGI0dnpfQ1Znb3NIZmlGN1l2d2tPb3ZxWGhkbFk1VklKcTMxZTdZWWhNc3htTVcwWER3X3psRmdibDJwRnFqOXQ4X2VTb1h2eFVtc2syLVdnMkk4dExEaC1XUGtxVDNWdU1nMFE0TGlKVUZ6RmcxTGN6VUEzQmkwd2tSRXlzbGJMa2RXX1hmV2xPTzdITg?oc=5",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": {
+        "name": "sozialministerium.baden-wuerttemberg.de",
+        "url": "https://sozialministerium.baden-wuerttemberg.de"
       }
     },
     {
@@ -754,6 +764,16 @@
       }
     },
     {
+      "id": "472e52be8f7f",
+      "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSy1mOE1PaUxhRGtHYkpqbDBKLVgtZ3cyd04xWkxtS2x0aWVSMUlQdVZVSjdqQXY5TUZEWWZxZEE4Zjc5LVBXS2lxYmEyaHVTQUpPWVBhMTVBZFl2eE02NUpDOXhmUFV6V1AwejFKb0NnVWs3OThpT3lQVlVzNW9kRG9zUlRKTzNwZlVEUmZFZi04dVVGUU5F?oc=5",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de"
+      }
+    },
+    {
       "id": "d9edf968b2d7",
       "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
@@ -794,12 +814,12 @@
       }
     },
     {
-      "id": "50e574837ee5",
-      "title": "Medikamentenversand bei Hitze: Risiken für Arzneimittel - Apotheken Umschau",
+      "id": "b6760f575042",
+      "title": "Medikamentenversand bei Hitze: Risiken für Arzneimittel - apotheken-umschau.de",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPREY3YjJLY0JhYUEzX3FnRFlGRDJ1Vm9JamNNVTNoR3NOX0tOMTIzWUMweTJ2ekYzbktzUTZha0djdWpuN09lNHVZUWw4bVJxYXhWeWtxWUVxM0tXS2xGcGtMd29yWmdTSlFpUkxpdmRvMV9ZaEJhT3czaTY3a2VhOUVJU2p0VWZWMU9PNHZDQWt2b0FpdFhOQlNESFdTV0l0M3R4SDFVMTBOTmZMVVo5ZV9KSmZremN6cTNzOXR0a3RjT2Y0MGZjQkNMUVdFY0xZejBFanY4aDRNOEdpZzdTMVowbkZHUVNtU1htclVWeE50OUwzaWlXSG44akg3S05Odlh2MUxlYXAxbkZVbDB4eWRhZF9YZw?oc=5",
       "published": "2026-07-31T07:00:00+00:00",
       "source": {
-        "name": "Apotheken Umschau",
+        "name": "apotheken-umschau.de",
         "url": "https://www.apotheken-umschau.de"
       }
     },
@@ -811,16 +831,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "3d2cb4e53bfe",
-      "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFhLVUdkZzBFTm93WVhvZHdBSkk4ZWlPUWJQRlZFWjlSV3Npei12Wnc4YWhXZW9fMkFOLUs2TjNEanlIUENkRlJ1bmdDQWJKbFhVeEpaMmF2dEp3SjVZbjBHZlNDVUV2Z1NpekF5c3lEaUxsX3VPcDNwRHBGaVFFYXBRZ3dERXpIZWp2TzVralRSb1FEVmdfZjNJTmxMdW9WT25iZGh6QVBfQmV2UGRSby1hcWNOOWl4b2NIajFWRmZZNmhvemN2OVVSZ3dwYnlYTVBfYV9oVGlYM3B5TjJtQTZZUHkwb3cteVd1UzU5M3RaT2hiN2tjczYtOA?oc=5",
-      "published": "2025-11-30T08:00:00+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -864,6 +874,16 @@
       }
     },
     {
+      "id": "3d2cb4e53bfe",
+      "title": "Tipps vom Apotheker - Fehlende Arzneimittel - Warum sich Eltern bevorraten sollten - Gesundheit - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWFhLVUdkZzBFTm93WVhvZHdBSkk4ZWlPUWJQRlZFWjlSV3Npei12Wnc4YWhXZW9fMkFOLUs2TjNEanlIUENkRlJ1bmdDQWJKbFhVeEpaMmF2dEp3SjVZbjBHZlNDVUV2Z1NpekF5c3lEaUxsX3VPcDNwRHBGaVFFYXBRZ3dERXpIZWp2TzVralRSb1FEVmdfZjNJTmxMdW9WT25iZGh6QVBfQmV2UGRSby1hcWNOOWl4b2NIajFWRmZZNmhvemN2OVVSZ3dwYnlYTVBfYV9oVGlYM3B5TjJtQTZZUHkwb3cteVd1UzU5M3RaT2hiN2tjczYtOA?oc=5",
+      "published": "2025-11-30T08:00:00+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
       "id": "829639537db1",
       "title": "Studie: PFAS bei vielen Medikamenten verzichtbar - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXR2b0g0aUQyTEM1RHV3aWcwbWgzeXgwZ0NjRHEwZUZtSVp2djRlQjAyV21vQWRSTldVOFZkT0ZoejZlRlpCc3h4VlVDaldIOW1KZHB4RUVnTDh4V3RMTmx5aDV1QWFKdWxhRzk4S1hRUERxdFpoZUdPNHdpR29yOGFrd0lmUUR0VmxPa0lGX2w?oc=5",
@@ -874,12 +894,12 @@
       }
     },
     {
-      "id": "522c03d7d3e0",
-      "title": "Bei 1300 Medikamenten Probleme mit dem Nachschub - derstandard.at",
+      "id": "9ba60abaa138",
+      "title": "Bei 1300 Medikamenten Probleme mit dem Nachschub - Der Standard",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzQ3M3N6TUFCdHdGQUhiS0VwOXdBbk0wTHpMZF9lTlVkR19ZS1Vad0pKUk56MWZKekk4WEN6aE05Zy01ZlV3WHphbDczUkhzRzBySHlNbEV4bHZwYll6QWxkQ1lfTDZyYmFub24zblNPejA0OC1ySDlKNFNtM19iQWo3SzNWR3FmM3docmVqNDhoXzY5UEF1UWp1SQ?oc=5",
       "published": "2026-02-16T08:00:00+00:00",
       "source": {
-        "name": "derstandard.at",
+        "name": "Der Standard",
         "url": "https://www.derstandard.at"
       }
     },
@@ -894,12 +914,12 @@
       }
     },
     {
-      "id": "4caf97f61420",
-      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - wiwo.de",
+      "id": "8c6176b8d248",
+      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WiWo",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
       "published": "2026-05-05T07:00:00+00:00",
       "source": {
-        "name": "wiwo.de",
+        "name": "WiWo",
         "url": "https://www.wiwo.de"
       }
     },
@@ -944,12 +964,12 @@
       }
     },
     {
-      "id": "9f80a29099b2",
-      "title": "Haushaltspläne: Mehr Geld für Produktion kritischer Arzneimittel, keine Mittel für Gesundheit und Pflege - aerzteblatt.de",
+      "id": "618351e249d1",
+      "title": "Haushaltspläne: Mehr Geld für Produktion kritischer Arzneimittel, keine Mittel für Gesundheit und Pflege - Deutsches Ärzteblatt",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa19XTmtzLWdGTUNhcTkyNVVMZnhDVnlNVkxETGwwVDZ1X3dFVExwZEpDZU0wREhkUk91WEgwV0lJSXEwNTJydG1TbjVRV0FVRy1rUDhwYWtBeVdkYVJuSXo2SmhPUHJ1cWRZYWc3YW5pN21mc18wZUp4Y2FSZG53QnJQZk1RZ2FFeXBxN2VkUDRFYy16ZjgxQkNSc3ppZ1ZPWGdNdG9SanVveHNHc2ZUQU5qV2JDQXpINnVVd2x5eXplUnBDZjJCdGJLRk9QemRtaEpvYlNrTjM0anBWaDRDbHBYY1d2NUtZY1N2Zmx1SWU?oc=5",
       "published": "2025-11-11T08:00:00+00:00",
       "source": {
-        "name": "aerzteblatt.de",
+        "name": "Deutsches Ärzteblatt",
         "url": "https://www.aerzteblatt.de"
       }
     },
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Spiegel",
         "url": "https://www.spiegel.de"
-      }
-    },
-    {
-      "id": "a43852bf5366",
-      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
-      "published": "2026-04-02T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "73821728fb6f",
-      "title": "Rezeptfreie Medikamente aus der Drogerie könnten das Apothekensterben verschärfen - SWR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlBVMkRsMVdkYXV3YXFVd3k4Z1pMSGdoVTNOTXo0UV8wR1RBbmVCZVltV3ZBdGZndnM3V1NVMlVZOFhmUEJwNXlPbDRfcU5jV2FZcUNDd2txVnFwdjNNb3JWWkRncExiSDI0WnEtdUdEbEtGcVdqOGFJRzc0T3ZkY0N4aHE4V21aZmROazk4eG9mUUJXY2RqVXZCYTZLcU5NSnVDaHBYMXhzUQ?oc=5",
-      "published": "2025-11-02T07:00:00+00:00",
-      "source": {
-        "name": "SWR",
-        "url": "https://www.swr.de"
       }
     }
   ]
