@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T19:24:12.026593+00:00",
+  "fetched_at": "2026-09-11T22:10:52.286946+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "c1d24d4d316d",
-      "title": "US-Preispolitik bremst Zugang zu neuen Medikamenten in der Schweiz - Luzerner Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkxocWdhOEVuaE02S09TOUY3YjJCV3JpejNYUE1wdnlhM2h4OXQ0U1FtVFhvVU54V2VnZ2JmV1VmSWI0bzgyRFZBbDk1TU14NE83NUFINGsyeU5lR21tLWZhUzFLUlByT1NEZEg5UGQ2aGJXaE5pMDNHRnJYT1pqVXFDQ1k0cmdQQVZUVlJXNlFoc0w3Nm1IY3huLXI0cGNBZl93UExteDNpMGJr?oc=5",
-      "published": "2026-09-02T14:24:45+00:00",
-      "source": {
-        "name": "Luzerner Zeitung",
-        "url": "https://www.luzernerzeitung.ch"
-      }
-    },
-    {
       "id": "8c241dbc3ada",
       "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "c1d24d4d316d",
+      "title": "US-Preispolitik bremst Zugang zu neuen Medikamenten in der Schweiz - Luzerner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkxocWdhOEVuaE02S09TOUY3YjJCV3JpejNYUE1wdnlhM2h4OXQ0U1FtVFhvVU54V2VnZ2JmV1VmSWI0bzgyRFZBbDk1TU14NE83NUFINGsyeU5lR21tLWZhUzFLUlByT1NEZEg5UGQ2aGJXaE5pMDNHRnJYT1pqVXFDQ1k0cmdQQVZUVlJXNlFoc0w3Nm1IY3huLXI0cGNBZl93UExteDNpMGJr?oc=5",
+      "published": "2026-09-02T14:24:45+00:00",
+      "source": {
+        "name": "Luzerner Zeitung",
+        "url": "https://www.luzernerzeitung.ch"
       }
     },
     {
@@ -114,12 +114,12 @@
       }
     },
     {
-      "id": "29fbac3081c1",
-      "title": "Desogestrel-Pillen: Behörden warnen 1,6 Millionen Französinnen vor Tumorrisiko - Euronews.com",
+      "id": "0a5c59fcf1b4",
+      "title": "Desogestrel-Pillen: Behörden warnen 1,6 Millionen Französinnen vor Tumorrisiko - de.euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGVTQUluUlpuS0dSWGxTd25iV3ROWEU3ZFZpelcwNmZPUlJSdDk1ZzkzVDVsN2I2MmEzc1haak05bWYyY2pkeXA3aVRVRld6NlhST1IzOTEwbkRrT0NNUndtdko1LTFGd1k4YlZ4MldjamZWdEJ2QTg2eHZFUkNSTVdYMHoyMmZnbm9WbXZtVUtNNWdsUGRueF9DdGduYW9ZLXdpSmM2WlpLdlFtbTZwSnRXTnUtRHZVeFl2U2p2VQ?oc=5",
       "published": "2026-09-10T08:50:40+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "de.euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -134,13 +134,13 @@
       }
     },
     {
-      "id": "8674f361098c",
-      "title": "Mehrere Chargen betroffen: Hersteller ruft bekanntes Medikament zurück - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFR0Skc3TkZwcE9ZZzdrNmhhNU1xcnEtTWVIOXZIZ2ljdHJZZlZQQzdEZjNfT1Ewamp5UnRJWWc1Z3ZjdnpSVlJoR0NaNjR5cUptaTR2c1Z0R3NYUkJKSXlicldRREUyZ3otRkg0dnJScmpUZno1SWpFYkd1ZXRaRkQ1QTdXVURSOXp3eDFIb0ZlcnU5YzZwQmhGNnU1VUY4WmR6SVVxRzduakg0ckM5Zld4dEJwYml1aGs1c05TMnR1TnZ4cmtSNUJB?oc=5",
-      "published": "2026-09-10T12:51:12+00:00",
+      "id": "e55e30521cda",
+      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
+      "published": "2026-05-04T09:31:59+00:00",
       "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
+        "name": "Taylor Wessing",
+        "url": "https://www.taylorwessing.com"
       }
     },
     {
@@ -174,13 +174,13 @@
       }
     },
     {
-      "id": "e55e30521cda",
-      "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
-      "published": "2026-05-04T09:31:59+00:00",
+      "id": "8674f361098c",
+      "title": "Mehrere Chargen betroffen: Hersteller ruft bekanntes Medikament zurück - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFR0Skc3TkZwcE9ZZzdrNmhhNU1xcnEtTWVIOXZIZ2ljdHJZZlZQQzdEZjNfT1Ewamp5UnRJWWc1Z3ZjdnpSVlJoR0NaNjR5cUptaTR2c1Z0R3NYUkJKSXlicldRREUyZ3otRkg0dnJScmpUZno1SWpFYkd1ZXRaRkQ1QTdXVURSOXp3eDFIb0ZlcnU5YzZwQmhGNnU1VUY4WmR6SVVxRzduakg0ckM5Zld4dEJwYml1aGs1c05TMnR1TnZ4cmtSNUJB?oc=5",
+      "published": "2026-09-10T12:51:12+00:00",
       "source": {
-        "name": "Taylor Wessing",
-        "url": "https://www.taylorwessing.com"
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -194,23 +194,23 @@
       }
     },
     {
-      "id": "9c9bbb187f4e",
-      "title": "Keine gesundheitlichen Folgen nach falschen Arzneimitteln - Salzburger Nachrichten",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWDQ5OXZfNmoyd0lkNVY2ZndaOFhtam1FZnpCU0V0VGtJaXJvQl9GZDJXNGdUNjZEeVJabXdxVk9pM2hQTGEtNUYxWjYxTDVvRW1RUUVjVEwwOTBQWWREWkVRR0JYYmFMbnpjQ1BqMzBaS1hVS3VfUEdoQV8xUzF2N2loRU41VW1Pb0lGME1lRWQwSnUwNnpoR3BmeEh0SFJhSUVFZ1RaZTZtR1k?oc=5",
-      "published": "2026-09-11T13:50:00+00:00",
-      "source": {
-        "name": "Salzburger Nachrichten",
-        "url": "https://www.sn.at"
-      }
-    },
-    {
-      "id": "40e038c76276",
-      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - tagesanzeiger.ch",
+      "id": "e1de92f5d1f7",
+      "title": "Frauen und Ältere sind oft untervertreten – bei Antidepressiva ist es umgekehrt - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9RODNkTG16QmJpZHNKNDNvSWlVdTVCcFBQR3g4aWxuUW9HQ2pOQzBVOXY0ckhnUXBFVE1KdTN5eGVxNFBxSGJjMFB6Y0lhN0cyZ3FPVnk4Tk5PUHdfVjdpSHdvLW10NlpyV1Y0Zm05QzFoVGJtRi1scFNBZ0RaT2VWZkFCSVA0czBGRnZrbHVhZzRxQ0x2OHFoVVlpTzJHYmc?oc=5",
       "published": "2026-03-10T07:00:00+00:00",
       "source": {
-        "name": "tagesanzeiger.ch",
+        "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
+      "id": "3976c1615dd8",
+      "title": "Akne, Neurodermitis & Co.: So wird Problemhaut richtig gepflegt - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTNsUnBsbldKSmw0VVNwTlVVSFZkeDVwZFNweThGSkZndWR2SnFYeW1PRUlMVXpCXzhhYU1QX21YWTFESWdlNzV2eXpNd0VpVUI4ejFMMk4tNlE1S1RrYlZYQkFROGVmczlHYkpfbFdVODh0LVlPTjAwU0UwQ1JWaTNLRzJkOWdYa3dnY2VDUEYyb1lUQ3dnaG93ZVZsNzRhV25ad29oZTRrTFd0TFhvQnRJUW4wOFBEOThZ?oc=5",
+      "published": "2026-09-10T01:50:43+00:00",
+      "source": {
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -254,12 +254,12 @@
       }
     },
     {
-      "id": "4c18f8d60f2d",
-      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - tagesanzeiger.ch",
+      "id": "61312f4f8713",
+      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
       "published": "2026-06-29T07:00:00+00:00",
       "source": {
-        "name": "tagesanzeiger.ch",
+        "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
       }
     },
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "f8040ec5eed6",
-      "title": "„Effizientes Medikamentenmanagement in der Pflege“: Redcare Pharmacy und Hilfswerk Österreich beim European Forum Alpbach 2026 - OTS.at",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMThLWHB3LVhyRGE0TnQ4RmxET08xWC1MRU5pcWgyY1hpZjh5QU84N0hLM0xjTUgzQ0V1TnlqRFJpaFdreHFyTWx0c2IwUGM2c2FoeE43X1V4SGJiS0hMd05lMEl2dXBjdFEyQ21rRUJaQWZWM25VUS0tTE5JNzRsajJ2aXdxZ001NTNWZUpPTlVaYWRhdHh1RTBwZWRVZmtWcjdOY3JCMTNPeHB3ZnBTVHR6ZDVHZmZsYTU5a1JFMm1NRFJvenc3bVRTb3cyWFpZNUlRZlNEdjlnVE84NF9UYVdaUVZ0eUQxQmllNmlOajFLNHpTckdRUWFuQktJX0JnMUI2RkVVNU1jaXJqcVE?oc=5",
-      "published": "2026-09-11T09:48:32+00:00",
-      "source": {
-        "name": "OTS.at",
-        "url": "https://www.ots.at"
-      }
-    },
-    {
       "id": "bc82085c3a46",
       "title": "Erstmals in Europa: Drohne wirft Arzneimittel für Patienten ab - Medinside",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWk5QY2lfWEVwNVhyUThpMnI4SG5CUVUzUHVKOW1CekNHNWtsN3J2WkFwMTh4LU1UZEZIWjM3bWtacjYweU1PWXN2TEl6VkstaHRKNTRvcExnLS1hMnF6MDVsTWZpWjk0X2dzQWQ1RFJVMGZsODA3WEgzQkE2QmQzWXZQamdfT1ZWSXQ2NG9IaDFaZGtMcGRWY1hiU3ZJNzhF?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Medinside",
         "url": "https://www.medinside.ch"
+      }
+    },
+    {
+      "id": "f8040ec5eed6",
+      "title": "„Effizientes Medikamentenmanagement in der Pflege“: Redcare Pharmacy und Hilfswerk Österreich beim European Forum Alpbach 2026 - OTS.at",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMThLWHB3LVhyRGE0TnQ4RmxET08xWC1MRU5pcWgyY1hpZjh5QU84N0hLM0xjTUgzQ0V1TnlqRFJpaFdreHFyTWx0c2IwUGM2c2FoeE43X1V4SGJiS0hMd05lMEl2dXBjdFEyQ21rRUJaQWZWM25VUS0tTE5JNzRsajJ2aXdxZ001NTNWZUpPTlVaYWRhdHh1RTBwZWRVZmtWcjdOY3JCMTNPeHB3ZnBTVHR6ZDVHZmZsYTU5a1JFMm1NRFJvenc3bVRTb3cyWFpZNUlRZlNEdjlnVE84NF9UYVdaUVZ0eUQxQmllNmlOajFLNHpTckdRUWFuQktJX0JnMUI2RkVVNU1jaXJqcVE?oc=5",
+      "published": "2026-09-11T09:48:32+00:00",
+      "source": {
+        "name": "OTS.at",
+        "url": "https://www.ots.at"
       }
     },
     {
@@ -364,12 +364,12 @@
       }
     },
     {
-      "id": "08f761ee3a89",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
+      "id": "0016601fa300",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - de.euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzM5cWFmcTJfV010WWVadkdEVXRGblFEUTlhaUhoOThvaHV5eTJuWFVJbUtyMW9xNTJkYzNIR2Z6YWp0ZE1IWmNPb3pNcU5YY1phcUlQSU5IWWtvV0MzNDlqdHJZRU40alRPU29CWFVnUDBjLXE3UHhtV2pManQ4TzhzVEU3OHNDM2JJZm9ZbzBUbkVCRFRZYU1jMTl2UVdGRnhubmZZYWswcmZqbXAtbW5QcnRBTktIaHFFWg?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "de.euronews.com",
         "url": "https://de.euronews.com"
       }
     },
@@ -414,12 +414,12 @@
       }
     },
     {
-      "id": "976b3743b89a",
-      "title": "Der Missbrauch von Patenten durch Roche gefährdet die Gesundheit - PublicEye",
+      "id": "2ed7944d3d73",
+      "title": "Der Missbrauch von Patenten durch Roche gefährdet die Gesundheit - publiceye.ch",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTFVrYmZwUUtPNzNHNGJieVpJWGdlZkhtUjNNMDItVmVVazEydndLbnM2VVlRQldzVGhESllWVE43Ny1fTjhyMERpTzFuUjNJRUFNWU1EaXdfaF9RRXM3Rkk3b1pQR0ZWZzhKZktYVkNxRDluZjg1LXI0V04zTHV4QWZLSWhCeUJYREJqUFQ2SHVnMTBGMVRUUVNTUzZVRllUSER1bU1WaE1IZERaUEF3ZWlxc1BzQUxIOWxtenppQllPNEcwWVZhTUJCSS1oU1VXSnhPRFp4WDFFVE1kaGpKeEt3NnVHa05hYk5TN0tJaVBIZUMtX3plRHpzN2RFSDN5dnRzeFIzTVlEd1BqbkJjbU5ySDEteGZ4b1E?oc=5",
       "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "PublicEye",
+        "name": "publiceye.ch",
         "url": "https://www.publiceye.ch"
       }
     },
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "d5cd9fa24d7f",
-      "title": "Gesundheit - RKI: Antibiotikaverbrauch in deutschen Krankenhäusern unverändert - unternehmen-heute.de",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YQXQtaF9HOWRXZGJoT0V1Vl9DTVplRlB3dFE5WGltczNiMTA3RGcyOXFfNHNuRE9iSjh5MnVTMGJoSkhwNnY2NjlZMnBmcjN1eWxLTG9SQVF1c19FSEdXY0VB?oc=5",
-      "published": "2026-09-09T07:54:00+00:00",
-      "source": {
-        "name": "unternehmen-heute.de",
-        "url": "https://unternehmen-heute.de"
-      }
-    },
-    {
       "id": "47afc2884d76",
       "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
@@ -511,6 +501,16 @@
       "source": {
         "name": "geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "d5cd9fa24d7f",
+      "title": "Gesundheit - RKI: Antibiotikaverbrauch in deutschen Krankenhäusern unverändert - unternehmen-heute.de",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YQXQtaF9HOWRXZGJoT0V1Vl9DTVplRlB3dFE5WGltczNiMTA3RGcyOXFfNHNuRE9iSjh5MnVTMGJoSkhwNnY2NjlZMnBmcjN1eWxLTG9SQVF1c19FSEdXY0VB?oc=5",
+      "published": "2026-09-09T07:54:00+00:00",
+      "source": {
+        "name": "unternehmen-heute.de",
+        "url": "https://unternehmen-heute.de"
       }
     },
     {
@@ -634,16 +634,6 @@
       }
     },
     {
-      "id": "1f789fff5cdb",
-      "title": "Sicher unterwegs auf Schusters Rappen So werden Wandertouren zum unbeschwerten Naturerlebnis - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5NDEwODRrV3JLbGVuT0ZxVHNnYm56LXJydmo5MVB2d2xnV3dJRjlpMi14c0oyU21aMWhfVGJ0UmRackt4ZkNzWEkxb2FULWphTmdiSFBTWQ?oc=5",
-      "published": "2026-09-08T09:11:51+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -651,6 +641,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "1f789fff5cdb",
+      "title": "Sicher unterwegs auf Schusters Rappen So werden Wandertouren zum unbeschwerten Naturerlebnis - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5NDEwODRrV3JLbGVuT0ZxVHNnYm56LXJydmo5MVB2d2xnV3dJRjlpMi14c0oyU21aMWhfVGJ0UmRackt4ZkNzWEkxb2FULWphTmdiSFBTWQ?oc=5",
+      "published": "2026-09-08T09:11:51+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -714,16 +714,6 @@
       }
     },
     {
-      "id": "3d6bfc209413",
-      "title": "Shop Apotheke von Redcare Pharmacy - digitale Online-Apotheke mit E-Rezept und über 250000 Produkte - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEt5ZHZUbVdUOGFFUzNCcXhxSFpkNmhUaVJXYU5DTnpYYjlRWTJlWnFkWW1ZU3pPdTZSQXFHMXJEdGxraFkyN2lSOUxPZHFTaVZmYlVTVFFEZFlvcWx4TWVHQmt0c3F4TWV3dXU2YXFGOGxSVWxhSWRmSXdqOGd4eGEwaHFMSXVtYUw3YkM4cmtIMXlTRGI4NHpKM29ORFllNVE2ekRWbHkwS0VQVjBfYzB0c0xfMWl5NHVua3BYWWlPRXFLc2ZJ?oc=5",
-      "published": "2026-09-10T11:00:02+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -731,6 +721,16 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "3d6bfc209413",
+      "title": "Shop Apotheke von Redcare Pharmacy - digitale Online-Apotheke mit E-Rezept und über 250000 Produkte - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEt5ZHZUbVdUOGFFUzNCcXhxSFpkNmhUaVJXYU5DTnpYYjlRWTJlWnFkWW1ZU3pPdTZSQXFHMXJEdGxraFkyN2lSOUxPZHFTaVZmYlVTVFFEZFlvcWx4TWVHQmt0c3F4TWV3dXU2YXFGOGxSVWxhSWRmSXdqOGd4eGEwaHFMSXVtYUw3YkM4cmtIMXlTRGI4NHpKM29ORFllNVE2ekRWbHkwS0VQVjBfYzB0c0xfMWl5NHVua3BYWWlPRXFLc2ZJ?oc=5",
+      "published": "2026-09-10T11:00:02+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -814,12 +814,12 @@
       }
     },
     {
-      "id": "472e52be8f7f",
-      "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - Deutschlandfunk",
+      "id": "5253cd336262",
+      "title": "Gesundheit - GKV-Chef: \"Mehr gegen steigende Arzneimittelpreise tun\" - deutschlandfunk.de",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSy1mOE1PaUxhRGtHYkpqbDBKLVgtZ3cyd04xWkxtS2x0aWVSMUlQdVZVSjdqQXY5TUZEWWZxZEE4Zjc5LVBXS2lxYmEyaHVTQUpPWVBhMTVBZFl2eE02NUpDOXhmUFV6V1AwejFKb0NnVWs3OThpT3lQVlVzNW9kRG9zUlRKTzNwZlVEUmZFZi04dVVGUU5F?oc=5",
       "published": "2026-03-16T07:00:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
+        "name": "deutschlandfunk.de",
         "url": "https://www.deutschlandfunk.de"
       }
     },
@@ -854,12 +854,12 @@
       }
     },
     {
-      "id": "3843ee8c2190",
-      "title": "Gesundheit - Beipackzettel von Medikamenten sollen digital werden - Ausdrucke in Apotheken sollen Option sein - Deutschlandfunk",
+      "id": "92c3211b6121",
+      "title": "Gesundheit - Beipackzettel von Medikamenten sollen digital werden - Ausdrucke in Apotheken sollen Option sein - deutschlandfunk.de",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOclZxcXdzdDlfTXNBVkNkV1g0a1RMa05OWGcyX0RXaW5YMmpyUElhUnBJQU9QM3BzUG9iSFZnaWE0ek1iLTFQeE1wbkVhaDdrT3pVMERnT3l3VGhoOUtuS0EtT3pwazNMMGZmcmI1Z2puUHg1WWc5MzBXdHJma0l0dWNlNEhQdFdBUXF5X0V3OVRQWVA1RXFJNXJtbTVGMjNYQVlSWjNrdEttY0pQMXF0dWlwdGNUVWpFcF83a3RyX0oxSWpLaFVmc2NoVEhGNXc?oc=5",
       "published": "2026-03-12T07:00:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
+        "name": "deutschlandfunk.de",
         "url": "https://www.deutschlandfunk.de"
       }
     },
@@ -984,12 +984,12 @@
       }
     },
     {
-      "id": "39655c0e5aa9",
-      "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - Deutschlandfunk",
+      "id": "95eca875d866",
+      "title": "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise - deutschlandfunk.de",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3NDaWYzNk9TdlEwcHJfWDNzMFpsdFN5aUNwNHJTZjhocklJMURaWDlKdWdDR21aNHpwcDU5UGd6d285RXE0QUlvekdsd3VqMTdGazRKbFdRV0VLbVoxbzBNbXVJeElpcFJKTmxpTzAwcFhJZG5PSlhoQW1sTlUxaGNDTUttWmEwdEVMOHpMQWNYWmFmUkhRa2UzVzR2VVFP?oc=5",
       "published": "2026-01-15T08:00:00+00:00",
       "source": {
-        "name": "Deutschlandfunk",
+        "name": "deutschlandfunk.de",
         "url": "https://www.deutschlandfunk.de"
       }
     },
