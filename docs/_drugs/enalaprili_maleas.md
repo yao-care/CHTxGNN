@@ -5,6 +5,7 @@ title: ENALAPRILI MALEAS
 drugbank_id: DB00584
 evidence_level: L5
 permalink: /drugs/enalaprili_maleas/
+search_exclude: true
 ---
 
 # ENALAPRILI MALEAS

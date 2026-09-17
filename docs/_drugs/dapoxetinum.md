@@ -5,6 +5,7 @@ title: DAPOXETINUM
 drugbank_id: DB04884
 evidence_level: L5
 permalink: /drugs/dapoxetinum/
+search_exclude: true
 ---
 
 # DAPOXETINUM

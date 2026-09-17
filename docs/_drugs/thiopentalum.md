@@ -5,6 +5,7 @@ title: THIOPENTALUM
 drugbank_id: DB00599
 evidence_level: L5
 permalink: /drugs/thiopentalum/
+search_exclude: true
 ---
 
 # THIOPENTALUM

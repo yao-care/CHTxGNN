@@ -5,6 +5,7 @@ title: SOLRIAMFETOLUM
 drugbank_id: DB14754
 evidence_level: L5
 permalink: /drugs/solriamfetolum/
+search_exclude: true
 ---
 
 # SOLRIAMFETOLUM

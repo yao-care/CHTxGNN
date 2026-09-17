@@ -5,6 +5,7 @@ title: ATORVASTATINUM
 drugbank_id: DB01076
 evidence_level: L5
 permalink: /drugs/atorvastatinum/
+search_exclude: true
 ---
 
 # ATORVASTATINUM

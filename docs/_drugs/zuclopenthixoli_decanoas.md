@@ -5,6 +5,7 @@ title: ZUCLOPENTHIXOLI DECANOAS
 drugbank_id: DB01624
 evidence_level: L5
 permalink: /drugs/zuclopenthixoli_decanoas/
+search_exclude: true
 ---
 
 # ZUCLOPENTHIXOLI DECANOAS

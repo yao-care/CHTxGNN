@@ -5,6 +5,7 @@ title: TERBUTALINI SULFAS
 drugbank_id: DB00871
 evidence_level: L5
 permalink: /drugs/terbutalini_sulfas/
+search_exclude: true
 ---
 
 # TERBUTALINI SULFAS

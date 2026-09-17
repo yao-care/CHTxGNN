@@ -5,6 +5,7 @@ title: CILAZAPRILUM ANHYDRICUM
 drugbank_id: DB01340
 evidence_level: L5
 permalink: /drugs/cilazaprilum_anhydricum/
+search_exclude: true
 ---
 
 # CILAZAPRILUM ANHYDRICUM

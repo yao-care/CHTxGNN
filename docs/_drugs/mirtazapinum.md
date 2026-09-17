@@ -5,6 +5,7 @@ title: MIRTAZAPINUM
 drugbank_id: DB00370
 evidence_level: L5
 permalink: /drugs/mirtazapinum/
+search_exclude: true
 ---
 
 # MIRTAZAPINUM

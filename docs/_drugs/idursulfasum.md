@@ -5,6 +5,7 @@ title: IDURSULFASUM
 drugbank_id: DB01271
 evidence_level: L5
 permalink: /drugs/idursulfasum/
+search_exclude: true
 ---
 
 # IDURSULFASUM

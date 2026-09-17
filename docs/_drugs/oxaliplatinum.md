@@ -5,6 +5,7 @@ title: OXALIPLATINUM
 drugbank_id: DB00526
 evidence_level: L5
 permalink: /drugs/oxaliplatinum/
+search_exclude: true
 ---
 
 # OXALIPLATINUM

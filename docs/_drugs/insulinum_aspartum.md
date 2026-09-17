@@ -5,6 +5,7 @@ title: INSULINUM ASPARTUM
 drugbank_id: DB01306
 evidence_level: L5
 permalink: /drugs/insulinum_aspartum/
+search_exclude: true
 ---
 
 # INSULINUM ASPARTUM

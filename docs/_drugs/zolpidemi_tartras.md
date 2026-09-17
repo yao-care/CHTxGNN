@@ -5,6 +5,7 @@ title: ZOLPIDEMI TARTRAS
 drugbank_id: DB00425
 evidence_level: L5
 permalink: /drugs/zolpidemi_tartras/
+search_exclude: true
 ---
 
 # ZOLPIDEMI TARTRAS

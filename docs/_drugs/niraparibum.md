@@ -5,6 +5,7 @@ title: NIRAPARIBUM
 drugbank_id: DB11793
 evidence_level: L5
 permalink: /drugs/niraparibum/
+search_exclude: true
 ---
 
 # NIRAPARIBUM

@@ -5,6 +5,7 @@ title: HYDROXOCOBALAMINI ACETAS
 drugbank_id: DB00200
 evidence_level: L5
 permalink: /drugs/hydroxocobalamini_acetas/
+search_exclude: true
 ---
 
 # HYDROXOCOBALAMINI ACETAS

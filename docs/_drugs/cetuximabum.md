@@ -5,6 +5,7 @@ title: CETUXIMABUM
 drugbank_id: DB00002
 evidence_level: L5
 permalink: /drugs/cetuximabum/
+search_exclude: true
 ---
 
 # CETUXIMABUM

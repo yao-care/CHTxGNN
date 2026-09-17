@@ -5,6 +5,7 @@ title: EPLERENONUM
 drugbank_id: DB00700
 evidence_level: L5
 permalink: /drugs/eplerenonum/
+search_exclude: true
 ---
 
 # EPLERENONUM

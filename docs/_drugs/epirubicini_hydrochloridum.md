@@ -5,6 +5,7 @@ title: EPIRUBICINI HYDROCHLORIDUM
 drugbank_id: DB00445
 evidence_level: L5
 permalink: /drugs/epirubicini_hydrochloridum/
+search_exclude: true
 ---
 
 # EPIRUBICINI HYDROCHLORIDUM

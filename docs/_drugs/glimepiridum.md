@@ -5,6 +5,7 @@ title: GLIMEPIRIDUM
 drugbank_id: DB00222
 evidence_level: L5
 permalink: /drugs/glimepiridum/
+search_exclude: true
 ---
 
 # GLIMEPIRIDUM

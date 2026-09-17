@@ -5,6 +5,7 @@ title: TETRACAINI HYDROCHLORIDUM
 drugbank_id: DB09085
 evidence_level: L5
 permalink: /drugs/tetracaini_hydrochloridum/
+search_exclude: true
 ---
 
 # TETRACAINI HYDROCHLORIDUM

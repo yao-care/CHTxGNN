@@ -5,6 +5,7 @@ title: ACIDUM TRANEXAMICUM
 drugbank_id: DB00302
 evidence_level: L5
 permalink: /drugs/acidum_tranexamicum/
+search_exclude: true
 ---
 
 # ACIDUM TRANEXAMICUM

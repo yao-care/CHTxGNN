@@ -5,6 +5,7 @@ title: POVIDONUM K 25
 drugbank_id: DB11061
 evidence_level: L5
 permalink: /drugs/povidonum_k_25/
+search_exclude: true
 ---
 
 # POVIDONUM K 25

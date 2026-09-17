@@ -5,6 +5,7 @@ title: RASAGILINUM
 drugbank_id: DB01367
 evidence_level: L5
 permalink: /drugs/rasagilinum/
+search_exclude: true
 ---
 
 # RASAGILINUM

@@ -5,6 +5,7 @@ title: RIBOFLAVINUM
 drugbank_id: DB00140
 evidence_level: L5
 permalink: /drugs/riboflavinum/
+search_exclude: true
 ---
 
 # RIBOFLAVINUM

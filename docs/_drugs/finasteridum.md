@@ -5,6 +5,7 @@ title: FINASTERIDUM
 drugbank_id: DB01216
 evidence_level: L5
 permalink: /drugs/finasteridum/
+search_exclude: true
 ---
 
 # FINASTERIDUM

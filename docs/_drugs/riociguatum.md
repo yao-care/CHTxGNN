@@ -5,6 +5,7 @@ title: RIOCIGUATUM
 drugbank_id: DB08931
 evidence_level: L5
 permalink: /drugs/riociguatum/
+search_exclude: true
 ---
 
 # RIOCIGUATUM

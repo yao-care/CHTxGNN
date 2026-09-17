@@ -5,6 +5,7 @@ title: DRONEDARONUM
 drugbank_id: DB04855
 evidence_level: L5
 permalink: /drugs/dronedaronum/
+search_exclude: true
 ---
 
 # DRONEDARONUM

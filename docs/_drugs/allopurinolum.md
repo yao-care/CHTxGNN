@@ -5,6 +5,7 @@ title: ALLOPURINOLUM
 drugbank_id: DB00437
 evidence_level: L5
 permalink: /drugs/allopurinolum/
+search_exclude: true
 ---
 
 # ALLOPURINOLUM

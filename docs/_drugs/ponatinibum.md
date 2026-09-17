@@ -5,6 +5,7 @@ title: PONATINIBUM
 drugbank_id: DB08901
 evidence_level: L5
 permalink: /drugs/ponatinibum/
+search_exclude: true
 ---
 
 # PONATINIBUM

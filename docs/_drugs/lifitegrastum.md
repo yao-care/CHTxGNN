@@ -5,6 +5,7 @@ title: LIFITEGRASTUM
 drugbank_id: DB11611
 evidence_level: L5
 permalink: /drugs/lifitegrastum/
+search_exclude: true
 ---
 
 # LIFITEGRASTUM

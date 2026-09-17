@@ -5,6 +5,7 @@ title: ETRAVIRINUM
 drugbank_id: DB06414
 evidence_level: L5
 permalink: /drugs/etravirinum/
+search_exclude: true
 ---
 
 # ETRAVIRINUM

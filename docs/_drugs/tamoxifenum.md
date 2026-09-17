@@ -5,6 +5,7 @@ title: TAMOXIFENUM
 drugbank_id: DB00675
 evidence_level: L5
 permalink: /drugs/tamoxifenum/
+search_exclude: true
 ---
 
 # TAMOXIFENUM

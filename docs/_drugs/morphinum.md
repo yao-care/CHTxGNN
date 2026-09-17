@@ -5,6 +5,7 @@ title: MORPHINUM
 drugbank_id: DB00295
 evidence_level: L5
 permalink: /drugs/morphinum/
+search_exclude: true
 ---
 
 # MORPHINUM

@@ -5,6 +5,7 @@ title: PYRAZINAMIDUM
 drugbank_id: DB00339
 evidence_level: L5
 permalink: /drugs/pyrazinamidum/
+search_exclude: true
 ---
 
 # PYRAZINAMIDUM

@@ -5,6 +5,7 @@ title: METOPROLOLI TARTRAS
 drugbank_id: DB00264
 evidence_level: L5
 permalink: /drugs/metoprololi_tartras/
+search_exclude: true
 ---
 
 # METOPROLOLI TARTRAS

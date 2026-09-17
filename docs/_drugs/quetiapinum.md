@@ -5,6 +5,7 @@ title: QUETIAPINUM
 drugbank_id: DB01224
 evidence_level: L5
 permalink: /drugs/quetiapinum/
+search_exclude: true
 ---
 
 # QUETIAPINUM

@@ -5,6 +5,7 @@ title: ARIPIPRAZOLUM
 drugbank_id: DB01238
 evidence_level: L5
 permalink: /drugs/aripiprazolum/
+search_exclude: true
 ---
 
 # ARIPIPRAZOLUM

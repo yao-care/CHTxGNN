@@ -5,6 +5,7 @@ title: PEMETREXEDUM
 drugbank_id: DB00642
 evidence_level: L5
 permalink: /drugs/pemetrexedum/
+search_exclude: true
 ---
 
 # PEMETREXEDUM

@@ -5,6 +5,7 @@ title: ESMOLOLI HYDROCHLORIDUM
 drugbank_id: DB00187
 evidence_level: L5
 permalink: /drugs/esmololi_hydrochloridum/
+search_exclude: true
 ---
 
 # ESMOLOLI HYDROCHLORIDUM

@@ -5,6 +5,7 @@ title: DUTASTERIDUM
 drugbank_id: DB01126
 evidence_level: L5
 permalink: /drugs/dutasteridum/
+search_exclude: true
 ---
 
 # DUTASTERIDUM

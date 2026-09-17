@@ -5,6 +5,7 @@ title: FREMANEZUMABUM
 drugbank_id: DB14041
 evidence_level: L5
 permalink: /drugs/fremanezumabum/
+search_exclude: true
 ---
 
 # FREMANEZUMABUM

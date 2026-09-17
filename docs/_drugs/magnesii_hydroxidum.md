@@ -5,6 +5,7 @@ title: MAGNESII HYDROXIDUM
 drugbank_id: DB09104
 evidence_level: L5
 permalink: /drugs/magnesii_hydroxidum/
+search_exclude: true
 ---
 
 # MAGNESII HYDROXIDUM

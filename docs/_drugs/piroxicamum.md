@@ -5,6 +5,7 @@ title: PIROXICAMUM
 drugbank_id: DB00554
 evidence_level: L5
 permalink: /drugs/piroxicamum/
+search_exclude: true
 ---
 
 # PIROXICAMUM

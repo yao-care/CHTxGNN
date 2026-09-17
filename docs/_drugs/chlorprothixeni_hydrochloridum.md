@@ -5,6 +5,7 @@ title: CHLORPROTHIXENI HYDROCHLORIDUM
 drugbank_id: DB01239
 evidence_level: L5
 permalink: /drugs/chlorprothixeni_hydrochloridum/
+search_exclude: true
 ---
 
 # CHLORPROTHIXENI HYDROCHLORIDUM

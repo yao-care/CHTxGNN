@@ -5,6 +5,7 @@ title: BENRALIZUMABUM
 drugbank_id: DB12023
 evidence_level: L5
 permalink: /drugs/benralizumabum/
+search_exclude: true
 ---
 
 # BENRALIZUMABUM

@@ -5,6 +5,7 @@ title: CLOPIDOGRELUM
 drugbank_id: DB00758
 evidence_level: L5
 permalink: /drugs/clopidogrelum/
+search_exclude: true
 ---
 
 # CLOPIDOGRELUM

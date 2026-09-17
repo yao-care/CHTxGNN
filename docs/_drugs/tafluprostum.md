@@ -5,6 +5,7 @@ title: TAFLUPROSTUM
 drugbank_id: DB08819
 evidence_level: L5
 permalink: /drugs/tafluprostum/
+search_exclude: true
 ---
 
 # TAFLUPROSTUM

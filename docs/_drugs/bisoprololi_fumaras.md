@@ -5,6 +5,7 @@ title: BISOPROLOLI FUMARAS
 drugbank_id: DB00612
 evidence_level: L5
 permalink: /drugs/bisoprololi_fumaras/
+search_exclude: true
 ---
 
 # BISOPROLOLI FUMARAS

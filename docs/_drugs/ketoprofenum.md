@@ -5,6 +5,7 @@ title: KETOPROFENUM
 drugbank_id: DB01009
 evidence_level: L5
 permalink: /drugs/ketoprofenum/
+search_exclude: true
 ---
 
 # KETOPROFENUM

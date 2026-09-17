@@ -5,6 +5,7 @@ title: PRASUGRELUM
 drugbank_id: DB06209
 evidence_level: L5
 permalink: /drugs/prasugrelum/
+search_exclude: true
 ---
 
 # PRASUGRELUM

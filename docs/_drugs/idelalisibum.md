@@ -5,6 +5,7 @@ title: IDELALISIBUM
 drugbank_id: DB09054
 evidence_level: L5
 permalink: /drugs/idelalisibum/
+search_exclude: true
 ---
 
 # IDELALISIBUM

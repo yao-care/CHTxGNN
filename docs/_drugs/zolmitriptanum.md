@@ -5,6 +5,7 @@ title: ZOLMITRIPTANUM
 drugbank_id: DB00315
 evidence_level: L5
 permalink: /drugs/zolmitriptanum/
+search_exclude: true
 ---
 
 # ZOLMITRIPTANUM

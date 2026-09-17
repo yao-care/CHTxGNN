@@ -5,6 +5,7 @@ title: RIFAXIMINUM
 drugbank_id: DB01220
 evidence_level: L5
 permalink: /drugs/rifaximinum/
+search_exclude: true
 ---
 
 # RIFAXIMINUM

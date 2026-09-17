@@ -5,6 +5,7 @@ title: OSILODROSTATUM
 drugbank_id: DB11837
 evidence_level: L5
 permalink: /drugs/osilodrostatum/
+search_exclude: true
 ---
 
 # OSILODROSTATUM

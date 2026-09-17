@@ -5,6 +5,7 @@ title: FINGOLIMODUM
 drugbank_id: DB08868
 evidence_level: L5
 permalink: /drugs/fingolimodum/
+search_exclude: true
 ---
 
 # FINGOLIMODUM

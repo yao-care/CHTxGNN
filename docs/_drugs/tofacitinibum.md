@@ -5,6 +5,7 @@ title: TOFACITINIBUM
 drugbank_id: DB08895
 evidence_level: L5
 permalink: /drugs/tofacitinibum/
+search_exclude: true
 ---
 
 # TOFACITINIBUM

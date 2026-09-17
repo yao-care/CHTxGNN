@@ -5,6 +5,7 @@ title: AZATHIOPRINUM
 drugbank_id: DB00993
 evidence_level: L5
 permalink: /drugs/azathioprinum/
+search_exclude: true
 ---
 
 # AZATHIOPRINUM

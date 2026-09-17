@@ -5,6 +5,7 @@ title: MOXONIDINUM
 drugbank_id: DB09242
 evidence_level: L5
 permalink: /drugs/moxonidinum/
+search_exclude: true
 ---
 
 # MOXONIDINUM

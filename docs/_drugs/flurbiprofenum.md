@@ -5,6 +5,7 @@ title: FLURBIPROFENUM
 drugbank_id: DB00712
 evidence_level: L5
 permalink: /drugs/flurbiprofenum/
+search_exclude: true
 ---
 
 # FLURBIPROFENUM

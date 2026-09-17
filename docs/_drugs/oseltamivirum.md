@@ -5,6 +5,7 @@ title: OSELTAMIVIRUM
 drugbank_id: DB00198
 evidence_level: L5
 permalink: /drugs/oseltamivirum/
+search_exclude: true
 ---
 
 # OSELTAMIVIRUM

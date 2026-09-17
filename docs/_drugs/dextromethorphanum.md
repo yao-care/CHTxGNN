@@ -5,6 +5,7 @@ title: DEXTROMETHORPHANUM
 drugbank_id: DB00514
 evidence_level: L5
 permalink: /drugs/dextromethorphanum/
+search_exclude: true
 ---
 
 # DEXTROMETHORPHANUM

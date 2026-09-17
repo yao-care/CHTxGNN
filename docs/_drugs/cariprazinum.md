@@ -5,6 +5,7 @@ title: CARIPRAZINUM
 drugbank_id: DB06016
 evidence_level: L5
 permalink: /drugs/cariprazinum/
+search_exclude: true
 ---
 
 # CARIPRAZINUM

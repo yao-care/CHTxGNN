@@ -5,6 +5,7 @@ title: REBOXETINUM
 drugbank_id: DB00234
 evidence_level: L5
 permalink: /drugs/reboxetinum/
+search_exclude: true
 ---
 
 # REBOXETINUM

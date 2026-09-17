@@ -5,6 +5,7 @@ title: PERINDOPRILUM
 drugbank_id: DB00790
 evidence_level: L5
 permalink: /drugs/perindoprilum/
+search_exclude: true
 ---
 
 # PERINDOPRILUM

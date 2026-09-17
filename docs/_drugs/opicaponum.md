@@ -5,6 +5,7 @@ title: OPICAPONUM
 drugbank_id: DB11632
 evidence_level: L5
 permalink: /drugs/opicaponum/
+search_exclude: true
 ---
 
 # OPICAPONUM

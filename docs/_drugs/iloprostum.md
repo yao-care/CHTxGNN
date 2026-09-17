@@ -5,6 +5,7 @@ title: ILOPROSTUM
 drugbank_id: DB01088
 evidence_level: L5
 permalink: /drugs/iloprostum/
+search_exclude: true
 ---
 
 # ILOPROSTUM

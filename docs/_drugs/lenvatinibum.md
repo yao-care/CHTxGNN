@@ -5,6 +5,7 @@ title: LENVATINIBUM
 drugbank_id: DB09078
 evidence_level: L5
 permalink: /drugs/lenvatinibum/
+search_exclude: true
 ---
 
 # LENVATINIBUM

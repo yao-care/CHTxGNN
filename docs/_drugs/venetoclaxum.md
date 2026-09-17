@@ -5,6 +5,7 @@ title: VENETOCLAXUM
 drugbank_id: DB11581
 evidence_level: L5
 permalink: /drugs/venetoclaxum/
+search_exclude: true
 ---
 
 # VENETOCLAXUM

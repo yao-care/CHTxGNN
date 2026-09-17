@@ -5,6 +5,7 @@ title: CLONAZEPAMUM
 drugbank_id: DB01068
 evidence_level: L5
 permalink: /drugs/clonazepamum/
+search_exclude: true
 ---
 
 # CLONAZEPAMUM

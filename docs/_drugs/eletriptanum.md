@@ -5,6 +5,7 @@ title: ELETRIPTANUM
 drugbank_id: DB00216
 evidence_level: L5
 permalink: /drugs/eletriptanum/
+search_exclude: true
 ---
 
 # ELETRIPTANUM

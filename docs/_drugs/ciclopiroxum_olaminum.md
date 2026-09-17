@@ -5,6 +5,7 @@ title: CICLOPIROXUM OLAMINUM
 drugbank_id: DB01188
 evidence_level: L5
 permalink: /drugs/ciclopiroxum_olaminum/
+search_exclude: true
 ---
 
 # CICLOPIROXUM OLAMINUM

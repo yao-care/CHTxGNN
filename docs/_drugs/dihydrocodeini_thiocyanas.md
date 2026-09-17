@@ -5,6 +5,7 @@ title: DIHYDROCODEINI THIOCYANAS
 drugbank_id: DB01551
 evidence_level: L5
 permalink: /drugs/dihydrocodeini_thiocyanas/
+search_exclude: true
 ---
 
 # DIHYDROCODEINI THIOCYANAS

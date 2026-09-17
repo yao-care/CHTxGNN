@@ -5,6 +5,7 @@ title: VANCOMYCINUM
 drugbank_id: DB00512
 evidence_level: L5
 permalink: /drugs/vancomycinum/
+search_exclude: true
 ---
 
 # VANCOMYCINUM

@@ -5,6 +5,7 @@ title: FLUPENTIXOLUM
 drugbank_id: DB00875
 evidence_level: L5
 permalink: /drugs/flupentixolum/
+search_exclude: true
 ---
 
 # FLUPENTIXOLUM

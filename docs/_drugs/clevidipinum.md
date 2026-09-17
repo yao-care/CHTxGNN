@@ -5,6 +5,7 @@ title: CLEVIDIPINUM
 drugbank_id: DB04920
 evidence_level: L5
 permalink: /drugs/clevidipinum/
+search_exclude: true
 ---
 
 # CLEVIDIPINUM

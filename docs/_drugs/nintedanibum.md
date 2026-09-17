@@ -5,6 +5,7 @@ title: NINTEDANIBUM
 drugbank_id: DB09079
 evidence_level: L5
 permalink: /drugs/nintedanibum/
+search_exclude: true
 ---
 
 # NINTEDANIBUM

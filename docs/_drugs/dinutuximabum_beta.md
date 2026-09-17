@@ -5,6 +5,7 @@ title: DINUTUXIMABUM BETA
 drugbank_id: DB09077
 evidence_level: L5
 permalink: /drugs/dinutuximabum_beta/
+search_exclude: true
 ---
 
 # DINUTUXIMABUM BETA

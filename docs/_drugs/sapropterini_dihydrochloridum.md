@@ -5,6 +5,7 @@ title: SAPROPTERINI DIHYDROCHLORIDUM
 drugbank_id: DB00360
 evidence_level: L5
 permalink: /drugs/sapropterini_dihydrochloridum/
+search_exclude: true
 ---
 
 # SAPROPTERINI DIHYDROCHLORIDUM

@@ -5,6 +5,7 @@ title: FEXOFENADINI HYDROCHLORIDUM
 drugbank_id: DB00950
 evidence_level: L5
 permalink: /drugs/fexofenadini_hydrochloridum/
+search_exclude: true
 ---
 
 # FEXOFENADINI HYDROCHLORIDUM

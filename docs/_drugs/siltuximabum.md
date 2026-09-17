@@ -5,6 +5,7 @@ title: SILTUXIMABUM
 drugbank_id: DB09036
 evidence_level: L5
 permalink: /drugs/siltuximabum/
+search_exclude: true
 ---
 
 # SILTUXIMABUM

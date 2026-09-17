@@ -5,6 +5,7 @@ title: BARICITINIBUM
 drugbank_id: DB11817
 evidence_level: L5
 permalink: /drugs/baricitinibum/
+search_exclude: true
 ---
 
 # BARICITINIBUM

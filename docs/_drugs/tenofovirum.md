@@ -5,6 +5,7 @@ title: TENOFOVIRUM
 drugbank_id: DB14126
 evidence_level: L5
 permalink: /drugs/tenofovirum/
+search_exclude: true
 ---
 
 # TENOFOVIRUM

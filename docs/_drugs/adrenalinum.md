@@ -5,6 +5,7 @@ title: ADRENALINUM
 drugbank_id: DB00668
 evidence_level: L5
 permalink: /drugs/adrenalinum/
+search_exclude: true
 ---
 
 # ADRENALINUM

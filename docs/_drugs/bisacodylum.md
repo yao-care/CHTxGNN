@@ -5,6 +5,7 @@ title: BISACODYLUM
 drugbank_id: DB09020
 evidence_level: L5
 permalink: /drugs/bisacodylum/
+search_exclude: true
 ---
 
 # BISACODYLUM

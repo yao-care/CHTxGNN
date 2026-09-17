@@ -5,6 +5,7 @@ title: LENALIDOMIDUM
 drugbank_id: DB00480
 evidence_level: L5
 permalink: /drugs/lenalidomidum/
+search_exclude: true
 ---
 
 # LENALIDOMIDUM

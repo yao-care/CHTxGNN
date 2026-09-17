@@ -5,6 +5,7 @@ title: PENTOXYVERINUM
 drugbank_id: DB11186
 evidence_level: L5
 permalink: /drugs/pentoxyverinum/
+search_exclude: true
 ---
 
 # PENTOXYVERINUM

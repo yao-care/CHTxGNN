@@ -5,6 +5,7 @@ title: PERTUZUMABUM
 drugbank_id: DB06366
 evidence_level: L5
 permalink: /drugs/pertuzumabum/
+search_exclude: true
 ---
 
 # PERTUZUMABUM

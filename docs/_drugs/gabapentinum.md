@@ -5,6 +5,7 @@ title: GABAPENTINUM
 drugbank_id: DB00996
 evidence_level: L5
 permalink: /drugs/gabapentinum/
+search_exclude: true
 ---
 
 # GABAPENTINUM

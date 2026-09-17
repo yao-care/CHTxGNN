@@ -5,6 +5,7 @@ title: MIDAZOLAMUM
 drugbank_id: DB00683
 evidence_level: L5
 permalink: /drugs/midazolamum/
+search_exclude: true
 ---
 
 # MIDAZOLAMUM

@@ -5,6 +5,7 @@ title: ABATACEPTUM
 drugbank_id: DB01281
 evidence_level: L5
 permalink: /drugs/abataceptum/
+search_exclude: true
 ---
 
 # ABATACEPTUM

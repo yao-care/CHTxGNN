@@ -5,6 +5,7 @@ title: TREPROSTINILUM
 drugbank_id: DB00374
 evidence_level: L5
 permalink: /drugs/treprostinilum/
+search_exclude: true
 ---
 
 # TREPROSTINILUM

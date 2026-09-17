@@ -5,6 +5,7 @@ title: NIMODIPINUM
 drugbank_id: DB00393
 evidence_level: L5
 permalink: /drugs/nimodipinum/
+search_exclude: true
 ---
 
 # NIMODIPINUM

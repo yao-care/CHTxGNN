@@ -5,6 +5,7 @@ title: PEMBROLIZUMABUM
 drugbank_id: DB09037
 evidence_level: L5
 permalink: /drugs/pembrolizumabum/
+search_exclude: true
 ---
 
 # PEMBROLIZUMABUM

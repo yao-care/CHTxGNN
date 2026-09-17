@@ -5,6 +5,7 @@ title: NORTRIPTYLINUM
 drugbank_id: DB00540
 evidence_level: L5
 permalink: /drugs/nortriptylinum/
+search_exclude: true
 ---
 
 # NORTRIPTYLINUM

@@ -5,6 +5,7 @@ title: DEFERASIROXUM
 drugbank_id: DB01609
 evidence_level: L5
 permalink: /drugs/deferasiroxum/
+search_exclude: true
 ---
 
 # DEFERASIROXUM

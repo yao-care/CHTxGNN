@@ -5,6 +5,7 @@ title: POMALIDOMIDUM
 drugbank_id: DB08910
 evidence_level: L5
 permalink: /drugs/pomalidomidum/
+search_exclude: true
 ---
 
 # POMALIDOMIDUM

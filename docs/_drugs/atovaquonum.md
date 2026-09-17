@@ -5,6 +5,7 @@ title: ATOVAQUONUM
 drugbank_id: DB01117
 evidence_level: L5
 permalink: /drugs/atovaquonum/
+search_exclude: true
 ---
 
 # ATOVAQUONUM

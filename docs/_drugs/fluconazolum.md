@@ -5,6 +5,7 @@ title: FLUCONAZOLUM
 drugbank_id: DB00196
 evidence_level: L5
 permalink: /drugs/fluconazolum/
+search_exclude: true
 ---
 
 # FLUCONAZOLUM

@@ -5,6 +5,7 @@ title: TIROFIBANUM
 drugbank_id: DB00775
 evidence_level: L5
 permalink: /drugs/tirofibanum/
+search_exclude: true
 ---
 
 # TIROFIBANUM

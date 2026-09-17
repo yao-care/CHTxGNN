@@ -5,6 +5,7 @@ title: LITHIUM
 drugbank_id: DB14507
 evidence_level: L5
 permalink: /drugs/lithium/
+search_exclude: true
 ---
 
 # LITHIUM

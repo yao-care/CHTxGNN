@@ -5,6 +5,7 @@ title: OPIPRAMOLI DIHYDROCHLORIDUM
 drugbank_id: DB12930
 evidence_level: L5
 permalink: /drugs/opipramoli_dihydrochloridum/
+search_exclude: true
 ---
 
 # OPIPRAMOLI DIHYDROCHLORIDUM

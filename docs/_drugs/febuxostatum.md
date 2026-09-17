@@ -5,6 +5,7 @@ title: FEBUXOSTATUM
 drugbank_id: DB04854
 evidence_level: L5
 permalink: /drugs/febuxostatum/
+search_exclude: true
 ---
 
 # FEBUXOSTATUM

@@ -5,6 +5,7 @@ title: SUNITINIBUM
 drugbank_id: DB01268
 evidence_level: L5
 permalink: /drugs/sunitinibum/
+search_exclude: true
 ---
 
 # SUNITINIBUM

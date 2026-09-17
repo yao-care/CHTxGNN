@@ -5,6 +5,7 @@ title: RIMEGEPANTUM
 drugbank_id: DB12457
 evidence_level: L5
 permalink: /drugs/rimegepantum/
+search_exclude: true
 ---
 
 # RIMEGEPANTUM

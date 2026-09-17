@@ -5,6 +5,7 @@ title: PEGASPARGASUM
 drugbank_id: DB00059
 evidence_level: L5
 permalink: /drugs/pegaspargasum/
+search_exclude: true
 ---
 
 # PEGASPARGASUM

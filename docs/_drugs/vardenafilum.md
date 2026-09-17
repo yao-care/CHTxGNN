@@ -5,6 +5,7 @@ title: VARDENAFILUM
 drugbank_id: DB00862
 evidence_level: L5
 permalink: /drugs/vardenafilum/
+search_exclude: true
 ---
 
 # VARDENAFILUM

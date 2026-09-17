@@ -5,6 +5,7 @@ title: LISDEXAMFETAMINI DIMESILAS
 drugbank_id: DB01255
 evidence_level: L5
 permalink: /drugs/lisdexamfetamini_dimesilas/
+search_exclude: true
 ---
 
 # LISDEXAMFETAMINI DIMESILAS

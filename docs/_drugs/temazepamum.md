@@ -5,6 +5,7 @@ title: TEMAZEPAMUM
 drugbank_id: DB00231
 evidence_level: L5
 permalink: /drugs/temazepamum/
+search_exclude: true
 ---
 
 # TEMAZEPAMUM

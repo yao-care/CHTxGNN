@@ -5,6 +5,7 @@ title: DEFERIPRONUM
 drugbank_id: DB08826
 evidence_level: L5
 permalink: /drugs/deferipronum/
+search_exclude: true
 ---
 
 # DEFERIPRONUM

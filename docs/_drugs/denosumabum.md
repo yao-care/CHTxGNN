@@ -5,6 +5,7 @@ title: DENOSUMABUM
 drugbank_id: DB06643
 evidence_level: L5
 permalink: /drugs/denosumabum/
+search_exclude: true
 ---
 
 # DENOSUMABUM

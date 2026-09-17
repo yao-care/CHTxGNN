@@ -5,6 +5,7 @@ title: BUROSUMABUM
 drugbank_id: DB14012
 evidence_level: L5
 permalink: /drugs/burosumabum/
+search_exclude: true
 ---
 
 # BUROSUMABUM

@@ -5,6 +5,7 @@ title: TEDUGLUTIDUM
 drugbank_id: DB08900
 evidence_level: L5
 permalink: /drugs/teduglutidum/
+search_exclude: true
 ---
 
 # TEDUGLUTIDUM

@@ -5,6 +5,7 @@ title: ATEZOLIZUMABUM
 drugbank_id: DB11595
 evidence_level: L5
 permalink: /drugs/atezolizumabum/
+search_exclude: true
 ---
 
 # ATEZOLIZUMABUM

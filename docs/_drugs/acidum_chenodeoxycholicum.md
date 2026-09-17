@@ -5,6 +5,7 @@ title: ACIDUM CHENODEOXYCHOLICUM
 drugbank_id: DB06777
 evidence_level: L5
 permalink: /drugs/acidum_chenodeoxycholicum/
+search_exclude: true
 ---
 
 # ACIDUM CHENODEOXYCHOLICUM

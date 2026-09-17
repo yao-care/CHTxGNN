@@ -5,6 +5,7 @@ title: PASIREOTIDUM
 drugbank_id: DB06663
 evidence_level: L5
 permalink: /drugs/pasireotidum/
+search_exclude: true
 ---
 
 # PASIREOTIDUM

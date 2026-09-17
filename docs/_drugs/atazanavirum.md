@@ -5,6 +5,7 @@ title: ATAZANAVIRUM
 drugbank_id: DB01072
 evidence_level: L5
 permalink: /drugs/atazanavirum/
+search_exclude: true
 ---
 
 # ATAZANAVIRUM

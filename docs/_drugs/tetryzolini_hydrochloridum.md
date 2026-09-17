@@ -5,6 +5,7 @@ title: TETRYZOLINI HYDROCHLORIDUM
 drugbank_id: DB06764
 evidence_level: L5
 permalink: /drugs/tetryzolini_hydrochloridum/
+search_exclude: true
 ---
 
 # TETRYZOLINI HYDROCHLORIDUM

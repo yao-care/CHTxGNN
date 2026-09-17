@@ -5,6 +5,7 @@ title: TORASEMIDUM
 drugbank_id: DB00214
 evidence_level: L5
 permalink: /drugs/torasemidum/
+search_exclude: true
 ---
 
 # TORASEMIDUM

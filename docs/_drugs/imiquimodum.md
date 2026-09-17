@@ -5,6 +5,7 @@ title: IMIQUIMODUM
 drugbank_id: DB00724
 evidence_level: L5
 permalink: /drugs/imiquimodum/
+search_exclude: true
 ---
 
 # IMIQUIMODUM

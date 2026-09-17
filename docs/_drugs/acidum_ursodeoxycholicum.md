@@ -5,6 +5,7 @@ title: ACIDUM URSODEOXYCHOLICUM
 drugbank_id: DB01586
 evidence_level: L5
 permalink: /drugs/acidum_ursodeoxycholicum/
+search_exclude: true
 ---
 
 # ACIDUM URSODEOXYCHOLICUM

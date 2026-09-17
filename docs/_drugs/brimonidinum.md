@@ -5,6 +5,7 @@ title: BRIMONIDINUM
 drugbank_id: DB00484
 evidence_level: L5
 permalink: /drugs/brimonidinum/
+search_exclude: true
 ---
 
 # BRIMONIDINUM

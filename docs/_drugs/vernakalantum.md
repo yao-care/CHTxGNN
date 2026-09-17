@@ -5,6 +5,7 @@ title: VERNAKALANTUM
 drugbank_id: DB06217
 evidence_level: L5
 permalink: /drugs/vernakalantum/
+search_exclude: true
 ---
 
 # VERNAKALANTUM

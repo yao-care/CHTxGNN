@@ -5,6 +5,7 @@ title: CANNABIDIOLUM
 drugbank_id: DB09061
 evidence_level: L5
 permalink: /drugs/cannabidiolum/
+search_exclude: true
 ---
 
 # CANNABIDIOLUM

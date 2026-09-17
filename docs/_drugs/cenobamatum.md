@@ -5,6 +5,7 @@ title: CENOBAMATUM
 drugbank_id: DB06119
 evidence_level: L5
 permalink: /drugs/cenobamatum/
+search_exclude: true
 ---
 
 # CENOBAMATUM

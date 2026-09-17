@@ -5,6 +5,7 @@ title: AMITRIPTYLINUM
 drugbank_id: DB00321
 evidence_level: L5
 permalink: /drugs/amitriptylinum/
+search_exclude: true
 ---
 
 # AMITRIPTYLINUM

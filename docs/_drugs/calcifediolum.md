@@ -5,6 +5,7 @@ title: CALCIFEDIOLUM
 drugbank_id: DB00146
 evidence_level: L5
 permalink: /drugs/calcifediolum/
+search_exclude: true
 ---
 
 # CALCIFEDIOLUM

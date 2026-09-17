@@ -5,6 +5,7 @@ title: BUDESONIDUM
 drugbank_id: DB01222
 evidence_level: L5
 permalink: /drugs/budesonidum/
+search_exclude: true
 ---
 
 # BUDESONIDUM

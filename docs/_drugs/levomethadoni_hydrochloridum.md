@@ -5,6 +5,7 @@ title: LEVOMETHADONI HYDROCHLORIDUM
 drugbank_id: DB13515
 evidence_level: L5
 permalink: /drugs/levomethadoni_hydrochloridum/
+search_exclude: true
 ---
 
 # LEVOMETHADONI HYDROCHLORIDUM

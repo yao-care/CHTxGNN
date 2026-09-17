@@ -5,6 +5,7 @@ title: FELBAMATUM
 drugbank_id: DB00949
 evidence_level: L5
 permalink: /drugs/felbamatum/
+search_exclude: true
 ---
 
 # FELBAMATUM

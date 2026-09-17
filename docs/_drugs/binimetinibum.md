@@ -5,6 +5,7 @@ title: BINIMETINIBUM
 drugbank_id: DB11967
 evidence_level: L5
 permalink: /drugs/binimetinibum/
+search_exclude: true
 ---
 
 # BINIMETINIBUM

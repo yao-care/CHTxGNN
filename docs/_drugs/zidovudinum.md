@@ -5,6 +5,7 @@ title: ZIDOVUDINUM
 drugbank_id: DB00495
 evidence_level: L5
 permalink: /drugs/zidovudinum/
+search_exclude: true
 ---
 
 # ZIDOVUDINUM

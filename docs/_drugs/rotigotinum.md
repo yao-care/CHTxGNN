@@ -5,6 +5,7 @@ title: ROTIGOTINUM
 drugbank_id: DB05271
 evidence_level: L5
 permalink: /drugs/rotigotinum/
+search_exclude: true
 ---
 
 # ROTIGOTINUM

@@ -5,6 +5,7 @@ title: ROMIPLOSTIMUM
 drugbank_id: DB05332
 evidence_level: L5
 permalink: /drugs/romiplostimum/
+search_exclude: true
 ---
 
 # ROMIPLOSTIMUM

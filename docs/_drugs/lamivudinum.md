@@ -5,6 +5,7 @@ title: LAMIVUDINUM
 drugbank_id: DB00709
 evidence_level: L5
 permalink: /drugs/lamivudinum/
+search_exclude: true
 ---
 
 # LAMIVUDINUM

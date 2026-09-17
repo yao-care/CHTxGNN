@@ -5,6 +5,7 @@ title: DESVENLAFAXINUM
 drugbank_id: DB06700
 evidence_level: L5
 permalink: /drugs/desvenlafaxinum/
+search_exclude: true
 ---
 
 # DESVENLAFAXINUM

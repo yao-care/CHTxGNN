@@ -5,6 +5,7 @@ title: VORTIOXETINUM
 drugbank_id: DB09068
 evidence_level: L5
 permalink: /drugs/vortioxetinum/
+search_exclude: true
 ---
 
 # VORTIOXETINUM

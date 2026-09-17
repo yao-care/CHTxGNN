@@ -5,6 +5,7 @@ title: DORAVIRINUM
 drugbank_id: DB12301
 evidence_level: L5
 permalink: /drugs/doravirinum/
+search_exclude: true
 ---
 
 # DORAVIRINUM

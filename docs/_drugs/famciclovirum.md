@@ -5,6 +5,7 @@ title: FAMCICLOVIRUM
 drugbank_id: DB00426
 evidence_level: L5
 permalink: /drugs/famciclovirum/
+search_exclude: true
 ---
 
 # FAMCICLOVIRUM

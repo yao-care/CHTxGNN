@@ -5,6 +5,7 @@ title: CODEINI PHOSPHAS HEMIHYDRICUS
 drugbank_id: DB00318
 evidence_level: L5
 permalink: /drugs/codeini_phosphas_hemihydricus/
+search_exclude: true
 ---
 
 # CODEINI PHOSPHAS HEMIHYDRICUS

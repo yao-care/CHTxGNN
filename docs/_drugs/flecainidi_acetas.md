@@ -5,6 +5,7 @@ title: FLECAINIDI ACETAS
 drugbank_id: DB01195
 evidence_level: L5
 permalink: /drugs/flecainidi_acetas/
+search_exclude: true
 ---
 
 # FLECAINIDI ACETAS

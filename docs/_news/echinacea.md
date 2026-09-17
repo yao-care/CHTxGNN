@@ -1,45 +1,45 @@
 ---
 layout: default
-title: "ECHINACEA 相關新聞"
-parent: 健康新聞
+title: "Nachrichten zu ECHINACEA"
+parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "ECHINACEA 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Gesundheitsnachrichten zu ECHINACEA. Ursprüngliche Indikation: . 3 vorhergesagte Indikationen."
 permalink: /news/echinacea/
 ---
 
-# ECHINACEA 相關新聞
+# Nachrichten zu ECHINACEA
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Zurück zur Nachrichtenübersicht]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ECHINACEA 有什麼相關新聞？">
-<strong>ECHINACEA</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<p class="key-answer" data-question="Welche Nachrichten gibt es zu ECHINACEA?">
+<strong>ECHINACEA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 3 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
-本頁整合 ECHINACEA 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+Diese Seite verbindet die KI-vorhergesagten Indikationen für ECHINACEA mit den neuesten Gesundheitsnachrichten. Orange hervorgehobene Indikationen wurden kürzlich in den Nachrichten erwähnt.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Arzneimittelinformationen</strong>
 <ul>
-<li><strong>預測適應症</strong>（3 個）：<ul>
-<li>leprosy（99.5%）</li>
-<li>candidiasis（99.2%）</li>
-<li>pneumocystosis（99.2%）</li>
+<li><strong>Vorhergesagte Indikationen (3)</strong>:<ul>
+<li>leprosy (99.5%)</li>
+<li>candidiasis (99.2%)</li>
+<li>pneumocystosis (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/echinacea/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/echinacea/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Verwandte Nachrichten (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*Derzeit liegen keine verwandten Nachrichten vor. Sobald eine Meldung dieses Arzneimittel erwähnt, wird sie automatisch erfasst und hier angezeigt.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Haftungsausschluss</strong>: Die Nachrichten auf dieser Seite werden automatisch gesammelt und dienen ausschließlich als Forschungsreferenz; sie stellen keine medizinische Beratung dar.
 </div>
 
 <style>

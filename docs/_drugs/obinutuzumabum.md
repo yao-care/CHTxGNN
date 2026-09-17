@@ -5,6 +5,7 @@ title: OBINUTUZUMABUM
 drugbank_id: DB08935
 evidence_level: L5
 permalink: /drugs/obinutuzumabum/
+search_exclude: true
 ---
 
 # OBINUTUZUMABUM

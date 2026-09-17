@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Echinacea
-parent: 僅模型預測 (L5)
+parent: Nur Modellvorhersage (L5)
 nav_order: 14
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Echinacea
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmazeutischer Bewertungsbericht
 
 </div>
 
@@ -104,7 +104,7 @@ Echinacea (DrugBank: DB14240) besitzt keine Swissmedic-Zulassung als Arzneimitte
 - Systematische Recherche in Spezialdatenbanken (z. B. WHO Global Leprosy Programme, ILEP-Datenbank)
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---

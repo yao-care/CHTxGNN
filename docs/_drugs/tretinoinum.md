@@ -5,6 +5,7 @@ title: TRETINOINUM
 drugbank_id: DB00755
 evidence_level: L5
 permalink: /drugs/tretinoinum/
+search_exclude: true
 ---
 
 # TRETINOINUM

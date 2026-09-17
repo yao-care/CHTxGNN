@@ -5,6 +5,7 @@ title: INSULINUM LISPRUM
 drugbank_id: DB00046
 evidence_level: L5
 permalink: /drugs/insulinum_lisprum/
+search_exclude: true
 ---
 
 # INSULINUM LISPRUM

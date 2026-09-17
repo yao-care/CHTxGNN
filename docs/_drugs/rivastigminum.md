@@ -5,6 +5,7 @@ title: RIVASTIGMINUM
 drugbank_id: DB00989
 evidence_level: L5
 permalink: /drugs/rivastigminum/
+search_exclude: true
 ---
 
 # RIVASTIGMINUM

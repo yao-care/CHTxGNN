@@ -5,6 +5,7 @@ title: METHYLPHENIDATI HYDROCHLORIDUM
 drugbank_id: DB00422
 evidence_level: L5
 permalink: /drugs/methylphenidati_hydrochloridum/
+search_exclude: true
 ---
 
 # METHYLPHENIDATI HYDROCHLORIDUM

@@ -5,6 +5,7 @@ title: AVATROMBOPAGUM
 drugbank_id: DB11995
 evidence_level: L5
 permalink: /drugs/avatrombopagum/
+search_exclude: true
 ---
 
 # AVATROMBOPAGUM

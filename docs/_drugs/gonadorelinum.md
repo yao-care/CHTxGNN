@@ -5,6 +5,7 @@ title: GONADORELINUM
 drugbank_id: DB00644
 evidence_level: L5
 permalink: /drugs/gonadorelinum/
+search_exclude: true
 ---
 
 # GONADORELINUM

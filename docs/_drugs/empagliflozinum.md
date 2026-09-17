@@ -5,6 +5,7 @@ title: EMPAGLIFLOZINUM
 drugbank_id: DB09038
 evidence_level: L5
 permalink: /drugs/empagliflozinum/
+search_exclude: true
 ---
 
 # EMPAGLIFLOZINUM

@@ -5,6 +5,7 @@ title: FENFLURAMINUM
 drugbank_id: DB00574
 evidence_level: L5
 permalink: /drugs/fenfluraminum/
+search_exclude: true
 ---
 
 # FENFLURAMINUM

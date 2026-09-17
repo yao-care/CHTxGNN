@@ -5,6 +5,7 @@ title: CLOTRIMAZOLUM
 drugbank_id: DB00257
 evidence_level: L5
 permalink: /drugs/clotrimazolum/
+search_exclude: true
 ---
 
 # CLOTRIMAZOLUM

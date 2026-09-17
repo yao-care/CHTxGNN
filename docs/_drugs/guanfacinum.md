@@ -5,6 +5,7 @@ title: GUANFACINUM
 drugbank_id: DB01018
 evidence_level: L5
 permalink: /drugs/guanfacinum/
+search_exclude: true
 ---
 
 # GUANFACINUM

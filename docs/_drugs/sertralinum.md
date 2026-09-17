@@ -5,6 +5,7 @@ title: SERTRALINUM
 drugbank_id: DB01104
 evidence_level: L5
 permalink: /drugs/sertralinum/
+search_exclude: true
 ---
 
 # SERTRALINUM

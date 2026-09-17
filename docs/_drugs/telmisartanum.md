@@ -5,6 +5,7 @@ title: TELMISARTANUM
 drugbank_id: DB00966
 evidence_level: L5
 permalink: /drugs/telmisartanum/
+search_exclude: true
 ---
 
 # TELMISARTANUM

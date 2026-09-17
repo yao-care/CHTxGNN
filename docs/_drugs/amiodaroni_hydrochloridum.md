@@ -5,6 +5,7 @@ title: AMIODARONI HYDROCHLORIDUM
 drugbank_id: DB01118
 evidence_level: L5
 permalink: /drugs/amiodaroni_hydrochloridum/
+search_exclude: true
 ---
 
 # AMIODARONI HYDROCHLORIDUM

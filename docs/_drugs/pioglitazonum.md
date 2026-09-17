@@ -5,6 +5,7 @@ title: PIOGLITAZONUM
 drugbank_id: DB01132
 evidence_level: L5
 permalink: /drugs/pioglitazonum/
+search_exclude: true
 ---
 
 # PIOGLITAZONUM

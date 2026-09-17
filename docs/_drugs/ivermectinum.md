@@ -5,6 +5,7 @@ title: IVERMECTINUM
 drugbank_id: DB00602
 evidence_level: L5
 permalink: /drugs/ivermectinum/
+search_exclude: true
 ---
 
 # IVERMECTINUM

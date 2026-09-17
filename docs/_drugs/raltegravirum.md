@@ -5,6 +5,7 @@ title: RALTEGRAVIRUM
 drugbank_id: DB06817
 evidence_level: L5
 permalink: /drugs/raltegravirum/
+search_exclude: true
 ---
 
 # RALTEGRAVIRUM

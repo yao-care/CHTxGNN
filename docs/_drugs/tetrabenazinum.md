@@ -5,6 +5,7 @@ title: TETRABENAZINUM
 drugbank_id: DB04844
 evidence_level: L5
 permalink: /drugs/tetrabenazinum/
+search_exclude: true
 ---
 
 # TETRABENAZINUM

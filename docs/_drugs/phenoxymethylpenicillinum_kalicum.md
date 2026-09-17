@@ -5,6 +5,7 @@ title: PHENOXYMETHYLPENICILLINUM KALICUM
 drugbank_id: DB00417
 evidence_level: L5
 permalink: /drugs/phenoxymethylpenicillinum_kalicum/
+search_exclude: true
 ---
 
 # PHENOXYMETHYLPENICILLINUM KALICUM

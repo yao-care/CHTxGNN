@@ -5,6 +5,7 @@ title: LEVOSIMENDANUM
 drugbank_id: DB00922
 evidence_level: L5
 permalink: /drugs/levosimendanum/
+search_exclude: true
 ---
 
 # LEVOSIMENDANUM

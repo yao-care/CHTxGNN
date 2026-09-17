@@ -5,6 +5,7 @@ title: CLOBAZAMUM
 drugbank_id: DB00349
 evidence_level: L5
 permalink: /drugs/clobazamum/
+search_exclude: true
 ---
 
 # CLOBAZAMUM

@@ -5,6 +5,7 @@ title: LETERMOVIRUM
 drugbank_id: DB12070
 evidence_level: L5
 permalink: /drugs/letermovirum/
+search_exclude: true
 ---
 
 # LETERMOVIRUM

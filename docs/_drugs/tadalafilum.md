@@ -5,6 +5,7 @@ title: TADALAFILUM
 drugbank_id: DB00820
 evidence_level: L5
 permalink: /drugs/tadalafilum/
+search_exclude: true
 ---
 
 # TADALAFILUM

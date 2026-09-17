@@ -5,6 +5,7 @@ title: SALMETEROLUM
 drugbank_id: DB00938
 evidence_level: L5
 permalink: /drugs/salmeterolum/
+search_exclude: true
 ---
 
 # SALMETEROLUM

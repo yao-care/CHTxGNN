@@ -5,6 +5,7 @@ title: NUSINERSENUM
 drugbank_id: DB13161
 evidence_level: L5
 permalink: /drugs/nusinersenum/
+search_exclude: true
 ---
 
 # NUSINERSENUM

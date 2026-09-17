@@ -5,6 +5,7 @@ title: PAROXETINUM
 drugbank_id: DB00715
 evidence_level: L5
 permalink: /drugs/paroxetinum/
+search_exclude: true
 ---
 
 # PAROXETINUM

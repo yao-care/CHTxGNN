@@ -5,6 +5,7 @@ title: XYLOMETAZOLINI HYDROCHLORIDUM
 drugbank_id: DB06694
 evidence_level: L5
 permalink: /drugs/xylometazolini_hydrochloridum/
+search_exclude: true
 ---
 
 # XYLOMETAZOLINI HYDROCHLORIDUM

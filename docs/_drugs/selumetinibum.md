@@ -5,6 +5,7 @@ title: SELUMETINIBUM
 drugbank_id: DB11689
 evidence_level: L5
 permalink: /drugs/selumetinibum/
+search_exclude: true
 ---
 
 # SELUMETINIBUM

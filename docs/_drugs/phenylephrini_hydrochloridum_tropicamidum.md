@@ -5,6 +5,7 @@ title: PHENYLEPHRINI HYDROCHLORIDUM, TROPICAMIDUM
 drugbank_id: DB00388
 evidence_level: L5
 permalink: /drugs/phenylephrini_hydrochloridum_tropicamidum/
+search_exclude: true
 ---
 
 # PHENYLEPHRINI HYDROCHLORIDUM, TROPICAMIDUM

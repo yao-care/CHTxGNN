@@ -5,6 +5,7 @@ title: CINNARIZINUM
 drugbank_id: DB00568
 evidence_level: L5
 permalink: /drugs/cinnarizinum/
+search_exclude: true
 ---
 
 # CINNARIZINUM

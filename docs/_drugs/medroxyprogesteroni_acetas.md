@@ -5,6 +5,7 @@ title: MEDROXYPROGESTERONI ACETAS
 drugbank_id: DB00603
 evidence_level: L5
 permalink: /drugs/medroxyprogesteroni_acetas/
+search_exclude: true
 ---
 
 # MEDROXYPROGESTERONI ACETAS

@@ -5,6 +5,7 @@ title: EMTRICITABINUM
 drugbank_id: DB00879
 evidence_level: L5
 permalink: /drugs/emtricitabinum/
+search_exclude: true
 ---
 
 # EMTRICITABINUM

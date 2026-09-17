@@ -5,6 +5,7 @@ title: IXAZOMIBUM
 drugbank_id: DB09570
 evidence_level: L5
 permalink: /drugs/ixazomibum/
+search_exclude: true
 ---
 
 # IXAZOMIBUM

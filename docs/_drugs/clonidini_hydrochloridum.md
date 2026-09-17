@@ -5,6 +5,7 @@ title: CLONIDINI HYDROCHLORIDUM
 drugbank_id: DB00575
 evidence_level: L5
 permalink: /drugs/clonidini_hydrochloridum/
+search_exclude: true
 ---
 
 # CLONIDINI HYDROCHLORIDUM

@@ -5,6 +5,7 @@ title: HYDROMORPHONI HYDROCHLORIDUM
 drugbank_id: DB00327
 evidence_level: L5
 permalink: /drugs/hydromorphoni_hydrochloridum/
+search_exclude: true
 ---
 
 # HYDROMORPHONI HYDROCHLORIDUM

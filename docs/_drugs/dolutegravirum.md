@@ -5,6 +5,7 @@ title: DOLUTEGRAVIRUM
 drugbank_id: DB08930
 evidence_level: L5
 permalink: /drugs/dolutegravirum/
+search_exclude: true
 ---
 
 # DOLUTEGRAVIRUM

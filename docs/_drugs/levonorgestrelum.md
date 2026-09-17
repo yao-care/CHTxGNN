@@ -5,6 +5,7 @@ title: LEVONORGESTRELUM
 drugbank_id: DB00367
 evidence_level: L5
 permalink: /drugs/levonorgestrelum/
+search_exclude: true
 ---
 
 # LEVONORGESTRELUM

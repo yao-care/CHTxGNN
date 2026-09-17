@@ -5,6 +5,7 @@ title: LURASIDONUM
 drugbank_id: DB08815
 evidence_level: L5
 permalink: /drugs/lurasidonum/
+search_exclude: true
 ---
 
 # LURASIDONUM

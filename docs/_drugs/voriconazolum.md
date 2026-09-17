@@ -5,6 +5,7 @@ title: VORICONAZOLUM
 drugbank_id: DB00582
 evidence_level: L5
 permalink: /drugs/voriconazolum/
+search_exclude: true
 ---
 
 # VORICONAZOLUM

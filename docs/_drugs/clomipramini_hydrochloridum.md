@@ -5,6 +5,7 @@ title: CLOMIPRAMINI HYDROCHLORIDUM
 drugbank_id: DB01242
 evidence_level: L5
 permalink: /drugs/clomipramini_hydrochloridum/
+search_exclude: true
 ---
 
 # CLOMIPRAMINI HYDROCHLORIDUM

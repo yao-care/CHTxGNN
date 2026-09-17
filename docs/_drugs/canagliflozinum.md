@@ -5,6 +5,7 @@ title: CANAGLIFLOZINUM
 drugbank_id: DB08907
 evidence_level: L5
 permalink: /drugs/canagliflozinum/
+search_exclude: true
 ---
 
 # CANAGLIFLOZINUM

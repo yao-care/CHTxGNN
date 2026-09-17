@@ -5,6 +5,7 @@ title: MINOXIDILUM
 drugbank_id: DB00350
 evidence_level: L5
 permalink: /drugs/minoxidilum/
+search_exclude: true
 ---
 
 # MINOXIDILUM

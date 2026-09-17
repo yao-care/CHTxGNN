@@ -5,6 +5,7 @@ title: ERENUMABUM
 drugbank_id: DB14039
 evidence_level: L5
 permalink: /drugs/erenumabum/
+search_exclude: true
 ---
 
 # ERENUMABUM

@@ -5,6 +5,7 @@ title: DACARBAZINUM
 drugbank_id: DB00851
 evidence_level: L5
 permalink: /drugs/dacarbazinum/
+search_exclude: true
 ---
 
 # DACARBAZINUM

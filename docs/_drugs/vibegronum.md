@@ -5,6 +5,7 @@ title: VIBEGRONUM
 drugbank_id: DB14895
 evidence_level: L5
 permalink: /drugs/vibegronum/
+search_exclude: true
 ---
 
 # VIBEGRONUM

@@ -5,6 +5,7 @@ title: MIRABEGRONUM
 drugbank_id: DB08893
 evidence_level: L5
 permalink: /drugs/mirabegronum/
+search_exclude: true
 ---
 
 # MIRABEGRONUM

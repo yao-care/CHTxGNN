@@ -5,6 +5,7 @@ title: FLUOXETINUM
 drugbank_id: DB00472
 evidence_level: L5
 permalink: /drugs/fluoxetinum/
+search_exclude: true
 ---
 
 # FLUOXETINUM

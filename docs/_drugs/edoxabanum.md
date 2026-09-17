@@ -5,6 +5,7 @@ title: EDOXABANUM
 drugbank_id: DB09075
 evidence_level: L5
 permalink: /drugs/edoxabanum/
+search_exclude: true
 ---
 
 # EDOXABANUM

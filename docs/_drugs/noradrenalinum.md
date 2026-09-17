@@ -5,6 +5,7 @@ title: NORADRENALINUM
 drugbank_id: DB00368
 evidence_level: L5
 permalink: /drugs/noradrenalinum/
+search_exclude: true
 ---
 
 # NORADRENALINUM

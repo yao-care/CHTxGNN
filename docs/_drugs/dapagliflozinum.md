@@ -5,6 +5,7 @@ title: DAPAGLIFLOZINUM
 drugbank_id: DB06292
 evidence_level: L5
 permalink: /drugs/dapagliflozinum/
+search_exclude: true
 ---
 
 # DAPAGLIFLOZINUM

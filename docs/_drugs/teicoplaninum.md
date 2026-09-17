@@ -5,6 +5,7 @@ title: TEICOPLANINUM
 drugbank_id: DB06149
 evidence_level: L5
 permalink: /drugs/teicoplaninum/
+search_exclude: true
 ---
 
 # TEICOPLANINUM

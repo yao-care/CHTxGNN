@@ -5,6 +5,7 @@ title: AMLODIPINUM
 drugbank_id: DB00381
 evidence_level: L5
 permalink: /drugs/amlodipinum/
+search_exclude: true
 ---
 
 # AMLODIPINUM

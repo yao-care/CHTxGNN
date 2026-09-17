@@ -5,6 +5,7 @@ title: ERTAPENEMUM
 drugbank_id: DB00303
 evidence_level: L5
 permalink: /drugs/ertapenemum/
+search_exclude: true
 ---
 
 # ERTAPENEMUM

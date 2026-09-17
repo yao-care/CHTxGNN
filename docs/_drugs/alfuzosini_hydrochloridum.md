@@ -5,6 +5,7 @@ title: ALFUZOSINI HYDROCHLORIDUM
 drugbank_id: DB00346
 evidence_level: L5
 permalink: /drugs/alfuzosini_hydrochloridum/
+search_exclude: true
 ---
 
 # ALFUZOSINI HYDROCHLORIDUM

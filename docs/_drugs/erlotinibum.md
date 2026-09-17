@@ -5,6 +5,7 @@ title: ERLOTINIBUM
 drugbank_id: DB00530
 evidence_level: L5
 permalink: /drugs/erlotinibum/
+search_exclude: true
 ---
 
 # ERLOTINIBUM

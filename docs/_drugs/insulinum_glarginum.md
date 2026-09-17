@@ -5,6 +5,7 @@ title: INSULINUM GLARGINUM
 drugbank_id: DB00047
 evidence_level: L5
 permalink: /drugs/insulinum_glarginum/
+search_exclude: true
 ---
 
 # INSULINUM GLARGINUM

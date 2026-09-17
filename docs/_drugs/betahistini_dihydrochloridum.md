@@ -5,6 +5,7 @@ title: BETAHISTINI DIHYDROCHLORIDUM
 drugbank_id: DB06698
 evidence_level: L5
 permalink: /drugs/betahistini_dihydrochloridum/
+search_exclude: true
 ---
 
 # BETAHISTINI DIHYDROCHLORIDUM

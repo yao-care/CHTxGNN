@@ -5,6 +5,7 @@ title: TASONERMINUM
 drugbank_id: DB11626
 evidence_level: L5
 permalink: /drugs/tasonerminum/
+search_exclude: true
 ---
 
 # TASONERMINUM

@@ -5,6 +5,7 @@ title: TRAVOPROSTUM
 drugbank_id: DB00287
 evidence_level: L5
 permalink: /drugs/travoprostum/
+search_exclude: true
 ---
 
 # TRAVOPROSTUM

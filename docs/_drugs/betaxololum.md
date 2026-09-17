@@ -5,6 +5,7 @@ title: BETAXOLOLUM
 drugbank_id: DB00195
 evidence_level: L5
 permalink: /drugs/betaxololum/
+search_exclude: true
 ---
 
 # BETAXOLOLUM

@@ -5,6 +5,7 @@ title: ISATUXIMABUM
 drugbank_id: DB14811
 evidence_level: L5
 permalink: /drugs/isatuximabum/
+search_exclude: true
 ---
 
 # ISATUXIMABUM

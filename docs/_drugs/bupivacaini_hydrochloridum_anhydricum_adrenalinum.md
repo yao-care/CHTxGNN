@@ -5,6 +5,7 @@ title: BUPIVACAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM
 drugbank_id: DB00297
 evidence_level: L5
 permalink: /drugs/bupivacaini_hydrochloridum_anhydricum_adrenalinum/
+search_exclude: true
 ---
 
 # BUPIVACAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM

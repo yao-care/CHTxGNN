@@ -5,6 +5,7 @@ title: ACIDUM CITRICUM D200
 drugbank_id: DB04272
 evidence_level: L5
 permalink: /drugs/acidum_citricum_d200/
+search_exclude: true
 ---
 
 # ACIDUM CITRICUM D200

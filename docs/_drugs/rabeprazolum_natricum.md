@@ -5,6 +5,7 @@ title: RABEPRAZOLUM NATRICUM
 drugbank_id: DB01129
 evidence_level: L5
 permalink: /drugs/rabeprazolum_natricum/
+search_exclude: true
 ---
 
 # RABEPRAZOLUM NATRICUM

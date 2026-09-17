@@ -5,6 +5,7 @@ title: FLURAZEPAMI MONOHYDROCHLORIDUM
 drugbank_id: DB00690
 evidence_level: L5
 permalink: /drugs/flurazepami_monohydrochloridum/
+search_exclude: true
 ---
 
 # FLURAZEPAMI MONOHYDROCHLORIDUM

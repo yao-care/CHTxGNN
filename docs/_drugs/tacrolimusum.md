@@ -5,6 +5,7 @@ title: TACROLIMUSUM
 drugbank_id: DB00864
 evidence_level: L5
 permalink: /drugs/tacrolimusum/
+search_exclude: true
 ---
 
 # TACROLIMUSUM

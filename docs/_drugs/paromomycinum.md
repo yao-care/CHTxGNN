@@ -5,6 +5,7 @@ title: PAROMOMYCINUM
 drugbank_id: DB01421
 evidence_level: L5
 permalink: /drugs/paromomycinum/
+search_exclude: true
 ---
 
 # PAROMOMYCINUM

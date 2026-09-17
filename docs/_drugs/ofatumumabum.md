@@ -5,6 +5,7 @@ title: OFATUMUMABUM
 drugbank_id: DB06650
 evidence_level: L5
 permalink: /drugs/ofatumumabum/
+search_exclude: true
 ---
 
 # OFATUMUMABUM

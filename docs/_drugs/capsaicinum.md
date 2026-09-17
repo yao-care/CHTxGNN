@@ -5,6 +5,7 @@ title: CAPSAICINUM
 drugbank_id: DB06774
 evidence_level: L5
 permalink: /drugs/capsaicinum/
+search_exclude: true
 ---
 
 # CAPSAICINUM

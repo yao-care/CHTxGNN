@@ -5,6 +5,7 @@ title: HYDROXYZINI HYDROCHLORIDUM
 drugbank_id: DB00557
 evidence_level: L5
 permalink: /drugs/hydroxyzini_hydrochloridum/
+search_exclude: true
 ---
 
 # HYDROXYZINI HYDROCHLORIDUM

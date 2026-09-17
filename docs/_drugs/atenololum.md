@@ -5,6 +5,7 @@ title: ATENOLOLUM
 drugbank_id: DB00335
 evidence_level: L5
 permalink: /drugs/atenololum/
+search_exclude: true
 ---
 
 # ATENOLOLUM

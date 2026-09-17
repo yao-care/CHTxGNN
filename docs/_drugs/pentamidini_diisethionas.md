@@ -5,6 +5,7 @@ title: PENTAMIDINI DIISETHIONAS
 drugbank_id: DB00738
 evidence_level: L5
 permalink: /drugs/pentamidini_diisethionas/
+search_exclude: true
 ---
 
 # PENTAMIDINI DIISETHIONAS

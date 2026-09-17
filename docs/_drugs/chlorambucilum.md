@@ -5,6 +5,7 @@ title: CHLORAMBUCILUM
 drugbank_id: DB00291
 evidence_level: L5
 permalink: /drugs/chlorambucilum/
+search_exclude: true
 ---
 
 # CHLORAMBUCILUM

@@ -5,6 +5,7 @@ title: TERIFLUNOMIDUM
 drugbank_id: DB08880
 evidence_level: L5
 permalink: /drugs/teriflunomidum/
+search_exclude: true
 ---
 
 # TERIFLUNOMIDUM

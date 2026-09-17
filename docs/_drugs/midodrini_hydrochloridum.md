@@ -5,6 +5,7 @@ title: MIDODRINI HYDROCHLORIDUM
 drugbank_id: DB00211
 evidence_level: L5
 permalink: /drugs/midodrini_hydrochloridum/
+search_exclude: true
 ---
 
 # MIDODRINI HYDROCHLORIDUM

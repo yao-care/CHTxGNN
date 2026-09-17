@@ -5,6 +5,7 @@ title: BEZAFIBRATUM
 drugbank_id: DB01393
 evidence_level: L5
 permalink: /drugs/bezafibratum/
+search_exclude: true
 ---
 
 # BEZAFIBRATUM

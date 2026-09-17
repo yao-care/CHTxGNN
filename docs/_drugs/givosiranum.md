@@ -5,6 +5,7 @@ title: GIVOSIRANUM
 drugbank_id: DB15066
 evidence_level: L5
 permalink: /drugs/givosiranum/
+search_exclude: true
 ---
 
 # GIVOSIRANUM

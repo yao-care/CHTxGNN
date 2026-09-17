@@ -5,6 +5,7 @@ title: NELARABINUM
 drugbank_id: DB01280
 evidence_level: L5
 permalink: /drugs/nelarabinum/
+search_exclude: true
 ---
 
 # NELARABINUM

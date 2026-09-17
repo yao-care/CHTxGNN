@@ -5,6 +5,7 @@ title: IBRUTINIBUM
 drugbank_id: DB09053
 evidence_level: L5
 permalink: /drugs/ibrutinibum/
+search_exclude: true
 ---
 
 # IBRUTINIBUM

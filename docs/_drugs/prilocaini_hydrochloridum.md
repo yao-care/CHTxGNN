@@ -5,6 +5,7 @@ title: PRILOCAINI HYDROCHLORIDUM
 drugbank_id: DB00750
 evidence_level: L5
 permalink: /drugs/prilocaini_hydrochloridum/
+search_exclude: true
 ---
 
 # PRILOCAINI HYDROCHLORIDUM

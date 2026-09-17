@@ -5,6 +5,7 @@ title: CARVEDILOLUM
 drugbank_id: DB01136
 evidence_level: L5
 permalink: /drugs/carvedilolum/
+search_exclude: true
 ---
 
 # CARVEDILOLUM

@@ -5,6 +5,7 @@ title: ACENOCOUMAROLUM
 drugbank_id: DB01418
 evidence_level: L5
 permalink: /drugs/acenocoumarolum/
+search_exclude: true
 ---
 
 # ACENOCOUMAROLUM

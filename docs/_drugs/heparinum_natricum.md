@@ -5,6 +5,7 @@ title: HEPARINUM NATRICUM
 drugbank_id: DB01109
 evidence_level: L5
 permalink: /drugs/heparinum_natricum/
+search_exclude: true
 ---
 
 # HEPARINUM NATRICUM

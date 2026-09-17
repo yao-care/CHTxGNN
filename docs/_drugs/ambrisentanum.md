@@ -5,6 +5,7 @@ title: AMBRISENTANUM
 drugbank_id: DB06403
 evidence_level: L5
 permalink: /drugs/ambrisentanum/
+search_exclude: true
 ---
 
 # AMBRISENTANUM

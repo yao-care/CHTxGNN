@@ -5,6 +5,7 @@ title: RITONAVIRUM
 drugbank_id: DB00503
 evidence_level: L5
 permalink: /drugs/ritonavirum/
+search_exclude: true
 ---
 
 # RITONAVIRUM

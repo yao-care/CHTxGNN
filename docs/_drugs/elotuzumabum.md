@@ -5,6 +5,7 @@ title: ELOTUZUMABUM
 drugbank_id: DB06317
 evidence_level: L5
 permalink: /drugs/elotuzumabum/
+search_exclude: true
 ---
 
 # ELOTUZUMABUM

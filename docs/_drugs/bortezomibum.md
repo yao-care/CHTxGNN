@@ -5,6 +5,7 @@ title: BORTEZOMIBUM
 drugbank_id: DB00188
 evidence_level: L5
 permalink: /drugs/bortezomibum/
+search_exclude: true
 ---
 
 # BORTEZOMIBUM

@@ -5,6 +5,7 @@ title: LORAZEPAMUM
 drugbank_id: DB00186
 evidence_level: L5
 permalink: /drugs/lorazepamum/
+search_exclude: true
 ---
 
 # LORAZEPAMUM

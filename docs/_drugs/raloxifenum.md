@@ -5,6 +5,7 @@ title: RALOXIFENUM
 drugbank_id: DB00481
 evidence_level: L5
 permalink: /drugs/raloxifenum/
+search_exclude: true
 ---
 
 # RALOXIFENUM

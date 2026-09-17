@@ -5,6 +5,7 @@ title: RILPIVIRINUM
 drugbank_id: DB08864
 evidence_level: L5
 permalink: /drugs/rilpivirinum/
+search_exclude: true
 ---
 
 # RILPIVIRINUM

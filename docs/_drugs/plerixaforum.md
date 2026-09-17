@@ -5,6 +5,7 @@ title: PLERIXAFORUM
 drugbank_id: DB06809
 evidence_level: L5
 permalink: /drugs/plerixaforum/
+search_exclude: true
 ---
 
 # PLERIXAFORUM

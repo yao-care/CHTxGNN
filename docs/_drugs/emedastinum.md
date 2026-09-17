@@ -5,6 +5,7 @@ title: EMEDASTINUM
 drugbank_id: DB01084
 evidence_level: L5
 permalink: /drugs/emedastinum/
+search_exclude: true
 ---
 
 # EMEDASTINUM

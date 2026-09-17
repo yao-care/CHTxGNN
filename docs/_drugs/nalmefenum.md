@@ -5,6 +5,7 @@ title: NALMEFENUM
 drugbank_id: DB06230
 evidence_level: L5
 permalink: /drugs/nalmefenum/
+search_exclude: true
 ---
 
 # NALMEFENUM

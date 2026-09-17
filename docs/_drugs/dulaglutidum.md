@@ -5,6 +5,7 @@ title: DULAGLUTIDUM
 drugbank_id: DB09045
 evidence_level: L5
 permalink: /drugs/dulaglutidum/
+search_exclude: true
 ---
 
 # DULAGLUTIDUM

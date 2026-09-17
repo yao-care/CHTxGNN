@@ -5,6 +5,7 @@ title: ACIDUM FOLICUM
 drugbank_id: DB00158
 evidence_level: L5
 permalink: /drugs/acidum_folicum/
+search_exclude: true
 ---
 
 # ACIDUM FOLICUM

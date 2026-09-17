@@ -5,6 +5,7 @@ title: ENCORAFENIBUM
 drugbank_id: DB11718
 evidence_level: L5
 permalink: /drugs/encorafenibum/
+search_exclude: true
 ---
 
 # ENCORAFENIBUM

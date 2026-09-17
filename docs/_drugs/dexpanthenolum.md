@@ -5,6 +5,7 @@ title: DEXPANTHENOLUM
 drugbank_id: DB09357
 evidence_level: L5
 permalink: /drugs/dexpanthenolum/
+search_exclude: true
 ---
 
 # DEXPANTHENOLUM

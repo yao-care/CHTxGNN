@@ -5,6 +5,7 @@ title: INFLIXIMABUM
 drugbank_id: DB00065
 evidence_level: L5
 permalink: /drugs/infliximabum/
+search_exclude: true
 ---
 
 # INFLIXIMABUM

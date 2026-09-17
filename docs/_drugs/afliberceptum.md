@@ -5,6 +5,7 @@ title: AFLIBERCEPTUM
 drugbank_id: DB08885
 evidence_level: L5
 permalink: /drugs/afliberceptum/
+search_exclude: true
 ---
 
 # AFLIBERCEPTUM

@@ -5,6 +5,7 @@ title: ORITAVANCINUM
 drugbank_id: DB04911
 evidence_level: L5
 permalink: /drugs/oritavancinum/
+search_exclude: true
 ---
 
 # ORITAVANCINUM

@@ -5,6 +5,7 @@ title: TRASTUZUMABUM
 drugbank_id: DB00072
 evidence_level: L5
 permalink: /drugs/trastuzumabum/
+search_exclude: true
 ---
 
 # TRASTUZUMABUM

@@ -5,6 +5,7 @@ title: GOLIMUMABUM
 drugbank_id: DB06674
 evidence_level: L5
 permalink: /drugs/golimumabum/
+search_exclude: true
 ---
 
 # GOLIMUMABUM

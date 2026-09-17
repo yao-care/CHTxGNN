@@ -5,6 +5,7 @@ title: TEMOZOLOMIDUM
 drugbank_id: DB00853
 evidence_level: L5
 permalink: /drugs/temozolomidum/
+search_exclude: true
 ---
 
 # TEMOZOLOMIDUM

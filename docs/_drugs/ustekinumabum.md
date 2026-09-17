@@ -5,6 +5,7 @@ title: USTEKINUMABUM
 drugbank_id: DB05679
 evidence_level: L5
 permalink: /drugs/ustekinumabum/
+search_exclude: true
 ---
 
 # USTEKINUMABUM

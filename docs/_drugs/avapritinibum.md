@@ -5,6 +5,7 @@ title: AVAPRITINIBUM
 drugbank_id: DB15233
 evidence_level: L5
 permalink: /drugs/avapritinibum/
+search_exclude: true
 ---
 
 # AVAPRITINIBUM

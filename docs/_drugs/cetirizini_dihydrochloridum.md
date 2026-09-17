@@ -5,6 +5,7 @@ title: CETIRIZINI DIHYDROCHLORIDUM
 drugbank_id: DB00341
 evidence_level: L5
 permalink: /drugs/cetirizini_dihydrochloridum/
+search_exclude: true
 ---
 
 # CETIRIZINI DIHYDROCHLORIDUM

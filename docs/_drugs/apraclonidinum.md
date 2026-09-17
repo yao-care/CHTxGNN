@@ -5,6 +5,7 @@ title: APRACLONIDINUM
 drugbank_id: DB00964
 evidence_level: L5
 permalink: /drugs/apraclonidinum/
+search_exclude: true
 ---
 
 # APRACLONIDINUM

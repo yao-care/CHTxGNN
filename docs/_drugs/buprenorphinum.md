@@ -5,6 +5,7 @@ title: BUPRENORPHINUM
 drugbank_id: DB00921
 evidence_level: L5
 permalink: /drugs/buprenorphinum/
+search_exclude: true
 ---
 
 # BUPRENORPHINUM

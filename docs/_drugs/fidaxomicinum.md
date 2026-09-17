@@ -5,6 +5,7 @@ title: FIDAXOMICINUM
 drugbank_id: DB08874
 evidence_level: L5
 permalink: /drugs/fidaxomicinum/
+search_exclude: true
 ---
 
 # FIDAXOMICINUM

@@ -5,6 +5,7 @@ title: ECULIZUMABUM
 drugbank_id: DB01257
 evidence_level: L5
 permalink: /drugs/eculizumabum/
+search_exclude: true
 ---
 
 # ECULIZUMABUM

@@ -5,6 +5,7 @@ title: SARILUMABUM
 drugbank_id: DB11767
 evidence_level: L5
 permalink: /drugs/sarilumabum/
+search_exclude: true
 ---
 
 # SARILUMABUM

@@ -5,6 +5,7 @@ title: TICAGRELORUM
 drugbank_id: DB08816
 evidence_level: L5
 permalink: /drugs/ticagrelorum/
+search_exclude: true
 ---
 
 # TICAGRELORUM

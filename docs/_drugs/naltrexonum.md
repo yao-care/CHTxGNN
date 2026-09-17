@@ -5,6 +5,7 @@ title: NALTREXONUM
 drugbank_id: DB00704
 evidence_level: L5
 permalink: /drugs/naltrexonum/
+search_exclude: true
 ---
 
 # NALTREXONUM

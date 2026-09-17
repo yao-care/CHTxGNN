@@ -5,6 +5,7 @@ title: BOSENTANUM
 drugbank_id: DB00559
 evidence_level: L5
 permalink: /drugs/bosentanum/
+search_exclude: true
 ---
 
 # BOSENTANUM

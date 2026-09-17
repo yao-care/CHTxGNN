@@ -5,6 +5,7 @@ title: ETHAMBUTOLI HYDROCHLORIDUM
 drugbank_id: DB00330
 evidence_level: L5
 permalink: /drugs/ethambutoli_hydrochloridum/
+search_exclude: true
 ---
 
 # ETHAMBUTOLI HYDROCHLORIDUM

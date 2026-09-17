@@ -5,6 +5,7 @@ title: CLEMASTINUM
 drugbank_id: DB00283
 evidence_level: L5
 permalink: /drugs/clemastinum/
+search_exclude: true
 ---
 
 # CLEMASTINUM

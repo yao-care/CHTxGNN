@@ -5,6 +5,7 @@ title: ECONAZOLI NITRAS
 drugbank_id: DB01127
 evidence_level: L5
 permalink: /drugs/econazoli_nitras/
+search_exclude: true
 ---
 
 # ECONAZOLI NITRAS
