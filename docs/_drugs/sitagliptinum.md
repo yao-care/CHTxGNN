@@ -5,6 +5,7 @@ title: SITAGLIPTINUM
 drugbank_id: DB01261
 evidence_level: L5
 permalink: /drugs/sitagliptinum/
+search_exclude: true
 ---
 
 # SITAGLIPTINUM

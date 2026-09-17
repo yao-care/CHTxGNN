@@ -5,6 +5,7 @@ title: GLICLAZIDUM
 drugbank_id: DB01120
 evidence_level: L5
 permalink: /drugs/gliclazidum/
+search_exclude: true
 ---
 
 # GLICLAZIDUM

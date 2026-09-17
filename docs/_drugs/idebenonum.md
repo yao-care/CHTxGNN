@@ -5,6 +5,7 @@ title: IDEBENONUM
 drugbank_id: DB09081
 evidence_level: L5
 permalink: /drugs/idebenonum/
+search_exclude: true
 ---
 
 # IDEBENONUM

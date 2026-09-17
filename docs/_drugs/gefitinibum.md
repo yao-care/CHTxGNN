@@ -5,6 +5,7 @@ title: GEFITINIBUM
 drugbank_id: DB00317
 evidence_level: L5
 permalink: /drugs/gefitinibum/
+search_exclude: true
 ---
 
 # GEFITINIBUM

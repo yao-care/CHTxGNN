@@ -5,6 +5,7 @@ title: LORLATINIBUM
 drugbank_id: DB12130
 evidence_level: L5
 permalink: /drugs/lorlatinibum/
+search_exclude: true
 ---
 
 # LORLATINIBUM

@@ -5,6 +5,7 @@ title: CEFACLORUM
 drugbank_id: DB00833
 evidence_level: L5
 permalink: /drugs/cefaclorum/
+search_exclude: true
 ---
 
 # CEFACLORUM

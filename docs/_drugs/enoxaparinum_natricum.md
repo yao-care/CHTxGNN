@@ -5,6 +5,7 @@ title: ENOXAPARINUM NATRICUM
 drugbank_id: DB01225
 evidence_level: L5
 permalink: /drugs/enoxaparinum_natricum/
+search_exclude: true
 ---
 
 # ENOXAPARINUM NATRICUM

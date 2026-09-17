@@ -5,6 +5,7 @@ title: CEFEPIMUM
 drugbank_id: DB01413
 evidence_level: L5
 permalink: /drugs/cefepimum/
+search_exclude: true
 ---
 
 # CEFEPIMUM

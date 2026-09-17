@@ -5,6 +5,7 @@ title: ACICLOVIRUM
 drugbank_id: DB00787
 evidence_level: L5
 permalink: /drugs/aciclovirum/
+search_exclude: true
 ---
 
 # ACICLOVIRUM

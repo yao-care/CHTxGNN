@@ -5,6 +5,7 @@ title: TENECTEPLASUM
 drugbank_id: DB00031
 evidence_level: L5
 permalink: /drugs/tenecteplasum/
+search_exclude: true
 ---
 
 # TENECTEPLASUM

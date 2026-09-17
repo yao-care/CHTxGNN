@@ -5,6 +5,7 @@ title: PAZOPANIBUM
 drugbank_id: DB06589
 evidence_level: L5
 permalink: /drugs/pazopanibum/
+search_exclude: true
 ---
 
 # PAZOPANIBUM

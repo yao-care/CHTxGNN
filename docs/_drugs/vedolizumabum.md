@@ -5,6 +5,7 @@ title: VEDOLIZUMABUM
 drugbank_id: DB09033
 evidence_level: L5
 permalink: /drugs/vedolizumabum/
+search_exclude: true
 ---
 
 # VEDOLIZUMABUM

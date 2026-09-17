@@ -1,40 +1,40 @@
 ---
 layout: default
-title: "GINKGO BILOBA 相關新聞"
-parent: 健康新聞
+title: "Nachrichten zu GINKGO BILOBA"
+parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "GINKGO BILOBA 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
+description: "Gesundheitsnachrichten zu GINKGO BILOBA. Ursprüngliche Indikation: . 0 vorhergesagte Indikationen."
 permalink: /news/ginkgo_biloba/
 ---
 
-# GINKGO BILOBA 相關新聞
+# Nachrichten zu GINKGO BILOBA
 
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
+[← Zurück zur Nachrichtenübersicht]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="GINKGO BILOBA 有什麼相關新聞？">
-<strong>GINKGO BILOBA</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<p class="key-answer" data-question="Welche Nachrichten gibt es zu GINKGO BILOBA?">
+<strong>GINKGO BILOBA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 0 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
-本頁整合 GINKGO BILOBA 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+Diese Seite verbindet die KI-vorhergesagten Indikationen für GINKGO BILOBA mit den neuesten Gesundheitsnachrichten. Orange hervorgehobene Indikationen wurden kürzlich in den Nachrichten erwähnt.
 </div>
 
 <div class="drug-info-card">
-<strong>藥物資訊</strong>
+<strong>Arzneimittelinformationen</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/ginkgo_biloba/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/ginkgo_biloba/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## Verwandte Nachrichten (0)
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+*Derzeit liegen keine verwandten Nachrichten vor. Sobald eine Meldung dieses Arzneimittel erwähnt, wird sie automatisch erfasst und hier angezeigt.*
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>Haftungsausschluss</strong>: Die Nachrichten auf dieser Seite werden automatisch gesammelt und dienen ausschließlich als Forschungsreferenz; sie stellen keine medizinische Beratung dar.
 </div>
 
 <style>

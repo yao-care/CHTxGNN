@@ -5,6 +5,7 @@ title: EDARAVONUM
 drugbank_id: DB12243
 evidence_level: L5
 permalink: /drugs/edaravonum/
+search_exclude: true
 ---
 
 # EDARAVONUM

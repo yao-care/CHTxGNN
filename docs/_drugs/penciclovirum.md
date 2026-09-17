@@ -5,6 +5,7 @@ title: PENCICLOVIRUM
 drugbank_id: DB00299
 evidence_level: L5
 permalink: /drugs/penciclovirum/
+search_exclude: true
 ---
 
 # PENCICLOVIRUM

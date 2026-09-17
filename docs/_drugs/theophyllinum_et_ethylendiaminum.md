@@ -5,6 +5,7 @@ title: THEOPHYLLINUM ET ETHYLENDIAMINUM
 drugbank_id: DB00277
 evidence_level: L5
 permalink: /drugs/theophyllinum_et_ethylendiaminum/
+search_exclude: true
 ---
 
 # THEOPHYLLINUM ET ETHYLENDIAMINUM

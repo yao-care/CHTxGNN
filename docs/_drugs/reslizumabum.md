@@ -5,6 +5,7 @@ title: RESLIZUMABUM
 drugbank_id: DB06602
 evidence_level: L5
 permalink: /drugs/reslizumabum/
+search_exclude: true
 ---
 
 # RESLIZUMABUM

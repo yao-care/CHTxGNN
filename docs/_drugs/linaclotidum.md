@@ -5,6 +5,7 @@ title: LINACLOTIDUM
 drugbank_id: DB08890
 evidence_level: L5
 permalink: /drugs/linaclotidum/
+search_exclude: true
 ---
 
 # LINACLOTIDUM

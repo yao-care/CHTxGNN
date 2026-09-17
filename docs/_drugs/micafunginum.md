@@ -5,6 +5,7 @@ title: MICAFUNGINUM
 drugbank_id: DB01141
 evidence_level: L5
 permalink: /drugs/micafunginum/
+search_exclude: true
 ---
 
 # MICAFUNGINUM

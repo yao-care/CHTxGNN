@@ -5,6 +5,7 @@ title: AGOMELATINUM
 drugbank_id: DB06594
 evidence_level: L5
 permalink: /drugs/agomelatinum/
+search_exclude: true
 ---
 
 # AGOMELATINUM

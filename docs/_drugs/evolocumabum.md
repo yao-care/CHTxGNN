@@ -5,6 +5,7 @@ title: EVOLOCUMABUM
 drugbank_id: DB09303
 evidence_level: L5
 permalink: /drugs/evolocumabum/
+search_exclude: true
 ---
 
 # EVOLOCUMABUM

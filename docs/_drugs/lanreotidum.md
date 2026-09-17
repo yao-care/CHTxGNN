@@ -5,6 +5,7 @@ title: LANREOTIDUM
 drugbank_id: DB06791
 evidence_level: L5
 permalink: /drugs/lanreotidum/
+search_exclude: true
 ---
 
 # LANREOTIDUM

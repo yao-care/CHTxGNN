@@ -5,6 +5,7 @@ title: ESKETAMINUM
 drugbank_id: DB11823
 evidence_level: L5
 permalink: /drugs/esketaminum/
+search_exclude: true
 ---
 
 # ESKETAMINUM

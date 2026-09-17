@@ -5,6 +5,7 @@ title: DUPILUMABUM
 drugbank_id: DB12159
 evidence_level: L5
 permalink: /drugs/dupilumabum/
+search_exclude: true
 ---
 
 # DUPILUMABUM

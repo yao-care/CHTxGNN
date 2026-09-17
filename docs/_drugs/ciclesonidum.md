@@ -5,6 +5,7 @@ title: CICLESONIDUM
 drugbank_id: DB01410
 evidence_level: L5
 permalink: /drugs/ciclesonidum/
+search_exclude: true
 ---
 
 # CICLESONIDUM

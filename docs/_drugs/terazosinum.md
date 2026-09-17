@@ -5,6 +5,7 @@ title: TERAZOSINUM
 drugbank_id: DB01162
 evidence_level: L5
 permalink: /drugs/terazosinum/
+search_exclude: true
 ---
 
 # TERAZOSINUM

@@ -5,6 +5,7 @@ title: TOLVAPTANUM
 drugbank_id: DB06212
 evidence_level: L5
 permalink: /drugs/tolvaptanum/
+search_exclude: true
 ---
 
 # TOLVAPTANUM

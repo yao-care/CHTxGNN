@@ -5,6 +5,7 @@ title: PROGESTERONUM
 drugbank_id: DB00396
 evidence_level: L5
 permalink: /drugs/progesteronum/
+search_exclude: true
 ---
 
 # PROGESTERONUM

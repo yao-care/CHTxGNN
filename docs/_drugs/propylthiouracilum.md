@@ -5,6 +5,7 @@ title: PROPYLTHIOURACILUM
 drugbank_id: DB00550
 evidence_level: L5
 permalink: /drugs/propylthiouracilum/
+search_exclude: true
 ---
 
 # PROPYLTHIOURACILUM

@@ -5,6 +5,7 @@ title: HALOPERIDOLUM
 drugbank_id: DB00502
 evidence_level: L5
 permalink: /drugs/haloperidolum/
+search_exclude: true
 ---
 
 # HALOPERIDOLUM

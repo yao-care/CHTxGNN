@@ -5,6 +5,7 @@ title: TRIFAROTENUM
 drugbank_id: DB12808
 evidence_level: L5
 permalink: /drugs/trifarotenum/
+search_exclude: true
 ---
 
 # TRIFAROTENUM

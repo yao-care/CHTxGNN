@@ -5,6 +5,7 @@ title: EMICIZUMABUM
 drugbank_id: DB13923
 evidence_level: L5
 permalink: /drugs/emicizumabum/
+search_exclude: true
 ---
 
 # EMICIZUMABUM

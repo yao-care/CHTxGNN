@@ -5,6 +5,7 @@ title: NERATINIBUM
 drugbank_id: DB11828
 evidence_level: L5
 permalink: /drugs/neratinibum/
+search_exclude: true
 ---
 
 # NERATINIBUM

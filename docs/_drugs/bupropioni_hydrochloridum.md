@@ -5,6 +5,7 @@ title: BUPROPIONI HYDROCHLORIDUM
 drugbank_id: DB01156
 evidence_level: L5
 permalink: /drugs/bupropioni_hydrochloridum/
+search_exclude: true
 ---
 
 # BUPROPIONI HYDROCHLORIDUM

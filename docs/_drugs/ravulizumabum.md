@@ -5,6 +5,7 @@ title: RAVULIZUMABUM
 drugbank_id: DB11580
 evidence_level: L5
 permalink: /drugs/ravulizumabum/
+search_exclude: true
 ---
 
 # RAVULIZUMABUM

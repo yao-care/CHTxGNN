@@ -5,6 +5,7 @@ title: PYRANTELUM
 drugbank_id: DB11156
 evidence_level: L5
 permalink: /drugs/pyrantelum/
+search_exclude: true
 ---
 
 # PYRANTELUM

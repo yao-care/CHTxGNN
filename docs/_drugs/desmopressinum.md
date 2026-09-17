@@ -5,6 +5,7 @@ title: DESMOPRESSINUM
 drugbank_id: DB00035
 evidence_level: L5
 permalink: /drugs/desmopressinum/
+search_exclude: true
 ---
 
 # DESMOPRESSINUM

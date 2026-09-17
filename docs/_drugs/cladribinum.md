@@ -5,6 +5,7 @@ title: CLADRIBINUM
 drugbank_id: DB00242
 evidence_level: L5
 permalink: /drugs/cladribinum/
+search_exclude: true
 ---
 
 # CLADRIBINUM

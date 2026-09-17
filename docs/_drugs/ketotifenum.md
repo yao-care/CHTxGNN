@@ -5,6 +5,7 @@ title: KETOTIFENUM
 drugbank_id: DB00920
 evidence_level: L5
 permalink: /drugs/ketotifenum/
+search_exclude: true
 ---
 
 # KETOTIFENUM

@@ -5,6 +5,7 @@ title: CITALOPRAMUM
 drugbank_id: DB00215
 evidence_level: L5
 permalink: /drugs/citalopramum/
+search_exclude: true
 ---
 
 # CITALOPRAMUM

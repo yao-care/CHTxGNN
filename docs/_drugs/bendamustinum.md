@@ -5,6 +5,7 @@ title: BENDAMUSTINUM
 drugbank_id: DB06769
 evidence_level: L5
 permalink: /drugs/bendamustinum/
+search_exclude: true
 ---
 
 # BENDAMUSTINUM

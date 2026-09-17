@@ -5,6 +5,7 @@ title: FOSFOMYCINUM
 drugbank_id: DB00828
 evidence_level: L5
 permalink: /drugs/fosfomycinum/
+search_exclude: true
 ---
 
 # FOSFOMYCINUM

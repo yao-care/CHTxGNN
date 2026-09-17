@@ -5,6 +5,7 @@ title: RIZATRIPTANUM
 drugbank_id: DB00953
 evidence_level: L5
 permalink: /drugs/rizatriptanum/
+search_exclude: true
 ---
 
 # RIZATRIPTANUM

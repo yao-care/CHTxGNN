@@ -5,6 +5,7 @@ title: AMOXICILLINUM ANHYDRICUM
 drugbank_id: DB01060
 evidence_level: L5
 permalink: /drugs/amoxicillinum_anhydricum/
+search_exclude: true
 ---
 
 # AMOXICILLINUM ANHYDRICUM

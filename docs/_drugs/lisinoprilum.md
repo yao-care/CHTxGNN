@@ -5,6 +5,7 @@ title: LISINOPRILUM
 drugbank_id: DB00722
 evidence_level: L5
 permalink: /drugs/lisinoprilum/
+search_exclude: true
 ---
 
 # LISINOPRILUM

@@ -5,6 +5,7 @@ title: DABRAFENIBUM
 drugbank_id: DB08912
 evidence_level: L5
 permalink: /drugs/dabrafenibum/
+search_exclude: true
 ---
 
 # DABRAFENIBUM

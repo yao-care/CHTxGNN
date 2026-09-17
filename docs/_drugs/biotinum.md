@@ -5,6 +5,7 @@ title: BIOTINUM
 drugbank_id: DB00121
 evidence_level: L5
 permalink: /drugs/biotinum/
+search_exclude: true
 ---
 
 # BIOTINUM

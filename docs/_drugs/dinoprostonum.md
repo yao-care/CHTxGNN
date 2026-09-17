@@ -5,6 +5,7 @@ title: DINOPROSTONUM
 drugbank_id: DB00917
 evidence_level: L5
 permalink: /drugs/dinoprostonum/
+search_exclude: true
 ---
 
 # DINOPROSTONUM

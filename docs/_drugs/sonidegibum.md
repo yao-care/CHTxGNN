@@ -5,6 +5,7 @@ title: SONIDEGIBUM
 drugbank_id: DB09143
 evidence_level: L5
 permalink: /drugs/sonidegibum/
+search_exclude: true
 ---
 
 # SONIDEGIBUM

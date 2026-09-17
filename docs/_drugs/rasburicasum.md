@@ -5,6 +5,7 @@ title: RASBURICASUM
 drugbank_id: DB00049
 evidence_level: L5
 permalink: /drugs/rasburicasum/
+search_exclude: true
 ---
 
 # RASBURICASUM

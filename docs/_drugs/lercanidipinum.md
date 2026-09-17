@@ -5,6 +5,7 @@ title: LERCANIDIPINUM
 drugbank_id: DB00528
 evidence_level: L5
 permalink: /drugs/lercanidipinum/
+search_exclude: true
 ---
 
 # LERCANIDIPINUM

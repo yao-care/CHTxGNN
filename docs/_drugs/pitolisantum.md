@@ -5,6 +5,7 @@ title: PITOLISANTUM
 drugbank_id: DB11642
 evidence_level: L5
 permalink: /drugs/pitolisantum/
+search_exclude: true
 ---
 
 # PITOLISANTUM

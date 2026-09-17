@@ -5,6 +5,7 @@ title: FORMOTEROLI FUMARAS DIHYDRICUS
 drugbank_id: DB00983
 evidence_level: L5
 permalink: /drugs/formoteroli_fumaras_dihydricus/
+search_exclude: true
 ---
 
 # FORMOTEROLI FUMARAS DIHYDRICUS

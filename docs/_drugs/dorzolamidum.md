@@ -5,6 +5,7 @@ title: DORZOLAMIDUM
 drugbank_id: DB00869
 evidence_level: L5
 permalink: /drugs/dorzolamidum/
+search_exclude: true
 ---
 
 # DORZOLAMIDUM

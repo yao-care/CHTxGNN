@@ -5,6 +5,7 @@ title: OLOPATADINUM
 drugbank_id: DB00768
 evidence_level: L5
 permalink: /drugs/olopatadinum/
+search_exclude: true
 ---
 
 # OLOPATADINUM

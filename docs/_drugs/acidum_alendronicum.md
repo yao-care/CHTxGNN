@@ -5,6 +5,7 @@ title: ACIDUM ALENDRONICUM
 drugbank_id: DB00630
 evidence_level: L5
 permalink: /drugs/acidum_alendronicum/
+search_exclude: true
 ---
 
 # ACIDUM ALENDRONICUM

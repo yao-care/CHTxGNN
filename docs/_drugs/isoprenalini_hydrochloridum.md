@@ -5,6 +5,7 @@ title: ISOPRENALINI HYDROCHLORIDUM
 drugbank_id: DB01064
 evidence_level: L5
 permalink: /drugs/isoprenalini_hydrochloridum/
+search_exclude: true
 ---
 
 # ISOPRENALINI HYDROCHLORIDUM

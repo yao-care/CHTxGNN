@@ -5,6 +5,7 @@ title: NEVIRAPINUM
 drugbank_id: DB00238
 evidence_level: L5
 permalink: /drugs/nevirapinum/
+search_exclude: true
 ---
 
 # NEVIRAPINUM

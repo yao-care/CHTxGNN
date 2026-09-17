@@ -5,6 +5,7 @@ title: DOXYLAMINUM
 drugbank_id: DB00366
 evidence_level: L5
 permalink: /drugs/doxylaminum/
+search_exclude: true
 ---
 
 # DOXYLAMINUM

@@ -5,6 +5,7 @@ title: TELBIVUDINUM
 drugbank_id: DB01265
 evidence_level: L5
 permalink: /drugs/telbivudinum/
+search_exclude: true
 ---
 
 # TELBIVUDINUM

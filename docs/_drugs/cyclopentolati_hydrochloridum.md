@@ -5,6 +5,7 @@ title: CYCLOPENTOLATI HYDROCHLORIDUM
 drugbank_id: DB00979
 evidence_level: L5
 permalink: /drugs/cyclopentolati_hydrochloridum/
+search_exclude: true
 ---
 
 # CYCLOPENTOLATI HYDROCHLORIDUM

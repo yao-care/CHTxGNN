@@ -5,6 +5,7 @@ title: ESCITALOPRAMUM
 drugbank_id: DB01175
 evidence_level: L5
 permalink: /drugs/escitalopramum/
+search_exclude: true
 ---
 
 # ESCITALOPRAMUM

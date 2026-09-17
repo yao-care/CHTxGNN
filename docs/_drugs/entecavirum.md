@@ -5,6 +5,7 @@ title: ENTECAVIRUM
 drugbank_id: DB00442
 evidence_level: L5
 permalink: /drugs/entecavirum/
+search_exclude: true
 ---
 
 # ENTECAVIRUM

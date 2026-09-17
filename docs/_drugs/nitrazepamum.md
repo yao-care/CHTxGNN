@@ -5,6 +5,7 @@ title: NITRAZEPAMUM
 drugbank_id: DB01595
 evidence_level: L5
 permalink: /drugs/nitrazepamum/
+search_exclude: true
 ---
 
 # NITRAZEPAMUM

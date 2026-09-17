@@ -5,6 +5,7 @@ title: REPAGLINIDUM
 drugbank_id: DB00912
 evidence_level: L5
 permalink: /drugs/repaglinidum/
+search_exclude: true
 ---
 
 # REPAGLINIDUM

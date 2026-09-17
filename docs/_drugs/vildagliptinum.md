@@ -5,6 +5,7 @@ title: VILDAGLIPTINUM
 drugbank_id: DB04876
 evidence_level: L5
 permalink: /drugs/vildagliptinum/
+search_exclude: true
 ---
 
 # VILDAGLIPTINUM

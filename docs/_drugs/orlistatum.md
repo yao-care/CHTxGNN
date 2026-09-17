@@ -5,6 +5,7 @@ title: ORLISTATUM
 drugbank_id: DB01083
 evidence_level: L5
 permalink: /drugs/orlistatum/
+search_exclude: true
 ---
 
 # ORLISTATUM

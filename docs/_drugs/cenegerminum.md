@@ -5,6 +5,7 @@ title: CENEGERMINUM
 drugbank_id: DB13926
 evidence_level: L5
 permalink: /drugs/cenegerminum/
+search_exclude: true
 ---
 
 # CENEGERMINUM

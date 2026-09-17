@@ -5,6 +5,7 @@ title: BEZLOTOXUMABUM
 drugbank_id: DB13140
 evidence_level: L5
 permalink: /drugs/bezlotoxumabum/
+search_exclude: true
 ---
 
 # BEZLOTOXUMABUM

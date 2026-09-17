@@ -5,6 +5,7 @@ title: CALCII CARBONAS
 drugbank_id: DB06724
 evidence_level: L5
 permalink: /drugs/calcii_carbonas/
+search_exclude: true
 ---
 
 # CALCII CARBONAS

@@ -5,6 +5,7 @@ title: DULOXETINUM
 drugbank_id: DB00476
 evidence_level: L5
 permalink: /drugs/duloxetinum/
+search_exclude: true
 ---
 
 # DULOXETINUM

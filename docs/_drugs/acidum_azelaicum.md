@@ -5,6 +5,7 @@ title: ACIDUM AZELAICUM
 drugbank_id: DB00548
 evidence_level: L5
 permalink: /drugs/acidum_azelaicum/
+search_exclude: true
 ---
 
 # ACIDUM AZELAICUM

@@ -5,6 +5,7 @@ title: ETODOLACUM
 drugbank_id: DB00749
 evidence_level: L5
 permalink: /drugs/etodolacum/
+search_exclude: true
 ---
 
 # ETODOLACUM

@@ -5,6 +5,7 @@ title: APREMILASTUM
 drugbank_id: DB05676
 evidence_level: L5
 permalink: /drugs/apremilastum/
+search_exclude: true
 ---
 
 # APREMILASTUM

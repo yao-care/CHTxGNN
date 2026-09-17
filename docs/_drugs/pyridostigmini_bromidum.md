@@ -5,6 +5,7 @@ title: PYRIDOSTIGMINI BROMIDUM
 drugbank_id: DB00545
 evidence_level: L5
 permalink: /drugs/pyridostigmini_bromidum/
+search_exclude: true
 ---
 
 # PYRIDOSTIGMINI BROMIDUM

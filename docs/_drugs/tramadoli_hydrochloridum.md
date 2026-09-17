@@ -5,6 +5,7 @@ title: TRAMADOLI HYDROCHLORIDUM
 drugbank_id: DB00193
 evidence_level: L5
 permalink: /drugs/tramadoli_hydrochloridum/
+search_exclude: true
 ---
 
 # TRAMADOLI HYDROCHLORIDUM

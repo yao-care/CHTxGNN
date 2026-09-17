@@ -5,6 +5,7 @@ title: MEFLOQUINUM
 drugbank_id: DB00358
 evidence_level: L5
 permalink: /drugs/mefloquinum/
+search_exclude: true
 ---
 
 # MEFLOQUINUM

@@ -5,6 +5,7 @@ title: ACEMETACINUM
 drugbank_id: DB13783
 evidence_level: L5
 permalink: /drugs/acemetacinum/
+search_exclude: true
 ---
 
 # ACEMETACINUM

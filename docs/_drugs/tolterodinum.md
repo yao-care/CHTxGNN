@@ -5,6 +5,7 @@ title: TOLTERODINUM
 drugbank_id: DB01036
 evidence_level: L5
 permalink: /drugs/tolterodinum/
+search_exclude: true
 ---
 
 # TOLTERODINUM

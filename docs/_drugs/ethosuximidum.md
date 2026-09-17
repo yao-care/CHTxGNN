@@ -5,6 +5,7 @@ title: ETHOSUXIMIDUM
 drugbank_id: DB00593
 evidence_level: L5
 permalink: /drugs/ethosuximidum/
+search_exclude: true
 ---
 
 # ETHOSUXIMIDUM

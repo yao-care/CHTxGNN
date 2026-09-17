@@ -5,6 +5,7 @@ title: CHLORHEXIDINI DIGLUCONAS
 drugbank_id: DB00878
 evidence_level: L5
 permalink: /drugs/chlorhexidini_digluconas/
+search_exclude: true
 ---
 
 # CHLORHEXIDINI DIGLUCONAS

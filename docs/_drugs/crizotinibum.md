@@ -5,6 +5,7 @@ title: CRIZOTINIBUM
 drugbank_id: DB08865
 evidence_level: L5
 permalink: /drugs/crizotinibum/
+search_exclude: true
 ---
 
 # CRIZOTINIBUM

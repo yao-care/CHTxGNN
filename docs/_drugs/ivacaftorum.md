@@ -5,6 +5,7 @@ title: IVACAFTORUM
 drugbank_id: DB08820
 evidence_level: L5
 permalink: /drugs/ivacaftorum/
+search_exclude: true
 ---
 
 # IVACAFTORUM

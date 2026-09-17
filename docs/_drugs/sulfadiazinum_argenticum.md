@@ -5,6 +5,7 @@ title: SULFADIAZINUM ARGENTICUM
 drugbank_id: DB00359
 evidence_level: L5
 permalink: /drugs/sulfadiazinum_argenticum/
+search_exclude: true
 ---
 
 # SULFADIAZINUM ARGENTICUM

@@ -5,6 +5,7 @@ title: SOTALOLI HYDROCHLORIDUM
 drugbank_id: DB00489
 evidence_level: L5
 permalink: /drugs/sotaloli_hydrochloridum/
+search_exclude: true
 ---
 
 # SOTALOLI HYDROCHLORIDUM

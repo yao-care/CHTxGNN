@@ -5,6 +5,7 @@ title: SILODOSINUM
 drugbank_id: DB06207
 evidence_level: L5
 permalink: /drugs/silodosinum/
+search_exclude: true
 ---
 
 # SILODOSINUM

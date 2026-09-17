@@ -5,6 +5,7 @@ title: ALISKIRENUM
 drugbank_id: DB09026
 evidence_level: L5
 permalink: /drugs/aliskirenum/
+search_exclude: true
 ---
 
 # ALISKIRENUM

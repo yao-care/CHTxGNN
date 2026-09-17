@@ -5,6 +5,7 @@ title: CHOLECALCIFEROLUM
 drugbank_id: DB00169
 evidence_level: L5
 permalink: /drugs/cholecalciferolum/
+search_exclude: true
 ---
 
 # CHOLECALCIFEROLUM

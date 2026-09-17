@@ -5,6 +5,7 @@ title: LEVETIRACETAMUM
 drugbank_id: DB01202
 evidence_level: L5
 permalink: /drugs/levetiracetamum/
+search_exclude: true
 ---
 
 # LEVETIRACETAMUM

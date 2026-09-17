@@ -5,6 +5,7 @@ title: PRAVASTATINUM NATRICUM
 drugbank_id: DB00175
 evidence_level: L5
 permalink: /drugs/pravastatinum_natricum/
+search_exclude: true
 ---
 
 # PRAVASTATINUM NATRICUM

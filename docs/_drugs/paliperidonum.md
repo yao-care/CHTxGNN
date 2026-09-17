@@ -5,6 +5,7 @@ title: PALIPERIDONUM
 drugbank_id: DB01267
 evidence_level: L5
 permalink: /drugs/paliperidonum/
+search_exclude: true
 ---
 
 # PALIPERIDONUM

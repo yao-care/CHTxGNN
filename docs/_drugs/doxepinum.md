@@ -5,6 +5,7 @@ title: DOXEPINUM
 drugbank_id: DB01142
 evidence_level: L5
 permalink: /drugs/doxepinum/
+search_exclude: true
 ---
 
 # DOXEPINUM

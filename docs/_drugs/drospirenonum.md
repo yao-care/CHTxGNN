@@ -5,6 +5,7 @@ title: DROSPIRENONUM
 drugbank_id: DB01395
 evidence_level: L5
 permalink: /drugs/drospirenonum/
+search_exclude: true
 ---
 
 # DROSPIRENONUM

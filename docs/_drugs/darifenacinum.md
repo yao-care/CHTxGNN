@@ -5,6 +5,7 @@ title: DARIFENACINUM
 drugbank_id: DB00496
 evidence_level: L5
 permalink: /drugs/darifenacinum/
+search_exclude: true
 ---
 
 # DARIFENACINUM

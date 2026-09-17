@@ -5,6 +5,7 @@ title: PHENPROCOUMONUM
 drugbank_id: DB00946
 evidence_level: L5
 permalink: /drugs/phenprocoumonum/
+search_exclude: true
 ---
 
 # PHENPROCOUMONUM

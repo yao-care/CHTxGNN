@@ -5,6 +5,7 @@ title: SALBUTAMOLUM
 drugbank_id: DB01001
 evidence_level: L5
 permalink: /drugs/salbutamolum/
+search_exclude: true
 ---
 
 # SALBUTAMOLUM

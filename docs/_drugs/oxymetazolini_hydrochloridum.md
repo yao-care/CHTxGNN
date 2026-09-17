@@ -5,6 +5,7 @@ title: OXYMETAZOLINI HYDROCHLORIDUM
 drugbank_id: DB00935
 evidence_level: L5
 permalink: /drugs/oxymetazolini_hydrochloridum/
+search_exclude: true
 ---
 
 # OXYMETAZOLINI HYDROCHLORIDUM

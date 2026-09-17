@@ -5,6 +5,7 @@ title: FLUVOXAMINI MALEAS
 drugbank_id: DB00176
 evidence_level: L5
 permalink: /drugs/fluvoxamini_maleas/
+search_exclude: true
 ---
 
 # FLUVOXAMINI MALEAS

@@ -5,6 +5,7 @@ title: SPIRONOLACTONUM
 drugbank_id: DB00421
 evidence_level: L5
 permalink: /drugs/spironolactonum/
+search_exclude: true
 ---
 
 # SPIRONOLACTONUM

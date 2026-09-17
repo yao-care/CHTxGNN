@@ -5,6 +5,7 @@ title: ZOPICLONUM
 drugbank_id: DB01198
 evidence_level: L5
 permalink: /drugs/zopiclonum/
+search_exclude: true
 ---
 
 # ZOPICLONUM

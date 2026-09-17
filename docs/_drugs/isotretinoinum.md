@@ -5,6 +5,7 @@ title: ISOTRETINOINUM
 drugbank_id: DB00982
 evidence_level: L5
 permalink: /drugs/isotretinoinum/
+search_exclude: true
 ---
 
 # ISOTRETINOINUM

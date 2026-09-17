@@ -5,6 +5,7 @@ title: TAGRAXOFUSPUM
 drugbank_id: DB14731
 evidence_level: L5
 permalink: /drugs/tagraxofuspum/
+search_exclude: true
 ---
 
 # TAGRAXOFUSPUM

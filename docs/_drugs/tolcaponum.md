@@ -5,6 +5,7 @@ title: TOLCAPONUM
 drugbank_id: DB00323
 evidence_level: L5
 permalink: /drugs/tolcaponum/
+search_exclude: true
 ---
 
 # TOLCAPONUM

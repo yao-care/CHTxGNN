@@ -5,6 +5,7 @@ title: MIGLUSTATUM
 drugbank_id: DB00419
 evidence_level: L5
 permalink: /drugs/miglustatum/
+search_exclude: true
 ---
 
 # MIGLUSTATUM

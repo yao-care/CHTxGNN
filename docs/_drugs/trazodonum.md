@@ -5,6 +5,7 @@ title: TRAZODONUM
 drugbank_id: DB00656
 evidence_level: L5
 permalink: /drugs/trazodonum/
+search_exclude: true
 ---
 
 # TRAZODONUM

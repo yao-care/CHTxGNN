@@ -5,6 +5,7 @@ title: LANSOPRAZOLUM
 drugbank_id: DB00448
 evidence_level: L5
 permalink: /drugs/lansoprazolum/
+search_exclude: true
 ---
 
 # LANSOPRAZOLUM

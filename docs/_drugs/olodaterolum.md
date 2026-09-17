@@ -5,6 +5,7 @@ title: OLODATEROLUM
 drugbank_id: DB09080
 evidence_level: L5
 permalink: /drugs/olodaterolum/
+search_exclude: true
 ---
 
 # OLODATEROLUM

@@ -5,6 +5,7 @@ title: ALECTINIBUM
 drugbank_id: DB11363
 evidence_level: L5
 permalink: /drugs/alectinibum/
+search_exclude: true
 ---
 
 # ALECTINIBUM

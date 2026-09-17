@@ -5,6 +5,7 @@ title: EVEROLIMUSUM
 drugbank_id: DB01590
 evidence_level: L5
 permalink: /drugs/everolimusum/
+search_exclude: true
 ---
 
 # EVEROLIMUSUM

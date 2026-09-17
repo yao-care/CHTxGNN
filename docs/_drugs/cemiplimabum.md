@@ -5,6 +5,7 @@ title: CEMIPLIMABUM
 drugbank_id: DB14707
 evidence_level: L5
 permalink: /drugs/cemiplimabum/
+search_exclude: true
 ---
 
 # CEMIPLIMABUM

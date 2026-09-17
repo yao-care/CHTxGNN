@@ -5,6 +5,7 @@ title: ROMOSOZUMABUM
 drugbank_id: DB11866
 evidence_level: L5
 permalink: /drugs/romosozumabum/
+search_exclude: true
 ---
 
 # ROMOSOZUMABUM

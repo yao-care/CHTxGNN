@@ -5,6 +5,7 @@ title: DARATUMUMABUM
 drugbank_id: DB09331
 evidence_level: L5
 permalink: /drugs/daratumumabum/
+search_exclude: true
 ---
 
 # DARATUMUMABUM

@@ -5,6 +5,7 @@ title: MITOMYCINUM
 drugbank_id: DB00305
 evidence_level: L5
 permalink: /drugs/mitomycinum/
+search_exclude: true
 ---
 
 # MITOMYCINUM

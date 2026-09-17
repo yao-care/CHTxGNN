@@ -5,6 +5,7 @@ title: APOMORPHINI HYDROCHLORIDUM HEMIHYDRICUM
 drugbank_id: DB00714
 evidence_level: L5
 permalink: /drugs/apomorphini_hydrochloridum_hemihydricum/
+search_exclude: true
 ---
 
 # APOMORPHINI HYDROCHLORIDUM HEMIHYDRICUM

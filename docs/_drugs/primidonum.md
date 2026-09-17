@@ -5,6 +5,7 @@ title: PRIMIDONUM
 drugbank_id: DB00794
 evidence_level: L5
 permalink: /drugs/primidonum/
+search_exclude: true
 ---
 
 # PRIMIDONUM

@@ -5,6 +5,7 @@ title: PRUCALOPRIDUM
 drugbank_id: DB06480
 evidence_level: L5
 permalink: /drugs/prucalopridum/
+search_exclude: true
 ---
 
 # PRUCALOPRIDUM

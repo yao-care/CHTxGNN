@@ -5,6 +5,7 @@ title: BILASTINUM
 drugbank_id: DB11591
 evidence_level: L5
 permalink: /drugs/bilastinum/
+search_exclude: true
 ---
 
 # BILASTINUM

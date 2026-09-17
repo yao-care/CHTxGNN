@@ -5,6 +5,7 @@ title: FLUOROMETHOLONUM
 drugbank_id: DB00324
 evidence_level: L5
 permalink: /drugs/fluorometholonum/
+search_exclude: true
 ---
 
 # FLUOROMETHOLONUM

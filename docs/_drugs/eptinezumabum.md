@@ -5,6 +5,7 @@ title: EPTINEZUMABUM
 drugbank_id: DB14040
 evidence_level: L5
 permalink: /drugs/eptinezumabum/
+search_exclude: true
 ---
 
 # EPTINEZUMABUM

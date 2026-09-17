@@ -5,6 +5,7 @@ title: BRIVARACETAMUM
 drugbank_id: DB05541
 evidence_level: L5
 permalink: /drugs/brivaracetamum/
+search_exclude: true
 ---
 
 # BRIVARACETAMUM

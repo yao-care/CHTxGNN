@@ -5,6 +5,7 @@ title: PITAVASTATINUM
 drugbank_id: DB08860
 evidence_level: L5
 permalink: /drugs/pitavastatinum/
+search_exclude: true
 ---
 
 # PITAVASTATINUM

@@ -5,6 +5,7 @@ title: ICATIBANTUM
 drugbank_id: DB06196
 evidence_level: L5
 permalink: /drugs/icatibantum/
+search_exclude: true
 ---
 
 # ICATIBANTUM

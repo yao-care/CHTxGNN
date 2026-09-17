@@ -5,6 +5,7 @@ title: SELEXIPAGUM
 drugbank_id: DB11362
 evidence_level: L5
 permalink: /drugs/selexipagum/
+search_exclude: true
 ---
 
 # SELEXIPAGUM

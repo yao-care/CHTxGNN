@@ -5,6 +5,7 @@ title: IMATINIBUM
 drugbank_id: DB00619
 evidence_level: L5
 permalink: /drugs/imatinibum/
+search_exclude: true
 ---
 
 # IMATINIBUM

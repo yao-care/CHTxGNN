@@ -5,6 +5,7 @@ title: RIFAMPICINUM
 drugbank_id: DB01045
 evidence_level: L5
 permalink: /drugs/rifampicinum/
+search_exclude: true
 ---
 
 # RIFAMPICINUM

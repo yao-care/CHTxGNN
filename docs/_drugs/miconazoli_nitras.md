@@ -5,6 +5,7 @@ title: MICONAZOLI NITRAS
 drugbank_id: DB01110
 evidence_level: L5
 permalink: /drugs/miconazoli_nitras/
+search_exclude: true
 ---
 
 # MICONAZOLI NITRAS

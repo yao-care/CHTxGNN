@@ -5,6 +5,7 @@ title: TROPICAMIDUM
 drugbank_id: DB00809
 evidence_level: L5
 permalink: /drugs/tropicamidum/
+search_exclude: true
 ---
 
 # TROPICAMIDUM

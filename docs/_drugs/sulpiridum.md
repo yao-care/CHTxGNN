@@ -5,6 +5,7 @@ title: SULPIRIDUM
 drugbank_id: DB00391
 evidence_level: L5
 permalink: /drugs/sulpiridum/
+search_exclude: true
 ---
 
 # SULPIRIDUM

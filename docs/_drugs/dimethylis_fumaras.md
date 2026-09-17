@@ -5,6 +5,7 @@ title: DIMETHYLIS FUMARAS
 drugbank_id: DB08908
 evidence_level: L5
 permalink: /drugs/dimethylis_fumaras/
+search_exclude: true
 ---
 
 # DIMETHYLIS FUMARAS

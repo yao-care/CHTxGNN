@@ -5,6 +5,7 @@ title: TRAMETINIBUM
 drugbank_id: DB08911
 evidence_level: L5
 permalink: /drugs/trametinibum/
+search_exclude: true
 ---
 
 # TRAMETINIBUM

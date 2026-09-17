@@ -5,6 +5,7 @@ title: MUPIROCINUM
 drugbank_id: DB00410
 evidence_level: L5
 permalink: /drugs/mupirocinum/
+search_exclude: true
 ---
 
 # MUPIROCINUM

@@ -5,6 +5,7 @@ title: ALTEPLASUM ADNR
 drugbank_id: DB00009
 evidence_level: L5
 permalink: /drugs/alteplasum_adnr/
+search_exclude: true
 ---
 
 # ALTEPLASUM ADNR

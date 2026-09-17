@@ -5,6 +5,7 @@ title: OCRELIZUMABUM
 drugbank_id: DB11988
 evidence_level: L5
 permalink: /drugs/ocrelizumabum/
+search_exclude: true
 ---
 
 # OCRELIZUMABUM

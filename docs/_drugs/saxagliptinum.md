@@ -5,6 +5,7 @@ title: SAXAGLIPTINUM
 drugbank_id: DB06335
 evidence_level: L5
 permalink: /drugs/saxagliptinum/
+search_exclude: true
 ---
 
 # SAXAGLIPTINUM

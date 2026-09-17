@@ -5,6 +5,7 @@ title: CARBIMAZOLUM
 drugbank_id: DB00389
 evidence_level: L5
 permalink: /drugs/carbimazolum/
+search_exclude: true
 ---
 
 # CARBIMAZOLUM

@@ -5,6 +5,7 @@ title: VINORELBINUM
 drugbank_id: DB00361
 evidence_level: L5
 permalink: /drugs/vinorelbinum/
+search_exclude: true
 ---
 
 # VINORELBINUM

@@ -5,6 +5,7 @@ title: AMIFAMPRIDINUM
 drugbank_id: DB11640
 evidence_level: L5
 permalink: /drugs/amifampridinum/
+search_exclude: true
 ---
 
 # AMIFAMPRIDINUM

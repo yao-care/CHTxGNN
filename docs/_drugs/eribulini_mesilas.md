@@ -5,6 +5,7 @@ title: ERIBULINI MESILAS
 drugbank_id: DB08871
 evidence_level: L5
 permalink: /drugs/eribulini_mesilas/
+search_exclude: true
 ---
 
 # ERIBULINI MESILAS

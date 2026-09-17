@@ -5,6 +5,7 @@ title: OZANIMODUM
 drugbank_id: DB12612
 evidence_level: L5
 permalink: /drugs/ozanimodum/
+search_exclude: true
 ---
 
 # OZANIMODUM

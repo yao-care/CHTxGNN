@@ -5,6 +5,7 @@ title: TERIPARATIDUM ADNR
 drugbank_id: DB06285
 evidence_level: L5
 permalink: /drugs/teriparatidum_adnr/
+search_exclude: true
 ---
 
 # TERIPARATIDUM ADNR

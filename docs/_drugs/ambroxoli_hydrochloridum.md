@@ -5,6 +5,7 @@ title: AMBROXOLI HYDROCHLORIDUM
 drugbank_id: DB06742
 evidence_level: L5
 permalink: /drugs/ambroxoli_hydrochloridum/
+search_exclude: true
 ---
 
 # AMBROXOLI HYDROCHLORIDUM

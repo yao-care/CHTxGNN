@@ -5,6 +5,7 @@ title: DELAFLOXACINUM
 drugbank_id: DB11943
 evidence_level: L5
 permalink: /drugs/delafloxacinum/
+search_exclude: true
 ---
 
 # DELAFLOXACINUM

@@ -5,6 +5,7 @@ title: CEFAZOLINUM
 drugbank_id: DB01327
 evidence_level: L5
 permalink: /drugs/cefazolinum/
+search_exclude: true
 ---
 
 # CEFAZOLINUM

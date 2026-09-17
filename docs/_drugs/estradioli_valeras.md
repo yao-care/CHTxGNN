@@ -5,6 +5,7 @@ title: ESTRADIOLI VALERAS
 drugbank_id: DB00783
 evidence_level: L5
 permalink: /drugs/estradioli_valeras/
+search_exclude: true
 ---
 
 # ESTRADIOLI VALERAS

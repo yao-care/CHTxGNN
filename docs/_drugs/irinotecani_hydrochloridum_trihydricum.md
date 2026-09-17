@@ -5,6 +5,7 @@ title: IRINOTECANI HYDROCHLORIDUM TRIHYDRICUM
 drugbank_id: DB00762
 evidence_level: L5
 permalink: /drugs/irinotecani_hydrochloridum_trihydricum/
+search_exclude: true
 ---
 
 # IRINOTECANI HYDROCHLORIDUM TRIHYDRICUM

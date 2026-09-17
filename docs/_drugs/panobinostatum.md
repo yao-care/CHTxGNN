@@ -5,6 +5,7 @@ title: PANOBINOSTATUM
 drugbank_id: DB06603
 evidence_level: L5
 permalink: /drugs/panobinostatum/
+search_exclude: true
 ---
 
 # PANOBINOSTATUM

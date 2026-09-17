@@ -5,6 +5,7 @@ title: TIGECYCLINUM
 drugbank_id: DB00560
 evidence_level: L5
 permalink: /drugs/tigecyclinum/
+search_exclude: true
 ---
 
 # TIGECYCLINUM

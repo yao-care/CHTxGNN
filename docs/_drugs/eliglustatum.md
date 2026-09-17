@@ -5,6 +5,7 @@ title: ELIGLUSTATUM
 drugbank_id: DB09039
 evidence_level: L5
 permalink: /drugs/eliglustatum/
+search_exclude: true
 ---
 
 # ELIGLUSTATUM

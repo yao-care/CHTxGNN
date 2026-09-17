@@ -5,6 +5,7 @@ title: CELECOXIBUM
 drugbank_id: DB00482
 evidence_level: L5
 permalink: /drugs/celecoxibum/
+search_exclude: true
 ---
 
 # CELECOXIBUM

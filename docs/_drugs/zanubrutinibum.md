@@ -5,6 +5,7 @@ title: ZANUBRUTINIBUM
 drugbank_id: DB15035
 evidence_level: L5
 permalink: /drugs/zanubrutinibum/
+search_exclude: true
 ---
 
 # ZANUBRUTINIBUM

@@ -5,6 +5,7 @@ title: IXEKIZUMABUM
 drugbank_id: DB11569
 evidence_level: L5
 permalink: /drugs/ixekizumabum/
+search_exclude: true
 ---
 
 # IXEKIZUMABUM

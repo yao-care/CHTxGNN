@@ -5,6 +5,7 @@ title: ETELCALCETIDUM
 drugbank_id: DB12865
 evidence_level: L5
 permalink: /drugs/etelcalcetidum/
+search_exclude: true
 ---
 
 # ETELCALCETIDUM

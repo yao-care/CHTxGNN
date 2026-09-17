@@ -5,6 +5,7 @@ title: RUFINAMIDUM
 drugbank_id: DB06201
 evidence_level: L5
 permalink: /drugs/rufinamidum/
+search_exclude: true
 ---
 
 # RUFINAMIDUM

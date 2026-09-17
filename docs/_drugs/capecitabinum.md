@@ -5,6 +5,7 @@ title: CAPECITABINUM
 drugbank_id: DB01101
 evidence_level: L5
 permalink: /drugs/capecitabinum/
+search_exclude: true
 ---
 
 # CAPECITABINUM

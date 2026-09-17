@@ -5,6 +5,7 @@ title: LOPERAMIDI HYDROCHLORIDUM
 drugbank_id: DB00836
 evidence_level: L5
 permalink: /drugs/loperamidi_hydrochloridum/
+search_exclude: true
 ---
 
 # LOPERAMIDI HYDROCHLORIDUM

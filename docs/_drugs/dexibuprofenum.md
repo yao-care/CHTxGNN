@@ -5,6 +5,7 @@ title: DEXIBUPROFENUM
 drugbank_id: DB09213
 evidence_level: L5
 permalink: /drugs/dexibuprofenum/
+search_exclude: true
 ---
 
 # DEXIBUPROFENUM

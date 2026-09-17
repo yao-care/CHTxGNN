@@ -5,6 +5,7 @@ title: CLARITHROMYCINUM
 drugbank_id: DB01211
 evidence_level: L5
 permalink: /drugs/clarithromycinum/
+search_exclude: true
 ---
 
 # CLARITHROMYCINUM

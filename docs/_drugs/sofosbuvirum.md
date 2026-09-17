@@ -5,6 +5,7 @@ title: SOFOSBUVIRUM
 drugbank_id: DB08934
 evidence_level: L5
 permalink: /drugs/sofosbuvirum/
+search_exclude: true
 ---
 
 # SOFOSBUVIRUM

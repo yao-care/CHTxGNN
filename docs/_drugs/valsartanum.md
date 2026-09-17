@@ -5,6 +5,7 @@ title: VALSARTANUM
 drugbank_id: DB00177
 evidence_level: L5
 permalink: /drugs/valsartanum/
+search_exclude: true
 ---
 
 # VALSARTANUM

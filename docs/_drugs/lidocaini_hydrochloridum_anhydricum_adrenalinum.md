@@ -5,6 +5,7 @@ title: LIDOCAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM
 drugbank_id: DB00281
 evidence_level: L5
 permalink: /drugs/lidocaini_hydrochloridum_anhydricum_adrenalinum/
+search_exclude: true
 ---
 
 # LIDOCAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM

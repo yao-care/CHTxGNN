@@ -5,6 +5,7 @@ title: ALPROSTADILUM
 drugbank_id: DB00770
 evidence_level: L5
 permalink: /drugs/alprostadilum/
+search_exclude: true
 ---
 
 # ALPROSTADILUM

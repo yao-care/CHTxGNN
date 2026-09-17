@@ -5,6 +5,7 @@ title: ERTUGLIFLOZINUM
 drugbank_id: DB11827
 evidence_level: L5
 permalink: /drugs/ertugliflozinum/
+search_exclude: true
 ---
 
 # ERTUGLIFLOZINUM

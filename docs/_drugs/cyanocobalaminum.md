@@ -5,6 +5,7 @@ title: CYANOCOBALAMINUM
 drugbank_id: DB00115
 evidence_level: L5
 permalink: /drugs/cyanocobalaminum/
+search_exclude: true
 ---
 
 # CYANOCOBALAMINUM

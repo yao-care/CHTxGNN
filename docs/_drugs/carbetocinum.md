@@ -5,6 +5,7 @@ title: CARBETOCINUM
 drugbank_id: DB01282
 evidence_level: L5
 permalink: /drugs/carbetocinum/
+search_exclude: true
 ---
 
 # CARBETOCINUM

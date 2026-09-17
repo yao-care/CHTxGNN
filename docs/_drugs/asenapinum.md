@@ -5,6 +5,7 @@ title: ASENAPINUM
 drugbank_id: DB06216
 evidence_level: L5
 permalink: /drugs/asenapinum/
+search_exclude: true
 ---
 
 # ASENAPINUM

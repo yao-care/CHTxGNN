@@ -5,6 +5,7 @@ title: ETOPOSIDUM
 drugbank_id: DB00773
 evidence_level: L5
 permalink: /drugs/etoposidum/
+search_exclude: true
 ---
 
 # ETOPOSIDUM

@@ -5,6 +5,7 @@ title: AVELUMABUM
 drugbank_id: DB11945
 evidence_level: L5
 permalink: /drugs/avelumabum/
+search_exclude: true
 ---
 
 # AVELUMABUM

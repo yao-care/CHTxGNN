@@ -5,6 +5,7 @@ title: PARACETAMOLUM
 drugbank_id: DB00316
 evidence_level: L5
 permalink: /drugs/paracetamolum/
+search_exclude: true
 ---
 
 # PARACETAMOLUM

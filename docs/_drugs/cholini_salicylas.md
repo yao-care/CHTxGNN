@@ -5,6 +5,7 @@ title: CHOLINI SALICYLAS
 drugbank_id: DB00122
 evidence_level: L5
 permalink: /drugs/cholini_salicylas/
+search_exclude: true
 ---
 
 # CHOLINI SALICYLAS

@@ -5,6 +5,7 @@ title: OXAZEPAMUM
 drugbank_id: DB00842
 evidence_level: L5
 permalink: /drugs/oxazepamum/
+search_exclude: true
 ---
 
 # OXAZEPAMUM

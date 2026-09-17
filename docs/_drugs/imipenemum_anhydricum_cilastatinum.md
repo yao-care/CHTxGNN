@@ -5,6 +5,7 @@ title: IMIPENEMUM ANHYDRICUM, CILASTATINUM
 drugbank_id: DB01598
 evidence_level: L5
 permalink: /drugs/imipenemum_anhydricum_cilastatinum/
+search_exclude: true
 ---
 
 # IMIPENEMUM ANHYDRICUM, CILASTATINUM

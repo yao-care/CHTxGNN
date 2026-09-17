@@ -5,6 +5,7 @@ title: RAMIPRILUM
 drugbank_id: DB00178
 evidence_level: L5
 permalink: /drugs/ramiprilum/
+search_exclude: true
 ---
 
 # RAMIPRILUM

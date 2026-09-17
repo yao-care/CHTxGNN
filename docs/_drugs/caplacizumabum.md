@@ -5,6 +5,7 @@ title: CAPLACIZUMABUM
 drugbank_id: DB06081
 evidence_level: L5
 permalink: /drugs/caplacizumabum/
+search_exclude: true
 ---
 
 # CAPLACIZUMABUM

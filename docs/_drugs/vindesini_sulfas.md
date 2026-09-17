@@ -5,6 +5,7 @@ title: VINDESINI SULFAS
 drugbank_id: DB00309
 evidence_level: L5
 permalink: /drugs/vindesini_sulfas/
+search_exclude: true
 ---
 
 # VINDESINI SULFAS

@@ -5,6 +5,7 @@ title: VERTEPORFINUM
 drugbank_id: DB00460
 evidence_level: L5
 permalink: /drugs/verteporfinum/
+search_exclude: true
 ---
 
 # VERTEPORFINUM

@@ -5,6 +5,7 @@ title: ETOFENAMATUM
 drugbank_id: DB08984
 evidence_level: L5
 permalink: /drugs/etofenamatum/
+search_exclude: true
 ---
 
 # ETOFENAMATUM

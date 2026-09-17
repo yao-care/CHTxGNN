@@ -5,6 +5,7 @@ title: HYDROCHLOROTHIAZIDUM
 drugbank_id: DB00999
 evidence_level: L5
 permalink: /drugs/hydrochlorothiazidum/
+search_exclude: true
 ---
 
 # HYDROCHLOROTHIAZIDUM

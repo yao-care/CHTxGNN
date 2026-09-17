@@ -5,6 +5,7 @@ title: CASPOFUNGINUM
 drugbank_id: DB00520
 evidence_level: L5
 permalink: /drugs/caspofunginum/
+search_exclude: true
 ---
 
 # CASPOFUNGINUM

@@ -5,6 +5,7 @@ title: AZELASTINI HYDROCHLORIDUM
 drugbank_id: DB00972
 evidence_level: L5
 permalink: /drugs/azelastini_hydrochloridum/
+search_exclude: true
 ---
 
 # AZELASTINI HYDROCHLORIDUM

@@ -5,6 +5,7 @@ title: TIBOLONUM
 drugbank_id: DB09070
 evidence_level: L5
 permalink: /drugs/tibolonum/
+search_exclude: true
 ---
 
 # TIBOLONUM

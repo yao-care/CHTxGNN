@@ -5,6 +5,7 @@ title: MIANSERINI HYDROCHLORIDUM
 drugbank_id: DB06148
 evidence_level: L5
 permalink: /drugs/mianserini_hydrochloridum/
+search_exclude: true
 ---
 
 # MIANSERINI HYDROCHLORIDUM

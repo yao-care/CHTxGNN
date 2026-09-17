@@ -5,6 +5,7 @@ title: NICARDIPINI HYDROCHLORIDUM
 drugbank_id: DB00622
 evidence_level: L5
 permalink: /drugs/nicardipini_hydrochloridum/
+search_exclude: true
 ---
 
 # NICARDIPINI HYDROCHLORIDUM

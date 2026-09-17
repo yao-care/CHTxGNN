@@ -5,6 +5,7 @@ title: OMALIZUMABUM
 drugbank_id: DB00043
 evidence_level: L5
 permalink: /drugs/omalizumabum/
+search_exclude: true
 ---
 
 # OMALIZUMABUM

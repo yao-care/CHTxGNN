@@ -5,6 +5,7 @@ title: ATOMOXETINUM
 drugbank_id: DB00289
 evidence_level: L5
 permalink: /drugs/atomoxetinum/
+search_exclude: true
 ---
 
 # ATOMOXETINUM

@@ -5,6 +5,7 @@ title: DURVALUMABUM
 drugbank_id: DB11714
 evidence_level: L5
 permalink: /drugs/durvalumabum/
+search_exclude: true
 ---
 
 # DURVALUMABUM

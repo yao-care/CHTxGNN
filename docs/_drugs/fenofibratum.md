@@ -5,6 +5,7 @@ title: FENOFIBRATUM
 drugbank_id: DB01039
 evidence_level: L5
 permalink: /drugs/fenofibratum/
+search_exclude: true
 ---
 
 # FENOFIBRATUM

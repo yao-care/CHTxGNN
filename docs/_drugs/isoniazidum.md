@@ -5,6 +5,7 @@ title: ISONIAZIDUM
 drugbank_id: DB00951
 evidence_level: L5
 permalink: /drugs/isoniazidum/
+search_exclude: true
 ---
 
 # ISONIAZIDUM

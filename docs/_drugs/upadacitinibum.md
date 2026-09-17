@@ -5,6 +5,7 @@ title: UPADACITINIBUM
 drugbank_id: DB15091
 evidence_level: L5
 permalink: /drugs/upadacitinibum/
+search_exclude: true
 ---
 
 # UPADACITINIBUM

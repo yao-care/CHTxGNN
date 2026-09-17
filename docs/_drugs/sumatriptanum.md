@@ -5,6 +5,7 @@ title: SUMATRIPTANUM
 drugbank_id: DB00669
 evidence_level: L5
 permalink: /drugs/sumatriptanum/
+search_exclude: true
 ---
 
 # SUMATRIPTANUM

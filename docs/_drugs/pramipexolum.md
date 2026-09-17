@@ -5,6 +5,7 @@ title: PRAMIPEXOLUM
 drugbank_id: DB00413
 evidence_level: L5
 permalink: /drugs/pramipexolum/
+search_exclude: true
 ---
 
 # PRAMIPEXOLUM

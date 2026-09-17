@@ -5,6 +5,7 @@ title: OCTREOTIDUM
 drugbank_id: DB00104
 evidence_level: L5
 permalink: /drugs/octreotidum/
+search_exclude: true
 ---
 
 # OCTREOTIDUM

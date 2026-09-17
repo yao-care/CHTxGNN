@@ -5,6 +5,7 @@ title: METOCLOPRAMIDUM
 drugbank_id: DB01233
 evidence_level: L5
 permalink: /drugs/metoclopramidum/
+search_exclude: true
 ---
 
 # METOCLOPRAMIDUM

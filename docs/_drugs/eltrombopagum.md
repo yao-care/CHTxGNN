@@ -5,6 +5,7 @@ title: ELTROMBOPAGUM
 drugbank_id: DB06210
 evidence_level: L5
 permalink: /drugs/eltrombopagum/
+search_exclude: true
 ---
 
 # ELTROMBOPAGUM

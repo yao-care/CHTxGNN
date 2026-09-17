@@ -5,6 +5,7 @@ title: TETRACOSACTIDUM
 drugbank_id: DB01284
 evidence_level: L5
 permalink: /drugs/tetracosactidum/
+search_exclude: true
 ---
 
 # TETRACOSACTIDUM

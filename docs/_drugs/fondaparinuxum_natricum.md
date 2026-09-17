@@ -5,6 +5,7 @@ title: FONDAPARINUXUM NATRICUM
 drugbank_id: DB00569
 evidence_level: L5
 permalink: /drugs/fondaparinuxum_natricum/
+search_exclude: true
 ---
 
 # FONDAPARINUXUM NATRICUM

@@ -5,6 +5,7 @@ title: ACETYLCYSTEINUM
 drugbank_id: DB06151
 evidence_level: L5
 permalink: /drugs/acetylcysteinum/
+search_exclude: true
 ---
 
 # ACETYLCYSTEINUM

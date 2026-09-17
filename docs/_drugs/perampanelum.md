@@ -5,6 +5,7 @@ title: PERAMPANELUM
 drugbank_id: DB08883
 evidence_level: L5
 permalink: /drugs/perampanelum/
+search_exclude: true
 ---
 
 # PERAMPANELUM

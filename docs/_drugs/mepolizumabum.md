@@ -5,6 +5,7 @@ title: MEPOLIZUMABUM
 drugbank_id: DB06612
 evidence_level: L5
 permalink: /drugs/mepolizumabum/
+search_exclude: true
 ---
 
 # MEPOLIZUMABUM

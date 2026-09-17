@@ -5,6 +5,7 @@ title: GALSULFASUM
 drugbank_id: DB01279
 evidence_level: L5
 permalink: /drugs/galsulfasum/
+search_exclude: true
 ---
 
 # GALSULFASUM

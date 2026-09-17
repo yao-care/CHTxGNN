@@ -5,6 +5,7 @@ title: IRBESARTANUM
 drugbank_id: DB01029
 evidence_level: L5
 permalink: /drugs/irbesartanum/
+search_exclude: true
 ---
 
 # IRBESARTANUM

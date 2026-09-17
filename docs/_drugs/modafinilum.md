@@ -5,6 +5,7 @@ title: MODAFINILUM
 drugbank_id: DB00745
 evidence_level: L5
 permalink: /drugs/modafinilum/
+search_exclude: true
 ---
 
 # MODAFINILUM

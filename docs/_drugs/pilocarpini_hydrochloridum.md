@@ -5,6 +5,7 @@ title: PILOCARPINI HYDROCHLORIDUM
 drugbank_id: DB01085
 evidence_level: L5
 permalink: /drugs/pilocarpini_hydrochloridum/
+search_exclude: true
 ---
 
 # PILOCARPINI HYDROCHLORIDUM

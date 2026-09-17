@@ -5,6 +5,7 @@ title: ANIDULAFUNGINUM
 drugbank_id: DB00362
 evidence_level: L5
 permalink: /drugs/anidulafunginum/
+search_exclude: true
 ---
 
 # ANIDULAFUNGINUM

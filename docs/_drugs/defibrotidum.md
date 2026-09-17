@@ -5,6 +5,7 @@ title: DEFIBROTIDUM
 drugbank_id: DB04932
 evidence_level: L5
 permalink: /drugs/defibrotidum/
+search_exclude: true
 ---
 
 # DEFIBROTIDUM

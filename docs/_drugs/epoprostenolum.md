@@ -5,6 +5,7 @@ title: EPOPROSTENOLUM
 drugbank_id: DB01240
 evidence_level: L5
 permalink: /drugs/epoprostenolum/
+search_exclude: true
 ---
 
 # EPOPROSTENOLUM

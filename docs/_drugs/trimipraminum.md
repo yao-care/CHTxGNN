@@ -5,6 +5,7 @@ title: TRIMIPRAMINUM
 drugbank_id: DB00726
 evidence_level: L5
 permalink: /drugs/trimipraminum/
+search_exclude: true
 ---
 
 # TRIMIPRAMINUM

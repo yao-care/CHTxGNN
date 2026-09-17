@@ -5,6 +5,7 @@ title: SAFINAMIDUM
 drugbank_id: DB06654
 evidence_level: L5
 permalink: /drugs/safinamidum/
+search_exclude: true
 ---
 
 # SAFINAMIDUM

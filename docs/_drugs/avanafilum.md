@@ -5,6 +5,7 @@ title: AVANAFILUM
 drugbank_id: DB06237
 evidence_level: L5
 permalink: /drugs/avanafilum/
+search_exclude: true
 ---
 
 # AVANAFILUM

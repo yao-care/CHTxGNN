@@ -5,6 +5,7 @@ title: PERMETHRINUM
 drugbank_id: DB04930
 evidence_level: L5
 permalink: /drugs/permethrinum/
+search_exclude: true
 ---
 
 # PERMETHRINUM

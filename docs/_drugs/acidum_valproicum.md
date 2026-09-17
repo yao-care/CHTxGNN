@@ -5,6 +5,7 @@ title: ACIDUM VALPROICUM
 drugbank_id: DB00313
 evidence_level: L5
 permalink: /drugs/acidum_valproicum/
+search_exclude: true
 ---
 
 # ACIDUM VALPROICUM

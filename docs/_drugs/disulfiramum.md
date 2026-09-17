@@ -5,6 +5,7 @@ title: DISULFIRAMUM
 drugbank_id: DB00822
 evidence_level: L5
 permalink: /drugs/disulfiramum/
+search_exclude: true
 ---
 
 # DISULFIRAMUM

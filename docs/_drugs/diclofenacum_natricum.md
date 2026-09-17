@@ -5,6 +5,7 @@ title: DICLOFENACUM NATRICUM
 drugbank_id: DB00586
 evidence_level: L5
 permalink: /drugs/diclofenacum_natricum/
+search_exclude: true
 ---
 
 # DICLOFENACUM NATRICUM

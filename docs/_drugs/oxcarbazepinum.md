@@ -5,6 +5,7 @@ title: OXCARBAZEPINUM
 drugbank_id: DB00776
 evidence_level: L5
 permalink: /drugs/oxcarbazepinum/
+search_exclude: true
 ---
 
 # OXCARBAZEPINUM

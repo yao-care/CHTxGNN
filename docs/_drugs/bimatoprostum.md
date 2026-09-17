@@ -5,6 +5,7 @@ title: BIMATOPROSTUM
 drugbank_id: DB00905
 evidence_level: L5
 permalink: /drugs/bimatoprostum/
+search_exclude: true
 ---
 
 # BIMATOPROSTUM

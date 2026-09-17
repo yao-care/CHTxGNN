@@ -5,6 +5,7 @@ title: VANDETANIBUM
 drugbank_id: DB05294
 evidence_level: L5
 permalink: /drugs/vandetanibum/
+search_exclude: true
 ---
 
 # VANDETANIBUM

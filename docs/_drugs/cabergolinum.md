@@ -5,6 +5,7 @@ title: CABERGOLINUM
 drugbank_id: DB00248
 evidence_level: L5
 permalink: /drugs/cabergolinum/
+search_exclude: true
 ---
 
 # CABERGOLINUM

@@ -5,6 +5,7 @@ title: ENZALUTAMIDUM
 drugbank_id: DB08899
 evidence_level: L5
 permalink: /drugs/enzalutamidum/
+search_exclude: true
 ---
 
 # ENZALUTAMIDUM

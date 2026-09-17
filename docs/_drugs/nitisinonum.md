@@ -5,6 +5,7 @@ title: NITISINONUM
 drugbank_id: DB00348
 evidence_level: L5
 permalink: /drugs/nitisinonum/
+search_exclude: true
 ---
 
 # NITISINONUM

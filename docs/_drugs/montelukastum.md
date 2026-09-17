@@ -5,6 +5,7 @@ title: MONTELUKASTUM
 drugbank_id: DB00471
 evidence_level: L5
 permalink: /drugs/montelukastum/
+search_exclude: true
 ---
 
 # MONTELUKASTUM

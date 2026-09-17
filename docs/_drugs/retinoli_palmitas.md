@@ -5,6 +5,7 @@ title: RETINOLI PALMITAS
 drugbank_id: DB00162
 evidence_level: L5
 permalink: /drugs/retinoli_palmitas/
+search_exclude: true
 ---
 
 # RETINOLI PALMITAS

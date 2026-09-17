@@ -5,6 +5,7 @@ title: ISOSORBIDI DINITRAS
 drugbank_id: DB09401
 evidence_level: L5
 permalink: /drugs/isosorbidi_dinitras/
+search_exclude: true
 ---
 
 # ISOSORBIDI DINITRAS

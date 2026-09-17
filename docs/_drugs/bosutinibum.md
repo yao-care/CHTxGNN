@@ -5,6 +5,7 @@ title: BOSUTINIBUM
 drugbank_id: DB06616
 evidence_level: L5
 permalink: /drugs/bosutinibum/
+search_exclude: true
 ---
 
 # BOSUTINIBUM

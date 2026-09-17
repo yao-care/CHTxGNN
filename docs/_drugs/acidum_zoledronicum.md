@@ -5,6 +5,7 @@ title: ACIDUM ZOLEDRONICUM
 drugbank_id: DB00399
 evidence_level: L5
 permalink: /drugs/acidum_zoledronicum/
+search_exclude: true
 ---
 
 # ACIDUM ZOLEDRONICUM

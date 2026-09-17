@@ -5,6 +5,7 @@ title: DIAZEPAMUM
 drugbank_id: DB00829
 evidence_level: L5
 permalink: /drugs/diazepamum/
+search_exclude: true
 ---
 
 # DIAZEPAMUM

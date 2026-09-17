@@ -5,6 +5,7 @@ title: PREGABALINUM
 drugbank_id: DB00230
 evidence_level: L5
 permalink: /drugs/pregabalinum/
+search_exclude: true
 ---
 
 # PREGABALINUM

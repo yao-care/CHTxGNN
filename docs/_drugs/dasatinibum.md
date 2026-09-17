@@ -5,6 +5,7 @@ title: DASATINIBUM
 drugbank_id: DB01254
 evidence_level: L5
 permalink: /drugs/dasatinibum/
+search_exclude: true
 ---
 
 # DASATINIBUM

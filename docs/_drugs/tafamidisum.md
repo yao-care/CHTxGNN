@@ -5,6 +5,7 @@ title: TAFAMIDISUM
 drugbank_id: DB11644
 evidence_level: L5
 permalink: /drugs/tafamidisum/
+search_exclude: true
 ---
 
 # TAFAMIDISUM

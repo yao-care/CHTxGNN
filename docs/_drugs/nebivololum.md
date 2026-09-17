@@ -5,6 +5,7 @@ title: NEBIVOLOLUM
 drugbank_id: DB04861
 evidence_level: L5
 permalink: /drugs/nebivololum/
+search_exclude: true
 ---
 
 # NEBIVOLOLUM

@@ -5,6 +5,7 @@ title: VISMODEGIBUM
 drugbank_id: DB08828
 evidence_level: L5
 permalink: /drugs/vismodegibum/
+search_exclude: true
 ---
 
 # VISMODEGIBUM

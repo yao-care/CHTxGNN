@@ -5,6 +5,7 @@ title: RISANKIZUMABUM
 drugbank_id: DB14762
 evidence_level: L5
 permalink: /drugs/risankizumabum/
+search_exclude: true
 ---
 
 # RISANKIZUMABUM

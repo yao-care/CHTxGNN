@@ -5,6 +5,7 @@ title: DIAZOXIDUM
 drugbank_id: DB01119
 evidence_level: L5
 permalink: /drugs/diazoxidum/
+search_exclude: true
 ---
 
 # DIAZOXIDUM

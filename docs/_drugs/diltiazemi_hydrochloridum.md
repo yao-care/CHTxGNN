@@ -5,6 +5,7 @@ title: DILTIAZEMI HYDROCHLORIDUM
 drugbank_id: DB00343
 evidence_level: L5
 permalink: /drugs/diltiazemi_hydrochloridum/
+search_exclude: true
 ---
 
 # DILTIAZEMI HYDROCHLORIDUM

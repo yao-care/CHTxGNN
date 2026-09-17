@@ -5,6 +5,7 @@ title: CERITINIBUM
 drugbank_id: DB09063
 evidence_level: L5
 permalink: /drugs/ceritinibum/
+search_exclude: true
 ---
 
 # CERITINIBUM

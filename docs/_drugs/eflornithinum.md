@@ -5,6 +5,7 @@ title: EFLORNITHINUM
 drugbank_id: DB06243
 evidence_level: L5
 permalink: /drugs/eflornithinum/
+search_exclude: true
 ---
 
 # EFLORNITHINUM

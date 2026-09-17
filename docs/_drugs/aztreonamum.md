@@ -5,6 +5,7 @@ title: AZTREONAMUM
 drugbank_id: DB00355
 evidence_level: L5
 permalink: /drugs/aztreonamum/
+search_exclude: true
 ---
 
 # AZTREONAMUM

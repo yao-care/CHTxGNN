@@ -5,6 +5,7 @@ title: BROLUCIZUMABUM
 drugbank_id: DB14864
 evidence_level: L5
 permalink: /drugs/brolucizumabum/
+search_exclude: true
 ---
 
 # BROLUCIZUMABUM

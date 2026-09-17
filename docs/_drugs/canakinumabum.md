@@ -5,6 +5,7 @@ title: CANAKINUMABUM
 drugbank_id: DB06168
 evidence_level: L5
 permalink: /drugs/canakinumabum/
+search_exclude: true
 ---
 
 # CANAKINUMABUM

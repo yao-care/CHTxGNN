@@ -5,6 +5,7 @@ title: PIMECROLIMUSUM
 drugbank_id: DB00337
 evidence_level: L5
 permalink: /drugs/pimecrolimusum/
+search_exclude: true
 ---
 
 # PIMECROLIMUSUM

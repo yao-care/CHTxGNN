@@ -5,6 +5,7 @@ title: LAPATINIBUM
 drugbank_id: DB01259
 evidence_level: L5
 permalink: /drugs/lapatinibum/
+search_exclude: true
 ---
 
 # LAPATINIBUM

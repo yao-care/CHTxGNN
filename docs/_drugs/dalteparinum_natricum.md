@@ -5,6 +5,7 @@ title: DALTEPARINUM NATRICUM
 drugbank_id: DB06779
 evidence_level: L5
 permalink: /drugs/dalteparinum_natricum/
+search_exclude: true
 ---
 
 # DALTEPARINUM NATRICUM

@@ -5,6 +5,7 @@ title: PANITUMUMABUM
 drugbank_id: DB01269
 evidence_level: L5
 permalink: /drugs/panitumumabum/
+search_exclude: true
 ---
 
 # PANITUMUMABUM

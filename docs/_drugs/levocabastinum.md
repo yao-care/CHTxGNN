@@ -5,6 +5,7 @@ title: LEVOCABASTINUM
 drugbank_id: DB01106
 evidence_level: L5
 permalink: /drugs/levocabastinum/
+search_exclude: true
 ---
 
 # LEVOCABASTINUM

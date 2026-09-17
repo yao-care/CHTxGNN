@@ -5,6 +5,7 @@ title: ANAGRELIDUM
 drugbank_id: DB00261
 evidence_level: L5
 permalink: /drugs/anagrelidum/
+search_exclude: true
 ---
 
 # ANAGRELIDUM

@@ -5,6 +5,7 @@ title: PRASTERONUM
 drugbank_id: DB01708
 evidence_level: L5
 permalink: /drugs/prasteronum/
+search_exclude: true
 ---
 
 # PRASTERONUM

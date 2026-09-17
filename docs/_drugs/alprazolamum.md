@@ -5,6 +5,7 @@ title: ALPRAZOLAMUM
 drugbank_id: DB00404
 evidence_level: L5
 permalink: /drugs/alprazolamum/
+search_exclude: true
 ---
 
 # ALPRAZOLAMUM

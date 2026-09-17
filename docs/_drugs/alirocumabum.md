@@ -5,6 +5,7 @@ title: ALIROCUMABUM
 drugbank_id: DB09302
 evidence_level: L5
 permalink: /drugs/alirocumabum/
+search_exclude: true
 ---
 
 # ALIROCUMABUM

@@ -5,6 +5,7 @@ title: TOCILIZUMABUM
 drugbank_id: DB06273
 evidence_level: L5
 permalink: /drugs/tocilizumabum/
+search_exclude: true
 ---
 
 # TOCILIZUMABUM

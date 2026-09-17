@@ -5,6 +5,7 @@ title: ZANAMIVIRUM
 drugbank_id: DB00558
 evidence_level: L5
 permalink: /drugs/zanamivirum/
+search_exclude: true
 ---
 
 # ZANAMIVIRUM

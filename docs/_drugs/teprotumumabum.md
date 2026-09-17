@@ -5,6 +5,7 @@ title: TEPROTUMUMABUM
 drugbank_id: DB06343
 evidence_level: L5
 permalink: /drugs/teprotumumabum/
+search_exclude: true
 ---
 
 # TEPROTUMUMABUM

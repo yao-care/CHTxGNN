@@ -5,6 +5,7 @@ title: MIGALASTATUM
 drugbank_id: DB05018
 evidence_level: L5
 permalink: /drugs/migalastatum/
+search_exclude: true
 ---
 
 # MIGALASTATUM

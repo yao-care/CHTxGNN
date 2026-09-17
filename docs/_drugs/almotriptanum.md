@@ -5,6 +5,7 @@ title: ALMOTRIPTANUM
 drugbank_id: DB00918
 evidence_level: L5
 permalink: /drugs/almotriptanum/
+search_exclude: true
 ---
 
 # ALMOTRIPTANUM

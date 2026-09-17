@@ -5,6 +5,7 @@ title: FLUVASTATINUM
 drugbank_id: DB01095
 evidence_level: L5
 permalink: /drugs/fluvastatinum/
+search_exclude: true
 ---
 
 # FLUVASTATINUM

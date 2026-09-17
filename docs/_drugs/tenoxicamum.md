@@ -5,6 +5,7 @@ title: TENOXICAMUM
 drugbank_id: DB00469
 evidence_level: L5
 permalink: /drugs/tenoxicamum/
+search_exclude: true
 ---
 
 # TENOXICAMUM

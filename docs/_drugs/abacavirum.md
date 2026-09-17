@@ -5,6 +5,7 @@ title: ABACAVIRUM
 drugbank_id: DB01048
 evidence_level: L5
 permalink: /drugs/abacavirum/
+search_exclude: true
 ---
 
 # ABACAVIRUM

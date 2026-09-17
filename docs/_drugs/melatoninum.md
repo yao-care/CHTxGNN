@@ -5,6 +5,7 @@ title: MELATONINUM
 drugbank_id: DB01065
 evidence_level: L5
 permalink: /drugs/melatoninum/
+search_exclude: true
 ---
 
 # MELATONINUM

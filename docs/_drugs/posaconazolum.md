@@ -5,6 +5,7 @@ title: POSACONAZOLUM
 drugbank_id: DB01263
 evidence_level: L5
 permalink: /drugs/posaconazolum/
+search_exclude: true
 ---
 
 # POSACONAZOLUM

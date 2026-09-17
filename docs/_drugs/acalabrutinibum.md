@@ -5,6 +5,7 @@ title: ACALABRUTINIBUM
 drugbank_id: DB11703
 evidence_level: L5
 permalink: /drugs/acalabrutinibum/
+search_exclude: true
 ---
 
 # ACALABRUTINIBUM

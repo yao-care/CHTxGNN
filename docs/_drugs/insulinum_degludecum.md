@@ -5,6 +5,7 @@ title: INSULINUM DEGLUDECUM
 drugbank_id: DB09564
 evidence_level: L5
 permalink: /drugs/insulinum_degludecum/
+search_exclude: true
 ---
 
 # INSULINUM DEGLUDECUM

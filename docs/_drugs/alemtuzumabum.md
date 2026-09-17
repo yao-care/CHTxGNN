@@ -5,6 +5,7 @@ title: ALEMTUZUMABUM
 drugbank_id: DB00087
 evidence_level: L5
 permalink: /drugs/alemtuzumabum/
+search_exclude: true
 ---
 
 # ALEMTUZUMABUM

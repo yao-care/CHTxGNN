@@ -5,6 +5,7 @@ title: DANTROLENUM NATRICUM HEMIHEPTAHYDRICUM
 drugbank_id: DB01219
 evidence_level: L5
 permalink: /drugs/dantrolenum_natricum_hemiheptahydricum/
+search_exclude: true
 ---
 
 # DANTROLENUM NATRICUM HEMIHEPTAHYDRICUM

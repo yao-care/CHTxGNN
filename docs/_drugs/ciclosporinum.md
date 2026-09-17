@@ -5,6 +5,7 @@ title: CICLOSPORINUM
 drugbank_id: DB00091
 evidence_level: L5
 permalink: /drugs/ciclosporinum/
+search_exclude: true
 ---
 
 # CICLOSPORINUM

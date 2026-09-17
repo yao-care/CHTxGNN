@@ -5,6 +5,7 @@ title: NILOTINIBUM
 drugbank_id: DB04868
 evidence_level: L5
 permalink: /drugs/nilotinibum/
+search_exclude: true
 ---
 
 # NILOTINIBUM

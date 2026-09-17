@@ -5,6 +5,7 @@ title: LATANOPROSTUM
 drugbank_id: DB00654
 evidence_level: L5
 permalink: /drugs/latanoprostum/
+search_exclude: true
 ---
 
 # LATANOPROSTUM

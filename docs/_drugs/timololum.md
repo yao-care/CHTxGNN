@@ -5,6 +5,7 @@ title: TIMOLOLUM
 drugbank_id: DB00373
 evidence_level: L5
 permalink: /drugs/timololum/
+search_exclude: true
 ---
 
 # TIMOLOLUM

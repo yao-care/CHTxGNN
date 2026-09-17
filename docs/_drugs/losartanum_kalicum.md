@@ -5,6 +5,7 @@ title: LOSARTANUM KALICUM
 drugbank_id: DB00678
 evidence_level: L5
 permalink: /drugs/losartanum_kalicum/
+search_exclude: true
 ---
 
 # LOSARTANUM KALICUM

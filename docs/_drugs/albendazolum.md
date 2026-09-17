@@ -5,6 +5,7 @@ title: ALBENDAZOLUM
 drugbank_id: DB00518
 evidence_level: L5
 permalink: /drugs/albendazolum/
+search_exclude: true
 ---
 
 # ALBENDAZOLUM

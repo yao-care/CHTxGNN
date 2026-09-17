@@ -5,6 +5,7 @@ title: ROSUVASTATINUM
 drugbank_id: DB01098
 evidence_level: L5
 permalink: /drugs/rosuvastatinum/
+search_exclude: true
 ---
 
 # ROSUVASTATINUM

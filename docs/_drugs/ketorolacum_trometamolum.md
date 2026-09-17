@@ -5,6 +5,7 @@ title: KETOROLACUM TROMETAMOLUM
 drugbank_id: DB00465
 evidence_level: L5
 permalink: /drugs/ketorolacum_trometamolum/
+search_exclude: true
 ---
 
 # KETOROLACUM TROMETAMOLUM

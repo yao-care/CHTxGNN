@@ -5,6 +5,7 @@ title: OLANZAPINUM
 drugbank_id: DB00334
 evidence_level: L5
 permalink: /drugs/olanzapinum/
+search_exclude: true
 ---
 
 # OLANZAPINUM

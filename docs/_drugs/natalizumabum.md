@@ -5,6 +5,7 @@ title: NATALIZUMABUM
 drugbank_id: DB00108
 evidence_level: L5
 permalink: /drugs/natalizumabum/
+search_exclude: true
 ---
 
 # NATALIZUMABUM

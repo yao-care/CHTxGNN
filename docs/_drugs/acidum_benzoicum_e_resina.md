@@ -5,6 +5,7 @@ title: ACIDUM BENZOICUM E RESINA
 drugbank_id: DB03793
 evidence_level: L5
 permalink: /drugs/acidum_benzoicum_e_resina/
+search_exclude: true
 ---
 
 # ACIDUM BENZOICUM E RESINA

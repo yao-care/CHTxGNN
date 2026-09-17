@@ -5,6 +5,7 @@ title: PEGVISOMANTUM
 drugbank_id: DB00082
 evidence_level: L5
 permalink: /drugs/pegvisomantum/
+search_exclude: true
 ---
 
 # PEGVISOMANTUM

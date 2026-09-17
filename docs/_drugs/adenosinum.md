@@ -5,6 +5,7 @@ title: ADENOSINUM
 drugbank_id: DB00640
 evidence_level: L5
 permalink: /drugs/adenosinum/
+search_exclude: true
 ---
 
 # ADENOSINUM

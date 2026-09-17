@@ -5,6 +5,7 @@ title: EFAVIRENZUM
 drugbank_id: DB00625
 evidence_level: L5
 permalink: /drugs/efavirenzum/
+search_exclude: true
 ---
 
 # EFAVIRENZUM

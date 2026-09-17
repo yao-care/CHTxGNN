@@ -5,6 +5,7 @@ title: PYRIMETHAMINUM
 drugbank_id: DB00205
 evidence_level: L5
 permalink: /drugs/pyrimethaminum/
+search_exclude: true
 ---
 
 # PYRIMETHAMINUM

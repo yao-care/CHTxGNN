@@ -5,6 +5,7 @@ title: IPILIMUMABUM
 drugbank_id: DB06186
 evidence_level: L5
 permalink: /drugs/ipilimumabum/
+search_exclude: true
 ---
 
 # IPILIMUMABUM

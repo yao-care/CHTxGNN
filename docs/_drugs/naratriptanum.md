@@ -5,6 +5,7 @@ title: NARATRIPTANUM
 drugbank_id: DB00952
 evidence_level: L5
 permalink: /drugs/naratriptanum/
+search_exclude: true
 ---
 
 # NARATRIPTANUM

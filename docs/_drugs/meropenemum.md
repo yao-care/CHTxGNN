@@ -5,6 +5,7 @@ title: MEROPENEMUM
 drugbank_id: DB00760
 evidence_level: L5
 permalink: /drugs/meropenemum/
+search_exclude: true
 ---
 
 # MEROPENEMUM

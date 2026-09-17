@@ -5,6 +5,7 @@ title: ETANERCEPTUM
 drugbank_id: DB00005
 evidence_level: L5
 permalink: /drugs/etanerceptum/
+search_exclude: true
 ---
 
 # ETANERCEPTUM

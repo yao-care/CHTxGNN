@@ -5,6 +5,7 @@ title: DARUNAVIRUM
 drugbank_id: DB01264
 evidence_level: L5
 permalink: /drugs/darunavirum/
+search_exclude: true
 ---
 
 # DARUNAVIRUM

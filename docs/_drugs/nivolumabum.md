@@ -5,6 +5,7 @@ title: NIVOLUMABUM
 drugbank_id: DB09035
 evidence_level: L5
 permalink: /drugs/nivolumabum/
+search_exclude: true
 ---
 
 # NIVOLUMABUM

@@ -5,6 +5,7 @@ title: METHENAMINUM
 drugbank_id: DB06799
 evidence_level: L5
 permalink: /drugs/methenaminum/
+search_exclude: true
 ---
 
 # METHENAMINUM

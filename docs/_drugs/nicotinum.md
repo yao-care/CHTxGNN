@@ -5,6 +5,7 @@ title: NICOTINUM
 drugbank_id: DB00184
 evidence_level: L5
 permalink: /drugs/nicotinum/
+search_exclude: true
 ---
 
 # NICOTINUM

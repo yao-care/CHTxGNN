@@ -5,6 +5,7 @@ title: ACIDUM ASCORBICUM
 drugbank_id: DB00126
 evidence_level: L5
 permalink: /drugs/acidum_ascorbicum/
+search_exclude: true
 ---
 
 # ACIDUM ASCORBICUM

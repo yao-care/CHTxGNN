@@ -5,6 +5,7 @@ title: ADAPALENUM
 drugbank_id: DB00210
 evidence_level: L5
 permalink: /drugs/adapalenum/
+search_exclude: true
 ---
 
 # ADAPALENUM

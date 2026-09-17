@@ -5,6 +5,7 @@ title: PROBENECIDUM
 drugbank_id: DB01032
 evidence_level: L5
 permalink: /drugs/probenecidum/
+search_exclude: true
 ---
 
 # PROBENECIDUM
