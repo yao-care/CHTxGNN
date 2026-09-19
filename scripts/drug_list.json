@@ -1,6 +1,6 @@
 {
-  "total": 730,
-  "generated_at": "2026-09-18T16:08:45.723677",
+  "total": 726,
+  "generated_at": "2026-09-19T04:00:08.724461",
   "drugs": [
     {
       "name": "ABACAVIRUM",
@@ -325,13 +325,6 @@
       "predicted_indication": ""
     },
     {
-      "name": "AMILORIDI HYDROCHLORIDUM ANHYDRICUM, HYDROCHLOROTHIAZIDUM",
-      "file": "amiloridi_hydrochloridum_anhydricum_hydrochlorothiazidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
       "name": "AMIODARONI HYDROCHLORIDUM",
       "file": "amiodaroni_hydrochloridum.md",
       "evidence_level": "L5",
@@ -383,13 +376,6 @@
     {
       "name": "ANIDULAFUNGINUM",
       "file": "anidulafunginum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ANTAZOLINI HYDROCHLORIDUM, TETRYZOLINI HYDROCHLORIDUM",
-      "file": "antazolini_hydrochloridum_tetryzolini_hydrochloridum.md",
       "evidence_level": "L5",
       "indication_count": 0,
       "predicted_indication": ""
@@ -1788,13 +1774,6 @@
       "predicted_indication": ""
     },
     {
-      "name": "EPHEDRINI HYDROCHLORIDUM, CODEINI PHOSPHAS HEMIHYDRICUS, THYMI HERBAE EXTRACTUM AQUOSUM SICCUM",
-      "file": "ephedrini_hydrochloridum_codeini_phosphas_hemihydricus_thymi_herbae_extractum_aquosum_siccum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
       "name": "EPINASTINI HYDROCHLORIDUM",
       "file": "epinastini_hydrochloridum.md",
       "evidence_level": "L5",
@@ -2973,13 +2952,6 @@
     {
       "name": "MEPOLIZUMABUM",
       "file": "mepolizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEPYRAMINI MALEAS, LIDOCAINI HYDROCHLORIDUM MONOHYDRICUM, DEXPANTHENOLUM",
-      "file": "mepyramini_maleas_lidocaini_hydrochloridum_monohydricum_dexpanthenolum.md",
       "evidence_level": "L5",
       "indication_count": 0,
       "predicted_indication": ""
