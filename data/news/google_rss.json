@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T20:46:46.780774+00:00",
+  "fetched_at": "2026-09-27T23:34:25.077295+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "22a9659e6285",
-      "title": "Arzneimittel: Ausgaben für Volkskrankheiten seit 2014 stark gestiegen - AerzteZeitung.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmZlbW9YZ09NWnVjTFN2VVVXdkVuMjk1Q29taUhmTzVWU3ZLb3YxNGQwS2prRTVWbzEwQ2ZqRmd1N0prWGhjTk1oOTB3Y2sxaDd6UXNvcmtqMkZhbDRaNE9ocUhaR3dKU3NwanhmeGVHQmJvdTVtSlRhMEprbW1KSGFneVA2YmhGdkxFelNJQXUxcFlDRHBnOEhHR2pnc2FNenZZeXpGdXRKaFBESkZLb1d3Q1J3T045TXc?oc=5",
-      "published": "2026-09-23T09:30:00+00:00",
-      "source": {
-        "name": "AerzteZeitung.de",
-        "url": "https://www.aerztezeitung.de"
-      }
-    },
-    {
       "id": "1421636aad10",
       "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeE9zejliNGZXSmxFd1NpSS02ODhwVW5rWDhUSFBIV252NHlabVVadkpjanY4WkFPT3hmTWN3dHBYLXRFdDBXTkRjTGh1dVFqN3NtWEVRVTU4WUg4aUVjejFndlR0T2RKSUtXenRjLVF4d0liVW9mSnhMTGVXZENwZHRPZTVrYU5vMkJVMWxSSkJweEhWNzNlT05pNFhSOGlWTGthQXlLdFdYZkFiUTJqLVg1NjhoYTAyaGJIMHhvT0dUeEtwSHZ0VU5pNS1aOVNjWk9TaF9MeUx0ckQwNVliU1NIXzltLVMzTWc?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "22a9659e6285",
+      "title": "Arzneimittel: Ausgaben für Volkskrankheiten seit 2014 stark gestiegen - AerzteZeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmZlbW9YZ09NWnVjTFN2VVVXdkVuMjk1Q29taUhmTzVWU3ZLb3YxNGQwS2prRTVWbzEwQ2ZqRmd1N0prWGhjTk1oOTB3Y2sxaDd6UXNvcmtqMkZhbDRaNE9ocUhaR3dKU3NwanhmeGVHQmJvdTVtSlRhMEprbW1KSGFneVA2YmhGdkxFelNJQXUxcFlDRHBnOEhHR2pnc2FNenZZeXpGdXRKaFBESkZLb1d3Q1J3T045TXc?oc=5",
+      "published": "2026-09-23T09:30:00+00:00",
+      "source": {
+        "name": "AerzteZeitung.de",
+        "url": "https://www.aerztezeitung.de"
       }
     },
     {
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "8bfa4020b515",
-      "title": "Schlaganfallprävention mit An Cung: Was sagen die Ärzte? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qYWVDTm1sVHoyRzlBX2J6MkEtTG5QdTgtT1lsQnZ1aWJiUmFDQU1RQk9leG9JS1FKTHRRVTJBUno3SGpEeHlpVWh6SFZmNDU5UVFYQkUwYVBKLXpHU0dfaGEzMGdQc2YtQUg3ZzVYUEZkZ1V5cjlQUk5rdw?oc=5",
-      "published": "2026-09-27T14:23:42+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "888d7d553972",
       "title": "Gesundheit: Tabletten aus dem 3D-Drucker - Wie funktioniert das? - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUU0aE82REdQd1J5MTdaX2xoUVRCYllLMVRaWFY4YXVQR1FMdWp0YVBSUW1BSlFxN1pnb29TeEQyNUdKZWtCdWFoZEgtNTZEREh6QklCd1lrZHFKVXRyR0tEV3BTWWExOW1lMEFqUlBXaDVwS0FKYmFhOHZfdWg3R0EwZzdnTlVQY2x3Mlp3?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "8bfa4020b515",
+      "title": "Schlaganfallprävention mit An Cung: Was sagen die Ärzte? - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qYWVDTm1sVHoyRzlBX2J6MkEtTG5QdTgtT1lsQnZ1aWJiUmFDQU1RQk9leG9JS1FKTHRRVTJBUno3SGpEeHlpVWh6SFZmNDU5UVFYQkUwYVBKLXpHU0dfaGEzMGdQc2YtQUg3ZzVYUEZkZ1V5cjlQUk5rdw?oc=5",
+      "published": "2026-09-27T14:23:42+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -134,6 +134,16 @@
       }
     },
     {
+      "id": "c631485721a4",
+      "title": "Nicht mehr Kranke – aber mehr Kosten: Krankenkasse enthüllt den wahren Preistreiber - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPam83bVBqRE45RTN3QVJKZGVqVEd0cDVZVjk0aEI5Sk5Pc2hGQVkyT0ZXOE85STEzQjlPMU55VGh5OEo1Y1A2UVZoSnV3WGM0OVc5Q05BNGIxWTlGOUx2RzA3XzF6alRrbVBGUm5GQUp0SjJQZ3diQU9Bb0hLeUhQSHpqVW5yWnlsYUdhZHYwNEpVc1o2YzNyQ1E3QTNEWE5EM0RqVU11UkNqRVZjdXNDMFQwTjNacl9qYzlzWHJ3bmRKd3ZuSHRZRXE5OHBEZFZWUlpHUnBRSUtqVXl5eUdGR3dwR0hRYTRZSDNWbEctZTc0ZVZldXc?oc=5",
+      "published": "2026-09-23T09:42:51+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
+    {
       "id": "4258d57ab229",
       "title": "Wechseljahre: Nahrungsergänzungsmittel fallen bei Öko-Test durch - aponet.de",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2RtWF9Sc3lUWXo2dEtKX3gzZjZsY1FCU19PS09aQlJhdjBIc1htcnIzR19DOURxZ3UxMUdFUDgyRkpGTEU3RkVPSkFFRHNHYXR3NG5FcVUzQWhUSkZPclJNSWI3Mkxqb1JnOFFxUWEzTF8xMkgyR2xWYWNiWExxR05uSkFqQjZBeVFsYUVPcnNkdXRETW9PUzF5dVNJaUR0Nzdr?oc=5",
@@ -141,16 +151,6 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
-      }
-    },
-    {
-      "id": "542a9e986ac7",
-      "title": "Apotheker rücken näher an die Patienten heran und tragen so zu einer sicheren Medikamentenanwendung bei. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXIweE0xSTFvQXk5QXB4YlNNaG1yQ0dWTG01aHlIRWdTcHg4d0k1UFFycGpxTUxsUlUtTjhZSUkzYWV3SVhNZ2NaU19qbjBKZVVTaWMxd1N3SXZRRy1hdVJWaHlTUFZ1bHZfMzNhR0pwWHlTZU1HNjEtVW5Jd0pOSVNRa0hIZXJNa0hsNE9PcVFET21MTmlCalRFblp5Zw?oc=5",
-      "published": "2026-09-25T15:09:47+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -164,22 +164,12 @@
       }
     },
     {
-      "id": "c631485721a4",
-      "title": "Nicht mehr Kranke – aber mehr Kosten: Krankenkasse enthüllt den wahren Preistreiber - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPam83bVBqRE45RTN3QVJKZGVqVEd0cDVZVjk0aEI5Sk5Pc2hGQVkyT0ZXOE85STEzQjlPMU55VGh5OEo1Y1A2UVZoSnV3WGM0OVc5Q05BNGIxWTlGOUx2RzA3XzF6alRrbVBGUm5GQUp0SjJQZ3diQU9Bb0hLeUhQSHpqVW5yWnlsYUdhZHYwNEpVc1o2YzNyQ1E3QTNEWE5EM0RqVU11UkNqRVZjdXNDMFQwTjNacl9qYzlzWHJ3bmRKd3ZuSHRZRXE5OHBEZFZWUlpHUnBRSUtqVXl5eUdGR3dwR0hRYTRZSDNWbEctZTc0ZVZldXc?oc=5",
-      "published": "2026-09-23T09:42:51+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
-      }
-    },
-    {
-      "id": "a111087c9165",
-      "title": "Wech­sel­jah­re: Sind frei ver­käuf­li­che Mit­tel sinn­voll? - Die Rheinpfalz",
+      "id": "77ad406daa51",
+      "title": "Wech­sel­jah­re: Sind frei ver­käuf­li­che Mit­tel sinn­voll? - rheinpfalz.de",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUzJtTHVfUDl0Qm9vRVhiRElLRG9vSDVUN0ZNOEJXb3BuMGRRSUVjUkYyVUNtRG0tWnlqV3BPVzR3akNkalFidVdGT013SzRheklnQVNZY2l6VUZib2lhX21Xai05VDBSajl4c0dVc0NjNF9yUnRCeV9rakNNVVBGTk05MHdFTE82Qm9pVGc4SU9DZ3RBNHNVVzh5Z2NZV3luZ3FzUG9ZU3A5bVk1cUdpQnlSMzlPMEEyMTJncFRBNDNNNFY3Vkp4YUJB?oc=5",
       "published": "2026-09-24T05:02:00+00:00",
       "source": {
-        "name": "Die Rheinpfalz",
+        "name": "rheinpfalz.de",
         "url": "https://www.rheinpfalz.de"
       }
     },
@@ -244,16 +234,6 @@
       }
     },
     {
-      "id": "3905d7cc0293",
-      "title": "Statine trotz Nebenwirkungen nehmen? Ärztin gibt eindeutige Einschätzung - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDhfWFBTUC1aMWowQWlKR2xkcFFKSXZndGdOblplWnFnTDdWQ0JfUkFVVmRTcFhpSmp6bUEzcGd2V2xhcnJqSndSNWZfZjNsXy1pMkc0VnY4azZ2TGVCUF9UdEN0MDl3a3lGU3E1Vm53UTFSdmJjSG8xc1V3SFB0SGR3ckQtTkQ5Xy1qM3lqQVpoXzN4M0dtNEw0MkZYRktwRkU2cQ?oc=5",
-      "published": "2026-09-25T13:24:00+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
       "id": "61312f4f8713",
       "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
@@ -261,6 +241,16 @@
       "source": {
         "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
+      "id": "3905d7cc0293",
+      "title": "Statine trotz Nebenwirkungen nehmen? Ärztin gibt eindeutige Einschätzung - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDhfWFBTUC1aMWowQWlKR2xkcFFKSXZndGdOblplWnFnTDdWQ0JfUkFVVmRTcFhpSmp6bUEzcGd2V2xhcnJqSndSNWZfZjNsXy1pMkc0VnY4azZ2TGVCUF9UdEN0MDl3a3lGU3E1Vm53UTFSdmJjSG8xc1V3SFB0SGR3ckQtTkQ5Xy1qM3lqQVpoXzN4M0dtNEw0MkZYRktwRkU2cQ?oc=5",
+      "published": "2026-09-25T13:24:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -284,16 +274,6 @@
       }
     },
     {
-      "id": "d79d9d01f923",
-      "title": "Krebstherapie: „Die Zellen lernen im Labor, wen sie als Feind erkennen müssen“ - Kleine Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3lCRUZWYXVGZ0lWYWJuSVh6WFdRc0hBRzJzMUVGdWQteVZ2QjR2aGpYNWZHdWRJWmVvbXM5WHZmajRLZ1pURTYwdWJ6TEo0SUJRQ29zN2hqdjdlUXBta3ZHLXdSb0ZsV01fVFJad0RQN2ZIZjNnckNzTE0zbldkVXNZTmxjYW9yN21JZVB0UTY2MHM4c2VMcGY1MUZDUzdpWFZvaUVmUmFMYlJha2FjaG91QQ?oc=5",
-      "published": "2026-09-24T21:12:00+00:00",
-      "source": {
-        "name": "Kleine Zeitung",
-        "url": "https://www.kleinezeitung.at"
-      }
-    },
-    {
       "id": "e55e30521cda",
       "title": "Vorschläge der FinanzKommission Gesundheit für eine Reform der GKV - Taylor Wessing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJuN0Fwenp0QU9hM01mSTRlR1ZxUzBfaExuWkRPSVIxQTBmb21HMGJ3Umd1b2Q5NjlpTkZWdnlsWU5RdG4tYmV2YWlldnhEREpzVmdLaURVbVpCR2pFRDY5Z1d6VW53bGtvaGgwTkRMeFMzeWI5WDJNd2ZXdTl4WkJTRURfbEstNXlJaXdzNGlwQTF5dHJ2Mjg1bFlJTW1SajFpM3VpMEtDdXZuNWplY3NnTQ?oc=5",
@@ -304,12 +284,22 @@
       }
     },
     {
-      "id": "075a40db361f",
-      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - ADAC",
+      "id": "d79d9d01f923",
+      "title": "Krebstherapie: „Die Zellen lernen im Labor, wen sie als Feind erkennen müssen“ - Kleine Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3lCRUZWYXVGZ0lWYWJuSVh6WFdRc0hBRzJzMUVGdWQteVZ2QjR2aGpYNWZHdWRJWmVvbXM5WHZmajRLZ1pURTYwdWJ6TEo0SUJRQ29zN2hqdjdlUXBta3ZHLXdSb0ZsV01fVFJad0RQN2ZIZjNnckNzTE0zbldkVXNZTmxjYW9yN21JZVB0UTY2MHM4c2VMcGY1MUZDUzdpWFZvaUVmUmFMYlJha2FjaG91QQ?oc=5",
+      "published": "2026-09-24T21:12:00+00:00",
+      "source": {
+        "name": "Kleine Zeitung",
+        "url": "https://www.kleinezeitung.at"
+      }
+    },
+    {
+      "id": "ddc10607dcd9",
+      "title": "Medikamente auf Reisen: Das darf ins Handgepäck - adac.de",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmdDVl81RGdjdDZRNXNXSlRFTVhOSVpSQUlwUTlUelB6bnNFcVFRV09lQ2czNTdja0RsNHJVck00Y2hFVHZUM3kyaTRWOVZXWHQ0M182TVJrcGNGcUxtS1pFaU8wczRRRFRycTVmZnFmWE1lQ2g1eVVNekNQd3pSWWFHMnc1anVBY3plbTNB?oc=5",
       "published": "2026-05-01T07:00:00+00:00",
       "source": {
-        "name": "ADAC",
+        "name": "adac.de",
         "url": "https://www.adac.de"
       }
     },
@@ -334,6 +324,16 @@
       }
     },
     {
+      "id": "543333542e6e",
+      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFliSVZSNlg1cVdjU1p0WVFhUkM4b0FGR1ZaNTJINFFpRUNRV2pkTWVVQXBrUUt0QTNqQmpXTFNhRDB4eEE5dXpaaXR6MmMzZm52RjhlVW1rc200dGMyWjBnVnFkcUVfV042VmFmdHRyNXItOUItWDlWZHJFR3hGd0NQZC1HdE1NOC1IT0d4eEhqY3F4czVGRVRscElSb01pakMzLWZfQXdrOHVLZkE?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://de.euronews.com"
+      }
+    },
+    {
       "id": "9f7c377ed6d2",
       "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
@@ -341,16 +341,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "2697bed6b5ef",
-      "title": "EU-Gesundheitskommissar prüft Folgen von Trumps Arzneipreispolitik - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFliSVZSNlg1cVdjU1p0WVFhUkM4b0FGR1ZaNTJINFFpRUNRV2pkTWVVQXBrUUt0QTNqQmpXTFNhRDB4eEE5dXpaaXR6MmMzZm52RjhlVW1rc200dGMyWjBnVnFkcUVfV042VmFmdHRyNXItOUItWDlWZHJFR3hGd0NQZC1HdE1NOC1IT0d4eEhqY3F4czVGRVRscElSb01pakMzLWZfQXdrOHVLZkE?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "source": {
-        "name": "Euronews",
-        "url": "https://de.euronews.com"
       }
     },
     {
@@ -364,12 +354,12 @@
       }
     },
     {
-      "id": "8db31424e5bb",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - dw.com",
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
       "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "dw.com",
+        "name": "DW.com",
         "url": "https://www.dw.com"
       }
     },
@@ -394,12 +384,12 @@
       }
     },
     {
-      "id": "c1f5975f61ef",
-      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
+      "id": "02952c88ccfa",
+      "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - adac.de",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
       "published": "2026-07-03T07:00:00+00:00",
       "source": {
-        "name": "ADAC",
+        "name": "adac.de",
         "url": "https://www.adac.de"
       }
     },
@@ -434,6 +424,16 @@
       }
     },
     {
+      "id": "bb553491699c",
+      "title": "Abschaffung der Mehrwertsteuer auf Arzneimittel - openPetition",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2ZyOGpub3o3YjR6WktVOXowVW5aMmNRcUZnRHQteUNLdVdiWFpMSHpndXJ0ajFhSmNTQXk1LVptMF9BUHlMeGRSb2dJalBRVjkxbGE4eWhObTFsT1gzVUtGblkxNDhVMlR2b2JYb1NWSGJqd2k1bGwxODhLVFh3aVdwY3pNNV81VDk0ZkxEbmVlSXdZY2c?oc=5",
+      "published": "2026-04-27T15:29:32+00:00",
+      "source": {
+        "name": "openPetition",
+        "url": "https://www.openpetition.de"
+      }
+    },
+    {
       "id": "3d8091ad28e1",
       "title": "Nachhaltigkeit: Arzneimittel als wichtiger Hebel - pharmazeutische-zeitung.de",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzd6V2JNTmp0Ry1iT3dJSURwNzBORGtyeldrUFdEVEhvNFNUZUh6VmtXZnYycFZCdDlzdEJWbzNlbnZha05majRVU3VqX1U2QkVlVFZTSE5FRkc5TDZoR1BRNmd6TzYwSjdOY3kyRS1HN3p1RTI4OWdrS09HVkgyc3lIZ0s1dw?oc=5",
@@ -441,6 +441,16 @@
       "source": {
         "name": "pharmazeutische-zeitung.de",
         "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "5431265615fd",
+      "title": "Patente und Profitorientierung blockieren Arzneimittel: Warum Millionen keinen Zugang haben - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0JSbmVWcVk1ajdydzIzRF9PM2hHQWFaYWNuSjhZbmZBbXplUGFBNklQVFptakVZdGN5UVA4VW9fS3VoRmluVzd5OHV1MXJMM3NudGpTdHR5MEI4dExjSmIzM0VoVUtCeHU2VnFfWGNTSVZYWFBsOEhValduakNSd1Z1TTZEM20zTFF0R3RLYy1NWHYza196cEkwM1ljMEtKdDdCdU1TN0J2LVU0Sk9UckdzRXpJNHVMdzZvaG9Ya2FxNEk?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "source": {
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
       }
     },
     {
@@ -484,12 +494,12 @@
       }
     },
     {
-      "id": "b6760f575042",
-      "title": "Medikamentenversand bei Hitze: Risiken für Arzneimittel - apotheken-umschau.de",
+      "id": "50e574837ee5",
+      "title": "Medikamentenversand bei Hitze: Risiken für Arzneimittel - Apotheken Umschau",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPREY3YjJLY0JhYUEzX3FnRFlGRDJ1Vm9JamNNVTNoR3NOX0tOMTIzWUMweTJ2ekYzbktzUTZha0djdWpuN09lNHVZUWw4bVJxYXhWeWtxWUVxM0tXS2xGcGtMd29yWmdTSlFpUkxpdmRvMV9ZaEJhT3czaTY3a2VhOUVJU2p0VWZWMU9PNHZDQWt2b0FpdFhOQlNESFdTV0l0M3R4SDFVMTBOTmZMVVo5ZV9KSmZremN6cTNzOXR0a3RjT2Y0MGZjQkNMUVdFY0xZejBFanY4aDRNOEdpZzdTMVowbkZHUVNtU1htclVWeE50OUwzaWlXSG44akg3S05Odlh2MUxlYXAxbkZVbDB4eWRhZF9YZw?oc=5",
       "published": "2026-07-31T07:00:00+00:00",
       "source": {
-        "name": "apotheken-umschau.de",
+        "name": "Apotheken Umschau",
         "url": "https://www.apotheken-umschau.de"
       }
     },
@@ -534,16 +544,6 @@
       }
     },
     {
-      "id": "3db23b3d0377",
-      "title": "BARMER-Report: Ausgaben für Herzinsuffizienz-Medikamente steigen um 121 Prozent - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZU5oQWVHT0tjdW91Nl9ZZUhzS25tMDF2SGxPUWh3OWg1Q0Z0cmljQjVlWWY5bE9helBpc2E3QzJhWFRfcks5VFQ3M1J4TkFfRXN1Z19MZGdGNlZxRC1WZUY3Z2ptZ1RWNGtkaHJxS0NkN21vTlMwZGdmcGE0V3ZHc21JUEFUSml3bnVhZXVIUERHamlrQTFzUG5FNmlxeTg0dGRrZTlKWDB1UUhqZlVzRUlIdlZhZi1najVEZw?oc=5",
-      "published": "2026-09-23T18:01:34+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
       "id": "ccb310d629ed",
       "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
@@ -551,6 +551,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "3db23b3d0377",
+      "title": "BARMER-Report: Ausgaben für Herzinsuffizienz-Medikamente steigen um 121 Prozent - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZU5oQWVHT0tjdW91Nl9ZZUhzS25tMDF2SGxPUWh3OWg1Q0Z0cmljQjVlWWY5bE9helBpc2E3QzJhWFRfcks5VFQ3M1J4TkFfRXN1Z19MZGdGNlZxRC1WZUY3Z2ptZ1RWNGtkaHJxS0NkN21vTlMwZGdmcGE0V3ZHc21JUEFUSml3bnVhZXVIUERHamlrQTFzUG5FNmlxeTg0dGRrZTlKWDB1UUhqZlVzRUlIdlZhZi1najVEZw?oc=5",
+      "published": "2026-09-23T18:01:34+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -684,6 +694,16 @@
       }
     },
     {
+      "id": "f626825233d2",
+      "title": "Medikamenten-Lieferengpässe: Wo die Ursachen liegen und was Patienten tun können - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0xRSk5YQXRHbVdsaTVXdzc0UlFJS0lLNkMtOHhMUm5qX3kwQ0E2U3VORXY4NXllT2puSkYyWUFRaTF3Z2RLWDd0WXNsaGpMODg2c1h2cXYtdWtOdFdfRjc2R1hUV3NHTUNlZ0RNX3k0cjVlVnUwRUJ3VXhmbUVjQll3UVhtT3B5ZGhjc2QzckpYdTJzM25iMFYyeThnWmJaLXNMRUJzMzU0cXA3ZWtScmYwRjNjQjBM?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
       "id": "4f1eeceab428",
       "title": "(S+) Wie teure Krebsmedikamente das Gesundheitssystem sprengen könnten - Spiegel",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFWLTYwSFp0U194b0duNHVfbTVjbzFKVUV0WG1MS1FkQ2hYdmg2OGp1dnlEQTk4SjVNUEpkWWpRaTVFZFFmcjFiNC02WXNvSEhIbmdUNDk4emxWQ2VnWWtHMUotcWhXUnVsMExGRWNvdllPcUd3dVRZTWR2ZUEteWZTeFEyS1M5ZzZqZUxDSUI2RTRqMnU4MVF4SEthWm1vZEd1YjZWYjZoLUIwRTlaZTVtRXZoZERXWC1DUGhLelpNZ0M2RXFQeDU4XzBfQ3ZWUFJUdDBVcDh2aExzVmc?oc=5",
@@ -721,16 +741,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "7a4b0d24029c",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - who.int",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "who.int",
-        "url": "https://www.who.int"
       }
     },
     {
@@ -844,13 +854,13 @@
       }
     },
     {
-      "id": "b72b17004edd",
-      "title": "\"Europa als führende Kraft des Gesundheitswesens etablieren\" - DIE ZEIT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUFSVWl5WkNqWlhQaFBsaW01cEtydmdyejBaWTZhTE1wbHNXVWJpd2FiVENidldkRGRBTm5sT1NrNm5FME4xWVlTN0Y0N3AyLVY2RDVscWRHN0tLY3Q2d2EtY2YtdHBpOXVSRkhfNHB1MUd3TWVlYTh0RUpsWEpLWkdhUDdPc2Z6UlBEWXl0S01nV0lDYXJGZTF5YUQxNHZsaXJhNQ?oc=5",
-      "published": "2026-03-18T07:00:00+00:00",
+      "id": "eab11b73d0ff",
+      "title": "Medikamente: Tiefere Preise gefordert, höhere bewilligt - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGFzZ3piOXVBbUMySTNLSG9nUDNQcVlHQXRMUy04aklzMkdCam1kM3RyWlNZTWxuc1pac2RhcndLYklLNk1jZkpobUp6QzhKVHRlcWFuSUdlSExLUUpEd0xKSjBESXpnd0tZZExYTnBlV044cUdlM0JkRzJid3d1YTNkU05xN0JCTlRiY1lJV1pJTkcyUm9v?oc=5",
+      "published": "2026-02-02T08:00:00+00:00",
       "source": {
-        "name": "DIE ZEIT",
-        "url": "https://www.zeit.de"
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -894,12 +904,12 @@
       }
     },
     {
-      "id": "2c5f863ba4a3",
-      "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - who.int",
+      "id": "bfaa55a07020",
+      "title": "Lettland will im Einklang mit WHO-Empfehlungen den Zugang der Bevölkerung zu Arzneimitteln verbessern - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0k1d1FLSG9YQWVIaVZLYzc3NlUzdURKM2FHc2tZR25lQlVMWFZxcndHM3hNbmRSMTRNZ1JWc2Y2WFpURWs2cDE1Mk5fdXpVb0pLbFFZc0RGSzNXajY2NC1sVlVlcXVkZ2RUeW9keW02UlYxMGFlU3FTVVo5a3RhV09KLTF3Qy01bnpxTGd1MHhOYW5fTURPLTVNa1cwZmM5by1zNmczdUZBVUZ0Ymtrd1hBVi04VS02V08zRkJucTVMSXZUR2Jtd3hZMVF1WkpXdnc?oc=5",
       "published": "2024-01-31T08:00:00+00:00",
       "source": {
-        "name": "who.int",
+        "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
       }
     },
@@ -984,23 +994,13 @@
       }
     },
     {
-      "id": "ccc37dea8549",
-      "title": "Arzneimittel: Nutzen für Gesundheit, Lebensqualität und Wirtschaft - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUlobHJUaWg5MGJ5NW1VNVRFZ1pWdHZCbzRHX0s1eTNEUXc3V05tckRCaG96ZEFGZ3dCMVVmdUN4MXdKRmZwQVFtR29rQmxCQkRybko4ZUczdWJURnI3TF9VLVhBZEdrUk51aXp4aE14YkJ6M3JpdlBteWFoSllaR3ZBemJ4NW9TSEtCNms2SkM0b2lyYkhFdkZtUFpTTUs0OWlsb05HZnlKWThCUGUwbWRB?oc=5",
-      "published": "2025-09-26T07:00:00+00:00",
+      "id": "7e55f9550bd8",
+      "title": "Die richtigen Medikamente: Wie man den Überblick behält - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2pwSnJnTjZhVXNScmVVTFZ4cmQyZ29Eak5td2R0WlV3dWZCQWh2dFRpMTVBVXdDbkl0RXVjTnQ4ZUstbVN4cmJmazRVdzZuQjQ0a1hsV0x4VGZZa1JFbzIwaTdkYnlDd0ZEdWlzM2ltRVhyT3NBV19HTWxxMU5IWVNfWmpRS2ZCbU1JUGJEQ3M1UG9MZkxaV2R5MA?oc=5",
+      "published": "2026-01-10T08:00:00+00:00",
       "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "46397d4d7a84",
-      "title": "»Spar­po­li­tik bei Arz­nei­mit­teln ist ein Irr­weg« - pharmazeutische-zeitung.de",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3BYbThQLUVqMndzcmZ2RzJRTW5vb1o4dGhibU52alc0SUtlbFkxMkhCS1puYnNnelNOcnVtSl9iejVRNU1sNGxvZ0lZZVZkaWNnRGhWVWsxT1JobThfRzFVdnh6Q25Idzl3aGZZaThYdHBRYTUzNHRpX2VNZ0dGWHBjd3VEbDdERlhjOHhubnhHLXB2OWc?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "pharmazeutische-zeitung.de",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
       }
     }
   ]
