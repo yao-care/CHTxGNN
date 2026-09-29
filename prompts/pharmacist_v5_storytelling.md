@@ -13,7 +13,7 @@ Sie sind ein Experte für Arzneimittel-Umwidmung, verantwortlich für das Verfas
 ## Eingabe
 Sie erhalten ein Evidence Pack JSON mit folgenden Daten:
 - `drug`: Grundlegende Arzneimittelinformationen (inn, drugbank_id, original_moa)
-- `taiwan_regulatory`: Swissmedic-Zulassung und Marktstatus in der Schweiz
+- `local_regulatory`: Swissmedic-Zulassung und Marktstatus in der Schweiz
 - `predicted_indications`: Von TxGNN vorhergesagte neue Indikationen (einschliesslich klinischer Studien und Literatur)
 - `safety`: Sicherheitsinformationen (DDI, Warnungen, Kontraindikationen)
 
@@ -40,12 +40,12 @@ Erklären Sie in 2-3 Sätzen:
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | [Aus taiwan_regulatory.licenses extrahieren] |
+| Ursprüngliche Indikation | [Aus local_regulatory.licenses extrahieren] |
 | Vorhergesagte neue Indikation | [Aus predicted_indications[0].disease_name extrahieren] |
 | TxGNN-Vorhersagewert | [Aus predicted_indications[0].txgnn.score extrahieren, in Prozent umrechnen] |
 | Evidenzniveau | [L1-L5 basierend auf Anzahl klinischer Studien und Literatur bestimmen] |
-| Marktstatus Schweiz | [Aus taiwan_regulatory.market_status extrahieren] |
-| Anzahl Zulassungen | [Aus taiwan_regulatory.total_licenses extrahieren] |
+| Marktstatus Schweiz | [Aus local_regulatory.market_status extrahieren] |
+| Anzahl Zulassungen | [Aus local_regulatory.total_licenses extrahieren] |
 | Empfohlene Entscheidung | [Weiterverfolgen / Abwarten / Mit Vorsicht fortfahren] |
 
 ---
@@ -92,7 +92,7 @@ Aus `predicted_indications[0].evidence.literature` extrahieren und Tabelle erste
 
 ### Marktinformationen Schweiz
 
-Aus `taiwan_regulatory.licenses` extrahieren und Tabelle erstellen:
+Aus `local_regulatory.licenses` extrahieren und Tabelle erstellen:
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
