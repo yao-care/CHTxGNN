@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T22:13:56.085410+00:00",
+  "fetched_at": "2026-10-07T02:01:06.890570+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,6 +24,16 @@
       }
     },
     {
+      "id": "d05525898669",
+      "title": "Umfrage zeigt häufige Probleme: Angehörige pflegen: Diese Tipps können helfen - Handelsblatt",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdHhZbW5zRUVZRXRyVklobEhQbWpvYUFMd2tQNFZrbmF1VkU2Rm4xWDFNbVY1LWpSck44QXBSSlV4UHpjd1l2ZlE4dDhhdGZveGtSbW04OHU4QmNBZFRNWTdLemdhcHl5QjIxX2VyM0NEbDNfVURLTTd2b0w5VnJZT0xYUnluNXM4bVhOZUhSUzBUM2FkNmZSRi1hdEJkZ3lJaldMRDdYZFo2SzZzOTY2UHlQQXVOajFKMGVpSXE1WEUya09YVmpEV2oybWlEUVpnYS1saA?oc=5",
+      "published": "2026-10-06T06:30:05+00:00",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
       "id": "e27e2d93713f",
       "title": "Sind Supplements sicher? Wer braucht sie? Verbraucherzentrale klärt 3 Mythen auf - oekotest.de",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1ZIazFuZUdtak54Ri1hOUpIaDk3azlNbjhLRGxyaFpjUEpUMmpaYzhwTm43WGdIUUhFZW9YUzg4NWpyVWRlcWl0azBNeTFWYlNBT2NZandkdlJJQnB3cXQwZEhna2doMGlIQXZfQWtGdFJXWkc0R0NueGVCVkpZLWpzdXVnaHpyVWtDbHFtdnU4cGhLajQwZFoxa082cVFPbmJ1eDNSVmU2aFZkaEVJM3g1Y0VaSHNoZ0FtRzM5VUtqSWN4SzRXN1dLLV9UVU5Qa1RhZnh3RQ?oc=5",
@@ -44,16 +54,6 @@
       }
     },
     {
-      "id": "9a2a87d388e7",
-      "title": "Gabun - UNO warnt vor Handel mit gefälschten Medikamenten in Zentralafrika - UNTERNEHMEN-HEUTE.de",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QRk5tb0MzcUEtUVQzOGJLWWk0ZlpJOWg4MXlCV2lXb2xrU210STY2SmlwTDN6VnhyV2F6NFVNbEF5NkdmRkowQVZ4WUE1dERnNEVIOWVzb0tZWTB3N29iVU1B?oc=5",
-      "published": "2026-10-06T14:19:00+00:00",
-      "source": {
-        "name": "UNTERNEHMEN-HEUTE.de",
-        "url": "https://unternehmen-heute.de"
-      }
-    },
-    {
       "id": "0f90a25196db",
       "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
@@ -64,33 +64,23 @@
       }
     },
     {
-      "id": "19cc7c40e222",
-      "title": "Apotheken: Bisher wenig Nachfrage nach Abnehmtablette - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSlhReEM4bUlwQlU3bnBWUEhLbUM5Ql9YUEJkdUlUc29yZXNMT3dPbmJyYzUydFBoVnNyZUVhZF9kN3UyWHQxYi16YXBPajVuMjZJZHN6OXdDbUtUbmhBM0ZxMklJYTJfbDZadjFYaXhTekEtWFpHWFRPS05sZXlUVUFkV2IyRzVPMThqZjR0eHExNmcxX2k1N2FQOG44dHFnUnVLRDh2RWt4NHNqdFJubVd2YmcySWNaTDFsODBZV0YzTWdfUFlOOWdveGM0dWRzamVXblVDdFB6R2tkUTRfTldqR3FZT04wTzFGX2JCTHBJaFIydGdyVmtB?oc=5",
-      "published": "2026-10-06T01:00:06+00:00",
+      "id": "9a2a87d388e7",
+      "title": "Gabun - UNO warnt vor Handel mit gefälschten Medikamenten in Zentralafrika - UNTERNEHMEN-HEUTE.de",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QRk5tb0MzcUEtUVQzOGJLWWk0ZlpJOWg4MXlCV2lXb2xrU210STY2SmlwTDN6VnhyV2F6NFVNbEF5NkdmRkowQVZ4WUE1dERnNEVIOWVzb0tZWTB3N29iVU1B?oc=5",
+      "published": "2026-10-06T14:19:00+00:00",
       "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
+        "name": "UNTERNEHMEN-HEUTE.de",
+        "url": "https://unternehmen-heute.de"
       }
     },
     {
-      "id": "62ce782dcab2",
-      "title": "Eine Reihe von Pharmaunternehmen wurde mit Geldstrafen belegt, und der Arzneimittelmarkt wurde strenger reguliert. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1ZMNS13T2hvcmJIYkIyS1kzanVPbXQwSXpBLVJzT09hZmpLZjVkUExESmp3aXpwWDd1OXN4d2VGTGlzUy1FQklueHVuYy12cERVWE9MTzNKVzBLM0NNVzlzZ1lfZzlFNlgtb25zY1czNDFCZjhmMDNBUFZocVc1blBEWmdsUVVDbFVhbzBlRV9NbVU?oc=5",
-      "published": "2026-10-06T01:51:29+00:00",
+      "id": "4d64f76463d8",
+      "title": "Ministerium für Gesundheit: Überprüfung der Bezugsquellen für Krebsmedikamente und radioaktive Arzneimittel. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjRleFNxV1puakVUT2hsU0ctLS16ZkxreGRWanJyei13YVR1WUt3Q2RiUUxsZDdySVhSY2paZHhRVFFKZ3NkRDl5bk9zNGVNZE9aRHlnMlJlVVRMakw2NGNRbjVIc0NRUEdxbXV5THhkWlNyN19UVlZiVXRWNmN0endUVGNHeE1yUEVPMHdwelJSRmJHNmxFcTgtWVprZw?oc=5",
+      "published": "2026-10-01T13:53:00+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "59b9f326ec26",
-      "title": "Kinder-Gesundheit: Adipositas in jungen Jahren: Sind Abnehmspritzen die Lösung? - Handelsblatt",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdEIwQ29CZGMweVhJUEdhLW5TMFBXVU53b25ENzFKdklmQ0tsVkxlbDBKOG5PbTg1Z09BbU51T21TZnZLZjAybHpFZlpOUHRjcF92UG9uT1ZRSWlmMDltV0Zrb1pEX1BndElPNktvdnRhYjczNHVPRHg1c0tlakhmck1UNEphNkZ0TUM5S2I5bmctYVk4Mk1sRS0wY0xnaHBkMFFGQlJQdUdwUTV6cHQxV19uX21ucXV0enM0WEFfdjZyd3NsOFZoWWhmRU5BSk00dXdfR1FXdDBtdU9la0EtVnRvejk?oc=5",
-      "published": "2026-10-03T03:00:17+00:00",
-      "source": {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com"
       }
     },
     {
@@ -104,13 +94,23 @@
       }
     },
     {
-      "id": "951285029990",
-      "title": "Angehörige pflegen: Diese Tipps können helfen - Lippische Landes-Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnJ3aEhQM0ZWWC13YVFTT3F6LVVUOGluMXR6dW16YUxWLWFUb2FSdzdWMi1MUTZpbzVhYzcxSkNQRGJMMWZwbGhES0l1eWFGUEMxdWhLRTNYSDNvdjJKZmREMTlXaFJIeXRVNlRNUkloMWRjMUV6UDgtaUhlY3hqVFRoM3FhVUYzMmVJWlA3QnRWc1lMcDRxbFF6TkpkSlE?oc=5",
-      "published": "2026-10-06T06:30:05+00:00",
+      "id": "19cc7c40e222",
+      "title": "Apotheken: Bisher wenig Nachfrage nach Abnehmtablette - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSlhReEM4bUlwQlU3bnBWUEhLbUM5Ql9YUEJkdUlUc29yZXNMT3dPbmJyYzUydFBoVnNyZUVhZF9kN3UyWHQxYi16YXBPajVuMjZJZHN6OXdDbUtUbmhBM0ZxMklJYTJfbDZadjFYaXhTekEtWFpHWFRPS05sZXlUVUFkV2IyRzVPMThqZjR0eHExNmcxX2k1N2FQOG44dHFnUnVLRDh2RWt4NHNqdFJubVd2YmcySWNaTDFsODBZV0YzTWdfUFlOOWdveGM0dWRzamVXblVDdFB6R2tkUTRfTldqR3FZT04wTzFGX2JCTHBJaFIydGdyVmtB?oc=5",
+      "published": "2026-10-06T01:00:06+00:00",
       "source": {
-        "name": "Lippische Landes-Zeitung",
-        "url": "https://www.lz.de"
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "6cd80f5bf56e",
+      "title": "Wegovy-Tablette: Apotheken melden bisher wenig Nachfrage nach Abnehmtablette - DIE ZEIT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTc3b2tWMGhneUliWXdlQkRTcktpSFkyRWpINXBDVndnRUgzSkVKNG81cW9YS1RpMWg3dVdmQlNuWHN4bmhEWlp0WDRkMmlUWUZhS1ozSVI3X3BGTHpHcjh3SVVfXzVyV0l5LXFacFRPYUpvU1NCbGhLM21SWXhjQjF0VlpwODFDY2FGaTI5OUZhZw?oc=5",
+      "published": "2026-10-06T02:26:23+00:00",
+      "source": {
+        "name": "DIE ZEIT",
+        "url": "https://www.zeit.de"
       }
     },
     {
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "7cee44587079",
-      "title": "Klinische Studien mit Kindern: Warum sie unverzichtbar sind - Novartis",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW9LSXhsRWJpVWVmOS1qaUVMby00UWZ5dzVmMXdickpVUEctWmlEVkRpRWNTVjlSX012RjJQclRyUWNBWEFxcGJvU1M4VGNzbzV5R2U2cUlvQThpcWRoVTVFVERaR1pRTkp0Y0FMQXBHbVN1OHNjNktjNHJOaERuQlVhMkxyVUFZbWNoYU1IVERtcUE5WklZc2tVSlZtOUF0cEpn?oc=5",
-      "published": "2026-04-07T07:00:00+00:00",
-      "source": {
-        "name": "Novartis",
-        "url": "https://www.novartis.com"
-      }
-    },
-    {
       "id": "0d9f008c6d4d",
       "title": "US-Preispolitik bremst Zugang zu neuen Medikamenten in der Schweiz - St. Galler Tagblatt",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHQtWFBveEpaT2FDMWZfZjJ2Q1NmdmFpVFBkc1RoZG9FaXk0Mmt0eWN5RHl6X0hQZUNJRWtsX2lsZDV4MDNMTHVTT2xDbHZPbU1iMnNRZkdqRGZwRzR6VmpXMmVnUzJ3MlVRY3B0UHFHQ0hQSTg5REFnZ0doU25WQTVvNjh4bXZwcXJMN2J1SEpUUmFBZWhTaXdxOVlNbVM4SVFv?oc=5",
@@ -154,13 +144,33 @@
       }
     },
     {
-      "id": "4d64f76463d8",
-      "title": "Ministerium für Gesundheit: Überprüfung der Bezugsquellen für Krebsmedikamente und radioaktive Arzneimittel. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjRleFNxV1puakVUT2hsU0ctLS16ZkxreGRWanJyei13YVR1WUt3Q2RiUUxsZDdySVhSY2paZHhRVFFKZ3NkRDl5bk9zNGVNZE9aRHlnMlJlVVRMakw2NGNRbjVIc0NRUEdxbXV5THhkWlNyN19UVlZiVXRWNmN0endUVGNHeE1yUEVPMHdwelJSRmJHNmxFcTgtWVprZw?oc=5",
-      "published": "2026-10-01T13:53:00+00:00",
+      "id": "d0b92eaef3bc",
+      "title": "Antibiotika-Resistenzen: Digitales Tool greift Ärzten unter die Arme - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0stejUtYkNQQkxLWjI3MS1aYlNlbFBBZElUS2g0NUJOMEhGODJ5Vlk0NlpqZ1draFE4TUVmTVZfLWJRWC1ERVZJcHZnZElneHRmeFd3blU1T21qVjNLRm1wY29PNjNzZXJWM2VIXzl2dkZTTjYxWUZpdFZjZ0t4bHJNN1RCZng0dnNHMS1JdzkxWFlDdGIzQTE1Z1dPTy1RUUdVWVo2dU83QzQ5R3ItLXZNa0I0SnV0Z2c?oc=5",
+      "published": "2026-10-06T11:32:50+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Ärzte Zeitung",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "38b8b0aa9188",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "59b9f326ec26",
+      "title": "Kinder-Gesundheit: Adipositas in jungen Jahren: Sind Abnehmspritzen die Lösung? - Handelsblatt",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdEIwQ29CZGMweVhJUEdhLW5TMFBXVU53b25ENzFKdklmQ0tsVkxlbDBKOG5PbTg1Z09BbU51T21TZnZLZjAybHpFZlpOUHRjcF92UG9uT1ZRSWlmMDltV0Zrb1pEX1BndElPNktvdnRhYjczNHVPRHg1c0tlakhmck1UNEphNkZ0TUM5S2I5bmctYVk4Mk1sRS0wY0xnaHBkMFFGQlJQdUdwUTV6cHQxV19uX21ucXV0enM0WEFfdjZyd3NsOFZoWWhmRU5BSk00dXdfR1FXdDBtdU9la0EtVnRvejk?oc=5",
+      "published": "2026-10-03T03:00:17+00:00",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com"
       }
     },
     {
@@ -184,16 +194,6 @@
       }
     },
     {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "16eb0b8061d9",
       "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter.ch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
@@ -214,6 +214,16 @@
       }
     },
     {
+      "id": "cb6789643a5e",
+      "title": "Supplement-Mythen: Schützt Vitamin C vor Erkältungen? - News.at",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmluWk82a21xaFdTRnhiQjg0YnBzcDRpQ0oxUDBkcDZ1aGp5TFotOEw3V25xWlhzMFozZlU3YXlYcWZPa0s0a2VzRThNaGhiTmxPenp1M0lwUXk2enZuS1l1WE43RnBVbnVNQ3ZTZ1JVSllFVTFlWU1ZNC1vd2lXYW5jSXY2T1pSa2c?oc=5",
+      "published": "2026-10-06T06:10:00+00:00",
+      "source": {
+        "name": "News.at",
+        "url": "https://www.news.at"
+      }
+    },
+    {
       "id": "a620e539ca0e",
       "title": "Singen und neue Medikamente gegen Alzheimer - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajVWOUJaNk94VXAtdHZQdnhVTHNIdnQ1VWd3NEo5RU4tNjRMbHFrQWo2d0pDU3hQaTRVWjlXeWwydUUxQ21SMWVoVXJCRWs5by03QTRMbjI1cDFnRWRPdUpLcloxV1dxN09WRnpBOUlCQV8tSGZadF95bDdkYkRodXYxaWJtdmFMdHhWeHFZMXlsMGc0VXUwRHhuanBwV3JCMjNGYUo3WlFoaVJmeHQ0MDVLbjh4ZDhCT0RxNnN2aUd0cFhzSll0ejJ1RnVSQmNPUG9IRW1xNThLdElXcjM3Zg?oc=5",
@@ -221,16 +231,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "c6f92bd99ead",
-      "title": "Versorgung sichern, Wettbewerb fördern, Standort stärken: Bundesgesundheitsminister ... - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ckx6LWQxQlhSNFhNUDdnUXIxMGRnbG15SWswWXAzTy1TOXpYRHMyNXVHQnVoMi1XVkRETk9NelhBY05WM3RTWms0dGo4YlJZaU9SR0ctVQ?oc=5",
-      "published": "2026-10-06T12:57:09+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -284,6 +284,16 @@
       }
     },
     {
+      "id": "c6f92bd99ead",
+      "title": "Versorgung sichern, Wettbewerb fördern, Standort stärken: Bundesgesundheitsminister ... - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ckx6LWQxQlhSNFhNUDdnUXIxMGRnbG15SWswWXAzTy1TOXpYRHMyNXVHQnVoMi1XVkRETk9NelhBY05WM3RTWms0dGo4YlJZaU9SR0ctVQ?oc=5",
+      "published": "2026-10-06T12:57:09+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
       "id": "0b83d830e01d",
       "title": "TempraMed gibt Konnektivität von VIVI Cap Smart mit Apple Health und Google Fit bekannt – für bessere Behandlungsergebnisse und optimiertes Daten-Tracking - Börse Social",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOamRRT2hVZmNjQ0FtVGRoblNqdjJvd3dqRGIzMl9NNXJnQW91MDBpY2dsWTlpckxpY1pDT2xETTduMjNsX1FnZjZjcERHeGRrSU1Sd3cxaGRqWTY2Ym9GUGYtYlVJUFA5VFdOR0JHU3A4bHdNa2JLV3BLZUtjTUtVcERtcEZ3azEyU05uZGdmS0ExZ3BxNkZZeW1vd1pfYTctbTZERC1VVjFZSTdYMFJ3ZGhPdWpNd3BlU0dtdUE1MUxGOE4xYTI1TXBhQkI0TW9LY1VRb0g1QjJqZk1QQm90WmRQVk5DanZiU3MzcDZiT18ydXpJZmVENWlhSzU1NXpyYU9DY28zekw5Tml4dW0zZjJXcWZUVEZMSEtJ?oc=5",
@@ -304,16 +314,6 @@
       }
     },
     {
-      "id": "e7ff081dd4a6",
-      "title": "Häusliche Pflege: Jeder Zweite berichtet von Problemen mit Medikamenten - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44X3pwQXBJN0JORzF4LVJ6WE4xd1IyZDFGMDBTNFN3ZWFHZnh1ZVI3UGlFb0JCMl9xWnF6eWJDelJ5bkJKRU41bjJZTXY5VGYxQTVCemttVQ?oc=5",
-      "published": "2026-10-06T07:35:32+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "61312f4f8713",
       "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
@@ -321,16 +321,6 @@
       "source": {
         "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
-      }
-    },
-    {
-      "id": "cc3d8b4c427e",
-      "title": "Calcium und Vitamin D: Wer die Präparate trotz neuer Studie weiter nehmen sollte - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTZMbVhrcFdscWtnejRRN25iVDQwRHQySkdQVGZUZnd2SHdiWXR0ZXd1SDVuQ01Sc0V0c2MwNl9RbUFtSjNDbkdudkRpY2p0UlRSLWtqdVZweGFRY09uQUpOeE5PNTJjTU9aSTRWS3RnU2hpN013bGpGLXpTb0puT0J0R3BNQl9DVS0xNExYb1NtQnFZNFIxNHYyUExnS1FMejNaVkJ6QVdGOHdLN25yWDJaTEZRd2s?oc=5",
-      "published": "2026-10-02T07:00:00+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
       }
     },
     {
@@ -344,6 +334,16 @@
       }
     },
     {
+      "id": "cc3d8b4c427e",
+      "title": "Calcium und Vitamin D: Wer die Präparate trotz neuer Studie weiter nehmen sollte - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTZMbVhrcFdscWtnejRRN25iVDQwRHQySkdQVGZUZnd2SHdiWXR0ZXd1SDVuQ01Sc0V0c2MwNl9RbUFtSjNDbkdudkRpY2p0UlRSLWtqdVZweGFRY09uQUpOeE5PNTJjTU9aSTRWS3RnU2hpN013bGpGLXpTb0puT0J0R3BNQl9DVS0xNExYb1NtQnFZNFIxNHYyUExnS1FMejNaVkJ6QVdGOHdLN25yWDJaTEZRd2s?oc=5",
+      "published": "2026-10-02T07:00:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
       "id": "4e71ac42c71c",
       "title": "Pharma nennt es Innovation und meint Rendite - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnJzMkpSeEpiYWVNRV92OVhSUFBSSU1MRk9fcXNyMUs0LWZka3JDMHpwRkZUbnl4SExxNG00N0l3TDRPcEIxQlhqOXB3NEh0Ul9ITkVna2EzdWk2a0NWUmR0eHYxVVBocHdfZEZPRHBxQ04teTNDbGFYcDFMMWZNV2NnbE9tRFpxbjVTUTR2VmdMWFJBRFJ2M2dGRDgyQQ?oc=5",
@@ -354,13 +354,23 @@
       }
     },
     {
-      "id": "025666bad9b7",
-      "title": "Umfrage zeigt häufige Probleme: Angehörige pflegen: Diese Tipps können helfen - Volksfreund",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmk2QURuVDZMcngtaWVYLXBXT0FPaDFVWXpzZHpkaTM3ZVlyOXR2dGpIQmxXX095c01JWS10eUtpbVFQSEcyLWtPZm1EWE9pVWppY3ktalMyUWJqNjN2dHBhNVpyZzktVGtvVndLOTd2WkR6OGFmcGhlTHc3bjBjenBBMkVEYU1hc0M1Z0ktaEZuQmZnOUJ2LUhib0pFZkdYNEJRallobVFiUQ?oc=5",
-      "published": "2026-10-06T06:30:00+00:00",
+      "id": "02e9917bea66",
+      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
       "source": {
-        "name": "Volksfreund",
-        "url": "https://www.volksfreund.de"
+        "name": "DW.com",
+        "url": "https://www.dw.com"
+      }
+    },
+    {
+      "id": "e7ff081dd4a6",
+      "title": "Häusliche Pflege: Jeder Zweite berichtet von Problemen mit Medikamenten - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44X3pwQXBJN0JORzF4LVJ6WE4xd1IyZDFGMDBTNFN3ZWFHZnh1ZVI3UGlFb0JCMl9xWnF6eWJDelJ5bkJKRU41bjJZTXY5VGYxQTVCemttVQ?oc=5",
+      "published": "2026-10-06T07:35:32+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -371,16 +381,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "02e9917bea66",
-      "title": "EU-Einigung: Mehr wichtige Medikamente in Europa herstellen - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxHSlhmSS0tbUNKdG15NEVzRzYzYllEUnAzUEU3ak53czRHVWlKdTZrRGFDMk1MUThPUjdPTnBGVENqd3d2Q1VSdWhJVXppWDF4NWh0aEJJaXJlVTlnV0VoZVFkRHNSM3p6NVZXNjNwWHk5YkxSUWR2RGZKcmp3Y2U5REY0U3dRZFJLeHFtQk9wb2Y3RUVOaVBlMlJhZ29Rck000gGjAUFVX3lxTE1rTW00WXFBajZxbTJOS1NLckhVbXFBSzh1NE96QTEydTN1YjZnaFFNcV8xblZGM29hdTZQUHc4V3YzQ1pwcTlaVVBhZDVqMExLMTlYVzZ6TmM4ZUdsUm5TLXpPNmk1R3V4UktvaV93cWttNFpVX0VEZlZnUllSQkhyUlZmeTBJcU0zUEVSZTgxdzFWUnFNRk9CYVljN0Jhd0ZXUFk?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "DW.com",
-        "url": "https://www.dw.com"
       }
     },
     {
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "f5d05aab4fcd",
-      "title": "Gesundheit - Studie: Jeder zweite Pflegebedürftige bekommt Medikamente falsch - UNTERNEHMEN-HEUTE.de",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jYXpKNUlYWS14TjEtR3hOQW84amxHY0tOTjV4OS1mb0d2a2lyakxXLXVfNXRJRTJKRFpoUnhuOUZjYjNjU2xBMDQ3MzQ0T3FzaG5LM2l2Zm12SnFjM0NRaHBR?oc=5",
-      "published": "2026-10-05T23:05:56+00:00",
-      "source": {
-        "name": "UNTERNEHMEN-HEUTE.de",
-        "url": "https://unternehmen-heute.de"
-      }
-    },
-    {
       "id": "ee0848383f96",
       "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
@@ -484,16 +474,6 @@
       }
     },
     {
-      "id": "238d627fd5b2",
-      "title": "Mounjaro zum Abnehmen: Expertin warnt vor Risiken für Gesundheit, Haut und Haare - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekhkdTRkanJIdWVpUWJha2UtdnE1SzFSMGVVeXR2YXBzcVNRMEFVWkdWQm1rWVVNSXZLQVZ3c3VYMjhJdmV4bGtDUklPZlZ1Rno4X1hhbXhUdDFWdHVTcUw0bUxtZTl4UzFKM1FUdGFpNGZVYjBfZklpU2xZTFluUXRXZXhLVU43cXRxUkdTaHJUcFJKVXFwTXdRYW4zWE1KaUMwUU82dkFtODJuLTBnZVJIWGJSZXZtbWwxTS1B?oc=5",
-      "published": "2026-09-17T07:00:00+00:00",
-      "source": {
-        "name": "Frankfurter Rundschau",
-        "url": "https://www.fr.de"
-      }
-    },
-    {
       "id": "e37c6e8e01d3",
       "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
@@ -501,6 +481,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "238d627fd5b2",
+      "title": "Mounjaro zum Abnehmen: Expertin warnt vor Risiken für Gesundheit, Haut und Haare - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekhkdTRkanJIdWVpUWJha2UtdnE1SzFSMGVVeXR2YXBzcVNRMEFVWkdWQm1rWVVNSXZLQVZ3c3VYMjhJdmV4bGtDUklPZlZ1Rno4X1hhbXhUdDFWdHVTcUw0bUxtZTl4UzFKM1FUdGFpNGZVYjBfZklpU2xZTFluUXRXZXhLVU43cXRxUkdTaHJUcFJKVXFwTXdRYW4zWE1KaUMwUU82dkFtODJuLTBnZVJIWGJSZXZtbWwxTS1B?oc=5",
+      "published": "2026-09-17T07:00:00+00:00",
+      "source": {
+        "name": "Frankfurter Rundschau",
+        "url": "https://www.fr.de"
       }
     },
     {
@@ -534,6 +524,16 @@
       }
     },
     {
+      "id": "e21e174e9cc9",
+      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "df27d3680011",
       "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFgyZUx0aEZuV3RSTG04aFd5a3hHcElZS2hiMlU2UlFuUEF3aC13LVRmRWVYM0s1Z3RwMDhfM3VfRnh4WFo0bDJFZzh4YUdxNzZhOF9NOGh0NlNOMmJ4ZjhGU1RkRm95MGdFTWJjZWI0cy1zQlg0ZkluYzhDQ0dza195c2FEd3JvQ2hEOFdYS29HZUVyaEI1ZWhiZW1DU0w5QTBjdnlYcw?oc=5",
@@ -544,13 +544,13 @@
       }
     },
     {
-      "id": "e21e174e9cc9",
-      "title": "Darum solltest du am besten nie Medikamente im Internet bestellen - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVaSmpJaVRmRG54VloyamwwNHBvb09mSllSTFQxejNCYkM4dmtoVEh0dk5qR0NOOVRlOERLWlhNNnVsVTh6RTRnTUlzbWdwNHBLTjVTTmctMHZITHpuM3RybTN2TU41LTFlSjFlalcxS3hndVowV0NUQVVsUjVrNXhOem92NFZsQ2hlZnRsV1VlRW4wYUJLVGRHY2stUDhWQnl0OTVHRVgweHNCaS12V3Z2MVhUb2hZUVE?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
+      "id": "f5d05aab4fcd",
+      "title": "Gesundheit - Studie: Jeder zweite Pflegebedürftige bekommt Medikamente falsch - UNTERNEHMEN-HEUTE.de",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jYXpKNUlYWS14TjEtR3hOQW84amxHY0tOTjV4OS1mb0d2a2lyakxXLXVfNXRJRTJKRFpoUnhuOUZjYjNjU2xBMDQ3MzQ0T3FzaG5LM2l2Zm12SnFjM0NRaHBR?oc=5",
+      "published": "2026-10-05T23:05:56+00:00",
       "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "UNTERNEHMEN-HEUTE.de",
+        "url": "https://unternehmen-heute.de"
       }
     },
     {
@@ -591,16 +591,6 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
-      }
-    },
-    {
-      "id": "eab11b73d0ff",
-      "title": "Medikamente: Tiefere Preise gefordert, höhere bewilligt - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGFzZ3piOXVBbUMySTNLSG9nUDNQcVlHQXRMUy04aklzMkdCam1kM3RyWlNZTWxuc1pac2RhcndLYklLNk1jZkpobUp6QzhKVHRlcWFuSUdlSExLUUpEd0xKSjBESXpnd0tZZExYTnBlV044cUdlM0JkRzJid3d1YTNkU05xN0JCTlRiY1lJV1pJTkcyUm9v?oc=5",
-      "published": "2026-02-02T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -704,16 +694,6 @@
       }
     },
     {
-      "id": "e3239e061b44",
-      "title": "Arzneimittel-Versorgung: Mehr als 4 Millionen Menschen haben weite Wege zur nächsten Apotheke - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWW1RQnJQVDNJc3lBczlKM19KMVdqRlNLbFFuTjJQZmNEbjh6MnBhM3Q2TThJclVYaEJ0Y1h5a1dvVU9ZVFk3RDJaV0JrSnFydmx6OVJkZlRicWkwYWtRQ3EzcGtGUXU5YlBMYVdzZXRBbjNKNTFKeDA2eGdpbU1tc2RTOHlIMF9yNEVJY0hpNG5WWk04V3lTQnBpWWNmMV9tN1hBdm5JYmU4WE5lRXNNUXVoMzJWV3J0WjNpaDFkaWNZVHZWOTVpYg?oc=5",
-      "published": "2026-06-09T07:00:00+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
-      }
-    },
-    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -751,6 +731,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "e3239e061b44",
+      "title": "Arzneimittel-Versorgung: Mehr als 4 Millionen Menschen haben weite Wege zur nächsten Apotheke - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWW1RQnJQVDNJc3lBczlKM19KMVdqRlNLbFFuTjJQZmNEbjh6MnBhM3Q2TThJclVYaEJ0Y1h5a1dvVU9ZVFk3RDJaV0JrSnFydmx6OVJkZlRicWkwYWtRQ3EzcGtGUXU5YlBMYVdzZXRBbjNKNTFKeDA2eGdpbU1tc2RTOHlIMF9yNEVJY0hpNG5WWk04V3lTQnBpWWNmMV9tN1hBdm5JYmU4WE5lRXNNUXVoMzJWV3J0WjNpaDFkaWNZVHZWOTVpYg?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "8c6176b8d248",
+      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WiWo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "source": {
+        "name": "WiWo",
+        "url": "https://www.wiwo.de"
       }
     }
   ]
