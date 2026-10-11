@@ -29,10 +29,6 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-Der `txgnn-pipeline`-Skill ist geladen. Nun analysiere ich das Evidence Pack und erstelle den Bewertungsbericht.
-
----
-
 # Isavuconazonium: Von Invasiver Aspergillose zu Pneumozystose
 
 ---

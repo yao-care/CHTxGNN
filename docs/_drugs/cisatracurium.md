@@ -29,10 +29,6 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-Der `txgnn-pipeline`-Skill ist relevant – es handelt sich um einen Bewertungsbericht im TxGNN-Ökosystem. Ich fahre nun mit der Berichtserstellung gemäss dem definierten Ausgabeformat fort.
-
----
-
 # Cisatracurium: Von Neuromuskulärer Blockade zu Cauda-equina-Syndrom
 
 ## Zusammenfassung

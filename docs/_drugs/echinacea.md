@@ -29,10 +29,6 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-Der txgnn-pipeline-Skill bezieht sich auf technische Pipeline-Verwaltung – die Berichtsgenerierung ist vollständig durch die Systeminstruktionen (Bewertungsbericht Prompt v5) abgedeckt. Ich erstelle jetzt den Bericht.
-
----
-
 # Echinacea: Von Immununterstützung zu Lepra
 
 ## Zusammenfassung

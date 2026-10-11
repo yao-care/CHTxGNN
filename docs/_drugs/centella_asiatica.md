@@ -29,10 +29,6 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-Ich verwende den `txgnn-pipeline`-Skill für die korrekte Verarbeitung. Da dieser keine zusätzlichen Formatierungsregeln für die Berichterstellung vorgibt, folge ich direkt dem definierten Ausgabeformat aus dem Systemprompt.
-
----
-
 # Centella asiatica: Von traditioneller Heilpflanze zu Insomnie
 
 ## Zusammenfassung

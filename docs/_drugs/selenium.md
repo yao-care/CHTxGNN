@@ -29,10 +29,6 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-Ich verwende die `txgnn-pipeline`-Skill-Informationen und erstelle nun den Bewertungsbericht auf Basis des bereitgestellten Evidence Packs.
-
----
-
 # Selenium: Von Selenmangel zu Sklerosierender Cholangitis
 
 ## Zusammenfassung
