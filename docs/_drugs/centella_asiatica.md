@@ -2,7 +2,7 @@
 layout: default
 title: Centella Asiatica
 parent: Nur Modellvorhersage (L5)
-nav_order: 12
+nav_order: 29
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,11 +29,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Centella asiatica: Von traditioneller Heilpflanze zu Insomnie
+# Centella asiatica: Von ekzematischen Hautausschlägen (homöopathisches Arzneimittelbild) zu Schlaflosigkeit
+
+---
 
 ## Zusammenfassung
 
-Centella asiatica (Gotu Kola) ist eine traditionelle Heilpflanze aus der Ayurveda- und traditionellen chinesischen Medizin, die seit Jahrhunderten bei Wundheilung, Hauterkrankungen sowie neuropsychiatrischen Beschwerden eingesetzt wird. Das TxGNN-Modell prognostiziert Insomnie als führende neue therapeutische Indikation mit einem Vorhersagewert von 99,94 %, gestützt auf neuroprotektive und sedierende Wirkeigenschaften der enthaltenen Triterpene. Die verfügbare Evidenz beschränkt sich jedoch ausschliesslich auf präklinische Tiermodelle; randomisierte klinische Studien beim Menschen für diese Indikation fehlen derzeit vollständig.
+Centella asiatica ist in der Schweiz als homöopathisches Arzneimittel (Dercut, Tropfen zum Einnehmen) zugelassen, und zwar gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen. Das Modell sagt für Schlaflosigkeit eine mögliche Wirksamkeit voraus, ebenso für Angststörungen und Ein- und Durchschlafstörungen. Die Evidenz ist sehr gering: Für Schlaflosigkeit liegt nur eine einzige Studie an Zebrafischlarven vor, und es gibt keine registrierten klinischen Studien.
 
 ---
 
@@ -41,46 +43,64 @@ Centella asiatica (Gotu Kola) ist eine traditionelle Heilpflanze aus der Ayurved
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Traditionelle Anwendung: Wundheilung, Hauterkrankungen, neuropsychiatrische Beschwerden |
-| Vorhergesagte neue Indikation | Insomnie |
+| Ursprüngliche Indikation | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen |
+| Vorhergesagte neue Indikation | Schlaflosigkeit (Insomnie) |
 | TxGNN-Vorhersagewert | 99,94 % |
-| Evidenzniveau | L4 – Präklinische Studien / Mechanismusstudien |
-| Marktstatus Schweiz | Nicht zugelassen |
-| Anzahl Zulassungen | 0 |
+| Evidenzniveau | L5 (nur Modellvorhersage und eine präklinische Studie, keine Studien am Menschen) |
+| Marktstatus Schweiz | Im Handel |
+| Anzahl Zulassungen | 1 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ## Warum ist diese Vorhersage plausibel?
 
-Centella asiatica enthält eine Reihe aktiver Triterpene – insbesondere Asiaticoside, Asiatinsäure und Madecassoside – die in mehreren präklinischen Studien neuroprotektive und sedierende Eigenschaften gezeigt haben. Eine Schlüsselstudie im Zebrafischmodell (PMID 38812527) demonstrierte, dass ein Ethanolextrakt von CA Insomnie-ähnliche Verhaltensweisen durch Hemmung des Orexin/Hypocretin-Signalwegs sowie der nachgeschalteten ERK1/2-, Akt- und p38-MAPK-Pfade signifikant reduzieren kann. Diese Signalwege spielen eine zentrale Rolle in der Regulation des Schlaf-Wach-Rhythmus.
+Der ursprüngliche Wirkmechanismus liegt für diese Auswertung nicht vor. Eine mechanistische Herleitung von der Hauterkrankung zur Schlaflosigkeit ist daher nicht möglich. Die Ähnlichkeit zwischen ursprünglicher und neuer Indikation wurde ebenfalls nicht bewertet.
 
-Ergänzend weisen biochemische In-vitro-Studien auf eine negative Modulation von GABA-A-Rezeptoren durch die Ursantriterpenoide Asiatinsäure und Madecassinsäure hin (PMID 27062315, 26016167), was dem Wirkmechanismus klassischer Sedativa und Anxiolytika ähnelt. Die enge mechanistische Überlappung zwischen Insomnie und Angststörungen – beide Indikationen involvieren GABAerge Neurotransmission und den Orexin-Signalweg – erklärt, warum TxGNN sowohl Insomnie (Rang 1) als auch Angst (Rang 2) und Schlafinitiations- und -aufrechterhaltungsstörungen (Rang 3) in der Spitzengruppe der Vorhersagen platziert.
+Als einziger Anhaltspunkt dient eine Studie von 2024 an Zebrafischlarven. Darin wurde ein Ethanolextrakt von Centella asiatica in einem Schlaflosigkeitsmodell untersucht. Die Autoren beschreiben eine mögliche Beeinflussung des Orexin-Signalwegs sowie der Signalwege ERK, Akt und p38, die mit dem Wach-Schlaf-Rhythmus zusammenhängen.
 
-Die biologische Plausibilität ist damit grundsätzlich gegeben, beruht jedoch ausschliesslich auf Tier- und Zellmodellen. Ein klinischer Wirksamkeitsnachweis beim Menschen erfordert kontrollierte Humanstudien.
+Der hohe Vorhersagewert beruht allein auf einem Graphmodell. Die Übertragung von Zebrafischbefunden auf Schlaflosigkeit beim Menschen ist sehr unsicher. Die weiteren vorhergesagten Indikationen (Angst, Ein- und Durchschlafstörungen) stützen sich teils auf dieselbe Studie. Sie sollten nicht doppelt gewertet werden.
 
 ---
 
 ## Klinische Studien
 
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT04872946](https://clinicaltrials.gov/study/NCT04872946) | NA | Abgeschlossen | 74 | Untersuchung eines oralen Inner-Calm-Supplements und eines topischen Super-Calm-Produkts auf Hautgesundheit und allgemeines Wohlbefinden (Rötung, Hautempfindlichkeit). Insomnie ist kein primärer Endpunkt; der Bezug zur Indikation Schlafstörung ist gering (Relevanzgrad C). |
-| [NCT07274371](https://clinicaltrials.gov/study/NCT07274371) | NA | Aktiv (keine Rekrutierung) | 30 | Pilot-RCT bei perimenopausalen Frauen (40–55 Jahre): nächtliche 10-minütige Fussmassage mit Brahmi-Gotu-Kola-Öl vs. Bio-Sesamöl als Kontrolle. Schlafqualität und Stimmungsstörungen als primäre Endpunkte; Applikation topisch (kein orales CA), Stichprobe klein (Relevanzgrad B). |
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ## Literaturbelege
 
+Für die Hauptindikation Schlaflosigkeit liegt eine Publikation vor. Ergänzend sind die wichtigsten Arbeiten zur zweitrangigen Vorhersage «Angst» aufgeführt.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Tierstudie (Zebrafischmodell) | F1000Research | CA-Ethanolextrakt reduziert Insomnie-Verhalten bei Zebrafischlarven durch Hemmung von Orexin, ERK1/2, Akt und p38-MAPK. Liefert die mechanistische Grundlage für die Insomnie-Vorhersage; keine Humanübertragbarkeit ohne weitere klinische Studien. |
+| [38812527](https://pubmed.ncbi.nlm.nih.gov/38812527/) | 2024 | Präklinisch (Zebrafisch) | F1000Research | Ethanolextrakt in einem Schlaflosigkeitsmodell; mögliche Hemmung von Orexin, ERK, Akt und p38 |
+| [20677602](https://pubmed.ncbi.nlm.nih.gov/20677602/) | 2010 | Klinische Studie (Angst) | Nepal Medical College Journal | 33 Teilnehmende mit generalisierter Angststörung erhielten 500 mg Extrakt zweimal täglich; Studiendesign und Ergebnisse im vorliegenden Auszug nicht vollständig ersichtlich |
+| [42391143](https://pubmed.ncbi.nlm.nih.gov/42391143/) | 2026 | Systematische Übersicht (Scoping Review) | Complementary Medicine Research | Gotu Kola, Phosphatidylcholin und Taurin bei Stimmungsstörungen; Studiendesign aus dem Titel nicht sicher beurteilbar |
+| [40932246](https://pubmed.ncbi.nlm.nih.gov/40932246/) | 2025 | Übersichtsarbeit | Annals of Medicine | Neuroprotektive, antioxidative und entzündungshemmende Wirkungen bei neurologischen Erkrankungen |
+| [38770167](https://pubmed.ncbi.nlm.nih.gov/38770167/) | 2024 | Präklinisch (Maus) | Frontiers in Aging | Wasserextrakt verbesserte altersbedingten kognitiven Abbau und Angst bei Mäusen; Wirkung abhängig von Geschlecht, Dosis und Verabreichungsart |
+| [41097248](https://pubmed.ncbi.nlm.nih.gov/41097248/) | 2025 | Präklinisch (Maus) | Nutrients | Triterpene und Caffeoylchinasäuren tragen zur Kognitionsverbesserung bei, nicht aber zur angstlösenden Wirkung |
+| [26848139](https://pubmed.ncbi.nlm.nih.gov/26848139/) | 2016 | Präklinisch (Maus) | Phytotherapy Research | Schutz vor angstähnlichem Verhalten, oxidativem Schaden und Neuroinflammation nach Schlafentzug; mögliche Beteiligung von Stickstoffmonoxid |
+| [27062315](https://pubmed.ncbi.nlm.nih.gov/27062315/) | 2016 | In vitro | Chemical Biology & Drug Design | Triterpenoide (Asiatsäure, Madecassinsäure) wirken als selektive negative Modulatoren verschiedener GABA-A-Rezeptor-Subtypen |
+| [16488124](https://pubmed.ncbi.nlm.nih.gov/16488124/) | 2006 | Präklinisch (Ratte) | Phytomedicine | Extrakte und Asiaticosid auf angstlösende Eigenschaften in Verhaltensmodellen geprüft |
+| [23653088](https://pubmed.ncbi.nlm.nih.gov/23653088/) | 2013 | Übersichtsarbeit | CNS Drugs | Übersicht pflanzlicher Arzneimittel bei Angststörungen mit klinischer und präklinischer Evidenz |
+
+---
+
+## Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 55087 | Dercut, Tropfen zum Einnehmen (ebi-pharm ag) | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen |
 
 ---
 
 ## Sicherheitshinweise
 
-> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für dieses Arzneimittel konnten keine Warnhinweise, Kontraindikationen oder Wechselwirkungen aus den vorliegenden Daten entnommen werden. Eine Abfrage zu Arzneimittelwechselwirkungen ergab keine Treffer.
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -89,14 +109,15 @@ Die biologische Plausibilität ist damit grundsätzlich gegeben, beruht jedoch a
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die einzige direkt relevante Evidenz für die Insomnie-Indikation stammt aus einem Zebrafisch-Tiermodell (L4); klinische Humanstudien mit schlafspezifischen Endpunkten fehlen vollständig, weshalb eine gezielte Weiterentwicklung dieser Indikation verfrüht wäre. Parallel dazu bietet die Angst-Indikation (Rang 2, L3-Evidenz, Empfehlung „Proceed with Guardrails") eine deutlich solidere klinische Grundlage und sollte prioritär weiterverfolgt werden.
+- Der sehr hohe Vorhersagewert beruht allein auf einem Graphmodell. Für Schlaflosigkeit gibt es nur eine einzige präklinische Zebrafischstudie und keine Daten am Menschen.
+- Die Sicherheitsprüfung konnte nicht durchgeführt werden, weil Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation fehlen. Dieses Datenlücke blockiert das weitere Vorgehen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klärung des fehlenden Wirkmechanismus (DG002): Abfrage der vollständigen MOA-Daten bei DrugBank (DB14256)
-- Klärung der Sicherheitsdaten (DG001): Herunterladen und Auswertung der Fachinformation (Swissmedic / TFDA)
-- Identifikation oder Initiierung einer humanen Pilotstudie (Phase 1/2) zur oralen CA-Supplementation bei primärer Insomnie mit validierten Schlafendpunkten (z. B. PSQI, Aktigraphie, Polysomnographie)
-- Prüfung optimaler Darreichungsform (oral), standardisiertem Extrakt (z. B. TECA) und Dosierung für die Schlafindikation
-- Bevorzugte Weiterentwicklung der Angst-Indikation (L3) als mechanistisch verwandten Brückennachweis für Schlafstörungen
+- Die Fachinformation von Swissmedic herunterladen und auswerten (Warnhinweise, Kontraindikationen)
+- Den Wirkmechanismus über DrugBank abfragen, um die mechanistische Verbindung beurteilen zu können
+- Prüfen, ob eine homöopathische Zubereitung (Tropfen) mit Extrakten aus den Tierstudien überhaupt vergleichbar ist, da Dosis und Standardisierung unklar sind
+- Kontrollierte klinische Studien am Menschen zu Schlaflosigkeit oder Schlafstörungen
+- Für die Nebenindikation Angst: Die vorhandene kleine Studie (2010) und die Übersichtsarbeiten kritisch bewerten, bevor eine Weiterverfolgung erwogen wird
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

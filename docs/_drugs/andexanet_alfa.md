@@ -2,7 +2,7 @@
 layout: default
 title: Andexanet Alfa
 parent: Nur Modellvorhersage (L5)
-nav_order: 11
+nav_order: 16
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,41 +29,35 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-Analysiere das Evidence Pack und erstelle den Bewertungsbericht auf Basis der Vorlage v5.
-
----
-
-# Andexanet alfa: Von Faktor-Xa-Inhibitor-Antagonisierung zu Glanzmann-Thrombasthenie
-
----
+# Andexanet alfa: Von Antidot gegen Faktor-Xa-Inhibitoren zu Glanzmann-Thrombasthenie
 
 ## Zusammenfassung
 
-Andexanet alfa (DB14562) ist ein rekombinantes, katalytisch inaktives Faktor-Xa-Decoy-Protein, das als spezifisches Antidot bei lebensbedrohlichen Blutungen unter Faktor-Xa-Hemmern (Apixaban, Rivaroxaban) eingesetzt wird – in der Schweiz ist es derzeit jedoch nicht zugelassen. Das TxGNN-Modell sagt mit einem Vorhersagewert von 99,77 % eine mögliche Anwendung bei Glanzmann-Thrombasthenie voraus, einer seltenen angeborenen Störung der Thrombozytenaggregation durch GPIIb/IIIa-Defekt. Die Evidenzgrundlage beschränkt sich ausschliesslich auf die Modellvorhersage (Evidenzniveau L5) ohne klinische Studien oder Literaturbelege; ein biologisch plausibler Wirkungsmechanismus für diese Indikation konnte nicht identifiziert werden.
+Andexanet alfa ist in der Schweiz als Antidot gegen Faktor-Xa-Inhibitoren zugelassen. Das Modell sagt eine mögliche Wirksamkeit bei der Glanzmann-Thrombasthenie voraus, einer angeborenen Störung der Blutplättchenfunktion. Diese Vorhersage beruht ausschliesslich auf einem Modellwert; es gibt weder klinische Studien noch Literatur dazu, und ein plausibler Wirkmechanismus ist nicht erkennbar.
 
 ---
 
 ## Kurzübersicht
 
 | Punkt | Inhalt |
-|---|---|
-| Ursprüngliche Indikation | Reversal-Therapie bei Faktor-Xa-Hemmer-bedingten Blutungen (in der Schweiz nicht zugelassen) |
+|------|------|
+| Ursprüngliche Indikation | Antidot gegen Faktor-Xa-Inhibitoren |
 | Vorhergesagte neue Indikation | Glanzmann-Thrombasthenie |
-| TxGNN-Vorhersagewert | 99,77 % |
-| Evidenzniveau | L5 – Ausschliesslich Modellvorhersage, keine klinischen Studien vorhanden |
-| Marktstatus Schweiz | Nicht zugelassen (Swissmedic) |
-| Anzahl Zulassungen | 0 |
+| TxGNN-Vorhersagewert | 99,8 % |
+| Evidenzniveau | L5 (nur Modellvorhersage) |
+| Marktstatus Schweiz | Im Handel |
+| Anzahl Zulassungen | 1 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ## Warum ist diese Vorhersage plausibel?
 
-Andexanet alfa wirkt als Decoy-Protein der sekundären Hämostase: Es bindet kompetitiv an Faktor-Xa-Hemmer (Apixaban, Rivaroxaban) und neutralisiert deren antikoagulante Wirkung. Als sekundären Effekt bindet es auch an TFPI (Tissue Factor Pathway Inhibitor), den wichtigsten endogenen Inhibitor des extrinsischen Gerinnungswegs. Über diesen TFPI-Bindungseffekt könnte theoretisch die Thrombinbildung verstärkt werden – ein Konzept, das bei der Entwicklung spezifischer Anti-TFPI-Antikörper (Marstacimab, Concizumab) für die Hämophiliebehandlung gezielt verfolgt wurde. Der TFPI-Effekt von Andexanet alfa ist jedoch eine nicht beabsichtigte Nebenwirkung; Dosis-Wirkungs-Beziehung, Dauer und klinische Relevanz bei anderen Erkrankungen als der Faktor-Xa-Hemmung sind nicht untersucht.
+Die Vorhersage ist nach aktueller Datenlage **nicht plausibel begründbar**. Andexanet alfa ist ein rekombinantes, katalytisch inaktives Faktor-Xa-Täuschmolekül. Es bindet Faktor-Xa-Inhibitoren und neutralisiert so deren gerinnungshemmende Wirkung. Die Angaben zum ursprünglichen Wirkmechanismus lagen für diesen Bericht nicht vor, weshalb ein Abgleich damit nicht möglich war.
 
-Glanzmann-Thrombasthenie ist dagegen eine Erkrankung der **primären Hämostase**: Ein angeborener Defekt im GPIIb/IIIa-Rezeptor (Integrin αIIbβ3) verhindert die Fibrinogenbindung und damit die Aggregation von Thrombozyten. Dieser Signalweg – Thrombozytenaggregation über Fibrinogen – hat keine bekannte Überschneidung mit der FXa/TFPI-Achse, auf die Andexanet alfa ausschliesslich wirkt. Die etablierten Behandlungen der Glanzmann-Thrombasthenie (Thrombozytentransfusionen, rekombinanter FVIIa) betreffen andere Ebenen der Blutstillung, die von Andexanet alfa nicht beeinflusst werden.
+Die Glanzmann-Thrombasthenie ist dagegen ein angeborener Defekt des Plättchen-Integrins αIIbβ3 (GPIIb/IIIa), der die Plättchenaggregation beeinträchtigt. Ein Zusammenhang zwischen der Aufhebung einer Faktor-Xa-Hemmung und der Korrektur dieses Plättchendefekts ist nicht erkennbar. Der hohe Vorhersagewert ist wahrscheinlich ein Artefakt des Wissensgraphen, der auf gemeinsamen Nachbarn im Bereich «Blutstillung/Blutung» beruht.
 
-Der hohe TxGNN-Vorhersagewert von 99,77 % geht wahrscheinlich auf eine **Übergeneralisierung im Wissens-Graphen** zurück: Andexanet alfa und Glanzmann-Thrombasthenie teilen den übergeordneten Knoten «hämorrhagische Erkrankungen», was zu einer scheinbar hohen Modellaffinität führt, ohne dass ein echter mechanistischer Zusammenhang besteht. Nach aktuellem Kenntnisstand ist eine klinische Wirksamkeit von Andexanet alfa bei Glanzmann-Thrombasthenie biologisch nicht begründbar.
+Weitere vorhergesagte Indikationen mit ähnlich hohen Werten sind die primäre Plättchen-Freisetzungsstörung (99,8 %), die Pseudo-von-Willebrand-Krankheit (99,7 %) und die Hämophilie (99,1 %). Auch dafür fehlt ein mechanistischer Zusammenhang. Bei der Hämophilie gibt es zwar neun Publikationen, diese behandeln aber die zugelassene Anwendung von Andexanet alfa oder Laborstörungen durch direkte orale Antikoagulanzien, nicht eine Behandlung der Hämophilie.
 
 ---
 
@@ -81,13 +75,17 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-Andexanet alfa ist in der Schweiz nicht zugelassen. Die Swissmedic-Datenbank verzeichnet keine Zulassungen für diesen Wirkstoff (Stand: Mai 2026). Eine Marktübersicht kann erst nach Einreichung eines Zulassungsgesuchs erstellt werden.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 67759 | Ondexxya 200 mg, Pulver zur Herstellung einer Infusionslösung | Biotechnologika | Antidot gegen Faktor-Xa-Inhibitoren |
 
 ---
 
 ## Sicherheitshinweise
 
-> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Zusätzlich ist zu beachten: Bei Patientinnen und Patienten mit Gerinnungsstörungen könnte ein thrombotisches Risiko bestehen. Dies wäre eine Sicherheitsfrage und kein Nutzen. Daten zu Arzneimittelwechselwirkungen wurden nicht gefunden.
 
 ---
 
@@ -96,13 +94,14 @@ Andexanet alfa ist in der Schweiz nicht zugelassen. Die Swissmedic-Datenbank ver
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die TxGNN-Vorhersage beruht ausschliesslich auf einer Modellbefund-Ebene (L5) ohne jegliche klinische oder präklinische Belege. Der Wirkungsmechanismus von Andexanet alfa (FXa-Antagonisierung / TFPI-Bindung → sekundäre Hämostase) und die Pathophysiologie der Glanzmann-Thrombasthenie (GPIIb/IIIa-Defekt → primäre Hämostase) liegen auf biologisch getrennten Ebenen; ein plausibler Wirkungsweg ist nicht erkennbar.
+- Die Vorhersage stützt sich nur auf einen Modellwert (L5). Es gibt keine Studien, keine Literatur und keinen plausiblen Mechanismus.
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen. Eine Sicherheitsprüfung ist daher derzeit nicht möglich.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Erhebung der vollständigen Sicherheitsdaten und des Wirkungsmechanismus (DrugBank-API-Abfrage, Swissmedic-Fachinformation)
-- Überprüfung der TxGNN-Modellarchitektur auf systematische Übergeneralisierung im Bereich hämorrhagischer Erkrankungen («Blutungs-Cluster»-Problem)
-- Präklinische Mechanismus-Studien, falls nachträglich doch ein Wirkungsweg auf die Thrombozytenfunktion identifiziert werden sollte
-- Für klinisch relevantere Umwidmungskandidaten: Fokus auf Indikationen entlang der Gerinnungskaskade (z.B. perioperative Antikoagulanzienumkehr, Blutungsmanagement bei Leberzirrhose) sowie Überprüfung der Indikation **Hämophilie** (Rank 4, Evidenzniveau L4), die eine schwache, aber theoretisch nachvollziehbare TFPI-basierte Rationale aufweist
+- Auswertung der Schweizer Fachinformation (Warnungen und Kontraindikationen) von der Swissmedic-Website
+- Ergänzung des Wirkmechanismus aus DrugBank
+- Eine nachvollziehbare mechanistische Begründung für den Einsatz bei Plättchenfunktionsstörungen
+- Präklinische oder klinische Daten, die einen Nutzen bei der Glanzmann-Thrombasthenie belegen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

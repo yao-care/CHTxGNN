@@ -2,7 +2,7 @@
 layout: default
 title: Cisatracurium
 parent: Nur Modellvorhersage (L5)
-nav_order: 13
+nav_order: 34
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,53 +29,67 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Cisatracurium: Von Neuromuskulärer Blockade zu Cauda-equina-Syndrom
+# Cisatracurium: Von Muskelrelaxans zu Cauda-equina-Syndrom
 
 ## Zusammenfassung
 
-Cisatracurium ist ein nicht-depolarisierendes neuromuskuläres Blockierungsmittel, das in der Anästhesie zur Muskelrelaxation bei der endotrachealen Intubation sowie zur Erleichterung der mechanischen Beatmung auf der Intensivstation eingesetzt wird. Das TxGNN-Modell sagt mit einem Konfidenzwert von 99,99 % eine potenzielle Wirksamkeit beim Cauda-equina-Syndrom voraus. Die vorhandene Evidenz beschränkt sich jedoch ausschliesslich auf die Modellvorhersage (Evidenzniveau L5) – es existieren weder klinische Studien noch Literaturbelege, die diese Indikation stützen.
+Cisatracurium wird in der Schweiz als Muskelrelaxans eingesetzt, vor allem in der Anästhesie und auf der Intensivstation. Die Modellvorhersage nennt als mögliche neue Indikation das Cauda-equina-Syndrom, doch dafür gibt es weder klinische Studien noch Literatur und keinen erkennbaren Wirkmechanismus. Die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5) und ist derzeit nicht belastbar.
 
 ---
 
 ## Kurzübersicht
 
 | Punkt | Inhalt |
-|---|---|
-| Ursprüngliche Indikation | Neuromuskuläre Blockade (Anästhesie-Induktion, endotracheale Intubation, Erleichterung der mechanischen Beatmung) |
+|------|------|
+| Ursprüngliche Indikation | Muskelrelaxans |
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom |
 | TxGNN-Vorhersagewert | 99,99 % |
-| Evidenzniveau | L5 |
-| Marktstatus Schweiz | Nicht zugelassen |
-| Anzahl Zulassungen | 0 |
+| Evidenzniveau | L5 (nur Modellvorhersage) |
+| Marktstatus Schweiz | Im Handel |
+| Anzahl Zulassungen | 1 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ## Warum ist diese Vorhersage plausibel?
 
-Cisatracurium blockiert kompetitiv und reversibel die nikotinischen Acetylcholinrezeptoren (nAChR) an der neuromuskulären Endplatte des Skelettmuskels. Diese Blockade unterbricht die Signalübertragung zwischen motorischen Nervenendigungen und Muskelfasern und führt zu einer zeitlich begrenzten schlaffen Lähmung. Der Wirkstoff wird ausschliesslich intravenös verabreicht, wirkt rein peripher und überquert die Blut-Hirn-Schranke nicht.
+Die Vorhersage ist aus heutiger Sicht **kaum plausibel**. Zum Wirkmechanismus des Arzneimittels liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Cisatracurium als nicht depolarisierendes Muskelrelaxans an nikotinischen Acetylcholinrezeptoren der neuromuskulären Endplatte wirkt.
 
-Das Cauda-equina-Syndrom entsteht durch mechanische Kompression der im Lumbalkanal verlaufenden Nervenwurzeln (L2–S5), typischerweise infolge eines grossen Bandscheibenvorfalls, einer spinalen Stenose oder eines Tumors. Es äussert sich durch Blasen-Darm-Dysfunktion, Satteltaub­heit sowie motorische und sensible Ausfälle der unteren Extremitäten. Die einzig wirksame Behandlung ist die notfallmässige chirurgische Dekompression.
+Das Cauda-equina-Syndrom ist ein neurologischer Notfall, der durch eine Kompression der Nervenwurzeln entsteht und chirurgisch durch Dekompression behandelt wird. Eine neuromuskuläre Blockade greift an dieser Ursache nicht an. Der sehr hohe Modellwert ist vermutlich ein Artefakt der Wissensgraph-Struktur und stützt sich auf keine klinischen oder publizierten Befunde.
 
-Ein biologisch plausibler Wirkungsmechanismus von Cisatracurium beim Cauda-equina-Syndrom ist nicht erkennbar. Die Blockade von nAChR an der peripheren Endplatte beeinflusst weder die Nervenwurzelkompression noch die damit verbundenen Entzündungs- oder ischämischen Prozesse. Die hohe TxGNN-Konfidenz ist mit hoher Wahrscheinlichkeit auf eine Graphennähe im Wissensgrafen zurückzuführen (falsch-positives Signal durch Knotennähe), und nicht auf eine echte pharmakologische Wirksamkeit.
+Auch die weiteren vom Modell vorhergesagten Indikationen (u. a. Präeklampsie, neurogene Blase, Migräne, thrombotische Erkrankung, Reizdarmsyndrom) haben keinen therapeutischen Mechanismus. Die wenigen gefundenen Publikationen betreffen die Anwendung von Cisatracurium als Muskelrelaxans in der Anästhesie (z. B. Kaiserschnitt, Lebertransplantation), nicht die Behandlung dieser Erkrankungen.
 
 ---
 
 ## Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ## Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Derzeit keine verwandte Literatur verfügbar
+
+---
+
+## Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 53677 | Nimbex 5 mg/2,5 ml, Injektionslösung (Aspen Pharma Schweiz GmbH) | Synthetika | Muskelrelaxans |
 
 ---
 
 ## Sicherheitshinweise
 
-> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+- **Arzneimittelwechselwirkungen**: Insgesamt wurden 61 Wechselwirkungen erfasst. Die wichtigsten:
+  - **Schwerwiegend (Major)**: Kanamycin, Neomycin, Paromomycin, Polymyxin B, Streptomycin. Diese Antibiotika können die neuromuskuläre Blockade verstärken.
+  - **Mittelschwer (Moderate)**: Amphotericin B (mehrere Formulierungen), Doxycyclin, Tetracyclin, Minocyclin, Magnesiumchlorid, Magnesiumsulfat, Mannitol, Metoclopramid, Vancomycin, topisches Neomycin.
+  - **Gering (Minor)**: Ranitidin, Ranitidin (Bismutcitrat).
+  - Magnesiumsulfat ist besonders relevant bei Schwangeren mit Präeklampsie, da es die neuromuskuläre Blockade verstärkt.
+
+Angaben zu Warnhinweisen und Kontraindikationen aus der Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -84,12 +98,14 @@ Derzeit keine verwandte Literatur verfügbar.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Sämtliche TxGNN-Vorhersagen für Cisatracurium erreichen lediglich Evidenzniveau L5 (reine Modellvorhersage ohne klinische oder präklinische Bestätigung). Der periphere nAChR-Wirkmechanismus weist keine biologisch plausible Verbindung zur Pathophysiologie des Cauda-equina-Syndroms auf, das ausschliesslich durch chirurgische Dekompression behandelt wird.
+- Es gibt keine klinischen Studien oder Literatur zur vorhergesagten Indikation und keinen plausiblen Wirkmechanismus. Der hohe Modellwert allein genügt nicht.
+- Auch die übrigen vorhergesagten Indikationen zeigen keinen therapeutischen Nutzen, sondern höchstens die Anwendung des Arzneimittels als Muskelrelaxans bei betroffenen Patientinnen und Patienten.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Schliessung der MOA-Datenlücke: vollständiges Wirkstoffprofil aus DrugBank und Fachinformation erfassen
-- Sicherheitsprofil (Warnhinweise, Kontraindikationen) aus der offiziellen Fachinformation (z. B. EMA EPAR oder Swissmedic-Dossier) dokumentieren
-- Präklinische mechanistische Studien zum Zusammenhang zwischen nAChR-Modulation und spinaler Nervenwurzel­kompression als Voraussetzung für jede weitere Bewertung
+- Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen), da die Sicherheitsprüfung sonst nicht möglich ist
+- Ergänzung des Wirkmechanismus aus DrugBank
+- Präklinische oder klinische Belege, die einen therapeutischen Nutzen bei einer der vorhergesagten Erkrankungen plausibel machen
+- Klärung, ob eine intravenöse Anwendung bei der vorhergesagten Erkrankung überhaupt sinnvoll wäre
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

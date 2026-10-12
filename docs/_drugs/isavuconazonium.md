@@ -2,7 +2,7 @@
 layout: default
 title: Isavuconazonium
 parent: Nur Modellvorhersage (L5)
-nav_order: 15
+nav_order: 59
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,37 +29,37 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Isavuconazonium: Von Invasiver Aspergillose zu Pneumozystose
-
----
+# Isavuconazonium: Von Antimykotikum zu Pneumocystose
 
 ## Zusammenfassung
 
-Isavuconazonium ist das Prodrug des Breitspektrum-Triazol-Antimykotikums Isavuconazol, das international für die Behandlung invasiver Aspergillose und Mukormykose eingesetzt wird – in der Schweiz ist das Präparat nicht registriert. Das TxGNN-Modell erzielt mit einem Vorhersagewert von 99,6 % einen auffallend hohen Score für eine mögliche Wirksamkeit bei Pneumozystose (Pneumocystis-Pneumonie, PCP). Die mechanistische Analyse offenbart jedoch grundlegende biologische Inkompatibilitäten zwischen dem Wirkstoff und dem Erreger; es liegen weder klinische Studien noch publizierte Literaturbelege zu dieser Indikation vor, weshalb die Evidenzstufe als L5 einzustufen und eine Weiterentwicklung derzeit nicht empfohlen wird.
+Isavuconazonium ist in der Schweiz als Antimykotikum zugelassen. Das Modell TxGNN sagt als neue Indikation Pneumocystose voraus (Vorhersagewert 99,6 %). Dafür liegen weder klinische Studien noch Literatur vor, und der bekannte Wirkmechanismus spricht gegen die biologische Plausibilität. Die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
+
+Hinweis: Die zweite Vorhersage, Myzetom (Rang 2), ist plausibler und wird im Fazit als alternative Forschungsfrage genannt.
 
 ---
 
 ## Kurzübersicht
 
 | Punkt | Inhalt |
-|-------|--------|
-| Ursprüngliche Indikation | Invasive Aspergillose / Mukormykose (international zugelassen; in der Schweiz nicht registriert) |
-| Vorhergesagte neue Indikation | Pneumozystose (pneumocystosis) |
+|------|------|
+| Ursprüngliche Indikation | Antimykotikum |
+| Vorhergesagte neue Indikation | Pneumocystose |
 | TxGNN-Vorhersagewert | 99,6 % |
-| Evidenzniveau | L5 – Nur Modellvorhersage, keine tatsächlichen Studien |
-| Marktstatus Schweiz | Nicht registriert |
-| Anzahl Zulassungen | 0 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (Marketed) |
+| Anzahl Zulassungen | 2 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ## Warum ist diese Vorhersage plausibel?
 
-Isavuconazol (aktiver Metabolit von Isavuconazonium) hemmt selektiv das pilzliche Enzym CYP51 (Lanosterol-14α-Demethylase), das einen zentralen Schritt in der Ergosterol-Biosynthese katalysiert. Ergosterol ist ein unverzichtbarer Bestandteil der pilzlichen Zellmembran; seine Depletion führt zu Membraninstabilität und Zelltod. Dieses Wirkprinzip verleiht Isavuconazol ein breites Spektrum gegen Aspergillus-Arten, Mucorales und zahlreiche Schimmelpilze.
+Isavuconazonium ist die Vorstufe (Prodrug) von Isavuconazol. Der Wirkstoff hemmt das Pilzenzym Lanosterol-14-alpha-Demethylase (CYP51) und blockiert dadurch die Bildung von Ergosterol, einem wichtigen Baustein der Pilzzellmembran. Die Angabe zum ursprünglichen Wirkmechanismus fehlt in den Daten; die Beschreibung stützt sich daher auf das bekannte Azol-Prinzip.
 
-Pneumocystis jirovecii, der Erreger der Pneumozystose, weist jedoch eine fundamentale biologische Besonderheit auf: Seine Zellmembran enthält kein Ergosterol, sondern ist cholesterolbasiert aufgebaut. Darüber hinaus unterscheidet sich das CYP51-Enzym von P. jirovecii strukturell erheblich von demjenigen anderer Pilze, weshalb klassische Triazole in vitro kaum Aktivität gegen diesen Erreger zeigen. Die etablierte Standardtherapie der Pneumozystose bleibt Trimethoprim-Sulfamethoxazol (TMP-SMX); es existieren weder Studien noch publizierte Fallberichte, die eine klinische Wirksamkeit von Isavuconazol bei dieser Erkrankung belegen.
+Die Vorhersage ist **biologisch wenig plausibel**. Pneumocystis jirovecii enthält in der Zellmembran kein Ergosterol, sondern Cholesterol. Ein Azol-Wirkstoff, der die Ergosterol-Synthese hemmt, sollte daher kaum wirken. Der hohe Vorhersagewert spiegelt wahrscheinlich eine allgemeine Assoziation mit der Klasse der Antimykotika wider und keine echte mechanistische Passung.
 
-Der sehr hohe TxGNN-Score (99,6 %) lässt sich am ehesten durch phänotypische Ähnlichkeit erklären: Sowohl Pneumozystose als auch die von Isavuconazol behandelten invasiven Mykosen treten überwiegend bei stark immungeschwächten Patienten auf (HIV/AIDS, Organ- oder Stammzelltransplantation, hämatologische Malignome). Das Modell erfasst diesen gemeinsamen klinischen Kontext opportunistischer Pilzinfektionen beim immunkompromittierten Wirt, unterscheidet jedoch nicht zwischen den grundlegend verschiedenen Erregerzellbiologien.
+Für die zweite Vorhersage, das **Myzetom**, ist die Lage günstiger. Das Eumyzetom wird durch Pilze wie Madurella mycetomatis verursacht, die grundsätzlich auf Azole ansprechen; Itraconazol gehört bereits zur Standardtherapie. Das bakterielle Aktinomyzetom würde dagegen nicht auf den Wirkstoff ansprechen. Diese Einschätzung ist bislang nur indirekt belegt.
 
 ---
 
@@ -71,13 +71,35 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ## Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Für Pneumocystose: Derzeit keine verwandte Literatur verfügbar.
+
+Für die alternative Vorhersage Myzetom liegt eine indirekte Quelle vor:
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [37907954](https://pubmed.ncbi.nlm.nih.gov/37907954/) | 2023 | Übersichtsarbeit | Parasites & Vectors | Überblick über die Pipeline oraler Antiinfektiva für vernachlässigte Tropenkrankheiten (Off-Label-Anwendung); liefert nur indirekten Kontext, keine direkten Daten zu Isavuconazol beim Myzetom. |
+
+---
+
+## Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 66172 | Cresemba 100 mg, Hartkapseln | Synthetika | Antimykotikum |
+| 66173 | Cresemba 200 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum |
+
+Zulassungsinhaberin beider Präparate ist Basilea Pharmaceutica International AG, Allschwil.
 
 ---
 
 ## Sicherheitshinweise
 
-> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+- **Arzneimittelwechselwirkungen**: Insgesamt wurden 100 Wechselwirkungen erfasst. Davon sind hier die wichtigsten aus der Auswahl aufgeführt:
+  - **Schwerwiegend (Major)**: Clarithromycin, Eliglustat, Cisapride
+  - **Mässig (Moderate)**: unter anderem Hydrocortisone, Dexamethason, Betamethason, Triamcinolon, Budesonid, Metformin, Pioglitazon, Saxagliptin, Linagliptin, Empagliflozin, Loperamid, Bupropion, Aprepitant, Cimetidin, Clotrimazol
+  - **Gering (Minor)**: Fidaxomicin
+
+Warnhinweise und Kontraindikationen aus der Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für diese Sicherheitsinformationen.
 
 ---
 
@@ -86,16 +108,14 @@ Derzeit keine verwandte Literatur verfügbar.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-Die mechanistische Grundlage für eine Wirksamkeit von Isavuconazonium bei Pneumozystose ist biologisch nicht plausibel – P. jirovecii besitzt kein Ergosterol und ist gegenüber CYP51-Hemmern intrinsisch unempfindlich. Es liegen keine klinischen Studien und keine Literaturbelege vor; der hohe TxGNN-Score spiegelt wahrscheinlich phänotypische Ähnlichkeit im Sinne eines gemeinsamen immungeschwächten Wirtsumfelds wider, nicht aber eine echte mechanistische Verwandtschaft.
-
-**Hinweis zu Rang 2 – Mykzetom (mycetoma):**
-Die zweithöchst bewertete Indikation Mykzetom (TxGNN: 99,3 %, Evidenzniveau: L4) besitzt eine erheblich plausiblere mechanistische Basis, da Isavuconazol gegen die kausalen Schimmelpilze wie *Madurella mycetomatis* oder *Scedosporium boydii* (eumycetoma) breite in-vitro-Aktivität zeigen kann. Verwandte Triazole (Itraconazol, Voriconazol) liegen zudem bereits in kleinen klinischen Berichten für Eumykzetom vor. Eine gesonderte Evaluation dieser Indikation wird empfohlen.
+- Der hohe Modellwert für Pneumocystose wird weder durch Studien noch durch Literatur gestützt. Der Azol-Mechanismus spricht zudem gegen eine Wirksamkeit, weil P. jirovecii kein Ergosterol besitzt.
+- Das Myzetom (Eumyzetom) ist als Forschungsfrage sinnvoller, bleibt aber bisher nur indirekt belegt (Evidenzniveau L4).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Internationale Fachinformation (SmPC, z. B. EMA-Zulassung von Cresemba®) für vollständige Sicherheitsdaten: Warnhinweise, Kontraindikationen und Arzneimittelwechselwirkungen
-- Abklärung des Wirkmechanismus (MOA) über die DrugBank-API (DB06636)
-- Systematische Literaturrecherche zur in-vitro-Aktivität von Triazolen gegen P. jirovecii zur endgültigen mechanistischen Ausschlussbestätigung
-- Separate Bewertung der Indikation Mykzetom (Rang 2) auf Basis der vorhandenen Literaturbelege und der stärkeren mechanistischen Rationale
+- Auswertung der Fachinformation von Swissmedic (Warnungen, Kontraindikationen); diese Lücke blockiert derzeit die Sicherheitsprüfung.
+- Ergänzung des Wirkmechanismus aus DrugBank.
+- Für das Myzetom: In-vitro-Empfindlichkeitsdaten von Madurella mycetomatis gegenüber Isavuconazol und anschliessend frühe klinische Studien.
+- Für Pneumocystose: Nur bei neuen experimentellen Hinweisen auf eine Wirksamkeit erneut prüfen.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
