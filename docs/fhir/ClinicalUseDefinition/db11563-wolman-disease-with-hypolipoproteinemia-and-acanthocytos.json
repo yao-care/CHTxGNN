@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db11563-wolman-disease-with-hypolipoproteinemia-and-acanthocytos",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db11563"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "Wolman disease with hypolipoproteinemia and acanthocytosis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9972
+    }
+  ]
+}

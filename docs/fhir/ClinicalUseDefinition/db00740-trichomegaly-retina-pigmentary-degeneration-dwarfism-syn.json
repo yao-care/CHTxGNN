@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00740-trichomegaly-retina-pigmentary-degeneration-dwarfism-syn",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00740"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9999
+    }
+  ]
+}
