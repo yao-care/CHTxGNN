@@ -1,0 +1,42 @@
+# CHTxGNN — KI-lesbare Zusammenfassung
+
+## Positionierung der Plattform
+
+CHTxGNN ist eine Forschungsplattform zur Arzneimittel-Umwidmung (Drug Repurposing) für in der Schweiz verfügbare Arzneimittel und wird von 藥提醒科技有限公司 (yao.care) betrieben. Sie veröffentlicht KI-Vorhersagen, klinische Evidenz und Arzneimittelsicherheitsdaten; die Inhalte dienen nur der Forschung und sind keine medizinische Beratung.
+
+## Methode und Evidenz
+
+Basiert auf der vom Zitnik Lab (Harvard) veröffentlichten TxGNN-Methode und untersucht mögliche Zusammenhänge zwischen bestehenden Arzneimitteln und neuen Indikationen. Modellvorhersagen werden mit ClinicalTrials.gov, PubMed, DrugBank, Daten von Swissmedic und DDInter zu nachvollziehbaren Berichten zusammengeführt.
+
+Die Evidenzstufen reichen von L1 (stärkere klinische Evidenz) bis L5 (nur Modellvorhersage); ein Modellwert bedeutet keine klinische Wirksamkeit. Jeder Umwidmungskandidat erfordert weiterhin klinische Studien, behördliche Prüfung und die Beurteilung durch qualifizierte Fachpersonen.
+
+## Hauptinhalte
+
+- `/` Vorhersagen zur Arzneimittel-Umwidmung — AI-powered drug repurposing predictions for Switzerland. Evidence-based analysis of approved medicines for potential new therapeutic indications.
+- `/drugs/` Alle Arzneimittel — Alle Arzneimittel-Validierungsberichte und Statistiken zu den Evidenzstufen in CHTxGNN.
+- `/evidence-high/` Hohe Evidenz (L1-L2) — Kandidaten der Arzneimittel-Umwidmung mit L1-L2 in CHTxGNN, gestützt auf klinische Studien oder systematische Übersichtsarbeiten.
+- `/evidence-medium/` Mittlere Evidenz (L3-L4) — Kandidaten der Arzneimittel-Umwidmung mit L3-L4 in CHTxGNN, gestützt auf beobachtende oder präklinische Evidenz.
+- `/evidence-low/` Nur Modellvorhersage (L5) — L5-Kandidaten in CHTxGNN: nur Modellvorhersage, bislang ohne klinische Evidenz oder Literaturbelege.
+- `/methodology/` Methodik — Wie CHTxGNN Vorhersagen erzeugt und validiert: Wissensgraph-Vorhersage mit TxGNN, Evidenzsammlung, Einstufung L1-L5 und Entscheidungsempfehlungen.
+- `/guide/` Benutzerhandbuch — Benutzerhandbuch zu CHTxGNN: wie man Arzneimittel nachschlägt, Evidenzstufen liest und Empfehlungen einordnet.
+- `/sources/` Datenquellen — Die Datenquellen hinter CHTxGNN: Zulassungsdaten von Swissmedic, TxGNN, ClinicalTrials.gov, PubMed und DrugBank.
+- `/downloads/` Downloads — Offene Daten von CHTxGNN zum Herunterladen: FHIR-Ressourcen, Vorhersageergebnisse und Suchindex.
+- `/news/` Gesundheitsnachrichten — Health news coverage tracked by CHTxGNN for its drugs and indications.
+- `/about/` Über uns — CHTxGNN ist eine Plattform für Vorhersagen zur Arzneimittel-Umwidmung, entwickelt von 藥提醒科技有限公司 (yao.care) auf Basis des Harvard-Modells TxGNN; sie deckt die in der Schweiz von Swissmedic zugelassenen Arzneimittel ab.
+
+## Beispiele für Arzneimittelberichte
+
+- Insulin Detemir (L1): https://chtxgnn.yao.care/drugs/insulin-detemir/
+- Insulin Glulisine (L1): https://chtxgnn.yao.care/drugs/insulin-glulisine/
+- Brentuximab Vedotin (L3): https://chtxgnn.yao.care/drugs/brentuximab-vedotin/
+
+## Zitierung und Einschränkungen
+
+Bitte zitieren Sie die Originalpublikation zu TxGNN (https://doi.org/10.1038/s41591-023-02233-x). Inhalte und Vorhersagen dienen nur Forschung und Lehre und sind keine medizinische Beratung; jede reale Anwendung oder Umwidmungsentscheidung muss durch qualifizierte Fachpersonen, klinische Studien und behördliche Prüfung bestätigt werden.
+
+## Offizielle Links
+
+- https://chtxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/CHTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x

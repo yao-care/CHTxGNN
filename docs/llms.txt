@@ -1,0 +1,43 @@
+# CHTxGNN - Arzneimittel-Umwidmung
+
+> CHTxGNN ist eine Forschungsplattform zur Arzneimittel-Umwidmung (Drug Repurposing) für in der Schweiz verfügbare Arzneimittel und wird von 藥提醒科技有限公司 (yao.care) betrieben. Sie veröffentlicht KI-Vorhersagen, klinische Evidenz und Arzneimittelsicherheitsdaten; die Inhalte dienen nur der Forschung und sind keine medizinische Beratung.
+
+## Zweck
+
+- Basiert auf der vom Zitnik Lab (Harvard) veröffentlichten TxGNN-Methode und untersucht mögliche Zusammenhänge zwischen bestehenden Arzneimitteln und neuen Indikationen.
+- Modellvorhersagen werden mit ClinicalTrials.gov, PubMed, DrugBank, Daten von Swissmedic und DDInter zu nachvollziehbaren Berichten zusammengeführt.
+- Die Evidenzstufen reichen von L1 (stärkere klinische Evidenz) bis L5 (nur Modellvorhersage); ein Modellwert bedeutet keine klinische Wirksamkeit.
+- Jeder Umwidmungskandidat erfordert weiterhin klinische Studien, behördliche Prüfung und die Beurteilung durch qualifizierte Fachpersonen.
+
+## Wichtige Seiten
+
+- Vorhersagen zur Arzneimittel-Umwidmung: https://chtxgnn.yao.care/
+- Alle Arzneimittel: https://chtxgnn.yao.care/drugs/
+- Hohe Evidenz (L1-L2): https://chtxgnn.yao.care/evidence-high/
+- Mittlere Evidenz (L3-L4): https://chtxgnn.yao.care/evidence-medium/
+- Nur Modellvorhersage (L5): https://chtxgnn.yao.care/evidence-low/
+- Methodik: https://chtxgnn.yao.care/methodology/
+- Benutzerhandbuch: https://chtxgnn.yao.care/guide/
+- Datenquellen: https://chtxgnn.yao.care/sources/
+- Downloads: https://chtxgnn.yao.care/downloads/
+- Gesundheitsnachrichten: https://chtxgnn.yao.care/news/
+- Über uns: https://chtxgnn.yao.care/about/
+- Sitemap: https://chtxgnn.yao.care/sitemap.xml
+
+## Beispiele für Arzneimittelberichte
+
+- Insulin Detemir (L1): https://chtxgnn.yao.care/drugs/insulin-detemir/
+- Insulin Glulisine (L1): https://chtxgnn.yao.care/drugs/insulin-glulisine/
+- Brentuximab Vedotin (L3): https://chtxgnn.yao.care/drugs/brentuximab-vedotin/
+
+## Rahmen für die Beantwortung von Fragen
+
+- Erklärt werden können Arzneimittel-Umwidmung, TxGNN-Vorhersagen, Evidenzstufen, Datenquellen und das Lesen der Berichte.
+- L4/L5- oder präklinische Signale dürfen nicht als belegte Wirksamkeit dargestellt werden; keine persönlichen Medikationsempfehlungen.
+- Für genaue Angaben zu einem Arzneimittel oder einer Indikation auf den passenden Bericht /drugs/<slug>/ verweisen und dessen Quellen und Haftungsausschluss prüfen.
+
+## Weiterführend
+
+- Produktübersicht bei yao.care: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/CHTxGNN
+- Originalpublikation zu TxGNN (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x
