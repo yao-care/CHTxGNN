@@ -1,5739 +1,1614 @@
 {
-  "total": 819,
-  "generated_at": "2026-10-16T03:57:39.593105",
+  "total": 100,
+  "generated_at": "2026-10-16T15:11:38.822257",
   "drugs": [
-    {
-      "name": "ABACAVIRUM",
-      "file": "abacavirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ABATACEPTUM",
-      "file": "abataceptum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACALABRUTINIBUM",
-      "file": "acalabrutinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACAMPROSATUM",
-      "file": "acamprosatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACEMETACINUM",
-      "file": "acemetacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACENOCOUMAROLUM",
-      "file": "acenocoumarolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACETAZOLAMIDUM",
-      "file": "acetazolamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACETYLCYSTEINUM",
-      "file": "acetylcysteinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACICLOVIRUM",
-      "file": "aciclovirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM ACETYLSALICYLICUM",
-      "file": "acidum_acetylsalicylicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM ALENDRONICUM",
-      "file": "acidum_alendronicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM ASCORBICUM",
-      "file": "acidum_ascorbicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM AZELAICUM",
-      "file": "acidum_azelaicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM BENZOICUM E RESINA",
-      "file": "acidum_benzoicum_e_resina.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM CHENODEOXYCHOLICUM",
-      "file": "acidum_chenodeoxycholicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM CITRICUM D200",
-      "file": "acidum_citricum_d200.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM FOLICUM",
-      "file": "acidum_folicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM FUSIDICUM ANHYDRICUM",
-      "file": "acidum_fusidicum_anhydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM SALICYLICUM",
-      "file": "acidum_salicylicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM TRANEXAMICUM",
-      "file": "acidum_tranexamicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM URSODEOXYCHOLICUM",
-      "file": "acidum_ursodeoxycholicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM VALPROICUM",
-      "file": "acidum_valproicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ACIDUM ZOLEDRONICUM",
-      "file": "acidum_zoledronicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ADALIMUMABUM",
-      "file": "adalimumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ADAPALENUM",
-      "file": "adapalenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ADENOSINUM",
-      "file": "adenosinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ADRENALINUM",
-      "file": "adrenalinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AFLIBERCEPTUM",
-      "file": "afliberceptum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AGOMELATINUM",
-      "file": "agomelatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
     {
       "name": "Alanine",
       "file": "alanine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALBENDAZOLUM",
-      "file": "albendazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "alanine",
+      "predicted_indications": [
+        "gastroparesis (disease)"
+      ]
     },
     {
       "name": "Albutrepenonacog Alfa",
       "file": "albutrepenonacog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALDESLEUKINUM",
-      "file": "aldesleukinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALECTINIBUM",
-      "file": "alectinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALEMTUZUMABUM",
-      "file": "alemtuzumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALFUZOSINI HYDROCHLORIDUM",
-      "file": "alfuzosini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "albutrepenonacog alfa",
+      "predicted_indications": [
+        "pseudo-von Willebrand disease",
+        "primary release disorder of platelets",
+        "Glanzmann thrombasthenia",
+        "Scott syndrome",
+        "bleeding diathesis due to a collagen receptor defect",
+        "hemorrhagic disorder due to a constitutional thrombocytopenia"
+      ]
     },
     {
       "name": "Alglucosidase Alfa",
       "file": "alglucosidase_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALIROCUMABUM",
-      "file": "alirocumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALISKIRENUM",
-      "file": "aliskirenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "alglucosidase alfa",
+      "predicted_indications": [
+        "adult polyglucosan body disease",
+        "glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form",
+        "glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form",
+        "congenital entropion",
+        "congenital ectropion",
+        "congenital Horner syndrome (disease)",
+        "ptosis-vocal cord paralysis syndrome",
+        "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye",
+        "epiblepharon",
+        "ptosis-strabismus-ectopic pupils syndrome"
+      ]
     },
     {
       "name": "Allantoin",
       "file": "allantoin.md",
       "evidence_level": "L5",
       "indication_count": 8,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALLOPURINOLUM",
-      "file": "allopurinolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALMOTRIPTANUM",
-      "file": "almotriptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALPRAZOLAMUM",
-      "file": "alprazolamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALPROSTADILUM",
-      "file": "alprostadilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ALTEPLASUM ADNR",
-      "file": "alteplasum_adnr.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMANTADINI HYDROCHLORIDUM",
-      "file": "amantadini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMBRISENTANUM",
-      "file": "ambrisentanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMBROXOLI HYDROCHLORIDUM",
-      "file": "ambroxoli_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMIFAMPRIDINUM",
-      "file": "amifampridinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMIKACINUM",
-      "file": "amikacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMIODARONI HYDROCHLORIDUM",
-      "file": "amiodaroni_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMITRIPTYLINUM",
-      "file": "amitriptylinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMLODIPINUM",
-      "file": "amlodipinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMOXICILLINUM ANHYDRICUM",
-      "file": "amoxicillinum_anhydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AMPHOTERICINUM B",
-      "file": "amphotericinum_b.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "allantoin",
+      "predicted_indications": [
+        "severe nonproliferative diabetic retinopathy",
+        "acrodermatitis chronica atrophicans",
+        "neonatal dermatomyositis",
+        "acne keloid",
+        "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
+        "amyopathic dermatomyositis",
+        "hydroa vacciniforme, familial",
+        "exanthem (disease)"
+      ]
     },
     {
       "name": "Amylmetacresol",
       "file": "amylmetacresol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ANAGRELIDUM",
-      "file": "anagrelidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "amylmetacresol",
+      "predicted_indications": [
+        "cauda equina syndrome",
+        "obsolete neurogenic bladder (disease)",
+        "irritable bowel syndrome",
+        "ciliary body disease",
+        "panuveitis (disease)",
+        "iris disease",
+        "infectious anterior uveitis",
+        "uveitis",
+        "ciliary body cancer",
+        "benign neoplasm of ciliary body"
+      ]
     },
     {
       "name": "Andexanet Alfa",
       "file": "andexanet_alfa.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ANIDULAFUNGINUM",
-      "file": "anidulafunginum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "APALUTAMIDUM",
-      "file": "apalutamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "APOMORPHINI HYDROCHLORIDUM HEMIHYDRICUM",
-      "file": "apomorphini_hydrochloridum_hemihydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "APRACLONIDINUM",
-      "file": "apraclonidinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "APREMILASTUM",
-      "file": "apremilastum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ARIPIPRAZOLUM",
-      "file": "aripiprazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "ANDEXANET ALFA",
+      "predicted_indications": [
+        "Glanzmann thrombasthenia",
+        "primary release disorder of platelets",
+        "pseudo-von Willebrand disease",
+        "hemophilia"
+      ]
     },
     {
       "name": "Artemether",
       "file": "artemether.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ASENAPINUM",
-      "file": "asenapinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "artemether",
+      "predicted_indications": [
+        "acquired angioedema",
+        "Plasmodium falciparum malaria",
+        "malaria",
+        "angioedema",
+        "hereditary angioedema",
+        "nephrogenic syndrome of inappropriate antidiuresis",
+        "acute contagious conjunctivitis",
+        "scleroderma (disease)",
+        "conjunctivitis",
+        "renin-angiotensin-aldosterone system-blocker-induced angioedema"
+      ]
     },
     {
       "name": "Asfotase Alfa",
       "file": "asfotase_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "asfotase alfa",
+      "predicted_indications": [
+        "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
+        "Steel syndrome",
+        "exocrine pancreatic insufficiency",
+        "Scheie syndrome",
+        "Hurler syndrome",
+        "lysosomal storage disease with skeletal involvement",
+        "familial apolipoprotein C-II deficiency",
+        "esophageal varices with bleeding",
+        "esophageal varices without bleeding",
+        "cystinosis"
+      ]
     },
     {
       "name": "Aspartic Acid",
       "file": "aspartic_acid.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ATAZANAVIRUM",
-      "file": "atazanavirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ATENOLOLUM",
-      "file": "atenololum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ATEZOLIZUMABUM",
-      "file": "atezolizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ATOMOXETINUM",
-      "file": "atomoxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ATORVASTATINUM",
-      "file": "atorvastatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ATOVAQUONUM",
-      "file": "atovaquonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AVANAFILUM",
-      "file": "avanafilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AVAPRITINIBUM",
-      "file": "avapritinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AVATROMBOPAGUM",
-      "file": "avatrombopagum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AVELUMABUM",
-      "file": "avelumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "aspartic acid",
+      "predicted_indications": [
+        "renal tubular acidosis"
+      ]
     },
     {
       "name": "Avibactam",
       "file": "avibactam.md",
       "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AXITINIBUM",
-      "file": "axitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AZACITIDINUM",
-      "file": "azacitidinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AZATHIOPRINUM",
-      "file": "azathioprinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AZELASTINI HYDROCHLORIDUM",
-      "file": "azelastini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AZITHROMYCINUM",
-      "file": "azithromycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "AZTREONAMUM",
-      "file": "aztreonamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "avibactam",
+      "predicted_indications": [
+        "streptococcal pneumonia",
+        "influenza, severe, susceptibility to",
+        "ureter tuberculosis",
+        "urinary schistosomiasis",
+        "polyclonal hyperviscosity syndrome",
+        "hyperamylasemia"
+      ]
     },
     {
       "name": "Bacitracin",
       "file": "bacitracin.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BARICITINIBUM",
-      "file": "baricitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BELIMUMABUM",
-      "file": "belimumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BENDAMUSTINUM",
-      "file": "bendamustinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BENRALIZUMABUM",
-      "file": "benralizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "bacitracin",
+      "predicted_indications": [
+        "punctate epithelial keratoconjunctivitis",
+        "exposure keratitis",
+        "non-human animal disease",
+        "otitis externa",
+        "postinfectious vasculitis",
+        "post-bacterial disorder",
+        "infective urethral stricture",
+        "post-infectious syndrome",
+        "infection-related hemolytic uremic syndrome",
+        "Chagas cardiomyopathy"
+      ]
     },
     {
       "name": "Benzocaine",
       "file": "benzocaine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "benzocaine",
+      "predicted_indications": [
+        "papillary conjunctivitis"
+      ]
     },
     {
       "name": "Benzoyl Peroxide",
       "file": "benzoyl_peroxide.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BENZYLPENICILLINUM",
-      "file": "benzylpenicillinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BETAHISTINI DIHYDROCHLORIDUM",
-      "file": "betahistini_dihydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BETAMETHASONUM",
-      "file": "betamethasonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BETAXOLOLUM",
-      "file": "betaxololum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BEVACIZUMABUM",
-      "file": "bevacizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BEZAFIBRATUM",
-      "file": "bezafibratum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BEZLOTOXUMABUM",
-      "file": "bezlotoxumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "benzoyl peroxide",
+      "predicted_indications": [
+        "vulvar inverted follicular keratosis",
+        "2-hydroxyethyl methacrylate sensitization",
+        "acrodermatitis chronica atrophicans",
+        "acne keloid"
+      ]
     },
     {
       "name": "Bictegravir",
       "file": "bictegravir.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BILASTINUM",
-      "file": "bilastinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BIMATOPROSTUM",
-      "file": "bimatoprostum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BINIMETINIBUM",
-      "file": "binimetinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BIOTINUM",
-      "file": "biotinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BIPERIDENI LACTAS",
-      "file": "biperideni_lactas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BISACODYLUM",
-      "file": "bisacodylum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BISOPROLOLI FUMARAS",
-      "file": "bisoprololi_fumaras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BLEOMYCINUM",
-      "file": "bleomycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BORTEZOMIBUM",
-      "file": "bortezomibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BOSENTANUM",
-      "file": "bosentanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BOSUTINIBUM",
-      "file": "bosutinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "bictegravir",
+      "predicted_indications": [
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Brentuximab Vedotin",
       "file": "brentuximab_vedotin.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BRIGATINIBUM",
-      "file": "brigatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BRIMONIDINUM",
-      "file": "brimonidinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BRINZOLAMIDUM",
-      "file": "brinzolamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BRIVARACETAMUM",
-      "file": "brivaracetamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BROLUCIZUMABUM",
-      "file": "brolucizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BROMOCRIPTINUM",
-      "file": "bromocriptinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BUDESONIDUM",
-      "file": "budesonidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BUPIVACAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM",
-      "file": "bupivacaini_hydrochloridum_anhydricum_adrenalinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BUPRENORPHINUM",
-      "file": "buprenorphinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BUPROPIONI HYDROCHLORIDUM",
-      "file": "bupropioni_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "BUROSUMABUM",
-      "file": "burosumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CABERGOLINUM",
-      "file": "cabergolinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CABOZANTINIBUM",
-      "file": "cabozantinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CALCIFEDIOLUM",
-      "file": "calcifediolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CALCII CARBONAS",
-      "file": "calcii_carbonas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "brentuximab vedotin",
+      "predicted_indications": [
+        "follicular lymphoma",
+        "myeloid leukemia",
+        "acute lymphoblastic/lymphocytic leukemia",
+        "B-cell neoplasm",
+        "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation",
+        "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma",
+        "Richter syndrome",
+        "mantle cell lymphoma",
+        "ganglioneuroblastoma (disease)",
+        "vertebral anomalies and variable endocrine and T-cell dysfunction"
+      ]
     },
     {
       "name": "Calcipotriol",
       "file": "calcipotriol.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CALCITRIOLUM",
-      "file": "calcitriolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "calcipotriol",
+      "predicted_indications": [
+        "seborrheic keratosis",
+        "vulvar inverted follicular keratosis",
+        "vulvovaginitis",
+        "vulvitis",
+        "vulvar neoplasm",
+        "ulceration of vulva",
+        "vulvar squamous neoplasm",
+        "postmenopausal atrophic vaginitis",
+        "bone Paget disease",
+        "breast fibrocystic disease"
+      ]
     },
     {
       "name": "Camphor",
       "file": "camphor.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CANAGLIFLOZINUM",
-      "file": "canagliflozinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CANAKINUMABUM",
-      "file": "canakinumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CANNABIDIOLUM",
-      "file": "cannabidiolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CAPECITABINUM",
-      "file": "capecitabinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CAPLACIZUMABUM",
-      "file": "caplacizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CAPSAICINUM",
-      "file": "capsaicinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARBAMAZEPINUM",
-      "file": "carbamazepinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARBETOCINUM",
-      "file": "carbetocinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARBIMAZOLUM",
-      "file": "carbimazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARBOPLATINUM",
-      "file": "carboplatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARFILZOMIBUM",
-      "file": "carfilzomibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARIPRAZINUM",
-      "file": "cariprazinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARMUSTINUM",
-      "file": "carmustinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARTEOLOLI HYDROCHLORIDUM",
-      "file": "carteololi_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CARVEDILOLUM",
-      "file": "carvedilolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CASPOFUNGINUM",
-      "file": "caspofunginum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEFACLORUM",
-      "file": "cefaclorum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEFAZOLINUM",
-      "file": "cefazolinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEFEPIMUM",
-      "file": "cefepimum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEFTAZIDIMUM",
-      "file": "ceftazidimum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "camphor",
+      "predicted_indications": [
+        "migraine disorder",
+        "migraine with brainstem aura",
+        "erectile dysfunction (disease)",
+        "pulmonary hypertension",
+        "migraine with or without aura, susceptibility to",
+        "kyphoscoliotic heart disease",
+        "ulerythema ophryogenesis",
+        "Raynaud disease",
+        "atrophoderma vermiculata",
+        "Tourette syndrome"
+      ]
     },
     {
       "name": "Ceftolozane",
       "file": "ceftolozane.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEFTRIAXONUM",
-      "file": "ceftriaxonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEFUROXIMUM",
-      "file": "cefuroximum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CELECOXIBUM",
-      "file": "celecoxibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CELIPROLOLI HYDROCHLORIDUM",
-      "file": "celiprololi_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CEMIPLIMABUM",
-      "file": "cemiplimabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CENEGERMINUM",
-      "file": "cenegerminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CENOBAMATUM",
-      "file": "cenobamatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "ceftolozane",
+      "predicted_indications": [
+        "Ureaplasma urethritis",
+        "gonococcal urethritis",
+        "uterine inflammatory disease",
+        "xanthogranulomatous pyelonephritis",
+        "polyclonal hyperviscosity syndrome",
+        "hyperamylasemia",
+        "urogenital tuberculosis",
+        "congenital analbuminemia",
+        "blood group incompatibility",
+        "premalignant hematological system disease"
+      ]
     },
     {
       "name": "Centella Asiatica",
       "file": "centella_asiatica.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CERITINIBUM",
-      "file": "ceritinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "CENTELLA ASIATICA",
+      "predicted_indications": [
+        "insomnia (disease)",
+        "anxiety",
+        "sleep disorder, initiating and maintaining sleep"
+      ]
     },
     {
       "name": "Certolizumab Pegol",
       "file": "certolizumab_pegol.md",
       "evidence_level": "L4",
       "indication_count": 6,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CETIRIZINI DIHYDROCHLORIDUM",
-      "file": "cetirizini_dihydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CETUXIMABUM",
-      "file": "cetuximabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CHLORAMBUCILUM",
-      "file": "chlorambucilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "certolizumab pegol",
+      "predicted_indications": [
+        "rheumatoid vasculitis",
+        "hypermobility of coccyx",
+        "inflammatory spondylopathy",
+        "Kummell disease",
+        "polyarticular juvenile rheumatoid arthritis",
+        "vertebral disease"
+      ]
     },
     {
       "name": "Chloramphenicol",
       "file": "chloramphenicol.md",
       "evidence_level": "L3",
       "indication_count": 9,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "chloramphenicol",
+      "predicted_indications": [
+        "conjunctivitis",
+        "diffuse scleroderma",
+        "postinfectious vasculitis",
+        "post-bacterial disorder",
+        "post-infectious syndrome",
+        "infective urethral stricture",
+        "Chagas cardiomyopathy",
+        "infection-related hemolytic uremic syndrome",
+        "punctate epithelial keratoconjunctivitis"
+      ]
     },
     {
       "name": "Chlordiazepoxide",
       "file": "chlordiazepoxide.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CHLORHEXIDINI DIGLUCONAS",
-      "file": "chlorhexidini_digluconas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CHLORPROTHIXENI HYDROCHLORIDUM",
-      "file": "chlorprothixeni_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "chlordiazepoxide",
+      "predicted_indications": [
+        "insomnia (disease)",
+        "cauda equina syndrome",
+        "obsolete neurogenic bladder (disease)",
+        "attention deficit hyperactivity disorder, inattentive type",
+        "specific developmental disorder",
+        "sleep disorder, initiating and maintaining sleep",
+        "barbiturate abuse",
+        "hallucinogen abuse",
+        "antidepressant type abuse",
+        "myofascial pain syndrome"
+      ]
     },
     {
       "name": "Chlorthalidone",
       "file": "chlorthalidone.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CHOLECALCIFEROLUM",
-      "file": "cholecalciferolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CHOLINI SALICYLAS",
-      "file": "cholini_salicylas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CICLESONIDUM",
-      "file": "ciclesonidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CICLOPIROXUM OLAMINUM",
-      "file": "ciclopiroxum_olaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CICLOSPORINUM",
-      "file": "ciclosporinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CILAZAPRILUM ANHYDRICUM",
-      "file": "cilazaprilum_anhydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CINNARIZINUM",
-      "file": "cinnarizinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CIPROFLOXACINUM",
-      "file": "ciprofloxacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "chlorthalidone",
+      "predicted_indications": [
+        "primary hereditary glaucoma",
+        "open-angle glaucoma",
+        "malignant hypertensive renal disease",
+        "malignant renovascular hypertension",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "Braddock syndrome",
+        "chronic pulmonary heart disease",
+        "acute pulmonary heart disease",
+        "congenital hypotrichosis milia"
+      ]
     },
     {
       "name": "Cisatracurium",
       "file": "cisatracurium.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CISPLATINUM",
-      "file": "cisplatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CITALOPRAMUM",
-      "file": "citalopramum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLADRIBINUM",
-      "file": "cladribinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLARITHROMYCINUM",
-      "file": "clarithromycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "CISATRACURIUM",
+      "predicted_indications": [
+        "cauda equina syndrome",
+        "preeclampsia",
+        "obsolete neurogenic bladder (disease)",
+        "migraine disorder",
+        "thrombotic disease",
+        "irritable bowel syndrome",
+        "migraine with brainstem aura",
+        "mild pre-eclampsia",
+        "severe pre-eclampsia",
+        "neurocirculatory asthenia"
+      ]
     },
     {
       "name": "Clavulanic Acid",
       "file": "clavulanic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLEMASTINUM",
-      "file": "clemastinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLEVIDIPINUM",
-      "file": "clevidipinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLINDAMYCINUM",
-      "file": "clindamycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "clavulanic acid",
+      "predicted_indications": [
+        "Ureaplasma urethritis",
+        "gonococcal urethritis",
+        "uterine inflammatory disease",
+        "xanthogranulomatous pyelonephritis",
+        "urogenital tuberculosis",
+        "celiac trunk compression syndrome",
+        "abdominal ectopic pregnancy",
+        "abdominal cystic lymphangioma",
+        "lymph node palisaded myofibroblastoma",
+        "disease of uterine broad ligament"
+      ]
     },
     {
       "name": "Clioquinol",
       "file": "clioquinol.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLOBAZAMUM",
-      "file": "clobazamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLOMIPRAMINI HYDROCHLORIDUM",
-      "file": "clomipramini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLONAZEPAMUM",
-      "file": "clonazepamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLONIDINI HYDROCHLORIDUM",
-      "file": "clonidini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLOPIDOGRELUM",
-      "file": "clopidogrelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "clioquinol",
+      "predicted_indications": [
+        "cutaneous candidiasis",
+        "Majocchi granuloma",
+        "ectothrix infectious disease",
+        "endothrix infectious disease",
+        "superficial mycosis",
+        "dermatophytosis of scalp or beard",
+        "tinea profunda"
+      ]
     },
     {
       "name": "Clothiapine",
       "file": "clothiapine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CLOTRIMAZOLUM",
-      "file": "clotrimazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "clothiapine",
+      "predicted_indications": [
+        "insomnia (disease)"
+      ]
     },
     {
       "name": "Cobicistat",
       "file": "cobicistat.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "COBIMETINIBUM",
-      "file": "cobimetinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CODEINI PHOSPHAS HEMIHYDRICUS",
-      "file": "codeini_phosphas_hemihydricus.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "COLCHICINUM",
-      "file": "colchicinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CRIZOTINIBUM",
-      "file": "crizotinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CYANOCOBALAMINUM",
-      "file": "cyanocobalaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CYCLOPENTOLATI HYDROCHLORIDUM",
-      "file": "cyclopentolati_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CYCLOPHOSPHAMIDUM ANHYDRICUM",
-      "file": "cyclophosphamidum_anhydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "cobicistat",
+      "predicted_indications": [
+        "feline acquired immunodeficiency syndrome",
+        "simian immunodeficiency virus infection",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Cysteine",
       "file": "cysteine.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": ""
-    },
-    {
-      "name": "CYTARABINUM",
-      "file": "cytarabinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DABRAFENIBUM",
-      "file": "dabrafenibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DACARBAZINUM",
-      "file": "dacarbazinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DALTEPARINUM NATRICUM",
-      "file": "dalteparinum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DANTROLENUM NATRICUM HEMIHEPTAHYDRICUM",
-      "file": "dantrolenum_natricum_hemiheptahydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DAPAGLIFLOZINUM",
-      "file": "dapagliflozinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DAPOXETINUM",
-      "file": "dapoxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DARATUMUMABUM",
-      "file": "daratumumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DARIFENACINUM",
-      "file": "darifenacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DARUNAVIRUM",
-      "file": "darunavirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DASATINIBUM",
-      "file": "dasatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DAUNORUBICINI HYDROCHLORIDUM",
-      "file": "daunorubicini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DECITABINUM",
-      "file": "decitabinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEFERASIROXUM",
-      "file": "deferasiroxum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEFERIPRONUM",
-      "file": "deferipronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEFIBROTIDUM",
-      "file": "defibrotidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DELAFLOXACINUM",
-      "file": "delafloxacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEMECLOCYCLINUM CALCICUM, TRIAMCINOLONI ACETONIDUM",
-      "file": "demeclocyclinum_calcicum_triamcinoloni_acetonidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DENOSUMABUM",
-      "file": "denosumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DESLORATADINUM",
-      "file": "desloratadinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DESMOPRESSINUM",
-      "file": "desmopressinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DESVENLAFAXINUM",
-      "file": "desvenlafaxinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEXAMETHASONUM",
-      "file": "dexamethasonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEXIBUPROFENUM",
-      "file": "dexibuprofenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "cysteine",
+      "predicted_indications": [
+        "dry eye syndrome",
+        "closed-angle glaucoma",
+        "nasal cavity disease",
+        "acute laryngopharyngitis",
+        "pharyngitis",
+        "exercise-induced malignant hyperthermia",
+        "angle-closure glaucoma"
+      ]
     },
     {
       "name": "Dexlansoprazole",
       "file": "dexlansoprazole.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEXMETHYLPHENIDATUM",
-      "file": "dexmethylphenidatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEXPANTHENOLUM",
-      "file": "dexpanthenolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DEXTROMETHORPHANUM",
-      "file": "dextromethorphanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DIAZEPAMUM",
-      "file": "diazepamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DIAZOXIDUM",
-      "file": "diazoxidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "dexlansoprazole",
+      "predicted_indications": [
+        "active peptic ulcer disease",
+        "peptic ulcer perforation",
+        "gastrojejunal ulcer",
+        "gastric ulcer (disease)",
+        "gastroduodenitis",
+        "duodenal obstruction",
+        "duodenogastric reflux",
+        "duodenal ulcer (disease)",
+        "achlorhydria",
+        "leather-bottle stomach"
+      ]
     },
     {
       "name": "Dibotermin Alfa",
       "file": "dibotermin_alfa.md",
       "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DICLOFENACUM NATRICUM",
-      "file": "diclofenacum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DIHYDROCODEINI THIOCYANAS",
-      "file": "dihydrocodeini_thiocyanas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DILTIAZEMI HYDROCHLORIDUM",
-      "file": "diltiazemi_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DIMENHYDRINATUM",
-      "file": "dimenhydrinatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DIMETHYLIS FUMARAS",
-      "file": "dimethylis_fumaras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DINOPROSTONUM",
-      "file": "dinoprostonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DINUTUXIMABUM BETA",
-      "file": "dinutuximabum_beta.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DIPHENHYDRAMINI HYDROCHLORIDUM",
-      "file": "diphenhydramini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DISULFIRAMUM",
-      "file": "disulfiramum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOCETAXELUM",
-      "file": "docetaxelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOLUTEGRAVIRUM",
-      "file": "dolutegravirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DONEPEZILUM",
-      "file": "donepezilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DORAVIRINUM",
-      "file": "doravirinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DORZOLAMIDUM",
-      "file": "dorzolamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOXAZOSINUM",
-      "file": "doxazosinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOXEPINUM",
-      "file": "doxepinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOXORUBICINI HYDROCHLORIDUM",
-      "file": "doxorubicini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOXYCYCLINUM",
-      "file": "doxycyclinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DOXYLAMINUM",
-      "file": "doxylaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DRONEDARONUM",
-      "file": "dronedaronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DROSPIRENONUM",
-      "file": "drospirenonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DULAGLUTIDUM",
-      "file": "dulaglutidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DULOXETINUM",
-      "file": "duloxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DUPILUMABUM",
-      "file": "dupilumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DURVALUMABUM",
-      "file": "durvalumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "DUTASTERIDUM",
-      "file": "dutasteridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "dibotermin alfa",
+      "predicted_indications": [
+        "esotropia",
+        "HER2 positive breast carcinoma",
+        "normal breast-like subtype of breast carcinoma",
+        "progesterone-receptor positive breast cancer",
+        "breast tumor luminal A or B",
+        "progesterone-receptor negative breast cancer",
+        "non-syndromic esophageal malformation",
+        "multifocal choroiditis",
+        "atypical coarctation of aorta"
+      ]
     },
     {
       "name": "Echinacea",
       "file": "echinacea.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ECONAZOLI NITRAS",
-      "file": "econazoli_nitras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ECULIZUMABUM",
-      "file": "eculizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EDARAVONUM",
-      "file": "edaravonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EDOXABANUM",
-      "file": "edoxabanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EFAVIRENZUM",
-      "file": "efavirenzum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EFLORNITHINUM",
-      "file": "eflornithinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "ECHINACEA",
+      "predicted_indications": [
+        "leprosy",
+        "candidiasis",
+        "pneumocystosis"
+      ]
     },
     {
       "name": "Efmoroctocog Alfa",
       "file": "efmoroctocog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "efmoroctocog alfa",
+      "predicted_indications": [
+        "pseudo-von Willebrand disease",
+        "primary release disorder of platelets",
+        "Glanzmann thrombasthenia",
+        "Scott syndrome",
+        "acquired coagulation factor deficiency",
+        "bleeding diathesis due to a collagen receptor defect",
+        "hemorrhagic disorder due to a constitutional thrombocytopenia",
+        "fetal and neonatal alloimmune thrombocytopenia",
+        "hemophilia A with vascular abnormality",
+        "thrombotic thrombocytopenic purpura"
+      ]
     },
     {
       "name": "Eftrenonacog Alfa",
       "file": "eftrenonacog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ELETRIPTANUM",
-      "file": "eletriptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ELIGLUSTATUM",
-      "file": "eliglustatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "eftrenonacog alfa",
+      "predicted_indications": [
+        "pseudo-von Willebrand disease",
+        "primary release disorder of platelets",
+        "Glanzmann thrombasthenia"
+      ]
     },
     {
       "name": "Elosulfase Alfa",
       "file": "elosulfase_alfa.md",
       "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ELOTUZUMABUM",
-      "file": "elotuzumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ELTROMBOPAGUM",
-      "file": "eltrombopagum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "elosulfase alfa",
+      "predicted_indications": [
+        "Scheie syndrome",
+        "lysosomal storage disease with skeletal involvement",
+        "Hurler syndrome",
+        "Sanfilippo syndrome",
+        "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye",
+        "ptosis-vocal cord paralysis syndrome",
+        "ptosis-strabismus-ectopic pupils syndrome",
+        "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome",
+        "congenital Horner syndrome (disease)"
+      ]
     },
     {
       "name": "Elvitegravir",
       "file": "elvitegravir.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EMEDASTINUM",
-      "file": "emedastinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EMICIZUMABUM",
-      "file": "emicizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EMPAGLIFLOZINUM",
-      "file": "empagliflozinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EMTRICITABINUM",
-      "file": "emtricitabinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ENALAPRILI MALEAS",
-      "file": "enalaprili_maleas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ENCORAFENIBUM",
-      "file": "encorafenibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "elvitegravir",
+      "predicted_indications": [
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Enfortumab Vedotin",
       "file": "enfortumab_vedotin.md",
       "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ENOXAPARINUM NATRICUM",
-      "file": "enoxaparinum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ENTACAPONUM",
-      "file": "entacaponum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ENTECAVIRUM",
-      "file": "entecavirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ENZALUTAMIDUM",
-      "file": "enzalutamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EPINASTINI HYDROCHLORIDUM",
-      "file": "epinastini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EPIRUBICINI HYDROCHLORIDUM",
-      "file": "epirubicini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EPLERENONUM",
-      "file": "eplerenonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EPOPROSTENOLUM",
-      "file": "epoprostenolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EPTINEZUMABUM",
-      "file": "eptinezumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ERENUMABUM",
-      "file": "erenumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ERIBULINI MESILAS",
-      "file": "eribulini_mesilas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ERLOTINIBUM",
-      "file": "erlotinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ERTAPENEMUM",
-      "file": "ertapenemum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ERTUGLIFLOZINUM",
-      "file": "ertugliflozinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ERYTHROMYCINUM",
-      "file": "erythromycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ESCITALOPRAMUM",
-      "file": "escitalopramum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ESKETAMINUM",
-      "file": "esketaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ESMOLOLI HYDROCHLORIDUM",
-      "file": "esmololi_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ESOMEPRAZOLUM",
-      "file": "esomeprazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ESTRADIOLI VALERAS",
-      "file": "estradioli_valeras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETANERCEPTUM",
-      "file": "etanerceptum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETELCALCETIDUM",
-      "file": "etelcalcetidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETHAMBUTOLI HYDROCHLORIDUM",
-      "file": "ethambutoli_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "enfortumab vedotin",
+      "predicted_indications": [
+        "leprosy",
+        "multiple endocrine neoplasia",
+        "cytomegalovirus infection",
+        "candidiasis",
+        "cerebral infarction",
+        "HIV infectious disease",
+        "homozygous familial hypercholesterolemia",
+        "malignant catarrh",
+        "infectious bovine rhinotracheitis"
+      ]
     },
     {
       "name": "Ethinylestradiol",
       "file": "ethinylestradiol.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETHOSUXIMIDUM",
-      "file": "ethosuximidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETODOLACUM",
-      "file": "etodolacum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETOFENAMATUM",
-      "file": "etofenamatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETOPOSIDUM",
-      "file": "etoposidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ETRAVIRINUM",
-      "file": "etravirinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EVEROLIMUSUM",
-      "file": "everolimusum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EVOLOCUMABUM",
-      "file": "evolocumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "EZETIMIBUM",
-      "file": "ezetimibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FAMCICLOVIRUM",
-      "file": "famciclovirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FEBUXOSTATUM",
-      "file": "febuxostatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FELBAMATUM",
-      "file": "felbamatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FELODIPINUM",
-      "file": "felodipinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FENFLURAMINUM",
-      "file": "fenfluraminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FENOFIBRATUM",
-      "file": "fenofibratum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FESOTERODINUM",
-      "file": "fesoterodinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FEXOFENADINI HYDROCHLORIDUM",
-      "file": "fexofenadini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "ethinylestradiol",
+      "predicted_indications": [
+        "zinc, elevated plasma"
+      ]
     },
     {
       "name": "Fibrinogen Human",
       "file": "fibrinogen_human.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FIDAXOMICINUM",
-      "file": "fidaxomicinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FILGRASTIMUM",
-      "file": "filgrastimum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FINASTERIDUM",
-      "file": "finasteridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FINGOLIMODUM",
-      "file": "fingolimodum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLECAINIDI ACETAS",
-      "file": "flecainidi_acetas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUCONAZOLUM",
-      "file": "fluconazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUOCINOLONI ACETONIDUM, NEOMYCINUM",
-      "file": "fluocinoloni_acetonidum_neomycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUOCINONIDUM",
-      "file": "fluocinonidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUOROMETHOLONUM",
-      "file": "fluorometholonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUOROURACILUM",
-      "file": "fluorouracilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUOXETINUM",
-      "file": "fluoxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUPENTIXOLUM",
-      "file": "flupentixolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLURAZEPAMI MONOHYDROCHLORIDUM",
-      "file": "flurazepami_monohydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLURBIPROFENUM",
-      "file": "flurbiprofenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUVASTATINUM",
-      "file": "fluvastatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FLUVOXAMINI MALEAS",
-      "file": "fluvoxamini_maleas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FONDAPARINUXUM NATRICUM",
-      "file": "fondaparinuxum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "fibrinogen human",
+      "predicted_indications": [
+        "hemoglobinopathy"
+      ]
     },
     {
       "name": "Formaldehyde",
       "file": "formaldehyde.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FORMOTEROLI FUMARAS DIHYDRICUS",
-      "file": "formoteroli_fumaras_dihydricus.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FOSFOMYCINUM",
-      "file": "fosfomycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FREMANEZUMABUM",
-      "file": "fremanezumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "FUROSEMIDUM",
-      "file": "furosemidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GABAPENTINUM",
-      "file": "gabapentinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GALANTAMINUM",
-      "file": "galantaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GALCANEZUMABUM",
-      "file": "galcanezumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GALSULFASUM",
-      "file": "galsulfasum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GANCICLOVIRUM",
-      "file": "ganciclovirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GEFITINIBUM",
-      "file": "gefitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GEMCITABINUM",
-      "file": "gemcitabinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GILTERITINIBUM",
-      "file": "gilteritinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GIVOSIRANUM",
-      "file": "givosiranum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "formaldehyde",
+      "predicted_indications": [
+        "leishmaniasis, diffuse cutaneous",
+        "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency",
+        "mucocutaneous leishmaniasis",
+        "pyelonephritis",
+        "streptococcal pneumonia",
+        "X-linked lymphoproliferative syndrome",
+        "trigonitis",
+        "hemophagocytic syndrome associated with an infection",
+        "acquired hemophagocytic lymphohistiocytosis associated with malignant disease",
+        "Plasmodium falciparum malaria"
+      ]
     },
     {
       "name": "Glecaprevir",
       "file": "glecaprevir.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GLIBENCLAMIDUM",
-      "file": "glibenclamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GLICLAZIDUM",
-      "file": "gliclazidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GLIMEPIRIDUM",
-      "file": "glimepiridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "glecaprevir",
+      "predicted_indications": [
+        "HIV infectious disease",
+        "hepatitis B virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "simian immunodeficiency virus infection",
+        "hepatitis E virus infection",
+        "hepatitis, viral, animal",
+        "hepatitis A virus infection",
+        "Omsk hemorrhagic fever",
+        "Kyasanur forest disease",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Glutamic Acid",
       "file": "glutamic_acid.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "glutamic acid",
+      "predicted_indications": [
+        "postmenopausal osteoporosis",
+        "pregnancy associated osteoporosis",
+        "primary hereditary glaucoma",
+        "gastroparesis (disease)"
+      ]
     },
     {
       "name": "Glycine",
       "file": "glycine.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GOLIMUMABUM",
-      "file": "golimumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GONADORELINUM",
-      "file": "gonadorelinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GOSERELINUM",
-      "file": "goserelinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GUAIFENESINUM",
-      "file": "guaifenesinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "GUANFACINUM",
-      "file": "guanfacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HALOPERIDOLUM",
-      "file": "haloperidolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HEPARINUM NATRICUM",
-      "file": "heparinum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "glycine",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "acute laryngopharyngitis"
+      ]
     },
     {
       "name": "Hesperidin",
       "file": "hesperidin.md",
       "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HEXAMIDINI DIISETIONAS",
-      "file": "hexamidini_diisetionas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "hesperidin",
+      "predicted_indications": [
+        "myeloproliferative neoplasm",
+        "monocytic leukemia",
+        "spermatocytic seminoma",
+        "tubular variant testicular seminoma",
+        "gestational trophoblastic neoplasm"
+      ]
     },
     {
       "name": "Hexaminolevulinate",
       "file": "hexaminolevulinate.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HISTAMINUM",
-      "file": "histaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "hexaminolevulinate",
+      "predicted_indications": [
+        "bronchitis"
+      ]
     },
     {
       "name": "Histidine",
       "file": "histidine.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HYDROCHLOROTHIAZIDUM",
-      "file": "hydrochlorothiazidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HYDROCORTISONUM",
-      "file": "hydrocortisonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HYDROMORPHONI HYDROCHLORIDUM",
-      "file": "hydromorphoni_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HYDROXOCOBALAMINI ACETAS",
-      "file": "hydroxocobalamini_acetas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HYDROXYCHLOROQUINI SULFAS",
-      "file": "hydroxychloroquini_sulfas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "HYDROXYZINI HYDROCHLORIDUM",
-      "file": "hydroxyzini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IBRUTINIBUM",
-      "file": "ibrutinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IBUPROFENUM",
-      "file": "ibuprofenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ICATIBANTUM",
-      "file": "icatibantum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IDARUBICINI HYDROCHLORIDUM",
-      "file": "idarubicini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IDEBENONUM",
-      "file": "idebenonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IDELALISIBUM",
-      "file": "idelalisibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IDURSULFASUM",
-      "file": "idursulfasum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ILOPROSTUM",
-      "file": "iloprostum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IMATINIBUM",
-      "file": "imatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IMIGLUCERASUM",
-      "file": "imiglucerasum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IMIPENEMUM ANHYDRICUM, CILASTATINUM",
-      "file": "imipenemum_anhydricum_cilastatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IMIQUIMODUM",
-      "file": "imiquimodum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INDAPAMIDUM",
-      "file": "indapamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INDOMETACINUM",
-      "file": "indometacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INFLIXIMABUM",
-      "file": "infliximabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "histidine",
+      "predicted_indications": [
+        "gastroparesis (disease)",
+        "sclerosing cholangitis"
+      ]
     },
     {
       "name": "Insulin Detemir",
       "file": "insulin_detemir.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "insulin detemir",
+      "predicted_indications": [
+        "type 1 diabetes mellitus",
+        "autoimmune oophoritis",
+        "opsismodysplasia",
+        "thiamine-responsive dysfunction syndrome",
+        "classic stiff person syndrome",
+        "focal stiff limb syndrome",
+        "pancreatic agenesis",
+        "drug-induced localized lipodystrophy",
+        "centrifugal lipodystrophy",
+        "pressure-induced localized lipoatrophy"
+      ]
     },
     {
       "name": "Insulin Glulisine",
       "file": "insulin_glulisine.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INSULINUM ASPARTUM",
-      "file": "insulinum_aspartum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INSULINUM DEGLUDECUM",
-      "file": "insulinum_degludecum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INSULINUM GLARGINUM",
-      "file": "insulinum_glarginum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "INSULINUM LISPRUM",
-      "file": "insulinum_lisprum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IPILIMUMABUM",
-      "file": "ipilimumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IRBESARTANUM",
-      "file": "irbesartanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IRINOTECANI HYDROCHLORIDUM TRIHYDRICUM",
-      "file": "irinotecani_hydrochloridum_trihydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ISATUXIMABUM",
-      "file": "isatuximabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "insulin glulisine",
+      "predicted_indications": [
+        "type 1 diabetes mellitus",
+        "thiamine-responsive dysfunction syndrome",
+        "opsismodysplasia",
+        "classic stiff person syndrome",
+        "focal stiff limb syndrome",
+        "autoimmune oophoritis",
+        "pancreatic agenesis",
+        "drug-induced localized lipodystrophy",
+        "centrifugal lipodystrophy",
+        "pressure-induced localized lipoatrophy"
+      ]
     },
     {
       "name": "Isavuconazonium",
       "file": "isavuconazonium.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "ISAVUCONAZONIUM",
+      "predicted_indications": [
+        "pneumocystosis",
+        "mycetoma"
+      ]
     },
     {
       "name": "Isoleucine",
       "file": "isoleucine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ISONIAZIDUM",
-      "file": "isoniazidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ISOPRENALINI HYDROCHLORIDUM",
-      "file": "isoprenalini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ISOSORBIDI DINITRAS",
-      "file": "isosorbidi_dinitras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ISOTRETINOINUM",
-      "file": "isotretinoinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ITRACONAZOLUM",
-      "file": "itraconazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IVACAFTORUM",
-      "file": "ivacaftorum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IVERMECTINUM",
-      "file": "ivermectinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IVOSIDENIBUM",
-      "file": "ivosidenibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IXAZOMIBUM",
-      "file": "ixazomibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "IXEKIZUMABUM",
-      "file": "ixekizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "KALII CHLORIDUM",
-      "file": "kalii_chloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "KETOCONAZOLUM",
-      "file": "ketoconazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "KETOPROFENUM",
-      "file": "ketoprofenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "KETOROLACUM TROMETAMOLUM",
-      "file": "ketorolacum_trometamolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "KETOTIFENUM",
-      "file": "ketotifenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LABETALOLI HYDROCHLORIDUM",
-      "file": "labetaloli_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LACTULOSUM LIQUIDUM",
-      "file": "lactulosum_liquidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LAMIVUDINUM",
-      "file": "lamivudinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LAMOTRIGINUM",
-      "file": "lamotriginum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LANADELUMABUM",
-      "file": "lanadelumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LANREOTIDUM",
-      "file": "lanreotidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LANSOPRAZOLUM",
-      "file": "lansoprazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LAPATINIBUM",
-      "file": "lapatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LATANOPROSTUM",
-      "file": "latanoprostum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEFLUNOMIDUM",
-      "file": "leflunomidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LENALIDOMIDUM",
-      "file": "lenalidomidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LENVATINIBUM",
-      "file": "lenvatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LERCANIDIPINUM",
-      "file": "lercanidipinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LETERMOVIRUM",
-      "file": "letermovirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVETIRACETAMUM",
-      "file": "levetiracetamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVOCABASTINUM",
-      "file": "levocabastinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVOCETIRIZINI DIHYDROCHLORIDUM",
-      "file": "levocetirizini_dihydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "isoleucine",
+      "predicted_indications": [
+        "gastroparesis (disease)"
+      ]
     },
     {
       "name": "Levodopa",
       "file": "levodopa.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVOFLOXACINUM",
-      "file": "levofloxacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVOMETHADONI HYDROCHLORIDUM",
-      "file": "levomethadoni_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVONORGESTRELUM",
-      "file": "levonorgestrelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVOSIMENDANUM",
-      "file": "levosimendanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LEVOTHYROXINUM NATRICUM ANHYDRICUM",
-      "file": "levothyroxinum_natricum_anhydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LIDOCAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM",
-      "file": "lidocaini_hydrochloridum_anhydricum_adrenalinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LIFITEGRASTUM",
-      "file": "lifitegrastum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LINACLOTIDUM",
-      "file": "linaclotidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LINAGLIPTINUM",
-      "file": "linagliptinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LINEZOLIDUM",
-      "file": "linezolidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LIRAGLUTIDUM",
-      "file": "liraglutidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LISDEXAMFETAMINI DIMESILAS",
-      "file": "lisdexamfetamini_dimesilas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LISINOPRILUM",
-      "file": "lisinoprilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LITHIUM",
-      "file": "lithium.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "levodopa",
+      "predicted_indications": [
+        "Rasmussen subacute encephalitis"
+      ]
     },
     {
       "name": "Lonoctocog Alfa",
       "file": "lonoctocog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LOPERAMIDI HYDROCHLORIDUM",
-      "file": "loperamidi_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "lonoctocog alfa",
+      "predicted_indications": [
+        "pseudo-von Willebrand disease",
+        "primary release disorder of platelets",
+        "Glanzmann thrombasthenia",
+        "Scott syndrome"
+      ]
     },
     {
       "name": "Lopinavir",
       "file": "lopinavir.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LORATADINUM",
-      "file": "loratadinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LORAZEPAMUM",
-      "file": "lorazepamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LORLATINIBUM",
-      "file": "lorlatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LOSARTANUM KALICUM",
-      "file": "losartanum_kalicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "lopinavir",
+      "predicted_indications": [
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Lumacaftor",
       "file": "lumacaftor.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "LURASIDONUM",
-      "file": "lurasidonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MACITENTANUM",
-      "file": "macitentanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MAGNESII HYDROXIDUM",
-      "file": "magnesii_hydroxidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MANNITOLUM",
-      "file": "mannitolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEBENDAZOLUM",
-      "file": "mebendazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEBEVERINI HYDROCHLORIDUM",
-      "file": "mebeverini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEDROXYPROGESTERONI ACETAS",
-      "file": "medroxyprogesteroni_acetas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEFLOQUINUM",
-      "file": "mefloquinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MELATONINUM",
-      "file": "melatoninum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MELPHALANUM",
-      "file": "melphalanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEPOLIZUMABUM",
-      "file": "mepolizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MERCAPTOPURINUM MONOHYDRICUM",
-      "file": "mercaptopurinum_monohydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MEROPENEMUM",
-      "file": "meropenemum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MESALAZINUM",
-      "file": "mesalazinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "lumacaftor",
+      "predicted_indications": [
+        "leprosy"
+      ]
     },
     {
       "name": "Metamizole",
       "file": "metamizole.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METFORMINUM",
-      "file": "metforminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METHENAMINUM",
-      "file": "methenaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METHOTREXATUM",
-      "file": "methotrexatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METHYLPHENIDATI HYDROCHLORIDUM",
-      "file": "methylphenidati_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METHYLPREDNISOLONUM",
-      "file": "methylprednisolonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METOCLOPRAMIDUM",
-      "file": "metoclopramidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METOLAZONUM",
-      "file": "metolazonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METOPROLOLI TARTRAS",
-      "file": "metoprololi_tartras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "METRONIDAZOLUM",
-      "file": "metronidazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIANSERINI HYDROCHLORIDUM",
-      "file": "mianserini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MICAFUNGINUM",
-      "file": "micafunginum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MICONAZOLI NITRAS",
-      "file": "miconazoli_nitras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIDAZOLAMUM",
-      "file": "midazolamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIDODRINI HYDROCHLORIDUM",
-      "file": "midodrini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIDOSTAURINUM",
-      "file": "midostaurinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIFEPRISTONUM",
-      "file": "mifepristonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIGALASTATUM",
-      "file": "migalastatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIGLUSTATUM",
-      "file": "miglustatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MINOCYCLINUM",
-      "file": "minocyclinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MINOXIDILUM",
-      "file": "minoxidilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIRABEGRONUM",
-      "file": "mirabegronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MIRTAZAPINUM",
-      "file": "mirtazapinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MITOMYCINUM",
-      "file": "mitomycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MOCLOBEMIDUM",
-      "file": "moclobemidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MODAFINILUM",
-      "file": "modafinilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MOGAMULIZUMABUM",
-      "file": "mogamulizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MONTELUKASTUM",
-      "file": "montelukastum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MORPHINUM",
-      "file": "morphinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MOXIFLOXACINUM",
-      "file": "moxifloxacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MOXONIDINUM",
-      "file": "moxonidinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "MUPIROCINUM",
-      "file": "mupirocinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NALMEFENUM",
-      "file": "nalmefenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NALOXONI HYDROCHLORIDUM ANHYDRICUM",
-      "file": "naloxoni_hydrochloridum_anhydricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NALTREXONUM",
-      "file": "naltrexonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NAPROXENUM",
-      "file": "naproxenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NARATRIPTANUM",
-      "file": "naratriptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NATALIZUMABUM",
-      "file": "natalizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NEBIVOLOLUM",
-      "file": "nebivololum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NELARABINUM",
-      "file": "nelarabinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NERATINIBUM",
-      "file": "neratinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "metamizole",
+      "predicted_indications": [
+        "rheumatoid arthritis",
+        "migraine disorder",
+        "migraine with or without aura, susceptibility to",
+        "exostosis",
+        "migraine with brainstem aura",
+        "gout",
+        "antithrombin deficiency type 2",
+        "brachydactyly-syndactyly syndrome",
+        "tendinitis",
+        "factor 5 excess with spontaneous thrombosis"
+      ]
     },
     {
       "name": "Netarsudil",
       "file": "netarsudil.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NEVIRAPINUM",
-      "file": "nevirapinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NICARDIPINI HYDROCHLORIDUM",
-      "file": "nicardipini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NICOTINUM",
-      "file": "nicotinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NIFEDIPINUM",
-      "file": "nifedipinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NILOTINIBUM",
-      "file": "nilotinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NIMODIPINUM",
-      "file": "nimodipinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NINTEDANIBUM",
-      "file": "nintedanibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NIRAPARIBUM",
-      "file": "niraparibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NITISINONUM",
-      "file": "nitisinonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NITRAZEPAMUM",
-      "file": "nitrazepamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "netarsudil",
+      "predicted_indications": [
+        "primary hereditary glaucoma",
+        "glaucoma"
+      ]
     },
     {
       "name": "Nitrogen",
       "file": "nitrogen.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NIVOLUMABUM",
-      "file": "nivolumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NORADRENALINUM",
-      "file": "noradrenalinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "nitrogen",
+      "predicted_indications": [
+        "16q24.1 microdeletion syndrome",
+        "primary interstitial lung disease specific to childhood",
+        "isolated pulmonary capillaritis",
+        "congenital pulmonary lymphangiectasia"
+      ]
     },
     {
       "name": "Norelgestromin",
       "file": "norelgestromin.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NORETHISTERONUM",
-      "file": "norethisteronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NORFLOXACINUM",
-      "file": "norfloxacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "norelgestromin",
+      "predicted_indications": [
+        "amenorrhea (disease)"
+      ]
     },
     {
       "name": "Norgestimate",
       "file": "norgestimate.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NORTRIPTYLINUM",
-      "file": "nortriptylinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NUSINERSENUM",
-      "file": "nusinersenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "NYSTATINUM",
-      "file": "nystatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OBINUTUZUMABUM",
-      "file": "obinutuzumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OCRELIZUMABUM",
-      "file": "ocrelizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OCTREOTIDUM",
-      "file": "octreotidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OFATUMUMABUM",
-      "file": "ofatumumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OFLOXACINUM",
-      "file": "ofloxacinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OLANZAPINUM",
-      "file": "olanzapinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OLAPARIBUM",
-      "file": "olaparibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OLODATEROLUM",
-      "file": "olodaterolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OLOPATADINUM",
-      "file": "olopatadinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OMALIZUMABUM",
-      "file": "omalizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OMEPRAZOLUM",
-      "file": "omeprazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OPICAPONUM",
-      "file": "opicaponum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OPIPRAMOLI DIHYDROCHLORIDUM",
-      "file": "opipramoli_dihydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ORITAVANCINUM",
-      "file": "oritavancinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ORLISTATUM",
-      "file": "orlistatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OSELTAMIVIRUM",
-      "file": "oseltamivirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OSILODROSTATUM",
-      "file": "osilodrostatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OXALIPLATINUM",
-      "file": "oxaliplatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OXAZEPAMUM",
-      "file": "oxazepamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OXCARBAZEPINUM",
-      "file": "oxcarbazepinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OXYBUTYNINUM",
-      "file": "oxybutyninum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OXYMETAZOLINI HYDROCHLORIDUM",
-      "file": "oxymetazolini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OXYTOCINUM",
-      "file": "oxytocinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "OZANIMODUM",
-      "file": "ozanimodum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PACLITAXELUM",
-      "file": "paclitaxelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PALIPERIDONUM",
-      "file": "paliperidonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PALIVIZUMABUM",
-      "file": "palivizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PANITUMUMABUM",
-      "file": "panitumumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PANOBINOSTATUM",
-      "file": "panobinostatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PANTOPRAZOLUM",
-      "file": "pantoprazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "norgestimate",
+      "predicted_indications": [
+        "zinc, elevated plasma"
+      ]
     },
     {
       "name": "Pantothenic Acid",
       "file": "pantothenic_acid.md",
       "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PARACETAMOLUM",
-      "file": "paracetamolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PAROMOMYCINUM",
-      "file": "paromomycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PAROXETINUM",
-      "file": "paroxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PASIREOTIDUM",
-      "file": "pasireotidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PAZOPANIBUM",
-      "file": "pazopanibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PEGASPARGASUM",
-      "file": "pegaspargasum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PEGVISOMANTUM",
-      "file": "pegvisomantum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PEMBROLIZUMABUM",
-      "file": "pembrolizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PEMETREXEDUM",
-      "file": "pemetrexedum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PENCICLOVIRUM",
-      "file": "penciclovirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PENTAMIDINI DIISETHIONAS",
-      "file": "pentamidini_diisethionas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PENTOXYVERINUM",
-      "file": "pentoxyverinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PERAMPANELUM",
-      "file": "perampanelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PERINDOPRILUM",
-      "file": "perindoprilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PERMETHRINUM",
-      "file": "permethrinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PERTUZUMABUM",
-      "file": "pertuzumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "pantothenic acid",
+      "predicted_indications": [
+        "congenital prothrombin deficiency",
+        "ochronosis disorder",
+        "glycerol metabolism disease",
+        "folic acid deficiency anemia",
+        "uterine inflammatory disease",
+        "xanthogranulomatous pyelonephritis",
+        "urinary tract infection (disease)",
+        "gonococcal urethritis",
+        "Ureaplasma urethritis"
+      ]
     },
     {
       "name": "Pheniramine",
       "file": "pheniramine.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PHENOBARBITALUM",
-      "file": "phenobarbitalum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "pheniramine",
+      "predicted_indications": [
+        "allergic urticaria",
+        "nasal cavity disease",
+        "acute laryngopharyngitis"
+      ]
     },
     {
       "name": "Phenol",
       "file": "phenol.md",
       "evidence_level": "L5",
       "indication_count": 8,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PHENOXYMETHYLPENICILLINUM KALICUM",
-      "file": "phenoxymethylpenicillinum_kalicum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PHENPROCOUMONUM",
-      "file": "phenprocoumonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "phenol",
+      "predicted_indications": [
+        "acrodermatitis chronica atrophicans",
+        "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
+        "neonatal dermatomyositis",
+        "amyopathic dermatomyositis",
+        "acne keloid",
+        "hydroa vacciniforme, familial",
+        "severe nonproliferative diabetic retinopathy",
+        "dry eye syndrome"
+      ]
     },
     {
       "name": "Phenylalanine",
       "file": "phenylalanine.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PHENYLEPHRINI HYDROCHLORIDUM, TROPICAMIDUM",
-      "file": "phenylephrini_hydrochloridum_tropicamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PHENYTOINUM",
-      "file": "phenytoinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "phenylalanine",
+      "predicted_indications": [
+        "sclerosing cholangitis",
+        "congenital prothrombin deficiency"
+      ]
     },
     {
       "name": "Pibrentasvir",
       "file": "pibrentasvir.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PILOCARPINI HYDROCHLORIDUM",
-      "file": "pilocarpini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PIMECROLIMUSUM",
-      "file": "pimecrolimusum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PIOGLITAZONUM",
-      "file": "pioglitazonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "pibrentasvir",
+      "predicted_indications": [
+        "hepatitis B virus infection",
+        "HIV infectious disease",
+        "hepatitis E virus infection",
+        "hepatitis A virus infection",
+        "hepatitis, viral, animal",
+        "Omsk hemorrhagic fever",
+        "Kyasanur forest disease",
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Piperacillin",
       "file": "piperacillin.md",
       "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PIRFENIDONUM",
-      "file": "pirfenidonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PIROXICAMUM",
-      "file": "piroxicamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PITAVASTATINUM",
-      "file": "pitavastatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PITOLISANTUM",
-      "file": "pitolisantum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PLERIXAFORUM",
-      "file": "plerixaforum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "piperacillin",
+      "predicted_indications": [
+        "rheumatoid arthritis",
+        "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "brachydactyly-syndactyly syndrome",
+        "sclerosing cholangitis",
+        "osteoarthritis susceptibility",
+        "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
+        "brain small vessel disease 1 with or without ocular anomalies",
+        "diabetic nephropathy",
+        "WHIM syndrome"
+      ]
     },
     {
       "name": "Polatuzumab Vedotin",
       "file": "polatuzumab_vedotin.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "polatuzumab vedotin",
+      "predicted_indications": [
+        "HER2 positive breast carcinoma"
+      ]
     },
     {
       "name": "Polymyxin B",
       "file": "polymyxin_b.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "POMALIDOMIDUM",
-      "file": "pomalidomidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PONATINIBUM",
-      "file": "ponatinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "POSACONAZOLUM",
-      "file": "posaconazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "POVIDONUM K 25",
-      "file": "povidonum_k_25.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRALATREXATUM",
-      "file": "pralatrexatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRAMIPEXOLUM",
-      "file": "pramipexolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRASTERONUM",
-      "file": "prasteronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRASUGRELUM",
-      "file": "prasugrelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRAVASTATINUM NATRICUM",
-      "file": "pravastatinum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PREDNICARBATUM",
-      "file": "prednicarbatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PREDNISOLONI PIVALAS",
-      "file": "prednisoloni_pivalas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PREDNISONUM",
-      "file": "prednisonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PREGABALINUM",
-      "file": "pregabalinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRILOCAINI HYDROCHLORIDUM",
-      "file": "prilocaini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRIMIDONUM",
-      "file": "primidonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROBENECIDUM",
-      "file": "probenecidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROCARBAZINUM",
-      "file": "procarbazinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROCYCLIDINI HYDROCHLORIDUM",
-      "file": "procyclidini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROGESTERONUM",
-      "file": "progesteronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROMAZINI HYDROCHLORIDUM",
-      "file": "promazini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROPRANOLOLI HYDROCHLORIDUM",
-      "file": "propranololi_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PROPYLTHIOURACILUM",
-      "file": "propylthiouracilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PRUCALOPRIDUM",
-      "file": "prucalopridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PYRANTELUM",
-      "file": "pyrantelum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PYRAZINAMIDUM",
-      "file": "pyrazinamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PYRIDOSTIGMINI BROMIDUM",
-      "file": "pyridostigmini_bromidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PYRIDOXINI HYDROCHLORIDUM",
-      "file": "pyridoxini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "PYRIMETHAMINUM",
-      "file": "pyrimethaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "QUETIAPINUM",
-      "file": "quetiapinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "QUIZARTINIBUM",
-      "file": "quizartinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RABEPRAZOLUM NATRICUM",
-      "file": "rabeprazolum_natricum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RALOXIFENUM",
-      "file": "raloxifenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RALTEGRAVIRUM",
-      "file": "raltegravirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RAMIPRILUM",
-      "file": "ramiprilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RAMUCIRUMABUM",
-      "file": "ramucirumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RANIBIZUMABUM",
-      "file": "ranibizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RASAGILINUM",
-      "file": "rasagilinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RASBURICASUM",
-      "file": "rasburicasum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RAVULIZUMABUM",
-      "file": "ravulizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "REBOXETINUM",
-      "file": "reboxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "REGORAFENIBUM",
-      "file": "regorafenibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "REPAGLINIDUM",
-      "file": "repaglinidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RESLIZUMABUM",
-      "file": "reslizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RETINOLI PALMITAS",
-      "file": "retinoli_palmitas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIBOFLAVINUM",
-      "file": "riboflavinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIFAMPICINUM",
-      "file": "rifampicinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIFAXIMINUM",
-      "file": "rifaximinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RILPIVIRINUM",
-      "file": "rilpivirinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "polymyxin b",
+      "predicted_indications": [
+        "bronchitis",
+        "laryngotracheitis",
+        "conjunctivitis"
+      ]
     },
     {
       "name": "Riluzole",
       "file": "riluzole.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIMEGEPANTUM",
-      "file": "rimegepantum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIOCIGUATUM",
-      "file": "riociguatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RISANKIZUMABUM",
-      "file": "risankizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RISPERIDONUM",
-      "file": "risperidonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RITONAVIRUM",
-      "file": "ritonavirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RITUXIMABUM",
-      "file": "rituximabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIVASTIGMINUM",
-      "file": "rivastigminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RIZATRIPTANUM",
-      "file": "rizatriptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ROMIPLOSTIMUM",
-      "file": "romiplostimum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ROMOSOZUMABUM",
-      "file": "romosozumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ROPINIROLUM",
-      "file": "ropinirolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ROSUVASTATINUM",
-      "file": "rosuvastatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ROTIGOTINUM",
-      "file": "rotigotinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RUCAPARIBUM",
-      "file": "rucaparibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RUFINAMIDUM",
-      "file": "rufinamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "RUXOLITINIBUM",
-      "file": "ruxolitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "riluzole",
+      "predicted_indications": [
+        "bilateral parasagittal parieto-occipital polymicrogyria",
+        "axial spondylometaphyseal dysplasia",
+        "lower motor neuron syndrome with late-adult onset",
+        "trichomegaly-retina pigmentary degeneration-dwarfism syndrome",
+        "lethal arthrogryposis-anterior horn cell disease syndrome",
+        "monomelic amyotrophy",
+        "Mills syndrome",
+        "amyotrophic lateral sclerosis, susceptibility to",
+        "autosomal dominant mitochondrial myopathy with exercise intolerance",
+        "amyotrohpic lateral sclerosis type 22"
+      ]
     },
     {
       "name": "Sacituzumab Govitecan",
       "file": "sacituzumab_govitecan.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "sacituzumab govitecan",
+      "predicted_indications": [
+        "drug-induced osteoporosis",
+        "severe nonproliferative diabetic retinopathy",
+        "diabetic retinopathy",
+        "diabetic cataract"
+      ]
     },
     {
       "name": "Sacubitril",
       "file": "sacubitril.md",
       "evidence_level": "L3",
       "indication_count": 5,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SAFINAMIDUM",
-      "file": "safinamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SALBUTAMOLUM",
-      "file": "salbutamolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "sacubitril",
+      "predicted_indications": [
+        "brain small vessel disease 1 with or without ocular anomalies",
+        "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
+        "diabetic nephropathy",
+        "rheumatoid arthritis",
+        "hemoglobinopathy"
+      ]
     },
     {
       "name": "Salicylamide",
       "file": "salicylamide.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SALMETEROLUM",
-      "file": "salmeterolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SAPROPTERINI DIHYDROCHLORIDUM",
-      "file": "sapropterini_dihydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SARILUMABUM",
-      "file": "sarilumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SAXAGLIPTINUM",
-      "file": "saxagliptinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SCOPOLAMINI BUTYLBROMIDUM",
-      "file": "scopolamini_butylbromidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "salicylamide",
+      "predicted_indications": [
+        "pharyngitis",
+        "nasal cavity disease",
+        "acute laryngopharyngitis",
+        "trigeminal autonomic cephalalgia",
+        "common cold",
+        "allergic urticaria",
+        "lung disease",
+        "massive neonatal aspiration syndrome",
+        "respiratory syncytial virus bronchiolitis",
+        "hantavirus infectious disease"
+      ]
     },
     {
       "name": "Sebelipase Alfa",
       "file": "sebelipase_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "sebelipase alfa",
+      "predicted_indications": [
+        "Scheie syndrome",
+        "Hurler syndrome",
+        "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant",
+        "cholesteryl ester storage disease",
+        "Wolman disease with hypolipoproteinemia and acanthocytosis",
+        "Gaucher disease",
+        "lysosomal storage disease with skeletal involvement",
+        "autosomal ichthyosis syndrome with fatal disease course",
+        "Tay-Sachs disease",
+        "benign neoplasm of adrenal gland"
+      ]
     },
     {
       "name": "Selenium",
       "file": "selenium.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SELEXIPAGUM",
-      "file": "selexipagum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SELUMETINIBUM",
-      "file": "selumetinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SEMAGLUTIDUM",
-      "file": "semaglutidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "SELENIUM",
+      "predicted_indications": [
+        "sclerosing cholangitis"
+      ]
     },
     {
       "name": "Serine",
       "file": "serine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SERTRALINUM",
-      "file": "sertralinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SILDENAFILUM",
-      "file": "sildenafilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SILODOSINUM",
-      "file": "silodosinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SILTUXIMABUM",
-      "file": "siltuximabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "serine",
+      "predicted_indications": [
+        "familial visceral myopathy",
+        "intestinal obstruction",
+        "myopathic intestinal pseudoobstruction",
+        "unclassified intestinal pseudoobstruction",
+        "neuronal intestinal dysplasia, type B",
+        "angle-closure glaucoma",
+        "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked",
+        "exercise-induced malignant hyperthermia",
+        "aqueous misdirection",
+        "traumatic glaucoma"
+      ]
     },
     {
       "name": "Simoctocog Alfa",
       "file": "simoctocog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SIMVASTATINUM",
-      "file": "simvastatinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SIROLIMUSUM",
-      "file": "sirolimusum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SITAGLIPTINUM",
-      "file": "sitagliptinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SOFOSBUVIRUM",
-      "file": "sofosbuvirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SOLIFENACINI SUCCINAS",
-      "file": "solifenacini_succinas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SOLRIAMFETOLUM",
-      "file": "solriamfetolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SONIDEGIBUM",
-      "file": "sonidegibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SORAFENIBUM",
-      "file": "sorafenibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "simoctocog alfa",
+      "predicted_indications": [
+        "pseudo-von Willebrand disease",
+        "primary release disorder of platelets",
+        "Glanzmann thrombasthenia",
+        "Scott syndrome",
+        "acquired coagulation factor deficiency",
+        "bleeding diathesis due to a collagen receptor defect",
+        "hemorrhagic disorder due to a constitutional thrombocytopenia",
+        "fetal and neonatal alloimmune thrombocytopenia",
+        "hemophilia A with vascular abnormality",
+        "thrombotic thrombocytopenic purpura"
+      ]
     },
     {
       "name": "Sorbitol",
       "file": "sorbitol.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SOTALOLI HYDROCHLORIDUM",
-      "file": "sotaloli_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SPIRONOLACTONUM",
-      "file": "spironolactonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "STIRIPENTOLUM",
-      "file": "stiripentolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SULFADIAZINUM ARGENTICUM",
-      "file": "sulfadiazinum_argenticum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "sorbitol",
+      "predicted_indications": [
+        "exercise-induced malignant hyperthermia"
+      ]
     },
     {
       "name": "Sulfamethoxazole",
       "file": "sulfamethoxazole.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SULFASALAZINUM",
-      "file": "sulfasalazinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SULPIRIDUM",
-      "file": "sulpiridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "sulfamethoxazole",
+      "predicted_indications": [
+        "acute contagious conjunctivitis"
+      ]
     },
     {
       "name": "Sulthiame",
       "file": "sulthiame.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SUMATRIPTANUM",
-      "file": "sumatriptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "SUNITINIBUM",
-      "file": "sunitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TACROLIMUSUM",
-      "file": "tacrolimusum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TADALAFILUM",
-      "file": "tadalafilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TAFAMIDISUM",
-      "file": "tafamidisum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TAFLUPROSTUM",
-      "file": "tafluprostum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TAGRAXOFUSPUM",
-      "file": "tagraxofuspum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "sulthiame",
+      "predicted_indications": [
+        "cauda equina syndrome",
+        "obsolete neurogenic bladder (disease)",
+        "irritable bowel syndrome",
+        "neurocirculatory asthenia",
+        "anaphylaxis",
+        "food-dependent exercise-induced anaphylaxis",
+        "familial mitral valve prolapse",
+        "mitral valve prolapse (disease)",
+        "MVP1",
+        "autonomic nervous system disease"
+      ]
     },
     {
       "name": "Talimogene Laherparepvec",
       "file": "talimogene_laherparepvec.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TAMOXIFENUM",
-      "file": "tamoxifenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TAMSULOSINUM",
-      "file": "tamsulosinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TASONERMINUM",
-      "file": "tasonerminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "talimogene laherparepvec",
+      "predicted_indications": [
+        "CMM7",
+        "pediatric leptomeningeal melanoma",
+        "epithelioid cell uveal melanoma",
+        "glottis squamous cell carcinoma",
+        "lung occult squamous cell carcinoma",
+        "rectal cloacogenic carcinoma",
+        "gallbladder adenosquamous carcinoma"
+      ]
     },
     {
       "name": "Tazobactam",
       "file": "tazobactam.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TEDUGLUTIDUM",
-      "file": "teduglutidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TEICOPLANINUM",
-      "file": "teicoplaninum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TELBIVUDINUM",
-      "file": "telbivudinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TELMISARTANUM",
-      "file": "telmisartanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TEMAZEPAMUM",
-      "file": "temazepamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TEMOZOLOMIDUM",
-      "file": "temozolomidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TENECTEPLASUM",
-      "file": "tenecteplasum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tazobactam",
+      "predicted_indications": [
+        "pneumonia",
+        "urinary tract infection (disease)"
+      ]
     },
     {
       "name": "Tenofovir Alafenamide",
       "file": "tenofovir_alafenamide.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tenofovir alafenamide",
+      "predicted_indications": [
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Tenofovir Disoproxil",
       "file": "tenofovir_disoproxil.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TENOFOVIRUM",
-      "file": "tenofovirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TENOXICAMUM",
-      "file": "tenoxicamum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TEPROTUMUMABUM",
-      "file": "teprotumumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TERAZOSINUM",
-      "file": "terazosinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TERBINAFINUM",
-      "file": "terbinafinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TERBUTALINI SULFAS",
-      "file": "terbutalini_sulfas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TERIFLUNOMIDUM",
-      "file": "teriflunomidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TERIPARATIDUM ADNR",
-      "file": "teriparatidum_adnr.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TESTOSTERONI ENANTAS, RICINI OLEUM RAFFINATUM",
-      "file": "testosteroni_enantas_ricini_oleum_raffinatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TETRABENAZINUM",
-      "file": "tetrabenazinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TETRACAINI HYDROCHLORIDUM",
-      "file": "tetracaini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TETRACOSACTIDUM",
-      "file": "tetracosactidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TETRACYCLINUM",
-      "file": "tetracyclinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TETRYZOLINI HYDROCHLORIDUM",
-      "file": "tetryzolini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tenofovir disoproxil",
+      "predicted_indications": [
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+        "obsolete familial combined hyperlipidemia"
+      ]
     },
     {
       "name": "Tezacaftor",
       "file": "tezacaftor.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": ""
-    },
-    {
-      "name": "THEOPHYLLINUM ET ETHYLENDIAMINUM",
-      "file": "theophyllinum_et_ethylendiaminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "THIOPENTALUM",
-      "file": "thiopentalum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tezacaftor",
+      "predicted_indications": [
+        "HIV infectious disease",
+        "leprosy",
+        "multiple endocrine neoplasia"
+      ]
     },
     {
       "name": "Threonine",
       "file": "threonine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "threonine",
+      "predicted_indications": [
+        "gastroparesis (disease)"
+      ]
     },
     {
       "name": "Thymol",
       "file": "thymol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TIBOLONUM",
-      "file": "tibolonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TICAGRELORUM",
-      "file": "ticagrelorum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TIGECYCLINUM",
-      "file": "tigecyclinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TIMOLOLUM",
-      "file": "timololum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TIOGUANINUM",
-      "file": "tioguaninum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "thymol",
+      "predicted_indications": [
+        "interventricular septum aneurysm",
+        "pulmonary valve disease",
+        "Laubry-Pezzi syndrome",
+        "genetic syndromic Pierre Robin syndrome",
+        "orofacial clefting syndrome",
+        "partial deletion of the long arm of chromosome 22",
+        "Pierre Robin syndrome associated with a chromosomal anomaly",
+        "disorder of fucoglycosan synthesis",
+        "partial deletion of the long arm of chromosome 7",
+        "Jeune syndrome situs inversus"
+      ]
     },
     {
       "name": "Tiotropium",
       "file": "tiotropium.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "TIOTROPIUM",
+      "predicted_indications": [
+        "obstructive lung disease",
+        "respiratory malformation",
+        "Rienhoff syndrome",
+        "COPD, severe early onset",
+        "chronic obstructive pulmonary disease",
+        "compensatory emphysema",
+        "interstitial emphysema",
+        "hyperlucent lung",
+        "tracheal stenosis",
+        "susceptibility to respiratory infections associated with CD8alpha chain mutation"
+      ]
     },
     {
       "name": "Tipiracil",
       "file": "tipiracil.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TIROFIBANUM",
-      "file": "tirofibanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOBRAMYCINUM",
-      "file": "tobramycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOCILIZUMABUM",
-      "file": "tocilizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOFACITINIBUM",
-      "file": "tofacitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOLCAPONUM",
-      "file": "tolcaponum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOLTERODINUM",
-      "file": "tolterodinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOLVAPTANUM",
-      "file": "tolvaptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOPIRAMATUM",
-      "file": "topiramatum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TOPOTECANUM",
-      "file": "topotecanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TORASEMIDUM",
-      "file": "torasemidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRABECTEDINUM",
-      "file": "trabectedinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRAMADOLI HYDROCHLORIDUM",
-      "file": "tramadoli_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRAMETINIBUM",
-      "file": "trametinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tipiracil",
+      "predicted_indications": [
+        "cecum villous adenoma",
+        "lipoma of colon",
+        "rectosigmoid junction neoplasm",
+        "cecum neuroendocrine tumor G1",
+        "colonic lymphangioma",
+        "cecal disease",
+        "colon leiomyoma",
+        "benign neoplasm of cecum",
+        "cavernous hemangioma of colon",
+        "colorectal gastrointestinal stromal tumor"
+      ]
     },
     {
       "name": "Trandolapril",
       "file": "trandolapril.md",
       "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRASTUZUMABUM",
-      "file": "trastuzumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRAVOPROSTUM",
-      "file": "travoprostum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRAZODONUM",
-      "file": "trazodonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TREPROSTINILUM",
-      "file": "treprostinilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRETINOINUM",
-      "file": "tretinoinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRIAMCINOLONUM",
-      "file": "triamcinolonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRIFAROTENUM",
-      "file": "trifarotenum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "trandolapril",
+      "predicted_indications": [
+        "malignant hypertensive renal disease",
+        "malignant renovascular hypertension",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "Braddock syndrome",
+        "chronic pulmonary heart disease"
+      ]
     },
     {
       "name": "Trimethoprim",
       "file": "trimethoprim.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TRIMIPRAMINUM",
-      "file": "trimipraminum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "TROPICAMIDUM",
-      "file": "tropicamidum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "trimethoprim",
+      "predicted_indications": [
+        "punctate epithelial keratoconjunctivitis",
+        "conjunctivitis (disease)"
+      ]
     },
     {
       "name": "Tryptophan",
       "file": "tryptophan.md",
       "evidence_level": "L3",
       "indication_count": 8,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tryptophan",
+      "predicted_indications": [
+        "restless legs syndrome",
+        "primary hereditary glaucoma",
+        "open-angle glaucoma",
+        "insomnia (disease)",
+        "methemoglobinemia",
+        "methemoglobinemia, alpha type",
+        "methemoglobin reductase deficiency",
+        "congenital prothrombin deficiency"
+      ]
     },
     {
       "name": "Turoctocog Alfa Pegol",
       "file": "turoctocog_alfa_pegol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "turoctocog alfa pegol",
+      "predicted_indications": [
+        "primary release disorder of platelets",
+        "pseudo-von Willebrand disease",
+        "Glanzmann thrombasthenia",
+        "acquired coagulation factor deficiency",
+        "Scott syndrome",
+        "bleeding diathesis due to a collagen receptor defect",
+        "hemorrhagic disorder due to a constitutional thrombocytopenia",
+        "flood factor deficiency",
+        "hereditary thrombocytosis with transverse limb defect",
+        "fetal and neonatal alloimmune thrombocytopenia"
+      ]
     },
     {
       "name": "Tyrosine",
       "file": "tyrosine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "tyrosine",
+      "predicted_indications": [
+        "cauda equina syndrome",
+        "obsolete neurogenic bladder (disease)",
+        "angle-closure glaucoma",
+        "hyperthyroidism",
+        "postural orthostatic tachycardia syndrome",
+        "hyperthyroxinemia",
+        "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+        "traumatic glaucoma",
+        "aqueous misdirection",
+        "neovascular glaucoma"
+      ]
     },
     {
       "name": "Undecylenic Acid",
       "file": "undecylenic_acid.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": ""
-    },
-    {
-      "name": "UPADACITINIBUM",
-      "file": "upadacitinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "URAPIDILUM",
-      "file": "urapidilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "USTEKINUMABUM",
-      "file": "ustekinumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "undecylenic acid",
+      "predicted_indications": [
+        "dermatophytosis of groin and perianal area",
+        "ectothrix infectious disease",
+        "Majocchi granuloma",
+        "endothrix infectious disease",
+        "dermatophytosis of scalp or beard",
+        "pityriasis versicolor",
+        "superficial mycosis"
+      ]
     },
     {
       "name": "Valine",
       "file": "valine.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VALSARTANUM",
-      "file": "valsartanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VANCOMYCINUM",
-      "file": "vancomycinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VANDETANIBUM",
-      "file": "vandetanibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VARDENAFILUM",
-      "file": "vardenafilum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VEDOLIZUMABUM",
-      "file": "vedolizumabum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "valine",
+      "predicted_indications": [
+        "sclerosing cholangitis",
+        "angle-closure glaucoma",
+        "hyperthyroidism",
+        "aqueous misdirection",
+        "traumatic glaucoma",
+        "neovascular glaucoma",
+        "glaucomatous atrophy of optic disc",
+        "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+        "obsolete bundle branch block",
+        "hyperthyroxinemia"
+      ]
     },
     {
       "name": "Velpatasvir",
       "file": "velpatasvir.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VENETOCLAXUM",
-      "file": "venetoclaxum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VENLAFAXINUM",
-      "file": "venlafaxinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VERAPAMILI HYDROCHLORIDUM",
-      "file": "verapamili_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VERNAKALANTUM",
-      "file": "vernakalantum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VERTEPORFINUM",
-      "file": "verteporfinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VIBEGRONUM",
-      "file": "vibegronum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VIGABATRINUM",
-      "file": "vigabatrinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "velpatasvir",
+      "predicted_indications": [
+        "hepatitis B virus infection",
+        "hepatitis E virus infection",
+        "hepatitis A virus infection",
+        "hepatitis, viral, animal",
+        "Omsk hemorrhagic fever",
+        "Kyasanur forest disease",
+        "HIV infectious disease",
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
     },
     {
       "name": "Vilanterol",
       "file": "vilanterol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VILDAGLIPTINUM",
-      "file": "vildagliptinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VINBLASTINI SULFAS",
-      "file": "vinblastini_sulfas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VINCRISTINI SULFAS",
-      "file": "vincristini_sulfas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VINDESINI SULFAS",
-      "file": "vindesini_sulfas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VINORELBINUM",
-      "file": "vinorelbinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VISMODEGIBUM",
-      "file": "vismodegibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "vilanterol",
+      "predicted_indications": [
+        "obstructive lung disease",
+        "interstitial emphysema",
+        "compensatory emphysema",
+        "hyperlucent lung",
+        "tracheal stenosis",
+        "bronchial neoplasm (disease)",
+        "congenital lobar emphysema",
+        "respiratory malformation",
+        "tracheal calcification",
+        "laryngotracheitis"
+      ]
     },
     {
       "name": "Vonicog Alfa",
       "file": "vonicog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VORICONAZOLUM",
-      "file": "voriconazolum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "VORTIOXETINUM",
-      "file": "vortioxetinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "vonicog alfa",
+      "predicted_indications": [
+        "primary release disorder of platelets",
+        "Glanzmann thrombasthenia",
+        "pseudo-von Willebrand disease",
+        "hemophilia",
+        "Scott syndrome",
+        "acquired coagulation factor deficiency",
+        "Von Willebrand disease, X-linked form",
+        "bleeding diathesis due to a collagen receptor defect",
+        "hemorrhagic disorder due to a constitutional thrombocytopenia",
+        "flood factor deficiency"
+      ]
     },
     {
       "name": "Voxilaprevir",
       "file": "voxilaprevir.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "voxilaprevir",
+      "predicted_indications": [
+        "hepatitis B virus infection",
+        "hepatitis E virus infection",
+        "hepatitis, viral, animal",
+        "hepatitis A virus infection",
+        "Omsk hemorrhagic fever",
+        "Kyasanur forest disease",
+        "HIV infectious disease",
+        "chronic hepatitis B virus infection",
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome"
+      ]
     },
     {
       "name": "Xylitol",
       "file": "xylitol.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
-    },
-    {
-      "name": "XYLOMETAZOLINI HYDROCHLORIDUM",
-      "file": "xylometazolini_hydrochloridum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZANAMIVIRUM",
-      "file": "zanamivirum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZANUBRUTINIBUM",
-      "file": "zanubrutinibum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZIDOVUDINUM",
-      "file": "zidovudinum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "xylitol",
+      "predicted_indications": [
+        "meningococcal infection"
+      ]
     },
     {
       "name": "Zinc Oxide",
       "file": "zinc_oxide.md",
       "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZOLMITRIPTANUM",
-      "file": "zolmitriptanum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZOLPIDEMI TARTRAS",
-      "file": "zolpidemi_tartras.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZOPICLONUM",
-      "file": "zopiclonum.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "ZUCLOPENTHIXOLI DECANOAS",
-      "file": "zuclopenthixoli_decanoas.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
+      "predicted_indication": "",
+      "inn": "zinc oxide",
+      "predicted_indications": [
+        "acne (disease)",
+        "anorectal stricture",
+        "anal polyp",
+        "papillary conjunctivitis",
+        "postinfectious vasculitis"
+      ]
     }
   ]
 }
