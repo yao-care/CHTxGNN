@@ -1,0 +1,613 @@
+{
+  "generated": "2026-10-17",
+  "total_drugs": 100,
+  "level_counts": {
+    "L1": 2,
+    "L2": 0,
+    "L3": 6,
+    "L4": 2,
+    "L5": 90
+  },
+  "all_drugs": [
+    {
+      "name": "Alanine",
+      "slug": "alanine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Albutrepenonacog Alfa",
+      "slug": "albutrepenonacog_alfa",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Alglucosidase Alfa",
+      "slug": "alglucosidase_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Allantoin",
+      "slug": "allantoin",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Amylmetacresol",
+      "slug": "amylmetacresol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Andexanet Alfa",
+      "slug": "andexanet_alfa",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Artemether",
+      "slug": "artemether",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Asfotase Alfa",
+      "slug": "asfotase_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Aspartic Acid",
+      "slug": "aspartic_acid",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Avibactam",
+      "slug": "avibactam",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Bacitracin",
+      "slug": "bacitracin",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Benzocaine",
+      "slug": "benzocaine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Benzoyl Peroxide",
+      "slug": "benzoyl_peroxide",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Bictegravir",
+      "slug": "bictegravir",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Brentuximab Vedotin",
+      "slug": "brentuximab_vedotin",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Calcipotriol",
+      "slug": "calcipotriol",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Camphor",
+      "slug": "camphor",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ceftolozane",
+      "slug": "ceftolozane",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Centella Asiatica",
+      "slug": "centella_asiatica",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Certolizumab Pegol",
+      "slug": "certolizumab_pegol",
+      "level": "L4",
+      "indication_count": 6
+    },
+    {
+      "name": "Chloramphenicol",
+      "slug": "chloramphenicol",
+      "level": "L3",
+      "indication_count": 9
+    },
+    {
+      "name": "Chlordiazepoxide",
+      "slug": "chlordiazepoxide",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Chlorthalidone",
+      "slug": "chlorthalidone",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Cisatracurium",
+      "slug": "cisatracurium",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Clavulanic Acid",
+      "slug": "clavulanic_acid",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Clioquinol",
+      "slug": "clioquinol",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Clothiapine",
+      "slug": "clothiapine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Cobicistat",
+      "slug": "cobicistat",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Cysteine",
+      "slug": "cysteine",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Dexlansoprazole",
+      "slug": "dexlansoprazole",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Dibotermin Alfa",
+      "slug": "dibotermin_alfa",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Echinacea",
+      "slug": "echinacea",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Efmoroctocog Alfa",
+      "slug": "efmoroctocog_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Eftrenonacog Alfa",
+      "slug": "eftrenonacog_alfa",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Elosulfase Alfa",
+      "slug": "elosulfase_alfa",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Elvitegravir",
+      "slug": "elvitegravir",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Enfortumab Vedotin",
+      "slug": "enfortumab_vedotin",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ethinylestradiol",
+      "slug": "ethinylestradiol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Fibrinogen Human",
+      "slug": "fibrinogen_human",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Formaldehyde",
+      "slug": "formaldehyde",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Glecaprevir",
+      "slug": "glecaprevir",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Glutamic Acid",
+      "slug": "glutamic_acid",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Glycine",
+      "slug": "glycine",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Hesperidin",
+      "slug": "hesperidin",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Hexaminolevulinate",
+      "slug": "hexaminolevulinate",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Histidine",
+      "slug": "histidine",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Insulin Detemir",
+      "slug": "insulin_detemir",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Insulin Glulisine",
+      "slug": "insulin_glulisine",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Isavuconazonium",
+      "slug": "isavuconazonium",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Isoleucine",
+      "slug": "isoleucine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Levodopa",
+      "slug": "levodopa",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Lonoctocog Alfa",
+      "slug": "lonoctocog_alfa",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Lopinavir",
+      "slug": "lopinavir",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Lumacaftor",
+      "slug": "lumacaftor",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Metamizole",
+      "slug": "metamizole",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Netarsudil",
+      "slug": "netarsudil",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Nitrogen",
+      "slug": "nitrogen",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Norelgestromin",
+      "slug": "norelgestromin",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Norgestimate",
+      "slug": "norgestimate",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Pantothenic Acid",
+      "slug": "pantothenic_acid",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Pheniramine",
+      "slug": "pheniramine",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Phenol",
+      "slug": "phenol",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Phenylalanine",
+      "slug": "phenylalanine",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Pibrentasvir",
+      "slug": "pibrentasvir",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Piperacillin",
+      "slug": "piperacillin",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Polatuzumab Vedotin",
+      "slug": "polatuzumab_vedotin",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Polymyxin B",
+      "slug": "polymyxin_b",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Riluzole",
+      "slug": "riluzole",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sacituzumab Govitecan",
+      "slug": "sacituzumab_govitecan",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Sacubitril",
+      "slug": "sacubitril",
+      "level": "L3",
+      "indication_count": 5
+    },
+    {
+      "name": "Salicylamide",
+      "slug": "salicylamide",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sebelipase Alfa",
+      "slug": "sebelipase_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Selenium",
+      "slug": "selenium",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Serine",
+      "slug": "serine",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Simoctocog Alfa",
+      "slug": "simoctocog_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sorbitol",
+      "slug": "sorbitol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "slug": "sulfamethoxazole",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Sulthiame",
+      "slug": "sulthiame",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Talimogene Laherparepvec",
+      "slug": "talimogene_laherparepvec",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Tazobactam",
+      "slug": "tazobactam",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Tenofovir Alafenamide",
+      "slug": "tenofovir_alafenamide",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Tenofovir Disoproxil",
+      "slug": "tenofovir_disoproxil",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Tezacaftor",
+      "slug": "tezacaftor",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Threonine",
+      "slug": "threonine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Thymol",
+      "slug": "thymol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tiotropium",
+      "slug": "tiotropium",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tipiracil",
+      "slug": "tipiracil",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Trandolapril",
+      "slug": "trandolapril",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Trimethoprim",
+      "slug": "trimethoprim",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Tryptophan",
+      "slug": "tryptophan",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Turoctocog Alfa Pegol",
+      "slug": "turoctocog_alfa_pegol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tyrosine",
+      "slug": "tyrosine",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Undecylenic Acid",
+      "slug": "undecylenic_acid",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Valine",
+      "slug": "valine",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Velpatasvir",
+      "slug": "velpatasvir",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vilanterol",
+      "slug": "vilanterol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vonicog Alfa",
+      "slug": "vonicog_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Voxilaprevir",
+      "slug": "voxilaprevir",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Xylitol",
+      "slug": "xylitol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Zinc Oxide",
+      "slug": "zinc_oxide",
+      "level": "L5",
+      "indication_count": 5
+    }
+  ]
+}

@@ -25,7 +25,7 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für CENTELLA ASIATICA 
 <strong>Arzneimittelinformationen</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/centella_asiatica/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)

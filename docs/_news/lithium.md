@@ -30,7 +30,7 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für LITHIUM mit den ne
 <li>bipolar disorder | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/lithium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)

@@ -12,7 +12,7 @@ Die Evidenzstufen reichen von L1 (stärkere klinische Evidenz) bis L5 (nur Model
 
 ## Hauptinhalte
 
-- `/` Vorhersagen zur Arzneimittel-Umwidmung — AI-powered drug repurposing predictions for Switzerland. Evidence-based analysis of approved medicines for potential new therapeutic indications.
+- `/` Vorhersagen zur Arzneimittel-Umwidmung — KI-gestützte Vorhersagen zur Arzneimittel-Umwidmung für die Schweiz. Evidenzbasierte Analyse zugelassener Arzneimittel auf mögliche neue Anwendungsgebiete.
 - `/drugs/` Alle Arzneimittel — Alle Arzneimittel-Validierungsberichte und Statistiken zu den Evidenzstufen in CHTxGNN.
 - `/evidence-high/` Hohe Evidenz (L1-L2) — Kandidaten der Arzneimittel-Umwidmung mit L1-L2 in CHTxGNN, gestützt auf klinische Studien oder systematische Übersichtsarbeiten.
 - `/evidence-medium/` Mittlere Evidenz (L3-L4) — Kandidaten der Arzneimittel-Umwidmung mit L3-L4 in CHTxGNN, gestützt auf beobachtende oder präklinische Evidenz.
