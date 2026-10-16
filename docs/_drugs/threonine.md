@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Threonine: vorhergesagte neue Indikation Gastroparese (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch für Erwachsene)"
+monitor_inn: "threonine"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Threonine

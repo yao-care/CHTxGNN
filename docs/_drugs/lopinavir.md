@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-13
 description: "Lopinavir: vorhergesagte neue Indikation Simian-Immundefizienzvirus-Infektion (SIV) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
+monitor_inn: "lopinavir"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Lopinavir

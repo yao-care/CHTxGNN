@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Chlordiazepoxide: vorhergesagte neue Indikation Insomnie (Evidenzstufe L3). Ursprüngliche Indikation: Antidepressivum"
+monitor_inn: "chlordiazepoxide"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "myofascial pain syndrome"]
 ---
 
 # Chlordiazepoxide

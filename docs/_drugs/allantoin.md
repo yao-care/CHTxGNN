@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-13
 description: "Allantoin: vorhergesagte neue Indikation Schwere nicht-proliferative diabetische Retinopathie (Evidenzstufe L5). Ursprüngliche Indikation: Narbenbehandlung"
+monitor_inn: "allantoin"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
 ---
 
 # Allantoin

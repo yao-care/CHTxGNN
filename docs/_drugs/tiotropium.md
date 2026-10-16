@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Tiotropium: vorhergesagte neue Indikation Obstruktive Lungenerkrankung (Evidenzstufe L5). Ursprüngliche Indikation: Dauerbehandlung COPD"
+monitor_inn: "TIOTROPIUM"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "chronic obstructive pulmonary disease", "compensatory emphysema", "interstitial emphysema", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
 ---
 
 # Tiotropium

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Salicylamide: vorhergesagte neue Indikation Pharyngitis (Rachenentzündung) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Schmerzen beim Zahnen (Zahnungsschmerz)"
+monitor_inn: "salicylamide"
+predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "common cold", "allergic urticaria", "lung disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
 ---
 
 # Salicylamide

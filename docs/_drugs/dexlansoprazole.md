@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Dexlansoprazole: vorhergesagte neue Indikation Aktive peptische Ulkuskrankheit (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
+monitor_inn: "dexlansoprazole"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "gastric ulcer (disease)", "gastroduodenitis", "duodenal obstruction", "duodenogastric reflux", "duodenal ulcer (disease)", "achlorhydria", "leather-bottle stomach"]
 ---
 
 # Dexlansoprazole

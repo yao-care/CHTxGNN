@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Valine: vorhergesagte neue Indikation Sklerosierende Cholangitis (Evidenzstufe L4). Ursprüngliche Indikation: Parenterale Ernährung (inkl. parenterale Ernährung für Erwachsene)"
+monitor_inn: "valine"
+predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
 ---
 
 # Valine

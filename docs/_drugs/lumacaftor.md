@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Lumacaftor: vorhergesagte neue Indikation Lepra (Evidenzstufe L5). Ursprüngliche Indikation: Mukoviszidose"
+monitor_inn: "lumacaftor"
+predicted_indications: ["leprosy"]
 ---
 
 # Lumacaftor

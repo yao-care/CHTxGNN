@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-13
 description: "Benzoyl Peroxide: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (Evidenzstufe L5). Ursprüngliche Indikation: Akne vulgaris (inkl. Behandlung der Haut bei Komedonen…"
+monitor_inn: "benzoyl peroxide"
+predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
 ---
 
 # Benzoyl Peroxide

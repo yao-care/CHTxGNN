@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-13
 description: "Clioquinol: vorhergesagte neue Indikation Kutane Candidiasis (Evidenzstufe L5). Ursprüngliche Indikation: Diagnose von Allergien"
+monitor_inn: "clioquinol"
+predicted_indications: ["cutaneous candidiasis", "Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease", "superficial mycosis", "dermatophytosis of scalp or beard", "tinea profunda"]
 ---
 
 # Clioquinol

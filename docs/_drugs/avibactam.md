@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-13
 description: "Avibactam: vorhergesagte neue Indikation Streptokokken-Pneumonie (streptococcal pneumonia) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
+monitor_inn: "avibactam"
+predicted_indications: ["streptococcal pneumonia", "influenza, severe, susceptibility to", "ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
 ---
 
 # Avibactam

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Clothiapine: vorhergesagte neue Indikation Insomnie (Evidenzstufe L5). Ursprüngliche Indikation: Neurolepticum"
+monitor_inn: "clothiapine"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Clothiapine

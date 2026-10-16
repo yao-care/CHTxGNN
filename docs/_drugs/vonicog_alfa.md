@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Vonicog Alfa: vorhergesagte neue Indikation Primäre Freisetzungsstörung der Blutplättchen (Evidenzstufe L5). Ursprüngliche Indikation: Von-Willebrand-Krankheit"
+monitor_inn: "vonicog alfa"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "hemophilia", "Scott syndrome", "acquired coagulation factor deficiency", "Von Willebrand disease, X-linked form", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 ---
 
 # Vonicog Alfa

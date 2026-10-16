@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Alglucosidase Alfa: vorhergesagte neue Indikation Adulte Polyglucosan-Körper-Krankheit (APBD) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Pompe (Mangel an alpha-Glucosidase)"
+monitor_inn: "alglucosidase alfa"
+predicted_indications: ["adult polyglucosan body disease", "glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form", "glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
 ---
 
 # Alglucosidase Alfa
