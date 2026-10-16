@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu CENTELLA ASIATICA"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu CENTELLA ASIATICA. Ursprüngliche Indikation: . 3 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu CENTELLA ASIATICA. Ursprüngliche Indikation: . 0 vorhergesagte Indikationen."
 permalink: /news/centella_asiatica/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/centella_asiatica/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu CENTELLA ASIATICA?">
-<strong>CENTELLA ASIATICA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 3 vorhergesagte Indikationen.
+<strong>CENTELLA ASIATICA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 0 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für CENTELLA ASIATICA 
 <div class="drug-info-card">
 <strong>Arzneimittelinformationen</strong>
 <ul>
-<li><strong>Vorhergesagte Indikationen (3)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
-<li>anxiety (99.1%)</li>
-<li>sleep disorder, initiating and maintaining sleep (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/centella-asiatica/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/centella_asiatica/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)

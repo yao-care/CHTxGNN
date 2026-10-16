@@ -25,7 +25,7 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für ACLIDINIUM mit den
 <strong>Arzneimittelinformationen</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/aclidinium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)

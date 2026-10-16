@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu ANDEXANET ALFA"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu ANDEXANET ALFA. Ursprüngliche Indikation: . 4 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu ANDEXANET ALFA. Ursprüngliche Indikation: . 0 vorhergesagte Indikationen."
 permalink: /news/andexanet_alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/andexanet_alfa/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu ANDEXANET ALFA?">
-<strong>ANDEXANET ALFA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 4 vorhergesagte Indikationen.
+<strong>ANDEXANET ALFA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 0 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für ANDEXANET ALFA mit
 <div class="drug-info-card">
 <strong>Arzneimittelinformationen</strong>
 <ul>
-<li><strong>Vorhergesagte Indikationen (4)</strong>:<ul>
-<li>Glanzmann thrombasthenia (99.8%)</li>
-<li>primary release disorder of platelets (99.8%)</li>
-<li>pseudo-von Willebrand disease (99.7%)</li>
-<li>hemophilia (99.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/andexanet-alfa/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/andexanet_alfa/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)

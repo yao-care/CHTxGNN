@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu CISATRACURIUM"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu CISATRACURIUM. Ursprüngliche Indikation: . 10 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu CISATRACURIUM. Ursprüngliche Indikation: . 1 vorhergesagte Indikationen."
 permalink: /news/cisatracurium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cisatracurium/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu CISATRACURIUM?">
-<strong>CISATRACURIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 10 vorhergesagte Indikationen.
+<strong>CISATRACURIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 1 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für CISATRACURIUM mit 
 <div class="drug-info-card">
 <strong>Arzneimittelinformationen</strong>
 <ul>
-<li><strong>Vorhergesagte Indikationen (10)</strong>:<ul>
-<li>cauda equina syndrome (100.0%)</li>
-<li>preeclampsia (100.0%)</li>
-<li>obsolete neurogenic bladder (disease) (100.0%)</li>
-<li>migraine disorder (100.0%)</li>
-<li>thrombotic disease (100.0%)</li>
-<li>irritable bowel syndrome (100.0%)</li>
-<li>migraine with brainstem aura (100.0%)</li>
-<li>mild pre-eclampsia (100.0%)</li>
-<li>severe pre-eclampsia (100.0%)</li>
-<li>neurocirculatory asthenia (100.0%)</li>
+<li><strong>Evidenzniveau</strong>: L5</li>
+<li><strong>Vorhergesagte Indikationen (1)</strong>:<ul>
+<li>Nimbex 5 mg/2,5 ml, Injektionslösung (Aspen Pharma Schweiz GmbH) | Synthetika | Muskelrelaxans (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cisatracurium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>

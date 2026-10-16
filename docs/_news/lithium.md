@@ -24,10 +24,11 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für LITHIUM mit den ne
 <div class="drug-info-card">
 <strong>Arzneimittelinformationen</strong>
 <ul>
+<li><strong>Evidenzniveau</strong>: L5</li>
 <li><strong>Vorhergesagte Indikationen (3)</strong>:<ul>
-<li>manic bipolar affective disorder (99.0%)</li>
-<li>major affective disorder (99.0%)</li>
-<li>bipolar disorder (99.0%)</li>
+<li>manic bipolar affective disorder | TxGNN Knowledge Graph (99.0%)</li>
+<li>major affective disorder | TxGNN Knowledge Graph (99.0%)</li>
+<li>bipolar disorder | TxGNN Knowledge Graph (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lithium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>

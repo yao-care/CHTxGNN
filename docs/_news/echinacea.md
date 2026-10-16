@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu ECHINACEA"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu ECHINACEA. Ursprüngliche Indikation: . 3 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu ECHINACEA. Ursprüngliche Indikation: . 2 vorhergesagte Indikationen."
 permalink: /news/echinacea/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/echinacea/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu ECHINACEA?">
-<strong>ECHINACEA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 3 vorhergesagte Indikationen.
+<strong>ECHINACEA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 2 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,10 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für ECHINACEA mit den 
 <div class="drug-info-card">
 <strong>Arzneimittelinformationen</strong>
 <ul>
-<li><strong>Vorhergesagte Indikationen (3)</strong>:<ul>
-<li>leprosy (99.5%)</li>
-<li>candidiasis (99.2%)</li>
-<li>pneumocystosis (99.2%)</li>
+<li><strong>Evidenzniveau</strong>: L5</li>
+<li><strong>Vorhergesagte Indikationen (2)</strong>:<ul>
+<li>Similasan Echinacea, Globuli | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, Erkältungen und Entzündungen der Mundschleimhäute (99.0%)</li>
+<li>Spagymun Abwehrkräfte, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungskrankheiten, leichten Allgemeininfektionen, fiebrigen Erkältungskrankheiten; ferner unterstützend bei schleppend verlaufenden Infektionskrankheiten (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/echinacea/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
