@@ -7,6 +7,7 @@ title: KETOCONAZOLUM
 drugbank_id: DB01026
 evidence_level: L5
 permalink: /drugs/ketoconazolum/
+last_modified_at: 2026-05-03
 ---
 
 # KETOCONAZOLUM

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 23
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Benzoyl Peroxide: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (Evidenzstufe L5). Ursprüngliche Indikation: Akne vulgaris (inkl. Behandlung der Haut bei Komedonen…"
 ---
 
 # Benzoyl Peroxide

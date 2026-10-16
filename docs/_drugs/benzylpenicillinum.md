@@ -7,6 +7,7 @@ title: BENZYLPENICILLINUM
 drugbank_id: DB01053
 evidence_level: L5
 permalink: /drugs/benzylpenicillinum/
+last_modified_at: 2026-05-03
 ---
 
 # BENZYLPENICILLINUM

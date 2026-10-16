@@ -7,6 +7,7 @@ title: TETRACYCLINUM
 drugbank_id: DB00759
 evidence_level: L5
 permalink: /drugs/tetracyclinum/
+last_modified_at: 2026-05-03
 ---
 
 # TETRACYCLINUM

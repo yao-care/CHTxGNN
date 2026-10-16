@@ -8,6 +8,7 @@ drugbank_id: DB00273
 evidence_level: L5
 permalink: /drugs/topiramatum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # TOPIRAMATUM

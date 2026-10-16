@@ -7,6 +7,7 @@ title: CYTARABINUM
 drugbank_id: DB00987
 evidence_level: L5
 permalink: /drugs/cytarabinum/
+last_modified_at: 2026-05-03
 ---
 
 # CYTARABINUM

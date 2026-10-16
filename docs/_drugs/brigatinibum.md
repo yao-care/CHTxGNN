@@ -8,6 +8,7 @@ drugbank_id: DB12267
 evidence_level: L5
 permalink: /drugs/brigatinibum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # BRIGATINIBUM

@@ -5,6 +5,8 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 25
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Brentuximab Vedotin: vorhergesagte neue Indikation Follikuläres Lymphom (Evidenzstufe L3). Ursprüngliche Indikation: Hodgkin-Lymphom, anaplastisches grosszelliges Lymphom…"
 ---
 
 # Brentuximab Vedotin

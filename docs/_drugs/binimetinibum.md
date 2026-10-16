@@ -8,6 +8,7 @@ drugbank_id: DB11967
 evidence_level: L5
 permalink: /drugs/binimetinibum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # BINIMETINIBUM

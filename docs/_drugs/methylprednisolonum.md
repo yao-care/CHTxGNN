@@ -7,6 +7,7 @@ title: METHYLPREDNISOLONUM
 drugbank_id: DB00959
 evidence_level: L5
 permalink: /drugs/methylprednisolonum/
+last_modified_at: 2026-05-03
 ---
 
 # METHYLPREDNISOLONUM

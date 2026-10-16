@@ -7,6 +7,7 @@ title: AZACITIDINUM
 drugbank_id: DB00928
 evidence_level: L5
 permalink: /drugs/azacitidinum/
+last_modified_at: 2026-05-03
 ---
 
 # AZACITIDINUM

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 43
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Efmoroctocog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei…"
 ---
 
 # Efmoroctocog Alfa

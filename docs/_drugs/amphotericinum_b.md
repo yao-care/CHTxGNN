@@ -7,6 +7,7 @@ title: AMPHOTERICINUM B
 drugbank_id: DB00681
 evidence_level: L5
 permalink: /drugs/amphotericinum_b/
+last_modified_at: 2026-05-03
 ---
 
 # AMPHOTERICINUM B

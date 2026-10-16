@@ -8,6 +8,7 @@ drugbank_id: DB00755
 evidence_level: L5
 permalink: /drugs/tretinoinum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # TRETINOINUM

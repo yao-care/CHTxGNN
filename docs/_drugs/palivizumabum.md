@@ -8,6 +8,7 @@ drugbank_id: DB00110
 evidence_level: L5
 permalink: /drugs/palivizumabum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # PALIVIZUMABUM

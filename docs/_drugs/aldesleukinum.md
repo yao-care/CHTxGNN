@@ -7,6 +7,7 @@ title: ALDESLEUKINUM
 drugbank_id: DB00041
 evidence_level: L5
 permalink: /drugs/aldesleukinum/
+last_modified_at: 2026-05-03
 ---
 
 # ALDESLEUKINUM

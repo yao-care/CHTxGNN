@@ -8,6 +8,7 @@ drugbank_id: DB08910
 evidence_level: L5
 permalink: /drugs/pomalidomidum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # POMALIDOMIDUM

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 110
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-13
+description: "Zinc Oxide: vorhergesagte neue Indikation Akne (acne) (Evidenzstufe L5). Ursprüngliche Indikation: Leichte, nicht infektionsbedingte Hautentzündungen"
 ---
 
 # Zinc Oxide

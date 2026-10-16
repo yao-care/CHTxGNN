@@ -7,6 +7,7 @@ title: PHENOBARBITALUM
 drugbank_id: DB01174
 evidence_level: L5
 permalink: /drugs/phenobarbitalum/
+last_modified_at: 2026-05-03
 ---
 
 # PHENOBARBITALUM

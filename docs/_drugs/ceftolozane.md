@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Ceftolozane: vorhergesagte neue Indikation Ureaplasma-Urethritis (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
 # Ceftolozane

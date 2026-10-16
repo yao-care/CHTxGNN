@@ -7,6 +7,7 @@ title: AMANTADINI HYDROCHLORIDUM
 drugbank_id: DB00915
 evidence_level: L5
 permalink: /drugs/amantadini_hydrochloridum/
+last_modified_at: 2026-05-03
 ---
 
 # AMANTADINI HYDROCHLORIDUM

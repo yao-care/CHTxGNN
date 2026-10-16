@@ -7,6 +7,7 @@ title: MINOCYCLINUM
 drugbank_id: DB01017
 evidence_level: L5
 permalink: /drugs/minocyclinum/
+last_modified_at: 2026-05-03
 ---
 
 # MINOCYCLINUM

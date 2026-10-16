@@ -7,6 +7,7 @@ title: ERYTHROMYCINUM
 drugbank_id: DB00199
 evidence_level: L5
 permalink: /drugs/erythromycinum/
+last_modified_at: 2026-05-03
 ---
 
 # ERYTHROMYCINUM

@@ -7,6 +7,7 @@ title: TRIAMCINOLONUM
 drugbank_id: DB00620
 evidence_level: L5
 permalink: /drugs/triamcinolonum/
+last_modified_at: 2026-05-03
 ---
 
 # TRIAMCINOLONUM

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 95
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Thymol: vorhergesagte neue Indikation Interventrikuläres Septumaneurysma (Evidenzstufe L5). Ursprüngliche Indikation: Leichte Kopfschmerzen (äusserlich)"
 ---
 
 # Thymol

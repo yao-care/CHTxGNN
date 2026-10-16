@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Tenofovir Disoproxil: vorhergesagte neue Indikation Simian-Immundefizienzvirus-Infektion (SIV) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion, HIV-1-Infektion, HIV-Prä-Expositionsprophyla…"
 ---
 
 # Tenofovir Disoproxil

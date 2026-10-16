@@ -7,6 +7,7 @@ title: CEFTRIAXONUM
 drugbank_id: DB01212
 evidence_level: L5
 permalink: /drugs/ceftriaxonum/
+last_modified_at: 2026-05-03
 ---
 
 # CEFTRIAXONUM

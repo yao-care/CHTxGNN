@@ -7,6 +7,7 @@ title: GILTERITINIBUM
 drugbank_id: DB12141
 evidence_level: L5
 permalink: /drugs/gilteritinibum/
+last_modified_at: 2026-05-03
 ---
 
 # GILTERITINIBUM

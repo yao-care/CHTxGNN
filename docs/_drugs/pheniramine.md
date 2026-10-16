@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Pheniramine: vorhergesagte neue Indikation Allergische Urtikaria (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
 ---
 
 # Pheniramine

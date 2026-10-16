@@ -7,6 +7,7 @@ title: DECITABINUM
 drugbank_id: DB01262
 evidence_level: L5
 permalink: /drugs/decitabinum/
+last_modified_at: 2026-05-03
 ---
 
 # DECITABINUM

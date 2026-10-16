@@ -5,6 +5,8 @@ parent: Hohe Evidenz (L1-L2)
 nav_order: 57
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Insulin Detemir: vorhergesagte neue Indikation Typ-1-Diabetes mellitus (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus"
 ---
 
 # Insulin Detemir

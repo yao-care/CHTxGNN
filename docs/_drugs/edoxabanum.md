@@ -8,6 +8,7 @@ drugbank_id: DB09075
 evidence_level: L5
 permalink: /drugs/edoxabanum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # EDOXABANUM

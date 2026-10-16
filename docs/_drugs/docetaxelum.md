@@ -7,6 +7,7 @@ title: DOCETAXELUM
 drugbank_id: DB01248
 evidence_level: L5
 permalink: /drugs/docetaxelum/
+last_modified_at: 2026-05-03
 ---
 
 # DOCETAXELUM

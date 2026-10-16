@@ -7,6 +7,7 @@ title: TOPOTECANUM
 drugbank_id: DB01030
 evidence_level: L5
 permalink: /drugs/topotecanum/
+last_modified_at: 2026-05-03
 ---
 
 # TOPOTECANUM

@@ -7,6 +7,7 @@ title: CARMUSTINUM
 drugbank_id: DB00262
 evidence_level: L5
 permalink: /drugs/carmustinum/
+last_modified_at: 2026-05-03
 ---
 
 # CARMUSTINUM

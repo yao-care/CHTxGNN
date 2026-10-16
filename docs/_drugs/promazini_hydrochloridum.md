@@ -7,6 +7,7 @@ title: PROMAZINI HYDROCHLORIDUM
 drugbank_id: DB00420
 evidence_level: L5
 permalink: /drugs/promazini_hydrochloridum/
+last_modified_at: 2026-05-03
 ---
 
 # PROMAZINI HYDROCHLORIDUM

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 21
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Bacitracin: vorhergesagte neue Indikation Punctate epithelial keratoconjunctivitis (punktförmige epitheliale Ke… (Evidenzstufe L5). Ursprüngliche Indikation: Diagnose von Allergien"
 ---
 
 # Bacitracin

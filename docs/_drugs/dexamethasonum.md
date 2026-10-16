@@ -7,6 +7,7 @@ title: DEXAMETHASONUM
 drugbank_id: DB01234
 evidence_level: L5
 permalink: /drugs/dexamethasonum/
+last_modified_at: 2026-05-03
 ---
 
 # DEXAMETHASONUM

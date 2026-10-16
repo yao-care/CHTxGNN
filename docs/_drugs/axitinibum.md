@@ -8,6 +8,7 @@ drugbank_id: DB06626
 evidence_level: L5
 permalink: /drugs/axitinibum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # AXITINIBUM

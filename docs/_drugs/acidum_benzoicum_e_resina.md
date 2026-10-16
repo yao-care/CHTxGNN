@@ -8,6 +8,7 @@ drugbank_id: DB03793
 evidence_level: L5
 permalink: /drugs/acidum_benzoicum_e_resina/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # ACIDUM BENZOICUM E RESINA

@@ -7,6 +7,7 @@ title: IVOSIDENIBUM
 drugbank_id: DB14568
 evidence_level: L5
 permalink: /drugs/ivosidenibum/
+last_modified_at: 2026-05-03
 ---
 
 # IVOSIDENIBUM

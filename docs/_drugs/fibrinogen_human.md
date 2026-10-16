@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 49
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Fibrinogen Human: vorhergesagte neue Indikation Hämoglobinopathie (Evidenzstufe L5). Ursprüngliche Indikation: Angeborene Hypo- oder Afibrinogenämie mit Blutungsneigung"
 ---
 
 # Fibrinogen Human

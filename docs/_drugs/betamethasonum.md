@@ -7,6 +7,7 @@ title: BETAMETHASONUM
 drugbank_id: DB00443
 evidence_level: L5
 permalink: /drugs/betamethasonum/
+last_modified_at: 2026-05-03
 ---
 
 # BETAMETHASONUM

@@ -8,6 +8,7 @@ drugbank_id: DB00993
 evidence_level: L5
 permalink: /drugs/azathioprinum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # AZATHIOPRINUM

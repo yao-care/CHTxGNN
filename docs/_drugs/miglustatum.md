@@ -8,6 +8,7 @@ drugbank_id: DB00419
 evidence_level: L5
 permalink: /drugs/miglustatum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # MIGLUSTATUM

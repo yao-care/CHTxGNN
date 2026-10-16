@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Tezacaftor: vorhergesagte neue Indikation HIV-Infektionskrankheit (Evidenzstufe L5). Ursprüngliche Indikation: Zystische Fibrose (Mukoviszidose)…"
 ---
 
 # Tezacaftor

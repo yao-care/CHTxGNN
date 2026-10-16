@@ -7,6 +7,7 @@ title: OFLOXACINUM
 drugbank_id: DB01165
 evidence_level: L5
 permalink: /drugs/ofloxacinum/
+last_modified_at: 2026-05-03
 ---
 
 # OFLOXACINUM

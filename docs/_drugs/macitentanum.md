@@ -8,6 +8,7 @@ drugbank_id: DB08932
 evidence_level: L5
 permalink: /drugs/macitentanum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # MACITENTANUM

@@ -8,6 +8,7 @@ drugbank_id: DB01183
 evidence_level: L5
 permalink: /drugs/naloxoni_hydrochloridum_anhydricum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # NALOXONI HYDROCHLORIDUM ANHYDRICUM

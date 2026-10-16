@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 18
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Asfotase Alfa: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von K… (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Hypophosphatasie"
 ---
 
 # Asfotase Alfa

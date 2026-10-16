@@ -7,6 +7,7 @@ title: BROMOCRIPTINUM
 drugbank_id: DB01200
 evidence_level: L5
 permalink: /drugs/bromocriptinum/
+last_modified_at: 2026-05-03
 ---
 
 # BROMOCRIPTINUM

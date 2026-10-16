@@ -8,6 +8,7 @@ drugbank_id: DB00601
 evidence_level: L5
 permalink: /drugs/linezolidum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # LINEZOLIDUM

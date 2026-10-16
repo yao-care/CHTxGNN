@@ -7,6 +7,7 @@ title: METHOTREXATUM
 drugbank_id: DB00563
 evidence_level: L5
 permalink: /drugs/methotrexatum/
+last_modified_at: 2026-05-03
 ---
 
 # METHOTREXATUM

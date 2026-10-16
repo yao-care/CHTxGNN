@@ -7,6 +7,7 @@ title: RUCAPARIBUM
 drugbank_id: DB12332
 evidence_level: L5
 permalink: /drugs/rucaparibum/
+last_modified_at: 2026-05-03
 ---
 
 # RUCAPARIBUM

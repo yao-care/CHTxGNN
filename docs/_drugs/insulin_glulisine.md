@@ -5,6 +5,8 @@ parent: Hohe Evidenz (L1-L2)
 nav_order: 58
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Insulin Glulisine: vorhergesagte neue Indikation Diabetes mellitus Typ 1 (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus beim Erwachsenen"
 ---
 
 # Insulin Glulisine

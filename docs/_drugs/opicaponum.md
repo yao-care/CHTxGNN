@@ -8,6 +8,7 @@ drugbank_id: DB11632
 evidence_level: L5
 permalink: /drugs/opicaponum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # OPICAPONUM

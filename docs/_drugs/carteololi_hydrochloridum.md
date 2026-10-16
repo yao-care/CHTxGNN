@@ -8,6 +8,7 @@ drugbank_id: DB00521
 evidence_level: L5
 permalink: /drugs/carteololi_hydrochloridum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # CARTEOLOLI HYDROCHLORIDUM

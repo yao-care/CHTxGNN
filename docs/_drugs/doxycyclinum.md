@@ -7,6 +7,7 @@ title: DOXYCYCLINUM
 drugbank_id: DB00254
 evidence_level: L5
 permalink: /drugs/doxycyclinum/
+last_modified_at: 2026-05-03
 ---
 
 # DOXYCYCLINUM

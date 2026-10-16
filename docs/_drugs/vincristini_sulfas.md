@@ -7,6 +7,7 @@ title: VINCRISTINI SULFAS
 drugbank_id: DB00541
 evidence_level: L5
 permalink: /drugs/vincristini_sulfas/
+last_modified_at: 2026-05-03
 ---
 
 # VINCRISTINI SULFAS

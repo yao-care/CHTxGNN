@@ -8,6 +8,7 @@ drugbank_id: DB00524
 evidence_level: L5
 permalink: /drugs/metolazonum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # METOLAZONUM

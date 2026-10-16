@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Elvitegravir: vorhergesagte neue Indikation Infektion mit dem Simianen Immundefizienzvirus (SIV) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
 # Elvitegravir

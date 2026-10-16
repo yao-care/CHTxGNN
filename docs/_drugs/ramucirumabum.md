@@ -7,6 +7,7 @@ title: RAMUCIRUMABUM
 drugbank_id: DB05578
 evidence_level: L5
 permalink: /drugs/ramucirumabum/
+last_modified_at: 2026-05-03
 ---
 
 # RAMUCIRUMABUM

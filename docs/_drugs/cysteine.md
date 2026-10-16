@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 39
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Cysteine: vorhergesagte neue Indikation Trockenes Auge (Dry-Eye-Syndrom) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 
 # Cysteine

@@ -7,6 +7,7 @@ title: ACIDUM FUSIDICUM ANHYDRICUM
 drugbank_id: DB02703
 evidence_level: L5
 permalink: /drugs/acidum_fusidicum_anhydricum/
+last_modified_at: 2026-05-03
 ---
 
 # ACIDUM FUSIDICUM ANHYDRICUM

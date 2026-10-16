@@ -8,6 +8,7 @@ drugbank_id: DB08877
 evidence_level: L5
 permalink: /drugs/ruxolitinibum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # RUXOLITINIBUM

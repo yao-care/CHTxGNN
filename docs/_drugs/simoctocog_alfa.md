@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 85
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Simoctocog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Krankheit (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A"
 ---
 
 # Simoctocog Alfa

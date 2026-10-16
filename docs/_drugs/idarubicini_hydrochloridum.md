@@ -7,6 +7,7 @@ title: IDARUBICINI HYDROCHLORIDUM
 drugbank_id: DB01177
 evidence_level: L5
 permalink: /drugs/idarubicini_hydrochloridum/
+last_modified_at: 2026-05-03
 ---
 
 # IDARUBICINI HYDROCHLORIDUM

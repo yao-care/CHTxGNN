@@ -7,6 +7,7 @@ title: VINBLASTINI SULFAS
 drugbank_id: DB00570
 evidence_level: L5
 permalink: /drugs/vinblastini_sulfas/
+last_modified_at: 2026-05-03
 ---
 
 # VINBLASTINI SULFAS

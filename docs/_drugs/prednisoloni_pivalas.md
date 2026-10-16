@@ -7,6 +7,7 @@ title: PREDNISOLONI PIVALAS
 drugbank_id: DB00860
 evidence_level: L5
 permalink: /drugs/prednisoloni_pivalas/
+last_modified_at: 2026-05-03
 ---
 
 # PREDNISOLONI PIVALAS

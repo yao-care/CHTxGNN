@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-13
+description: "Andexanet Alfa: vorhergesagte neue Indikation Glanzmann-Thrombasthenie (Evidenzstufe L5). Ursprüngliche Indikation: Antidot gegen Faktor-Xa-Inhibitoren"
 ---
 
 # Andexanet Alfa

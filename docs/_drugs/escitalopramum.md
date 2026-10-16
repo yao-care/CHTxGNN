@@ -8,6 +8,7 @@ drugbank_id: DB01175
 evidence_level: L5
 permalink: /drugs/escitalopramum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # ESCITALOPRAMUM

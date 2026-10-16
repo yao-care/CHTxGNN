@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 17
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Artemether: vorhergesagte neue Indikation Erworbenes Angioödem (Evidenzstufe L5). Ursprüngliche Indikation: Malaria"
 ---
 
 # Artemether

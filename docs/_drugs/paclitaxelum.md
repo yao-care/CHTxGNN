@@ -7,6 +7,7 @@ title: PACLITAXELUM
 drugbank_id: DB01229
 evidence_level: L5
 permalink: /drugs/paclitaxelum/
+last_modified_at: 2026-05-03
 ---
 
 # PACLITAXELUM

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-13
+description: "Undecylenic Acid: vorhergesagte neue Indikation Dermatophytose der Leisten- und Perianalregion (Evidenzstufe L5). Ursprüngliche Indikation: Sanfte Reinigung der Haut mit Rückgabe verlorener Lipide"
 ---
 
 # Undecylenic Acid

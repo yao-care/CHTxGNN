@@ -7,6 +7,7 @@ title: TIOGUANINUM
 drugbank_id: DB00352
 evidence_level: L5
 permalink: /drugs/tioguaninum/
+last_modified_at: 2026-05-03
 ---
 
 # TIOGUANINUM

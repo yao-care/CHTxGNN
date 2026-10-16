@@ -8,6 +8,7 @@ drugbank_id: DB00035
 evidence_level: L5
 permalink: /drugs/desmopressinum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # DESMOPRESSINUM

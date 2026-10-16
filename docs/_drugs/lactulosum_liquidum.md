@@ -8,6 +8,7 @@ drugbank_id: DB00581
 evidence_level: L5
 permalink: /drugs/lactulosum_liquidum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # LACTULOSUM LIQUIDUM

@@ -7,6 +7,7 @@ title: TRABECTEDINUM
 drugbank_id: DB05109
 evidence_level: L5
 permalink: /drugs/trabectedinum/
+last_modified_at: 2026-05-03
 ---
 
 # TRABECTEDINUM

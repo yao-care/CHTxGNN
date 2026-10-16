@@ -8,6 +8,7 @@ drugbank_id: DB01075
 evidence_level: L5
 permalink: /drugs/diphenhydramini_hydrochloridum/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # DIPHENHYDRAMINI HYDROCHLORIDUM

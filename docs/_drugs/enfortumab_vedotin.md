@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 47
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-13
+description: "Enfortumab Vedotin: vorhergesagte neue Indikation Lepra (Evidenzstufe L5). Ursprüngliche Indikation: Urothelkarzinom"
 ---
 
 # Enfortumab Vedotin

@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-13
+description: "Norelgestromin: vorhergesagte neue Indikation Amenorrhoe (Evidenzstufe L5). Ursprüngliche Indikation: Hormonelle Kontrazeption"
 ---
 
 # Norelgestromin

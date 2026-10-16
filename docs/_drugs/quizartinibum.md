@@ -7,6 +7,7 @@ title: QUIZARTINIBUM
 drugbank_id: DB12874
 evidence_level: L5
 permalink: /drugs/quizartinibum/
+last_modified_at: 2026-05-03
 ---
 
 # QUIZARTINIBUM

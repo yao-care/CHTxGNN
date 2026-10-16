@@ -8,6 +8,7 @@ drugbank_id: DB11061
 evidence_level: L5
 permalink: /drugs/povidonum_k_25/
 search_exclude: true
+last_modified_at: 2026-05-03
 ---
 
 # POVIDONUM K 25

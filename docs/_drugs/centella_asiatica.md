@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-13
+description: "Centella Asiatica: vorhergesagte neue Indikation Schlaflosigkeit (Insomnie) (Evidenzstufe L5). Ursprüngliche Indikation: Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschl…"
 ---
 
 # Centella Asiatica

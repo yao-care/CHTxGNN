@@ -5,6 +5,8 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Tyrosine: vorhergesagte neue Indikation Cauda-equina-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch für Erwachsene)"
 ---
 
 # Tyrosine

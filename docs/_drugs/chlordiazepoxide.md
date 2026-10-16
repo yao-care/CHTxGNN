@@ -5,6 +5,8 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 32
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-13
+description: "Chlordiazepoxide: vorhergesagte neue Indikation Insomnie (Evidenzstufe L3). Ursprüngliche Indikation: Antidepressivum"
 ---
 
 # Chlordiazepoxide
