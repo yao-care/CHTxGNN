@@ -72,7 +72,7 @@ Fehlschlagrisiko geringer ist.
 ## Was ist TxGNN?
 
 <p class="key-answer" data-question="Was ist TxGNN?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> ist ein Deep-Learning-Modell,
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> ist ein Deep-Learning-Modell,
 das vom Zitnik Lab an der Harvard Medical School entwickelt und in <em>Nature Medicine</em>
 veröffentlicht wurde. Es sagt neuartige Zusammenhänge zwischen Arzneimitteln und Krankheiten voraus
 und ist das erste Basismodell für die Arzneimittel-Umwidmung, das gezielt für Klinikerinnen und
@@ -108,7 +108,7 @@ Arzneimitteln gegen seltene Krankheiten vorherzusagen.»
 ## Wissenschaftliche Grundlage
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 

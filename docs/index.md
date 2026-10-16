@@ -2,7 +2,7 @@
 layout: default
 title: Vorhersagen zur Arzneimittel-Umwidmung
 nav_order: 1
-description: "AI-powered drug repurposing predictions for Switzerland. Evidence-based analysis of approved medicines for potential new therapeutic indications."
+description: "KI-gestützte Vorhersagen zur Arzneimittel-Umwidmung für die Schweiz. Evidenzbasierte Analyse zugelassener Arzneimittel auf mögliche neue Anwendungsgebiete."
 permalink: /
 ---
 
