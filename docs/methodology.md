@@ -49,20 +49,15 @@ Entscheidungsempfehlung ausgesprochen.
 
 ---
 
-## Vorhersage mit zwei Verfahren
+## So entstehen die Vorhersagen
 
-Zwei Verfahren laufen parallel, und eine Konfidenzangabe hält fest, ob sie übereinstimmen:
+Das Deep-Learning-Modell (DL) von TxGNN bewertet Arzneimittel-Krankheits-Paare. Anschließend werden Indikationen und Kontraindikationen entfernt, die für das Arzneimittel bereits im TxGNN-Wissensgraphen (KG) erfasst sind. Die Arzneimittelseiten zeigen daher nur neue vorhergesagte Anwendungsgebiete mit einem Score von mindestens 0,99 (bis zu 10 pro Arzneimittel).
 
-| Verfahren | Geschwindigkeit | Genauigkeit | Beschreibung |
-|--------|-------|-----------|-------------|
-| Wissensgraph (KG) | Schnell | Geringer | Inferenz über DrugBank-Beziehungen und Graphstruktur |
-| Deep Learning (DL) | Langsam | Höher | Graph-Neuronales-Netz-Modell TxGNN |
-
-| Konfidenz | Quelle | Bedeutung |
-|------------|--------|---------|
-| very_high | KG + DL | Beide Verfahren stimmen überein |
-| high | Nur DL | Deep-Learning-Absicherung mit hohem Wert |
-| medium | Nur KG | Absicherung durch den Wissensgraphen |
+| Schritt | Funktion |
+|---------|----------|
+| Deep Learning (DL) | Das graphbasierte neuronale Netz von TxGNN bewertet jedes Arzneimittel-Krankheits-Paar |
+| Abgleich bekannter Anwendungen (KG) | Entfernt Indikationen und Kontraindikationen, die bereits im Wissensgraphen erfasst sind; sie zählen nicht als neue Vorhersagen |
+| Evidenzsammlung | Durchsucht ClinicalTrials.gov und PubMed zu jeder verbleibenden Vorhersage und vergibt eine Evidenzstufe (L1–L5) |
 
 ---
 

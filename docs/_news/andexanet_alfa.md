@@ -31,7 +31,7 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für ANDEXANET ALFA mit
 <li>hemophilia (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/andexanet_alfa/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/andexanet-alfa/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)

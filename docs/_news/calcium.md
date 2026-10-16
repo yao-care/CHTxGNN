@@ -25,7 +25,7 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für CALCIUM mit den ne
 <strong>Arzneimittelinformationen</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/calcium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
 </div>
 
 ## Verwandte Nachrichten (0)
