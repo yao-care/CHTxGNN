@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 nav_exclude: true
 title: AMIODARONI HYDROCHLORIDUM
