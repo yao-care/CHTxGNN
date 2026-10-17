@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Glycine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
-monitor_inn: "glycine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Glycine

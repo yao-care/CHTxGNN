@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
 description: "Sulfamethoxazole: vorhergesagte neue Indikation Akute ansteckende Bindehautentzündung (acute contagious conjunctiviti… (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
-monitor_inn: "sulfamethoxazole"
-predicted_indications: ["acute contagious conjunctivitis"]
 ---
 
 # Sulfamethoxazole

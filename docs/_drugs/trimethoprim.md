@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-13
 description: "Trimethoprim: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
-monitor_inn: "trimethoprim"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "conjunctivitis (disease)"]
 ---
 
 # Trimethoprim
