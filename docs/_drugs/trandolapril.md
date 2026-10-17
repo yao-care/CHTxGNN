@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-13
 description: "Trandolapril: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (Evidenzstufe L5). Ursprüngliche Indikation: Kombiniertes Antihypertonikum"
 monitor_inn: "trandolapril"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "chronic pulmonary heart disease"]
 ---
 
 # Trandolapril
