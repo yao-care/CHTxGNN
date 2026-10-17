@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu LITHIUM"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu LITHIUM. Ursprüngliche Indikation: . 3 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu LITHIUM. Ursprüngliche Indikation: . 0 vorhergesagte Indikationen."
 permalink: /news/lithium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lithium/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu LITHIUM?">
-<strong>LITHIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 3 vorhergesagte Indikationen.
+<strong>LITHIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 0 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für LITHIUM mit den ne
 <div class="drug-info-card">
 <strong>Arzneimittelinformationen</strong>
 <ul>
-<li><strong>Vorhergesagte Indikationen (3)</strong>:<ul>
-<li>manic bipolar affective disorder | TxGNN Knowledge Graph (99.0%)</li>
-<li>major affective disorder | TxGNN Knowledge Graph (99.0%)</li>
-<li>bipolar disorder | TxGNN Knowledge Graph (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
+
 </div>
 
 ## Verwandte Nachrichten (0)
