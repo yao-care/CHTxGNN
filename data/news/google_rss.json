@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T10:04:00.822474+00:00",
+  "fetched_at": "2026-10-17T14:01:37.663043+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,6 +114,16 @@
       }
     },
     {
+      "id": "a09b3e771b2a",
+      "title": "Schweizer Bevölkerung zahlte zu viel für Medikamente – der Fall in 8 Punkten - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUZYaDBGUVlsVU53U2h6WWlndHhfNVUzYlVwbkNzVjE0bHB2SEVQVWF6Z0tBTWJCWXp1dkZjTGczbF9SdFlBZXJJaEhaWm4wNUluN0tDV202X0xvU1J0ZEZVOVFrT245ajR4LUlGUDJ6Umd1R1IwRTVfUU5TWFphejI4R3NudjZiTnl2bjlHOTlXUzFhdU1WU1ZDbGNTRVRWeGRSUXc3U3doSmg2c203R0NzWHlQYmE1amNPenN6V0c?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "b9fd079224b9",
       "title": "medphano bringt Angel in Quiet Kollagen Triple Komplex auf den Markt - gesundheit adhoc",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWhtbUhVTllZbTFvc0hYbWFYMENBTGZ0MDVSM0xsdTBDMXMtbTVkRFExT2htUWptc0pDSmJaZjRNaDNka19VbkFwMk5pLUtYOElCTmVSc2NYb0JhSk5BbzJxVUJUZHQybVhMU2hKWWh2M0Y3Q0ZhNHFTZHlNeE5TZXdGU19xRlZSQm5DMU1EaW9TUHpLRlV3ZXQwNGhRQWZ3ZlVN?oc=5",
@@ -131,16 +141,6 @@
       "source": {
         "name": "oekotest.de",
         "url": "https://www.oekotest.de"
-      }
-    },
-    {
-      "id": "a09b3e771b2a",
-      "title": "Schweizer Bevölkerung zahlte zu viel für Medikamente – der Fall in 8 Punkten - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUZYaDBGUVlsVU53U2h6WWlndHhfNVUzYlVwbkNzVjE0bHB2SEVQVWF6Z0tBTWJCWXp1dkZjTGczbF9SdFlBZXJJaEhaWm4wNUluN0tDV202X0xvU1J0ZEZVOVFrT245ajR4LUlGUDJ6Umd1R1IwRTVfUU5TWFphejI4R3NudjZiTnl2bjlHOTlXUzFhdU1WU1ZDbGNTRVRWeGRSUXc3U3doSmg2c203R0NzWHlQYmE1amNPenN6V0c?oc=5",
-      "published": "2026-08-13T07:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -284,6 +284,16 @@
       }
     },
     {
+      "id": "61312f4f8713",
+      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
       "id": "ef0b37a3504a",
       "title": "Ist das der Durchbruch gegen Bauchspeicheldrüsenkrebs? - WEB.DE",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTB2RW1Yd3JGOXVneFFSRzQ2eElRQ0p4RmJGMTVhMzctWFlGUHFTeVdBTDYtMUJNWVdzZnhxNXdGT3A3dkFaczN2Y0RZZUYzcmNSeDk4dndGRGludGFhRmxiZFRhVmdjSGprcXRkNEtvRFNsMzhkZElsNVdDSC16QlVvQUhjNUU?oc=5",
@@ -291,26 +301,6 @@
       "source": {
         "name": "WEB.DE",
         "url": "https://web.de"
-      }
-    },
-    {
-      "id": "2dac895ca93c",
-      "title": "Das Gesundheitsministerium schlägt vor, die Beiträge zur Krankenversicherung zu erhöhen und die Leistungen für die Versicherten auszuweiten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamNvNDByTENQZUtnbjhNbGxKbXN0akFQcVpEbm9WSEYxTjE3VEVuSDZzU3huX0djSW9iZzJPRkhNNGYwd0paOVFDc1JvbV9YYU4zUGdMMTF1aTI4Y0cyR2M2c0w2YWRIRHoybE0zRl9nQ1dOcENaSmFsc0tDYnJPLU5RS3oyV01wMmc4TTV6VHF0dzhJdVJwNmthOFdMRW93N3JhaA?oc=5",
-      "published": "2026-10-14T08:06:24+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "be8d03f8a4d0",
-      "title": "Vollkorn: Wie viel am Tag Blutdruck und Cholesterin verbessern kann - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGdGX0FjbEZsbWV3ZXhwS1R6NmR2Um80TWU3bVdPVVJhaVlhMlpQSElFM3JXcGlaVllHREJHMWc2UkFFVE8wc0lNRUlwWVdLTnJBN3otbWxvMERKN1g3b3NseVJHV2NyNkVVaEJBb3F5S2Y2aUJzTVhlQ2NSSXloeUpCY0ZoblNuNDE3UWhIeXVRSWZFU0d6WHltdEVjbkpHbU1rLQ?oc=5",
-      "published": "2026-10-15T07:00:00+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
       }
     },
     {
@@ -324,13 +314,13 @@
       }
     },
     {
-      "id": "61312f4f8713",
-      "title": "Hitzewelle: Welche Medikamente bei Rekordtemperaturen zum Risiko werden können - Tages-Anzeiger",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNktkQlhKcmVuNVV1Z01YcFVQMmVjX1lVRHVWc2NEUzNCSFFoc092SkpHZUUzSG9DMVREMHh1Vm51OG9aZ3ZMa2RPci00RHdHZ3Itb0NCdHF1OFhjS2lFeUpVUlN6VjBraUwtUGVCYUdsaVNIYzFWYWl2aXJtbW9USzJ3bU91Rk9VU1M5b3FKSHNZci1wZVpod2pPdVZIYUk?oc=5",
-      "published": "2026-06-29T07:00:00+00:00",
+      "id": "be8d03f8a4d0",
+      "title": "Vollkorn: Wie viel am Tag Blutdruck und Cholesterin verbessern kann - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGdGX0FjbEZsbWV3ZXhwS1R6NmR2Um80TWU3bVdPVVJhaVlhMlpQSElFM3JXcGlaVllHREJHMWc2UkFFVE8wc0lNRUlwWVdLTnJBN3otbWxvMERKN1g3b3NseVJHV2NyNkVVaEJBb3F5S2Y2aUJzTVhlQ2NSSXloeUpCY0ZoblNuNDE3UWhIeXVRSWZFU0d6WHltdEVjbkpHbU1rLQ?oc=5",
+      "published": "2026-10-15T07:00:00+00:00",
       "source": {
-        "name": "Tages-Anzeiger",
-        "url": "https://www.tagesanzeiger.ch"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -341,16 +331,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "58144bb6836c",
-      "title": "Patienten, die Medikamente und medizinische Geräte selbst kaufen, sollten die Hinweise zur Krankenversicherung beachten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFRsdERmR3hTZkM3U01KUmIzRjFxZ2I4T1JnQmdqSFR1cEc0ZW4tMllTQVpPSDNlSmJ5cFk0V0M1XzBLdVQ5X0VOYzM2ck9VTVEwZjAyVmk1ekFNaFMyclo2aWdDeGI1VUF1UVg2VnhwRXdoUmV6WEswdnlqVFRlZXlKUEQzalR3UlZ3X1JjN2E5QXI1ZW54cDVoY2JkT3M?oc=5",
-      "published": "2026-10-13T09:36:08+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -434,6 +414,16 @@
       }
     },
     {
+      "id": "ee0848383f96",
+      "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
+      "published": "2026-02-24T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
       "id": "1d15f3b6b9c3",
       "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
@@ -484,16 +474,6 @@
       }
     },
     {
-      "id": "ee0848383f96",
-      "title": "Finger weg von zu viel Billig-Viagra: Zollbusse wird teuer - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS1PamZ6Y2hzTFNUWjRGOTY0MGtnV3U2SFctNXVqelZsNXQzaEc4QzJNQjVqUjRhS0RELWFjWlM5am1ueUprc0h2THVVSzFDZ2ZTWkxBVm8yakV3YS1yb2pOWGxIeHNjczk4blJsWGlFOHlvUmdIenNhR2tWVDBBWmZ3WEo4ekpUWXJwazZXVV9IQXhRZjZuQnZBX3hGcWphVWhyaEhLVHNiNTdsczhQWlpJSklLWWxwanJ0QXl3cGN5N3JwQ1prSHpNQQ?oc=5",
-      "published": "2026-02-24T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "1648c3dfecfa",
       "title": "Diese Massnahmen sollen Schweizer Medikamentenversorgung sicherer machen - Watson",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm5EdG1mcGhpUVhVWHNqb3pJTHhOX0pFSk1hX1ZBY0p5cXpqS3dXZGNadVpfVC1fdHpJOWEzQmU5OVExZ0xaV1Q5ZjRkaklDb19KMGtKLXNpd0Nsd0tSRWpidXVtSDdLT05IRTgwaENmb2tXQUc5enhqSTlqRmFEN3ZucU16MWVnRWotTUZhaEZXZFVLcUEta1YzcDZObHQxUFFJUUNIcFd2b2FuWTFoa2dMNWxfdVBka2NDazRYSzQ?oc=5",
@@ -524,16 +504,6 @@
       }
     },
     {
-      "id": "054c2beef78c",
-      "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
-      "published": "2026-09-07T07:00:00+00:00",
-      "source": {
-        "name": "Fortune Business Insights",
-        "url": "https://www.fortunebusinessinsights.com"
-      }
-    },
-    {
       "id": "df27d3680011",
       "title": "Wie entsorgt man abgelaufene Medikamente? - Blick",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFgyZUx0aEZuV3RSTG04aFd5a3hHcElZS2hiMlU2UlFuUEF3aC13LVRmRWVYM0s1Z3RwMDhfM3VfRnh4WFo0bDJFZzh4YUdxNzZhOF9NOGh0NlNOMmJ4ZjhGU1RkRm95MGdFTWJjZWI0cy1zQlg0ZkluYzhDQ0dza195c2FEd3JvQ2hEOFdYS29HZUVyaEI1ZWhiZW1DU0w5QTBjdnlYcw?oc=5",
@@ -541,6 +511,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "054c2beef78c",
+      "title": "Marktgröße, Marktanteil für natürliche Gesundheitsmedikamente | Prognose [2034] - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm9jWnMyZy1ubkhPQXFmQ1dzUmtCU0V4X0dTMlEzZnpVeEVnVmxNU0VweEJsR2hNakhlN0JxRk9kMVVhVFZFNWhpXzhtR2g3cTdRQVM5d1lON25zT1FXV3hJNlJ1dDY5R2JUUld0UGRadUs4aFM5elJ6Z0RqX3BFS1ZEcERJUUh0MldhbVRybzN6anhOZnRHMw?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "source": {
+        "name": "Fortune Business Insights",
+        "url": "https://www.fortunebusinessinsights.com"
       }
     },
     {
@@ -591,16 +571,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "070847040a53",
-      "title": "BPI begrüßt Entscheidungen des Gesundheitsausschusses zu Zytostatika und Medizinalcannabis - verbaende.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeWIyU0hPeG9lOEFPX3dPSVFYLXNRYnlIZS0zNk5XdzlpZGpwX09zeWtYLWowMWlTbHlURVRBc1I3SVQ5T3U4b1RKR0o5RHRBYnc3dF9qY1ZMTzFpc0lpbkFYNDUxUkx4emdkUkJVaHBaLXlWelJkX3lFelpSdmE0eExkMTJvQ2xlbVdJRU5Cd1FzUFVhNUtnTUlRU1h2S2JyM0xBakl6QnZIcFhsLTMyMm1VdXNKQXNhbGluZGxvSEtWbzc1UjdWRmhoTGRBOFJVby1UWl8zdWNXdXVwVGY5YzBB?oc=5",
-      "published": "2026-10-15T11:41:00+00:00",
-      "source": {
-        "name": "verbaende.com",
-        "url": "https://www.verbaende.com"
       }
     },
     {
@@ -844,16 +814,6 @@
       }
     },
     {
-      "id": "f82cdb62e7fd",
-      "title": "Gewusst? - Krankenkasse darf Ihre Gesundheitsrisiken checken - Mindener Tageblatt",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmwybU5qMVNZT2h6UnpCVnFhMUh1c25xX2ZRalltTEdUZm96cmZwRUxFRnRUNDY0YkpjRVVWdjhYQk1kblVSUnZFTldDR1FwY2RqRmlSTXllMHBMU1hwdkIwSWJjaVA0aWFaSTNYbFhDWGhjenUxZDJwZHhQNmJmRWtEdVhWYVY0RTl3b2F0NUVBTzFXMUI4S25BYUZDVzlqNWZpOThBRkRjb3Zja1E?oc=5",
-      "published": "2026-10-13T10:31:23+00:00",
-      "source": {
-        "name": "Mindener Tageblatt",
-        "url": "https://www.mt.de"
-      }
-    },
-    {
       "id": "5041122093e4",
       "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
@@ -871,6 +831,16 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "f82cdb62e7fd",
+      "title": "Gewusst? - Krankenkasse darf Ihre Gesundheitsrisiken checken - Mindener Tageblatt",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmwybU5qMVNZT2h6UnpCVnFhMUh1c25xX2ZRalltTEdUZm96cmZwRUxFRnRUNDY0YkpjRVVWdjhYQk1kblVSUnZFTldDR1FwY2RqRmlSTXllMHBMU1hwdkIwSWJjaVA0aWFaSTNYbFhDWGhjenUxZDJwZHhQNmJmRWtEdVhWYVY0RTl3b2F0NUVBTzFXMUI4S25BYUZDVzlqNWZpOThBRkRjb3Zja1E?oc=5",
+      "published": "2026-10-13T10:31:23+00:00",
+      "source": {
+        "name": "Mindener Tageblatt",
+        "url": "https://www.mt.de"
       }
     },
     {
@@ -1001,6 +971,36 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
+      }
+    },
+    {
+      "id": "432315fa2251",
+      "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
+      "published": "2025-11-20T08:00:00+00:00",
+      "source": {
+        "name": "tagesschau.de",
+        "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "9b4ec0dc8566",
+      "title": "Arzneimittel-Kompass der AOK: Ein Faktencheck - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXNlN2NkNFZqd0ZfUHA2OE9YbG1zOGdGbGxhY0pDRENaX1RLYS1VNV9tRE1nN0tyTEhGOTZKQ21XTXhiQjdJb0FxTGI5V09qYXNWXy1GRkNLenBnVDRZbTA4NEhnX3gzcjZabTZBc1NOcTRtOVMtS1RIMU9GUkI0MjJsSUhVQk1BQVR0T2FnUW9ZYTI0clhjNGJMOEcwVnM?oc=5",
+      "published": "2025-12-10T08:00:00+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "5b55e1ba56e3",
+      "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WirtschaftsWoche",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "source": {
+        "name": "WirtschaftsWoche",
+        "url": "https://www.wiwo.de"
       }
     }
   ]
