@@ -27,7 +27,7 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **5**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmazeutischer Bewertungsbericht
 

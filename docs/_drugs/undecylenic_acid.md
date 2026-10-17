@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-13
 description: "Undecylenic Acid: vorhergesagte neue Indikation Dermatophytose der Leisten- und Perianalregion (Evidenzstufe L5). Ursprüngliche Indikation: Sanfte Reinigung der Haut mit Rückgabe verlorener Lipide"
 monitor_inn: "undecylenic acid"
-predicted_indications: ["dermatophytosis of groin and perianal area", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "dermatophytosis of scalp or beard", "pityriasis versicolor", "superficial mycosis"]
+predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "pityriasis versicolor"]
 ---
 
 # Undecylenic Acid
@@ -27,7 +27,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmazeutischer Bewertungsbericht
 
