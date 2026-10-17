@@ -168,9 +168,9 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "WebSite",
       "@id": "https://chtxgnn.yao.care/#website",
-      "name": "CHTxGNN Drug Repurposing Evidence Reports",
+      "name": "Evidenzberichte zur Arzneimittel-Umwidmung von CHTxGNN",
       "url": "https://chtxgnn.yao.care/",
-      "description": "AI-predicted new indications for medicines approved in Switzerland, with clinical evidence reports",
+      "description": "KI-vorhergesagte neue Anwendungsgebiete für in der Schweiz zugelassene Arzneimittel, mit klinischen Evidenzberichten",
       "isPartOf": {
         "@id": "https://chtxgnn.yao.care/#software"
       },
@@ -181,8 +181,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "WebPage",
       "@id": "https://chtxgnn.yao.care/#article",
-      "headline": "Drug Repurposing: From Data to Evidence",
-      "description": "AI-predicted new indications for medicines approved in Switzerland, with clinical trial and literature evidence reports",
+      "headline": "Arzneimittel-Umwidmung: von Daten zur Evidenz",
+      "description": "KI-vorhergesagte neue Anwendungsgebiete für in der Schweiz zugelassene Arzneimittel, mit Evidenzberichten aus klinischen Studien und Literatur",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -219,8 +219,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "About CHTxGNN",
-      "description": "About the CHTxGNN drug repurposing evidence reports: project overview, data sources and how to cite",
+      "name": "Über CHTxGNN",
+      "description": "Über die Evidenzberichte zur Arzneimittel-Umwidmung von CHTxGNN: Projektüberblick, Datenquellen und Zitierweise",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
@@ -234,26 +234,26 @@ window.TXGNN_ANALYTICS = {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is drug repurposing?",
+          "name": "Was ist Arzneimittel-Umwidmung?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Drug repurposing is the discovery of new therapeutic uses for existing medicines. Developing a new drug takes 10-15 years and USD 1-2 billion, whereas repurposing takes 3-5 years and USD 100-300 million, and human safety data already exist."
+            "text": "Arzneimittel-Umwidmung ist die Entdeckung neuer therapeutischer Anwendungen für vorhandene Arzneimittel. Die Entwicklung eines neuen Arzneimittels dauert 10-15 Jahre und kostet 1-2 Mrd. USD, eine Umwidmung dagegen 3-5 Jahre und 100-300 Mio. USD, und Sicherheitsdaten am Menschen liegen bereits vor."
           }
         },
         {
           "@type": "Question",
-          "name": "What is TxGNN?",
+          "name": "Was ist TxGNN?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "TxGNN is a deep learning model developed by a Harvard Medical School team. It integrates a knowledge graph of 17,080 nodes and uses a graph neural network to predict new drug-disease associations."
+            "text": "TxGNN ist ein Deep-Learning-Modell eines Teams der Harvard Medical School. Es nutzt ein graphbasiertes neuronales Netz, das auf einem biomedizinischen Wissensgraphen mit 17.080 Krankheiten trainiert wurde, um neue Arzneimittel-Krankheits-Beziehungen vorherzusagen."
           }
         },
         {
           "@type": "Question",
-          "name": "What data sources are used?",
+          "name": "Welche Datenquellen werden verwendet?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "This platform integrates public data sources including TxGNN (AI predictions), ClinicalTrials.gov (clinical trials), PubMed (literature), DrugBank (drug information), Swissmedic (marketing authorisations in Switzerland) and DDInter (drug interactions)."
+            "text": "Diese Plattform integriert öffentliche Datenquellen wie TxGNN (KI-Vorhersagen), ClinicalTrials.gov (klinische Studien), PubMed (Literatur), DrugBank (Arzneimittelinformationen), Swissmedic (Zulassungen in der Schweiz) und DDInter (Wechselwirkungen)."
           }
         }
       ]
@@ -289,32 +289,32 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "CHTxGNN Prediction and Validation Methods",
-      "description": "The full workflow from AI prediction to evidence validation",
+      "name": "Vorhersage- und Validierungsmethoden von CHTxGNN",
+      "description": "Der gesamte Ablauf von der KI-Vorhersage bis zur Evidenzprüfung",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "name": "TxGNN prediction",
-          "text": "Drug-disease relationships are predicted with a knowledge graph and a graph neural network, using a minimum prediction score of 99%."
+          "name": "TxGNN-Vorhersage",
+          "text": "Das graphbasierte neuronale Netz von TxGNN bewertet Arzneimittel-Krankheits-Paare. Indikationen und Kontraindikationen, die für das Arzneimittel bereits im Wissensgraphen erfasst sind, werden ausgeschlossen; aufgeführt werden nur Vorhersagen mit einem Score von mindestens 0,99."
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "name": "Evidence collection",
-          "text": "For each predicted pair, evidence is collected automatically from ClinicalTrials.gov, PubMed, DrugBank, Swissmedic and other sources."
+          "name": "Evidenzsammlung",
+          "text": "Zu jedem vorhergesagten Paar wird Evidenz automatisch aus ClinicalTrials.gov, PubMed, DrugBank, Swissmedic und weiteren Quellen gesammelt."
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "name": "Evidence grading",
-          "text": "Based on the collected evidence, each prediction is graded L1-L5: L1 is the highest (multiple Phase 3 RCTs) and L5 is model prediction only."
+          "name": "Evidenzbewertung",
+          "text": "Anhand der gesammelten Evidenz wird jede Vorhersage in L1-L5 eingestuft: L1 ist die höchste Stufe (mehrere Phase-3-RCTs), L5 ist nur Modellvorhersage."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "name": "Decision recommendation",
-          "text": "Based on the evidence level and other factors, a Go, Proceed, Consider, Explore or Hold recommendation is given."
+          "name": "Entscheidungsempfehlung",
+          "text": "Je nach Evidenzstufe und weiteren Faktoren wird eine Empfehlung Go, Proceed, Consider, Explore oder Hold gegeben."
         }
       ]
     },
@@ -349,15 +349,15 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "Drug Reports - CHTxGNN",
-      "description": "All CHTxGNN drug evidence reports",
+      "name": "Arzneimittelberichte - CHTxGNN",
+      "description": "Alle Arzneimittel-Evidenzberichte von CHTxGNN",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "CHTxGNN Drug Evidence Reports",
-      "description": "Drug repurposing evidence reports for medicines approved in Switzerland",
+      "name": "Arzneimittel-Evidenzberichte von CHTxGNN",
+      "description": "Evidenzberichte zur Arzneimittel-Umwidmung für in der Schweiz zugelassene Arzneimittel",
       "numberOfItems": {{ site.drugs.size }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
@@ -374,7 +374,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Drug Reports",
+          "name": "Arzneimittelberichte",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -392,7 +392,7 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "Health News Monitoring - CHTxGNN",
+      "name": "Gesundheitsnachrichten-Monitoring - CHTxGNN",
       "description": {{ page.description | default: 'Automated monitoring of the latest health news on the drugs and indications covered' | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
@@ -400,7 +400,7 @@ window.TXGNN_ANALYTICS = {
       },
       "about": {
         "@type": "Thing",
-        "name": "Health News"
+        "name": "Gesundheitsnachrichten"
       },
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -420,7 +420,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Health News",
+          "name": "Gesundheitsnachrichten",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -472,7 +472,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Health News",
+          "name": "Gesundheitsnachrichten",
           "item": "https://chtxgnn.yao.care/news/"
         },
         {
