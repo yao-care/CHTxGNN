@@ -1,6 +1,6 @@
 {
   "total": 97,
-  "generated_at": "2026-10-17T03:47:29.204561",
+  "generated_at": "2026-10-17T15:17:07.392089",
   "drugs": [
     {
       "name": "Alanine",
@@ -56,6 +56,7 @@
       "inn": "allantoin",
       "predicted_indications": [
         "severe nonproliferative diabetic retinopathy",
+        "acrodermatitis chronica atrophicans",
         "neonatal dermatomyositis",
         "acne keloid",
         "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
@@ -154,7 +155,6 @@
       "predicted_indication": "",
       "inn": "avibactam",
       "predicted_indications": [
-        "streptococcal pneumonia",
         "influenza, severe, susceptibility to",
         "ureter tuberculosis",
         "urinary schistosomiasis",
@@ -227,8 +227,6 @@
       "predicted_indications": [
         "follicular lymphoma",
         "myeloid leukemia",
-        "acute lymphoblastic/lymphocytic leukemia",
-        "B-cell neoplasm",
         "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation",
         "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma",
         "Richter syndrome",
@@ -429,13 +427,9 @@
       "predicted_indication": "",
       "inn": "clioquinol",
       "predicted_indications": [
-        "cutaneous candidiasis",
         "Majocchi granuloma",
         "ectothrix infectious disease",
-        "endothrix infectious disease",
-        "superficial mycosis",
-        "dermatophytosis of scalp or beard",
-        "tinea profunda"
+        "endothrix infectious disease"
       ]
     },
     {
@@ -681,6 +675,17 @@
       ]
     },
     {
+      "name": "Glycine",
+      "file": "glycine.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "glycine",
+      "predicted_indications": [
+        "acute laryngopharyngitis"
+      ]
+    },
+    {
       "name": "Hesperidin",
       "file": "hesperidin.md",
       "evidence_level": "L5",
@@ -849,17 +854,6 @@
       ]
     },
     {
-      "name": "Netarsudil",
-      "file": "netarsudil.md",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "predicted_indication": "",
-      "inn": "netarsudil",
-      "predicted_indications": [
-        "primary hereditary glaucoma"
-      ]
-    },
-    {
       "name": "Nitrogen",
       "file": "nitrogen.md",
       "evidence_level": "L5",
@@ -922,7 +916,8 @@
       "predicted_indication": "",
       "inn": "pheniramine",
       "predicted_indications": [
-        "nasal cavity disease"
+        "nasal cavity disease",
+        "acute laryngopharyngitis"
       ]
     },
     {
@@ -933,6 +928,7 @@
       "predicted_indication": "",
       "inn": "phenol",
       "predicted_indications": [
+        "acrodermatitis chronica atrophicans",
         "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
         "neonatal dermatomyositis",
         "amyopathic dermatomyositis",
@@ -1013,8 +1009,7 @@
       "inn": "polymyxin b",
       "predicted_indications": [
         "bronchitis",
-        "laryngotracheitis",
-        "conjunctivitis"
+        "laryngotracheitis"
       ]
     },
     {
@@ -1077,7 +1072,6 @@
         "nasal cavity disease",
         "acute laryngopharyngitis",
         "trigeminal autonomic cephalalgia",
-        "common cold",
         "allergic urticaria",
         "lung disease",
         "massive neonatal aspiration syndrome",
@@ -1127,11 +1121,9 @@
         "myopathic intestinal pseudoobstruction",
         "unclassified intestinal pseudoobstruction",
         "neuronal intestinal dysplasia, type B",
-        "angle-closure glaucoma",
         "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked",
         "exercise-induced malignant hyperthermia",
-        "aqueous misdirection",
-        "traumatic glaucoma"
+        "aqueous misdirection"
       ]
     },
     {
@@ -1292,7 +1284,6 @@
         "obstructive lung disease",
         "respiratory malformation",
         "Rienhoff syndrome",
-        "COPD, severe early onset",
         "tracheal stenosis",
         "susceptibility to respiratory infections associated with CD8alpha chain mutation"
       ]
@@ -1397,13 +1388,10 @@
       "predicted_indication": "",
       "inn": "undecylenic acid",
       "predicted_indications": [
-        "dermatophytosis of groin and perianal area",
         "ectothrix infectious disease",
         "Majocchi granuloma",
         "endothrix infectious disease",
-        "dermatophytosis of scalp or beard",
-        "pityriasis versicolor",
-        "superficial mycosis"
+        "pityriasis versicolor"
       ]
     },
     {
@@ -1471,7 +1459,6 @@
       "predicted_indications": [
         "primary release disorder of platelets",
         "Glanzmann thrombasthenia",
-        "hemophilia",
         "Scott syndrome",
         "acquired coagulation factor deficiency",
         "bleeding diathesis due to a collagen receptor defect",
