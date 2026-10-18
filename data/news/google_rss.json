@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T17:45:32.572527+00:00",
+  "fetched_at": "2026-10-18T20:00:08.644924+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "e772cfd4ceb5",
-      "title": "US-Preispolitik bremst Zugang zu neuen Medikamenten in der Schweiz - Aargauer Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclB1dGxiQU9lOEFwREp5aWZYcmlYX3JuS193Yi1GNWFJZjZPLWhxd25qdHFFTjdzN2QzTFZaSzdWV19XLU9xYTJJbFljaUNBb2h1RzYzcTVJTWNKNUlOWnhwek1LYi15OFdYTnVFZTd4WjNtN1RDdWhZMVZ5OENFcFFhYWJLMzRDdnh6SERfcEp1Z1RqTkZxWVNlaDdDenVSN0xhOVhSZkJuQkIy?oc=5",
-      "published": "2026-09-02T07:00:00+00:00",
-      "source": {
-        "name": "Aargauer Zeitung",
-        "url": "https://www.aargauerzeitung.ch"
-      }
-    },
-    {
       "id": "205dae568968",
       "title": "Haarausfall und Nagelveränderungen durch Abnehmspritze? - aponet.de",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnR5SXY3TWNyR1hzOW1OUHJaaFhhTVhsRnBQVWdrVDhUbWNPakJ4eWR6UWVfTjk2WW53VXR5T0lRNUNBa2sySTNQRHhUTS12WTlKZHJHUFE5eUk0LVltak92UW8wVnVXbGJGOEZQUFRfZm04WUxHbFNHbVFlVy1BV0lCZTM1UEVNaEctVHZLOUl5R01NSVE?oc=5",
@@ -131,6 +121,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "c1d24d4d316d",
+      "title": "US-Preispolitik bremst Zugang zu neuen Medikamenten in der Schweiz - Luzerner Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkxocWdhOEVuaE02S09TOUY3YjJCV3JpejNYUE1wdnlhM2h4OXQ0U1FtVFhvVU54V2VnZ2JmV1VmSWI0bzgyRFZBbDk1TU14NE83NUFINGsyeU5lR21tLWZhUzFLUlByT1NEZEg5UGQ2aGJXaE5pMDNHRnJYT1pqVXFDQ1k0cmdQQVZUVlJXNlFoc0w3Nm1IY3huLXI0cGNBZl93UExteDNpMGJr?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "source": {
+        "name": "Luzerner Zeitung",
+        "url": "https://www.luzernerzeitung.ch"
       }
     },
     {
@@ -154,6 +154,16 @@
       }
     },
     {
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
       "id": "9fa13ce5acf5",
       "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
@@ -164,16 +174,6 @@
       }
     },
     {
-      "id": "969d8d8d9902",
-      "title": "Hausstaubmilben: Was gegen die Allergie hilft – und was nicht - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXQwWDZERE1qbFh1TWRoZ1FYbjc2Njh6VnBXUFMydlJtbFdDYkFvcjdMYi0xZGxhN05HTkcyZjhkRzRIVHR3LVdHS1Y5TFZKZXFHZWN3ZjJZVmhaeXptRkxjbXNWd1FycDhEd3dlSldXY3FJeTFNLU5QVWhfdkZpc18wQ25VRUdWN3l1VVFXTnJWYzdzRFJlSTRn?oc=5",
-      "published": "2026-10-17T06:03:00+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
-      }
-    },
-    {
       "id": "9f7c377ed6d2",
       "title": "MFN-Modell USA: Wie US-Arzneimittelpolitik Innovationen in Europa ausbremst - vfa. Die forschenden Pharma-Unternehmen",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkw5ZTd1QUxfTlBDNjVEc0paTWpvTFpfTE9lOFM3YnhiWnBBREVhRzlMQnRmWDdkREJzVlg3UnZCN2RsTC1aTkhtN19oX2dEYmVLdXk4MXFBUnVGakk3YzVfbjZVQ0E0MUtPN2JZZ08wQ05yaTFLNER1dVYzZEo5UldOVldfQ0lCbGNRWEJZbUg0R3JBaGp6Mm1DTGd2eTYzWE9GV1hvenRGWHhOZXBxMHJMY09GUQ?oc=5",
@@ -181,16 +181,6 @@
       "source": {
         "name": "vfa. Die forschenden Pharma-Unternehmen",
         "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "16eb0b8061d9",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter.ch",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter.ch",
-        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -234,16 +224,6 @@
       }
     },
     {
-      "id": "20723974401d",
-      "title": "Magnesiumpräparate im Test: Oft überdosiert – und mit umstrittenen Zusatzstoffen - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR3pGdzhEa2lTRFRnZ18xSkRod3lpT0pwMHpzUFU0UGVmMGt6V0RWS0dvSFg0RG9PbGlMLWU3THAxMTVRcFZVZG9UcVRVeEFITWpRZXVpYnZzMDJIejZnUnVGVWN3OXFKWmhfY3dtLW1jbUJTWjVtVFVfVk13aUNuelp5MTRhbWs0dlMzZFZ3cFlaTHl4Yi0zSTZPUGJ0MjhZSkx3Q2NpVEdKVFZSOWR3V01PUXNjNDFlWEVsWEwzOGhPT2NuRmtPWE5Ndmlaa0JLMzN0azV0TUtmOU14bWdCVWFB?oc=5",
-      "published": "2026-10-13T07:00:00+00:00",
-      "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
       "id": "af287c654a3c",
       "title": "Prämien: Die Pharma-Lobby hat die Schweiz im Griff - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpQM2o2NkNkZVZNTFVEYmZpWU44Wkk4OGtSTjl1bXp0Tk5fNVEzblVGanRNcmx0cXVydXN3NGhaM2VlMzJzTjN1Z3h1bXVFby1FeWt4eVhIZmQ5VXJDOC1UdlYzXzVEbVNKeXdlclBNWDBRdVNZeFMyZ2cyWFY3eGtHRW1wRGhVUzMwQ1ZDNFhLN0Ju?oc=5",
@@ -254,13 +234,13 @@
       }
     },
     {
-      "id": "f7d19159d018",
-      "title": "Wechseljahre: 17 Nahrungsergänzungsmittel im Test – alle fallen durch - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU25JUldkWU5lbkNRekl3emxmUkszbXZsMi03LTVwWFF1TGNiTEhzYkpkRkFFZmoteG1NUXJxcnNFandmZlRJY08yVUgxTHVJdXlmMUVPMWV2amhnVVVScUpmVXlXSDlsVU5NTm91UUtpbTg2dXNjR0hyUFc3bW1waFFFUTBkTDJEaGNpZ2pnTTB0Wng4Yjc3VWVkcW9taWNOZlA3aEpB?oc=5",
+      "id": "20723974401d",
+      "title": "Magnesiumpräparate im Test: Oft überdosiert – und mit umstrittenen Zusatzstoffen - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR3pGdzhEa2lTRFRnZ18xSkRod3lpT0pwMHpzUFU0UGVmMGt6V0RWS0dvSFg0RG9PbGlMLWU3THAxMTVRcFZVZG9UcVRVeEFITWpRZXVpYnZzMDJIejZnUnVGVWN3OXFKWmhfY3dtLW1jbUJTWjVtVFVfVk13aUNuelp5MTRhbWs0dlMzZFZ3cFlaTHl4Yi0zSTZPUGJ0MjhZSkx3Q2NpVEdKVFZSOWR3V01PUXNjNDFlWEVsWEwzOGhPT2NuRmtPWE5Ndmlaa0JLMzN0azV0TUtmOU14bWdCVWFB?oc=5",
       "published": "2026-10-13T07:00:00+00:00",
       "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -271,6 +251,16 @@
       "source": {
         "name": "Tages-Anzeiger",
         "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
+      "id": "f7d19159d018",
+      "title": "Wechseljahre: 17 Nahrungsergänzungsmittel im Test – alle fallen durch - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU25JUldkWU5lbkNRekl3emxmUkszbXZsMi03LTVwWFF1TGNiTEhzYkpkRkFFZmoteG1NUXJxcnNFandmZlRJY08yVUgxTHVJdXlmMUVPMWV2amhnVVVScUpmVXlXSDlsVU5NTm91UUtpbTg2dXNjR0hyUFc3bW1waFFFUTBkTDJEaGNpZ2pnTTB0Wng4Yjc3VWVkcW9taWNOZlA3aEpB?oc=5",
+      "published": "2026-10-13T07:00:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -304,16 +294,6 @@
       }
     },
     {
-      "id": "8e48de0518fd",
-      "title": "Calcium und Vitamin D: Für wen sich die Einnahme trotz neuer Studie lohnt - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYms5UzM5UG8tRHkzZ0d1SEtJVWpPd0taRG9Vc3A2UlpSbVBSSndyUVFBTFJzLU13NDBPcHJjNndRcC1GUnRkTkZGLWtzQkFodmE2QmJ2Z1lTaHUtOWYwLUhGdUJCWF9Ra2N6NDFtUDZ0NUpkRnp3bGlOczB5cU1IdVdlS0NocERrRTdBWlh5Vm9uMlMwZjhmd0gzQUN4amJYYWFVR1A5WlFud2dKcGc?oc=5",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
-      }
-    },
-    {
       "id": "4e71ac42c71c",
       "title": "Pharma nennt es Innovation und meint Rendite - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnJzMkpSeEpiYWVNRV92OVhSUFBSSU1MRk9fcXNyMUs0LWZka3JDMHpwRkZUbnl4SExxNG00N0l3TDRPcEIxQlhqOXB3NEh0Ul9ITkVna2EzdWk2a0NWUmR0eHYxVVBocHdfZEZPRHBxQ04teTNDbGFYcDFMMWZNV2NnbE9tRFpxbjVTUTR2VmdMWFJBRFJ2M2dGRDgyQQ?oc=5",
@@ -321,6 +301,16 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
+      }
+    },
+    {
+      "id": "8e48de0518fd",
+      "title": "Calcium und Vitamin D: Für wen sich die Einnahme trotz neuer Studie lohnt - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYms5UzM5UG8tRHkzZ0d1SEtJVWpPd0taRG9Vc3A2UlpSbVBSSndyUVFBTFJzLU13NDBPcHJjNndRcC1GUnRkTkZGLWtzQkFodmE2QmJ2Z1lTaHUtOWYwLUhGdUJCWF9Ra2N6NDFtUDZ0NUpkRnp3bGlOczB5cU1IdVdlS0NocERrRTdBWlh5Vm9uMlMwZjhmd0gzQUN4amJYYWFVR1A5WlFud2dKcGc?oc=5",
+      "published": "2026-10-14T07:00:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -654,6 +644,16 @@
       }
     },
     {
+      "id": "a775c39741bf",
+      "title": "Diese Medikamente können Alzheimer vorbeugen - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGJMMS1SRkVfQ1ZHYVFhWmdvak5qNE5OQkFXeGFLd0RQMkZIeGhNUFpicmw2WUlTbU54b0plam43S3hVMVdXYUhtSTVISzVsN0l5d09lQ09KYVFxM2M3VlNLTV9JRWVCekFiM18zc2NFQ2NSamN0Qzl6WGRmUVBDZw?oc=5",
+      "published": "2026-02-08T08:00:00+00:00",
+      "source": {
+        "name": "Euronews",
+        "url": "https://de.euronews.com"
+      }
+    },
+    {
       "id": "8facb188a23e",
       "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
@@ -664,6 +664,16 @@
       }
     },
     {
+      "id": "d00eb0abfa70",
+      "title": "Gesundheitsministerium: Plant die Ausweitung der Kostenerstattung für 349 Medikamente in primären Ausgabestellen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2xSTUVQcXQyaTNmT1hYMjVQRVRnTGRmWnlzLTB6cVBGc3dSdXNRdVQxYjJ3N1lHQjZRdmVhdkI4Z1ZrREItSmRQTEhOelJhU0hndXp1ejBVRkRrU0FWNlZYRWkwWWg1VW9qNWpQcURwbEZqUU03eDhIQVRwU2xNSnRuanBUall3ajEyVUR0ck1OSXZpYWRBa2ZhdnJReC1tVHJzNzhCblYwWmdV?oc=5",
+      "published": "2026-09-26T07:00:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "9d83d0e91268",
       "title": "Gutachten: PFAS in Arzneimitteln sind oft ersetzbar - oekotest.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFwTWtsWWNqb3BaNFc3UFNBT0VDcmRFbC1falEyOVlfNGlwT0FTVklPc2lKRWpFeTRVbmVrT2FkbW95SHFNeGZxdHQ1RzdicGxuNmQzTDNXb2FETWlVd3lIbU43Z2tFdThxYVJEb3RKdXJqT3NSYXQ5ZzRuNlZVRUw2RlNEZkRhRlVfLUpBWGx5cnBPRkJXNThjTk5wcjIyUFJqR0o0NFBRcEkwWUE1RQ?oc=5",
@@ -671,16 +681,6 @@
       "source": {
         "name": "oekotest.de",
         "url": "https://www.oekotest.de"
-      }
-    },
-    {
-      "id": "f92665691e36",
-      "title": "Gesundheit: So will die EU Engpässe bei Fiebersaft & Co. verhindern - Tagesspiegel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDl1WkpGU2VsQWhwUXd1WWxXSUhVN2Y3R2hTdl9GTHNxcDl2NFhUejhMXzhtOVUteVRjYmlZZDVNa0lETm9QSWNsWXB2c09CcTBqV3M2Wk5Fc0FVRlRaaDFzN1lDVTRFdl9IeXZvU2h3VjhJVGFUQ29lNmdqOUFld1dsd3ZNaVF5OFRETVFqckdoWk1udUFSQWdzMVdLQWxJd3A0eXdiVzhJR3pmY1FOeVQ0aUFxZ3BGdlpGazFn?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
-      "source": {
-        "name": "Tagesspiegel",
-        "url": "https://www.tagesspiegel.de"
       }
     },
     {
@@ -844,16 +844,6 @@
       }
     },
     {
-      "id": "9c7eaaba1281",
-      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "6ec9a640169a",
       "title": "Intimgesundheit der Frau: Arzneimittel der Selbstmedikation richtig anwenden - Monitor Versorgungsforschung",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZy01dWVucjhyQ1RpaWpxTUF4YWlpcmNTU2NxWkdORVVfd2UtaXA0UkJvVTlKNEp6SE1aYUhPMmxhME5YYkVtbDJGSVcxQTUtWTg5TkM5VkR3TFktU1lXOGxTSlk0cWNUUmtjY1d1aFpndENHdk9aVk9HTi16VjFzbzBtYWhOb0FQdDNYMnNkV3pkX1Nwbk42V0Y2N2ZZX2FMOHdfV2Nna3gyNWlCblVmZFZCZ29pR0gxbzA0eUpINE5NcXc?oc=5",
@@ -861,6 +851,16 @@
       "source": {
         "name": "Monitor Versorgungsforschung",
         "url": "https://www.monitor-versorgungsforschung.de"
+      }
+    },
+    {
+      "id": "9c7eaaba1281",
+      "title": "Ein Oensinger Gesundheitszentrum betreibt den ersten «Medicomat» in der Schweiz - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1p2c2xsMnVFYjBxRlk0OXJiNERGYVBJaXNrdWpXOHZWbElqT3RnY0xuQm9iTnc4cjhIZzVzY0ZWUlY1VkJ0ZUdkaDBzYXpYUENrSG9YOU5qS0I0SlVkSTM1U3FzRjNtV1ptcGhaOGJvVDlTaHI5OEJ4SXRqVVB4dXdUZUx5RG1GLVM3aExxSjdvUXJZaWlBNExBRTNxakNMUFdkdzE0bE1RR1BQODRqZTJwYk1jaEtQOEpITjRhcFh5aVJM?oc=5",
+      "published": "2025-11-12T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -904,16 +904,6 @@
       }
     },
     {
-      "id": "432315fa2251",
-      "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
-      "published": "2025-11-20T08:00:00+00:00",
-      "source": {
-        "name": "tagesschau.de",
-        "url": "https://www.tagesschau.de"
-      }
-    },
-    {
       "id": "5b55e1ba56e3",
       "title": "Gesundheit: Zahl der Apotheken auf niedrigstem Stand seit fast 50 Jahren - WirtschaftsWoche",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHJGQWl1Uy1VZmpEb0ItN0xnZzZBQkFRQjU1WDBEdjBrcHZOaVZyc2V6SXJCSE5zNW1tUlZPLWtvVVpTZmF0eExibVdZYS0xcExpU0pPV1dIVDhhdGk1RXNBT0E0cGlZZkJjUGw3ZElOU1pRRndSZGlYeG8yYUZRYW1kQ1dOMDVHS21qRzFsUHBoUVJPRHdFNlRfM1ZEQjYwSDZRWmNhNEFIT2JWcWZRbVhrUUVBMFFCMXdkMUVyY2tDejNIUGt5eXJBS0s?oc=5",
@@ -921,6 +911,16 @@
       "source": {
         "name": "WirtschaftsWoche",
         "url": "https://www.wiwo.de"
+      }
+    },
+    {
+      "id": "432315fa2251",
+      "title": "Erstmals Medikament gegen Fettleber zugelassen - tagesschau.de",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnhCQmdtRXhCd0ZKc1FDYzViaTZEblZ5TjJNWDBvZ3ptX2g0OENQemNDUk1sWGh5T1FrOEtvaGtSSDItcXlieVd0cDVfdDF0a2U3clFWSGlvd21wUWtwVzI4UEZIZ1BBUlVJSC16SExXaWFDTlF6YlNjMk96a2pEYnpVRm1rQQ?oc=5",
+      "published": "2025-11-20T08:00:00+00:00",
+      "source": {
+        "name": "tagesschau.de",
+        "url": "https://www.tagesschau.de"
       }
     },
     {
