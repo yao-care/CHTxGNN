@@ -1,6 +1,6 @@
 {
-  "total": 97,
-  "generated_at": "2026-10-19T18:33:42.407669",
+  "total": 98,
+  "generated_at": "2026-10-20T04:15:45.631881",
   "drugs": [
     {
       "name": "Alanine",
@@ -61,7 +61,8 @@
         "acne keloid",
         "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
         "amyopathic dermatomyositis",
-        "hydroa vacciniforme, familial"
+        "hydroa vacciniforme, familial",
+        "exanthem (disease)"
       ]
     },
     {
@@ -107,6 +108,7 @@
       "inn": "artemether",
       "predicted_indications": [
         "acquired angioedema",
+        "Plasmodium falciparum malaria",
         "angioedema",
         "hereditary angioedema",
         "nephrogenic syndrome of inappropriate antidiuresis",
@@ -170,6 +172,9 @@
       "predicted_indication": "",
       "inn": "bacitracin",
       "predicted_indications": [
+        "punctate epithelial keratoconjunctivitis",
+        "exposure keratitis",
+        "non-human animal disease",
         "otitis externa",
         "postinfectious vasculitis",
         "post-bacterial disorder",
@@ -227,6 +232,8 @@
       "predicted_indications": [
         "follicular lymphoma",
         "myeloid leukemia",
+        "acute lymphoblastic/lymphocytic leukemia",
+        "B-cell neoplasm",
         "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation",
         "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma",
         "Richter syndrome",
@@ -374,6 +381,7 @@
         "malignant hypertensive renal disease",
         "pulmonary hypertension owing to lung disease and/or hypoxia",
         "pulmonary hypertension with unclear multifactorial mechanism",
+        "Braddock syndrome",
         "chronic pulmonary heart disease",
         "acute pulmonary heart disease",
         "congenital hypotrichosis milia"
@@ -559,6 +567,10 @@
       "predicted_indication": "",
       "inn": "elosulfase alfa",
       "predicted_indications": [
+        "Scheie syndrome",
+        "lysosomal storage disease with skeletal involvement",
+        "Hurler syndrome",
+        "Sanfilippo syndrome",
         "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye",
         "ptosis-vocal cord paralysis syndrome",
         "ptosis-strabismus-ectopic pupils syndrome",
@@ -682,6 +694,7 @@
       "predicted_indication": "",
       "inn": "glycine",
       "predicted_indications": [
+        "nasal cavity disease",
         "acute laryngopharyngitis"
       ]
     },
@@ -1090,6 +1103,7 @@
         "Scheie syndrome",
         "Hurler syndrome",
         "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant",
+        "cholesteryl ester storage disease",
         "Gaucher disease",
         "lysosomal storage disease with skeletal involvement",
         "autosomal ichthyosis syndrome with fatal disease course",
@@ -1157,6 +1171,17 @@
       ]
     },
     {
+      "name": "Sulfamethoxazole",
+      "file": "sulfamethoxazole.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "sulfamethoxazole",
+      "predicted_indications": [
+        "acute contagious conjunctivitis"
+      ]
+    },
+    {
       "name": "Sulthiame",
       "file": "sulthiame.md",
       "evidence_level": "L5",
@@ -1189,17 +1214,6 @@
         "lung occult squamous cell carcinoma",
         "rectal cloacogenic carcinoma",
         "gallbladder adenosquamous carcinoma"
-      ]
-    },
-    {
-      "name": "Tazobactam",
-      "file": "tazobactam.md",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "predicted_indication": "",
-      "inn": "tazobactam",
-      "predicted_indications": [
-        "urinary tract infection (disease)"
       ]
     },
     {
@@ -1284,6 +1298,7 @@
         "obstructive lung disease",
         "respiratory malformation",
         "Rienhoff syndrome",
+        "hyperlucent lung",
         "tracheal stenosis",
         "susceptibility to respiratory infections associated with CD8alpha chain mutation"
       ]
@@ -1319,7 +1334,19 @@
         "malignant hypertensive renal disease",
         "pulmonary hypertension with unclear multifactorial mechanism",
         "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "Braddock syndrome",
         "chronic pulmonary heart disease"
+      ]
+    },
+    {
+      "name": "Trimethoprim",
+      "file": "trimethoprim.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "trimethoprim",
+      "predicted_indications": [
+        "punctate epithelial keratoconjunctivitis"
       ]
     },
     {
@@ -1442,6 +1469,7 @@
       "predicted_indication": "",
       "inn": "vilanterol",
       "predicted_indications": [
+        "hyperlucent lung",
         "tracheal stenosis",
         "bronchial neoplasm (disease)",
         "respiratory malformation",
@@ -1505,6 +1533,7 @@
       "predicted_indication": "",
       "inn": "zinc oxide",
       "predicted_indications": [
+        "acne (disease)",
         "anorectal stricture",
         "anal polyp",
         "papillary conjunctivitis",
