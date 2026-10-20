@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-16",
+  "generated": "2026-10-20",
   "drug_count": 100,
-  "indication_count": 235,
+  "indication_count": 112,
   "drugs": [
     {
       "name": "Alanine",
@@ -11,43 +11,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Dipeptiven, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1 % Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
+          "name": "Gastroparese",
+          "score": 99.4,
           "level": "L5"
         }
       ]
@@ -60,8 +25,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Idelvion 250 IU, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Blutungsprophylaxe bei Patienten mit Haemophilie B (Faktor-IX-Mangel)",
-          "score": 99.0,
+          "name": "Pseudo-von-Willebrand-Erkrankung",
+          "score": 99.94,
           "level": "L5"
         }
       ]
@@ -74,8 +39,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Myozyme, Pulver zur Herstellung einer Infusionslösung | Biotechnologikum | Morbus Pompe (Mangel an alpha-Glucosidase)",
-          "score": 99.0,
+          "name": "Adulte Polyglucosan-Körper-Krankheit (APBD)",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -88,23 +53,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Gorgonium, Salbe | Synthetika | Narben und Keloide",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Contractubex, Gel | Synthetika | Narben und Keloide",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Keli-med, Crème | Synthetika | Narbenbehandlung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "DUL-X Gel cool Wallwurz comp., Gel | Synthetika | Bei stumpfen Traumen",
-          "score": 99.0,
+          "name": "Schwere nicht-proliferative diabetische Retinopathie",
+          "score": 99.56,
           "level": "L5"
         }
       ]
@@ -117,13 +67,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Strepsils Erdbeer, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Strepsils Honig & Zitrone, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes",
-          "score": 99.0,
+          "name": "Cauda-equina-Syndrom",
+          "score": 99.99,
           "level": "L5"
         }
       ]
@@ -136,8 +81,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Ondexxya 200 mg, Pulver zur Herstellung einer Infusionslösung | Biotechnologika | Antidot gegen Faktor-Xa-Inhibitoren",
-          "score": 99.0,
+          "name": "Glanzmann-Thrombasthenie",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -150,18 +95,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Riamet 20 mg/120 mg, Tabletten | Tabletten | Malaria",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Riamet Baby, Tabletten zur Herstellung einer Suspension zum Einnehmen | Tabletten zur Herstellung einer Suspension | Behandlung von akuter, unkomplizierter Malaria bei Säuglingen mit einem Körpergewicht von 2 kg bis unter 5 kg",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Riamet Dispersible, Tabletten | Dispergierbare Tabletten | Malaria",
-          "score": 99.0,
+          "name": "Erworbenes Angioödem",
+          "score": 99.9,
           "level": "L5"
         }
       ]
@@ -174,8 +109,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Strensiq 40 mg/ml, Injektionslösung | Biotechnologika | Behandlung der Hypophosphatasie",
-          "score": 99.0,
+          "name": "Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien",
+          "score": 99.95,
           "level": "L5"
         }
       ]
@@ -188,33 +123,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex special, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex Peri, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex plus, Infusionslösung 1000 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
+          "name": "Renale tubuläre Azidose",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -227,32 +137,32 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Schwere Influenza (genetische Anfälligkeit) | 99,3 % | Kein glaubwürdiger Mechanismus, kein antiviraler Effekt; vermutlich Modellartefakt",
+          "name": "Streptokokken-Pneumonie (streptococcal pneumonia)",
+          "score": 99.7,
+          "level": "L5"
+        },
+        {
+          "name": "Schwere Influenza (genetische Anfälligkeit)",
+          "score": 99.3,
+          "level": "L5"
+        },
+        {
+          "name": "Ureter-Tuberkulose",
+          "score": 99.1,
+          "level": "L5"
+        },
+        {
+          "name": "Urogenitale Schistosomiasis",
+          "score": 99.1,
+          "level": "L5"
+        },
+        {
+          "name": "Polyklonales Hyperviskositätssyndrom",
           "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Ureter-Tuberkulose | 99,1 % | Hypothese: Avibactam hemmt in vitro die Beta-Lactamase BlaC von *M. tuberculosis*; gilt aber nicht spezifisch für den Urogenitalbereich",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Urogenitale Schistosomiasis | 99,1 % | Keine antiparasitäre Wirkung; Standardtherapie ist Praziquantel",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Polyklonales Hyperviskositätssyndrom | 99,0 % | Keine Infektion, kein Mechanismus; Modellartefakt",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Hyperamylasämie | 99,0 % | Laborbefund, keine behandelbare Krankheit; kein Mechanismus",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Zavicefta, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
+          "name": "Hyperamylasämie",
           "score": 99.0,
           "level": "L5"
         }
@@ -266,8 +176,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien",
-          "score": 99.0,
+          "name": "Punctate epithelial keratoconjunctivitis (punktförmige epitheliale Keratokonjunktivitis)",
+          "score": 99.999,
           "level": "L5"
         }
       ]
@@ -280,13 +190,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Benzocaine PD, pâte buccale | Synthetika | Anästhetikum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien",
-          "score": 99.0,
+          "name": "Papilläre Konjunktivitis",
+          "score": 99.4,
           "level": "L5"
         }
       ]
@@ -299,33 +204,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Lubexyl, Suspension | Synthetika | Akne vulgaris",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Benzac 5, Gel | Synthetika | Akne vulgaris",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Duac Akne, Gel | Synthetika | Akne vulgaris",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Acne Crème plus Widmer, Crème | Synthetika | Akne vulgaris",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aceduo Leman, Gel | Synthetika | Hautbehandlung bei Akne vulgaris mit Komedonen, Papeln und Pusteln",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Epiduo, Gel | Synthetika | Akne vulgaris",
-          "score": 99.0,
+          "name": "Vulväre invertierte follikuläre Keratose",
+          "score": 99.9,
           "level": "L5"
         }
       ]
@@ -338,9 +218,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Biktarvy, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Infektion mit dem Simianen Immundefizienzvirus (SIV)",
+          "score": 99.8,
+          "level": "L4"
         }
       ]
     },
@@ -352,9 +232,9 @@
       "level": "L3",
       "indications": [
         {
-          "name": "Adcetris 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Hodgkin-Lymphom, anaplastisches grosszelliges Lymphom, kutanes T-Zell-Lymphom, peripheres T-Zell-Lymphom",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Follikuläres Lymphom",
+          "score": 99.9,
+          "level": "L3"
         }
       ]
     },
@@ -366,49 +246,9 @@
       "level": "L3",
       "indications": [
         {
-          "name": "CRYSALIS Leman, Pommade | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Daivobet, Gel | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Daivobet, Salbe | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Crysalis Leman, Gel | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Enstilar, Schaum zur Anwendung auf der Haut | Synthetika | Psoriasis vulgaris",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Psotriol, Salbe | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Calcipotriol-Betamethason-Mepha, Salbe | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Wynzora 50 μg/g + 0.5 mg/g, Crème | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Xamiol, Gel | Synthetika | Psoriasis",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Seborrhoische Keratose",
+          "score": 99.96,
+          "level": "L3"
         }
       ]
     },
@@ -420,9 +260,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Korolind, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens bei Herz-Kreislauf-Störungen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Migräne (migraine disorder)",
+          "score": 99.85,
+          "level": "L4"
         }
       ]
     },
@@ -434,53 +274,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Zerbaxa 1.5 g, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
+          "name": "Ureaplasma-Urethritis",
+          "score": 99.89,
           "level": "L5"
         },
         {
-          "name": "Gonokokken-Urethritis | 99,89 % | Cephalosporine sind bei Gonorrhö etabliert, aber für Ceftolozan fehlen Daten, und Standardtherapien sind bereits verfügbar.",
-          "score": 99.0,
+          "name": "Gonokokken-Urethritis",
+          "score": 99.89,
           "level": "L5"
         },
         {
-          "name": "Entzündliche Gebärmuttererkrankung | 99,88 % | Infektionen sind oft polymikrobiell, die Abdeckung durch Ceftolozan/Tazobactam wäre unvollständig.",
-          "score": 99.0,
+          "name": "Entzündliche Gebärmuttererkrankung",
+          "score": 99.88,
           "level": "L5"
         },
         {
-          "name": "Xanthogranulomatöse Pyelonephritis | 99,88 % | Indirekte Plausibilität durch die Zulassung bei komplizierten Harnwegsinfektionen. Die Erkrankung wird meist chirurgisch behandelt. Die einzige Publikation ist eine allgemeine Übersichtsarbeit (PMID [26658652](https://pubmed.ncbi.nlm.nih.gov/26658652/), 2016) ohne krankheits- oder wirkstoffspezifische Daten.",
-          "score": 99.0,
+          "name": "Xanthogranulomatöse Pyelonephritis",
+          "score": 99.88,
           "level": "L5"
         },
         {
-          "name": "Polyklonales Hyperviskositätssyndrom | 99,52 % | Kein plausibler Mechanismus, vermutlich Modellartefakt.",
-          "score": 99.0,
+          "name": "Polyklonales Hyperviskositätssyndrom",
+          "score": 99.52,
           "level": "L5"
         },
         {
-          "name": "Hyperamylasämie | 99,52 % | Laborbefund statt Infektion, vermutlich Modellartefakt.",
-          "score": 99.0,
+          "name": "Hyperamylasämie",
+          "score": 99.52,
           "level": "L5"
         },
         {
-          "name": "Urogenitale Tuberkulose | 99,50 % | Mycobacterium tuberculosis ist durch BlaC-Beta-Laktamase und seine Zellwand weitgehend resistent gegen Beta-Laktame.",
-          "score": 99.0,
+          "name": "Urogenitale Tuberkulose",
+          "score": 99.5,
           "level": "L5"
         },
         {
-          "name": "Kongenitale Analbuminämie | 99,44 % | Genetische Erkrankung, keine Relevanz für ein Antibiotikum.",
-          "score": 99.0,
+          "name": "Kongenitale Analbuminämie",
+          "score": 99.44,
           "level": "L5"
         },
         {
-          "name": "Blutgruppeninkompatibilität | 99,22 % | Immunologisch, ohne infektiöses Ziel.",
-          "score": 99.0,
+          "name": "Blutgruppeninkompatibilität",
+          "score": 99.22,
           "level": "L5"
         },
         {
-          "name": "Prämaligne hämatologische Erkrankung | 99,11 % | Keine mechanistische Grundlage.",
-          "score": 99.0,
+          "name": "Prämaligne hämatologische Erkrankung",
+          "score": 99.11,
           "level": "L5"
         }
       ]
@@ -493,8 +333,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Dercut, Tropfen zum Einnehmen (ebi-pharm ag) | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen",
-          "score": 99.0,
+          "name": "Schlaflosigkeit (Insomnie)",
+          "score": 99.94,
           "level": "L5"
         }
       ]
@@ -507,14 +347,9 @@
       "level": "L4",
       "indications": [
         {
-          "name": "Cimzia AutoClicks 200 mg, Injektionslösung im Fertigpen | Biotechnologikum | Morbus Crohn, rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (einschliesslich ankylosierender Spondylitis und axialer Spondyloarthritis ohne radiographische Zeichen), Plaque-Psoriasis bei Erwachsenen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Cimzia, Injektionslösung | Biotechnologikum | Morbus Crohn, rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (einschliesslich ankylosierender Spondylitis und axialer Spondyloarthritis ohne radiographische Zeichen), Plaque-Psoriasis bei Erwachsenen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Rheumatoide Vaskulitis",
+          "score": 99.8,
+          "level": "L4"
         }
       ]
     },
@@ -526,9 +361,9 @@
       "level": "L3",
       "indications": [
         {
-          "name": "Spersadex comp., collyre en solution | Augentropfen (Lösung) | Augeninfektionen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Konjunktivitis (Bindehautentzündung)",
+          "score": 99.7,
+          "level": "L3"
         }
       ]
     },
@@ -540,19 +375,9 @@
       "level": "L3",
       "indications": [
         {
-          "name": "Limbitrol, Hartkapsel | Synthetika | Antidepressivum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Librax, Filmtabletten | Synthetika | Spasmolytikum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Librocol, überzogene Tabletten | Synthetika | Spasmolytikum",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Insomnie",
+          "score": 99.998,
+          "level": "L3"
         }
       ]
     },
@@ -564,28 +389,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Chlortalidon Galepharm 12.5 mg, Tabletten | Synthetika | Diuretikum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Cotenolol-Mepha-Neo, Filmtabletten | Synthetika | Hypertonie",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Atedurex, Filmtabletten | Synthetika | Hypertonie",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Tenoretic mite, Filmtabletten | Synthetika | Antihypertensivum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Edarbyclor 40 mg/12.5 mg, Filmtabletten | Synthetika | Hypertonie",
-          "score": 99.0,
+          "name": "Primäres hereditäres Glaukom",
+          "score": 99.92,
           "level": "L5"
         }
       ]
@@ -598,8 +403,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Nimbex 5 mg/2,5 ml, Injektionslösung (Aspen Pharma Schweiz GmbH) | Synthetika | Muskelrelaxans",
-          "score": 99.0,
+          "name": "Cauda-equina-Syndrom",
+          "score": 99.99,
           "level": "L5"
         }
       ]
@@ -612,14 +417,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Co-Amoxicillin Sandoz 1 g, Filmtabletten | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Co-Amoxicillin Sandoz 625, Filmtabletten | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Ureaplasma-Urethritis",
+          "score": 99.93,
+          "level": "L4"
         }
       ]
     },
@@ -631,8 +431,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien",
-          "score": 99.0,
+          "name": "Kutane Candidiasis",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -645,8 +445,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Entumin 40 mg, Tabletten | Synthetika | Neurolepticum",
-          "score": 99.0,
+          "name": "Insomnie",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -659,18 +459,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Filmtabletten | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Symtuza, Filmtabletten | Filmtabletten | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Stribild, Filmtabletten | Filmtabletten | HIV-Infektion",
-          "score": 99.0,
+          "name": "Felines erworbenes Immundefizienzsyndrom",
+          "score": 99.92,
           "level": "L5"
         }
       ]
@@ -683,18 +473,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Numeta Neo, Emulsion zur Infusion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Numeta Ped G16% E, Infusionslösung zur totalen parenteralen Ernährung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
+          "name": "Trockenes Auge (Dry-Eye-Syndrom)",
+          "score": 99.98,
           "level": "L5"
         }
       ]
@@ -707,9 +487,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Dexilant 30 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Protonenpumpenhemmer",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Aktive peptische Ulkuskrankheit",
+          "score": 99.999,
+          "level": "L1"
         }
       ]
     },
@@ -721,8 +501,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "InductOs 1.5 mg/ml, Pulver 12 mg, Lösungsmittel und Matrix für Implantationsmatrix (Medtronic BioPharma Sàrl) | Biotechnologikum | Osteosynthese: Behandlung von Tibiafrakturen und degenerativen Bandscheibenerkrankungen bei Erwachsenen",
-          "score": 99.0,
+          "name": "Esotropie",
+          "score": 99.97,
           "level": "L5"
         }
       ]
@@ -735,13 +515,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Similasan Echinacea, Globuli | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, Erkältungen und Entzündungen der Mundschleimhäute",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Spagymun Abwehrkräfte, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungskrankheiten, leichten Allgemeininfektionen, fiebrigen Erkältungskrankheiten; ferner unterstützend bei schleppend verlaufenden Infektionskrankheiten",
-          "score": 99.0,
+          "name": "Lepra",
+          "score": 99.4,
           "level": "L5"
         }
       ]
@@ -754,53 +529,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Primäre Thrombozyten-Freisetzungsstörung | 99,997 % | L5 | Thrombozytärer Funktionsdefekt; kein plausibler Mechanismus",
-          "score": 99.0,
+          "name": "Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease)",
+          "score": 99.997,
           "level": "L5"
         },
         {
-          "name": "Glanzmann-Thrombasthenie | 99,995 % | L5 | Defekt des Integrins αIIbβ3; Faktor VIII nicht limitierend",
-          "score": 99.0,
+          "name": "Primäre Thrombozyten-Freisetzungsstörung",
+          "score": 99.997,
           "level": "L5"
         },
         {
-          "name": "Scott-Syndrom | 99,969 % | L5 | Fehlende prokoagulatorische Oberfläche; Faktor-VIII-Gabe stellt diese nicht wieder her",
-          "score": 99.0,
+          "name": "Glanzmann-Thrombasthenie",
+          "score": 99.995,
           "level": "L5"
         },
         {
-          "name": "Erworbener Gerinnungsfaktormangel | 99,952 % | L5 | Mechanistisch plausibelste Option, aber heterogen; bei erworbener Hämophilie neutralisieren Autoantikörper den Faktor VIII",
-          "score": 99.0,
+          "name": "Scott-Syndrom",
+          "score": 99.969,
           "level": "L5"
         },
         {
-          "name": "Blutungsneigung durch Kollagenrezeptor-Defekt | 99,921 % | L5 | Thrombozyten-intrinsischer Defekt; keine Grundlage",
-          "score": 99.0,
+          "name": "Erworbener Gerinnungsfaktormangel",
+          "score": 99.952,
           "level": "L5"
         },
         {
-          "name": "Blutungsstörung bei konstitutioneller Thrombozytopenie | 99,917 % | L5 | Ursache sind Thrombozytenzahl oder -funktion",
-          "score": 99.0,
+          "name": "Blutungsneigung durch Kollagenrezeptor-Defekt",
+          "score": 99.921,
           "level": "L5"
         },
         {
-          "name": "Fetale und neonatale alloimmune Thrombozytopenie | 99,845 % | L5 | Faktor VIII spielt keine Rolle in der Pathophysiologie",
-          "score": 99.0,
+          "name": "Blutungsstörung bei konstitutioneller Thrombozytopenie",
+          "score": 99.917,
           "level": "L5"
         },
         {
-          "name": "Hämophilie A mit Gefässanomalie | 99,779 % | L4 | Eng mit der Zulassung verwandt; nur der Faktor-VIII-Anteil wäre behandelbar, die genaue Krankheitsdefinition ist zu klären",
-          "score": 99.0,
+          "name": "Fetale und neonatale alloimmune Thrombozytopenie",
+          "score": 99.845,
           "level": "L5"
         },
         {
-          "name": "Thrombotisch-thrombozytopenische Purpura | 99,724 % | L5 | Möglicherweise Sicherheitsrisiko (erhöhte Thromboseneigung), kein plausibler Nutzen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Hämophilie A mit Gefässanomalie",
+          "score": 99.779,
+          "level": "L4"
         },
         {
-          "name": "Elocta 250 I.E., Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A",
-          "score": 99.0,
+          "name": "Thrombotisch-thrombozytopenische Purpura",
+          "score": 99.724,
           "level": "L5"
         }
       ]
@@ -813,8 +588,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Alprolix 250 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei Hämophilie B (kongenitaler Faktor-IX-Mangel)",
-          "score": 99.0,
+          "name": "Pseudo-von-Willebrand-Erkrankung",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -827,8 +602,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Vimizim 5mg/5ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Behandlung der Mucopolysaccharidose Typ IVA",
-          "score": 99.0,
+          "name": "Scheie-Syndrom",
+          "score": 99.9,
           "level": "L5"
         }
       ]
@@ -841,14 +616,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Stribild, Filmtabletten | Synthetika | HIV-Infektionen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Infektion mit dem Simianen Immundefizienzvirus (SIV)",
+          "score": 99.9,
+          "level": "L4"
         }
       ]
     },
@@ -860,8 +630,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Padcev 20 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Urothelkarzinom",
-          "score": 99.0,
+          "name": "Lepra",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -874,43 +644,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Vroni Gynial, überzogene Tablette | Synthetika | Androgenisierungserscheinungen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Yira 20, Filmtabletten | Synthetika | Hormonales Kontrazeptivum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Juliette, Filmtabletten | Synthetika | Hormonales Kontrazeptivum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ologyn, comprimés | Synthetika | Hormonales Kontrazeptivum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nuvaring, Vaginalring mit Applikator Btl | Synthetika | Hormonale Kontrazeption",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Jeanine, Dragées | Synthetika | Orale Kontrazeption",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Levina 30, Filmtabletten | Synthetika | Hormonales Kontrazeptivum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "MyLoop, anneau vaginal | Synthetika | Hormonale Kontrazeption zur vaginalen Anwendung",
-          "score": 99.0,
+          "name": "Erhöhtes Plasma-Zink (zinc, elevated plasma)",
+          "score": 99.6,
           "level": "L5"
         }
       ]
@@ -923,33 +658,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Fibryga 1g, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung (Octapharma AG) | Blutprodukt | Angeborene Hypo- oder Afibrinogenämie mit Blutungsneigung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Haemocomplettan P 1 g, Pulver zur Herstellung einer Injektions-/Infusionslösung (CSL Behring AG) | Blutprodukt | Primäre Fibrinogenmangelzustände; erworbene Hypofibrinogenämie (schwere Leberparenchymschäden)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "VeraSeal 2 ml, Lösung für Gewebekleber (Janssen-Cilag AG) | Blutprodukt | Verbesserung der Hämostase; Nahtunterstützung in der Gefässchirurgie",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "TachoSil, Schwamm (Corza Medical GmbH) | Blutprodukt | Unterstützende Behandlung in der Chirurgie zur Verbesserung der Hämostase, wenn Standardtechniken nicht ausreichen; Wirksamkeit nur in der Leberchirurgie belegt",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "ARTISS 2 ml, tiefgefrorene Lösung (Baxter AG) | Blutprodukt | Klebung von subkutanem Gewebe in der Verbrennungschirurgie",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "TISSEEL 2 ml, 2 Fertigspritzen (Baxter AG) | Blutprodukt | Gewebekleber und adjuvante Blutstillung bei Operationen; Unterstützung der Wundheilung",
-          "score": 99.0,
+          "name": "Hämoglobinopathie",
+          "score": 99.1,
           "level": "L5"
         }
       ]
@@ -962,13 +672,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien",
-          "score": 99.0,
+          "name": "Diffuse kutane Leishmaniose",
+          "score": 99.93,
           "level": "L5"
         }
       ]
@@ -981,9 +686,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Maviret Filmtabletten | Synthetika | Chronische Hepatitis C",
-          "score": 99.0,
-          "level": "L5"
+          "name": "HIV-Infektion",
+          "score": 99.87,
+          "level": "L1"
         }
       ]
     },
@@ -995,39 +700,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Veractiv Tonoglutal, Filmtabletten | Synthetika | Tonikum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex special, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex Peri, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex plus, Infusionslösung 1000 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Postmenopausale Osteoporose",
+          "score": 99.3,
+          "level": "L4"
         }
       ]
     },
@@ -1039,43 +714,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
+          "name": "Erkrankung der Nasenhöhle (nasal cavity disease)",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -1088,23 +728,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Diosmin Hesperidin Zentiva 500 mg, Filmtabletten | Synthetika | Venenmittel",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Diosmin Hesperidine Provectis 500 mg, Filmtabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz, Hämorrhoiden",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Daflon UNO, 1000 mg, Kautabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Daflon 500, Filmtabletten | Synthetika | Veneninsuffizienz und Hämorrhoidalleiden",
-          "score": 99.0,
+          "name": "Myeloproliferative Neoplasie",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -1117,8 +742,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Hexvix, Pulver und Lösungsmittel zur Herstellung einer Fertigspritze zur intravesikalen Anwendung | Synthetika | Diagnostikum zur Fluoreszenz-Zystoskopie",
-          "score": 99.0,
+          "name": "Bronchitis",
+          "score": 99.06,
           "level": "L5"
         }
       ]
@@ -1131,43 +756,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
+          "name": "Gastroparese",
+          "score": 99.6,
           "level": "L5"
         }
       ]
@@ -1180,14 +770,9 @@
       "level": "L1",
       "indications": [
         {
-          "name": "Insulin NovoNordisk Levemir 100 E/ml FlexPen, Injektionslösung | Biotechnologika | Diabetes mellitus",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Insulin NovoNordisk Levemir 100 E/ml Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Typ-1-Diabetes mellitus",
+          "score": 99.8,
+          "level": "L1"
         }
       ]
     },
@@ -1199,14 +784,9 @@
       "level": "L1",
       "indications": [
         {
-          "name": "Apidra SoloStar (Fertigpen), Injektionslösung | Biotechnologikum | Diabetes mellitus beim Erwachsenen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Apidra, Injektionslösung | Biotechnologikum | Diabetes mellitus beim Erwachsenen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Diabetes mellitus Typ 1",
+          "score": 99.6,
+          "level": "L1"
         }
       ]
     },
@@ -1218,13 +798,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Cresemba 100 mg, Hartkapseln | Synthetika | Antimykotikum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Cresemba 200 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum",
-          "score": 99.0,
+          "name": "Pneumocystose",
+          "score": 99.6,
           "level": "L5"
         }
       ]
@@ -1237,43 +812,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
+          "name": "Gastroparese",
+          "score": 99.3,
           "level": "L5"
         }
       ]
@@ -1286,38 +826,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Madopar DR, Tabletten | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Madopar 62.5, Kapseln | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Madopar 250, Tabletten | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Madopar LIQ 62.5, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Levodopa / Benserazid Devatis 62.5 mg (50 mg + 12.5 mg), Tabletten | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Duodopa, Gel zur intestinalen Anwendung | Synthetika | Fortgeschrittene Levodopa-reaktive Parkinson-Krankheit mit schweren motorischen Fluktuationen und Hyper-/Dyskinesie, wenn andere Kombinationen nicht ausreichen; positiver Test über eine temporäre Nasoduodenalsonde vor Anlage einer Dauersonde erforderlich",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Levacin 100/25, Retardtabletten | Synthetika | Morbus Parkinson",
-          "score": 99.0,
+          "name": "Rasmussen-Enzephalitis (subakute Enzephalitis)",
+          "score": 99.1,
           "level": "L5"
         }
       ]
@@ -1330,23 +840,23 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Primäre Plättchen-Freisetzungsstörung | 99,84 % | Lonoctocog alfa wirkt in der sekundären Hämostase und korrigiert die Plättchenfunktion nicht. Ein Nutzen wäre bestenfalls indirekt.",
-          "score": 99.0,
+          "name": "Pseudo-von-Willebrand-Krankheit",
+          "score": 99.85,
           "level": "L5"
         },
         {
-          "name": "Glanzmann-Thrombasthenie | 99,76 % | Der Defekt liegt im Integrin GPIIb/IIIa, die Faktor-VIII-Spiegel sind normal. Die mechanistische Begründung ist schwach, der hohe Wert spiegelt wohl die Nähe von Blutungserkrankungen im Netzwerk wider.",
-          "score": 99.0,
+          "name": "Primäre Plättchen-Freisetzungsstörung",
+          "score": 99.84,
           "level": "L5"
         },
         {
-          "name": "Scott-Syndrom | 99,44 % | Limitierend ist die fehlende prokoagulatorische Membranoberfläche (Defekt von TMEM16F/ANO6), nicht die Faktor-VIII-Menge. Zusätzlicher Faktor VIII dürfte den Defekt kaum ausgleichen.",
-          "score": 99.0,
+          "name": "Glanzmann-Thrombasthenie",
+          "score": 99.76,
           "level": "L5"
         },
         {
-          "name": "Afstyla 500 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei vorbehandelten Patienten mit Hämophilie A (Faktor-VIII-Mangel)",
-          "score": 99.0,
+          "name": "Scott-Syndrom",
+          "score": 99.44,
           "level": "L5"
         }
       ]
@@ -1359,14 +869,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Kaletra, Sirup | Synthetika | HIV-Infektionen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Kaletra 200/50, Filmtabletten | Synthetika | HIV-Infektionen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Simian-Immundefizienzvirus-Infektion (SIV)",
+          "score": 99.9,
+          "level": "L4"
         }
       ]
     },
@@ -1378,13 +883,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Orkambi 100 mg lumacaftor / 125 mg ivacaftor, Granulat | Synthetika | Mukoviszidose",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Orkambi 200 mg / 125 mg, Filmtabletten | Synthetika | Mukoviszidose",
-          "score": 99.0,
+          "name": "Lepra",
+          "score": 99.4,
           "level": "L5"
         }
       ]
@@ -1397,9 +897,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Novaminsulfon Sintetica 500 mg/ml, soluzione iniettabile | Injektionslösung (Synthetika) | Analgetikum",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Rheumatoide Arthritis",
+          "score": 99.8,
+          "level": "L4"
         }
       ]
     },
@@ -1411,8 +911,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Roclanda, Augentropfen (Collyre, Lösung) | Augentropfen, Lösung | Offenwinkelglaukom, okuläre Hypertonie",
-          "score": 99.0,
+          "name": "Primäres hereditäres Glaukom",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -1425,38 +925,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex special, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutriflex plus, Infusionslösung 1000 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
+          "name": "16q24.1-Mikrodeletionssyndrom",
+          "score": 99.7,
           "level": "L5"
         }
       ]
@@ -1469,8 +939,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Evra, transdermales Patch | Synthetika | Hormonelle Kontrazeption",
-          "score": 99.0,
+          "name": "Amenorrhoe",
+          "score": 99.5,
           "level": "L5"
         }
       ]
@@ -1483,8 +953,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Liberelle, Filmtabletten | Synthetika | Orale Kontrazeption bei Frauen",
-          "score": 99.0,
+          "name": "Erhöhtes Plasmazink (zinc, elevated plasma)",
+          "score": 99.1,
           "level": "L5"
         }
       ]
@@ -1497,13 +967,23 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Soluvit N, Trockenampullen (Fresenius Kabi (Schweiz) AG) | Synthetika | Vitaminzusatz zur parenteralen Ernährung",
-          "score": 99.0,
+          "name": "Angeborener Prothrombinmangel (congenital prothrombin deficiency)",
+          "score": 99.96,
           "level": "L5"
         },
         {
-          "name": "Viant, Pulver zur Herstellung einer Infusionslösung (B. Braun Medical AG) | Synthetika | Vitaminzusatz zur parenteralen Ernährung",
-          "score": 99.0,
+          "name": "Folsäuremangelanämie",
+          "score": 99.6,
+          "level": "L4"
+        },
+        {
+          "name": "Entzündliche Erkrankung der Gebärmutter",
+          "score": 99.14,
+          "level": "L4"
+        },
+        {
+          "name": "Glycerinstoffwechselstörung",
+          "score": 99.77,
           "level": "L5"
         }
       ]
@@ -1516,24 +996,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "NeoCitran Grippe / Erkältung für Erwachsene, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Allergische Urtikaria",
+          "score": 99.7,
+          "level": "L4"
         }
       ]
     },
@@ -1545,8 +1010,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut (Almirall AG) | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen",
-          "score": 99.0,
+          "name": "Acrodermatitis chronica atrophicans",
+          "score": 99.95,
           "level": "L5"
         }
       ]
@@ -1559,44 +1024,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Sklerosierende Cholangitis",
+          "score": 99.4,
+          "level": "L4"
         }
       ]
     },
@@ -1608,8 +1038,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Maviret Filmtabletten | Synthetika | Chronische Hepatitis C",
-          "score": 99.0,
+          "name": "Hepatitis-B-Virusinfektion",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -1622,28 +1052,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin/Tazobactam Sandoz 2,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin/Tazobactam Fresenius i.v. 2 g/0.25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin/Tazobactam Viatris 2 g/0.25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin-Tazobactam Stragen 2,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
+          "name": "Rheumatoide Arthritis",
+          "score": 99.94,
           "level": "L5"
         }
       ]
@@ -1656,8 +1066,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Polivy 140 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum",
-          "score": 99.0,
+          "name": "HER2-positives Mammakarzinom",
+          "score": 99.3,
           "level": "L5"
         }
       ]
@@ -1670,24 +1080,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Spersapolymyxin, Augentropfen | Synthetika | Augeninfektionen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Maxitrol, Augentropfen | Synthetika | Infizierte Augenentzündungen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Maxitrol, Augensalbe | Synthetika | Infizierte Augenentzündungen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Panotile, gocce otologiche | Synthetika | Otitis",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Bronchitis",
+          "score": 99.9,
+          "level": "L4"
         }
       ]
     },
@@ -1699,18 +1094,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Teglutik 50mg/10ml, Suspension zum Einnehmen (EFFIK SA) | Synthetika | Amyotrophe Lateralsklerose (ALS)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Rilutek, Filmtabletten (Sanofi-Aventis (Suisse) SA) | Synthetika | Amyotrophe Lateralsklerose (ALS)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Emylif 50 mg, Schmelzfilm zum Einnehmen (Zambon Svizzera SA) | Synthetika | Amyotrophe Lateralsklerose (ALS)",
-          "score": 99.0,
+          "name": "Bilaterale parasagittale parieto-okzipitale Polymikrogyrie",
+          "score": 99.99,
           "level": "L5"
         }
       ]
@@ -1723,8 +1108,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "TRODELVY 180 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Mammakarzinom",
-          "score": 99.0,
+          "name": "Medikamenteninduzierte Osteoporose",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -1737,19 +1122,9 @@
       "level": "L3",
       "indications": [
         {
-          "name": "Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten | Synthetika | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Entresto 6 mg/6 mg, filmüberzogenes Granulat | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Entresto 50 mg, Filmtabletten | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Diabetische Nephropathie",
+          "score": 99.5,
+          "level": "L3"
         }
       ]
     },
@@ -1761,9 +1136,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Osa Gel dentaire | Synthetika | Behandlung der Schmerzen beim Zahnen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Pharyngitis (Rachenentzündung)",
+          "score": 99.98,
+          "level": "L4"
         }
       ]
     },
@@ -1775,8 +1150,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Kanuma 2 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel",
-          "score": 99.0,
+          "name": "Scheie-Syndrom",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -1789,14 +1164,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Selenase peroral, Trinklösung | Synthetika | Nachgewiesener Selenmangel",
+          "name": "Sklerosierende Cholangitis",
           "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Selenase pro injectione, Injektionslösung | Synthetika | Nachgewiesener Selenmangel",
-          "score": 99.0,
-          "level": "L5"
+          "level": "L4"
         }
       ]
     },
@@ -1808,43 +1178,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
+          "name": "Familiäre viszerale Myopathie",
+          "score": 99.99,
           "level": "L5"
         }
       ]
@@ -1857,8 +1192,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Nuwiq 250 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologikum | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A",
-          "score": 99.0,
+          "name": "Pseudo-von-Willebrand-Krankheit",
+          "score": 99.997,
           "level": "L5"
         }
       ]
@@ -1871,13 +1206,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Pursana Feigensirup mit Sorbitol, Sirup | Synthetika | Obstipation",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Microlax, Klysma | Synthetika | Laxans",
-          "score": 99.0,
+          "name": "Belastungsinduzierte maligne Hyperthermie",
+          "score": 99.4,
           "level": "L5"
         }
       ]
@@ -1890,23 +1220,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Bactrim forte, Tabletten | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nopil forte, Tabletten | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nopil für Kinder, Suspension zum Einnehmen | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
+          "name": "Akute ansteckende Bindehautentzündung (acute contagious conjunctivitis)",
+          "score": 99.6,
           "level": "L5"
         }
       ]
@@ -1919,13 +1234,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Ospolot 50 mg, Filmtabletten | Synthetika | Antiepileptikum",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ospolot 20 mg/ml, Suspension zum Einnehmen | Synthetika | Antiepileptikum",
-          "score": 99.0,
+          "name": "Cauda-equina-Syndrom",
+          "score": 99.97,
           "level": "L5"
         }
       ]
@@ -1938,37 +1248,37 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Imlygic 10e6, Injektionslösung | Transplantat: Gentherapieprodukt | Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen",
+          "name": "CMM7",
+          "score": 99.2,
+          "level": "L5"
+        },
+        {
+          "name": "Pädiatrisches leptomeningeales Melanom",
+          "score": 99.1,
+          "level": "L5"
+        },
+        {
+          "name": "Epitheloidzelliges Aderhautmelanom",
+          "score": 99.1,
+          "level": "L5"
+        },
+        {
+          "name": "Plattenepithelkarzinom der Glottis",
+          "score": 99.1,
+          "level": "L5"
+        },
+        {
+          "name": "Okkultes Plattenepithelkarzinom der Lunge",
+          "score": 99.1,
+          "level": "L5"
+        },
+        {
+          "name": "Kloakogenes Rektumkarzinom",
           "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Pädiatrisches leptomeningeales Melanom | 99,1 % | Diffuse ZNS-Erkrankung; Abgabe, Neurotoxizität, Risiko einer Herpes-Enzephalitis und pädiatrische Anwendung problematisch",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Epitheloidzelliges Aderhautmelanom | 99,1 % | Biologisch verschieden vom kutanen Melanom; vorwiegend Lebermetastasen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Plattenepithelkarzinom der Glottis | 99,1 % | Atemwegs- und Sicherheitsbedenken bei Injektion in den Kehlkopf",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Okkultes Plattenepithelkarzinom der Lunge | 99,1 % | Läsionen meist zu klein für intraläsionale Injektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Kloakogenes Rektumkarzinom | 99,0 % | Injektion endoskopisch oder transanal denkbar, aber ohne Belege",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Adenosquamöses Gallenblasenkarzinom | 99,0 % | Schwieriger Injektionsort; seltener und aggressiver Tumor",
+          "name": "Adenosquamöses Gallenblasenkarzinom",
           "score": 99.0,
           "level": "L5"
         }
@@ -1982,34 +1292,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, Pulver zur Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin/Tazobactam Sandoz 2,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin/Tazobactam Fresenius i.v. 2 g/0.25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin/Tazobactam Viatris 2 g/0.25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Piperacillin-Tazobactam Stragen 2,25 g, Pulver zur Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Zerbaxa 1.5 g, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Pneumonie",
+          "score": 99.5,
+          "level": "L1"
         }
       ]
     },
@@ -2021,29 +1306,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Descovy 200/10 mg, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Odefsey 200/25/25 mg, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Biktarvy, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Symtuza, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetika | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Infektion mit dem Simianen Immundefizienzvirus (SIV)",
+          "score": 99.89,
+          "level": "L4"
         }
       ]
     },
@@ -2055,39 +1320,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Emtricitabin/Tenofovir Viatris, Filmtabletten | Filmtabletten | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Emtricitabin-Tenofovir-Mepha, Filmtabletten | Filmtabletten | HIV-Infektion, HIV-Prä-Expositionsprophylaxe",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Delstrigo, Filmtabletten | Filmtabletten | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Efavirenz/Emtricitabin/Tenofovir Viatris, Filmtabletten | Filmtabletten | HIV-1-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Eviplera, Filmtabletten | Filmtabletten | HIV-Infektion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Efavirenz-Emtricitabin-Tenofovir-Mepha 600 mg, 200 mg, 245 mg, Filmtabletten | Filmtabletten | HIV-Infektionen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Stribild, Filmtabletten | Filmtabletten | HIV-Infektionen",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Simian-Immundefizienzvirus-Infektion (SIV)",
+          "score": 99.95,
+          "level": "L4"
         }
       ]
     },
@@ -2099,23 +1334,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Symdeko 100 mg / 150 mg und 150 mg, Filmtabletten | Synthetika | Behandlung zystischer Fibrose",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Alyftrek 4 mg/ 20 mg/ 50 mg, Filmtabletten | Synthetika | Zystische Fibrose",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Trikafta 100 mg / 50 mg / 75 mg, 75 mg, Granulat | Synthetika | Zystische Fibrose bei Kindern von 2 bis <6 Jahren",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Trikafta 100 mg / 50 mg / 75 mg, 150 mg, Filmtabletten | Synthetika | Mukoviszidose",
-          "score": 99.0,
+          "name": "HIV-Infektionskrankheit",
+          "score": 99.2,
           "level": "L5"
         }
       ]
@@ -2128,43 +1348,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
+          "name": "Gastroparese",
+          "score": 99.3,
           "level": "L5"
         }
       ]
@@ -2177,18 +1362,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Vicks VapoRub, pommade | Synthetika | Affektionen der Atemwege",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Inhalant, Lösung zur Herstellung eines Dampfs zur Inhalation | Synthetika | Inhalation und Einreiben bei Erkältungen, Schnupfen und Husten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "China Kopfwehöl Temple of Heaven, Einreibeöl | Synthetika | Äusserliche Anwendung bei leichten Kopfschmerzen",
-          "score": 99.0,
+          "name": "Interventrikuläres Septumaneurysma",
+          "score": 99.2,
           "level": "L5"
         }
       ]
@@ -2201,14 +1376,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Spiriva 18 mcg, Kapseln zur Inhalation | Synthetika | Dauerbehandlung COPD",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Spiriva Respimat 2.5 mcg, Lösung zur Inhalation (wiederverwendbar) | Synthetika | COPD",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Obstruktive Lungenerkrankung",
+          "score": 99.99,
+          "level": "L1"
         }
       ]
     },
@@ -2220,8 +1390,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Lonsurf 15 mg/6.14 mg, Filmtabletten | Synthetika | Metastasiertes kolorektales Karzinom, metastasiertes Magenkarzinom",
-          "score": 99.0,
+          "name": "Zäkum-Zottenadenom (cecum villous adenoma)",
+          "score": 99.99,
           "level": "L5"
         }
       ]
@@ -2234,8 +1404,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Tarka, Filmtabletten | Synthetika | Kombiniertes Antihypertonikum",
-          "score": 99.0,
+          "name": "Maligne hypertensive Nierenerkrankung",
+          "score": 99.9,
           "level": "L5"
         }
       ]
@@ -2248,23 +1418,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Bactrim forte, Tabletten | Tabletten | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nopil forte, Tabletten | Tabletten | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Infusionslösungskonzentrat | Infektionskrankheiten",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nopil für Kinder, Suspension zum Einnehmen | Suspension zum Einnehmen | Infektionskrankheiten",
-          "score": 99.0,
+          "name": "Punktförmige epitheliale Keratokonjunktivitis",
+          "score": 99.6,
           "level": "L5"
         }
       ]
@@ -2277,44 +1432,9 @@
       "level": "L3",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Restless-Legs-Syndrom",
+          "score": 99.7,
+          "level": "L3"
         }
       ]
     },
@@ -2326,8 +1446,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Esperoct 500 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Hämophilie A",
-          "score": 99.0,
+          "name": "Primäre Thrombozyten-Freisetzungsstörung (primary release disorder of platelets)",
+          "score": 99.997,
           "level": "L5"
         }
       ]
@@ -2340,48 +1460,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1 % Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminomix N 1, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "PeriOLIMEL 2,5 % mit Elektrolyte, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
+          "name": "Cauda-equina-Syndrom",
+          "score": 99.8,
           "level": "L5"
         }
       ]
@@ -2394,9 +1474,39 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Derma-Merfen bain relipidant, adjuvant de bain | Synthetika | Sanfte Reinigung der Haut mit Rückgabe verlorener Lipide",
-          "score": 99.0,
+          "name": "Dermatophytose der Leisten- und Perianalregion",
+          "score": 99.94,
           "level": "L5"
+        },
+        {
+          "name": "Ectothrix-Infektion",
+          "score": 99.08,
+          "level": "L5"
+        },
+        {
+          "name": "Majocchi-Granulom",
+          "score": 99.08,
+          "level": "L5"
+        },
+        {
+          "name": "Endothrix-Infektion",
+          "score": 99.03,
+          "level": "L5"
+        },
+        {
+          "name": "Dermatophytose der Kopfhaut oder des Bartes",
+          "score": 99.02,
+          "level": "L4"
+        },
+        {
+          "name": "Pityriasis versicolor",
+          "score": 99.01,
+          "level": "L5"
+        },
+        {
+          "name": "Oberflächliche Mykose",
+          "score": 99.01,
+          "level": "L4"
         }
       ]
     },
@@ -2408,44 +1518,9 @@
       "level": "L4",
       "indications": [
         {
-          "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoven infant 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nutrineal PD 4 mit 1.1 % Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aminoplasmal B. Braun 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Sklerosierende Cholangitis",
+          "score": 99.4,
+          "level": "L4"
         }
       ]
     },
@@ -2457,14 +1532,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Epclusa, Filmtabletten | Synthetika | Chronische Hepatitis C",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Hepatitis-B-Virusinfektion",
+          "score": 99.87,
+          "level": "L3"
         }
       ]
     },
@@ -2476,9 +1546,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Anoro Ellipta 55 mcg/22 mcg, einzeldosiertes Pulver zur Inhalation | Synthetika | COPD",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Obstruktive Lungenerkrankung",
+          "score": 99.97,
+          "level": "L1"
         }
       ]
     },
@@ -2490,8 +1560,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "VEYVONDI 650 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Von-Willebrand-Krankheit",
-          "score": 99.0,
+          "name": "Primäre Freisetzungsstörung der Blutplättchen",
+          "score": 99.98,
           "level": "L5"
         }
       ]
@@ -2504,9 +1574,9 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Hepatitis-B-Virusinfektion",
+          "score": 99.8,
+          "level": "L4"
         }
       ]
     },
@@ -2518,8 +1588,8 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Cardioplexol, Kardioplege Lösung | Synthetika | Kardioplegie-Lösung bei Herzoperationen",
-          "score": 99.0,
+          "name": "Meningokokken-Infektion",
+          "score": 99.7,
           "level": "L5"
         }
       ]
@@ -2532,3014 +1602,595 @@
       "level": "L5",
       "indications": [
         {
-          "name": "Excipial, Mandelölsalbe | Synthetika | Intervall- und Nachbehandlung von Dermatosen, Schutz und Pflege von trockener Haut",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Multilind, Heilpaste | Synthetika | Mykosen der Haut",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Antidry care, Salbe | Synthetika | Bei leichten, nicht infektionsbedingten Entzündungen der Haut",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Leucen, Zugsalbe | Synthetika | Furunkel, kleinere Abszesse",
-          "score": 99.0,
-          "level": "L5"
+          "name": "Akne (acne)",
+          "score": 99.86,
+          "level": "L4"
         }
       ]
     }
   ],
   "indications": [
     {
-      "name": "ARTISS 2 ml, tiefgefrorene Lösung (Baxter AG) | Blutprodukt | Klebung von subkutanem Gewebe in der Verbrennungschirurgie",
+      "name": "16q24.1-Mikrodeletionssyndrom",
       "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Fibrinogen Human",
-          "slug": "fibrinogen-human",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aceduo Leman, Gel | Synthetika | Hautbehandlung bei Akne vulgaris mit Komedonen, Papeln und Pusteln",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzoyl Peroxide",
-          "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Acne Crème plus Widmer, Crème | Synthetika | Akne vulgaris",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzoyl Peroxide",
-          "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Adcetris 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Hodgkin-Lymphom, anaplastisches grosszelliges Lymphom, kutanes T-Zell-Lymphom, peripheres T-Zell-Lymphom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brentuximab Vedotin",
-          "slug": "brentuximab-vedotin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Adenosquamöses Gallenblasenkarzinom | 99,0 % | Schwieriger Injektionsort; seltener und aggressiver Tumor",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Afstyla 500 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei vorbehandelten Patienten mit Hämophilie A (Faktor-VIII-Mangel)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lonoctocog Alfa",
-          "slug": "lonoctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Alprolix 250 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei Hämophilie B (kongenitaler Faktor-IX-Mangel)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Eftrenonacog Alfa",
-          "slug": "eftrenonacog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Alyftrek 4 mg/ 20 mg/ 50 mg, Filmtabletten | Synthetika | Zystische Fibrose",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tezacaftor",
-          "slug": "tezacaftor",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aminomix N 1, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aminoplasmal B. Braun 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 4,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        },
-        {
-          "drug": "Valine",
-          "slug": "valine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 9,
-      "drugs": [
-        {
-          "drug": "Aspartic Acid",
-          "slug": "aspartic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
         {
           "drug": "Nitrogen",
           "slug": "nitrogen",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tryptophan",
-          "slug": "tryptophan",
-          "score": 99.0
+          "score": 99.7
         }
       ]
     },
     {
-      "name": "Aminoven 5 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 10,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tryptophan",
-          "slug": "tryptophan",
-          "score": 99.0
-        },
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        },
-        {
-          "drug": "Valine",
-          "slug": "valine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aminoven infant 10 %, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        },
-        {
-          "drug": "Valine",
-          "slug": "valine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 8,
-      "drugs": [
-        {
-          "drug": "Cysteine",
-          "slug": "cysteine",
-          "score": 99.0
-        },
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tryptophan",
-          "slug": "tryptophan",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Anoro Ellipta 55 mcg/22 mcg, einzeldosiertes Pulver zur Inhalation | Synthetika | COPD",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Vilanterol",
-          "slug": "vilanterol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Antidry care, Salbe | Synthetika | Bei leichten, nicht infektionsbedingten Entzündungen der Haut",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Zinc Oxide",
-          "slug": "zinc-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Apidra SoloStar (Fertigpen), Injektionslösung | Biotechnologikum | Diabetes mellitus beim Erwachsenen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Insulin Glulisine",
-          "slug": "insulin-glulisine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Apidra, Injektionslösung | Biotechnologikum | Diabetes mellitus beim Erwachsenen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Insulin Glulisine",
-          "slug": "insulin-glulisine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Atedurex, Filmtabletten | Synthetika | Hypertonie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlorthalidone",
-          "slug": "chlorthalidone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Bactrim forte, Tabletten | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sulfamethoxazole",
-          "slug": "sulfamethoxazole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Bactrim forte, Tabletten | Tabletten | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Trimethoprim",
-          "slug": "trimethoprim",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Infusionslösungskonzentrat | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Trimethoprim",
-          "slug": "trimethoprim",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sulfamethoxazole",
-          "slug": "sulfamethoxazole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Benzac 5, Gel | Synthetika | Akne vulgaris",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzoyl Peroxide",
-          "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Benzocaine PD, pâte buccale | Synthetika | Anästhetikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzocaine",
-          "slug": "benzocaine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Biktarvy, Filmtabletten | Synthetika | HIV-Infektion",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Bictegravir",
-          "slug": "bictegravir",
-          "score": 99.0
-        },
-        {
-          "drug": "Tenofovir Alafenamide",
-          "slug": "tenofovir-alafenamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Blutgruppeninkompatibilität | 99,22 % | Immunologisch, ohne infektiöses Ziel.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Blutungsneigung durch Kollagenrezeptor-Defekt | 99,921 % | L5 | Thrombozyten-intrinsischer Defekt; keine Grundlage",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Blutungsstörung bei konstitutioneller Thrombozytopenie | 99,917 % | L5 | Ursache sind Thrombozytenzahl oder -funktion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "CRYSALIS Leman, Pommade | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Calcipotriol-Betamethason-Mepha, Salbe | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cardioplexol, Kardioplege Lösung | Synthetika | Kardioplegie-Lösung bei Herzoperationen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Xylitol",
-          "slug": "xylitol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "China Kopfwehöl Temple of Heaven, Einreibeöl | Synthetika | Äusserliche Anwendung bei leichten Kopfschmerzen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Thymol",
-          "slug": "thymol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Chlortalidon Galepharm 12.5 mg, Tabletten | Synthetika | Diuretikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlorthalidone",
-          "slug": "chlorthalidone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cimzia AutoClicks 200 mg, Injektionslösung im Fertigpen | Biotechnologikum | Morbus Crohn, rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (einschliesslich ankylosierender Spondylitis und axialer Spondyloarthritis ohne radiographische Zeichen), Plaque-Psoriasis bei Erwachsenen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Certolizumab Pegol",
-          "slug": "certolizumab-pegol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cimzia, Injektionslösung | Biotechnologikum | Morbus Crohn, rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (einschliesslich ankylosierender Spondylitis und axialer Spondyloarthritis ohne radiographische Zeichen), Plaque-Psoriasis bei Erwachsenen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Certolizumab Pegol",
-          "slug": "certolizumab-pegol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Co-Amoxicillin Sandoz 1 g, Filmtabletten | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Clavulanic Acid",
-          "slug": "clavulanic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Co-Amoxicillin Sandoz 625, Filmtabletten | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Clavulanic Acid",
-          "slug": "clavulanic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Contractubex, Gel | Synthetika | Narben und Keloide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Allantoin",
-          "slug": "allantoin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cotenolol-Mepha-Neo, Filmtabletten | Synthetika | Hypertonie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlorthalidone",
-          "slug": "chlorthalidone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cresemba 100 mg, Hartkapseln | Synthetika | Antimykotikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Isavuconazonium",
-          "slug": "isavuconazonium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cresemba 200 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Isavuconazonium",
-          "slug": "isavuconazonium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Crysalis Leman, Gel | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "DUL-X Gel cool Wallwurz comp., Gel | Synthetika | Bei stumpfen Traumen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Allantoin",
-          "slug": "allantoin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Pheniramine",
-          "slug": "pheniramine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Daflon 500, Filmtabletten | Synthetika | Veneninsuffizienz und Hämorrhoidalleiden",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Hesperidin",
-          "slug": "hesperidin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Daflon UNO, 1000 mg, Kautabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Hesperidin",
-          "slug": "hesperidin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Daivobet, Gel | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Daivobet, Salbe | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Delstrigo, Filmtabletten | Filmtabletten | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Dercut, Tropfen zum Einnehmen (ebi-pharm ag) | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Centella Asiatica",
-          "slug": "centella-asiatica",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Derma-Merfen bain relipidant, adjuvant de bain | Synthetika | Sanfte Reinigung der Haut mit Rückgabe verlorener Lipide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Undecylenic Acid",
-          "slug": "undecylenic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Descovy 200/10 mg, Filmtabletten | Synthetika | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Alafenamide",
-          "slug": "tenofovir-alafenamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Dexilant 30 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Protonenpumpenhemmer",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Dexlansoprazole",
-          "slug": "dexlansoprazole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Diosmin Hesperidin Zentiva 500 mg, Filmtabletten | Synthetika | Venenmittel",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Hesperidin",
-          "slug": "hesperidin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Diosmin Hesperidine Provectis 500 mg, Filmtabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz, Hämorrhoiden",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Hesperidin",
-          "slug": "hesperidin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Dipeptiven, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Duac Akne, Gel | Synthetika | Akne vulgaris",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzoyl Peroxide",
-          "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Duodopa, Gel zur intestinalen Anwendung | Synthetika | Fortgeschrittene Levodopa-reaktive Parkinson-Krankheit mit schweren motorischen Fluktuationen und Hyper-/Dyskinesie, wenn andere Kombinationen nicht ausreichen; positiver Test über eine temporäre Nasoduodenalsonde vor Anlage einer Dauersonde erforderlich",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Edarbyclor 40 mg/12.5 mg, Filmtabletten | Synthetika | Hypertonie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlorthalidone",
-          "slug": "chlorthalidone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Efavirenz-Emtricitabin-Tenofovir-Mepha 600 mg, 200 mg, 245 mg, Filmtabletten | Filmtabletten | HIV-Infektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Efavirenz/Emtricitabin/Tenofovir Viatris, Filmtabletten | Filmtabletten | HIV-1-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Elocta 250 I.E., Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Emtricitabin-Tenofovir-Mepha, Filmtabletten | Filmtabletten | HIV-Infektion, HIV-Prä-Expositionsprophylaxe",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Emtricitabin/Tenofovir Viatris, Filmtabletten | Filmtabletten | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Emylif 50 mg, Schmelzfilm zum Einnehmen (Zambon Svizzera SA) | Synthetika | Amyotrophe Lateralsklerose (ALS)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Riluzole",
-          "slug": "riluzole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Enstilar, Schaum zur Anwendung auf der Haut | Synthetika | Psoriasis vulgaris",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Entresto 50 mg, Filmtabletten | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sacubitril",
-          "slug": "sacubitril",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Entresto 6 mg/6 mg, filmüberzogenes Granulat | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sacubitril",
-          "slug": "sacubitril",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Entumin 40 mg, Tabletten | Synthetika | Neurolepticum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Clothiapine",
-          "slug": "clothiapine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Entzündliche Gebärmuttererkrankung | 99,88 % | Infektionen sind oft polymikrobiell, die Abdeckung durch Ceftolozan/Tazobactam wäre unvollständig.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Epclusa, Filmtabletten | Synthetika | Chronische Hepatitis C",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Velpatasvir",
-          "slug": "velpatasvir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Epiduo, Gel | Synthetika | Akne vulgaris",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzoyl Peroxide",
-          "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Epitheloidzelliges Aderhautmelanom | 99,1 % | Biologisch verschieden vom kutanen Melanom; vorwiegend Lebermetastasen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Erworbener Gerinnungsfaktormangel | 99,952 % | L5 | Mechanistisch plausibelste Option, aber heterogen; bei erworbener Hämophilie neutralisieren Autoantikörper den Faktor VIII",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Esperoct 500 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Hämophilie A",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Turoctocog Alfa Pegol",
-          "slug": "turoctocog-alfa-pegol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Eviplera, Filmtabletten | Filmtabletten | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Evra, transdermales Patch | Synthetika | Hormonelle Kontrazeption",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Norelgestromin",
-          "slug": "norelgestromin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Excipial, Mandelölsalbe | Synthetika | Intervall- und Nachbehandlung von Dermatosen, Schutz und Pflege von trockener Haut",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Zinc Oxide",
-          "slug": "zinc-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Fetale und neonatale alloimmune Thrombozytopenie | 99,845 % | L5 | Faktor VIII spielt keine Rolle in der Pathophysiologie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Fibryga 1g, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung (Octapharma AG) | Blutprodukt | Angeborene Hypo- oder Afibrinogenämie mit Blutungsneigung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Fibrinogen Human",
-          "slug": "fibrinogen-human",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Filmtabletten | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Cobicistat",
-          "slug": "cobicistat",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetika | HIV-Infektion",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Elvitegravir",
-          "slug": "elvitegravir",
-          "score": 99.0
-        },
-        {
-          "drug": "Tenofovir Alafenamide",
-          "slug": "tenofovir-alafenamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Glanzmann-Thrombasthenie | 99,76 % | Der Defekt liegt im Integrin GPIIb/IIIa, die Faktor-VIII-Spiegel sind normal. Die mechanistische Begründung ist schwach, der hohe Wert spiegelt wohl die Nähe von Blutungserkrankungen im Netzwerk wider.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lonoctocog Alfa",
-          "slug": "lonoctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Glanzmann-Thrombasthenie | 99,995 % | L5 | Defekt des Integrins αIIbβ3; Faktor VIII nicht limitierend",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Gonokokken-Urethritis | 99,89 % | Cephalosporine sind bei Gonorrhö etabliert, aber für Ceftolozan fehlen Daten, und Standardtherapien sind bereits verfügbar.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Gorgonium, Salbe | Synthetika | Narben und Keloide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Allantoin",
-          "slug": "allantoin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Haemocomplettan P 1 g, Pulver zur Herstellung einer Injektions-/Infusionslösung (CSL Behring AG) | Blutprodukt | Primäre Fibrinogenmangelzustände; erworbene Hypofibrinogenämie (schwere Leberparenchymschäden)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Fibrinogen Human",
-          "slug": "fibrinogen-human",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Hexvix, Pulver und Lösungsmittel zur Herstellung einer Fertigspritze zur intravesikalen Anwendung | Synthetika | Diagnostikum zur Fluoreszenz-Zystoskopie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Hexaminolevulinate",
-          "slug": "hexaminolevulinate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Hyperamylasämie | 99,0 % | Laborbefund, keine behandelbare Krankheit; kein Mechanismus",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avibactam",
-          "slug": "avibactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Hyperamylasämie | 99,52 % | Laborbefund statt Infektion, vermutlich Modellartefakt.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Hämophilie A mit Gefässanomalie | 99,779 % | L4 | Eng mit der Zulassung verwandt; nur der Faktor-VIII-Anteil wäre behandelbar, die genaue Krankheitsdefinition ist zu klären",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Idelvion 250 IU, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Blutungsprophylaxe bei Patienten mit Haemophilie B (Faktor-IX-Mangel)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Albutrepenonacog Alfa",
-          "slug": "albutrepenonacog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Imlygic 10e6, Injektionslösung | Transplantat: Gentherapieprodukt | Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "InductOs 1.5 mg/ml, Pulver 12 mg, Lösungsmittel und Matrix für Implantationsmatrix (Medtronic BioPharma Sàrl) | Biotechnologikum | Osteosynthese: Behandlung von Tibiafrakturen und degenerativen Bandscheibenerkrankungen bei Erwachsenen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Dibotermin Alfa",
-          "slug": "dibotermin-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Inhalant, Lösung zur Herstellung eines Dampfs zur Inhalation | Synthetika | Inhalation und Einreiben bei Erkältungen, Schnupfen und Husten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Thymol",
-          "slug": "thymol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Insulin NovoNordisk Levemir 100 E/ml FlexPen, Injektionslösung | Biotechnologika | Diabetes mellitus",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Insulin Detemir",
-          "slug": "insulin-detemir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Insulin NovoNordisk Levemir 100 E/ml Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Insulin Detemir",
-          "slug": "insulin-detemir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Jeanine, Dragées | Synthetika | Orale Kontrazeption",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Juliette, Filmtabletten | Synthetika | Hormonales Kontrazeptivum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Kaletra 200/50, Filmtabletten | Synthetika | HIV-Infektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lopinavir",
-          "slug": "lopinavir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Kaletra, Sirup | Synthetika | HIV-Infektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lopinavir",
-          "slug": "lopinavir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Kanuma 2 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sebelipase Alfa",
-          "slug": "sebelipase-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Keli-med, Crème | Synthetika | Narbenbehandlung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Allantoin",
-          "slug": "allantoin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Kloakogenes Rektumkarzinom | 99,0 % | Injektion endoskopisch oder transanal denkbar, aber ohne Belege",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Kongenitale Analbuminämie | 99,44 % | Genetische Erkrankung, keine Relevanz für ein Antibiotikum.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Korolind, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens bei Herz-Kreislauf-Störungen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Camphor",
-          "slug": "camphor",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Leucen, Zugsalbe | Synthetika | Furunkel, kleinere Abszesse",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Zinc Oxide",
-          "slug": "zinc-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Levacin 100/25, Retardtabletten | Synthetika | Morbus Parkinson",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Levina 30, Filmtabletten | Synthetika | Hormonales Kontrazeptivum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Levodopa / Benserazid Devatis 62.5 mg (50 mg + 12.5 mg), Tabletten | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Liberelle, Filmtabletten | Synthetika | Orale Kontrazeption bei Frauen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Norgestimate",
-          "slug": "norgestimate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Librax, Filmtabletten | Synthetika | Spasmolytikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlordiazepoxide",
-          "slug": "chlordiazepoxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Librocol, überzogene Tabletten | Synthetika | Spasmolytikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlordiazepoxide",
-          "slug": "chlordiazepoxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Limbitrol, Hartkapsel | Synthetika | Antidepressivum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chlordiazepoxide",
-          "slug": "chlordiazepoxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Lonsurf 15 mg/6.14 mg, Filmtabletten | Synthetika | Metastasiertes kolorektales Karzinom, metastasiertes Magenkarzinom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tipiracil",
-          "slug": "tipiracil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Lubexyl, Suspension | Synthetika | Akne vulgaris",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Benzoyl Peroxide",
-          "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Madopar 250, Tabletten | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Madopar 62.5, Kapseln | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Madopar DR, Tabletten | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Madopar LIQ 62.5, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Morbus Parkinson, Restless-Legs-Syndrom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Maviret Filmtabletten | Synthetika | Chronische Hepatitis C",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Glecaprevir",
-          "slug": "glecaprevir",
-          "score": 99.0
-        },
-        {
-          "drug": "Pibrentasvir",
-          "slug": "pibrentasvir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Maxitrol, Augensalbe | Synthetika | Infizierte Augenentzündungen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Polymyxin B",
-          "slug": "polymyxin-b",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Maxitrol, Augentropfen | Synthetika | Infizierte Augenentzündungen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Polymyxin B",
-          "slug": "polymyxin-b",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Microlax, Klysma | Synthetika | Laxans",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sorbitol",
-          "slug": "sorbitol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Multilind, Heilpaste | Synthetika | Mykosen der Haut",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Zinc Oxide",
-          "slug": "zinc-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "MyLoop, anneau vaginal | Synthetika | Hormonale Kontrazeption zur vaginalen Anwendung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Myozyme, Pulver zur Herstellung einer Infusionslösung | Biotechnologikum | Morbus Pompe (Mangel an alpha-Glucosidase)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alglucosidase Alfa",
-          "slug": "alglucosidase-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "NeoCitran Grippe / Erkältung für Erwachsene, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Pheniramine",
-          "slug": "pheniramine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nimbex 5 mg/2,5 ml, Injektionslösung (Aspen Pharma Schweiz GmbH) | Synthetika | Muskelrelaxans",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Cisatracurium",
-          "slug": "cisatracurium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nopil forte, Tabletten | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sulfamethoxazole",
-          "slug": "sulfamethoxazole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nopil forte, Tabletten | Tabletten | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Trimethoprim",
-          "slug": "trimethoprim",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nopil für Kinder, Suspension zum Einnehmen | Suspension zum Einnehmen | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Trimethoprim",
-          "slug": "trimethoprim",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nopil für Kinder, Suspension zum Einnehmen | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sulfamethoxazole",
-          "slug": "sulfamethoxazole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Novaminsulfon Sintetica 500 mg/ml, soluzione iniettabile | Injektionslösung (Synthetika) | Analgetikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Metamizole",
-          "slug": "metamizole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Numeta Neo, Emulsion zur Infusion | Synthetika | Parenterale Ernährung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Cysteine",
-          "slug": "cysteine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Numeta Ped G16% E, Infusionslösung zur totalen parenteralen Ernährung | Synthetika | Parenterale Ernährung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Cysteine",
-          "slug": "cysteine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nutriflex Peri, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Aspartic Acid",
-          "slug": "aspartic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nutriflex plus, Infusionslösung 1000 ml | Synthetika | Parenterale Ernährung",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "Aspartic Acid",
-          "slug": "aspartic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Nitrogen",
-          "slug": "nitrogen",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nutriflex special, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "Aspartic Acid",
-          "slug": "aspartic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Nitrogen",
-          "slug": "nitrogen",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nutrineal PD 4 mit 1.1 % Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-      "drug_count": 3,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        },
-        {
-          "drug": "Valine",
-          "slug": "valine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nutrineal PD 4 mit 1.1% Aminosäuren, Peritonealdialyselösung | Synthetika | Peritonealdialyselösung",
-      "drug_count": 7,
-      "drugs": [
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tryptophan",
-          "slug": "tryptophan",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nuvaring, Vaginalring mit Applikator Btl | Synthetika | Hormonale Kontrazeption",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nuwiq 250 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologikum | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Simoctocog Alfa",
-          "slug": "simoctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung",
-      "drug_count": 13,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Aspartic Acid",
-          "slug": "aspartic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Nitrogen",
-          "slug": "nitrogen",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Odefsey 200/25/25 mg, Filmtabletten | Synthetika | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Alafenamide",
-          "slug": "tenofovir-alafenamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Okkultes Plattenepithelkarzinom der Lunge | 99,1 % | Läsionen meist zu klein für intraläsionale Injektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ologyn, comprimés | Synthetika | Hormonales Kontrazeptivum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung",
-      "drug_count": 12,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Aspartic Acid",
-          "slug": "aspartic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        },
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Nitrogen",
-          "slug": "nitrogen",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ondexxya 200 mg, Pulver zur Herstellung einer Infusionslösung | Biotechnologika | Antidot gegen Faktor-Xa-Inhibitoren",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Andexanet Alfa",
-          "slug": "andexanet-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Orkambi 100 mg lumacaftor / 125 mg ivacaftor, Granulat | Synthetika | Mukoviszidose",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lumacaftor",
-          "slug": "lumacaftor",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Orkambi 200 mg / 125 mg, Filmtabletten | Synthetika | Mukoviszidose",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lumacaftor",
-          "slug": "lumacaftor",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Osa Gel dentaire | Synthetika | Behandlung der Schmerzen beim Zahnen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Salicylamide",
-          "slug": "salicylamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ospolot 20 mg/ml, Suspension zum Einnehmen | Synthetika | Antiepileptikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sulthiame",
-          "slug": "sulthiame",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ospolot 50 mg, Filmtabletten | Synthetika | Antiepileptikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sulthiame",
-          "slug": "sulthiame",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Padcev 20 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Urothelkarzinom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Enfortumab Vedotin",
-          "slug": "enfortumab-vedotin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Panotile, gocce otologiche | Synthetika | Otitis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Polymyxin B",
-          "slug": "polymyxin-b",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "PeriOLIMEL 2,5 % mit Elektrolyte, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacillin-Tazobactam Stragen 2,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Piperacillin",
-          "slug": "piperacillin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacillin-Tazobactam Stragen 2,25 g, Pulver zur Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tazobactam",
-          "slug": "tazobactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacillin/Tazobactam Fresenius i.v. 2 g/0.25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Piperacillin",
-          "slug": "piperacillin",
-          "score": 99.0
-        },
-        {
-          "drug": "Tazobactam",
-          "slug": "tazobactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacillin/Tazobactam Sandoz 2,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Piperacillin",
-          "slug": "piperacillin",
-          "score": 99.0
-        },
-        {
-          "drug": "Tazobactam",
-          "slug": "tazobactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacillin/Tazobactam Viatris 2 g/0.25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Piperacillin",
-          "slug": "piperacillin",
-          "score": 99.0
-        },
-        {
-          "drug": "Tazobactam",
-          "slug": "tazobactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Piperacillin",
-          "slug": "piperacillin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, Pulver zur Infusionslösung | Synthetika | Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tazobactam",
-          "slug": "tazobactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Plattenepithelkarzinom der Glottis | 99,1 % | Atemwegs- und Sicherheitsbedenken bei Injektion in den Kehlkopf",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Polivy 140 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Polatuzumab Vedotin",
-          "slug": "polatuzumab-vedotin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Polyklonales Hyperviskositätssyndrom | 99,0 % | Keine Infektion, kein Mechanismus; Modellartefakt",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avibactam",
-          "slug": "avibactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Polyklonales Hyperviskositätssyndrom | 99,52 % | Kein plausibler Mechanismus, vermutlich Modellartefakt.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Primäre Plättchen-Freisetzungsstörung | 99,84 % | Lonoctocog alfa wirkt in der sekundären Hämostase und korrigiert die Plättchenfunktion nicht. Ein Nutzen wäre bestenfalls indirekt.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lonoctocog Alfa",
-          "slug": "lonoctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Primäre Thrombozyten-Freisetzungsstörung | 99,997 % | L5 | Thrombozytärer Funktionsdefekt; kein plausibler Mechanismus",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Prämaligne hämatologische Erkrankung | 99,11 % | Keine mechanistische Grundlage.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Psotriol, Salbe | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Pursana Feigensirup mit Sorbitol, Sirup | Synthetika | Obstipation",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sorbitol",
-          "slug": "sorbitol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Pädiatrisches leptomeningeales Melanom | 99,1 % | Diffuse ZNS-Erkrankung; Abgabe, Neurotoxizität, Risiko einer Herpes-Enzephalitis und pädiatrische Anwendung problematisch",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Talimogene Laherparepvec",
-          "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Riamet 20 mg/120 mg, Tabletten | Tabletten | Malaria",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artemether",
-          "slug": "artemether",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Riamet Baby, Tabletten zur Herstellung einer Suspension zum Einnehmen | Tabletten zur Herstellung einer Suspension | Behandlung von akuter, unkomplizierter Malaria bei Säuglingen mit einem Körpergewicht von 2 kg bis unter 5 kg",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artemether",
-          "slug": "artemether",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Riamet Dispersible, Tabletten | Dispergierbare Tabletten | Malaria",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artemether",
-          "slug": "artemether",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Rilutek, Filmtabletten (Sanofi-Aventis (Suisse) SA) | Synthetika | Amyotrophe Lateralsklerose (ALS)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Riluzole",
-          "slug": "riluzole",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Roclanda, Augentropfen (Collyre, Lösung) | Augentropfen, Lösung | Offenwinkelglaukom, okuläre Hypertonie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Netarsudil",
-          "slug": "netarsudil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten | Synthetika | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sacubitril",
-          "slug": "sacubitril",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Schwere Influenza (genetische Anfälligkeit) | 99,3 % | Kein glaubwürdiger Mechanismus, kein antiviraler Effekt; vermutlich Modellartefakt",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avibactam",
-          "slug": "avibactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Scott-Syndrom | 99,44 % | Limitierend ist die fehlende prokoagulatorische Membranoberfläche (Defekt von TMEM16F/ANO6), nicht die Faktor-VIII-Menge. Zusätzlicher Faktor VIII dürfte den Defekt kaum ausgleichen.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Lonoctocog Alfa",
-          "slug": "lonoctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Scott-Syndrom | 99,969 % | L5 | Fehlende prokoagulatorische Oberfläche; Faktor-VIII-Gabe stellt diese nicht wieder her",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Selenase peroral, Trinklösung | Synthetika | Nachgewiesener Selenmangel",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Selenium",
-          "slug": "selenium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Selenase pro injectione, Injektionslösung | Synthetika | Nachgewiesener Selenmangel",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Selenium",
-          "slug": "selenium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Similasan Echinacea, Globuli | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, Erkältungen und Entzündungen der Mundschleimhäute",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Echinacea",
-          "slug": "echinacea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "SmofKabiven EF, Infusionsemulsion 986 ml | Synthetika | Parenterale Ernährung für Erwachsene",
-      "drug_count": 10,
-      "drugs": [
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Nitrogen",
-          "slug": "nitrogen",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tryptophan",
-          "slug": "tryptophan",
-          "score": 99.0
-        },
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        },
-        {
-          "drug": "Valine",
-          "slug": "valine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "SmofKabiven special EF 1012 ml, Infusionsemulsion | Synthetika | Parenterale Ernährung",
-      "drug_count": 11,
-      "drugs": [
-        {
-          "drug": "Alanine",
-          "slug": "alanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Glycine",
-          "slug": "glycine",
-          "score": 99.0
-        },
-        {
-          "drug": "Histidine",
-          "slug": "histidine",
-          "score": 99.0
-        },
-        {
-          "drug": "Isoleucine",
-          "slug": "isoleucine",
-          "score": 99.0
-        },
-        {
-          "drug": "Nitrogen",
-          "slug": "nitrogen",
-          "score": 99.0
-        },
-        {
-          "drug": "Phenylalanine",
-          "slug": "phenylalanine",
-          "score": 99.0
-        },
-        {
-          "drug": "Serine",
-          "slug": "serine",
-          "score": 99.0
-        },
-        {
-          "drug": "Threonine",
-          "slug": "threonine",
-          "score": 99.0
-        },
-        {
-          "drug": "Tryptophan",
-          "slug": "tryptophan",
-          "score": 99.0
-        },
-        {
-          "drug": "Tyrosine",
-          "slug": "tyrosine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Soluvit N, Trockenampullen (Fresenius Kabi (Schweiz) AG) | Synthetika | Vitaminzusatz zur parenteralen Ernährung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Pantothenic Acid",
-          "slug": "pantothenic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Spagymun Abwehrkräfte, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungskrankheiten, leichten Allgemeininfektionen, fiebrigen Erkältungskrankheiten; ferner unterstützend bei schleppend verlaufenden Infektionskrankheiten",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Echinacea",
-          "slug": "echinacea",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Spersadex comp., collyre en solution | Augentropfen (Lösung) | Augeninfektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Chloramphenicol",
-          "slug": "chloramphenicol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Spersapolymyxin, Augentropfen | Synthetika | Augeninfektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Polymyxin B",
-          "slug": "polymyxin-b",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Spiriva 18 mcg, Kapseln zur Inhalation | Synthetika | Dauerbehandlung COPD",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tiotropium",
-          "slug": "tiotropium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Spiriva Respimat 2.5 mcg, Lösung zur Inhalation (wiederverwendbar) | Synthetika | COPD",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tiotropium",
-          "slug": "tiotropium",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Strensiq 40 mg/ml, Injektionslösung | Biotechnologika | Behandlung der Hypophosphatasie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Asfotase Alfa",
-          "slug": "asfotase-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Strepsils Erdbeer, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Amylmetacresol",
-          "slug": "amylmetacresol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Strepsils Honig & Zitrone, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Amylmetacresol",
-          "slug": "amylmetacresol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Stribild, Filmtabletten | Filmtabletten | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Cobicistat",
-          "slug": "cobicistat",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Stribild, Filmtabletten | Filmtabletten | HIV-Infektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Disoproxil",
-          "slug": "tenofovir-disoproxil",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Stribild, Filmtabletten | Synthetika | HIV-Infektionen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Elvitegravir",
-          "slug": "elvitegravir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Symdeko 100 mg / 150 mg und 150 mg, Filmtabletten | Synthetika | Behandlung zystischer Fibrose",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tezacaftor",
-          "slug": "tezacaftor",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Symtuza, Filmtabletten | Filmtabletten | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Cobicistat",
-          "slug": "cobicistat",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Symtuza, Filmtabletten | Synthetika | HIV-Infektion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Tenofovir Alafenamide",
-          "slug": "tenofovir-alafenamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "TISSEEL 2 ml, 2 Fertigspritzen (Baxter AG) | Blutprodukt | Gewebekleber und adjuvante Blutstillung bei Operationen; Unterstützung der Wundheilung",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Fibrinogen Human",
-          "slug": "fibrinogen-human",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "TRODELVY 180 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Mammakarzinom",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Sacituzumab Govitecan",
-          "slug": "sacituzumab-govitecan",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "TachoSil, Schwamm (Corza Medical GmbH) | Blutprodukt | Unterstützende Behandlung in der Chirurgie zur Verbesserung der Hämostase, wenn Standardtechniken nicht ausreichen; Wirksamkeit nur in der Leberchirurgie belegt",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Fibrinogen Human",
-          "slug": "fibrinogen-human",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut (Almirall AG) | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen",
+      "name": "Acrodermatitis chronica atrophicans",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Phenol",
           "slug": "phenol",
-          "score": 99.0
+          "score": 99.95
         }
       ]
     },
     {
-      "name": "Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen",
+      "name": "Adenosquamöses Gallenblasenkarzinom",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Formaldehyde",
-          "slug": "formaldehyde",
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
           "score": 99.0
         }
       ]
     },
     {
-      "name": "Tarka, Filmtabletten | Synthetika | Kombiniertes Antihypertonikum",
+      "name": "Adulte Polyglucosan-Körper-Krankheit (APBD)",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Trandolapril",
-          "slug": "trandolapril",
-          "score": 99.0
+          "drug": "Alglucosidase Alfa",
+          "slug": "alglucosidase-alfa",
+          "score": 99.5
         }
       ]
     },
     {
-      "name": "Teglutik 50mg/10ml, Suspension zum Einnehmen (EFFIK SA) | Synthetika | Amyotrophe Lateralsklerose (ALS)",
+      "name": "Akne (acne)",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Riluzole",
-          "slug": "riluzole",
-          "score": 99.0
+          "drug": "Zinc Oxide",
+          "slug": "zinc-oxide",
+          "score": 99.86
         }
       ]
     },
     {
-      "name": "Tenoretic mite, Filmtabletten | Synthetika | Antihypertensivum",
+      "name": "Aktive peptische Ulkuskrankheit",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Chlorthalidone",
-          "slug": "chlorthalidone",
-          "score": 99.0
+          "drug": "Dexlansoprazole",
+          "slug": "dexlansoprazole",
+          "score": 99.999
         }
       ]
     },
     {
-      "name": "Thrombotisch-thrombozytopenische Purpura | 99,724 % | L5 | Möglicherweise Sicherheitsrisiko (erhöhte Thromboseneigung), kein plausibler Nutzen",
+      "name": "Akute ansteckende Bindehautentzündung (acute contagious conjunctivitis)",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Efmoroctocog Alfa",
-          "slug": "efmoroctocog-alfa",
-          "score": 99.0
+          "drug": "Sulfamethoxazole",
+          "slug": "sulfamethoxazole",
+          "score": 99.6
         }
       ]
     },
     {
-      "name": "Trikafta 100 mg / 50 mg / 75 mg, 150 mg, Filmtabletten | Synthetika | Mukoviszidose",
+      "name": "Allergische Urtikaria",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Tezacaftor",
-          "slug": "tezacaftor",
-          "score": 99.0
+          "drug": "Pheniramine",
+          "slug": "pheniramine",
+          "score": 99.7
         }
       ]
     },
     {
-      "name": "Trikafta 100 mg / 50 mg / 75 mg, 75 mg, Granulat | Synthetika | Zystische Fibrose bei Kindern von 2 bis <6 Jahren",
+      "name": "Amenorrhoe",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Tezacaftor",
-          "slug": "tezacaftor",
-          "score": 99.0
+          "drug": "Norelgestromin",
+          "slug": "norelgestromin",
+          "score": 99.5
         }
       ]
     },
     {
-      "name": "True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien",
-      "drug_count": 4,
-      "drugs": [
-        {
-          "drug": "Bacitracin",
-          "slug": "bacitracin",
-          "score": 99.0
-        },
-        {
-          "drug": "Benzocaine",
-          "slug": "benzocaine",
-          "score": 99.0
-        },
-        {
-          "drug": "Clioquinol",
-          "slug": "clioquinol",
-          "score": 99.0
-        },
-        {
-          "drug": "Formaldehyde",
-          "slug": "formaldehyde",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ureter-Tuberkulose | 99,1 % | Hypothese: Avibactam hemmt in vitro die Beta-Lactamase BlaC von *M. tuberculosis*; gilt aber nicht spezifisch für den Urogenitalbereich",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avibactam",
-          "slug": "avibactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Urogenitale Schistosomiasis | 99,1 % | Keine antiparasitäre Wirkung; Standardtherapie ist Praziquantel",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avibactam",
-          "slug": "avibactam",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Urogenitale Tuberkulose | 99,50 % | Mycobacterium tuberculosis ist durch BlaC-Beta-Laktamase und seine Zellwand weitgehend resistent gegen Beta-Laktame.",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ceftolozane",
-          "slug": "ceftolozane",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "VEYVONDI 650 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Von-Willebrand-Krankheit",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Vonicog Alfa",
-          "slug": "vonicog-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "VeraSeal 2 ml, Lösung für Gewebekleber (Janssen-Cilag AG) | Blutprodukt | Verbesserung der Hämostase; Nahtunterstützung in der Gefässchirurgie",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Fibrinogen Human",
-          "slug": "fibrinogen-human",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Veractiv Tonoglutal, Filmtabletten | Synthetika | Tonikum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Glutamic Acid",
-          "slug": "glutamic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Viant, Pulver zur Herstellung einer Infusionslösung (B. Braun Medical AG) | Synthetika | Vitaminzusatz zur parenteralen Ernährung",
+      "name": "Angeborener Prothrombinmangel (congenital prothrombin deficiency)",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Pantothenic Acid",
           "slug": "pantothenic-acid",
-          "score": 99.0
+          "score": 99.96
         }
       ]
     },
     {
-      "name": "Vicks VapoRub, pommade | Synthetika | Affektionen der Atemwege",
+      "name": "Belastungsinduzierte maligne Hyperthermie",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Thymol",
-          "slug": "thymol",
-          "score": 99.0
+          "drug": "Sorbitol",
+          "slug": "sorbitol",
+          "score": 99.4
         }
       ]
     },
     {
-      "name": "Vimizim 5mg/5ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Behandlung der Mucopolysaccharidose Typ IVA",
+      "name": "Bilaterale parasagittale parieto-okzipitale Polymikrogyrie",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Elosulfase Alfa",
-          "slug": "elosulfase-alfa",
-          "score": 99.0
+          "drug": "Riluzole",
+          "slug": "riluzole",
+          "score": 99.99
         }
       ]
     },
     {
-      "name": "Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C",
-      "drug_count": 2,
-      "drugs": [
-        {
-          "drug": "Velpatasvir",
-          "slug": "velpatasvir",
-          "score": 99.0
-        },
-        {
-          "drug": "Voxilaprevir",
-          "slug": "voxilaprevir",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Vroni Gynial, überzogene Tablette | Synthetika | Androgenisierungserscheinungen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Ethinylestradiol",
-          "slug": "ethinylestradiol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Wynzora 50 μg/g + 0.5 mg/g, Crème | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Xamiol, Gel | Synthetika | Psoriasis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Calcipotriol",
-          "slug": "calcipotriol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Xanthogranulomatöse Pyelonephritis | 99,88 % | Indirekte Plausibilität durch die Zulassung bei komplizierten Harnwegsinfektionen. Die Erkrankung wird meist chirurgisch behandelt. Die einzige Publikation ist eine allgemeine Übersichtsarbeit (PMID [26658652](https://pubmed.ncbi.nlm.nih.gov/26658652/), 2016) ohne krankheits- oder wirkstoffspezifische Daten.",
+      "name": "Blutgruppeninkompatibilität",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Ceftolozane",
           "slug": "ceftolozane",
-          "score": 99.0
+          "score": 99.22
         }
       ]
     },
     {
-      "name": "Yira 20, Filmtabletten | Synthetika | Hormonales Kontrazeptivum",
+      "name": "Blutungsneigung durch Kollagenrezeptor-Defekt",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.921
+        }
+      ]
+    },
+    {
+      "name": "Blutungsstörung bei konstitutioneller Thrombozytopenie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.917
+        }
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Polymyxin B",
+          "slug": "polymyxin-b",
+          "score": 99.9
+        },
+        {
+          "drug": "Hexaminolevulinate",
+          "slug": "hexaminolevulinate",
+          "score": 99.06
+        }
+      ]
+    },
+    {
+      "name": "CMM7",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
+          "score": 99.2
+        }
+      ]
+    },
+    {
+      "name": "Cauda-equina-Syndrom",
+      "drug_count": 4,
+      "drugs": [
+        {
+          "drug": "Amylmetacresol",
+          "slug": "amylmetacresol",
+          "score": 99.99
+        },
+        {
+          "drug": "Cisatracurium",
+          "slug": "cisatracurium",
+          "score": 99.99
+        },
+        {
+          "drug": "Sulthiame",
+          "slug": "sulthiame",
+          "score": 99.97
+        },
+        {
+          "drug": "Tyrosine",
+          "slug": "tyrosine",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Dermatophytose der Kopfhaut oder des Bartes",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.02
+        }
+      ]
+    },
+    {
+      "name": "Dermatophytose der Leisten- und Perianalregion",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.94
+        }
+      ]
+    },
+    {
+      "name": "Diabetes mellitus Typ 1",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Insulin Glulisine",
+          "slug": "insulin-glulisine",
+          "score": 99.6
+        }
+      ]
+    },
+    {
+      "name": "Diabetische Nephropathie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sacubitril",
+          "slug": "sacubitril",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Diffuse kutane Leishmaniose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Formaldehyde",
+          "slug": "formaldehyde",
+          "score": 99.93
+        }
+      ]
+    },
+    {
+      "name": "Ectothrix-Infektion",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.08
+        }
+      ]
+    },
+    {
+      "name": "Endothrix-Infektion",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.03
+        }
+      ]
+    },
+    {
+      "name": "Entzündliche Erkrankung der Gebärmutter",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Pantothenic Acid",
+          "slug": "pantothenic-acid",
+          "score": 99.14
+        }
+      ]
+    },
+    {
+      "name": "Entzündliche Gebärmuttererkrankung",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.88
+        }
+      ]
+    },
+    {
+      "name": "Epitheloidzelliges Aderhautmelanom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Erhöhtes Plasma-Zink (zinc, elevated plasma)",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Ethinylestradiol",
           "slug": "ethinylestradiol",
-          "score": 99.0
+          "score": 99.6
         }
       ]
     },
     {
-      "name": "Zavicefta, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
+      "name": "Erhöhtes Plasmazink (zinc, elevated plasma)",
       "drug_count": 1,
       "drugs": [
+        {
+          "drug": "Norgestimate",
+          "slug": "norgestimate",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Erkrankung der Nasenhöhle (nasal cavity disease)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glycine",
+          "slug": "glycine",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Erworbener Gerinnungsfaktormangel",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.952
+        }
+      ]
+    },
+    {
+      "name": "Erworbenes Angioödem",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Artemether",
+          "slug": "artemether",
+          "score": 99.9
+        }
+      ]
+    },
+    {
+      "name": "Esotropie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dibotermin Alfa",
+          "slug": "dibotermin-alfa",
+          "score": 99.97
+        }
+      ]
+    },
+    {
+      "name": "Familiäre viszerale Myopathie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Serine",
+          "slug": "serine",
+          "score": 99.99
+        }
+      ]
+    },
+    {
+      "name": "Felines erworbenes Immundefizienzsyndrom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.92
+        }
+      ]
+    },
+    {
+      "name": "Fetale und neonatale alloimmune Thrombozytopenie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.845
+        }
+      ]
+    },
+    {
+      "name": "Follikuläres Lymphom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brentuximab Vedotin",
+          "slug": "brentuximab-vedotin",
+          "score": 99.9
+        }
+      ]
+    },
+    {
+      "name": "Folsäuremangelanämie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Pantothenic Acid",
+          "slug": "pantothenic-acid",
+          "score": 99.6
+        }
+      ]
+    },
+    {
+      "name": "Gastroparese",
+      "drug_count": 4,
+      "drugs": [
+        {
+          "drug": "Histidine",
+          "slug": "histidine",
+          "score": 99.6
+        },
+        {
+          "drug": "Alanine",
+          "slug": "alanine",
+          "score": 99.4
+        },
+        {
+          "drug": "Isoleucine",
+          "slug": "isoleucine",
+          "score": 99.3
+        },
+        {
+          "drug": "Threonine",
+          "slug": "threonine",
+          "score": 99.3
+        }
+      ]
+    },
+    {
+      "name": "Glanzmann-Thrombasthenie",
+      "drug_count": 3,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.995
+        },
+        {
+          "drug": "Andexanet Alfa",
+          "slug": "andexanet-alfa",
+          "score": 99.8
+        },
+        {
+          "drug": "Lonoctocog Alfa",
+          "slug": "lonoctocog-alfa",
+          "score": 99.76
+        }
+      ]
+    },
+    {
+      "name": "Glycerinstoffwechselstörung",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Pantothenic Acid",
+          "slug": "pantothenic-acid",
+          "score": 99.77
+        }
+      ]
+    },
+    {
+      "name": "Gonokokken-Urethritis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.89
+        }
+      ]
+    },
+    {
+      "name": "HER2-positives Mammakarzinom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Polatuzumab Vedotin",
+          "slug": "polatuzumab-vedotin",
+          "score": 99.3
+        }
+      ]
+    },
+    {
+      "name": "HIV-Infektion",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Glecaprevir",
+          "slug": "glecaprevir",
+          "score": 99.87
+        }
+      ]
+    },
+    {
+      "name": "HIV-Infektionskrankheit",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tezacaftor",
+          "slug": "tezacaftor",
+          "score": 99.2
+        }
+      ]
+    },
+    {
+      "name": "Hepatitis-B-Virusinfektion",
+      "drug_count": 3,
+      "drugs": [
+        {
+          "drug": "Velpatasvir",
+          "slug": "velpatasvir",
+          "score": 99.87
+        },
+        {
+          "drug": "Pibrentasvir",
+          "slug": "pibrentasvir",
+          "score": 99.8
+        },
+        {
+          "drug": "Voxilaprevir",
+          "slug": "voxilaprevir",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Hyperamylasämie",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.52
+        },
         {
           "drug": "Avibactam",
           "slug": "avibactam",
@@ -5548,40 +2199,791 @@
       ]
     },
     {
-      "name": "Zerbaxa 1.5 g, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten",
+      "name": "Hämoglobinopathie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fibrinogen Human",
+          "slug": "fibrinogen-human",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Hämophilie A mit Gefässanomalie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.779
+        }
+      ]
+    },
+    {
+      "name": "Infektion mit dem Simianen Immundefizienzvirus (SIV)",
+      "drug_count": 3,
+      "drugs": [
+        {
+          "drug": "Elvitegravir",
+          "slug": "elvitegravir",
+          "score": 99.9
+        },
+        {
+          "drug": "Tenofovir Alafenamide",
+          "slug": "tenofovir-alafenamide",
+          "score": 99.89
+        },
+        {
+          "drug": "Bictegravir",
+          "slug": "bictegravir",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Insomnie",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Chlordiazepoxide",
+          "slug": "chlordiazepoxide",
+          "score": 99.998
+        },
+        {
+          "drug": "Clothiapine",
+          "slug": "clothiapine",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Interventrikuläres Septumaneurysma",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Thymol",
+          "slug": "thymol",
+          "score": 99.2
+        }
+      ]
+    },
+    {
+      "name": "Kloakogenes Rektumkarzinom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Kongenitale Analbuminämie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.44
+        }
+      ]
+    },
+    {
+      "name": "Konjunktivitis (Bindehautentzündung)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Chloramphenicol",
+          "slug": "chloramphenicol",
+          "score": 99.7
+        }
+      ]
+    },
+    {
+      "name": "Kutane Candidiasis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Clioquinol",
+          "slug": "clioquinol",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Lepra",
+      "drug_count": 3,
+      "drugs": [
+        {
+          "drug": "Enfortumab Vedotin",
+          "slug": "enfortumab-vedotin",
+          "score": 99.5
+        },
+        {
+          "drug": "Echinacea",
+          "slug": "echinacea",
+          "score": 99.4
+        },
+        {
+          "drug": "Lumacaftor",
+          "slug": "lumacaftor",
+          "score": 99.4
+        }
+      ]
+    },
+    {
+      "name": "Majocchi-Granulom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.08
+        }
+      ]
+    },
+    {
+      "name": "Maligne hypertensive Nierenerkrankung",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trandolapril",
+          "slug": "trandolapril",
+          "score": 99.9
+        }
+      ]
+    },
+    {
+      "name": "Medikamenteninduzierte Osteoporose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sacituzumab Govitecan",
+          "slug": "sacituzumab-govitecan",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Meningokokken-Infektion",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Xylitol",
+          "slug": "xylitol",
+          "score": 99.7
+        }
+      ]
+    },
+    {
+      "name": "Migräne (migraine disorder)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Camphor",
+          "slug": "camphor",
+          "score": 99.85
+        }
+      ]
+    },
+    {
+      "name": "Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Asfotase Alfa",
+          "slug": "asfotase-alfa",
+          "score": 99.95
+        }
+      ]
+    },
+    {
+      "name": "Myeloproliferative Neoplasie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Hesperidin",
+          "slug": "hesperidin",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Oberflächliche Mykose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.01
+        }
+      ]
+    },
+    {
+      "name": "Obstruktive Lungenerkrankung",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Tiotropium",
+          "slug": "tiotropium",
+          "score": 99.99
+        },
+        {
+          "drug": "Vilanterol",
+          "slug": "vilanterol",
+          "score": 99.97
+        }
+      ]
+    },
+    {
+      "name": "Okkultes Plattenepithelkarzinom der Lunge",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Papilläre Konjunktivitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Benzocaine",
+          "slug": "benzocaine",
+          "score": 99.4
+        }
+      ]
+    },
+    {
+      "name": "Pharyngitis (Rachenentzündung)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Salicylamide",
+          "slug": "salicylamide",
+          "score": 99.98
+        }
+      ]
+    },
+    {
+      "name": "Pityriasis versicolor",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Undecylenic Acid",
+          "slug": "undecylenic-acid",
+          "score": 99.01
+        }
+      ]
+    },
+    {
+      "name": "Plattenepithelkarzinom der Glottis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Pneumocystose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isavuconazonium",
+          "slug": "isavuconazonium",
+          "score": 99.6
+        }
+      ]
+    },
+    {
+      "name": "Pneumonie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tazobactam",
+          "slug": "tazobactam",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Polyklonales Hyperviskositätssyndrom",
       "drug_count": 2,
       "drugs": [
         {
           "drug": "Ceftolozane",
           "slug": "ceftolozane",
-          "score": 99.0
+          "score": 99.52
         },
         {
-          "drug": "Tazobactam",
-          "slug": "tazobactam",
+          "drug": "Avibactam",
+          "slug": "avibactam",
           "score": 99.0
         }
       ]
     },
     {
-      "name": "neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
+      "name": "Postmenopausale Osteoporose",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Pheniramine",
-          "slug": "pheniramine",
+          "drug": "Glutamic Acid",
+          "slug": "glutamic-acid",
+          "score": 99.3
+        }
+      ]
+    },
+    {
+      "name": "Primäre Freisetzungsstörung der Blutplättchen",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vonicog Alfa",
+          "slug": "vonicog-alfa",
+          "score": 99.98
+        }
+      ]
+    },
+    {
+      "name": "Primäre Plättchen-Freisetzungsstörung",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lonoctocog Alfa",
+          "slug": "lonoctocog-alfa",
+          "score": 99.84
+        }
+      ]
+    },
+    {
+      "name": "Primäre Thrombozyten-Freisetzungsstörung",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.997
+        }
+      ]
+    },
+    {
+      "name": "Primäre Thrombozyten-Freisetzungsstörung (primary release disorder of platelets)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Turoctocog Alfa Pegol",
+          "slug": "turoctocog-alfa-pegol",
+          "score": 99.997
+        }
+      ]
+    },
+    {
+      "name": "Primäres hereditäres Glaukom",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Chlorthalidone",
+          "slug": "chlorthalidone",
+          "score": 99.92
+        },
+        {
+          "drug": "Netarsudil",
+          "slug": "netarsudil",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Prämaligne hämatologische Erkrankung",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.11
+        }
+      ]
+    },
+    {
+      "name": "Pseudo-von-Willebrand-Erkrankung",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Albutrepenonacog Alfa",
+          "slug": "albutrepenonacog-alfa",
+          "score": 99.94
+        },
+        {
+          "drug": "Eftrenonacog Alfa",
+          "slug": "eftrenonacog-alfa",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Pseudo-von-Willebrand-Krankheit",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Simoctocog Alfa",
+          "slug": "simoctocog-alfa",
+          "score": 99.997
+        },
+        {
+          "drug": "Lonoctocog Alfa",
+          "slug": "lonoctocog-alfa",
+          "score": 99.85
+        }
+      ]
+    },
+    {
+      "name": "Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.997
+        }
+      ]
+    },
+    {
+      "name": "Punctate epithelial keratoconjunctivitis (punktförmige epitheliale Keratokonjunktivitis)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Bacitracin",
+          "slug": "bacitracin",
+          "score": 99.999
+        }
+      ]
+    },
+    {
+      "name": "Punktförmige epitheliale Keratokonjunktivitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trimethoprim",
+          "slug": "trimethoprim",
+          "score": 99.6
+        }
+      ]
+    },
+    {
+      "name": "Pädiatrisches leptomeningeales Melanom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talimogene Laherparepvec",
+          "slug": "talimogene-laherparepvec",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Rasmussen-Enzephalitis (subakute Enzephalitis)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Renale tubuläre Azidose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aspartic Acid",
+          "slug": "aspartic-acid",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Restless-Legs-Syndrom",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tryptophan",
+          "slug": "tryptophan",
+          "score": 99.7
+        }
+      ]
+    },
+    {
+      "name": "Rheumatoide Arthritis",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Piperacillin",
+          "slug": "piperacillin",
+          "score": 99.94
+        },
+        {
+          "drug": "Metamizole",
+          "slug": "metamizole",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Rheumatoide Vaskulitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Certolizumab Pegol",
+          "slug": "certolizumab-pegol",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Scheie-Syndrom",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Elosulfase Alfa",
+          "slug": "elosulfase-alfa",
+          "score": 99.9
+        },
+        {
+          "drug": "Sebelipase Alfa",
+          "slug": "sebelipase-alfa",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Schlaflosigkeit (Insomnie)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Centella Asiatica",
+          "slug": "centella-asiatica",
+          "score": 99.94
+        }
+      ]
+    },
+    {
+      "name": "Schwere Influenza (genetische Anfälligkeit)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avibactam",
+          "slug": "avibactam",
+          "score": 99.3
+        }
+      ]
+    },
+    {
+      "name": "Schwere nicht-proliferative diabetische Retinopathie",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Allantoin",
+          "slug": "allantoin",
+          "score": 99.56
+        }
+      ]
+    },
+    {
+      "name": "Scott-Syndrom",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.969
+        },
+        {
+          "drug": "Lonoctocog Alfa",
+          "slug": "lonoctocog-alfa",
+          "score": 99.44
+        }
+      ]
+    },
+    {
+      "name": "Seborrhoische Keratose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Calcipotriol",
+          "slug": "calcipotriol",
+          "score": 99.96
+        }
+      ]
+    },
+    {
+      "name": "Simian-Immundefizienzvirus-Infektion (SIV)",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Tenofovir Disoproxil",
+          "slug": "tenofovir-disoproxil",
+          "score": 99.95
+        },
+        {
+          "drug": "Lopinavir",
+          "slug": "lopinavir",
+          "score": 99.9
+        }
+      ]
+    },
+    {
+      "name": "Sklerosierende Cholangitis",
+      "drug_count": 3,
+      "drugs": [
+        {
+          "drug": "Phenylalanine",
+          "slug": "phenylalanine",
+          "score": 99.4
+        },
+        {
+          "drug": "Valine",
+          "slug": "valine",
+          "score": 99.4
+        },
+        {
+          "drug": "Selenium",
+          "slug": "selenium",
           "score": 99.0
         }
       ]
     },
     {
-      "name": "neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten",
+      "name": "Streptokokken-Pneumonie (streptococcal pneumonia)",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Pheniramine",
-          "slug": "pheniramine",
-          "score": 99.0
+          "drug": "Avibactam",
+          "slug": "avibactam",
+          "score": 99.7
+        }
+      ]
+    },
+    {
+      "name": "Thrombotisch-thrombozytopenische Purpura",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Efmoroctocog Alfa",
+          "slug": "efmoroctocog-alfa",
+          "score": 99.724
+        }
+      ]
+    },
+    {
+      "name": "Trockenes Auge (Dry-Eye-Syndrom)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cysteine",
+          "slug": "cysteine",
+          "score": 99.98
+        }
+      ]
+    },
+    {
+      "name": "Typ-1-Diabetes mellitus",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Insulin Detemir",
+          "slug": "insulin-detemir",
+          "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Ureaplasma-Urethritis",
+      "drug_count": 2,
+      "drugs": [
+        {
+          "drug": "Clavulanic Acid",
+          "slug": "clavulanic-acid",
+          "score": 99.93
+        },
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.89
+        }
+      ]
+    },
+    {
+      "name": "Ureter-Tuberkulose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avibactam",
+          "slug": "avibactam",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Urogenitale Schistosomiasis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avibactam",
+          "slug": "avibactam",
+          "score": 99.1
+        }
+      ]
+    },
+    {
+      "name": "Urogenitale Tuberkulose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.5
+        }
+      ]
+    },
+    {
+      "name": "Vulväre invertierte follikuläre Keratose",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Benzoyl Peroxide",
+          "slug": "benzoyl-peroxide",
+          "score": 99.9
+        }
+      ]
+    },
+    {
+      "name": "Xanthogranulomatöse Pyelonephritis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ceftolozane",
+          "slug": "ceftolozane",
+          "score": 99.88
+        }
+      ]
+    },
+    {
+      "name": "Zäkum-Zottenadenom (cecum villous adenoma)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tipiracil",
+          "slug": "tipiracil",
+          "score": 99.99
         }
       ]
     }
