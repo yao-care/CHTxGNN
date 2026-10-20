@@ -80,7 +80,7 @@ Kliniker entworfen wurde.
 </p>
 
 <blockquote class="expert-quote">
-«TxGNN bindet einen Wissensgraphen mit 17'080 biomedizinischen Entitäten ein und nutzt Graph-Neuronale
+«TxGNN bindet einen Wissensgraphen mit 17'080 Krankheiten ein und nutzt Graph-Neuronale
 Netze, um komplexe Beziehungen zwischen Knoten zu lernen und die mögliche Wirksamkeit von
 Arzneimitteln gegen seltene Krankheiten vorherzusagen.»
 <cite>&mdash; Huang et al., Nature Medicine (2024)</cite>
@@ -95,7 +95,7 @@ Arzneimitteln gegen seltene Krankheiten vorherzusagen.»
 <tr><th>Art</th><th>Quelle</th><th>Beschreibung</th></tr>
 </thead>
 <tbody>
-<tr><td>KI-Vorhersage</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Wissensgraph-Vorhersagemodell aus Harvard</td></tr>
+<tr><td>KI-Vorhersage</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Graph-Neuronales-Netz aus Harvard, trainiert auf einem Wissensgraphen</td></tr>
 <tr><td>Klinische Studien</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Weltweites Register klinischer Studien</td></tr>
 <tr><td>Literatur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Biomedizinische Literaturdatenbank</td></tr>
 <tr><td>Arzneimittelinformationen</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Datenbank zu Arzneimitteln und Zielstrukturen</td></tr>
