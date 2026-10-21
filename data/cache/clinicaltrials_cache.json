@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-21T04:04:50.808650",
+  "last_check": "2026-10-21T16:56:19.763613",
   "seen_trials": {
     "CARBOPLATINUM": [
       "NCT07504588",
@@ -159,7 +159,8 @@
     ],
     "Brentuximab Vedotin": [
       "NCT05675410",
-      "NCT05922904"
+      "NCT05922904",
+      "NCT04404283"
     ],
     "Clavulanic Acid": [
       "NCT07857252",
@@ -301,6 +302,9 @@
     ],
     "Xylitol": [
       "NCT04096599"
+    ],
+    "Tiotropium": [
+      "NCT03842839"
     ]
   }
 }
