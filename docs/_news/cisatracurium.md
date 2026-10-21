@@ -26,7 +26,7 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für CISATRACURIUM mit 
 <ul>
 <li><strong>Evidenzniveau</strong>: L5</li>
 <li><strong>Vorhergesagte Indikationen (1)</strong>:<ul>
-<li>Nimbex 5 mg/2,5 ml, Injektionslösung (Aspen Pharma Schweiz GmbH) | Synthetika | Muskelrelaxans (99.0%)</li>
+<li>Cauda-equina-Syndrom (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cisatracurium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>

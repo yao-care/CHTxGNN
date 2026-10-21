@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu TIOTROPIUM"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu TIOTROPIUM. Ursprüngliche Indikation: . 2 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu TIOTROPIUM. Ursprüngliche Indikation: . 1 vorhergesagte Indikationen."
 permalink: /news/tiotropium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tiotropium/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu TIOTROPIUM?">
-<strong>TIOTROPIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 2 vorhergesagte Indikationen.
+<strong>TIOTROPIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 1 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für TIOTROPIUM mit den
 <strong>Arzneimittelinformationen</strong>
 <ul>
 <li><strong>Evidenzniveau</strong>: L5</li>
-<li><strong>Vorhergesagte Indikationen (2)</strong>:<ul>
-<li>Spiriva 18 mcg, Kapseln zur Inhalation | Synthetika | Dauerbehandlung COPD (99.0%)</li>
-<li>Spiriva Respimat 2.5 mcg, Lösung zur Inhalation (wiederverwendbar) | Synthetika | COPD (99.0%)</li>
+<li><strong>Vorhergesagte Indikationen (1)</strong>:<ul>
+<li>Obstruktive Lungenerkrankung (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiotropium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu ECHINACEA"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu ECHINACEA. Ursprüngliche Indikation: . 2 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu ECHINACEA. Ursprüngliche Indikation: . 1 vorhergesagte Indikationen."
 permalink: /news/echinacea/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/echinacea/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu ECHINACEA?">
-<strong>ECHINACEA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 2 vorhergesagte Indikationen.
+<strong>ECHINACEA</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 1 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für ECHINACEA mit den 
 <strong>Arzneimittelinformationen</strong>
 <ul>
 <li><strong>Evidenzniveau</strong>: L5</li>
-<li><strong>Vorhergesagte Indikationen (2)</strong>:<ul>
-<li>Similasan Echinacea, Globuli | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, Erkältungen und Entzündungen der Mundschleimhäute (99.0%)</li>
-<li>Spagymun Abwehrkräfte, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungskrankheiten, leichten Allgemeininfektionen, fiebrigen Erkältungskrankheiten; ferner unterstützend bei schleppend verlaufenden Infektionskrankheiten (99.0%)</li>
+<li><strong>Vorhergesagte Indikationen (1)</strong>:<ul>
+<li>Lepra (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/echinacea/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>

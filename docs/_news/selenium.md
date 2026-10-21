@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu SELENIUM"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu SELENIUM. Ursprüngliche Indikation: . 2 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu SELENIUM. Ursprüngliche Indikation: . 1 vorhergesagte Indikationen."
 permalink: /news/selenium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/selenium/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu SELENIUM?">
-<strong>SELENIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 2 vorhergesagte Indikationen.
+<strong>SELENIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 1 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für SELENIUM mit den n
 <strong>Arzneimittelinformationen</strong>
 <ul>
 <li><strong>Evidenzniveau</strong>: L5</li>
-<li><strong>Vorhergesagte Indikationen (2)</strong>:<ul>
-<li>Selenase peroral, Trinklösung | Synthetika | Nachgewiesener Selenmangel (99.0%)</li>
-<li>Selenase pro injectione, Injektionslösung | Synthetika | Nachgewiesener Selenmangel (99.0%)</li>
+<li><strong>Vorhergesagte Indikationen (1)</strong>:<ul>
+<li>Sklerosierende Cholangitis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selenium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>

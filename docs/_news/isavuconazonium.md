@@ -3,7 +3,7 @@ layout: default
 title: "Nachrichten zu ISAVUCONAZONIUM"
 parent: Gesundheitsnachrichten
 nav_exclude: true
-description: "Gesundheitsnachrichten zu ISAVUCONAZONIUM. Ursprüngliche Indikation: . 2 vorhergesagte Indikationen."
+description: "Gesundheitsnachrichten zu ISAVUCONAZONIUM. Ursprüngliche Indikation: . 1 vorhergesagte Indikationen."
 permalink: /news/isavuconazonium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isavuconazonium/
 ---
 
 <p class="key-answer" data-question="Welche Nachrichten gibt es zu ISAVUCONAZONIUM?">
-<strong>ISAVUCONAZONIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 2 vorhergesagte Indikationen.
+<strong>ISAVUCONAZONIUM</strong> hat derzeit <strong>0 Nachrichtenbeiträge</strong> und 1 vorhergesagte Indikationen.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ Diese Seite verbindet die KI-vorhergesagten Indikationen für ISAVUCONAZONIUM mi
 <strong>Arzneimittelinformationen</strong>
 <ul>
 <li><strong>Evidenzniveau</strong>: L5</li>
-<li><strong>Vorhergesagte Indikationen (2)</strong>:<ul>
-<li>Cresemba 100 mg, Hartkapseln | Synthetika | Antimykotikum (99.0%)</li>
-<li>Cresemba 200 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum (99.0%)</li>
+<li><strong>Vorhergesagte Indikationen (1)</strong>:<ul>
+<li>Pneumocystose (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isavuconazonium/' | relative_url }}">Vollständigen Arzneimittelbericht ansehen →</a></p>
