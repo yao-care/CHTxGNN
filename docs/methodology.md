@@ -24,7 +24,7 @@ Entscheidungsempfehlung ausgesprochen.
 </p>
 
 <ol class="actionable-steps">
-<li><strong>TxGNN-Vorhersage</strong>: Beziehungen zwischen Arzneimitteln und Krankheiten werden mit einem Wissensgraphen in Kombination mit Graph-Neuronalen Netzen vorhergesagt.</li>
+<li><strong>TxGNN-Vorhersage</strong>: Beziehungen zwischen Arzneimitteln und Krankheiten sagt das TxGNN-Modell vorher (Deep Learning: ein graphbasiertes neuronales Netz, trainiert auf einem biomedizinischen Wissensgraphen).</li>
 <li><strong>Evidenzsammlung</strong>: Für jedes vorhergesagte Paar wird Evidenz aus ClinicalTrials.gov, PubMed, DrugBank und Swissmedic zusammengetragen.</li>
 <li><strong>Evidenzeinstufung</strong>: Einstufung von L1 bis L5, wobei L1 die stärkste Stufe ist (mehrere Phase-3-RCTs) und L5 nur eine Modellvorhersage bedeutet.</li>
 <li><strong>Entscheidungsempfehlung</strong>: Go, Proceed, Consider, Explore oder Hold, je nach Evidenzstufe.</li>
