@@ -3,7 +3,7 @@ layout: default
 title: Methodik
 nav_order: 91
 permalink: /methodology/
-description: "Wie CHTxGNN Vorhersagen erzeugt und validiert: Wissensgraph-Vorhersage mit TxGNN, Evidenzsammlung, Einstufung L1-L5 und Entscheidungsempfehlungen."
+description: "Wie CHTxGNN Vorhersagen erzeugt und validiert: Vorhersage mit dem TxGNN-Modell (Deep Learning), Evidenzsammlung, Einstufung L1-L5 und Entscheidungsempfehlungen."
 ---
 
 # Methodik
@@ -17,7 +17,7 @@ Von der KI-Vorhersage bis zur Evidenzeinstufung — für jeden Kandidaten ist di
 ## Gesamter Ablauf
 
 <p class="key-answer" data-question="Wie erzeugt CHTxGNN seine Vorhersagen?">
-Die Plattform arbeitet mit einem vierstufigen Ablauf: Das Wissensgraph-Modell TxGNN sagt mögliche
+Die Plattform arbeitet mit einem vierstufigen Ablauf: Das TxGNN-Modell (Deep Learning) sagt mögliche
 Zusammenhänge zwischen Arzneimitteln und Krankheiten voraus, anschliessend wird für jedes vorhergesagte
 Paar automatisch Evidenz gesammelt, die Evidenz wird von L1 bis L5 eingestuft und schliesslich wird eine
 Entscheidungsempfehlung ausgesprochen.

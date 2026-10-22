@@ -17,7 +17,7 @@ Die Evidenzstufen reichen von L1 (stärkere klinische Evidenz) bis L5 (nur Model
 - `/evidence-high/` Hohe Evidenz (L1-L2) — Kandidaten der Arzneimittel-Umwidmung mit L1-L2 in CHTxGNN, gestützt auf klinische Studien oder systematische Übersichtsarbeiten.
 - `/evidence-medium/` Mittlere Evidenz (L3-L4) — Kandidaten der Arzneimittel-Umwidmung mit L3-L4 in CHTxGNN, gestützt auf beobachtende oder präklinische Evidenz.
 - `/evidence-low/` Nur Modellvorhersage (L5) — L5-Kandidaten in CHTxGNN: nur Modellvorhersage, bislang ohne klinische Evidenz oder Literaturbelege.
-- `/methodology/` Methodik — Wie CHTxGNN Vorhersagen erzeugt und validiert: Wissensgraph-Vorhersage mit TxGNN, Evidenzsammlung, Einstufung L1-L5 und Entscheidungsempfehlungen.
+- `/methodology/` Methodik — Wie CHTxGNN Vorhersagen erzeugt und validiert: Vorhersage mit dem TxGNN-Modell (Deep Learning), Evidenzsammlung, Einstufung L1-L5 und Entscheidungsempfehlungen.
 - `/guide/` Benutzerhandbuch — Benutzerhandbuch zu CHTxGNN: wie man Arzneimittel nachschlägt, Evidenzstufen liest und Empfehlungen einordnet.
 - `/sources/` Datenquellen — Die Datenquellen hinter CHTxGNN: Zulassungsdaten von Swissmedic, TxGNN, ClinicalTrials.gov, PubMed und DrugBank.
 - `/downloads/` Downloads — Offene Daten von CHTxGNN zum Herunterladen: FHIR-Ressourcen, Vorhersageergebnisse und Suchindex.
