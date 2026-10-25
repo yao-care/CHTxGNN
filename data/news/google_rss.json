@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T00:45:40.366563+00:00",
+  "fetched_at": "2026-10-25T05:36:35.473288+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -31,16 +31,6 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
-      }
-    },
-    {
-      "id": "8d1fc40266cd",
-      "title": "2025: Höchster Stand von Aufnahmen neuer Medikamente in die Spezialitätenliste - Bundesamt für Gesundheit BAG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMEFNZWpPYzRReWJNTkhGRk11RnNpblJQVjNEdE1ISllXWlNUWk4yZFpWclRTOUl0M3ZJTXhSNmpMdEtuVkVWVnV3aEJXdWxld0l3dUVkdGszYnVuNEFxbldsSXNJamc?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "Bundesamt für Gesundheit BAG",
-        "url": "https://www.bag.admin.ch"
       }
     },
     {
@@ -124,26 +114,6 @@
       }
     },
     {
-      "id": "9aa62687f528",
-      "title": "Antibiotikaresistenzen sind gefährlich: In diesen Fällen machen Antibiotika trotzdem Sinn – in anderen nicht - St. Galler Tagblatt",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemFtQjFrQVdtbVAzbEE2Z09lNndobFYwNjctdHJscGlvN2FObUFLRlZxaXRPdHBYTDBnam5IcmlTejY3MXlSZ05vTEhUYU5XekU3c2JMY3RfRGl5b3NfdWt0QzRBZkpnRkk4TzF4VDRYOHZqcUwzeVJUQ1V1bzR1TDlGV1NWdy03ZWFhTE0tXzhtck0xdDdIQ2xpYnU5UkZodzMwNFdmVFVRWDluTHU4c09IYmJ5VG1Cblo1SA?oc=5",
-      "published": "2026-10-20T09:30:00+00:00",
-      "source": {
-        "name": "St. Galler Tagblatt",
-        "url": "https://www.tagblatt.ch"
-      }
-    },
-    {
-      "id": "67426aae16d3",
-      "title": "Extrastunde durch Zeitumstellung: Wann Sie dann Ihre Tabletten einnehmen sollten - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWxCaVEtUXlLQzFXa1VNbVZuQzJwU3FRTGpoT3ZpcV8xR0hKMWdyd2Fnai1wV1FkbTh1YmY2STI1NF91M0hERTRiSnF1T1JFamc0c0FFVWVtYjd4UVdoUXFjSGtzWWd4ZVhJbW5lMVBOSkZ4aUl0dmJNVmpuQnJOODF2VGxrb3lpMjB6ZWhELTR6b2tjNHRYWmoyNUwxSi1PWmtpRFMwLVZwcFEtTmNLbG1lWU5hRnpReW91OTl2cF9BeEV2YjJ6WE12X2djVDViNGN2TA?oc=5",
-      "published": "2026-10-20T12:05:49+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
-      }
-    },
-    {
       "id": "e772cfd4ceb5",
       "title": "US-Preispolitik bremst Zugang zu neuen Medikamenten in der Schweiz - Aargauer Zeitung",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclB1dGxiQU9lOEFwREp5aWZYcmlYX3JuS193Yi1GNWFJZjZPLWhxd25qdHFFTjdzN2QzTFZaSzdWV19XLU9xYTJJbFljaUNBb2h1RzYzcTVJTWNKNUlOWnhwek1LYi15OFdYTnVFZTd4WjNtN1RDdWhZMVZ5OENFcFFhYWJLMzRDdnh6SERfcEp1Z1RqTkZxWVNlaDdDenVSN0xhOVhSZkJuQkIy?oc=5",
@@ -161,6 +131,26 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "38b8b0aa9188",
+      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "491353a8a494",
+      "title": "Künstliche Plazenta hilft, Risiken von Medikamenten zu verstehen - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORENTMTRnWUd3bk1FdGtsdnpuWW1LWnQ0LVJXUmI2R2RMLTdCQUdFaGNVRFloTVR6aHl1TExaZHVhcnZzbGJ6aG9jWlpuSXpQdmgzNnhHeEtPUTRuQzdhRlR1dlJUYjBSXzdOSS03NXA0MUtGS3dNcHNiQ3pVckNaWHJQZ0I1YjdpbC1aTy1HdWV5Y0dJdG1ONl95RllIaUM3NWZBejRMc000SnczM0wwS3ZBaUNVOU5HRVhZTHlGajFjRmNRRjJFcw?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -214,16 +204,6 @@
       }
     },
     {
-      "id": "38b8b0aa9188",
-      "title": "Vom Wissen zum Handeln: Verbesserung der Bezahlbarkeit von Arzneimitteln in den Ländern des Westbalkans - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNmcEdYcXZxdDBYazhiVjRCWHVtbms0ZG5JUWlXb0lJWXVFYjV1ak1MR05oZW5FbHFMTGpyNjJxS1ZuQWk4Nl9Wc2NHdHE3YnhrQzc1VHJNbm1QRFdMVF9WVGw2NHdVeDBHajRYX1hfZkFEMTU2Z09kcU04T1c1V3dKZ09nUUlMc3dnLVdvQ3RTYUZqSDA3d1djVXpxbU9fSFUtSGlHbHNOdFJRb29RQlpTRHEzd2pCQzd5Y3VRNmcza2dzTVVlYUp5Y1U5b01kMGpQUzZvNGctWE0tSmJRSEk5TQ?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "2ff5f626fb95",
       "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
@@ -234,16 +214,6 @@
       }
     },
     {
-      "id": "da9244502f14",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
       "id": "a620e539ca0e",
       "title": "Singen und neue Medikamente gegen Alzheimer - GESUNDHEITHEUTE - SRF",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajVWOUJaNk94VXAtdHZQdnhVTHNIdnQ1VWd3NEo5RU4tNjRMbHFrQWo2d0pDU3hQaTRVWjlXeWwydUUxQ21SMWVoVXJCRWs5by03QTRMbjI1cDFnRWRPdUpLcloxV1dxN09WRnpBOUlCQV8tSGZadF95bDdkYkRodXYxaWJtdmFMdHhWeHFZMXlsMGc0VXUwRHhuanBwV3JCMjNGYUo3WlFoaVJmeHQ0MDVLbjh4ZDhCT0RxNnN2aUd0cFhzSll0ejJ1RnVSQmNPUG9IRW1xNThLdElXcjM3Zg?oc=5",
@@ -251,6 +221,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "16eb0b8061d9",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter.ch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter.ch",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -304,16 +284,6 @@
       }
     },
     {
-      "id": "7556a34adb3d",
-      "title": "Zeitumstellung: Muss ich meine Medikamente dann wann anders nehmen? - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTko3bnVDNkNKQ1pHeDNyWTh0X3JBU1NIem9OZ1NNbmpQSWlYNlpZUThGUGhFZXhsLWZGZlRlQnRBQUZDS01ITGd4bVRLSmRLRU9QRTlZLWRCLXB2MTh2NXp5U185OFNtQ1hqYVhoZUl2ejdCSWtSTm1qZ01BS3BTWjNNQQ?oc=5",
-      "published": "2026-10-20T13:27:03+00:00",
-      "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
-      }
-    },
-    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -321,6 +291,16 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
+      "id": "7556a34adb3d",
+      "title": "Zeitumstellung: Muss ich meine Medikamente dann wann anders nehmen? - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTko3bnVDNkNKQ1pHeDNyWTh0X3JBU1NIem9OZ1NNbmpQSWlYNlpZUThGUGhFZXhsLWZGZlRlQnRBQUZDS01ITGd4bVRLSmRLRU9QRTlZLWRCLXB2MTh2NXp5U185OFNtQ1hqYVhoZUl2ejdCSWtSTm1qZ01BS3BTWjNNQQ?oc=5",
+      "published": "2026-10-20T13:27:03+00:00",
+      "source": {
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
@@ -341,16 +321,6 @@
       "source": {
         "name": "Infosperber",
         "url": "https://www.infosperber.ch"
-      }
-    },
-    {
-      "id": "54a5157cf978",
-      "title": "Fast 400 neue Fälle pro Woche in Großbritannien: Warum Antibiotikaresistenzen Ärzte alarmieren - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFlhcmwydThNa0gwd1RvS2FxbWI2VEFJWHJ4S3htbGN4MGlqODZOOENjb25aVkN3cmNhd0hmY1FER0lnenU2emVqbmYtUG84S1JiUFg3d2l1dWpVZVNXVDF0ME5FUklKamVHOXhpR0xGXy1OMnctcFdtc2k5UmI3RWE5bkZkRE4waEx4emx3NUFFaDV4NThUR0RjbkRieFp1QzllUnkwTUo3T3FkMHZkeEpmRXRqeHM4R2tHT01yemFXdWpKVTdXWEJ0Zm80N0d2a3ROczR3?oc=5",
-      "published": "2026-10-21T11:43:38+00:00",
-      "source": {
-        "name": "Frankfurter Rundschau",
-        "url": "https://www.fr.de"
       }
     },
     {
@@ -454,16 +424,6 @@
       }
     },
     {
-      "id": "beee2c80d803",
-      "title": "Drogerien: Rossmann mit Versandapotheke im Zeitplan - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUVRSzBENXdHd0I1RkFoMGVvTWRLSHJ2eDAzUnhrbWpvTm50Zk8tbXl3TW9QbFkxRTVNUEtvRTlNNGFIaVRLb1V4alBoS3ltNjBMRUhkZmlFSkEwd1RWOWd5ZnVZc3JGNzBod25jNndWeUNpZ3FWYkM5OTRSTmMwWm5RckpRci1Rc3lOdEZ5NHg?oc=5",
-      "published": "2026-10-21T07:30:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "e37c6e8e01d3",
       "title": "So leicht können Pharmafirmen Arzneimittelbehörden täuschen - Infosperber",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJtZ0txb21NT2VxMTdlOFF3eWJhQmpCX0VsRmQyZTh4SGp2STVscVZoRWNEWEs1Q1l5MnFvM0wzSUpsLUJYZjlBQThTbWxGQjNXUHBIM1UySy1UT21NMFVSYTE5RDA1aFBiOE10Y1R4elpoa3pRV2t2Q1o2QWFWWlRPQjFnVkVBS29GWjh3bkRJY1lTS0hHS2stak0zQVFpTGtn?oc=5",
@@ -474,13 +434,23 @@
       }
     },
     {
-      "id": "b6f8a06fd285",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - GEO.de",
+      "id": "7a99adaec5c0",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "GEO.de",
+        "name": "Geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "beee2c80d803",
+      "title": "Drogerien: Rossmann mit Versandapotheke im Zeitplan - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUVRSzBENXdHd0I1RkFoMGVvTWRLSHJ2eDAzUnhrbWpvTm50Zk8tbXl3TW9QbFkxRTVNUEtvRTlNNGFIaVRLb1V4alBoS3ltNjBMRUhkZmlFSkEwd1RWOWd5ZnVZc3JGNzBod25jNndWeUNpZ3FWYkM5OTRSTmMwWm5RckpRci1Rc3lOdEZ5NHg?oc=5",
+      "published": "2026-10-21T07:30:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -524,16 +494,6 @@
       }
     },
     {
-      "id": "e0f4f4bd7a05",
-      "title": "Standortklausel jetzt umsetzen: BPI fordert konkrete Schritte für die Pharmastrategie - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtRHFPUGUxei1LTEVJaXB0djdnY1lzVVh4ekx4aDk3T3ZQd3ZOZGVuZlN6VFdjb2cyUWljeFM1aUs5RjdVTk0yX2l0dFhjVkJGRkdFTkpBSQ?oc=5",
-      "published": "2026-10-23T07:57:49+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
       "id": "c1f5975f61ef",
       "title": "Medikamente am Steuer: Diese Risiken sollten Sie kennen - ADAC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmpja0wzXzlUT1pGUElueXYxaHZfZ0RPOGpYTmFRN003aUVadXJFaEVxNGcyQXBVMFl5V0QxeDBPLTlvNXF6WHVBdmZxWU5qaWU5c1FlMVdKcnJ3eGFXWHdET3VzV0FVXzBUeV83dG9TTnIyVldUN2FfMExpMWdqek5jSG5VUTl0QmdTaw?oc=5",
@@ -541,6 +501,16 @@
       "source": {
         "name": "ADAC",
         "url": "https://www.adac.de"
+      }
+    },
+    {
+      "id": "e0f4f4bd7a05",
+      "title": "Standortklausel jetzt umsetzen: BPI fordert konkrete Schritte für die Pharmastrategie - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtRHFPUGUxei1LTEVJaXB0djdnY1lzVVh4ekx4aDk3T3ZQd3ZOZGVuZlN6VFdjb2cyUWljeFM1aUs5RjdVTk0yX2l0dFhjVkJGRkdFTkpBSQ?oc=5",
+      "published": "2026-10-23T07:57:49+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -614,16 +584,6 @@
       }
     },
     {
-      "id": "c3d34c8a7ce2",
-      "title": "Krebs im Endstadium - Patrice Aminati zeigt, wie viele Medikamente sie nimmt - Yahoo Nachrichten",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjJ1X3lQZEc3LVhrSVB5NldMX1c3ZFpyc0E5M3U2d09OZEIyVzdrSmdURmV3N0ZJMmdMaV9qWG90R3F2Wk1FVllTckNRLVNEaWxvNmc5enUzMUp5WlFhVFl1ODJyT3VrVzFvbVNGYmlpX3A5SnpFSThsdWs0akdhTVpkYjZUNTRsdVlBWXNIVQ?oc=5",
-      "published": "2026-10-22T12:38:56+00:00",
-      "source": {
-        "name": "Yahoo Nachrichten",
-        "url": "https://de.nachrichten.yahoo.com"
-      }
-    },
-    {
       "id": "09e9d0a2ff53",
       "title": "Krebsmedikament: Meistverkauftes Krebsmittel wird offenbar viel zu teuer verkauft - DIE ZEIT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUdKR1hQcHVBS3JEX3dma19JcW5GTmlCcmxGRmpKbHFwZzduVkpReEh1RnFiOUM2amRvRGl4Z0tDellhTUc1bzU1cl82T3J0N1hnYnVDZF9ERlpxU3JobkphRmRjVk55cjRUZ0tkTlFTZmRSYm0tQVpYSzBtb2xNclVkelpWaTJ5UXQ4TVNoUVFoeVd5RkpqanJqMWpmdw?oc=5",
@@ -631,6 +591,16 @@
       "source": {
         "name": "DIE ZEIT",
         "url": "https://www.zeit.de"
+      }
+    },
+    {
+      "id": "c3d34c8a7ce2",
+      "title": "Krebs im Endstadium - Patrice Aminati zeigt, wie viele Medikamente sie nimmt - Yahoo Nachrichten",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjJ1X3lQZEc3LVhrSVB5NldMX1c3ZFpyc0E5M3U2d09OZEIyVzdrSmdURmV3N0ZJMmdMaV9qWG90R3F2Wk1FVllTckNRLVNEaWxvNmc5enUzMUp5WlFhVFl1ODJyT3VrVzFvbVNGYmlpX3A5SnpFSThsdWs0akdhTVpkYjZUNTRsdVlBWXNIVQ?oc=5",
+      "published": "2026-10-22T12:38:56+00:00",
+      "source": {
+        "name": "Yahoo Nachrichten",
+        "url": "https://de.nachrichten.yahoo.com"
       }
     },
     {
@@ -704,16 +674,6 @@
       }
     },
     {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -724,13 +684,13 @@
       }
     },
     {
-      "id": "5041122093e4",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
       "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
       }
     },
     {
@@ -741,6 +701,16 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -1001,6 +971,36 @@
       "source": {
         "name": "apotheke adhoc",
         "url": "https://www.apotheke-adhoc.de"
+      }
+    },
+    {
+      "id": "a43852bf5366",
+      "title": "vfa zum Kommissionsbericht: Sparmaßnahmen für Pharmaindustrie im Faktencheck - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGl6UGU2SlFIcnhfcTBza2E0aTZxOEEwd2xOWmxUT3hwYzYzSDRsSGJZa3g0U3BwTWpQdm01enFWcUVYeFhtR0d2SkJDQmVURmpFa0x0LXpYRTEzd1dtbmxyVWE2NVpZcE1DamxIT2kybUxscTV0QnZtTmVNRW1uLUxOeUw2cUlUZFRQUmdCYXZ4UEF4TFJuY092eU4tZw?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "553edb8a6037",
+      "title": "Herzschwäche: Comeback für ein uraltes Medikament aus der Natur - tagesschau.de",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU04wMmZyUWVReTBxZ3plZWs1Q3NXVXNNSG1BemdiRy16NERXZTlBYldveFk4UDNEcGE5aE1QU1d4bjhlclVNdDM0dWdfNzdUXzk4TUFZdmZraklHUW5BcmMwTDdBRk9QTU1iajhxNVQ2RzRNWGN1UDR3N3hlV2hWNWZn?oc=5",
+      "published": "2025-11-29T08:00:00+00:00",
+      "source": {
+        "name": "tagesschau.de",
+        "url": "https://www.tagesschau.de"
+      }
+    },
+    {
+      "id": "6b52f6eb74fd",
+      "title": "GKV-Arzneimittelkosten: Umsatzabhängiger Herstellerabschlag könnte Milliardensumme einsparen - Deutsches Ärzteblatt",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQajdSUmJ1c3JnaFdoMk9yQVJBcFFVaWdOZGwySHZ1MThHaWs3X0xuUGdvWDRnZW81UGFUQUJ5XzZzaENKVXhfSDh0MUNmdW5SX3VrazJNbi05MGs4M2syWE8zMnc2YzFsTndQMjNwam5Xc3V4ajhFYndoRjEyMVRJYldrZWU0cC0zd2hPS04wek4yX1Y2TEw0Rm96UFpOSTRHSnpOcXNiVWx1Z1VTLUx5Wk1XZnkyRGJQRlJjV05lTVJtUEJMZ0o1MlZFTFNDdzhTS2E4UTJ6bG5jNE1Fd1hmQlViZ2dodUxQX2NFSVVpMzBXdw?oc=5",
+      "published": "2026-02-18T08:00:00+00:00",
+      "source": {
+        "name": "Deutsches Ärzteblatt",
+        "url": "https://www.aerzteblatt.de"
       }
     }
   ]
