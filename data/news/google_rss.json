@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-26T02:56:38.357404+00:00",
+  "fetched_at": "2026-10-26T08:33:42.852111+00:00",
   "source": "Google News Health RSS",
-  "count": 33,
+  "count": 32,
   "articles": [
     {
       "id": "f1e04185f661",
@@ -11,16 +11,6 @@
       "source": {
         "name": "MDR.de",
         "url": "https://www.mdr.de"
-      }
-    },
-    {
-      "id": "3e6fe287666c",
-      "title": "Zeitumstellung 2026: Wie muss ich meine Medikamente jetzt einnehmen? - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVZaRGdaZkZReDFkZ3o3QThScTBvel9JRk5Ca1lkNnNsa2hpclJBM2h6VTJBNG1rTkE2X3RaVkxkdTlvbHRvYVRidjFBd0VFMEV6c25lN0txX3hEU0lNMGVBVlVKTldKQlppSUlvWDBPSWRzcDNuMVZfM1BEaXBydE54NXBhVlUtMzFmV1hKb21SUWQyWnJ4bm1ucElKRVFTTzE1ZlpDRnhHQmZwWlVqRmtablhlM0RlWnhDTENWazJkMzc1T2FIbl9DRUxRTVJtYXU2RFo3M2t3NGlta1hvZE8wUzRkUnM?oc=5",
-      "published": "2026-10-25T05:00:00+00:00",
-      "source": {
-        "name": "CHIP",
-        "url": "https://www.chip.de"
       }
     },
     {
@@ -34,23 +24,33 @@
       }
     },
     {
-      "id": "00b128a4f365",
-      "title": "Revolutionäres Krebsmedikament bald in Europa verfügbar - Gesundheit - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFNSU1BNSU55UFpTMy12ZmhUVFo4S3JoZTA1WmNrRXJMdlFhMzFrZ0dkMDZBS3pib05aOEpIamxlSUZvMlhDdVphNGdGRGk4dUU5SnlZV3hjQVZfOUotSV9YN1g1OFJOQjE4WjBKTFRqVVUtalJDbmhFamlWVXRLdGhURHg3ZnRlbmpqMmtMcXp0VDZ5UXU4aUZrN0U3SVJGQk1TY3FBV3JxNzhXSWJLdjBxUWdLdw?oc=5",
-      "published": "2026-10-15T07:00:00+00:00",
+      "id": "3e6fe287666c",
+      "title": "Zeitumstellung 2026: Wie muss ich meine Medikamente jetzt einnehmen? - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVZaRGdaZkZReDFkZ3o3QThScTBvel9JRk5Ca1lkNnNsa2hpclJBM2h6VTJBNG1rTkE2X3RaVkxkdTlvbHRvYVRidjFBd0VFMEV6c25lN0txX3hEU0lNMGVBVlVKTldKQlppSUlvWDBPSWRzcDNuMVZfM1BEaXBydE54NXBhVlUtMzFmV1hKb21SUWQyWnJ4bm1ucElKRVFTTzE1ZlpDRnhHQmZwWlVqRmtablhlM0RlWnhDTENWazJkMzc1T2FIbl9DRUxRTVJtYXU2RFo3M2t3NGlta1hvZE8wUzRkUnM?oc=5",
+      "published": "2026-10-25T05:00:00+00:00",
       "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
+        "name": "CHIP",
+        "url": "https://www.chip.de"
       }
     },
     {
-      "id": "67426aae16d3",
-      "title": "Extrastunde durch Zeitumstellung: Wann Sie dann Ihre Tabletten einnehmen sollten - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWxCaVEtUXlLQzFXa1VNbVZuQzJwU3FRTGpoT3ZpcV8xR0hKMWdyd2Fnai1wV1FkbTh1YmY2STI1NF91M0hERTRiSnF1T1JFamc0c0FFVWVtYjd4UVdoUXFjSGtzWWd4ZVhJbW5lMVBOSkZ4aUl0dmJNVmpuQnJOODF2VGxrb3lpMjB6ZWhELTR6b2tjNHRYWmoyNUwxSi1PWmtpRFMwLVZwcFEtTmNLbG1lWU5hRnpReW91OTl2cF9BeEV2YjJ6WE12X2djVDViNGN2TA?oc=5",
-      "published": "2026-10-20T12:05:49+00:00",
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
       "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "2ff5f626fb95",
+      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -71,6 +71,16 @@
       "source": {
         "name": "Mindener Tageblatt",
         "url": "https://www.mt.de"
+      }
+    },
+    {
+      "id": "66789a4b70b0",
+      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -124,56 +134,6 @@
       }
     },
     {
-      "id": "2ff5f626fb95",
-      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "c3d34c8a7ce2",
-      "title": "Krebs im Endstadium - Patrice Aminati zeigt, wie viele Medikamente sie nimmt - Yahoo Nachrichten",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjJ1X3lQZEc3LVhrSVB5NldMX1c3ZFpyc0E5M3U2d09OZEIyVzdrSmdURmV3N0ZJMmdMaV9qWG90R3F2Wk1FVllTckNRLVNEaWxvNmc5enUzMUp5WlFhVFl1ODJyT3VrVzFvbVNGYmlpX3A5SnpFSThsdWs0akdhTVpkYjZUNTRsdVlBWXNIVQ?oc=5",
-      "published": "2026-10-22T12:38:56+00:00",
-      "source": {
-        "name": "Yahoo Nachrichten",
-        "url": "https://de.nachrichten.yahoo.com"
-      }
-    },
-    {
-      "id": "4e6d48112005",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": {
-        "name": "Bundesministerium für Gesundheit (BMG)",
-        "url": "https://www.bundesgesundheitsministerium.de"
-      }
-    },
-    {
-      "id": "b3ee44385946",
-      "title": "Diabetes-Heilversprechen: Fünf Warnsignale unseriöser Online-Therapien - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPektGV2ZfekZDNlpKeVBJRldTaXRJM3dLdTljVnVuUUxaQ3FnTFdITEVpQWs0RVM2ODFpVGRZUktyZ1BUQW1Pdk9TU0NHaXU1OWVtUURNNWliRHlidkpsblNoWjhJWWljcGNvRnpOOEFIb3hSNk9xQ3JMWUpEcFk2ajQxWmNfaF9RYVFia21TUTM1VVByOWF0V3kwdHNBOHVPQmNvQU5GNE5rd2NDemROaUxmYk1vU0NpS0pVOA?oc=5",
-      "published": "2026-10-25T13:30:26+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "ef93e82f3f49",
       "title": "Medikamentenpreise in der Schweiz – häufige Fragen - Bundesamt für Gesundheit BAG",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xsQUM1X3BSSDR3SG1LRG1PUnVQdHhSTTVLU2ktV2p2VFdqbmpOWUFuSGZtRnY2OFZ3TmhHTFMzYzlNbF9QZ0h4WUp6ekxiWjdpT1ZQN3A4YUFxUFRnc09kYTBJUFhOZ1NqTmZXei0ybDY5bGF0ZDl3WHpUQnFoRFhXOA?oc=5",
@@ -181,36 +141,6 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
-      }
-    },
-    {
-      "id": "6f4845871729",
-      "title": "Alzheimer-Prävention: FDA startet Programm für Medikamente vor Symptombeginn - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVU4T1A1OTVYcF9tSnZDMVVUUVFFYlNNa2RKQmpBZWlSb21RUl8xTVVfQklaZXAwdzMxY0FsNVhfRXgwN3NRVnN1b085eXdTcG8zRE54ZFZyV1lsa2xFRlVfXzNPZXFVeEdYRnFpcHh4Y0RkMUVQYnRaaGczWUFNai1nc2pFbHRkZHhuWHpTTmliV1JlZUI0N3YzVW9aYXNrbWFxVWJ0YVZUVkVqTlBObW1hczFhcWotMFo3SDBzYTVGWkNP?oc=5",
-      "published": "2026-10-23T05:43:24+00:00",
-      "source": {
-        "name": "AD HOC NEWS",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "a4ec0af5684a",
-      "title": "Medienmitteilung: Die Bevölkerung erwartet einen besseren Zugang zu innovativen Medikamenten - https://www.interpharma.ch/",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2tRMFJ5N2NvOFpVUkJxUXZfTXRGN2pJeVpYQVpmdHk0aFNNYTdoR3ZLY0tERmVNZ1JTaTdvQk8wV3F2S29Md1F3YUhtbkxLek5MNnVYcGRmQjdaVUc2UFpMSDlxaTRIb0tUTHJTUVhtVVVrN0gwUUZwLWwxR0Fya2tNUkFTUVJxbi1OY0NQZkxrMDBTYWcwQktJUktIeklTbC1QTVF1NmNQb1VaajVYc0RxU1NpSGVaNV83SmpEa3pPVlk?oc=5",
-      "published": "2026-09-23T07:00:00+00:00",
-      "source": {
-        "name": "https://www.interpharma.ch/",
-        "url": "https://www.interpharma.ch"
-      }
-    },
-    {
-      "id": "66789a4b70b0",
-      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
       }
     },
     {
@@ -224,6 +154,16 @@
       }
     },
     {
+      "id": "4e6d48112005",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": {
+        "name": "Bundesministerium für Gesundheit (BMG)",
+        "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
       "id": "5041122093e4",
       "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
@@ -231,6 +171,26 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "c3d34c8a7ce2",
+      "title": "Krebs im Endstadium - Patrice Aminati zeigt, wie viele Medikamente sie nimmt - Yahoo Nachrichten",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjJ1X3lQZEc3LVhrSVB5NldMX1c3ZFpyc0E5M3U2d09OZEIyVzdrSmdURmV3N0ZJMmdMaV9qWG90R3F2Wk1FVllTckNRLVNEaWxvNmc5enUzMUp5WlFhVFl1ODJyT3VrVzFvbVNGYmlpX3A5SnpFSThsdWs0akdhTVpkYjZUNTRsdVlBWXNIVQ?oc=5",
+      "published": "2026-10-22T12:38:56+00:00",
+      "source": {
+        "name": "Yahoo Nachrichten",
+        "url": "https://de.nachrichten.yahoo.com"
+      }
+    },
+    {
+      "id": "a4ec0af5684a",
+      "title": "Medienmitteilung: Die Bevölkerung erwartet einen besseren Zugang zu innovativen Medikamenten - https://www.interpharma.ch/",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2tRMFJ5N2NvOFpVUkJxUXZfTXRGN2pJeVpYQVpmdHk0aFNNYTdoR3ZLY0tERmVNZ1JTaTdvQk8wV3F2S29Md1F3YUhtbkxLek5MNnVYcGRmQjdaVUc2UFpMSDlxaTRIb0tUTHJTUVhtVVVrN0gwUUZwLWwxR0Fya2tNUkFTUVJxbi1OY0NQZkxrMDBTYWcwQktJUktIeklTbC1QTVF1NmNQb1VaajVYc0RxU1NpSGVaNV83SmpEa3pPVlk?oc=5",
+      "published": "2026-09-23T07:00:00+00:00",
+      "source": {
+        "name": "https://www.interpharma.ch/",
+        "url": "https://www.interpharma.ch"
       }
     },
     {
@@ -244,6 +204,16 @@
       }
     },
     {
+      "id": "5a64d26d1cc2",
+      "title": "Gesundheitskosten und Medikamentenpreise – eine Auslegeordnung - www.interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1hQRUV2a3EwLXhWVXNaQXlQa1JsRVVnS0Q0QXZTand1VHFOdENubE9oZllCNDBQZklaV1I2ejd4SS1ZVkhvbkVRYW5FbzVNYlB1Snk3X05kc3d6SU84b1duSV9CSi1hYjExcWpiczZqTDljZzl6dWpyczhHODM5VnhOWDg4V3pBYzhlUUFiTTFXbHBSSGlhXw?oc=5",
+      "published": "2022-10-21T07:00:00+00:00",
+      "source": {
+        "name": "www.interpharma.ch",
+        "url": "https://www.interpharma.ch"
+      }
+    },
+    {
       "id": "ac54ff2c34b7",
       "title": "Zeitumstellung: Was gilt bei Tabletten mit fester Uhrzeit? - geo.de",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVUhFc2NTVVp1RFI1Zk84YlgwSUxVVU1VY0dQckFCSFpYTjdScjVMQ1ZwNGZ2NjZ5b1BHLVQ0b25CVWg5U2VaOGQtdmhMWDV2Z3VENlZZNXJFZ0FLWnkzbEFaSlFqZ2UzQ3pRVnMwSlQ2SlpNb2xWTkNtWGdLckFPTjcwV1FxR2k5VkxZVWkwbG53ancxdVZYLVBVLTA4U0hNWmhNOHBEMkprdm9RTU42TndDcnB2OW5sNHpFVEFYQmN5UG10SWRBZExfenc4dndSbXQxZWlvcw?oc=5",
@@ -251,6 +221,16 @@
       "source": {
         "name": "geo.de",
         "url": "https://www.geo.de"
+      }
+    },
+    {
+      "id": "b3ee44385946",
+      "title": "Diabetes-Heilversprechen: Fünf Warnsignale unseriöser Online-Therapien - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPektGV2ZfekZDNlpKeVBJRldTaXRJM3dLdTljVnVuUUxaQ3FnTFdITEVpQWs0RVM2ODFpVGRZUktyZ1BUQW1Pdk9TU0NHaXU1OWVtUURNNWliRHlidkpsblNoWjhJWWljcGNvRnpOOEFIb3hSNk9xQ3JMWUpEcFk2ajQxWmNfaF9RYVFia21TUTM1VVByOWF0V3kwdHNBOHVPQmNvQU5GNE5rd2NDemROaUxmYk1vU0NpS0pVOA?oc=5",
+      "published": "2026-10-25T13:30:26+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -264,6 +244,16 @@
       }
     },
     {
+      "id": "976d88f58bb6",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
       "id": "7739d97df5a2",
       "title": "Hinter diesem Medikament steckt eine amerikanische Sekte - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGFualV4T0Z3RGtrOEdxR2hfRnNMY2dTOXhnaXo4R0dWWkFGYXRlNXR5Z3hnVzBLYnFsZS14a0pEajVxYW45SzF1RERwcXBIUkx1dzFCRnFjTHFKM0d4Nk1kQXljV0tXNWZuVXhuR2h6dVNtNldReXoza0N4ajlnR0NzSTBZNDM0aHNVazhwbnNHVVZSRG1J?oc=5",
@@ -274,6 +264,26 @@
       }
     },
     {
+      "id": "6f4845871729",
+      "title": "Alzheimer-Prävention: FDA startet Programm für Medikamente vor Symptombeginn - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVU4T1A1OTVYcF9tSnZDMVVUUVFFYlNNa2RKQmpBZWlSb21RUl8xTVVfQklaZXAwdzMxY0FsNVhfRXgwN3NRVnN1b085eXdTcG8zRE54ZFZyV1lsa2xFRlVfXzNPZXFVeEdYRnFpcHh4Y0RkMUVQYnRaaGczWUFNai1nc2pFbHRkZHhuWHpTTmliV1JlZUI0N3YzVW9aYXNrbWFxVWJ0YVZUVkVqTlBObW1hczFhcWotMFo3SDBzYTVGWkNP?oc=5",
+      "published": "2026-10-23T05:43:24+00:00",
+      "source": {
+        "name": "AD HOC NEWS",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
+      "id": "0367a58e2a11",
+      "title": "Arzneimittel aus dem Internet - Illegale Arzneimittelimporte nehmen wieder zu - SRF",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VtY3V4TFF6ODNmeElrUm14dHdxOHNqc25sdnhUQ2xkYzFmNlh4R0wycWU4bUNqQW5hcGlvN3hjQ3lpRFBuVUtNLW9SRzVCVDJaMGxGbG9jeHpXUVpSQWlaT1dmZURiaWM2bEdhYU4zS2xIUjFxV3RFTklLUjhRWDB1OFBJU21qME9vdE14X1BPVC11S0FJTGo2M09zMlA0YklOUVgybVpVSUN3Q3htaDB3?oc=5",
+      "published": "2015-02-18T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
       "id": "2bc1c76794dc",
       "title": "Zum Schutz der Patienten - Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZl9KLU5icEpyVFZfajZybmFNWlhjRktvMWhIMjZEQUk4c1E3d1dIcWF0ZW5SS3JDa2ppSzA1cEE2RVBTUkVSbWxNczFsNUotQ0tTSE44dHNuODM3ZWV5OXhVd19nRmdLTmU3b1ByZnJoLTFxb2N3T0tXVzhwalV4em9jcjlKQW1YTEdnV0RKZF8xVnRCeWpPa3htS3J4Z0ZudFlsZGZUcng4c2h1YnQyY3NHcm1OQi1XNmNFUi1sZGJJaVA3UlU5MA?oc=5",
@@ -281,26 +291,6 @@
       "source": {
         "name": "Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
         "url": "https://sozialministerium.baden-wuerttemberg.de"
-      }
-    },
-    {
-      "id": "a5092b9afb5b",
-      "title": "Krankenhäuser wollen erleichterte Arzneimittelproduktion - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFmYks3aDNZRzZMYi1TeFZyOGdWVXViNnZ6RE5qWGdMZnhudUJteTN2X1F0NmQ5LTJGTVd2SjZHYnlNUzlyXzdVNURXcHJYLUlsM3Q1aTl4YlhtZjZES3Vab2FjVFdQOXEyRU9xU2pMVUctWWtyZ0oxbTJoLU1TYUlWaHNnQkEyaHExVlR5Y1lPaGFsSFgxbS1IMnpWRVBfQU9uTjJFWlluMXNSZjFsU1dFTFpNNm03cGstaVVZWjQ?oc=5",
-      "published": "2026-10-21T02:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
-      "id": "976d88f58bb6",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
