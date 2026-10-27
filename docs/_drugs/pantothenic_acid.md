@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-# Pantothensäure: Von Vitaminzusatz zur parenteralen Ernährung zu angeborenem Prothrombinmangel
+## Pantothensäure: Von Vitaminzusatz zur parenteralen Ernährung zu angeborenem Prothrombinmangel
+{: .text-alpha }
 
 ## Zusammenfassung
 

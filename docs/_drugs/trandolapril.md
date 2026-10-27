@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-# Trandolapril: Von arterieller Hypertonie zu maligner hypertensiver Nierenerkrankung
+## Trandolapril: Von arterieller Hypertonie zu maligner hypertensiver Nierenerkrankung
+{: .text-alpha }
 
 ---
 

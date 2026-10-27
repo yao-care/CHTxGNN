@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Isavuconazonium: Von Antimykotikum zu Pneumocystose
+## Isavuconazonium: Von Antimykotikum zu Pneumocystose
+{: .text-alpha }
 
 ## Zusammenfassung
 

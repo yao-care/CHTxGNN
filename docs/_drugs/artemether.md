@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Artemether: Von Malaria zu erworbenem Angioödem
+## Artemether: Von Malaria zu erworbenem Angioödem
+{: .text-alpha }
 
 ---
 

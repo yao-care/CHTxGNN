@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Amylmetacresol: Von Entzündungen des Mund- und Rachenraumes zu Cauda-equina-Syndrom
+## Amylmetacresol: Von Entzündungen des Mund- und Rachenraumes zu Cauda-equina-Syndrom
+{: .text-alpha }
 
 ---
 

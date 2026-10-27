@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-# Zinkoxid: Von leichten, nicht infektionsbedingten Hautentzündungen zu Akne
+## Zinkoxid: Von leichten, nicht infektionsbedingten Hautentzündungen zu Akne
+{: .text-alpha }
 
 ---
 

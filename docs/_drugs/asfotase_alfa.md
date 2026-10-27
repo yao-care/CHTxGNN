@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Asfotase alfa: Von Hypophosphatasie zu mitochondrialer Störung der oxidativen Phosphorylierung (Kern-DNA-bedingt)
+## Asfotase alfa: Von Hypophosphatasie zu mitochondrialer Störung der oxidativen Phosphorylierung (Kern-DNA-bedingt)
+{: .text-alpha }
 
 ---
 

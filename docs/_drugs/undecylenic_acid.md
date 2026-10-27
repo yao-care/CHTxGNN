@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-# Undecylensäure: Von sanfter Hautreinigung mit Lipidrückgabe zu oberflächlicher Dermatophytose (Leisten- und Perianalregion)
+## Undecylensäure: Von sanfter Hautreinigung mit Lipidrückgabe zu oberflächlicher Dermatophytose (Leisten- und Perianalregion)
+{: .text-alpha }
 
 ---
 

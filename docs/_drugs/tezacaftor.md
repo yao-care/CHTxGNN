@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Tezacaftor: Von zystischer Fibrose zu HIV-Infektionskrankheit
+## Tezacaftor: Von zystischer Fibrose zu HIV-Infektionskrankheit
+{: .text-alpha }
 
 ---
 

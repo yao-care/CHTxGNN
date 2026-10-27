@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Riluzol: Von Amyotropher Lateralsklerose zu bilateraler parasagittaler parieto-okzipitaler Polymikrogyrie
+## Riluzol: Von Amyotropher Lateralsklerose zu bilateraler parasagittaler parieto-okzipitaler Polymikrogyrie
+{: .text-alpha }
 
 ---
 

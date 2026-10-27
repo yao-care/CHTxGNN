@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Elvitegravir: Von HIV-Infektion zu Infektion mit dem Simianen Immundefizienzvirus (SIV)
+## Elvitegravir: Von HIV-Infektion zu Infektion mit dem Simianen Immundefizienzvirus (SIV)
+{: .text-alpha }
 
 ---
 

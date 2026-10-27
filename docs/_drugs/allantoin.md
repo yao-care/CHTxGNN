@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 </div>
 
-# Allantoin: Von Narben und Keloiden zu schwerer nicht-proliferativer diabetischer Retinopathie
+## Allantoin: Von Narben und Keloiden zu schwerer nicht-proliferativer diabetischer Retinopathie
+{: .text-alpha }
 
 ---
 

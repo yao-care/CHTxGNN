@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Turoctocog alfa pegol: Von Hämophilie A zu primärer Thrombozyten-Freisetzungsstörung
+## Turoctocog alfa pegol: Von Hämophilie A zu primärer Thrombozyten-Freisetzungsstörung
+{: .text-alpha }
 
 ---
 

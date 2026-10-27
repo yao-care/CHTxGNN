@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Thymol: Von Atemwegserkrankungen und leichten Kopfschmerzen zu Interventrikuläres Septumaneurysma
+## Thymol: Von Atemwegserkrankungen und leichten Kopfschmerzen zu Interventrikuläres Septumaneurysma
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Ethinylestradiol: Von hormonaler Kontrazeption zu erhöhtem Plasma-Zink
+## Ethinylestradiol: Von hormonaler Kontrazeption zu erhöhtem Plasma-Zink
+{: .text-alpha }
 
 ## Zusammenfassung
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Tyrosin: Von parenteraler Ernährung zu Cauda-equina-Syndrom
+## Tyrosin: Von parenteraler Ernährung zu Cauda-equina-Syndrom
+{: .text-alpha }
 
 ---
 

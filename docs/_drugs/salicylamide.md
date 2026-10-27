@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Salicylamid: Von Zahnungsschmerz zu Rachenentzündung (Pharyngitis)
+## Salicylamid: Von Zahnungsschmerz zu Rachenentzündung (Pharyngitis)
+{: .text-alpha }
 
 ---
 

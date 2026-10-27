@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Sulfamethoxazol: Von Infektionskrankheiten zu akuter ansteckender Bindehautentzündung
+## Sulfamethoxazol: Von Infektionskrankheiten zu akuter ansteckender Bindehautentzündung
+{: .text-alpha }
 
 ---
 

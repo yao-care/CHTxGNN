@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Clothiapin: Von Neurolepticum zu Insomnie
+## Clothiapin: Von Neurolepticum zu Insomnie
+{: .text-alpha }
 
 ## Zusammenfassung
 

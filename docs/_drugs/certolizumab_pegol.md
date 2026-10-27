@@ -33,7 +33,8 @@ Evidenzniveau: **L4** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-# Certolizumab pegol: Von Morbus Crohn und rheumatoider Arthritis zu rheumatoider Vaskulitis
+## Certolizumab pegol: Von Morbus Crohn und rheumatoider Arthritis zu rheumatoider Vaskulitis
+{: .text-alpha }
 
 ---
 

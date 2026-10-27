@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-# Talimogen laherparepvec: Von Melanom mit regionalen oder entfernten Metastasen zu CMM7 (kutanes malignes Melanom)
+## Talimogen laherparepvec: Von Melanom mit regionalen oder entfernten Metastasen zu CMM7 (kutanes malignes Melanom)
+{: .text-alpha }
 
 ---
 

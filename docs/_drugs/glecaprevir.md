@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Glecaprevir: Von chronischer Hepatitis C zu HIV-Infektion
+## Glecaprevir: Von chronischer Hepatitis C zu HIV-Infektion
+{: .text-alpha }
 
 ---
 

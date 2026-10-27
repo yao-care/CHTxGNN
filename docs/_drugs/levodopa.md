@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Levodopa: Von Morbus Parkinson zu Rasmussen-Enzephalitis
+## Levodopa: Von Morbus Parkinson zu Rasmussen-Enzephalitis
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Phenylalanin: Von parenteraler Ernährung zu sklerosierender Cholangitis
+## Phenylalanin: Von parenteraler Ernährung zu sklerosierender Cholangitis
+{: .text-alpha }
 
 ## Zusammenfassung
 

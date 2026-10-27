@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-# Piperacillin: Von Infektionskrankheiten zu rheumatoider Arthritis
+## Piperacillin: Von Infektionskrankheiten zu rheumatoider Arthritis
+{: .text-alpha }
 
 ---
 

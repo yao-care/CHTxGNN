@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Velpatasvir: Von chronischer Hepatitis C zu Hepatitis-B-Virusinfektion
+## Velpatasvir: Von chronischer Hepatitis C zu Hepatitis-B-Virusinfektion
+{: .text-alpha }
 
 ---
 

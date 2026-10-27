@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Ceftolozan: Von Infektionskrankheiten zu Ureaplasma-Urethritis
+## Ceftolozan: Von Infektionskrankheiten zu Ureaplasma-Urethritis
+{: .text-alpha }
 
 ---
 

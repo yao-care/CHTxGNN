@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Polymyxin B: Von Augen- und Ohrinfektionen zu Bronchitis
+## Polymyxin B: Von Augen- und Ohrinfektionen zu Bronchitis
+{: .text-alpha }
 
 ---
 

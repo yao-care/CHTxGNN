@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Sulthiame: Von Antiepileptikum zu Cauda-equina-Syndrom
+## Sulthiame: Von Antiepileptikum zu Cauda-equina-Syndrom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Trimethoprim: Von Infektionskrankheiten zu punktförmiger epithelialer Keratokonjunktivitis
+## Trimethoprim: Von Infektionskrankheiten zu punktförmiger epithelialer Keratokonjunktivitis
+{: .text-alpha }
 
 ## Zusammenfassung
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Glycin: Von parenteraler Ernährung zu Erkrankungen der Nasenhöhle
+## Glycin: Von parenteraler Ernährung zu Erkrankungen der Nasenhöhle
+{: .text-alpha }
 
 ## Zusammenfassung
 

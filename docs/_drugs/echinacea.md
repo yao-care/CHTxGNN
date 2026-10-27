@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Echinacea: Von Erkältungsneigung zu Lepra
+## Echinacea: Von Erkältungsneigung zu Lepra
+{: .text-alpha }
 
 ---
 

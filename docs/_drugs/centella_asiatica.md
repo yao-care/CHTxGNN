@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Centella asiatica: Von ekzematischen Hautausschlägen (homöopathisches Arzneimittelbild) zu Schlaflosigkeit
+## Centella asiatica: Von ekzematischen Hautausschlägen (homöopathisches Arzneimittelbild) zu Schlaflosigkeit
+{: .text-alpha }
 
 ---
 

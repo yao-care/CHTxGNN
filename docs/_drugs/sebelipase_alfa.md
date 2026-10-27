@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Sebelipase alfa: Von LAL-Mangel zu Scheie-Syndrom
+## Sebelipase alfa: Von LAL-Mangel zu Scheie-Syndrom
+{: .text-alpha }
 
 ---
 

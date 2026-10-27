@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Cisatracurium: Von Muskelrelaxans zu Cauda-equina-Syndrom
+## Cisatracurium: Von Muskelrelaxans zu Cauda-equina-Syndrom
+{: .text-alpha }
 
 ## Zusammenfassung
 

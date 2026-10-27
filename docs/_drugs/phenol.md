@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 </div>
 
-# Phenol: Von entzündlichen, nässenden und juckenden Hauterkrankungen zu Acrodermatitis chronica atrophicans
+## Phenol: Von entzündlichen, nässenden und juckenden Hauterkrankungen zu Acrodermatitis chronica atrophicans
+{: .text-alpha }
 
 ---
 

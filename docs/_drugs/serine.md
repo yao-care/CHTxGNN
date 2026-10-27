@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Serin: Von parenteraler Ernährung zu familiärer viszeraler Myopathie
+## Serin: Von parenteraler Ernährung zu familiärer viszeraler Myopathie
+{: .text-alpha }
 
 ## Zusammenfassung
 

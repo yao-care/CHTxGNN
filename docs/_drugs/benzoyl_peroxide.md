@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-# Benzoylperoxid: Von Akne vulgaris zu vulvärer invertierter follikulärer Keratose
+## Benzoylperoxid: Von Akne vulgaris zu vulvärer invertierter follikulärer Keratose
+{: .text-alpha }
 
 ---
 

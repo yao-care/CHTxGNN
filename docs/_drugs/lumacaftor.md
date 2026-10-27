@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Lumacaftor: Von Mukoviszidose zu Lepra
+## Lumacaftor: Von Mukoviszidose zu Lepra
+{: .text-alpha }
 
 ---
 

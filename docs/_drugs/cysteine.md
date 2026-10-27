@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-# Cystein: Von parenteraler Ernährung zu trockenem Auge (Dry-Eye-Syndrom)
+## Cystein: Von parenteraler Ernährung zu trockenem Auge (Dry-Eye-Syndrom)
+{: .text-alpha }
 
 ---
 

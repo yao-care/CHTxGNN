@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-# Avibactam: Von Infektionskrankheiten zu Pneumokokken-Pneumonie
+## Avibactam: Von Infektionskrankheiten zu Pneumokokken-Pneumonie
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Dexlansoprazol: Von Protonenpumpenhemmer zu aktiver Magen-Darm-Ulkuskrankheit (Ulcus pepticum)
+## Dexlansoprazol: Von Protonenpumpenhemmer zu aktiver Magen-Darm-Ulkuskrankheit (Ulcus pepticum)
+{: .text-alpha }
 
 ---
 

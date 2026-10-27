@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-# Dibotermin alfa: Von Knochenfrakturen und degenerativen Bandscheibenerkrankungen zu Esotropie
+## Dibotermin alfa: Von Knochenfrakturen und degenerativen Bandscheibenerkrankungen zu Esotropie
+{: .text-alpha }
 
 ---
 

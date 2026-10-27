@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Benzocain: Von Anästhesie und Allergiediagnostik zu papillärer Konjunktivitis
+## Benzocain: Von Anästhesie und Allergiediagnostik zu papillärer Konjunktivitis
+{: .text-alpha }
 
 ---
 

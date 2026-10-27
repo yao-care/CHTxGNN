@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Norgestimat: Von oraler Kontrazeption zu erhöhtem Plasmazink
+## Norgestimat: Von oraler Kontrazeption zu erhöhtem Plasmazink
+{: .text-alpha }
 
 ---
 

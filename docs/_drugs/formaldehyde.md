@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Formaldehyd: Von entzündlichen, nässenden und juckenden Hauterkrankungen zu diffuser kutaner Leishmaniose
+## Formaldehyd: Von entzündlichen, nässenden und juckenden Hauterkrankungen zu diffuser kutaner Leishmaniose
+{: .text-alpha }
 
 ---
 

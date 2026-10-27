@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Eftrenonacog alfa: Von Hämophilie B zu Pseudo-von-Willebrand-Erkrankung
+## Eftrenonacog alfa: Von Hämophilie B zu Pseudo-von-Willebrand-Erkrankung
+{: .text-alpha }
 
 ---
 

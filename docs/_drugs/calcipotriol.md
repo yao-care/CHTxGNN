@@ -33,7 +33,8 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Calcipotriol: Von Psoriasis vulgaris zu seborrhoischer Keratose
+## Calcipotriol: Von Psoriasis vulgaris zu seborrhoischer Keratose
+{: .text-alpha }
 
 ## Zusammenfassung
 

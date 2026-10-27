@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-# Glutaminsäure: Von Tonikum und parenteraler Ernährung zu postmenopausaler Osteoporose
+## Glutaminsäure: Von Tonikum und parenteraler Ernährung zu postmenopausaler Osteoporose
+{: .text-alpha }
 
 ## Zusammenfassung
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Insulin glulisine: Von Diabetes mellitus beim Erwachsenen zu Diabetes mellitus Typ 1
+## Insulin glulisine: Von Diabetes mellitus beim Erwachsenen zu Diabetes mellitus Typ 1
+{: .text-alpha }
 
 ---
 

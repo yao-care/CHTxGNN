@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Chlortalidon: Von Hypertonie zu primärem hereditärem Glaukom
+## Chlortalidon: Von Hypertonie zu primärem hereditärem Glaukom
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Chlordiazepoxid: Von Depression und Krampfzuständen zu Schlafstörungen (Insomnie)
+## Chlordiazepoxid: Von Depression und Krampfzuständen zu Schlafstörungen (Insomnie)
+{: .text-alpha }
 
 ---
 

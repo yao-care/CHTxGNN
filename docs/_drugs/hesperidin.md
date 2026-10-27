@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-# Hesperidin: Von Venenerkrankungen (Veneninsuffizienz, Hämorrhoiden) zu myeloproliferativer Neoplasie
+## Hesperidin: Von Venenerkrankungen (Veneninsuffizienz, Hämorrhoiden) zu myeloproliferativer Neoplasie
+{: .text-alpha }
 
 ---
 

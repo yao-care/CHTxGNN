@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Vonicog alfa: Von Von-Willebrand-Krankheit zu primärer Plättchen-Freisetzungsstörung
+## Vonicog alfa: Von Von-Willebrand-Krankheit zu primärer Plättchen-Freisetzungsstörung
+{: .text-alpha }
 
 ---
 

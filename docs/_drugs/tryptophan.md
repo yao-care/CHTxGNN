@@ -33,7 +33,8 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **8**
 
 </div>
 
-# Tryptophan: Von parenteraler Ernährung zu Restless-Legs-Syndrom
+## Tryptophan: Von parenteraler Ernährung zu Restless-Legs-Syndrom
+{: .text-alpha }
 
 ---
 

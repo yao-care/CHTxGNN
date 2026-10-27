@@ -33,7 +33,8 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Insulin detemir: Von Diabetes mellitus zu Typ-1-Diabetes mellitus
+## Insulin detemir: Von Diabetes mellitus zu Typ-1-Diabetes mellitus
+{: .text-alpha }
 
 ---
 

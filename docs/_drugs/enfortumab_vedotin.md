@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-# Enfortumab Vedotin: Von Urothelkarzinom zu Lepra
+## Enfortumab Vedotin: Von Urothelkarzinom zu Lepra
+{: .text-alpha }
 
 ---
 

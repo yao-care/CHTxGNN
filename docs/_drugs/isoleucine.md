@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Isoleucin: Von parenteraler Ernährung zu Gastroparese
+## Isoleucin: Von parenteraler Ernährung zu Gastroparese
+{: .text-alpha }
 
 ---
 

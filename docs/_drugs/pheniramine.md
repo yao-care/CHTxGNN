@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-# Pheniramin: Von Erkältungskrankheiten zu allergischer Urtikaria
+## Pheniramin: Von Erkältungskrankheiten zu allergischer Urtikaria
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-# Lonoctocog alfa: Von Hämophilie A zu Pseudo-von-Willebrand-Krankheit
+## Lonoctocog alfa: Von Hämophilie A zu Pseudo-von-Willebrand-Krankheit
+{: .text-alpha }
 
 ## Zusammenfassung
 

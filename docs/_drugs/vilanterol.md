@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Vilanterol: Von COPD zu obstruktiver Lungenerkrankung
+## Vilanterol: Von COPD zu obstruktiver Lungenerkrankung
+{: .text-alpha }
 
 ## Zusammenfassung
 

@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-# Andexanet alfa: Von Antidot gegen Faktor-Xa-Inhibitoren zu Glanzmann-Thrombasthenie
+## Andexanet alfa: Von Antidot gegen Faktor-Xa-Inhibitoren zu Glanzmann-Thrombasthenie
+{: .text-alpha }
 
 ## Zusammenfassung
 

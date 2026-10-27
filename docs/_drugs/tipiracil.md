@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Tipiracil: Von metastasiertem Kolorektal- und Magenkarzinom zu Zäkum-Zottenadenom
+## Tipiracil: Von metastasiertem Kolorektal- und Magenkarzinom zu Zäkum-Zottenadenom
+{: .text-alpha }
 
 ---
 

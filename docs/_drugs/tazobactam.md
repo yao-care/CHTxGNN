@@ -31,7 +31,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Tazobactam: Von Infektionskrankheiten zu Pneumonie
+## Tazobactam: Von Infektionskrankheiten zu Pneumonie
+{: .text-alpha }
 
 ## Zusammenfassung
 

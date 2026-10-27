@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Campher: Von homöopathischer Anwendung bei Herz-Kreislauf-Störungen zu Migräne
+## Campher: Von homöopathischer Anwendung bei Herz-Kreislauf-Störungen zu Migräne
+{: .text-alpha }
 
 ---
 

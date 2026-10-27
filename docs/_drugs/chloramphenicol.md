@@ -33,7 +33,8 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-# Chloramphenicol: Von Augeninfektionen zu Bindehautentzündung (Konjunktivitis)
+## Chloramphenicol: Von Augeninfektionen zu Bindehautentzündung (Konjunktivitis)
+{: .text-alpha }
 
 ---
 

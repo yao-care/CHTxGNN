@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Xylit: Von Kardioplegie bei Herzoperationen zu Meningokokken-Infektion
+## Xylit: Von Kardioplegie bei Herzoperationen zu Meningokokken-Infektion
+{: .text-alpha }
 
 ## Zusammenfassung
 

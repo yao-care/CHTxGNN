@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Hexaminolevulinat: Von Fluoreszenz-Zystoskopie (Diagnostikum) zu Bronchitis
+## Hexaminolevulinat: Von Fluoreszenz-Zystoskopie (Diagnostikum) zu Bronchitis
+{: .text-alpha }
 
 ---
 

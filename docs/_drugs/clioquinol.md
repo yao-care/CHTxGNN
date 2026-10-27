@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-# Clioquinol: Von Allergiediagnostik zu kutaner Candidiasis
+## Clioquinol: Von Allergiediagnostik zu kutaner Candidiasis
+{: .text-alpha }
 
 ---
 

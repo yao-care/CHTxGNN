@@ -33,7 +33,8 @@ Evidenzniveau: **L4** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Valin: Von parenteraler Ernährung zu sklerosierender Cholangitis
+## Valin: Von parenteraler Ernährung zu sklerosierender Cholangitis
+{: .text-alpha }
 
 ## Zusammenfassung
 

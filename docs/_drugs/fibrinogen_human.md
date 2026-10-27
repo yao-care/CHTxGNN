@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Fibrinogen human: Von Fibrinogenmangel und chirurgischer Blutstillung zu Hämoglobinopathie
+## Fibrinogen human: Von Fibrinogenmangel und chirurgischer Blutstillung zu Hämoglobinopathie
+{: .text-alpha }
 
 ## Zusammenfassung
 

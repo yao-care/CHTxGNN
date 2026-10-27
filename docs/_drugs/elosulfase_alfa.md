@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-# Elosulfase alfa: Von Mucopolysaccharidose Typ IVA zu Scheie-Syndrom
+## Elosulfase alfa: Von Mucopolysaccharidose Typ IVA zu Scheie-Syndrom
+{: .text-alpha }
 
 ---
 

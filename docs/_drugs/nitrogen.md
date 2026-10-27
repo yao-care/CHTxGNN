@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-# Stickstoff (Nitrogen): Von parenteraler Ernährung zu 16q24.1-Mikrodeletionssyndrom
+## Stickstoff (Nitrogen): Von parenteraler Ernährung zu 16q24.1-Mikrodeletionssyndrom
+{: .text-alpha }
 
 ---
 

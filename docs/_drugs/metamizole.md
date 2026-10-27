@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Metamizol: Von Schmerzmittel (Analgetikum) zu rheumatoider Arthritis
+## Metamizol: Von Schmerzmittel (Analgetikum) zu rheumatoider Arthritis
+{: .text-alpha }
 
 ## Zusammenfassung
 

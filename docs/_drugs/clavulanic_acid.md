@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Clavulansäure: Von Infektionskrankheiten zu Ureaplasma-Urethritis
+## Clavulansäure: Von Infektionskrankheiten zu Ureaplasma-Urethritis
+{: .text-alpha }
 
 ## Zusammenfassung
 

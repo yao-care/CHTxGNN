@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Bacitracin: Von Allergiediagnostik zu Keratoconjunctivitis punctata epithelialis
+## Bacitracin: Von Allergiediagnostik zu Keratoconjunctivitis punctata epithelialis
+{: .text-alpha }
 
 ---
 

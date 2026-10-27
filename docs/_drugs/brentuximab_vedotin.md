@@ -33,7 +33,8 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Brentuximab vedotin: Von Hodgkin-Lymphom und CD30-positiven T-Zell-Lymphomen zu follikulärem Lymphom
+## Brentuximab vedotin: Von Hodgkin-Lymphom und CD30-positiven T-Zell-Lymphomen zu follikulärem Lymphom
+{: .text-alpha }
 
 ---
 

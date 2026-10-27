@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Sorbitol: Von Obstipation zu belastungsinduzierter maligner Hyperthermie
+## Sorbitol: Von Obstipation zu belastungsinduzierter maligner Hyperthermie
+{: .text-alpha }
 
 ---
 

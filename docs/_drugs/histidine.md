@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-# Histidin: Von parenteraler Ernährung zu Gastroparese
+## Histidin: Von parenteraler Ernährung zu Gastroparese
+{: .text-alpha }
 
 ---
 

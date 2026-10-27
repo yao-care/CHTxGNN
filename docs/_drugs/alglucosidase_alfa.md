@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Alglucosidase alfa: Von Morbus Pompe zu adulter Polyglucosan-Körper-Krankheit
+## Alglucosidase alfa: Von Morbus Pompe zu adulter Polyglucosan-Körper-Krankheit
+{: .text-alpha }
 
 ---
 

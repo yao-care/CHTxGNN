@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Asparaginsäure: Von parenteraler Ernährung zu renaler tubulärer Azidose
+## Asparaginsäure: Von parenteraler Ernährung zu renaler tubulärer Azidose
+{: .text-alpha }
 
 ---
 

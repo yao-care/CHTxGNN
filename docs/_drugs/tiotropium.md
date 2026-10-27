@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-# Tiotropium: Von COPD zu obstruktiver Lungenerkrankung
+## Tiotropium: Von COPD zu obstruktiver Lungenerkrankung
+{: .text-alpha }
 
 ---
 

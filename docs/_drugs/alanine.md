@@ -33,7 +33,8 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-# Alanin: Von parenteraler Ernährung und Peritonealdialyse zu Gastroparese
+## Alanin: Von parenteraler Ernährung und Peritonealdialyse zu Gastroparese
+{: .text-alpha }
 
 ---
 
