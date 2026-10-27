@@ -19,7 +19,7 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 
 | Element | Anzahl |
 |------|------|
-| **Arzneimittelberichte** | 725 |
+| **Arzneimittelberichte** | 100 |
 | **Gesamtvorhersagen** | 20,463,352 |
 | **Einzigartige Arzneimittel** | 1,000 |
 | **Einzigartige Indikationen** | 17,041 |

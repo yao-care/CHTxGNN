@@ -358,7 +358,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "Arzneimittel-Evidenzberichte von CHTxGNN",
       "description": "Evidenzberichte zur Arzneimittel-Umwidmung für in der Schweiz zugelassene Arzneimittel",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
