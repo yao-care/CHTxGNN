@@ -1,6 +1,6 @@
 {
   "total": 98,
-  "generated_at": "2026-10-28T04:56:59.127818",
+  "generated_at": "2026-10-28T18:10:01.635631",
   "drugs": [
     {
       "name": "Alanine",
@@ -33,7 +33,7 @@
       "name": "Alglucosidase Alfa",
       "file": "alglucosidase_alfa.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "predicted_indication": "",
       "inn": "alglucosidase alfa",
       "predicted_indications": [
@@ -103,12 +103,11 @@
       "name": "Artemether",
       "file": "artemether.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "predicted_indication": "",
       "inn": "artemether",
       "predicted_indications": [
         "acquired angioedema",
-        "Plasmodium falciparum malaria",
         "angioedema",
         "hereditary angioedema",
         "nephrogenic syndrome of inappropriate antidiuresis",
@@ -153,11 +152,10 @@
       "name": "Avibactam",
       "file": "avibactam.md",
       "evidence_level": "L5",
-      "indication_count": 6,
+      "indication_count": 4,
       "predicted_indication": "",
       "inn": "avibactam",
       "predicted_indications": [
-        "influenza, severe, susceptibility to",
         "ureter tuberculosis",
         "urinary schistosomiasis",
         "polyclonal hyperviscosity syndrome",
@@ -225,7 +223,7 @@
     {
       "name": "Brentuximab Vedotin",
       "file": "brentuximab_vedotin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "brentuximab vedotin",
@@ -266,7 +264,7 @@
       "name": "Camphor",
       "file": "camphor.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "camphor",
       "predicted_indications": [
@@ -274,7 +272,6 @@
         "migraine with brainstem aura",
         "erectile dysfunction (disease)",
         "pulmonary hypertension",
-        "migraine with or without aura, susceptibility to",
         "kyphoscoliotic heart disease",
         "ulerythema ophryogenesis",
         "Raynaud disease",
@@ -318,13 +315,12 @@
     {
       "name": "Certolizumab Pegol",
       "file": "certolizumab_pegol.md",
-      "evidence_level": "L4",
-      "indication_count": 6,
+      "evidence_level": "L5",
+      "indication_count": 3,
       "predicted_indication": "",
       "inn": "certolizumab pegol",
       "predicted_indications": [
         "hypermobility of coccyx",
-        "inflammatory spondylopathy",
         "Kummell disease",
         "vertebral disease"
       ]
@@ -351,7 +347,7 @@
     {
       "name": "Chlordiazepoxide",
       "file": "chlordiazepoxide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "chlordiazepoxide",
@@ -372,7 +368,7 @@
       "name": "Chlorthalidone",
       "file": "chlorthalidone.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "chlorthalidone",
       "predicted_indications": [
@@ -431,11 +427,10 @@
       "name": "Clioquinol",
       "file": "clioquinol.md",
       "evidence_level": "L5",
-      "indication_count": 7,
+      "indication_count": 2,
       "predicted_indication": "",
       "inn": "clioquinol",
       "predicted_indications": [
-        "Majocchi granuloma",
         "ectothrix infectious disease",
         "endothrix infectious disease"
       ]
@@ -485,7 +480,7 @@
       "name": "Dexlansoprazole",
       "file": "dexlansoprazole.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 4,
       "predicted_indication": "",
       "inn": "dexlansoprazole",
       "predicted_indications": [
@@ -531,7 +526,7 @@
       "name": "Efmoroctocog Alfa",
       "file": "efmoroctocog_alfa.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "efmoroctocog alfa",
       "predicted_indications": [
@@ -581,7 +576,7 @@
     {
       "name": "Elvitegravir",
       "file": "elvitegravir.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "",
       "inn": "elvitegravir",
@@ -690,12 +685,11 @@
       "name": "Glycine",
       "file": "glycine.md",
       "evidence_level": "L5",
-      "indication_count": 2,
+      "indication_count": 1,
       "predicted_indication": "",
       "inn": "glycine",
       "predicted_indications": [
-        "nasal cavity disease",
-        "acute laryngopharyngitis"
+        "nasal cavity disease"
       ]
     },
     {
@@ -739,8 +733,8 @@
     {
       "name": "Insulin Detemir",
       "file": "insulin_detemir.md",
-      "evidence_level": "L1",
-      "indication_count": 10,
+      "evidence_level": "L5",
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "insulin detemir",
       "predicted_indications": [
@@ -758,8 +752,8 @@
     {
       "name": "Insulin Glulisine",
       "file": "insulin_glulisine.md",
-      "evidence_level": "L1",
-      "indication_count": 10,
+      "evidence_level": "L5",
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "insulin glulisine",
       "predicted_indications": [
@@ -825,7 +819,7 @@
     {
       "name": "Lopinavir",
       "file": "lopinavir.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "",
       "inn": "lopinavir",
@@ -849,14 +843,13 @@
     {
       "name": "Metamizole",
       "file": "metamizole.md",
-      "evidence_level": "L5",
-      "indication_count": 10,
+      "evidence_level": "L4",
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "metamizole",
       "predicted_indications": [
         "rheumatoid arthritis",
         "migraine disorder",
-        "migraine with or without aura, susceptibility to",
         "exostosis",
         "migraine with brainstem aura",
         "gout",
@@ -925,12 +918,11 @@
       "name": "Pheniramine",
       "file": "pheniramine.md",
       "evidence_level": "L5",
-      "indication_count": 3,
+      "indication_count": 1,
       "predicted_indication": "",
       "inn": "pheniramine",
       "predicted_indications": [
-        "nasal cavity disease",
-        "acute laryngopharyngitis"
+        "nasal cavity disease"
       ]
     },
     {
@@ -954,7 +946,7 @@
     {
       "name": "Phenylalanine",
       "file": "phenylalanine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 2,
       "predicted_indication": "",
       "inn": "phenylalanine",
@@ -987,7 +979,7 @@
       "name": "Piperacillin",
       "file": "piperacillin.md",
       "evidence_level": "L5",
-      "indication_count": 9,
+      "indication_count": 8,
       "predicted_indication": "",
       "inn": "piperacillin",
       "predicted_indications": [
@@ -995,7 +987,6 @@
         "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
         "brachydactyly-syndactyly syndrome",
         "sclerosing cholangitis",
-        "osteoarthritis susceptibility",
         "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
         "brain small vessel disease 1 with or without ocular anomalies",
         "diabetic nephropathy",
@@ -1016,8 +1007,8 @@
     {
       "name": "Polymyxin B",
       "file": "polymyxin_b.md",
-      "evidence_level": "L5",
-      "indication_count": 3,
+      "evidence_level": "L4",
+      "indication_count": 2,
       "predicted_indication": "",
       "inn": "polymyxin b",
       "predicted_indications": [
@@ -1029,7 +1020,7 @@
       "name": "Riluzole",
       "file": "riluzole.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "riluzole",
       "predicted_indications": [
@@ -1061,7 +1052,7 @@
     {
       "name": "Sacubitril",
       "file": "sacubitril.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "sacubitril",
@@ -1077,7 +1068,7 @@
       "name": "Salicylamide",
       "file": "salicylamide.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "salicylamide",
       "predicted_indications": [
@@ -1096,7 +1087,7 @@
       "name": "Sebelipase Alfa",
       "file": "sebelipase_alfa.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "sebelipase alfa",
       "predicted_indications": [
@@ -1126,7 +1117,7 @@
       "name": "Serine",
       "file": "serine.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "predicted_indication": "",
       "inn": "serine",
       "predicted_indications": [
@@ -1144,7 +1135,7 @@
       "name": "Simoctocog Alfa",
       "file": "simoctocog_alfa.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "predicted_indication": "",
       "inn": "simoctocog alfa",
       "predicted_indications": [
@@ -1205,7 +1196,7 @@
       "name": "Talimogene Laherparepvec",
       "file": "talimogene_laherparepvec.md",
       "evidence_level": "L5",
-      "indication_count": 7,
+      "indication_count": 5,
       "predicted_indication": "",
       "inn": "talimogene laherparepvec",
       "predicted_indications": [
@@ -1290,8 +1281,8 @@
     {
       "name": "Tiotropium",
       "file": "tiotropium.md",
-      "evidence_level": "L5",
-      "indication_count": 10,
+      "evidence_level": "L1",
+      "indication_count": 5,
       "predicted_indication": "",
       "inn": "TIOTROPIUM",
       "predicted_indications": [
@@ -1299,8 +1290,7 @@
         "respiratory malformation",
         "Rienhoff syndrome",
         "hyperlucent lung",
-        "tracheal stenosis",
-        "susceptibility to respiratory infections associated with CD8alpha chain mutation"
+        "tracheal stenosis"
       ]
     },
     {
@@ -1327,7 +1317,7 @@
       "name": "Trandolapril",
       "file": "trandolapril.md",
       "evidence_level": "L5",
-      "indication_count": 6,
+      "indication_count": 5,
       "predicted_indication": "",
       "inn": "trandolapril",
       "predicted_indications": [
@@ -1342,7 +1332,7 @@
       "name": "Trimethoprim",
       "file": "trimethoprim.md",
       "evidence_level": "L5",
-      "indication_count": 2,
+      "indication_count": 1,
       "predicted_indication": "",
       "inn": "trimethoprim",
       "predicted_indications": [
@@ -1411,12 +1401,11 @@
       "name": "Undecylenic Acid",
       "file": "undecylenic_acid.md",
       "evidence_level": "L5",
-      "indication_count": 7,
+      "indication_count": 3,
       "predicted_indication": "",
       "inn": "undecylenic acid",
       "predicted_indications": [
         "ectothrix infectious disease",
-        "Majocchi granuloma",
         "endothrix infectious disease",
         "pityriasis versicolor"
       ]
@@ -1424,7 +1413,7 @@
     {
       "name": "Valine",
       "file": "valine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "valine",
@@ -1444,7 +1433,7 @@
     {
       "name": "Velpatasvir",
       "file": "velpatasvir.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "velpatasvir",
@@ -1465,7 +1454,7 @@
       "name": "Vilanterol",
       "file": "vilanterol.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 6,
       "predicted_indication": "",
       "inn": "vilanterol",
       "predicted_indications": [
@@ -1481,12 +1470,13 @@
       "name": "Vonicog Alfa",
       "file": "vonicog_alfa.md",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "predicted_indication": "",
       "inn": "vonicog alfa",
       "predicted_indications": [
         "primary release disorder of platelets",
         "Glanzmann thrombasthenia",
+        "hemophilia",
         "Scott syndrome",
         "acquired coagulation factor deficiency",
         "bleeding diathesis due to a collagen receptor defect",
@@ -1497,7 +1487,7 @@
     {
       "name": "Voxilaprevir",
       "file": "voxilaprevir.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "voxilaprevir",
@@ -1528,7 +1518,7 @@
     {
       "name": "Zinc Oxide",
       "file": "zinc_oxide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "zinc oxide",
