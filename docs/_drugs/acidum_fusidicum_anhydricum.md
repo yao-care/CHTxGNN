@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: ACIDUM FUSIDICUM ANHYDRICUM
 drugbank_id: DB02703
-evidence_level: L5
 permalink: /drugs/acidum_fusidicum_anhydricum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACIDUM FUSIDICUM ANHYDRICUM
@@ -17,68 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | DrugBank ID | [DB02703](https://go.drugbank.com/drugs/DB02703) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 94 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | bronchitis | TxGNN Knowledge Graph |
-| 2 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 3 | folliculitis | TxGNN Knowledge Graph |
-| 4 | pneumonia | TxGNN Knowledge Graph |
-| 5 | cutaneous anthrax | TxGNN Knowledge Graph |
-| 6 | scrub typhus | TxGNN Knowledge Graph |
-| 7 | acute gonococcal cervicitis | TxGNN Knowledge Graph |
-| 8 | rickettsialpox | TxGNN Knowledge Graph |
-| 9 | Actinomycetales infectious disease | TxGNN Knowledge Graph |
-| 10 | urethritis (disease) | TxGNN Knowledge Graph |
-| 11 | skin disease caused by infection | TxGNN Knowledge Graph |
-| 12 | atopic conjunctivitis | TxGNN Knowledge Graph |
-| 13 | punctate epithelial keratoconjunctivitis | TxGNN Knowledge Graph |
-| 14 | yaws | TxGNN Knowledge Graph |
-| 15 | gonorrhea | TxGNN Knowledge Graph |
-| 16 | cholera | TxGNN Knowledge Graph |
-| 17 | suppurative cholangitis | TxGNN Knowledge Graph |
-| 18 | staphylococcal infection | TxGNN Knowledge Graph |
-| 19 | chlamydia infectious disease | TxGNN Knowledge Graph |
-| 20 | Rickettsiosis | TxGNN Knowledge Graph |
-| 21 | IgG4-related sclerosing cholangitis | TxGNN Knowledge Graph |
-| 22 | panuveitis (disease) | TxGNN Knowledge Graph |
-| 23 | cholangitis | TxGNN Knowledge Graph |
-| 24 | granuloma inguinale | TxGNN Knowledge Graph |
-| 25 | tularemia | TxGNN Knowledge Graph |
-| 26 | papillary conjunctivitis | TxGNN Knowledge Graph |
-| 27 | syphilis | TxGNN Knowledge Graph |
-| 28 | acute contagious conjunctivitis | TxGNN Knowledge Graph |
-| 29 | lymphogranuloma venereum | TxGNN Knowledge Graph |
-| 30 | vernal keratoconjunctivitis | TxGNN Knowledge Graph |
-| 31 | ciliary body disease | TxGNN Knowledge Graph |
-| 32 | iris disease | TxGNN Knowledge Graph |
-| 33 | Q fever | TxGNN Knowledge Graph |
-| 34 | viral meningitis | TxGNN Knowledge Graph |
-| 35 | sclerosing cholangitis | TxGNN Knowledge Graph |
-| 36 | anthrax infection | TxGNN Knowledge Graph |
-| 37 | dacryocystitis | TxGNN Knowledge Graph |
-| 38 | furunculosis | TxGNN Knowledge Graph |
-| 39 | uveitis | TxGNN Knowledge Graph |
-| 40 | necrotizing ulcerative gingivitis | TxGNN Knowledge Graph |
-| 41 | urinary tract infection (disease) | TxGNN Knowledge Graph |
-| 42 | gastrointestinal anthrax | TxGNN Knowledge Graph |
-| 43 | sinusitis | TxGNN Knowledge Graph |
-| 44 | trypanosomiasis | TxGNN Knowledge Graph |
-| 45 | paronychia (disease) | TxGNN Knowledge Graph |
-| 46 | chlamydia trachomatis infectious disease | TxGNN Knowledge Graph |
-| 47 | streptococcal infection | TxGNN Knowledge Graph |
-| 48 | erythrasma | TxGNN Knowledge Graph |
-| 49 | leptospirosis | TxGNN Knowledge Graph |
-| 50 | gingivitis | TxGNN Knowledge Graph |
-
-*(Zeige die ersten 50 von 94)*
 
 ## Haftungsausschluss
 

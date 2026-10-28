@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CETUXIMABUM
 drugbank_id: DB00002
-evidence_level: L5
 permalink: /drugs/cetuximabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CETUXIMABUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00002](https://go.drugbank.com/drugs/DB00002) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | colorectal cancer | TxGNN Knowledge Graph |
-| 2 | squamous cell carcinoma | TxGNN Knowledge Graph |
-| 3 | laryngeal squamous cell carcinoma | TxGNN Knowledge Graph |
-| 4 | colonic neoplasm | TxGNN Knowledge Graph |
-| 5 | malignant colon neoplasm | TxGNN Knowledge Graph |
-| 6 | pharyngeal squamous cell carcinoma | TxGNN Knowledge Graph |
-| 7 | squamous cell carcinoma of colon | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

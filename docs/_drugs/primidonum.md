@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PRIMIDONUM
 drugbank_id: DB00794
-evidence_level: L5
 permalink: /drugs/primidonum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PRIMIDONUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00794](https://go.drugbank.com/drugs/DB00794) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | partial epilepsy | TxGNN Knowledge Graph |
-| 2 | epilepsy | TxGNN Knowledge Graph |
-| 3 | partial motor epilepsy | TxGNN Knowledge Graph |
-| 4 | cutis verticis gyrata | TxGNN Knowledge Graph |
-| 5 | visual epilepsy | TxGNN Knowledge Graph |
-| 6 | Lennox-Gastaut syndrome | TxGNN Knowledge Graph |
-| 7 | epilepsy with generalized tonic-clonic seizures | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

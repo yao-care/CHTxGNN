@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 65
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Metamizole: vorhergesagte neue Indikation Rheumatoide Arthritis (Evidenzstufe L5). Ursprüngliche Indikation: Analgetikum (Schmerzmittel)"
 monitor_inn: "metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]

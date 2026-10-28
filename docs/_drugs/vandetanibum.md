@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: VANDETANIBUM
 drugbank_id: DB05294
-evidence_level: L5
 permalink: /drugs/vandetanibum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # VANDETANIBUM
@@ -18,17 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB05294](https://go.drugbank.com/drugs/DB05294) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 1 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | thyroid gland carcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

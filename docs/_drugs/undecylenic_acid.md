@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "undecylenic acid"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease", "pityriasis versicolor"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Undecylenic Acid: vorhergesagte neue Indikation Ektotrix-Infektionskrankheit (ectothrix infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Lavage en douceur de la peau avec restitution …"
 ---
 

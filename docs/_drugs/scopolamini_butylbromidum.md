@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: SCOPOLAMINI BUTYLBROMIDUM
 drugbank_id: DB00747
-evidence_level: L5
 permalink: /drugs/scopolamini_butylbromidum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # SCOPOLAMINI BUTYLBROMIDUM
@@ -17,34 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | DrugBank ID | [DB00747](https://go.drugbank.com/drugs/DB00747) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 18 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Clostridium difficile colitis | TxGNN Knowledge Graph |
-| 2 | ciliary body disease | TxGNN Knowledge Graph |
-| 3 | cycloplegia | TxGNN Knowledge Graph |
-| 4 | irritable bowel syndrome | TxGNN Knowledge Graph |
-| 5 | motion sickness | TxGNN Knowledge Graph |
-| 6 | uveitis | TxGNN Knowledge Graph |
-| 7 | idiopathic uveitis | TxGNN Knowledge Graph |
-| 8 | iris disease | TxGNN Knowledge Graph |
-| 9 | panuveitis (disease) | TxGNN Knowledge Graph |
-| 10 | pharyngitis | TxGNN Knowledge Graph |
-| 11 | nasopharyngitis | TxGNN Knowledge Graph |
-| 12 | neurocirculatory asthenia | TxGNN Knowledge Graph |
-| 13 | common cold | TxGNN Knowledge Graph |
-| 14 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 15 | infectious anterior uveitis | TxGNN Knowledge Graph |
-| 16 | peptic ulcer disease | TxGNN Knowledge Graph |
-| 17 | allergic rhinitis | TxGNN Knowledge Graph |
-| 18 | iridocyclitis (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

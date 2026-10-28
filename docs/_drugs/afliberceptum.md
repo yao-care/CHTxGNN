@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: AFLIBERCEPTUM
 drugbank_id: DB08885
-evidence_level: L5
 permalink: /drugs/afliberceptum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # AFLIBERCEPTUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 11 von 11) |
+| Anzahl Zulassungen | 11 (gültig: 11) |
 | DrugBank ID | [DB08885](https://go.drugbank.com/drugs/DB08885) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | diabetic macular edema | TxGNN Knowledge Graph |
-| 2 | retinal artery occlusion | TxGNN Knowledge Graph |
-| 3 | macular degeneration | TxGNN Knowledge Graph |
-| 4 | metastasis from malignant tumor of colon | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

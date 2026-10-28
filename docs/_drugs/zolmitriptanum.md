@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ZOLMITRIPTANUM
 drugbank_id: DB00315
-evidence_level: L5
 permalink: /drugs/zolmitriptanum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ZOLMITRIPTANUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | DrugBank ID | [DB00315](https://go.drugbank.com/drugs/DB00315) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | migraine disorder | TxGNN Knowledge Graph |
-| 2 | migraine with or without aura, susceptibility to | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

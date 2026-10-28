@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: FLUOXETINUM
 drugbank_id: DB00472
-evidence_level: L5
 permalink: /drugs/fluoxetinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FLUOXETINUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB00472](https://go.drugbank.com/drugs/DB00472) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | neurotic disorder | TxGNN Knowledge Graph |
-| 2 | endogenous depression | TxGNN Knowledge Graph |
-| 3 | obsessive-compulsive disorder | TxGNN Knowledge Graph |
-| 4 | bulimia nervosa | TxGNN Knowledge Graph |
-| 5 | bipolar disorder | TxGNN Knowledge Graph |
-| 6 | anxiety disorder | TxGNN Knowledge Graph |
-| 7 | major depressive disorder | TxGNN Knowledge Graph |
-| 8 | dysthymic disorder | TxGNN Knowledge Graph |
-| 9 | unipolar depression | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

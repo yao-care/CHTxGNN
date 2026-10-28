@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CARBAMAZEPINUM
 drugbank_id: DB00564
-evidence_level: L5
 permalink: /drugs/carbamazepinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CARBAMAZEPINUM
@@ -17,28 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB00564](https://go.drugbank.com/drugs/DB00564) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | glossopharyngeal neuralgia | TxGNN Knowledge Graph |
-| 2 | trigeminal neuralgia | TxGNN Knowledge Graph |
-| 3 | partial epilepsy | TxGNN Knowledge Graph |
-| 4 | epilepsy | TxGNN Knowledge Graph |
-| 5 | partial motor epilepsy | TxGNN Knowledge Graph |
-| 6 | bipolar disorder | TxGNN Knowledge Graph |
-| 7 | manic bipolar affective disorder | TxGNN Knowledge Graph |
-| 8 | Lennox-Gastaut syndrome | TxGNN Knowledge Graph |
-| 9 | cutis verticis gyrata | TxGNN Knowledge Graph |
-| 10 | visual epilepsy | TxGNN Knowledge Graph |
-| 11 | glossopharyngeal motor neuropathy | TxGNN Knowledge Graph |
-| 12 | epilepsy with generalized tonic-clonic seizures | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

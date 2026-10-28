@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CETIRIZINI DIHYDROCHLORIDUM
 drugbank_id: DB00341
-evidence_level: L5
 permalink: /drugs/cetirizini_dihydrochloridum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CETIRIZINI DIHYDROCHLORIDUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 10) |
+| Anzahl Zulassungen | mindestens 10 |
 | DrugBank ID | [DB00341](https://go.drugbank.com/drugs/DB00341) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | atopic conjunctivitis | TxGNN Knowledge Graph |
-| 2 | pharyngitis | TxGNN Knowledge Graph |
-| 3 | nasopharyngitis | TxGNN Knowledge Graph |
-| 4 | common cold | TxGNN Knowledge Graph |
-| 5 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 6 | papillary conjunctivitis | TxGNN Knowledge Graph |
-| 7 | vernal conjunctivitis | TxGNN Knowledge Graph |
-| 8 | allergic rhinitis | TxGNN Knowledge Graph |
-| 9 | idiopathic urticaria | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

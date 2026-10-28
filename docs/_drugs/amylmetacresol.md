@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Amylmetacresol: vorhergesagte neue Indikation Cauda-equina-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Entzündungen des Mund- und Rachenraumes"
 monitor_inn: "amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]

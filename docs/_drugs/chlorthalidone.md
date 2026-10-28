@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Chlorthalidone: vorhergesagte neue Indikation Primäres hereditäres Glaukom (Evidenzstufe L5). Ursprüngliche Indikation: Diuretikum, Antihypertensivum, Hypertonie"
 monitor_inn: "chlorthalidone"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]

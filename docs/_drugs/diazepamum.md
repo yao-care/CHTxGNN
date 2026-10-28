@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DIAZEPAMUM
 drugbank_id: DB00829
-evidence_level: L5
 permalink: /drugs/diazepamum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DIAZEPAMUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00829](https://go.drugbank.com/drugs/DB00829) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | status epilepticus | TxGNN Knowledge Graph |
-| 2 | Wernicke-Korsakoff syndrome | TxGNN Knowledge Graph |
-| 3 | anxiety | TxGNN Knowledge Graph |
-| 4 | alcohol withdrawal delirium | TxGNN Knowledge Graph |
-| 5 | epilepsy | TxGNN Knowledge Graph |
-| 6 | alcohol withdrawal | TxGNN Knowledge Graph |
-| 7 | tetanus | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ACICLOVIRUM
 drugbank_id: DB00787
-evidence_level: L5
 permalink: /drugs/aciclovirum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACICLOVIRUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 12 von 12) |
+| Anzahl Zulassungen | 12 (gültig: 12) |
 | DrugBank ID | [DB00787](https://go.drugbank.com/drugs/DB00787) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | herpes labialis | TxGNN Knowledge Graph |
-| 2 | herpes simplex infectious disease | TxGNN Knowledge Graph |
-| 3 | herpes simplex encephalitis | TxGNN Knowledge Graph |
-| 4 | herpes zoster | TxGNN Knowledge Graph |
-| 5 | genital herpes | TxGNN Knowledge Graph |
-| 6 | chickenpox | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

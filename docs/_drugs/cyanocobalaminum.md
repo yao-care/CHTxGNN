@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CYANOCOBALAMINUM
 drugbank_id: DB00115
-evidence_level: L5
 permalink: /drugs/cyanocobalaminum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CYANOCOBALAMINUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | DrugBank ID | [DB00115](https://go.drugbank.com/drugs/DB00115) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | vitamin deficiency disorder | TxGNN Knowledge Graph |
-| 2 | hypochromic anemia | TxGNN Knowledge Graph |
-| 3 | vitamin B12 deficiency | TxGNN Knowledge Graph |
-| 4 | iron deficiency anemia | TxGNN Knowledge Graph |
-| 5 | deficiency anemia | TxGNN Knowledge Graph |
-| 6 | microcytic anemia | TxGNN Knowledge Graph |
-| 7 | pernicious anemia | TxGNN Knowledge Graph |
-| 8 | folic acid deficiency anemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

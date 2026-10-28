@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: AMIKACINUM
 drugbank_id: DB00479
-evidence_level: L5
 permalink: /drugs/amikacinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # AMIKACINUM
@@ -17,33 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00479](https://go.drugbank.com/drugs/DB00479) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 17 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 2 | escherichia coli infection | TxGNN Knowledge Graph |
-| 3 | bacterial meningitis | TxGNN Knowledge Graph |
-| 4 | pneumonia caused by gram negative bacteria | TxGNN Knowledge Graph |
-| 5 | suppurative cholangitis | TxGNN Knowledge Graph |
-| 6 | arthropathy | TxGNN Knowledge Graph |
-| 7 | bacterial meningitis caused by gram-negative bacteria | TxGNN Knowledge Graph |
-| 8 | rhinoscleroma | TxGNN Knowledge Graph |
-| 9 | cholangitis | TxGNN Knowledge Graph |
-| 10 | viral meningitis | TxGNN Knowledge Graph |
-| 11 | Escherichia coli meningitis | TxGNN Knowledge Graph |
-| 12 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 13 | Pseudomonas aeruginosa infectious disease | TxGNN Knowledge Graph |
-| 14 | sclerosing cholangitis | TxGNN Knowledge Graph |
-| 15 | bacterial arthritis | TxGNN Knowledge Graph |
-| 16 | IgG4-related sclerosing cholangitis | TxGNN Knowledge Graph |
-| 17 | osteomyelitis (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TERAZOSINUM
 drugbank_id: DB01162
-evidence_level: L5
 permalink: /drugs/terazosinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TERAZOSINUM
@@ -18,19 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01162](https://go.drugbank.com/drugs/DB01162) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 3 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hypertension | TxGNN Knowledge Graph |
-| 2 | benign prostatic hyperplasia (disease) | TxGNN Knowledge Graph |
-| 3 | hypertensive disorder | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

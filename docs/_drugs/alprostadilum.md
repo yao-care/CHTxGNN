@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ALPROSTADILUM
 drugbank_id: DB00770
-evidence_level: L5
 permalink: /drugs/alprostadilum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ALPROSTADILUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB00770](https://go.drugbank.com/drugs/DB00770) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | erectile dysfunction (disease) | TxGNN Knowledge Graph |
-| 2 | psychologic dyspareunia | TxGNN Knowledge Graph |
-| 3 | tricuspid atresia (disease) | TxGNN Knowledge Graph |
-| 4 | autosomal dominant coarctation of aorta | TxGNN Knowledge Graph |
-| 5 | atypical coarctation of aorta | TxGNN Knowledge Graph |
-| 6 | double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis | TxGNN Knowledge Graph |
-| 7 | tetralogy of fallot | TxGNN Knowledge Graph |
-| 8 | aorta coarctation | TxGNN Knowledge Graph |
-| 9 | premature ejaculation (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

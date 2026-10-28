@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "glutamic acid"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Glutamic Acid: vorhergesagte neue Indikation postmenopausale Osteoporose (postmenopausal osteoporosis) (Evidenzstufe L5). Ursprüngliche Indikation: Tonique"
 ---
 

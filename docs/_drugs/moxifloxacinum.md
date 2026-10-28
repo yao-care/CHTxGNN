@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: MOXIFLOXACINUM
 drugbank_id: DB00218
-evidence_level: L5
 permalink: /drugs/moxifloxacinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MOXIFLOXACINUM
@@ -17,32 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB00218](https://go.drugbank.com/drugs/DB00218) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 16 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | acute contagious conjunctivitis | TxGNN Knowledge Graph |
-| 2 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 3 | Klebsiella pneumonia | TxGNN Knowledge Graph |
-| 4 | staphylococcal infection | TxGNN Knowledge Graph |
-| 5 | peritonitis | TxGNN Knowledge Graph |
-| 6 | Mycoplasma pneumoniae pneumonia | TxGNN Knowledge Graph |
-| 7 | streptococcal infection | TxGNN Knowledge Graph |
-| 8 | rhinoscleroma | TxGNN Knowledge Graph |
-| 9 | pneumonic plague | TxGNN Knowledge Graph |
-| 10 | septicemic plague | TxGNN Knowledge Graph |
-| 11 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 12 | plague | TxGNN Knowledge Graph |
-| 13 | conjunctivitis | TxGNN Knowledge Graph |
-| 14 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 15 | pneumonia caused by chlamydia | TxGNN Knowledge Graph |
-| 16 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

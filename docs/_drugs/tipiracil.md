@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Tipiracil: vorhergesagte neue Indikation Zäkum-Zottenadenom (cecum villous adenoma) (Evidenzstufe L5). Ursprüngliche Indikation: Metastasiertes kolorektales Karzinom, metastasiertes Magenkarzinom"
 monitor_inn: "tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]

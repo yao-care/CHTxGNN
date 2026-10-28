@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: IBUPROFENUM
 drugbank_id: DB01050
-evidence_level: L5
 permalink: /drugs/ibuprofenum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # IBUPROFENUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
+| Anzahl Zulassungen | mindestens 9 |
 | DrugBank ID | [DB01050](https://go.drugbank.com/drugs/DB01050) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | patent ductus arteriosus | TxGNN Knowledge Graph |
-| 2 | arthropathy | TxGNN Knowledge Graph |
-| 3 | headache disorder | TxGNN Knowledge Graph |
-| 4 | juvenile idiopathic arthritis | TxGNN Knowledge Graph |
-| 5 | spondyloarthropathy | TxGNN Knowledge Graph |
-| 6 | osteoarthritis susceptibility | TxGNN Knowledge Graph |
-| 7 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 8 | osteoarthritis | TxGNN Knowledge Graph |
-| 9 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: AMANTADINI HYDROCHLORIDUM
 drugbank_id: DB00915
-evidence_level: L5
 permalink: /drugs/amantadini_hydrochloridum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # AMANTADINI HYDROCHLORIDUM
@@ -17,29 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB00915](https://go.drugbank.com/drugs/DB00915) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 13 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hemiparkinsonism-hemiatrophy syndrome | TxGNN Knowledge Graph |
-| 2 | focal hand dystonia | TxGNN Knowledge Graph |
-| 3 | X-linked parkinsonism-spasticity syndrome | TxGNN Knowledge Graph |
-| 4 | parkinsonian disorder | TxGNN Knowledge Graph |
-| 5 | blepharospasm | TxGNN Knowledge Graph |
-| 6 | Parkinson disease | TxGNN Knowledge Graph |
-| 7 | juvenile onset Parkinson disease 19A | TxGNN Knowledge Graph |
-| 8 | atypical juvenile parkinsonism | TxGNN Knowledge Graph |
-| 9 | hereditary late onset Parkinson disease | TxGNN Knowledge Graph |
-| 10 | basal ganglia disease | TxGNN Knowledge Graph |
-| 11 | early-onset parkinsonism-intellectual disability syndrome | TxGNN Knowledge Graph |
-| 12 | postencephalitic Parkinson disease | TxGNN Knowledge Graph |
-| 13 | parkinsonian-pyramidal syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

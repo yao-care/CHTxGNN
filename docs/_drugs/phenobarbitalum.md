@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: PHENOBARBITALUM
 drugbank_id: DB01174
-evidence_level: L5
 permalink: /drugs/phenobarbitalum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PHENOBARBITALUM
@@ -17,28 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01174](https://go.drugbank.com/drugs/DB01174) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | migraine disorder | TxGNN Knowledge Graph |
-| 2 | paroxysmal Hemicrania | TxGNN Knowledge Graph |
-| 3 | hemicrania continua | TxGNN Knowledge Graph |
-| 4 | partial epilepsy | TxGNN Knowledge Graph |
-| 5 | epilepsy | TxGNN Knowledge Graph |
-| 6 | visual epilepsy | TxGNN Knowledge Graph |
-| 7 | cutis verticis gyrata | TxGNN Knowledge Graph |
-| 8 | Lennox-Gastaut syndrome | TxGNN Knowledge Graph |
-| 9 | obsolete vascular headache | TxGNN Knowledge Graph |
-| 10 | migraine with or without aura, susceptibility to | TxGNN Knowledge Graph |
-| 11 | cluster headache syndrome | TxGNN Knowledge Graph |
-| 12 | epilepsy with generalized tonic-clonic seizures | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

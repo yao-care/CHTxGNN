@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ETANERCEPTUM
 drugbank_id: DB00005
-evidence_level: L5
 permalink: /drugs/etanerceptum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ETANERCEPTUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
+| Anzahl Zulassungen | mindestens 9 |
 | DrugBank ID | [DB00005](https://go.drugbank.com/drugs/DB00005) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | juvenile idiopathic arthritis | TxGNN Knowledge Graph |
-| 2 | spondyloarthropathy | TxGNN Knowledge Graph |
-| 3 | spondyloarthropathy, susceptibility to | TxGNN Knowledge Graph |
-| 4 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 5 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph |
-| 6 | ankylosing spondylitis | TxGNN Knowledge Graph |
-| 7 | psoriatic arthritis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

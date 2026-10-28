@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: MERCAPTOPURINUM MONOHYDRICUM
 drugbank_id: DB01033
-evidence_level: L5
 permalink: /drugs/mercaptopurinum_monohydricum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MERCAPTOPURINUM MONOHYDRICUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB01033](https://go.drugbank.com/drugs/DB01033) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | acute lymphoblastic leukemia (disease) | TxGNN Knowledge Graph |
-| 2 | acute promyelocytic leukemia | TxGNN Knowledge Graph |
-| 3 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 4 | leukemia, lymphocytic, susceptibility to | TxGNN Knowledge Graph |
-| 5 | precursor T-cell acute lymphoblastic leukemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

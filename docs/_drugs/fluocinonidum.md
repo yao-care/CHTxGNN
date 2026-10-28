@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: FLUOCINONIDUM
 drugbank_id: DB01047
-evidence_level: L5
 permalink: /drugs/fluocinonidum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FLUOCINONIDUM
@@ -17,32 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01047](https://go.drugbank.com/drugs/DB01047) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 16 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | occupational dermatitis | TxGNN Knowledge Graph |
-| 2 | dermatitis, atopic | TxGNN Knowledge Graph |
-| 3 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 4 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 5 | discoid lupus erythematosus | TxGNN Knowledge Graph |
-| 6 | atopic eczema | TxGNN Knowledge Graph |
-| 7 | dermatitis | TxGNN Knowledge Graph |
-| 8 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 9 | granuloma annulare | TxGNN Knowledge Graph |
-| 10 | exanthem (disease) | TxGNN Knowledge Graph |
-| 11 | lichen disease | TxGNN Knowledge Graph |
-| 12 | chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph |
-| 13 | lupus erythematosus | TxGNN Knowledge Graph |
-| 14 | neurodermatitis | TxGNN Knowledge Graph |
-| 15 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 16 | contact dermatitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

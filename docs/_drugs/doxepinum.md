@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DOXEPINUM
 drugbank_id: DB01142
-evidence_level: L5
 permalink: /drugs/doxepinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DOXEPINUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01142](https://go.drugbank.com/drugs/DB01142) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | neurotic disorder | TxGNN Knowledge Graph |
-| 2 | dermatitis, atopic | TxGNN Knowledge Graph |
-| 3 | anxiety | TxGNN Knowledge Graph |
-| 4 | atopic eczema | TxGNN Knowledge Graph |
-| 5 | bipolar disorder | TxGNN Knowledge Graph |
-| 6 | anxiety disorder | TxGNN Knowledge Graph |
-| 7 | lichen disease | TxGNN Knowledge Graph |
-| 8 | dysthymic disorder | TxGNN Knowledge Graph |
-| 9 | neurodermatitis | TxGNN Knowledge Graph |
-| 10 | insomnia (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

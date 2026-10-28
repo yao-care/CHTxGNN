@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CARMUSTINUM
 drugbank_id: DB00262
-evidence_level: L5
 permalink: /drugs/carmustinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CARMUSTINUM
@@ -17,68 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00262](https://go.drugbank.com/drugs/DB00262) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 52 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | mantle cell lymphoma | TxGNN Knowledge Graph |
-| 2 | Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly | TxGNN Knowledge Graph |
-| 3 | diffuse large B-cell lymphoma of the central nervous system | TxGNN Knowledge Graph |
-| 4 | oligoastrocytoma | TxGNN Knowledge Graph |
-| 5 | ependymoblastoma | TxGNN Knowledge Graph |
-| 6 | intravascular large B-cell lymphoma | TxGNN Knowledge Graph |
-| 7 | protoplasmic astrocytoma | TxGNN Knowledge Graph |
-| 8 | angiocentric glioma | TxGNN Knowledge Graph |
-| 9 | glioma | TxGNN Knowledge Graph |
-| 10 | oligodendroglial tumor | TxGNN Knowledge Graph |
-| 11 | anaplastic ependymoma | TxGNN Knowledge Graph |
-| 12 | brain cancer | TxGNN Knowledge Graph |
-| 13 | gemistocytic astrocytoma | TxGNN Knowledge Graph |
-| 14 | embryonal carcinoma of the central nervous system | TxGNN Knowledge Graph |
-| 15 | pleomorphic xanthoastrocytoma | TxGNN Knowledge Graph |
-| 16 | diffuse large B-cell lymphoma | TxGNN Knowledge Graph |
-| 17 | gliosarcoma | TxGNN Knowledge Graph |
-| 18 | Hodgkin's paragranuloma | TxGNN Knowledge Graph |
-| 19 | pilomyxoid astrocytoma | TxGNN Knowledge Graph |
-| 20 | juvenile pilocytic astrocytoma | TxGNN Knowledge Graph |
-| 21 | plasmablastic lymphoma | TxGNN Knowledge Graph |
-| 22 | malignant glioma | TxGNN Knowledge Graph |
-| 23 | anaplastic oligoastrocytoma | TxGNN Knowledge Graph |
-| 24 | B-cell neoplasm | TxGNN Knowledge Graph |
-| 25 | anaplastic astrocytoma | TxGNN Knowledge Graph |
-| 26 | classic Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 27 | pituicytoma | TxGNN Knowledge Graph |
-| 28 | T-cell/histiocyte rich large B cell lymphoma | TxGNN Knowledge Graph |
-| 29 | ALK-positive large B-cell lymphoma | TxGNN Knowledge Graph |
-| 30 | chordoid glioma of the third ventricle | TxGNN Knowledge Graph |
-| 31 | classic Hodgkin lymphoma, lymphocyte-rich type | TxGNN Knowledge Graph |
-| 32 | lymphoma | TxGNN Knowledge Graph |
-| 33 | giant cell glioblastoma | TxGNN Knowledge Graph |
-| 34 | brain glioblastoma | TxGNN Knowledge Graph |
-| 35 | non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 36 | obsolete Hodgkin's granuloma | TxGNN Knowledge Graph |
-| 37 | embryonal carcinoma | TxGNN Knowledge Graph |
-| 38 | primary cutaneous diffuse large B-cell lymphoma, Leg type | TxGNN Knowledge Graph |
-| 39 | peripheral primitive neuroectodermal tumor | TxGNN Knowledge Graph |
-| 40 | plasma cell myeloma | TxGNN Knowledge Graph |
-| 41 | astroblastoma | TxGNN Knowledge Graph |
-| 42 | lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph |
-| 43 | primary central nervous system lymphoma | TxGNN Knowledge Graph |
-| 44 | lymphosarcoma | TxGNN Knowledge Graph |
-| 45 | Hodgkins lymphoma | TxGNN Knowledge Graph |
-| 46 | Langerhans cell histiocytosis | TxGNN Knowledge Graph |
-| 47 | diffuse astrocytoma | TxGNN Knowledge Graph |
-| 48 | glioblastoma (disease) | TxGNN Knowledge Graph |
-| 49 | fibrillary astrocytoma | TxGNN Knowledge Graph |
-| 50 | anaplastic oligodendroglioma | TxGNN Knowledge Graph |
-
-*(Zeige die ersten 50 von 52)*
 
 ## Haftungsausschluss
 

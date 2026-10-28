@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PITAVASTATINUM
 drugbank_id: DB08860
-evidence_level: L5
 permalink: /drugs/pitavastatinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PITAVASTATINUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB08860](https://go.drugbank.com/drugs/DB08860) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hyperlipidemia, familial combined, LPL related | TxGNN Knowledge Graph |
-| 2 | obsolete familial combined hyperlipidemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

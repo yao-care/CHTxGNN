@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: METOPROLOLI TARTRAS
 drugbank_id: DB00264
-evidence_level: L5
 permalink: /drugs/metoprololi_tartras/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # METOPROLOLI TARTRAS
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Anzahl Zulassungen | mindestens 3 |
 | DrugBank ID | [DB00264](https://go.drugbank.com/drugs/DB00264) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | acute coronary syndrome | TxGNN Knowledge Graph |
-| 2 | hypertension | TxGNN Knowledge Graph |
-| 3 | hypertensive disorder | TxGNN Knowledge Graph |
-| 4 | myocardial infarction (disease) | TxGNN Knowledge Graph |
-| 5 | coronary thrombosis | TxGNN Knowledge Graph |
-| 6 | myocardial infarction | TxGNN Knowledge Graph |
-| 7 | hemoglobinopathy | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

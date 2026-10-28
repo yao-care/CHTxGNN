@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Avibactam: vorhergesagte neue Indikation Ureter-Tuberkulose (ureter tuberculosis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 

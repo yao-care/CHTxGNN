@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: NICOTINUM
 drugbank_id: DB00184
-evidence_level: L5
 permalink: /drugs/nicotinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # NICOTINUM
@@ -18,19 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
+| Anzahl Zulassungen | mindestens 6 |
 | DrugBank ID | [DB00184](https://go.drugbank.com/drugs/DB00184) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 3 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | pellagra | TxGNN Knowledge Graph |
-| 2 | nicotine dependence | TxGNN Knowledge Graph |
-| 3 | beriberi | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

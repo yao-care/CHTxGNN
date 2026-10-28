@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: PREDNICARBATUM
 drugbank_id: DB01130
-evidence_level: L5
 permalink: /drugs/prednicarbatum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PREDNICARBATUM
@@ -17,31 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB01130](https://go.drugbank.com/drugs/DB01130) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 15 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | occupational dermatitis | TxGNN Knowledge Graph |
-| 2 | dermatitis, atopic | TxGNN Knowledge Graph |
-| 3 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 4 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 5 | discoid lupus erythematosus | TxGNN Knowledge Graph |
-| 6 | atopic eczema | TxGNN Knowledge Graph |
-| 7 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 8 | granuloma annulare | TxGNN Knowledge Graph |
-| 9 | exanthem (disease) | TxGNN Knowledge Graph |
-| 10 | lichen disease | TxGNN Knowledge Graph |
-| 11 | chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph |
-| 12 | lupus erythematosus | TxGNN Knowledge Graph |
-| 13 | neurodermatitis | TxGNN Knowledge Graph |
-| 14 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 15 | contact dermatitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

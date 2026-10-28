@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CANAKINUMABUM
 drugbank_id: DB06168
-evidence_level: L5
 permalink: /drugs/canakinumabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CANAKINUMABUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB06168](https://go.drugbank.com/drugs/DB06168) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | gout | TxGNN Knowledge Graph |
-| 2 | autosomal dominant familial periodic fever | TxGNN Knowledge Graph |
-| 3 | cryopyrin-associated periodic syndrome | TxGNN Knowledge Graph |
-| 4 | juvenile idiopathic arthritis | TxGNN Knowledge Graph |
-| 5 | autosomal recessive familial Mediterranean fever | TxGNN Knowledge Graph |
-| 6 | mevalonic aciduria | TxGNN Knowledge Graph |
-| 7 | systemic-onset juvenile idiopathic arthritis | TxGNN Knowledge Graph |
-| 8 | familial Mediterranean fever | TxGNN Knowledge Graph |
-| 9 | mevalonate kinase deficiency | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

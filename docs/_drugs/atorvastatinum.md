@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ATORVASTATINUM
 drugbank_id: DB01076
-evidence_level: L5
 permalink: /drugs/atorvastatinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ATORVASTATINUM
@@ -18,28 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
+| Anzahl Zulassungen | mindestens 2 |
 | DrugBank ID | [DB01076](https://go.drugbank.com/drugs/DB01076) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Prinzmetal angina | TxGNN Knowledge Graph |
-| 2 | atherosclerosis | TxGNN Knowledge Graph |
-| 3 | cerebrovascular disorder | TxGNN Knowledge Graph |
-| 4 | homozygous familial hypercholesterolemia | TxGNN Knowledge Graph |
-| 5 | hypertriglyceridemia (disease) | TxGNN Knowledge Graph |
-| 6 | cerebral infarction | TxGNN Knowledge Graph |
-| 7 | stroke disorder | TxGNN Knowledge Graph |
-| 8 | arteriosclerosis disorder | TxGNN Knowledge Graph |
-| 9 | obsolete familial combined hyperlipidemia | TxGNN Knowledge Graph |
-| 10 | hyperlipidemia, familial combined, LPL related | TxGNN Knowledge Graph |
-| 11 | hyperlipoproteinemia | TxGNN Knowledge Graph |
-| 12 | obsolete susceptibility to ischemic stroke | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

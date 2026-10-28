@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ACETYLCYSTEINUM
 drugbank_id: DB06151
-evidence_level: L5
 permalink: /drugs/acetylcysteinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACETYLCYSTEINUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
+| Anzahl Zulassungen | mindestens 9 |
 | DrugBank ID | [DB06151](https://go.drugbank.com/drugs/DB06151) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | bronchitis | TxGNN Knowledge Graph |
-| 2 | paracetamol poisoning | TxGNN Knowledge Graph |
-| 3 | bronchiectasis | TxGNN Knowledge Graph |
-| 4 | AL amyloidosis | TxGNN Knowledge Graph |
-| 5 | cystic fibrosis | TxGNN Knowledge Graph |
-| 6 | amyloidosis (disease) | TxGNN Knowledge Graph |
-| 7 | idiopathic bronchiectasis | TxGNN Knowledge Graph |
-| 8 | AH amyloidosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

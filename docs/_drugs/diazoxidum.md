@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DIAZOXIDUM
 drugbank_id: DB01119
-evidence_level: L5
 permalink: /drugs/diazoxidum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DIAZOXIDUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01119](https://go.drugbank.com/drugs/DB01119) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hyperinsulinemic hypoglycemia, familial | TxGNN Knowledge Graph |
-| 2 | Zollinger-Ellison syndrome | TxGNN Knowledge Graph |
-| 3 | congenital isolated hyperinsulinism | TxGNN Knowledge Graph |
-| 4 | hyperinsulinemic hypoglycemia | TxGNN Knowledge Graph |
-| 5 | pancreatic insulinoma | TxGNN Knowledge Graph |
-| 6 | islet cell adenomatosis | TxGNN Knowledge Graph |
-| 7 | endocrine pancreas disease | TxGNN Knowledge Graph |
-| 8 | pancreatic insulin-producing neuroendocrine tumor | TxGNN Knowledge Graph |
-| 9 | hyperinsulinism (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

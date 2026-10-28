@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "valine"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Valine: vorhergesagte neue Indikation Sklerosierende Cholangitis (sclerosing cholangitis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 

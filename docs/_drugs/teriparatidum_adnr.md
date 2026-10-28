@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TERIPARATIDUM ADNR
 drugbank_id: DB06285
-evidence_level: L5
 permalink: /drugs/teriparatidum_adnr/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TERIPARATIDUM ADNR
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB06285](https://go.drugbank.com/drugs/DB06285) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | postmenopausal osteoporosis | TxGNN Knowledge Graph |
-| 2 | osteoporosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DULOXETINUM
 drugbank_id: DB00476
-evidence_level: L5
 permalink: /drugs/duloxetinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DULOXETINUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Anzahl Zulassungen | mindestens 3 |
 | DrugBank ID | [DB00476](https://go.drugbank.com/drugs/DB00476) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | fibromyalgia | TxGNN Knowledge Graph |
-| 2 | endogenous depression | TxGNN Knowledge Graph |
-| 3 | female stress incontinence | TxGNN Knowledge Graph |
-| 4 | anxiety disorder | TxGNN Knowledge Graph |
-| 5 | major depressive disorder | TxGNN Knowledge Graph |
-| 6 | unipolar depression | TxGNN Knowledge Graph |
-| 7 | myofascial pain syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

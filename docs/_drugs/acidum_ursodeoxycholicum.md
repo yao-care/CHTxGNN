@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ACIDUM URSODEOXYCHOLICUM
 drugbank_id: DB01586
-evidence_level: L5
 permalink: /drugs/acidum_ursodeoxycholicum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACIDUM URSODEOXYCHOLICUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB01586](https://go.drugbank.com/drugs/DB01586) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | primary biliary cholangitis | TxGNN Knowledge Graph |
-| 2 | cholelithiasis | TxGNN Knowledge Graph |
-| 3 | cholecystolithiasis | TxGNN Knowledge Graph |
-| 4 | choledocholithiasis | TxGNN Knowledge Graph |
-| 5 | Reynolds syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

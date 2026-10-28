@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CYCLOPHOSPHAMIDUM ANHYDRICUM
 drugbank_id: DB00531
-evidence_level: L5
 permalink: /drugs/cyclophosphamidum_anhydricum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CYCLOPHOSPHAMIDUM ANHYDRICUM
@@ -17,30 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00531](https://go.drugbank.com/drugs/DB00531) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 14 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | retinal neuroblastoma | TxGNN Knowledge Graph |
-| 2 | localized pagetoid reticulosis | TxGNN Knowledge Graph |
-| 3 | plasma cell myeloma | TxGNN Knowledge Graph |
-| 4 | primary central nervous system lymphoma | TxGNN Knowledge Graph |
-| 5 | breast neoplasm | TxGNN Knowledge Graph |
-| 6 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 7 | lymphosarcoma | TxGNN Knowledge Graph |
-| 8 | retinoblastoma | TxGNN Knowledge Graph |
-| 9 | lymphoma | TxGNN Knowledge Graph |
-| 10 | breast carcinoma | TxGNN Knowledge Graph |
-| 11 | granulomatous slack skin disease | TxGNN Knowledge Graph |
-| 12 | neuroblastoma | TxGNN Knowledge Graph |
-| 13 | folliculotropic mycosis fungoides | TxGNN Knowledge Graph |
-| 14 | mycosis fungoides and variants | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

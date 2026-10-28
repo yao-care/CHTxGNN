@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DESMOPRESSINUM
 drugbank_id: DB00035
-evidence_level: L5
 permalink: /drugs/desmopressinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DESMOPRESSINUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 8) |
+| Anzahl Zulassungen | 8 (gültig: 8) |
 | DrugBank ID | [DB00035](https://go.drugbank.com/drugs/DB00035) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | von Willebrand disease (hereditary or acquired) | TxGNN Knowledge Graph |
-| 2 | hemophilia | TxGNN Knowledge Graph |
-| 3 | nocturnal enuresis | TxGNN Knowledge Graph |
-| 4 | von Willebrand disease | TxGNN Knowledge Graph |
-| 5 | symptomatic form of hemophilia in female carriers | TxGNN Knowledge Graph |
-| 6 | hereditary von Willebrand disease | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

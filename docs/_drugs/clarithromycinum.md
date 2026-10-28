@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CLARITHROMYCINUM
 drugbank_id: DB01211
-evidence_level: L5
 permalink: /drugs/clarithromycinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CLARITHROMYCINUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB01211](https://go.drugbank.com/drugs/DB01211) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | pneumonia caused by chlamydia | TxGNN Knowledge Graph |
-| 2 | staphylococcal infection | TxGNN Knowledge Graph |
-| 3 | Mycoplasma pneumoniae pneumonia | TxGNN Knowledge Graph |
-| 4 | streptococcal infection | TxGNN Knowledge Graph |
-| 5 | infectious otitis media | TxGNN Knowledge Graph |
-| 6 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 7 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 8 | maxillary sinusitis | TxGNN Knowledge Graph |
-| 9 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

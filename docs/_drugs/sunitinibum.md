@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: SUNITINIBUM
 drugbank_id: DB01268
-evidence_level: L5
 permalink: /drugs/sunitinibum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # SUNITINIBUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB01268](https://go.drugbank.com/drugs/DB01268) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | gastrointestinal stromal tumor | TxGNN Knowledge Graph |
-| 2 | renal cell adenocarcinoma | TxGNN Knowledge Graph |
-| 3 | nonpapillary renal cell carcinoma | TxGNN Knowledge Graph |
-| 4 | renal cell carcinoma (disease) | TxGNN Knowledge Graph |
-| 5 | clear cell renal carcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CODEINI PHOSPHAS HEMIHYDRICUS
 drugbank_id: DB00318
-evidence_level: L5
 permalink: /drugs/codeini_phosphas_hemihydricus/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CODEINI PHOSPHAS HEMIHYDRICUS
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
+| Anzahl Zulassungen | 9 (gültig: 9) |
 | DrugBank ID | [DB00318](https://go.drugbank.com/drugs/DB00318) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | rhinitis | TxGNN Knowledge Graph |
-| 2 | headache disorder | TxGNN Knowledge Graph |
-| 3 | pharyngitis | TxGNN Knowledge Graph |
-| 4 | nasopharyngitis | TxGNN Knowledge Graph |
-| 5 | common cold | TxGNN Knowledge Graph |
-| 6 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 7 | allergic rhinitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

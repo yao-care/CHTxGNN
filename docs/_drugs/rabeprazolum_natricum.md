@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: RABEPRAZOLUM NATRICUM
 drugbank_id: DB01129
-evidence_level: L5
 permalink: /drugs/rabeprazolum_natricum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # RABEPRAZOLUM NATRICUM
@@ -18,27 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB01129](https://go.drugbank.com/drugs/DB01129) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 11 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | esophagitis (disease) | TxGNN Knowledge Graph |
-| 2 | peptic esophagitis | TxGNN Knowledge Graph |
-| 3 | Zollinger-Ellison syndrome | TxGNN Knowledge Graph |
-| 4 | systemic mastocytosis | TxGNN Knowledge Graph |
-| 5 | mastocytosis | TxGNN Knowledge Graph |
-| 6 | gastroesophageal reflux disease | TxGNN Knowledge Graph |
-| 7 | duodenal ulcer (disease) | TxGNN Knowledge Graph |
-| 8 | multiple endocrine neoplasia | TxGNN Knowledge Graph |
-| 9 | peptic ulcer disease | TxGNN Knowledge Graph |
-| 10 | gastrin secretion abnormality | TxGNN Knowledge Graph |
-| 11 | hyperinsulinism (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

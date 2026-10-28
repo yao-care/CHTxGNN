@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: ERYTHROMYCINUM
 drugbank_id: DB00199
-evidence_level: L5
 permalink: /drugs/erythromycinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ERYTHROMYCINUM
@@ -17,38 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00199](https://go.drugbank.com/drugs/DB00199) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 22 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | streptococcal infection | TxGNN Knowledge Graph |
-| 2 | pertussis | TxGNN Knowledge Graph |
-| 3 | ophthalmia neonatorum | TxGNN Knowledge Graph |
-| 4 | erythrasma | TxGNN Knowledge Graph |
-| 5 | acne (disease) | TxGNN Knowledge Graph |
-| 6 | syphilis | TxGNN Knowledge Graph |
-| 7 | acute gonococcal cervicitis | TxGNN Knowledge Graph |
-| 8 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 9 | infectious otitis media | TxGNN Knowledge Graph |
-| 10 | acute gonococcal endometritis | TxGNN Knowledge Graph |
-| 11 | conjunctivitis | TxGNN Knowledge Graph |
-| 12 | diphtheria | TxGNN Knowledge Graph |
-| 13 | urethritis (disease) | TxGNN Knowledge Graph |
-| 14 | listeriosis | TxGNN Knowledge Graph |
-| 15 | actinomycosis | TxGNN Knowledge Graph |
-| 16 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 17 | staphylococcus aureus infection | TxGNN Knowledge Graph |
-| 18 | gonorrhea | TxGNN Knowledge Graph |
-| 19 | staphylococcal infection | TxGNN Knowledge Graph |
-| 20 | Mycoplasma pneumoniae pneumonia | TxGNN Knowledge Graph |
-| 21 | cat-scratch disease | TxGNN Knowledge Graph |
-| 22 | pneumonia caused by chlamydia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

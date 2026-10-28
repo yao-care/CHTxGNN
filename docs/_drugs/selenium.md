@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SELENIUM"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Selenium: vorhergesagte neue Indikation sklerosierende Cholangitis (sclerosing cholangitis) (Evidenzstufe L5). Ursprüngliche Indikation: Nachgewiesener Selenmangel"
 ---
 

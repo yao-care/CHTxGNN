@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: PREDNISONUM
 drugbank_id: DB00635
-evidence_level: L5
 permalink: /drugs/prednisonum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PREDNISONUM
@@ -17,68 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB00635](https://go.drugbank.com/drugs/DB00635) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 109 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly | TxGNN Knowledge Graph |
-| 2 | heparin-induced thrombocytopenia (disease) | TxGNN Knowledge Graph |
-| 3 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph |
-| 4 | ankylosing spondylitis | TxGNN Knowledge Graph |
-| 5 | actinic keratosis (disease) | TxGNN Knowledge Graph |
-| 6 | nephrotic syndrome | TxGNN Knowledge Graph |
-| 7 | skin disease | TxGNN Knowledge Graph |
-| 8 | allergic rhinitis | TxGNN Knowledge Graph |
-| 9 | Trichinellosis | TxGNN Knowledge Graph |
-| 10 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 11 | T-cell/histiocyte rich large B cell lymphoma | TxGNN Knowledge Graph |
-| 12 | lymphoma | TxGNN Knowledge Graph |
-| 13 | exfoliative dermatitis | TxGNN Knowledge Graph |
-| 14 | non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 15 | obsolete Hodgkin's granuloma | TxGNN Knowledge Graph |
-| 16 | neoplasm of mature B-cells | TxGNN Knowledge Graph |
-| 17 | inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency | TxGNN Knowledge Graph |
-| 18 | psoriasis | TxGNN Knowledge Graph |
-| 19 | thyroiditis (disease) | TxGNN Knowledge Graph |
-| 20 | autoimmune thrombocytopenic | TxGNN Knowledge Graph |
-| 21 | inflammatory bowel disease | TxGNN Knowledge Graph |
-| 22 | Crohn disease | TxGNN Knowledge Graph |
-| 23 | allergic asthma | TxGNN Knowledge Graph |
-| 24 | acquired angioedema | TxGNN Knowledge Graph |
-| 25 | serum sickness | TxGNN Knowledge Graph |
-| 26 | ALK-positive large B-cell lymphoma | TxGNN Knowledge Graph |
-| 27 | gout | TxGNN Knowledge Graph |
-| 28 | dermatitis, atopic | TxGNN Knowledge Graph |
-| 29 | Addison disease | TxGNN Knowledge Graph |
-| 30 | intravascular large B-cell lymphoma | TxGNN Knowledge Graph |
-| 31 | acute lymphoblastic leukemia (disease) | TxGNN Knowledge Graph |
-| 32 | plasmablastic lymphoma | TxGNN Knowledge Graph |
-| 33 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 34 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 35 | autoimmune disease | TxGNN Knowledge Graph |
-| 36 | adrenocortical insufficiency | TxGNN Knowledge Graph |
-| 37 | adrenal insufficiency | TxGNN Knowledge Graph |
-| 38 | dermatitis herpetiformis | TxGNN Knowledge Graph |
-| 39 | asthma | TxGNN Knowledge Graph |
-| 40 | lipoid nephrosis | TxGNN Knowledge Graph |
-| 41 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 42 | primary cutaneous diffuse large B-cell lymphoma, Leg type | TxGNN Knowledge Graph |
-| 43 | erythema multiforme | TxGNN Knowledge Graph |
-| 44 | atopic eczema | TxGNN Knowledge Graph |
-| 45 | familial nephrotic syndrome | TxGNN Knowledge Graph |
-| 46 | Hodgkins lymphoma | TxGNN Knowledge Graph |
-| 47 | rheumatic heart disease | TxGNN Knowledge Graph |
-| 48 | primary mediastinal large B-cell lymphoma | TxGNN Knowledge Graph |
-| 49 | X-linked adrenal hypoplasia congenita | TxGNN Knowledge Graph |
-| 50 | localized pagetoid reticulosis | TxGNN Knowledge Graph |
-
-*(Zeige die ersten 50 von 109)*
 
 ## Haftungsausschluss
 

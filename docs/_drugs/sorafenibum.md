@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: SORAFENIBUM
 drugbank_id: DB00398
-evidence_level: L5
 permalink: /drugs/sorafenibum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # SORAFENIBUM
@@ -17,28 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00398](https://go.drugbank.com/drugs/DB00398) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | adenocarcinoma of liver and intrahepatic biliary tract | TxGNN Knowledge Graph |
-| 2 | hepatocellular carcinoma | TxGNN Knowledge Graph |
-| 3 | pediatric hepatocellular carcinoma | TxGNN Knowledge Graph |
-| 4 | squamous cell carcinoma of liver and intrahepatic biliary tract | TxGNN Knowledge Graph |
-| 5 | nonpapillary renal cell carcinoma | TxGNN Knowledge Graph |
-| 6 | fibrolamellar hepatocellular carcinoma | TxGNN Knowledge Graph |
-| 7 | undifferentiated carcinoma of liver and intrahepatic biliary tract | TxGNN Knowledge Graph |
-| 8 | renal cell adenocarcinoma | TxGNN Knowledge Graph |
-| 9 | thyroid gland carcinoma | TxGNN Knowledge Graph |
-| 10 | renal cell carcinoma (disease) | TxGNN Knowledge Graph |
-| 11 | liver cancer | TxGNN Knowledge Graph |
-| 12 | clear cell renal carcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

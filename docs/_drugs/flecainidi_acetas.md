@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: FLECAINIDI ACETAS
 drugbank_id: DB01195
-evidence_level: L5
 permalink: /drugs/flecainidi_acetas/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FLECAINIDI ACETAS
@@ -18,17 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB01195](https://go.drugbank.com/drugs/DB01195) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 1 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | atrial fibrillation (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

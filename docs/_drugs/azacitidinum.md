@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: AZACITIDINUM
 drugbank_id: DB00928
-evidence_level: L5
 permalink: /drugs/azacitidinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # AZACITIDINUM
@@ -17,33 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 8) |
+| Anzahl Zulassungen | 8 (gültig: 8) |
 | DrugBank ID | [DB00928](https://go.drugbank.com/drugs/DB00928) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 17 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | acute myeloid leukemia with t(8;21)(q22;q22) translocation | TxGNN Knowledge Graph |
-| 2 | acute myeloblastic leukemia without maturation | TxGNN Knowledge Graph |
-| 3 | myeloid leukemia | TxGNN Knowledge Graph |
-| 4 | acute myeloid leukemia with minimal differentiation | TxGNN Knowledge Graph |
-| 5 | acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) | TxGNN Knowledge Graph |
-| 6 | myelomonocytic leukemia | TxGNN Knowledge Graph |
-| 7 | acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor | TxGNN Knowledge Graph |
-| 8 | acute myeloid leukemia with t(8;16)(p11;p13) translocation | TxGNN Knowledge Graph |
-| 9 | acute myeloblastic leukemia with maturation | TxGNN Knowledge Graph |
-| 10 | unclassified acute myeloid leukemia | TxGNN Knowledge Graph |
-| 11 | acute myeloid leukemia with t(6;9)(p23;q34) | TxGNN Knowledge Graph |
-| 12 | acute myeloid leukemia with NPM1 somatic mutations | TxGNN Knowledge Graph |
-| 13 | myelodysplastic syndrome | TxGNN Knowledge Graph |
-| 14 | acute myeloid leukemia with CEBPA somatic mutations | TxGNN Knowledge Graph |
-| 15 | acute myeloid leukemia with t(9;11)(p22;q23) | TxGNN Knowledge Graph |
-| 16 | therapy related acute myeloid leukemia and myelodysplastic syndrome | TxGNN Knowledge Graph |
-| 17 | inherited acute myeloid leukemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

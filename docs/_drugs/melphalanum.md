@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: MELPHALANUM
 drugbank_id: DB01042
-evidence_level: L5
 permalink: /drugs/melphalanum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MELPHALANUM
@@ -17,38 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB01042](https://go.drugbank.com/drugs/DB01042) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 22 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | yolk sac tumor | TxGNN Knowledge Graph |
-| 2 | hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph |
-| 3 | ovarian adenocarcinoma | TxGNN Knowledge Graph |
-| 4 | familial ovarian cancer | TxGNN Knowledge Graph |
-| 5 | malignant germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 6 | ovarian clear cell adenocarcinoma | TxGNN Knowledge Graph |
-| 7 | malignant non-dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 8 | hereditary site-specific ovarian cancer syndrome | TxGNN Knowledge Graph |
-| 9 | borderline epithelial tumor of ovary | TxGNN Knowledge Graph |
-| 10 | ovarian carcinosarcoma | TxGNN Knowledge Graph |
-| 11 | primary non-gestational choriocarcinoma of ovary | TxGNN Knowledge Graph |
-| 12 | ovarian cancer | TxGNN Knowledge Graph |
-| 13 | malignant sex cord stromal tumor of ovary | TxGNN Knowledge Graph |
-| 14 | immature ovarian teratoma | TxGNN Knowledge Graph |
-| 15 | maligant granulosa cell tumor of ovary | TxGNN Knowledge Graph |
-| 16 | malignant dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 17 | ovarian small cell carcinoma | TxGNN Knowledge Graph |
-| 18 | plasma cell myeloma | TxGNN Knowledge Graph |
-| 19 | malignant Sertoli-Leydig cell tumor of ovary | TxGNN Knowledge Graph |
-| 20 | theca steroid-producing cell malignant tumor of ovary, not further specified | TxGNN Knowledge Graph |
-| 21 | ovarian endometrioid adenocarcinoma | TxGNN Knowledge Graph |
-| 22 | ovarian mucinous adenocarcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

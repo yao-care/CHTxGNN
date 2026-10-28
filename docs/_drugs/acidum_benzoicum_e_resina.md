@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ACIDUM BENZOICUM E RESINA
 drugbank_id: DB03793
-evidence_level: L5
 permalink: /drugs/acidum_benzoicum_e_resina/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACIDUM BENZOICUM E RESINA
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | DrugBank ID | [DB03793](https://go.drugbank.com/drugs/DB03793) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | scleroderma (disease) | TxGNN Knowledge Graph |
-| 2 | localized scleroderma | TxGNN Knowledge Graph |
-| 3 | Peyronie disease | TxGNN Knowledge Graph |
-| 4 | balanitis xerotica obliterans | TxGNN Knowledge Graph |
-| 5 | dermatomyositis | TxGNN Knowledge Graph |
-| 6 | systemic sclerosis | TxGNN Knowledge Graph |
-| 7 | pemphigus | TxGNN Knowledge Graph |
-| 8 | penile fibromatosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: HEPARINUM NATRICUM
 drugbank_id: DB01109
-evidence_level: L5
 permalink: /drugs/heparinum_natricum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # HEPARINUM NATRICUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 12) |
+| Anzahl Zulassungen | mindestens 12 |
 | DrugBank ID | [DB01109](https://go.drugbank.com/drugs/DB01109) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | disseminated intravascular coagulation | TxGNN Knowledge Graph |
-| 2 | pulmonary embolism (disease) | TxGNN Knowledge Graph |
-| 3 | purpura fulminans | TxGNN Knowledge Graph |
-| 4 | acquired purpura fulminans | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

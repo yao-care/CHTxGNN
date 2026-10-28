@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: AZTREONAMUM
 drugbank_id: DB00355
-evidence_level: L5
 permalink: /drugs/aztreonamum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # AZTREONAMUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00355](https://go.drugbank.com/drugs/DB00355) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | escherichia coli infection | TxGNN Knowledge Graph |
-| 2 | peritonitis | TxGNN Knowledge Graph |
-| 3 | rhinoscleroma | TxGNN Knowledge Graph |
-| 4 | Pseudomonas aeruginosa infectious disease | TxGNN Knowledge Graph |
-| 5 | endometritis | TxGNN Knowledge Graph |
-| 6 | urinary tract infection (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

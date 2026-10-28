@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: FLURBIPROFENUM
 drugbank_id: DB00712
-evidence_level: L5
 permalink: /drugs/flurbiprofenum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FLURBIPROFENUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 13 von 13) |
+| Anzahl Zulassungen | 13 (gültig: 13) |
 | DrugBank ID | [DB00712](https://go.drugbank.com/drugs/DB00712) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | arthropathy | TxGNN Knowledge Graph |
-| 2 | osteoarthritis | TxGNN Knowledge Graph |
-| 3 | osteoarthritis susceptibility | TxGNN Knowledge Graph |
-| 4 | rheumatoid arthritis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

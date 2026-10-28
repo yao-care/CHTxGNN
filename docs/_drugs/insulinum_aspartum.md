@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: INSULINUM ASPARTUM
 drugbank_id: DB01306
-evidence_level: L5
 permalink: /drugs/insulinum_aspartum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # INSULINUM ASPARTUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
+| Anzahl Zulassungen | 9 (gültig: 9) |
 | DrugBank ID | [DB01306](https://go.drugbank.com/drugs/DB01306) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | diabetic ketoacidosis | TxGNN Knowledge Graph |
-| 2 | diabetes mellitus (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

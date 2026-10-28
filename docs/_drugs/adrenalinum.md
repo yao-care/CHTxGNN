@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ADRENALINUM
 drugbank_id: DB00668
-evidence_level: L5
 permalink: /drugs/adrenalinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ADRENALINUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB00668](https://go.drugbank.com/drugs/DB00668) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | bronchitis | TxGNN Knowledge Graph |
-| 2 | open-angle glaucoma | TxGNN Knowledge Graph |
-| 3 | asthma | TxGNN Knowledge Graph |
-| 4 | bronchiectasis | TxGNN Knowledge Graph |
-| 5 | hypotensive disorder | TxGNN Knowledge Graph |
-| 6 | pulmonary emphysema | TxGNN Knowledge Graph |
-| 7 | idiopathic bronchiectasis | TxGNN Knowledge Graph |
-| 8 | anaphylaxis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

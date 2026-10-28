@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CHOLECALCIFEROLUM
 drugbank_id: DB00169
-evidence_level: L5
 permalink: /drugs/cholecalciferolum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CHOLECALCIFEROLUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB00169](https://go.drugbank.com/drugs/DB00169) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | vitamin deficiency disorder | TxGNN Knowledge Graph |
-| 2 | osteomalacia (disease) | TxGNN Knowledge Graph |
-| 3 | hypoparathyroidism | TxGNN Knowledge Graph |
-| 4 | rickets (disease) | TxGNN Knowledge Graph |
-| 5 | postmenopausal osteoporosis | TxGNN Knowledge Graph |
-| 6 | osteoporosis | TxGNN Knowledge Graph |
-| 7 | hypercalcemia disease | TxGNN Knowledge Graph |
-| 8 | obsolete vitamin D deficiency | TxGNN Knowledge Graph |
-| 9 | phosphorus metabolism disease | TxGNN Knowledge Graph |
-| 10 | nephrocalcinosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

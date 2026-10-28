@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ETODOLACUM
 drugbank_id: DB00749
-evidence_level: L5
 permalink: /drugs/etodolacum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ETODOLACUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB00749](https://go.drugbank.com/drugs/DB00749) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | arthropathy | TxGNN Knowledge Graph |
-| 2 | juvenile idiopathic arthritis | TxGNN Knowledge Graph |
-| 3 | spondyloarthropathy | TxGNN Knowledge Graph |
-| 4 | osteoarthritis susceptibility | TxGNN Knowledge Graph |
-| 5 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 6 | osteoarthritis | TxGNN Knowledge Graph |
-| 7 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

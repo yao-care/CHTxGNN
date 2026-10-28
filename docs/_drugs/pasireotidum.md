@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PASIREOTIDUM
 drugbank_id: DB06663
-evidence_level: L5
 permalink: /drugs/pasireotidum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PASIREOTIDUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB06663](https://go.drugbank.com/drugs/DB06663) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Cushing syndrome | TxGNN Knowledge Graph |
-| 2 | adrenal gland hyperfunction | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: NILOTINIBUM
 drugbank_id: DB04868
-evidence_level: L5
 permalink: /drugs/nilotinibum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # NILOTINIBUM
@@ -18,17 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB04868](https://go.drugbank.com/drugs/DB04868) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 1 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | chronic myelogenous leukemia, BCR-ABL1 positive | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

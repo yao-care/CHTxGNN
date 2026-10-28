@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: BETAMETHASONUM
 drugbank_id: DB00443
-evidence_level: L5
 permalink: /drugs/betamethasonum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # BETAMETHASONUM
@@ -17,68 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | DrugBank ID | [DB00443](https://go.drugbank.com/drugs/DB00443) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 123 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 2 | aspiration pneumonia (disease) | TxGNN Knowledge Graph |
-| 3 | exanthem (disease) | TxGNN Knowledge Graph |
-| 4 | heparin-induced thrombocytopenia (disease) | TxGNN Knowledge Graph |
-| 5 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph |
-| 6 | ankylosing spondylitis | TxGNN Knowledge Graph |
-| 7 | actinic keratosis (disease) | TxGNN Knowledge Graph |
-| 8 | nephrotic syndrome | TxGNN Knowledge Graph |
-| 9 | skin disease | TxGNN Knowledge Graph |
-| 10 | lichen disease | TxGNN Knowledge Graph |
-| 11 | allergic rhinitis | TxGNN Knowledge Graph |
-| 12 | Trichinellosis | TxGNN Knowledge Graph |
-| 13 | periarthritis | TxGNN Knowledge Graph |
-| 14 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 15 | lymphoma | TxGNN Knowledge Graph |
-| 16 | exfoliative dermatitis | TxGNN Knowledge Graph |
-| 17 | non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 18 | obsolete Hodgkin's granuloma | TxGNN Knowledge Graph |
-| 19 | neoplasm of mature B-cells | TxGNN Knowledge Graph |
-| 20 | inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency | TxGNN Knowledge Graph |
-| 21 | neurodermatitis | TxGNN Knowledge Graph |
-| 22 | psoriasis | TxGNN Knowledge Graph |
-| 23 | thyroiditis (disease) | TxGNN Knowledge Graph |
-| 24 | autoimmune thrombocytopenic | TxGNN Knowledge Graph |
-| 25 | inflammatory bowel disease | TxGNN Knowledge Graph |
-| 26 | Crohn disease | TxGNN Knowledge Graph |
-| 27 | allergic asthma | TxGNN Knowledge Graph |
-| 28 | acquired angioedema | TxGNN Knowledge Graph |
-| 29 | serum sickness | TxGNN Knowledge Graph |
-| 30 | miliary tuberculosis | TxGNN Knowledge Graph |
-| 31 | gout | TxGNN Knowledge Graph |
-| 32 | dermatitis, atopic | TxGNN Knowledge Graph |
-| 33 | Addison disease | TxGNN Knowledge Graph |
-| 34 | acute lymphoblastic leukemia (disease) | TxGNN Knowledge Graph |
-| 35 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 36 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 37 | autoimmune disease | TxGNN Knowledge Graph |
-| 38 | adrenocortical insufficiency | TxGNN Knowledge Graph |
-| 39 | adrenal insufficiency | TxGNN Knowledge Graph |
-| 40 | dermatitis herpetiformis | TxGNN Knowledge Graph |
-| 41 | asthma | TxGNN Knowledge Graph |
-| 42 | lipoid nephrosis | TxGNN Knowledge Graph |
-| 43 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 44 | erythema multiforme | TxGNN Knowledge Graph |
-| 45 | atopic eczema | TxGNN Knowledge Graph |
-| 46 | familial nephrotic syndrome | TxGNN Knowledge Graph |
-| 47 | Hodgkins lymphoma | TxGNN Knowledge Graph |
-| 48 | rheumatic heart disease | TxGNN Knowledge Graph |
-| 49 | X-linked adrenal hypoplasia congenita | TxGNN Knowledge Graph |
-| 50 | localized pagetoid reticulosis | TxGNN Knowledge Graph |
-
-*(Zeige die ersten 50 von 123)*
 
 ## Haftungsausschluss
 

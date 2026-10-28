@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "isoleucine"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Isoleucine: vorhergesagte neue Indikation Gastroparese (gastroparesis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 

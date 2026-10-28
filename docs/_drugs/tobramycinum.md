@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: TOBRAMYCINUM
 drugbank_id: DB00684
-evidence_level: L5
 permalink: /drugs/tobramycinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TOBRAMYCINUM
@@ -17,42 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | DrugBank ID | [DB00684](https://go.drugbank.com/drugs/DB00684) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 26 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | escherichia coli infection | TxGNN Knowledge Graph |
-| 2 | panuveitis (disease) | TxGNN Knowledge Graph |
-| 3 | keratoconjunctivitis | TxGNN Knowledge Graph |
-| 4 | neurotrophic keratopathy | TxGNN Knowledge Graph |
-| 5 | papillary conjunctivitis | TxGNN Knowledge Graph |
-| 6 | acute contagious conjunctivitis | TxGNN Knowledge Graph |
-| 7 | vernal keratoconjunctivitis | TxGNN Knowledge Graph |
-| 8 | bacterial meningitis | TxGNN Knowledge Graph |
-| 9 | ciliary body disease | TxGNN Knowledge Graph |
-| 10 | iris disease | TxGNN Knowledge Graph |
-| 11 | viral meningitis | TxGNN Knowledge Graph |
-| 12 | conjunctivitis | TxGNN Knowledge Graph |
-| 13 | keratitis | TxGNN Knowledge Graph |
-| 14 | atopic conjunctivitis | TxGNN Knowledge Graph |
-| 15 | dacryocystitis | TxGNN Knowledge Graph |
-| 16 | uveitis | TxGNN Knowledge Graph |
-| 17 | rhinoscleroma | TxGNN Knowledge Graph |
-| 18 | superior limbic keratoconjunctivitis | TxGNN Knowledge Graph |
-| 19 | punctate epithelial keratoconjunctivitis | TxGNN Knowledge Graph |
-| 20 | vernal conjunctivitis | TxGNN Knowledge Graph |
-| 21 | iridocyclitis (disease) | TxGNN Knowledge Graph |
-| 22 | staphylococcus aureus infection | TxGNN Knowledge Graph |
-| 23 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 24 | staphylococcal infection | TxGNN Knowledge Graph |
-| 25 | blepharoconjunctivitis | TxGNN Knowledge Graph |
-| 26 | rosacea | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

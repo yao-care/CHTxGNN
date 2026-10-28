@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ALTEPLASUM ADNR
 drugbank_id: DB00009
-evidence_level: L5
 permalink: /drugs/alteplasum_adnr/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ALTEPLASUM ADNR
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00009](https://go.drugbank.com/drugs/DB00009) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | coronary thrombosis | TxGNN Knowledge Graph |
-| 2 | myocardial infarction (disease) | TxGNN Knowledge Graph |
-| 3 | myocardial infarction | TxGNN Knowledge Graph |
-| 4 | stroke disorder | TxGNN Knowledge Graph |
-| 5 | hemoglobinopathy | TxGNN Knowledge Graph |
-| 6 | pulmonary embolism (disease) | TxGNN Knowledge Graph |
-| 7 | obsolete susceptibility to ischemic stroke | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

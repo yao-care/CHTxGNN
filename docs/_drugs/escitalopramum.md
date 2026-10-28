@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ESCITALOPRAMUM
 drugbank_id: DB01175
-evidence_level: L5
 permalink: /drugs/escitalopramum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ESCITALOPRAMUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB01175](https://go.drugbank.com/drugs/DB01175) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | anxiety disorder | TxGNN Knowledge Graph |
-| 2 | unipolar depression | TxGNN Knowledge Graph |
-| 3 | major depressive disorder | TxGNN Knowledge Graph |
-| 4 | endogenous depression | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

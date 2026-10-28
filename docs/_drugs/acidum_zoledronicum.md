@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ACIDUM ZOLEDRONICUM
 drugbank_id: DB00399
-evidence_level: L5
 permalink: /drugs/acidum_zoledronicum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACIDUM ZOLEDRONICUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 14 von 14) |
+| Anzahl Zulassungen | 14 (gültig: 14) |
 | DrugBank ID | [DB00399](https://go.drugbank.com/drugs/DB00399) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | juvenile Paget disease | TxGNN Knowledge Graph |
-| 2 | humoral hypercalcemia of malignancy | TxGNN Knowledge Graph |
-| 3 | postmenopausal osteoporosis | TxGNN Knowledge Graph |
-| 4 | osteoporosis | TxGNN Knowledge Graph |
-| 5 | bone Paget disease | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

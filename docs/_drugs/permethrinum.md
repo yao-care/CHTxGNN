@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PERMETHRINUM
 drugbank_id: DB04930
-evidence_level: L5
 permalink: /drugs/permethrinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PERMETHRINUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB04930](https://go.drugbank.com/drugs/DB04930) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Pthirus pubis infestation | TxGNN Knowledge Graph |
-| 2 | Pediculus humanus capitis infestation | TxGNN Knowledge Graph |
-| 3 | scabies | TxGNN Knowledge Graph |
-| 4 | mite infestation | TxGNN Knowledge Graph |
-| 5 | Pediculus humanus corporis infestation | TxGNN Knowledge Graph |
-| 6 | Norwegian scabies | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

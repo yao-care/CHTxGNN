@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CLINDAMYCINUM
 drugbank_id: DB01190
-evidence_level: L5
 permalink: /drugs/clindamycinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CLINDAMYCINUM
@@ -17,32 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
+| Anzahl Zulassungen | mindestens 9 |
 | DrugBank ID | [DB01190](https://go.drugbank.com/drugs/DB01190) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 16 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 2 | vaginitis (disease) | TxGNN Knowledge Graph |
-| 3 | arthropathy | TxGNN Knowledge Graph |
-| 4 | staphylococcal infection | TxGNN Knowledge Graph |
-| 5 | vulvitis | TxGNN Knowledge Graph |
-| 6 | streptococcal infection | TxGNN Knowledge Graph |
-| 7 | pneumonitis | TxGNN Knowledge Graph |
-| 8 | bacterial arthritis | TxGNN Knowledge Graph |
-| 9 | aspiration pneumonia (disease) | TxGNN Knowledge Graph |
-| 10 | pleural empyema (disease) | TxGNN Knowledge Graph |
-| 11 | vulvovaginitis | TxGNN Knowledge Graph |
-| 12 | anaerobic bacteria infectious disease | TxGNN Knowledge Graph |
-| 13 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 14 | bacterial vaginosis | TxGNN Knowledge Graph |
-| 15 | acne (disease) | TxGNN Knowledge Graph |
-| 16 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

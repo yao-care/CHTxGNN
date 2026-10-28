@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: KETOCONAZOLUM
 drugbank_id: DB01026
-evidence_level: L5
 permalink: /drugs/ketoconazolum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # KETOCONAZOLUM
@@ -17,39 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB01026](https://go.drugbank.com/drugs/DB01026) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 23 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | paracoccidioidomycosis | TxGNN Knowledge Graph |
-| 2 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 3 | coccidioidomycosis | TxGNN Knowledge Graph |
-| 4 | dermatophytosis of groin and perianal area | TxGNN Knowledge Graph |
-| 5 | adrenal gland hyperfunction | TxGNN Knowledge Graph |
-| 6 | cutaneous candidiasis | TxGNN Knowledge Graph |
-| 7 | oral candidiasis | TxGNN Knowledge Graph |
-| 8 | blastomycosis | TxGNN Knowledge Graph |
-| 9 | Cushing syndrome | TxGNN Knowledge Graph |
-| 10 | pityriasis simplex | TxGNN Knowledge Graph |
-| 11 | chromomycosis | TxGNN Knowledge Graph |
-| 12 | tinea pedis | TxGNN Knowledge Graph |
-| 13 | tinea infection | TxGNN Knowledge Graph |
-| 14 | pityriasis versicolor | TxGNN Knowledge Graph |
-| 15 | tinea corporis | TxGNN Knowledge Graph |
-| 16 | white piedra | TxGNN Knowledge Graph |
-| 17 | disseminated candidiasis | TxGNN Knowledge Graph |
-| 18 | sporotrichosis | TxGNN Knowledge Graph |
-| 19 | black piedra | TxGNN Knowledge Graph |
-| 20 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 21 | histoplasmosis | TxGNN Knowledge Graph |
-| 22 | candidiasis | TxGNN Knowledge Graph |
-| 23 | aspergillosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

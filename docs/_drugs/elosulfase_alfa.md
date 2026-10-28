@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Elosulfase Alfa: vorhergesagte neue Indikation Scheie-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Mucopolysaccharidose Typ IVA"
 monitor_inn: "elosulfase alfa"
 predicted_indications: ["Scheie syndrome", "lysosomal storage disease with skeletal involvement", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]

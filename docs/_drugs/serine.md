@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Serine: vorhergesagte neue Indikation Familiäre viszerale Myopathie (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PEMETREXEDUM
 drugbank_id: DB00642
-evidence_level: L5
 permalink: /drugs/pemetrexedum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PEMETREXEDUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
+| Anzahl Zulassungen | mindestens 6 |
 | DrugBank ID | [DB00642](https://go.drugbank.com/drugs/DB00642) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | lung cancer | TxGNN Knowledge Graph |
-| 2 | malignant mesothelioma (disease) | TxGNN Knowledge Graph |
-| 3 | non-small cell lung carcinoma (disease) | TxGNN Knowledge Graph |
-| 4 | malignant pleural mesothelioma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

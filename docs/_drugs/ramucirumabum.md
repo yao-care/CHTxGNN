@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: RAMUCIRUMABUM
 drugbank_id: DB05578
-evidence_level: L5
 permalink: /drugs/ramucirumabum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # RAMUCIRUMABUM
@@ -17,26 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB05578](https://go.drugbank.com/drugs/DB05578) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hepatocellular carcinoma | TxGNN Knowledge Graph |
-| 2 | adenocarcinoma of liver and intrahepatic biliary tract | TxGNN Knowledge Graph |
-| 3 | pediatric hepatocellular carcinoma | TxGNN Knowledge Graph |
-| 4 | squamous cell carcinoma of liver and intrahepatic biliary tract | TxGNN Knowledge Graph |
-| 5 | lung cancer | TxGNN Knowledge Graph |
-| 6 | fibrolamellar hepatocellular carcinoma | TxGNN Knowledge Graph |
-| 7 | undifferentiated carcinoma of liver and intrahepatic biliary tract | TxGNN Knowledge Graph |
-| 8 | non-small cell lung carcinoma (disease) | TxGNN Knowledge Graph |
-| 9 | liver cancer | TxGNN Knowledge Graph |
-| 10 | gastric adenocarcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

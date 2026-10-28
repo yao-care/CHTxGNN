@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: AMOXICILLINUM ANHYDRICUM
 drugbank_id: DB01060
-evidence_level: L5
 permalink: /drugs/amoxicillinum_anhydricum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # AMOXICILLINUM ANHYDRICUM
@@ -18,28 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
+| Anzahl Zulassungen | mindestens 5 |
 | DrugBank ID | [DB01060](https://go.drugbank.com/drugs/DB01060) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | escherichia coli infection | TxGNN Knowledge Graph |
-| 2 | Klebsiella pneumonia | TxGNN Knowledge Graph |
-| 3 | staphylococcal infection | TxGNN Knowledge Graph |
-| 4 | streptococcal infection | TxGNN Knowledge Graph |
-| 5 | pharyngitis | TxGNN Knowledge Graph |
-| 6 | rhinoscleroma | TxGNN Knowledge Graph |
-| 7 | infectious otitis media | TxGNN Knowledge Graph |
-| 8 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 9 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 10 | staphylococcus aureus pneumonia | TxGNN Knowledge Graph |
-| 11 | urinary tract infection (disease) | TxGNN Knowledge Graph |
-| 12 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

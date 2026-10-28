@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PHENOXYMETHYLPENICILLINUM KALICUM
 drugbank_id: DB00417
-evidence_level: L5
 permalink: /drugs/phenoxymethylpenicillinum_kalicum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PHENOXYMETHYLPENICILLINUM KALICUM
@@ -18,28 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00417](https://go.drugbank.com/drugs/DB00417) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | staphylococcal infection | TxGNN Knowledge Graph |
-| 2 | staphylococcal scarlet fever | TxGNN Knowledge Graph |
-| 3 | streptococcal infection | TxGNN Knowledge Graph |
-| 4 | pharyngitis | TxGNN Knowledge Graph |
-| 5 | scarlet fever | TxGNN Knowledge Graph |
-| 6 | gingivitis | TxGNN Knowledge Graph |
-| 7 | infectious otitis media | TxGNN Knowledge Graph |
-| 8 | common cold | TxGNN Knowledge Graph |
-| 9 | respiratory tract infectious disease | TxGNN Knowledge Graph |
-| 10 | erysipelas | TxGNN Knowledge Graph |
-| 11 | necrotizing ulcerative gingivitis | TxGNN Knowledge Graph |
-| 12 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

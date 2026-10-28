@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TAFAMIDISUM
 drugbank_id: DB11644
-evidence_level: L5
 permalink: /drugs/tafamidisum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TAFAMIDISUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB11644](https://go.drugbank.com/drugs/DB11644) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | AH amyloidosis | TxGNN Knowledge Graph |
-| 2 | amyloidosis (disease) | TxGNN Knowledge Graph |
-| 3 | AL amyloidosis | TxGNN Knowledge Graph |
-| 4 | ATTRV122I amyloidosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

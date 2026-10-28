@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: OXYBUTYNINUM
 drugbank_id: DB01062
-evidence_level: L5
 permalink: /drugs/oxybutyninum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # OXYBUTYNINUM
@@ -18,19 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB01062](https://go.drugbank.com/drugs/DB01062) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 3 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | overactive bladder (disease) | TxGNN Knowledge Graph |
-| 2 | obsolete neurogenic bladder (disease) | TxGNN Knowledge Graph |
-| 3 | cauda equina syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

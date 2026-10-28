@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Norgestimate: vorhergesagte neue Indikation Erhöhtes Plasmazink (zinc, elevated plasma) (Evidenzstufe L5). Ursprüngliche Indikation: Orale Kontrazeption bei Frauen"
 monitor_inn: "norgestimate"
 predicted_indications: ["zinc, elevated plasma"]

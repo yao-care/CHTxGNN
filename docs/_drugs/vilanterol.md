@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Vilanterol: vorhergesagte neue Indikation Hyperlucente Lunge (hyperlucent lung) (Evidenzstufe L5). Ursprüngliche Indikation: COPD"
 ---
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DICLOFENACUM NATRICUM
 drugbank_id: DB00586
-evidence_level: L5
 permalink: /drugs/diclofenacum_natricum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DICLOFENACUM NATRICUM
@@ -18,29 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Anzahl Zulassungen | mindestens 7 |
 | DrugBank ID | [DB00586](https://go.drugbank.com/drugs/DB00586) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 13 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | arthropathy | TxGNN Knowledge Graph |
-| 2 | inverted follicular keratosis | TxGNN Knowledge Graph |
-| 3 | osteoarthritis susceptibility | TxGNN Knowledge Graph |
-| 4 | keratoacanthoma | TxGNN Knowledge Graph |
-| 5 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 6 | spondyloarthropathy, susceptibility to | TxGNN Knowledge Graph |
-| 7 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 8 | melanoacanthoma | TxGNN Knowledge Graph |
-| 9 | skin disease | TxGNN Knowledge Graph |
-| 10 | ankylosing spondylitis | TxGNN Knowledge Graph |
-| 11 | osteoarthritis | TxGNN Knowledge Graph |
-| 12 | actinic cheilitis | TxGNN Knowledge Graph |
-| 13 | actinic keratosis (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

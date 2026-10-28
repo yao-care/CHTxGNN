@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: HALOPERIDOLUM
 drugbank_id: DB00502
-evidence_level: L5
 permalink: /drugs/haloperidolum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # HALOPERIDOLUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00502](https://go.drugbank.com/drugs/DB00502) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Tourette syndrome | TxGNN Knowledge Graph |
-| 2 | schizophrenia | TxGNN Knowledge Graph |
-| 3 | psychotic disorder | TxGNN Knowledge Graph |
-| 4 | schizoaffective disorder | TxGNN Knowledge Graph |
-| 5 | mental disorder | TxGNN Knowledge Graph |
-| 6 | schizophreniform disorder | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

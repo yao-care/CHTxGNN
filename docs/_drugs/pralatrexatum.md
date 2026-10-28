@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: PRALATREXATUM
 drugbank_id: DB06813
-evidence_level: L5
 permalink: /drugs/pralatrexatum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PRALATREXATUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB06813](https://go.drugbank.com/drugs/DB06813) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | peripheral T-cell lymphoma, not otherwise specified | TxGNN Knowledge Graph |
-| 2 | primary cutaneous CD4+ small/medium-sized pleomorphic T-cell lymphoma | TxGNN Knowledge Graph |
-| 3 | primary cutaneous peripheral T-cell lymphoma not otherwise specified | TxGNN Knowledge Graph |
-| 4 | primary cutaneous aggressive epidermotropic CD8+ T-cell lymphoma | TxGNN Knowledge Graph |
-| 5 | primary cutaneous gamma/delta-positive T-cell lymphoma | TxGNN Knowledge Graph |
-| 6 | mature T-cell and NK-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

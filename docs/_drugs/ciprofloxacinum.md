@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CIPROFLOXACINUM
 drugbank_id: DB00537
-evidence_level: L5
 permalink: /drugs/ciprofloxacinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CIPROFLOXACINUM
@@ -17,51 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB00537](https://go.drugbank.com/drugs/DB00537) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 35 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | escherichia coli infection | TxGNN Knowledge Graph |
-| 2 | streptococcal infection | TxGNN Knowledge Graph |
-| 3 | intestinal infectious disease | TxGNN Knowledge Graph |
-| 4 | malignant otitis externa caused by Pseudomonas aeruginosa | TxGNN Knowledge Graph |
-| 5 | external ear disease | TxGNN Knowledge Graph |
-| 6 | leptospirosis | TxGNN Knowledge Graph |
-| 7 | botulism | TxGNN Knowledge Graph |
-| 8 | paratyphoid fever | TxGNN Knowledge Graph |
-| 9 | bacterial arthritis | TxGNN Knowledge Graph |
-| 10 | acute contagious conjunctivitis | TxGNN Knowledge Graph |
-| 11 | lymphogranuloma venereum | TxGNN Knowledge Graph |
-| 12 | arthropathy | TxGNN Knowledge Graph |
-| 13 | acute gonococcal cervicitis | TxGNN Knowledge Graph |
-| 14 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 15 | conjunctivitis | TxGNN Knowledge Graph |
-| 16 | anthrax infection | TxGNN Knowledge Graph |
-| 17 | cystitis | TxGNN Knowledge Graph |
-| 18 | typhoid fever | TxGNN Knowledge Graph |
-| 19 | prostatitis (disease) | TxGNN Knowledge Graph |
-| 20 | infectious diarrheal disease | TxGNN Knowledge Graph |
-| 21 | dysentery | TxGNN Knowledge Graph |
-| 22 | salmonellosis | TxGNN Knowledge Graph |
-| 23 | rhinoscleroma | TxGNN Knowledge Graph |
-| 24 | otitis externa | TxGNN Knowledge Graph |
-| 25 | Pseudomonas aeruginosa infectious disease | TxGNN Knowledge Graph |
-| 26 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 27 | yaws | TxGNN Knowledge Graph |
-| 28 | necrotizing ulcerative gingivitis | TxGNN Knowledge Graph |
-| 29 | staphylococcus aureus infection | TxGNN Knowledge Graph |
-| 30 | shigellosis | TxGNN Knowledge Graph |
-| 31 | staphylococcal infection | TxGNN Knowledge Graph |
-| 32 | chancroid | TxGNN Knowledge Graph |
-| 33 | trigonitis | TxGNN Knowledge Graph |
-| 34 | diarrheal disease | TxGNN Knowledge Graph |
-| 35 | maxillary sinusitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: NORETHISTERONUM
 drugbank_id: DB00717
-evidence_level: L5
 permalink: /drugs/norethisteronum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # NORETHISTERONUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00717](https://go.drugbank.com/drugs/DB00717) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | postmenopausal atrophic vaginitis | TxGNN Knowledge Graph |
-| 2 | endometriosis (disease) | TxGNN Knowledge Graph |
-| 3 | endometriosis of uterus | TxGNN Knowledge Graph |
-| 4 | postmenopausal osteoporosis | TxGNN Knowledge Graph |
-| 5 | osteoporosis | TxGNN Knowledge Graph |
-| 6 | primary ovarian failure | TxGNN Knowledge Graph |
-| 7 | acne (disease) | TxGNN Knowledge Graph |
-| 8 | obsolete atrophic vulva | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

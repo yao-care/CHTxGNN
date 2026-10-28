@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: LEVOFLOXACINUM
 drugbank_id: DB01137
-evidence_level: L5
 permalink: /drugs/levofloxacinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # LEVOFLOXACINUM
@@ -17,29 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB01137](https://go.drugbank.com/drugs/DB01137) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 13 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | pyelonephritis | TxGNN Knowledge Graph |
-| 2 | acute contagious conjunctivitis | TxGNN Knowledge Graph |
-| 3 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 4 | pneumonia caused by chlamydia | TxGNN Knowledge Graph |
-| 5 | staphylococcal infection | TxGNN Knowledge Graph |
-| 6 | Mycoplasma pneumoniae pneumonia | TxGNN Knowledge Graph |
-| 7 | streptococcal infection | TxGNN Knowledge Graph |
-| 8 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 9 | conjunctivitis | TxGNN Knowledge Graph |
-| 10 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 11 | anthrax infection | TxGNN Knowledge Graph |
-| 12 | maxillary sinusitis | TxGNN Knowledge Graph |
-| 13 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

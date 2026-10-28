@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DEFERASIROXUM
 drugbank_id: DB01609
-evidence_level: L5
 permalink: /drugs/deferasiroxum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DEFERASIROXUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB01609](https://go.drugbank.com/drugs/DB01609) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | beta thalassemia | TxGNN Knowledge Graph |
-| 2 | beta-thalassemia and related diseases | TxGNN Knowledge Graph |
-| 3 | hereditary persistence of fetal hemoglobin | TxGNN Knowledge Graph |
-| 4 | dominant beta-thalassemia | TxGNN Knowledge Graph |
-| 5 | beta-thalassemia intermedia | TxGNN Knowledge Graph |
-| 6 | hemoglobinopathy | TxGNN Knowledge Graph |
-| 7 | beta-thalassemia HBB/LCRB | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

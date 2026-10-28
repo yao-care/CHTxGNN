@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ROSUVASTATINUM
 drugbank_id: DB01098
-evidence_level: L5
 permalink: /drugs/rosuvastatinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ROSUVASTATINUM
@@ -18,27 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB01098](https://go.drugbank.com/drugs/DB01098) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 11 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | atherosclerosis | TxGNN Knowledge Graph |
-| 2 | cerebrovascular disorder | TxGNN Knowledge Graph |
-| 3 | homozygous familial hypercholesterolemia | TxGNN Knowledge Graph |
-| 4 | hypertriglyceridemia (disease) | TxGNN Knowledge Graph |
-| 5 | cerebral infarction | TxGNN Knowledge Graph |
-| 6 | stroke disorder | TxGNN Knowledge Graph |
-| 7 | arteriosclerosis disorder | TxGNN Knowledge Graph |
-| 8 | obsolete familial combined hyperlipidemia | TxGNN Knowledge Graph |
-| 9 | hyperlipidemia, familial combined, LPL related | TxGNN Knowledge Graph |
-| 10 | hyperlipoproteinemia | TxGNN Knowledge Graph |
-| 11 | obsolete susceptibility to ischemic stroke | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

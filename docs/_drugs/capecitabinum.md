@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CAPECITABINUM
 drugbank_id: DB01101
-evidence_level: L5
 permalink: /drugs/capecitabinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CAPECITABINUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | DrugBank ID | [DB01101](https://go.drugbank.com/drugs/DB01101) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | gastric linitis plastica | TxGNN Knowledge Graph |
-| 2 | gastric neoplasm | TxGNN Knowledge Graph |
-| 3 | gastric cancer | TxGNN Knowledge Graph |
-| 4 | metastasis from malignant tumor of colon | TxGNN Knowledge Graph |
-| 5 | gastric carcinoma | TxGNN Knowledge Graph |
-| 6 | diffuse gastric adenocarcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

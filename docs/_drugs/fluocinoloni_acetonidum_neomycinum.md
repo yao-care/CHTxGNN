@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: FLUOCINOLONI ACETONIDUM, NEOMYCINUM
 drugbank_id: DB00591
-evidence_level: L5
 permalink: /drugs/fluocinoloni_acetonidum_neomycinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FLUOCINOLONI ACETONIDUM, NEOMYCINUM
@@ -17,33 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00591](https://go.drugbank.com/drugs/DB00591) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 17 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | occupational dermatitis | TxGNN Knowledge Graph |
-| 2 | dermatitis, atopic | TxGNN Knowledge Graph |
-| 3 | choroiditis | TxGNN Knowledge Graph |
-| 4 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 5 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 6 | discoid lupus erythematosus | TxGNN Knowledge Graph |
-| 7 | atopic eczema | TxGNN Knowledge Graph |
-| 8 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 9 | granuloma annulare | TxGNN Knowledge Graph |
-| 10 | exanthem (disease) | TxGNN Knowledge Graph |
-| 11 | lichen disease | TxGNN Knowledge Graph |
-| 12 | chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph |
-| 13 | lupus erythematosus | TxGNN Knowledge Graph |
-| 14 | neurodermatitis | TxGNN Knowledge Graph |
-| 15 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 16 | contact dermatitis | TxGNN Knowledge Graph |
-| 17 | pityriasis simplex | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

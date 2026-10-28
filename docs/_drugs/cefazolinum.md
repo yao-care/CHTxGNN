@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CEFAZOLINUM
 drugbank_id: DB01327
-evidence_level: L5
 permalink: /drugs/cefazolinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CEFAZOLINUM
@@ -18,27 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB01327](https://go.drugbank.com/drugs/DB01327) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 11 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 2 | arthropathy | TxGNN Knowledge Graph |
-| 3 | endocarditis | TxGNN Knowledge Graph |
-| 4 | suppurative cholangitis | TxGNN Knowledge Graph |
-| 5 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 6 | cholangitis | TxGNN Knowledge Graph |
-| 7 | subacute bacterial endocarditis | TxGNN Knowledge Graph |
-| 8 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 9 | sclerosing cholangitis | TxGNN Knowledge Graph |
-| 10 | bacterial arthritis | TxGNN Knowledge Graph |
-| 11 | IgG4-related sclerosing cholangitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

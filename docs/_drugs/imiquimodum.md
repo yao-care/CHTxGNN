@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: IMIQUIMODUM
 drugbank_id: DB00724
-evidence_level: L5
 permalink: /drugs/imiquimodum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # IMIQUIMODUM
@@ -18,27 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB00724](https://go.drugbank.com/drugs/DB00724) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 11 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | inverted follicular keratosis | TxGNN Knowledge Graph |
-| 2 | superficial multifocal basal cell carcinoma | TxGNN Knowledge Graph |
-| 3 | common wart | TxGNN Knowledge Graph |
-| 4 | anogenital human papillomavirus infection | TxGNN Knowledge Graph |
-| 5 | keratoacanthoma | TxGNN Knowledge Graph |
-| 6 | actinic cheilitis | TxGNN Knowledge Graph |
-| 7 | melanoacanthoma | TxGNN Knowledge Graph |
-| 8 | skin disease | TxGNN Knowledge Graph |
-| 9 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 10 | actinic keratosis (disease) | TxGNN Knowledge Graph |
-| 11 | epidermodysplasia verruciformis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

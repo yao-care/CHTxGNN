@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 31
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Chloramphenicol: vorhergesagte neue Indikation Konjunktivitis (Bindehautentzündung) (Evidenzstufe L3). Ursprüngliche Indikation: Augeninfektionen (Infections oculaires)"
 monitor_inn: "chloramphenicol"
 predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]

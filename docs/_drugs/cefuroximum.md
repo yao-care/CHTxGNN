@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CEFUROXIMUM
 drugbank_id: DB01112
-evidence_level: L5
 permalink: /drugs/cefuroximum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CEFUROXIMUM
@@ -17,37 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB01112](https://go.drugbank.com/drugs/DB01112) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 21 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | escherichia coli infection | TxGNN Knowledge Graph |
-| 2 | streptococcal meningitis | TxGNN Knowledge Graph |
-| 3 | streptococcal infection | TxGNN Knowledge Graph |
-| 4 | bacterial arthritis | TxGNN Knowledge Graph |
-| 5 | bacterial meningitis | TxGNN Knowledge Graph |
-| 6 | arthropathy | TxGNN Knowledge Graph |
-| 7 | acute gonococcal cervicitis | TxGNN Knowledge Graph |
-| 8 | Lyme disease | TxGNN Knowledge Graph |
-| 9 | viral meningitis | TxGNN Knowledge Graph |
-| 10 | infectious otitis media | TxGNN Knowledge Graph |
-| 11 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 12 | acute gonococcal endometritis | TxGNN Knowledge Graph |
-| 13 | impetigo | TxGNN Knowledge Graph |
-| 14 | rhinoscleroma | TxGNN Knowledge Graph |
-| 15 | bullous impetigo | TxGNN Knowledge Graph |
-| 16 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 17 | staphylococcus aureus infection | TxGNN Knowledge Graph |
-| 18 | gonorrhea | TxGNN Knowledge Graph |
-| 19 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 20 | staphylococcal infection | TxGNN Knowledge Graph |
-| 21 | maxillary sinusitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

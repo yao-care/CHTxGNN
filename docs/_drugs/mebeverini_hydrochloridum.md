@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: MEBEVERINI HYDROCHLORIDUM
 drugbank_id: DB12554
-evidence_level: L5
 permalink: /drugs/mebeverini_hydrochloridum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MEBEVERINI HYDROCHLORIDUM
@@ -18,19 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB12554](https://go.drugbank.com/drugs/DB12554) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 3 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | neurocirculatory asthenia | TxGNN Knowledge Graph |
-| 2 | Clostridium difficile colitis | TxGNN Knowledge Graph |
-| 3 | irritable bowel syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

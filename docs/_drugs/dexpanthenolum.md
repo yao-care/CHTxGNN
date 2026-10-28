@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DEXPANTHENOLUM
 drugbank_id: DB09357
-evidence_level: L5
 permalink: /drugs/dexpanthenolum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DEXPANTHENOLUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | DrugBank ID | [DB09357](https://go.drugbank.com/drugs/DB09357) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | paralytic ileus (disease) | TxGNN Knowledge Graph |
-| 2 | familial visceral myopathy | TxGNN Knowledge Graph |
-| 3 | intestinal obstruction | TxGNN Knowledge Graph |
-| 4 | atopic eczema | TxGNN Knowledge Graph |
-| 5 | dermatitis | TxGNN Knowledge Graph |
-| 6 | skin disease | TxGNN Knowledge Graph |
-| 7 | obsolete contact dermatitis caused by poison oak | TxGNN Knowledge Graph |
-| 8 | gastroparesis (disease) | TxGNN Knowledge Graph |
-| 9 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 10 | actinic keratosis (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

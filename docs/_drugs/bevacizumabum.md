@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: BEVACIZUMABUM
 drugbank_id: DB00112
-evidence_level: L5
 permalink: /drugs/bevacizumabum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # BEVACIZUMABUM
@@ -17,36 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | DrugBank ID | [DB00112](https://go.drugbank.com/drugs/DB00112) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 20 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | fallopian tube carcinoma | TxGNN Knowledge Graph |
-| 2 | malignant epithelial tumor of ovary | TxGNN Knowledge Graph |
-| 3 | squamous cell carcinoma of the corpus uteri | TxGNN Knowledge Graph |
-| 4 | hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph |
-| 5 | breast neoplasm | TxGNN Knowledge Graph |
-| 6 | desmoplastic small round cell tumor | TxGNN Knowledge Graph |
-| 7 | primary peritoneal serous/papillary carcinoma | TxGNN Knowledge Graph |
-| 8 | cervical adenocarcinoma | TxGNN Knowledge Graph |
-| 9 | fallopian tube cancer | TxGNN Knowledge Graph |
-| 10 | undifferentiated carcinoma of the corpus uteri | TxGNN Knowledge Graph |
-| 11 | metastatic malignant neoplasm in the colon | TxGNN Knowledge Graph |
-| 12 | cervical carcinoma | TxGNN Knowledge Graph |
-| 13 | hereditary breast carcinoma | TxGNN Knowledge Graph |
-| 14 | peritoneum cancer | TxGNN Knowledge Graph |
-| 15 | breast cancer | TxGNN Knowledge Graph |
-| 16 | primary malignant peritoneal tumor | TxGNN Knowledge Graph |
-| 17 | glioblastoma (disease) | TxGNN Knowledge Graph |
-| 18 | glioma susceptibility | TxGNN Knowledge Graph |
-| 19 | primary peritoneal carcinoma (disease) | TxGNN Knowledge Graph |
-| 20 | cervical cancer | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

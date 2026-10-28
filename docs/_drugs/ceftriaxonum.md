@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CEFTRIAXONUM
 drugbank_id: DB01212
-evidence_level: L5
 permalink: /drugs/ceftriaxonum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CEFTRIAXONUM
@@ -17,43 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB01212](https://go.drugbank.com/drugs/DB01212) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 27 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | escherichia coli infection | TxGNN Knowledge Graph |
-| 2 | streptococcal meningitis | TxGNN Knowledge Graph |
-| 3 | streptococcal infection | TxGNN Knowledge Graph |
-| 4 | meningococcal infection | TxGNN Knowledge Graph |
-| 5 | leptospirosis | TxGNN Knowledge Graph |
-| 6 | invasive non-typhoidal salmonellosis | TxGNN Knowledge Graph |
-| 7 | bacterial arthritis | TxGNN Knowledge Graph |
-| 8 | lymphogranuloma venereum | TxGNN Knowledge Graph |
-| 9 | bacterial meningitis | TxGNN Knowledge Graph |
-| 10 | arthropathy | TxGNN Knowledge Graph |
-| 11 | acute gonococcal cervicitis | TxGNN Knowledge Graph |
-| 12 | viral meningitis | TxGNN Knowledge Graph |
-| 13 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 14 | acute gonococcal endometritis | TxGNN Knowledge Graph |
-| 15 | endometritis | TxGNN Knowledge Graph |
-| 16 | Peptostreptococcus infectious disease | TxGNN Knowledge Graph |
-| 17 | pneumococcal meningitis | TxGNN Knowledge Graph |
-| 18 | salmonellosis | TxGNN Knowledge Graph |
-| 19 | rhinoscleroma | TxGNN Knowledge Graph |
-| 20 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 21 | yaws | TxGNN Knowledge Graph |
-| 22 | necrotizing ulcerative gingivitis | TxGNN Knowledge Graph |
-| 23 | gonococcal infection of joint | TxGNN Knowledge Graph |
-| 24 | gonorrhea | TxGNN Knowledge Graph |
-| 25 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 26 | chancroid | TxGNN Knowledge Graph |
-| 27 | Escherichia coli meningitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

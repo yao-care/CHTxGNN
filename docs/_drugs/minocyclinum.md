@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: MINOCYCLINUM
 drugbank_id: DB01017
-evidence_level: L5
 permalink: /drugs/minocyclinum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MINOCYCLINUM
@@ -17,57 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01017](https://go.drugbank.com/drugs/DB01017) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 41 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | bronchitis | TxGNN Knowledge Graph |
-| 2 | pneumonia | TxGNN Knowledge Graph |
-| 3 | granuloma inguinale | TxGNN Knowledge Graph |
-| 4 | erythrasma | TxGNN Knowledge Graph |
-| 5 | leptospirosis | TxGNN Knowledge Graph |
-| 6 | gingivitis | TxGNN Knowledge Graph |
-| 7 | tularemia | TxGNN Knowledge Graph |
-| 8 | acne (disease) | TxGNN Knowledge Graph |
-| 9 | periodontitis | TxGNN Knowledge Graph |
-| 10 | syphilis | TxGNN Knowledge Graph |
-| 11 | trachoma | TxGNN Knowledge Graph |
-| 12 | Japanese spotted fever | TxGNN Knowledge Graph |
-| 13 | lymphogranuloma venereum | TxGNN Knowledge Graph |
-| 14 | acute gonococcal cervicitis | TxGNN Knowledge Graph |
-| 15 | relapsing fever | TxGNN Knowledge Graph |
-| 16 | typhus | TxGNN Knowledge Graph |
-| 17 | Q fever | TxGNN Knowledge Graph |
-| 18 | brucellosis | TxGNN Knowledge Graph |
-| 19 | acute gonococcal endometritis | TxGNN Knowledge Graph |
-| 20 | conjunctivitis | TxGNN Knowledge Graph |
-| 21 | rickettsialpox | TxGNN Knowledge Graph |
-| 22 | ornithosis | TxGNN Knowledge Graph |
-| 23 | anthrax infection | TxGNN Knowledge Graph |
-| 24 | bartonellosis | TxGNN Knowledge Graph |
-| 25 | Actinomycetales infectious disease | TxGNN Knowledge Graph |
-| 26 | listeriosis | TxGNN Knowledge Graph |
-| 27 | spotted fever | TxGNN Knowledge Graph |
-| 28 | actinomycosis | TxGNN Knowledge Graph |
-| 29 | pharyngitis | TxGNN Knowledge Graph |
-| 30 | plague | TxGNN Knowledge Graph |
-| 31 | yaws | TxGNN Knowledge Graph |
-| 32 | necrotizing ulcerative gingivitis | TxGNN Knowledge Graph |
-| 33 | urinary tract infection (disease) | TxGNN Knowledge Graph |
-| 34 | gonorrhea | TxGNN Knowledge Graph |
-| 35 | Campylobacter fetus infectious disease | TxGNN Knowledge Graph |
-| 36 | cholera | TxGNN Knowledge Graph |
-| 37 | cat-scratch disease | TxGNN Knowledge Graph |
-| 38 | Rocky mountain spotted fever | TxGNN Knowledge Graph |
-| 39 | chancroid | TxGNN Knowledge Graph |
-| 40 | sinusitis | TxGNN Knowledge Graph |
-| 41 | trypanosomiasis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

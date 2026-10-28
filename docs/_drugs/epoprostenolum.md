@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: EPOPROSTENOLUM
 drugbank_id: DB01240
-evidence_level: L5
 permalink: /drugs/epoprostenolum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # EPOPROSTENOLUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB01240](https://go.drugbank.com/drugs/DB01240) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | pulmonary hypertension | TxGNN Knowledge Graph |
-| 2 | pulmonary arterial hypertension | TxGNN Knowledge Graph |
-| 3 | rhinitis | TxGNN Knowledge Graph |
-| 4 | pharyngitis | TxGNN Knowledge Graph |
-| 5 | nasopharyngitis | TxGNN Knowledge Graph |
-| 6 | common cold | TxGNN Knowledge Graph |
-| 7 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 8 | allergic rhinitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

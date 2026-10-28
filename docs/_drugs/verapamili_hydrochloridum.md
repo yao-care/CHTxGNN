@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: VERAPAMILI HYDROCHLORIDUM
 drugbank_id: DB00661
-evidence_level: L5
 permalink: /drugs/verapamili_hydrochloridum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # VERAPAMILI HYDROCHLORIDUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB00661](https://go.drugbank.com/drugs/DB00661) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | atrial fibrillation (disease) | TxGNN Knowledge Graph |
-| 2 | Prinzmetal angina | TxGNN Knowledge Graph |
-| 3 | acute coronary syndrome | TxGNN Knowledge Graph |
-| 4 | hypertension | TxGNN Knowledge Graph |
-| 5 | hypertensive disorder | TxGNN Knowledge Graph |
-| 6 | ventricular tachycardia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

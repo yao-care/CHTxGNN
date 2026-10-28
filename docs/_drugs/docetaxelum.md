@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: DOCETAXELUM
 drugbank_id: DB01248
-evidence_level: L5
 permalink: /drugs/docetaxelum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DOCETAXELUM
@@ -17,30 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Anzahl Zulassungen | mindestens 7 |
 | DrugBank ID | [DB01248](https://go.drugbank.com/drugs/DB01248) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 14 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | upper aerodigestive tract neoplasm | TxGNN Knowledge Graph |
-| 2 | breast neoplasm | TxGNN Knowledge Graph |
-| 3 | head and neck cancer | TxGNN Knowledge Graph |
-| 4 | gastric neoplasm | TxGNN Knowledge Graph |
-| 5 | familial prostate carcinoma | TxGNN Knowledge Graph |
-| 6 | prostate cancer | TxGNN Knowledge Graph |
-| 7 | gastric cancer | TxGNN Knowledge Graph |
-| 8 | gastric linitis plastica | TxGNN Knowledge Graph |
-| 9 | breast carcinoma | TxGNN Knowledge Graph |
-| 10 | prostate carcinoma | TxGNN Knowledge Graph |
-| 11 | lung cancer | TxGNN Knowledge Graph |
-| 12 | gastric carcinoma | TxGNN Knowledge Graph |
-| 13 | non-small cell lung carcinoma (disease) | TxGNN Knowledge Graph |
-| 14 | diffuse gastric adenocarcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

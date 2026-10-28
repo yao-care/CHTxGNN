@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ITRACONAZOLUM
 drugbank_id: DB01167
-evidence_level: L5
 permalink: /drugs/itraconazolum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ITRACONAZOLUM
@@ -18,27 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | DrugBank ID | [DB01167](https://go.drugbank.com/drugs/DB01167) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 11 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | esophageal candidiasis | TxGNN Knowledge Graph |
-| 2 | white piedra | TxGNN Knowledge Graph |
-| 3 | disseminated candidiasis | TxGNN Knowledge Graph |
-| 4 | candidemia | TxGNN Knowledge Graph |
-| 5 | coccidioidomycosis | TxGNN Knowledge Graph |
-| 6 | sporotrichosis | TxGNN Knowledge Graph |
-| 7 | black piedra | TxGNN Knowledge Graph |
-| 8 | blastomycosis | TxGNN Knowledge Graph |
-| 9 | aspergillosis | TxGNN Knowledge Graph |
-| 10 | histoplasmosis | TxGNN Knowledge Graph |
-| 11 | fusariosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

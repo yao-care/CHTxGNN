@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 73
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Phenylalanin: vorhergesagte neue Indikation Sklerosierende Cholangitis (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch für Erwachsene)"
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]

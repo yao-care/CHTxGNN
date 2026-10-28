@@ -5,7 +5,7 @@ parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 90
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tazobactam: Bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
 predicted_indications: []
 ---

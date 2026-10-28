@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: LEVOTHYROXINUM NATRICUM ANHYDRICUM
 drugbank_id: DB00451
-evidence_level: L5
 permalink: /drugs/levothyroxinum_natricum_anhydricum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # LEVOTHYROXINUM NATRICUM ANHYDRICUM
@@ -17,31 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
+| Anzahl Zulassungen | mindestens 2 |
 | DrugBank ID | [DB00451](https://go.drugbank.com/drugs/DB00451) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 15 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | congenital hypothyroidism | TxGNN Knowledge Graph |
-| 2 | thyroid gland undifferentiated (anaplastic) carcinoma | TxGNN Knowledge Graph |
-| 3 | hypothyroidism | TxGNN Knowledge Graph |
-| 4 | familial papillary thyroid carcinoma with renal papillary neoplasia | TxGNN Knowledge Graph |
-| 5 | medullary thyroid gland carcinoma | TxGNN Knowledge Graph |
-| 6 | thyroid gland disease | TxGNN Knowledge Graph |
-| 7 | Hashimoto thyroiditis | TxGNN Knowledge Graph |
-| 8 | hyperlipidemia | TxGNN Knowledge Graph |
-| 9 | familial thyroid carcinoma | TxGNN Knowledge Graph |
-| 10 | differentiated thyroid carcinoma | TxGNN Knowledge Graph |
-| 11 | familial papillary or follicular thyroid carcinoma | TxGNN Knowledge Graph |
-| 12 | thyroid cancer | TxGNN Knowledge Graph |
-| 13 | myxedema | TxGNN Knowledge Graph |
-| 14 | goiter (disease) | TxGNN Knowledge Graph |
-| 15 | familial hyperlipidemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

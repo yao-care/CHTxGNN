@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TRETINOINUM
 drugbank_id: DB00755
-evidence_level: L5
 permalink: /drugs/tretinoinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TRETINOINUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00755](https://go.drugbank.com/drugs/DB00755) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | palmoplantar keratoderma | TxGNN Knowledge Graph |
-| 2 | acquired keratosis | TxGNN Knowledge Graph |
-| 3 | acute promyelocytic leukemia | TxGNN Knowledge Graph |
-| 4 | acne (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

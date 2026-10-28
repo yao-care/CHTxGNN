@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: CEFTAZIDIMUM
 drugbank_id: DB00438
-evidence_level: L5
 permalink: /drugs/ceftazidimum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CEFTAZIDIMUM
@@ -17,31 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00438](https://go.drugbank.com/drugs/DB00438) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 15 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | staphylococcal pneumonia | TxGNN Knowledge Graph |
-| 2 | escherichia coli infection | TxGNN Knowledge Graph |
-| 3 | bacterial meningitis | TxGNN Knowledge Graph |
-| 4 | arthropathy | TxGNN Knowledge Graph |
-| 5 | staphylococcal infection | TxGNN Knowledge Graph |
-| 6 | peritonitis | TxGNN Knowledge Graph |
-| 7 | streptococcal infection | TxGNN Knowledge Graph |
-| 8 | meningococcal infection | TxGNN Knowledge Graph |
-| 9 | rhinoscleroma | TxGNN Knowledge Graph |
-| 10 | viral meningitis | TxGNN Knowledge Graph |
-| 11 | bacterial pneumonia | TxGNN Knowledge Graph |
-| 12 | bacterial arthritis | TxGNN Knowledge Graph |
-| 13 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 14 | endometritis | TxGNN Knowledge Graph |
-| 15 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

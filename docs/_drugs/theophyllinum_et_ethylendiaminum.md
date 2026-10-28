@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: THEOPHYLLINUM ET ETHYLENDIAMINUM
 drugbank_id: DB00277
-evidence_level: L5
 permalink: /drugs/theophyllinum_et_ethylendiaminum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # THEOPHYLLINUM ET ETHYLENDIAMINUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00277](https://go.drugbank.com/drugs/DB00277) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | bronchitis | TxGNN Knowledge Graph |
-| 2 | asthma | TxGNN Knowledge Graph |
-| 3 | lung disease | TxGNN Knowledge Graph |
-| 4 | allergic asthma | TxGNN Knowledge Graph |
-| 5 | obsolete rare pulmonary disease | TxGNN Knowledge Graph |
-| 6 | bronchial disease | TxGNN Knowledge Graph |
-| 7 | pulmonary emphysema | TxGNN Knowledge Graph |
-| 8 | intrinsic asthma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

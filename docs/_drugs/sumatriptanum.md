@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: SUMATRIPTANUM
 drugbank_id: DB00669
-evidence_level: L5
 permalink: /drugs/sumatriptanum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # SUMATRIPTANUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 8) |
+| Anzahl Zulassungen | 8 (gültig: 8) |
 | DrugBank ID | [DB00669](https://go.drugbank.com/drugs/DB00669) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | migraine disorder | TxGNN Knowledge Graph |
-| 2 | paroxysmal Hemicrania | TxGNN Knowledge Graph |
-| 3 | hemicrania continua | TxGNN Knowledge Graph |
-| 4 | migraine with or without aura, susceptibility to | TxGNN Knowledge Graph |
-| 5 | cluster headache syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

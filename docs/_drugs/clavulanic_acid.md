@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "clavulanic acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Clavulanic Acid: vorhergesagte neue Indikation Ureaplasma-Urethritis (Ureaplasma urethritis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: RANIBIZUMABUM
 drugbank_id: DB01270
-evidence_level: L5
 permalink: /drugs/ranibizumabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # RANIBIZUMABUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB01270](https://go.drugbank.com/drugs/DB01270) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | diabetic retinopathy | TxGNN Knowledge Graph |
-| 2 | diabetic macular edema | TxGNN Knowledge Graph |
-| 3 | exudative vitreoretinopathy | TxGNN Knowledge Graph |
-| 4 | diabetic cataract | TxGNN Knowledge Graph |
-| 5 | retinopathy of prematurity | TxGNN Knowledge Graph |
-| 6 | macular degeneration | TxGNN Knowledge Graph |
-| 7 | retinal artery occlusion | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

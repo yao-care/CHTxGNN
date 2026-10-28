@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CLOTRIMAZOLUM
 drugbank_id: DB00257
-evidence_level: L5
 permalink: /drugs/clotrimazolum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CLOTRIMAZOLUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 11 von 11) |
+| Anzahl Zulassungen | 11 (gültig: 11) |
 | DrugBank ID | [DB00257](https://go.drugbank.com/drugs/DB00257) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | candidiasis | TxGNN Knowledge Graph |
-| 2 | tinea pedis | TxGNN Knowledge Graph |
-| 3 | tinea infection | TxGNN Knowledge Graph |
-| 4 | pityriasis versicolor | TxGNN Knowledge Graph |
-| 5 | dermatophytosis of groin and perianal area | TxGNN Knowledge Graph |
-| 6 | cutaneous candidiasis | TxGNN Knowledge Graph |
-| 7 | oral candidiasis | TxGNN Knowledge Graph |
-| 8 | tinea corporis | TxGNN Knowledge Graph |
-| 9 | vulvovaginal candidiasis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Talimogene Laherparepvec: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen"
 monitor_inn: "talimogene laherparepvec"
 predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]

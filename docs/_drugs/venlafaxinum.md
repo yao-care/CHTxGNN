@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: VENLAFAXINUM
 drugbank_id: DB00285
-evidence_level: L5
 permalink: /drugs/venlafaxinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # VENLAFAXINUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Anzahl Zulassungen | mindestens 3 |
 | DrugBank ID | [DB00285](https://go.drugbank.com/drugs/DB00285) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | endogenous depression | TxGNN Knowledge Graph |
-| 2 | social phobia | TxGNN Knowledge Graph |
-| 3 | anxiety disorder | TxGNN Knowledge Graph |
-| 4 | major depressive disorder | TxGNN Knowledge Graph |
-| 5 | phobic disorder | TxGNN Knowledge Graph |
-| 6 | unipolar depression | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

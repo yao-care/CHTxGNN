@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CHLORAMBUCILUM
 drugbank_id: DB00291
-evidence_level: L5
 permalink: /drugs/chlorambucilum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CHLORAMBUCILUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00291](https://go.drugbank.com/drugs/DB00291) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Hodgkin's paragranuloma | TxGNN Knowledge Graph |
-| 2 | classic Hodgkin lymphoma, lymphocyte-rich type | TxGNN Knowledge Graph |
-| 3 | Hodgkins lymphoma | TxGNN Knowledge Graph |
-| 4 | Richter syndrome | TxGNN Knowledge Graph |
-| 5 | follicular lymphoma | TxGNN Knowledge Graph |
-| 6 | obsolete Hodgkin's granuloma | TxGNN Knowledge Graph |
-| 7 | neoplasm of mature B-cells | TxGNN Knowledge Graph |
-| 8 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 9 | classic Hodgkin lymphoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

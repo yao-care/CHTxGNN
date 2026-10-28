@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: QUETIAPINUM
 drugbank_id: DB01224
-evidence_level: L5
 permalink: /drugs/quetiapinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # QUETIAPINUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Anzahl Zulassungen | mindestens 3 |
 | DrugBank ID | [DB01224](https://go.drugbank.com/drugs/DB01224) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | manic bipolar affective disorder | TxGNN Knowledge Graph |
-| 2 | schizophrenia | TxGNN Knowledge Graph |
-| 3 | major affective disorder | TxGNN Knowledge Graph |
-| 4 | bipolar disorder | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

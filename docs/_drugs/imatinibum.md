@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: IMATINIBUM
 drugbank_id: DB00619
-evidence_level: L5
 permalink: /drugs/imatinibum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # IMATINIBUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB00619](https://go.drugbank.com/drugs/DB00619) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | idiopathic hypereosinophilic syndrome | TxGNN Knowledge Graph |
-| 2 | gastrointestinal stromal tumor | TxGNN Knowledge Graph |
-| 3 | hypereosinophilic syndrome | TxGNN Knowledge Graph |
-| 4 | chronic eosinophilic leukemia | TxGNN Knowledge Graph |
-| 5 | systemic mastocytosis | TxGNN Knowledge Graph |
-| 6 | mastocytosis | TxGNN Knowledge Graph |
-| 7 | blast phase chronic myelogenous leukemia, BCR-ABL1 positive | TxGNN Knowledge Graph |
-| 8 | chronic eosinophilic leukemia, not otherwise specified | TxGNN Knowledge Graph |
-| 9 | chronic myelogenous leukemia, BCR-ABL1 positive | TxGNN Knowledge Graph |
-| 10 | dermatofibrosarcoma protuberans | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

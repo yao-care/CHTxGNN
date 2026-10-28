@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: EMICIZUMABUM
 drugbank_id: DB13923
-evidence_level: L5
 permalink: /drugs/emicizumabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # EMICIZUMABUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB13923](https://go.drugbank.com/drugs/DB13923) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hemophilia | TxGNN Knowledge Graph |
-| 2 | symptomatic form of hemophilia in female carriers | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

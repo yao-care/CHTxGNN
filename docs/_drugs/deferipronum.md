@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: DEFERIPRONUM
 drugbank_id: DB08826
-evidence_level: L5
 permalink: /drugs/deferipronum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # DEFERIPRONUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB08826](https://go.drugbank.com/drugs/DB08826) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | beta thalassemia | TxGNN Knowledge Graph |
-| 2 | beta-thalassemia and related diseases | TxGNN Knowledge Graph |
-| 3 | hereditary persistence of fetal hemoglobin | TxGNN Knowledge Graph |
-| 4 | hemosiderosis | TxGNN Knowledge Graph |
-| 5 | dominant beta-thalassemia | TxGNN Knowledge Graph |
-| 6 | beta-thalassemia intermedia | TxGNN Knowledge Graph |
-| 7 | hemoglobinopathy | TxGNN Knowledge Graph |
-| 8 | beta-thalassemia HBB/LCRB | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

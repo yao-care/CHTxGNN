@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: VINCRISTINI SULFAS
 drugbank_id: DB00541
-evidence_level: L5
 permalink: /drugs/vincristini_sulfas/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # VINCRISTINI SULFAS
@@ -17,50 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00541](https://go.drugbank.com/drugs/DB00541) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 34 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | mantle cell lymphoma | TxGNN Knowledge Graph |
-| 2 | Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly | TxGNN Knowledge Graph |
-| 3 | diffuse large B-cell lymphoma of the central nervous system | TxGNN Knowledge Graph |
-| 4 | intravascular large B-cell lymphoma | TxGNN Knowledge Graph |
-| 5 | leukemia, lymphocytic, susceptibility to | TxGNN Knowledge Graph |
-| 6 | rhabdomyosarcoma (disease) | TxGNN Knowledge Graph |
-| 7 | Burkitt lymphoma | TxGNN Knowledge Graph |
-| 8 | acute lymphoblastic leukemia (disease) | TxGNN Knowledge Graph |
-| 9 | Hodgkin's paragranuloma | TxGNN Knowledge Graph |
-| 10 | plasmablastic lymphoma | TxGNN Knowledge Graph |
-| 11 | follicular lymphoma | TxGNN Knowledge Graph |
-| 12 | B-cell neoplasm | TxGNN Knowledge Graph |
-| 13 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 14 | neuroblastoma | TxGNN Knowledge Graph |
-| 15 | classic Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 16 | adenosarcoma | TxGNN Knowledge Graph |
-| 17 | T-cell/histiocyte rich large B cell lymphoma | TxGNN Knowledge Graph |
-| 18 | ALK-positive large B-cell lymphoma | TxGNN Knowledge Graph |
-| 19 | classic Hodgkin lymphoma, lymphocyte-rich type | TxGNN Knowledge Graph |
-| 20 | lymphoma | TxGNN Knowledge Graph |
-| 21 | non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 22 | obsolete Hodgkin's granuloma | TxGNN Knowledge Graph |
-| 23 | neoplasm of mature B-cells | TxGNN Knowledge Graph |
-| 24 | primary cutaneous diffuse large B-cell lymphoma, Leg type | TxGNN Knowledge Graph |
-| 25 | precursor T-cell acute lymphoblastic leukemia | TxGNN Knowledge Graph |
-| 26 | primary central nervous system lymphoma | TxGNN Knowledge Graph |
-| 27 | lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph |
-| 28 | lymphosarcoma | TxGNN Knowledge Graph |
-| 29 | Hodgkins lymphoma | TxGNN Knowledge Graph |
-| 30 | Langerhans cell histiocytosis | TxGNN Knowledge Graph |
-| 31 | kidney Wilms tumor | TxGNN Knowledge Graph |
-| 32 | Wilms tumor | TxGNN Knowledge Graph |
-| 33 | diffuse large B-cell lymphoma | TxGNN Knowledge Graph |
-| 34 | primary mediastinal large B-cell lymphoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

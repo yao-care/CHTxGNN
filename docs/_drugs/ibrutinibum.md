@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: IBRUTINIBUM
 drugbank_id: DB09053
-evidence_level: L5
 permalink: /drugs/ibrutinibum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # IBRUTINIBUM
@@ -18,25 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB09053](https://go.drugbank.com/drugs/DB09053) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 9 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | graft versus host disease | TxGNN Knowledge Graph |
-| 2 | mantle cell lymphoma | TxGNN Knowledge Graph |
-| 3 | lymphosarcoma | TxGNN Knowledge Graph |
-| 4 | Richter syndrome | TxGNN Knowledge Graph |
-| 5 | macroglobulinemia | TxGNN Knowledge Graph |
-| 6 | B-cell neoplasm | TxGNN Knowledge Graph |
-| 7 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 8 | lymphoplasmacytic lymphoma | TxGNN Knowledge Graph |
-| 9 | Waldenstrom macroglobulinemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

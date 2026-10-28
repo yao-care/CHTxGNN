@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: EVEROLIMUSUM
 drugbank_id: DB01590
-evidence_level: L5
 permalink: /drugs/everolimusum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # EVEROLIMUSUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB01590](https://go.drugbank.com/drugs/DB01590) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | breast neoplasm | TxGNN Knowledge Graph |
-| 2 | breast carcinoma | TxGNN Knowledge Graph |
-| 3 | renal cell adenocarcinoma | TxGNN Knowledge Graph |
-| 4 | nonpapillary renal cell carcinoma | TxGNN Knowledge Graph |
-| 5 | kidney angiomyolipoma | TxGNN Knowledge Graph |
-| 6 | renal cell carcinoma (disease) | TxGNN Knowledge Graph |
-| 7 | situs inversus | TxGNN Knowledge Graph |
-| 8 | clear cell renal carcinoma | TxGNN Knowledge Graph |
-| 9 | tuberous sclerosis | TxGNN Knowledge Graph |
-| 10 | Marfan syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

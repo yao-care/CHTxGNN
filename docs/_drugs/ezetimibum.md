@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: EZETIMIBUM
 drugbank_id: DB00973
-evidence_level: L5
 permalink: /drugs/ezetimibum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # EZETIMIBUM
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
+| Anzahl Zulassungen | 9 (gültig: 9) |
 | DrugBank ID | [DB00973](https://go.drugbank.com/drugs/DB00973) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hyperlipidemia | TxGNN Knowledge Graph |
-| 2 | homozygous familial hypercholesterolemia | TxGNN Knowledge Graph |
-| 3 | sitosterolemia | TxGNN Knowledge Graph |
-| 4 | hyperlipidemia, familial combined, LPL related | TxGNN Knowledge Graph |
-| 5 | obsolete familial combined hyperlipidemia | TxGNN Knowledge Graph |
-| 6 | familial hyperlipidemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

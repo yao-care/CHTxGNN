@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Hesperidin: vorhergesagte neue Indikation myeloproliferative Neoplasie (Evidenzstufe L5). Ursprüngliche Indikation: Venenmittel"
 monitor_inn: "hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]

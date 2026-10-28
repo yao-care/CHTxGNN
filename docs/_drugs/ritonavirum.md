@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: RITONAVIRUM
 drugbank_id: DB00503
-evidence_level: L5
 permalink: /drugs/ritonavirum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # RITONAVIRUM
@@ -18,20 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00503](https://go.drugbank.com/drugs/DB00503) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 4 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | chronic hepatitis C virus infection | TxGNN Knowledge Graph |
-| 2 | AIDS | TxGNN Knowledge Graph |
-| 3 | HIV infectious disease | TxGNN Knowledge Graph |
-| 4 | hepatitis C virus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

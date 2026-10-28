@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Clothiapine: vorhergesagte neue Indikation Schlaflosigkeit (Insomnie) (Evidenzstufe L5). Ursprüngliche Indikation: Neurolepticum"
 monitor_inn: "clothiapine"
 predicted_indications: ["insomnia (disease)"]

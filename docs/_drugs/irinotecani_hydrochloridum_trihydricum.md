@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: IRINOTECANI HYDROCHLORIDUM TRIHYDRICUM
 drugbank_id: DB00762
-evidence_level: L5
 permalink: /drugs/irinotecani_hydrochloridum_trihydricum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # IRINOTECANI HYDROCHLORIDUM TRIHYDRICUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
+| Anzahl Zulassungen | mindestens 6 |
 | DrugBank ID | [DB00762](https://go.drugbank.com/drugs/DB00762) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | pancreatic adenocarcinoma | TxGNN Knowledge Graph |
-| 2 | metastasis from malignant tumor of colon | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

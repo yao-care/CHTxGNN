@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: ACIDUM SALICYLICUM
 drugbank_id: DB00936
-evidence_level: L5
 permalink: /drugs/acidum_salicylicum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ACIDUM SALICYLICUM
@@ -17,37 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00936](https://go.drugbank.com/drugs/DB00936) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 21 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | seborrheic dermatitis | TxGNN Knowledge Graph |
-| 2 | keratinization disease | TxGNN Knowledge Graph |
-| 3 | osteoarthritis | TxGNN Knowledge Graph |
-| 4 | plantar wart | TxGNN Knowledge Graph |
-| 5 | acquired keratosis | TxGNN Knowledge Graph |
-| 6 | acne (disease) | TxGNN Knowledge Graph |
-| 7 | pityriasis simplex | TxGNN Knowledge Graph |
-| 8 | arthropathy | TxGNN Knowledge Graph |
-| 9 | tinea pedis | TxGNN Knowledge Graph |
-| 10 | tinea infection | TxGNN Knowledge Graph |
-| 11 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 12 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 13 | tinea corporis | TxGNN Knowledge Graph |
-| 14 | allergic rhinitis | TxGNN Knowledge Graph |
-| 15 | synovitis (disease) | TxGNN Knowledge Graph |
-| 16 | nasopharyngitis | TxGNN Knowledge Graph |
-| 17 | tenosynovitis | TxGNN Knowledge Graph |
-| 18 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 19 | palmoplantar keratoderma | TxGNN Knowledge Graph |
-| 20 | osteoarthritis susceptibility | TxGNN Knowledge Graph |
-| 21 | common cold | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

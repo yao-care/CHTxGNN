@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: METHOTREXATUM
 drugbank_id: DB00563
-evidence_level: L5
 permalink: /drugs/methotrexatum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # METHOTREXATUM
@@ -17,46 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
+| Anzahl Zulassungen | mindestens 2 |
 | DrugBank ID | [DB00563](https://go.drugbank.com/drugs/DB00563) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 30 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | localized pagetoid reticulosis | TxGNN Knowledge Graph |
-| 2 | mantle cell lymphoma | TxGNN Knowledge Graph |
-| 3 | parapsoriasis | TxGNN Knowledge Graph |
-| 4 | spondyloarthropathy | TxGNN Knowledge Graph |
-| 5 | lung cancer | TxGNN Knowledge Graph |
-| 6 | lung neoplasm | TxGNN Knowledge Graph |
-| 7 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph |
-| 8 | leukemia, lymphocytic, susceptibility to | TxGNN Knowledge Graph |
-| 9 | Burkitt lymphoma | TxGNN Knowledge Graph |
-| 10 | upper aerodigestive tract neoplasm | TxGNN Knowledge Graph |
-| 11 | bone osteosarcoma | TxGNN Knowledge Graph |
-| 12 | acute lymphoblastic leukemia (disease) | TxGNN Knowledge Graph |
-| 13 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 14 | female breast carcinoma | TxGNN Knowledge Graph |
-| 15 | B-cell neoplasm | TxGNN Knowledge Graph |
-| 16 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
-| 17 | mycosis fungoides and variants | TxGNN Knowledge Graph |
-| 18 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
-| 19 | head and neck cancer | TxGNN Knowledge Graph |
-| 20 | lymphoma | TxGNN Knowledge Graph |
-| 21 | juvenile idiopathic arthritis | TxGNN Knowledge Graph |
-| 22 | granulomatous slack skin disease | TxGNN Knowledge Graph |
-| 23 | non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 24 | folliculotropic mycosis fungoides | TxGNN Knowledge Graph |
-| 25 | precursor T-cell acute lymphoblastic leukemia | TxGNN Knowledge Graph |
-| 26 | psoriasis | TxGNN Knowledge Graph |
-| 27 | lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph |
-| 28 | lymphosarcoma | TxGNN Knowledge Graph |
-| 29 | Langerhans cell histiocytosis | TxGNN Knowledge Graph |
-| 30 | gestational trophoblastic neoplasm | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

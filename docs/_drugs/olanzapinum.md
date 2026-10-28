@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: OLANZAPINUM
 drugbank_id: DB00334
-evidence_level: L5
 permalink: /drugs/olanzapinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # OLANZAPINUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Anzahl Zulassungen | mindestens 4 |
 | DrugBank ID | [DB00334](https://go.drugbank.com/drugs/DB00334) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | endogenous depression | TxGNN Knowledge Graph |
-| 2 | bipolar disorder | TxGNN Knowledge Graph |
-| 3 | manic bipolar affective disorder | TxGNN Knowledge Graph |
-| 4 | anxiety disorder | TxGNN Knowledge Graph |
-| 5 | major depressive disorder | TxGNN Knowledge Graph |
-| 6 | schizophrenia | TxGNN Knowledge Graph |
-| 7 | unipolar depression | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

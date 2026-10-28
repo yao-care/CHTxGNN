@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 18
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Asfotase Alfa: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Hypophosphatasie"
 monitor_inn: "asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices with bleeding", "esophageal varices without bleeding", "cystinosis"]

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: BUPROPIONI HYDROCHLORIDUM
 drugbank_id: DB01156
-evidence_level: L5
 permalink: /drugs/bupropioni_hydrochloridum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # BUPROPIONI HYDROCHLORIDUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB01156](https://go.drugbank.com/drugs/DB01156) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | neurotic disorder | TxGNN Knowledge Graph |
-| 2 | endogenous depression | TxGNN Knowledge Graph |
-| 3 | major affective disorder | TxGNN Knowledge Graph |
-| 4 | anxiety disorder | TxGNN Knowledge Graph |
-| 5 | major depressive disorder | TxGNN Knowledge Graph |
-| 6 | obesity disorder | TxGNN Knowledge Graph |
-| 7 | monogenic obesity | TxGNN Knowledge Graph |
-| 8 | dysthymic disorder | TxGNN Knowledge Graph |
-| 9 | unipolar depression | TxGNN Knowledge Graph |
-| 10 | nicotine dependence | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

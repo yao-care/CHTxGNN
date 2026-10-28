@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: METHYLPHENIDATI HYDROCHLORIDUM
 drugbank_id: DB00422
-evidence_level: L5
 permalink: /drugs/methylphenidati_hydrochloridum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # METHYLPHENIDATI HYDROCHLORIDUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Anzahl Zulassungen | mindestens 3 |
 | DrugBank ID | [DB00422](https://go.drugbank.com/drugs/DB00422) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Balo concentric sclerosis | TxGNN Knowledge Graph |
-| 2 | narcolepsy | TxGNN Knowledge Graph |
-| 3 | narcolepsy-cataplexy syndrome | TxGNN Knowledge Graph |
-| 4 | attention deficit-hyperactivity disorder | TxGNN Knowledge Graph |
-| 5 | central nervous system disease | TxGNN Knowledge Graph |
-| 6 | X-linked adrenoleukodystrophy | TxGNN Knowledge Graph |
-| 7 | attention deficit hyperactivity disorder, inattentive type | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

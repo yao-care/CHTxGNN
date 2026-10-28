@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Alanin: vorhergesagte neue Indikation Gastroparese (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]

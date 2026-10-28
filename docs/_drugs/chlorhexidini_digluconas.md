@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CHLORHEXIDINI DIGLUCONAS
 drugbank_id: DB00878
-evidence_level: L5
 permalink: /drugs/chlorhexidini_digluconas/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CHLORHEXIDINI DIGLUCONAS
@@ -18,17 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 10) |
+| Anzahl Zulassungen | mindestens 10 |
 | DrugBank ID | [DB00878](https://go.drugbank.com/drugs/DB00878) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 1 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | gingivitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

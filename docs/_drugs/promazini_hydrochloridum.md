@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: PROMAZINI HYDROCHLORIDUM
 drugbank_id: DB00420
-evidence_level: L5
 permalink: /drugs/promazini_hydrochloridum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # PROMAZINI HYDROCHLORIDUM
@@ -17,38 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00420](https://go.drugbank.com/drugs/DB00420) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 22 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | non-histaminic angioedema | TxGNN Knowledge Graph |
-| 2 | manic bipolar affective disorder | TxGNN Knowledge Graph |
-| 3 | psychotic disorder | TxGNN Knowledge Graph |
-| 4 | papillary conjunctivitis | TxGNN Knowledge Graph |
-| 5 | familial dermatographia | TxGNN Knowledge Graph |
-| 6 | angioedema | TxGNN Knowledge Graph |
-| 7 | vasomotor rhinitis | TxGNN Knowledge Graph |
-| 8 | allergic rhinitis | TxGNN Knowledge Graph |
-| 9 | schizophreniform disorder | TxGNN Knowledge Graph |
-| 10 | atopic conjunctivitis | TxGNN Knowledge Graph |
-| 11 | pharyngitis | TxGNN Knowledge Graph |
-| 12 | schizophrenia | TxGNN Knowledge Graph |
-| 13 | vernal conjunctivitis | TxGNN Knowledge Graph |
-| 14 | mental disorder | TxGNN Knowledge Graph |
-| 15 | oppositional defiant disorder (disease) | TxGNN Knowledge Graph |
-| 16 | renin-angiotensin-aldosterone system-blocker-induced angioedema | TxGNN Knowledge Graph |
-| 17 | acquired angioedema | TxGNN Knowledge Graph |
-| 18 | hereditary angioedema | TxGNN Knowledge Graph |
-| 19 | common cold | TxGNN Knowledge Graph |
-| 20 | urticaria (disease) | TxGNN Knowledge Graph |
-| 21 | schizoaffective disorder | TxGNN Knowledge Graph |
-| 22 | acute intermittent porphyria | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

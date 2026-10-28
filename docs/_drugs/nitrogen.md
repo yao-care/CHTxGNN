@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 67
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Nitrogen: vorhergesagte neue Indikation 16q24.1-Mikrodeletionssyndrom (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch: parenterale Ernährung für Erwachsene)"
 monitor_inn: "nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: RITUXIMABUM
 drugbank_id: DB00073
-evidence_level: L5
 permalink: /drugs/rituximabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # RITUXIMABUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB00073](https://go.drugbank.com/drugs/DB00073) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | mantle cell lymphoma | TxGNN Knowledge Graph |
-| 2 | lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph |
-| 3 | lymphosarcoma | TxGNN Knowledge Graph |
-| 4 | lymphoma | TxGNN Knowledge Graph |
-| 5 | Richter syndrome | TxGNN Knowledge Graph |
-| 6 | Langerhans cell histiocytosis | TxGNN Knowledge Graph |
-| 7 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 8 | non-Hodgkin lymphoma | TxGNN Knowledge Graph |
-| 9 | B-cell neoplasm | TxGNN Knowledge Graph |
-| 10 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

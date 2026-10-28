@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TOLCAPONUM
 drugbank_id: DB00323
-evidence_level: L5
 permalink: /drugs/tolcaponum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TOLCAPONUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00323](https://go.drugbank.com/drugs/DB00323) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | hemiparkinsonism-hemiatrophy syndrome | TxGNN Knowledge Graph |
-| 2 | X-linked parkinsonism-spasticity syndrome | TxGNN Knowledge Graph |
-| 3 | Parkinson disease | TxGNN Knowledge Graph |
-| 4 | juvenile onset Parkinson disease 19A | TxGNN Knowledge Graph |
-| 5 | atypical juvenile parkinsonism | TxGNN Knowledge Graph |
-| 6 | hereditary late onset Parkinson disease | TxGNN Knowledge Graph |
-| 7 | early-onset parkinsonism-intellectual disability syndrome | TxGNN Knowledge Graph |
-| 8 | parkinsonian-pyramidal syndrome | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

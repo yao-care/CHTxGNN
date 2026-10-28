@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: CEFACLORUM
 drugbank_id: DB00833
-evidence_level: L5
 permalink: /drugs/cefaclorum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # CEFACLORUM
@@ -18,26 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00833](https://go.drugbank.com/drugs/DB00833) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 10 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | staphylococcal infection | TxGNN Knowledge Graph |
-| 2 | streptococcal infection | TxGNN Knowledge Graph |
-| 3 | pharyngitis | TxGNN Knowledge Graph |
-| 4 | pneumonia | TxGNN Knowledge Graph |
-| 5 | common cold | TxGNN Knowledge Graph |
-| 6 | tonsillitis | TxGNN Knowledge Graph |
-| 7 | respiratory tract infectious disease | TxGNN Knowledge Graph |
-| 8 | streptococcal pneumonia | TxGNN Knowledge Graph |
-| 9 | urinary tract infection (disease) | TxGNN Knowledge Graph |
-| 10 | staphylococcus aureus infection | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

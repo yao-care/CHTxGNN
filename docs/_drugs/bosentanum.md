@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: BOSENTANUM
 drugbank_id: DB00559
-evidence_level: L5
 permalink: /drugs/bosentanum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # BOSENTANUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00559](https://go.drugbank.com/drugs/DB00559) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | pulmonary hypertension | TxGNN Knowledge Graph |
-| 2 | scleroderma (disease) | TxGNN Knowledge Graph |
-| 3 | localized scleroderma | TxGNN Knowledge Graph |
-| 4 | pulmonary arterial hypertension | TxGNN Knowledge Graph |
-| 5 | systemic sclerosis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

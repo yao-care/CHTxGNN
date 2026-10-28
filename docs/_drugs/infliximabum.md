@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: INFLIXIMABUM
 drugbank_id: DB00065
-evidence_level: L5
 permalink: /drugs/infliximabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # INFLIXIMABUM
@@ -18,24 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 12 von 12) |
+| Anzahl Zulassungen | 12 (gültig: 12) |
 | DrugBank ID | [DB00065](https://go.drugbank.com/drugs/DB00065) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 8 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | ulcerative colitis (disease) | TxGNN Knowledge Graph |
-| 2 | inflammatory bowel disease | TxGNN Knowledge Graph |
-| 3 | Crohn disease | TxGNN Knowledge Graph |
-| 4 | spondyloarthropathy, susceptibility to | TxGNN Knowledge Graph |
-| 5 | rheumatoid arthritis | TxGNN Knowledge Graph |
-| 6 | ankylosing spondylitis | TxGNN Knowledge Graph |
-| 7 | psoriatic arthritis | TxGNN Knowledge Graph |
-| 8 | Crohn's colitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

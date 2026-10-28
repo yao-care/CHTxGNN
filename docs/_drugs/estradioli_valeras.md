@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: ESTRADIOLI VALERAS
 drugbank_id: DB00783
-evidence_level: L5
 permalink: /drugs/estradioli_valeras/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # ESTRADIOLI VALERAS
@@ -18,22 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB00783](https://go.drugbank.com/drugs/DB00783) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 6 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | postmenopausal atrophic vaginitis | TxGNN Knowledge Graph |
-| 2 | postmenopausal osteoporosis | TxGNN Knowledge Graph |
-| 3 | osteoporosis | TxGNN Knowledge Graph |
-| 4 | primary ovarian failure | TxGNN Knowledge Graph |
-| 5 | acne (disease) | TxGNN Knowledge Graph |
-| 6 | obsolete atrophic vulva | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-28
 description: "Isavuconazonium: vorhergesagte neue Indikation Pneumocystose (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 monitor_inn: "ISAVUCONAZONIUM"
 predicted_indications: ["pneumocystosis", "mycetoma"]

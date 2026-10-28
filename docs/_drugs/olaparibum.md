@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: OLAPARIBUM
 drugbank_id: DB09074
-evidence_level: L5
 permalink: /drugs/olaparibum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # OLAPARIBUM
@@ -17,43 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB09074](https://go.drugbank.com/drugs/DB09074) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 27 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | yolk sac tumor | TxGNN Knowledge Graph |
-| 2 | hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph |
-| 3 | ovarian adenocarcinoma | TxGNN Knowledge Graph |
-| 4 | familial ovarian cancer | TxGNN Knowledge Graph |
-| 5 | malignant germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 6 | ovarian clear cell adenocarcinoma | TxGNN Knowledge Graph |
-| 7 | desmoplastic small round cell tumor | TxGNN Knowledge Graph |
-| 8 | malignant non-dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 9 | hereditary site-specific ovarian cancer syndrome | TxGNN Knowledge Graph |
-| 10 | primary peritoneal serous/papillary carcinoma | TxGNN Knowledge Graph |
-| 11 | borderline epithelial tumor of ovary | TxGNN Knowledge Graph |
-| 12 | ovarian carcinosarcoma | TxGNN Knowledge Graph |
-| 13 | primary non-gestational choriocarcinoma of ovary | TxGNN Knowledge Graph |
-| 14 | ovarian cancer | TxGNN Knowledge Graph |
-| 15 | malignant sex cord stromal tumor of ovary | TxGNN Knowledge Graph |
-| 16 | immature ovarian teratoma | TxGNN Knowledge Graph |
-| 17 | maligant granulosa cell tumor of ovary | TxGNN Knowledge Graph |
-| 18 | malignant dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph |
-| 19 | ovarian small cell carcinoma | TxGNN Knowledge Graph |
-| 20 | malignant Sertoli-Leydig cell tumor of ovary | TxGNN Knowledge Graph |
-| 21 | peritoneum cancer | TxGNN Knowledge Graph |
-| 22 | primary malignant peritoneal tumor | TxGNN Knowledge Graph |
-| 23 | theca steroid-producing cell malignant tumor of ovary, not further specified | TxGNN Knowledge Graph |
-| 24 | primary peritoneal carcinoma (disease) | TxGNN Knowledge Graph |
-| 25 | ovarian endometrioid adenocarcinoma | TxGNN Knowledge Graph |
-| 26 | ovarian epithelial tumor | TxGNN Knowledge Graph |
-| 27 | ovarian mucinous adenocarcinoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

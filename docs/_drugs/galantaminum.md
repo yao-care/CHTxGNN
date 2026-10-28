@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: GALANTAMINUM
 drugbank_id: DB00674
-evidence_level: L5
 permalink: /drugs/galantaminum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # GALANTAMINUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB00674](https://go.drugbank.com/drugs/DB00674) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Alzheimer disease | TxGNN Knowledge Graph |
-| 2 | Reye syndrome | TxGNN Knowledge Graph |
-| 3 | Pick disease | TxGNN Knowledge Graph |
-| 4 | Alzheimer disease without neurofibrillary tangles | TxGNN Knowledge Graph |
-| 5 | cerebellar degeneration | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

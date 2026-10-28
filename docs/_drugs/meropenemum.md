@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: MEROPENEMUM
 drugbank_id: DB00760
-evidence_level: L5
 permalink: /drugs/meropenemum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MEROPENEMUM
@@ -18,23 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00760](https://go.drugbank.com/drugs/DB00760) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 7 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | bacterial meningitis | TxGNN Knowledge Graph |
-| 2 | streptococcal meningitis | TxGNN Knowledge Graph |
-| 3 | peritonitis | TxGNN Knowledge Graph |
-| 4 | pneumococcal meningitis | TxGNN Knowledge Graph |
-| 5 | meningococcal infection | TxGNN Knowledge Graph |
-| 6 | viral meningitis | TxGNN Knowledge Graph |
-| 7 | Pseudomonas aeruginosa infectious disease | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: LIDOCAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM
 drugbank_id: DB00281
-evidence_level: L5
 permalink: /drugs/lidocaini_hydrochloridum_anhydricum_adrenalinum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # LIDOCAINI HYDROCHLORIDUM ANHYDRICUM, ADRENALINUM
@@ -18,28 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
+| Anzahl Zulassungen | mindestens 9 |
 | DrugBank ID | [DB00281](https://go.drugbank.com/drugs/DB00281) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 12 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Pthirus pubis infestation | TxGNN Knowledge Graph |
-| 2 | Pediculus humanus capitis infestation | TxGNN Knowledge Graph |
-| 3 | psychologic dyspareunia | TxGNN Knowledge Graph |
-| 4 | premature ejaculation (disease) | TxGNN Knowledge Graph |
-| 5 | dermatitis | TxGNN Knowledge Graph |
-| 6 | hemorrhoid | TxGNN Knowledge Graph |
-| 7 | scabies | TxGNN Knowledge Graph |
-| 8 | mite infestation | TxGNN Knowledge Graph |
-| 9 | Norwegian scabies | TxGNN Knowledge Graph |
-| 10 | postherpetic neuralgia | TxGNN Knowledge Graph |
-| 11 | neuralgia | TxGNN Knowledge Graph |
-| 12 | urethritis (disease) | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

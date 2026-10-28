@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: TRAVOPROSTUM
 drugbank_id: DB00287
-evidence_level: L5
 permalink: /drugs/travoprostum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # TRAVOPROSTUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | DrugBank ID | [DB00287](https://go.drugbank.com/drugs/DB00287) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | ocular hypertension | TxGNN Knowledge Graph |
-| 2 | open-angle glaucoma | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

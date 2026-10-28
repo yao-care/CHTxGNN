@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: MODAFINILUM
 drugbank_id: DB00745
-evidence_level: L5
 permalink: /drugs/modafinilum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MODAFINILUM
@@ -18,21 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | DrugBank ID | [DB00745](https://go.drugbank.com/drugs/DB00745) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 5 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | Balo concentric sclerosis | TxGNN Knowledge Graph |
-| 2 | narcolepsy | TxGNN Knowledge Graph |
-| 3 | narcolepsy-cataplexy syndrome | TxGNN Knowledge Graph |
-| 4 | central nervous system disease | TxGNN Knowledge Graph |
-| 5 | X-linked adrenoleukodystrophy | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

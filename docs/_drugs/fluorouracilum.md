@@ -5,10 +5,11 @@ layout: default
 nav_exclude: true
 title: FLUOROURACILUM
 drugbank_id: DB00544
-evidence_level: L5
 permalink: /drugs/fluorouracilum/
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # FLUOROURACILUM
@@ -17,35 +18,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Anzahl Zulassungen | mindestens 7 |
 | DrugBank ID | [DB00544](https://go.drugbank.com/drugs/DB00544) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 19 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | gastric linitis plastica | TxGNN Knowledge Graph |
-| 2 | superficial multifocal basal cell carcinoma | TxGNN Knowledge Graph |
-| 3 | keratoacanthoma | TxGNN Knowledge Graph |
-| 4 | squamous cell carcinoma of colon | TxGNN Knowledge Graph |
-| 5 | diffuse gastric adenocarcinoma | TxGNN Knowledge Graph |
-| 6 | actinic keratosis (disease) | TxGNN Knowledge Graph |
-| 7 | colonic neoplasm | TxGNN Knowledge Graph |
-| 8 | skin disease | TxGNN Knowledge Graph |
-| 9 | gastric carcinoma | TxGNN Knowledge Graph |
-| 10 | malignant colon neoplasm | TxGNN Knowledge Graph |
-| 11 | colorectal cancer | TxGNN Knowledge Graph |
-| 12 | gastric neoplasm | TxGNN Knowledge Graph |
-| 13 | metastasis from malignant tumor of colon | TxGNN Knowledge Graph |
-| 14 | pancreatic adenocarcinoma | TxGNN Knowledge Graph |
-| 15 | seborrheic keratosis | TxGNN Knowledge Graph |
-| 16 | inverted follicular keratosis | TxGNN Knowledge Graph |
-| 17 | gastric cancer | TxGNN Knowledge Graph |
-| 18 | melanoacanthoma | TxGNN Knowledge Graph |
-| 19 | actinic cheilitis | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 

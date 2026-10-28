@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "aspartic acid"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Aspartic Acid: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 

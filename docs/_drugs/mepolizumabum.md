@@ -5,11 +5,12 @@ layout: default
 nav_exclude: true
 title: MEPOLIZUMABUM
 drugbank_id: DB06612
-evidence_level: L5
 permalink: /drugs/mepolizumabum/
 search_exclude: true
-last_modified_at: 2026-05-03
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # MEPOLIZUMABUM
@@ -18,18 +19,10 @@ predicted_indications: []
 
 | Element | Wert |
 |------|-------|
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | DrugBank ID | [DB06612](https://go.drugbank.com/drugs/DB06612) |
-| Evidenzniveau | L5 (Computergestützte Vorhersage) |
 | Anzahl vorhergesagter Indikationen | 2 |
-
-## Vorhergesagte Indikationen (TxGNN)
-
-Die folgenden sind potenzielle neue Indikationen, die vom TxGNN-Modell vorhergesagt wurden. Höhere Punktzahlen deuten auf eine höhere vorhergesagte Relevanz hin.
-
-| # | Indikation | Quelle |
-|---|------------|--------|
-| 1 | eosinophilic pneumonia | TxGNN Knowledge Graph |
-| 2 | pulmonary eosinophilia | TxGNN Knowledge Graph |
 
 ## Haftungsausschluss
 
