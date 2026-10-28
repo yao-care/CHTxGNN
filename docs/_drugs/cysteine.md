@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Cystein: Von parenteraler Ernährung zu trockenem Auge (Dry-Eye-Syndrom)
+## Cystein: Von parenteraler Ernährung zu Trockenes Auge (Dry-Eye-Syndrom)
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Cystein wird in der Schweiz als Bestandteil von Aminosäure-Infusionslösungen z
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung |
 | Vorhergesagte neue Indikation | Trockenes Auge (Dry-Eye-Syndrom) |
-| TxGNN-Vorhersagewert | 99,98 % |
+| TxGNN-Vorhersagewert | 0,9998 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine klinischen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 3 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

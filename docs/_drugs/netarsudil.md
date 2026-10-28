@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Netarsudil
-parent: Nur Modellvorhersage (L5)
+parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 66
-evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-13
-description: "Netarsudil: vorhergesagte neue Indikation Primäres hereditäres Glaukom (Evidenzstufe L5). Ursprüngliche Indikation: Offenwinkelglaukom, okuläre Hypertonie"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Netarsudil: bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
+predicted_indications: []
 ---
 
 # Netarsudil
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
+Evidenzniveau: **N/A** | Vorhergesagte Indikationen: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,64 +32,45 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Netarsudil: Von Offenwinkelglaukom und okulärer Hypertonie zu primärem hereditärem Glaukom
+<!-- known-uses-page -->
+<!-- description: Netarsudil: bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation -->
+## Netarsudil: Bekannte Anwendungen und Marktstatus in der Schweiz
 {: .text-alpha }
 
----
-
 ## Zusammenfassung
-
-Netarsudil ist in der Schweiz als Augentropfen (Roclanda) zur Behandlung des Offenwinkelglaukoms und der okulären Hypertonie zugelassen. Das Vorhersagemodell TxGNN schlägt nun den Einsatz bei primärem hereditärem Glaukom vor, mit einem sehr hohen Vorhersagewert von 99,5 %. Dieser Wert beruht allein auf einer Modellrechnung: Für diese Indikation liegen weder klinische Studien noch Fachliteratur vor (Evidenzniveau L5).
-
----
+Das TxGNN-Modell (Score ≥ 0,99) hat für Netarsudil Kandidaten geliefert. Alle Kandidaten, die sich auf eine Quelle zurückführen lassen, sind bereits bekannte Anwendungen. Daher gibt es derzeit keine neue vorhergesagte Indikation.
 
 ## Kurzübersicht
-
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Offenwinkelglaukom, okuläre Hypertonie |
-| Vorhergesagte neue Indikation | Primäres hereditäres Glaukom |
-| TxGNN-Vorhersagewert | 99,5 % |
-| Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
-| Empfohlene Entscheidung | Abwarten |
+| Neue vorhergesagte Indikationen | Keine (alle rückverfolgbaren Modellkandidaten sind bekannte Anwendungen) |
+| Bekannte Anwendungen unter den Modellkandidaten | 2 |
+| Evidenzstufe | Nicht zutreffend |
+| Marktstatus in der Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 
----
+## Bekannte Anwendungen unter den Kandidaten des Modells
 
-## Warum ist diese Vorhersage plausibel?
+### Zugelassen (durch Zulassung oder Fachinformation belegt)
+| Indikation | Quelle |
+|------|------|
+| Glaukom (glaucoma) | Zulassung in einem anderen Land; zugelassene Indikation: Offenwinkelglaukom (open-angle glaucoma) |
 
-Netarsudil hemmt die Rho-Kinasen ROCK1 und ROCK2 sowie den Noradrenalin-Transporter. Laut allgemeinem pharmakologischem Wissen erleichtert es dadurch den Abfluss des Kammerwassers über das Trabekelwerk, senkt den Druck in den episkleralen Venen und vermindert wahrscheinlich die Kammerwasserproduktion. Der Augeninnendruck sinkt, und genau dies ist der Wirkmechanismus bei der zugelassenen Indikation. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Die Beschreibung stützt sich daher auf allgemeines Fachwissen und auf die Daten zu den Zielproteinen ROCK1 und ROCK2.
+### Verwandt mit einer zugelassenen Indikation (gleiche Krankheitskategorie)
+| Indikation | Zugelassene Kategorie |
+|------|------|
+| Primäres hereditäres Glaukom (primary hereditary glaucoma) | Glaukom (glaucoma) |
 
-Beim primären hereditären Glaukom (angeboren oder juvenil) sind das Trabekelwerk und die Abflusswege des Auges in ihrer Entwicklung gestört. Ein Wirkstoff, der den Abfluss verbessert, könnte hier grundsätzlich helfen. Das macht die Vorhersage biologisch nachvollziehbar.
-
-Diese Plausibilität bleibt jedoch theoretisch. Kinder und Jugendliche unterscheiden sich in Anatomie und Verträglichkeit deutlich von Erwachsenen. Zudem wird die angeborene Form meist chirurgisch behandelt. Der hohe Vorhersagewert ersetzt keine klinischen Daten.
-
-Die zweite Vorhersage des Modells lautet «Glaukom» allgemein (99,5 %). Sie entspricht im Wesentlichen der bereits zugelassenen Indikation und ist daher keine echte Umwidmung. Dafür liegen mehrere abgeschlossene Phase-3-Studien vor.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-## Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
-
----
+### Im Wissensgraphen verzeichnete Beziehungen (keine Zulassung gefunden)
+| Indikation |
+|------|
+| keine |
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69043 | Roclanda, Augentropfen (Collyre, Lösung) | Augentropfen, Lösung | Offenwinkelglaukom, okuläre Hypertonie |
-
-Zulassungsinhaberin ist Santen SA. Die Zulassung ist gültig.
-
----
+| Zulassung | Produkt | Darreichungsform | Status |
+|------|------|------|------|
+| 69043 | netarsudilum, latanoprostum | Synthetika | Gültig |
 
 ## Sicherheitshinweise
 
@@ -96,20 +78,6 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
-
-**Entscheidung: Abwarten**
-
-**Begründung:**
-- Der Wirkmechanismus passt grundsätzlich zum primären hereditären Glaukom. Es gibt aber weder Studien noch Literatur zu dieser Indikation, und der hohe Modellwert allein genügt nicht für eine Entscheidung.
-- Bei Kindern und Jugendlichen gelten andere anatomische und sicherheitsrelevante Voraussetzungen, und die Behandlung ist überwiegend chirurgisch. Das erhöht die Unsicherheit.
-
-**Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Download und Auswertung des Dokuments) für ein vollständiges Sicherheitsscreening.
-- Die Angabe des Wirkmechanismus aus einer Primärquelle wie DrugBank.
-- Klinische oder präklinische Daten zu Netarsudil beim primären hereditären Glaukom, besonders bei Kindern und Jugendlichen.
-- Eine Klärung der Darreichungsform und der Anwendbarkeit bei dieser Patientengruppe (Verträglichkeit, Dosierung).
-- Eine fachärztliche Einschätzung, welche Rolle eine medikamentöse Therapie neben der Chirurgie spielen könnte.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

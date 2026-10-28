@@ -48,10 +48,10 @@ Andexanet alfa ist in der Schweiz als Antidot gegen Faktor-Xa-Inhibitoren zugela
 |------|------|
 | Ursprüngliche Indikation | Antidot gegen Faktor-Xa-Inhibitoren |
 | Vorhergesagte neue Indikation | Glanzmann-Thrombasthenie |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9977 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -60,9 +60,9 @@ Andexanet alfa ist in der Schweiz als Antidot gegen Faktor-Xa-Inhibitoren zugela
 
 Die Vorhersage ist nach aktueller Datenlage **nicht plausibel begründbar**. Andexanet alfa ist ein rekombinantes, katalytisch inaktives Faktor-Xa-Täuschmolekül. Es bindet Faktor-Xa-Inhibitoren und neutralisiert so deren gerinnungshemmende Wirkung. Die Angaben zum ursprünglichen Wirkmechanismus lagen für diesen Bericht nicht vor, weshalb ein Abgleich damit nicht möglich war.
 
-Die Glanzmann-Thrombasthenie ist dagegen ein angeborener Defekt des Plättchen-Integrins αIIbβ3 (GPIIb/IIIa), der die Plättchenaggregation beeinträchtigt. Ein Zusammenhang zwischen der Aufhebung einer Faktor-Xa-Hemmung und der Korrektur dieses Plättchendefekts ist nicht erkennbar. Der hohe Vorhersagewert ist wahrscheinlich ein Artefakt des Wissensgraphen, der auf gemeinsamen Nachbarn im Bereich «Blutstillung/Blutung» beruht.
+Die Glanzmann-Thrombasthenie ist dagegen ein angeborener Defekt des Plättchen-Integrins αIIbβ3 (GPIIb/IIIa), der die Plättchenaggregation beeinträchtigt. Ein Zusammenhang zwischen der Aufhebung einer Faktor-Xa-Hemmung und der Korrektur dieses Plättchendefekts ist nicht erkennbar. Der hohe Vorhersagewert ist wahrscheinlich ein Artefakt des TxGNN-Modells (Deep Learning), der auf gemeinsamen Nachbarn im Bereich «Blutstillung/Blutung» beruht.
 
-Weitere vorhergesagte Indikationen mit ähnlich hohen Werten sind die primäre Plättchen-Freisetzungsstörung (99,8 %), die Pseudo-von-Willebrand-Krankheit (99,7 %) und die Hämophilie (99,1 %). Auch dafür fehlt ein mechanistischer Zusammenhang. Bei der Hämophilie gibt es zwar neun Publikationen, diese behandeln aber die zugelassene Anwendung von Andexanet alfa oder Laborstörungen durch direkte orale Antikoagulanzien, nicht eine Behandlung der Hämophilie.
+Weitere vorhergesagte Indikationen mit ähnlich hohen Werten sind die primäre Thrombozyten-Freisetzungsstörung (0,9976), das Pseudo-von-Willebrand-Syndrom (0,9965) und die Hämophilie (0,9910). Auch dafür fehlt ein mechanistischer Zusammenhang. Bei der Hämophilie gibt es zwar neun Publikationen, diese behandeln aber die zugelassene Anwendung von Andexanet alfa oder Laborstörungen durch direkte orale Antikoagulanzien, nicht eine Behandlung der Hämophilie.
 
 ---
 

@@ -50,9 +50,9 @@ Stickstoff (DrugBank DB09152) ist in der Schweiz als Bestandteil von Infusionsl�
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung (auch: parenterale Ernährung für Erwachsene) |
 | Vorhergesagte neue Indikation | 16q24.1-Mikrodeletionssyndrom |
-| TxGNN-Vorhersagewert | 99,7 % |
+| TxGNN-Vorhersagewert | 0,9973 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | 7 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -64,7 +64,7 @@ Eine überzeugende Begründung gibt es nicht. Stickstoff dient in der parenteral
 
 Das 16q24.1-Mikrodeletionssyndrom ist eine genomische Erkrankung. Sie betrifft die Region um das Gen FOXF1 und wird mit der alveolären Kapillardysplasie mit Fehlstellung der Lungenvenen in Verbindung gebracht. Eine Stickstoffzufuhr über die Ernährung kann diesen genetischen Defekt nicht korrigieren.
 
-Der hohe Vorhersagewert von 99,7 % ist ein rein netzwerkbasiertes Ergebnis. Er spiegelt wahrscheinlich die unspezifische Natur des Eintrags im Wissensgraphen wider und ist kein Hinweis auf eine tatsächliche Wirksamkeit. Auch die weiteren vorhergesagten Indikationen (kindliche interstitielle Lungenerkrankung, isolierte pulmonale Kapillaritis, kongenitale pulmonale Lymphangiektasie) haben keinen belegten mechanistischen Bezug. Bei der kongenitalen pulmonalen Lymphangiektasie kann Ernährungsunterstützung allenfalls als allgemeine Supportivmassnahme dienen, nicht aber als spezifische Wirkung von Stickstoff.
+Der hohe Vorhersagewert von 0,9973 stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat. Er ist kein biologischer Beleg und kein Hinweis auf eine tatsächliche Wirksamkeit. Auch die weiteren vorhergesagten Indikationen (kindliche interstitielle Lungenerkrankung, isolierte pulmonale Kapillaritis, kongenitale pulmonale Lymphangiektasie) haben keinen belegten mechanistischen Bezug. Bei der kongenitalen pulmonalen Lymphangiektasie kann Ernährungsunterstützung allenfalls als allgemeine Supportivmassnahme dienen, nicht aber als spezifische Wirkung von Stickstoff.
 
 ---
 

@@ -9,6 +9,7 @@ evidence_level: L5
 permalink: /drugs/lisdexamfetamini_dimesilas/
 search_exclude: true
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # LISDEXAMFETAMINI DIMESILAS

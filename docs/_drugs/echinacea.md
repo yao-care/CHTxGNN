@@ -50,10 +50,10 @@ Echinacea wird in der Schweiz als homöopathisches Arzneimittel zur Steigerung d
 |------|------|
 | Ursprüngliche Indikation | Homöopathisch zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, Erkältungskrankheiten, leichten Allgemeininfektionen und Entzündungen der Mundschleimhäute |
 | Vorhergesagte neue Indikation | Lepra |
-| TxGNN-Vorhersagewert | 99,4 % |
+| TxGNN-Vorhersagewert | 0,9945 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Ec
 
 Die Verbindung zwischen der ursprünglichen Indikation (Stärkung der Abwehr bei Infekten) und Lepra, einer chronischen bakteriellen Infektion durch *Mycobacterium leprae*, ist rein spekulativ. Eine Rolle der Makrophagen in der Abwehr wäre theoretisch denkbar, wurde aber nicht untersucht.
 
-Der hohe Vorhersagewert beruht vermutlich auf der Nähe zu allgemeinen immunbezogenen Zielstrukturen im Wissensgraphen und nicht auf krankheitsspezifischer Evidenz. Er sollte daher nicht als Hinweis auf eine Wirksamkeit gewertet werden.
+Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Krankheiten gelernt hat, nicht biologische Evidenz. Er sollte daher nicht als Hinweis auf eine Wirksamkeit gewertet werden.
 
 ---
 

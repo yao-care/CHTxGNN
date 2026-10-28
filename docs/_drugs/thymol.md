@@ -50,10 +50,10 @@ Thymol ist in der Schweiz zugelassen zur Anwendung bei Erkältungen, Schnupfen, 
 |------|------|
 | Ursprüngliche Indikation | Leichte Kopfschmerzen (äusserlich); Erkältungen, Schnupfen und Husten (Inhalation und Einreiben); Affektionen der Atemwege |
 | Vorhergesagte neue Indikation | Interventrikuläres Septumaneurysma |
-| TxGNN-Vorhersagewert | 99,2 % |
+| TxGNN-Vorhersagewert | 0,9925 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 3 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Thymol ist in der Schweiz zugelassen zur Anwendung bei Erkältungen, Schnupfen, 
 
 Zum Wirkmechanismus von Thymol liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der allgemeinen Pharmakologie ist Thymol als aromatisches Phenol mit antimikrobiellen, antioxidativen und entzündungshemmenden Eigenschaften bekannt. Diese Einordnung stammt nicht aus den vorliegenden Daten.
 
-Ein plausibler Zusammenhang zwischen den ursprünglichen Indikationen (Atemwegsbeschwerden, leichte Kopfschmerzen) und einem Septumaneurysma besteht nicht. Das Septumaneurysma ist eine strukturelle Herzveränderung, meist angeboren oder nach einem Herzinfarkt entstanden. Antimikrobielle oder entzündungshemmende Wirkungen können eine solche Strukturveränderung nicht korrigieren. Der hohe Vorhersagewert ist sehr wahrscheinlich ein Artefakt des Wissensgraphen, ohne unterstützende klinische oder literarische Evidenz.
+Ein plausibler Zusammenhang zwischen den ursprünglichen Indikationen (Atemwegsbeschwerden, leichte Kopfschmerzen) und einem Septumaneurysma besteht nicht. Das Septumaneurysma ist eine strukturelle Herzveränderung, meist angeboren oder nach einem Herzinfarkt entstanden. Antimikrobielle oder entzündungshemmende Wirkungen können eine solche Strukturveränderung nicht korrigieren. Der hohe Vorhersagewert ist sehr wahrscheinlich ein Artefakt des TxGNN-Modells (Deep Learning), ohne unterstützende klinische oder literarische Evidenz.
 
 Auch die übrigen neun vorhergesagten Indikationen (u. a. Pulmonalklappenerkrankung, Laubry-Pezzi-Syndrom, Pierre-Robin-Syndrom, Lippen-Kiefer-Gaumenspalten-Syndrom, Chromosomendeletionen, Jeune-Syndrom) betreffen strukturelle, angeborene oder genetische Erkrankungen ohne erkennbaren Wirkmechanismus. Für keine davon liegen klinische Studien vor.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Phenylalanine
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 73
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-13
-description: "Phenylalanine: vorhergesagte neue Indikation Sklerosierende Cholangitis (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch für Erwachsene)"
+description: "Phenylalanin: vorhergesagte neue Indikation Sklerosierende Cholangitis (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch für Erwachsene)"
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["sclerosing cholangitis", "congenital prothrombin defici
 # Phenylalanine
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
+Evidenzniveau: **L4** | Vorhergesagte Indikationen: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Phenylalanin: Von parenteraler Ernährung zu sklerosierender Cholangitis
+## Phenylalanin: Von parenteraler Ernährung zur neuen Indikation Sklerosierende Cholangitis
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -48,9 +48,9 @@ Phenylalanin wird in der Schweiz als Aminosäurebestandteil in Infusionslösunge
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung (auch für Erwachsene); Peritonealdialyselösung |
 | Vorhergesagte neue Indikation | Sklerosierende Cholangitis |
-| TxGNN-Vorhersagewert | 99,4 % |
+| TxGNN-Vorhersagewert | 0,9943 |
 | Evidenzniveau | L4 (nur Mechanismus- bzw. Biomarker-Hinweise, keine Studien zur Wirksamkeit) |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
 | Anzahl Zulassungen | 8 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -62,7 +62,7 @@ Zum Wirkmechanismus von Phenylalanin liegen in den für diesen Bericht zusammeng
 
 Ein direkter Mechanismus zwischen Phenylalanin und sklerosierender Cholangitis ist nicht belegt. Die einzige verwandte Arbeit (PMID 15790420) untersuchte die Tyrosin-Konzentration im Blut, einen Phenylalanin-Metaboliten, im Zusammenhang mit Müdigkeit bei primär biliärer Cholangitis und primär sklerosierender Cholangitis. Sie deutet auf einen veränderten Stoffwechsel aromatischer Aminosäuren bei cholestatischen Lebererkrankungen hin. Das ist ein Hinweis auf einen Biomarker oder ein Symptom, kein Beleg für einen Therapieeffekt.
 
-Allenfalls wäre ein Einsatz als Ernährungsunterstützung denkbar, nicht als Behandlung der Erkrankung selbst. Der sehr hohe Vorhersagewert beruht auf Netzwerkbeziehungen im Wissensgraphen und nicht auf klinischer Evidenz.
+Allenfalls wäre ein Einsatz als Ernährungsunterstützung denkbar, nicht als Behandlung der Erkrankung selbst. Der sehr hohe Vorhersagewert stammt aus dem TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, nicht biologische Evidenz.
 
 ---
 

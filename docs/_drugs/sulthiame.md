@@ -50,10 +50,10 @@ Sulthiame (Ospolot) ist in der Schweiz als Antiepileptikum zugelassen. Das Model
 |------|------|
 | Ursprüngliche Indikation | Antiepileptikum |
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom |
-| TxGNN-Vorhersagewert | 99,97 % |
+| TxGNN-Vorhersagewert | 0,9997 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Sulthiame (Ospolot) ist in der Schweiz als Antiepileptikum zugelassen. Das Model
 
 Der Wirkmechanismus von Sulthiame ist in den vorliegenden Daten nicht angegeben. Sulthiame ist ein Sulfonamid und gehört nach allgemeinem Wissen zu den Carboanhydrase-Hemmern, die als Antiepileptika eingesetzt werden. Diese Einordnung stammt nicht aus den für diesen Bericht zusammengestellten Daten.
 
-Ein Zusammenhang zwischen dieser Wirkung und dem Cauda-equina-Syndrom, einer Schädigung der Nervenwurzeln im unteren Rückenmarkskanal durch Kompression, ist nicht belegt. Eine plausible Wirkkette ist aus den Daten nicht ableitbar. Der hohe Vorhersagewert spiegelt vermutlich Strukturen im Wissensgraphen des Modells wider und keinen klinischen Nachweis.
+Ein Zusammenhang zwischen dieser Wirkung und dem Cauda-equina-Syndrom, einer Schädigung der Nervenwurzeln im unteren Rückenmarkskanal durch Kompression, ist nicht belegt. Eine plausible Wirkkette ist aus den Daten nicht ableitbar. Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat. Er ist kein biologischer Nachweis.
 
 Auch für die weiteren neun vorhergesagten Indikationen (u. a. neurogene Blase, Reizdarmsyndrom, Anaphylaxie, Mitralklappenprolaps) fehlen Studien, Literatur und ein belegter Mechanismus. Bei der Anaphylaxie kommt hinzu, dass Sulfonamide selbst Überempfindlichkeitsreaktionen auslösen können. Das ist ein Sicherheitsrisiko und kein Nutzen. Die Bezeichnung «neurogene Blase» ist in der Ontologie als veraltet markiert und müsste vor einer weiteren Prüfung einem aktuellen Begriff zugeordnet werden.
 

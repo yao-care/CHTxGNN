@@ -4,9 +4,9 @@ title: Alglucosidase Alfa
 parent: Nur Modellvorhersage (L5)
 nav_order: 13
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
-description: "Alglucosidase Alfa: vorhergesagte neue Indikation Adulte Polyglucosan-Körper-Krankheit (APBD) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Pompe (Mangel an alpha-Glucosidase)"
+description: "Alglucosidase Alfa: vorhergesagte neue Indikation Adulte Polyglucosankörper-Krankheit (adult polyglucosan body disease) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Pompe (Mangel an alpha-Glucosidase)"
 monitor_inn: "alglucosidase alfa"
 predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["adult polyglucosan body disease", "congenital entropion
 # Alglucosidase Alfa
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Alglucosidase alfa: Von Morbus Pompe zu adulter Polyglucosan-Körper-Krankheit
+## Alglucosidase alfa: Von Morbus Pompe zu Adulte Polyglucosankörper-Krankheit (adult polyglucosan body disease)
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Alglucosidase alfa (Myozyme) ist in der Schweiz als Enzymersatztherapie für Mor
 |------|------|
 | Ursprüngliche Indikation | Morbus Pompe (Mangel an alpha-Glucosidase) |
 | Vorhergesagte neue Indikation | Adulte Polyglucosan-Körper-Krankheit (APBD) |
-| TxGNN-Vorhersagewert | 99,5 % |
+| TxGNN-Vorhersagewert | 0,9947 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -100,7 +100,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Die Vorhersage stützt sich nur auf ein Modell (L5). Es gibt keine Studien oder Publikationen, und der Mechanismus (lysosomales Enzym gegen zytosolische Ablagerungen, eingeschränkter Zugang zum Gehirn) spricht eher gegen eine Wirksamkeit.
-- Die weiteren neun Vorhersagen (u. a. andere GBE1-Mangelformen sowie angeborene Augenlid- und Augenfehlbildungen) haben ebenfalls keine Evidenz. Sie beruhen vermutlich auf Eigenheiten des Wissensgraphen und nicht auf biologischen Zusammenhängen.
+- Die weiteren sieben Vorhersagen (u. a. angeborene Augenlid- und Augenfehlbildungen) haben ebenfalls keine Evidenz. Die Scores stammen aus dem TxGNN-Modell (Deep Learning) und können Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, nicht biologische Evidenz.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, um die Sicherheit zu beurteilen.

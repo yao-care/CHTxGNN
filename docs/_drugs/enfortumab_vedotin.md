@@ -50,10 +50,10 @@ Enfortumab Vedotin (Padcev) ist ein Antikörper-Wirkstoff-Konjugat, das in der S
 |------|------|
 | Ursprüngliche Indikation | Urothelkarzinom |
 | Vorhergesagte neue Indikation | Lepra |
-| TxGNN-Vorhersagewert | 99,5 % |
+| TxGNN-Vorhersagewert | 0,9953 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Enfortumab Vedotin (Padcev) ist ein Antikörper-Wirkstoff-Konjugat, das in der S
 
 Enfortumab Vedotin ist ein gegen Nectin-4 gerichtetes Antikörper-Wirkstoff-Konjugat. Der Antikörper bringt den zytotoxischen Wirkstoff MMAE gezielt in Tumorzellen, die Nectin-4 tragen. Die ursprüngliche Wirkmechanismus-Angabe fehlt in den für diesen Bericht zusammengestellten Daten; die Beschreibung stützt sich daher auf die Einordnung der Wirkstoffklasse.
 
-Für Lepra, eine bakterielle Infektion, ist kein mechanistischer Zusammenhang bekannt. Es gibt keine Hinweise, dass ein zytotoxisches Antikörper-Wirkstoff-Konjugat gegen Mykobakterien wirkt. Der hohe TxGNN-Wert (99,5 %) ist eine rein rechnerische Vorhersage aus Netzwerkbeziehungen und kein Beleg für eine Wirksamkeit. Das zytotoxische und das potenziell immunsupprimierende Profil des Arzneimittels sprechen bei einer Infektionskrankheit eher dagegen.
+Für Lepra, eine bakterielle Infektion, ist kein mechanistischer Zusammenhang bekannt. Es gibt keine Hinweise, dass ein zytotoxisches Antikörper-Wirkstoff-Konjugat gegen Mykobakterien wirkt. Der hohe TxGNN-Wert (0,9953) stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, und ist kein biologischer Beleg für eine Wirksamkeit. Das zytotoxische und das potenziell immunsupprimierende Profil des Arzneimittels sprechen bei einer Infektionskrankheit eher dagegen.
 
 Die weiteren vorhergesagten Indikationen (u. a. multiple endokrine Neoplasie, Zytomegalie-Infektion, Candidiasis, Hirninfarkt, HIV, homozygote familiäre Hypercholesterinämie) weisen ebenfalls keinen plausiblen Zusammenhang auf. Zwei Einträge (maligner Katarrh, infektiöse bovine Rhinotracheitis) sind Tierkrankheiten und vermutlich Artefakte der Datenbasis. Die beiden vorhandenen Publikationen zu Zytomegalie-Infektion bzw. Candidiasis beschreiben Nebenwirkungen und Sicherheitssignale, keinen Nutzen.
 

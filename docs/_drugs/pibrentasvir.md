@@ -50,10 +50,10 @@ Pibrentasvir ist in der Schweiz als Maviret Filmtabletten zur Behandlung der chr
 |------|------|
 | Ursprüngliche Indikation | Chronische Hepatitis C |
 | Vorhergesagte neue Indikation | Hepatitis-B-Virusinfektion |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9980 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Pibrentasvir ist in der Schweiz als Maviret Filmtabletten zur Behandlung der chr
 
 Der Wirkmechanismus von Pibrentasvir liegt in den für diesen Bericht zusammengestellten Daten nicht vor. Bekannt ist aus den Daten, dass Pibrentasvir das HCV-Protein NS5A hemmt. Es wird gemeinsam mit Glecaprevir eingesetzt, einem NS3/4A-Proteasehemmer.
 
-Zwischen Hepatitis C und Hepatitis B besteht vor allem eine klinische Nähe: Beide Infektionen betreffen die Leber und führen zu chronischer Lebererkrankung. Ein gemeinsamer Wirkmechanismus ist jedoch nicht erkennbar. Das Hepatitis-B-Virus ist ein DNA-Virus, das sich über reverse Transkription vermehrt, und es besitzt kein Gegenstück zu NS5A. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe der Begriffe «virale Hepatitis» im Wissensgraphen wider und keine tatsächliche pharmakologische Verbindung.
+Zwischen Hepatitis C und Hepatitis B besteht vor allem eine klinische Nähe: Beide Infektionen betreffen die Leber und führen zu chronischer Lebererkrankung. Ein gemeinsamer Wirkmechanismus ist jedoch nicht erkennbar. Das Hepatitis-B-Virus ist ein DNA-Virus, das sich über reverse Transkription vermehrt, und es besitzt kein Gegenstück zu NS5A. Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und spiegelt wahrscheinlich Ähnlichkeiten wider, die das Modell zwischen verwandten Erkrankungen gelernt hat, und keine tatsächliche pharmakologische Verbindung oder biologische Evidenz.
 
 Die gefundene Literatur behandelt ausschliesslich die Hepatitis-C-Therapie. Hepatitis B wird dort nur am Rande im Rahmen allgemeiner Übersichten zu viralen Hepatitiden erwähnt.
 
@@ -104,7 +104,7 @@ Die folgenden Arbeiten stammen aus der Recherche zu dieser Indikation. Keine dav
 
 **Begründung:**
 - Es gibt keine klinischen Studien und keine Literatur, die Pibrentasvir bei Hepatitis B untersuchen. Auch ein plausibler Wirkmechanismus fehlt, da NS5A ein HCV-spezifisches Ziel ist.
-- Der hohe TxGNN-Wert stützt sich vermutlich auf die Nähe der Begriffe im Wissensgraphen und nicht auf eine tatsächliche pharmakologische Verbindung.
+- Der hohe TxGNN-Wert stammt vom TxGNN-Modell (Deep Learning) und spiegelt vermutlich Ähnlichkeiten wider, die das Modell zwischen verwandten Erkrankungen gelernt hat, und keine tatsächliche pharmakologische Verbindung oder biologische Evidenz.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Präklinische Daten (z. B. Zellkultur), die eine antivirale Aktivität gegen HBV zeigen

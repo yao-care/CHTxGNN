@@ -4,7 +4,7 @@ title: Sebelipase Alfa
 parent: Nur Modellvorhersage (L5)
 nav_order: 82
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Sebelipase Alfa: vorhergesagte neue Indikation Scheie-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mi…"
 monitor_inn: "sebelipase alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone in
 # Sebelipase Alfa
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Sebelipase alfa (Kanuma) ist ein Enzymersatzpräparat, das in der Schweiz zur la
 |------|------|
 | Ursprüngliche Indikation | Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel |
 | Vorhergesagte neue Indikation | Scheie-Syndrom |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9980 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (zugelassen) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

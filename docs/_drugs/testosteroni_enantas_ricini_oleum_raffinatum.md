@@ -8,6 +8,7 @@ drugbank_id: DB00624
 evidence_level: L5
 permalink: /drugs/testosteroni_enantas_ricini_oleum_raffinatum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # TESTOSTERONI ENANTAS, RICINI OLEUM RAFFINATUM

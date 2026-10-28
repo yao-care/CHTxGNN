@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Elvitegravir
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 46
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-13
-description: "Elvitegravir: vorhergesagte neue Indikation Infektion mit dem Simianen Immundefizienzvirus (SIV) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 monitor_inn: "elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Elvitegravir: vorhergesagte neue Indikation Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
 # Elvitegravir
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3** 
+Evidenzniveau: **L4** | Vorhergesagte Indikationen: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +33,57 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Elvitegravir: Von HIV-Infektion zu Infektion mit dem Simianen Immundefizienzvirus (SIV)
+## Elvitegravir: HIV-Integrase-Strangtransfer-Inhibitor → Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Elvitegravir ist ein Arzneimittel gegen HIV-Infektionen und in der Schweiz in Kombinationspräparaten zugelassen (Genvoya, Stribild). Das Modell sagt voraus, dass es auch gegen die Infektion mit dem Simianen Immundefizienzvirus (SIV) wirken könnte, einer Erkrankung bei Affen. Diese Vorhersage stützt sich nur auf präklinische Studien (Zellkultur und Tiermodelle); klinische Studien liegen nicht vor, und SIV ist keine Erkrankung des Menschen.
+Elvitegravir ist ein Hemmstoff der HIV-1-Integrase und wird in der Schweiz in Kombinationspräparaten eingesetzt. Für die Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection), eine Erkrankung im Tiermodell, sagt das Modell eine mögliche Wirksamkeit voraus. Die Evidenz stammt ausschliesslich aus präklinischen Studien und Laborarbeiten, direkte klinische Studien fehlen.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | HIV-Infektion |
-| Vorhergesagte neue Indikation | Infektion mit dem Simianen Immundefizienzvirus (SIV) |
-| TxGNN-Vorhersagewert | 99,9 % |
-| Evidenzniveau | L4 (präklinische Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Ursprüngliche Indikation | HIV-Infektion; HIV-Infektionen |
+| Vorhergesagte neue Indikation | Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) |
+| TxGNN-Vorhersagewert | 0,9989 |
+| Evidenzniveau | L4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Elvitegravir gehört zu den HIV-1-Integrase-Strangtransfer-Inhibitoren (INSTI). Diese Wirkstoffe blockieren das Enzym Integrase, mit dem das Virus sein Erbgut in das Erbgut der Wirtszelle einbaut. Die Angaben zum Wirkmechanismus aus der Arzneimitteldatenbank fehlen in den vorliegenden Daten; die Einordnung beruht daher auf der Klassenzugehörigkeit.
+Zum Wirkmechanismus liegen in den compilierten Daten keine Angaben vor. Bekannt ist jedoch, dass Elvitegravir die Integrase von HIV-1 hemmt und so den Einbau der viralen DNA in das Erbgut der Wirtszelle verhindert (Strangtransfer-Hemmung).
 
-HIV-1 und SIV sind eng verwandte Lentiviren, deren Integrase ein weitgehend gleiches aktives Zentrum besitzt. Deshalb ist es plausibel, dass Integrase-Hemmer auch gegen SIV wirken. Laborstudien mit SIVmac239 und mit Affen-tropen HIV-Varianten bestätigen, dass INSTI wirksam sind und dass vergleichbare Resistenzmutationen auftreten.
+Das Affen-Immundefizienzvirus (SIV) und HIV-1 sind eng verwandte Lentiviren, deren Integrase-Enzyme ein weitgehend übereinstimmendes aktives Zentrum besitzen. Ein Effekt dieser Wirkstoffklasse auf SIV ist daher mechanistisch nachvollziehbar. Laborarbeiten beschreiben die Empfindlichkeit von SIVmac239 gegenüber Integrase-Hemmern und ähnliche Resistenzmuster wie bei HIV.
 
-Wichtig: SIV ist eine Infektion von Tieren und dient als Forschungsmodell. Die Evidenz spricht für den Einsatz als Modell, nicht für eine klinische Umwidmung beim Menschen.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
+Wichtig: Die SIV-Infektion ist eine Erkrankung von Tiermodellen und keine therapeutische Indikation beim Menschen. Die Daten sprechen für den Nutzen als Forschungsmodell, nicht für eine klinische Umwidmung.
 
 ---
 
-## Literaturbelege
+### Literaturbelege
+
+Es wurden keine direkten Studien zu einer SIV-Infektion mit Elvitegravir als alleinigem Wirkstoff gefunden. Die Arbeiten betreffen überwiegend Zellkultur- und Tiermodelle, teils mit verwandten Viren (SHIV) oder mit Kombinationen.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Präklinisch, in vivo (Makaken) | The Journal of Infectious Diseases | Vaginale Einlagen mit Tenofoviralafenamid und Elvitegravir schützten Makaken deutlich vor wiederholter SHIV-Exposition, auch bei Anwendung nach der Exposition (frühere Arbeit: 93 % bzw. 100 % Schutz). |
-| [41342257](https://pubmed.ncbi.nlm.nih.gov/41342257/) | 2026 | Präklinisch, in vivo (Makaken) | The Journal of Infectious Diseases | Rektale Einlagen mit Tenofoviralafenamid und Elvitegravir boten nach der Exposition einen teilweisen Schutz (82,9 %) vor SHIV-Infektion. |
-| [17977962](https://pubmed.ncbi.nlm.nih.gov/17977962/) | 2008 | In vitro | Journal of Virology | Elvitegravir hemmt den Strangtransfer der HIV-1-Integrase und die Virusvermehrung über verschiedene Subtypen und mehrfach resistente Stämme hinweg; Resistenzprofil beschrieben. |
-| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | In vitro | Journal of Virology | HIV-Integrase-Resistenzmutationen, in SIVmac239 eingebracht, veränderten die Empfindlichkeit gegenüber INSTI (u. a. Elvitegravir) ähnlich wie bei HIV. |
-| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | In vitro | Journal of Virology | SIVmac239 ist für INSTI empfindlich; Resistenzprofile in Zellkultur entsprechen weitgehend denen bei HIV. |
-| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | In vitro | Antimicrobial Agents and Chemotherapy | Ein Affen-tropes SIV/HIV-Rekombinantvirus eignet sich als Modell zur Untersuchung von Resistenzen gegen Integrase-Hemmer. |
-| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | In vitro | Antimicrobial Agents and Chemotherapy | Bictegravir und Cabotegravir wirkten gegen INSTI-resistentes SIVmac239 und HIV-1; Elvitegravir und Raltegravir dienten als Vergleich mit niedrigerer Resistenzbarriere. |
-| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Präklinisch, Modellentwicklung (Maus) | Frontiers in Immunology | Ein humanisiertes Mausmodell erlaubt es, antivirale Strategien sowohl gegen SIV als auch gegen HIV zu testen. |
+| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Präklinisch (Makaken) | The Journal of Infectious Diseases | Vaginale Einlagen mit Tenofovir-Alafenamid und Elvitegravir schützten Makaken vor wiederholter SHIV-Exposition (zuvor 93 % bzw. 100 % Schutz bei Gabe 4 Stunden vor bzw. nach Exposition); die Studie prüft verlängerten Schutz nach Exposition. |
+| [41342257](https://pubmed.ncbi.nlm.nih.gov/41342257/) | 2026 | Präklinisch (Makaken) | The Journal of Infectious Diseases | Rektale Einlagen mit Tenofovir-Alafenamid/Elvitegravir boten teilweisen Schutz nach Exposition (82,9 %). |
+| [17977962](https://pubmed.ncbi.nlm.nih.gov/17977962/) | 2008 | In vitro | Journal of Virology | Elvitegravir hemmt den Strangtransfer und die Replikation von HIV-1 verschiedener Subtypen; Resistenzprofil beschrieben. |
+| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | In vitro | Antimicrobial Agents and Chemotherapy | Affen-tropes HIV als Modell für Resistenz gegen Integrase-Hemmer. |
+| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | In vitro | Journal of Virology | HIV-Integrase-Resistenzmutationen in SIVmac239 beeinflussen die Empfindlichkeit gegenüber Integrase-Hemmern. |
+| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | In vitro | Journal of Virology | Resistenzprofile von Integrase-Hemmern in SIVmac239 ähneln jenen bei HIV. |
+| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | In vitro | Antimicrobial Agents and Chemotherapy | Aktivität von Bictegravir und Cabotegravir gegen integrase-resistentes SIVmac239 und HIV-1. |
+| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Präklinisch (Mausmodell) | Frontiers in Immunology | Humanisiertes Mausmodell zur Prüfung antiviraler Strategien gegen SIV und HIV. |
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -98,32 +92,27 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-**Arzneimittelwechselwirkungen:** Insgesamt wurden 27 Wechselwirkungen erfasst. Die wichtigsten Beispiele:
+- **Arzneimittelwechselwirkungen** (27 Wechselwirkungen erfasst, Auswahl):
+  - Schwerwiegend (Major): Zinkacetat, Zinkgluconat, Zinksulfat, Zinkchlorid, Lumacaftor, Apalutamid
+  - Mittelschwer (Moderate): Dexamethason, Magnesiumoxid, Aluminiumhydroxid, Calciumcarbonat, Magaldrat, Magnesiumcarbonat, Magnesiumhydroxid, Orlistat, Natriumcitrat, Natriumhydrogencarbonat, Diclofenac, Elagolix, Somatotropin, Ethinylestradiol
 
-- **Schwerwiegend (Major):** Zinkacetat, Zinkgluconat, Zinksulfat, Zinkchlorid, Lumacaftor, Apalutamid
-- **Mittelschwer (Moderate):** unter anderem Dexamethason, Magnesiumoxid, Magnesiumcarbonat, Magnesiumhydroxid, Aluminiumhydroxid, Calciumcarbonat, Magaldrat, Natriumcitrat, Natriumbicarbonat, Orlistat, Diclofenac, Elagolix, Somatotropin, Ethinylestradiol
-
-Metallhaltige Präparate (Zink, Magnesium, Aluminium, Calcium) können die Aufnahme von Integrase-Hemmern verringern.
-
-Die Warnhinweise und Kontraindikationen der Fachinformation liegen in den vorliegenden Daten nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für Warnungen und Kontraindikationen beachten Sie bitte die Fachinformation.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf präklinische Daten. SIV ist eine Tierinfektion und keine Indikation beim Menschen; die Evidenz spricht für den Einsatz als Forschungsmodell, nicht für eine klinische Umwidmung.
-- Die übrigen vorhergesagten Indikationen (felines Immundefizienz-Syndrom, seltene neurologische Entwicklungsstörung) haben keine belegende Literatur oder Studien. Für die neurologische Erkrankung ist kein plausibler Mechanismus erkennbar; der hohe Wert ist wahrscheinlich ein Artefakt des Wissensgraphen.
+- Die SIV-Infektion ist eine Tiermodellerkrankung und keine humane Indikation; die vorhandene Evidenz ist rein präklinisch. Die Daten stützen den Einsatz als Forschungsmodell, nicht eine klinische Umwidmung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen) für die Sicherheitsbewertung
-- Angaben zum Wirkmechanismus aus der Arzneimitteldatenbank
-- Klärung, ob ein tiermedizinischer oder rein forschungsbezogener Nutzen überhaupt angestrebt wird
-- Bei Interesse an Prävention: Prüfung der topischen Einlagen mit Tenofoviralafenamid/Elvitegravir in klinischen Studien beim Menschen
+- Klärung, ob ein relevanter Anwendungsbereich (z. B. Forschung oder Veterinärmedizin) besteht
+- Ergänzung des Wirkmechanismus und der Sicherheitsangaben aus der Fachinformation (Warnungen, Kontraindikationen)
+- Direkte Studien zu Elvitegravir als Einzelwirkstoff bei SIV-Infektion
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

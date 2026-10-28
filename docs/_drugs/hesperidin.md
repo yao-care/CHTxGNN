@@ -6,7 +6,7 @@ nav_order: 54
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-13
-description: "Hesperidin: vorhergesagte neue Indikation Myeloproliferative Neoplasie (Evidenzstufe L5). Ursprüngliche Indikation: Venenmittel"
+description: "Hesperidin: vorhergesagte neue Indikation myeloproliferative Neoplasie (Evidenzstufe L5). Ursprüngliche Indikation: Venenmittel"
 monitor_inn: "hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Hesperidin: Von Venenerkrankungen (Veneninsuffizienz, Hämorrhoiden) zu myeloproliferativer Neoplasie
+## Hesperidin: Von Venenerkrankungen (Veneninsuffizienz, Hämorrhoiden) zur Indikation myeloproliferative Neoplasie
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Hesperidin ist in der Schweiz als Venenmittel zugelassen und wird bei Ödemen un
 |------|------|
 | Ursprüngliche Indikation | Venenmittel; Ödeme und andere Symptome der Veneninsuffizienz; Hämorrhoiden |
 | Vorhergesagte neue Indikation | Myeloproliferative Neoplasie |
-| TxGNN-Vorhersagewert | 99,5 % |
+| TxGNN-Vorhersagewert | 0,9947 |
 | Evidenzniveau | L5 (nur Modellvorhersage bzw. rein computergestützte Studie) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 79
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
-description: "Sacituzumab Govitecan: vorhergesagte neue Indikation Medikamenteninduzierte Osteoporose (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom"
 monitor_inn: "sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
+last_modified_at: 2026-10-27
+description: "Sacituzumab Govitecan: vorhergesagte neue Indikation medikamenteninduzierte Osteoporose (drug-induced osteoporosis) (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom"
 ---
 
 # Sacituzumab Govitecan
@@ -33,54 +33,40 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Sacituzumab govitecan: Von Mammakarzinom zu medikamenteninduzierter Osteoporose
+## Sacituzumab govitecan: Antikörper-Wirkstoff-Konjugat (Trop-2-gerichtet, SN-38) → medikamenteninduzierte Osteoporose (drug-induced osteoporosis)
 {: .text-alpha }
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Sacituzumab govitecan (TRODELVY) ist in der Schweiz zur Behandlung des Mammakarzinoms zugelassen. Das Vorhersagemodell TxGNN schlägt als neue Indikation eine medikamenteninduzierte Osteoporose vor. Diese Vorhersage beruht ausschliesslich auf einer Modellberechnung: Es liegen weder klinische Studien noch Publikationen vor, und ein plausibler therapeutischer Zusammenhang ist nicht erkennbar.
+Sacituzumab govitecan ist ein gegen Trop-2 gerichtetes Antikörper-Wirkstoff-Konjugat, das den Topoisomerase-I-Hemmer SN-38 an Tumorzellen liefert. Das Rechenmodell TxGNN sagt eine mögliche Wirksamkeit bei medikamenteninduzierter Osteoporose (drug-induced osteoporosis) voraus. Dafür liegen keinerlei klinische Studien oder Publikationen vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Mammakarzinom |
-| Vorhergesagte neue Indikation | Medikamenteninduzierte Osteoporose |
-| TxGNN-Vorhersagewert | 99,8 % |
-| Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Vorhergesagte neue Indikation | medikamenteninduzierte Osteoporose (drug-induced osteoporosis) |
+| TxGNN-Vorhersagewert | 0,9978 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Sacituzumab govitecan ist ein Antikörper-Wirkstoff-Konjugat. Es richtet sich gegen das Oberflächenmolekül Trop-2 und transportiert den Wirkstoff SN-38, einen Topoisomerase-I-Hemmer, in Tumorzellen. SN-38 wirkt zytotoxisch. Zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor, was die mechanistische Bewertung einschränkt.
+Der Wirkmechanismus ist in den vorliegenden Daten nicht erfasst. Bekannt ist die Wirkstoffklasse: Der Antikörper bindet an Trop-2 auf Tumorzellen, und der angekoppelte Wirkstoff SN-38 hemmt die Topoisomerase I und wirkt dadurch zellschädigend.
 
-Ein überzeugender Zusammenhang zwischen dem Mammakarzinom und einer medikamenteninduzierten Osteoporose ist nicht erkennbar. Der hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Zudem sprechen die zu erwartende Knochenmarkhemmung und andere Toxizitäten gegen den Einsatz bei einer nicht-onkologischen Knochenerkrankung.
-
-Die Vorhersage sollte daher als Hypothese ohne Belege betrachtet werden. Die Ähnlichkeit zur ursprünglichen Indikation wurde bisher nicht bewertet.
+Ein plausibler therapeutischer Zusammenhang mit Knochenschwund ist nicht erkennbar. Der hohe Vorhersagewert ist ein reines Rechenergebnis und wird weder durch Studien noch durch Literatur gestützt. Die bekannten Toxizitäten, insbesondere die Knochenmarkunterdrückung, sprechen gegen den Einsatz bei einer nicht-onkologischen Knochenerkrankung.
 
 ---
 
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-## Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
-
----
-
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -88,42 +74,53 @@ Derzeit keine verwandte Literatur verfügbar
 
 ---
 
-## Zytotoxizität
+### Zytotoxizität
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Antikörper-Wirkstoff-Konjugat mit zytotoxischer Nutzlast SN-38) |
-| Myelosuppressionsrisiko | Hoch (nach allgemeinem Fachwissen zur Substanzklasse; nicht aus den Daten belegt) |
-| Emetogenitätsklassifikation | Mittel (nach allgemeinem Fachwissen; nicht aus den Daten belegt) |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Antikörper-Wirkstoff-Konjugat mit zytotoxischer Nutzlast) |
+| Myelosuppressionsrisiko | Hoch |
+| Emetogenitätsklassifikation | Mittel |
 | Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-| Handhabungsschutz | Spezielle Schutzmassnahmen für zytotoxische Arzneimittel sind erforderlich |
+| Handhabungsschutz | Ja, die Handhabung als zytotoxische Substanz mit entsprechenden Schutzmassnahmen ist erforderlich |
+
+Hinweis: Diese Einstufungen beruhen auf allgemeinem Wissen über die Wirkstoffklasse, nicht auf den für diesen Bericht zusammengestellten Daten. Sie sind anhand der Fachinformation zu prüfen.
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-**Arzneimittelwechselwirkungen** (40 Wechselwirkungen erfasst, Auswahl):
+- **Arzneimittelwechselwirkungen**: Insgesamt wurden 40 Wechselwirkungen verzeichnet. Als schwerwiegend (Major) eingestuft sind u. a.:
+  - Irinotecan
+  - Deferiprone
+  - Fostamatinib
+  - Adalimumab
+  - Apalutamid
+  - Certolizumab pegol
+  - Cladribin
+  - Dacomitinib
+  - Leflunomid
+  - Natalizumab
+  - Nilotinib
+  - Ozanimod
 
-- **Schwerwiegend (Major):** Deferipron, Fostamatinib, Adalimumab, Apalutamid, Certolizumab pegol, Cladribin, Dacomitinib, Irinotecan, Leflunomid, Natalizumab, Nilotinib, Ozanimod
-- **Mittelschwer (Moderate):** Alefacept, Alemtuzumab, Anakinra, Canakinumab, Dimethylfumarat, Lorlatinib, Ocrelizumab, Omacetaxin-mepesuccinat
+  Als mässig (Moderate) eingestuft sind u. a. Alefacept, Alemtuzumab, Anakinra, Canakinumab, Dimethylfumarat, Lorlatinib, Ocrelizumab und Omacetaxin mepesuccinat.
 
-Warnhinweise und Kontraindikationen der Schweizer Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Warnhinweise und Kontraindikationen liegen in den Daten nicht vor. Bitte beachten Sie die Fachinformation für diese Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe Vorhersagewert beruht allein auf dem Modell. Es gibt keine klinischen oder publizierten Belege, und ein mechanistischer Zusammenhang ist nicht plausibel.
-- Das zytotoxische Wirkprinzip und das Toxizitätsprofil sprechen gegen den Einsatz bei einer nicht-malignen Knochenerkrankung.
+- Es gibt weder klinische Studien noch Literatur zu dieser Indikation, und ein biologisch nachvollziehbarer Zusammenhang fehlt. Das ungünstige Nutzen-Risiko-Verhältnis einer zytotoxischen Therapie bei einer nicht-malignen Knochenerkrankung spricht zusätzlich gegen eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Schweizer Fachinformation (Warnhinweise, Kontraindikationen)
-- Ergänzung des Wirkmechanismus aus DrugBank
-- Präklinische oder mechanistische Hinweise, die einen Nutzen bei Osteoporose stützen
-- Bewertung des Nutzen-Risiko-Verhältnisses im Vergleich zu etablierten Osteoporose-Therapien
+- Präklinische oder mechanistische Hinweise, die einen Zusammenhang zwischen Trop-2-gerichteter Therapie und Knochenstoffwechsel belegen
+- Erfassung des Wirkmechanismus aus verlässlichen Quellen
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation zur Sicherheitsprüfung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -8,6 +8,7 @@ drugbank_id: DB00207
 evidence_level: L5
 permalink: /drugs/azithromycinum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # AZITHROMYCINUM

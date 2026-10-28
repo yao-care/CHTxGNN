@@ -6,7 +6,7 @@ nav_order: 18
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-13
-description: "Asfotase Alfa: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von K… (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Hypophosphatasie"
+description: "Asfotase Alfa: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Hypophosphatasie"
 monitor_inn: "asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices with bleeding", "esophageal varices without bleeding", "cystinosis"]
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Asfotase alfa: Von Hypophosphatasie zu mitochondrialer Störung der oxidativen Phosphorylierung (Kern-DNA-bedingt)
+## Asfotase alfa: Von Hypophosphatasie zu Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Asfotase alfa (Strensiq) wird in der Schweiz zur Behandlung der Hypophosphatasie
 |------|------|
 | Ursprüngliche Indikation | Behandlung der Hypophosphatasie |
 | Vorhergesagte neue Indikation | Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien |
-| TxGNN-Vorhersagewert | 99,95 % |
+| TxGNN-Vorhersagewert | 0,9995 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Asfotase alfa ist eine rekombinante Form der gewebeunspezifischen alkalischen Ph
 
 Mitochondriale Störungen der oxidativen Phosphorylierung entstehen durch Defekte im intrazellulären Energiestoffwechsel. Ein extrazellulär wirkendes Enzym wie TNAP dürfte diese Defekte nicht beheben können. Ein etablierter mechanistischer Zusammenhang zwischen Hypophosphatasie und dieser Erkrankung besteht daher nicht.
 
-Der sehr hohe TxGNN-Wert von 0,999 ist eine reine Modellvorhersage und wird durch keine Studie und keine Veröffentlichung gestützt. Er sollte nicht als Hinweis auf eine tatsächliche Wirksamkeit gewertet werden.
+Der sehr hohe TxGNN-Wert von 0,9995 ist eine reine Modellvorhersage und wird durch keine Studie und keine Veröffentlichung gestützt. Er sollte nicht als Hinweis auf eine tatsächliche Wirksamkeit gewertet werden.
 
 ---
 

@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 60
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
-description: "Isoleucine: vorhergesagte neue Indikation Gastroparese (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "isoleucine"
 predicted_indications: ["gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Isoleucine: vorhergesagte neue Indikation Gastroparese (gastroparesis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 
 # Isoleucine
@@ -33,14 +33,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Isoleucin: Von parenteraler Ernährung zu Gastroparese
+## Isoleucin: Verzweigtkettige Aminosäure → Gastroparese (gastroparesis)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Isoleucin ist eine verzweigtkettige Aminosäure und wird in der Schweiz als Bestandteil von Infusionslösungen zur parenteralen Ernährung und in einer Peritonealdialyselösung eingesetzt. Das Modell TxGNN sagt eine mögliche Wirksamkeit bei Gastroparese voraus, mit hohem Vorhersagewert. Dafür liegen bisher weder klinische Studien noch Literatur vor; die Aussage beruht ausschliesslich auf der Modellvorhersage (Evidenzniveau L5).
+Isoleucin ist eine verzweigtkettige Aminosäure, die in der Schweiz in Infusionslösungen zur parenteralen Ernährung und in einer Peritonealdialyselösung verwendet wird. Vorhergesagt wird eine mögliche Wirksamkeit bei Gastroparese (gastroparesis). Diese Vorhersage beruht allein auf einem Modellwert; es liegen weder klinische Studien noch Publikationen vor.
 
 ---
 
@@ -48,27 +46,41 @@ Isoleucin ist eine verzweigtkettige Aminosäure und wird in der Schweiz als Best
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung |
-| Vorhergesagte neue Indikation | Gastroparese |
-| TxGNN-Vorhersagewert | 99,3 % |
-| Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 8 (alle gültig, alles Einzelpräparate) |
+| Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung; Parenterale Ernährung für Erwachsene |
+| Vorhergesagte neue Indikation | Gastroparese (gastroparesis) |
+| TxGNN-Vorhersagewert | 0,9932 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage stützt sich allein auf den hohen Vorhersagewert des Wissensgraphen. Eine mechanistische Begründung liegt in den vorliegenden Daten nicht vor, und der ursprüngliche Wirkmechanismus von Isoleucin ist in den für diesen Bericht zusammengestellten Daten nicht erfasst.
+Der ursprüngliche Wirkmechanismus von Isoleucin ist in den vorliegenden Daten nicht erfasst. Bekannt ist, dass es als verzweigtkettige Aminosäure Bestandteil von Ernährungslösungen ist, also einen Nährstoffbeitrag leistet.
 
-Denkbar, aber nicht belegt, ist ein Zusammenhang über die Ernährungsunterstützung: Bei Gastroparese ist die orale Nahrungsaufnahme oft eingeschränkt, sodass zeitweise enterale oder parenterale Ernährung nötig sein kann. Dies wäre jedoch eine rein unterstützende Ernährung und keine krankheitsmodifizierende oder prokinetische Wirkung.
+Eine denkbare, aber nicht belegte Verbindung zur Gastroparese ist die Ernährungsunterstützung: Bei verzögerter Magenentleerung ist die orale Nahrungsaufnahme oft eingeschränkt, und teilweise wird enterale oder parenterale Ernährung nötig. Dies wäre ein unterstützender Effekt und keine Behandlung der Erkrankung selbst.
 
-Es gibt keinen Hinweis darauf, dass Isoleucin die Magenmotilität, die Vagusfunktion oder die interstitiellen Zellen von Cajal beeinflusst. Die Vorhersage sollte daher mit Zurückhaltung betrachtet werden.
+Es gibt in den vorliegenden Daten keinen Hinweis darauf, dass Isoleucin die Magenmotilität, die Vagusfunktion oder die interstitiellen Cajal-Zellen beeinflusst. Die Plausibilität stützt sich daher allein auf den hohen Modellwert.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
+
+Die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -83,34 +95,18 @@ Es gibt keinen Hinweis darauf, dass Isoleucin die Magenmotilität, die Vagusfunk
 
 ---
 
-### Sicherheitshinweise
-
-- **Mögliche Kontraindikationen (aus dem Wissensgraphen, nicht aus Fachinformationen):** Die Verknüpfungen im Wissensgraphen nennen folgende Erkrankungen, die bei Anwendung von Isoleucin Vorsicht erfordern könnten:
-  - Nieren: Nierenerkrankung, chronische Niereninsuffizienz, terminales Nierenversagen, Nephrolithiasis, Nephrokalzinose, akute Uratnephropathie, Pyoureter
-  - Herz-Kreislauf: Herzerkrankung, Herz-Kreislauf-Erkrankung, Kammerflimmern, Digitalisvergiftung
-  - Kalzium- und Phosphorstoffwechsel: Hyperkalzämie, humorale Hyperkalzämie bei Malignität, Sarkoidose, Störung des Phosphorstoffwechsels
-  - Aminosäurenstoffwechsel: Phenylketonurie, Störung des Phenylalaninstoffwechsels
-- Diese Angaben stammen nicht aus Fachinformationen und müssen anhand der Originaltexte überprüft werden.
-- Zu Arzneimittelwechselwirkungen wurden keine Einträge gefunden.
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen zu Warnungen und Kontraindikationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht nur auf einem Modellwert (Evidenzniveau L5); es gibt weder klinische Studien noch Literatur noch einen belegten Mechanismus.
-- Ein möglicher Nutzen läge höchstens in der Ernährungsunterstützung, nicht in einer Wirkung auf die Magenentleerung.
+- Die Vorhersage stützt sich ausschliesslich auf einen Modellwert (Evidenzniveau L5). Es gibt weder Studien noch Literatur noch einen belegten Mechanismus für einen Nutzen bei Gastroparese.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnungen und Kontraindikationen aus den Swissmedic-Fachinformationen (derzeit eine blockierende Datenlücke für die Sicherheitsprüfung)
-- Den Wirkmechanismus von Isoleucin, z. B. über DrugBank
-- Eine Literatur- und Studienrecherche zu Isoleucin bzw. verzweigtkettigen Aminosäuren bei Gastroparese
-- Eine Prüfung der Darreichungswege (Kompatibilität der Applikationswege ist noch offen)
-- Eine Klärung, ob ein Nutzen über die reine Ernährungsunterstützung hinausgeht
+- Die Fachinformation von Swissmedic mit Warnungen und Kontraindikationen, da Sicherheitsdaten derzeit fehlen
+- Eine Beschreibung des Wirkmechanismus von Isoleucin
+- Präklinische oder klinische Daten, die einen Effekt auf die Gastroparese untersuchen
+- Eine Prüfung der Darreichungswege, da die vorhandenen Produkte Infusions- bzw. Dialyselösungen sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

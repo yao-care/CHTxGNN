@@ -8,6 +8,7 @@ drugbank_id: DB01047
 evidence_level: L5
 permalink: /drugs/fluocinonidum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # FLUOCINONIDUM

@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Turoctocog alfa pegol: Von Hämophilie A zu primärer Thrombozyten-Freisetzungsstörung
+## Turoctocog alfa pegol: Von Hämophilie A zu Primäre Thrombozyten-Freisetzungsstörung
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Turoctocog alfa pegol (Esperoct) ist ein PEGyliertes rekombinantes Faktor-VIII-P
 |------|------|
 | Ursprüngliche Indikation | Hämophilie A |
 | Vorhergesagte neue Indikation | Primäre Thrombozyten-Freisetzungsstörung (primary release disorder of platelets) |
-| TxGNN-Vorhersagewert | 99,997 % |
+| TxGNN-Vorhersagewert | 1,0000 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

@@ -4,17 +4,17 @@ title: Artemether
 parent: Nur Modellvorhersage (L5)
 nav_order: 17
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-13
-description: "Artemether: vorhergesagte neue Indikation Erworbenes Angioödem (Evidenzstufe L5). Ursprüngliche Indikation: Malaria"
+indication_count: 8
 monitor_inn: "artemether"
-predicted_indications: ["acquired angioedema", "Plasmodium falciparum malaria", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
+predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
+last_modified_at: 2026-10-27
+description: "Artemether: vorhergesagte neue Indikation Erworbenes Angioödem (acquired angioedema) (Evidenzstufe L5). Ursprüngliche Indikation: Malaria"
 ---
 
 # Artemether
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Artemether: Von Malaria zu erworbenem Angioödem
+## Artemether: Antiparasitikum mit Endoperoxid-Wirkprinzip → Erworbenes Angioödem (acquired angioedema)
 {: .text-alpha }
-
----
 
 ## Zusammenfassung
 
-Artemether wird in der Schweiz (als Riamet, in Kombination mit Lumefantrin) zur Behandlung der Malaria eingesetzt, einschliesslich akuter, unkomplizierter Malaria bei Säuglingen von 2 kg bis unter 5 kg Körpergewicht. Das Vorhersagemodell nennt als wahrscheinlichste neue Indikation das erworbene Angioödem. Dafür gibt es keine klinischen Studien und keine Literatur, die Vorhersage beruht allein auf Netzwerkdaten (Evidenzniveau L5).
+Artemether ist ein Arzneimittel gegen Malaria. Für das erworbene Angioödem (acquired angioedema) liegt ein hoher TxGNN-Vorhersagewert vor, doch beruht dieser allein auf einer Modellvorhersage. Klinische Studien oder Literatur zu dieser Erkrankung wurden nicht gefunden, die Evidenz ist daher minimal (L5).
 
 ---
 
@@ -48,23 +46,23 @@ Artemether wird in der Schweiz (als Riamet, in Kombination mit Lumefantrin) zur 
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Malaria; akute, unkomplizierte Malaria bei Säuglingen mit 2 kg bis unter 5 kg Körpergewicht |
-| Vorhergesagte neue Indikation | Erworbenes Angioödem |
-| TxGNN-Vorhersagewert | 99,9 % |
-| Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 3 |
+| Ursprüngliche Indikation | Malaria; Behandlung von akuter, unkomplizierter Malaria von Säuglingen mit einem Körpergewicht zwischen 2 kg und unter 5 kg |
+| Vorhergesagte neue Indikation | Erworbenes Angioödem (acquired angioedema) |
+| TxGNN-Vorhersagewert | 0,9990 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ## Warum ist diese Vorhersage plausibel?
 
-Der hohe Vorhersagewert ist nur bedingt aussagekräftig. Er stammt aus einem Wissensnetzwerk und stützt sich nicht auf Laborbefunde oder Patientendaten. Artemether wird im Körper zu Dihydroartemisinin umgewandelt. Dessen Endoperoxid-Brücke wird im Parasiten durch Häm bzw. Eisen aktiviert. Dabei entstehen freie Radikale, die Parasitenproteine schädigen. Dieser antiparasitäre Mechanismus hat keine bekannte Verbindung zu den Signalwegen, die ein Angioödem auslösen.
+Zum Wirkmechanismus von Artemether liegen in den zusammengestellten Daten keine Angaben vor. Allgemein gehört der Wirkstoff zu den Artemisinin-Derivaten, deren antiparasitische Wirkung auf der Aktivierung einer Endoperoxid-Brücke beruht.
 
-Beim erworbenen Angioödem spielen vor allem Bradykinin und das Komplementsystem eine Rolle, insbesondere ein Mangel an C1-Inhibitor. Zwischen der ursprünglichen Indikation (Infektion mit Plasmodien) und der vorhergesagten Indikation (Störung der Bradykinin- bzw. Komplement-Regulation) besteht daher keine nachvollziehbare Beziehung. Ein mechanistischer Zusammenhang ist nicht belegt.
+Eine nachvollziehbare Verbindung zum erworbenen Angioödem lässt sich daraus nicht ableiten. Diese Erkrankung wird durch Bradykinin-Überproduktion bzw. Störungen im Komplement-C1-Inhibitor-System getragen. Für Artemether ist keine Wirkung auf diese Signalwege bekannt.
 
-Auch die übrigen hochgereihten Vorhersagen (z. B. hereditäres Angioödem, Sklerodermie, Konjunktivitis) beruhen nur auf dem Modell und haben keine Studienbasis. Die Vorhersagen "Malaria" und "Plasmodium-falciparum-Malaria" bestätigen lediglich die bereits zugelassene Indikation. Es handelt sich dabei nicht um eine Umwidmung.
+Der hohe Vorhersagewert ist deshalb als rein netzwerkbasierter Hinweis zu verstehen und nicht als Beleg für eine Wirksamkeit. Der Zusammenhang zwischen ursprünglicher und neuer Indikation ist bislang nicht untersucht.
 
 ---
 
@@ -84,18 +82,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 54594 | Riamet 20 mg/120 mg, Tabletten | Tabletten | Malaria |
-| 67664 | Riamet Baby, Tabletten zur Herstellung einer Suspension zum Einnehmen | Tabletten zur Herstellung einer Suspension | Behandlung von akuter, unkomplizierter Malaria bei Säuglingen mit einem Körpergewicht von 2 kg bis unter 5 kg |
-| 58528 | Riamet Dispersible, Tabletten | Dispergierbare Tabletten | Malaria |
-
-Alle drei Zulassungen sind gültig und lauten auf Novartis Pharma Schweiz AG.
+| 54594 | Riamet 20 mg/120 mg, Tabletten | Synthetika | Malaria |
+| 67664 | Riamet Baby, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Akute, unkomplizierte Malaria bei Säuglingen mit einem Körpergewicht von 2 kg bis unter 5 kg |
+| 58528 | Riamet Dispersible, Tabletten | Synthetika | Malaria |
 
 ---
 
 ## Sicherheitshinweise
 
-- **Hinweise aus dem Wissensnetzwerk (keine Angaben aus der Fachinformation):** Als mögliche Kontraindikationen sind das Long-QT-Syndrom, das familiäre Long-QT-Syndrom, Torsades de pointes und Kaliummangel hinterlegt.
-- **Arzneimittelwechselwirkungen:** Insgesamt sind 95 Wechselwirkungen erfasst. Als schwerwiegend ("Major") eingestuft sind unter anderem:
+- **Arzneimittelwechselwirkungen**: Insgesamt wurden 95 Wechselwirkungen erfasst. Als schwerwiegend (Major) eingestuft sind unter anderem:
   - Clarithromycin
   - Cobicistat
   - Amprenavir
@@ -103,9 +98,9 @@ Alle drei Zulassungen sind gültig und lauten auf Novartis Pharma Schweiz AG.
   - Atazanavir
   - Boceprevir
 
-  Mässig ausgeprägt ("Moderate") sind unter anderem Dexamethason, Miconazol, Troglitazon, Deferasirox, Bosentan und Brigatinib.
+  Mässig (Moderate) eingestufte Beispiele sind Dexamethason, Miconazol, Troglitazon, Deferasirox, Bosentan und Brigatinib.
 
-Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation lagen nicht vor. Bitte beachten Sie die Fachinformation für vollständige Sicherheitsinformationen.
+Zu Warnhinweisen und Kontraindikationen aus der Fachinformation liegen keine Daten vor. Bitte beachten Sie die Fachinformation für diese Sicherheitsinformationen.
 
 ---
 
@@ -114,14 +109,13 @@ Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation lagen nich
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für das erworbene Angioödem gibt es weder klinische Studien noch Literatur, und es ist kein plausibler Wirkmechanismus erkennbar. Der hohe Vorhersagewert allein rechtfertigt keine weitere Entwicklung.
-- Die Sicherheitsbewertung ist unvollständig, weil die Angaben aus der Fachinformation fehlen. Zudem gibt es zahlreiche relevante Wechselwirkungen und mögliche QT-bezogene Risiken.
+- Die Vorhersage stützt sich ausschliesslich auf ein Modell. Es gibt weder klinische Studien noch Literatur noch einen plausiblen Wirkmechanismus für das erworbene Angioödem.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen) als Grundlage für die Sicherheitsprüfung
-- Ein Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank) zur Prüfung eines möglichen Zusammenhangs mit Bradykinin- oder Komplementwegen
-- Präklinische Daten, die eine Wirkung von Artemether bei Angioödem stützen
-- Eine Bewertung des QT-Risikos und der Wechselwirkungen für die Zielpopulation
+- Klärung des Wirkmechanismus von Artemether und einer möglichen Verbindung zu Bradykinin- oder Komplement-Signalwegen
+- Präklinische Daten oder Fallberichte zum erworbenen Angioödem
+- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) für die Sicherheitsbewertung
+- Prüfung der Wechselwirkungen, insbesondere der als schwerwiegend eingestuften, bei einer möglichen neuen Patientengruppe
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

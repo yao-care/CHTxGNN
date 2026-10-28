@@ -4,7 +4,7 @@ title: Serine
 parent: Nur Modellvorhersage (L5)
 nav_order: 84
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Serine: vorhergesagte neue Indikation Familiäre viszerale Myopathie (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "serine"
@@ -14,7 +14,7 @@ predicted_indications: ["familial visceral myopathy", "intestinal obstruction", 
 # Serine
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Serin: Von parenteraler Ernährung zu familiärer viszeraler Myopathie
+## Serin: Familiäre viszerale Myopathie
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -48,9 +48,9 @@ Serin ist eine Aminosäure, die in der Schweiz als Bestandteil von Infusionslös
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung |
 | Vorhergesagte neue Indikation | Familiäre viszerale Myopathie |
-| TxGNN-Vorhersagewert | 99,99 % |
+| TxGNN-Vorhersagewert | 0,9999 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
 | Anzahl Zulassungen | 8 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -60,9 +60,9 @@ Serin ist eine Aminosäure, die in der Schweiz als Bestandteil von Infusionslös
 
 Der Wirkmechanismus von Serin ist in den vorliegenden Daten nicht angegeben. Serin ist eine proteinogene Aminosäure und dient in den zugelassenen Produkten als Nährstoffbaustein. Ein direkter Bezug zur Muskelfunktion des Darms lässt sich daraus nicht ableiten.
 
-Die familiäre viszerale Myopathie ist eine genetisch bedingte Erkrankung der glatten Muskulatur des Verdauungstrakts (zum Beispiel im Zusammenhang mit ACTG2). Aus den vorliegenden Daten ergibt sich kein plausibler Grund, weshalb eine Serin-Gabe hier wirken sollte. Der hohe Vorhersagewert kann auf Nähe im Wissensgraphen zurückgehen und stellt keinen eigenständigen Beleg dar.
+Die familiäre viszerale Myopathie ist eine genetisch bedingte Erkrankung der glatten Muskulatur des Verdauungstrakts (zum Beispiel im Zusammenhang mit ACTG2). Aus den vorliegenden Daten ergibt sich kein plausibler Grund, weshalb eine Serin-Gabe hier wirken sollte. Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat. Er stellt keinen biologischen Beleg dar.
 
-Auffällig ist, dass die meisten höchstbewerteten Vorhersagen (Darmverschluss, intestinale Pseudoobstruktion, neuronale intestinale Dysplasie) denselben Bereich betreffen. Mehrere Vorhersagen haben identische Werte. Das spricht für ein gemeinsames Signal im Graphen und nicht für unabhängige Belege.
+Auffällig ist, dass die meisten höchstbewerteten Vorhersagen (Darmverschluss, intestinale Pseudoobstruktion, neuronale intestinale Dysplasie) denselben Bereich betreffen. Mehrere Vorhersagen haben identische Werte. Das spricht für ein gemeinsames Muster, das das TxGNN-Modell (Deep Learning) zwischen verwandten Erkrankungen gelernt hat, und nicht für unabhängige Belege.
 
 ---
 

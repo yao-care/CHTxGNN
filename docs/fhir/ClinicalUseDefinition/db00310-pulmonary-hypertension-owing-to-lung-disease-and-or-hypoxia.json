@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00310-pulmonary-hypertension-owing-to-lung-disease-and-or-hypoxia",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00310"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9988
+    }
+  ]
+}

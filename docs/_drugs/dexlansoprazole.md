@@ -4,9 +4,9 @@ title: Dexlansoprazole
 parent: Nur Modellvorhersage (L5)
 nav_order: 40
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-13
-description: "Dexlansoprazole: vorhergesagte neue Indikation Aktive peptische Ulkuskrankheit (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
+description: "Dexlansoprazole: vorhergesagte neue Indikation Gastroduodenitis (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
 monitor_inn: "dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydri
 # Dexlansoprazole
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Dexlansoprazol: Von Protonenpumpenhemmer zu aktiver Magen-Darm-Ulkuskrankheit (Ulcus pepticum)
+## Dexlansoprazol: Von Protonenpumpenhemmer zu Gastroduodenitis
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Dexlansoprazol ist in der Schweiz als Protonenpumpenhemmer zugelassen (Dexilant 
 |------|------|
 | Ursprüngliche Indikation | Protonenpumpenhemmer |
 | Vorhergesagte neue Indikation | Aktive peptische Ulkuskrankheit |
-| TxGNN-Vorhersagewert | 99,999 % |
-| Evidenzniveau | L1 (mit Einschränkung: Phase-3-Studien betreffen überwiegend Refluxösophagitis, nicht Ulkus) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| TxGNN-Vorhersagewert | 0,9998 |
+| Evidenzniveau | L5 (mit Einschränkung: Phase-3-Studien betreffen überwiegend Refluxösophagitis, nicht Ulkus) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
@@ -64,7 +64,7 @@ Ein Wirkmechanismus ist in den Daten nicht hinterlegt. Es handelt sich um eine D
 
 Die ursprüngliche und die neue Indikation liegen nahe beieinander. Peptische Ulzera sind säureabhängig, und andere Protonenpumpenhemmer werden dafür seit Langem eingesetzt. Es handelt sich daher eher um eine Erweiterung innerhalb derselben Wirkstoffklasse als um eine echte Neuausrichtung.
 
-Der sehr hohe TxGNN-Wert spiegelt vor allem die Nähe zur bekannten Indikation im Wissensgraphen wider. Er ersetzt keine klinischen Belege für Dexlansoprazol bei Ulzera.
+Der sehr hohe TxGNN-Wert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, nicht biologische Evidenz. Er ersetzt keine klinischen Belege für Dexlansoprazol bei Ulzera.
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Insulin Glulisine
-parent: Hohe Evidenz (L1-L2)
+parent: Nur Modellvorhersage (L5)
 nav_order: 58
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-13
-description: "Insulin Glulisine: vorhergesagte neue Indikation Diabetes mellitus Typ 1 (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus beim Erwachsenen"
+description: "Insulin Glulisine: vorhergesagte neue Indikation Thiamin-responsives Dysfunktionssyndrom (thiamine-responsive dysfunction syndrome) (Evidenzstufe L1)."
 monitor_inn: "insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysp
 # Insulin Glulisine
 {: .fs-9 }
 
-Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Insulin glulisine: Von Diabetes mellitus beim Erwachsenen zu Diabetes mellitus Typ 1
+## Insulin glulisine: Thiamin-responsives Dysfunktionssyndrom (thiamine-responsive dysfunction syndrome)
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Insulin glulisine (Apidra) ist ein schnell wirkendes Insulinanalogon und in der 
 |------|------|
 | Ursprüngliche Indikation | Diabetes mellitus beim Erwachsenen |
 | Vorhergesagte neue Indikation | Diabetes mellitus Typ 1 |
-| TxGNN-Vorhersagewert | 99,6 % |
-| Evidenzniveau | L1 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| TxGNN-Vorhersagewert | 0,9947 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

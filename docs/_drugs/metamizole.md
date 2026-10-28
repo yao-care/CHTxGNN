@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Metamizole
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 65
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Metamizole: vorhergesagte neue Indikation Rheumatoide Arthritis (Evidenzstufe L5). Ursprüngliche Indikation: Analgetikum (Schmerzmittel)"
 monitor_inn: "metamizole"
-predicted_indications: ["rheumatoid arthritis", "migraine disorder", "migraine with or without aura, susceptibility to", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
+predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Metamizole
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L4** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Metamizol: Von Schmerzmittel (Analgetikum) zu rheumatoider Arthritis
+## Metamizol: Von Schmerzmittel (Analgetikum) zu Rheumatoide Arthritis
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -48,10 +48,10 @@ Metamizol ist in der Schweiz als Analgetikum (Schmerzmittel) zugelassen. Das Mod
 |------|------|
 | Ursprüngliche Indikation | Analgetikum (Schmerzmittel) |
 | Vorhergesagte neue Indikation | Rheumatoide Arthritis |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9978 |
 | Evidenzniveau | L4 (nur Sicherheits- und Beobachtungsliteratur, keine Wirksamkeitsstudien; Einstufung gemäss Datenlage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

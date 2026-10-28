@@ -50,10 +50,10 @@ Tezacaftor wird in der Schweiz zur Behandlung der zystischen Fibrose (Mukoviszid
 |------|------|
 | Ursprüngliche Indikation | Zystische Fibrose (Mukoviszidose), auch bei Kindern von 2 bis <6 Jahren |
 | Vorhergesagte neue Indikation | HIV-Infektionskrankheit |
-| TxGNN-Vorhersagewert | 99,2 % |
+| TxGNN-Vorhersagewert | 0,9924 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Tezacaftor ist ein sogenannter CFTR-Korrektor. Er wirkt auf das CFTR-Protein (Zi
 
 Eine nachvollziehbare Verbindung zwischen der CFTR-Korrektur und der Pathophysiologie von HIV lässt sich aus den vorliegenden Daten nicht herleiten. Denkbar, aber rein spekulativ, wären Zusammenhänge über den Transport von Membranproteinen in Wirtszellen oder über Wechselwirkungen mit antiretroviralen Arzneimitteln. Belege dafür liegen nicht vor.
 
-Der hohe Vorhersagewert (99,2 %, Rang 8340) ist daher als rechnerischer Hinweis zu verstehen und nicht als Beleg für eine Wirksamkeit. Auch die weiteren Vorhersagen des Modells (Lepra mit 99,1 % und multiple endokrine Neoplasie mit 99,1 %) sind ohne Studien oder Literatur und mechanistisch nicht begründbar.
+Der hohe Vorhersagewert (0,9924, Rang 8340) ist daher als rechnerischer Hinweis zu verstehen und nicht als Beleg für eine Wirksamkeit. Auch die weiteren Vorhersagen des Modells (Lepra mit 0,9914 und multiple endokrine Neoplasie mit 0,9906) sind ohne Studien oder Literatur und mechanistisch nicht begründbar.
 
 ---
 

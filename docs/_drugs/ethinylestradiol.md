@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Ethinylestradiol: Von hormonaler Kontrazeption zu erhöhtem Plasma-Zink
+## Ethinylestradiol: Von hormonaler Kontrazeption zu Erhöhtes Plasmazink
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -48,9 +48,9 @@ Ethinylestradiol wird in der Schweiz hauptsächlich zur hormonalen Kontrazeption
 |------|------|
 | Ursprüngliche Indikation | Hormonale Kontrazeption (orale und vaginale Anwendung); Androgenisierungserscheinungen |
 | Vorhergesagte neue Indikation | Erhöhtes Plasma-Zink (zinc, elevated plasma) |
-| TxGNN-Vorhersagewert | 99,6 % |
+| TxGNN-Vorhersagewert | 0,9963 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
 | Anzahl Zulassungen | 8 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -58,11 +58,11 @@ Ethinylestradiol wird in der Schweiz hauptsächlich zur hormonalen Kontrazeption
 
 ## Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Ethinylestradiol ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Allgemein ist die Substanz ein Östrogenrezeptor-Agonist. Der sehr hohe Vorhersagewert (99,6 %) ist ein rein rechnerisches Ergebnis des Wissensgraphen und kein Beleg für eine tatsächliche Wirkung.
+Der Wirkmechanismus von Ethinylestradiol ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Allgemein ist die Substanz ein Östrogenrezeptor-Agonist. Der sehr hohe Vorhersagewert (0,9963) stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Krankheiten gelernt hat, und ist kein biologischer Beleg für eine tatsächliche Wirkung.
 
 Ein möglicher Zusammenhang wäre, dass Östrogene die Spiegel von Spurenelementen im Blut verändern. Bekannt ist etwa, dass unter oralen Kontrazeptiva der Kupferspiegel steigt und der Zinkspiegel eher sinkt. Eine Wirkung auf die Zinkhomöostase wäre daher denkbar, ginge aber vermutlich in die entgegengesetzte Richtung, also eher zu einer Senkung. Dies ist eine Hypothese aus der allgemeinen Pharmakologie und wurde anhand der vorliegenden Daten nicht überprüft.
 
-Zudem ist erhöhtes Plasma-Zink ein Laborbefund und keine Erkrankung mit einem etablierten Therapieziel. Der klinische Nutzen dieser Indikation ist unklar. Die Vorhersage sollte bis zum Beweis des Gegenteils als wahrscheinliches Artefakt des Wissensgraphen betrachtet werden.
+Zudem ist erhöhtes Plasma-Zink ein Laborbefund und keine Erkrankung mit einem etablierten Therapieziel. Der klinische Nutzen dieser Indikation ist unklar. Die Vorhersage sollte bis zum Beweis des Gegenteils als wahrscheinliches Artefakt des TxGNN-Modells (Deep Learning) betrachtet werden.
 
 ---
 

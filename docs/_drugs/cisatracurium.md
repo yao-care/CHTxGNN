@@ -48,10 +48,10 @@ Cisatracurium wird in der Schweiz als Muskelrelaxans eingesetzt, vor allem in de
 |------|------|
 | Ursprüngliche Indikation | Muskelrelaxans |
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom |
-| TxGNN-Vorhersagewert | 99,99 % |
+| TxGNN-Vorhersagewert | 0,9999 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -60,7 +60,7 @@ Cisatracurium wird in der Schweiz als Muskelrelaxans eingesetzt, vor allem in de
 
 Die Vorhersage ist aus heutiger Sicht **kaum plausibel**. Zum Wirkmechanismus des Arzneimittels liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Cisatracurium als nicht depolarisierendes Muskelrelaxans an nikotinischen Acetylcholinrezeptoren der neuromuskulären Endplatte wirkt.
 
-Das Cauda-equina-Syndrom ist ein neurologischer Notfall, der durch eine Kompression der Nervenwurzeln entsteht und chirurgisch durch Dekompression behandelt wird. Eine neuromuskuläre Blockade greift an dieser Ursache nicht an. Der sehr hohe Modellwert ist vermutlich ein Artefakt der Wissensgraph-Struktur und stützt sich auf keine klinischen oder publizierten Befunde.
+Das Cauda-equina-Syndrom ist ein neurologischer Notfall, der durch eine Kompression der Nervenwurzeln entsteht und chirurgisch durch Dekompression behandelt wird. Eine neuromuskuläre Blockade greift an dieser Ursache nicht an. Der sehr hohe Modellwert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat. Er ist kein biologischer Beleg und stützt sich auf keine klinischen oder publizierten Befunde.
 
 Auch die weiteren vom Modell vorhergesagten Indikationen (u. a. Präeklampsie, neurogene Blase, Migräne, thrombotische Erkrankung, Reizdarmsyndrom) haben keinen therapeutischen Mechanismus. Die wenigen gefundenen Publikationen betreffen die Anwendung von Cisatracurium als Muskelrelaxans in der Anästhesie (z. B. Kaiserschnitt, Lebertransplantation), nicht die Behandlung dieser Erkrankungen.
 

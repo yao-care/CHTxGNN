@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Sorbitol: Von Obstipation zu belastungsinduzierter maligner Hyperthermie
+## Sorbitol: Von Obstipation zu Belastungsinduzierte maligne Hyperthermie
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Sorbitol wird in der Schweiz als Abführmittel bei Verstopfung (Obstipation) ein
 |------|------|
 | Ursprüngliche Indikation | Obstipation; Laxans |
 | Vorhergesagte neue Indikation | Belastungsinduzierte maligne Hyperthermie |
-| TxGNN-Vorhersagewert | 99,4 % |
+| TxGNN-Vorhersagewert | 0,9940 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Sorbitol ist ein Zuckeralkohol und wirkt als osmotisches Abführmittel: Es zieht
 
 Die maligne Hyperthermie ist dagegen eine Störung der Kalziumregulation in der Skelettmuskulatur, meist im Zusammenhang mit Varianten im RYR1-Gen. Zwischen der abführenden Wirkung von Sorbitol und diesem Krankheitsmechanismus lässt sich aus den vorhandenen Daten keine nachvollziehbare Verbindung herstellen.
 
-Der hohe Vorhersagewert könnte auf Artefakte in der Struktur des Wissensgraphen zurückgehen, etwa auf gemeinsame Verknüpfungen von Zuckeralkoholen oder Hilfsstoffen (zum Beispiel Mannitol in verwandten Anwendungen), und nicht auf eine echte pharmakologische Beziehung. Hinzu kommt, dass für diese Erkrankung mit Dantrolen bereits eine etablierte Standardtherapie existiert. Eine Umwidmung bräuchte deshalb sehr starke Belege.
+Der hohe Vorhersagewert (0.9940) stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, etwa bei Zuckeralkoholen oder Hilfsstoffen (zum Beispiel Mannitol in verwandten Anwendungen), und nicht eine echte pharmakologische Beziehung oder biologische Evidenz. Hinzu kommt, dass für diese Erkrankung mit Dantrolen bereits eine etablierte Standardtherapie existiert. Eine Umwidmung bräuchte deshalb sehr starke Belege.
 
 ---
 
@@ -93,11 +93,11 @@ Die Warnhinweise und Kontraindikationen der Swissmedic-Fachinformation liegen ni
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf einen Modellwert (99,4 %) ohne klinische Studien oder Literatur. Ein pharmakologischer Zusammenhang ist nicht erkennbar, und für die Erkrankung gibt es eine etablierte Standardtherapie.
+- Die Vorhersage stützt sich allein auf einen Modellwert (0,9940) ohne klinische Studien oder Literatur. Ein pharmakologischer Zusammenhang ist nicht erkennbar, und für die Erkrankung gibt es eine etablierte Standardtherapie.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Ergänzung des Wirkmechanismus von Sorbitol (z. B. über DrugBank)
-- Prüfung, ob ein biologisch plausibler Zusammenhang mit der Kalziumregulation im Skelettmuskel besteht, und Analyse, ob die Vorhersage ein Artefakt des Wissensgraphen ist
+- Prüfung, ob ein biologisch plausibler Zusammenhang mit der Kalziumregulation im Skelettmuskel besteht, und Analyse, ob die Vorhersage ein Artefakt des TxGNN-Modells (Deep Learning) ist
 - Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen), da dies für die Sicherheitsprüfung blockierend ist
 - Systematische Literatur- und Studienrecherche zu Sorbitol und maligner Hyperthermie
 ## Haftungsausschluss

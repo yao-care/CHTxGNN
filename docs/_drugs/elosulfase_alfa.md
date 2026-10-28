@@ -50,10 +50,10 @@ Elosulfase alfa ist eine Enzymersatztherapie, die in der Schweiz zur Behandlung 
 |------|------|
 | Ursprüngliche Indikation | Behandlung der Mucopolysaccharidose Typ IVA |
 | Vorhergesagte neue Indikation | Scheie-Syndrom |
-| TxGNN-Vorhersagewert | 99,9 % |
+| TxGNN-Vorhersagewert | 0,9990 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

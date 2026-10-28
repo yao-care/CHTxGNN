@@ -8,6 +8,7 @@ drugbank_id: DB06595
 evidence_level: L5
 permalink: /drugs/midostaurinum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # MIDOSTAURINUM

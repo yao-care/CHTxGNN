@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Velpatasvir
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 105
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-13
 description: "Velpatasvir: vorhergesagte neue Indikation Hepatitis-B-Virusinfektion (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis C"
@@ -14,7 +14,7 @@ predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infect
 # Velpatasvir
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Velpatasvir wird in der Schweiz zur Behandlung der chronischen Hepatitis C einge
 |------|------|
 | Ursprüngliche Indikation | Chronische Hepatitis C |
 | Vorhergesagte neue Indikation | Hepatitis-B-Virusinfektion |
-| TxGNN-Vorhersagewert | 99,87 % |
+| TxGNN-Vorhersagewert | 0,9987 |
 | Evidenzniveau | L3 (nur indirekte Evidenz, keine Wirksamkeitsdaten gegen HBV) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

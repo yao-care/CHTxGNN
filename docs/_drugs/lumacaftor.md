@@ -50,10 +50,10 @@ Lumacaftor wird in der Schweiz in Kombination mit Ivacaftor (Orkambi) zur Behand
 |------|------|
 | Ursprüngliche Indikation | Mukoviszidose |
 | Vorhergesagte neue Indikation | Lepra |
-| TxGNN-Vorhersagewert | 99,4 % |
+| TxGNN-Vorhersagewert | 0,9944 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Lumacaftor ist ein sogenannter CFTR-Korrektor. Es verbessert die Faltung und den
 
 Zwischen Mukoviszidose und Lepra besteht kein bekannter mechanistischer Zusammenhang. Lepra wird durch *Mycobacterium leprae* verursacht und mit einer antimikrobiellen Kombinationstherapie (Dapsone, Rifampicin, Clofazimin) behandelt. Denkbar, aber rein spekulativ, wäre ein Einfluss auf Wirtszellen, etwa über den Proteintransport oder die Chloridkanalfunktion in Makrophagen oder Schwann-Zellen. Dafür liegen keine Daten vor.
 
-Der hohe TxGNN-Wert (0,994) stammt ausschliesslich aus einer Vorhersage auf Basis eines Wissensgraphen. Er ersetzt keine klinischen oder experimentellen Belege und sollte entsprechend vorsichtig interpretiert werden.
+Der hohe TxGNN-Wert (0,9944) stammt ausschliesslich aus einer Vorhersage des TxGNN-Modells (Deep Learning). Er ersetzt keine klinischen oder experimentellen Belege und sollte entsprechend vorsichtig interpretiert werden.
 
 ---
 

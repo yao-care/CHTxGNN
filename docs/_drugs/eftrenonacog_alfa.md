@@ -6,7 +6,7 @@ nav_order: 44
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-13
-description: "Eftrenonacog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Erkrankung (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei Hämophilie B (kongenitale…"
+description: "Eftrenonacog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei Hämophilie B (kongenitale…"
 monitor_inn: "eftrenonacog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia"]
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Eftrenonacog alfa: Von Hämophilie B zu Pseudo-von-Willebrand-Erkrankung
+## Eftrenonacog alfa: Von Hämophilie B zu Pseudo-von-Willebrand-Syndrom
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Eftrenonacog alfa (Alprolix) ist ein rekombinantes Faktor-IX-Fc-Fusionsprotein. 
 |------|------|
 | Ursprüngliche Indikation | Behandlung und Prophylaxe von Blutungen bei Hämophilie B (kongenitaler Faktor-IX-Mangel) |
 | Vorhergesagte neue Indikation | Pseudo-von-Willebrand-Erkrankung |
-| TxGNN-Vorhersagewert | 99,5 % |
+| TxGNN-Vorhersagewert | 0,9948 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

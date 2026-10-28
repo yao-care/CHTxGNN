@@ -4,17 +4,17 @@ title: Trandolapril
 parent: Nur Modellvorhersage (L5)
 nav_order: 98
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-13
-description: "Trandolapril: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (Evidenzstufe L5). Ursprüngliche Indikation: Kombiniertes Antihypertonikum"
+indication_count: 5
 monitor_inn: "trandolapril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-10-27
+description: "Trandolapril: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Kombiniertes Antihypertonicum"
 ---
 
 # Trandolapril
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,111 +33,79 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Trandolapril: Von arterieller Hypertonie zu maligner hypertensiver Nierenerkrankung
+## Trandolapril: ACE-Hemmer → maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Trandolapril ist in der Schweiz als kombiniertes Antihypertonikum (Tarka, Filmtabletten) zugelassen. Das Modell sagt voraus, dass es auch bei maligner hypertensiver Nierenerkrankung wirksam sein könnte. Diese Vorhersage beruht ausschliesslich auf einem Rechenmodell; klinische Studien oder Literatur zu dieser Indikation liegen nicht vor.
+Trandolapril ist ein Hemmer des Angiotensin-konvertierenden Enzyms (ACE-Hemmer) und wird zur Blutdrucksenkung eingesetzt. Es könnte voraussichtlich bei der malignen hypertensiven Nierenerkrankung (malignant hypertensive renal disease) wirksam sein. Diese Vorhersage beruht allein auf einer Modellberechnung; für diese Erkrankung liegen keine klinischen Studien und keine Literatur vor.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Kombiniertes Antihypertonikum |
-| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung |
-| TxGNN-Vorhersagewert | 99,9 % |
-| Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Ursprüngliche Indikation | Kombiniertes Antihypertonicum |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
+| TxGNN-Vorhersagewert | 0,9992 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Trandolapril gehört zu den ACE-Hemmern. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Wirkstoffklasse ergibt sich jedoch, dass das Renin-Angiotensin-System gehemmt wird und dadurch der Blutdruck sinkt.
+Trandolapril hemmt das Angiotensin-konvertierende Enzym. Dadurch sinkt die Bildung von Angiotensin II, einem starken Gefässverengerer. Der Blutdruck fällt, und die Gefässe der Niere werden entlastet. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Die ursprüngliche Indikation (Bluthochdruck) und die vorhergesagte Indikation (maligne hypertensive Nierenerkrankung) hängen eng zusammen: Bei der malignen Form schädigt stark erhöhter Blutdruck die Nierengefässe, wobei Angiotensin II eine Rolle spielt. Eine Hemmung dieses Systems könnte diese Gefässschädigung theoretisch verringern.
+Eine maligne hypertensive Nierenerkrankung entsteht durch stark erhöhten Blutdruck, der die Nierengefässe schädigt. Die Beziehung zur bisherigen Anwendung ist deshalb nahe: In beiden Fällen steht der Bluthochdruck im Mittelpunkt, und die Hemmung des Renin-Angiotensin-Systems setzt an einem Schadensmechanismus an.
 
-Der hohe Vorhersagewert ist jedoch eine reine Modellaussage. Direkte klinische Belege fehlen.
-
-**Weitere vorhergesagte Indikationen (ebenfalls nur Modellvorhersage):**
-- Maligne renovaskuläre Hypertonie (99,9 %): Der Mechanismus ist plausibel. Bei beidseitiger Nierenarterienstenose können ACE-Hemmer jedoch die glomeruläre Filtration verringern.
-- Pulmonale Hypertonie (verschiedene Formen, 99,9 %): Nur theoretische Überlegungen, keine Belege. Für die Form infolge Lungenerkrankung und/oder Hypoxie liegen lediglich tierexperimentelle und kardiale Arbeiten vor (Evidenzniveau L4).
-- Braddock-Syndrom (99,9 %): Kein klarer Mechanismus erkennbar.
-- Chronische pulmonale Herzkrankheit (99,2 %): Eine einzelne tierexperimentelle Studie (L4).
+Der hohe Vorhersagewert ist jedoch ein reines Modellergebnis. Er ersetzt keine klinischen Belege.
 
 ---
 
-## Klinische Studien
+### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-## Literaturbelege
-
-Für die Hauptvorhersage (maligne hypertensive Nierenerkrankung) ist derzeit keine Literatur verfügbar. Die folgenden Arbeiten gehören zu den nachrangigen Vorhersagen (pulmonale Hypertonie infolge Lungenerkrankung/Hypoxie bzw. chronische pulmonale Herzkrankheit). Es handelt sich ausschliesslich um Tier- oder Mechanismusstudien bzw. einen Einzelfallbericht.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [8909991](https://pubmed.ncbi.nlm.nih.gov/8909991/) | 1996 | Präklinisch (Hund, Hypoxiemodell) | General Pharmacology | Trandolapril plus Verapamil hemmte den durch Hypoxie nach Ischämie-Reperfusion ausgelösten Koronarspasmus. |
-| [7511729](https://pubmed.ncbi.nlm.nih.gov/7511729/) | 1994 | Präklinisch (Tier) | Journal of Cardiovascular Pharmacology | Trandolapril senkte bei alten spontan hypertensiven Ratten den Blutdruck um 15 % und beeinflusste Steifheit der linken Herzkammer sowie Koronarwiderstand. |
-| [8989645](https://pubmed.ncbi.nlm.nih.gov/8989645/) | 1996 | Präklinisch (Tier) | Journal of Cardiac Failure | Langzeitbehandlung mit Trandolapril wirkte auf die verstärkte Gefässverengung bei Ratten mit chronischer Herzinsuffizienz. |
-| [9218195](https://pubmed.ncbi.nlm.nih.gov/9218195/) | 1997 | Präklinisch (Tier) | Journal of Hypertension. Supplement | Untersucht wurde, ob die Kombination aus Verapamil und Trandolapril stärker wirkt als die Einzelstoffe. |
-| [8166049](https://pubmed.ncbi.nlm.nih.gov/8166049/) | 1994 | Übersichtsarbeit | American Journal of Cardiology | Beschreibt die molekularen Grundlagen der Rückbildung der Herzhypertrophie. |
-| [17393952](https://pubmed.ncbi.nlm.nih.gov/17393952/) | 2007 | Fallbericht (nicht zielgerichtet) | Journal of the National Medical Association | Schmerzen bei Sichelzellkrankheit verschwanden unter einem ACE-Hemmer. Für die vorliegende Fragestellung nicht relevant. |
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Marktinformationen Schweiz
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
+
+---
+
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 55426 | Tarka, Filmtabletten | Synthetika | Kombiniertes Antihypertonikum |
+| 55426 | Tarka, Filmtabletten | Synthetika | Kombiniertes Antihypertonicum |
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-**Kontraindikationen aus dem Wissensgraphen** (aus Beziehungen zwischen Arzneimittel und Krankheit, nicht aus der Fachinformation). Dazu zählen unter anderem:
-- Angioödem (auch erworben, hereditär und durch Renin-Angiotensin-System-Blocker ausgelöst)
-- Nieren- und Lebererkrankungen
-- Aortenstenose, Aortenklappenerkrankung
-- Hypotone Kreislaufstörungen
-- Hypertrophe Kardiomyopathie
-- Nierenarterienverschluss
-- Neutropenie, Agranulozytose
-- Ventrikuläre Tachykardie, atrioventrikulärer Block
-- Herzinsuffizienz
-- Myasthenia gravis
+- **Arzneimittelwechselwirkungen**: In den Daten sind 155 Wechselwirkungen erfasst. Als schwerwiegend (Major) eingestuft sind Kaliumcitrat und Kaliumbicarbonat, bei denen ein erhöhtes Risiko für zu hohe Kaliumspiegel besteht. Mässig (Moderate) eingestuft sind unter anderem Metformin, Alogliptin, Empagliflozin, Dapagliflozin, Canagliflozin, Glimepiride, Chlorpropamid, Acetylsalicylsäure, Morphin, Bupropion, Dronabinol sowie Kortikosteroide (Hydrocortison, Dexamethason, Betamethason, Budesonid, Triamcinolon).
 
-**Arzneimittelwechselwirkungen:** Insgesamt wurden 155 Wechselwirkungen erfasst. Die wichtigsten:
-- **Schwerwiegend (Major):** Kaliumcitrat, Kaliumhydrogencarbonat (Risiko einer Hyperkaliämie)
-- **Mässig (Moderate), Auswahl:** Metformin, Alogliptin, Glimepiride, Chlorpropamid, Canagliflozin, Dapagliflozin, Empagliflozin, Acetylsalicylsäure, Hydrocortison, Dexamethason, Betamethason, Triamcinolon, Budesonid, Bupropion, Morphin, Dronabinol, Picosulfursäure, Polyethylenglykol mit Elektrolyten
-
-Die Angaben aus der Fachinformation zu Warnhinweisen und Kontraindikationen fehlen. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für Warnhinweise und Kontraindikationen bitte die Fachinformation beachten.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf das Modell (L5), ohne klinische Studien oder Literatur. Zudem fehlen die Daten zur Fachinformation (Warnhinweise, Kontraindikationen), sodass die Sicherheitsprüfung nicht abgeschlossen werden kann.
+- Der hohe Vorhersagewert beruht allein auf dem Modell. Für die maligne hypertensive Nierenerkrankung gibt es weder klinische Studien noch Literatur (Evidenzniveau L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Download und Auswertung des PDF)
-- Angaben zum Wirkmechanismus aus DrugBank
-- Gezielte Literaturrecherche und klinische Daten zu maligner hypertensiver Nierenerkrankung
-- Prüfung des Nutzen-Risiko-Verhältnisses bei Nierenarterienstenose und eingeschränkter Nierenfunktion
-- Klärung der Zulassungs- und Darreichungsform (die Fixkombination Tarka enthält zusätzlich einen weiteren Wirkstoff, was bei einer Umwidmung zu berücksichtigen ist)
+- Recherche von Studien und Publikationen, die Trandolapril direkt bei maligner hypertensiver Nierenerkrankung untersuchen
+- Auswertung der Fachinformation der Swissmedic zu Warnhinweisen und Kontraindikationen
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klärung der Nierenfunktion und der Kaliumüberwachung, da Nierenerkrankungen und Wechselwirkungen mit Kalium relevant sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

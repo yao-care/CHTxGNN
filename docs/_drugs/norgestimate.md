@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Norgestimat: Von oraler Kontrazeption zu erhöhtem Plasmazink
+## Norgestimat: Von oraler Kontrazeption zu Erhöhtes Plasmazink
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Norgestimat wird in der Schweiz zur oralen Kontrazeption bei Frauen eingesetzt. 
 |------|------|
 | Ursprüngliche Indikation | Orale Kontrazeption bei Frauen |
 | Vorhergesagte neue Indikation | Erhöhtes Plasmazink (zinc, elevated plasma) |
-| TxGNN-Vorhersagewert | 99,1 % |
+| TxGNN-Vorhersagewert | 0,9906 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Der Wirkmechanismus von Norgestimat ist in den für diesen Bericht zusammengeste
 
 Ein therapeutischer Zusammenhang mit erhöhtem Plasmazink lässt sich daraus nicht ableiten. In der Literatur wird berichtet, dass kombinierte hormonelle Kontrazeptiva, vor allem durch den Östrogenanteil, die Spiegel von Spurenelementen verändern können, etwa höheres Kupfer und niedrigeres Zink. Dieses Hintergrundwissen stammt nicht aus den vorliegenden Daten. Es spricht zudem eher gegen als für eine Wirkung bei erhöhtem Zink.
 
-Erhöhtes Plasmazink ist ausserdem ein Laborbefund und kein typisches Behandlungsziel. Der hohe Vorhersagewert könnte daher auf Artefakten im Wissensgraphen beruhen und nicht auf einem echten Umwidmungssignal.
+Erhöhtes Plasmazink ist ausserdem ein Laborbefund und kein typisches Behandlungsziel. Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und könnte Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, und keinen biologischen Beleg für ein echtes Umwidmungssignal.
 
 ---
 

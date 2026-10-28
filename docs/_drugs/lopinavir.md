@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lopinavir
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 63
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-13
-description: "Lopinavir: vorhergesagte neue Indikation Simian-Immundefizienzvirus-Infektion (SIV) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 monitor_inn: "lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Lopinavir: vorhergesagte neue Indikation Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
 # Lopinavir
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3** 
+Evidenzniveau: **L4** | Vorhergesagte Indikationen: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +33,58 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Lopinavir: Von HIV-Infektionen zu Simian-Immundefizienzvirus-Infektion
+## Lopinavir: HIV-Proteaseinhibitor → Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Lopinavir wird in der Schweiz zur Behandlung von HIV-Infektionen eingesetzt. Das Vorhersagemodell schlägt es nun für die Simian-Immundefizienzvirus-(SIV-)Infektion vor, eine Infektion bei Affen, die dem HIV sehr ähnlich ist. Die Evidenz besteht ausschliesslich aus drei präklinischen Studien an Affen. Es handelt sich zudem nicht um eine echte Umwidmung für eine menschliche Erkrankung, da SIV ein Tiermodell für HIV ist.
+Lopinavir ist ein Proteaseinhibitor, der gegen HIV eingesetzt wird. Vorhergesagt wird nun eine mögliche Wirksamkeit bei der Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection), einem Tiermodell der HIV-Erkrankung. Die Evidenz beschränkt sich auf indirekte Studien an Affen und eine Modellvorhersage; direkte Studien zu dieser Erkrankung liegen nicht vor.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | HIV-Infektionen |
-| Vorhergesagte neue Indikation | Simian-Immundefizienzvirus-Infektion (SIV) |
-| TxGNN-Vorhersagewert | 99,9 % |
-| Evidenzniveau | L4 (nur präklinische Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Vorhergesagte neue Indikation | Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection) |
+| TxGNN-Vorhersagewert | 0,9990 |
+| Evidenzniveau | L4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Lopinavir ist jedoch bekanntermassen ein Hemmstoff der HIV-1-Protease. Dieses Enzym schneidet virale Eiweisse in ihre funktionsfähigen Bestandteile und ist für die Reifung neuer Viruspartikel notwendig.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Lopinavir ist jedoch bekanntermassen ein Hemmstoff der HIV-1-Protease. Dieses Enzym ist für die Reifung neuer Viruspartikel nötig.
 
-SIV und HIV gehören zu den Lentiviren und sind eng verwandt. Ihre Proteasen sind in Aufbau und Funktion ähnlich, weshalb ein ähnlicher Hemmmechanismus denkbar ist. Der hohe Vorhersagewert spiegelt vermutlich vor allem diese biologische Nähe zur ursprünglichen Indikation HIV wider.
+Das Affen-Immunschwächevirus (SIV) ist ein eng verwandtes Lentivirus. Seine Protease ist der HIV-Protease in Aufbau und Funktion ähnlich. Ein Mechanismus über die Proteasehemmung ist daher denkbar. Der hohe Vorhersagewert spiegelt vermutlich vor allem diese biologische Nähe zu HIV wider.
 
-Zu beachten ist: SIV ist eine Tierinfektion und dient als Modell für HIV. Es handelt sich daher nicht um eine neue Krankheit beim Menschen. Die Vorhersage bringt für die klinische Praxis keinen zusätzlichen Nutzen.
+Wichtig: SIV-Infektion ist ein Tiermodell für HIV und keine eigenständige humanmedizinische Indikation. Es handelt sich daher nicht um eine echte Umwidmung im klassischen Sinn.
 
 ---
 
-## Klinische Studien
+### Klinische Studien
 
 Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Literaturbelege
+### Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Präklinische Tierstudie (Affen) | Journal of Virology | Vier mit SIVmac251 infizierte Makaken erhielten 7 Tage lang eine Vierfach-Therapie gegen Retroviren. Untersucht wurde der Verlauf der Viruslast (virale Dynamik). Der Titel beschreibt einen raschen Abfall der Viruslast. |
-| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Präklinische Tierstudie (Affen) | Journal of Virological Methods | Zwei chronisch mit SHIV 89.6P infizierte Rhesusaffen erhielten 28 Tage lang oral AZT, 3TC und Lopinavir/Ritonavir. Untersucht wurde der Einfluss auf die CD8-Zellen im Blut. |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Präklinische Tierstudie (SHIV-Konstrukt) | Microbes and Infection | Entwicklung eines neuen Virus mit HIV-1-Protease, das als Modell zur Prüfung von Proteasehemmern dienen soll. Das Viruswachstum liess sich in Zellkultur durch einen Proteasehemmer vollständig blockieren. |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Präklinische Tierstudie (Primaten) | Journal of Virology | Vier mit SIVmac251 infizierte Makaken erhielten eine 7-tägige Vierfach-Therapie; untersucht wurde die Viruskinetik. Der Virenspiegel sank rasch. |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Präklinische Tierstudie (SHIV-Konstrukt) | Microbes and Infection | Ein neues SHIV mit HIV-1-Protease-Gen wurde hergestellt. Es soll als Modell dienen, um Proteaseinhibitoren im Tier zu testen. Im Zellversuch wurde sein Wachstum durch einen Proteasehemmer vollständig blockiert. |
+| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Präklinische Tierstudie (Primaten) | Journal of Virological Methods | Zwei mit SHIV 89.6P infizierte Makaken erhielten oral AZT, 3TC und Lopinavir/Ritonavir über 28 Tage; untersucht wurde der Einfluss auf die CD8-Zellen. |
+
+Alle drei Arbeiten sind Tierstudien mit Kombinationsregimen oder Modellviren und liefern nur indirekte Hinweise.
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -93,27 +93,27 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-Die Angaben aus der Fachinformation (Warnungen und Kontraindikationen) liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-- **Mögliche Kontraindikationen laut Wissensgraph (nicht aus dem Fachinformationstext):** Dazu zählen Herzrhythmusstörungen (Long-QT-Syndrom, Torsades de pointes, AV-Block, plötzlicher Herzstillstand), Herzerkrankungen (koronare Herzkrankheit, Kardiomyopathien), Leber- und Gallenerkrankungen (Leberzirrhose, chronische Hepatitis B und C, Hyperbilirubinämie), Pankreatitis, Stoffwechselstörungen (Diabetes mellitus, Hyperglykämie, diabetische Ketoazidose, Hypertriglyceridämie, Kaliummangel) sowie Hämophilie.
-- **Arzneimittelwechselwirkungen:** Insgesamt wurden 65 Wechselwirkungen erfasst. Als schwerwiegend (Major) eingestuft sind **Dolasetron** und **Papaverin**. Mittelgradig sind unter anderem Acarbose, Dapagliflozin, Famotidin, Levofloxacin, Metformin, Ondansetron, Palonosetron sowie mehrere Abführmittel. Gering sind Cimetidin und Clotrimazol.
+- **Arzneimittelwechselwirkungen** (65 erfasst, Auswahl):
+  - Schwerwiegend: Dolasetron, Papaverin
+  - Mässig: u. a. Acarbose, Dapagliflozin, Metformin, Levofloxacin, Ondansetron, Palonosetron, Famotidin sowie mehrere Abführmittel (Bisacodyl, Rizinusöl, Lactulose, Lactitol, Magnesiumcitrat, Magnesiumhydroxid)
+  - Gering: Cimetidin, Clotrimazol
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Evidenz besteht nur aus drei präklinischen Affenstudien. Es gibt keine klinischen Studien, und SIV ist keine menschliche Erkrankung, sodass kein echter Umwidmungsfall vorliegt.
-- Der hohe Vorhersagewert beruht vermutlich auf der Ähnlichkeit zu HIV. Die Fachinformation zu Sicherheit liegt nicht vor.
+- Die Vorhersage stützt sich nur auf ein Tiermodell von HIV und auf indirekte Primatenstudien mit Kombinationsregimen. Da keine Studie die Erkrankung direkt und mit Lopinavir allein untersucht, ist die Evidenz nach den Bewertungsregeln eher auf Modellniveau (L5) einzustufen als auf L4. Zudem hat die SIV-Infektion keine humanmedizinische Bedeutung als Indikation.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klärung, ob eine Indikation ohne menschlichen Bezug überhaupt weiterverfolgt werden soll.
-- Fachinformation von Swissmedic (Warnungen, Kontraindikationen) als Grundlage der Sicherheitsprüfung.
-- Angaben zum Wirkmechanismus aus DrugBank.
+- Klärung, ob eine tiermedizinische oder rein forschungsbezogene Nutzung überhaupt angestrebt wird
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar)
+- Studien, die Lopinavir allein in diesem Modell prüfen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Zinc Oxide
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 110
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-13
 description: "Zinc Oxide: vorhergesagte neue Indikation Akne (acne) (Evidenzstufe L5). Ursprüngliche Indikation: Leichte, nicht infektionsbedingte Hautentzündungen"
@@ -14,7 +14,7 @@ predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "
 # Zinc Oxide
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5** 
+Evidenzniveau: **L4** | Vorhergesagte Indikationen: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Zinkoxid wird in der Schweiz als Salbe oder Paste bei leichten, nicht infektions
 |------|------|
 | Ursprüngliche Indikation | Leichte, nicht infektionsbedingte Hautentzündungen; Intervall- und Nachbehandlung von Dermatosen, Schutz und Pflege trockener Haut; Furunkel, kleinere Abszesse; Mykosen der Haut |
 | Vorhergesagte neue Indikation | Akne (acne) |
-| TxGNN-Vorhersagewert | 99,86 % |
+| TxGNN-Vorhersagewert | 0,9986 |
 | Evidenzniveau | L4 (präklinische bzw. indirekte Evidenz, keine registrierten Studien) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

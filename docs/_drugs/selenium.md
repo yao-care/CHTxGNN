@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
-description: "Selenium: vorhergesagte neue Indikation Sklerosierende Cholangitis (Evidenzstufe L5). Ursprüngliche Indikation: Nachgewiesener Selenmangel"
 monitor_inn: "SELENIUM"
 predicted_indications: ["sclerosing cholangitis"]
+last_modified_at: 2026-10-27
+description: "Selenium: vorhergesagte neue Indikation sklerosierende Cholangitis (sclerosing cholangitis) (Evidenzstufe L5). Ursprüngliche Indikation: Nachgewiesener Selenmangel"
 ---
 
 # Selenium
@@ -33,60 +33,58 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Selenium: Von nachgewiesenem Selenmangel zu sklerosierender Cholangitis
+## Selen: Spurenelement → sklerosierende Cholangitis (sclerosing cholangitis)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Selenium wird in der Schweiz zur Behandlung eines nachgewiesenen Selenmangels eingesetzt. Ein Computermodell (TxGNN) sagt voraus, dass es auch bei der sklerosierenden Cholangitis, einer chronischen Entzündung der Gallenwege, nützlich sein könnte. Diese Vorhersage ist bisher rein rechnerisch; es liegen weder klinische Studien noch Wirksamkeitsnachweise vor, nur wenige Beobachtungsstudien und präklinische Arbeiten mit indirektem Bezug.
+Selen ist ein essenzielles Spurenelement, das in der Schweiz als Trinklösung und als Injektionslösung im Handel ist. Die Vorhersage nennt als mögliche neue Anwendung die sklerosierende Cholangitis (sclerosing cholangitis). Die Evidenz ist sehr schwach: Es liegen nur Beobachtungs- und Übersichtsarbeiten sowie Tierdaten vor, aber keine klinische Studie, die Selen bei dieser Erkrankung prüft.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Nachgewiesener Selenmangel |
-| Vorhergesagte neue Indikation | Sklerosierende Cholangitis |
-| TxGNN-Vorhersagewert | 99,0 % |
-| Evidenzniveau | L4 (nur Mechanismus- und präklinische Hinweise sowie Beobachtungsdaten, keine Studien zur Wirksamkeit) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Vorhergesagte neue Indikation | sklerosierende Cholangitis (sclerosing cholangitis) |
+| TxGNN-Vorhersagewert | 0,9904 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Selenium liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist jedoch allgemein, dass Selen Bestandteil von Selenoproteinen und Glutathionperoxidasen ist, die vor oxidativem Stress schützen und Entzündungsprozesse mitregulieren. Diese Einordnung stammt nicht aus den vorliegenden Daten und ist als Hintergrundwissen zu verstehen.
+Zum Wirkmechanismus von Selen liegen in den vorliegenden Daten keine Angaben vor. Allgemein bekannt ist, dass Selen als Bestandteil von Selenoproteinen und Glutathionperoxidasen an der antioxidativen Abwehr beteiligt ist und Entzündung sowie oxidativen Stress beeinflussen kann.
 
-Bei cholestatischen Lebererkrankungen spielen oxidativer Stress und Entzündung eine Rolle. Eine Studie beschreibt bei Patientinnen und Patienten mit primär sklerosierender Cholangitis (PSC) eine veränderte Anreicherung von Kupfer und Selen in der Leber. Ernährungsstudien weisen zudem auf Auffälligkeiten bei Mikronährstoffen hin.
+Bei der sklerosierenden Cholangitis spielen chronische Entzündung, oxidativer Stress und Fibrose in den Gallenwegen eine Rolle. Eine Studie beschreibt eine veränderte Kupfer- und Selenanreicherung in der Leber von Betroffenen. Ernährungsstudien deuten zudem auf Auffälligkeiten bei Mikronährstoffen hin. Das ist ein Hinweis auf einen Zusammenhang, aber kein Beleg für eine therapeutische Wirkung.
 
-Diese Befunde zeigen einen Zusammenhang, aber keinen therapeutischen Effekt. Keine der vorliegenden Arbeiten belegt, dass eine Selengabe den Verlauf, Laborwerte oder klinische Endpunkte der PSC verbessert.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Bisher zeigt keine der vorliegenden Arbeiten, dass eine Selengabe den Krankheitsverlauf, Laborwerte oder klinische Endpunkte bei sklerosierender Cholangitis verbessert. Die Vorhersage bleibt daher eine rechnerische Hypothese.
 
 ---
 
-## Literaturbelege
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [9053974](https://pubmed.ncbi.nlm.nih.gov/9053974/) | 1995 | Beobachtungsstudie (Messung im Lebergewebe) | Scandinavian Journal of Gastroenterology | Untersuchung des Spurenelementstoffwechsels bei 32 PSC-Patienten; beschrieben wird eine Anreicherung von Kupfer und Selen in der Leber. |
-| [39601354](https://pubmed.ncbi.nlm.nih.gov/39601354/) | 2025 | Beobachtungsstudie (Querschnitt, Ernährung) | Liver International | Ernährungsverhalten von PSC-Betroffenen im Vergleich zu den nordischen Empfehlungen; geringe Aufnahme fettlöslicher Vitamine und mässige Ernährungsqualität. |
-| [29148959](https://pubmed.ncbi.nlm.nih.gov/29148959/) | 2017 | Klinische Beobachtung (Fallbericht) | JPEN. Journal of Parenteral and Enteral Nutrition | Fall mit schwerer Malabsorption, PSC und Colitis ulcerosa unter parenteraler Ernährung; oxidativer Stress und Antioxidantienmangel werden diskutiert (indirekter Bezug). |
-| [17109383](https://pubmed.ncbi.nlm.nih.gov/17109383/) | 2006 | Präklinisch (Maus) | Proteomics | Veränderungen des Leberproteoms in Mausmodellen für Fibrose und sklerosierende Cholangitis (indirekter Bezug). |
-| [18941372](https://pubmed.ncbi.nlm.nih.gov/18941372/) | 2008 | Übersichtsarbeit | European Journal of Cancer Prevention | Übersicht zur Chemoprävention des Kolorektalkarzinoms; nur indirekter Bezug zur Fragestellung. |
+| [9053974](https://pubmed.ncbi.nlm.nih.gov/9053974/) | 1995 | Beobachtungsstudie | Scandinavian Journal of Gastroenterology | Untersuchung des Spurenelementstoffwechsels bei 32 Personen mit primär sklerosierender Cholangitis; beschrieben wird eine Anreicherung von Kupfer und Selen in der Leber. |
+| [39601354](https://pubmed.ncbi.nlm.nih.gov/39601354/) | 2025 | Beobachtungsstudie (Querschnitt) | Liver International | Ernährungsgewohnheiten bei primär sklerosierender Cholangitis im Vergleich zu den nordischen Empfehlungen; geringe Zufuhr fettlöslicher Vitamine und mässige Ernährungsqualität. |
+| [29148959](https://pubmed.ncbi.nlm.nih.gov/29148959/) | 2017 | Fallbericht | JPEN | Parenterale Ernährung bei einer Person mit schwerer Malabsorption, sklerosierender Cholangitis und Colitis ulcerosa; Bezug zu oxidativem Stress und Antioxidantien, nur indirekt relevant. |
+| [17109383](https://pubmed.ncbi.nlm.nih.gov/17109383/) | 2006 | Präklinisch (Maus) | Proteomics | Veränderungen des Leberproteoms in Mausmodellen für toxisch bedingte Fibrose und sklerosierende Cholangitis; kein Selenbezug. |
+| [18941372](https://pubmed.ncbi.nlm.nih.gov/18941372/) | 2008 | Übersichtsarbeit | European Journal of Cancer Prevention | Übersicht zur Chemoprävention des Kolorektalkarzinoms; nur indirekt relevant. |
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -95,30 +93,28 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-- **Arzneimittelwechselwirkungen** (6 Einträge):
-  - **Schwerwiegend:** Dimercaprol
-  - **Mittelschwer:** Levofloxacin, Triethylentetramin, Deferipron, Tolevamer, Eltrombopag
+- **Arzneimittelwechselwirkungen** (6 Einträge in der Datenbank):
+  - Schwerwiegend: Dimercaprol
+  - Mittelschwer: Levofloxacin, Triethylentetramin, Deferipron, Tolevamer, Eltrombopag
 
-Für Warnungen und Kontraindikationen bitte die Fachinformation beachten.
+Weitere Sicherheitsinformationen entnehmen Sie bitte der Fachinformation.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der TxGNN-Wert ist sehr hoch, beruht aber ausschliesslich auf einer Modellvorhersage. Die Literatur zeigt allenfalls einen Zusammenhang zwischen Selen und PSC, aber keinen Behandlungseffekt.
-- Die Sicherheitsprüfung kann derzeit nicht abgeschlossen werden, da Warnungen und Kontraindikationen aus der Fachinformation fehlen.
+- Der Vorhersagewert ist hoch, aber keine Studie untersucht Selen direkt bei sklerosierender Cholangitis. Die Evidenz beschränkt sich auf Beobachtungshinweise, daher gilt Niveau L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
-- Ergänzung des Wirkmechanismus aus DrugBank
-- Klinische Daten zu Selengaben bei PSC (z. B. Pilotstudie oder Phase-2-Studie mit klinischen und biochemischen Endpunkten)
-- Prüfung der Wechselwirkung mit Dimercaprol und der Relevanz der übrigen Wechselwirkungen
-- Klärung der Darreichungsform und Dosierung für die neue Indikation
+- Studien oder klinische Daten, die Selen direkt bei sklerosierender Cholangitis prüfen (zunächst Selenstatus und Mangel bei Betroffenen)
+- Angaben zum Wirkmechanismus von Selen
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Klärung von Dosierung und geeigneter Darreichungsform für die neue Anwendung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

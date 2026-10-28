@@ -8,6 +8,7 @@ drugbank_id: DB00810
 evidence_level: L5
 permalink: /drugs/biperideni_lactas/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # BIPERIDENI LACTAS

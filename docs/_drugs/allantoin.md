@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 </div>
 
-## Allantoin: Von Narben und Keloiden zu schwerer nicht-proliferativer diabetischer Retinopathie
+## Allantoin: Schwere nicht-proliferative diabetische Retinopathie
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Allantoin wird in der Schweiz als Salbe, Gel oder Creme zur Behandlung von Narbe
 |------|------|
 | Ursprüngliche Indikation | Narbenbehandlung; Narben und Keloide; bei stumpfen Traumen |
 | Vorhergesagte neue Indikation | Schwere nicht-proliferative diabetische Retinopathie |
-| TxGNN-Vorhersagewert | 99,56 % |
+| TxGNN-Vorhersagewert | 0,9956 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Der Wirkmechanismus von Allantoin ist in den vorliegenden Daten nicht hinterlegt
 
 Für die diabetische Retinopathie ist die Plausibilität gering. Es handelt sich um eine mikrovaskuläre Erkrankung der Netzhaut, und für Allantoin ist weder auf topischem noch auf systemischem Weg ein Zugang zum Netzhautgewebe belegt. Der hohe TxGNN-Wert ist eine rein rechnerische Vorhersage aus Netzwerkbeziehungen und kein Hinweis auf eine tatsächliche Wirkung.
 
-Unter den weiteren Vorhersagen ist **Akne-Keloid** (Rang 4, Wert 99,48 %, Evidenzniveau L4) die nachvollziehbarste. Allantoin ist bereits für Narben und Keloide zugelassen, und seine Wirkung auf die extrazelluläre Matrix, die Keratolyse und die Fibroblasten ist für die Keloidbiologie relevant. Die Evidenz ist jedoch indirekt und stammt aus verwandten Narbenindikationen. Für Akne-Keloid selbst wurde keine Evidenz gefunden. Die zugrunde liegende Follikulitis müsste weiterhin behandelt werden.
+Unter den weiteren Vorhersagen ist **Akne-Keloid** (Rang 4, Wert 0,9948, Evidenzniveau L4) die nachvollziehbarste. Allantoin ist bereits für Narben und Keloide zugelassen, und seine Wirkung auf die extrazelluläre Matrix, die Keratolyse und die Fibroblasten ist für die Keloidbiologie relevant. Die Evidenz ist jedoch indirekt und stammt aus verwandten Narbenindikationen. Für Akne-Keloid selbst wurde keine Evidenz gefunden. Die zugrunde liegende Follikulitis müsste weiterhin behandelt werden.
 
 Die übrigen Vorhersagen (z. B. Acrodermatitis chronica atrophicans, Dermatomyositis-Formen, interstitielle Lungenerkrankung, Hydroa vacciniforme, Exanthem) zeigen höchstens einen unspezifischen, symptomatischen Hautpflegeeffekt. Einen Einfluss auf die jeweilige Grunderkrankung gibt es nicht.
 

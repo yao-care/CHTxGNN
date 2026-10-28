@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-28",
   "total_drugs": 100,
   "level_counts": {
-    "L1": 2,
+    "L1": 1,
     "L2": 0,
-    "L3": 6,
-    "L4": 2,
-    "L5": 90
+    "L3": 4,
+    "L4": 7,
+    "L5": 86
   },
   "all_drugs": [
     {
@@ -25,7 +25,7 @@
       "name": "Alglucosidase Alfa",
       "slug": "alglucosidase_alfa",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 8
     },
     {
       "name": "Allantoin",
@@ -49,7 +49,7 @@
       "name": "Artemether",
       "slug": "artemether",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 8
     },
     {
       "name": "Asfotase Alfa",
@@ -67,7 +67,7 @@
       "name": "Avibactam",
       "slug": "avibactam",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 4
     },
     {
       "name": "Bacitracin",
@@ -96,7 +96,7 @@
     {
       "name": "Brentuximab Vedotin",
       "slug": "brentuximab_vedotin",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10
     },
     {
@@ -109,7 +109,7 @@
       "name": "Camphor",
       "slug": "camphor",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Ceftolozane",
@@ -126,8 +126,8 @@
     {
       "name": "Certolizumab Pegol",
       "slug": "certolizumab_pegol",
-      "level": "L4",
-      "indication_count": 6
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Chloramphenicol",
@@ -138,14 +138,14 @@
     {
       "name": "Chlordiazepoxide",
       "slug": "chlordiazepoxide",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10
     },
     {
       "name": "Chlorthalidone",
       "slug": "chlorthalidone",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Cisatracurium",
@@ -163,7 +163,7 @@
       "name": "Clioquinol",
       "slug": "clioquinol",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 2
     },
     {
       "name": "Clothiapine",
@@ -187,7 +187,7 @@
       "name": "Dexlansoprazole",
       "slug": "dexlansoprazole",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 4
     },
     {
       "name": "Dibotermin Alfa",
@@ -205,7 +205,7 @@
       "name": "Efmoroctocog Alfa",
       "slug": "efmoroctocog_alfa",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Eftrenonacog Alfa",
@@ -222,7 +222,7 @@
     {
       "name": "Elvitegravir",
       "slug": "elvitegravir",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 3
     },
     {
@@ -265,7 +265,7 @@
       "name": "Glycine",
       "slug": "glycine",
       "level": "L5",
-      "indication_count": 2
+      "indication_count": 1
     },
     {
       "name": "Hesperidin",
@@ -288,14 +288,14 @@
     {
       "name": "Insulin Detemir",
       "slug": "insulin_detemir",
-      "level": "L1",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Insulin Glulisine",
       "slug": "insulin_glulisine",
-      "level": "L1",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Isavuconazonium",
@@ -324,7 +324,7 @@
     {
       "name": "Lopinavir",
       "slug": "lopinavir",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 3
     },
     {
@@ -336,14 +336,14 @@
     {
       "name": "Metamizole",
       "slug": "metamizole",
-      "level": "L5",
-      "indication_count": 10
+      "level": "L4",
+      "indication_count": 9
     },
     {
       "name": "Netarsudil",
       "slug": "netarsudil",
-      "level": "L5",
-      "indication_count": 2
+      "level": "N/A",
+      "indication_count": 0
     },
     {
       "name": "Nitrogen",
@@ -373,7 +373,7 @@
       "name": "Pheniramine",
       "slug": "pheniramine",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 1
     },
     {
       "name": "Phenol",
@@ -384,7 +384,7 @@
     {
       "name": "Phenylalanine",
       "slug": "phenylalanine",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 2
     },
     {
@@ -397,7 +397,7 @@
       "name": "Piperacillin",
       "slug": "piperacillin",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Polatuzumab Vedotin",
@@ -408,14 +408,14 @@
     {
       "name": "Polymyxin B",
       "slug": "polymyxin_b",
-      "level": "L5",
-      "indication_count": 3
+      "level": "L4",
+      "indication_count": 2
     },
     {
       "name": "Riluzole",
       "slug": "riluzole",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Sacituzumab Govitecan",
@@ -426,20 +426,20 @@
     {
       "name": "Sacubitril",
       "slug": "sacubitril",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 5
     },
     {
       "name": "Salicylamide",
       "slug": "salicylamide",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Sebelipase Alfa",
       "slug": "sebelipase_alfa",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Selenium",
@@ -451,13 +451,13 @@
       "name": "Serine",
       "slug": "serine",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 8
     },
     {
       "name": "Simoctocog Alfa",
       "slug": "simoctocog_alfa",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Sorbitol",
@@ -481,13 +481,13 @@
       "name": "Talimogene Laherparepvec",
       "slug": "talimogene_laherparepvec",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 5
     },
     {
       "name": "Tazobactam",
       "slug": "tazobactam",
-      "level": "L5",
-      "indication_count": 2
+      "level": "N/A",
+      "indication_count": 0
     },
     {
       "name": "Tenofovir Alafenamide",
@@ -522,8 +522,8 @@
     {
       "name": "Tiotropium",
       "slug": "tiotropium",
-      "level": "L5",
-      "indication_count": 10
+      "level": "L1",
+      "indication_count": 5
     },
     {
       "name": "Tipiracil",
@@ -535,13 +535,13 @@
       "name": "Trandolapril",
       "slug": "trandolapril",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Trimethoprim",
       "slug": "trimethoprim",
       "level": "L5",
-      "indication_count": 2
+      "indication_count": 1
     },
     {
       "name": "Tryptophan",
@@ -565,36 +565,36 @@
       "name": "Undecylenic Acid",
       "slug": "undecylenic_acid",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 3
     },
     {
       "name": "Valine",
       "slug": "valine",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 10
     },
     {
       "name": "Velpatasvir",
       "slug": "velpatasvir",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 10
     },
     {
       "name": "Vilanterol",
       "slug": "vilanterol",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 6
     },
     {
       "name": "Vonicog Alfa",
       "slug": "vonicog_alfa",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 8
     },
     {
       "name": "Voxilaprevir",
       "slug": "voxilaprevir",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 10
     },
     {
@@ -606,7 +606,7 @@
     {
       "name": "Zinc Oxide",
       "slug": "zinc_oxide",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 5
     }
   ]

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Polymyxin B
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 77
-evidence_level: L5
-indication_count: 3
+evidence_level: L4
+indication_count: 2
 last_modified_at: 2026-10-13
 description: "Polymyxin B: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Augeninfektionen, infizierte Augenentzündungen, Otitis"
 monitor_inn: "polymyxin b"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "laryngotracheitis"]
 # Polymyxin B
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3** 
+Evidenzniveau: **L4** | Vorhergesagte Indikationen: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Polymyxin B ist in der Schweiz zugelassen zur Behandlung von Augeninfektionen, i
 |------|------|
 | Ursprüngliche Indikation | Augeninfektionen, infizierte Augenentzündungen, Otitis |
 | Vorhergesagte neue Indikation | Bronchitis |
-| TxGNN-Vorhersagewert | 99,9 % |
+| TxGNN-Vorhersagewert | 0,9987 |
 | Evidenzniveau | L4 (indirekte Literatur, keine registrierten Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -129,7 +129,6 @@ Angaben zu Warnungen und Kontraindikationen aus der Fachinformation liegen nicht
 
 ---
 
-*Hinweis zu weiteren Vorhersagen:* Für Konjunktivitis (Vorhersagewert 99,1 %) liegen mehrere randomisierte Vergleichsstudien zur Fixkombination Polymyxin B/Trimethoprim vor (Evidenzniveau L2). Dies entspricht weitgehend der bestehenden Zulassung für Augeninfektionen und ist keine echte Umwidmung. Die Evidenz bezieht sich auf die Kombination, nicht auf Polymyxin B allein.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

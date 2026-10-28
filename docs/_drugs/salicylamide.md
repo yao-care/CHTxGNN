@@ -4,7 +4,7 @@ title: Salicylamide
 parent: Nur Modellvorhersage (L5)
 nav_order: 81
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Salicylamide: vorhergesagte neue Indikation Pharyngitis (Rachenentzündung) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Schmerzen beim Zahnen (Zahnungsschmerz)"
 monitor_inn: "salicylamide"
@@ -14,7 +14,7 @@ predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopha
 # Salicylamide
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Salicylamid wird in der Schweiz als Zahngel (Osa Gel dentaire) zur Behandlung vo
 |------|------|
 | Ursprüngliche Indikation | Behandlung der Schmerzen beim Zahnen (Zahnungsschmerz) |
 | Vorhergesagte neue Indikation | Pharyngitis (Rachenentzündung) |
-| TxGNN-Vorhersagewert | 99,98 % |
-| Evidenzniveau | L4 (nur ein historischer Fallbericht, keine kontrollierten Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| TxGNN-Vorhersagewert | 0,9998 |
+| Evidenzniveau | L5 (nur ein historischer Fallbericht, keine kontrollierten Studien) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

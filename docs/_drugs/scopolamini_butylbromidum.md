@@ -8,6 +8,7 @@ drugbank_id: DB00747
 evidence_level: L5
 permalink: /drugs/scopolamini_butylbromidum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # SCOPOLAMINI BUTYLBROMIDUM

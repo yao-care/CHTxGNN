@@ -50,10 +50,10 @@ Norelgestromin wird in der Schweiz als Bestandteil eines transdermalen Verhütun
 |------|------|
 | Ursprüngliche Indikation | Hormonelle Kontrazeption |
 | Vorhergesagte neue Indikation | Amenorrhoe |
-| TxGNN-Vorhersagewert | 99,5 % |
+| TxGNN-Vorhersagewert | 0,9951 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

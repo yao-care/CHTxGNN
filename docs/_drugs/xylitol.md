@@ -48,10 +48,10 @@ Xylit wird in der Schweiz als Bestandteil einer kardioplegen Lösung bei Herzope
 |------|------|
 | Ursprüngliche Indikation | Kardioplegie-Lösung bei Herzoperationen |
 | Vorhergesagte neue Indikation | Meningokokken-Infektion |
-| TxGNN-Vorhersagewert | 99,7 % |
+| TxGNN-Vorhersagewert | 0,9966 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

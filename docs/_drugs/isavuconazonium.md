@@ -38,7 +38,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 ## Zusammenfassung
 
-Isavuconazonium ist in der Schweiz als Antimykotikum zugelassen. Das Modell TxGNN sagt als neue Indikation Pneumocystose voraus (Vorhersagewert 99,6 %). Dafür liegen weder klinische Studien noch Literatur vor, und der bekannte Wirkmechanismus spricht gegen die biologische Plausibilität. Die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
+Isavuconazonium ist in der Schweiz als Antimykotikum zugelassen. Das Modell TxGNN (Deep Learning) sagt als neue Indikation Pneumocystose voraus (Vorhersagewert 0,9956). Dafür liegen weder klinische Studien noch Literatur vor, und der bekannte Wirkmechanismus spricht gegen die biologische Plausibilität. Die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
 
 Hinweis: Die zweite Vorhersage, Myzetom (Rang 2), ist plausibler und wird im Fazit als alternative Forschungsfrage genannt.
 
@@ -50,10 +50,10 @@ Hinweis: Die zweite Vorhersage, Myzetom (Rang 2), ist plausibler und wird im Faz
 |------|------|
 | Ursprüngliche Indikation | Antimykotikum |
 | Vorhergesagte neue Indikation | Pneumocystose |
-| TxGNN-Vorhersagewert | 99,6 % |
+| TxGNN-Vorhersagewert | 0,9956 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

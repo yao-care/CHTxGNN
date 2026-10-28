@@ -33,7 +33,7 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Calcipotriol: Von Psoriasis vulgaris zu seborrhoischer Keratose
+## Calcipotriol: Seborrhoische Keratose
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -48,10 +48,10 @@ Calcipotriol ist ein topisch angewendetes Vitamin-D3-Analogon, das in der Schwei
 |------|------|
 | Ursprüngliche Indikation | Psoriasis vulgaris / Psoriasis |
 | Vorhergesagte neue Indikation | Seborrhoische Keratose |
-| TxGNN-Vorhersagewert | 99,96 % |
+| TxGNN-Vorhersagewert | 0,9996 |
 | Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 9 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
+| Anzahl Zulassungen | 9 (gültig: 9) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

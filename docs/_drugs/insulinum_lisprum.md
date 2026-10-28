@@ -9,6 +9,7 @@ evidence_level: L5
 permalink: /drugs/insulinum_lisprum/
 search_exclude: true
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # INSULINUM LISPRUM

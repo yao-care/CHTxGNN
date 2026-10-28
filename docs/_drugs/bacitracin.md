@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Bacitracin: Von Allergiediagnostik zu Keratoconjunctivitis punctata epithelialis
+## Bacitracin: Von Allergiediagnostik zu punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Bacitracin ist in der Schweiz als Bestandteil des Allergentests «True Test, Pfl
 |------|------|
 | Ursprüngliche Indikation | Diagnose von Allergien |
 | Vorhergesagte neue Indikation | Punctate epithelial keratoconjunctivitis (punktförmige epitheliale Keratokonjunktivitis) |
-| TxGNN-Vorhersagewert | 99,999 % |
+| TxGNN-Vorhersagewert | 1,0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

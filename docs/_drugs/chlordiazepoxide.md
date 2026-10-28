@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chlordiazepoxide
-parent: Mittlere Evidenz (L3-L4)
+parent: Nur Modellvorhersage (L5)
 nav_order: 32
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-13
-description: "Chlordiazepoxide: vorhergesagte neue Indikation Insomnie (Evidenzstufe L3). Ursprüngliche Indikation: Antidepressivum"
 monitor_inn: "chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "myofascial pain syndrome"]
+last_modified_at: 2026-10-27
+description: "Chlordiazepoxide: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
 # Chlordiazepoxide
 {: .fs-9 }
 
-Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Chlordiazepoxid: Von Depression und Krampfzuständen zu Schlafstörungen (Insomnie)
+## Chlordiazepoxid: Benzodiazepin, GABA-A-Modulator → Schlaflosigkeit (insomnia (disease))
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Chlordiazepoxid wird in der Schweiz als Antidepressivum (in Kombination, Limbitrol) und als Spasmolytikum (Librax, Librocol) eingesetzt. Das Modell sagt voraus, dass es bei Schlaflosigkeit (Insomnie) wirksam sein könnte. Die Evidenz dafür ist schwach: Es liegen keine klinischen Studien vor, nur überwiegend ältere Übersichtsarbeiten zu Benzodiazepinen insgesamt.
+Chlordiazepoxid ist ein Benzodiazepin und in der Schweiz im Handel. Die Modellvorhersage legt nahe, dass es bei Schlaflosigkeit (insomnia (disease)) wirksam sein könnte. Die Vorhersage stützt sich bisher nur auf Übersichtsarbeiten und ältere Studien zu anderen Beschwerden, aber auf keine Studie zur Schlaflosigkeit selbst (Evidenzniveau L5).
 
 ---
 
@@ -48,23 +46,23 @@ Chlordiazepoxid wird in der Schweiz als Antidepressivum (in Kombination, Limbitr
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Antidepressivum; Spasmolytikum |
-| Vorhergesagte neue Indikation | Insomnie |
-| TxGNN-Vorhersagewert | 99,998 % |
-| Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 3 |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Ursprüngliche Indikation | Antidepressivum; Spasmolytikum; Spasmolitico |
+| Vorhergesagte neue Indikation | Schlaflosigkeit (insomnia (disease)) |
+| TxGNN-Vorhersagewert | 1,0000 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Chlordiazepoxid gehört jedoch zu den Benzodiazepinen. Diese verstärken die Signalübertragung am GABA-A-Rezeptor und wirken dadurch beruhigend und schlaffördernd.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Als Benzodiazepin verstärkt Chlordiazepoxid jedoch bekanntermassen die Signalübertragung am GABA-A-Rezeptor. Dadurch wirkt es beruhigend, angstlösend und schlaffördernd.
 
-Die ursprünglichen Anwendungen (Kombination mit einem Antidepressivum bei Depression mit Angst und Unruhe, Kombination mit einem Spasmolytikum bei Krämpfen) nutzen die beruhigende und angstlösende Wirkung. Schlafstörungen treten häufig zusammen mit Angst und Depression auf, daher ist ein Nutzen bei Insomnie mechanistisch nachvollziehbar. Die Benzodiazepinklasse ist für diese Anwendung grundsätzlich etabliert.
+Diese Wirkungen passen zu Schlaflosigkeit, und andere Benzodiazepine sind für diesen Zweck etabliert. Eine Verkürzung der Einschlafzeit und weniger nächtliches Erwachen sind daher mechanistisch plausibel.
 
-Die gefundene Literatur betrifft aber überwiegend die Wirkstoffklasse, Sicherheit bei älteren Menschen und ältere Angststudien, nicht Insomnie-Studien mit Chlordiazepoxid selbst. Die lange Halbwertszeit und die aktiven Abbauprodukte erhöhen das Risiko für Sedierung am Folgetag und für eine Anreicherung, besonders bei älteren Menschen (Beers-Liste). Chlordiazepoxid ist kein bevorzugtes Schlafmittel.
+Die gefundene Literatur besteht aber überwiegend aus Übersichtsarbeiten zu Benzodiazepinen, aus Arbeiten zur Sicherheit bei älteren Menschen und aus alten Angststudien. Studien zu Chlordiazepoxid bei Schlaflosigkeit selbst fehlen. Die lange Halbwertszeit und die aktiven Abbauprodukte erhöhen zudem das Risiko für Tagesmüdigkeit und Anreicherung im Körper, besonders bei älteren Menschen.
 
 ---
 
@@ -78,47 +76,47 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [3536890](https://pubmed.ncbi.nlm.nih.gov/3536890/) | 1986 | Klinische Studie (Schlaf-EEG, Kombinationspräparat) | The Journal of Clinical Psychiatry | Doppelblinder, randomisierter Vergleich von Limbitrol (Chlordiazepoxid plus Amitriptylin) mit Amitriptylin allein. Die Symptome besserten sich unter Limbitrol schneller. Bei den Schlaflabor-Parametern und den Schlafstadien 1 bis 4 gab es keine Unterschiede. |
-| [7595266](https://pubmed.ncbi.nlm.nih.gov/7595266/) | 1995 | Übersicht | The Journal of Family Practice | Nutzen und Risiko von Benzodiazepinen bei Insomnie bei selbstständig lebenden älteren Menschen. Zehn Studien zum Nutzen, keine Studien zur Langzeitwirksamkeit. |
-| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Übersicht | Acta Psychiatrica Scandinavica, Suppl. | Ältere Menschen reagieren stärker auf Benzodiazepine, was sich nicht durch Krankheiten oder Plasmaspiegel erklären lässt. |
-| [4365779](https://pubmed.ncbi.nlm.nih.gov/4365779/) | 1974 | Vergleichsstudie | The British Journal of Psychiatry | Vergleich der schlafanstossenden Wirkung von Chlordiazepoxid und Amobarbital (kein Abstract verfügbar). |
-| [22521806](https://pubmed.ncbi.nlm.nih.gov/22521806/) | 2013 | Übersicht | European Psychiatry | Kritische Neubewertung der Rolle von Benzodiazepinen in der Psychiatrie. |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Übersicht | Expert Opinion on Drug Metabolism & Toxicology | Pharmakokinetik von Anxiolytika. |
-| [4628683](https://pubmed.ncbi.nlm.nih.gov/4628683/) | 1972 | Klinische Studie (Angst, aktiver Vergleich) | Current Therapeutic Research | Wirksamkeit von Molindon und Chlordiazepoxid bei ängstlichen ambulanten Patienten (kein Abstract verfügbar). |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Übersichtsarbeit | Expert Opinion on Drug Metabolism & Toxicology | Überblick über die Pharmakokinetik angstlösender Arzneimittel; keine Daten zur Schlaflosigkeit |
+| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Übersichtsarbeit | Acta Psychiatrica Scandinavica, Supplementum | Ältere Menschen sprechen auf Benzodiazepin-Schlafmittel stärker an, unabhängig von Erkrankungen oder Plasmaspiegeln |
+| [30680986](https://pubmed.ncbi.nlm.nih.gov/30680986/) | 2019 | Querschnittsstudie | Medicinski Glasnik | Häufigkeit potenziell ungeeigneter Arzneimittel bei älteren Menschen im Iran (Beers-Kriterien) |
+| [4628683](https://pubmed.ncbi.nlm.nih.gov/4628683/) | 1972 | Klinische Studie | Current Therapeutic Research | Vergleich von Molindon und Chlordiazepoxid bei ängstlichen ambulanten Patienten; kein Schlafbezug |
+| [14085195](https://pubmed.ncbi.nlm.nih.gov/14085195/) | 1963 | Klinische Studie | Acta Psychiatrica Scandinavica | Behandlung von Angstneurosen mit einem Librium-Abbauprodukt; kein Schlafbezug |
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 33354 | Limbitrol, Hartkapsel | Synthetika | Antidepressivum |
-| 28275 | Librax, Filmtabletten | Synthetika | Spasmolytikum |
-| 41495 | Librocol, überzogene Tabletten | Synthetika | Spasmolytikum |
+| Zulassungsnummer | Produktname | Darreichungsform |
+|---------|------|------|
+| 33354 | Limbitrol, Hartkapsel | Synthetika |
+| 28275 | Librax, Filmtabletten | Synthetika |
+| 41495 | Librocol, compresse rivestite | Synthetika |
 
 ---
 
 ### Sicherheitshinweise
 
-- **Kontraindikationen (aus dem Wissensgraphen, nicht aus der Fachinformation):** Der Wissensgraph verknüpft Chlordiazepoxid unter anderem mit folgenden Erkrankungen: Epilepsie, Leber- und Nierenerkrankungen, Porphyrie, Engwinkel-/Offenwinkelglaukom, Psychosen, Schilddrüsenunterfunktion, Long-QT-Syndrom/Torsades de pointes, Bluthochdruck, orthostatische Hypotonie, Magengeschwür, Gallenblasenerkrankungen und systemischer Lupus erythematodes. Diese Angaben müssen anhand der Fachinformation überprüft werden.
-- **Arzneimittelwechselwirkungen:** Insgesamt 104 Wechselwirkungen erfasst. Als schwerwiegend (Major) eingestuft sind Morphin und liposomales Morphin. Mittelschwer (Moderate) sind unter anderem Bupropion, Omeprazol, Cimetidin, Clarithromycin, Dronabinol, Metoclopramid, Nabilon, Opium, Sibutramin und Teduglutid. Gering (Minor) sind Antazida wie Aluminiumhydroxid, Calciumcarbonat und Magnesiumsalze.
-- **Weitere Hinweise aus der Literatur:** Abhängigkeits- und Toleranzrisiko, Sturz- und Kognitionsrisiko sowie Sedierung am Folgetag, besonders bei älteren Menschen.
+- **Arzneimittelwechselwirkungen**: Insgesamt sind 104 Wechselwirkungen erfasst. Besonders wichtig sind:
+  - **Schwerwiegend**: Morphin, Morphin (liposomal)
+  - **Mittelschwer**: Bupropion, Omeprazol, Cimetidin, Clarithromycin, Dronabinol, Metoclopramid, Nabilon, Opium, Sibutramin, Teduglutid
+  - **Gering**: Aluminiumhydroxid, Calciumcarbonat und verschiedene Magnesiumpräparate
+- **Hinweis aus der Literatur**: Bei älteren Menschen sind Benzodiazepine als Schlafmittel wegen Tagessedierung, Abhängigkeit, Toleranz, Gedächtnisstörungen und Sturzrisiko problematisch.
+
+Angaben zu Warnungen und Kontraindikationen aus der Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Mechanismus ist plausibel und die Benzodiazepinklasse ist bei Insomnie etabliert. Für Chlordiazepoxid selbst fehlen aber aktuelle kontrollierte Studien, und das Risikoprofil (lange Halbwertszeit, Abhängigkeit, Risiken bei älteren Menschen) spricht gegen eine bevorzugte Anwendung.
+- Der Vorhersagewert ist sehr hoch, aber keine der gefundenen Arbeiten untersucht Chlordiazepoxid bei Schlaflosigkeit. Dazu kommen die bekannten Risiken (lange Wirkdauer, Abhängigkeit, Sturzgefahr), und Chlordiazepoxid ist nicht als bevorzugtes Schlafmittel etabliert.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformationen (Warnhinweise und Kontraindikationen fehlen bisher; dies blockiert die Sicherheitsprüfung)
-- Ergänzung des Wirkmechanismus aus DrugBank
-- Vergleich mit etablierten Schlafmitteln und Benzodiazepinen mit kürzerer Halbwertszeit
-- Prüfung, ob ein Nutzen bei Insomnie mit begleitender Angst oder Depression (Limbitrol) belegbar ist
-- Nutzen-Risiko-Bewertung für ältere Patientinnen und Patienten
+- Kontrollierte Studien zu Chlordiazepoxid bei Schlaflosigkeit, mit Vergleich zu etablierten Schlafmitteln
+- Angaben zum Wirkmechanismus und die Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
+- Eine Nutzen-Risiko-Bewertung für ältere Patientinnen und Patienten
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

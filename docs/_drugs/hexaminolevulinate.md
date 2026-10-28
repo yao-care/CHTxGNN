@@ -50,10 +50,10 @@ Hexaminolevulinat wird in der Schweiz als Diagnostikum für die Fluoreszenz-Zyst
 |------|------|
 | Ursprüngliche Indikation | Diagnostikum zur Fluoreszenz-Zystoskopie |
 | Vorhergesagte neue Indikation | Bronchitis |
-| TxGNN-Vorhersagewert | 99,06 % |
+| TxGNN-Vorhersagewert | 0,9906 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Marketed (im Handel) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -64,7 +64,7 @@ Die Plausibilität ist aktuell gering. Der ursprüngliche Wirkmechanismus liegt 
 
 Zwischen der ursprünglichen Anwendung (Darstellung von Blasentumoren) und Bronchitis (entzündliche oder infektiöse Erkrankung der Atemwege) lässt sich aus den vorliegenden Daten keine sinnvolle Verbindung herleiten. Denkbar wäre allenfalls ein photodynamischer antimikrobieller Effekt. Das ist jedoch spekulativ, durch keine Daten gestützt und für ein in die Blase eingebrachtes Diagnostikum kaum praktikabel.
 
-Der hohe Vorhersagewert allein ist kein Beleg. Er kann auf Artefakten im zugrunde liegenden Wissensgraphen beruhen.
+Der hohe Vorhersagewert allein ist kein Beleg. Der Wert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, nicht biologische Evidenz.
 
 ---
 

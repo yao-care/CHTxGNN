@@ -4,7 +4,7 @@ title: Chlorthalidone
 parent: Nur Modellvorhersage (L5)
 nav_order: 33
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Chlorthalidone: vorhergesagte neue Indikation Primäres hereditäres Glaukom (Evidenzstufe L5). Ursprüngliche Indikation: Diuretikum, Antihypertensivum, Hypertonie"
 monitor_inn: "chlorthalidone"
@@ -14,7 +14,7 @@ predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "m
 # Chlorthalidone
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Chlortalidon: Von Hypertonie zu primärem hereditärem Glaukom
+## Chlortalidon: Von Hypertonie zu Primäres hereditäres Glaukom
 {: .text-alpha }
 
 ---
@@ -50,9 +50,9 @@ Chlortalidon ist in der Schweiz als Diuretikum und Antihypertensivum zur Behandl
 |------|------|
 | Ursprüngliche Indikation | Diuretikum, Antihypertensivum, Hypertonie |
 | Vorhergesagte neue Indikation | Primäres hereditäres Glaukom |
-| TxGNN-Vorhersagewert | 99,92 % |
+| TxGNN-Vorhersagewert | 0,9992 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
 | Anzahl Zulassungen | 5 |
 | Empfohlene Entscheidung | Abwarten |
 

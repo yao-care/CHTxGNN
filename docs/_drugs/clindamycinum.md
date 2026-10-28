@@ -8,6 +8,7 @@ drugbank_id: DB01190
 evidence_level: L5
 permalink: /drugs/clindamycinum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # CLINDAMYCINUM

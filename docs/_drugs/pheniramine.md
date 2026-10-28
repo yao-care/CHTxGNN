@@ -4,17 +4,17 @@ title: Pheniramine
 parent: Nur Modellvorhersage (L5)
 nav_order: 71
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-13
-description: "Pheniramine: vorhergesagte neue Indikation Allergische Urtikaria (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
+description: "Pheniramine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
 monitor_inn: "pheniramine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Pheniramine
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Pheniramin: Von Erkältungskrankheiten zu allergischer Urtikaria
+## Pheniramin: Von Erkältungskrankheiten zu Erkrankung der Nasenhöhle
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Pheniramin ist ein Antihistaminikum der ersten Generation und wird in der Schwei
 |------|------|
 | Ursprüngliche Indikation | Symptomatische Behandlung bei Erkältungskrankheiten |
 | Vorhergesagte neue Indikation | Allergische Urtikaria |
-| TxGNN-Vorhersagewert | 99,7 % |
-| Evidenzniveau | L4 (nur Mechanismusbegründung, keine Wirksamkeitsstudien) |
-| Marktstatus Schweiz | Marktzugelassen (Marketed) |
-| Anzahl Zulassungen | 4 |
+| TxGNN-Vorhersagewert | 0,9928 |
+| Evidenzniveau | L5 (nur Mechanismusbegründung, keine Wirksamkeitsstudien) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

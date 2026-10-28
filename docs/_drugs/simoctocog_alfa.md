@@ -4,7 +4,7 @@ title: Simoctocog Alfa
 parent: Nur Modellvorhersage (L5)
 nav_order: 85
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Simoctocog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Krankheit (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A"
 monitor_inn: "simoctocog alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 # Simoctocog Alfa
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Simoctocog alfa (Nuwiq) ist ein rekombinanter humaner Faktor VIII (B-Domäne del
 |------|------|
 | Ursprüngliche Indikation | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A |
 | Vorhergesagte neue Indikation | Pseudo-von-Willebrand-Krankheit |
-| TxGNN-Vorhersagewert | 99,997 % |
+| TxGNN-Vorhersagewert | 1,0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Marktzugelassen (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

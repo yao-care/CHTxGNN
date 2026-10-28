@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Sulfamethoxazol: Von Infektionskrankheiten zu akuter ansteckender Bindehautentzündung
+## Sulfamethoxazol: Akute ansteckende Bindehautentzündung
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Sulfamethoxazol ist ein Sulfonamid-Antibiotikum, das in der Schweiz allgemein be
 |------|------|
 | Ursprüngliche Indikation | Infektionskrankheiten |
 | Vorhergesagte neue Indikation | Akute ansteckende Bindehautentzündung (acute contagious conjunctivitis) |
-| TxGNN-Vorhersagewert | 99,6 % |
+| TxGNN-Vorhersagewert | 0,9963 |
 | Evidenzniveau | L5 (nur Modellvorhersage; die einzige Publikation ist eine Beobachtungsstudie zu Erregern und Resistenzmustern, kein Wirksamkeitsnachweis für Sulfamethoxazol) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 4 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

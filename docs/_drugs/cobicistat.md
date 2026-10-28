@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-13
-description: "Cobicistat: vorhergesagte neue Indikation Felines erworbenes Immundefizienzsyndrom (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 monitor_inn: "cobicistat"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Cobicistat: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
 # Cobicistat
@@ -33,90 +33,75 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Cobicistat: Von HIV-Infektion zu felinem erworbenem Immundefizienzsyndrom
+## Cobicistat: CYP3A-Inhibitor (pharmakokinetischer Booster) → felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
-## Zusammenfassung
+### Zusammenfassung
 
-Cobicistat wird in der Schweiz als pharmakokinetischer Verstärker (Booster) in HIV-Kombinationspräparaten zur Behandlung der HIV-Infektion eingesetzt. Das Modell sagt eine Wirksamkeit bei der felinen Immundefizienz (Katzen-AIDS) voraus. Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Cobicistat wird in der Schweiz als pharmakokinetischer Verstärker in HIV-Kombinationspräparaten eingesetzt. Für das vorhergesagte Anwendungsgebiet, das feline erworbene Immunschwächesyndrom (feline acquired immunodeficiency syndrome), gibt es im Rahmen der zusammengestellten Daten keine klinischen Studien und keine Literatur. Die Vorhersage beruht allein auf einem Modellwert und hat daher das Evidenzniveau L5.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | HIV-Infektion |
-| Vorhergesagte neue Indikation | Felines erworbenes Immundefizienzsyndrom |
-| TxGNN-Vorhersagewert | 99,92 % |
+| Ursprüngliche Indikation | HIV-Infektion; HIV-Infektionen |
+| Vorhergesagte neue Indikation | Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) |
+| TxGNN-Vorhersagewert | 0,9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 3 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Cobicistat hemmt das Leberenzym CYP3A über einen mechanismusbasierten Weg und besitzt selbst keine antiretrovirale Wirkung. Es verstärkt die Wirkung anderer Medikamente, etwa von Proteasehemmern oder Integrasehemmern wie Elvitegravir und Darunavir. Die Daten zum ursprünglichen Wirkmechanismus waren in den für diesen Bericht zusammengestellten Daten nicht enthalten.
+Cobicistat hemmt das Enzym CYP3A über einen mechanismusbasierten Weg. Es besitzt keine eigene antiretrovirale Wirkung. Es dient dazu, den Abbau gleichzeitig verabreichter antiretroviraler Wirkstoffe zu verlangsamen und deren Blutspiegel zu erhöhen. Die detaillierten Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
 
-Das feline Immundefizienzvirus gehört wie HIV zu den Lentiviren. Der hohe Vorhersagewert spiegelt daher wahrscheinlich die Nähe der beiden Krankheiten im Wissensgraphen wider und keine eigenständige pharmakologische Begründung.
+Das feline Immundefizienzvirus gehört wie HIV zu den Lentiviren. Der hohe Vorhersagewert spiegelt wahrscheinlich diese Nähe zu HIV-bezogenen Krankheitsbildern wider und keine eigenständige pharmakologische Begründung.
 
-Denkbar wäre allenfalls der Einsatz als Booster für ein gleichzeitig verabreichtes antivirales Mittel bei Katzen. Dafür wären artspezifische Daten zu Pharmakokinetik und Sicherheit nötig. Es handelt sich zudem um eine veterinärmedizinische Indikation ausserhalb der humanmedizinischen Umwidmung.
-
-Weitere Vorhersagen mit gleich hohem Wert betreffen die Infektion mit dem Simianen Immundefizienzvirus (SIV, ein Tiermodell für HIV-Forschung) sowie eine seltene neurologische Entwicklungsstörung. Für Letztere ist kein plausibler Wirkmechanismus erkennbar, der Wert könnte ein Artefakt des Modells sein.
+Denkbar wäre allenfalls ein Einsatz als Verstärker eines zusätzlichen antiviralen Wirkstoffs bei Katzen. Dafür wären artspezifische Daten zu Pharmakokinetik und Sicherheit nötig. Es handelt sich zudem um eine tiermedizinische Anwendung, die ausserhalb des Rahmens der humanen Arzneimittel-Umwidmung liegt.
 
 ---
 
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
-
----
-
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 65793 | Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Filmtabletten | HIV-Infektion |
-| 66779 | Symtuza, Filmtabletten | Filmtabletten | HIV-Infektion |
-| 62673 | Stribild, Filmtabletten | Filmtabletten | HIV-Infektion |
+| 65793 | Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetika | HIV-Infektion |
+| 66779 | Symtuza, Filmtabletten | Synthetika | HIV-Infektion |
+| 62673 | Stribild, Filmtabletten | Synthetika | HIV-Infektionen |
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-- **Arzneimittelwechselwirkungen**: Insgesamt sind 420 Wechselwirkungen erfasst. Als schwerwiegend (Major) eingestuft sind unter anderem:
+- **Arzneimittelwechselwirkungen**: Insgesamt sind 420 Wechselwirkungen verzeichnet. Als schwerwiegend (Major) eingestuft sind unter anderem:
   - Loperamid
   - Triamcinolon
   - Cisaprid
   - Budesonid
-  
-  Mässig (Moderate) sind unter anderem Hydrocortison, Aprepitant, Betamethason, Clotrimazol, Dexamethason, Metoclopramid, Repaglinid und Clarithromycin. Als geringfügig (Minor) ist Prucalopirid eingestuft.
 
-Warnungen und Kontraindikationen der Fachinformation lagen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+  Mittelschwer (Moderate) sind unter anderem Hydrocortison, Aprepitant, Betamethason, Clotrimazol, Dexamethason, Metoclopramid, Repaglinid und Clarithromycin.
+
+Für Warnhinweise und Kontraindikationen bitte die Fachinformation beachten.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich nur auf das Modell, es gibt keine Studien und keine Literatur. Zudem ist Cobicistat selbst nicht antiviral wirksam, und die Indikation ist veterinärmedizinisch bzw. ein Tiermodell.
-- Die Sicherheitsprüfung kann ohne die Fachinformation nicht fortgesetzt werden.
+- Es liegen weder klinische Studien noch Literatur zu dieser Indikation vor, und der hohe Vorhersagewert beruht vermutlich auf der Verwandtschaft der Viren. Zudem handelt es sich um eine tiermedizinische Anwendung ausserhalb des humanen Umwidmungsrahmens.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation (Download und Auswertung des PDF)
-- Angaben zum Wirkmechanismus aus DrugBank
-- Artspezifische Daten zu Pharmakokinetik und Sicherheit bei Katzen bzw. präklinische Daten im SIV-Modell
-- Klärung, ob veterinärmedizinische Indikationen im Umfang dieser Umwidmungsbewertung liegen
+- Artspezifische Daten zu Pharmakokinetik und Sicherheit bei Katzen
+- Präklinische oder klinische Studien zur Wirkung bei felinem Immundefizienzvirus
+- Klärung, ob eine tiermedizinische Fragestellung im Rahmen dieser Bewertung überhaupt verfolgt werden soll
+- Sicherheitsangaben aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

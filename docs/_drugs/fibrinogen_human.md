@@ -48,10 +48,10 @@ Humanes Fibrinogen wird in der Schweiz zur Behandlung von angeborenem und erworb
 |------|------|
 | Ursprüngliche Indikation | Angeborene Hypo- oder Afibrinogenämie mit Blutungsneigung; primärer Fibrinogenmangel; erworbene Hypofibrinogenämie (schwere Leberparenchymschäden); Hämostase und Gewebeklebung in der Chirurgie |
 | Vorhergesagte neue Indikation | Hämoglobinopathie |
-| TxGNN-Vorhersagewert | 99,1 % |
+| TxGNN-Vorhersagewert | 0,9912 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 6 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

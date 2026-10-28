@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Formaldehyd: Von entzündlichen, nässenden und juckenden Hauterkrankungen zu diffuser kutaner Leishmaniose
+## Formaldehyd: Diffuse kutane Leishmaniose
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Formaldehyd (Handelsname Tannosynt flüssig) wird in der Schweiz zur Behandlung 
 |------|------|
 | Ursprüngliche Indikation | Entzündliche, nässende und juckende Hauterkrankungen; Diagnose von Allergien |
 | Vorhergesagte neue Indikation | Diffuse kutane Leishmaniose |
-| TxGNN-Vorhersagewert | 99,93 % |
+| TxGNN-Vorhersagewert | 0,9993 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

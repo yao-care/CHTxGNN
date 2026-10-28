@@ -48,10 +48,10 @@ Lonoctocog alfa (Afstyla) ist ein rekombinanter Einzelketten-Faktor-VIII und wir
 |------|------|
 | Ursprüngliche Indikation | Behandlung und Prophylaxe von Blutungen bei vorbehandelten Patienten mit Hämophilie A (Faktor-VIII-Mangel) |
 | Vorhergesagte neue Indikation | Pseudo-von-Willebrand-Krankheit |
-| TxGNN-Vorhersagewert | 99,85 % |
+| TxGNN-Vorhersagewert | 0,9985 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -70,9 +70,9 @@ Die folgenden Vorhersagen wurden ebenfalls geprüft. Alle haben das Evidenznivea
 
 | Rang | Erkrankung | TxGNN-Wert | Einschätzung |
 |------|------|------|------|
-| 2 | Primäre Plättchen-Freisetzungsstörung | 99,84 % | Lonoctocog alfa wirkt in der sekundären Hämostase und korrigiert die Plättchenfunktion nicht. Ein Nutzen wäre bestenfalls indirekt. |
-| 3 | Glanzmann-Thrombasthenie | 99,76 % | Der Defekt liegt im Integrin GPIIb/IIIa, die Faktor-VIII-Spiegel sind normal. Die mechanistische Begründung ist schwach, der hohe Wert spiegelt wohl die Nähe von Blutungserkrankungen im Netzwerk wider. |
-| 4 | Scott-Syndrom | 99,44 % | Limitierend ist die fehlende prokoagulatorische Membranoberfläche (Defekt von TMEM16F/ANO6), nicht die Faktor-VIII-Menge. Zusätzlicher Faktor VIII dürfte den Defekt kaum ausgleichen. |
+| 2 | Primäre Plättchen-Freisetzungsstörung | 0,9984 | Lonoctocog alfa wirkt in der sekundären Hämostase und korrigiert die Plättchenfunktion nicht. Ein Nutzen wäre bestenfalls indirekt. |
+| 3 | Glanzmann-Thrombasthenie | 0,9976 | Der Defekt liegt im Integrin GPIIb/IIIa, die Faktor-VIII-Spiegel sind normal. Die mechanistische Begründung ist schwach, der hohe Wert spiegelt wohl die Nähe von Blutungserkrankungen im Netzwerk wider. |
+| 4 | Scott-Syndrom | 0,9944 | Limitierend ist die fehlende prokoagulatorische Membranoberfläche (Defekt von TMEM16F/ANO6), nicht die Faktor-VIII-Menge. Zusätzlicher Faktor VIII dürfte den Defekt kaum ausgleichen. |
 
 ---
 

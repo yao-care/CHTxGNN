@@ -50,9 +50,9 @@ Tyrosin wird in der Schweiz als Bestandteil von Aminosäurelösungen für die pa
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung (auch für Erwachsene); Peritonealdialyselösung |
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9977 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | 9 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -62,7 +62,7 @@ Tyrosin wird in der Schweiz als Bestandteil von Aminosäurelösungen für die pa
 
 Zum Wirkmechanismus von Tyrosin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Tyrosin ist eine Aminosäure und dient als Vorstufe von Katecholaminen (z. B. Dopamin) sowie von Schilddrüsenhormonen. In den hier verwendeten Präparaten ist es ein Nährstoffbestandteil und kein gezielt wirkender Arzneistoff.
 
-Eine Verbindung zwischen der ursprünglichen Anwendung (Ernährungsunterstützung) und dem Cauda-equina-Syndrom, einer kompressionsbedingten neurologischen Erkrankung, ist in den Daten nicht belegt. Der sehr hohe Vorhersagewert von 99,8 % ist ein rein rechnerisches Ergebnis. Er ersetzt keinen biologischen oder klinischen Nachweis, und die Plausibilität bleibt deshalb gering.
+Eine Verbindung zwischen der ursprünglichen Anwendung (Ernährungsunterstützung) und dem Cauda-equina-Syndrom, einer kompressionsbedingten neurologischen Erkrankung, ist in den Daten nicht belegt. Der sehr hohe Vorhersagewert von 0,9977 ist ein rein rechnerisches Ergebnis. Er ersetzt keinen biologischen oder klinischen Nachweis, und die Plausibilität bleibt deshalb gering.
 
 ---
 

@@ -50,10 +50,10 @@ Centella asiatica ist in der Schweiz als homöopathisches Arzneimittel (Dercut, 
 |------|------|
 | Ursprüngliche Indikation | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen |
 | Vorhergesagte neue Indikation | Schlaflosigkeit (Insomnie) |
-| TxGNN-Vorhersagewert | 99,94 % |
+| TxGNN-Vorhersagewert | 0,9994 |
 | Evidenzniveau | L5 (nur Modellvorhersage und eine präklinische Studie, keine Studien am Menschen) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

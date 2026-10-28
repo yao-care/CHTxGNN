@@ -50,10 +50,10 @@ Chloramphenicol ist in der Schweiz als Augentropfen (in Kombination mit Dexameth
 |------|------|
 | Ursprüngliche Indikation | Augeninfektionen (Infections oculaires) |
 | Vorhergesagte neue Indikation | Konjunktivitis (Bindehautentzündung) |
-| TxGNN-Vorhersagewert | 99,7 % |
+| TxGNN-Vorhersagewert | 0,9966 |
 | Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

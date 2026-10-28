@@ -50,10 +50,10 @@ Amylmetacresol wird in der Schweiz als Lutschtablette (Strepsils) bei Entzündun
 |------|------|
 | Ursprüngliche Indikation | Entzündungen des Mund- und Rachenraumes |
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom |
-| TxGNN-Vorhersagewert | 99,99 % |
+| TxGNN-Vorhersagewert | 0,9999 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 2 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

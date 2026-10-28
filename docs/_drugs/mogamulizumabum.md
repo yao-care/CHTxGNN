@@ -8,6 +8,7 @@ drugbank_id: DB12498
 evidence_level: L5
 permalink: /drugs/mogamulizumabum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # MOGAMULIZUMABUM

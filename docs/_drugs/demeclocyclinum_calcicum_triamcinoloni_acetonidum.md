@@ -8,6 +8,7 @@ drugbank_id: DB00618
 evidence_level: L5
 permalink: /drugs/demeclocyclinum_calcicum_triamcinoloni_acetonidum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # DEMECLOCYCLINUM CALCICUM, TRIAMCINOLONI ACETONIDUM

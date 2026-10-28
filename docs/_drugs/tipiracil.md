@@ -50,10 +50,10 @@ Tipiracil wird in fester Kombination mit Trifluridin (Lonsurf) bei metastasierte
 |------|------|
 | Ursprüngliche Indikation | Metastasiertes kolorektales Karzinom, metastasiertes Magenkarzinom |
 | Vorhergesagte neue Indikation | Zäkum-Zottenadenom (cecum villous adenoma) |
-| TxGNN-Vorhersagewert | 99,99 % |
+| TxGNN-Vorhersagewert | 0,9999 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Tipiracil wird in fester Kombination mit Trifluridin (Lonsurf) bei metastasierte
 
 Tipiracil hemmt die Thymidinphosphorylase. In Lonsurf schützt es den Kombinationspartner Trifluridin, einen zytotoxischen Nukleosidanalogon-Wirkstoff, vor dem raschen Abbau. Zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor.
 
-Die ursprüngliche Indikation (kolorektales und gastrisches Karzinom) und das vorhergesagte Zottenadenom liegen im selben Organ. Das Adenom gilt als Vorstufe des Kolonkarzinoms. Ein plausibler Mechanismus lässt sich daraus aber nicht ableiten: Ein gutartiges Adenom ist kein sinnvolles Ziel für eine zytotoxische Therapie bei fortgeschrittener Erkrankung. Der hohe Vorhersagewert beruht wahrscheinlich auf der Nähe der Krankheitsbegriffe im Wissensgraphen, nicht auf einem biologischen Zusammenhang.
+Die ursprüngliche Indikation (kolorektales und gastrisches Karzinom) und das vorhergesagte Zottenadenom liegen im selben Organ. Das Adenom gilt als Vorstufe des Kolonkarzinoms. Ein plausibler Mechanismus lässt sich daraus aber nicht ableiten: Ein gutartiges Adenom ist kein sinnvolles Ziel für eine zytotoxische Therapie bei fortgeschrittener Erkrankung. Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Krankheiten gelernt hat, nicht biologische Evidenz.
 
 Auch die übrigen Top-10-Vorhersagen betreffen überwiegend gutartige Kolonläsionen (z. B. Lipom, Leiomyom, Lymphangiom, Hämangiom) oder Begriffe, die bereits unter die bestehende Indikation fallen (z. B. Neoplasie am rektosigmoidalen Übergang). Für keine davon liegt Evidenz vor.
 

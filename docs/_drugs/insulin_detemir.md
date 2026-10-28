@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Insulin Detemir
-parent: Hohe Evidenz (L1-L2)
+parent: Nur Modellvorhersage (L5)
 nav_order: 57
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Insulin Detemir: vorhergesagte neue Indikation Typ-1-Diabetes mellitus (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus"
+description: "Insulin Detemir: vorhergesagte neue Indikation autoimmune Oophoritis (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus"
 monitor_inn: "insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-r
 # Insulin Detemir
 {: .fs-9 }
 
-Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10**
 
 </div>
 
-## Insulin detemir: Von Diabetes mellitus zu Typ-1-Diabetes mellitus
+## Insulin detemir: Autoimmune Oophoritis
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Insulin detemir ist ein lang wirkendes Basalinsulin, das in der Schweiz zur Beha
 |------|------|
 | Ursprüngliche Indikation | Diabetes mellitus |
 | Vorhergesagte neue Indikation | Typ-1-Diabetes mellitus |
-| TxGNN-Vorhersagewert | 99,8 % |
-| Evidenzniveau | L1 |
-| Marktstatus Schweiz | Marktüblich (zugelassen und im Handel) |
-| Anzahl Zulassungen | 2 |
+| TxGNN-Vorhersagewert | 0,9967 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

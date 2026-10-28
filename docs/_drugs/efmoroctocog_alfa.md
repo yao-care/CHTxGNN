@@ -4,7 +4,7 @@ title: Efmoroctocog Alfa
 parent: Nur Modellvorhersage (L5)
 nav_order: 43
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Efmoroctocog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei…"
 monitor_inn: "efmoroctocog alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 # Efmoroctocog Alfa
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Efmoroctocog alfa ist ein rekombinanter Faktor-VIII-Fc-Fusionsproteinwirkstoff, 
 |------|------|
 | Ursprüngliche Indikation | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A |
 | Vorhergesagte neue Indikation | Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease) |
-| TxGNN-Vorhersagewert | 99,997 % |
+| TxGNN-Vorhersagewert | 1,0000 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -72,15 +72,14 @@ Die weiteren Vorhersagen sind überwiegend mechanistisch nicht gestützt, da die
 
 | Rang | Vorhergesagte Indikation | TxGNN-Wert | Evidenz | Einschätzung |
 |---|---|---|---|---|
-| 2 | Primäre Thrombozyten-Freisetzungsstörung | 99,997 % | L5 | Thrombozytärer Funktionsdefekt; kein plausibler Mechanismus |
-| 3 | Glanzmann-Thrombasthenie | 99,995 % | L5 | Defekt des Integrins αIIbβ3; Faktor VIII nicht limitierend |
-| 4 | Scott-Syndrom | 99,969 % | L5 | Fehlende prokoagulatorische Oberfläche; Faktor-VIII-Gabe stellt diese nicht wieder her |
-| 5 | Erworbener Gerinnungsfaktormangel | 99,952 % | L5 | Mechanistisch plausibelste Option, aber heterogen; bei erworbener Hämophilie neutralisieren Autoantikörper den Faktor VIII |
-| 6 | Blutungsneigung durch Kollagenrezeptor-Defekt | 99,921 % | L5 | Thrombozyten-intrinsischer Defekt; keine Grundlage |
-| 7 | Blutungsstörung bei konstitutioneller Thrombozytopenie | 99,917 % | L5 | Ursache sind Thrombozytenzahl oder -funktion |
-| 8 | Fetale und neonatale alloimmune Thrombozytopenie | 99,845 % | L5 | Faktor VIII spielt keine Rolle in der Pathophysiologie |
-| 9 | Hämophilie A mit Gefässanomalie | 99,779 % | L4 | Eng mit der Zulassung verwandt; nur der Faktor-VIII-Anteil wäre behandelbar, die genaue Krankheitsdefinition ist zu klären |
-| 10 | Thrombotisch-thrombozytopenische Purpura | 99,724 % | L5 | Möglicherweise Sicherheitsrisiko (erhöhte Thromboseneigung), kein plausibler Nutzen |
+| 2 | Primäre Thrombozyten-Freisetzungsstörung | 1,0000 | L5 | Thrombozytärer Funktionsdefekt; kein plausibler Mechanismus |
+| 3 | Glanzmann-Thrombasthenie | 1,0000 | L5 | Defekt des Integrins αIIbβ3; Faktor VIII nicht limitierend |
+| 4 | Scott-Syndrom | 0,9997 | L5 | Fehlende prokoagulatorische Oberfläche; Faktor-VIII-Gabe stellt diese nicht wieder her |
+| 5 | Erworbener Gerinnungsfaktormangel | 0,9995 | L5 | Mechanistisch plausibelste Option, aber heterogen; bei erworbener Hämophilie neutralisieren Autoantikörper den Faktor VIII |
+| 6 | Blutungsneigung durch Kollagenrezeptor-Defekt | 0,9992 | L5 | Thrombozyten-intrinsischer Defekt; keine Grundlage |
+| 7 | Blutungsstörung bei konstitutioneller Thrombozytopenie | 0,9992 | L5 | Ursache sind Thrombozytenzahl oder -funktion |
+| 8 | Fetale und neonatale alloimmune Thrombozytopenie | 0,9984 | L5 | Faktor VIII spielt keine Rolle in der Pathophysiologie |
+| 10 | Thrombotisch-thrombozytopenische Purpura | 0,9972 | L5 | Möglicherweise Sicherheitsrisiko (erhöhte Thromboseneigung), kein plausibler Nutzen |
 
 ---
 

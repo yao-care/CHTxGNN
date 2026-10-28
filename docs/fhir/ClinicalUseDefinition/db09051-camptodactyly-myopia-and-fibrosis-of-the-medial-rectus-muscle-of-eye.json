@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db09051-camptodactyly-myopia-and-fibrosis-of-the-medial-rectus-muscle-of-eye",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db09051"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9909
+    }
+  ]
+}

@@ -50,9 +50,9 @@ Tryptophan wird in der Schweiz als Aminosäure-Bestandteil von Infusionslösunge
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung |
 | Vorhergesagte neue Indikation | Restless-Legs-Syndrom |
-| TxGNN-Vorhersagewert | 99,7 % |
+| TxGNN-Vorhersagewert | 0,9972 |
 | Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
 | Anzahl Zulassungen | 8 |
 | Empfohlene Entscheidung | Abwarten |
 

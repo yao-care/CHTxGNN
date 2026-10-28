@@ -4,17 +4,17 @@ title: Glycine
 parent: Nur Modellvorhersage (L5)
 nav_order: 53
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-13
 description: "Glycine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "glycine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Glycine
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Glycin: Von parenteraler Ernährung zu Erkrankungen der Nasenhöhle
+## Glycin: Erkrankung der Nasenhöhle
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -46,9 +46,9 @@ Glycin wird in der Schweiz als Bestandteil von Aminosäurelösungen für die par
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung |
 | Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9985 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
 | Anzahl Zulassungen | 8 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -58,7 +58,7 @@ Glycin wird in der Schweiz als Bestandteil von Aminosäurelösungen für die par
 
 Ein direkter Zusammenhang zwischen Glycin und Erkrankungen der Nasenhöhle lässt sich anhand der vorliegenden Daten nicht belegen. Der ursprüngliche Wirkmechanismus ist in den zusammengestellten Daten nicht angegeben. Glycin ist bekanntermassen eine Aminosäure mit allgemeiner Ernährungsfunktion und ein hemmender Neurotransmitter.
 
-Die Beziehung zwischen der ursprünglichen Indikation (Ernährung, Dialyse) und der vorhergesagten Indikation (Nasenhöhle) ist nicht erkennbar. Der hohe Vorhersagewert von 99,8 % ist ein rein rechnerisches Ergebnis des Wissensgraphen und kein Beleg für eine Wirksamkeit. Ob der Mechanismus auf die Nasenhöhle übertragbar wäre, kann auf dieser Datengrundlage nicht beurteilt werden.
+Die Beziehung zwischen der ursprünglichen Indikation (Ernährung, Dialyse) und der vorhergesagten Indikation (Nasenhöhle) ist nicht erkennbar. Der hohe Vorhersagewert von 0,9985 stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat, und stellt keinen biologischen Beleg für eine Wirksamkeit dar. Ob der Mechanismus auf die Nasenhöhle übertragbar wäre, kann auf dieser Datengrundlage nicht beurteilt werden.
 
 ---
 

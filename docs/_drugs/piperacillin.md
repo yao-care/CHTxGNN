@@ -4,17 +4,17 @@ title: Piperacillin
 parent: Nur Modellvorhersage (L5)
 nav_order: 75
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-13
 description: "Piperacillin: vorhergesagte neue Indikation Rheumatoide Arthritis (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 monitor_inn: "piperacillin"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "osteoarthritis susceptibility", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
 ---
 
 # Piperacillin
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Piperacillin: Von Infektionskrankheiten zu rheumatoider Arthritis
+## Piperacillin: Von Infektionskrankheiten zu Rheumatoide Arthritis
 {: .text-alpha }
 
 ---
@@ -50,10 +50,10 @@ Piperacillin ist ein Beta-Laktam-Antibiotikum, das in der Schweiz zur Behandlung
 |------|------|
 | Ursprüngliche Indikation | Infektionskrankheiten |
 | Vorhergesagte neue Indikation | Rheumatoide Arthritis |
-| TxGNN-Vorhersagewert | 99,94 % |
+| TxGNN-Vorhersagewert | 0,9994 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Piperacillin ist ein Beta-Laktam-Antibiotikum, das in der Schweiz zur Behandlung
 
 Der Wirkmechanismus von Piperacillin ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Allgemein bekannt ist, dass Piperacillin als Beta-Laktam-Antibiotikum die Zellwandsynthese von Bakterien hemmt.
 
-Ein plausibler Wirkmechanismus für rheumatoide Arthritis, eine Autoimmunerkrankung der Gelenke, ist daraus nicht ableitbar. Der hohe Vorhersagewert (rund 99,9 %) ist ein reines Ergebnis des Wissensgraphen und kein Hinweis auf eine tatsächliche Wirksamkeit.
+Ein plausibler Wirkmechanismus für rheumatoide Arthritis, eine Autoimmunerkrankung der Gelenke, ist daraus nicht ableitbar. Der hohe Vorhersagewert (0.9994) stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat. Er ist kein biologischer Beleg und kein Hinweis auf eine tatsächliche Wirksamkeit.
 
 Die gefundene Literatur beschreibt rheumatoide Arthritis lediglich als Begleiterkrankung der Patienten, etwa bei Methotrexat-Toxizität, Infektionen unter Immunsuppression oder Nebenwirkungen von Antibiotika. In keiner Publikation wird Piperacillin als Behandlung der rheumatoiden Arthritis untersucht.
 

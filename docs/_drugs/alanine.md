@@ -6,7 +6,7 @@ nav_order: 11
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
-description: "Alanine: vorhergesagte neue Indikation Gastroparese (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
+description: "Alanin: vorhergesagte neue Indikation Gastroparese (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]
 ---
@@ -50,9 +50,9 @@ Alanin ist eine nicht-essenzielle Aminosäure. Sie wird in der Schweiz zur paren
 |------|------|
 | Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung |
 | Vorhergesagte neue Indikation | Gastroparese |
-| TxGNN-Vorhersagewert | 99,4 % |
+| TxGNN-Vorhersagewert | 0,9937 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
 | Anzahl Zulassungen | 8 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -62,7 +62,7 @@ Alanin ist eine nicht-essenzielle Aminosäure. Sie wird in der Schweiz zur paren
 
 Ein belastbarer Wirkmechanismus ist für diesen Bericht nicht verfügbar. Alanin dient in Infusions- und Dialyselösungen als Baustein der Aminosäureversorgung. Eine pharmakologische Wirkung auf die Magenmotilität ist nicht belegt.
 
-Der hohe Vorhersagewert wirkt eher wie ein Artefakt des Wissensgraphen als wie ein pharmakologisch begründetes Signal. Die gefundenen Publikationen behandeln Magen-Darm- und Leberprobleme bei terminaler Niereninsuffizienz, die diabetische Hepatosklerose und die Glykogen-Hepatopathie bei Typ-1-Diabetes. Gastroparese kommt dort nur als Begleiterkrankung vor. Ein möglicher Zusammenhang über diabetesassoziierte Stoffwechsel- oder Leberstörungen wäre rein spekulativ und durch keine Daten gestützt.
+Der hohe Vorhersagewert wirkt eher wie ein Artefakt des TxGNN-Modells (Deep Learning) als wie ein pharmakologisch begründetes Signal. Die gefundenen Publikationen behandeln Magen-Darm- und Leberprobleme bei terminaler Niereninsuffizienz, die diabetische Hepatosklerose und die Glykogen-Hepatopathie bei Typ-1-Diabetes. Gastroparese kommt dort nur als Begleiterkrankung vor. Ein möglicher Zusammenhang über diabetesassoziierte Stoffwechsel- oder Leberstörungen wäre rein spekulativ und durch keine Daten gestützt.
 
 ---
 
@@ -115,7 +115,7 @@ Bitte beachten Sie zusätzlich die Fachinformation für Sicherheitsinformationen
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe Vorhersagewert (99,4 %) stützt sich auf keine klinischen Studien und keine direkte Literatur (Evidenzniveau L5). Ein plausibler Mechanismus fehlt.
+- Der hohe Vorhersagewert (0,9937) stützt sich auf keine klinischen Studien und keine direkte Literatur (Evidenzniveau L5). Ein plausibler Mechanismus fehlt.
 - Die Sicherheitsprüfung kann nicht abgeschlossen werden, weil die Warnhinweise und Kontraindikationen aus der Fachinformation fehlen.
 
 **Um fortzufahren, wird Folgendes benötigt:**

@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-13
-description: "Histidine: vorhergesagte neue Indikation Gastroparese (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
+last_modified_at: 2026-10-27
+description: "Histidine: vorhergesagte neue Indikation Gastroparese (gastroparesis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 
 # Histidine
@@ -33,14 +33,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Histidin: Von parenteraler Ernährung zu Gastroparese
+## Histidin: Aminosäure zur parenteralen Ernährung → Gastroparese (gastroparesis)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Histidin ist eine Aminosäure, die in der Schweiz als Bestandteil von Infusionslösungen zur parenteralen Ernährung sowie in einer Peritonealdialyselösung zugelassen ist. Das Modell TxGNN sagt eine mögliche Wirksamkeit bei Gastroparese voraus, mit einem sehr hohen Vorhersagewert. Diese Vorhersage beruht jedoch ausschliesslich auf einer Modellrechnung: Es gibt keine klinischen Studien, und die einzige gefundene Publikation untersucht Histidin nicht.
+Histidin ist eine Aminosäure, die in der Schweiz in Infusionslösungen zur parenteralen Ernährung und in einer Peritonealdialyselösung enthalten ist. Für die Gastroparese (gastroparesis) liefert das Vorhersagemodell einen sehr hohen Wert. Die Evidenz ist jedoch minimal: Es gibt keine klinischen Studien, und die einzige gefundene Publikation untersucht Histidin nicht.
 
 ---
 
@@ -48,27 +46,23 @@ Histidin ist eine Aminosäure, die in der Schweiz als Bestandteil von Infusionsl
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung |
-| Vorhergesagte neue Indikation | Gastroparese |
-| TxGNN-Vorhersagewert | 99,6 % |
-| Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 8 |
+| Ursprüngliche Indikation | Parenterale Ernährung; Peritonealdialyselösung; Parenterale Ernährung für Erwachsene |
+| Vorhergesagte neue Indikation | Gastroparese (gastroparesis) |
+| TxGNN-Vorhersagewert | 0,9955 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der ursprüngliche Wirkmechanismus von Histidin ist in den vorliegenden Daten nicht angegeben, was die mechanistische Bewertung einschränkt. Histidin ist eine essenzielle Aminosäure und dient als Ausgangsstoff für Histamin. Histamin kann die Magensäuresekretion und möglicherweise die Magenmotilität beeinflussen.
+Der Wirkmechanismus von Histidin ist in den vorliegenden Daten nicht beschrieben, was die mechanistische Bewertung stark einschränkt.
 
-Dieser Zusammenhang ist jedoch spekulativ. Die einzige gefundene Publikation (PMID 42668409) beschreibt Amyloid-Ablagerungen und den Verlust der Nervenversorgung der Magenschleimhaut bei hereditärer ATTR-Amyloidose. Sie testet kein Histidin und stützt keinen histidinspezifischen Mechanismus bei Gastroparese. Der hohe Vorhersagewert sollte daher nicht als klinischer Hinweis auf Wirksamkeit verstanden werden.
+Histidin ist eine Vorstufe von Histamin, das die Magensäuresekretion und möglicherweise die Magenbeweglichkeit beeinflusst. Dieser Zusammenhang ist jedoch spekulativ und wird durch die vorliegenden Daten nicht gestützt.
 
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Die einzige gefundene Publikation befasst sich mit Amyloid-Veränderungen im Magen und dem Verlust der Schleimhautinnervation bei hereditärer ATTR-Amyloidose. Sie prüft weder Histidin noch die Gastroparese als Behandlungsziel. Die Vorhersage ist daher rein rechnerisch.
 
 ---
 
@@ -76,11 +70,13 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [42668409](https://pubmed.ncbi.nlm.nih.gov/42668409/) | 2026 | Kohorte/präklinisch (Patienten und Mausmodell) | Amyloid | Untersucht Amyloid-Ablagerungen im Magen und den Verlust der Nervenversorgung der Schleimhaut bei hereditärer ATTR-Amyloidose mit Polyneuropathie. Histidin wurde nicht getestet. |
+| [42668409](https://pubmed.ncbi.nlm.nih.gov/42668409/) | 2026 | Kohorte/präklinisch (Patienten und Mausmodell) | Amyloid | Untersucht Amyloid-Ablagerungen im Magen und den Verlust der Schleimhautinnervation bei hereditärer ATTR-Amyloidose mit Polyneuropathie. Histidin wurde nicht getestet. |
 
 ---
 
 ### Marktinformationen Schweiz
+
+Die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -97,15 +93,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Sicherheitshinweise
 
-Die Fachinformation lieferte keine auswertbaren Warnungen oder Kontraindikationen. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-Ergänzend nennt der Wissensgraph (keine Angaben aus der Fachinformation) mögliche Krankheitsbilder, bei denen Vorsicht geboten sein könnte:
-- **Nieren:** Nierenerkrankung, chronische Niereninsuffizienz, terminales Nierenversagen, Nephrolithiasis, Nephrokalzinose, akute Uratnephropathie
-- **Herz-Kreislauf:** Herzerkrankung, Herz-Kreislauf-Erkrankung, Kammerflimmern, Digitalisvergiftung
-- **Stoffwechsel:** Phenylketonurie und andere Störungen des Phenylalaninstoffwechsels, Störungen des Phosphorstoffwechsels, Hyperkalzämie (einschliesslich humoraler Hyperkalzämie bei Malignomen), Sarkoidose
-- **Sonstige:** Pyoureter
-
-Zu Arzneimittelwechselwirkungen liegen keine Daten vor.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -114,14 +102,13 @@ Zu Arzneimittelwechselwirkungen liegen keine Daten vor.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage für Gastroparese beruht allein auf einem Rechenmodell (L5). Es gibt keine klinischen Studien, und die einzige Publikation untersucht Histidin nicht.
-- Der Wirkmechanismus ist nicht dokumentiert, und die Fachinformation lieferte keine Sicherheitsdaten. Die Sicherheitsprüfung kann daher nicht fortgesetzt werden.
+- Der Vorhersagewert ist hoch, aber es gibt keine klinischen Studien und keine Publikation, die Histidin bei Gastroparese untersucht. Die Evidenz bleibt auf Modellvorhersage beschränkt (L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation von Swissmedic (Warnungen, Kontraindikationen) herunterladen und auswerten.
-- Den Wirkmechanismus aus DrugBank ergänzen.
-- Präklinische oder klinische Daten zu Histidin bei Gastroparese, einschliesslich der Rolle von Histamin in der Magenmotilität.
-- Prüfung der Darreichungsform und des Applikationswegs (bisher nur Infusionen).
+- Beschreibung des Wirkmechanismus von Histidin
+- Präklinische oder klinische Daten zu Histidin bei Gastroparese
+- Auswertung der Sicherheitsinformationen aus der Fachinformation (Warnungen, Kontraindikationen)
+- Prüfung der Anwendungswege, da die bestehenden Präparate Infusionslösungen sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -8,6 +8,7 @@ drugbank_id: DB00591
 evidence_level: L5
 permalink: /drugs/fluocinoloni_acetonidum_neomycinum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # FLUOCINOLONI ACETONIDUM, NEOMYCINUM

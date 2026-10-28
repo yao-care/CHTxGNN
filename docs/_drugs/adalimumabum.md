@@ -8,6 +8,7 @@ drugbank_id: DB00051
 evidence_level: L5
 permalink: /drugs/adalimumabum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # ADALIMUMABUM

@@ -4,17 +4,17 @@ title: Clioquinol
 parent: Nur Modellvorhersage (L5)
 nav_order: 36
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-13
-description: "Clioquinol: vorhergesagte neue Indikation Kutane Candidiasis (Evidenzstufe L5). Ursprüngliche Indikation: Diagnose von Allergien"
+indication_count: 2
 monitor_inn: "clioquinol"
-predicted_indications: ["Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease"]
+predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
+last_modified_at: 2026-10-27
+description: "Clioquinol: vorhergesagte neue Indikation Ektothrix-Infektionskrankheit (ectothrix infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Diagnose von Allergien"
 ---
 
 # Clioquinol
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,79 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Clioquinol: Von Allergiediagnostik zu kutaner Candidiasis
+## Clioquinol: Antimikrobieller Wirkstoff (halogeniertes Hydroxychinolin) → Ektothrix-Infektionskrankheit (ectothrix infectious disease)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Clioquinol ist in der Schweiz als Bestandteil eines Pflaster-Testsystems (True Test) zur Diagnose von Allergien zugelassen. Das Berechnungsmodell sagt voraus, dass es bei kutaner Candidiasis und weiteren oberflächlichen Pilzinfektionen der Haut wirken könnte. Diese Vorhersage beruht ausschliesslich auf einer Modellberechnung: Für die Hauptvorhersage liegen weder klinische Studien noch Literatur vor.
+Clioquinol ist in der Schweiz als Diagnostikum in einem Pflaster zugelassen. Die Vorhersage nennt als neue Anwendung die Ektothrix-Infektionskrankheit (ectothrix infectious disease), eine Pilzinfektion des Haarschafts. Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf einem Rechenmodell.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Diagnose von Allergien |
-| Vorhergesagte neue Indikation | Kutane Candidiasis |
-| TxGNN-Vorhersagewert | 99,8 % |
-| Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Vorhergesagte neue Indikation | Ektothrix-Infektionskrankheit (ectothrix infectious disease) |
+| TxGNN-Vorhersagewert | 0,9926 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus des Arzneimittels liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Clioquinol ist jedoch ein halogeniertes Hydroxychinolin. Aus der Fachliteratur ist bekannt, dass solche Substanzen über die Bindung von Metallionen (Zink, Kupfer, Eisen) antimykotisch und antibakteriell wirken können, indem sie pilzeigene Enzyme stören. Dies ist gegen Candida-Arten biologisch denkbar.
+Der Wirkmechanismus von Clioquinol ist in den vorliegenden Daten nicht erfasst. Aus allgemeinem Wissen ist Clioquinol ein halogeniertes Hydroxychinolin mit antipilzlicher und antibakterieller Wirkung, das Metallionen bindet.
 
-Die ursprüngliche Indikation (Allergiediagnostik im Epikutantest) hat mit der vorhergesagten Indikation (Pilzinfektion der Haut) therapeutisch wenig gemeinsam. Die Verbindung besteht vor allem darin, dass Clioquinol auf der Haut angewendet wird. Eine frühere therapeutische Anwendung auf der Haut ist in den vorliegenden Daten nicht belegt und zählt daher nicht als Evidenz.
+Bei der Ektothrix-Infektion bilden Dermatophyten Sporen auf der Aussenseite des Haarschafts. Eine antimykotische Wirkung gegen Dermatophyten wäre ein denkbarer Zusammenhang. Dieser Schluss ist jedoch eine Annahme und wird durch die vorliegenden Daten nicht belegt.
 
-Auch für die weiteren vorhergesagten Erkrankungen (Majocchi-Granulom, Ektothrix- und Endothrix-Infektionen, Dermatophytose der Kopfhaut/des Bartes, Tinea profunda, oberflächliche Mykose) stützt sich die Begründung auf die allgemeine antimykotische Wirkung. Bei tiefen oder follikulären Infektionen ist zudem fraglich, ob ein topisch angewendeter Wirkstoff ausreichend eindringt; hier sind üblicherweise systemische Antimykotika Standard. Die identischen Werte bei Majocchi-Granulom und Ektothrix-Infektion deuten auf eine gemeinsame graphbasierte Ableitung statt auf indikationsspezifische Evidenz hin.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Es gibt zudem Einschränkungen: Haarschaftinfektionen erfordern in der Regel eine systemische Behandlung, weil lokal aufgetragene Wirkstoffe schlecht in den Haarfollikel gelangen. Eine systemische Anwendung von Clioquinol wird durch die bekannte Neurotoxizität (subakute myelo-optische Neuropathie) erschwert. Auch die Routen-Kompatibilität ist noch nicht geprüft.
 
 ---
 
-## Literaturbelege
+### Klinische Studien
 
-Für die Hauptvorhersage (kutane Candidiasis) ist derzeit keine verwandte Literatur verfügbar. Für die oberflächliche Mykose (Rang 5, Vorhersagewert 99,2 %) liegt eine Publikation vor:
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [33772895](https://pubmed.ncbi.nlm.nih.gov/33772895/) | 2021 | Präklinische Kombinationsstudie (aus dem Titel abgeleitet, Volltext nicht geprüft) | Mycoses | Untersuchung von Wirkung und Toxizität von Clioquinol in Kombination mit Ciclopirox und Terbinafin in alternativen Modellen der Dermatophytose. Frühere Arbeiten der Gruppe sehen Clioquinol als mögliche Alternative bei Dermatophytose. Der Abstract ist unvollständig, konkrete Ergebnisse sind daher nicht beurteilbar. |
-
-Diese Studie ist nur indirekte, präklinische Evidenz. Sie stützt eine Forschungsfrage zur Kombinationstherapie, aber keine klinische Anwendung.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Marktinformationen Schweiz
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
+
+---
+
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 56688 | True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien |
 
-Hersteller: Stallergenes AG.
+---
+
+### Sicherheitshinweise
+
+Aus den zusammengestellten Daten liegen keine Warnungen oder Kontraindikationen aus der Fachinformation vor. Wechselwirkungsdaten wurden nicht gefunden; das kann auch auf fehlende Daten zurückgehen und bedeutet nicht zwingend, dass keine Wechselwirkungen bestehen.
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Sicherheitshinweise
-
-- **Kontraindikationen aus dem Wissensgraphen** (aus Beziehungen im TxGNN-Wissensgraphen, nicht aus der Fachinformation): Nebennierenrindeninsuffizienz, Morbus Addison, Hautatrophie, Teleangiektasien, Kapillarerkrankungen, hereditäre hämorrhagische Teleangiektasie, periphere Gefässerkrankung, Claudicatio intermittens und periphere arterielle Verschlusskrankheit.
-- Für Arzneimittelwechselwirkungen wurden keine Einträge gefunden.
-
-Warnhinweise und Kontraindikationen der Schweizer Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage zur kutanen Candidiasis ist rein rechnerisch (L5) und hat keine Studien- oder Literaturbasis. Für die oberflächliche Mykose gibt es lediglich eine präklinische Studie (L4).
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und der Wissensgraph nennt mehrere hautbezogene und gefässbezogene Kontraindikationen. Die Zulassung betrifft zudem nur ein Diagnostikum, nicht eine therapeutische Anwendung.
+- Der hohe Vorhersagewert (0,9926) stützt sich allein auf ein Rechenmodell, es gibt keine Studien oder Publikationen (Evidenzniveau L5). Zudem sprechen die schlechte Follikelpenetration lokaler Wirkstoffe und die bekannte Neurotoxizität bei systemischer Anwendung gegen einen einfachen Einsatz.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen) herunterladen und auswerten
-- Wirkmechanismus aus DrugBank ergänzen
-- Systematische Literatursuche zu Clioquinol bei Candidiasis und Dermatophytosen, inklusive früherer topischer Anwendungen
-- Prüfung der Verträglichkeit und Hautdurchdringung einer therapeutischen topischen Formulierung
-- Bei positivem Ergebnis: präklinische bzw. frühe klinische Studien, zunächst für die oberflächlichen Indikationen (kutane Candidiasis, oberflächliche Mykose) statt für tiefe oder follikuläre Infektionen
+- Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Fachinformation von Swissmedic
+- Der Wirkmechanismus aus DrugBank
+- Präklinische oder klinische Daten zur antimykotischen Wirkung gegen Dermatophyten bei Haarschaftinfektionen
+- Prüfung, ob eine geeignete Darreichungsform und Anwendungsroute für diese Indikation möglich ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

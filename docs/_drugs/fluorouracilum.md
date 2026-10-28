@@ -8,6 +8,7 @@ drugbank_id: DB00544
 evidence_level: L5
 permalink: /drugs/fluorouracilum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # FLUOROURACILUM

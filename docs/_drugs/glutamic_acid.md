@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 52
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-13
-description: "Glutamic Acid: vorhergesagte neue Indikation Postmenopausale Osteoporose (Evidenzstufe L5). Ursprüngliche Indikation: Tonikum"
 monitor_inn: "glutamic acid"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Glutamic Acid: vorhergesagte neue Indikation postmenopausale Osteoporose (postmenopausal osteoporosis) (Evidenzstufe L5). Ursprüngliche Indikation: Tonique"
 ---
 
 # Glutamic Acid
@@ -33,68 +33,68 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Glutaminsäure: Von Tonikum und parenteraler Ernährung zu postmenopausaler Osteoporose
+## Glutaminsäure: Aminosäure, Vorläufer von Glutamat → postmenopausale Osteoporose (postmenopausal osteoporosis)
 {: .text-alpha }
 
-## Zusammenfassung
+### Zusammenfassung
 
-Glutaminsäure wird in der Schweiz als Tonikum und als Bestandteil von Infusionslösungen zur parenteralen Ernährung eingesetzt. Die Vorhersage lautet, dass sie bei postmenopausaler Osteoporose wirksam sein könnte. Diese Vorhersage beruht allein auf einem Modell. Es gibt keine registrierten klinischen Studien, und die Literatur ist überwiegend indirekt (Vitamin D3/K2, Polyglutaminsäure, Tierversuch).
+Glutaminsäure ist eine körpereigene Aminosäure, die in der Schweiz als Tonikum und in Präparaten zur parenteralen Ernährung zugelassen ist. Die Vorhersage lautet, dass sie bei postmenopausaler Osteoporose (postmenopausal osteoporosis) wirksam sein könnte. Dafür liegt bisher nur sehr indirekte Evidenz vor: keine klinischen Studien und keine Studie, die freie Glutaminsäure bei dieser Erkrankung beim Menschen untersucht.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Tonikum; parenterale Ernährung |
-| Vorhergesagte neue Indikation | Postmenopausale Osteoporose |
-| TxGNN-Vorhersagewert | 99,3 % |
-| Evidenzniveau | L4 (nur präklinische bzw. indirekte Hinweise, keine direkten Humanstudien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 7 |
+| Ursprüngliche Indikation | Tonique; Parenterale Ernährung; parenterale Ernährung |
+| Vorhergesagte neue Indikation | postmenopausale Osteoporose (postmenopausal osteoporosis) |
+| TxGNN-Vorhersagewert | 0,9934 |
+| Evidenzniveau | L5 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Glutaminsäure liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Daher kann der Mechanismus hier nicht im Detail analysiert werden.
+Zum Wirkmechanismus von Glutaminsäure liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist allgemein, dass sie ein Baustein von Proteinen ist und als Neurotransmitter bzw. Vorläufer der γ-Aminobuttersäure dient.
 
-Ein möglicher Zusammenhang besteht über den Knochenstoffwechsel. In der Literatur wird beschrieben, dass Vitamin K Glutaminsäurereste in Knochenproteinen (z. B. Osteocalcin) in γ-Carboxyglutaminsäure umwandelt. Dieser Vorgang betrifft jedoch Glutaminsäurereste in Proteinen und belegt keine Wirkung von freier Glutaminsäure als Arzneimittel.
+Die Literatur stellt mehrere indirekte Verbindungen zum Knochenstoffwechsel her. Glutaminsäurereste in Knochenproteinen werden durch Vitamin K2 γ-carboxyliert, was für Osteocalcin wichtig ist. Das betrifft jedoch Vitamin K und nicht die Gabe von Glutaminsäure selbst. Eine Mausstudie an ovariektomierten Tieren (PMID 26144993) deutet darauf hin, dass Glutaminsäure Symptome des Östrogenmangels lindern könnte. Eine kleine Humanstudie mit Poly-γ-Glutaminsäure, einem Polymer und nicht der freien Aminosäure, untersuchte die Calciumaufnahme bei Frauen nach der Menopause.
 
-Die beiden am ehesten relevanten Arbeiten sind ein Mausversuch und eine kleine Humanstudie. In ovariektomierten Mäusen linderte Glutaminsäure menopausenähnliche Symptome. Poly-γ-Glutaminsäure, ein Polymer und nicht die freie Aminosäure, beeinflusste akut die Calciumaufnahme bei postmenopausalen Frauen. Ein Nutzen von freier Glutaminsäure beim Menschen ist damit nicht gezeigt.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
+Eine plausible Hypothese ist, dass Glutamat oder seine Polymerderivate die Calciumaufnahme und den Knochenstoffwechsel beeinflussen. Für freie Glutaminsäure beim Menschen ist dies nicht gezeigt. Der hohe Vorhersagewert ist daher als Forschungsfrage zu verstehen, nicht als Wirksamkeitsnachweis.
 
 ---
 
-## Literaturbelege
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Keine der Publikationen untersucht freie Glutaminsäure bei postmenopausaler Osteoporose beim Menschen.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [19172219](https://pubmed.ncbi.nlm.nih.gov/19172219/) | 2009 | Randomisierte offene Studie (109 Patientinnen) | Journal of Bone and Mineral Metabolism | Menatetrenon (Vitamin K2) erhöhte über 6 Monate die γ-Carboxylierung von Osteocalcin bei postmenopausaler Osteoporose. Indirekt, keine Glutaminsäure. |
-| [18187428](https://pubmed.ncbi.nlm.nih.gov/18187428/) | 2007 | Kleine physiologische Humanstudie | Journal of the American College of Nutrition | Poly-γ-Glutaminsäure (Polymer) untersuchte die akute Wirkung auf die Calciumaufnahme bei postmenopausalen Frauen. Nicht freie Glutaminsäure. |
-| [26144993](https://pubmed.ncbi.nlm.nih.gov/26144993/) | 2015 | Tierstudie (ovariektomierte Mäuse) | Nutrition Research | Glutaminsäure linderte östrogenmangelbedingte menopausenähnliche Symptome. |
-| [14529146](https://pubmed.ncbi.nlm.nih.gov/14529146/) | 2003 | Klinische Studie/Übersicht | Keio Journal of Medicine | Vitamin D3 und/oder K2 bei postmenopausaler Osteoporose. Indirekt. |
-| [14584089](https://pubmed.ncbi.nlm.nih.gov/14584089/) | 2003 | Klinische Studie/Übersicht | Yonsei Medical Journal | Kombination aus Vitamin K2 und Bisphosphonat bei Osteoporose. Indirekt. |
-| [34529430](https://pubmed.ncbi.nlm.nih.gov/34529430/) | 2021 | Präklinisch | Nano Letters | Knochenzielende Polymerbläschen (mit Glutaminsäure-Bausteinen) für die Abgabe von Östradiol. Indirekt. |
-| [29437025](https://pubmed.ncbi.nlm.nih.gov/29437025/) | 2018 | Genetische Assoziationsstudie | Endocrine, Metabolic & Immune Disorders Drug Targets | Zusammenhang des VKORC1-Polymorphismus mit Osteoporose bei postmenopausalen Frauen. Indirekt. |
-| [40950804](https://pubmed.ncbi.nlm.nih.gov/40950804/) | 2025 | Kohorte/Metabolomik | Journal of Diabetes and Metabolic Disorders | Aminosäureprofile, Alter und Sexualhormone bei älteren Personen im Iran. Indirekt. |
-| [18414001](https://pubmed.ncbi.nlm.nih.gov/18414001/) | 2008 | Genetische Studie | Molecules and Cells | SLC22A11-Polymorphismen bei koreanischen Frauen mit Osteoporose. Indirekt. |
-| [39698319](https://pubmed.ncbi.nlm.nih.gov/39698319/) | 2024 | Präklinisch | Frontiers in Cellular and Infection Microbiology | Pflanzliche Salbe und Darmmikrobiom-Knochen-Achse bei postmenopausaler Osteoporose. Indirekt. |
+| [26144993](https://pubmed.ncbi.nlm.nih.gov/26144993/) | 2015 | Tierstudie (ovariektomierte Mäuse) | Nutrition Research | Glutaminsäure linderte durch Östrogenmangel bedingte menopausenähnliche Symptome. |
+| [18187428](https://pubmed.ncbi.nlm.nih.gov/18187428/) | 2007 | Kleine physiologische Humanstudie | Journal of the American College of Nutrition | Akuter Effekt von Poly-γ-Glutaminsäure (nicht freie Glutaminsäure) auf die Calciumaufnahme bei Frauen nach der Menopause. |
+| [19172219](https://pubmed.ncbi.nlm.nih.gov/19172219/) | 2009 | Randomisierte offene Studie (Vitamin K2) | Journal of Bone and Mineral Metabolism | Menatetrenon steigerte die γ-Carboxylierung von Osteocalcin bei 109 Patientinnen; indirekt, da Vitamin K2 geprüft wurde. |
+| [14529146](https://pubmed.ncbi.nlm.nih.gov/14529146/) | 2003 | Übersicht (Vitamin D3/K2) | The Keio Journal of Medicine | Behandlung mit Vitamin D3 und/oder K2 bei postmenopausaler Osteoporose; indirekt. |
+| [14584089](https://pubmed.ncbi.nlm.nih.gov/14584089/) | 2003 | Übersicht (Vitamin K2 + Bisphosphonat) | Yonsei Medical Journal | Kombination von Vitamin K2 und Bisphosphonaten bei Osteoporose; indirekt. |
+| [34529430](https://pubmed.ncbi.nlm.nih.gov/34529430/) | 2021 | Präklinisch | Nano Letters | Knochenzielgerichtete Polymervesikel (mit Glutaminsäure-Bausteinen) zur Abgabe von Östradiol; indirekt. |
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
+
+Die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 20550 | Veractiv Tonoglutal, Filmtabletten | Synthetika | Tonikum |
-| 65450 | Aminoplasmal B. Braun 10 %, Infusionslösung | Synthetika | Parenterale Ernährung |
+| 65450 | Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung |
 | 65726 | Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung |
 | 59377 | OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung |
 | 42847 | Nutriflex special, Infusionslösung | Synthetika | Parenterale Ernährung |
@@ -103,36 +103,26 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-- **Krankheiten mit möglicher Kontraindikation (aus dem Wissensgraphen, nicht aus der Fachinformation):**
-  - Nieren: Nierenerkrankung, chronische Niereninsuffizienz, terminales Nierenversagen, Nephrolithiasis, Nephrokalzinose, akute Uratnephropathie
-  - Calcium- und Phosphorstoffwechsel: Hyperkalzämie, humorale Hyperkalzämie bei Malignomen, Hyperparathyreoidismus, Osteitis fibrosa, Sarkoidose, Phosphorstoffwechselstörung
-  - Herz: Herzerkrankung, Herz-Kreislauf-Erkrankung, Digitalisvergiftung, Kammerflimmern
-  - Stoffwechsel: Phenylketonurie und Störungen des Phenylalaninstoffwechsels
-  - Weitere: Pyoureter
-- **Arzneimittelwechselwirkungen (5, jeweils Schweregrad mässig):** Amphetamin, Benzphetamin, Dextroamphetamin, Lisdexamfetamin, Metamfetamin.
+- **Arzneimittelwechselwirkungen** (mittlere Stufe): Amphetamin, Benzphetamin, Dextroamphetamin, Lisdexamfetamin, Metamfetamin.
 
-Angaben aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen) liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-Bei der vorhergesagten Indikation ist zudem zu beachten, dass mehrere der genannten Erkrankungen (Hyperkalzämie, Nierensteine, Niereninsuffizienz) bei älteren postmenopausalen Frauen häufig vorkommen.
+Angaben aus der Fachinformation zu Warnungen und Kontraindikationen liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe TxGNN-Wert (99,3 %) stützt sich auf keine direkte Evidenz. Es gibt keine klinischen Studien, und die Literatur betrifft überwiegend Vitamin K, Polyglutaminsäure und Tiermodelle, nicht freie Glutaminsäure beim Menschen.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und der Wirkmechanismus ist nicht dokumentiert. Zudem nennt der Wissensgraph mehrere relevante Kontraindikationen (u. a. Nierenerkrankungen, Störungen des Calciumstoffwechsels).
+- Der Vorhersagewert ist hoch, doch es gibt keine registrierten Studien und keine direkte Humanevidenz für Glutaminsäure bei postmenopausaler Osteoporose. Die Literatur betrifft überwiegend Vitamin K, Polymere oder Genetik.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic herunterladen und auswerten (Warnhinweise, Kontraindikationen)
-- Wirkmechanismus aus DrugBank ergänzen
-- Gezielte Literaturrecherche zu freier Glutaminsäure und Knochenstoffwechsel beim Menschen
-- Präklinische Bestätigung (Knochendichte, Calciumaufnahme) und anschliessend gegebenenfalls eine kontrollierte klinische Pilotstudie
-- Sicherheitsbewertung bei Nieren- und Calciumstoffwechselstörungen
+- Die Fachinformation (Warnungen, Kontraindikationen) von Swissmedic, da die Sicherheitsprüfung sonst nicht möglich ist
+- Angaben zum Wirkmechanismus aus DrugBank
+- Präklinische und klinische Studien mit freier Glutaminsäure zu Knochendichte und Calciumaufnahme
+- Eine Abklärung, ob Dosierung und Darreichungsform für diese Indikation geeignet wären
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

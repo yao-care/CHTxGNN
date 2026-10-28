@@ -4,17 +4,17 @@ title: Camphor
 parent: Nur Modellvorhersage (L5)
 nav_order: 27
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-13
 description: "Camphor: vorhergesagte neue Indikation Migräne (migraine disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens b…"
 monitor_inn: "camphor"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 ---
 
 # Camphor
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Campher wird in der Schweiz als homöopathisches Arzneimittel (Korolind, Tropfen
 |------|------|
 | Ursprüngliche Indikation | Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens bei Herz-Kreislauf-Störungen |
 | Vorhergesagte neue Indikation | Migräne (migraine disorder) |
-| TxGNN-Vorhersagewert | 99,85 % |
-| Evidenzniveau | L4 (präklinische bzw. Mechanismusstudien) |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| TxGNN-Vorhersagewert | 0,9985 |
+| Evidenzniveau | L5 (präklinische bzw. Mechanismusstudien) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

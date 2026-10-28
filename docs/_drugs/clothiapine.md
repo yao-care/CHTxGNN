@@ -6,7 +6,7 @@ nav_order: 37
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
-description: "Clothiapine: vorhergesagte neue Indikation Insomnie (Evidenzstufe L5). Ursprüngliche Indikation: Neurolepticum"
+description: "Clothiapine: vorhergesagte neue Indikation Schlaflosigkeit (Insomnie) (Evidenzstufe L5). Ursprüngliche Indikation: Neurolepticum"
 monitor_inn: "clothiapine"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Clothiapin: Von Neurolepticum zu Insomnie
+## Clothiapin: Von Neurolepticum zu Schlaflosigkeit (Insomnie)
 {: .text-alpha }
 
 ## Zusammenfassung
@@ -48,10 +48,10 @@ Clothiapin wird in der Schweiz als Neurolepticum (Antipsychotikum) eingesetzt. E
 |------|------|
 | Ursprüngliche Indikation | Neurolepticum |
 | Vorhergesagte neue Indikation | Insomnie |
-| TxGNN-Vorhersagewert | 99,8 % |
+| TxGNN-Vorhersagewert | 0,9984 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -62,7 +62,7 @@ Der Wirkmechanismus von Clothiapin ist in den für diesen Bericht zusammengestel
 
 Clothiapin ist ein trizyklisches Antipsychotikum aus der Klasse der Dibenzothiazepine. Bei verwandten Substanzen wie Quetiapin wird die beruhigende Wirkung auf die Blockade von Histamin-H1- und Serotonin-5-HT2A-Rezeptoren zurückgeführt. Es ist denkbar, dass Clothiapin ähnlich wirkt und dadurch schlafanstossend sein könnte. Das ist jedoch eine Annahme aus dem Wissen über die Wirkstoffklasse und durch die vorliegenden Daten nicht belegt.
 
-Der sehr hohe TxGNN-Wert (99,8 %) ist eine rein rechnerische Vorhersage und kein klinischer Beleg.
+Der sehr hohe TxGNN-Wert (0,9984) ist eine rein rechnerische Vorhersage und kein klinischer Beleg.
 
 ---
 

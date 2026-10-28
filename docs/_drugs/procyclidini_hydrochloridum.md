@@ -8,6 +8,7 @@ drugbank_id: DB00387
 evidence_level: L5
 permalink: /drugs/procyclidini_hydrochloridum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # PROCYCLIDINI HYDROCHLORIDUM

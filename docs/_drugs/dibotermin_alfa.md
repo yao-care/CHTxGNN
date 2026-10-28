@@ -50,10 +50,10 @@ Dibotermin alfa (rekombinantes humanes BMP-2) wird in der Schweiz zur Osteosynth
 |------|------|
 | Ursprüngliche Indikation | Osteosynthese: Behandlung von Tibiafrakturen und degenerativen Bandscheibenerkrankungen bei Erwachsenen |
 | Vorhergesagte neue Indikation | Esotropie |
-| TxGNN-Vorhersagewert | 99,97 % |
+| TxGNN-Vorhersagewert | 0,9997 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Vermarktet |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

@@ -4,7 +4,7 @@ title: Talimogene Laherparepvec
 parent: Nur Modellvorhersage (L5)
 nav_order: 89
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-13
 description: "Talimogene Laherparepvec: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen"
 monitor_inn: "talimogene laherparepvec"
@@ -14,7 +14,7 @@ predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult 
 # Talimogene Laherparepvec
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Talimogen laherparepvec (Imlygic) ist in der Schweiz zur Behandlung von Melanome
 |------|------|
 | Ursprüngliche Indikation | Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen |
 | Vorhergesagte neue Indikation | CMM7 |
-| TxGNN-Vorhersagewert | 99,2 % |
+| TxGNN-Vorhersagewert | 0,9920 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (Marketed) |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -130,12 +130,6 @@ Weitere Sicherheitsinformationen (Warnungen, Kontraindikationen) liegen nicht vo
 
 | Rang | Erkrankung | TxGNN-Wert | Wichtigste Einschränkung |
 |---|---|---|---|
-| 2 | Pädiatrisches leptomeningeales Melanom | 99,1 % | Diffuse ZNS-Erkrankung; Abgabe, Neurotoxizität, Risiko einer Herpes-Enzephalitis und pädiatrische Anwendung problematisch |
-| 3 | Epitheloidzelliges Aderhautmelanom | 99,1 % | Biologisch verschieden vom kutanen Melanom; vorwiegend Lebermetastasen |
-| 4 | Plattenepithelkarzinom der Glottis | 99,1 % | Atemwegs- und Sicherheitsbedenken bei Injektion in den Kehlkopf |
-| 5 | Okkultes Plattenepithelkarzinom der Lunge | 99,1 % | Läsionen meist zu klein für intraläsionale Injektion |
-| 6 | Kloakogenes Rektumkarzinom | 99,0 % | Injektion endoskopisch oder transanal denkbar, aber ohne Belege |
-| 7 | Adenosquamöses Gallenblasenkarzinom | 99,0 % | Schwieriger Injektionsort; seltener und aggressiver Tumor |
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

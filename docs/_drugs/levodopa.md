@@ -6,7 +6,7 @@ nav_order: 61
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-13
-description: "Levodopa: vorhergesagte neue Indikation Rasmussen-Enzephalitis (subakute Enzephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson, Restless-Legs-Syndrom"
+description: "Levodopa: vorhergesagte neue Indikation subakute Rasmussen-Enzephalitis (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson, Restless-Legs-Syndrom"
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Levodopa: Von Morbus Parkinson zu Rasmussen-Enzephalitis
+## Levodopa: Von Morbus Parkinson zu subakuter Rasmussen-Enzephalitis
 {: .text-alpha }
 
 ---
@@ -50,9 +50,9 @@ Levodopa wird in der Schweiz zur Behandlung der Parkinson-Krankheit und des Rest
 |------|------|
 | Ursprüngliche Indikation | Morbus Parkinson, Restless-Legs-Syndrom; fortgeschrittene Levodopa-reaktive Parkinson-Krankheit mit schweren motorischen Fluktuationen (Duodopa) |
 | Vorhergesagte neue Indikation | Rasmussen-Enzephalitis (subakute Enzephalitis) |
-| TxGNN-Vorhersagewert | 99,1 % |
+| TxGNN-Vorhersagewert | 0,9906 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | 7 |
 | Empfohlene Entscheidung | Abwarten |
 
@@ -64,7 +64,7 @@ Levodopa ist eine Vorstufe von Dopamin und gleicht bei Parkinson den Dopaminmang
 
 Die Rasmussen-Enzephalitis ist eine seltene, meist einseitige, chronisch-entzündliche Hirnerkrankung mit schwer behandelbarer fokaler Epilepsie, fortschreitender Halbseitenlähmung und nachlassender Hirnleistung. Als Ursache gilt eine von T-Zellen vermittelte Schädigung von Nervenzellen. Ein dopaminerger Mechanismus, der beide Erkrankungen verbindet, ist nicht erkennbar.
 
-Der hohe Vorhersagewert spiegelt vermutlich gemeinsame neurologische Merkmale im Wissensgraphen wider, etwa Beteiligung der Basalganglien oder Bewegungsstörungen, und nicht einen echten therapeutischen Zusammenhang. Er sollte nicht als mechanistischer Beleg gewertet werden.
+Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und spiegelt vermutlich Ähnlichkeiten wider, die das Modell zwischen verwandten Erkrankungen gelernt hat, etwa Beteiligung der Basalganglien oder Bewegungsstörungen, und keinen biologischen Beleg oder echten therapeutischen Zusammenhang. Er sollte nicht als mechanistischer Beleg gewertet werden.
 
 ---
 

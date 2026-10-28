@@ -8,6 +8,7 @@ drugbank_id: DB00537
 evidence_level: L5
 permalink: /drugs/ciprofloxacinum/
 last_modified_at: 2026-05-03
+predicted_indications: []
 ---
 
 # CIPROFLOXACINUM

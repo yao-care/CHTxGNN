@@ -5,10 +5,10 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-13
-description: "Polatuzumab Vedotin: vorhergesagte neue Indikation HER2-positives Mammakarzinom (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 monitor_inn: "polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
+last_modified_at: 2026-10-27
+description: "Polatuzumab Vedotin: vorhergesagte neue Indikation HER2-positives Mammakarzinom (HER2 positive breast carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
 # Polatuzumab Vedotin
@@ -33,90 +33,100 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Polatuzumab vedotin: Von Onkologikum zu HER2-positivem Mammakarzinom
+## Polatuzumab vedotin: Antikörper-Wirkstoff-Konjugat (CD79b, MMAE) → HER2-positives Mammakarzinom (HER2 positive breast carcinoma)
 {: .text-alpha }
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Polatuzumab vedotin ist in der Schweiz als Onkologikum zugelassen. Laut der Modellvorhersage könnte es bei HER2-positivem Mammakarzinom wirksam sein. Diese Vorhersage beruht allein auf einem hohen Modellwert; klinische Studien oder Literatur dazu liegen nicht vor, die Evidenz ist daher sehr schwach (Niveau L5).
+Polatuzumab vedotin ist in der Schweiz als Onkologikum zugelassen. Für das HER2-positive Mammakarzinom (HER2 positive breast carcinoma) sagt das Modell eine mögliche Wirksamkeit voraus. Diese Vorhersage beruht ausschliesslich auf einer Modellberechnung, es liegen weder klinische Studien noch Publikationen vor.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Onkologikum |
-| Vorhergesagte neue Indikation | HER2-positives Mammakarzinom |
-| TxGNN-Vorhersagewert | 99,3 % |
+| Vorhergesagte neue Indikation | HER2-positives Mammakarzinom (HER2 positive breast carcinoma) |
+| TxGNN-Vorhersagewert | 0,9934 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel |
-| Anzahl Zulassungen | 1 |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Polatuzumab vedotin ist ein Antikörper-Wirkstoff-Konjugat. Es richtet sich gegen CD79b, einen Bestandteil des B-Zell-Rezeptors, und liefert den mikrotubuli-hemmenden Wirkstoff MMAE in die Zielzellen. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den zusammengestellten Daten, sodass der Mechanismus nicht unabhängig überprüft werden konnte.
+Polatuzumab vedotin ist ein Antikörper-Wirkstoff-Konjugat. Es richtet sich gegen CD79b, einen Bestandteil des B-Zell-Rezeptors, und gibt den mikrotubuli-hemmenden Wirkstoff MMAE ab. Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor, sodass der Mechanismus nicht gegengeprüft werden konnte.
 
-Ein biologischer Zusammenhang mit dem HER2-positiven Mammakarzinom ist nicht belegt. CD79b ist dort kein anerkanntes Ziel. Der hohe Vorhersagewert könnte darauf beruhen, dass MMAE (Auristatin-Wirkstoffklasse) auch in anderen Antikörper-Wirkstoff-Konjugaten verwendet wird, und nicht auf einer echten biologischen Verbindung.
+Eine biologische Verbindung zum HER2-positiven Mammakarzinom ist nicht belegt. CD79b ist in dieser Tumorart kein anerkanntes Ziel. Der hohe Vorhersagewert könnte darauf beruhen, dass MMAE (Auristatin) auch in anderen Antikörper-Wirkstoff-Konjugaten verwendet wird. Das ist eine Vermutung, kein nachgewiesener Zusammenhang.
 
-Die aktuelle Therapie des HER2-positiven Mammakarzinoms stützt sich auf HER2-gerichtete Substanzen wie Trastuzumab, Pertuzumab, Trastuzumab-Emtansin und Trastuzumab-Deruxtecan. Für eine CD79b-gerichtete Therapie in diesem Bereich wurde keine Begründung gefunden.
+Die heutige Behandlung des HER2-positiven Brustkrebses stützt sich auf HER2-gerichtete Wirkstoffe wie Trastuzumab, Pertuzumab, Trastuzumab-Emtansin und Trastuzumab-Deruxtecan. Eine Begründung für eine CD79b-gerichtete Therapie wurde nicht gefunden.
 
 ---
 
-## Marktinformationen Schweiz
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 67165 | Polivy 140 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum |
 
-Zulassungsinhaberin: Roche Pharma (Schweiz) AG.
-
 ---
 
-## Zytotoxizität
+### Zytotoxizität
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Antikörper-Wirkstoff-Konjugat mit zytotoxischer Nutzlast MMAE) |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-| Handhabungsschutz | Als zytotoxisches Arzneimittel sind spezielle Schutzmassnahmen bei Zubereitung und Handhabung üblich; Details siehe Fachinformation |
-
-Zum Myelosuppressionsrisiko und zur Emetogenität liegen in den zusammengestellten Daten keine Angaben vor.
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Antikörper-Wirkstoff-Konjugat mit zytotoxischer Last) |
+| Myelosuppressionsrisiko | Mittel bis hoch (aus der Wirkstoffklasse abgeleitet, nicht aus den vorliegenden Daten) |
+| Emetogenitätsklassifikation | Niedrig bis mittel (aus der Wirkstoffklasse abgeleitet) |
+| Überwachungspunkte | Blutbild, Leberfunktion, Nierenfunktion |
+| Handhabungsschutz | Zytostatika-Schutzmassnahmen bei Zubereitung und Verabreichung erforderlich |
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-- **Arzneimittelwechselwirkungen**: Insgesamt wurden 131 Wechselwirkungen erfasst. Die wichtigsten als schwerwiegend (Major) eingestuften sind:
+- **Arzneimittelwechselwirkungen**: Insgesamt wurden 131 Wechselwirkungen erfasst. Als schwerwiegend (Major) eingestuft sind unter anderem:
   - Clarithromycin
   - Cobicistat
-  - Deferiprone
-  - Samarium (153Sm) lexidronam
+  - Deferipron
+  - Samarium (153Sm) Lexidronam
 
-  Weitere Beispiele mit mässiger Einstufung (Moderate): Aprepitant, Cimetidine, Metronidazol, Simvastatin, Rosuvastatin, Ticagrelor, Chloroquin und Hydroxychloroquin.
+  Mässig (Moderate) eingestufte Beispiele sind Aprepitant, Cimetidin, Metronidazol, Simvastatin, Rosuvastatin, Ticagrelor und Hydroxychloroquin.
 
-Warnhinweise und Kontraindikationen aus der Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für die vollständigen Sicherheitsinformationen.
+Warnhinweise und Kontraindikationen aus der Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf einen hohen Modellwert (Evidenzniveau L5). Es gibt weder klinische Studien noch Literatur, und ein plausibler biologischer Zusammenhang zwischen CD79b und HER2-positivem Mammakarzinom fehlt.
-- Zudem fehlen die Sicherheitsangaben der Fachinformation, sodass keine Sicherheitsbeurteilung möglich ist.
+- Die Vorhersage stützt sich nur auf einen hohen Modellwert (0,9934). Es gibt keine Studien, keine Literatur und keinen plausiblen biologischen Zusammenhang, da CD79b beim HER2-positiven Mammakarzinom kein bekanntes Ziel ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic herunterladen und auswerten (Warnungen, Kontraindikationen)
-- Wirkmechanismus aus DrugBank ergänzen
-- Präklinische Daten zur CD79b-Expression oder zur MMAE-Wirkung in HER2-positiven Mammakarzinom-Modellen
-- Prüfung, ob der hohe Modellwert auf der gemeinsamen Wirkstoffklasse (Auristatin) beruht
+- Nachweis, dass CD79b oder ein anderes Ziel von Polatuzumab vedotin in HER2-positiven Brusttumoren exprimiert wird
+- Präklinische Daten zur Wirkung von Polatuzumab vedotin in HER2-positiven Brustkrebsmodellen
+- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
+- Angaben zum Wirkmechanismus aus DrugBank
+- Vergleich mit den bestehenden HER2-gerichteten Standardtherapien
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
