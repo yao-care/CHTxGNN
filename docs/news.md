@@ -17,7 +17,7 @@ Automatically tracked news coverage for the drugs and predicted indications on t
 
 ## All coverage
 
-{% assign items = site.news | sort: 'title' %}
+{% assign items = site.news | where_exp: "n", "n.layout != 'id_redirect'" | sort: 'title' %}
 {% if items.size == 0 %}
 No matching coverage yet.
 {% else %}
