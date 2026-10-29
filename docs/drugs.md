@@ -31,6 +31,11 @@ description: "Alle Arzneimittel-Validierungsberichte und Statistiken zu den Evid
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+Diese Liste basiert auf den Zulassungsdaten von [Swissmedic](https://www.swissmedic.ch/) (Schweiz).
+
+<!-- local-home:end -->
+
 ## Aufschlüsselung nach Evidenzstufe
 
 | Evidenzstufe | Arzneimittel | Beschreibung |

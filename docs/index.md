@@ -14,6 +14,31 @@ Dieses Projekt verwendet das TxGNN-Modell (Deep Learning), um potenzielle neue t
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## Schweiz: Umfang dieser Website
+
+Diese Website veröffentlicht Berichte zu **{{ site.data.drug_stats.total_drugs }}** Arzneimitteln aus den Zulassungsdaten von [Swissmedic](https://www.swissmedic.ch/) (Schweiz).
+
+Berichte nach Evidenzstufe: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Arzneimittel mit der höchsten Evidenzstufe auf dieser Website
+
+| Arzneimittel | Evidenzstufe |
+|---|---|
+| [Tiotropium](/drugs/tiotropium/) | L1 |
+| [Calcipotriol](/drugs/calcipotriol/) | L3 |
+| [Velpatasvir](/drugs/velpatasvir/) | L3 |
+| [Chloramphenicol](/drugs/chloramphenicol/) | L3 |
+| [Tryptophan](/drugs/tryptophan/) | L3 |
+
+### Arzneimittel, die unter den 30 TxGNN-Websites nur diese Website abdeckt
+
+| Arzneimittel | Evidenzstufe |
+|---|---|
+| [Echinacea](/drugs/echinacea/) | L5 |
+
+<!-- local-home:end -->
+
 ## Über den Entwickler
 
 Diese Plattform wird von **藥提醒科技有限公司** (yao.care, Unternehmensregisternummer
