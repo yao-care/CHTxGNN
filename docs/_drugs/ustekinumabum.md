@@ -7,7 +7,7 @@ title: USTEKINUMABUM
 drugbank_id: DB05679
 permalink: /drugs/ustekinumabum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,7 +19,7 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 13) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | mindestens 13 |
 | DrugBank ID | [DB05679](https://go.drugbank.com/drugs/DB05679) |
 | Anzahl vorhergesagter Indikationen | 3 |

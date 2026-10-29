@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "tenofovir disoproxil"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tenofovir Disoproxil: vorhergesagte neue Indikation Infektion mit dem Simian-Immundefizienz-Virus (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -50,8 +50,8 @@ Tenofovir disoproxil wird als antiretrovirales Arzneimittel gegen HIV eingesetzt
 | Vorhergesagte neue Indikation | Infektion mit dem Simian-Immundefizienz-Virus (simian immunodeficiency virus infection) |
 | TxGNN-Vorhersagewert | 0,9995 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
-| Anzahl Zulassungen | 7 (gültig: 7) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

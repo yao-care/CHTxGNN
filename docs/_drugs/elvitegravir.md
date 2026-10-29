@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Elvitegravir: vorhergesagte neue Indikation Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -50,8 +50,8 @@ Elvitegravir ist ein Hemmstoff der HIV-1-Integrase und wird in der Schweiz in Ko
 | Vorhergesagte neue Indikation | Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) |
 | TxGNN-Vorhersagewert | 0,9989 |
 | Evidenzniveau | L4 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

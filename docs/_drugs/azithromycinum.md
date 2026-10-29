@@ -6,7 +6,7 @@ nav_exclude: true
 title: AZITHROMYCINUM
 drugbank_id: DB00207
 permalink: /drugs/azithromycinum/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -18,7 +18,7 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
 | Anzahl Zulassungen | mindestens 8 |
 | DrugBank ID | [DB00207](https://go.drugbank.com/drugs/DB00207) |
 | Anzahl vorhergesagter Indikationen | 16 |

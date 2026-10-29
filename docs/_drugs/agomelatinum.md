@@ -7,7 +7,7 @@ title: AGOMELATINUM
 drugbank_id: DB06594
 permalink: /drugs/agomelatinum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 4) |
 | DrugBank ID | [DB06594](https://go.drugbank.com/drugs/DB06594) |
 | Anzahl vorhergesagter Indikationen | 4 |
 

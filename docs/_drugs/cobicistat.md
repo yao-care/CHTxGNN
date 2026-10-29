@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cobicistat"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cobicistat: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -50,8 +50,8 @@ Cobicistat wird in der Schweiz als pharmakokinetischer Verstärker in HIV-Kombin
 | Vorhergesagte neue Indikation | Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) |
 | TxGNN-Vorhersagewert | 0,9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

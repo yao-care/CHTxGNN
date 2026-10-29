@@ -7,7 +7,7 @@ title: REBOXETINUM
 drugbank_id: DB00234
 permalink: /drugs/reboxetinum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 0) |
 | DrugBank ID | [DB00234](https://go.drugbank.com/drugs/DB00234) |
 | Anzahl vorhergesagter Indikationen | 4 |
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lopinavir: vorhergesagte neue Indikation Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -50,8 +50,8 @@ Lopinavir ist ein Proteaseinhibitor, der gegen HIV eingesetzt wird. Vorhergesagt
 | Vorhergesagte neue Indikation | Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection) |
 | TxGNN-Vorhersagewert | 0,9990 |
 | Evidenzniveau | L4 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
