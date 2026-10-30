@@ -77,16 +77,31 @@ def learn(site):
     return {"labels": labels, "preferred": best}
 
 
+REG_KEYS = ("tfda", "thaifda", "pmda", "npra", "mhra", "tga", "fda")  # 與 reviewer drug_evidence_pack 的順序相同
+
+
+def reg_block(bundle):
+    """證據包裡放本地許可證的區塊（各站欄位名不同：Dk/Nl/Th 用 thaifda、Jp 用 pmda、My 用 npra…）"""
+    for k in REG_KEYS:
+        v = bundle.get(k)
+        if isinstance(v, dict) and v.get("records"):
+            return v
+    for k in REG_KEYS:
+        if isinstance(bundle.get(k), dict):
+            return bundle[k]
+    return {}
+
+
 def official_text(site):
     """{許可證號: 主管機關原文狀態}：取自證據包 tfda.records 的 status／registration_status（下載轉換器寫入的官方字樣）"""
     out = {}
     for f in (BASE / site / "data/bundles").glob("*/drug_bundle.json"):
         try:
-            recs = (json.loads(f.read_text(encoding="utf-8")).get("tfda") or {}).get("records", [])
+            recs = reg_block(json.loads(f.read_text(encoding="utf-8"))).get("records", [])
         except Exception:
             continue
         for r in recs:
-            k = str(r.get("license_id") or r.get("registration_number") or "").strip()
+            k = str(r.get("license_id") or r.get("registration_number") or r.get("reg_no") or "").strip()
             s = str(r.get("status") or r.get("registration_status") or "").strip()
             if k and s:
                 out[norm(k)] = s
@@ -164,7 +179,7 @@ def sync_market_rows(site, dry=False):
             elif ms == "Cancelled only":
                 want = ck.CANCELLED.get(lang, ck.CANCELLED["en"]).format(n=n)
             elif ms == "Not marketed":
-                want = ck.NOT_REG.get(lang, ck.NOT_REG["en"])
+                want = ck.not_reg_text(site, lang)
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)
@@ -179,6 +194,36 @@ def sync_market_rows(site, dry=False):
         out[f.stem] = ch
         if not dry:
             f.write_bytes((t.replace("\n", "\r\n") if crlf else t).encode("utf-8"))
+    return out
+
+
+def drop_excluded_rows(site, dry=False):
+    """證據包 tfda.veterinary_records 裡的許可證，從該頁的許可證表刪除整列（pm 2026-10-30：獸用許可不算人用藥）。
+    回傳 [(頁, 欄位, 前值, 後值)]"""
+    out = []
+    for f in sorted((BASE / site / "data/bundles").glob("*/drug_bundle.json")):
+        vet = {norm(str(r.get("license_id") or "")) for r in (reg_block(json.loads(f.read_text(encoding="utf-8"))).get("veterinary_records") or [])}
+        if not vet:
+            continue
+        for stem in (f.parent.name, f.parent.name.replace("_", "-")):
+            pg = BASE / site / "docs/_drugs" / f"{stem}.md"
+            if pg.exists():
+                break
+        else:
+            continue
+        raw = pg.read_bytes().decode("utf-8")
+        crlf = "\r\n" in raw[:500]
+        lines = raw.replace("\r\n", "\n").split("\n")
+        keep = []
+        for l in lines:
+            c = [x.strip() for x in l.strip().strip("|").split("|")] if l.startswith("|") else []
+            if c and norm(c[0]) in vet:
+                out.append((pg.stem, f"許可證表 {c[0]}（獸用）", l.strip(), "（刪除）"))
+                continue
+            keep.append(l)
+        if len(keep) != len(lines) and not dry:
+            t = "\n".join(keep)
+            pg.write_bytes((t.replace("\n", "\r\n") if crlf else t).encode("utf-8"))
     return out
 
 
