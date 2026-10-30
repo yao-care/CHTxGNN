@@ -5,7 +5,7 @@ parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 66
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Netarsudil: bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Das TxGNN-Modell (Score ≥ 0,99) hat für Netarsudil Kandidaten geliefert. Alle
 | Neue vorhergesagte Indikationen | Keine (alle rückverfolgbaren Modellkandidaten sind bekannte Anwendungen) |
 | Bekannte Anwendungen unter den Modellkandidaten | 2 |
 | Evidenzstufe | Nicht zutreffend |
-| Marktstatus in der Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
 
 ## Bekannte Anwendungen unter den Kandidaten des Modells

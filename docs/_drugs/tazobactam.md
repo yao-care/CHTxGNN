@@ -5,7 +5,7 @@ parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 90
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tazobactam: Bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Das TxGNN-Modell (Deep Learning, Score ≥ 0.99) hat für Tazobactam Kandidaten 
 | Neue vorhergesagte Indikationen | Keine (alle rückverfolgbaren Modellkandidaten sind bekannte Anwendungen) |
 | Bekannte Anwendungen unter den Modellkandidaten | 2 |
 | Evidenzniveau | Nicht zutreffend |
-| Marktstatus in der Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
 | Anzahl Zulassungen | 6 (gültig: 6) |
 
 ## Bekannte Anwendungen unter den Kandidaten des Modells
