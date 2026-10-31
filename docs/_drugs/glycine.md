@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 53
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glycine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "glycine"
 predicted_indications: ["nasal cavity disease"]
@@ -49,7 +49,7 @@ Glycin wird in der Schweiz als Bestandteil von Aminosäurelösungen für die par
 | TxGNN-Vorhersagewert | 0,9985 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
-| Anzahl Zulassungen | 8 |
+| Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

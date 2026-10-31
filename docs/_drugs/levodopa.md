@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levodopa: vorhergesagte neue Indikation subakute Rasmussen-Enzephalitis (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson, Restless-Legs-Syndrom"
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
@@ -53,7 +53,7 @@ Levodopa wird in der Schweiz zur Behandlung der Parkinson-Krankheit und des Rest
 | TxGNN-Vorhersagewert | 0,9906 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
-| Anzahl Zulassungen | 7 |
+| Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 67
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nitrogen: vorhergesagte neue Indikation 16q24.1-Mikrodeletionssyndrom (Evidenzstufe L5). Urspr체ngliche Indikation: Parenterale Ern채hrung (auch: parenterale Ern채hrung f체r Erwachsene)"
 monitor_inn: "nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
@@ -53,7 +53,7 @@ Stickstoff (DrugBank DB09152) ist in der Schweiz als Bestandteil von Infusionsl�
 | TxGNN-Vorhersagewert | 0,9973 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tats채chlichen Studien) |
 | Marktstatus Schweiz | Im Handel (g체ltige Zulassungen: mindestens 7) |
-| Anzahl Zulassungen | 7 |
+| Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

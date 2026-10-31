@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 100
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tryptophan: vorhergesagte neue Indikation Restless-Legs-Syndrom (Evidenzstufe L3). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -53,7 +53,7 @@ Tryptophan wird in der Schweiz als Aminosäure-Bestandteil von Infusionslösunge
 | TxGNN-Vorhersagewert | 0,9972 |
 | Evidenzniveau | L3 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
-| Anzahl Zulassungen | 8 |
+| Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
