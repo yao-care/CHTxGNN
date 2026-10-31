@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-31T01:23:48.624095+00:00",
+  "fetched_at": "2026-10-31T07:56:02.340759+00:00",
   "source": "Google News Health RSS",
-  "count": 41,
+  "count": 42,
   "articles": [
     {
       "id": "150805e0e3f6",
@@ -11,6 +11,16 @@
       "source": {
         "name": "GrenzEcho",
         "url": "https://www.grenzecho.net"
+      }
+    },
+    {
+      "id": "d048b270f714",
+      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0ktOHJtNm5OSDlma080QV80N2VXbm1qbTR6QVFwUU9vdGxNSzZyR19sQUFXbXF6RE53ei1JWkVkYzloWTdZODBmdHM3bXEwRXFPRXNoTWJLU1JDWEpoWVdEaTRyZm1CbXp3NUZfMmJWcXJMUG5GVTRYSzM0UnhOdV90VFFOdnc1NEpsYWQ2a2FlandEZFhFRnI0dEFlVk1Zc3daczBJQUhyWmxyX3drMC13?oc=5",
+      "published": "2026-10-31T02:34:10+00:00",
+      "source": {
+        "name": "DerWesten",
+        "url": "https://www.derwesten.de"
       }
     },
     {
@@ -24,6 +34,26 @@
       }
     },
     {
+      "id": "f19a2936c593",
+      "title": "Hausmittel gegen Erkältungen sind nicht immer harmlos - Nachrichten.fr",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelBhV2pOZ3RDdlJNVUl5dkdabmcya2I1RXNtTGF5ZkNxY0wxRXRRQWpmTWQ2SW9JemxHclNyVFExRF90Z3pNV1p0UjVkeU1KM2xORUlkVFNfVEswbDBZdmtPTDFWQ29DYUdSWm5DNDlnbHVYTWZTLUhVTTFtYVhGRTJNdw?oc=5",
+      "published": "2026-10-30T22:00:42+00:00",
+      "source": {
+        "name": "Nachrichten.fr",
+        "url": "https://nachrichten.fr"
+      }
+    },
+    {
+      "id": "c454e00740d8",
+      "title": "Athen: Wie eine Apotheke Medikamente, Musik und Bücher kombiniert - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGxuNV9KQ0d3OEx0UnBpdUFRZmVsS1U3OXRhaWE1akNJdFh0OF9xbGNtRFpxUFcxWmpaUmVxcWFiOHBPRzQxYTF4a3h1alFObnVDRHlRNGZ2RGpNOG1xUnNCVjJoNlpSVjRlQko1d0dRV2tVVFJIakVINkFxOTNrM1d2ZmljdUNnYW1oT2dTd3RaWXdOVlNGRW5JMGhhN0x3MVFkWGFWa0g?oc=5",
+      "published": "2026-10-28T13:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "de1f814e4d49",
       "title": "Kampagne #MedSafetyWeek ruft zum Melden von Nebenwirkungen auf - MedLabPortal",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXo4Rm9yRHZ3eW5ycXVCdTNmTmY0WWszcjZmVnFubk9Ka18wUXlSb3NUT0ZzNDlKRWE4VWRnV0ZqT0kyYzY1TUJ5aHdnV2dORTlOUllCYnl0UnA2YVdBcnQ3dXp4Ty1QdjJld3NjdzhnZTFHTzk3YWVwd1BTelNRaVd2WXlBRFJQeUdlbXpiVQ?oc=5",
@@ -34,20 +64,20 @@
       }
     },
     {
-      "id": "0f90a25196db",
-      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
-      "published": "2026-08-13T07:00:00+00:00",
+      "id": "b9c8f29df593",
+      "title": "Erhöhtes Sterberisiko bei ADHS – Medikamente könnten helfen - RiffReporter",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHVha3dsZGEtck5HV0RzcUFjWGFDd1J1Mm1TLUlWak1yVkVIVkFGWkJ3TnhZSDRZdnU4ajRhaE56cUdPS0hKSWhEVUZlQmRTVGJITkpSUmktYXFFNzlZcXdYTnlORklocmV4YktTZVJ4amJWQ1VFZFA1aU9rVzJkY1l4OA?oc=5",
+      "published": "2026-10-29T21:34:51+00:00",
       "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
+        "name": "RiffReporter",
+        "url": "https://www.riffreporter.de"
       }
     },
     {
-      "id": "9bb975a5f582",
-      "title": "Vitamin D in Herbst und Winter: Wer braucht Tabletten und wie viel ist sinnvoll? - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlk4TzU1RXY2bnBvTEp5SC0zZldYWXJLSlUyUG1oNFhKdmk5b2I0UjlaeU5tU1d0Q0w2VlZQVlllU2MtUlFxbVpHb2N2MWktOUxja2NFZVFBMXNfSk1DdGJrZnJpT2ZPZmxaWXZUQm1WWUhiQWN3cm81Y19HYi00ZnpJSjZCTDZyWkVBNllNQ0JobElpSDIwQ2FveHlENGN3ZzVxWmJ1RjBnOEhEal9XNG5xQXo?oc=5",
-      "published": "2026-10-30T07:54:00+00:00",
+      "id": "c2015b608f86",
+      "title": "Blutdrucktabletten: Wie gefährlich ist es, sie unregelmäßig einzunehmen? - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2oxS0Y4VWYtRk5XMHo5ck05THQ1Yy1pa0FWanhrYWZYRlp3S3V6bEQtXzlVTlNwSXg3SDZubEdCSTRiUDIwRW1rcHdTLUdndmtQTmljeWVlU2tvT1ZGY1I4N2ZpNEFiZXhJOTZrVENyYVZVaGh5MTI2NV84SjJLTktUbExPbXVCVndHazExQ3JHSjBHeHhBMndHdnBSOU1HcDh2ODgyUThBWG1s?oc=5",
+      "published": "2026-10-28T11:22:29+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
@@ -64,60 +94,20 @@
       }
     },
     {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
+      "id": "0f90a25196db",
+      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
       "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "c454e00740d8",
-      "title": "Athen: Wie eine Apotheke Medikamente, Musik und Bücher kombiniert - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGxuNV9KQ0d3OEx0UnBpdUFRZmVsS1U3OXRhaWE1akNJdFh0OF9xbGNtRFpxUFcxWmpaUmVxcWFiOHBPRzQxYTF4a3h1alFObnVDRHlRNGZ2RGpNOG1xUnNCVjJoNlpSVjRlQko1d0dRV2tVVFJIakVINkFxOTNrM1d2ZmljdUNnYW1oT2dTd3RaWXdOVlNGRW5JMGhhN0x3MVFkWGFWa0g?oc=5",
-      "published": "2026-10-28T13:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "b9c8f29df593",
-      "title": "Erhöhtes Sterberisiko bei ADHS – Medikamente könnten helfen - RiffReporter",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHVha3dsZGEtck5HV0RzcUFjWGFDd1J1Mm1TLUlWak1yVkVIVkFGWkJ3TnhZSDRZdnU4ajRhaE56cUdPS0hKSWhEVUZlQmRTVGJITkpSUmktYXFFNzlZcXdYTnlORklocmV4YktTZVJ4amJWQ1VFZFA1aU9rVzJkY1l4OA?oc=5",
-      "published": "2026-10-29T21:34:51+00:00",
-      "source": {
-        "name": "RiffReporter",
-        "url": "https://www.riffreporter.de"
-      }
-    },
-    {
-      "id": "2ff5f626fb95",
-      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "6d34c8be7745",
-      "title": "Gentherapie für Schmetterlingskinder: AIFA genehmigt Erstattung - italien.news",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXBId3FORGFraVZoQURfTFB0UU9vYXMyT3VJSXNiNUNIVnlnUExicE5WOUs1czRyYmR4TlB2U2NsUHA0MUlCa083WldlRW9WR0szVG5qNWVlNUl6eUdJZXRWbFNfQ09JRFE0NnVxNU9HVmhockNKVnZpQzU4U3lzUkIybjF6ZjVydWRha1ZRbmFpVHI5?oc=5",
-      "published": "2026-10-30T06:18:36+00:00",
-      "source": {
-        "name": "italien.news",
-        "url": "https://italien.news"
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
       "id": "10c1dca37dfa",
       "title": "Wiener Apotheken rücken Frauengesundheit in den Fokus - Vienna.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkZ3aGRPV0ItSGVVYm9aYW9OV28zYVJhMDhHRlVjVFRtaGcyUl9RODNmNW5NamNrcDNqQ0Q0MXlUNk9pTEJhbDRtdlNVTW1jc0ZUN2owYTVqUjk3azZ6SnNRV3pHUHdXZFhSMGxPXzBQLWVZeWRFeVduVHRMWmswS1RtNmxGcDRsZkY5el93?oc=5",
-      "published": "2026-10-30T20:18:33+00:00",
+      "published": "2026-10-31T02:18:33+00:00",
       "source": {
         "name": "Vienna.at",
         "url": "https://www.vienna.at"
@@ -144,33 +134,33 @@
       }
     },
     {
-      "id": "41f94d9b6526",
-      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3ZKNGVVWEF0bEhXS0tlcWVUZjJGWERnN2FWN21UNjhQeVIzMWZjMHRkQ0FTODB4TzYzOG9EcXlnS29FOXBOeFRZRnVrTUNydlFnZG4zM0pQeXAtN1dseFdRTThPYTdkUkdqeUJ0NExzT2MzUzJnekJjOGZKSDBGVHM0b1pvRWN1U0NmSFpxYmo3OUhfQUowNmJWYTJxT21DUHNkUG0tTGs?oc=5",
-      "published": "2026-10-28T05:08:25+00:00",
+      "id": "6d34c8be7745",
+      "title": "Gentherapie für Schmetterlingskinder: AIFA genehmigt Erstattung - italien.news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXBId3FORGFraVZoQURfTFB0UU9vYXMyT3VJSXNiNUNIVnlnUExicE5WOUs1czRyYmR4TlB2U2NsUHA0MUlCa083WldlRW9WR0szVG5qNWVlNUl6eUdJZXRWbFNfQ09JRFE0NnVxNU9HVmhockNKVnZpQzU4U3lzUkIybjF6ZjVydWRha1ZRbmFpVHI5?oc=5",
+      "published": "2026-10-30T06:18:36+00:00",
       "source": {
-        "name": "DerWesten",
-        "url": "https://www.derwesten.de"
+        "name": "italien.news",
+        "url": "https://italien.news"
       }
     },
     {
-      "id": "c2015b608f86",
-      "title": "Blutdrucktabletten: Wie gefährlich ist es, sie unregelmäßig einzunehmen? - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2oxS0Y4VWYtRk5XMHo5ck05THQ1Yy1pa0FWanhrYWZYRlp3S3V6bEQtXzlVTlNwSXg3SDZubEdCSTRiUDIwRW1rcHdTLUdndmtQTmljeWVlU2tvT1ZGY1I4N2ZpNEFiZXhJOTZrVENyYVZVaGh5MTI2NV84SjJLTktUbExPbXVCVndHazExQ3JHSjBHeHhBMndHdnBSOU1HcDh2ODgyUThBWG1s?oc=5",
-      "published": "2026-10-28T11:22:29+00:00",
+      "id": "23cc1b882457",
+      "title": "Depressionen: Warum Antidepressiva bei manchen Menschen schlechter wirken könnten - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGY0UldmNXlXOWVwYmdPUzBEX3NGVTdFUXJFNzR4YnNNb2NhckFTbzB2UlROUHRSR0V6VGc3TnhKcWdFUGhaeFcyZjkzWGtNUms0R2hyX0phRjVROWJ5ZnF5ZXc2NWFnSmxnMTZUTXRSLXViR25VTngwU2xqT002cWlTNmdzZWlSNzluQkRibGprRVZaNEtHRV9COUtLbDJ0LWRTMUl4MVktRjF2Zy0wUjRxX2hBcElT?oc=5",
+      "published": "2026-10-26T10:47:35+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
       }
     },
     {
-      "id": "66789a4b70b0",
-      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
+      "id": "2ff5f626fb95",
+      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
       "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -194,6 +184,16 @@
       }
     },
     {
+      "id": "9bb975a5f582",
+      "title": "Vitamin D in Herbst und Winter: Wer braucht Tabletten und wie viel ist sinnvoll? - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlk4TzU1RXY2bnBvTEp5SC0zZldYWXJLSlUyUG1oNFhKdmk5b2I0UjlaeU5tU1d0Q0w2VlZQVlllU2MtUlFxbVpHb2N2MWktOUxja2NFZVFBMXNfSk1DdGJrZnJpT2ZPZmxaWXZUQm1WWUhiQWN3cm81Y19HYi00ZnpJSjZCTDZyWkVBNllNQ0JobElpSDIwQ2FveHlENGN3ZzVxWmJ1RjBnOEhEal9XNG5xQXo?oc=5",
+      "published": "2026-10-30T07:54:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
       "id": "0b1776a1b8de",
       "title": "Alzheimer vor 65: Diese Beschwerden fallen schon Jahre vor der Diagnose auf - aponet.de",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXRfbmQybDlsVy1KQ29MNWl0bjNNZnVoLU0xMmNqdDUzSDFRSi1JSjFUSjFRa0RoVWZ1SHJsd3g5Uzh1aE82UGYyb3cyVWxFOVI0RGQ4dkZtTXNxQWxvSy1DVEpodk5YRnNrVS1ZYTJUWDdQV3gzcUZKX2VyV1dPdE50SGF5a3drUTNVS2xDVWpGUHlxZHdOQU5QTUpoa2FpeE1NU3A2X1U4RFhBMEU0?oc=5",
@@ -204,23 +204,13 @@
       }
     },
     {
-      "id": "4e6d48112005",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
-      "published": "2026-05-22T07:00:00+00:00",
+      "id": "7d8538027e8c",
+      "title": "Niedersachsens Gesundheitsminister Philippi rät von Hamsterkäufen bei Medikamenten ab - Oldenburger Online Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEd3NFZhQ2o0QWNkUmNHZlJUcnFSUndLeENRUzRockVfRkZQbEhzWUdkanZ0YktDTGp5UlRJU0h3Z2lvZXFnOWxjX3ZSUGJxS3hlZzZrMmpYRl9wdWs3MmJ3bHlJYmI5cmllX2NUckZic2dNOVowNkFQalFUYkFzdHpNQl9pTy1DckowQU9pTXJzR0toNTliaXh0czJrN0hNQUdOSDR6Mi1odVptZGxWVWI1cVJWTnd6NkRIbU4wQWVSTXhOamItUDJJS3BKcFVlWTFmTkNZWkFXM2ZYYk4wckhOM0RKRVFMRUE?oc=5",
+      "published": "2026-10-28T08:36:00+00:00",
       "source": {
-        "name": "Bundesministerium für Gesundheit (BMG)",
-        "url": "https://www.bundesgesundheitsministerium.de"
-      }
-    },
-    {
-      "id": "abc08de4d3af",
-      "title": "Denosumab in Pflegeheimen: Bei jedem Fünften kommt die Dosis zu spät - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NhMWZ3MWk2d28xd2ZaSEFGY2ZoT2dqUjFLY09lZ2t5SzRUWXh3cTRxZkQzX1YtSl9odmNNeW10aVM2ZDM1Zmg5MnQxX05MYTBZdVhfcW9VN0dGby1hLWlLbDhmSzQ3cW1CTFhTLUF3X0pVbUhGMm1nOWZYYm5qdTlqR240ZWdvTFZ0eFZDb2hCaFJhWWMtNEhPT29mS2Nfc2hFWll2MlpRaW1vTVZsX2FYZUhraEViYVE?oc=5",
-      "published": "2026-10-30T22:48:54+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
+        "name": "Oldenburger Online Zeitung",
+        "url": "https://www.oldenburger-onlinezeitung.de"
       }
     },
     {
@@ -234,13 +224,83 @@
       }
     },
     {
-      "id": "7d8538027e8c",
-      "title": "Niedersachsens Gesundheitsminister Philippi rät von Hamsterkäufen bei Medikamenten ab - Oldenburger Online Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEd3NFZhQ2o0QWNkUmNHZlJUcnFSUndLeENRUzRockVfRkZQbEhzWUdkanZ0YktDTGp5UlRJU0h3Z2lvZXFnOWxjX3ZSUGJxS3hlZzZrMmpYRl9wdWs3MmJ3bHlJYmI5cmllX2NUckZic2dNOVowNkFQalFUYkFzdHpNQl9pTy1DckowQU9pTXJzR0toNTliaXh0czJrN0hNQUdOSDR6Mi1odVptZGxWVWI1cVJWTnd6NkRIbU4wQWVSTXhOamItUDJJS3BKcFVlWTFmTkNZWkFXM2ZYYk4wckhOM0RKRVFMRUE?oc=5",
-      "published": "2026-10-28T08:36:00+00:00",
+      "id": "57802ebc0b39",
+      "title": "Krankenkassen ab 2027: Gesundheit wird für alle Gesetzlich Versicherten teurer - Gegen Hartz IV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2NHa2xsbnY4aVROVlZjSV8tWWxvb2F1cDdkRnktandub0syTkhrVkNMN0ZHV3VjdFA1aWtJaWhIN1V4TVBTMUU0TktuZTFWbDVINGNBU0ZXZm9BOHNaYUd0aEtsajB4T19xSzNZcE9PQmhVWmQtU2R1OHdxU19hcGlIZmVCanl3U2tYcDZLb1hFSmV2VUJ2cUljT1RicnFuRG1HZHBDUE1YdC1VbmE0?oc=5",
+      "published": "2026-10-28T15:52:59+00:00",
       "source": {
-        "name": "Oldenburger Online Zeitung",
-        "url": "https://www.oldenburger-onlinezeitung.de"
+        "name": "Gegen Hartz IV",
+        "url": "https://www.gegen-hartz.de"
+      }
+    },
+    {
+      "id": "abc08de4d3af",
+      "title": "Denosumab in Pflegeheimen: Bei jedem Fünften kommt die Dosis zu spät - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NhMWZ3MWk2d28xd2ZaSEFGY2ZoT2dqUjFLY09lZ2t5SzRUWXh3cTRxZkQzX1YtSl9odmNNeW10aVM2ZDM1Zmg5MnQxX05MYTBZdVhfcW9VN0dGby1hLWlLbDhmSzQ3cW1CTFhTLUF3X0pVbUhGMm1nOWZYYm5qdTlqR240ZWdvTFZ0eFZDb2hCaFJhWWMtNEhPT29mS2Nfc2hFWll2MlpRaW1vTVZsX2FYZUhraEViYVE?oc=5",
+      "published": "2026-10-30T22:48:54+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
+      "id": "662d7ab8e930",
+      "title": "Vitamin C und Zink als Immunbooster? So empfehlenswert sind die Präparate wirklich - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLVM1Rl9ZbjdkbF9RRlB3RG9raG9YNlo3THkyXzV2YjVkUnJSXzNna0loZU43TVRJRlZ4MnZENmdPOEJyQ1ByUkprSjFjaGo3T3p2OUVGUUZnTDNyeFh5dmNfS2RlaWVLUHpNdlMzcmZZM29qUmVuQ2xBWmJIVEk0Vl9NYnFnWUdNMVZrZ0hOZHNqVF9VX1ZlMFVDaWprTWJscFNYNUJmNnhYdFRTSEFHRXBvbmhESmh4RlNsdVhiUWZWdTRNbXhCMGNSLXRFOE93cjNPTDFRekJTT1k?oc=5",
+      "published": "2026-10-29T00:35:46+00:00",
+      "source": {
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
+      }
+    },
+    {
+      "id": "4e6d48112005",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": {
+        "name": "Bundesministerium für Gesundheit (BMG)",
+        "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "6e8da91a7b68",
+      "title": "Blutdruck trotz weniger Salz: Sechs Ursachen können dahinterstecken - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVlxM2pUTno4bThGUFVFR0J2VnFtbzNfNF9tTDIwbWdfdU9oZkhNbW51SV9MT1AwRFFRc0cxdUl1b1pxZ1gtSDdFSWZuUzV2bFQ0dVRBNEpKRTlQQXBBdmxmYUxXWEVXM2RYY0dDbDhjVjZkTHNEMlVLM3dOUTRhRnBrbTc1WjZkc1RQYnVZU2N2X293eVFrdUFMcDVhbmxWdXZuMkR4dl9HWldXaElWV0FzTzBZd1U?oc=5",
+      "published": "2026-10-30T09:09:35+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
+      "id": "66789a4b70b0",
+      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "e7985331799a",
+      "title": "Diclofenac: Studie mit über 1 Million Patienten zeigt 50 Prozent mehr Herzrisiko - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWVXaTAtQk1wd3FDNm05ZFY4aGdZSHNNejh3OXdBS25Ldzlna3pNaE9Vc0Yzc05mSzBwWHBtVkxBNk5zMzhYWUJydDlqMTRkcGdMSmNrTmd1Y3NWdkVPZ3VoOURrN3NhTkVyOFRfTXdiZ1RXTUVXU2N1NmFVZFRRc0dZTG5CRE9wbG1iUDhpb1o5Qk4xTkhNWk45TUxRRFVSaXNpdGtsMEo1dmdLcDVVZDFlZXJUMjNqTVNGbEgzRnRYUy1vVUpkZw?oc=5",
+      "published": "2026-10-30T00:18:07+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -264,26 +324,6 @@
       }
     },
     {
-      "id": "57802ebc0b39",
-      "title": "Krankenkassen ab 2027: Gesundheit wird für alle Gesetzlich Versicherten teurer - Gegen Hartz IV",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2NHa2xsbnY4aVROVlZjSV8tWWxvb2F1cDdkRnktandub0syTkhrVkNMN0ZHV3VjdFA1aWtJaWhIN1V4TVBTMUU0TktuZTFWbDVINGNBU0ZXZm9BOHNaYUd0aEtsajB4T19xSzNZcE9PQmhVWmQtU2R1OHdxU19hcGlIZmVCanl3U2tYcDZLb1hFSmV2VUJ2cUljT1RicnFuRG1HZHBDUE1YdC1VbmE0?oc=5",
-      "published": "2026-10-28T15:52:59+00:00",
-      "source": {
-        "name": "Gegen Hartz IV",
-        "url": "https://www.gegen-hartz.de"
-      }
-    },
-    {
-      "id": "7b80f1f5a257",
-      "title": "Deshalb sind Medikamentenpreise in den USA höher als in Europa - SRF",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYi1ZU2plOWxCY1lMcDZOZTBQZnJDSVBJY1hkZHQ0Rk1abllUN1NncFVvVjVXMUJqRVRqVlpqUkxBdjVsQmdST2I5akl6dDFKVXdCV1lKMjhOTU0tNllzakRkTXF3c3BrdXo3Vlp5aUc2OTJrMmxKTkdQMm5jMnVZYmZ5ZVpaYUwwUVVMTGJjN2o2bTZERUNuT3UxN011STgxaWVpZDdHbkswSXh4Q2FvLTVWVHA?oc=5",
-      "published": "2025-08-20T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "5a64d26d1cc2",
       "title": "Gesundheitskosten und Medikamentenpreise – eine Auslegeordnung - www.interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1hQRUV2a3EwLXhWVXNaQXlQa1JsRVVnS0Q0QXZTand1VHFOdENubE9oZllCNDBQZklaV1I2ejd4SS1ZVkhvbkVRYW5FbzVNYlB1Snk3X05kc3d6SU84b1duSV9CSi1hYjExcWpiczZqTDljZzl6dWpyczhHODM5VnhOWDg4V3pBYzhlUUFiTTFXbHBSSGlhXw?oc=5",
@@ -304,16 +344,6 @@
       }
     },
     {
-      "id": "976d88f58bb6",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "7739d97df5a2",
       "title": "Hinter diesem Medikament steckt eine amerikanische Sekte - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGFualV4T0Z3RGtrOEdxR2hfRnNMY2dTOXhnaXo4R0dWWkFGYXRlNXR5Z3hnVzBLYnFsZS14a0pEajVxYW45SzF1RERwcXBIUkx1dzFCRnFjTHFKM0d4Nk1kQXljV0tXNWZuVXhuR2h6dVNtNldReXoza0N4ajlnR0NzSTBZNDM0aHNVazhwbnNHVVZSRG1J?oc=5",
@@ -324,13 +354,13 @@
       }
     },
     {
-      "id": "6e8da91a7b68",
-      "title": "Blutdruck trotz weniger Salz: Sechs Ursachen können dahinterstecken - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVlxM2pUTno4bThGUFVFR0J2VnFtbzNfNF9tTDIwbWdfdU9oZkhNbW51SV9MT1AwRFFRc0cxdUl1b1pxZ1gtSDdFSWZuUzV2bFQ0dVRBNEpKRTlQQXBBdmxmYUxXWEVXM2RYY0dDbDhjVjZkTHNEMlVLM3dOUTRhRnBrbTc1WjZkc1RQYnVZU2N2X293eVFrdUFMcDVhbmxWdXZuMkR4dl9HWldXaElWV0FzTzBZd1U?oc=5",
-      "published": "2026-10-30T09:09:35+00:00",
+      "id": "976d88f58bb6",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
       "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -341,16 +371,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "2bc1c76794dc",
-      "title": "Zum Schutz der Patienten - Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZl9KLU5icEpyVFZfajZybmFNWlhjRktvMWhIMjZEQUk4c1E3d1dIcWF0ZW5SS3JDa2ppSzA1cEE2RVBTUkVSbWxNczFsNUotQ0tTSE44dHNuODM3ZWV5OXhVd19nRmdLTmU3b1ByZnJoLTFxb2N3T0tXVzhwalV4em9jcjlKQW1YTEdnV0RKZF8xVnRCeWpPa3htS3J4Z0ZudFlsZGZUcng4c2h1YnQyY3NHcm1OQi1XNmNFUi1sZGJJaVA3UlU5MA?oc=5",
-      "published": "2022-11-12T16:59:18+00:00",
-      "source": {
-        "name": "Ministerium für Soziales, Arbeit und Gesundheit Baden-Württemberg",
-        "url": "https://sozialministerium.baden-wuerttemberg.de"
       }
     },
     {
@@ -371,16 +391,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "e7985331799a",
-      "title": "Diclofenac: Studie mit über 1 Million Patienten zeigt 50 Prozent mehr Herzrisiko - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWVXaTAtQk1wd3FDNm05ZFY4aGdZSHNNejh3OXdBS25Ldzlna3pNaE9Vc0Yzc05mSzBwWHBtVkxBNk5zMzhYWUJydDlqMTRkcGdMSmNrTmd1Y3NWdkVPZ3VoOURrN3NhTkVyOFRfTXdiZ1RXTUVXU2N1NmFVZFRRc0dZTG5CRE9wbG1iUDhpb1o5Qk4xTkhNWk45TUxRRFVSaXNpdGtsMEo1dmdLcDVVZDFlZXJUMjNqTVNGbEgzRnRYUy1vVUpkZw?oc=5",
-      "published": "2026-10-30T00:18:07+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
