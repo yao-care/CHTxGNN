@@ -1,16 +1,16 @@
-# Code owners for TwTxGNN
+# Code owners for CHTxGNN
 # These users will be automatically requested for review on PRs.
 
 # Default owner for everything
-* @yao-care/chtxgnn-team
+* @yao-care/rd-team
 
 # Security-sensitive files
-SECURITY.md @yao-care/chtxgnn-team
-.github/ @yao-care/chtxgnn-team
+SECURITY.md @yao-care/rd-team
+.github/ @yao-care/rd-team
 
 # Documentation and drug reports
-docs/ @yao-care/chtxgnn-team
+docs/ @yao-care/rd-team
 
 # Core prediction pipeline
-src/ @yao-care/chtxgnn-team
-scripts/ @yao-care/chtxgnn-team
+src/ @yao-care/rd-team
+scripts/ @yao-care/rd-team
