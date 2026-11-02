@@ -678,6 +678,17 @@ def local_hit(kw: str, title: str, summary: str) -> bool:
     return re.search(r"(?<!\w)" + re.escape(kw) + r"(?!\w)", f"{title} {summary}", re.I) is not None
 
 
+def en_hit(kw: str, text: str) -> bool:
+    """2026-11-02：英文關鍵字原本是子字串比對，AF 撞 café／afecta、MS 撞 OMS，
+    把無關新聞掛到幾十個藥的新聞頁（EuTxGNN 11-01 配對 104 則裡 33 筆是這種誤配）。
+    4 字以下改整詞比對，全大寫縮寫要大小寫相符；較長的維持原本的子字串比對。"""
+    if not kw:
+        return False
+    if len(kw) <= 4:
+        return re.search(r"(?<!\w)" + re.escape(kw) + r"(?!\w)", text, 0 if kw.isupper() else re.I) is not None
+    return kw.lower() in text.lower()
+
+
 def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
     """對新聞進行關鍵字匹配"""
     drugs = keywords.get("drugs", [])
@@ -706,7 +717,7 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
 
             # 英文關鍵字
             for kw in en_keywords:
-                if kw.lower() in text_to_search:
+                if en_hit(kw, f"{item['title']} {item.get('summary', '')}"):
                     matches.append({
                         "type": "drug",
                         "slug": drug_slug,
@@ -752,7 +763,7 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
 
             # 英文關鍵字
             for kw in ind_en_keywords:
-                if kw.lower() in text_to_search:
+                if en_hit(kw, f"{item['title']} {item.get('summary', '')}"):
                     matches.append({
                         "type": "indication",
                         "name": ind_name,
@@ -1239,7 +1250,9 @@ def carry_over_matched(news_items: list[dict]) -> list[dict]:
         return news_items
     for n in prev:
         if n.get("id") and n.get("matched_keywords"):
-            _PREV_MATCHES[n["id"]] = n["matched_keywords"]
+            t, sm = n.get("title", ""), n.get("summary", "")
+            _PREV_MATCHES[n["id"]] = [m for m in n["matched_keywords"]
+                                      if en_hit(m.get("keyword", ""), f"{t} {sm}") or local_hit(m.get("keyword", ""), t, sm)]
     seen_ids = {n.get("id") for n in news_items}
     seen_links = {s.get("link") for n in news_items for s in n.get("sources", [])}
     kept = []
