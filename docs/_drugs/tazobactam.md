@@ -5,7 +5,7 @@ parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 90
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Tazobactam: Bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidenzniveau: **N/A** | Vorhergesagte Indikationen: **0**
 Das TxGNN-Modell (Deep Learning, Score ≥ 0.99) hat für Tazobactam Kandidaten erzeugt. Alle Kandidaten, die sich auf eine Quelle zurückführen lassen, sind bereits bekannte Anwendungen. Daher gibt es für diesen Wirkstoff derzeit keine neue vorhergesagte Indikation.
 
 ## Kurzüberblick
+
 | Punkt | Inhalt |
 |------|------|
 | Neue vorhergesagte Indikationen | Keine (alle rückverfolgbaren Modellkandidaten sind bekannte Anwendungen) |
@@ -52,16 +53,19 @@ Das TxGNN-Modell (Deep Learning, Score ≥ 0.99) hat für Tazobactam Kandidaten 
 ## Bekannte Anwendungen unter den Kandidaten des Modells
 
 ### Zugelassen (durch Zulassung oder Fachinformation belegt)
+
 | Indikation | Quelle |
 |------|------|
 | Pneumonie (pneumonia) | Zulassung in einem anderen Land; zugelassene Indikation: hospital-acquired pneumonia (hap), including ventilator associated pneumonia (vap). consideration should be given to official guidance on the appropriate use of antibacterial agents |
 
 ### Verwandt mit einer zugelassenen Indikation (gleiche Krankheitskategorie)
+
 | Indikation | Zugelassene Kategorie |
 |------|------|
 | Harnwegsinfektion (urinary tract infection (disease)) | urinary tract infection |
 
 ### Beziehungen zu Erkrankungen (vermarktet, 6 von 6 Zulassungen gültig)
+
 | Indikation |
 |------|
 | Keine |
