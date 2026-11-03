@@ -4,17 +4,17 @@ title: Riluzole
 parent: Nur Modellvorhersage (L5)
 nav_order: 78
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "riluzole"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
-last_modified_at: 2026-10-28
-description: "Riluzole: vorhergesagte neue Indikation Bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) (Evidenzstufe L5). Ursprüngliche Indikatio…"
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
+last_modified_at: 2026-11-03
+description: "Riluzole: vorhergesagte neue Indikation bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) (Evidenzstufe L5)."
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Riluzol: Glutamat-Modulator → bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria)
+## Riluzole: bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Riluzol ist in der Schweiz für die amyotrophe Lateralsklerose (ALS) zugelassen. Für die bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria), eine Fehlbildung der Hirnrinde, liegt eine reine Modellvorhersage vor. Es gibt dafür weder klinische Studien noch Literatur, die Evidenz entspricht daher dem Niveau L5.
+Riluzol ist in der Schweiz als Arzneimittel zur Behandlung der amyotrophen Lateralsklerose zugelassen. Das Modell sagt eine mögliche Wirksamkeit bei der bilateralen parasagittalen parieto-okzipitalen Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) voraus. Dafür liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf einer Modellrechnung.
 
 ---
 
@@ -47,8 +49,8 @@ Riluzol ist in der Schweiz für die amyotrophe Lateralsklerose (ALS) zugelassen.
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Sclérose latérale amyotrophique (SLA); Sclerosi laterale amiotrofica (SLA) |
-| Vorhergesagte neue Indikation | Bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) |
-| TxGNN-Vorhersagewert | 0,9999 |
+| Vorhergesagte neue Indikation | bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) |
+| TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
@@ -58,9 +60,11 @@ Riluzol ist in der Schweiz für die amyotrophe Lateralsklerose (ALS) zugelassen.
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Riluzol ist in den vorliegenden Daten nicht hinterlegt. Allgemein bekannt ist, dass der Wirkstoff die Glutamat-Signalübertragung beeinflusst. Die zusammengestellten Daten liefern jedoch keinen Beleg dafür, dass dieser Effekt für eine Entwicklungsstörung der Hirnrinde wie die Polymikrogyrie relevant ist.
+Der Wirkmechanismus von Riluzol ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Allgemein bekannt ist, dass Riluzol die Signalübertragung über Glutamat beeinflusst und Natriumkanäle hemmen kann.
 
-Ein nachvollziehbarer mechanistischer Zusammenhang zwischen dem Anwendungsgebiet von Riluzol und dieser Erkrankung lässt sich damit derzeit nicht herleiten. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis des Modells und kein klinischer Hinweis auf Wirksamkeit.
+Die Polymikrogyrie ist eine Entwicklungsstörung der Hirnrinde. Die zusammengestellten Daten liefern keinen Hinweis, der die Glutamat-Modulation mit dieser Fehlbildung verbindet. Ein mechanistischer Zusammenhang ist daher nicht belegt.
+
+Der sehr hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Er ersetzt keine klinische oder wissenschaftliche Evidenz und sollte nur als Hypothese für weitere Prüfungen verstanden werden.
 
 ---
 
@@ -76,11 +80,21 @@ Ein nachvollziehbarer mechanistischer Zusammenhang zwischen dem Anwendungsgebiet
 
 ### Sicherheitshinweise
 
-- **Arzneimittelwechselwirkungen** (44 erfasst, Auswahl):
-  - Mässig: Obeticholsäure, Naltrexon, Deferasirox, Osilodrostat, Anagrelid, Asparaginase, Brentuximab vedotin, Clofarabin, Methotrexat, Epirubicin
-  - Gering: Omeprazol, Koffein, Theophyllin, Aminophyllin
+- **Arzneimittelwechselwirkungen**: Für Riluzol sind 44 Wechselwirkungen erfasst. Als mittelschwer eingestuft sind unter anderem:
+  - Obeticholsäure
+  - Naltrexon
+  - Deferasirox
+  - Osilodrostat
+  - Anagrelid
+  - Asparaginase (E. coli)
+  - Brentuximab vedotin
+  - Clofarabin
+  - Methotrexat
+  - Epirubicin
+  
+  Geringfügig sind unter anderem Omeprazol, Koffein, Theophyllin und Aminophyllin.
 
-Warnhinweise und Kontraindikationen aus der Fachinformation liegen in den Daten nicht vor. Bitte beachten Sie die Fachinformation für diese Sicherheitsinformationen.
+Die Fachinformation enthält die vollständigen Angaben zu Warnungen und Kontraindikationen. Diese lagen für diesen Bericht nicht vor.
 
 ---
 
@@ -89,13 +103,14 @@ Warnhinweise und Kontraindikationen aus der Fachinformation liegen in den Daten 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch Literatur zur vorhergesagten Erkrankung, und ein mechanistischer Zusammenhang ist nicht belegt. Die Vorhersage beruht allein auf dem Modell.
+- Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, und ein plausibler Wirkmechanismus ist nicht erkennbar. Das Evidenzniveau ist L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Wirkmechanismus von Riluzol aus einer verlässlichen Quelle (z. B. DrugBank)
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Präklinische oder klinische Daten, die einen Zusammenhang zwischen Glutamat-Modulation und Polymikrogyrie stützen
-- Eine systematische Literaturrecherche zur Erkrankung
+- Präklinische oder mechanistische Studien, die eine Wirkung von Riluzol bei kortikalen Entwicklungsstörungen untersuchen
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Auswertung der Fachinformation der Swissmedic zu Warnungen und Kontraindikationen
+- Bewertung der Sicherheit bei dieser meist früh betroffenen Patientengruppe
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
