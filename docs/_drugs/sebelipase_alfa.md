@@ -4,17 +4,17 @@ title: Sebelipase Alfa
 parent: Nur Modellvorhersage (L5)
 nav_order: 82
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Sebelipase Alfa: vorhergesagte neue Indikation Scheie-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mi…"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "sebelipase alfa"
-predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "cholesteryl ester storage disease", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
+description: "Sebelipase Alfa: vorhergesagte neue Indikation Scheie-Syndrom (Scheie syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mi…"
 ---
 
 # Sebelipase Alfa
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Sebelipase alfa: Von LAL-Mangel zu Scheie-Syndrom
+## Sebelipase Alfa: Scheie-Syndrom (Scheie syndrome)
 {: .text-alpha }
-
----
 
 ## Zusammenfassung
 
-Sebelipase alfa (Kanuma) ist ein Enzymersatzpräparat, das in der Schweiz zur langfristigen Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel (Mangel an lysosomaler saurer Lipase) zugelassen ist. Das Computermodell TxGNN sagt mit sehr hohem Wert eine Wirksamkeit beim Scheie-Syndrom voraus, einer abgeschwächten Form der Mukopolysaccharidose Typ I. Dafür gibt es bisher weder klinische Studien noch Publikationen. Die Vorhersage beruht allein auf dem Modell und hat keine erkennbare biologische Grundlage.
+Sebelipase alfa ist eine Enzymersatztherapie, die in der Schweiz zugelassen ist. Für das Scheie-Syndrom (Scheie syndrome) liegt ein sehr hoher Vorhersagewert vor, doch es gibt dazu weder klinische Studien noch Literatur. Die Evidenz beruht allein auf der Modellvorhersage.
 
 ---
 
@@ -48,10 +46,10 @@ Sebelipase alfa (Kanuma) ist ein Enzymersatzpräparat, das in der Schweiz zur la
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel |
-| Vorhergesagte neue Indikation | Scheie-Syndrom |
-| TxGNN-Vorhersagewert | 0,9980 |
-| Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
+| Ursprüngliche Indikation | langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel |
+| Vorhergesagte neue Indikation | Scheie-Syndrom (Scheie syndrome) |
+| TxGNN-Vorhersagewert | 0.9980 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
@@ -60,23 +58,23 @@ Sebelipase alfa (Kanuma) ist ein Enzymersatzpräparat, das in der Schweiz zur la
 
 ## Warum ist diese Vorhersage plausibel?
 
-Sebelipase alfa ist eine rekombinante menschliche lysosomale saure Lipase (LAL). Sie ersetzt das Enzym, das bei LAL-Mangel fehlt. Dadurch sollen sich weniger Lipide in den Lysosomen ansammeln.
+Zum Wirkmechanismus von Sebelipase alfa liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass das Arzneimittel das Enzym lysosomale saure Lipase (LAL) ersetzt.
 
-Das Scheie-Syndrom entsteht dagegen durch einen Mangel an alpha-L-Iduronidase, einem anderen lysosomalen Enzym. Sebelipase alfa ersetzt ausschliesslich die LAL. Eine direkte mechanistische Begründung für eine Wirkung beim Scheie-Syndrom gibt es deshalb nicht.
+Das Scheie-Syndrom (abgeschwächte Form der Mukopolysaccharidose Typ I) entsteht durch einen Mangel an alpha-L-Iduronidase, einem anderen lysosomalen Enzym. Sebelipase alfa ersetzt nur LAL. Ein direkter mechanistischer Zusammenhang besteht daher nicht.
 
-Der hohe Vorhersagewert spiegelt wahrscheinlich nur die Nähe der lysosomalen Speicherkrankheiten im Wissensnetzwerk des Modells wider. Ein gemeinsames enzymatisches Ziel ist es nicht. Beide Erkrankungen sind lysosomale Speicherkrankheiten, aber das genügt nicht, um eine Wirksamkeit abzuleiten.
+Der hohe Vorhersagewert spiegelt vermutlich die Nähe verschiedener lysosomaler Speicherkrankheiten im Modell wider und nicht ein gemeinsames Enzym als Angriffspunkt. Die Plausibilität ist entsprechend gering.
 
 ---
 
 ## Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ## Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -99,16 +97,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe Modellwert wird weder durch einen Wirkmechanismus noch durch klinische oder publizierte Evidenz gestützt. Das fehlende Enzym beim Scheie-Syndrom (alpha-L-Iduronidase) unterscheidet sich von dem, das Sebelipase alfa ersetzt (LAL).
-- Die Vorhersage ist wahrscheinlich ein Artefakt der Netzwerknähe zwischen lysosomalen Speicherkrankheiten.
+- Für das Scheie-Syndrom gibt es weder Studien noch Publikationen, und es fehlt eine mechanistische Grundlage, da ein anderes Enzym betroffen ist. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische Daten, die eine Wirkung von Sebelipase alfa bei alpha-L-Iduronidase-Mangel belegen, oder ein nachvollziehbarer biologischer Wirkungsweg.
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen). Sie fehlen in den zusammengestellten Daten und müssen vor jeder weiteren Prüfung ergänzt werden.
-- Die Angaben zum Wirkmechanismus aus DrugBank, um den Zusammenhang genauer zu analysieren.
-- Eine Prüfung der Darreichungsweise, falls später Evidenz vorliegt.
+- Präklinische Daten, die eine Wirkung von Sebelipase alfa bei alpha-L-Iduronidase-Mangel belegen
+- Eine nachvollziehbare mechanistische Begründung
+- Angaben zum Wirkmechanismus und die Sicherheitsangaben aus der Fachinformation
 
-**Hinweis zu weiteren Vorhersagen:** Unter den weiteren Vorhersagen des Modells befinden sich Erkrankungen mit deutlich besserer Evidenz. Dazu gehören die Cholesterinester-Speicherkrankheit und die Wolman-Krankheit. Beide sind Formen des LAL-Mangels und damit die bereits zugelassene Indikation, also keine echte Umwidmung. Für die Cholesterinester-Speicherkrankheit liegen mehrere abgeschlossene klinische Studien vor, darunter eine randomisierte, placebokontrollierte Phase-3-Studie. Sie stützen vor allem die Plausibilität des Modells, nicht aber den hier bewerteten Kandidaten.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
