@@ -18,86 +18,50 @@ import requests
 from github_utils import create_issue, close_older_clinicaltrials_issues
 
 
-def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
-    """Check if predicted indication overlaps with approved indication.
+# 2026-11-03：已核准用途排除改成嚴格比對。原本的關鍵字比對會誤殺（例如 amlodipine 的
+# pulmonary hypertension 因為 hypertension 被排除）；現在只認兩種情形：
+#   1. 正規化後名稱完全相同
+#   2. 一方是另一方前後加上限定詞（type 2、subtype A、form、variant 等）
+# approved_indication 是 extract_drug_list.py 輸出的「; 」分隔已知適應症（英文疾病名）。
+_QUALIFIER_WORDS = {"type", "subtype", "form", "variant", "group", "class", "grade", "stage"}
 
-    Uses keyword matching to detect if the predicted indication is likely
-    already approved for the drug.
+
+def _norm_indication(name: str) -> list:
+    name = re.sub(r"\((disease|disorder)\)", " ", (name or "").lower())
+    return re.sub(r"[^\w]+", " ", name).split()
+
+
+def _is_qualifier(words: list) -> bool:
+    # 限定詞要以 type／subtype 等字開頭（"type 2"、"subtype a"）；單獨的字母不算（hepatitis b ≠ hepatitis）
+    return bool(words) and words[0] in _QUALIFIER_WORDS and all(
+        w in _QUALIFIER_WORDS or re.fullmatch(r"\d+[a-z]?|[ivx]+|[a-z]", w) for w in words)
+
+
+def _same_or_qualified(a: list, b: list) -> bool:
+    if a == b:
+        return True
+    short, long_ = (a, b) if len(a) < len(b) else (b, a)
+    if not short or len(short) == len(long_):
+        return False
+    n = len(short)
+    for i in range(len(long_) - n + 1):
+        if long_[i:i + n] == short and _is_qualifier(long_[:i] + long_[i + n:]) \
+                and (i == 0 or i + n == len(long_)):
+            return True
+    return False
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Is the predicted indication one of the drug's known (approved) indications?
+
+    Strict match against each '; '-separated known indication: identical after
+    normalization, or one is the other plus a qualifier (e.g. 'type 2', 'subtype A').
     """
     if not approved_indication or not predicted_indication:
         return False
-
-    approved_lower = approved_indication.lower()
-    predicted_lower = predicted_indication.lower()
-
-    # Extract meaningful keywords from predicted indication
-    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
-    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
-    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
-
-    words = cleaned.split()
-
-    # Generic medical terms that are too broad for matching
-    generic_terms = {
-        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
-        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
-        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
-        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
-        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
-        'deficiency', 'failure', 'insufficiency', 'inflammation',
-        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
-    }
-
-    # Keep important acronyms even if short
-    important_acronyms = {
-        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
-        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
-    }
-
-    # Expanded forms for acronyms
-    expanded_terms = {
-        'hiv': 'immunodeficiency virus',
-        'aids': 'acquired immunodeficiency',
-        'copd': 'chronic obstructive pulmonary',
-        'adhd': 'attention deficit',
-        'als': 'amyotrophic lateral sclerosis',
-    }
-
-    keywords = []
-    for w in words:
-        w_lower = w.lower()
-        if w_lower in important_acronyms:
-            keywords.append(w_lower)
-        elif w_lower not in generic_terms and len(w) > 4:
-            keywords.append(w_lower)
-
-    if not keywords:
-        return False
-
-    # Check if specific keywords appear in approved indication
-    matches = 0
-    for kw in keywords:
-        pattern = r'\b' + re.escape(kw) + r'\b'
-        if re.search(pattern, approved_lower):
-            matches += 1
-        elif kw in expanded_terms:
-            if expanded_terms[kw] in approved_lower:
-                matches += 1
-
-    # Need majority of specific keywords to match
-    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
-        return True
-
-    # Single very specific keyword match
-    for kw in keywords:
-        if len(kw) > 8:
-            pattern = r'\b' + re.escape(kw) + r'\b'
-            if re.search(pattern, approved_lower):
-                return True
-        elif kw in expanded_terms and expanded_terms[kw] in approved_lower:
-            return True
-
-    return False
+    pred = _norm_indication(predicted_indication)
+    return any(_same_or_qualified(pred, _norm_indication(k))
+               for k in re.split(r"[;；]", approved_indication) if k.strip())
 
 # Configuration
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
@@ -106,6 +70,7 @@ DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/EuTxGNN")
 RATE_LIMIT_DELAY = 0.5  # seconds between API calls
+DAYS_BACK = 7  # 查詢窗：LastUpdatePostDate 在這幾天內；其中 StudyFirstPostDate 也在窗內的才算新試驗
 
 
 def load_cache() -> dict:
@@ -163,6 +128,19 @@ def _clean_condition(name: str) -> str:
     return re.sub(r"\s+", " ", name).strip().replace('"', "")
 
 
+def trial_hits(trial: dict, indications: list) -> list:
+    """試驗的 condition 直接對到哪些預測新適應症（原 issue 內文「Matched predicted indication」的比對）。"""
+    conds = [c for c in trial.get("protocolSection", {}).get("conditionsModule", {}).get("conditions", []) if c.strip()]
+    return [i for i in (indications or [])
+            if any(_clean_condition(i).lower() in c.lower() or c.lower() in _clean_condition(i).lower() for c in conds)]
+
+
+def first_posted(trial: dict) -> str:
+    """StudyFirstPostDate（YYYY-MM-DD 或 YYYY-MM）；沒有就回傳空字串。"""
+    status = trial.get("protocolSection", {}).get("statusModule", {})
+    return (status.get("studyFirstPostDateStruct") or {}).get("date", "")
+
+
 def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -> list:
     """Search for trials updated in the last N days.
 
@@ -174,7 +152,7 @@ def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -
         "query.intr": drug_name,
         "filter.advanced": f"AREA[LastUpdatePostDate]RANGE[{min_date},MAX]",
         "pageSize": 50,
-        "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,InterventionName,InterventionType,InterventionOtherName"
+        "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,StudyFirstPostDate,InterventionName,InterventionType,InterventionOtherName"
     }
     # ClinicalTrials.gov 對過長片語回 400「Too complicated query」：略過超過 6 個字的疾病名
     conds = [f'"{_clean_condition(c)}"' for c in (conditions or [])
@@ -246,12 +224,13 @@ def create_github_issue(drug_name: str, new_trials: list, indications: list = No
         enrollment = design_module.get("enrollmentInfo", {}).get("count", "Unknown")
 
         conds = protocol.get("conditionsModule", {}).get("conditions", [])
-        hit = [i for i in (indications or []) if any(_clean_condition(i).lower() in c.lower() or c.lower() in _clean_condition(i).lower() for c in conds)]
+        hit = trial_hits(trial, indications)
         role = _role_flags(brief_title)
         trial_details.append(
             f"### {nct_id}\n"
             f"- **Title**: {brief_title}\n"
             f"- **Conditions**: {'; '.join(conds) if conds else '-'}\n"
+            f"- **First posted**: {first_posted(trial) or '-'}\n"
             f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(no direct condition match)'}\n"
             + (f"- **⚠ Role flag**: {role}\n" if role else "")
             + f"- **Status**: {status}\n"
@@ -277,10 +256,10 @@ This issue was automatically created by GitHub Actions.
 ClinicalTrials.gov
 
 ### Evidence Type
-New/Updated Clinical Trials
+New Clinical Trials (first posted in the last 7 days)
 
 ### Details
-Found **{len(new_trials)}** new or updated clinical trials:
+Found **{len(new_trials)}** new clinical trials:
 
 {"".join(trial_details)}
 
@@ -315,6 +294,7 @@ def main():
     # Check each drug
     new_findings = []
     seen_trials = cache.get("seen_trials", {})
+    min_first_posted = (datetime.now() - timedelta(days=DAYS_BACK)).strftime("%Y-%m-%d")
     skipped_known = 0
 
     for i, drug in enumerate(drugs):
@@ -322,18 +302,20 @@ def main():
         predicted_indication = drug.get("predicted_indication", "")
         approved_indication = drug.get("approved_indication", "")
 
-        # Skip if predicted indication is a known/approved indication
-        if predicted_indication and approved_indication:
-            if is_known_indication(approved_indication, predicted_indication):
-                skipped_known += 1
-                continue
+        # 2026-11-03：不再因第一個預測是已知適應症就整個藥跳過；改在下面逐一排除
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
         predicted = drug.get("predicted_indications") or []
+        # 2026-11-03：逐一排除和已核准用途重疊的預測（approved_indication 由 extract_drug_list.py 提供）
+        if approved_indication:
+            predicted = [x for x in predicted if not is_known_indication(approved_indication, x)]
+            if not predicted:
+                skipped_known += 1
+                continue
         if not predicted or not drug.get("inn"):
             continue
-        trials = search_trials(drug["inn"], days_back=7, conditions=predicted)
+        trials = search_trials(drug["inn"], days_back=DAYS_BACK, conditions=predicted)
         time.sleep(RATE_LIMIT_DELAY)
 
         if not trials:
@@ -354,17 +336,26 @@ def main():
             # Skip issue creation for initial discovery (first time seeing this drug)
             if is_initial_discovery:
                 print(f"  Initial discovery: {len(new_trials)} trials (baseline established)")
-            # Skip if only 1 trial - wait for more evidence
-            elif len(new_trials) < 2:
-                print(f"  Only {len(new_trials)} trial found - below threshold")
             else:
-                print(f"  Found {len(new_trials)} new trials!")
-                conds = " ".join(" ".join(t.get("protocolSection", {}).get("conditionsModule", {}).get("conditions", [])) for t in new_trials).lower()
-                new_findings.append({
-                    "drug": drug_name,
-                    "trials": new_trials,
-                    "indications": [x for x in predicted if _clean_condition(x).lower() in conds] or predicted,
-                })
+                # 2026-11-03：只有「首次刊登」在查詢窗內的才算新試驗；舊試驗只是更新（LastUpdatePostDate）
+                # 不開 issue，NCT 照樣記進 cache。
+                fresh = [t for t in new_trials if first_posted(t) >= min_first_posted]
+                hits = [x for x in predicted if any(x in trial_hits(t, predicted) for t in fresh)]
+                if len(fresh) < len(new_trials):
+                    print(f"  {len(new_trials) - len(fresh)} updated older trial(s) - cache only")
+                # Skip if only 1 trial - wait for more evidence
+                if len(fresh) < 2:
+                    print(f"  Only {len(fresh)} newly posted trial(s) - below threshold")
+                # 至少一筆試驗的 condition 直接對到目前的預測新適應症才開 issue
+                elif not hits:
+                    print(f"  {len(fresh)} new trials, none directly matches a predicted indication - cache only")
+                else:
+                    print(f"  Found {len(fresh)} new trials!")
+                    new_findings.append({
+                        "drug": drug_name,
+                        "trials": fresh,
+                        "indications": hits,
+                    })
 
         # Update seen trials
         seen_trials[drug_name] = drug_seen

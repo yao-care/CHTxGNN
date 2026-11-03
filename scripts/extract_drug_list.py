@@ -38,9 +38,31 @@ def extract_predicted_indication(content: str) -> str:
     return ""
 
 
+def load_known_indications() -> dict:
+    """2026-11-03：已知（已核准）適應症，給 check_*.py 的 is_known_indication() 排除用。
+
+    來源是 docs/data/search-index.json 每個藥的 "original"：TxGNN 知識圖譜上該藥已有的適應症
+    （英文疾病名，以「；」分隔），和 predicted_indications 同一套名稱。沒有這個檔或欄位就回傳空表，
+    各藥的 approved_indication 就是空字串（不排除，和以前一樣）。
+    """
+    index_file = Path(__file__).parent.parent / "docs" / "data" / "search-index.json"
+    try:
+        entries = json.loads(index_file.read_text(encoding="utf-8")).get("drugs", [])
+    except (OSError, ValueError):
+        return {}
+    known = {}
+    for entry in entries:
+        original = "; ".join(x.strip() for x in str(entry.get("original") or "").split("；") if x.strip())
+        if original:
+            known[("slug", entry.get("slug", ""))] = original
+            known[("name", str(entry.get("name", "")).lower())] = original
+    return known
+
+
 def main():
     drugs_dir = Path(__file__).parent.parent / "docs" / "_drugs"
     output_file = Path(__file__).parent / "drug_list.json"
+    known = load_known_indications()
 
     drugs = []
 
@@ -64,6 +86,8 @@ def main():
         monitor_inn = front_matter.get("monitor_inn", "")
         if not predicted_indications or not monitor_inn:
             continue
+        slug = re.sub(r"[\W_]+", "-", md_file.stem, flags=re.U).strip("-").lower()
+        approved_indication = known.get(("slug", slug)) or known.get(("name", drug_name.lower()), "")
 
         drugs.append({
             "name": drug_name,
@@ -73,6 +97,7 @@ def main():
             "predicted_indication": predicted_indication,
             "inn": monitor_inn,
             "predicted_indications": predicted_indications,
+            "approved_indication": approved_indication,
         })
 
     # Save to JSON
@@ -84,6 +109,7 @@ def main():
         }, f, indent=2, ensure_ascii=False)
 
     print(f"Extracted {len(drugs)} drugs to {output_file}")
+    print(f"  with approved_indication (search-index original): {sum(1 for d in drugs if d['approved_indication'])}")
 
     # Print summary
     level_counts = {}
