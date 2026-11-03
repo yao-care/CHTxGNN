@@ -22,7 +22,7 @@ evidence_level: N/A
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | mindestens 9 |
 | DrugBank ID | [DB01222](https://go.drugbank.com/drugs/DB01222) |
-| Anzahl vorhergesagter Indikationen | 8 |
+| Neue vorhergesagte Indikationen | Keine |
 
 ## Haftungsausschluss
 

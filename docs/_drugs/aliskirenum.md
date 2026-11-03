@@ -22,7 +22,7 @@ evidence_level: N/A
 | Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 0) |
 | DrugBank ID | [DB09026](https://go.drugbank.com/drugs/DB09026) |
-| Anzahl vorhergesagter Indikationen | 2 |
+| Neue vorhergesagte Indikationen | Keine |
 
 ## Haftungsausschluss
 
