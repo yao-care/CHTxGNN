@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "talimogene laherparepvec"
 predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
-description: "Talimogene Laherparepvec: vorhergesagte neue Indikation Glottis squamous cell carcinoma (Evidenzstufe L5)."
+description: "Talimogene Laherparepvec: vorhergesagte neue Indikation Glottis-Plattenepithelkarzinom (glottis squamous cell carcinoma) (Evidenzstufe L5)."
 ---
 
 # Talimogene Laherparepvec
@@ -33,54 +33,40 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Talimogene Laherparepvec: Glottis squamous cell carcinoma
+## Talimogene Laherparepvec: Glottis-Plattenepithelkarzinom (glottis squamous cell carcinoma)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Talimogen laherparepvec (Imlygic) ist in der Schweiz zur Behandlung von Melanomen mit regionalen oder entfernten Metastasen bei Erwachsenen zugelassen. Das Modell sagt voraus, dass es auch bei CMM7, einem Subtyp des kutanen malignen Melanoms, wirksam sein könnte. Diese Vorhersage beruht ausschliesslich auf einer Modellrechnung. Klinische Studien oder Literatur zu dieser Indikation liegen in den zusammengestellten Daten nicht vor.
+Talimogen laherparepvec (Imlygic) ist ein Gentherapieprodukt, das in der Schweiz zugelassen ist. Das Modell sagt voraus, dass es bei einem Plattenepithelkarzinom der Glottis (glottis squamous cell carcinoma) wirksam sein könnte. Diese Vorhersage beruht allein auf dem Modell: Es liegen weder klinische Studien noch Publikationen zu dieser Erkrankung vor.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Imlygic ist zur Behandlung von Melanomen mit regionalen oder entfernten Metastasen bei Erwachsenen indiziert. |
-| Vorhergesagte neue Indikation | Glottis squamous cell carcinoma |
+| Vorhergesagte neue Indikation | Glottis-Plattenepithelkarzinom (glottis squamous cell carcinoma) |
 | TxGNN-Vorhersagewert | 0.9907 |
-| Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein handelt es sich bei Talimogen laherparepvec um ein onkolytisches Virus. Die Beschreibung in den Daten nennt als Grundlage eine Virusvermehrung in Tumorzellen, die lokale Zerstörung der Läsionen und eine durch GM-CSF vermittelte Immunaktivierung.
+Der Wirkmechanismus von Talimogen laherparepvec ist in den für diesen Bericht zusammengestellten Daten nicht erfasst. Als onkolytisches Virus-Präparat wird es direkt in Tumorläsionen gespritzt. Dieser allgemeine Ansatz ist hier die einzige Grundlage für die Überlegungen.
 
-CMM7 ist ein Subtyp des kutanen malignen Melanoms. Die ursprüngliche Zulassung betrifft bereits Melanome mit regionalen oder entfernten Metastasen. Die sehr nahe biologische Verwandtschaft erklärt sehr wahrscheinlich den hohen Vorhersagewert.
+Plattenepithelkarzinome im Kopf-Hals-Bereich sind für eine direkte Injektion in den Tumor grundsätzlich denkbar, weil die Läsionen oft gut zugänglich sind. Das ist ein theoretisches Argument, das durch keine Daten gestützt wird.
 
-Die Verbindung bleibt jedoch eine reine Vorhersage. Für diesen Subtyp wurden weder Studien noch Publikationen gefunden. Die Ähnlichkeit zur ursprünglichen Indikation ist noch nicht im Detail bewertet.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
+Bedenken bestehen bei der Glottis: Eine Injektion im Kehlkopf birgt Risiken für die Atemwege und die Sicherheit. Zur Glottis lagen keine Daten vor. Die Verbindung beruht ausschliesslich auf der Modellvorhersage.
 
 ---
 
-## Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
-
----
-
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -88,48 +74,40 @@ Derzeit keine verwandte Literatur verfügbar
 
 ---
 
-## Zytotoxizität
+### Zytotoxizität
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Immuntherapie (onkolytische Virotherapie, Gentherapieprodukt) |
-| Handhabungsschutz | Als Gentherapieprodukt mit Herpes-simplex-Virus sind besondere Schutzmassnahmen bei Zubereitung und Verabreichung zu erwarten. Details sind der Fachinformation zu entnehmen. |
+| Zytotoxizitätsklassifikation | Immuntherapie (onkolytische Gentherapie) |
+
+Weitere Angaben zu Myelosuppression, Emetogenität, Überwachung und Handhabungsschutz sind in den Daten nicht enthalten. Bitte beachten Sie die Fachinformation.
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-- **Arzneimittelwechselwirkungen**: Insgesamt wurden 213 Wechselwirkungen erfasst. Die wichtigsten Einträge sind:
-  - **Schwerwiegend (Major)**: Kortikosteroide (Hydrocortison, Triamcinolon, Dexamethason, Betamethason, Budesonid, Prednison, Prednisolon), Dexrazoxan, Iobenguan (I-131), Ibritumomab tiuxetan, Tositumomab (auch I-131), Levamisol, Trimetrexat, Mercaptopurin, Dupilumab
-  - **Mässig (Moderate)**: Aciclovir (auch topisch), Penciclovir (topisch)
+- **Arzneimittelwechselwirkungen**: Es sind 213 Wechselwirkungen verzeichnet. Als schwerwiegend (Major) eingestuft sind unter anderem:
+  - Kortikosteroide: Hydrocortison, Triamcinolon, Dexamethason, Betamethason, Budesonid, Prednison, Prednisolon
+  - Dexrazoxan, Dupilumab, Levamisol, Trimetrexat, Mercaptopurin
+  - radioaktive und radiomarkierte Substanzen: Iobenguan (I-131), Ibritumomab-Tiuxetan, Tositumomab (auch I-131)
+- Als mässig (Moderate) eingestuft sind Aciclovir (auch topisch) und Penciclovir (topisch).
 
-  Wechselwirkungen mit Aciclovir und Penciclovir sind plausibel, da diese Virostatika gegen Herpesviren wirken und die Wirkung eines herpesbasierten Virus beeinträchtigen könnten.
-
-Weitere Sicherheitsinformationen (Warnungen, Kontraindikationen) liegen nicht vor. Bitte beachten Sie die Fachinformation.
+Warnhinweise und Kontraindikationen aus der Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf das Modell (Evidenzniveau L5). Für CMM7 liegen weder klinische Studien noch Publikationen vor.
-- Die Sicherheitsprüfung kann nicht abgeschlossen werden, da die Warnhinweise und Kontraindikationen der Fachinformation fehlen.
+- Die Vorhersage beruht allein auf dem Modell, ohne Studien oder Literatur zu dieser Erkrankung. Zusätzlich bestehen Sicherheitsbedenken bei der Injektion im Kehlkopf.
 
 **Um fortzufahren, wird Folgendes benötigt:**
+- Präklinische oder klinische Daten zu Plattenepithelkarzinomen des Kehlkopfs
+- Bewertung der Machbarkeit und Sicherheit der Injektion im Bereich der Atemwege
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus (z. B. aus DrugBank)
-- Prüfung, ob CMM7 von der bestehenden Melanom-Zulassung bereits erfasst ist und ob überhaupt eine neue Indikation vorliegt
-- Gezielte Recherche nach klinischen Studien und Literatur zu CMM7
-- Bewertung der Verabreichungswege
-
----
-
-**Weitere vorhergesagte Indikationen (alle Evidenzniveau L5, Empfehlung: Abwarten)**
-
-| Rang | Erkrankung | TxGNN-Wert | Wichtigste Einschränkung |
-|---|---|---|---|
+- Angaben zum Wirkmechanismus des Präparats
 
 ## Haftungsausschluss
 

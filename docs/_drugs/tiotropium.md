@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "TIOTROPIUM"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-description: "Tiotropium: vorhergesagte neue Indikation Respiratory malformation (Evidenzstufe L5). Ursprüngliche Indikation: Dauerbehandlung COPD"
+description: "Tiotropium: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Dauerbehandlung COPD"
 ---
 
 # Tiotropium
@@ -33,106 +33,99 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Tiotropium: Respiratory malformation
+## Tiotropium: Atemwegsfehlbildung (respiratory malformation)
 {: .text-alpha }
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Tiotropium ist ein langwirksamer Muskarinrezeptor-Antagonist, der in der Schweiz zur Dauerbehandlung der chronisch obstruktiven Lungenerkrankung (COPD) zugelassen ist. Das Modell sagt eine Wirksamkeit bei «obstruktiver Lungenerkrankung» voraus. Dabei handelt es sich im Wesentlichen um eine Erweiterung der bestehenden Zulassung und nicht um eine echte Umwidmung. Die Evidenz ist breit: Mehrere abgeschlossene Phase-3-Studien und randomisierte Studien sowie systematische Übersichten liegen vor.
+Tiotropium ist ein inhalatives, langwirksames Anticholinergikum, das in der Schweiz zugelassen ist. Die Vorhersage für eine Atemwegsfehlbildung (respiratory malformation) stützt sich auf ein Modell. Direkte Studien zu dieser Erkrankung liegen in den für diesen Bericht zusammengestellten Daten nicht vor, daher ist die Evidenz sehr schwach (Niveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Dauerbehandlung COPD; COPD |
-| Vorhergesagte neue Indikation | Respiratory malformation |
+| Vorhergesagte neue Indikation | Atemwegsfehlbildung (respiratory malformation) |
 | TxGNN-Vorhersagewert | 0.9995 |
-| Evidenzniveau | L5 (mehrere abgeschlossene Phase-3-Studien) |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben aus der Arzneimitteldatenbank vor. Aus der Literatur geht jedoch hervor: Tiotropium blockiert muskarinische M3-Rezeptoren an der glatten Atemwegsmuskulatur und löst dadurch eine anhaltende Bronchodilatation aus. Es löst sich nur langsam von den Rezeptoren, was die einmal tägliche Anwendung erlaubt.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Tiotropium gehört zur Klasse der Muskarinrezeptor-Antagonisten. Solche Substanzen entspannen die glatte Muskulatur der Atemwege und können so den Atemwegswiderstand senken.
 
-Die vorhergesagte Indikation «obstruktive Lungenerkrankung» überschneidet sich fast vollständig mit der zugelassenen COPD-Indikation. Der hohe Vorhersagewert spiegelt daher vor allem die Wiedergabe der bekannten Indikation wider. Andere obstruktive Krankheitsbilder wie Asthma teilen den cholinergen Bronchokonstriktionsweg. Dies ist ein möglicher Anknüpfungspunkt, der aber über die vorliegende Vorhersage hinausgeht.
+Eine Atemwegsfehlbildung ist jedoch ein struktureller Defekt. Ein Bronchodilatator kann solche Anomalien nicht korrigieren. Allenfalls könnte er eine sekundäre Atemwegsobstruktion lindern. Die Verbindung wirkt eher wie ein Zuordnungsartefakt der Modellvorhersage als wie ein belegter biologischer Zusammenhang.
+
+Die verknüpften Studien betreffen andere Patientengruppen (Mukoviszidose) und keine Fehlbildungen. Ein direkter mechanistischer Nutzen ist daher nicht belegt.
 
 ---
 
-## Klinische Studien
-
-Die Tabelle zeigt die zehn relevantesten Studien (Auswahl aus den insgesamt aufgeführten Studien).
+### Klinische Studien
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00240435](https://clinicaltrials.gov/study/NCT00240435) | Phase 3 | Abgeschlossen | 491 | Doppelblinder, placebo- und wirkstoffkontrollierter Vergleich zweier Dosen Tiotropium (Respimat) mit Placebo und Ipratropium bei COPD; Ziel war die bronchodilatatorische Wirksamkeit. Detaillierte Ergebnisse liegen nicht vor. |
-| [NCT01431274](https://clinicaltrials.gov/study/NCT01431274) | Phase 3 | Abgeschlossen | 2624 | 52-Wochen-Studie (TOnado 1) zu Tiotropium + Olodaterol gegenüber den Einzelkomponenten bei COPD (Wirksamkeit und Sicherheit). |
-| [NCT00877383](https://clinicaltrials.gov/study/NCT00877383) | Phase 3 | Abgeschlossen | 1142 | Indacaterol plus Tiotropium gegenüber Tiotropium allein über 12 Wochen bei mittelschwerer bis schwerer COPD. |
-| [NCT00900731](https://clinicaltrials.gov/study/NCT00900731) | Phase 3 | Abgeschlossen | 1598 | Indacaterol gegenüber Tiotropium über 12 Wochen; Vergleich der Lungenfunktion. |
-| [NCT01854645](https://clinicaltrials.gov/study/NCT01854645) | Phase 3 | Abgeschlossen | 2103 | 24-Wochen-Studie bei mittelschwerer bis sehr schwerer COPD mit Placebo und offenem Tiotropium als aktiver Kontrolle. |
-| [NCT00157235](https://clinicaltrials.gov/study/NCT00157235) | Phase 3 | Abgeschlossen | 234 | Placebokontrollierte Studie zum Effekt von Tiotropium auf die Belastbarkeit bei Lungenrehabilitation. |
-| [NCT00144326](https://clinicaltrials.gov/study/NCT00144326) | Phase 3 | Abgeschlossen | 250 | Placebokontrollierte 12-Wochen-Studie zur körperlichen Aktivität (Beschleunigungsmesser) bei COPD. |
-| [NCT02172807](https://clinicaltrials.gov/study/NCT02172807) | Phase 3 | Abgeschlossen | 201 | 4-Wochen-Studie zu Tiotropium (18 µg, 36 µg) gegenüber Oxitropium bei COPD. |
-| [NCT04780984](https://clinicaltrials.gov/study/NCT04780984) | Phase 2 | Abgeschlossen | 116 | Randomisierte Dosisfindungsstudie zu Pharmakodynamik, relativer Bioverfügbarkeit und Sicherheit von Tiotropium-Inhalationslösung. |
-| [NCT02172443](https://clinicaltrials.gov/study/NCT02172443) | Phase 3 | Abgeschlossen | 50 | Tiotropium-Kapseln gegenüber Ipratropium-Dosieraerosol; kleine Stichprobe. |
+| [NCT01179347](https://clinicaltrials.gov/study/NCT01179347) | Phase 3 | Abgeschlossen | 464 | Placebokontrollierte 12-Wochen-Studie zu Tiotropium 5 µg (Respimat) bei Mukoviszidose; keine Daten zu Fehlbildungen |
+| [NCT00737100](https://clinicaltrials.gov/study/NCT00737100) | Phase 2 | Abgeschlossen | 510 | Zwei Dosen (2,5 und 5 µg) gegen Placebo über 12 Wochen bei Mukoviszidose; Lungenfunktion, Sicherheit und Pharmakokinetik |
+| [NCT02172534](https://clinicaltrials.gov/study/NCT02172534) | Phase 1 | Abgeschlossen | 113 | Sicherheit, Verträglichkeit und Pharmakokinetik bei Kindern und Erwachsenen mit Mukoviszidose |
+
+Alle Studien sind für die vorhergesagte Indikation nur indirekt relevant.
 
 ---
 
-## Literaturbelege
+### Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [28877027](https://pubmed.ncbi.nlm.nih.gov/28877027/) | 2017 | RCT | The New England Journal of Medicine | Untersucht, ob eine Langzeitanwendung von Tiotropium die Lungenfunktion verbessert und deren Abnahme bei leichter bis mittelschwerer COPD bremst. |
-| [29779416](https://pubmed.ncbi.nlm.nih.gov/29779416/) | 2018 | RCT | American Journal of Respiratory and Critical Care Medicine | SUNSET-Studie: Deeskalation der Dreifachtherapie auf Indacaterol/Glycopyrronium bei COPD ohne häufige Exazerbationen. |
-| [25046211](https://pubmed.ncbi.nlm.nih.gov/25046211/) | 2014 | Systematische Übersicht | Cochrane Database of Systematic Reviews | Tiotropium gegenüber Placebo bei COPD, einschliesslich Soft-Mist-Inhalator. |
-| [23728670](https://pubmed.ncbi.nlm.nih.gov/23728670/) | 2013 | Systematische Übersicht | Cochrane Database of Systematic Reviews | Vergleich von ICS/LABA-Kombination mit Tiotropium bei COPD. |
-| [16844726](https://pubmed.ncbi.nlm.nih.gov/16844726/) | 2006 | Meta-Analyse | Thorax | Wirksamkeit von Tiotropium bei stabiler COPD (klinische Ereignisse, Symptome, Lungenfunktion, unerwünschte Wirkungen). |
-| [21672999](https://pubmed.ncbi.nlm.nih.gov/21672999/) | 2011 | Meta-Analyse | BMJ | Untersuchung des Mortalitätsrisikos von Tiotropium im Soft-Mist-Inhalator bei COPD. |
-| [32727455](https://pubmed.ncbi.nlm.nih.gov/32727455/) | 2020 | Übersicht | Respiratory Research | Überblick über die klinische Entwicklung von Tiotropium bei COPD; LAMA-Monotherapie als Initialtherapie empfohlen. |
-| [33095662](https://pubmed.ncbi.nlm.nih.gov/33095662/) | 2021 | Übersicht | Current Medical Research and Opinion | Evidenz zur Fixkombination Tiotropium/Olodaterol bei COPD, auch zur Exazerbationsreduktion. |
-| [19402836](https://pubmed.ncbi.nlm.nih.gov/19402836/) | 2009 | Meta-Analyse | Respirology | Wirksamkeit und Sicherheit von Tiotropium bei chinesischen Patienten mit stabiler COPD. |
-| [10069510](https://pubmed.ncbi.nlm.nih.gov/10069510/) | 1999 | Mechanistische Übersicht | Life Sciences | Mechanismus und klinisches Profil von Tiotropium bei obstruktiver Lungenerkrankung. |
+| [31522031](https://pubmed.ncbi.nlm.nih.gov/31522031/) | 2019 | RCT | Respiratory Medicine | Tiotropium/Olodaterol verringert die Lungenüberblähung und beeinflusst Kreislaufreaktionen bei Belastung; keine Fehlbildungen untersucht |
+| [26229457](https://pubmed.ncbi.nlm.nih.gov/26229457/) | 2015 | Übersicht | Int J Chron Obstruct Pulmon Dis | Übersicht zur dualen Bronchodilatation (Indacaterol/Glycopyrronium) und Lebensqualität |
+| [22608352](https://pubmed.ncbi.nlm.nih.gov/22608352/) | 2012 | Kohortenstudie | Respiratory Medicine | Verminderter Zilienschlag in Nasenzilien bei chronischen Atemwegserkrankungen |
+| [33787023](https://pubmed.ncbi.nlm.nih.gov/33787023/) | 2021 | Fallbericht | Rev Fac Cienc Med (Córdoba) | COVID-19 bei einem jungen Patienten mit Trichterbrust |
+| [40850565](https://pubmed.ncbi.nlm.nih.gov/40850565/) | 2025 | Präklinisch | Chemico-Biological Interactions | Mechanismen der Atemstörung bei Mäusen nach Nervenkampfstoff-Exposition |
+
+Keine dieser Arbeiten untersucht Tiotropium bei Atemwegsfehlbildungen.
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 55855 | Spiriva 18 mcg, Kapseln zur Inhalation | Synthetika | Dauerbehandlung COPD |
 | 67396 | Spiriva Respimat 2.5 mcg, Lösung zur Inhalation (wiederverwendbar) | Synthetika | COPD |
 
----
-
-## Sicherheitshinweise
-
-- **Kontraindikationen aus dem Wissensgraphen** (keine Angaben aus Fachinformationstext): gutartige Prostatahyperplasie, eingeschränkte Nierenfunktion, Engwinkelglaukom (Winkelblockglaukom), Blasenhalsobstruktion.
-- **Arzneimittelwechselwirkungen** (100 Wechselwirkungen erfasst, Auswahl): Die meisten sind von mittlerem Schweregrad und betreffen andere Anticholinergika, da sich die anticholinergen Wirkungen addieren können. Dazu gehören Hyoscyamin, Atropin, Glycopyrronium, Clidinium, Dicyclomin, Trospium, Mepenzolat, Methscopolamin, Propanthelin und Scopolamin. Ebenfalls als mittel eingestuft sind Eluxadolin, Prucaloprid und inhalatives Insulin. Cimetidin ist von geringem Schweregrad. Calcitriol, Pantoprazol, Glimepirid, Mesalazin und Doxycyclin sind mit unbekanntem Schweregrad aufgeführt.
-
-Die Warnhinweise und Kontraindikationen der Schweizer Fachinformation konnten nicht ausgewertet werden. Bitte beachten Sie die Fachinformation für die vollständigen Sicherheitsinformationen.
+Beide Zulassungen sind gültig.
 
 ---
 
-## Fazit und nächste Schritte
+### Sicherheitshinweise
 
-**Entscheidung: Mit Vorsicht fortfahren**
+- **Arzneimittelwechselwirkungen**: Mehrere weitere Anticholinergika können die anticholinergen Effekte verstärken (jeweils mittlere Einstufung), darunter Hyoscyamin, Atropin, Glycopyrronium, Clidinium, Dicyclomin, Trospium, Mepenzolat, Methscopolamin, Propanthelin und Scopolamin. Weitere mittlere Wechselwirkungen bestehen mit Eluxadolin, Prucaloprid und inhalativem Insulin. Cimetidin wird als geringfügig eingestuft.
+
+Für Warnhinweise und Kontraindikationen bitte die Fachinformation beachten.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation liegt umfangreiche Evidenz vor (L1), doch sie entspricht praktisch der bereits zugelassenen COPD-Indikation. Ein echter zusätzlicher Nutzen durch Umwidmung ist daher nicht belegt.
-- Die Sicherheitsprüfung ist unvollständig, da die Angaben der Schweizer Fachinformation fehlen. Die Kontraindikationen aus dem Wissensgraphen (z. B. Engwinkelglaukom, Blasenhalsobstruktion) erfordern Vorsicht.
+- Die Vorhersage beruht allein auf dem Modell. Es gibt keine Studie und keine Publikation, die Tiotropium bei Atemwegsfehlbildungen direkt untersucht, und ein Bronchodilatator kann strukturelle Defekte nicht beheben.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Schweizer Fachinformation (Warnhinweise und Kontraindikationen) von der Swissmedic-Website.
-- Ergänzung der Wirkmechanismus-Daten aus DrugBank.
-- Klärung, welche konkreten obstruktiven Krankheitsbilder (z. B. Asthma) über COPD hinaus gemeint sind, mit gezielter Evidenzprüfung.
-- Weitere Vorhersagen im Datensatz (z. B. Rienhoff-Syndrom, tracheale Stenose, interstitielles Emphysem) stützen sich nur auf das Modell oder auf indirekte Evidenz und sollten zurückgestellt werden.
+- Direkte klinische oder präklinische Daten zu Tiotropium bei Atemwegsfehlbildungen
+- Klärung, ob ein sekundärer Atemwegswiderstand bei bestimmten Fehlbildungen therapeutisch relevant ist
+- Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
