@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chloramphenicol
-parent: Mittlere Evidenz (L3-L4)
+parent: Nur Modellvorhersage (L5)
 nav_order: 31
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Chloramphenicol: vorhergesagte neue Indikation Konjunktivitis (Bindehautentzündung) (Evidenzstufe L3). Ursprüngliche Indikation: Augeninfektionen (Infections oculaires)"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "chloramphenicol"
-predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+description: "Chloramphenicol: vorhergesagte neue Indikation Diffuse scleroderma (Evidenzstufe L5). Ursprüngliche Indikation: Infections oculaires"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Evidenzniveau: **L3** | Vorhergesagte Indikationen: **9** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Chloramphenicol: Von Augeninfektionen zu Bindehautentzündung (Konjunktivitis)
+## Chloramphenicol: Diffuse scleroderma
 {: .text-alpha }
 
 ---
@@ -48,10 +48,10 @@ Chloramphenicol ist in der Schweiz als Augentropfen (in Kombination mit Dexameth
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Augeninfektionen (Infections oculaires) |
-| Vorhergesagte neue Indikation | Konjunktivitis (Bindehautentzündung) |
-| TxGNN-Vorhersagewert | 0,9966 |
-| Evidenzniveau | L3 |
+| Ursprüngliche Indikation | Infections oculaires |
+| Vorhergesagte neue Indikation | Diffuse scleroderma |
+| TxGNN-Vorhersagewert | 0.9965 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |

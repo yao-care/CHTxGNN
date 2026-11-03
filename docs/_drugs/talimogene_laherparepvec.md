@@ -4,17 +4,17 @@ title: Talimogene Laherparepvec
 parent: Nur Modellvorhersage (L5)
 nav_order: 89
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-11-03
-description: "Talimogene Laherparepvec: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen"
 monitor_inn: "talimogene laherparepvec"
-predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
+predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
+description: "Talimogene Laherparepvec: vorhergesagte neue Indikation Glottis squamous cell carcinoma (Evidenzstufe L5)."
 ---
 
 # Talimogene Laherparepvec
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Talimogen laherparepvec: Von Melanom mit regionalen oder entfernten Metastasen zu CMM7 (kutanes malignes Melanom)
+## Talimogene Laherparepvec: Glottis squamous cell carcinoma
 {: .text-alpha }
 
 ---
@@ -48,9 +48,9 @@ Talimogen laherparepvec (Imlygic) ist in der Schweiz zur Behandlung von Melanome
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Melanome mit regionalen oder entfernten Metastasen bei Erwachsenen |
-| Vorhergesagte neue Indikation | CMM7 |
-| TxGNN-Vorhersagewert | 0,9920 |
+| Ursprüngliche Indikation | Imlygic ist zur Behandlung von Melanomen mit regionalen oder entfernten Metastasen bei Erwachsenen indiziert. |
+| Vorhergesagte neue Indikation | Glottis squamous cell carcinoma |
+| TxGNN-Vorhersagewert | 0.9907 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |

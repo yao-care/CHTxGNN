@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-11-03",
   "total_drugs": 100,
   "level_counts": {
-    "L1": 1,
+    "L1": 0,
     "L2": 0,
-    "L3": 4,
+    "L3": 3,
     "L4": 7,
-    "L5": 86
+    "L5": 88
   },
   "all_drugs": [
     {
@@ -132,8 +132,8 @@
     {
       "name": "Chloramphenicol",
       "slug": "chloramphenicol",
-      "level": "L3",
-      "indication_count": 9
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Chlordiazepoxide",
@@ -481,7 +481,7 @@
       "name": "Talimogene Laherparepvec",
       "slug": "talimogene_laherparepvec",
       "level": "L5",
-      "indication_count": 5
+      "indication_count": 4
     },
     {
       "name": "Tazobactam",
@@ -522,8 +522,8 @@
     {
       "name": "Tiotropium",
       "slug": "tiotropium",
-      "level": "L1",
-      "indication_count": 5
+      "level": "L5",
+      "indication_count": 4
     },
     {
       "name": "Tipiracil",

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tiotropium
-parent: Hohe Evidenz (L1-L2)
+parent: Nur Modellvorhersage (L5)
 nav_order: 96
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-28
-description: "Tiotropium: vorhergesagte neue Indikation Obstruktive Lungenerkrankung (Evidenzstufe L5). Ursprüngliche Indikation: Dauerbehandlung COPD"
+evidence_level: L5
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "TIOTROPIUM"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium: vorhergesagte neue Indikation Respiratory malformation (Evidenzstufe L5). Ursprüngliche Indikation: Dauerbehandlung COPD"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-Evidenzniveau: **L1** | Vorhergesagte Indikationen: **5** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Tiotropium: Von COPD zu Obstruktive Lungenerkrankung
+## Tiotropium: Respiratory malformation
 {: .text-alpha }
 
 ---
@@ -48,10 +48,10 @@ Tiotropium ist ein langwirksamer Muskarinrezeptor-Antagonist, der in der Schweiz
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Dauerbehandlung COPD |
-| Vorhergesagte neue Indikation | Obstruktive Lungenerkrankung |
-| TxGNN-Vorhersagewert | 0,9999 |
-| Evidenzniveau | L1 (mehrere abgeschlossene Phase-3-Studien) |
+| Ursprüngliche Indikation | Dauerbehandlung COPD; COPD |
+| Vorhergesagte neue Indikation | Respiratory malformation |
+| TxGNN-Vorhersagewert | 0.9995 |
+| Evidenzniveau | L5 (mehrere abgeschlossene Phase-3-Studien) |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
