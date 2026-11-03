@@ -90,18 +90,9 @@ Arzneimitteln gegen seltene Krankheiten vorherzusagen.»
 
 ## Datenquellen
 
-<table class="comparison-table">
-<thead>
-<tr><th>Art</th><th>Quelle</th><th>Beschreibung</th></tr>
-</thead>
-<tbody>
-<tr><td>KI-Vorhersage</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Graph-Neuronales-Netz aus Harvard, trainiert auf einem Wissensgraphen</td></tr>
-<tr><td>Klinische Studien</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Weltweites Register klinischer Studien</td></tr>
-<tr><td>Literatur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Biomedizinische Literaturdatenbank</td></tr>
-<tr><td>Arzneimittelinformationen</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Datenbank zu Arzneimitteln und Zielstrukturen</td></tr>
-<tr><td>Zulassungsdaten</td><td><a href="https://www.swissmedic.ch/">Swissmedic</a></td><td>Arzneimittelzulassungsdaten für die Schweiz</td></tr>
-</tbody>
-</table>
+Die Datenquellen der Plattform (TxGNN-Vorhersage, klinische Studien, Literatur, DrugBank und die
+lokale Arzneimittelliste) sowie ihre Lizenzen und Aktualisierungsintervalle sind auf der Seite
+<a href="{{ '/sources/' | relative_url }}">Datenquellen</a> aufgeführt.
 
 ---
 

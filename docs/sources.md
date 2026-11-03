@@ -21,7 +21,7 @@ Jede Schlussfolgerung lässt sich auf eine öffentliche Datenquelle zurückführ
 <tr><th>Art</th><th>Quelle</th><th>Verwendet für</th></tr>
 </thead>
 <tbody>
-<tr><td>Zulassungsdaten</td><td><a href="https://www.swissmedic.ch/">Swissmedic</a></td><td>Liste der zugelassenen Arzneimittel und Wirkstoffe für die Schweiz</td></tr>
+<tr><td>Zulassungsdaten</td><td><a href="https://www.swissmedic.ch/">Swissmedic</a></td><td>Liste der zugelassenen Packungen (Humanarzneimittel) mit Wirkstoffen und Gültigkeitsdauer der Zulassung</td></tr>
 <tr><td>Vorhersagemodell</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Vorhersage von Zusammenhängen zwischen Arzneimitteln und Krankheiten</td></tr>
 <tr><td>Klinische Studien</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Evidenzeinstufung (NCT)</td></tr>
 <tr><td>Literatur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Evidenzeinstufung (PMID)</td></tr>
@@ -29,6 +29,22 @@ Jede Schlussfolgerung lässt sich auf eine öffentliche Datenquelle zurückführ
 <tr><td>Wechselwirkungen</td><td><a href="https://ddinter2.scbdd.com/">DDInter</a></td><td>Daten zu Arzneimittelwechselwirkungen</td></tr>
 </tbody>
 </table>
+
+---
+
+## Lokale Daten dieser Website
+
+Die Schweizer Arzneimittel und ihr Zulassungsstatus stammen aus der Swissmedic-Liste
+«Zugelassene Packungen» (Humanarzneimittel). Die Liste enthält nur aktuell zugelassene Packungen und
+kein eigenes Statusfeld; massgebend ist die Gültigkeitsdauer der Zulassung.
+
+| Punkt | Angabe |
+|------|--------|
+| Datensatz | Zugelassene Packungen, Humanarzneimittel (Excel-Datei) |
+| Herausgeber | Swissmedic |
+| Download | <https://www.swissmedic.ch/dam/swissmedic/de/dokumente/internetlisten/zugelassene_packungen_human.xlsx.download.xlsx/zugelassene_packungen_ham.xlsx> (Übersicht: <https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html>) |
+| Kennung | Zulassungsnummer |
+| Aktualisierung | Automatischer wöchentlicher Download (jeden Montag); eine abgelaufene Gültigkeitsdauer gilt als erloschene Zulassung, eine Zulassungsnummer, die nicht mehr in der Liste steht, behält ihren bisherigen Status |
 
 ---
 
@@ -47,7 +63,7 @@ Jede Quelle hat ihre eigene Lizenz — bitte prüfen Sie diese vor dem Zitieren:
 
 | Daten | Intervall |
 |------|-----------|
-| Zulassungsdaten | Nach Veröffentlichung durch die Zulassungsbehörde |
+| Swissmedic «Zugelassene Packungen» | Wöchentlich (jeden Montag) |
 | Evidenz aus Studien / Literatur | Regelmässig erneut erhoben |
 | Wechselwirkungsdaten | Vierteljährlich überprüft |
 
@@ -62,19 +78,8 @@ Jede Quelle hat ihre eigene Lizenz — bitte prüfen Sie diese vor dem Zitieren:
 
 ## Über den Entwickler
 
-Diese Plattform wird von **藥提醒科技有限公司** (yao.care, Unternehmensregisternummer
-83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan) entwickelt und betrieben.
-
-CHTxGNN ist die Schweizer Website der Produktlinie «TxGNN Drug Repurposing» des Unternehmens.
-Dasselbe System ist in 30 Ländern und Regionen im Einsatz, jeweils unter dem Namen `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN und so weiter) unter `{cc}txgnn.yao.care`.
-Produktübersicht: <https://www.yao.care/medical/txgnn/>.
-
-Das Modell TxGNN selbst wurde vom Zitnik Lab an der Harvard Medical School entwickelt und in
-*Nature Medicine* veröffentlicht. Diese Plattform ist das Produktivsystem, das 藥提醒科技有限公司 auf
-Basis dieses Modells aufgebaut hat; es umfasst die Integration nationaler Arzneimittelzulassungsdaten,
-die Deep-Learning-Vorhersage unter Ausschluss der bereits im Wissensgraphen erfassten Anwendungen, die Evidenzbewertung aus PubMed /
-ClinicalTrials sowie die Anbindung an elektronische Patientenakten über SMART on FHIR.
+Diese Plattform wird von **藥提醒科技有限公司** (yao.care) entwickelt und betrieben. Den vollständigen
+Hintergrund zum Unternehmen und zur Methodik finden Sie auf der Seite <a href="{{ '/about/' | relative_url }}">Über uns</a>.
 
 ---
 
