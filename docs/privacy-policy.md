@@ -57,19 +57,8 @@ Etwaige Änderungen werden unmittelbar auf dieser Seite veröffentlicht.
 
 ## Über den Entwickler
 
-Diese Plattform wird von **藥提醒科技有限公司** (yao.care, Unternehmensregisternummer
-83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan) entwickelt und betrieben.
-
-CHTxGNN ist die Schweizer Website der Produktlinie «TxGNN Drug Repurposing» des Unternehmens.
-Dasselbe System ist in 30 Ländern und Regionen im Einsatz, jeweils unter dem Namen `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN und so weiter) unter `{cc}txgnn.yao.care`.
-Produktübersicht: <https://www.yao.care/medical/txgnn/>.
-
-Das Modell TxGNN selbst wurde vom Zitnik Lab an der Harvard Medical School entwickelt und in
-*Nature Medicine* veröffentlicht. Diese Plattform ist das Produktivsystem, das 藥提醒科技有限公司 auf
-Basis dieses Modells aufgebaut hat; es umfasst die Integration nationaler Arzneimittelzulassungsdaten,
-die Deep-Learning-Vorhersage unter Ausschluss der bereits im Wissensgraphen erfassten Anwendungen, die Evidenzbewertung aus PubMed /
-ClinicalTrials sowie die Anbindung an elektronische Patientenakten über SMART on FHIR.
+Diese Plattform wird von **藥提醒科技有限公司** (yao.care) entwickelt und betrieben. Den vollständigen
+Hintergrund zum Unternehmen und zur Methodik finden Sie auf der Seite <a href="{{ '/about/' | relative_url }}">Über uns</a>.
 
 ---
 
