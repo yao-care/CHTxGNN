@@ -1,6 +1,6 @@
 {
   "total": 98,
-  "generated_at": "2026-11-04T05:39:34.707250",
+  "generated_at": "2026-11-04T19:34:48.144772",
   "drugs": [
     {
       "name": "Alanine",
@@ -1297,7 +1297,7 @@
     {
       "name": "Tenofovir Disoproxil",
       "file": "tenofovir_disoproxil.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 4,
       "predicted_indication": "",
       "inn": "tenofovir disoproxil",
