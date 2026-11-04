@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "total_drugs": 100,
   "level_counts": {
     "L1": 0,
     "L2": 0,
     "L3": 3,
-    "L4": 7,
-    "L5": 88
+    "L4": 8,
+    "L5": 87
   },
   "all_drugs": [
     {
@@ -498,7 +498,7 @@
     {
       "name": "Tenofovir Disoproxil",
       "slug": "tenofovir_disoproxil",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 4
     },
     {
