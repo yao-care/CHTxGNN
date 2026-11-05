@@ -32,8 +32,10 @@ protokollieren können:
 | Dienst | Zweck | Datenschutzerklärung |
 |---------|---------|----------------|
 | GitHub Pages | Hosting der Website | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| cdn.jsdelivr.net | Diagrammbibliothek | CDN für statische Inhalte |
-| giscus | Kommentare (sofern aktiviert) | [giscus](https://giscus.app/) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | Besuchsstatistik (aufgerufene Seiten, Herkunft); verwendet Analyse-Cookies. Suchbegriffe, Formularinhalte und URL-Parameter werden nicht übermittelt. | [Datenschutzerklärung von Google](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | Skriptbibliotheken: d3-Diagramme auf allen Seiten; Fuse.js für den Namensabgleich und der SMART-on-FHIR-Client auf den SMART-Seiten | [Datenschutzerklärung von jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | Suche nach klinischen Studien auf den SMART-Seiten: nur wenn Sie sie anfordern, werden Arzneimittel- und Indikationsname an die API von ClinicalTrials.gov übermittelt | [Web-Richtlinien der NLM](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | SMART-App: Die RxNorm-Codes der aus Ihrer elektronischen Patientenakte gelesenen Medikamente werden an die RxNav-API der NLM gesendet, um die Wirkstoffnamen nachzuschlagen (keine Patientenkennungen) | [Web-Richtlinien der NLM](https://www.nlm.nih.gov/web_policies.html) |
 
 Wenn Sie die SMART on FHIR-Anwendung aktiv starten, fordert diese Medikationsdaten aus Ihrem System
 für elektronische Patientenakten an. Diese Daten werden <strong>vollständig in Ihrem Browser
