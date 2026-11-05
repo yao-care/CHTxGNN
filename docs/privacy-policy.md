@@ -3,13 +3,13 @@ layout: default
 title: Datenschutzerklärung
 nav_order: 95
 permalink: /privacy-policy/
-description: "Datenschutzerklärung von CHTxGNN: Dies ist eine statische Website, die keine personenbezogenen Daten erhebt."
+description: "Datenschutzerklärung von CHTxGNN: statische Website ohne Benutzerkonten und Formulare; sie verwendet Analyse-Cookies von Google Analytics 4 für Nutzungsstatistiken."
 ---
 
 # Datenschutzerklärung
 
 <div class="key-takeaway">
-Dies ist eine statische Website — keine Registrierung erforderlich, keine Erhebung personenbezogener Daten.
+Dies ist eine statische Website — keine Registrierung, keine Formulare. Sie verwendet Analyse-Cookies von Google Analytics 4, um Nutzungsstatistiken zu erstellen.
 </div>
 
 ---
@@ -17,9 +17,11 @@ Dies ist eine statische Website — keine Registrierung erforderlich, keine Erhe
 ## Was wir erheben
 
 <p class="key-answer" data-question="Erhebt CHTxGNN personenbezogene Daten?">
-<strong>Nein.</strong> Diese Website wird als rein statische Website auf GitHub Pages gehostet. Es gibt
-kein Benutzerkonto-System, keine Formulare und keine Tracking-Cookies. Wir erheben weder Namen noch
-E-Mail-Adressen, Krankenakten oder sonstige personenbezogene Daten.
+<strong>Nur Nutzungsstatistiken, über Google Analytics 4.</strong> Diese Website wird als rein statische Website auf GitHub Pages
+gehostet. Es gibt kein Benutzerkonto-System und keine Formulare, und wir erheben weder Namen noch E-Mail-Adressen
+oder Krankenakten. Die Website verwendet Analyse-Cookies von Google Analytics 4, um Nutzungsstatistiken zu erstellen
+(aufgerufene Seiten, verweisende Website, Scrolltiefe und Verweildauer). Die Cookies werden beim Laden einer Seite
+gesetzt; Suchbegriffe, Formularinhalte und URL-Abfrageparameter werden nicht übermittelt.
 </p>
 
 ---
@@ -38,15 +40,21 @@ protokollieren können:
 | rxnav.nlm.nih.gov | SMART-App: Die RxNorm-Codes der aus Ihrer elektronischen Patientenakte gelesenen Medikamente werden an die RxNav-API der NLM gesendet, um die Wirkstoffnamen nachzuschlagen (keine Patientenkennungen) | [Web-Richtlinien der NLM](https://www.nlm.nih.gov/web_policies.html) |
 
 Wenn Sie die SMART on FHIR-Anwendung aktiv starten, fordert diese Medikationsdaten aus Ihrem System
-für elektronische Patientenakten an. Diese Daten werden <strong>vollständig in Ihrem Browser
-verarbeitet</strong>; sie werden niemals an die Server dieser Website übermittelt und nicht gespeichert.
+für elektronische Patientenakten an. Die Identität des Patienten und die Daten aus der Patientenakte werden
+<strong>nicht an die Server dieser Website übermittelt</strong> (es ist eine statische Website ohne Backend) und von
+dieser Website nicht gespeichert. Um die Arzneimittel zuzuordnen, sendet die Anwendung deren RxNorm-Codes an den
+Dienst RxNav der US-amerikanischen National Library of Medicine; diese Codes enthalten keine Angaben, die den
+Patienten identifizieren. Wenn Sie klinische Studien abfragen, werden Arzneimittelname und Indikation an
+ClinicalTrials.gov gesendet.
 
 ---
 
 ## Rechte der betroffenen Personen
 
-Da diese Website keine personenbezogenen Daten erhebt, gibt es nichts, worauf zugegriffen werden könnte
-und nichts zu berichtigen oder zu löschen. Bei Fragen zu dieser Erklärung wenden Sie sich bitte an
+Diese Website hat keine Benutzerkonten und speichert keine personenbezogenen Datensätze auf eigenen Servern (sie hat
+keine). Die Nutzungsstatistiken erhebt Google Analytics 4; Sie können dessen Cookies in Ihren Browsereinstellungen
+blockieren oder löschen.
+Bei Fragen zu dieser Erklärung wenden Sie sich bitte an
 service@yao.care.
 
 ---
