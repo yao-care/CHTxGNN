@@ -24,9 +24,6 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 | **Einzigartige Arzneimittel** | 1,000 |
 | **Einzigartige Indikationen** | 17,041 |
 | **DDI-Daten** | 160,235 |
-| **DFI-Daten** | 857 |
-| **DHI-Daten** | 35 |
-| **DDSI-Daten** | 8,359 |
 | **FHIR-Ressourcen** | 725 MK / 5,105 CUD |
 
 ### Verteilung der Evidenzstufen
@@ -220,7 +217,7 @@ PYTHONPATH=src python -m chtxgnn.predict.txgnn_model
 | **Wissensgraph** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Arzneimitteldatenbank** | DrugBank | [DrugBank](https://go.drugbank.com/) | Wirkstoffzuordnung |
 | **Arzneimittelinteraktionen** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDI-Paare |
-| **Arzneimittelinteraktionen** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Zugelassene Arzneimittelinteraktionen |
+| **Arzneimittelinteraktionen** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Arzneimittel-Target-Daten zugelassener Wirkstoffe (keine Interaktionen) |
 | **Klinische Studien** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Register klinischer Studien |
 | **Klinische Studien** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | Internationale Plattform klinischer Studien |
 | **Literatur** | PubMed | [NCBI E-utilities](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/) | Medizinische Literatursuche |
