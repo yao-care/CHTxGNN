@@ -1,5 +1,5 @@
 /**
- * TwTxGNN CDS Hooks Service
+ * CHTxGNN CDS Hooks Service
  *
  * Client-side implementation of CDS Hooks service for static site deployment.
  * Can be used as a reference implementation or integrated with server-side services.
@@ -8,15 +8,16 @@
  * - order-sign: DDI checking and drug repurposing suggestions
  * - patient-view: Clinical trial matching
  *
- * @author TwTxGNN Team
+ * @author CHTxGNN Team
  * @version 1.0.0
  */
 (function(global) {
   'use strict';
 
   const CONFIG = {
-    serviceUrl: 'https://twtxgnn.yao.care/cds-hooks/',
-    fhirBaseUrl: 'https://twtxgnn.yao.care/fhir/'
+    // Static site: there is no CDS Hooks endpoint on this host.
+    serviceUrl: null,
+    fhirBaseUrl: 'https://chtxgnn.yao.care/fhir/'
   };
 
   /**
@@ -28,7 +29,7 @@
         hook: 'order-sign',
         title: 'CHTxGNN Drug Interaction Check',
         description: 'Checks prescriptions for potential drug interactions using DDInter 2.0',
-        id: 'twtxgnn-ddi-check',
+        id: 'chtxgnn-ddi-check',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
           medications: 'MedicationRequest?patient={{context.patientId}}&status=active,completed'
@@ -38,7 +39,7 @@
         hook: 'order-sign',
         title: 'CHTxGNN Drug Repurposing Candidates',
         description: 'Drug repurposing predictions for the patient\'s medications, based on the TxGNN graph neural network',
-        id: 'twtxgnn-repurposing',
+        id: 'chtxgnn-repurposing',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
           medications: 'MedicationRequest?patient={{context.patientId}}&status=active,completed',
@@ -139,8 +140,8 @@
             indicator: alert.severity === 'Major' ? 'critical' : 'warning',
             detail: `${alert.detail}\n\n**Recommendation:** ${alert.recommendation}`,
             source: {
-              label: 'TwTxGNN DDI Checker',
-              url: 'https://twtxgnn.yao.care/'
+              label: 'CHTxGNN DDI Checker',
+              url: 'https://chtxgnn.yao.care/'
             }
           });
         }
@@ -176,13 +177,13 @@
         indicator: 'info',
         detail: `The drug you are prescribing may have drug repurposing candidates. Follow the link for the detailed predictions.`,
         source: {
-          label: 'TwTxGNN Drug Repurposing',
-          url: 'https://twtxgnn.yao.care/'
+          label: 'CHTxGNN Drug Repurposing',
+          url: 'https://chtxgnn.yao.care/'
         },
         links: [
           {
             label: 'View repurposing predictions',
-            url: `https://twtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(allMeds.join(','))}`,
+            url: `https://chtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(allMeds.join(','))}`,
             type: 'absolute'
           }
         ]
@@ -225,8 +226,8 @@
                 `**Diagnoses:** ${conditions.join(', ') || 'None'}\n` +
                 `**Medications:** ${medications.join(', ') || 'None'}`,
         source: {
-          label: 'TwTxGNN Clinical Trial Match',
-          url: 'https://twtxgnn.yao.care/'
+          label: 'CHTxGNN Clinical Trial Match',
+          url: 'https://chtxgnn.yao.care/'
         },
         links: [
           {
@@ -236,7 +237,7 @@
           },
           {
             label: 'View repurposing predictions',
-            url: `https://twtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(medications.join(','))}`,
+            url: `https://chtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(medications.join(','))}`,
             type: 'absolute'
           }
         ]
@@ -251,13 +252,13 @@
    */
   function handleRequest(serviceId, request) {
     switch (serviceId) {
-      case 'twtxgnn-ddi-check':
+      case 'chtxgnn-ddi-check':
         return processOrderSignDDI(request);
 
-      case 'twtxgnn-repurposing':
+      case 'chtxgnn-repurposing':
         return processOrderSignRepurposing(request);
 
-      case 'twtxgnn-trial-match':
+      case 'chtxgnn-trial-match':
         return processPatientView(request);
 
       default:
@@ -355,25 +356,25 @@
    * Demo function to test CDS Hooks
    */
   function demo(medications, conditions) {
-    console.log('=== TwTxGNN CDS Hooks Demo ===');
+    console.log('=== CHTxGNN CDS Hooks Demo ===');
     console.log('Medications:', medications);
     console.log('Conditions:', conditions || []);
 
     // Test DDI check
     const ddiRequest = createMockRequest('order-sign', medications, null);
-    const ddiResponse = handleRequest('twtxgnn-ddi-check', ddiRequest);
+    const ddiResponse = handleRequest('chtxgnn-ddi-check', ddiRequest);
     console.log('\n--- DDI Check Response ---');
     console.log(JSON.stringify(ddiResponse, null, 2));
 
     // Test repurposing
-    const repurposingResponse = handleRequest('twtxgnn-repurposing', ddiRequest);
+    const repurposingResponse = handleRequest('chtxgnn-repurposing', ddiRequest);
     console.log('\n--- Repurposing Response ---');
     console.log(JSON.stringify(repurposingResponse, null, 2));
 
     // Test trial matching
     if (conditions) {
       const trialRequest = createMockRequest('patient-view', medications, conditions);
-      const trialResponse = handleRequest('twtxgnn-trial-match', trialRequest);
+      const trialResponse = handleRequest('chtxgnn-trial-match', trialRequest);
       console.log('\n--- Trial Match Response ---');
       console.log(JSON.stringify(trialResponse, null, 2));
     }

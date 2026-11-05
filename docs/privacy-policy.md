@@ -32,7 +32,7 @@ protokollieren können:
 | Dienst | Zweck | Datenschutzerklärung |
 |---------|---------|----------------|
 | GitHub Pages | Hosting der Website | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| d3js.org | Diagrammbibliothek | CDN für statische Inhalte |
+| cdn.jsdelivr.net | Diagrammbibliothek | CDN für statische Inhalte |
 | giscus | Kommentare (sofern aktiviert) | [giscus](https://giscus.app/) |
 
 Wenn Sie die SMART on FHIR-Anwendung aktiv starten, fordert diese Medikationsdaten aus Ihrem System
