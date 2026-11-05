@@ -24,7 +24,7 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 | **Einzigartige Arzneimittel** | 1,000 |
 | **Einzigartige Indikationen** | 17,041 |
 | **DDI-Daten** | 160,235 |
-| **FHIR-Ressourcen** | 725 MK / 5,105 CUD |
+| **FHIR-Ressourcen** | 823 MK / 5,634 CUD |
 
 ### Verteilung der Evidenzstufen
 
@@ -32,9 +32,10 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 |---------|-------|------|
 | **L1** | 0 | Mehrere Phase-3-RCTs |
 | **L2** | 0 | Einzelne RCT oder mehrere Phase-2-Studien |
-| **L3** | 0 | Beobachtungsstudien |
-| **L4** | 0 | Praeklinische / mechanistische Studien |
-| **L5** | 725 | Nur computationale Vorhersage |
+| **L3** | 3 | Beobachtungsstudien |
+| **L4** | 8 | Praeklinische / mechanistische Studien |
+| **L5** | 87 | Nur computationale Vorhersage |
+| **N/A** | 2 | Nur bekannte Anwendungen (keine neuen Vorhersagen) |
 
 ### Nach Quelle
 
@@ -70,8 +71,8 @@ uv run python scripts/run_kg_prediction.py
 
 | Metrik | Wert |
 |------|------|
-| Swissmedic Gesamtarzneimittel | 17,884 |
-| DrugBank-Zuordnung | 12,139 (67.9%) |
+| Swissmedic Gesamtarzneimittel | 20,442 |
+| DrugBank-Zuordnung | 16,628 (81.3%) |
 | Repositionierungskandidaten | 5,105 |
 
 ### Deep-Learning-Methode
@@ -83,7 +84,7 @@ PYTHONPATH=src python -m chtxgnn.predict.txgnn_model
 
 | Metrik | Wert |
 |------|------|
-| DL-Gesamtvorhersagen | 2,007,974 |
+| DL-Gesamtvorhersagen | 2,374,339 |
 | Einzigartige Arzneimittel | 1,000 |
 | Einzigartige Indikationen | 17,041 |
 
