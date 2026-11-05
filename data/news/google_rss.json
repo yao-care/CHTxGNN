@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-05T11:48:54.171419+00:00",
+  "fetched_at": "2026-11-05T19:25:28.437914+00:00",
   "source": "Google News Health RSS",
-  "count": 37,
+  "count": 41,
   "articles": [
     {
       "id": "37687c45d62a",
@@ -14,23 +14,53 @@
       }
     },
     {
-      "id": "d54784e2d98d",
-      "title": "Einsparziel erreicht – jetzt die Versorgung langfristig sichern - Presseportal.ch",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjTUFKUXpOU3pKeHU4N1ZZbkJtc3M2WGJzTUs4UWdxa1EtS09PSXpYYWIxV3kxeElVUU8xNTRoN0xpWXVBckk4cktXUHRLVjA0Um9zZkp5VlFlRnlKcUxVbzNfSQ?oc=5",
-      "published": "2026-11-02T15:23:17+00:00",
+      "id": "aa6ba7bc2e7c",
+      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
+      "published": "2026-11-05T15:00:50+00:00",
       "source": {
-        "name": "Presseportal.ch",
-        "url": "https://www.presseportal.ch"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
-      "id": "2f0f7b06072d",
-      "title": "Fischölkapseln zeigen nach zwei Jahren keinen Nutzen für das Gehirn - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWElhOGZOdlJxOTBGQjk5WVE0Q0o3U1lNRUIzajRSWlhUNUhTa0RERVRoMlVEanZHUm9WQTBnbzVEa2lhVzFvRUpyT01OMzVjSk04anlDWnVoaTJvNFo2bmlXYkNDN0pZdHI5TVc4MjNWRnZGd1NmLTFBRTI5WUlzX2ZxcWNBVjQyVU8xaXViQmF3Rk9sUWZ6dXNiVDJwQTdpbXdXQWx5WTU?oc=5",
-      "published": "2026-11-05T08:34:36+00:00",
+      "id": "044758724b3e",
+      "title": "Das Gesundheitsministerium erarbeitet neue Vorschriften zu Standards für die Verarbeitung von Heilkräutern und die Zubereitung traditioneller Arzneimittel. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmJSWlRVci1qSU8xRVpEZ3A5V2VDVXFSNTFsVi1UTkhCUXFhYlJ5Z3l5ekJMdkxsZHI1WUhOYjdMaVh2STNPWngtMDd0ZEMtc3BOR1dYTW00ODlPOGJuRnNMMDJIakYwdGtOQzV2QUdBcHhmZFFjMWdCWmxOSGhRWHNzY2NVakFCd290LTRLVTlDd1dtVHZvc2t4MWdNenVrM29nMlFZT3hsbE01WlU4Vml3?oc=5",
+      "published": "2026-11-05T11:52:47+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "272b73ea4d86",
+      "title": "Erster Test für das EU-HTA-Verfahren: GBA bewertet Tovorafenib - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3NJLU1IQ0ExYzFXUTdjN25XZVRJZ3ZlNXdVbWlvTjJSb1h1YmlTajd1RWM5ZmpPN1c4Z2RERl9Gay1BMlk4WnI3U0QtLWY1Z0gzWlVROVUxQURzTjYyWnhzYnQ0YWM4OG4yeG9iWFc1Y2FBeWtTcmotZGlEbmtpTmFZa3JudGw0M2JrRmRKYi1pTFRDY0hTdjJSa1VweTZqWTFOYkpzeUtJdE16Y0tQMw?oc=5",
+      "published": "2026-11-05T14:57:49+00:00",
+      "source": {
+        "name": "Ärzte Zeitung",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "2573a0f41494",
+      "title": "Rückenschmerzen ohne Medikamente lindern: Sechs Therapien können helfen und sparen Kosten - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzB0YUZ4bXlFYTdoTEViRmdHeVBZOHppcXdZT1Q0WFd1ajlITmY2ZFc0cU1iNFFheWVodmZBQkN0WHV1anNmd01tTXdjYldGWlFmUkNwLVV6bEdHNEQ5aEFENFdWcktiU2lzbHdGWEVoVUsyR0Y2UENTZURvZHkzd2xWbks2dlZqdk16ZHhuemxvVmpRbEFJT05UWTM5VElpTXpLNlB1elFYcFhCXzVoMWVaVGt4aUdWRTZ0VWJGdjU1WFNw?oc=5",
+      "published": "2026-11-04T13:49:12+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "24af6cd23d3c",
+      "title": "Biologische Arzneimittel: Fresenius baut Geschäft mit Nachahmer-Medikamenten aus - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbEVmNlhlNGNDa2hhdXdyUzhkN0xXdi1uUmlCSnFfTjFtUHlyN0ZtWXM0V1pmeFBRalVvX0NmOWZYSEJQZzFrT1NXWUpLTUN6ck0yU0RJejgyZkRUbmUtaGdvR3pIQkpZT1hNcXlMRFBKWlRlUUc4MWtBTlJIR3VIdTRRaUU2ZncxQXJIOGhEdlYzMXFUMWRhWVBsdHMzN2ZWaDlZbHkwS0h4THNMXzZZQlh5bXdwaVRFbFhFWVRCQ0hMVGhBWElEdnpQUXdRblpVdTJ1aU1JTzZuOUFhWEE?oc=5",
+      "published": "2026-11-02T09:34:17+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
       }
     },
     {
@@ -54,23 +84,33 @@
       }
     },
     {
-      "id": "b2703be2615b",
-      "title": "Apotheker hoffen, ärztliches Dispensierrecht doch noch zu verhindern - Ärzte Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeU9OalR0ai1NclJQamw1UEQweVItZUM0ZHFRT0ZHRXdWYkVYSlFheTlEZkdoWXNkSnUzcGx4ZmtoaTJuQ1dFRDg4MmhyaGJjcklqd3hHSWplVXpLTDczc0oyb0g2OER1bExBY2FrQjhIUi13cFRqWFJvWTZHSDNxTUdnWFk4TDhJdTVfb0pBNVR5R2hyNGxUS3RVUEotbURUX0JOdXdsWW9fWWFmZU1ERmRyeW9pcEwzT2VaWA?oc=5",
-      "published": "2026-11-03T15:25:06+00:00",
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
       "source": {
-        "name": "Ärzte Zeitung",
-        "url": "https://www.aerztezeitung.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
-      "id": "2573a0f41494",
-      "title": "Rückenschmerzen ohne Medikamente lindern: Sechs Therapien können helfen und sparen Kosten - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzB0YUZ4bXlFYTdoTEViRmdHeVBZOHppcXdZT1Q0WFd1ajlITmY2ZFc0cU1iNFFheWVodmZBQkN0WHV1anNmd01tTXdjYldGWlFmUkNwLVV6bEdHNEQ5aEFENFdWcktiU2lzbHdGWEVoVUsyR0Y2UENTZURvZHkzd2xWbks2dlZqdk16ZHhuemxvVmpRbEFJT05UWTM5VElpTXpLNlB1elFYcFhCXzVoMWVaVGt4aUdWRTZ0VWJGdjU1WFNw?oc=5",
-      "published": "2026-11-04T13:49:12+00:00",
+      "id": "2ff5f626fb95",
+      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
       "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -84,60 +124,20 @@
       }
     },
     {
-      "id": "d076c5f1dada",
-      "title": "20-jährige Tochter hungerte, um Parkinson-Medikamente ihres Vaters zu bezahlen - Merkur",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVRIVHo1SUtZTFBsM0d3aGdmLUpCU2FZSmdxRVc2Vlp6UTJaeDBkX3o3WEZWbk1RYURLZEtpeWh5T2xGUDhmZmhTNF83b3A1UFhmSklPNjZnNVJnbFlXUGpGTXZtNTdHaWF5dURRQzcydTdiNFhIelAxdmlnMWljZUhrTFJaX2VuYTc0OVMxbHZFNnJuZ2dDeW1zYmhZMFd5VDhpRWxjYlA4b0kxcERJ?oc=5",
-      "published": "2026-11-01T17:00:00+00:00",
+      "id": "2f0f7b06072d",
+      "title": "Fischölkapseln zeigen nach zwei Jahren keinen Nutzen für das Gehirn - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWElhOGZOdlJxOTBGQjk5WVE0Q0o3U1lNRUIzajRSWlhUNUhTa0RERVRoMlVEanZHUm9WQTBnbzVEa2lhVzFvRUpyT01OMzVjSk04anlDWnVoaTJvNFo2bmlXYkNDN0pZdHI5TVc4MjNWRnZGd1NmLTFBRTI5WUlzX2ZxcWNBVjQyVU8xaXViQmF3Rk9sUWZ6dXNiVDJwQTdpbXdXQWx5WTU?oc=5",
+      "published": "2026-11-05T08:34:36+00:00",
       "source": {
-        "name": "Merkur",
-        "url": "https://www.merkur.de"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
-      "id": "e04be0827435",
-      "title": "Ausgaben für Arzneimittel treiben Kosten für Krankenkassen - Freie Presse",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXhRRjJDdGJGQjViN3ZfaWZjWVdrdTJBMjg3czZISUVPV3dBbDk2NGRkdWlGbUc0SEhIYkVyQVpPZm1feERKSXd3aE5taGw5cmtqeDJ1Q21RQTlsN0dkWGszQktjY0pWREFnVFo0OHNwSmFCbF9iVXhtYzMyLURLdG1MQjItV3dYOGpiRTlQZ0NKV1hGbE1xaWJWTEVUejVTTktYc2VfWmlnV2UxR0VSNk9Ibno1cmVmdVR5eWFIVUM?oc=5",
-      "published": "2026-11-04T08:15:00+00:00",
-      "source": {
-        "name": "Freie Presse",
-        "url": "https://www.freiepresse.de"
-      }
-    },
-    {
-      "id": "4d67948e6db6",
-      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzdmdmpsZXBTTUVydjZiYjE0bHp2Q19fZkNOQTI5cmc2SVRvWlp2UVVhRFFMQ3Z4Qm5UYWpWd2Y5TFN2eVlwa3NNRm5peFBvLWZnbkxGUkItR1lPaFE5Z3hKMFo5Ul8ySGJ6aUhqT0QyakR4VjBKb0RVTnJsTXRJaWtWY3pXdEJacHZCOGV5S0Zwa2VENV9sY3hEd1E2aWZOdWswaUtFY3Jqb1BGTjdOd0xma1FsUnc?oc=5",
-      "published": "2026-11-03T01:08:14+00:00",
-      "source": {
-        "name": "DerWesten",
-        "url": "https://www.derwesten.de"
-      }
-    },
-    {
-      "id": "059d6d28dc47",
-      "title": "Sturzrisiko: Jeder Zweite über 80 betroffen - Kurier",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVhIeGQ1aFVrbHRFMTVQQXhaSWhqbmk2QnRTTWJCU1hhcHJLcm40QU9vYUE2TmdwUnhDNDNJSnlFVlg5Wktzakd5NjhEajN2ei1WNzg1OUMyRzRnb2N2WjRjTlhleTg5Vm4zeW5YSnF5NUd0aEktWWFUODkzOWUxTkx2RVdDRGFHTkhOQkFWT1NrT25CRnpmaGVTYw?oc=5",
-      "published": "2026-11-02T09:45:00+00:00",
-      "source": {
-        "name": "Kurier",
-        "url": "https://kurier.at"
-      }
-    },
-    {
-      "id": "c097e0f2ba84",
-      "title": "Entwicklungsvereinbarung: Fresenius baut Geschäft mit Nachahmermedikamenten aus - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXBpNTQwT0VqbzR3WjJhSTRXalNkcTJjeWJnTVZRMUhJTTYxSThSZnhjTUFrT0tJTWc0Ylgtc1ZlU0d5cTNnMDZnVjEwa3ROQXhERG5uMGRrTGtnNE0yU3dfQVcyeFExejBmWnhQd0R4SEs0dmhXUGxET1RhSnFjZUVyMnc0aFg4OGRFVDk5eFhlQzBzeFV1NGY2dzUwRE00d0xvNmFleVRzSDg0by13NVdlV19OT2xSSjJYMjU1ZTdNOEJiTG5wUVIyektVcWVfeVYxUU5sMTgwdTJS?oc=5",
-      "published": "2026-11-02T06:48:00+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
-      }
-    },
-    {
-      "id": "8b46c8ffa7cb",
-      "title": "Ein Jahr Alzheimer-Antikörper: Was sich getan hat - Ärzte Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2ZoUlc0VUw3cTNTSTFJMW9ibmNmQTUwT1V2Mm9pYzhuT2NzUWQwOGJZYWRXY0F6VkZOaExDM1hoVTFNdFF0dEdGNjEyX2lJM0pfZ0JodTRGdE9EU3pJNDM3amU1WnlvcmlIaC1IWjNEdkVMRWp3NU1LVDc0SkV4dEVFZF82aWF4Z1BkR2l5T1ZlNE8yVVVYdzRJX1NIdDQ?oc=5",
-      "published": "2026-11-04T11:54:56+00:00",
+      "id": "e10b6e7284d3",
+      "title": "Impfangebot der Apotheken wird zunehmend bekannter - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWV9ZWHVzWk9TdXJQTnNHdUE3T3QwcjZOSGV2eGVyLV9lbVlsc1BKRS1QZmxMa2FGczZLQnI3a1BzeXkxUm9IaEk2NEgtbmhnWWJPakVWOGt4UEpTeklCNktSczhuWlpwX29UZUhlRUl0NjRqSXZ1WDlDakNpLUw0aUgxdTBhc1pwbEVaTlNDTGdqd3lJbko3dXNPQUtmMzBEQ0Q0YQ?oc=5",
+      "published": "2026-11-05T13:51:17+00:00",
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
@@ -164,10 +164,10 @@
       }
     },
     {
-      "id": "c893b53a32e4",
-      "title": "AOK-Umfrage: Viel Zustimmung für Weitergabe von Gesundheitsdaten aus ePA zur Forschung - Ärzte Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGd6NHZKNmVRbHViTlIzWW43YzdFZnktMkJEVzZQaFVCWXF2MnBMd0c4VVJtM1FiUko2QU9rMXRmTV9jWjVPVEtCNllyWjgwbzFLMF9QZ3hMWXVOUmFqZEJVR1AzQUJ4LU54OWxKdnBweHJKSk1LSHFjZUNCeE1UY21LZHFiU0tNWmF1SmtBSEdJNEtBcWgzblkzbm8tWHdWbWZ1YmpaeUlvNERpcm16YUhIWjZCRWpndjUwMXZtTmlJV19Nblg1cXpB?oc=5",
-      "published": "2026-11-02T12:43:00+00:00",
+      "id": "b2703be2615b",
+      "title": "Apotheker hoffen, ärztliches Dispensierrecht doch noch zu verhindern - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeU9OalR0ai1NclJQamw1UEQweVItZUM0ZHFRT0ZHRXdWYkVYSlFheTlEZkdoWXNkSnUzcGx4ZmtoaTJuQ1dFRDg4MmhyaGJjcklqd3hHSWplVXpLTDczc0oyb0g2OER1bExBY2FrQjhIUi13cFRqWFJvWTZHSDNxTUdnWFk4TDhJdTVfb0pBNVR5R2hyNGxUS3RVUEotbURUX0JOdXdsWW9fWWFmZU1ERmRyeW9pcEwzT2VaWA?oc=5",
+      "published": "2026-11-03T15:25:06+00:00",
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
@@ -184,10 +184,10 @@
       }
     },
     {
-      "id": "088d7e6ec53d",
-      "title": "Medi24-Übernahme: DocMorris kündigt europaweite Telemed-Expansion an - Ärzte Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenhYbjQ1engyVnFYNlhXVFNqRjAzOVp0WmVDQ1VaNGJtbUJGWlB0Q3Y5N0VTOWMzMUl2dmtUSmFUY1hOM2NqdDRrY1pzTWF1ZFBtcE9jMDl1Yi0tMVIzaUVyeUduTDZEU25TdlotY3BuU0hhQmx1WWNFS2RVSjU1cTBMaElhYmxYcDkxa3o4MDNNZ2I0UWVTM3o5bUtBRHlBZUpuMC1lTlJyWGVFSU5jcktxZmlSRmdDSFBIYlFB?oc=5",
-      "published": "2026-11-04T12:46:55+00:00",
+      "id": "8b46c8ffa7cb",
+      "title": "Ein Jahr Alzheimer-Antikörper: Was sich getan hat - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2ZoUlc0VUw3cTNTSTFJMW9ibmNmQTUwT1V2Mm9pYzhuT2NzUWQwOGJZYWRXY0F6VkZOaExDM1hoVTFNdFF0dEdGNjEyX2lJM0pfZ0JodTRGdE9EU3pJNDM3amU1WnlvcmlIaC1IWjNEdkVMRWp3NU1LVDc0SkV4dEVFZF82aWF4Z1BkR2l5T1ZlNE8yVVVYdzRJX1NIdDQ?oc=5",
+      "published": "2026-11-04T11:54:56+00:00",
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
@@ -204,6 +204,76 @@
       }
     },
     {
+      "id": "aca34b7b78e6",
+      "title": "Hypertonie: Wann können Blutdrucksenker im hohen Alter abgesetzt werden? - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjA1Mm40V3ZtYVRVcmJQVGxRR2RHTjA5Ymt4S1lxTXl6TEVMTnoxLUJvNndhaVRyVmxnQkd3TVVHQ2dvd1dVS2tsU1ItVklPS0ZwS3RtNTVSaGtLdmI1UWJIMVE1SDlEbGl0Ym44RlVQcWhzMWQ4S0wxSTdmS3hPUm9sVjNnQnA4NVI1c1pKMk9nVjRzakFLRi1CTTFyVFlua1JOSEhzYm9IRlN0cXN5RzVFeVBDSnlQVnp5Uw?oc=5",
+      "published": "2026-11-02T07:33:00+00:00",
+      "source": {
+        "name": "Ärzte Zeitung",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "d076c5f1dada",
+      "title": "20-jährige Tochter hungerte, um Parkinson-Medikamente ihres Vaters zu bezahlen - Merkur",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVRIVHo1SUtZTFBsM0d3aGdmLUpCU2FZSmdxRVc2Vlp6UTJaeDBkX3o3WEZWbk1RYURLZEtpeWh5T2xGUDhmZmhTNF83b3A1UFhmSklPNjZnNVJnbFlXUGpGTXZtNTdHaWF5dURRQzcydTdiNFhIelAxdmlnMWljZUhrTFJaX2VuYTc0OVMxbHZFNnJuZ2dDeW1zYmhZMFd5VDhpRWxjYlA4b0kxcERJ?oc=5",
+      "published": "2026-11-01T17:00:00+00:00",
+      "source": {
+        "name": "Merkur",
+        "url": "https://www.merkur.de"
+      }
+    },
+    {
+      "id": "088d7e6ec53d",
+      "title": "Medi24-Übernahme: DocMorris kündigt europaweite Telemed-Expansion an - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenhYbjQ1engyVnFYNlhXVFNqRjAzOVp0WmVDQ1VaNGJtbUJGWlB0Q3Y5N0VTOWMzMUl2dmtUSmFUY1hOM2NqdDRrY1pzTWF1ZFBtcE9jMDl1Yi0tMVIzaUVyeUduTDZEU25TdlotY3BuU0hhQmx1WWNFS2RVSjU1cTBMaElhYmxYcDkxa3o4MDNNZ2I0UWVTM3o5bUtBRHlBZUpuMC1lTlJyWGVFSU5jcktxZmlSRmdDSFBIYlFB?oc=5",
+      "published": "2026-11-04T12:46:55+00:00",
+      "source": {
+        "name": "Ärzte Zeitung",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "e04be0827435",
+      "title": "Ausgaben für Arzneimittel treiben Kosten für Krankenkassen - Freie Presse",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXhRRjJDdGJGQjViN3ZfaWZjWVdrdTJBMjg3czZISUVPV3dBbDk2NGRkdWlGbUc0SEhIYkVyQVpPZm1feERKSXd3aE5taGw5cmtqeDJ1Q21RQTlsN0dkWGszQktjY0pWREFnVFo0OHNwSmFCbF9iVXhtYzMyLURLdG1MQjItV3dYOGpiRTlQZ0NKV1hGbE1xaWJWTEVUejVTTktYc2VfWmlnV2UxR0VSNk9Ibno1cmVmdVR5eWFIVUM?oc=5",
+      "published": "2026-11-04T08:15:00+00:00",
+      "source": {
+        "name": "Freie Presse",
+        "url": "https://www.freiepresse.de"
+      }
+    },
+    {
+      "id": "4d67948e6db6",
+      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzdmdmpsZXBTTUVydjZiYjE0bHp2Q19fZkNOQTI5cmc2SVRvWlp2UVVhRFFMQ3Z4Qm5UYWpWd2Y5TFN2eVlwa3NNRm5peFBvLWZnbkxGUkItR1lPaFE5Z3hKMFo5Ul8ySGJ6aUhqT0QyakR4VjBKb0RVTnJsTXRJaWtWY3pXdEJacHZCOGV5S0Zwa2VENV9sY3hEd1E2aWZOdWswaUtFY3Jqb1BGTjdOd0xma1FsUnc?oc=5",
+      "published": "2026-11-03T01:08:14+00:00",
+      "source": {
+        "name": "DerWesten",
+        "url": "https://www.derwesten.de"
+      }
+    },
+    {
+      "id": "14601b1ecbed",
+      "title": "Sturzrisiko bei Senioren: Jeder Zweite über 80 betroffen - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVhIeGQ1aFVrbHRFMTVQQXhaSWhqbmk2QnRTTWJCU1hhcHJLcm40QU9vYUE2TmdwUnhDNDNJSnlFVlg5Wktzakd5NjhEajN2ei1WNzg1OUMyRzRnb2N2WjRjTlhleTg5Vm4zeW5YSnF5NUd0aEktWWFUODkzOWUxTkx2RVdDRGFHTkhOQkFWT1NrT25CRnpmaGVTYw?oc=5",
+      "published": "2026-11-02T09:45:00+00:00",
+      "source": {
+        "name": "Kurier",
+        "url": "https://kurier.at"
+      }
+    },
+    {
+      "id": "c097e0f2ba84",
+      "title": "Entwicklungsvereinbarung: Fresenius baut Geschäft mit Nachahmermedikamenten aus - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXBpNTQwT0VqbzR3WjJhSTRXalNkcTJjeWJnTVZRMUhJTTYxSThSZnhjTUFrT0tJTWc0Ylgtc1ZlU0d5cTNnMDZnVjEwa3ROQXhERG5uMGRrTGtnNE0yU3dfQVcyeFExejBmWnhQd0R4SEs0dmhXUGxET1RhSnFjZUVyMnc0aFg4OGRFVDk5eFhlQzBzeFV1NGY2dzUwRE00d0xvNmFleVRzSDg0by13NVdlV19OT2xSSjJYMjU1ZTdNOEJiTG5wUVIyektVcWVfeVYxUU5sMTgwdTJS?oc=5",
+      "published": "2026-11-02T06:48:00+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
+    {
       "id": "b61122787b1a",
       "title": "Mein liebes Tagebuch - Deutsche Apotheker Zeitung, DAZ",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1RTlp5S0xBTWlSRzQ0QlI1X01Vazdvby1tbU5qdW03UnlCaTU4NUU3OWdPZG9objJTU0VVMkpTaGJ1N0dfRjJ1VzBNMnVReDRRS3QzUk4zNHpleVFhbHV3YkRtdW9JWWhSSFhwaUZEbl84NkgxTWtkZWpYS1R6WmVQTGI3UmM1SzcwYkJKcUpvM1o3?oc=5",
@@ -214,13 +284,13 @@
       }
     },
     {
-      "id": "2ff5f626fb95",
-      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
+      "id": "61b32515fd51",
+      "title": "Politika: Rx-Zuzahlungsverzicht und Notfallreform - markt intern",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEVMdDkxbkI0TXdzd2lWeUF4WV9iMUh1c1NMblNVRC1Nak5tMVBCcHpvSDk0UmZCRTAyWGVSd2s3WVU1eXZCdzRwUkRJby15QTV0QWVxME1zbXBTY3o4Rko1andnVzdkWWlVUW9DMHhJQlRYZGtEZ0JCa0FyRHFRMDlqUW5DUXp1b1lBaFB0a2g5U0RnYlg4T3hpaVZEb0hYX2Q5TElTRGRsVVJ1d09kMmVvOWROTWczT1l2V1JWUktZeGVLb2JzSXA1OTZxNzhUVWc?oc=5",
+      "published": "2026-11-03T11:43:54+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "markt intern",
+        "url": "https://www.markt-intern.de"
       }
     },
     {
@@ -231,26 +301,6 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "976b3743b89a",
-      "title": "Der Missbrauch von Patenten durch Roche gefährdet die Gesundheit - PublicEye",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTFVrYmZwUUtPNzNHNGJieVpJWGdlZkhtUjNNMDItVmVVazEydndLbnM2VVlRQldzVGhESllWVE43Ny1fTjhyMERpTzFuUjNJRUFNWU1EaXdfaF9RRXM3Rkk3b1pQR0ZWZzhKZktYVkNxRDluZjg1LXI0V04zTHV4QWZLSWhCeUJYREJqUFQ2SHVnMTBGMVRUUVNTUzZVRllUSER1bU1WaE1IZERaUEF3ZWlxc1BzQUxIOWxtenppQllPNEcwWVZhTUJCSS1oU1VXSnhPRFp4WDFFVE1kaGpKeEt3NnVHa05hYk5TN0tJaVBIZUMtX3plRHpzN2RFSDN5dnRzeFIzTVlEd1BqbkJjbU5ySDEteGZ4b1E?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "PublicEye",
-        "url": "https://www.publiceye.ch"
       }
     },
     {
@@ -294,23 +344,13 @@
       }
     },
     {
-      "id": "e9ce7cf0dcc9",
-      "title": "Biologische Arzneimittel - Fresenius baut Geschäft mit Nachahmer-Medikamenten aus - Wirtschaft - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS2pDTFJheVdmczlUVUMxcXZremxKSHk5cWUzNEZPdV9pVDBoa1lGM1RjUXZPUzNNNzZoRmhlaHhGWGdSRml4Njg2R3h1a3cxMlMyb20weUp6WmxnMkdkdl83aW5mMEJSdEN2RDk3WWtDVXI4MXVjaTcxdE1vY3RFcTZDRGRzY3IyVTNMRjUyTzdlYkRNd19UelhfVHBhbGVIVHBuTzlPR1lzX196SWV2SnBwdDZwdmVVSVhiLW1jMG8yS2NDbGh2WWt5Rk5Gb25YMS10b2s3OVZRODlrcVFEVUxHc0RHaVFoZDZyVEpIQkR6SllZQ2czWUt3TGR4QQ?oc=5",
-      "published": "2026-11-02T09:34:17+00:00",
+      "id": "29039f0e1605",
+      "title": "40 Prozent der Gesundheitskosten werden von den Bürgern getragen. - KOHA.net",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajZtZTlCYVBORkdiV2NpWjBkNkw0bU9JX1lxTmFKblRnWGxwRXZsZ3BJWjdleHlEbmpueHpDVHQ4X2d5NDROd1haejdyNU5DdFZyS2hBUGFoQU5YZ1FqLUJrdGpMVU02X3J2S3psQjZ4YUZTQzFRUzJTUjgyaVhHRmx3dktFUXdQeUtQMTJlcXpTVDVoMGtv?oc=5",
+      "published": "2026-11-05T18:12:59+00:00",
       "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
-      "id": "a1cec6d3f4c0",
-      "title": "Gesundheit - Das sind die teuersten Medikamente der Schweiz - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzRjNGcwUkRhUURBZTBXREVobDljWlI3VEJYall6NlpQbkxOcDNNa0lGS1B6TXNMUFNaRnRtZjdSYmVqSHB6bF9pRTUyWlNZRUxoNnhsOTZSejZwTlQwLW83bEd6akZJeG93ODBXeXZEY1ljRnZTRXh3OGlnY2pjWWtoVV92R2xON0FKbDVOeHN2YlJNTHpZZnRxUzFzTy1rLVJBWDJUb1JhT0k?oc=5",
-      "published": "2016-04-05T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "KOHA.net",
+        "url": "https://www.koha.net"
       }
     },
     {
@@ -324,23 +364,13 @@
       }
     },
     {
-      "id": "7530949847db",
-      "title": "AfD will Modellprojekte gegen Arzneimittelverschwendung - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ2Vi1URGlRdUdPVG1uQkFlSUVva0UtSEgwQ04xVEZtdnVGT2dWNUNpeGp4enZpSFR0a2hVYU90aExIMm51TTJ6OGlUdXVuU3NCZXZuRk9VY3BUdzBueDdrWjhodzc0ang5ZnI4UGpfQk1Fd1BQYzRNUm1tTmhpanJ5cDI0cnRCcGhfaVE0akFlVmR3em03N1NCQzZYelFsMGRkdmRodjRMVE9SdTlteVZfQXB2OFpTVFRSYWJn?oc=5",
-      "published": "2026-11-05T00:00:00+00:00",
+      "id": "a1cec6d3f4c0",
+      "title": "Gesundheit - Das sind die teuersten Medikamente der Schweiz - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzRjNGcwUkRhUURBZTBXREVobDljWlI3VEJYall6NlpQbkxOcDNNa0lGS1B6TXNMUFNaRnRtZjdSYmVqSHB6bF9pRTUyWlNZRUxoNnhsOTZSejZwTlQwLW83bEd6akZJeG93ODBXeXZEY1ljRnZTRXh3OGlnY2pjWWtoVV92R2xON0FKbDVOeHN2YlJNTHpZZnRxUzFzTy1rLVJBWDJUb1JhT0k?oc=5",
+      "published": "2016-04-05T07:00:00+00:00",
       "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
-      "id": "bc546e155ccc",
-      "title": "Kontaktpunkt für Marken ohne Ablenkung – mnews - medianet.at",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1AtWnAxbnBFVE85NG1HY0NwTmJuMHAteUxOMmdpRWsyUm84RGltMkdWZWdGMWY1M3lhZlBMVTFuRFh6QmpwYUw4VjJFdW45UVp3UGNrMzVGbVd6bzBYRHhVLWxEZ3FPY1hhblp0OUpzRXZyRkN4cHNtWGQ3cHRXX0tteVRPZk1JeTVwUkdCRFRxaDVV?oc=5",
-      "published": "2026-11-01T23:00:00+00:00",
-      "source": {
-        "name": "medianet.at",
-        "url": "https://medianet.at"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -351,6 +381,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "936d33f2eb65",
+      "title": "Arzneimittelversorgung für 6 Kliniken: 50 Jahre Krankenhausapotheke im Landesklinikum Horn - MeinBezirk.at",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmRZSUlaM0JndXg5dE9XZDdpOE1RaUZCVnNxSk9TWU1lcTNIb2lZU3Y3TXcwNGY1OUxNdTNNeUZYbWFpMHlxc1FYVTN0MElUZ3pzOU43N1dGdG9LM3gtM3oxT2lzSUN3TW9KWU84ODhVb29ZWUN0N3k1UmRBWXZmbmVCN0o0aE5BSVZfWEVNUGFsTDdVSjNuNjVOOU1MdkZUSFg2bWh1SQ?oc=5",
+      "published": "2026-10-31T17:00:06+00:00",
+      "source": {
+        "name": "MeinBezirk.at",
+        "url": "https://www.meinbezirk.at"
       }
     },
     {
