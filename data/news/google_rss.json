@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-11-06T15:37:02.247293+00:00",
+  "fetched_at": "2026-11-06T21:14:32.536501+00:00",
   "source": "Google News Health RSS",
   "count": 38,
   "articles": [
-    {
-      "id": "672319b8b87d",
-      "title": "Top 20 Unternehmen im globalen Markt für kardiometabolische Arzneimittel - Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcGdhZnViV2YteVVBdEliSF9QajNHaVlVQUZQenJDZW1wc3o2cURRNGhFNC04LS0wLWR2SGYtU29PeVFkUTZFTENoSm5XZV9VMHNicDdSYnhLRFFhYlFZMWNacTNGRDVPZ0JpbHBGa3h1bTJTOXJQNkpuVzZ5Q1pJejloUktQcVRGZ1FHS1pJdDNaMVNxanNuRWs2M29ldlAzWXJoOVRDRGQ2NG5UMUt0WDVyV081STd6ZG9HclRhVFduakczWTltTkNfUW5TTWFqUDFZLUdoVUJ3Zw?oc=5",
-      "published": "2026-11-06T08:20:55+00:00",
-      "source": {
-        "name": "Spherical Insights",
-        "url": "https://www.sphericalinsights.com"
-      }
-    },
     {
       "id": "dcaad85fadfe",
       "title": "Wer im Alter mehr Schritte macht, hat offenbar geringere Gesundheitskosten - aponet.de",
@@ -21,6 +11,16 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "672319b8b87d",
+      "title": "Top 20 Unternehmen im globalen Markt für kardiometabolische Arzneimittel - Spherical Insights",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcGdhZnViV2YteVVBdEliSF9QajNHaVlVQUZQenJDZW1wc3o2cURRNGhFNC04LS0wLWR2SGYtU29PeVFkUTZFTENoSm5XZV9VMHNicDdSYnhLRFFhYlFZMWNacTNGRDVPZ0JpbHBGa3h1bTJTOXJQNkpuVzZ5Q1pJejloUktQcVRGZ1FHS1pJdDNaMVNxanNuRWs2M29ldlAzWXJoOVRDRGQ2NG5UMUt0WDVyV081STd6ZG9HclRhVFduakczWTltTkNfUW5TTWFqUDFZLUdoVUJ3Zw?oc=5",
+      "published": "2026-11-06T08:20:55+00:00",
+      "source": {
+        "name": "Spherical Insights",
+        "url": "https://www.sphericalinsights.com"
       }
     },
     {
@@ -57,20 +57,10 @@
       "id": "784cf623bb11",
       "title": "Medikamentenkosten laufen bei Volkskrankheiten aus dem Ruder - Nordkurier",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWQxZllhVW5YeFM0TExULTVvWjdzOGZtaGJpN3JKTmNmMmxIS0hhOTZZOTZ0UURGdi1sRklRb1NRWXNPZV9aSzNmN0R1a29iNFhKVGRrd3dVUjVrVWFxeTFhSDhLTG9DQjVTN0ZqdExvdDlGSkFTRWYzcmFqcmZDNGFIRU9tZGZjYWQzRjdodEUxamptaDUwb0VPb3JQa0lvS0swbnMxN0x6Vkptbjk3dGFLV0NUQTUwbklnakpqZ3VmRkFm?oc=5",
-      "published": "2026-11-06T09:45:00+00:00",
+      "published": "2026-11-06T14:37:00+00:00",
       "source": {
         "name": "Nordkurier",
         "url": "https://www.nordkurier.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
       }
     },
     {
@@ -84,13 +74,13 @@
       }
     },
     {
-      "id": "1cb238a2aa77",
-      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
-      "published": "2026-11-06T02:33:16+00:00",
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
       "source": {
-        "name": "DerWesten",
-        "url": "https://www.derwesten.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -114,10 +104,20 @@
       }
     },
     {
-      "id": "5ede94a7f3f2",
-      "title": "Wie oft dürfen Kinder mit Neurodermitis baden? - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUVid29EVWdFTk1HeVJqRmFBWE8wcUt3amVpNmJCTmhZcmNka3U3RWRNd0ttRmZCaXhlaDRFNGYtN2w4OEp3SDB3dWl1Smw4RzRtM0ZHS3l1MFJjcXZtRjVaYjlEczkzZ2JzUFY3UVVsNnQ3VVZyVTVlb1lXQ0EzSnlSbTNtZVVydnc?oc=5",
-      "published": "2026-11-06T07:09:00+00:00",
+      "id": "1cb238a2aa77",
+      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
+      "published": "2026-11-06T02:33:16+00:00",
+      "source": {
+        "name": "DerWesten",
+        "url": "https://www.derwesten.de"
+      }
+    },
+    {
+      "id": "2573a0f41494",
+      "title": "Rückenschmerzen ohne Medikamente lindern: Sechs Therapien können helfen und sparen Kosten - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzB0YUZ4bXlFYTdoTEViRmdHeVBZOHppcXdZT1Q0WFd1ajlITmY2ZFc0cU1iNFFheWVodmZBQkN0WHV1anNmd01tTXdjYldGWlFmUkNwLVV6bEdHNEQ5aEFENFdWcktiU2lzbHdGWEVoVUsyR0Y2UENTZURvZHkzd2xWbks2dlZqdk16ZHhuemxvVmpRbEFJT05UWTM5VElpTXpLNlB1elFYcFhCXzVoMWVaVGt4aUdWRTZ0VWJGdjU1WFNw?oc=5",
+      "published": "2026-11-04T13:49:12+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
@@ -154,10 +154,10 @@
       }
     },
     {
-      "id": "2573a0f41494",
-      "title": "Rückenschmerzen ohne Medikamente lindern: Sechs Therapien können helfen und sparen Kosten - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzB0YUZ4bXlFYTdoTEViRmdHeVBZOHppcXdZT1Q0WFd1ajlITmY2ZFc0cU1iNFFheWVodmZBQkN0WHV1anNmd01tTXdjYldGWlFmUkNwLVV6bEdHNEQ5aEFENFdWcktiU2lzbHdGWEVoVUsyR0Y2UENTZURvZHkzd2xWbks2dlZqdk16ZHhuemxvVmpRbEFJT05UWTM5VElpTXpLNlB1elFYcFhCXzVoMWVaVGt4aUdWRTZ0VWJGdjU1WFNw?oc=5",
-      "published": "2026-11-04T13:49:12+00:00",
+      "id": "106113902e27",
+      "title": "Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5",
+      "published": "2026-11-04T11:40:49+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
@@ -171,16 +171,6 @@
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "106113902e27",
-      "title": "Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5",
-      "published": "2026-11-04T11:40:49+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
       }
     },
     {
@@ -284,6 +274,16 @@
       }
     },
     {
+      "id": "d17ec941210c",
+      "title": "Chronischer Schmerz: SemFYC fordert Bewegung statt Medikamente als erste Wahl - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEIxQndyRXh3bjVzV2l3S0VwenBNN2IzR2NHVFlkaHlldEh5RW03ejlOZGZVLU9LdDZQaEI3Y3BYSFBzZFRETU5TbG9wVzQ3M3hNSVRIYUgwQlNXWm5iR0tfVExIbUVXd2VGdHJ5OUhmUzkwUDRLRHR5aXBuOXdQdWU3TGtLcVNlaEhPa2Uycy04X05iNDZRRlRzMXF3b1pHLU1TOFZhV3hnNF8taC1KMWtmdXMybFlrQ3RIR0tvRVY0Vmc?oc=5",
+      "published": "2026-11-06T19:39:19+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
       "id": "bb81edab44a9",
       "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
@@ -301,16 +301,6 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
-      }
-    },
-    {
-      "id": "7b80f1f5a257",
-      "title": "Deshalb sind Medikamentenpreise in den USA höher als in Europa - SRF",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYi1ZU2plOWxCY1lMcDZOZTBQZnJDSVBJY1hkZHQ0Rk1abllUN1NncFVvVjVXMUJqRVRqVlpqUkxBdjVsQmdST2I5akl6dDFKVXdCV1lKMjhOTU0tNllzakRkTXF3c3BrdXo3Vlp5aUc2OTJrMmxKTkdQMm5jMnVZYmZ5ZVpaYUwwUVVMTGJjN2o2bTZERUNuT3UxN011STgxaWVpZDdHbkswSXh4Q2FvLTVWVHA?oc=5",
-      "published": "2025-08-20T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
@@ -334,16 +324,6 @@
       }
     },
     {
-      "id": "976d88f58bb6",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "29039f0e1605",
       "title": "40 Prozent der Gesundheitskosten werden von den Bürgern getragen. - KOHA.net",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajZtZTlCYVBORkdiV2NpWjBkNkw0bU9JX1lxTmFKblRnWGxwRXZsZ3BJWjdleHlEbmpueHpDVHQ4X2d5NDROd1haejdyNU5DdFZyS2hBUGFoQU5YZ1FqLUJrdGpMVU02X3J2S3psQjZ4YUZTQzFRUzJTUjgyaVhHRmx3dktFUXdQeUtQMTJlcXpTVDVoMGtv?oc=5",
@@ -361,6 +341,26 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "976d88f58bb6",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "7530949847db",
+      "title": "AfD will Modellprojekte gegen Arzneimittelverschwendung - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ2Vi1URGlRdUdPVG1uQkFlSUVva0UtSEgwQ04xVEZtdnVGT2dWNUNpeGp4enZpSFR0a2hVYU90aExIMm51TTJ6OGlUdXVuU3NCZXZuRk9VY3BUdzBueDdrWjhodzc0ang5ZnI4UGpfQk1Fd1BQYzRNUm1tTmhpanJ5cDI0cnRCcGhfaVE0akFlVmR3em03N1NCQzZYelFsMGRkdmRodjRMVE9SdTlteVZfQXB2OFpTVFRSYWJn?oc=5",
+      "published": "2026-11-05T00:00:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
