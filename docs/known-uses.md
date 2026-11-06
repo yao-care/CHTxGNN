@@ -10,7 +10,7 @@ description: "Bei diesen Arzneimitteln sind alle Kandidaten des TxGNN-Modells be
 
 Bei diesen Arzneimitteln sind alle Kandidaten des TxGNN-Modells bereits bekannte Anwendungen (im Wissensgraphen oder in einer Zulassung erfasst); es gibt daher keine neue vorhergesagte Indikation. Jede Seite listet die bekannten Anwendungen und den lokalen Marktstatus.
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 **{{ known_drugs.size }} Arzneimittel**
 
