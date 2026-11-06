@@ -24,7 +24,7 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 | **Einzigartige Arzneimittel** | 1,000 |
 | **Einzigartige Indikationen** | 17,041 |
 | **DDI-Daten** | 160,235 |
-| **FHIR-Ressourcen** | 823 MK / 5,634 CUD |
+| **FHIR-Ressourcen** | 104 MK / 577 CUD |
 
 ### Verteilung der Evidenzstufen
 

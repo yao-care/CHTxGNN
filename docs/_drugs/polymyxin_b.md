@@ -6,7 +6,7 @@ nav_order: 77
 evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-28
-description: "Polymyxin B: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Augeninfektionen, infizierte Augenentzündungen, Otitis"
+description: "Polymyxin B: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L4). Ursprüngliche Indikation: Augeninfektionen, infizierte Augenentzündungen, Otitis"
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
 ---

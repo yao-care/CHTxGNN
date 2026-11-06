@@ -6,7 +6,7 @@ nav_order: 57
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-28
-description: "Insulin Detemir: vorhergesagte neue Indikation autoimmune Oophoritis (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus"
+description: "Insulin Detemir: vorhergesagte neue Indikation autoimmune Oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes mellitus"
 monitor_inn: "insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---

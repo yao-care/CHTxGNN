@@ -1,0 +1,69 @@
+{
+  "_note": "藥物頁 front matter description 的證據等級字樣改成頁首等級的紀錄（母目錄 .claude/sync_description_levels.py 追加；只換等級字樣，其他文字不動）。還原：把 original_description 寫回該頁 description。",
+  "entries": [
+    {
+      "page": "docs/_drugs/insulin_detemir.md",
+      "date": "2026-11-06",
+      "from": "L1",
+      "to": "L5",
+      "original_description": "\"Insulin Detemir: vorhergesagte neue Indikation autoimmune Oophoritis (Evidenzstufe L1). Ursprüngliche Indikation: Diabetes mellitus\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/insulin_glulisine.md",
+      "date": "2026-11-06",
+      "from": "L1",
+      "to": "L5",
+      "original_description": "\"Insulin Glulisine: vorhergesagte neue Indikation Thiamin-responsives Dysfunktionssyndrom (thiamine-responsive dysfunction syndrome) (Evidenzstufe L1).\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/metamizole.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Metamizole: vorhergesagte neue Indikation Rheumatoide Arthritis (Evidenzstufe L5). Ursprüngliche Indikation: Analgetikum (Schmerzmittel)\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/phenylalanine.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Phenylalanin: vorhergesagte neue Indikation Sklerosierende Cholangitis (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung (auch für Erwachsene)\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/polymyxin_b.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Polymyxin B: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Augeninfektionen, infizierte Augenentzündungen, Otitis\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/velpatasvir.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L3",
+      "original_description": "\"Velpatasvir: vorhergesagte neue Indikation Hepatitis-B-Virusinfektion (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis C\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/voxilaprevir.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Voxilaprevir: vorhergesagte neue Indikation Hepatitis-B-Virusinfektion (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis C\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/zinc_oxide.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Zinc Oxide: vorhergesagte neue Indikation Akne (acne) (Evidenzstufe L5). Ursprüngliche Indikation: Leichte, nicht infektionsbedingte Hautentzündungen\"",
+      "tool": ".claude/sync_description_levels.py"
+    }
+  ]
+}

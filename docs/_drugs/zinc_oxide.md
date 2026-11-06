@@ -6,7 +6,7 @@ nav_order: 110
 evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-28
-description: "Zinc Oxide: vorhergesagte neue Indikation Akne (acne) (Evidenzstufe L5). Ursprüngliche Indikation: Leichte, nicht infektionsbedingte Hautentzündungen"
+description: "Zinc Oxide: vorhergesagte neue Indikation Akne (acne) (Evidenzstufe L4). Ursprüngliche Indikation: Leichte, nicht infektionsbedingte Hautentzündungen"
 monitor_inn: "zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 ---
