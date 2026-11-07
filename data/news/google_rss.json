@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-06T21:14:32.536501+00:00",
+  "fetched_at": "2026-11-07T01:33:30.617384+00:00",
   "source": "Google News Health RSS",
   "count": 38,
   "articles": [
+    {
+      "id": "aa6ba7bc2e7c",
+      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
+      "published": "2026-11-05T15:00:50+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
     {
       "id": "dcaad85fadfe",
       "title": "Wer im Alter mehr Schritte macht, hat offenbar geringere Gesundheitskosten - aponet.de",
@@ -21,16 +31,6 @@
       "source": {
         "name": "Spherical Insights",
         "url": "https://www.sphericalinsights.com"
-      }
-    },
-    {
-      "id": "aa6ba7bc2e7c",
-      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
-      "published": "2026-11-05T15:00:50+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -54,13 +54,13 @@
       }
     },
     {
-      "id": "784cf623bb11",
-      "title": "Medikamentenkosten laufen bei Volkskrankheiten aus dem Ruder - Nordkurier",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWQxZllhVW5YeFM0TExULTVvWjdzOGZtaGJpN3JKTmNmMmxIS0hhOTZZOTZ0UURGdi1sRklRb1NRWXNPZV9aSzNmN0R1a29iNFhKVGRrd3dVUjVrVWFxeTFhSDhLTG9DQjVTN0ZqdExvdDlGSkFTRWYzcmFqcmZDNGFIRU9tZGZjYWQzRjdodEUxamptaDUwb0VPb3JQa0lvS0swbnMxN0x6Vkptbjk3dGFLV0NUQTUwbklnakpqZ3VmRkFm?oc=5",
-      "published": "2026-11-06T14:37:00+00:00",
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
       "source": {
-        "name": "Nordkurier",
-        "url": "https://www.nordkurier.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -74,13 +74,13 @@
       }
     },
     {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
+      "id": "784cf623bb11",
+      "title": "Medikamentenkosten laufen bei Volkskrankheiten aus dem Ruder - Nordkurier",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWQxZllhVW5YeFM0TExULTVvWjdzOGZtaGJpN3JKTmNmMmxIS0hhOTZZOTZ0UURGdi1sRklRb1NRWXNPZV9aSzNmN0R1a29iNFhKVGRrd3dVUjVrVWFxeTFhSDhLTG9DQjVTN0ZqdExvdDlGSkFTRWYzcmFqcmZDNGFIRU9tZGZjYWQzRjdodEUxamptaDUwb0VPb3JQa0lvS0swbnMxN0x6Vkptbjk3dGFLV0NUQTUwbklnakpqZ3VmRkFm?oc=5",
+      "published": "2026-11-06T14:37:00+00:00",
       "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
+        "name": "Nordkurier",
+        "url": "https://www.nordkurier.de"
       }
     },
     {
@@ -104,13 +104,13 @@
       }
     },
     {
-      "id": "1cb238a2aa77",
-      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
-      "published": "2026-11-06T02:33:16+00:00",
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
       "source": {
-        "name": "DerWesten",
-        "url": "https://www.derwesten.de"
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -211,6 +211,16 @@
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "1cb238a2aa77",
+      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
+      "published": "2026-11-06T02:33:16+00:00",
+      "source": {
+        "name": "DerWesten",
+        "url": "https://www.derwesten.de"
       }
     },
     {
@@ -324,13 +334,13 @@
       }
     },
     {
-      "id": "29039f0e1605",
-      "title": "40 Prozent der Gesundheitskosten werden von den Bürgern getragen. - KOHA.net",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajZtZTlCYVBORkdiV2NpWjBkNkw0bU9JX1lxTmFKblRnWGxwRXZsZ3BJWjdleHlEbmpueHpDVHQ4X2d5NDROd1haejdyNU5DdFZyS2hBUGFoQU5YZ1FqLUJrdGpMVU02X3J2S3psQjZ4YUZTQzFRUzJTUjgyaVhHRmx3dktFUXdQeUtQMTJlcXpTVDVoMGtv?oc=5",
-      "published": "2026-11-05T18:12:59+00:00",
+      "id": "976d88f58bb6",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
       "source": {
-        "name": "KOHA.net",
-        "url": "https://www.koha.net"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -344,26 +354,6 @@
       }
     },
     {
-      "id": "976d88f58bb6",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "7530949847db",
-      "title": "AfD will Modellprojekte gegen Arzneimittelverschwendung - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ2Vi1URGlRdUdPVG1uQkFlSUVva0UtSEgwQ04xVEZtdnVGT2dWNUNpeGp4enZpSFR0a2hVYU90aExIMm51TTJ6OGlUdXVuU3NCZXZuRk9VY3BUdzBueDdrWjhodzc0ang5ZnI4UGpfQk1Fd1BQYzRNUm1tTmhpanJ5cDI0cnRCcGhfaVE0akFlVmR3em03N1NCQzZYelFsMGRkdmRodjRMVE9SdTlteVZfQXB2OFpTVFRSYWJn?oc=5",
-      "published": "2026-11-05T00:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
       "id": "4d758dd54a8b",
       "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
@@ -371,6 +361,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "f2a2de79771b",
+      "title": "Philippi reagiert auf Berichte über Lieferengpässe für Arzneimittel - Rundblick Niedersachsen",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmZ6NDl1c1ROazFOMmkwdnhPNkh5aV9MYnlCemkxQ05YR2g2d2pLYjZ1UF9MdHZyc0pocjR2bGo4RVVWNEdBbUJKbUdEZFB6M0hWYUZha3l0ejgxS3JjQjRzOTlEWEgzUlZyUmFzSnNXY1RyaEd5RG1vWEpSYWJpSE9mbjAzMUp4MnI1dnd3REJGUHhNZWZLRnNUVlJuaGZPY2F0blpNRHo?oc=5",
+      "published": "2026-10-31T13:07:06+00:00",
+      "source": {
+        "name": "Rundblick Niedersachsen",
+        "url": "https://rundblick-niedersachsen.de"
       }
     },
     {
