@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-08T04:07:12.855604+00:00",
+  "fetched_at": "2026-11-08T11:39:16.602694+00:00",
   "source": "Google News Health RSS",
-  "count": 32,
+  "count": 33,
   "articles": [
     {
-      "id": "aa6ba7bc2e7c",
-      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
-      "published": "2026-11-05T15:00:50+00:00",
+      "id": "ca85a24f5909",
+      "title": "Verdacht auf Krebs bei Kindern durch Gentherapie - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm1McTAxeHBGNWM5VHp2ZjQxdU1RZ3d0emh6WjYzRlVEb05wX3N6cnE3ekMzUExRdVlMcUhMT3hHY0JEZGxCRkplU3piQjl5U2JwZ2NhSnZRa0ZRekVhbzhYSjhKUTliX1h1Ni1rUWtpbzJPSldlQjUxUnNyTDlSbkF1QlNkM3JldkJUbmR4UDZXQQ?oc=5",
+      "published": "2026-11-08T09:21:34+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -24,13 +24,53 @@
       }
     },
     {
-      "id": "e10b6e7284d3",
-      "title": "Impfangebot der Apotheken wird zunehmend bekannter - Ärzte Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWV9ZWHVzWk9TdXJQTnNHdUE3T3QwcjZOSGV2eGVyLV9lbVlsc1BKRS1QZmxMa2FGczZLQnI3a1BzeXkxUm9IaEk2NEgtbmhnWWJPakVWOGt4UEpTeklCNktSczhuWlpwX29UZUhlRUl0NjRqSXZ1WDlDakNpLUw0aUgxdTBhc1pwbEVaTlNDTGdqd3lJbko3dXNPQUtmMzBEQ0Q0YQ?oc=5",
-      "published": "2026-11-05T13:51:17+00:00",
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "2ff5f626fb95",
+      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "b2703be2615b",
+      "title": "Apotheker hoffen, ärztliches Dispensierrecht doch noch zu verhindern - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeU9OalR0ai1NclJQamw1UEQweVItZUM0ZHFRT0ZHRXdWYkVYSlFheTlEZkdoWXNkSnUzcGx4ZmtoaTJuQ1dFRDg4MmhyaGJjcklqd3hHSWplVXpLTDczc0oyb0g2OER1bExBY2FrQjhIUi13cFRqWFJvWTZHSDNxTUdnWFk4TDhJdTVfb0pBNVR5R2hyNGxUS3RVUEotbURUX0JOdXdsWW9fWWFmZU1ERmRyeW9pcEwzT2VaWA?oc=5",
+      "published": "2026-11-03T15:25:06+00:00",
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "4cf41a2b052f",
+      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
+      "published": "2026-11-06T07:00:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -64,13 +104,13 @@
       }
     },
     {
-      "id": "e04be0827435",
-      "title": "Ausgaben für Arzneimittel treiben Kosten für Krankenkassen - Freie Presse",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXhRRjJDdGJGQjViN3ZfaWZjWVdrdTJBMjg3czZISUVPV3dBbDk2NGRkdWlGbUc0SEhIYkVyQVpPZm1feERKSXd3aE5taGw5cmtqeDJ1Q21RQTlsN0dkWGszQktjY0pWREFnVFo0OHNwSmFCbF9iVXhtYzMyLURLdG1MQjItV3dYOGpiRTlQZ0NKV1hGbE1xaWJWTEVUejVTTktYc2VfWmlnV2UxR0VSNk9Ibno1cmVmdVR5eWFIVUM?oc=5",
-      "published": "2026-11-04T08:15:00+00:00",
+      "id": "17052c4630eb",
+      "title": "Reimann zur WIdO-Analyse: Entlastungen bei Arzneimittelausgaben dürfen nicht durch ... - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRzF5aUhVNXJWNUNvdU5BZG40bmZKRUlaaHBWTTdUcVZ0VEN3bWJ0NUdGemFab0t4NV9jUUZPMlNZbm0tZmY1anE4emRxa3A2TlpTTkZB?oc=5",
+      "published": "2026-11-03T12:46:11+00:00",
       "source": {
-        "name": "Freie Presse",
-        "url": "https://www.freiepresse.de"
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -84,16 +124,6 @@
       }
     },
     {
-      "id": "106113902e27",
-      "title": "Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5",
-      "published": "2026-11-04T11:40:49+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
-      }
-    },
-    {
       "id": "c16aef2e9212",
       "title": "Warum gibt es die Abnehmspritze nur für Privatpatienten? - Augsburger Allgemeine",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHViandLb21OclV1Y2xjSFpSQTg4ZlJueEdzaGpQdmh5TkJFRGdLYmRmQ3VQVXNNUElEbTFxOWt2Tm1ITjJ6NHdJM1NodzVIZUpLVDNxak8tVEoxdFJiMUlIMEFIMVRZUzN2OWhuUkU2MHMwWXdSdXVxTmpMSWJoUHk2T2xNZ1B5ZDdLRmNZbUhDV0lxMkJMellOeGhMQ2ZLMU85WlA0Mms1Um9xMmt0VU5VYlVUR05RQzU1cHF5QTNOaWNoelU5VzZqQVRiQzQ3MTNkYTN5cVRleExrM2c?oc=5",
@@ -104,13 +134,23 @@
       }
     },
     {
-      "id": "2ff5f626fb95",
-      "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
+      "id": "106113902e27",
+      "title": "Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5",
+      "published": "2026-11-04T11:40:49+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "4e6d48112005",
+      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": {
+        "name": "Bundesministerium für Gesundheit (BMG)",
+        "url": "https://www.bundesgesundheitsministerium.de"
       }
     },
     {
@@ -121,56 +161,6 @@
       "source": {
         "name": "EU-Schwerbehinderung",
         "url": "https://www.eu-schwerbehinderung.eu"
-      }
-    },
-    {
-      "id": "4cf41a2b052f",
-      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
-      "published": "2026-11-06T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "ccd1bd1f0014",
-      "title": "Typ-2-Diabetes: Lebensstilprogramm führte bei jedem Zweiten zur Remission - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5",
-      "published": "2026-11-02T13:43:16+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
-      }
-    },
-    {
-      "id": "8666593cd1fe",
-      "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesgesundheitsministerium",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": {
-        "name": "Bundesgesundheitsministerium",
-        "url": "https://www.bundesgesundheitsministerium.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
-      "id": "d17ec941210c",
-      "title": "Chronischer Schmerz: SemFYC fordert Bewegung statt Medikamente als erste Wahl - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEIxQndyRXh3bjVzV2l3S0VwenBNN2IzR2NHVFlkaHlldEh5RW03ejlOZGZVLU9LdDZQaEI3Y3BYSFBzZFRETU5TbG9wVzQ3M3hNSVRIYUgwQlNXWm5iR0tfVExIbUVXd2VGdHJ5OUhmUzkwUDRLRHR5aXBuOXdQdWU3TGtLcVNlaEhPa2Uycy04X05iNDZRRlRzMXF3b1pHLU1TOFZhV3hnNF8taC1KMWtmdXMybFlrQ3RIR0tvRVY0Vmc?oc=5",
-      "published": "2026-11-06T19:39:19+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -191,6 +181,16 @@
       "source": {
         "name": "Watson",
         "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "ccd1bd1f0014",
+      "title": "Typ-2-Diabetes: Lebensstilprogramm führte bei jedem Zweiten zur Remission - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5",
+      "published": "2026-11-02T13:43:16+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -244,13 +244,13 @@
       }
     },
     {
-      "id": "29039f0e1605",
-      "title": "40 Prozent der Gesundheitskosten werden von den Bürgern getragen. - KOHA.net",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajZtZTlCYVBORkdiV2NpWjBkNkw0bU9JX1lxTmFKblRnWGxwRXZsZ3BJWjdleHlEbmpueHpDVHQ4X2d5NDROd1haejdyNU5DdFZyS2hBUGFoQU5YZ1FqLUJrdGpMVU02X3J2S3psQjZ4YUZTQzFRUzJTUjgyaVhHRmx3dktFUXdQeUtQMTJlcXpTVDVoMGtv?oc=5",
-      "published": "2026-11-05T18:12:59+00:00",
+      "id": "d17ec941210c",
+      "title": "Chronischer Schmerz: SemFYC fordert Bewegung statt Medikamente als erste Wahl - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEIxQndyRXh3bjVzV2l3S0VwenBNN2IzR2NHVFlkaHlldEh5RW03ejlOZGZVLU9LdDZQaEI3Y3BYSFBzZFRETU5TbG9wVzQ3M3hNSVRIYUgwQlNXWm5iR0tfVExIbUVXd2VGdHJ5OUhmUzkwUDRLRHR5aXBuOXdQdWU3TGtLcVNlaEhPa2Uycy04X05iNDZRRlRzMXF3b1pHLU1TOFZhV3hnNF8taC1KMWtmdXMybFlrQ3RIR0tvRVY0Vmc?oc=5",
+      "published": "2026-11-06T19:39:19+00:00",
       "source": {
-        "name": "KOHA.net",
-        "url": "https://www.koha.net"
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "4d758dd54a8b",
-      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
-      "published": "2009-06-30T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "a9f808cbfd57",
       "title": "Über 15 Millionen aktive Kund:innen für Redcare Pharmacy. - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYbjJqcFB4anljdzdlQ2x0X3R4eFRsaUFUZ3B6VmRQVGpmZlN4bGl6WmpCd1ZJZXY1VEVjT1hMSzdHZDNGcDJieW5nOEFUeVZhS18yTTg3UFBPZHFCbkhSRGlR?oc=5",
@@ -294,13 +284,23 @@
       }
     },
     {
-      "id": "73e3792d528e",
-      "title": "hkk-Gesundheitsreport: Neue Diabetesmedikamente auf dem Vormarsch - Versorgungspotenziale bleiben - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04bS1pNEo3cjBRTDFWWk1DZG5JZlNybFFXcVZJRV9xMWk1b1BLLXRHZjVXLXJsdFNnUTdrVno3TmlIakRPcFVsN3h1VUp3MUw3RGhoeFFscw?oc=5",
-      "published": "2026-11-03T09:00:07+00:00",
+      "id": "4d758dd54a8b",
+      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
+      "published": "2009-06-30T07:00:00+00:00",
       "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "d16ccbc28576",
+      "title": "Nachhaltigkeit: E-Botendienst, Altmedikamente und pDL - Apotheke Adhoc",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2RpOE1YbnNlaF9PaWM0dXcyTlBfeHZ3Sld2WUNFT2xZQS1Yb1BzRHlnMlRUeEQwYlJ0ZnpFRUVRVzV3VmtPVjEyMGRfTVBmYWVkMHpkQ0pIXy12WnpfWDU0T1JjR25CaThOQTNXX1ZmSXd0bWhaemJWazFXRllMNlJ2NHk1N0RjdHdjaldmdUdJekMxTjNnb1ZUTmZ5WjYwMVNfOVgyYUN1c2swVlE?oc=5",
+      "published": "2026-11-05T14:10:49+00:00",
+      "source": {
+        "name": "Apotheke Adhoc",
+        "url": "https://www.apotheke-adhoc.de"
       }
     },
     {
@@ -311,6 +311,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "20f6ba789f73",
+      "title": "Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5",
+      "published": "2026-11-05T18:18:31+00:00",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
