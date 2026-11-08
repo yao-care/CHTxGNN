@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-08T11:39:16.602694+00:00",
+  "fetched_at": "2026-11-08T17:32:16.699934+00:00",
   "source": "Google News Health RSS",
-  "count": 33,
+  "count": 30,
   "articles": [
+    {
+      "id": "e4f7a2ee397f",
+      "title": "«Spielen sie mit ihren Enkeln, oder ist es ihnen dauernd übel?» - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1NOdGJpUHpUemZ1dkFFaGVZNldEZjJWMGo2WEs0aFZaUGs5cjEydW9qbmtaaUMxcWUwOHNPSlh5Q29idXd2VmxTZlNIX3ZocWFsN1ZaUUVMZ1U1Z2dybFJSRHlwcGVob0piemlvT2pMd1dLMm96WHFKaHdSVWc1cVZoMlhnNEdFR2R2ZjdqZGNIcVpSZXFpOVg1M2hxa1Nj?oc=5",
+      "published": "2026-11-08T09:44:03+00:00",
+      "source": {
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
+      }
+    },
     {
       "id": "ca85a24f5909",
       "title": "Verdacht auf Krebs bei Kindern durch Gentherapie - Gesundheit - SZ.de - SZ.de",
@@ -11,6 +21,16 @@
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "aa6ba7bc2e7c",
+      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
+      "published": "2026-11-05T15:00:50+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -64,23 +84,13 @@
       }
     },
     {
-      "id": "4cf41a2b052f",
-      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
-      "published": "2026-11-06T07:00:00+00:00",
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
+      "published": "2026-03-09T07:00:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "bda234f578ee",
-      "title": "Blutdruck im Blick: Welche Werte als gut gelten – und was Sie selbst dafür tun können - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5",
-      "published": "2026-11-02T08:00:00+00:00",
-      "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
+        "name": "Gesundheit.gv.at",
+        "url": "https://www.gesundheit.gv.at"
       }
     },
     {
@@ -91,6 +101,16 @@
       "source": {
         "name": "DerWesten",
         "url": "https://www.derwesten.de"
+      }
+    },
+    {
+      "id": "bda234f578ee",
+      "title": "Blutdruck im Blick: Welche Werte als gut gelten – und was Sie selbst dafür tun können - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5",
+      "published": "2026-11-02T08:00:00+00:00",
+      "source": {
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -114,6 +134,16 @@
       }
     },
     {
+      "id": "e04be0827435",
+      "title": "Ausgaben für Arzneimittel treiben Kosten für Krankenkassen - Freie Presse",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXhRRjJDdGJGQjViN3ZfaWZjWVdrdTJBMjg3czZISUVPV3dBbDk2NGRkdWlGbUc0SEhIYkVyQVpPZm1feERKSXd3aE5taGw5cmtqeDJ1Q21RQTlsN0dkWGszQktjY0pWREFnVFo0OHNwSmFCbF9iVXhtYzMyLURLdG1MQjItV3dYOGpiRTlQZ0NKV1hGbE1xaWJWTEVUejVTTktYc2VfWmlnV2UxR0VSNk9Ibno1cmVmdVR5eWFIVUM?oc=5",
+      "published": "2026-11-04T08:15:00+00:00",
+      "source": {
+        "name": "Freie Presse",
+        "url": "https://www.freiepresse.de"
+      }
+    },
+    {
       "id": "6a3dd47d3689",
       "title": "Statine absetzen: Neue Studie stellt bisherige Erkenntnisse infrage - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQldPUW4xODJYNWJUbDJjekVwY0RNRE43RW5lWjhWbC01ZUVnQW56cnlycGRrb2VQLTFIcUozN3JmZTB0d0ZxeFFnUzhPQlQtMlduRjZ2bUZNTkJmcmw0MlZhd1VZR19aT0ZFVXYtckhYRUdfOW9UTVNNeFF6aW1GNVREaVEzcklFVHh0Z2dmZ1Bfd2VtX2ZtbGdZc0ZtQzh1akdqSEJMMjdCS01SUzFV?oc=5",
@@ -134,16 +164,6 @@
       }
     },
     {
-      "id": "106113902e27",
-      "title": "Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5",
-      "published": "2026-11-04T11:40:49+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
-      }
-    },
-    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -154,33 +174,13 @@
       }
     },
     {
-      "id": "4aa530bee322",
-      "title": "Bundesregierung: 600 Arzneimittel 2026 von Lieferengpässen betroffen - EU-Schwerbehinderung",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSDRraG50dXdLT0JfSW9LZlFFMG1SZ2xRcko3bHlYUjRhREg3dnVUSTR1T3FZUmtLcU51clNmRUJ0cGFVaTlBSFkyZmxYQ2thV2dKVTFfeW1ERFR1MTZJUWNZQjhDbHZMRWQzVUhmOFBFUlZRMWhaVzE4eGN6aGlpaDg5blNzRGhVZlNWajEwdmhpeVlTSU81bEQ5N25IRmVTVVoyNlFReFpJQ2dSTFprNHJsUkNoNjg5Yll1X3dDdDR6SExMSUQzUDhDWFoydw?oc=5",
-      "published": "2026-11-07T03:40:00+00:00",
+      "id": "4cf41a2b052f",
+      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
+      "published": "2026-11-06T07:00:00+00:00",
       "source": {
-        "name": "EU-Schwerbehinderung",
-        "url": "https://www.eu-schwerbehinderung.eu"
-      }
-    },
-    {
-      "id": "bb81edab44a9",
-      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Medinside",
-        "url": "https://www.medinside.ch"
-      }
-    },
-    {
-      "id": "5041122093e4",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -194,6 +194,16 @@
       }
     },
     {
+      "id": "bb81edab44a9",
+      "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Medinside",
+        "url": "https://www.medinside.ch"
+      }
+    },
+    {
       "id": "7b80f1f5a257",
       "title": "Deshalb sind Medikamentenpreise in den USA höher als in Europa - SRF",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYi1ZU2plOWxCY1lMcDZOZTBQZnJDSVBJY1hkZHQ0Rk1abllUN1NncFVvVjVXMUJqRVRqVlpqUkxBdjVsQmdST2I5akl6dDFKVXdCV1lKMjhOTU0tNllzakRkTXF3c3BrdXo3Vlp5aUc2OTJrMmxKTkdQMm5jMnVZYmZ5ZVpaYUwwUVVMTGJjN2o2bTZERUNuT3UxN011STgxaWVpZDdHbkswSXh4Q2FvLTVWVHA?oc=5",
@@ -204,13 +214,13 @@
       }
     },
     {
-      "id": "e4f7e8c57817",
-      "title": "Wie läuft die Zulassung von Arzneimitteln ab? - Stiftung Gesundheitswissen",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0lKcG51SV96LVpuemVlZ3p2LU1Ubjg1Q2M0VjJMa3pfRGNWM3VKemVDZG9mWm1uY0NlbkZmVDc4QWVad0VIYVAzOGxrY3ZvX1ZnSHB5QXZFYU4tNTAxa0g3N1BxbTljY3hTSVZQZE1GUFNsVF9LNUNfdk5aZGFucjBPWnZ5TGtZazdZQ3NQeEZFMXpBem9Tenh2NUtrWGlp?oc=5",
-      "published": "2025-03-24T13:27:32+00:00",
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "Stiftung Gesundheitswissen",
-        "url": "https://www.stiftung-gesundheitswissen.de"
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -224,13 +234,13 @@
       }
     },
     {
-      "id": "a1cec6d3f4c0",
-      "title": "Gesundheit - Das sind die teuersten Medikamente der Schweiz - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzRjNGcwUkRhUURBZTBXREVobDljWlI3VEJYall6NlpQbkxOcDNNa0lGS1B6TXNMUFNaRnRtZjdSYmVqSHB6bF9pRTUyWlNZRUxoNnhsOTZSejZwTlQwLW83bEd6akZJeG93ODBXeXZEY1ljRnZTRXh3OGlnY2pjWWtoVV92R2xON0FKbDVOeHN2YlJNTHpZZnRxUzFzTy1rLVJBWDJUb1JhT0k?oc=5",
-      "published": "2016-04-05T07:00:00+00:00",
+      "id": "e4f7e8c57817",
+      "title": "Wie läuft die Zulassung von Arzneimitteln ab? - Stiftung Gesundheitswissen",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0lKcG51SV96LVpuemVlZ3p2LU1Ubjg1Q2M0VjJMa3pfRGNWM3VKemVDZG9mWm1uY0NlbkZmVDc4QWVad0VIYVAzOGxrY3ZvX1ZnSHB5QXZFYU4tNTAxa0g3N1BxbTljY3hTSVZQZE1GUFNsVF9LNUNfdk5aZGFucjBPWnZ5TGtZazdZQ3NQeEZFMXpBem9Tenh2NUtrWGlp?oc=5",
+      "published": "2025-03-24T13:27:32+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "Stiftung Gesundheitswissen",
+        "url": "https://www.stiftung-gesundheitswissen.de"
       }
     },
     {
@@ -244,43 +254,13 @@
       }
     },
     {
-      "id": "d17ec941210c",
-      "title": "Chronischer Schmerz: SemFYC fordert Bewegung statt Medikamente als erste Wahl - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEIxQndyRXh3bjVzV2l3S0VwenBNN2IzR2NHVFlkaHlldEh5RW03ejlOZGZVLU9LdDZQaEI3Y3BYSFBzZFRETU5TbG9wVzQ3M3hNSVRIYUgwQlNXWm5iR0tfVExIbUVXd2VGdHJ5OUhmUzkwUDRLRHR5aXBuOXdQdWU3TGtLcVNlaEhPa2Uycy04X05iNDZRRlRzMXF3b1pHLU1TOFZhV3hnNF8taC1KMWtmdXMybFlrQ3RIR0tvRVY0Vmc?oc=5",
-      "published": "2026-11-06T19:39:19+00:00",
+      "id": "a1cec6d3f4c0",
+      "title": "Gesundheit - Das sind die teuersten Medikamente der Schweiz - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzRjNGcwUkRhUURBZTBXREVobDljWlI3VEJYall6NlpQbkxOcDNNa0lGS1B6TXNMUFNaRnRtZjdSYmVqSHB6bF9pRTUyWlNZRUxoNnhsOTZSejZwTlQwLW83bEd6akZJeG93ODBXeXZEY1ljRnZTRXh3OGlnY2pjWWtoVV92R2xON0FKbDVOeHN2YlJNTHpZZnRxUzFzTy1rLVJBWDJUb1JhT0k?oc=5",
+      "published": "2016-04-05T07:00:00+00:00",
       "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
-      }
-    },
-    {
-      "id": "5e5edb469ce8",
-      "title": "Alte Medikamente entsorgen: Warum Toilette und Spüle immer tabu sind - 24vita.de",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU9LUXRMdWloWEZjXzBnSWdrdGFzbWVwZWVTUTk5bzdVODdSRHNxbE9kWlE2T2RhZGVZV3VLSEVKUG4weHk1eU9ZWVRtVjdQQ3pPV1BSbkRvWkJMQzJUQm9UcVR5M3c4LVhUblZDazhrRTdyNFhod1piWTBNdmk2ZzJiTXByUDhib0xXVF94WFpTVEYwZ01kakpJTTVyQUoyRlVCNmFCcjdFbGJBZXNiU3JzaDBWUQ?oc=5",
-      "published": "2026-11-07T08:46:00+00:00",
-      "source": {
-        "name": "24vita.de",
-        "url": "https://www.24vita.de"
-      }
-    },
-    {
-      "id": "7530949847db",
-      "title": "AfD will Modellprojekte gegen Arzneimittelverschwendung - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ2Vi1URGlRdUdPVG1uQkFlSUVva0UtSEgwQ04xVEZtdnVGT2dWNUNpeGp4enZpSFR0a2hVYU90aExIMm51TTJ6OGlUdXVuU3NCZXZuRk9VY3BUdzBueDdrWjhodzc0ang5ZnI4UGpfQk1Fd1BQYzRNUm1tTmhpanJ5cDI0cnRCcGhfaVE0akFlVmR3em03N1NCQzZYelFsMGRkdmRodjRMVE9SdTlteVZfQXB2OFpTVFRSYWJn?oc=5",
-      "published": "2026-11-05T00:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
-      "id": "a9f808cbfd57",
-      "title": "Über 15 Millionen aktive Kund:innen für Redcare Pharmacy. - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYbjJqcFB4anljdzdlQ2x0X3R4eFRsaUFUZ3B6VmRQVGpmZlN4bGl6WmpCd1ZJZXY1VEVjT1hMSzdHZDNGcDJieW5nOEFUeVZhS18yTTg3UFBPZHFCbkhSRGlR?oc=5",
-      "published": "2026-11-05T09:59:43+00:00",
-      "source": {
-        "name": "TradingView",
-        "url": "https://de.tradingview.com"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -294,13 +274,13 @@
       }
     },
     {
-      "id": "d16ccbc28576",
-      "title": "Nachhaltigkeit: E-Botendienst, Altmedikamente und pDL - Apotheke Adhoc",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2RpOE1YbnNlaF9PaWM0dXcyTlBfeHZ3Sld2WUNFT2xZQS1Yb1BzRHlnMlRUeEQwYlJ0ZnpFRUVRVzV3VmtPVjEyMGRfTVBmYWVkMHpkQ0pIXy12WnpfWDU0T1JjR25CaThOQTNXX1ZmSXd0bWhaemJWazFXRllMNlJ2NHk1N0RjdHdjaldmdUdJekMxTjNnb1ZUTmZ5WjYwMVNfOVgyYUN1c2swVlE?oc=5",
-      "published": "2026-11-05T14:10:49+00:00",
+      "id": "7530949847db",
+      "title": "AfD will Modellprojekte gegen Arzneimittelverschwendung - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ2Vi1URGlRdUdPVG1uQkFlSUVva0UtSEgwQ04xVEZtdnVGT2dWNUNpeGp4enZpSFR0a2hVYU90aExIMm51TTJ6OGlUdXVuU3NCZXZuRk9VY3BUdzBueDdrWjhodzc0ang5ZnI4UGpfQk1Fd1BQYzRNUm1tTmhpanJ5cDI0cnRCcGhfaVE0akFlVmR3em03N1NCQzZYelFsMGRkdmRodjRMVE9SdTlteVZfQXB2OFpTVFRSYWJn?oc=5",
+      "published": "2026-11-05T00:00:00+00:00",
       "source": {
-        "name": "Apotheke Adhoc",
-        "url": "https://www.apotheke-adhoc.de"
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -311,16 +291,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "20f6ba789f73",
-      "title": "Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5",
-      "published": "2026-11-05T18:18:31+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
       }
     },
     {
