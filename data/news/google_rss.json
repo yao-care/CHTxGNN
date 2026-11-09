@@ -1,16 +1,36 @@
 {
-  "fetched_at": "2026-11-09T08:59:59.453518+00:00",
+  "fetched_at": "2026-11-09T19:42:48.437605+00:00",
   "source": "Google News Health RSS",
-  "count": 32,
+  "count": 35,
   "articles": [
     {
       "id": "68714d89b623",
       "title": "Süßstoffe und Medikamente: Diese Kombination verändert Darmbakterien - aponet.de",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUZPQWxqS1RvcXdPcDBPOHh4SnU2aU5kZk9wRFZvR0U0LTM3R29BQV8zVkV2WFctNkdWYlBES3NBOGU2RFhBZHcxQjB1V3V0Z0k4ZGRpZ0haeW5TTXE1clFTNjRpQzNkUUk4eFJMZzJiaXBtamhrTlVfdGtVcXJwWi01VDdMdDhDR0kxYUJ5OWVqYkxoWXpfemZpTWtXaF8wV0VtT0xUMlNSZw?oc=5",
-      "published": "2026-11-09T07:51:03+00:00",
+      "published": "2026-11-09T07:51:00+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "96c379f294b4",
+      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
+      "published": "2026-11-09T16:30:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
+      "id": "6118f5816f8d",
+      "title": "Statine & Co.: Apothekerin warnt vor beliebten Lebensmitteln - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkEtZ1prYkZZcWREU2NDVE55Y2Y2b0xFSUNSRTNPRkZTeERPT00wLVRkMHM4anUyOXFVN1RNWVR0RVJlS0NHQ29MbkJKandENDhBaERUOWg0NkNJcWJmNE9BVmNaTElTbFlEaXluM3gwNXFRSEIwLU14WmZ1QUloSkdSMzg3bmVrcGpCUVMyaDBCeUs3LUdFbG5JblYyNTg?oc=5",
+      "published": "2026-11-09T09:27:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -34,16 +54,6 @@
       }
     },
     {
-      "id": "aa6ba7bc2e7c",
-      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
-      "published": "2026-11-05T15:00:50+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "02786da0b432",
       "title": "Wie Spinat und Grapefruit Medikamente stören - Weser Kurier",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGlmcERnT2VuQU1Hb19KV1JrM2U3MGw3ZGdHUUxQOE5FZzJBUjBvYUtCbGprd3JfcDUwd0dpMGYtMElxWFFycUd5RzdwSk5IUWNnSWpCLXR2cUZZR3RzbDlIcEhiUnV6U2luS3BFVVJMbDZTalV2X1RnV0Z0MXNoczB4a0xEaGNhWEhjaDFNNG5hT09TN3hVVWJrUTVjQzdHOWM0ajIxNG8?oc=5",
@@ -51,6 +61,16 @@
       "source": {
         "name": "Weser Kurier",
         "url": "https://www.weser-kurier.de"
+      }
+    },
+    {
+      "id": "0f90a25196db",
+      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -74,13 +94,13 @@
       }
     },
     {
-      "id": "da9244502f14",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
+      "id": "dc2fb960c54a",
+      "title": "Krankenhausapotheke Horn blickt auf 50 Jahre zurück - Guten Tag Österreich",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVlCWllabmtIeVVvN0pUZEU2N1FDUFVibnJBVjh2eTFhdk44V3dGTE5iMzJEQkQ4eHU0dmxvRmhMVlY0UFI1Wl9fVlRtUmtwSjMwMWlsbWQyRnpVc2RuU0N6aWNOUjBpX1NRSkdGMWJ5WXp5RXhQLW5seEhNbVF4LUthdnN2UQ?oc=5",
+      "published": "2026-11-09T16:20:26+00:00",
       "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
+        "name": "Guten Tag Österreich",
+        "url": "https://www.gutentag.news"
       }
     },
     {
@@ -94,6 +114,26 @@
       }
     },
     {
+      "id": "134297de7815",
+      "title": "Durchfall durch Sex: Shigellen breiten sich zunehmend aus - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFozS1daa1ZFUEJuZTFqbkt5MnRnUndoS3VpaFo4bURaZERfaWZteGdaSk51TnZVNTdCd2wzY3lfdlczcmtpR0ZCYm5aVXIwRWotbHFkNktGcktiRXBHTDNuY2NwVnRUbUZRLTJCcWFWX3BxWlBybmJDOXNZSmo0b0ZySGoyWjFKQVFjUEQ1ejJaYjZTcjNF?oc=5",
+      "published": "2026-11-09T09:50:05+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "aa6ba7bc2e7c",
+      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
+      "published": "2026-11-05T15:00:50+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "1cb238a2aa77",
       "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
@@ -104,13 +144,33 @@
       }
     },
     {
-      "id": "e84b15e587eb",
-      "title": "Forschung bei Stoelzle: Glas, das Gesundheit und Klima schützt - Kleine Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUZMeFQxOHd2WTlhOXJjMXhkdGJYNVdvM21qbjFBX3lUelU4RU9MQVhaZUZaTnBzNFd0ZlJEOGxCVTVKSDV4b1dUcVZnR1BQMk1OVE5qTG1SUFYxLXVobnAtaTVDVTNLMUtwMmZuYW1OZG5OM0hPVC04X2NVYnJfU0Z5ck5IT1B0SEZyZGZJczNadXQyQ3RmeWJjRXFqWWZTV0FzUHBCX1pUeTQ?oc=5",
-      "published": "2026-11-05T09:39:48+00:00",
+      "id": "c16aef2e9212",
+      "title": "Warum gibt es die Abnehmspritze nur für Privatpatienten? - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHViandLb21OclV1Y2xjSFpSQTg4ZlJueEdzaGpQdmh5TkJFRGdLYmRmQ3VQVXNNUElEbTFxOWt2Tm1ITjJ6NHdJM1NodzVIZUpLVDNxak8tVEoxdFJiMUlIMEFIMVRZUzN2OWhuUkU2MHMwWXdSdXVxTmpMSWJoUHk2T2xNZ1B5ZDdLRmNZbUhDV0lxMkJMellOeGhMQ2ZLMU85WlA0Mms1Um9xMmt0VU5VYlVUR05RQzU1cHF5QTNOaWNoelU5VzZqQVRiQzQ3MTNkYTN5cVRleExrM2c?oc=5",
+      "published": "2026-11-07T02:00:00+00:00",
       "source": {
-        "name": "Kleine Zeitung",
-        "url": "https://www.kleinezeitung.at"
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
+      }
+    },
+    {
+      "id": "8229c795598b",
+      "title": "Engpässe bei Medikamenten in Gladbeck: Zahngel und Blutdrucksenker betroffen - WAZ",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU3NTRFJFVEhlSFphRHlxS3EzeUJORE1xcF9zRllVTWZzN3JFbngyUmk4ak1aekxFNDg0TEVXOUZodnVPZnM3al9LTTRTVV9CMmVYbkhodnR6Z0RJWFBaeVcwa3RNM0lNOENDUnE3M2hiX2VWc0ZvVXBJR2RyOWNfczlHWkc2aGpMdFJBMkFHQ3ZHdkdMdVNTUFVxOWJHZ0VHNm5kdjRUY3ZtMWNra2lQUVBOcnJ6SkFZOVFFNWE1SjRlRkF6REVBWFk1eUVVcmM?oc=5",
+      "published": "2026-11-09T09:26:41+00:00",
+      "source": {
+        "name": "WAZ",
+        "url": "https://www.waz.de"
+      }
+    },
+    {
+      "id": "df22134c309d",
+      "title": "31 Prozent weniger Fehltage durch kaltes Duschen? - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWpFbmZtOVNMUUUzWEdfeERVTnNQVXB6SkxPY0thQzB3ZFRiTTNEbThLU094Q0l2VU1zQ3ZkSFNIa1JfR3lwNzRzS3dLNEwxV0hvWDh4SGtQdTdCM1VqREJxQWp4RV9hcElEWUh2NG9GVGJmUUtvWFFaUXlqMkdvdmZPaFZ3dFZiNXgxdGZSbnB0SU1lUFQzVFZ6bw?oc=5",
+      "published": "2026-11-09T07:33:00+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -124,13 +184,13 @@
       }
     },
     {
-      "id": "e04be0827435",
-      "title": "Ausgaben für Arzneimittel treiben Kosten für Krankenkassen - Freie Presse",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXhRRjJDdGJGQjViN3ZfaWZjWVdrdTJBMjg3czZISUVPV3dBbDk2NGRkdWlGbUc0SEhIYkVyQVpPZm1feERKSXd3aE5taGw5cmtqeDJ1Q21RQTlsN0dkWGszQktjY0pWREFnVFo0OHNwSmFCbF9iVXhtYzMyLURLdG1MQjItV3dYOGpiRTlQZ0NKV1hGbE1xaWJWTEVUejVTTktYc2VfWmlnV2UxR0VSNk9Ibno1cmVmdVR5eWFIVUM?oc=5",
-      "published": "2026-11-04T08:15:00+00:00",
+      "id": "4cf41a2b052f",
+      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
+      "published": "2026-11-06T07:00:00+00:00",
       "source": {
-        "name": "Freie Presse",
-        "url": "https://www.freiepresse.de"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -141,26 +201,6 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
-      }
-    },
-    {
-      "id": "bda234f578ee",
-      "title": "Blutdruck im Blick: Welche Werte als gut gelten – und was Sie selbst dafür tun können - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5",
-      "published": "2026-11-02T08:00:00+00:00",
-      "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
-      "id": "c16aef2e9212",
-      "title": "Warum gibt es die Abnehmspritze nur für Privatpatienten? - Augsburger Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHViandLb21OclV1Y2xjSFpSQTg4ZlJueEdzaGpQdmh5TkJFRGdLYmRmQ3VQVXNNUElEbTFxOWt2Tm1ITjJ6NHdJM1NodzVIZUpLVDNxak8tVEoxdFJiMUlIMEFIMVRZUzN2OWhuUkU2MHMwWXdSdXVxTmpMSWJoUHk2T2xNZ1B5ZDdLRmNZbUhDV0lxMkJMellOeGhMQ2ZLMU85WlA0Mms1Um9xMmt0VU5VYlVUR05RQzU1cHF5QTNOaWNoelU5VzZqQVRiQzQ3MTNkYTN5cVRleExrM2c?oc=5",
-      "published": "2026-11-07T02:00:00+00:00",
-      "source": {
-        "name": "Augsburger Allgemeine",
-        "url": "https://www.augsburger-allgemeine.de"
       }
     },
     {
@@ -184,16 +224,6 @@
       }
     },
     {
-      "id": "4cf41a2b052f",
-      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
-      "published": "2026-11-06T07:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "bb81edab44a9",
       "title": "BAG senkt Preise von 300 Medikamenten - Medinside",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVlleXV5RHNJcXZsenVSSE5KcGtNd3MwNDYxUXlqaHBfT0N1VWdXaE9xUzBZUFpUWXVCZ21LUDctalZjb3phLVM4UlNIdVJ0WS1zV3J5cXN3a2dtdnBtZ2NySVA1VDVOaU1wNnFNc25XNEwzTXpjY290WmdmeUU?oc=5",
@@ -201,16 +231,6 @@
       "source": {
         "name": "Medinside",
         "url": "https://www.medinside.ch"
-      }
-    },
-    {
-      "id": "5041122093e4",
-      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
-      "published": "2025-11-06T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
       }
     },
     {
@@ -224,13 +244,13 @@
       }
     },
     {
-      "id": "976d88f58bb6",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -264,20 +284,10 @@
       }
     },
     {
-      "id": "e9ce7cf0dcc9",
-      "title": "Biologische Arzneimittel - Fresenius baut Geschäft mit Nachahmer-Medikamenten aus - Wirtschaft - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS2pDTFJheVdmczlUVUMxcXZremxKSHk5cWUzNEZPdV9pVDBoa1lGM1RjUXZPUzNNNzZoRmhlaHhGWGdSRml4Njg2R3h1a3cxMlMyb20weUp6WmxnMkdkdl83aW5mMEJSdEN2RDk3WWtDVXI4MXVjaTcxdE1vY3RFcTZDRGRzY3IyVTNMRjUyTzdlYkRNd19UelhfVHBhbGVIVHBuTzlPR1lzX196SWV2SnBwdDZwdmVVSVhiLW1jMG8yS2NDbGh2WWt5Rk5Gb25YMS10b2s3OVZRODlrcVFEVUxHc0RHaVFoZDZyVEpIQkR6SllZQ2czWUt3TGR4QQ?oc=5",
-      "published": "2026-11-02T09:34:17+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
-      "id": "4d758dd54a8b",
-      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
-      "published": "2009-06-30T07:00:00+00:00",
+      "id": "976d88f58bb6",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
@@ -304,6 +314,16 @@
       }
     },
     {
+      "id": "4d758dd54a8b",
+      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
+      "published": "2009-06-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
       "id": "47db4e0517f5",
       "title": "Gesundheit - Medikamente: Wie Apotheker sich kaufen lassen - SRF",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMklydTVQNV9WWHF0M05JS3FKaTd4cWNpWU4xVWFkcXQ1ZVljTERsMElFaFgxSmhhYXdpYzZTd1JfRmFibkw2ZVhDblRhT1N5SHN6M1VtdHZkTUVhTlZqS252MnlLdXd3aEx6Nm5RWU5tX09lLUpVX3MxSmRSekdtRzluUWNmNDdBWEJaYkI3SlY0T1NvVlNXOFFodDJ6dUZZZ0tGd2NSMUM?oc=5",
@@ -314,13 +334,23 @@
       }
     },
     {
-      "id": "7b7a2be21301",
-      "title": "Novartis meldet zwei mögliche Tumorfälle nach Zolgensma - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5la1RJSnB0SVd0WEVENnVqdUZKcGVGZ2lWb0RnekVTakdES2VjM01lWFIxTHFuY052TGJPclN5d09QU3EzUlNVYlhBZ3RnOFlGLUFITU8zTnUzNmpCdG51UFpFRk5paUxyZEVpNFhKY3BhRTJtbXc?oc=5",
-      "published": "2026-11-07T07:03:58+00:00",
+      "id": "2eb547a3aa7d",
+      "title": "Pharma-Standortklausel: Kritik an Abschlag von 15,5 Prozent - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmJ1UV9BLVluZ21pbjNwZWFaY0drN0FITmF1R1l1UnJZcTBOcHhyZXljMVhvQmFnaWloTGY4cnRaOTh6OWZrV2llRTB3M0JyeDdNMDRPQU0xRmc5Mk94aklhN1FwZmNiUzNHWTRKUlM3aE1fZV9udWVQMVQtMFhiYzJhdDgzZl9FMkIyQnBmUDBkSmowN1pkM01JdDAyclBNSkQxMTR5Z2g?oc=5",
+      "published": "2026-11-09T17:33:18+00:00",
       "source": {
-        "name": "SuaraGarut.ID",
-        "url": "https://suaragarut.id"
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
+      "id": "593dc8cdf706",
+      "title": "Finanzkommission-Mitglieder kritisieren Pharma-Standortklausel - nachrichten-heute.net",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0lVZkoyT21mN0VILXI0eUw3NHB4a1ZtY1BkMVlpd2MzMm1OTlF0SUl2a1ZtNm1oZk11eHhKNDFINDJmdWxhRmgydmFMSWVpRVJsSzg4eWZFZXJZZlY4LUhNRFJvWktzbVYtY1BONDN0TldGamNhVmM4WHdzdWdkX2Y5RnVmS3FjUjFZYmFyYVI2QXgySm4xRUNfaXE1bHNlZDAtVkZaRDB0X3RKNVE?oc=5",
+      "published": "2026-11-09T17:40:06+00:00",
+      "source": {
+        "name": "nachrichten-heute.net",
+        "url": "https://www.nachrichten-heute.net"
       }
     }
   ]
