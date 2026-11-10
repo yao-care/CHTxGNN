@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-10T10:43:13.450677+00:00",
+  "fetched_at": "2026-11-10T18:26:38.652631+00:00",
   "source": "Google News Health RSS",
-  "count": 34,
+  "count": 35,
   "articles": [
+    {
+      "id": "4167797a83bb",
+      "title": "Abnehmmittel: Nach Absetzen steigt Risiko für Infarkt und Schlaganfall - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWRidWIxQ05sYTllaHA5Z1o0dVNrSHh0T1I5WUhjanFEQUpBZXA5UFhsT3RmUkFialZCQ3Y4WTlraWJhZGV5WFJNRnJycWZ1OWRyMklqcWp3LU90T2FfWlk5ZkpkbFBQd05uLXNGWUI3c0Mwems2cWhGU1ZhbDl6VWd1UFc5Z3JxcW00QWh4NzZKaDhZRTBsUzdoRWJRZm1aV19xWU1mcVU4WEJKRElScjFBNkxrYTZMSDJTTDEtb2Vwc0s1?oc=5",
+      "published": "2026-11-10T10:27:54+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
+      }
+    },
     {
       "id": "68714d89b623",
       "title": "Süßstoffe und Medikamente: Diese Kombination verändert Darmbakterien - aponet.de",
@@ -24,13 +34,13 @@
       }
     },
     {
-      "id": "4167797a83bb",
-      "title": "Abnehmmittel: Nach Absetzen steigt Risiko für Infarkt und Schlaganfall - Gesundheit - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWRidWIxQ05sYTllaHA5Z1o0dVNrSHh0T1I5WUhjanFEQUpBZXA5UFhsT3RmUkFialZCQ3Y4WTlraWJhZGV5WFJNRnJycWZ1OWRyMklqcWp3LU90T2FfWlk5ZkpkbFBQd05uLXNGWUI3c0Mwems2cWhGU1ZhbDl6VWd1UFc5Z3JxcW00QWh4NzZKaDhZRTBsUzdoRWJRZm1aV19xWU1mcVU4WEJKRElScjFBNkxrYTZMSDJTTDEtb2Vwc0s1?oc=5",
-      "published": "2026-11-10T10:27:54+00:00",
+      "id": "cd0b781ae93b",
+      "title": "Methodischer Überblick zu den Joint Clinical Assessments im Rahmen von EU HTA - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaGxhcWIyTkVmNHVGN21Lb3pGMFdQUmZjZGVBcHppUnZjTmdZZlBxTjFsT2g1VTloUVhvUFJ5WDNsWlhxbXNoRTlIeEg2U0plY0cxMEhPTkU3X0ZsVTRRa0ZZLU0tYWxBaUEya1dubkN1elVlRklqOUhrcklYSktTRFB4MFNqQmhEeTNTVm1iYmN5UUc4dnZpd3pZY3hhYWZwaG1mQXlxYlBGM0NiQm95VGlmbXRaT1BoQkFRRGg3RFduS3RrcV8xU2NjMGZNZw?oc=5",
+      "published": "2026-11-10T14:20:21+00:00",
       "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
+        "name": "Ärzte Zeitung",
+        "url": "https://www.aerztezeitung.de"
       }
     },
     {
@@ -44,10 +54,20 @@
       }
     },
     {
-      "id": "96c379f294b4",
-      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
-      "published": "2026-11-09T16:30:00+00:00",
+      "id": "a637bbef7569",
+      "title": "Jeder Euro für Impfungen zahlt sich vielfach aus - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKa0w1NEZ5SXY2dEtGQmstRUpqRzZKQ2t3WjNjNm84NkR1R2NhUEVfYXFDVmdqWDB6X0hfaDZkRU5jYTNmV1FfeU5qQ2J4b1pXcGUwcFd3WQ?oc=5",
+      "published": "2026-11-10T15:37:49+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "aa6ba7bc2e7c",
+      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
+      "published": "2026-11-05T15:00:50+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
@@ -94,33 +114,13 @@
       }
     },
     {
-      "id": "6118f5816f8d",
-      "title": "Statine & Co.: Apothekerin warnt vor beliebten Lebensmitteln - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkEtZ1prYkZZcWREU2NDVE55Y2Y2b0xFSUNSRTNPRkZTeERPT00wLVRkMHM4anUyOXFVN1RNWVR0RVJlS0NHQ29MbkJKandENDhBaERUOWg0NkNJcWJmNE9BVmNaTElTbFlEaXluM3gwNXFRSEIwLU14WmZ1QUloSkdSMzg3bmVrcGpCUVMyaDBCeUs3LUdFbG5JblYyNTg?oc=5",
-      "published": "2026-11-09T09:27:00+00:00",
+      "id": "9f001f4a2702",
+      "title": "Mein liebes Tagebuch - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYXBNaGtmYWF0V1kydW1EbTdENzFZMGl0dXlXMWJ6OFRoZnJZemJXSm1IRGN1OGE2ZEhKM0drVUtRTjlqQ0laU1JCbFhTMlphS0xxZlZ0TkM0VnIxN0NsSG5vZ1RzaTNuc28zUms4ZU1kQ1hHYWlIRTlST0VlWXVSTkJYdk9NdVl0SzlVVEpjVGhBdW1L?oc=5",
+      "published": "2026-11-07T20:30:00+00:00",
       "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
-      "id": "ef2814e5622d",
-      "title": "Dies wird sowohl den Zugang der Bevölkerung zu Medikamenten sicherstellen als auch ihre Eigenständigkeit im pharmazeutischen Sektor stärken. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXNkdU90a05UMlBmR1VmMklpNU42R0xQZi1DbEhkUmFoejdVM2VDRmg2RG12Rkl1bjJKeE0tZlBiUUhZTmdqelMzX3F6WC05a2c3X3FIR2twZUNxMlVTNmtxalFhbGl0UDlwT3V2SGRWMUtrS2xwbER2NU9YV2NWazZwWGRKRkcxY0VpSkpnSTVoY0F6Z3F5SnpHV3pRLWpjeGNxejY5RDJ3RC1CZ2RzNjdjX28?oc=5",
-      "published": "2026-11-10T10:18:55+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "dc2fb960c54a",
-      "title": "Krankenhausapotheke Horn blickt auf 50 Jahre zurück - Guten Tag Österreich",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVlCWllabmtIeVVvN0pUZEU2N1FDUFVibnJBVjh2eTFhdk44V3dGTE5iMzJEQkQ4eHU0dmxvRmhMVlY0UFI1Wl9fVlRtUmtwSjMwMWlsbWQyRnpVc2RuU0N6aWNOUjBpX1NRSkdGMWJ5WXp5RXhQLW5seEhNbVF4LUthdnN2UQ?oc=5",
-      "published": "2026-11-09T16:20:26+00:00",
-      "source": {
-        "name": "Guten Tag Österreich",
-        "url": "https://www.gutentag.news"
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -134,23 +134,43 @@
       }
     },
     {
-      "id": "aa6ba7bc2e7c",
-      "title": "BMG-Abteilungsleiter Müller: Weitere Einsparungen bei Arzneimitteln möglich - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmNQaURqS2pETWxhb2dpRHRQMFBXRGE4b3dNOTRoVUktSGFHNVlvSnU2eXRkdVpqNzFLalN2amdQYk1MM1dZaS1NcGFqaGNCeHdldFZWRXdScVppN3NlZXoyZjZwdmZ2MTZxOTNjY0hROVZMNDdEcUNkdlQwb2tvMWMwdWkxNksxLTZPU1JDUTlCM19ZN0pENVNB?oc=5",
-      "published": "2026-11-05T15:00:50+00:00",
+      "id": "ef2814e5622d",
+      "title": "Dies wird sowohl den Zugang der Bevölkerung zu Medikamenten sicherstellen als auch ihre Eigenständigkeit im pharmazeutischen Sektor stärken. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXNkdU90a05UMlBmR1VmMklpNU42R0xQZi1DbEhkUmFoejdVM2VDRmg2RG12Rkl1bjJKeE0tZlBiUUhZTmdqelMzX3F6WC05a2c3X3FIR2twZUNxMlVTNmtxalFhbGl0UDlwT3V2SGRWMUtrS2xwbER2NU9YV2NWazZwWGRKRkcxY0VpSkpnSTVoY0F6Z3F5SnpHV3pRLWpjeGNxejY5RDJ3RC1CZ2RzNjdjX28?oc=5",
+      "published": "2026-11-10T10:18:55+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "134297de7815",
+      "title": "Durchfall durch Sex: Shigellen breiten sich zunehmend aus - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFozS1daa1ZFUEJuZTFqbkt5MnRnUndoS3VpaFo4bURaZERfaWZteGdaSk51TnZVNTdCd2wzY3lfdlczcmtpR0ZCYm5aVXIwRWotbHFkNktGcktiRXBHTDNuY2NwVnRUbUZRLTJCcWFWX3BxWlBybmJDOXNZSmo0b0ZySGoyWjFKQVFjUEQ1ejJaYjZTcjNF?oc=5",
+      "published": "2026-11-09T09:50:05+00:00",
+      "source": {
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "96c379f294b4",
+      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
+      "published": "2026-11-09T16:30:00+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
-      "id": "1cb238a2aa77",
-      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
-      "published": "2026-11-06T02:33:16+00:00",
+      "id": "a622d8459b5d",
+      "title": "Vermeiden Sie Unterbrechungen der Arzneimittelversorgung und der Krankenversicherungszahlungen bei Änderungen der Vorschriften. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0NyUVU3UlExTFlMMl92VmNBYlBxRTRRT09DWDYtd1hnQ3p0MHk2VEcxTnhIR01MVmlCNERkSTROeFcwN0pLbk9kaWdjU0pnSURzbUwzREdRcHI3ZkxHenZmam40MWYwU05CME81SGhrODEwdEFWNTd6RnVTNWY4UE5nQXRMd0VDOVlDbXA0bkdZVzdVLXZUSnd0M3NXTk0tT0k1OQ?oc=5",
+      "published": "2026-11-10T01:26:41+00:00",
       "source": {
-        "name": "DerWesten",
-        "url": "https://www.derwesten.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -164,10 +184,10 @@
       }
     },
     {
-      "id": "a622d8459b5d",
-      "title": "Vermeiden Sie Unterbrechungen der Arzneimittelversorgung und der Krankenversicherungszahlungen bei Änderungen der Vorschriften. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0NyUVU3UlExTFlMMl92VmNBYlBxRTRRT09DWDYtd1hnQ3p0MHk2VEcxTnhIR01MVmlCNERkSTROeFcwN0pLbk9kaWdjU0pnSURzbUwzREdRcHI3ZkxHenZmam40MWYwU05CME81SGhrODEwdEFWNTd6RnVTNWY4UE5nQXRMd0VDOVlDbXA0bkdZVzdVLXZUSnd0M3NXTk0tT0k1OQ?oc=5",
-      "published": "2026-11-10T01:26:41+00:00",
+      "id": "432a5a28a08d",
+      "title": "Medikamente aus der Krankenversicherung näher an die Patienten bringen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SndQVEdReFg3eUZsVERzekRmdjRxRnByc2k0eEhhNXV0UE1xVW5ra1Y0WmZDdXpDbG5zSmhLWTNzNjJkS0NKY1FxdFpKSzlhYzdGU1VwMEQzRGh1b09mYl9IWUNVUnZ0dWFZUXNTb25mWmxnN3F2ZlhONXY?oc=5",
+      "published": "2026-11-09T02:42:20+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -184,23 +204,33 @@
       }
     },
     {
-      "id": "4cf41a2b052f",
-      "title": "Bundesrats-Ausschuss: Länder melden Bedenken gegen Dispensierrecht an - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BXdTdxalJHLU95QWNYOG5VVzNiOEFXMmpJWVNlZ1BlMHdtREdUMmVIbVZ3V0xqNmtQV1JoWGI0LXVUM2xnMUo4T0JRa0dNYk0tbThVbWRuSEpGM1pwRm93ZDEtaUstWVNJNm9yVzUtZUR5UTJhOEJhNDd0VHZldHBoYnlFOFdUWHhYN2RrVTM4NnJvc2dXbk1CMA?oc=5",
-      "published": "2026-11-06T07:00:00+00:00",
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
+      "published": "2026-03-09T07:00:00+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Gesundheit.gv.at",
+        "url": "https://www.gesundheit.gv.at"
       }
     },
     {
-      "id": "432a5a28a08d",
-      "title": "Medikamente aus der Krankenversicherung näher an die Patienten bringen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SndQVEdReFg3eUZsVERzekRmdjRxRnByc2k0eEhhNXV0UE1xVW5ra1Y0WmZDdXpDbG5zSmhLWTNzNjJkS0NKY1FxdFpKSzlhYzdGU1VwMEQzRGh1b09mYl9IWUNVUnZ0dWFZUXNTb25mWmxnN3F2ZlhONXY?oc=5",
-      "published": "2026-11-09T02:42:20+00:00",
+      "id": "1cb238a2aa77",
+      "title": "Gesundheit wird 2027 teurer: Diese Mehrkosten kommen auf Millionen Versicherte zu - DerWesten",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS1tbXJ5VGhmb1pvT2s2NlJVOWsza0NEWTljbGt6bldreENERlJvTC13aEdLWW5DVVNFVE92bUNFcEp5NXBJbndneEJ5eGNTYXhENTBERDBZRzY5TkhWdHZ6eVN1eExUQ0FJSF9ZTjZGUVpJV3VRaGhYYmdRb3dfRzA1S09NVTRJWnl2YkhyNlhwVkFrN1hyam03bnVMTTVYTHBEUTF5MkF0WmRBdjNPR2ZuSGYtUQ?oc=5",
+      "published": "2026-11-06T02:33:16+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "DerWesten",
+        "url": "https://www.derwesten.de"
+      }
+    },
+    {
+      "id": "dc2fb960c54a",
+      "title": "Krankenhausapotheke Horn blickt auf 50 Jahre zurück - Guten Tag Österreich",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVlCWllabmtIeVVvN0pUZEU2N1FDUFVibnJBVjh2eTFhdk44V3dGTE5iMzJEQkQ4eHU0dmxvRmhMVlY0UFI1Wl9fVlRtUmtwSjMwMWlsbWQyRnpVc2RuU0N6aWNOUjBpX1NRSkdGMWJ5WXp5RXhQLW5seEhNbVF4LUthdnN2UQ?oc=5",
+      "published": "2026-11-09T16:20:26+00:00",
+      "source": {
+        "name": "Guten Tag Österreich",
+        "url": "https://www.gutentag.news"
       }
     },
     {
@@ -244,16 +274,6 @@
       }
     },
     {
-      "id": "7b80f1f5a257",
-      "title": "Deshalb sind Medikamentenpreise in den USA höher als in Europa - SRF",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYi1ZU2plOWxCY1lMcDZOZTBQZnJDSVBJY1hkZHQ0Rk1abllUN1NncFVvVjVXMUJqRVRqVlpqUkxBdjVsQmdST2I5akl6dDFKVXdCV1lKMjhOTU0tNllzakRkTXF3c3BrdXo3Vlp5aUc2OTJrMmxKTkdQMm5jMnVZYmZ5ZVpaYUwwUVVMTGJjN2o2bTZERUNuT3UxN011STgxaWVpZDdHbkswSXh4Q2FvLTVWVHA?oc=5",
-      "published": "2025-08-20T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "5041122093e4",
       "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
@@ -284,30 +304,10 @@
       }
     },
     {
-      "id": "a1cec6d3f4c0",
-      "title": "Gesundheit - Das sind die teuersten Medikamente der Schweiz - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzRjNGcwUkRhUURBZTBXREVobDljWlI3VEJYall6NlpQbkxOcDNNa0lGS1B6TXNMUFNaRnRtZjdSYmVqSHB6bF9pRTUyWlNZRUxoNnhsOTZSejZwTlQwLW83bEd6akZJeG93ODBXeXZEY1ljRnZTRXh3OGlnY2pjWWtoVV92R2xON0FKbDVOeHN2YlJNTHpZZnRxUzFzTy1rLVJBWDJUb1JhT0k?oc=5",
-      "published": "2016-04-05T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "976d88f58bb6",
       "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
       "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "4d758dd54a8b",
-      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
-      "published": "2009-06-30T07:00:00+00:00",
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
@@ -321,6 +321,16 @@
       "source": {
         "name": "Il Mattino",
         "url": "https://www.ilmattino.it"
+      }
+    },
+    {
+      "id": "4d758dd54a8b",
+      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
+      "published": "2009-06-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
