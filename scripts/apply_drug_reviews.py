@@ -112,6 +112,9 @@ def display(s):
     """原句顯示成一行：表格列改成「cell / cell」；多行（清單項目、多段）用「 / 」接起來，
     避免引言框裡的 | 被當成表格、換行讓框斷掉或在表格列裡斷行（2026-11-12）。"""
     s = s.strip()
+    rows = s.split("\n")
+    if len(rows) > 1 and all(r.strip().startswith("|") for r in rows):  # 多列表格：每列「cell / cell」（略過空格），列與列用「; 」
+        return "; ".join(" / ".join(c.strip() for c in r.strip().strip("|").split("|") if c.strip()) for r in rows).replace("|", "&#124;")
     if s.startswith("|"):
         s = " / ".join(c.strip() for c in s.strip("|").split("|"))
     s = re.sub(r"\s*\n\s*(?:[-*+]\s+|\d+\.\s+)?", " / ", s)

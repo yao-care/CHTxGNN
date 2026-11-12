@@ -93,9 +93,14 @@ def paras(t):
     return [p.strip("\n") for p in out if is_prose(p)]
 
 
+ABBR_END = re.compile(r"(?:^|[\s(])[^\W\d_]{1,2}\.$")  # 「z. B.」「H. pylori」「d. h.」：一兩個字母加句點不是句尾
+
+
 def spans(p):
     out, i = [], 0
     for m in SENT.finditer(p):
+        if "\n" not in p[m.start():m.end()] and ABBR_END.search(p[i:m.start()]):
+            continue  # 縮寫後面不切（換行一律切）
         if m.start() > i:
             out.append((i, m.start()))
         i = m.end()
@@ -372,7 +377,7 @@ DOC = ("藥物頁人工查核紀錄（單一真實來源；2026-11-12 建，核�
        "每筆＝一次查核：drug／file／claim（頁面原句）／replacement（更正後）／note（頁面上顯示的說明，用本站語言）／finding（內部查證結論）／"
        "sources（網址＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 附來源段落｜"
        "rereview_result 重審結果｜header_level｜description_level）。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；"
-       "改寫頁面的程式結尾都會重套，scripts/check_seo_docs.py 第 17 項擋未套用的紀錄。原則：基本事實照主管機關資料更正；"
+       "改寫頁面的程式結尾都會重套，scripts/check_seo_docs.py 的查核紀錄檢查擋未套用的紀錄。原則：基本事實照主管機關資料更正；"
        "模型預測原文不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新。"
        "2026-10-31～11-06 正文裡跟許可證事實矛盾、直接刪掉的子句，2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入"
        "（id 以 <站碼>-lic- 開頭）；報告在 11 月經 AI 重產、原句已不在頁面的標 status=resolved_by_regeneration。"
