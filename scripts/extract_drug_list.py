@@ -6,7 +6,11 @@ Creates a JSON file with drug names, evidence levels, and indication counts.
 
 import json
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from chtxgnn.regulatory import withdrawn as W  # noqa: E402  重審撤回的預測不監測（2026-11-12 本站查核機制）
 
 
 def parse_front_matter(content: str) -> dict:
@@ -64,6 +68,8 @@ def main():
     output_file = Path(__file__).parent / "drug_list.json"
     known = load_known_indications()
 
+    gone = W.load()  # 查核紀錄 verdict=withdraw 的預測（頁面原文不刪，但不再當成預測監測）
+    skipped = 0
     drugs = []
 
     for md_file in sorted(drugs_dir.glob("*.md")):
@@ -84,6 +90,10 @@ def main():
         except ValueError:
             predicted_indications = []
         monitor_inn = front_matter.get("monitor_inn", "")
+        if gone.get(md_file.stem):
+            keep = [x for x in predicted_indications if not W.is_withdrawn(gone, md_file.stem, x)]
+            skipped += len(predicted_indications) - len(keep)
+            predicted_indications = keep
         if not predicted_indications or not monitor_inn:
             continue
         slug = re.sub(r"[\W_]+", "-", md_file.stem, flags=re.U).strip("-").lower()
@@ -109,6 +119,7 @@ def main():
         }, f, indent=2, ensure_ascii=False)
 
     print(f"Extracted {len(drugs)} drugs to {output_file}")
+    print(f"  skipped {skipped} withdrawn predictions (docs/_data/drug_reviews.json verdict=withdraw)")
     print(f"  with approved_indication (search-index original): {sum(1 for d in drugs if d['approved_indication'])}")
 
     # Print summary
