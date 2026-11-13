@@ -1,46 +1,56 @@
 {
-  "fetched_at": "2026-11-13T04:49:58.381755+00:00",
+  "fetched_at": "2026-11-13T12:49:07.027575+00:00",
   "source": "Google News Health RSS",
-  "count": 35,
+  "count": 43,
   "articles": [
     {
-      "id": "ebc2aeb05aac",
-      "title": "Welche Antidepressiva sich für eine Langzeitbehandlung eignen - Geo.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWM1T08xdTFWT1hrSHc0cW9JMUJQRldlMm5hSU4zVXBleG51dWV5NmxOZ3AtQlF6U3BsenZXaDFXQzlPLWlnSl9qSHB6NWhyZU03VWxnbWh0ZGxvVlg0Qm1IV3JFaTVWMUl3REQtWVJfYUJZMFh0QzJsOTdFaWlFQTR5ckF2YklXOW9vWkNINVViVVFyM1JGejY0VVZESUdYRkFzOEFGRGRwWjRGaGJsdW5fcmtJREREa3djQWNpb19uSzhtWDY4T3EyUQ?oc=5",
-      "published": "2026-11-12T15:18:00+00:00",
-      "source": {
-        "name": "Geo.de",
-        "url": "https://www.geo.de"
-      }
-    },
-    {
-      "id": "799287dc45c5",
-      "title": "Muskelschmerzen durch Statine: Welche Rolle Entzündungen spielen könnten - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXZEVXE2aTBkZElfSkRxR1NFWHdIc3JEdWgwZGJYaHBnVGZKY2xvVEtuc2Uta3RzTDMzbkdYR3Bhek4wSjA5QUgyNjIyZVp0N0tpUXpVa0o3b25GcnI4ODJIeDNfOGlmX3NobUZpNVNXRXI2MzBkVUxPUlpZbGRJU2ZXZ0g4QXhRT3Z2bVliUF8xTERYTktSb2R4VHN2X29Qamo3NkVkV3hxRzQyOFE?oc=5",
-      "published": "2026-11-12T22:29:30+00:00",
+      "id": "684bd5c2ba6a",
+      "title": "Depression: Diese Medikamente helfen auch langfristig - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaElvQS1wZGMwRDRYWGtIWWM2T2lIVGtNWW92Nl9PdlVUNlJmQ3Jhc1RreXhSOEJhMmdDTko0M1Zrb0hPZjVTclA3OEtnUWxMVjVyNnNtcUVSUkppMGxEY1pfQ3V3U3lhWFUtTXppTkl0Y1VZLW5XRnBVM2htaGZPclpGTEhJM2RXUGM3Yl9rSldFdw?oc=5",
+      "published": "2026-11-13T07:35:00+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
       }
     },
     {
-      "id": "304dfe385abf",
-      "title": "Lipoprotein(a): Neues Medikament senkt Wert um 75 Prozent – doch Patienten hatten nichts davon - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2d4alNJTHVkWmY5azlhZzYxTGpWUXRHVFdVb2Z1ajhGVjk5aE81VGtkVFh6SWs2YS1lVzZrWGI5SUpCRnQ5Zk1vNURIaElsMkpJTzFIdlpxcDBoOGc5UXJMWU1FbzdzSEJmVGNPYmZBZ1l6Q0x0MHpCYktkQ0tiQjVHQVlmZjFuZXdZc1Q2eTNtX1IxdjRMSFYyXzZLUkhxVEl4U3RfeVpaWTk0UFBYaXBCVGhmUHRqMlBkTHpJTkNoNi1vN0xJ?oc=5",
-      "published": "2026-11-12T12:12:09+00:00",
+      "id": "4d4e48dc921b",
+      "title": "Welche Antidepressiva sich für eine Langzeitbehandlung eignen - GEO.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWM1T08xdTFWT1hrSHc0cW9JMUJQRldlMm5hSU4zVXBleG51dWV5NmxOZ3AtQlF6U3BsenZXaDFXQzlPLWlnSl9qSHB6NWhyZU03VWxnbWh0ZGxvVlg0Qm1IV3JFaTVWMUl3REQtWVJfYUJZMFh0QzJsOTdFaWlFQTR5ckF2YklXOW9vWkNINVViVVFyM1JGejY0VVZESUdYRkFzOEFGRGRwWjRGaGJsdW5fcmtJREREa3djQWNpb19uSzhtWDY4T3EyUQ?oc=5",
+      "published": "2026-11-12T15:18:00+00:00",
       "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
+        "name": "GEO.de",
+        "url": "https://www.geo.de"
       }
     },
     {
-      "id": "0f90a25196db",
-      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
-      "published": "2026-08-13T07:00:00+00:00",
+      "id": "21753de9d21b",
+      "title": "Überteuerte Arzneimittel: WKStA prüft Ermittlungen gegen Barmherzige Brüder - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObS1jTTg3UFZjNTZOb255SHl4UVUxLXNHVl9jWExWamFMbFA4c2VlV1ZnczFuWElSUFFlNkFuZHJIN3dKOUlTeFB0dFpSVXJUSkFWbUF6YjVHcENzNFpRT1FpT1BKeWRqazRXVnpqOVlNMmhzVUVXZGQzOWptbEk2aTVHY2FWQ3FQOU0tcjB2UnJneWVkZlNiSDg2ZGZZRi1yM2ltM0lnUU5tQ3c5?oc=5",
+      "published": "2026-11-13T07:49:00+00:00",
       "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
+        "name": "Kurier",
+        "url": "https://kurier.at"
+      }
+    },
+    {
+      "id": "f5fdbff6dfa1",
+      "title": "Verschreibungen: Apotheken müssen preisgünstigere Importmedikamente vorziehen - gesundheit.de",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ09aaVlaVGJLaEQ4UlQwQWtYSHBLMUYtOUdmd2Rtak5acHkzVUJGYWNUMTFBZ3RZLTNvYjVBZGE4RGVfMUw5amVsRkhybUF5UEhWaW9ZaTFRdXVDdjJWV0k5R21wT00wMmV2Nnc4WjR2S0dZYmV4d3lzWXdCM0d3WFBTOTN0akROVW5GWUE3aE1IOFhHNEpxWEoxV0pmbzRITUhDNzVpcFZ2Zm5PV21BaGFwd2ZnbHVv?oc=5",
+      "published": "2026-11-13T12:24:00+00:00",
+      "source": {
+        "name": "gesundheit.de",
+        "url": "https://www.gesundheit.de"
+      }
+    },
+    {
+      "id": "cbd7924b05b2",
+      "title": "Erweiterung des Zugangs zu neuen Medikamenten für Patienten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fWkZPSkxYZ3hOMlBBYlRWcFg0ODJ4RHZFOVZONmwwREdQVHdBazNEYnNvQzNIVjFSMEc1dWVZZnE0Y2lvUV9BVEVIaWdwcENGUUIxdS0wWm1qUGpVOXAzVS1CUlI1eVBFbV9uYjVjTHRWRGU4dTA4dk9ZQnFfMGc?oc=5",
+      "published": "2026-11-13T11:24:26+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -54,23 +64,23 @@
       }
     },
     {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
+      "id": "304dfe385abf",
+      "title": "Lipoprotein(a): Neues Medikament senkt Wert um 75 Prozent – doch Patienten hatten nichts davon - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2d4alNJTHVkWmY5azlhZzYxTGpWUXRHVFdVb2Z1ajhGVjk5aE81VGtkVFh6SWs2YS1lVzZrWGI5SUpCRnQ5Zk1vNURIaElsMkpJTzFIdlpxcDBoOGc5UXJMWU1FbzdzSEJmVGNPYmZBZ1l6Q0x0MHpCYktkQ0tiQjVHQVlmZjFuZXdZc1Q2eTNtX1IxdjRMSFYyXzZLUkhxVEl4U3RfeVpaWTk0UFBYaXBCVGhmUHRqMlBkTHpJTkNoNi1vN0xJ?oc=5",
+      "published": "2026-11-12T12:12:09+00:00",
       "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
-      "id": "e4f7a2ee397f",
-      "title": "«Spielen sie mit ihren Enkeln, oder ist es ihnen dauernd übel?» - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1NOdGJpUHpUemZ1dkFFaGVZNldEZjJWMGo2WEs0aFZaUGs5cjEydW9qbmtaaUMxcWUwOHNPSlh5Q29idXd2VmxTZlNIX3ZocWFsN1ZaUUVMZ1U1Z2dybFJSRHlwcGVob0piemlvT2pMd1dLMm96WHFKaHdSVWc1cVZoMlhnNEdFR2R2ZjdqZGNIcVpSZXFpOVg1M2hxa1Nj?oc=5",
-      "published": "2026-11-08T09:44:03+00:00",
+      "id": "799287dc45c5",
+      "title": "Muskelschmerzen durch Statine: Welche Rolle Entzündungen spielen könnten - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXZEVXE2aTBkZElfSkRxR1NFWHdIc3JEdWgwZGJYaHBnVGZKY2xvVEtuc2Uta3RzTDMzbkdYR3Bhek4wSjA5QUgyNjIyZVp0N0tpUXpVa0o3b25GcnI4ODJIeDNfOGlmX3NobUZpNVNXRXI2MzBkVUxPUlpZbGRJU2ZXZ0g4QXhRT3Z2bVliUF8xTERYTktSb2R4VHN2X29Qamo3NkVkV3hxRzQyOFE?oc=5",
+      "published": "2026-11-12T22:29:30+00:00",
       "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -84,6 +94,26 @@
       }
     },
     {
+      "id": "70af69c4ae95",
+      "title": "Herausforderungen durch MFN müssen mit Blick auf die Auswirkungen auf die Versorgung eingeordnet werden - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UFNGeWlGUFJxUFJPaUNUUGZXREJXZFZvYXViU2dDVUZtcHNPcHBkWmE4VEZBSnFyX1pZd2szZUVwYXhBZmpOZmlVV29pZlVsVG1ERFdMMA?oc=5",
+      "published": "2026-11-12T15:34:43+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "0f90a25196db",
+      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
+      }
+    },
+    {
       "id": "0a7e421787a1",
       "title": "Barmer-Chef rechnet mit Änderung: Wird die Abnehmspritze bald von der Kasse bezahlt? - Tagesspiegel",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnhrRlNEbVAtekExVHBieFR0MC1fYl9oN2pxY2lRUmNNZ0N4TXAtSnMyT1h4UFZZWlRfYXp6X25PeFZudExydjZzbXQyVUZzU1NkT2R3MXJ1VndfQXNQVDMwOGE5MHBRMUU3bncxdTFpb0pnbTUyRDF3YTd4c3FMd2dqNXRrbGFZY25kYzVBVVFCUmxwWlN5eXlHeWNxWVh1UkJQbDhCSFg0NEZqenh4WEdHanNLUzBHejQtWjBRUHliUDdKbzVfSjVZVUxxTUlJ?oc=5",
@@ -91,16 +121,6 @@
       "source": {
         "name": "Tagesspiegel",
         "url": "https://www.tagesspiegel.de"
-      }
-    },
-    {
-      "id": "da9244502f14",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -114,33 +134,33 @@
       }
     },
     {
-      "id": "9229b6f33d40",
-      "title": "Überteuerte Medikamente: Was läuft in Kärntens Ordensspitälern? - Kleine Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVQwZHV4NE1KMi0yeFQ5cWNGMldMcnhtLWhHNVZLSFdzZVBrN2JibEtXa1kzYm5NX2JBQkU2NXNBR1REVG5jSXpLX1Y2VHZWendXVXM0em04amZoU0UtR2FwZGJNSGx6UEV3amV4djVLX0lfYnZib2RGZ0ZPMURUUllSYloxWEYyWWpDdHBwdGFJM043N1ZYTXZNRDVPaGZhbDF0OUl6RVNOLUNlbFBPRg?oc=5",
-      "published": "2026-11-12T13:16:18+00:00",
+      "id": "02e962014647",
+      "title": "Bundessozialgericht: Preismoratorium für Tabletten wird nach Wirkstoffmenge berechnet - gesundheit.de",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3czMjR6elRhUWJVZXJwQ3c5LTIzVUtsaWhsR2tTTGZ6X2VmWkFnSlNsYTAtX2dPdHRnMzJETVdEMFN3WFBTTE5keHJ2V0gtNUM0a2VFY1BhamV4RGNJTThIUGhZSGNoTFYyVndkNFdsWWttWnhsRjc3RWdJQ3FkbWgxTkhBUHBtV3g3M1dObTZHT21wVmpUdlM5emV2dHVHa2VNZjhIZXI5Mnh6RFh4NTJZck52QWZ3QUFHZEFoSXFnNjg?oc=5",
+      "published": "2026-11-13T10:58:00+00:00",
       "source": {
-        "name": "Kleine Zeitung",
-        "url": "https://www.kleinezeitung.at"
+        "name": "gesundheit.de",
+        "url": "https://www.gesundheit.de"
       }
     },
     {
-      "id": "84689a54bc6c",
-      "title": "Länder prüfen Vorwürfe gegen Träger von Spitälern - GMX.AT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmhCT1RBcmduSDBnVy1US3FmVnREV1U1V0VVNzRUSXBqczNCSGNzX3RKWWlJVXN0U2xrZE5pb3lPUkdBMnUtYzdjVWo2RWl0T3k4VzJxSWpZRm9ia3ZOWV9CV3hIUE0zcF9wamFWT3d0dmJPMW0wUUZQTHdXZ0ZiUEc3UDB3VzNfTEw4RTNSajVQZGpjbExuRUlPZkE5aE5wVjQzSkkwTzA?oc=5",
-      "published": "2026-11-12T18:42:23+00:00",
+      "id": "36651fcb254e",
+      "title": "Durchfall nach dem Sex: Diese Darmbakterien breiten sich immer schneller aus - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFVLX1RZNXRIVjQ0b1pDeC1PUnJxa0phZEJPVFptSDd4MnJBMW5mQlQta1BPNXF2eVd1WmFPNjd3RGJDWnRneXhTaTVHM0JMY2tDTTU4a2F6VjBUSC1QczRxemlHZVgwNzg4Y3Z2V1ZNSG5WeFlxNXRTM3lxcUZQUUhEQnh1bTAzNG1xaFo0cXdtUU5HVC1SUWN6VlUyX3A2UWw3LXZOTHFKT0xBamtETQ?oc=5",
+      "published": "2026-11-13T09:19:40+00:00",
       "source": {
-        "name": "GMX.AT",
-        "url": "https://www.gmx.at"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
-      "id": "19d60e55a69d",
-      "title": "Seien Sie sich des Risikos von Schlaganfall und Herzinfarkt bewusst, wenn das Wetter kalt wird. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUpPa3NrbW91NDllYXRuSEk5eUMtTTMxTEx3NmZTSW0ydy11WUF1YVgtUm5NYmVHY2FqY2F2TVlYOUZOMm0tcFhZT2FjU0ZkNWF6Wk43ZU1qcl83eUNCdUJWb2pDSlBHZERJejZmamZLVzY0T0FFUy1WamItYjhuRXdtelU0bGVyeUp6ZWdHbl96eDBubmc?oc=5",
-      "published": "2026-11-11T06:22:58+00:00",
+      "id": "96c379f294b4",
+      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
+      "published": "2026-11-09T16:30:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -154,23 +174,13 @@
       }
     },
     {
-      "id": "9d1c0464616a",
-      "title": "Barmherzige Brüder in Österreich: Medikamentenverrechnung soll nachvollziehbarer werden - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MOElTZUpGb3Ftdy1WUTNzdi1JNFBIdG5VdGFyR2N0UmxIcXVZQmwyQWlTLS1DOVhHQ2tJV3Rsc01fcVFlMVRYMk5GVDcwcWNfZ2RuanZRc28?oc=5",
-      "published": "2026-11-11T09:59:35+00:00",
+      "id": "7446024d9dde",
+      "title": "Statine ab 70: Cholesterinsenker mindern Herz-Kreislauf-Risiko um 30 Prozent - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnp0LWVvSDVaTzhCeVFlb3l4My1qektzYXcxRmtNTzFzdjZkUl9QdWpoc2YwVmNfSlE0eEQ2eFNqS1l6T1FvVXhSRkFSZkFqOGh4S19MM29WeE9INGN4QXl4d296TzVSRnowRmxETld0VWpQcjl2U1RGNVNZNndjczlGRl9vbnAtbl93VmZXRzhwM2ZDamczRmRlamo0YUItRFNXWF9FZjcyc1hDMnlJRA?oc=5",
+      "published": "2026-11-11T23:24:44+00:00",
       "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "96c379f294b4",
-      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
-      "published": "2026-11-09T16:30:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -194,6 +204,56 @@
       }
     },
     {
+      "id": "19d60e55a69d",
+      "title": "Seien Sie sich des Risikos von Schlaganfall und Herzinfarkt bewusst, wenn das Wetter kalt wird. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUpPa3NrbW91NDllYXRuSEk5eUMtTTMxTEx3NmZTSW0ydy11WUF1YVgtUm5NYmVHY2FqY2F2TVlYOUZOMm0tcFhZT2FjU0ZkNWF6Wk43ZU1qcl83eUNCdUJWb2pDSlBHZERJejZmamZLVzY0T0FFUy1WamItYjhuRXdtelU0bGVyeUp6ZWdHbl96eDBubmc?oc=5",
+      "published": "2026-11-11T06:22:58+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "9229b6f33d40",
+      "title": "Überteuerte Medikamente: Was läuft in Kärntens Ordensspitälern? - Kleine Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVQwZHV4NE1KMi0yeFQ5cWNGMldMcnhtLWhHNVZLSFdzZVBrN2JibEtXa1kzYm5NX2JBQkU2NXNBR1REVG5jSXpLX1Y2VHZWendXVXM0em04amZoU0UtR2FwZGJNSGx6UEV3amV4djVLX0lfYnZib2RGZ0ZPMURUUllSYloxWEYyWWpDdHBwdGFJM043N1ZYTXZNRDVPaGZhbDF0OUl6RVNOLUNlbFBPRg?oc=5",
+      "published": "2026-11-12T13:16:18+00:00",
+      "source": {
+        "name": "Kleine Zeitung",
+        "url": "https://www.kleinezeitung.at"
+      }
+    },
+    {
+      "id": "9d1c0464616a",
+      "title": "Barmherzige Brüder in Österreich: Medikamentenverrechnung soll nachvollziehbarer werden - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MOElTZUpGb3Ftdy1WUTNzdi1JNFBIdG5VdGFyR2N0UmxIcXVZQmwyQWlTLS1DOVhHQ2tJV3Rsc01fcVFlMVRYMk5GVDcwcWNfZ2RuanZRc28?oc=5",
+      "published": "2026-11-11T09:59:35+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
+      "id": "c0df28bcd1df",
+      "title": "Krankenkasse 2027: Zuzahlungen steigen – Warnbriefe bei Beitragserhöhung entfallen - Nord24",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0ZyQ1pOSExBcTFwbjlJZFNfblg2QTJxc3NycnFQeDdqWWtSV0x2VlpTZ0hvdTFLYUZVckRvb3lLSHVadEtsT2s4MVpWajE0LWJxek9uZTg3cFNQQW1jNkNIUjZ3Z3ZISS1UQlg5VXNtVjR2ektRbVVnbkEtbEVxaGROWmNNY2YyLVNXbEtfUkRTLVFVRkpIZFZFaEc0djBveDJuUzMxdXpJUDdHTmEzU05fS0RmRVNEY21FRk55WQ?oc=5",
+      "published": "2026-11-13T10:16:00+00:00",
+      "source": {
+        "name": "Nord24",
+        "url": "https://www.nord24.de"
+      }
+    },
+    {
+      "id": "af0e5d0b3d66",
+      "title": "BARMER-Arzneimittelreport: Massiver Kostenanstieg bei Therapien von Herzinsuffizienz und Asthma in Sachsen-Anhalt - Du bist Halle",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZGZhWWFfM1UxbC1DeHg0M2lDaXRNMTgxUGJRNWNJcG52MU5VSk9wdldDNlhuMVhCN0Z6RmdXY3BqVnhPdzdVamdXbU9GYlJXb3o2Qmc0TTJuLW93V0tFeGFobE9IMXViY3VsTWlvTXYyMWJqV0stbFk5SGFPSDVDUGxhSGxTYzdzS1Z3YmZYckFqZmUzOHUzWlkzdjhrV2xaM1JVazIxYjZHVmRpTmxCWFkzRGpoSEJSeXp2TkxQbHVOcUoweEdvbmdrM2hrdnFqNmc?oc=5",
+      "published": "2026-11-13T00:23:06+00:00",
+      "source": {
+        "name": "Du bist Halle",
+        "url": "https://dubisthalle.de"
+      }
+    },
+    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -204,13 +264,23 @@
       }
     },
     {
-      "id": "35b6238691d2",
-      "title": "BARMER-Arzneimittelreport: Massiver Kostenanstieg bei Therapien von Herzinsuffizienz und Asthma in Sachsen-Anhalt – Du bist Halle - Du bist Halle",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZGZhWWFfM1UxbC1DeHg0M2lDaXRNMTgxUGJRNWNJcG52MU5VSk9wdldDNlhuMVhCN0Z6RmdXY3BqVnhPdzdVamdXbU9GYlJXb3o2Qmc0TTJuLW93V0tFeGFobE9IMXViY3VsTWlvTXYyMWJqV0stbFk5SGFPSDVDUGxhSGxTYzdzS1Z3YmZYckFqZmUzOHUzWlkzdjhrV2xaM1JVazIxYjZHVmRpTmxCWFkzRGpoSEJSeXp2TkxQbHVOcUoweEdvbmdrM2hrdnFqNmc?oc=5",
-      "published": "2026-11-13T00:23:06+00:00",
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
       "source": {
-        "name": "Du bist Halle",
-        "url": "https://dubisthalle.de"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
       }
     },
     {
@@ -274,16 +344,6 @@
       }
     },
     {
-      "id": "976d88f58bb6",
-      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
-      "published": "2012-02-20T08:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
       "id": "1a5231bee0c8",
       "title": "Lam Dong: Im Inland hergestellte Medikamente machen fast 64 % der Beschaffungskosten in Gesundheitseinrichtungen aus. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMExldUJwS1d0aTZKUHNPb3lzMUlwRGtWa3hITFJiTEJVZ2RxQVNVVV9jODl5c0JMeVdBWEtXTFB3Yy16V0R3QUo3U2NRNTJuUDZqNFRpdjlZR0UtSFVvOXpKVXh0WWdFVk1PZ01vNmpNRm16ek4xblVsWEs5OUFRMHlqMU0tY1A0Sm1LRGJYQkJEZjd1WnhXbg?oc=5",
@@ -304,20 +364,20 @@
       }
     },
     {
-      "id": "4d758dd54a8b",
-      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
-      "published": "2009-06-30T07:00:00+00:00",
+      "id": "976d88f58bb6",
+      "title": "Gesundheit - Medikamente und Alkohol - Finger weg! - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWms0V25rc0txd0lYZjJNNWdtZFBqT0paUjRHLVAxTDFWa3plckZsTjNHZXdidFFuSk9OV3lfT1FLSHNUX2U5RVhCRzhNYm1wOW5WTFpJMFVZd0k5VThBYzZWd096cUk0X2JtNTRkMXJtQUxrTVlhRG9jWHZ0RklxN1Yyc1ZlSEMxWUE?oc=5",
+      "published": "2012-02-20T08:00:00+00:00",
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
       }
     },
     {
-      "id": "47db4e0517f5",
-      "title": "Gesundheit - Medikamente: Wie Apotheker sich kaufen lassen - SRF",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMklydTVQNV9WWHF0M05JS3FKaTd4cWNpWU4xVWFkcXQ1ZVljTERsMElFaFgxSmhhYXdpYzZTd1JfRmFibkw2ZVhDblRhT1N5SHN6M1VtdHZkTUVhTlZqS252MnlLdXd3aEx6Nm5RWU5tX09lLUpVX3MxSmRSekdtRzluUWNmNDdBWEJaYkI3SlY0T1NvVlNXOFFodDJ6dUZZZ0tGd2NSMUM?oc=5",
-      "published": "2009-11-10T08:00:00+00:00",
+      "id": "4d758dd54a8b",
+      "title": "Gesundheit - Medikamente: Ärzte im Sold der Pharmaindustrie - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNoX0JoekFFTElBZmJxSlRGQUhUTWNycTQtVHg4UHFDR090aGdVNTN3RllCMXBiRVJuYW12T0xDOVZWZm1qTGQybEJNWFVPREgwdW10N3otdGViZF9GOXFYMW04U2RNa09FUm1oYklMMGpPMzFnZmpTM2JtY1JRLXBFb2ZXQVhKbEVROGcwcjU1RDIzY3pCNjZ5WXRLSW9pUkE0dEpuQ0xxdFk?oc=5",
+      "published": "2009-06-30T07:00:00+00:00",
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
@@ -331,6 +391,26 @@
       "source": {
         "name": "ad-hoc-news.de",
         "url": "https://www.ad-hoc-news.de"
+      }
+    },
+    {
+      "id": "47db4e0517f5",
+      "title": "Gesundheit - Medikamente: Wie Apotheker sich kaufen lassen - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMklydTVQNV9WWHF0M05JS3FKaTd4cWNpWU4xVWFkcXQ1ZVljTERsMElFaFgxSmhhYXdpYzZTd1JfRmFibkw2ZVhDblRhT1N5SHN6M1VtdHZkTUVhTlZqS252MnlLdXd3aEx6Nm5RWU5tX09lLUpVX3MxSmRSekdtRzluUWNmNDdBWEJaYkI3SlY0T1NvVlNXOFFodDJ6dUZZZ0tGd2NSMUM?oc=5",
+      "published": "2009-11-10T08:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "1eb6e283e6bc",
+      "title": "Barmherzige Brüder im Visier: WKStA prüft möglichen Millionenschaden - KOSMO | Eine starke Verbindung!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVI3UzEtX1IyMGdmaV9Oam9tZHBWN0lqRDRiRUpaeVJjZGlsMUdHUlhxWkVpYzYxVlM4MmRkX3c0TWM2QVFtMHFEMXlIdUEtamQ1cnRMaDY3VzVldGtXcUF2dFJlZlVVTndLQ0VpdVo1R3M2MzdhenJCUFQxSi1Dczhvd3BibmVyZG9CcE5OdXRLMjFsanpn?oc=5",
+      "published": "2026-11-13T09:25:33+00:00",
+      "source": {
+        "name": "KOSMO | Eine starke Verbindung!",
+        "url": "https://www.kosmo.at"
       }
     },
     {
