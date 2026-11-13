@@ -5,9 +5,9 @@
   "version": "1.0.0",
   "name": "CHTxGNNFHIRServer",
   "title": "CHTxGNN FHIR Server - Switzerland Drug Repurposing",
-  "description": "FHIR R4 server for Switzerland TxGNN drug repurposing predictions",
+  "description": "FHIR R4 server for Switzerland TxGNN drug repurposing predictions. Contains 104 drugs and 577 predicted indications.",
   "status": "active",
-  "date": "2026-05-03",
+  "date": "2026-11-13",
   "publisher": "TxGNN Project",
   "kind": "instance",
   "fhirVersion": "4.0.1",
@@ -33,6 +33,25 @@
               "code": "read"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://yao.care/fhir/StructureDefinition/txgnn-resource-counts",
+      "extension": [
+        {
+          "url": "MedicationKnowledge",
+          "valueInteger": 104
+        },
+        {
+          "url": "ClinicalUseDefinition",
+          "valueInteger": 577
+        },
+        {
+          "url": "countedAt",
+          "valueDate": "2026-11-13"
         }
       ]
     }
