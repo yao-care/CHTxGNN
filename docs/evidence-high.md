@@ -8,6 +8,11 @@ description: "Kandidaten der Arzneimittel-Umwidmung mit L1-L2 in CHTxGNN, gestü
 
 # Hohe Evidenz (L1-L2)
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L1 | plus: site.data.drug_stats.level_counts.L2 %}
+Diese Seite listet **{{ pd_m }}** der **{{ site.data.drug_stats.total_drugs }}** Arzneimittel mit veröffentlichtem Bericht auf dieser Website ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }} %). Definition der Stufen: [Methodik]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Kandidaten, die vorrangig für eine klinische Bewertung infrage kommen
 </p>

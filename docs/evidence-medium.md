@@ -8,6 +8,11 @@ description: "Kandidaten der Arzneimittel-Umwidmung mit L3-L4 in CHTxGNN, gestü
 
 # Mittlere Evidenz (L3-L4)
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L3 | plus: site.data.drug_stats.level_counts.L4 %}
+Diese Seite listet **{{ pd_m }}** der **{{ site.data.drug_stats.total_drugs }}** Arzneimittel mit veröffentlichtem Bericht auf dieser Website ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }} %). Definition der Stufen: [Methodik]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Kandidaten mit vorläufiger Evidenz, die einer weiteren Validierung bedürfen
 </p>
