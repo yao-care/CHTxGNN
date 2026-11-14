@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-14T15:29:43.326038+00:00",
+  "fetched_at": "2026-11-14T20:20:30.782941+00:00",
   "source": "Google News Health RSS",
-  "count": 36,
+  "count": 38,
   "articles": [
     {
       "id": "4d4e48dc921b",
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "e4f7a2ee397f",
-      "title": "«Spielen sie mit ihren Enkeln, oder ist es ihnen dauernd übel?» - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1NOdGJpUHpUemZ1dkFFaGVZNldEZjJWMGo2WEs0aFZaUGs5cjEydW9qbmtaaUMxcWUwOHNPSlh5Q29idXd2VmxTZlNIX3ZocWFsN1ZaUUVMZ1U1Z2dybFJSRHlwcGVob0piemlvT2pMd1dLMm96WHFKaHdSVWc1cVZoMlhnNEdFR2R2ZjdqZGNIcVpSZXFpOVg1M2hxa1Nj?oc=5",
-      "published": "2026-11-08T09:44:03+00:00",
-      "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
-      }
-    },
-    {
       "id": "21753de9d21b",
       "title": "Überteuerte Arzneimittel: WKStA prüft Ermittlungen gegen Barmherzige Brüder - Kurier",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObS1jTTg3UFZjNTZOb255SHl4UVUxLXNHVl9jWExWamFMbFA4c2VlV1ZnczFuWElSUFFlNkFuZHJIN3dKOUlTeFB0dFpSVXJUSkFWbUF6YjVHcENzNFpRT1FpT1BKeWRqazRXVnpqOVlNMmhzVUVXZGQzOWptbEk2aTVHY2FWQ3FQOU0tcjB2UnJneWVkZlNiSDg2ZGZZRi1yM2ltM0lnUU5tQ3c5?oc=5",
@@ -114,13 +104,13 @@
       }
     },
     {
-      "id": "96c379f294b4",
-      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
-      "published": "2026-11-09T16:30:00+00:00",
+      "id": "e4f7a2ee397f",
+      "title": "«Spielen sie mit ihren Enkeln, oder ist es ihnen dauernd übel?» - Infosperber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1NOdGJpUHpUemZ1dkFFaGVZNldEZjJWMGo2WEs0aFZaUGs5cjEydW9qbmtaaUMxcWUwOHNPSlh5Q29idXd2VmxTZlNIX3ZocWFsN1ZaUUVMZ1U1Z2dybFJSRHlwcGVob0piemlvT2pMd1dLMm96WHFKaHdSVWc1cVZoMlhnNEdFR2R2ZjdqZGNIcVpSZXFpOVg1M2hxa1Nj?oc=5",
+      "published": "2026-11-08T09:44:03+00:00",
       "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
+        "name": "Infosperber",
+        "url": "https://www.infosperber.ch"
       }
     },
     {
@@ -131,6 +121,16 @@
       "source": {
         "name": "gesundheit.de",
         "url": "https://www.gesundheit.de"
+      }
+    },
+    {
+      "id": "96c379f294b4",
+      "title": "GeSiG: BMG plant Aufbau einer »Personalreserve Gesundheit« - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUk5R3ZGRVNhX3p5cUYtNk5wTTQ2dFZDbzZwcW9fRXNaNE5UMldBVnhyelR5RGRRN2pRWEUzbGZUeFBjSXJka3FhRGMzNGJZQXZwajMzNGVVNlZRQTdVZ1BxRUpRY2dBdFFRWGxRRkZqSEM1a1JwR3ZfU2ZfQy1EbmF5YmhhYXVmZW45LVEzOXB5SjVfWndfSmE1N3k?oc=5",
+      "published": "2026-11-09T16:30:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -154,6 +154,16 @@
       }
     },
     {
+      "id": "70af69c4ae95",
+      "title": "Herausforderungen durch MFN müssen mit Blick auf die Auswirkungen auf die Versorgung eingeordnet werden - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UFNGeWlGUFJxUFJPaUNUUGZXREJXZFZvYXViU2dDVUZtcHNPcHBkWmE4VEZBSnFyX1pZd2szZUVwYXhBZmpOZmlVV29pZlVsVG1ERFdMMA?oc=5",
+      "published": "2026-11-12T15:34:43+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
+      }
+    },
+    {
       "id": "9229b6f33d40",
       "title": "Überteuerte Medikamente: Was läuft in Kärntens Ordensspitälern? - Kleine Zeitung",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVQwZHV4NE1KMi0yeFQ5cWNGMldMcnhtLWhHNVZLSFdzZVBrN2JibEtXa1kzYm5NX2JBQkU2NXNBR1REVG5jSXpLX1Y2VHZWendXVXM0em04amZoU0UtR2FwZGJNSGx6UEV3amV4djVLX0lfYnZib2RGZ0ZPMURUUllSYloxWEYyWWpDdHBwdGFJM043N1ZYTXZNRDVPaGZhbDF0OUl6RVNOLUNlbFBPRg?oc=5",
@@ -161,26 +171,6 @@
       "source": {
         "name": "Kleine Zeitung",
         "url": "https://www.kleinezeitung.at"
-      }
-    },
-    {
-      "id": "9d1c0464616a",
-      "title": "Barmherzige Brüder in Österreich: Medikamentenverrechnung soll nachvollziehbarer werden - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MOElTZUpGb3Ftdy1WUTNzdi1JNFBIdG5VdGFyR2N0UmxIcXVZQmwyQWlTLS1DOVhHQ2tJV3Rsc01fcVFlMVRYMk5GVDcwcWNfZ2RuanZRc28?oc=5",
-      "published": "2026-11-11T09:59:35+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "02e962014647",
-      "title": "Bundessozialgericht: Preismoratorium für Tabletten wird nach Wirkstoffmenge berechnet - gesundheit.de",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3czMjR6elRhUWJVZXJwQ3c5LTIzVUtsaWhsR2tTTGZ6X2VmWkFnSlNsYTAtX2dPdHRnMzJETVdEMFN3WFBTTE5keHJ2V0gtNUM0a2VFY1BhamV4RGNJTThIUGhZSGNoTFYyVndkNFdsWWttWnhsRjc3RWdJQ3FkbWgxTkhBUHBtV3g3M1dObTZHT21wVmpUdlM5emV2dHVHa2VNZjhIZXI5Mnh6RFh4NTJZck52QWZ3QUFHZEFoSXFnNjg?oc=5",
-      "published": "2026-11-13T10:58:00+00:00",
-      "source": {
-        "name": "gesundheit.de",
-        "url": "https://www.gesundheit.de"
       }
     },
     {
@@ -201,6 +191,16 @@
       "source": {
         "name": "RND.de",
         "url": "https://www.rnd.de"
+      }
+    },
+    {
+      "id": "9d1c0464616a",
+      "title": "Barmherzige Brüder in Österreich: Medikamentenverrechnung soll nachvollziehbarer werden - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MOElTZUpGb3Ftdy1WUTNzdi1JNFBIdG5VdGFyR2N0UmxIcXVZQmwyQWlTLS1DOVhHQ2tJV3Rsc01fcVFlMVRYMk5GVDcwcWNfZ2RuanZRc28?oc=5",
+      "published": "2026-11-11T09:59:35+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -234,6 +234,16 @@
       }
     },
     {
+      "id": "5041122093e4",
+      "title": "Bund ordnet für knapp 300 Arzneimittel tiefere Preise an - Watson",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXVfMHNTcTZWamZNREdRSUJaRVlxRHpPdThBdXVMdEF4c2o5RFFMak1xN1llTGc5eF8waTdZZVNDSk5FZW1RVlRSOV9GTm9PWGpGaDF2NF9SNGZoYllnX3VRYlMxUVpha3N6VmJveGVsV19mUVBBcnQtUVUzRGhVaElDZ0EtRkUwVm1Sa0h4TDF0Zk9mdnhjbFhFU3JRd3p3cnJtaWYzajdHeVBj?oc=5",
+      "published": "2025-11-06T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
       "id": "3e7789535227",
       "title": "Medikamente für 100'000 Franken und mehr: BAG führt harten Kampf gegen Pharmakonzerne - NZZ",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNX3FGYUN6TG9rS014TzdGeldYTk14SnRQQ0s3bG9VOEVLNTJRc2dueGI2amxkSGZKaEIxc3AweGw3dnlTQzBMUmIyVnFMbHlVbV91VDMwUGZCUmVjeGxCRXhOd0dOQWYyc3FQeHdsS1I4YWFESnNaV051UEhLcHBiWEM1QUFQUlZ0X1Z1OHFSYWtZUE16cFNlbmg2dEp3VHJ1aTZiMDI5UQ?oc=5",
@@ -241,6 +251,16 @@
       "source": {
         "name": "NZZ",
         "url": "https://www.nzz.ch"
+      }
+    },
+    {
+      "id": "5a64d26d1cc2",
+      "title": "Gesundheitskosten und Medikamentenpreise – eine Auslegeordnung - www.interpharma.ch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1hQRUV2a3EwLXhWVXNaQXlQa1JsRVVnS0Q0QXZTand1VHFOdENubE9oZllCNDBQZklaV1I2ejd4SS1ZVkhvbkVRYW5FbzVNYlB1Snk3X05kc3d6SU84b1duSV9CSi1hYjExcWpiczZqTDljZzl6dWpyczhHODM5VnhOWDg4V3pBYzhlUUFiTTFXbHBSSGlhXw?oc=5",
+      "published": "2022-10-21T07:00:00+00:00",
+      "source": {
+        "name": "www.interpharma.ch",
+        "url": "https://www.interpharma.ch"
       }
     },
     {
