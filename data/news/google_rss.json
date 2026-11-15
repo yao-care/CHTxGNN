@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-11-15T15:15:03.873440+00:00",
+  "fetched_at": "2026-11-15T20:44:58.497124+00:00",
   "source": "Google News Health RSS",
-  "count": 36,
+  "count": 35,
   "articles": [
+    {
+      "id": "976b59a42dd7",
+      "title": "Alte Heilpflanze ist wieder gefragt - St. Gallen 24",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zdExScll3S013aWNaRDVaRl9zTmIzZHAxVk5RTkhxZ3lyNDNxUkY0MG52dmI1SnVpUlZ1TEE5S1kwYnZUeDNVV3lEOXpFUGlRYkVfaVpLVVhCcTYyY1pqT0piTktJQ0V3UWJfRkpVRms1b3dHSGVXOW5RU3lVQQ?oc=5",
+      "published": "2026-11-15T13:47:33+00:00",
+      "source": {
+        "name": "St. Gallen 24",
+        "url": "https://stgallen24.ch"
+      }
+    },
     {
       "id": "5778408597ae",
       "title": "Abnehmspritze: Warum Forscher bereits an neuen Wirkstoffen arbeiten - STERN.de",
@@ -14,12 +24,12 @@
       }
     },
     {
-      "id": "25a6412d5be0",
-      "title": "Welche Antidepressiva sich für eine Langzeitbehandlung eignen - geo.de",
+      "id": "ebc2aeb05aac",
+      "title": "Welche Antidepressiva sich für eine Langzeitbehandlung eignen - Geo.de",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWM1T08xdTFWT1hrSHc0cW9JMUJQRldlMm5hSU4zVXBleG51dWV5NmxOZ3AtQlF6U3BsenZXaDFXQzlPLWlnSl9qSHB6NWhyZU03VWxnbWh0ZGxvVlg0Qm1IV3JFaTVWMUl3REQtWVJfYUJZMFh0QzJsOTdFaWlFQTR5ckF2YklXOW9vWkNINVViVVFyM1JGejY0VVZESUdYRkFzOEFGRGRwWjRGaGJsdW5fcmtJREREa3djQWNpb19uSzhtWDY4T3EyUQ?oc=5",
       "published": "2026-11-12T15:18:00+00:00",
       "source": {
-        "name": "geo.de",
+        "name": "Geo.de",
         "url": "https://www.geo.de"
       }
     },
@@ -34,16 +44,6 @@
       }
     },
     {
-      "id": "7a4f754e7223",
-      "title": "Eine alte Heilpflanze ist wieder gefragt - St. Gallen 24",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVZOc2tuUWctM0Q1VkVHWDhBVWUwa3ctZ2ZBMVBFQVNMLUZUMERRcTA2elA3b2MxZ21CSnJRa2hsTmtKTFZ1VVhHaU9nOWFUX19ud3pYdnFEWFJPbVJhR2tuVF9ack9rSFBRT1NTMld6U0JrVy1EY25pbXhDS0lEYWI0Z1E?oc=5",
-      "published": "2026-11-11T15:49:00+00:00",
-      "source": {
-        "name": "St. Gallen 24",
-        "url": "https://stgallen24.ch"
-      }
-    },
-    {
       "id": "9ad052dff399",
       "title": "Unverzichtbar und wichtig: Das darf in der Hausapotheke nicht fehlen - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcGt1YXBKS2J5UUtpVDRBNElvQzBOYzdKYTM0MTJaaWFLZFFiWF82RlN2blVpQ3k3Y0tVaW9kYkMtZTRjQ0h0S0lSallpaFNrV0V4Nm5Da053MTZ4NVZ6ZzZ2SHpwOVA5cGVMSWxub1RFeGpEam0wSktTS2RkdjJ3N0Jtd3llZUZ4bXFvc3hTT3BDbHh6ektnRmZiVHhHcENsdmJ4aGsyMGI1Ylprb2k1NE1uTEY3bFRHYWczYVY4dVJ0eEpKOWQxcDJuVQ?oc=5",
@@ -51,16 +51,6 @@
       "source": {
         "name": "Berliner Morgenpost",
         "url": "https://www.morgenpost.de"
-      }
-    },
-    {
-      "id": "17ac0f61b8e2",
-      "title": "Wichtiges Medikamente-Urteil: Änderung in Apotheken – diese verlieren Spielraum - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFRBSzR6WklJV3B4NUQtaXBTOUlDWXpxSnN3dzQzM0lpNF9QcHdjRDhTaEdNSm0ySV93YVdnemVOSjJNWjA3U3ZiYkQ4SUdIQ3VBUURhdFZ6aGpaY0w2N2hhS0hkdGx6Um9FZTFObWJzZ3JyOVBqTU9KZ2w3YTlsWDQtamxEWXRvclJSZDlzVGdfN3FaUWZpUkt6MHY3NWVWelFTWjFKVTFuNkE1NzhwaDE2ZzNUSVR2NHBuQ3pjUkRUdw?oc=5",
-      "published": "2026-11-15T02:28:00+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
       }
     },
     {
@@ -74,6 +64,16 @@
       }
     },
     {
+      "id": "17ac0f61b8e2",
+      "title": "Wichtiges Medikamente-Urteil: Änderung in Apotheken – diese verlieren Spielraum - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFRBSzR6WklJV3B4NUQtaXBTOUlDWXpxSnN3dzQzM0lpNF9QcHdjRDhTaEdNSm0ySV93YVdnemVOSjJNWjA3U3ZiYkQ4SUdIQ3VBUURhdFZ6aGpaY0w2N2hhS0hkdGx6Um9FZTFObWJzZ3JyOVBqTU9KZ2w3YTlsWDQtamxEWXRvclJSZDlzVGdfN3FaUWZpUkt6MHY3NWVWelFTWjFKVTFuNkE1NzhwaDE2ZzNUSVR2NHBuQ3pjUkRUdw?oc=5",
+      "published": "2026-11-15T02:28:00+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
+    {
       "id": "eb1edc172299",
       "title": "Seltene Augenschäden durch Abnehmspritzen? Das steckt dahinter - RND.de",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNek1Nakc4cUl3Uk9lcVZQU0t2eUhMVFZwWU5vOWl2b0RhVEtGM0J4cGZpYk5QV294V3NXNHJKdmVRTkJjSFBoTGVUVmg2Q0JYNmljbFZvY1hSLV9iM0MwYzhUOGNNTXZuS1V2QUZvQUhJTzJVWmtBOVh1c0VzMDd6Rk1YN1h1RXI1WTdaeG1nTkNmNDh1aEpGQkE5c3kwblZ0ZFljb0lBMjRGdlhGTXNqdGY2N0I0Wmd4TkdPd0RoY05abjdtbWdZMy1nUzRsSTFlSG9YdlpjOWo5eWVWR3luME1DTW5lVGs2WnNoanpUdjE5dw?oc=5",
@@ -84,23 +84,13 @@
       }
     },
     {
-      "id": "304dfe385abf",
-      "title": "Lipoprotein(a): Neues Medikament senkt Wert um 75 Prozent – doch Patienten hatten nichts davon - SZ.de",
+      "id": "320a3581baf5",
+      "title": "Lipoprotein (a): Neues Medikament senkt Wert um 75 Prozent – doch Patienten hatten nichts davon - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2d4alNJTHVkWmY5azlhZzYxTGpWUXRHVFdVb2Z1ajhGVjk5aE81VGtkVFh6SWs2YS1lVzZrWGI5SUpCRnQ5Zk1vNURIaElsMkpJTzFIdlpxcDBoOGc5UXJMWU1FbzdzSEJmVGNPYmZBZ1l6Q0x0MHpCYktkQ0tiQjVHQVlmZjFuZXdZc1Q2eTNtX1IxdjRMSFYyXzZLUkhxVEl4U3RfeVpaWTk0UFBYaXBCVGhmUHRqMlBkTHpJTkNoNi1vN0xJ?oc=5",
       "published": "2026-11-12T12:12:09+00:00",
       "source": {
         "name": "SZ.de",
         "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
-      "id": "4196c0c6a41c",
-      "title": "Alexandru Rogobete: „Der Arzneimittelmarkt in Rumänien wird zunehmend von den großen Apothekenketten kontrolliert“ - Informat.ro",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVVuSDViNV93emJkOWtEZHN2Qm9hUHJkaWtBampoRzN5amNFMVh6VGpfM21OQXh2M0dlczA2XzNMejRyRmpjRXlTT0ttWHRjcmlobUNIVXZIZWV2ZU4ydDR5MHlBMFA3cm03SVZSakhvRlJkeUF1Nlprc3VVSTFDNDNYVmNhZVFCWkJoLVhVeWtiWWJpN2pOWDZka2tRVFlpTlRYMVV3MlhxZmNodmFiRG93?oc=5",
-      "published": "2026-11-15T12:43:39+00:00",
-      "source": {
-        "name": "Informat.ro",
-        "url": "https://informat.ro"
       }
     },
     {
@@ -114,26 +104,6 @@
       }
     },
     {
-      "id": "8c241dbc3ada",
-      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "66789a4b70b0",
-      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
-      }
-    },
-    {
       "id": "da9244502f14",
       "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
@@ -144,6 +114,26 @@
       }
     },
     {
+      "id": "8c241dbc3ada",
+      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "4196c0c6a41c",
+      "title": "Alexandru Rogobete: „Der Arzneimittelmarkt in Rumänien wird zunehmend von den großen Apothekenketten kontrolliert“ - Informat.ro",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVVuSDViNV93emJkOWtEZHN2Qm9hUHJkaWtBampoRzN5amNFMVh6VGpfM21OQXh2M0dlczA2XzNMejRyRmpjRXlTT0ttWHRjcmlobUNIVXZIZWV2ZU4ydDR5MHlBMFA3cm03SVZSakhvRlJkeUF1Nlprc3VVSTFDNDNYVmNhZVFCWkJoLVhVeWtiWWJpN2pOWDZka2tRVFlpTlRYMVV3MlhxZmNodmFiRG93?oc=5",
+      "published": "2026-11-15T12:43:39+00:00",
+      "source": {
+        "name": "Informat.ro",
+        "url": "https://informat.ro"
+      }
+    },
+    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -151,6 +141,16 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
+      "id": "66789a4b70b0",
+      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
       }
     },
     {
@@ -184,13 +184,13 @@
       }
     },
     {
-      "id": "70af69c4ae95",
-      "title": "Herausforderungen durch MFN müssen mit Blick auf die Auswirkungen auf die Versorgung eingeordnet werden - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UFNGeWlGUFJxUFJPaUNUUGZXREJXZFZvYXViU2dDVUZtcHNPcHBkWmE4VEZBSnFyX1pZd2szZUVwYXhBZmpOZmlVV29pZlVsVG1ERFdMMA?oc=5",
-      "published": "2026-11-12T15:34:43+00:00",
+      "id": "dcaad85fadfe",
+      "title": "Wer im Alter mehr Schritte macht, hat offenbar geringere Gesundheitskosten - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0s2TFF2VDhfT0tqNGJlclJXc3pUd0FWQW9qQW9CQ0lvY0IyYkJzZDdzbFZITVJyT3lHSGVTZFdqYkdfMFFWN08ycDhaQ2tUNk5ZOTZLVzhiYjZpbG13VWtVNzQ3U3ZFUFhJX1pPOWJ2OENyWEN3WGV4NUtOMHNhcnNNYlZ2R0l3bjNkenptZWE1bk1KOTNRQnFIREZOdm1rY1JVQjZvd1FDUHg5aWc?oc=5",
+      "published": "2026-11-06T08:00:00+00:00",
       "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -214,16 +214,6 @@
       }
     },
     {
-      "id": "9229b6f33d40",
-      "title": "Überteuerte Medikamente: Was läuft in Kärntens Ordensspitälern? - Kleine Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVQwZHV4NE1KMi0yeFQ5cWNGMldMcnhtLWhHNVZLSFdzZVBrN2JibEtXa1kzYm5NX2JBQkU2NXNBR1REVG5jSXpLX1Y2VHZWendXVXM0em04amZoU0UtR2FwZGJNSGx6UEV3amV4djVLX0lfYnZib2RGZ0ZPMURUUllSYloxWEYyWWpDdHBwdGFJM043N1ZYTXZNRDVPaGZhbDF0OUl6RVNOLUNlbFBPRg?oc=5",
-      "published": "2026-11-12T13:16:18+00:00",
-      "source": {
-        "name": "Kleine Zeitung",
-        "url": "https://www.kleinezeitung.at"
-      }
-    },
-    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -234,13 +224,23 @@
       }
     },
     {
-      "id": "84689a54bc6c",
-      "title": "Länder prüfen Vorwürfe gegen Träger von Spitälern - GMX.AT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmhCT1RBcmduSDBnVy1US3FmVnREV1U1V0VVNzRUSXBqczNCSGNzX3RKWWlJVXN0U2xrZE5pb3lPUkdBMnUtYzdjVWo2RWl0T3k4VzJxSWpZRm9ia3ZOWV9CV3hIUE0zcF9wamFWT3d0dmJPMW0wUUZQTHdXZ0ZiUEc3UDB3VzNfTEw4RTNSajVQZGpjbExuRUlPZkE5aE5wVjQzSkkwTzA?oc=5",
-      "published": "2026-11-12T18:42:23+00:00",
+      "id": "9229b6f33d40",
+      "title": "Überteuerte Medikamente: Was läuft in Kärntens Ordensspitälern? - Kleine Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVQwZHV4NE1KMi0yeFQ5cWNGMldMcnhtLWhHNVZLSFdzZVBrN2JibEtXa1kzYm5NX2JBQkU2NXNBR1REVG5jSXpLX1Y2VHZWendXVXM0em04amZoU0UtR2FwZGJNSGx6UEV3amV4djVLX0lfYnZib2RGZ0ZPMURUUllSYloxWEYyWWpDdHBwdGFJM043N1ZYTXZNRDVPaGZhbDF0OUl6RVNOLUNlbFBPRg?oc=5",
+      "published": "2026-11-12T13:16:18+00:00",
       "source": {
-        "name": "GMX.AT",
-        "url": "https://www.gmx.at"
+        "name": "Kleine Zeitung",
+        "url": "https://www.kleinezeitung.at"
+      }
+    },
+    {
+      "id": "a637bbef7569",
+      "title": "Jeder Euro für Impfungen zahlt sich vielfach aus - Presseportal",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKa0w1NEZ5SXY2dEtGQmstRUpqRzZKQ2t3WjNjNm84NkR1R2NhUEVfYXFDVmdqWDB6X0hfaDZkRU5jYTNmV1FfeU5qQ2J4b1pXcGUwcFd3WQ?oc=5",
+      "published": "2026-11-10T15:37:49+00:00",
+      "source": {
+        "name": "Presseportal",
+        "url": "https://www.presseportal.de"
       }
     },
     {
@@ -314,23 +314,13 @@
       }
     },
     {
-      "id": "776533002a5a",
-      "title": "NRW: Gesundheitsausgaben 2024 mit 119 Milliarden Euro auf höchstem Stand seit 10 Jahren - IT.NRW",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1RKanJKR3hlZU5kcTFqMl9sRFNtdjBhamJRbWJOT3ZHSU5KU09SY2RmNGR5SzBiSGdJcTBBb3RrdTdJVUIwS0RqYi1vSzlaemhBS1ZRaVptN2VQdGVLSmRjczM1bjNncEdhckN2NjZSTGxNN1pWVWJFZm1JbmU2WHdpT0M5QXFJaXc?oc=5",
-      "published": "2026-11-12T09:07:59+00:00",
+      "id": "a1cec6d3f4c0",
+      "title": "Gesundheit - Das sind die teuersten Medikamente der Schweiz - SRF",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzRjNGcwUkRhUURBZTBXREVobDljWlI3VEJYall6NlpQbkxOcDNNa0lGS1B6TXNMUFNaRnRtZjdSYmVqSHB6bF9pRTUyWlNZRUxoNnhsOTZSejZwTlQwLW83bEd6akZJeG93ODBXeXZEY1ljRnZTRXh3OGlnY2pjWWtoVV92R2xON0FKbDVOeHN2YlJNTHpZZnRxUzFzTy1rLVJBWDJUb1JhT0k?oc=5",
+      "published": "2016-04-05T07:00:00+00:00",
       "source": {
-        "name": "IT.NRW",
-        "url": "https://www.it.nrw"
-      }
-    },
-    {
-      "id": "c438dd072741",
-      "title": "Ermittlungen zu Medikamentenpreisen laufen - ooe.ORF.at",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rRVNoVFdYSHJGTklfOTlzN1Q4QXpJX3N1WUFlQVdFR0Q0eFQxZW83bEtwWWgzbGJmd1o0UlhzcmhIQ2thTFVVdjJEWQ?oc=5",
-      "published": "2026-11-12T11:54:05+00:00",
-      "source": {
-        "name": "ooe.ORF.at",
-        "url": "https://ooe.orf.at"
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
