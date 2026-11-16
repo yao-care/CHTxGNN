@@ -1,34 +1,107 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: IBUPROFENUM
+title: Ibuprofenum
+parent: Nur Modellvorhersage (L5)
+nav_order: 301
+evidence_level: L5
+indication_count: 7
 drugbank_id: DB01050
-permalink: /drugs/ibuprofenum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Ibuprofen"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-11-16
+description: "Ibuprofenum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5). Ursprüngliche Indikation: Analgetikum"
 ---
 
-# IBUPROFENUM
+# Ibuprofenum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Ibuprofenum: Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Ibuprofen ist ein entzündungshemmendes und schmerzlinderndes Arzneimittel, das in der Schweiz in mehreren Präparaten im Handel ist. Das Rechenmodell TxGNN sagt eine mögliche Wirksamkeit bei der akromesomelen Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) voraus. Diese Vorhersage beruht allein auf dem Modell: Es liegen weder klinische Studien noch Publikationen vor (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Analgetikum; Antirheumatikum, Antiphlogistikum; Antiphlogistikum, Analgetikum, Antipyretikum |
+| Vorhergesagte neue Indikation | Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN-Vorhersagewert | 0.9974 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | mindestens 9 |
-| DrugBank ID | [DB01050](https://go.drugbank.com/drugs/DB01050) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Ibuprofen hemmt als nichtselektiver Hemmer die Enzyme COX-1 und COX-2 und senkt dadurch die Bildung von Prostaglandinen. Das erklärt die entzündungshemmende, schmerzlindernde und fiebersenkende Wirkung. Die Wirkmechanismus-Angabe fehlt in den für diesen Bericht zusammengestellten Daten; die Beschreibung stützt sich auf die allgemein bekannte Pharmakologie.
+
+Die akromesomele Dysplasie Typ Hunter-Thompson ist eine seltene Skeletterkrankung. Sie entsteht durch Funktionsverlust-Varianten im Gen *CDMP1/GDF5*, was die BMP-Signalwege und die Knorpelbildung der Gliedmassen stört. Die Hemmung von Prostaglandinen greift diesen genetischen Defekt nicht an.
+
+Ein glaubwürdiger Wirkmechanismus-Zusammenhang ist daher nicht erkennbar. Der hohe Vorhersagewert ist ein reines Modellergebnis. Höchstens käme Ibuprofen zur symptomatischen Schmerzlinderung in Betracht; das wäre aber keine Umwidmung.
+
+---
+
+### Marktinformationen Schweiz
+
+Mindestens 9 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 67274 | SUN STORE Ibuprofen 400, Filmtabletten | Synthetika | Analgetikum |
+| 67991 | Ibu Zentiva 200 mg, Filmtabletten | Synthetika | Antirheumatikum, Antiphlogistikum |
+| 67940 | Ibuprofen Viatris 200 mg, Filmtabletten | Synthetika | Antirheumatikum, Antiphlogistikum |
+| 67942 | Ibuprofen Viatris, Brausegranulat | Synthetika | Antirheumatikum, Antiphlogistikum |
+| 66903 | Optifen Junior, Suspension zum Einnehmen | Synthetika | Antiphlogistikum, Analgetikum, Antipyretikum |
+| 69416 | Afelor Lysinat 200 mg, Filmtabletten | Synthetika | Analgetikum |
+| 66932 | Irfen Dolo Junior 100 mg / 5 ml, Suspension | Synthetika | Antiphlogistikum, Analgetikum, Antipyretikum |
+| 66147 | Dismenol Formel L forte, Filmtabletten | Synthetika | Analgetikum |
+| 49669 | Brufen, Brausegranulat | Synthetika | Antirheumatikum, Antiphlogistikum |
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich ausschliesslich auf den Modellwert. Es gibt keine klinischen Studien, keine Literatur und keinen plausiblen Wirkmechanismus für die Grunderkrankung.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Präklinische oder mechanistische Daten, die einen Zusammenhang zwischen Prostaglandin-Hemmung und dem GDF5/BMP-Signalweg belegen
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation sowie die Angaben zum Wirkmechanismus (DrugBank)
+- Eine Prüfung, ob es überhaupt einen klinischen Nutzen über die reine Symptomlinderung hinaus gibt
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

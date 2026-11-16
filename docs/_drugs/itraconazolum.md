@@ -1,34 +1,123 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: ITRACONAZOLUM
+title: Itraconazolum
+parent: Nur Modellvorhersage (L5)
+nav_order: 325
+evidence_level: L5
+indication_count: 1
 drugbank_id: DB01167
-permalink: /drugs/itraconazolum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Itraconazole"
+predicted_indications: ["pneumocystosis"]
+last_modified_at: 2026-11-16
+description: "Itraconazolum: vorhergesagte neue Indikation Pneumozystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 ---
 
-# ITRACONAZOLUM
+# Itraconazolum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Itraconazolum: Pneumozystose (pneumocystosis)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Itraconazol ist ein Antimykotikum, das in der Schweiz in mehreren Kapselpräparaten im Handel ist. Für die Pneumozystose (pneumocystosis) liefert das Modell einen hohen Vorhersagewert, doch die vorliegende Evidenz ist sehr dünn: Es gibt keine registrierten klinischen Studien und keine Publikation, die Itraconazol direkt bei dieser Erkrankung untersucht. Der Mechanismus spricht eher gegen eine Wirksamkeit, daher ist die Vorhersage als rein modellbasiert (L5) einzustufen.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Antimykotikum; Vulvovaginalcandiosis |
+| Vorhergesagte neue Indikation | Pneumozystose (pneumocystosis) |
+| TxGNN-Vorhersagewert | 0.9934 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
 | Anzahl Zulassungen | 7 (gültig: 7) |
-| DrugBank ID | [DB01167](https://go.drugbank.com/drugs/DB01167) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Itraconazol hemmt das Pilzenzym Lanosterol-14-alpha-Demethylase (CYP51) und blockiert damit die Ergosterol-Synthese. Die Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten; die Beschreibung beruht auf allgemeinem Wissen über Azol-Antimykotika.
+
+Bei näherer Betrachtung ist die Plausibilität gering. Pneumocystis jirovecii enthält in der Zellmembran kein Ergosterol, sondern vor allem Cholesterol und verwandte Sterole. Der Azol-Mechanismus ist daher gegen diesen Erreger nicht zu erwarten. Eine Arbeit zur Lanosterol-14-alpha-Demethylase von Pneumocystis carinii (2003) beschreibt zudem eine natürliche Resistenz gegenüber Azolen.
+
+Der hohe Vorhersagewert spiegelt wahrscheinlich Zusammenhänge mit anderen opportunistischen Pilzinfektionen (z. B. Histoplasmose) und mit Prophylaxe-Situationen (Transplantation, HIV, Neutropenie) wider, nicht einen belegten Wirkmechanismus. Standardtherapie und -prophylaxe ist Trimethoprim-Sulfamethoxazol; Alternativen sind Atovaquon, Pentamidin, Dapson und Primaquin-Clindamycin. Itraconazol gehört nicht dazu.
+
+---
+
+### Literaturbelege
+
+Keine der Publikationen untersucht Itraconazol direkt bei Pneumozystose. Die Auswahl zeigt die relevantesten Arbeiten.
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [12606318](https://pubmed.ncbi.nlm.nih.gov/12606318/) | 2003 | Mechanismusstudie | American Journal of Respiratory Cell and Molecular Biology | Das Azol-Zielenzym Erg11 von Pneumocystis carinii wurde kloniert; der Erreger ist von Natur aus gegen Azole resistent. |
+| [7859871](https://pubmed.ncbi.nlm.nih.gov/7859871/) | 1995 | Kohorte | European Journal of Haematology | 24 Patienten mit akuter myeloischer Leukämie erhielten ambulant Ciprofloxacin, Cotrimoxazol und Itraconazol als Begleittherapie; Itraconazol-Effekt auf Pneumocystis nicht separat untersucht. |
+| [26036497](https://pubmed.ncbi.nlm.nih.gov/26036497/) | 2015 | Kohorte | Transplantation Proceedings | Erfahrungen eines Zentrums mit invasiven Pilzinfektionen nach Nierentransplantation. |
+| [22273250](https://pubmed.ncbi.nlm.nih.gov/22273250/) | 2012 | Retrospektive Studie | Leukemia & Lymphoma | Nichtbakterielle Infektionen bei 182 Patienten unter Alemtuzumab. |
+| [15250025](https://pubmed.ncbi.nlm.nih.gov/15250025/) | 2004 | Übersicht | Clinical Infectious Diseases | Antimikrobielle Prophylaxe bei febriler Neutropenie; Trimethoprim-Sulfamethoxazol schützt wirksam vor Pneumocystis-Pneumonie. |
+| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Übersicht | BMJ Clinical Evidence | Primär- und Sekundärprophylaxe opportunistischer Infektionen bei HIV. |
+| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Übersicht | Drugs | Therapie und Prophylaxe systemischer Protozoeninfektionen, u. a. Pneumocystis carinii. |
+| [8016481](https://pubmed.ncbi.nlm.nih.gov/8016481/) | 1993 | Übersicht | Seminars in Respiratory Infections | Infektionen nach Lungentransplantation. |
+| [29374650](https://pubmed.ncbi.nlm.nih.gov/29374650/) | 2018 | Fallbericht | BMJ Case Reports | Gleichzeitige Pneumocystis-Pneumonie und Histoplasmose bei einem HIV-Patienten. |
+| [14760976](https://pubmed.ncbi.nlm.nih.gov/14760976/) | 2003 | Fallbericht | International Journal of Medical Microbiology | Chronische granulomatöse Lungeninfektion durch Emmonsia sp., zunächst als Pneumocystis-Pneumonie gedeutet. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 60137 | Itraconazol axapharm, Kapseln | Synthetika | Antimykotikum |
+| 49610 | Sporanox, Kapseln | Synthetika | Antimykotikum |
+| 57493 | Itraconazol Spirig HC, Kapseln | Synthetika | Antimykotikum |
+| 57544 | Itracim, Kapseln | Synthetika | Antimykotikum |
+| 53630 | Sporanox G, Kapseln | Synthetika | Vulvovaginalkandidose |
+| 59319 | Itraconazol Sandoz eco 100 mg, Kapseln | Synthetika | Antimykotikum |
+| 57368 | Itraconazol-Mepha 100, Kapseln | Synthetika | Antimykotikum |
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Der hohe Vorhersagewert (0,9934) wird weder durch Studien noch durch den Wirkmechanismus gestützt; Pneumocystis besitzt kein Ergosterol und gilt als azolresistent.
+- Mit Trimethoprim-Sulfamethoxazol und weiteren Alternativen stehen etablierte Behandlungen zur Verfügung.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Direkte präklinische oder klinische Daten zu Itraconazol bei Pneumozystose
+- Eine Fachinformation mit Warnhinweisen und Kontraindikationen für die Sicherheitsbewertung (derzeit nicht verfügbar)
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

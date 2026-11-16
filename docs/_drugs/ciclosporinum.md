@@ -1,34 +1,112 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: CICLOSPORINUM
+title: Ciclosporinum
+parent: Nur Modellvorhersage (L5)
+nav_order: 140
+evidence_level: L5
+indication_count: 7
 drugbank_id: DB00091
-permalink: /drugs/ciclosporinum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Cyclosporine"
+predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
+last_modified_at: 2026-11-16
+description: "Ciclosporinum: vorhergesagte neue Indikation chronische Granulomatose, autosomal-rezessiv (granulomatous disease, chronic, autosomal recessive) (Evidenzstufe L5)."
 ---
 
-# CICLOSPORINUM
+# Ciclosporinum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Ciclosporinum: chronische Granulomatose, autosomal-rezessiv (granulomatous disease, chronic, autosomal recessive)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Ciclosporin ist ein in der Schweiz im Handel befindliches Immunsuppressivum. Die vorhergesagte neue Indikation ist die chronische Granulomatose, autosomal-rezessiv (granulomatous disease, chronic, autosomal recessive). Die Evidenz ist sehr dünn: Es liegt nur eine Kohortenpublikation zur Stammzelltransplantation vor, die Ciclosporin nicht als eigenständige Therapie untersucht.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | traitement de la kératoconjonctivite vernale sévère (VKC) chez les enfants à partir de 4 ans et les adolescents; Immunsuppressivum; Kératoconjonctivite sèche chez les patients adultes présentant une sécheresse oculaire modérée à sévère qui ne s’améliore pas malgré l’utilisation de substituts lacryma |
+| Vorhergesagte neue Indikation | chronische Granulomatose, autosomal-rezessiv (granulomatous disease, chronic, autosomal recessive) |
+| TxGNN-Vorhersagewert | 0.9968 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
 | Anzahl Zulassungen | 6 (gültig: 6) |
-| DrugBank ID | [DB00091](https://go.drugbank.com/drugs/DB00091) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Ciclosporin die Calcineurin-Aktivität hemmt und dadurch die Aktivierung von T-Zellen unterdrückt. Es wird häufig zur Vorbeugung der Graft-versus-Host-Erkrankung (GVHD) nach allogener Stammzelltransplantation eingesetzt.
+
+Die chronische Granulomatose beruht auf einem Defekt der NADPH-Oxidase in Fresszellen. Die einzige gefundene Publikation berichtet über gute Überlebensraten nach Stammzelltransplantation von Geschwister- oder Fremdspendern. Ciclosporin dürfte dort lediglich als unterstützender Bestandteil der GVHD-Prophylaxe dienen. Der Nutzen ist der Transplantation zuzuschreiben, nicht dem Ciclosporin als krankheitsmodifizierender Substanz. Der Zusammenhang ist daher indirekt.
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Kohortenstudie | The Journal of Allergy and Clinical Immunology | Sehr gutes Überleben nach Stammzelltransplantation bei chronischer Granulomatose mit Geschwister- oder Fremdspender. Ciclosporin wird nicht als eigene Therapie untersucht. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 67535 | Verkazia, Augentropfen Emulsion | Synthetika | Schwere vernale Keratokonjunktivitis (VKC) bei Kindern ab 4 Jahren und Jugendlichen |
+| 52657 | Sandimmun Neoral, Trinklösung | Biotechnologika | Immunsuppressivum |
+| 70245 | Vevizye 1 mg/ml, Augentropfen (Lösung) | Synthetika | Keratoconjunctivitis sicca bei Erwachsenen mit mässig bis schwerem trockenem Auge, das sich trotz Tränenersatzmitteln nicht bessert |
+| 44915 | Sandimmun, Infusionskonzentrat | Biotechnologika | Immunsuppressivum |
+| 52656 | Sandimmun Neoral 25 mg, Kapseln | Biotechnologika | Immunsuppressivum |
+| 66093 | Ikervis, 1 mg/ml Augentropfen (Emulsion, Einzeldosen) | Synthetika | Keratitis |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Es gibt keine klinische Studie und keine Publikation, die Ciclosporin direkt bei chronischer Granulomatose untersucht. Der Vorhersagewert ist ein reines Modellergebnis, und der Zusammenhang über die Transplantation ist indirekt.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Daten zum Wirkmechanismus und zur Sicherheit aus der Fachinformation (Warnhinweise, Kontraindikationen)
+- Studien, die Ciclosporin direkt bei chronischer Granulomatose untersuchen, oder eine Analyse, ob Ciclosporin über die GVHD-Prophylaxe hinaus einen Beitrag leistet
+- Eine Prüfung der Anwendbarkeit der in der Schweiz zugelassenen Darreichungsformen (Augentropfen, Kapseln, Trinklösung, Infusion) für diese Indikation
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

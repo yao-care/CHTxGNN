@@ -19,22 +19,22 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 
 | Element | Anzahl |
 |------|------|
-| **Arzneimittelberichte** | 100 |
+| **Arzneimittelberichte** | 634 |
 | **Gesamtvorhersagen** | 20,463,352 |
 | **Einzigartige Arzneimittel** | 1,000 |
 | **Einzigartige Indikationen** | 17,041 |
 | **DDI-Daten** | 160,235 |
-| **FHIR-Ressourcen** | 94 MK / 523 CUD |
+| **FHIR-Ressourcen** | 628 MK / 4,769 CUD |
 
 ### Verteilung der Evidenzstufen
 
 | Evidenzstufe | Berichtsanzahl | Beschreibung |
 |---------|-------|------|
-| **L1** | 0 | Mehrere Phase-3-RCTs |
-| **L2** | 0 | Einzelne RCT oder mehrere Phase-2-Studien |
-| **L3** | 3 | Beobachtungsstudien |
-| **L4** | 8 | Praeklinische / mechanistische Studien |
-| **L5** | 87 | Nur computationale Vorhersage |
+| **L1** | 9 | Mehrere Phase-3-RCTs |
+| **L2** | 11 | Einzelne RCT oder mehrere Phase-2-Studien |
+| **L3** | 23 | Beobachtungsstudien |
+| **L4** | 17 | Praeklinische / mechanistische Studien |
+| **L5** | 572 | Nur computationale Vorhersage |
 | **N/A** | 2 | Nur bekannte Anwendungen (keine neuen Vorhersagen) |
 
 ### Nach Quelle

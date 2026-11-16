@@ -1,34 +1,116 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: LITHIUM
+title: Lithium
+parent: Nur Modellvorhersage (L5)
+nav_order: 357
+evidence_level: L5
+indication_count: 1
 drugbank_id: DB14507
-permalink: /drugs/lithium/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Lithium citrate"
+predicted_indications: ["Malan overgrowth syndrome"]
+last_modified_at: 2026-11-16
+description: "Lithium: vorhergesagte neue Indikation Malan-Überwuchssyndrom (Malan overgrowth syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Messung des Herzzeitvolumens mit dem LiDCOplus System"
 ---
 
-# LITHIUM
+# Lithium
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Lithium: Malan-Überwuchssyndrom (Malan overgrowth syndrome)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Lithium ist in der Schweiz in mehreren Präparaten im Handel. Für das Malan-Überwuchssyndrom (Malan overgrowth syndrome) liegt ein hoher TxGNN-Vorhersagewert vor. Dieser beruht allein auf einer Modellberechnung: Es gibt weder klinische Studien noch Publikationen, die Lithium bei dieser Erkrankung untersuchen. Die Evidenz ist daher sehr schwach (Niveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Messung des Herzzeitvolumens mit dem LiDCOplus System; Manisch-depressive Episoden; manisch depressive Zustände; Etats maniaco-dépressifs |
+| Vorhergesagte neue Indikation | Malan-Überwuchssyndrom (Malan overgrowth syndrome) |
+| TxGNN-Vorhersagewert | 0.9907 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
-| DrugBank ID | [DB14507](https://go.drugbank.com/drugs/DB14507) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Der Wirkmechanismus von Lithium ist in den für diesen Bericht zusammengestellten Daten nicht erfasst. Aus allgemeinem pharmakologischem Wissen ist bekannt, dass Lithium das Enzym GSK-3beta hemmt und den Wnt/beta-Catenin-Signalweg beeinflusst.
+
+Das Malan-Syndrom entsteht durch eine Haploinsuffizienz des Gens NFIX. NFIX ist ein Transkriptionsfaktor, der an der Nervenentwicklung sowie an der Steuerung von Zellwachstum und Zelldifferenzierung beteiligt ist. Theoretisch könnte Lithium über die genannten Signalwege Entwicklungsprozesse beeinflussen, die mit NFIX zusammenhängen.
+
+Dieser Zusammenhang ist rein spekulativ. Keine der vorliegenden Daten verbindet Lithium mechanistisch oder klinisch mit NFIX oder dem Malan-Syndrom. Der hohe Vorhersagewert ist eine Rechenvorhersage und ersetzt keine klinische Evidenz.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+Es sind 4 Zulassungen erfasst, alle gültig.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 57447 | LiDCO Lithiumchlorid 0.15 mmol/ml, Injektionslösung | Synthetika | Messung des Herzzeitvolumens mit dem LiDCOplus System |
+| 35960 | Quilonorm retard, Filmtabletten | Synthetika | Manisch-depressive Episoden |
+| 35380 | Priadel retard, Tabletten | Synthetika | Manisch-depressive Zustände |
+| 38061 | Lithiofor, Retardtabletten | Synthetika | Manisch-depressive Zustände |
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell. Es gibt keine Studien, keine Literatur und keine belegte mechanistische Verbindung zwischen Lithium und dem Malan-Überwuchssyndrom.
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen bisher. Eine Sicherheitsbewertung ist daher nicht möglich.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Download und Auswertung des PDF).
+- Der gesicherte Wirkmechanismus von Lithium, z. B. aus DrugBank.
+- Präklinische Daten oder Mechanismusstudien, die einen Zusammenhang zwischen Lithium und NFIX bzw. dem Malan-Syndrom belegen.
+- Prüfung der Anwendungswege (Darreichungsformen) für die neue Indikation.
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

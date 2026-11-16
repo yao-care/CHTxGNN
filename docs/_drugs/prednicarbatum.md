@@ -1,33 +1,107 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: PREDNICARBATUM
+title: Prednicarbatum
+parent: Nur Modellvorhersage (L5)
+nav_order: 485
+evidence_level: L5
+indication_count: 7
 drugbank_id: DB01130
-permalink: /drugs/prednicarbatum/
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Prednicarbate"
+predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
+last_modified_at: 2026-11-16
+description: "Prednicarbatum: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5)."
 ---
 
-# PREDNICARBATUM
+# Prednicarbatum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Prednicarbatum: Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Prednicarbat ist ein topisches Kortikosteroid, das in der Schweiz in mehreren Hautpräparaten im Handel ist. Laut den vorliegenden Daten wird für die vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) eine mögliche Wirksamkeit vorhergesagt. Diese Vorhersage beruht allein auf einem Computermodell; es liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung direkt untersuchen.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Nicht infizierte entzündliche Dermatosen; Nicht infizierte entzündliche Dermatose |
+| Vorhergesagte neue Indikation | Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) |
+| TxGNN-Vorhersagewert | 0.9988 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
-| DrugBank ID | [DB01130](https://go.drugbank.com/drugs/DB01130) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Prednicarbat ist ein topisches Kortikosteroid mittlerer Wirkstärke mit entzündungshemmender, immunsuppressiver und das Zellwachstum hemmender Wirkung. Angaben zum Wirkmechanismus liegen in den Daten nicht vor; die Einordnung beruht auf dem allgemeinen Wissen über diese Wirkstoffklasse.
+
+Theoretisch könnte ein solcher Wirkstoff eine entzündliche oder wachsende, gutartige Veränderung der Vulva dämpfen. Die invertierte follikuläre Keratose ist jedoch meist eine gutartige Läsion, die in der Regel operativ entfernt wird. Es gibt keine klinischen oder mechanistischen Daten, die sie mit diesem Wirkstoff verbinden.
+
+Der hohe Vorhersagewert ist eine reine Modellberechnung. Er dürfte vor allem darauf beruhen, dass der Wirkstoff generell mit Hauterkrankungen in Verbindung steht.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 60153 | Prednicutan, Creme | Synthetika | Nicht infizierte entzündliche Dermatosen |
+| 60151 | Prednicutan, Salbe | Synthetika | Nicht infizierte entzündliche Dermatosen |
+| 60152 | Prednicutan, Fettsalbe | Synthetika | Nicht infizierte entzündliche Dermatosen |
+| 62322 | Prednicutan Crinale, Lösung | Synthetika | Nicht infizierte entzündliche Dermatose |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich ausschliesslich auf ein Modell (Evidenzniveau L5). Es gibt keine Studien oder Literatur zu dieser Erkrankung, und die Läsion wird üblicherweise operativ behandelt.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Daten zum Wirkmechanismus des Arzneimittels
+- Auswertung der Sicherheitsinformationen aus der Swissmedic-Fachinformation (Warnungen und Kontraindikationen)
+- Publikationen oder Fallberichte, die Prednicarbat bei dieser Erkrankung untersuchen
+- Prüfung, ob eine topische Behandlung gegenüber der Standardtherapie (Entfernung der Läsion) einen Nutzen bringt
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

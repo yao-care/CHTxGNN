@@ -1,34 +1,118 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: LISDEXAMFETAMINI DIMESILAS
+title: Lisdexamfetamini Dimesilas
+parent: Nur Modellvorhersage (L5)
+nav_order: 355
+evidence_level: L5
+indication_count: 9
 drugbank_id: DB01255
-permalink: /drugs/lisdexamfetamini_dimesilas/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Lisdexamfetamine"
+predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy"]
+last_modified_at: 2026-11-16
+description: "Lisdexamfetamini Dimesilas: vorhergesagte neue Indikation Spezifische Entwicklungsstörung (specific developmental disorder) (Evidenzstufe L5)."
 ---
 
-# LISDEXAMFETAMINI DIMESILAS
+# Lisdexamfetamini Dimesilas
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Lisdexamfetamini Dimesilas: Spezifische Entwicklungsstörung (specific developmental disorder)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Lisdexamfetamin ist ein Prodrug von d-Amphetamin und in der Schweiz zugelassen. Es wird voraussichtlich bei spezifischen Entwicklungsstörungen (specific developmental disorder) wirksam sein können. Dafür liegt jedoch nur indirekte Evidenz vor: Keine Studie untersucht diese Erkrankung selbst, daher bleibt die Vorhersage auf Modellebene (L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) |
+| Vorhergesagte neue Indikation | Spezifische Entwicklungsstörung (specific developmental disorder) |
+| TxGNN-Vorhersagewert | 1.0000 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
-| DrugBank ID | [DB01255](https://go.drugbank.com/drugs/DB01255) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Lisdexamfetamin wird im Körper zu d-Amphetamin umgewandelt. Dieses erhöht die Konzentration von Dopamin und Noradrenalin an den Nervenzellkontakten. Eine offizielle Angabe zum Wirkmechanismus liegt in den zusammengestellten Daten nicht vor; die Beschreibung beruht auf dem bekannten Wirkprinzip der Substanzklasse.
+
+Aufmerksamkeits- und Exekutivfunktionen sind bei vielen neurologischen Entwicklungsstörungen beeinträchtigt. Daraus lässt sich theoretisch ein Nutzen ableiten. Eine Phase-II/III-Studie belegt die Wirksamkeit bei ADHS bei Kindern. Spezifische Entwicklungsstörungen (etwa Lern-, Sprach- oder Motorikstörungen) sind jedoch nicht dasselbe wie ADHS. Der sehr hohe Vorhersagewert spiegelt vermutlich die Nähe zu ADHS wider und ist kein Wirksamkeitsnachweis.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [31718254](https://pubmed.ncbi.nlm.nih.gov/31718254/) | 2020 | RCT | Journal of Child and Adolescent Psychopharmacology | Randomisierte, doppelblinde, placebokontrollierte Studie mit 76 japanischen Kindern und Jugendlichen (6–17 Jahre) mit ADHS; Dosen von 30, 50 oder 70 mg/Tag über 4 Wochen. Betrifft ADHS, nicht die vorhergesagte Erkrankung. |
+| [37849578](https://pubmed.ncbi.nlm.nih.gov/37849578/) | 2023 | Fallbericht | Cureus | Seltener Fall eines Hao-Fountain-Syndroms, das einem Fragilen-X-Syndrom ähnelte, mit Intelligenzminderung und ADHS. Liefert keine Evidenz zur Wirksamkeit eines Arzneimittels. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 69031 | Lisdexamfetamin Spirig HC 20 mg, Hartkapseln | Hartkapseln | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) |
+| 63023 | Elvanse 30 mg, Hartkapseln | Hartkapseln | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Keine Studie untersucht Lisdexamfetamin direkt bei spezifischen Entwicklungsstörungen. Die vorhandene Evidenz betrifft ADHS oder ist ein Fallbericht ohne Wirksamkeitsaussage.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Kontrollierte klinische Studien zu Lisdexamfetamin bei spezifischen Entwicklungsstörungen
+- Klare Abgrenzung der Zielerkrankung (Lern-, Sprach- oder Motorikstörungen) und ihrer Beziehung zu ADHS
+- Sicherheitsinformationen aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen), da diese in den zusammengestellten Daten fehlen
+- Bestätigter Wirkmechanismus aus einer zuverlässigen Arzneimitteldatenbank
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

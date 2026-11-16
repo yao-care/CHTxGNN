@@ -1,34 +1,115 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: CARBETOCINUM
+title: Carbetocinum
+parent: Nur Modellvorhersage (L5)
+nav_order: 115
+evidence_level: L5
+indication_count: 2
 drugbank_id: DB01282
-permalink: /drugs/carbetocinum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Carbetocin"
+predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
+last_modified_at: 2026-11-16
+description: "Carbetocinum: vorhergesagte neue Indikation Isotretinoin-ähnliches Syndrom (isotretinoin-like syndrome) (Evidenzstufe L5)."
 ---
 
-# CARBETOCINUM
+# Carbetocinum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Carbetocinum: Isotretinoin-ähnliches Syndrom (isotretinoin-like syndrome)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Carbetocin ist ein lang wirksamer Oxytocin-Rezeptor-Agonist, der in der Schweiz als Injektionslösung im Handel ist. Für das Isotretinoin-ähnliche Syndrom (isotretinoin-like syndrome) liegt ein hoher TxGNN-Vorhersagewert vor, doch es gibt weder klinische Studien noch Literatur dazu. Die Vorhersage beruht somit ausschliesslich auf einem Computermodell (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie; Prévention des hémorragies de la délivrance dues à une atonie utérine du post-partum |
+| Vorhergesagte neue Indikation | Isotretinoin-ähnliches Syndrom (isotretinoin-like syndrome) |
+| TxGNN-Vorhersagewert | 0.9915 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| DrugBank ID | [DB01282](https://go.drugbank.com/drugs/DB01282) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Aus den vorliegenden Daten lässt sich kein Wirkmechanismus-Zusammenhang herleiten. Die Angaben zum Wirkmechanismus von Carbetocin fehlen in den für diesen Bericht zusammengestellten Daten. Bekannt ist, dass Carbetocin am Oxytocin-Rezeptor wirkt.
+
+Das Isotretinoin-ähnliche Syndrom ist eine Entwicklungsstörung, die einem durch Retinoide verursachten Fehlbildungsmuster entspricht. Ein plausibler, über den Oxytocin-Rezeptor vermittelter Behandlungsansatz ist dafür nicht erkennbar.
+
+Der hohe Vorhersagewert (0,9915) ist ein reines Modellergebnis und spiegelt vermutlich eine Nähe im Datennetzwerk wider, nicht eine biologische Relevanz. Klinisch erscheint die Vorhersage für ein geburtshilfliches Uterotonikum nicht schlüssig.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 58079 | Pabal, Injektionslösung | Synthetika | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie |
+| 67157 | Carbetocin Ferring 100 µg, Injektionslösung | Synthetika | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie |
+| 69359 | Carbetocin Aguettant 100 µg/ml, Injektionslösung in Fertigspritze | Synthetika | Prävention von Blutungen nach der Geburt aufgrund einer postpartalen Uterusatonie |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, und ein biologisch nachvollziehbarer Zusammenhang mit dem Wirkmechanismus von Carbetocin ist nicht erkennbar.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Angaben zum Wirkmechanismus von Carbetocin (z. B. aus DrugBank)
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Belege aus Studien oder Mechanismusarbeiten, die einen Zusammenhang mit dem Isotretinoin-ähnlichen Syndrom stützen
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

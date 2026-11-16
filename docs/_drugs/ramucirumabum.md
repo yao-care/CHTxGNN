@@ -1,33 +1,115 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: RAMUCIRUMABUM
+title: Ramucirumabum
+parent: Nur Modellvorhersage (L5)
+nav_order: 504
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB05578
-permalink: /drugs/ramucirumabum/
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Ramucirumab"
+predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+last_modified_at: 2026-11-16
+description: "Ramucirumabum: vorhergesagte neue Indikation Uterines Ligament-Adenokarzinom (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: agent antinéoplasique"
 ---
 
-# RAMUCIRUMABUM
+# Ramucirumabum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Ramucirumabum: Uterines Ligament-Adenokarzinom (uterine ligament adenocarcinoma)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Ramucirumab ist ein monoklonaler Antikörper, der in der Schweiz als Krebsmittel (antineoplastisches Mittel) zugelassen ist. Das Modell sagt voraus, dass er bei Adenokarzinom des Ligamentum uteri (uterine ligament adenocarcinoma) wirken könnte. Dafür liegen keine klinischen Studien und keine Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | agent antinéoplasique |
+| Vorhergesagte neue Indikation | Uterines Ligament-Adenokarzinom (uterine ligament adenocarcinoma) |
+| TxGNN-Vorhersagewert | 0.9995 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| DrugBank ID | [DB05578](https://go.drugbank.com/drugs/DB05578) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Ramucirumab blockiert den VEGF-Rezeptor 2 (VEGFR-2) und hemmt dadurch die Bildung neuer Blutgefässe, die Tumoren zum Wachstum brauchen. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Beschreibung stützt sich auf allgemeines Wissen über das Arzneimittel.
+
+Die Hemmung der Angiogenese ist bei Adenokarzinomen im weiblichen Genitaltrakt grundsätzlich denkbar. Für Gebärmutterhalskrebs gibt es mit anderen gefässhemmenden Wirkstoffen zudem eine gewisse Klassenerfahrung. Für Ramucirumab selbst liegt bei dieser Erkrankung jedoch kein Beleg vor.
+
+Der sehr hohe Vorhersagewert ist ein reines Rechenergebnis und kein klinischer Nachweis. Eine eigene Bewertung der Ähnlichkeit zur ursprünglichen Anwendung steht noch aus.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 65206 | Cyramza 100 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Antineoplastisches Mittel |
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (monoklonaler Antikörper gegen VEGFR-2) |
+
+Weitere Angaben zu Myelosuppression, Emetogenität, Überwachung und Handhabungsschutz sind in den zusammengestellten Daten nicht enthalten.
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Es gibt weder klinische Studien noch Publikationen zu Ramucirumab bei dieser Erkrankung; die Vorhersage stützt sich allein auf das Modell.
+- Die Sicherheitsdaten aus der Fachinformation fehlen, eine Sicherheitsprüfung ist daher noch nicht möglich.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klinische oder präklinische Daten zu Ramucirumab bei Adenokarzinomen des Ligamentum uteri oder verwandten gynäkologischen Tumoren
+- Prüfung der Darreichungsform und des Anwendungswegs für die neue Indikation
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

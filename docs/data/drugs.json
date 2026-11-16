@@ -1,8 +1,238 @@
 {
-  "generated": "2026-11-06",
-  "total_count": 100,
+  "generated": "2026-11-16",
+  "total_count": 634,
   "source": "CHTxGNN",
   "drugs": [
+    {
+      "slug": "abacavirum",
+      "name": "Abacavirum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/abacavirum/"
+    },
+    {
+      "slug": "abataceptum",
+      "name": "Abataceptum",
+      "evidence_level": "L4",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/abataceptum/"
+    },
+    {
+      "slug": "acenocoumarolum",
+      "name": "Acenocoumarolum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acenocoumarolum/"
+    },
+    {
+      "slug": "acetazolamidum",
+      "name": "Acetazolamidum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acetazolamidum/"
+    },
+    {
+      "slug": "acetylcysteinum",
+      "name": "Acetylcysteinum",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acetylcysteinum/"
+    },
+    {
+      "slug": "aciclovirum",
+      "name": "Aciclovirum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/aciclovirum/"
+    },
+    {
+      "slug": "acidum-acetylsalicylicum",
+      "name": "Acidum Acetylsalicylicum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-acetylsalicylicum/"
+    },
+    {
+      "slug": "acidum-ascorbicum",
+      "name": "Acidum Ascorbicum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-ascorbicum/"
+    },
+    {
+      "slug": "acidum-benzoicum-e-resina",
+      "name": "Acidum Benzoicum E Resina",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-benzoicum-e-resina/"
+    },
+    {
+      "slug": "acidum-chenodeoxycholicum",
+      "name": "Acidum Chenodeoxycholicum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-chenodeoxycholicum/"
+    },
+    {
+      "slug": "acidum-citricum-d200",
+      "name": "Acidum Citricum D200",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-citricum-d200/"
+    },
+    {
+      "slug": "acidum-folicum",
+      "name": "Acidum Folicum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-folicum/"
+    },
+    {
+      "slug": "acidum-fusidicum-anhydricum",
+      "name": "Acidum Fusidicum Anhydricum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-fusidicum-anhydricum/"
+    },
+    {
+      "slug": "acidum-salicylicum",
+      "name": "Acidum Salicylicum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-salicylicum/"
+    },
+    {
+      "slug": "acidum-tranexamicum",
+      "name": "Acidum Tranexamicum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-tranexamicum/"
+    },
+    {
+      "slug": "acidum-ursodeoxycholicum",
+      "name": "Acidum Ursodeoxycholicum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-ursodeoxycholicum/"
+    },
+    {
+      "slug": "acidum-valproicum",
+      "name": "Acidum Valproicum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/acidum-valproicum/"
+    },
+    {
+      "slug": "adalimumabum",
+      "name": "Adalimumabum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/adalimumabum/"
+    },
+    {
+      "slug": "adapalenum",
+      "name": "Adapalenum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/adapalenum/"
+    },
+    {
+      "slug": "adenosinum",
+      "name": "Adenosinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/adenosinum/"
+    },
+    {
+      "slug": "adrenalinum",
+      "name": "Adrenalinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/adrenalinum/"
+    },
+    {
+      "slug": "afliberceptum",
+      "name": "Afliberceptum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/afliberceptum/"
+    },
+    {
+      "slug": "agomelatinum",
+      "name": "Agomelatinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/agomelatinum/"
+    },
     {
       "slug": "alanine",
       "name": "Alanine",
@@ -12,6 +242,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alanine/"
+    },
+    {
+      "slug": "albendazolum",
+      "name": "Albendazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/albendazolum/"
     },
     {
       "slug": "albutrepenonacog-alfa",
@@ -24,6 +264,26 @@
       "url": "/drugs/albutrepenonacog-alfa/"
     },
     {
+      "slug": "alectinibum",
+      "name": "Alectinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alectinibum/"
+    },
+    {
+      "slug": "alfuzosini-hydrochloridum",
+      "name": "Alfuzosini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alfuzosini-hydrochloridum/"
+    },
+    {
       "slug": "alglucosidase-alfa",
       "name": "Alglucosidase Alfa",
       "evidence_level": "L5",
@@ -32,6 +292,26 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alglucosidase-alfa/"
+    },
+    {
+      "slug": "alirocumabum",
+      "name": "Alirocumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alirocumabum/"
+    },
+    {
+      "slug": "aliskirenum",
+      "name": "Aliskirenum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/aliskirenum/"
     },
     {
       "slug": "allantoin",
@@ -44,6 +324,136 @@
       "url": "/drugs/allantoin/"
     },
     {
+      "slug": "allopurinolum",
+      "name": "Allopurinolum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/allopurinolum/"
+    },
+    {
+      "slug": "almotriptanum",
+      "name": "Almotriptanum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/almotriptanum/"
+    },
+    {
+      "slug": "alprazolamum",
+      "name": "Alprazolamum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alprazolamum/"
+    },
+    {
+      "slug": "alprostadilum",
+      "name": "Alprostadilum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alprostadilum/"
+    },
+    {
+      "slug": "alteplasum-adnr",
+      "name": "Alteplasum Adnr",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alteplasum-adnr/"
+    },
+    {
+      "slug": "amantadini-hydrochloridum",
+      "name": "Amantadini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/amantadini-hydrochloridum/"
+    },
+    {
+      "slug": "ambrisentanum",
+      "name": "Ambrisentanum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ambrisentanum/"
+    },
+    {
+      "slug": "ambroxoli-hydrochloridum",
+      "name": "Ambroxoli Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ambroxoli-hydrochloridum/"
+    },
+    {
+      "slug": "amifampridinum",
+      "name": "Amifampridinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/amifampridinum/"
+    },
+    {
+      "slug": "amikacinum",
+      "name": "Amikacinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/amikacinum/"
+    },
+    {
+      "slug": "amiodaroni-hydrochloridum",
+      "name": "Amiodaroni Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/amiodaroni-hydrochloridum/"
+    },
+    {
+      "slug": "amlodipinum",
+      "name": "Amlodipinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/amlodipinum/"
+    },
+    {
+      "slug": "amoxicillinum-anhydricum",
+      "name": "Amoxicillinum Anhydricum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/amoxicillinum-anhydricum/"
+    },
+    {
       "slug": "amylmetacresol",
       "name": "Amylmetacresol",
       "evidence_level": "L5",
@@ -52,6 +462,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amylmetacresol/"
+    },
+    {
+      "slug": "anagrelidum",
+      "name": "Anagrelidum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/anagrelidum/"
     },
     {
       "slug": "andexanet-alfa",
@@ -64,6 +484,26 @@
       "url": "/drugs/andexanet-alfa/"
     },
     {
+      "slug": "apomorphini-hydrochloridum-hemihydricum",
+      "name": "Apomorphini Hydrochloridum Hemihydricum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/apomorphini-hydrochloridum-hemihydricum/"
+    },
+    {
+      "slug": "aripiprazolum",
+      "name": "Aripiprazolum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/aripiprazolum/"
+    },
+    {
       "slug": "artemether",
       "name": "Artemether",
       "evidence_level": "L5",
@@ -72,6 +512,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/artemether/"
+    },
+    {
+      "slug": "asenapinum",
+      "name": "Asenapinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/asenapinum/"
     },
     {
       "slug": "asfotase-alfa",
@@ -94,6 +544,86 @@
       "url": "/drugs/aspartic-acid/"
     },
     {
+      "slug": "atazanavirum",
+      "name": "Atazanavirum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/atazanavirum/"
+    },
+    {
+      "slug": "atenololum",
+      "name": "Atenololum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/atenololum/"
+    },
+    {
+      "slug": "atezolizumabum",
+      "name": "Atezolizumabum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/atezolizumabum/"
+    },
+    {
+      "slug": "atomoxetinum",
+      "name": "Atomoxetinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/atomoxetinum/"
+    },
+    {
+      "slug": "atorvastatinum",
+      "name": "Atorvastatinum",
+      "evidence_level": "L1",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/atorvastatinum/"
+    },
+    {
+      "slug": "avapritinibum",
+      "name": "Avapritinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/avapritinibum/"
+    },
+    {
+      "slug": "avatrombopagum",
+      "name": "Avatrombopagum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/avatrombopagum/"
+    },
+    {
+      "slug": "avelumabum",
+      "name": "Avelumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/avelumabum/"
+    },
+    {
       "slug": "avibactam",
       "name": "Avibactam",
       "evidence_level": "L5",
@@ -104,6 +634,46 @@
       "url": "/drugs/avibactam/"
     },
     {
+      "slug": "axitinibum",
+      "name": "Axitinibum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/axitinibum/"
+    },
+    {
+      "slug": "azathioprinum",
+      "name": "Azathioprinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/azathioprinum/"
+    },
+    {
+      "slug": "azithromycinum",
+      "name": "Azithromycinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/azithromycinum/"
+    },
+    {
+      "slug": "aztreonamum",
+      "name": "Aztreonamum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/aztreonamum/"
+    },
+    {
       "slug": "bacitracin",
       "name": "Bacitracin",
       "evidence_level": "L5",
@@ -112,6 +682,46 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bacitracin/"
+    },
+    {
+      "slug": "baricitinibum",
+      "name": "Baricitinibum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/baricitinibum/"
+    },
+    {
+      "slug": "belimumabum",
+      "name": "Belimumabum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/belimumabum/"
+    },
+    {
+      "slug": "bendamustinum",
+      "name": "Bendamustinum",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bendamustinum/"
+    },
+    {
+      "slug": "benralizumabum",
+      "name": "Benralizumabum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/benralizumabum/"
     },
     {
       "slug": "benzocaine",
@@ -134,6 +744,46 @@
       "url": "/drugs/benzoyl-peroxide/"
     },
     {
+      "slug": "benzylpenicillinum",
+      "name": "Benzylpenicillinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/benzylpenicillinum/"
+    },
+    {
+      "slug": "betamethasonum",
+      "name": "Betamethasonum",
+      "evidence_level": "L2",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/betamethasonum/"
+    },
+    {
+      "slug": "bevacizumabum",
+      "name": "Bevacizumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bevacizumabum/"
+    },
+    {
+      "slug": "bezlotoxumabum",
+      "name": "Bezlotoxumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bezlotoxumabum/"
+    },
+    {
       "slug": "bictegravir",
       "name": "Bictegravir",
       "evidence_level": "L5",
@@ -142,6 +792,66 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bictegravir/"
+    },
+    {
+      "slug": "bimatoprostum",
+      "name": "Bimatoprostum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bimatoprostum/"
+    },
+    {
+      "slug": "biotinum",
+      "name": "Biotinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/biotinum/"
+    },
+    {
+      "slug": "biperideni-lactas",
+      "name": "Biperideni Lactas",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/biperideni-lactas/"
+    },
+    {
+      "slug": "bisoprololi-fumaras",
+      "name": "Bisoprololi Fumaras",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bisoprololi-fumaras/"
+    },
+    {
+      "slug": "bleomycinum",
+      "name": "Bleomycinum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bleomycinum/"
+    },
+    {
+      "slug": "bosentanum",
+      "name": "Bosentanum",
+      "evidence_level": "L4",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bosentanum/"
     },
     {
       "slug": "brentuximab-vedotin",
@@ -154,6 +864,116 @@
       "url": "/drugs/brentuximab-vedotin/"
     },
     {
+      "slug": "brigatinibum",
+      "name": "Brigatinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/brigatinibum/"
+    },
+    {
+      "slug": "brivaracetamum",
+      "name": "Brivaracetamum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/brivaracetamum/"
+    },
+    {
+      "slug": "brolucizumabum",
+      "name": "Brolucizumabum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/brolucizumabum/"
+    },
+    {
+      "slug": "bromocriptinum",
+      "name": "Bromocriptinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bromocriptinum/"
+    },
+    {
+      "slug": "budesonidum",
+      "name": "Budesonidum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/budesonidum/"
+    },
+    {
+      "slug": "bupivacaini-hydrochloridum-anhydricum-adrenalinum",
+      "name": "Bupivacaini Hydrochloridum Anhydricum Adrenalinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bupivacaini-hydrochloridum-anhydricum-adrenalinum/"
+    },
+    {
+      "slug": "buprenorphinum",
+      "name": "Buprenorphinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/buprenorphinum/"
+    },
+    {
+      "slug": "bupropioni-hydrochloridum",
+      "name": "Bupropioni Hydrochloridum",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/bupropioni-hydrochloridum/"
+    },
+    {
+      "slug": "cabergolinum",
+      "name": "Cabergolinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cabergolinum/"
+    },
+    {
+      "slug": "cabozantinibum",
+      "name": "Cabozantinibum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cabozantinibum/"
+    },
+    {
+      "slug": "calcifediolum",
+      "name": "Calcifediolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/calcifediolum/"
+    },
+    {
       "slug": "calcipotriol",
       "name": "Calcipotriol",
       "evidence_level": "L3",
@@ -162,6 +982,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/calcipotriol/"
+    },
+    {
+      "slug": "calcitriolum",
+      "name": "Calcitriolum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/calcitriolum/"
     },
     {
       "slug": "camphor",
@@ -174,6 +1004,126 @@
       "url": "/drugs/camphor/"
     },
     {
+      "slug": "canakinumabum",
+      "name": "Canakinumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/canakinumabum/"
+    },
+    {
+      "slug": "capecitabinum",
+      "name": "Capecitabinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/capecitabinum/"
+    },
+    {
+      "slug": "caplacizumabum",
+      "name": "Caplacizumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/caplacizumabum/"
+    },
+    {
+      "slug": "carbamazepinum",
+      "name": "Carbamazepinum",
+      "evidence_level": "L4",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/carbamazepinum/"
+    },
+    {
+      "slug": "carbetocinum",
+      "name": "Carbetocinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/carbetocinum/"
+    },
+    {
+      "slug": "carbimazolum",
+      "name": "Carbimazolum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/carbimazolum/"
+    },
+    {
+      "slug": "carboplatinum",
+      "name": "Carboplatinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/carboplatinum/"
+    },
+    {
+      "slug": "carfilzomibum",
+      "name": "Carfilzomibum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/carfilzomibum/"
+    },
+    {
+      "slug": "carvedilolum",
+      "name": "Carvedilolum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/carvedilolum/"
+    },
+    {
+      "slug": "caspofunginum",
+      "name": "Caspofunginum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/caspofunginum/"
+    },
+    {
+      "slug": "cefazolinum",
+      "name": "Cefazolinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cefazolinum/"
+    },
+    {
+      "slug": "ceftazidimum",
+      "name": "Ceftazidimum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ceftazidimum/"
+    },
+    {
       "slug": "ceftolozane",
       "name": "Ceftolozane",
       "evidence_level": "L5",
@@ -182,6 +1132,46 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ceftolozane/"
+    },
+    {
+      "slug": "ceftriaxonum",
+      "name": "Ceftriaxonum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ceftriaxonum/"
+    },
+    {
+      "slug": "cefuroximum",
+      "name": "Cefuroximum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cefuroximum/"
+    },
+    {
+      "slug": "celecoxibum",
+      "name": "Celecoxibum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/celecoxibum/"
+    },
+    {
+      "slug": "cemiplimabum",
+      "name": "Cemiplimabum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cemiplimabum/"
     },
     {
       "slug": "centella-asiatica",
@@ -194,6 +1184,16 @@
       "url": "/drugs/centella-asiatica/"
     },
     {
+      "slug": "ceritinibum",
+      "name": "Ceritinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ceritinibum/"
+    },
+    {
       "slug": "certolizumab-pegol",
       "name": "Certolizumab Pegol",
       "evidence_level": "L5",
@@ -202,6 +1202,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/certolizumab-pegol/"
+    },
+    {
+      "slug": "cetirizini-dihydrochloridum",
+      "name": "Cetirizini Dihydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cetirizini-dihydrochloridum/"
+    },
+    {
+      "slug": "cetuximabum",
+      "name": "Cetuximabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cetuximabum/"
+    },
+    {
+      "slug": "chlorambucilum",
+      "name": "Chlorambucilum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/chlorambucilum/"
     },
     {
       "slug": "chloramphenicol",
@@ -224,6 +1254,16 @@
       "url": "/drugs/chlordiazepoxide/"
     },
     {
+      "slug": "chlorprothixeni-hydrochloridum",
+      "name": "Chlorprothixeni Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/chlorprothixeni-hydrochloridum/"
+    },
+    {
       "slug": "chlorthalidone",
       "name": "Chlorthalidone",
       "evidence_level": "L5",
@@ -232,6 +1272,56 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/chlorthalidone/"
+    },
+    {
+      "slug": "cholecalciferolum",
+      "name": "Cholecalciferolum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cholecalciferolum/"
+    },
+    {
+      "slug": "ciclesonidum",
+      "name": "Ciclesonidum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ciclesonidum/"
+    },
+    {
+      "slug": "ciclosporinum",
+      "name": "Ciclosporinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ciclosporinum/"
+    },
+    {
+      "slug": "cilazaprilum-anhydricum",
+      "name": "Cilazaprilum Anhydricum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cilazaprilum-anhydricum/"
+    },
+    {
+      "slug": "ciprofloxacinum",
+      "name": "Ciprofloxacinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ciprofloxacinum/"
     },
     {
       "slug": "cisatracurium",
@@ -244,6 +1334,36 @@
       "url": "/drugs/cisatracurium/"
     },
     {
+      "slug": "citalopramum",
+      "name": "Citalopramum",
+      "evidence_level": "L3",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/citalopramum/"
+    },
+    {
+      "slug": "cladribinum",
+      "name": "Cladribinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cladribinum/"
+    },
+    {
+      "slug": "clarithromycinum",
+      "name": "Clarithromycinum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clarithromycinum/"
+    },
+    {
       "slug": "clavulanic-acid",
       "name": "Clavulanic Acid",
       "evidence_level": "L5",
@@ -252,6 +1372,26 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/clavulanic-acid/"
+    },
+    {
+      "slug": "clemastinum",
+      "name": "Clemastinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clemastinum/"
+    },
+    {
+      "slug": "clindamycinum",
+      "name": "Clindamycinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clindamycinum/"
     },
     {
       "slug": "clioquinol",
@@ -264,6 +1404,56 @@
       "url": "/drugs/clioquinol/"
     },
     {
+      "slug": "clobazamum",
+      "name": "Clobazamum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clobazamum/"
+    },
+    {
+      "slug": "clomipramini-hydrochloridum",
+      "name": "Clomipramini Hydrochloridum",
+      "evidence_level": "L3",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clomipramini-hydrochloridum/"
+    },
+    {
+      "slug": "clonazepamum",
+      "name": "Clonazepamum",
+      "evidence_level": "L3",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clonazepamum/"
+    },
+    {
+      "slug": "clonidini-hydrochloridum",
+      "name": "Clonidini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clonidini-hydrochloridum/"
+    },
+    {
+      "slug": "clopidogrelum",
+      "name": "Clopidogrelum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clopidogrelum/"
+    },
+    {
       "slug": "clothiapine",
       "name": "Clothiapine",
       "evidence_level": "L5",
@@ -272,6 +1462,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/clothiapine/"
+    },
+    {
+      "slug": "clotrimazolum",
+      "name": "Clotrimazolum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/clotrimazolum/"
     },
     {
       "slug": "cobicistat",
@@ -284,6 +1484,76 @@
       "url": "/drugs/cobicistat/"
     },
     {
+      "slug": "cobimetinibum",
+      "name": "Cobimetinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cobimetinibum/"
+    },
+    {
+      "slug": "codeini-phosphas-hemihydricus",
+      "name": "Codeini Phosphas Hemihydricus",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/codeini-phosphas-hemihydricus/"
+    },
+    {
+      "slug": "colchicinum",
+      "name": "Colchicinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/colchicinum/"
+    },
+    {
+      "slug": "crizotinibum",
+      "name": "Crizotinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/crizotinibum/"
+    },
+    {
+      "slug": "cyanocobalaminum",
+      "name": "Cyanocobalaminum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cyanocobalaminum/"
+    },
+    {
+      "slug": "cyclopentolati-hydrochloridum",
+      "name": "Cyclopentolati Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cyclopentolati-hydrochloridum/"
+    },
+    {
+      "slug": "cyclophosphamidum-anhydricum",
+      "name": "Cyclophosphamidum Anhydricum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cyclophosphamidum-anhydricum/"
+    },
+    {
       "slug": "cysteine",
       "name": "Cysteine",
       "evidence_level": "L5",
@@ -292,6 +1562,196 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/cysteine/"
+    },
+    {
+      "slug": "cytarabinum",
+      "name": "Cytarabinum",
+      "evidence_level": "L3",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/cytarabinum/"
+    },
+    {
+      "slug": "dacarbazinum",
+      "name": "Dacarbazinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dacarbazinum/"
+    },
+    {
+      "slug": "dalteparinum-natricum",
+      "name": "Dalteparinum Natricum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dalteparinum-natricum/"
+    },
+    {
+      "slug": "dantrolenum-natricum-hemiheptahydricum",
+      "name": "Dantrolenum Natricum Hemiheptahydricum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dantrolenum-natricum-hemiheptahydricum/"
+    },
+    {
+      "slug": "dapoxetinum",
+      "name": "Dapoxetinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dapoxetinum/"
+    },
+    {
+      "slug": "darunavirum",
+      "name": "Darunavirum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/darunavirum/"
+    },
+    {
+      "slug": "dasatinibum",
+      "name": "Dasatinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dasatinibum/"
+    },
+    {
+      "slug": "daunorubicini-hydrochloridum",
+      "name": "Daunorubicini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/daunorubicini-hydrochloridum/"
+    },
+    {
+      "slug": "decitabinum",
+      "name": "Decitabinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/decitabinum/"
+    },
+    {
+      "slug": "deferasiroxum",
+      "name": "Deferasiroxum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/deferasiroxum/"
+    },
+    {
+      "slug": "deferipronum",
+      "name": "Deferipronum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/deferipronum/"
+    },
+    {
+      "slug": "defibrotidum",
+      "name": "Defibrotidum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/defibrotidum/"
+    },
+    {
+      "slug": "demeclocyclinum-calcicum-triamcinoloni-acetonidum",
+      "name": "Demeclocyclinum Calcicum Triamcinoloni Acetonidum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/demeclocyclinum-calcicum-triamcinoloni-acetonidum/"
+    },
+    {
+      "slug": "denosumabum",
+      "name": "Denosumabum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/denosumabum/"
+    },
+    {
+      "slug": "desloratadinum",
+      "name": "Desloratadinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/desloratadinum/"
+    },
+    {
+      "slug": "desmopressinum",
+      "name": "Desmopressinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/desmopressinum/"
+    },
+    {
+      "slug": "desvenlafaxinum",
+      "name": "Desvenlafaxinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/desvenlafaxinum/"
+    },
+    {
+      "slug": "dexamethasonum",
+      "name": "Dexamethasonum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dexamethasonum/"
+    },
+    {
+      "slug": "dexibuprofenum",
+      "name": "Dexibuprofenum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dexibuprofenum/"
     },
     {
       "slug": "dexlansoprazole",
@@ -304,6 +1764,56 @@
       "url": "/drugs/dexlansoprazole/"
     },
     {
+      "slug": "dexmethylphenidatum",
+      "name": "Dexmethylphenidatum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dexmethylphenidatum/"
+    },
+    {
+      "slug": "dexpanthenolum",
+      "name": "Dexpanthenolum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dexpanthenolum/"
+    },
+    {
+      "slug": "dextromethorphanum",
+      "name": "Dextromethorphanum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dextromethorphanum/"
+    },
+    {
+      "slug": "diazepamum",
+      "name": "Diazepamum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/diazepamum/"
+    },
+    {
+      "slug": "diazoxidum",
+      "name": "Diazoxidum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/diazoxidum/"
+    },
+    {
       "slug": "dibotermin-alfa",
       "name": "Dibotermin Alfa",
       "evidence_level": "L5",
@@ -314,6 +1824,196 @@
       "url": "/drugs/dibotermin-alfa/"
     },
     {
+      "slug": "diclofenacum-natricum",
+      "name": "Diclofenacum Natricum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/diclofenacum-natricum/"
+    },
+    {
+      "slug": "dihydrocodeini-thiocyanas",
+      "name": "Dihydrocodeini Thiocyanas",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dihydrocodeini-thiocyanas/"
+    },
+    {
+      "slug": "dimenhydrinatum",
+      "name": "Dimenhydrinatum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dimenhydrinatum/"
+    },
+    {
+      "slug": "dinutuximabum-beta",
+      "name": "Dinutuximabum Beta",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dinutuximabum-beta/"
+    },
+    {
+      "slug": "diphenhydramini-hydrochloridum",
+      "name": "Diphenhydramini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/diphenhydramini-hydrochloridum/"
+    },
+    {
+      "slug": "docetaxelum",
+      "name": "Docetaxelum",
+      "evidence_level": "L1",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/docetaxelum/"
+    },
+    {
+      "slug": "dolutegravirum",
+      "name": "Dolutegravirum",
+      "evidence_level": "L3",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dolutegravirum/"
+    },
+    {
+      "slug": "donepezilum",
+      "name": "Donepezilum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/donepezilum/"
+    },
+    {
+      "slug": "doravirinum",
+      "name": "Doravirinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/doravirinum/"
+    },
+    {
+      "slug": "dorzolamidum",
+      "name": "Dorzolamidum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dorzolamidum/"
+    },
+    {
+      "slug": "doxazosinum",
+      "name": "Doxazosinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/doxazosinum/"
+    },
+    {
+      "slug": "doxorubicini-hydrochloridum",
+      "name": "Doxorubicini Hydrochloridum",
+      "evidence_level": "L1",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/doxorubicini-hydrochloridum/"
+    },
+    {
+      "slug": "doxycyclinum",
+      "name": "Doxycyclinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/doxycyclinum/"
+    },
+    {
+      "slug": "doxylaminum",
+      "name": "Doxylaminum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/doxylaminum/"
+    },
+    {
+      "slug": "dronedaronum",
+      "name": "Dronedaronum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dronedaronum/"
+    },
+    {
+      "slug": "duloxetinum",
+      "name": "Duloxetinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/duloxetinum/"
+    },
+    {
+      "slug": "dupilumabum",
+      "name": "Dupilumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dupilumabum/"
+    },
+    {
+      "slug": "durvalumabum",
+      "name": "Durvalumabum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/durvalumabum/"
+    },
+    {
+      "slug": "dutasteridum",
+      "name": "Dutasteridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/dutasteridum/"
+    },
+    {
       "slug": "echinacea",
       "name": "Echinacea",
       "evidence_level": "L5",
@@ -322,6 +2022,56 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/echinacea/"
+    },
+    {
+      "slug": "econazoli-nitras",
+      "name": "Econazoli Nitras",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/econazoli-nitras/"
+    },
+    {
+      "slug": "eculizumabum",
+      "name": "Eculizumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/eculizumabum/"
+    },
+    {
+      "slug": "edaravonum",
+      "name": "Edaravonum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/edaravonum/"
+    },
+    {
+      "slug": "efavirenzum",
+      "name": "Efavirenzum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/efavirenzum/"
+    },
+    {
+      "slug": "eflornithinum",
+      "name": "Eflornithinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/eflornithinum/"
     },
     {
       "slug": "efmoroctocog-alfa",
@@ -344,6 +2094,16 @@
       "url": "/drugs/eftrenonacog-alfa/"
     },
     {
+      "slug": "eletriptanum",
+      "name": "Eletriptanum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/eletriptanum/"
+    },
+    {
       "slug": "elosulfase-alfa",
       "name": "Elosulfase Alfa",
       "evidence_level": "L5",
@@ -352,6 +2112,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/elosulfase-alfa/"
+    },
+    {
+      "slug": "eltrombopagum",
+      "name": "Eltrombopagum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/eltrombopagum/"
     },
     {
       "slug": "elvitegravir",
@@ -364,6 +2134,36 @@
       "url": "/drugs/elvitegravir/"
     },
     {
+      "slug": "emicizumabum",
+      "name": "Emicizumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/emicizumabum/"
+    },
+    {
+      "slug": "empagliflozinum",
+      "name": "Empagliflozinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/empagliflozinum/"
+    },
+    {
+      "slug": "emtricitabinum",
+      "name": "Emtricitabinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/emtricitabinum/"
+    },
+    {
       "slug": "enfortumab-vedotin",
       "name": "Enfortumab Vedotin",
       "evidence_level": "L5",
@@ -372,6 +2172,156 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/enfortumab-vedotin/"
+    },
+    {
+      "slug": "enoxaparinum-natricum",
+      "name": "Enoxaparinum Natricum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/enoxaparinum-natricum/"
+    },
+    {
+      "slug": "entacaponum",
+      "name": "Entacaponum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/entacaponum/"
+    },
+    {
+      "slug": "entecavirum",
+      "name": "Entecavirum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/entecavirum/"
+    },
+    {
+      "slug": "enzalutamidum",
+      "name": "Enzalutamidum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/enzalutamidum/"
+    },
+    {
+      "slug": "epinastini-hydrochloridum",
+      "name": "Epinastini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/epinastini-hydrochloridum/"
+    },
+    {
+      "slug": "epirubicini-hydrochloridum",
+      "name": "Epirubicini Hydrochloridum",
+      "evidence_level": "L4",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/epirubicini-hydrochloridum/"
+    },
+    {
+      "slug": "eplerenonum",
+      "name": "Eplerenonum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/eplerenonum/"
+    },
+    {
+      "slug": "eribulini-mesilas",
+      "name": "Eribulini Mesilas",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/eribulini-mesilas/"
+    },
+    {
+      "slug": "ertapenemum",
+      "name": "Ertapenemum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ertapenemum/"
+    },
+    {
+      "slug": "erythromycinum",
+      "name": "Erythromycinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/erythromycinum/"
+    },
+    {
+      "slug": "esketaminum",
+      "name": "Esketaminum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/esketaminum/"
+    },
+    {
+      "slug": "esomeprazolum",
+      "name": "Esomeprazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/esomeprazolum/"
+    },
+    {
+      "slug": "etanerceptum",
+      "name": "Etanerceptum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/etanerceptum/"
+    },
+    {
+      "slug": "etelcalcetidum",
+      "name": "Etelcalcetidum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/etelcalcetidum/"
+    },
+    {
+      "slug": "ethambutoli-hydrochloridum",
+      "name": "Ethambutoli Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ethambutoli-hydrochloridum/"
     },
     {
       "slug": "ethinylestradiol",
@@ -384,6 +2334,156 @@
       "url": "/drugs/ethinylestradiol/"
     },
     {
+      "slug": "ethosuximidum",
+      "name": "Ethosuximidum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ethosuximidum/"
+    },
+    {
+      "slug": "etodolacum",
+      "name": "Etodolacum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/etodolacum/"
+    },
+    {
+      "slug": "etofenamatum",
+      "name": "Etofenamatum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/etofenamatum/"
+    },
+    {
+      "slug": "etoposidum",
+      "name": "Etoposidum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/etoposidum/"
+    },
+    {
+      "slug": "etravirinum",
+      "name": "Etravirinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/etravirinum/"
+    },
+    {
+      "slug": "everolimusum",
+      "name": "Everolimusum",
+      "evidence_level": "L3",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/everolimusum/"
+    },
+    {
+      "slug": "evolocumabum",
+      "name": "Evolocumabum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/evolocumabum/"
+    },
+    {
+      "slug": "ezetimibum",
+      "name": "Ezetimibum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ezetimibum/"
+    },
+    {
+      "slug": "famciclovirum",
+      "name": "Famciclovirum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/famciclovirum/"
+    },
+    {
+      "slug": "febuxostatum",
+      "name": "Febuxostatum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/febuxostatum/"
+    },
+    {
+      "slug": "felbamatum",
+      "name": "Felbamatum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/felbamatum/"
+    },
+    {
+      "slug": "felodipinum",
+      "name": "Felodipinum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/felodipinum/"
+    },
+    {
+      "slug": "fenfluraminum",
+      "name": "Fenfluraminum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fenfluraminum/"
+    },
+    {
+      "slug": "fenofibratum",
+      "name": "Fenofibratum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fenofibratum/"
+    },
+    {
+      "slug": "fexofenadini-hydrochloridum",
+      "name": "Fexofenadini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fexofenadini-hydrochloridum/"
+    },
+    {
       "slug": "fibrinogen-human",
       "name": "Fibrinogen Human",
       "evidence_level": "L5",
@@ -392,6 +2492,146 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fibrinogen-human/"
+    },
+    {
+      "slug": "fidaxomicinum",
+      "name": "Fidaxomicinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fidaxomicinum/"
+    },
+    {
+      "slug": "filgrastimum",
+      "name": "Filgrastimum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/filgrastimum/"
+    },
+    {
+      "slug": "finasteridum",
+      "name": "Finasteridum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/finasteridum/"
+    },
+    {
+      "slug": "flecainidi-acetas",
+      "name": "Flecainidi Acetas",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/flecainidi-acetas/"
+    },
+    {
+      "slug": "fluconazolum",
+      "name": "Fluconazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluconazolum/"
+    },
+    {
+      "slug": "fluocinoloni-acetonidum-neomycinum",
+      "name": "Fluocinoloni Acetonidum Neomycinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluocinoloni-acetonidum-neomycinum/"
+    },
+    {
+      "slug": "fluocinonidum",
+      "name": "Fluocinonidum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluocinonidum/"
+    },
+    {
+      "slug": "fluorometholonum",
+      "name": "Fluorometholonum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluorometholonum/"
+    },
+    {
+      "slug": "fluorouracilum",
+      "name": "Fluorouracilum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluorouracilum/"
+    },
+    {
+      "slug": "fluoxetinum",
+      "name": "Fluoxetinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluoxetinum/"
+    },
+    {
+      "slug": "flupentixolum",
+      "name": "Flupentixolum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/flupentixolum/"
+    },
+    {
+      "slug": "flurbiprofenum",
+      "name": "Flurbiprofenum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/flurbiprofenum/"
+    },
+    {
+      "slug": "fluvastatinum",
+      "name": "Fluvastatinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluvastatinum/"
+    },
+    {
+      "slug": "fluvoxamini-maleas",
+      "name": "Fluvoxamini Maleas",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fluvoxamini-maleas/"
     },
     {
       "slug": "formaldehyde",
@@ -404,6 +2644,96 @@
       "url": "/drugs/formaldehyde/"
     },
     {
+      "slug": "formoteroli-fumaras-dihydricus",
+      "name": "Formoteroli Fumaras Dihydricus",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/formoteroli-fumaras-dihydricus/"
+    },
+    {
+      "slug": "fosfomycinum",
+      "name": "Fosfomycinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fosfomycinum/"
+    },
+    {
+      "slug": "fremanezumabum",
+      "name": "Fremanezumabum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/fremanezumabum/"
+    },
+    {
+      "slug": "galantaminum",
+      "name": "Galantaminum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/galantaminum/"
+    },
+    {
+      "slug": "galcanezumabum",
+      "name": "Galcanezumabum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/galcanezumabum/"
+    },
+    {
+      "slug": "gefitinibum",
+      "name": "Gefitinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/gefitinibum/"
+    },
+    {
+      "slug": "gemcitabinum",
+      "name": "Gemcitabinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/gemcitabinum/"
+    },
+    {
+      "slug": "gilteritinibum",
+      "name": "Gilteritinibum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/gilteritinibum/"
+    },
+    {
+      "slug": "givosiranum",
+      "name": "Givosiranum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/givosiranum/"
+    },
+    {
       "slug": "glecaprevir",
       "name": "Glecaprevir",
       "evidence_level": "L5",
@@ -412,6 +2742,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/glecaprevir/"
+    },
+    {
+      "slug": "glimepiridum",
+      "name": "Glimepiridum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/glimepiridum/"
     },
     {
       "slug": "glutamic-acid",
@@ -432,6 +2772,66 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/glycine/"
+    },
+    {
+      "slug": "golimumabum",
+      "name": "Golimumabum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/golimumabum/"
+    },
+    {
+      "slug": "goserelinum",
+      "name": "Goserelinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/goserelinum/"
+    },
+    {
+      "slug": "guaifenesinum",
+      "name": "Guaifenesinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/guaifenesinum/"
+    },
+    {
+      "slug": "guanfacinum",
+      "name": "Guanfacinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/guanfacinum/"
+    },
+    {
+      "slug": "haloperidolum",
+      "name": "Haloperidolum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/haloperidolum/"
+    },
+    {
+      "slug": "heparinum-natricum",
+      "name": "Heparinum Natricum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/heparinum-natricum/"
     },
     {
       "slug": "hesperidin",
@@ -464,6 +2864,146 @@
       "url": "/drugs/histidine/"
     },
     {
+      "slug": "hydrocortisonum",
+      "name": "Hydrocortisonum",
+      "evidence_level": "L1",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/hydrocortisonum/"
+    },
+    {
+      "slug": "hydromorphoni-hydrochloridum",
+      "name": "Hydromorphoni Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/hydromorphoni-hydrochloridum/"
+    },
+    {
+      "slug": "hydroxocobalamini-acetas",
+      "name": "Hydroxocobalamini Acetas",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/hydroxocobalamini-acetas/"
+    },
+    {
+      "slug": "hydroxyzini-hydrochloridum",
+      "name": "Hydroxyzini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/hydroxyzini-hydrochloridum/"
+    },
+    {
+      "slug": "ibuprofenum",
+      "name": "Ibuprofenum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ibuprofenum/"
+    },
+    {
+      "slug": "icatibantum",
+      "name": "Icatibantum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/icatibantum/"
+    },
+    {
+      "slug": "idebenonum",
+      "name": "Idebenonum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/idebenonum/"
+    },
+    {
+      "slug": "idelalisibum",
+      "name": "Idelalisibum",
+      "evidence_level": "L3",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/idelalisibum/"
+    },
+    {
+      "slug": "iloprostum",
+      "name": "Iloprostum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/iloprostum/"
+    },
+    {
+      "slug": "imatinibum",
+      "name": "Imatinibum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/imatinibum/"
+    },
+    {
+      "slug": "imiglucerasum",
+      "name": "Imiglucerasum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/imiglucerasum/"
+    },
+    {
+      "slug": "imipenemum-anhydricum-cilastatinum",
+      "name": "Imipenemum Anhydricum Cilastatinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/imipenemum-anhydricum-cilastatinum/"
+    },
+    {
+      "slug": "imiquimodum",
+      "name": "Imiquimodum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/imiquimodum/"
+    },
+    {
+      "slug": "indometacinum",
+      "name": "Indometacinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/indometacinum/"
+    },
+    {
       "slug": "insulin-detemir",
       "name": "Insulin Detemir",
       "evidence_level": "L5",
@@ -482,6 +3022,76 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/insulin-glulisine/"
+    },
+    {
+      "slug": "insulinum-aspartum",
+      "name": "Insulinum Aspartum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/insulinum-aspartum/"
+    },
+    {
+      "slug": "insulinum-degludecum",
+      "name": "Insulinum Degludecum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/insulinum-degludecum/"
+    },
+    {
+      "slug": "insulinum-glarginum",
+      "name": "Insulinum Glarginum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/insulinum-glarginum/"
+    },
+    {
+      "slug": "insulinum-lisprum",
+      "name": "Insulinum Lisprum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/insulinum-lisprum/"
+    },
+    {
+      "slug": "ipilimumabum",
+      "name": "Ipilimumabum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ipilimumabum/"
+    },
+    {
+      "slug": "irbesartanum",
+      "name": "Irbesartanum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/irbesartanum/"
+    },
+    {
+      "slug": "irinotecani-hydrochloridum-trihydricum",
+      "name": "Irinotecani Hydrochloridum Trihydricum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/irinotecani-hydrochloridum-trihydricum/"
     },
     {
       "slug": "isavuconazonium",
@@ -504,6 +3114,266 @@
       "url": "/drugs/isoleucine/"
     },
     {
+      "slug": "isoniazidum",
+      "name": "Isoniazidum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/isoniazidum/"
+    },
+    {
+      "slug": "isoprenalini-hydrochloridum",
+      "name": "Isoprenalini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/isoprenalini-hydrochloridum/"
+    },
+    {
+      "slug": "isotretinoinum",
+      "name": "Isotretinoinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/isotretinoinum/"
+    },
+    {
+      "slug": "itraconazolum",
+      "name": "Itraconazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/itraconazolum/"
+    },
+    {
+      "slug": "ivermectinum",
+      "name": "Ivermectinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ivermectinum/"
+    },
+    {
+      "slug": "ivosidenibum",
+      "name": "Ivosidenibum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ivosidenibum/"
+    },
+    {
+      "slug": "kalii-chloridum",
+      "name": "Kalii Chloridum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/kalii-chloridum/"
+    },
+    {
+      "slug": "ketoconazolum",
+      "name": "Ketoconazolum",
+      "evidence_level": "L4",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ketoconazolum/"
+    },
+    {
+      "slug": "ketoprofenum",
+      "name": "Ketoprofenum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ketoprofenum/"
+    },
+    {
+      "slug": "ketorolacum-trometamolum",
+      "name": "Ketorolacum Trometamolum",
+      "evidence_level": "L1",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ketorolacum-trometamolum/"
+    },
+    {
+      "slug": "labetaloli-hydrochloridum",
+      "name": "Labetaloli Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/labetaloli-hydrochloridum/"
+    },
+    {
+      "slug": "lactulosum-liquidum",
+      "name": "Lactulosum Liquidum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lactulosum-liquidum/"
+    },
+    {
+      "slug": "lamivudinum",
+      "name": "Lamivudinum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lamivudinum/"
+    },
+    {
+      "slug": "lamotriginum",
+      "name": "Lamotriginum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lamotriginum/"
+    },
+    {
+      "slug": "lanadelumabum",
+      "name": "Lanadelumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lanadelumabum/"
+    },
+    {
+      "slug": "lanreotidum",
+      "name": "Lanreotidum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lanreotidum/"
+    },
+    {
+      "slug": "lansoprazolum",
+      "name": "Lansoprazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lansoprazolum/"
+    },
+    {
+      "slug": "lapatinibum",
+      "name": "Lapatinibum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lapatinibum/"
+    },
+    {
+      "slug": "latanoprostum",
+      "name": "Latanoprostum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/latanoprostum/"
+    },
+    {
+      "slug": "leflunomidum",
+      "name": "Leflunomidum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/leflunomidum/"
+    },
+    {
+      "slug": "lenalidomidum",
+      "name": "Lenalidomidum",
+      "evidence_level": "L2",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lenalidomidum/"
+    },
+    {
+      "slug": "lenvatinibum",
+      "name": "Lenvatinibum",
+      "evidence_level": "L3",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lenvatinibum/"
+    },
+    {
+      "slug": "letermovirum",
+      "name": "Letermovirum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/letermovirum/"
+    },
+    {
+      "slug": "levetiracetamum",
+      "name": "Levetiracetamum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/levetiracetamum/"
+    },
+    {
+      "slug": "levocabastinum",
+      "name": "Levocabastinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/levocabastinum/"
+    },
+    {
+      "slug": "levocetirizini-dihydrochloridum",
+      "name": "Levocetirizini Dihydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/levocetirizini-dihydrochloridum/"
+    },
+    {
       "slug": "levodopa",
       "name": "Levodopa",
       "evidence_level": "L5",
@@ -512,6 +3382,96 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/levodopa/"
+    },
+    {
+      "slug": "levofloxacinum",
+      "name": "Levofloxacinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/levofloxacinum/"
+    },
+    {
+      "slug": "levonorgestrelum",
+      "name": "Levonorgestrelum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/levonorgestrelum/"
+    },
+    {
+      "slug": "levothyroxinum-natricum-anhydricum",
+      "name": "Levothyroxinum Natricum Anhydricum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/levothyroxinum-natricum-anhydricum/"
+    },
+    {
+      "slug": "lidocaini-hydrochloridum-anhydricum-adrenalinum",
+      "name": "Lidocaini Hydrochloridum Anhydricum Adrenalinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lidocaini-hydrochloridum-anhydricum-adrenalinum/"
+    },
+    {
+      "slug": "lifitegrastum",
+      "name": "Lifitegrastum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lifitegrastum/"
+    },
+    {
+      "slug": "linaclotidum",
+      "name": "Linaclotidum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/linaclotidum/"
+    },
+    {
+      "slug": "lisdexamfetamini-dimesilas",
+      "name": "Lisdexamfetamini Dimesilas",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lisdexamfetamini-dimesilas/"
+    },
+    {
+      "slug": "lisinoprilum",
+      "name": "Lisinoprilum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lisinoprilum/"
+    },
+    {
+      "slug": "lithium",
+      "name": "Lithium",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lithium/"
     },
     {
       "slug": "lonoctocog-alfa",
@@ -524,6 +3484,16 @@
       "url": "/drugs/lonoctocog-alfa/"
     },
     {
+      "slug": "loperamidi-hydrochloridum",
+      "name": "Loperamidi Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/loperamidi-hydrochloridum/"
+    },
+    {
       "slug": "lopinavir",
       "name": "Lopinavir",
       "evidence_level": "L4",
@@ -532,6 +3502,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lopinavir/"
+    },
+    {
+      "slug": "lorazepamum",
+      "name": "Lorazepamum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lorazepamum/"
+    },
+    {
+      "slug": "lorlatinibum",
+      "name": "Lorlatinibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lorlatinibum/"
+    },
+    {
+      "slug": "losartanum-kalicum",
+      "name": "Losartanum Kalicum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/losartanum-kalicum/"
     },
     {
       "slug": "lumacaftor",
@@ -544,6 +3544,106 @@
       "url": "/drugs/lumacaftor/"
     },
     {
+      "slug": "lurasidonum",
+      "name": "Lurasidonum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/lurasidonum/"
+    },
+    {
+      "slug": "magnesii-hydroxidum",
+      "name": "Magnesii Hydroxidum",
+      "evidence_level": "L3",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/magnesii-hydroxidum/"
+    },
+    {
+      "slug": "mannitolum",
+      "name": "Mannitolum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mannitolum/"
+    },
+    {
+      "slug": "mebendazolum",
+      "name": "Mebendazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mebendazolum/"
+    },
+    {
+      "slug": "medroxyprogesteroni-acetas",
+      "name": "Medroxyprogesteroni Acetas",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/medroxyprogesteroni-acetas/"
+    },
+    {
+      "slug": "melphalanum",
+      "name": "Melphalanum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/melphalanum/"
+    },
+    {
+      "slug": "mepolizumabum",
+      "name": "Mepolizumabum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mepolizumabum/"
+    },
+    {
+      "slug": "mercaptopurinum-monohydricum",
+      "name": "Mercaptopurinum Monohydricum",
+      "evidence_level": "L3",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mercaptopurinum-monohydricum/"
+    },
+    {
+      "slug": "meropenemum",
+      "name": "Meropenemum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/meropenemum/"
+    },
+    {
+      "slug": "mesalazinum",
+      "name": "Mesalazinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mesalazinum/"
+    },
+    {
       "slug": "metamizole",
       "name": "Metamizole",
       "evidence_level": "L4",
@@ -552,6 +3652,326 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/metamizole/"
+    },
+    {
+      "slug": "metforminum",
+      "name": "Metforminum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/metforminum/"
+    },
+    {
+      "slug": "methenaminum",
+      "name": "Methenaminum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/methenaminum/"
+    },
+    {
+      "slug": "methotrexatum",
+      "name": "Methotrexatum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/methotrexatum/"
+    },
+    {
+      "slug": "methylphenidati-hydrochloridum",
+      "name": "Methylphenidati Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/methylphenidati-hydrochloridum/"
+    },
+    {
+      "slug": "methylprednisolonum",
+      "name": "Methylprednisolonum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/methylprednisolonum/"
+    },
+    {
+      "slug": "metoclopramidum",
+      "name": "Metoclopramidum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/metoclopramidum/"
+    },
+    {
+      "slug": "metolazonum",
+      "name": "Metolazonum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/metolazonum/"
+    },
+    {
+      "slug": "metoprololi-tartras",
+      "name": "Metoprololi Tartras",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/metoprololi-tartras/"
+    },
+    {
+      "slug": "metronidazolum",
+      "name": "Metronidazolum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/metronidazolum/"
+    },
+    {
+      "slug": "mianserini-hydrochloridum",
+      "name": "Mianserini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mianserini-hydrochloridum/"
+    },
+    {
+      "slug": "micafunginum",
+      "name": "Micafunginum",
+      "evidence_level": "L3",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/micafunginum/"
+    },
+    {
+      "slug": "miconazoli-nitras",
+      "name": "Miconazoli Nitras",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/miconazoli-nitras/"
+    },
+    {
+      "slug": "midazolamum",
+      "name": "Midazolamum",
+      "evidence_level": "L3",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/midazolamum/"
+    },
+    {
+      "slug": "midodrini-hydrochloridum",
+      "name": "Midodrini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/midodrini-hydrochloridum/"
+    },
+    {
+      "slug": "miglustatum",
+      "name": "Miglustatum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/miglustatum/"
+    },
+    {
+      "slug": "minocyclinum",
+      "name": "Minocyclinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/minocyclinum/"
+    },
+    {
+      "slug": "minoxidilum",
+      "name": "Minoxidilum",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/minoxidilum/"
+    },
+    {
+      "slug": "mirtazapinum",
+      "name": "Mirtazapinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mirtazapinum/"
+    },
+    {
+      "slug": "mitomycinum",
+      "name": "Mitomycinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mitomycinum/"
+    },
+    {
+      "slug": "moclobemidum",
+      "name": "Moclobemidum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/moclobemidum/"
+    },
+    {
+      "slug": "modafinilum",
+      "name": "Modafinilum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/modafinilum/"
+    },
+    {
+      "slug": "mogamulizumabum",
+      "name": "Mogamulizumabum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mogamulizumabum/"
+    },
+    {
+      "slug": "montelukastum",
+      "name": "Montelukastum",
+      "evidence_level": "L4",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/montelukastum/"
+    },
+    {
+      "slug": "morphinum",
+      "name": "Morphinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/morphinum/"
+    },
+    {
+      "slug": "moxifloxacinum",
+      "name": "Moxifloxacinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/moxifloxacinum/"
+    },
+    {
+      "slug": "moxonidinum",
+      "name": "Moxonidinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/moxonidinum/"
+    },
+    {
+      "slug": "mupirocinum",
+      "name": "Mupirocinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/mupirocinum/"
+    },
+    {
+      "slug": "naproxenum",
+      "name": "Naproxenum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/naproxenum/"
+    },
+    {
+      "slug": "naratriptanum",
+      "name": "Naratriptanum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/naratriptanum/"
+    },
+    {
+      "slug": "natalizumabum",
+      "name": "Natalizumabum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/natalizumabum/"
+    },
+    {
+      "slug": "nebivololum",
+      "name": "Nebivololum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nebivololum/"
+    },
+    {
+      "slug": "nelarabinum",
+      "name": "Nelarabinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nelarabinum/"
     },
     {
       "slug": "netarsudil",
@@ -564,6 +3984,86 @@
       "url": "/drugs/netarsudil/"
     },
     {
+      "slug": "nevirapinum",
+      "name": "Nevirapinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nevirapinum/"
+    },
+    {
+      "slug": "nicardipini-hydrochloridum",
+      "name": "Nicardipini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nicardipini-hydrochloridum/"
+    },
+    {
+      "slug": "nilotinibum",
+      "name": "Nilotinibum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nilotinibum/"
+    },
+    {
+      "slug": "nimodipinum",
+      "name": "Nimodipinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nimodipinum/"
+    },
+    {
+      "slug": "nintedanibum",
+      "name": "Nintedanibum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nintedanibum/"
+    },
+    {
+      "slug": "niraparibum",
+      "name": "Niraparibum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/niraparibum/"
+    },
+    {
+      "slug": "nitisinonum",
+      "name": "Nitisinonum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nitisinonum/"
+    },
+    {
+      "slug": "nitrazepamum",
+      "name": "Nitrazepamum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nitrazepamum/"
+    },
+    {
       "slug": "nitrogen",
       "name": "Nitrogen",
       "evidence_level": "L5",
@@ -572,6 +4072,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nitrogen/"
+    },
+    {
+      "slug": "noradrenalinum",
+      "name": "Noradrenalinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/noradrenalinum/"
     },
     {
       "slug": "norelgestromin",
@@ -584,6 +4094,16 @@
       "url": "/drugs/norelgestromin/"
     },
     {
+      "slug": "norfloxacinum",
+      "name": "Norfloxacinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/norfloxacinum/"
+    },
+    {
       "slug": "norgestimate",
       "name": "Norgestimate",
       "evidence_level": "L5",
@@ -592,6 +4112,236 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/norgestimate/"
+    },
+    {
+      "slug": "nortriptylinum",
+      "name": "Nortriptylinum",
+      "evidence_level": "L3",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nortriptylinum/"
+    },
+    {
+      "slug": "nystatinum",
+      "name": "Nystatinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/nystatinum/"
+    },
+    {
+      "slug": "ocrelizumabum",
+      "name": "Ocrelizumabum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ocrelizumabum/"
+    },
+    {
+      "slug": "octreotidum",
+      "name": "Octreotidum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/octreotidum/"
+    },
+    {
+      "slug": "ofatumumabum",
+      "name": "Ofatumumabum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ofatumumabum/"
+    },
+    {
+      "slug": "ofloxacinum",
+      "name": "Ofloxacinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ofloxacinum/"
+    },
+    {
+      "slug": "olanzapinum",
+      "name": "Olanzapinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/olanzapinum/"
+    },
+    {
+      "slug": "olopatadinum",
+      "name": "Olopatadinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/olopatadinum/"
+    },
+    {
+      "slug": "omalizumabum",
+      "name": "Omalizumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/omalizumabum/"
+    },
+    {
+      "slug": "omeprazolum",
+      "name": "Omeprazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/omeprazolum/"
+    },
+    {
+      "slug": "oritavancinum",
+      "name": "Oritavancinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/oritavancinum/"
+    },
+    {
+      "slug": "orlistatum",
+      "name": "Orlistatum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/orlistatum/"
+    },
+    {
+      "slug": "oxaliplatinum",
+      "name": "Oxaliplatinum",
+      "evidence_level": "L2",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/oxaliplatinum/"
+    },
+    {
+      "slug": "oxazepamum",
+      "name": "Oxazepamum",
+      "evidence_level": "L3",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/oxazepamum/"
+    },
+    {
+      "slug": "oxcarbazepinum",
+      "name": "Oxcarbazepinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/oxcarbazepinum/"
+    },
+    {
+      "slug": "oxybutyninum",
+      "name": "Oxybutyninum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/oxybutyninum/"
+    },
+    {
+      "slug": "oxymetazolini-hydrochloridum",
+      "name": "Oxymetazolini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/oxymetazolini-hydrochloridum/"
+    },
+    {
+      "slug": "paclitaxelum",
+      "name": "Paclitaxelum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/paclitaxelum/"
+    },
+    {
+      "slug": "paliperidonum",
+      "name": "Paliperidonum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/paliperidonum/"
+    },
+    {
+      "slug": "palivizumabum",
+      "name": "Palivizumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/palivizumabum/"
+    },
+    {
+      "slug": "panitumumabum",
+      "name": "Panitumumabum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/panitumumabum/"
+    },
+    {
+      "slug": "panobinostatum",
+      "name": "Panobinostatum",
+      "evidence_level": "L2",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/panobinostatum/"
+    },
+    {
+      "slug": "pantoprazolum",
+      "name": "Pantoprazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pantoprazolum/"
     },
     {
       "slug": "pantothenic-acid",
@@ -604,6 +4354,126 @@
       "url": "/drugs/pantothenic-acid/"
     },
     {
+      "slug": "paromomycinum",
+      "name": "Paromomycinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/paromomycinum/"
+    },
+    {
+      "slug": "paroxetinum",
+      "name": "Paroxetinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/paroxetinum/"
+    },
+    {
+      "slug": "pazopanibum",
+      "name": "Pazopanibum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pazopanibum/"
+    },
+    {
+      "slug": "pegaspargasum",
+      "name": "Pegaspargasum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pegaspargasum/"
+    },
+    {
+      "slug": "pembrolizumabum",
+      "name": "Pembrolizumabum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pembrolizumabum/"
+    },
+    {
+      "slug": "pemetrexedum",
+      "name": "Pemetrexedum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pemetrexedum/"
+    },
+    {
+      "slug": "penciclovirum",
+      "name": "Penciclovirum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/penciclovirum/"
+    },
+    {
+      "slug": "pentamidini-diisethionas",
+      "name": "Pentamidini Diisethionas",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pentamidini-diisethionas/"
+    },
+    {
+      "slug": "pentoxyverinum",
+      "name": "Pentoxyverinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pentoxyverinum/"
+    },
+    {
+      "slug": "perampanelum",
+      "name": "Perampanelum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/perampanelum/"
+    },
+    {
+      "slug": "perindoprilum",
+      "name": "Perindoprilum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/perindoprilum/"
+    },
+    {
+      "slug": "pertuzumabum",
+      "name": "Pertuzumabum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pertuzumabum/"
+    },
+    {
       "slug": "pheniramine",
       "name": "Pheniramine",
       "evidence_level": "L5",
@@ -612,6 +4482,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pheniramine/"
+    },
+    {
+      "slug": "phenobarbitalum",
+      "name": "Phenobarbitalum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/phenobarbitalum/"
     },
     {
       "slug": "phenol",
@@ -624,6 +4504,26 @@
       "url": "/drugs/phenol/"
     },
     {
+      "slug": "phenoxymethylpenicillinum-kalicum",
+      "name": "Phenoxymethylpenicillinum Kalicum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/phenoxymethylpenicillinum-kalicum/"
+    },
+    {
+      "slug": "phenprocoumonum",
+      "name": "Phenprocoumonum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/phenprocoumonum/"
+    },
+    {
       "slug": "phenylalanine",
       "name": "Phenylalanine",
       "evidence_level": "L4",
@@ -632,6 +4532,26 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/phenylalanine/"
+    },
+    {
+      "slug": "phenylephrini-hydrochloridum-tropicamidum",
+      "name": "Phenylephrini Hydrochloridum Tropicamidum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/phenylephrini-hydrochloridum-tropicamidum/"
+    },
+    {
+      "slug": "phenytoinum",
+      "name": "Phenytoinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/phenytoinum/"
     },
     {
       "slug": "pibrentasvir",
@@ -644,6 +4564,26 @@
       "url": "/drugs/pibrentasvir/"
     },
     {
+      "slug": "pimecrolimusum",
+      "name": "Pimecrolimusum",
+      "evidence_level": "L2",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pimecrolimusum/"
+    },
+    {
+      "slug": "pioglitazonum",
+      "name": "Pioglitazonum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pioglitazonum/"
+    },
+    {
       "slug": "piperacillin",
       "name": "Piperacillin",
       "evidence_level": "L5",
@@ -652,6 +4592,56 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/piperacillin/"
+    },
+    {
+      "slug": "pirfenidonum",
+      "name": "Pirfenidonum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pirfenidonum/"
+    },
+    {
+      "slug": "piroxicamum",
+      "name": "Piroxicamum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/piroxicamum/"
+    },
+    {
+      "slug": "pitavastatinum",
+      "name": "Pitavastatinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pitavastatinum/"
+    },
+    {
+      "slug": "pitolisantum",
+      "name": "Pitolisantum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pitolisantum/"
+    },
+    {
+      "slug": "plerixaforum",
+      "name": "Plerixaforum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/plerixaforum/"
     },
     {
       "slug": "polatuzumab-vedotin",
@@ -674,6 +4664,396 @@
       "url": "/drugs/polymyxin-b/"
     },
     {
+      "slug": "ponatinibum",
+      "name": "Ponatinibum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ponatinibum/"
+    },
+    {
+      "slug": "posaconazolum",
+      "name": "Posaconazolum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/posaconazolum/"
+    },
+    {
+      "slug": "povidonum-k-25",
+      "name": "Povidonum K 25",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/povidonum-k-25/"
+    },
+    {
+      "slug": "pralatrexatum",
+      "name": "Pralatrexatum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pralatrexatum/"
+    },
+    {
+      "slug": "pramipexolum",
+      "name": "Pramipexolum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pramipexolum/"
+    },
+    {
+      "slug": "prasteronum",
+      "name": "Prasteronum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prasteronum/"
+    },
+    {
+      "slug": "prasugrelum",
+      "name": "Prasugrelum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prasugrelum/"
+    },
+    {
+      "slug": "pravastatinum-natricum",
+      "name": "Pravastatinum Natricum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pravastatinum-natricum/"
+    },
+    {
+      "slug": "prednicarbatum",
+      "name": "Prednicarbatum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prednicarbatum/"
+    },
+    {
+      "slug": "prednisoloni-pivalas",
+      "name": "Prednisoloni Pivalas",
+      "evidence_level": "L2",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prednisoloni-pivalas/"
+    },
+    {
+      "slug": "prednisonum",
+      "name": "Prednisonum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prednisonum/"
+    },
+    {
+      "slug": "pregabalinum",
+      "name": "Pregabalinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pregabalinum/"
+    },
+    {
+      "slug": "prilocaini-hydrochloridum",
+      "name": "Prilocaini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prilocaini-hydrochloridum/"
+    },
+    {
+      "slug": "primidonum",
+      "name": "Primidonum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/primidonum/"
+    },
+    {
+      "slug": "probenecidum",
+      "name": "Probenecidum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/probenecidum/"
+    },
+    {
+      "slug": "procarbazinum",
+      "name": "Procarbazinum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/procarbazinum/"
+    },
+    {
+      "slug": "procyclidini-hydrochloridum",
+      "name": "Procyclidini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/procyclidini-hydrochloridum/"
+    },
+    {
+      "slug": "progesteronum",
+      "name": "Progesteronum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/progesteronum/"
+    },
+    {
+      "slug": "propranololi-hydrochloridum",
+      "name": "Propranololi Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/propranololi-hydrochloridum/"
+    },
+    {
+      "slug": "propylthiouracilum",
+      "name": "Propylthiouracilum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/propylthiouracilum/"
+    },
+    {
+      "slug": "prucalopridum",
+      "name": "Prucalopridum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/prucalopridum/"
+    },
+    {
+      "slug": "pyrazinamidum",
+      "name": "Pyrazinamidum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pyrazinamidum/"
+    },
+    {
+      "slug": "pyridostigmini-bromidum",
+      "name": "Pyridostigmini Bromidum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/pyridostigmini-bromidum/"
+    },
+    {
+      "slug": "quetiapinum",
+      "name": "Quetiapinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/quetiapinum/"
+    },
+    {
+      "slug": "raloxifenum",
+      "name": "Raloxifenum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/raloxifenum/"
+    },
+    {
+      "slug": "raltegravirum",
+      "name": "Raltegravirum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/raltegravirum/"
+    },
+    {
+      "slug": "ramiprilum",
+      "name": "Ramiprilum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ramiprilum/"
+    },
+    {
+      "slug": "ramucirumabum",
+      "name": "Ramucirumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ramucirumabum/"
+    },
+    {
+      "slug": "ranibizumabum",
+      "name": "Ranibizumabum",
+      "evidence_level": "L1",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ranibizumabum/"
+    },
+    {
+      "slug": "rasagilinum",
+      "name": "Rasagilinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rasagilinum/"
+    },
+    {
+      "slug": "rasburicasum",
+      "name": "Rasburicasum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rasburicasum/"
+    },
+    {
+      "slug": "ravulizumabum",
+      "name": "Ravulizumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ravulizumabum/"
+    },
+    {
+      "slug": "reboxetinum",
+      "name": "Reboxetinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/reboxetinum/"
+    },
+    {
+      "slug": "regorafenibum",
+      "name": "Regorafenibum",
+      "evidence_level": "L2",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/regorafenibum/"
+    },
+    {
+      "slug": "reslizumabum",
+      "name": "Reslizumabum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/reslizumabum/"
+    },
+    {
+      "slug": "retinoli-palmitas",
+      "name": "Retinoli Palmitas",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/retinoli-palmitas/"
+    },
+    {
+      "slug": "rifampicinum",
+      "name": "Rifampicinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rifampicinum/"
+    },
+    {
+      "slug": "rifaximinum",
+      "name": "Rifaximinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rifaximinum/"
+    },
+    {
+      "slug": "rilpivirinum",
+      "name": "Rilpivirinum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rilpivirinum/"
+    },
+    {
       "slug": "riluzole",
       "name": "Riluzole",
       "evidence_level": "L5",
@@ -682,6 +5062,126 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/riluzole/"
+    },
+    {
+      "slug": "rimegepantum",
+      "name": "Rimegepantum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rimegepantum/"
+    },
+    {
+      "slug": "risankizumabum",
+      "name": "Risankizumabum",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/risankizumabum/"
+    },
+    {
+      "slug": "risperidonum",
+      "name": "Risperidonum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/risperidonum/"
+    },
+    {
+      "slug": "ritonavirum",
+      "name": "Ritonavirum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ritonavirum/"
+    },
+    {
+      "slug": "rivastigminum",
+      "name": "Rivastigminum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rivastigminum/"
+    },
+    {
+      "slug": "rizatriptanum",
+      "name": "Rizatriptanum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rizatriptanum/"
+    },
+    {
+      "slug": "romiplostimum",
+      "name": "Romiplostimum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/romiplostimum/"
+    },
+    {
+      "slug": "ropinirolum",
+      "name": "Ropinirolum",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ropinirolum/"
+    },
+    {
+      "slug": "rosuvastatinum",
+      "name": "Rosuvastatinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rosuvastatinum/"
+    },
+    {
+      "slug": "rotigotinum",
+      "name": "Rotigotinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rotigotinum/"
+    },
+    {
+      "slug": "rufinamidum",
+      "name": "Rufinamidum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/rufinamidum/"
+    },
+    {
+      "slug": "ruxolitinibum",
+      "name": "Ruxolitinibum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ruxolitinibum/"
     },
     {
       "slug": "sacituzumab-govitecan",
@@ -704,6 +5204,26 @@
       "url": "/drugs/sacubitril/"
     },
     {
+      "slug": "safinamidum",
+      "name": "Safinamidum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/safinamidum/"
+    },
+    {
+      "slug": "salbutamolum",
+      "name": "Salbutamolum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/salbutamolum/"
+    },
+    {
       "slug": "salicylamide",
       "name": "Salicylamide",
       "evidence_level": "L5",
@@ -712,6 +5232,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/salicylamide/"
+    },
+    {
+      "slug": "salmeterolum",
+      "name": "Salmeterolum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/salmeterolum/"
+    },
+    {
+      "slug": "sapropterini-dihydrochloridum",
+      "name": "Sapropterini Dihydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sapropterini-dihydrochloridum/"
+    },
+    {
+      "slug": "scopolamini-butylbromidum",
+      "name": "Scopolamini Butylbromidum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/scopolamini-butylbromidum/"
     },
     {
       "slug": "sebelipase-alfa",
@@ -734,6 +5284,16 @@
       "url": "/drugs/selenium/"
     },
     {
+      "slug": "selumetinibum",
+      "name": "Selumetinibum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/selumetinibum/"
+    },
+    {
       "slug": "serine",
       "name": "Serine",
       "evidence_level": "L5",
@@ -742,6 +5302,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/serine/"
+    },
+    {
+      "slug": "sertralinum",
+      "name": "Sertralinum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sertralinum/"
+    },
+    {
+      "slug": "silodosinum",
+      "name": "Silodosinum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/silodosinum/"
+    },
+    {
+      "slug": "siltuximabum",
+      "name": "Siltuximabum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/siltuximabum/"
     },
     {
       "slug": "simoctocog-alfa",
@@ -754,6 +5344,66 @@
       "url": "/drugs/simoctocog-alfa/"
     },
     {
+      "slug": "simvastatinum",
+      "name": "Simvastatinum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/simvastatinum/"
+    },
+    {
+      "slug": "sirolimusum",
+      "name": "Sirolimusum",
+      "evidence_level": "L4",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sirolimusum/"
+    },
+    {
+      "slug": "sofosbuvirum",
+      "name": "Sofosbuvirum",
+      "evidence_level": "L3",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sofosbuvirum/"
+    },
+    {
+      "slug": "solriamfetolum",
+      "name": "Solriamfetolum",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/solriamfetolum/"
+    },
+    {
+      "slug": "sonidegibum",
+      "name": "Sonidegibum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sonidegibum/"
+    },
+    {
+      "slug": "sorafenibum",
+      "name": "Sorafenibum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sorafenibum/"
+    },
+    {
       "slug": "sorbitol",
       "name": "Sorbitol",
       "evidence_level": "L5",
@@ -762,6 +5412,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sorbitol/"
+    },
+    {
+      "slug": "sotaloli-hydrochloridum",
+      "name": "Sotaloli Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sotaloli-hydrochloridum/"
+    },
+    {
+      "slug": "spironolactonum",
+      "name": "Spironolactonum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/spironolactonum/"
+    },
+    {
+      "slug": "sulfadiazinum-argenticum",
+      "name": "Sulfadiazinum Argenticum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sulfadiazinum-argenticum/"
     },
     {
       "slug": "sulfamethoxazole",
@@ -774,6 +5454,26 @@
       "url": "/drugs/sulfamethoxazole/"
     },
     {
+      "slug": "sulfasalazinum",
+      "name": "Sulfasalazinum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sulfasalazinum/"
+    },
+    {
+      "slug": "sulpiridum",
+      "name": "Sulpiridum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sulpiridum/"
+    },
+    {
       "slug": "sulthiame",
       "name": "Sulthiame",
       "evidence_level": "L5",
@@ -782,6 +5482,46 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sulthiame/"
+    },
+    {
+      "slug": "sunitinibum",
+      "name": "Sunitinibum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/sunitinibum/"
+    },
+    {
+      "slug": "tacrolimusum",
+      "name": "Tacrolimusum",
+      "evidence_level": "L2",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tacrolimusum/"
+    },
+    {
+      "slug": "tadalafilum",
+      "name": "Tadalafilum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tadalafilum/"
+    },
+    {
+      "slug": "tagraxofuspum",
+      "name": "Tagraxofuspum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tagraxofuspum/"
     },
     {
       "slug": "talimogene-laherparepvec",
@@ -794,6 +5534,36 @@
       "url": "/drugs/talimogene-laherparepvec/"
     },
     {
+      "slug": "tamoxifenum",
+      "name": "Tamoxifenum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tamoxifenum/"
+    },
+    {
+      "slug": "tamsulosinum",
+      "name": "Tamsulosinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tamsulosinum/"
+    },
+    {
+      "slug": "tasonerminum",
+      "name": "Tasonerminum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tasonerminum/"
+    },
+    {
       "slug": "tazobactam",
       "name": "Tazobactam",
       "evidence_level": "N/A",
@@ -802,6 +5572,46 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tazobactam/"
+    },
+    {
+      "slug": "telbivudinum",
+      "name": "Telbivudinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/telbivudinum/"
+    },
+    {
+      "slug": "telmisartanum",
+      "name": "Telmisartanum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/telmisartanum/"
+    },
+    {
+      "slug": "temozolomidum",
+      "name": "Temozolomidum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/temozolomidum/"
+    },
+    {
+      "slug": "tenecteplasum",
+      "name": "Tenecteplasum",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tenecteplasum/"
     },
     {
       "slug": "tenofovir-alafenamide",
@@ -824,6 +5634,106 @@
       "url": "/drugs/tenofovir-disoproxil/"
     },
     {
+      "slug": "tenofovirum",
+      "name": "Tenofovirum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tenofovirum/"
+    },
+    {
+      "slug": "tenoxicamum",
+      "name": "Tenoxicamum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tenoxicamum/"
+    },
+    {
+      "slug": "teprotumumabum",
+      "name": "Teprotumumabum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/teprotumumabum/"
+    },
+    {
+      "slug": "terazosinum",
+      "name": "Terazosinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/terazosinum/"
+    },
+    {
+      "slug": "terbutalini-sulfas",
+      "name": "Terbutalini Sulfas",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/terbutalini-sulfas/"
+    },
+    {
+      "slug": "teriparatidum-adnr",
+      "name": "Teriparatidum Adnr",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/teriparatidum-adnr/"
+    },
+    {
+      "slug": "tetrabenazinum",
+      "name": "Tetrabenazinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tetrabenazinum/"
+    },
+    {
+      "slug": "tetracaini-hydrochloridum",
+      "name": "Tetracaini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tetracaini-hydrochloridum/"
+    },
+    {
+      "slug": "tetracyclinum",
+      "name": "Tetracyclinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tetracyclinum/"
+    },
+    {
+      "slug": "tetryzolini-hydrochloridum",
+      "name": "Tetryzolini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tetryzolini-hydrochloridum/"
+    },
+    {
       "slug": "tezacaftor",
       "name": "Tezacaftor",
       "evidence_level": "L5",
@@ -832,6 +5742,26 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tezacaftor/"
+    },
+    {
+      "slug": "theophyllinum-et-ethylendiaminum",
+      "name": "Theophyllinum Et Ethylendiaminum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/theophyllinum-et-ethylendiaminum/"
+    },
+    {
+      "slug": "thiopentalum",
+      "name": "Thiopentalum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/thiopentalum/"
     },
     {
       "slug": "threonine",
@@ -854,6 +5784,16 @@
       "url": "/drugs/thymol/"
     },
     {
+      "slug": "ticagrelorum",
+      "name": "Ticagrelorum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ticagrelorum/"
+    },
+    {
       "slug": "tiotropium",
       "name": "Tiotropium",
       "evidence_level": "L5",
@@ -874,6 +5814,96 @@
       "url": "/drugs/tipiracil/"
     },
     {
+      "slug": "tobramycinum",
+      "name": "Tobramycinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tobramycinum/"
+    },
+    {
+      "slug": "tocilizumabum",
+      "name": "Tocilizumabum",
+      "evidence_level": "L1",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tocilizumabum/"
+    },
+    {
+      "slug": "tolcaponum",
+      "name": "Tolcaponum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tolcaponum/"
+    },
+    {
+      "slug": "tolvaptanum",
+      "name": "Tolvaptanum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tolvaptanum/"
+    },
+    {
+      "slug": "topiramatum",
+      "name": "Topiramatum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/topiramatum/"
+    },
+    {
+      "slug": "topotecanum",
+      "name": "Topotecanum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/topotecanum/"
+    },
+    {
+      "slug": "trabectedinum",
+      "name": "Trabectedinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/trabectedinum/"
+    },
+    {
+      "slug": "tramadoli-hydrochloridum",
+      "name": "Tramadoli Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tramadoli-hydrochloridum/"
+    },
+    {
+      "slug": "trametinibum",
+      "name": "Trametinibum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/trametinibum/"
+    },
+    {
       "slug": "trandolapril",
       "name": "Trandolapril",
       "evidence_level": "L5",
@@ -884,6 +5914,76 @@
       "url": "/drugs/trandolapril/"
     },
     {
+      "slug": "trastuzumabum",
+      "name": "Trastuzumabum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/trastuzumabum/"
+    },
+    {
+      "slug": "travoprostum",
+      "name": "Travoprostum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/travoprostum/"
+    },
+    {
+      "slug": "trazodonum",
+      "name": "Trazodonum",
+      "evidence_level": "L3",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/trazodonum/"
+    },
+    {
+      "slug": "treprostinilum",
+      "name": "Treprostinilum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/treprostinilum/"
+    },
+    {
+      "slug": "tretinoinum",
+      "name": "Tretinoinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tretinoinum/"
+    },
+    {
+      "slug": "triamcinolonum",
+      "name": "Triamcinolonum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/triamcinolonum/"
+    },
+    {
+      "slug": "trifarotenum",
+      "name": "Trifarotenum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/trifarotenum/"
+    },
+    {
       "slug": "trimethoprim",
       "name": "Trimethoprim",
       "evidence_level": "L5",
@@ -892,6 +5992,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/trimethoprim/"
+    },
+    {
+      "slug": "tropicamidum",
+      "name": "Tropicamidum",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/tropicamidum/"
     },
     {
       "slug": "tryptophan",
@@ -934,6 +6044,26 @@
       "url": "/drugs/undecylenic-acid/"
     },
     {
+      "slug": "upadacitinibum",
+      "name": "Upadacitinibum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/upadacitinibum/"
+    },
+    {
+      "slug": "ustekinumabum",
+      "name": "Ustekinumabum",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/ustekinumabum/"
+    },
+    {
       "slug": "valine",
       "name": "Valine",
       "evidence_level": "L5",
@@ -942,6 +6072,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/valine/"
+    },
+    {
+      "slug": "valsartanum",
+      "name": "Valsartanum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/valsartanum/"
+    },
+    {
+      "slug": "vancomycinum",
+      "name": "Vancomycinum",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vancomycinum/"
+    },
+    {
+      "slug": "vandetanibum",
+      "name": "Vandetanibum",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vandetanibum/"
     },
     {
       "slug": "velpatasvir",
@@ -954,6 +6114,46 @@
       "url": "/drugs/velpatasvir/"
     },
     {
+      "slug": "venetoclaxum",
+      "name": "Venetoclaxum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/venetoclaxum/"
+    },
+    {
+      "slug": "verapamili-hydrochloridum",
+      "name": "Verapamili Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/verapamili-hydrochloridum/"
+    },
+    {
+      "slug": "vernakalantum",
+      "name": "Vernakalantum",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vernakalantum/"
+    },
+    {
+      "slug": "verteporfinum",
+      "name": "Verteporfinum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/verteporfinum/"
+    },
+    {
       "slug": "vilanterol",
       "name": "Vilanterol",
       "evidence_level": "L5",
@@ -964,6 +6164,66 @@
       "url": "/drugs/vilanterol/"
     },
     {
+      "slug": "vildagliptinum",
+      "name": "Vildagliptinum",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vildagliptinum/"
+    },
+    {
+      "slug": "vinblastini-sulfas",
+      "name": "Vinblastini Sulfas",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vinblastini-sulfas/"
+    },
+    {
+      "slug": "vincristini-sulfas",
+      "name": "Vincristini Sulfas",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vincristini-sulfas/"
+    },
+    {
+      "slug": "vindesini-sulfas",
+      "name": "Vindesini Sulfas",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vindesini-sulfas/"
+    },
+    {
+      "slug": "vinorelbinum",
+      "name": "Vinorelbinum",
+      "evidence_level": "L3",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vinorelbinum/"
+    },
+    {
+      "slug": "vismodegibum",
+      "name": "Vismodegibum",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vismodegibum/"
+    },
+    {
       "slug": "vonicog-alfa",
       "name": "Vonicog Alfa",
       "evidence_level": "L5",
@@ -972,6 +6232,16 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/vonicog-alfa/"
+    },
+    {
+      "slug": "vortioxetinum",
+      "name": "Vortioxetinum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/vortioxetinum/"
     },
     {
       "slug": "voxilaprevir",
@@ -994,6 +6264,46 @@
       "url": "/drugs/xylitol/"
     },
     {
+      "slug": "xylometazolini-hydrochloridum",
+      "name": "Xylometazolini Hydrochloridum",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/xylometazolini-hydrochloridum/"
+    },
+    {
+      "slug": "zanamivirum",
+      "name": "Zanamivirum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/zanamivirum/"
+    },
+    {
+      "slug": "zanubrutinibum",
+      "name": "Zanubrutinibum",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/zanubrutinibum/"
+    },
+    {
+      "slug": "zidovudinum",
+      "name": "Zidovudinum",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/zidovudinum/"
+    },
+    {
       "slug": "zinc-oxide",
       "name": "Zinc Oxide",
       "evidence_level": "L4",
@@ -1002,6 +6312,36 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/zinc-oxide/"
+    },
+    {
+      "slug": "zolmitriptanum",
+      "name": "Zolmitriptanum",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/zolmitriptanum/"
+    },
+    {
+      "slug": "zolpidemi-tartras",
+      "name": "Zolpidemi Tartras",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/zolpidemi-tartras/"
+    },
+    {
+      "slug": "zuclopenthixoli-decanoas",
+      "name": "Zuclopenthixoli Decanoas",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/zuclopenthixoli-decanoas/"
     }
   ]
 }

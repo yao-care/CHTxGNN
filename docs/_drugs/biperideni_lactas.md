@@ -1,33 +1,102 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: BIPERIDENI LACTAS
+title: Biperideni Lactas
+parent: Nur Modellvorhersage (L5)
+nav_order: 92
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB00810
-permalink: /drugs/biperideni_lactas/
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Biperiden"
+predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
+last_modified_at: 2026-11-16
+description: "Biperideni Lactas: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Morbo di Parkinson"
 ---
 
-# BIPERIDENI LACTAS
+# Biperideni Lactas
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Biperideni Lactas: Rasmussen-Enzephalitis (Rasmussen subacute encephalitis)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Biperidenlactat ist ein Anticholinergikum, das in der Schweiz als Akineton in mehreren Darreichungsformen im Handel ist. Die Vorhersage legt nahe, dass es bei der Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) wirksam sein könnte, einer seltenen, immunvermittelten chronischen Hirnentzündung mit fokaler Epilepsie. Diese Vorhersage beruht ausschliesslich auf einem Rechenmodell: Es liegen weder klinische Studien noch Literatur zu dieser Erkrankung vor (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Morbo di Parkinson |
+| Vorhergesagte neue Indikation | Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) |
+| TxGNN-Vorhersagewert | 0.9994 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| DrugBank ID | [DB00810](https://go.drugbank.com/drugs/DB00810) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Biperiden ist ein Anticholinergikum, das bevorzugt den muskarinischen M1-Rezeptor blockiert. Detaillierte Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor.
+
+Die Rasmussen-Enzephalitis ist eine T-Zell-getriebene, immunvermittelte chronische Enzephalitis mit fokaler Epilepsie. Ein klarer Zusammenhang zwischen einer M1-Blockade und den Krankheitsprozessen ist bisher nicht belegt. Der hohe Vorhersagewert ist eine rein rechnerische Aussage und stützt sich nicht auf klinische oder publizierte Befunde. Die biologische Plausibilität ist daher gering und müsste zuerst durch Mechanismusstudien untermauert werden.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 54937 | Akineton retard, Tabletten mit verlängerter Wirkstofffreisetzung | Synthetika | Parkinson-Krankheit |
+| 24036 | Akineton, Tabletten | Synthetika | Parkinson-Krankheit |
+| 24035 | Akineton, Injektionslösung | Synthetika | Parkinson-Krankheit |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Für die Rasmussen-Enzephalitis gibt es weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus ist nicht erkennbar. Die Vorhersage bleibt rein rechnerisch (L5).
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Mechanistische Begründung, wie eine M1-Blockade den entzündlichen oder epileptogenen Prozess der Rasmussen-Enzephalitis beeinflussen könnte
+- Präklinische Daten oder erste klinische Beobachtungen zu dieser Erkrankung
+- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

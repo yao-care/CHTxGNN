@@ -1,34 +1,98 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: BROLUCIZUMABUM
+title: Brolucizumabum
+parent: Nur Modellvorhersage (L5)
+nav_order: 99
+evidence_level: L5
+indication_count: 4
 drugbank_id: DB14864
-permalink: /drugs/brolucizumabum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Brolucizumab"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
+last_modified_at: 2026-11-16
+description: "Brolucizumabum: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) (Evidenzstufe L5)."
 ---
 
-# BROLUCIZUMABUM
+# Brolucizumabum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Brolucizumabum: Mitochondriale Störung der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Brolucizumab ist ein gegen VEGF-A gerichtetes Antikörperfragment, das in das Auge gespritzt wird. Für die Vorhersage einer Wirksamkeit bei mitochondrialen Störungen der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) gibt es keine gestützte Evidenz: Weder klinische Studien noch Literatur liegen vor, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | altersbedingte Makuladegeneration (AMD) und diabetisches Makulaödem (DME) |
+| Vorhergesagte neue Indikation | Mitochondriale Störung der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
+| TxGNN-Vorhersagewert | 0.9967 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| DrugBank ID | [DB14864](https://go.drugbank.com/drugs/DB14864) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Brolucizumab VEGF-A hemmt, einen Wachstumsfaktor für Gefässneubildung und Gefässdurchlässigkeit. Es wird direkt ins Auge gespritzt, die Wirkstoffmenge im restlichen Körper ist bewusst gering.
+
+Mitochondriale Störungen der oxidativen Phosphorylierung entstehen durch Defekte beim Aufbau oder der Funktion der Atmungskette. Diese Defekte werden durch eine VEGF-A-Hemmung nicht behoben. Ein mechanistischer Zusammenhang ist daher nicht belegt.
+
+Der hohe Vorhersagewert ist eine reine Modellvorhersage. Zudem sind bei Brolucizumab Entzündungen im Auge und Netzhautgefässentzündungen bekannt, was bei einer Ausweitung auf eine systemische Stoffwechselerkrankung zusätzlich Bedenken weckt.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 67244 | Beovu 120mg/1ml, Injektionslösung in Fertigspritze | Biotechnologika | Altersbedingte Makuladegeneration (AMD) und diabetisches Makulaödem (DME) |
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, und ein mechanistischer Zusammenhang ist nicht erkennbar.
+- Die Sicherheitsdaten aus der Fachinformation fehlen bisher.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Präklinische oder klinische Hinweise, die einen Zusammenhang zwischen VEGF-A-Hemmung und mitochondrialen Störungen stützen
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

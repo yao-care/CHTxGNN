@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00770-double-outlet-right-ventricle-with-subaortic-or-doubly-committed-ventricular-septal-defect-with-pulmonary-stenosis",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00770"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    }
+  ]
+}

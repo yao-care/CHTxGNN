@@ -1,34 +1,112 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: NELARABINUM
+title: Nelarabinum
+parent: Nur Modellvorhersage (L5)
+nav_order: 407
+evidence_level: L5
+indication_count: 1
 drugbank_id: DB01280
-permalink: /drugs/nelarabinum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Nelarabine"
+predicted_indications: ["relapsing-remitting multiple sclerosis"]
+last_modified_at: 2026-11-16
+description: "Nelarabinum: vorhergesagte neue Indikation Schubförmig remittierende Multiple Sklerose (relapsing-remitting multiple sclerosis) (Evidenzstufe L5)."
 ---
 
-# NELARABINUM
+# Nelarabinum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Nelarabinum: Schubförmig remittierende Multiple Sklerose (relapsing-remitting multiple sclerosis)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Nelarabin ist ein Arzneimittel zur Behandlung von Leukämie und Lymphom. Die Vorhersage nennt als mögliche neue Anwendung die schubförmig remittierende Multiple Sklerose (relapsing-remitting multiple sclerosis). Dafür liegt ausschliesslich eine Modellvorhersage vor, es gibt keine klinischen Studien und keine Literatur; zudem besteht ein schwerwiegendes Neurotoxizitätsrisiko.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Behandlung von akuter lymphoblastischer T-Zell-Leukämie und lymphoblastischem T-Zell-Lymphom |
+| Vorhergesagte neue Indikation | Schubförmig remittierende Multiple Sklerose (relapsing-remitting multiple sclerosis) |
+| TxGNN-Vorhersagewert | 0.9943 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| DrugBank ID | [DB01280](https://go.drugbank.com/drugs/DB01280) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Nelarabin ist ein Prodrug von ara-G, einem Purinnukleosid-Analogon. Es wird zu ara-GTP umgewandelt, das in die DNA eingebaut wird und den programmierten Zelltod auslöst, mit besonderer Selektivität für T-Lymphoblasten. Die ursprünglichen Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten, daher beruht diese Beschreibung auf allgemeinem Wissen über die Substanz.
+
+Ein denkbarer Zusammenhang wäre die Verringerung krankheitsauslösender, autoreaktiver T-Zellen. Dieses Prinzip nutzen andere lymphozytenreduzierende Purinanaloga bei Multipler Sklerose, etwa Cladribin. Diese Hypothese wurde bisher nicht geprüft.
+
+Der hohe Vorhersagewert spiegelt vermutlich die strukturelle Ähnlichkeit zu Nukleosidanaloga wider, die bei Multipler Sklerose eingesetzt werden. Er ist kein Beleg für eine Wirksamkeit.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 57899 | Atriance, Infusionslösung | Synthetika | Behandlung von akuter lymphoblastischer T-Zell-Leukämie und lymphoblastischem T-Zell-Lymphom |
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (Nukleosidanalogon) |
+| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion; engmaschige neurologische Kontrolle |
+| Handhabungsschutz | Spezielle Schutzmassnahmen für zytotoxische Substanzen erforderlich |
+
+---
+
+### Sicherheitshinweise
+
+- **Wichtige Warnungen**: Nelarabin trägt eine Boxed Warning wegen schwerer Neurotoxizität, darunter Demyelinisierung, periphere Neuropathie ähnlich dem Guillain-Barré-Syndrom, Krampfanfälle und Somnolenz. Bei einer demyelinisierenden Erkrankung des zentralen Nervensystems wie Multipler Sklerose ist das ein gravierendes Sicherheitsproblem. Die Angaben stammen aus der Bewertung der Vorhersage; die Fachinformation lag in den Daten nicht vor.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Es gibt nur eine Modellvorhersage ohne klinische Studien oder Literatur zur Multiplen Sklerose, und das Neurotoxizitätsrisiko spricht stark gegen eine Umwidmung ohne belastbare Belege.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Präklinische und klinische Daten, die eine Wirkung bei schubförmig remittierender Multipler Sklerose direkt untersuchen
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) aus der Swissmedic-Quelle
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Nutzen-Risiko-Bewertung der Neurotoxizität bei demyelinisierender Erkrankung
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

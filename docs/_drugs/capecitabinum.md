@@ -1,34 +1,117 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: CAPECITABINUM
+title: Capecitabinum
+parent: Nur Modellvorhersage (L5)
+nav_order: 112
+evidence_level: L5
+indication_count: 1
 drugbank_id: DB01101
-permalink: /drugs/capecitabinum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Capecitabine"
+predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
+last_modified_at: 2026-11-16
+description: "Capecitabinum: vorhergesagte neue Indikation Magenadenokarzinom und proximale Magenpolyposis (gastric adenocarcinoma and proximal polyposis of the stomach) (Evidenzstufe L5)."
 ---
 
-# CAPECITABINUM
+# Capecitabinum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Capecitabinum: Magenadenokarzinom und proximale Magenpolyposis (gastric adenocarcinoma and proximal polyposis of the stomach)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Capecitabin ist ein orales Zytostatikum, das im Körper in 5-Fluorouracil umgewandelt wird. Die Analyse sagt voraus, dass es beim Magenadenokarzinom mit proximaler Magenpolyposis (Magenadenokarzinom und proximale Magenpolyposis (gastric adenocarcinoma and proximal polyposis of the stomach)) wirksam sein könnte. Dafür liegen bisher weder klinische Studien noch Publikationen vor, die diese seltene erbliche Erkrankung direkt untersuchen. Die Vorhersage beruht allein auf dem Modell.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Zytostatikum |
+| Vorhergesagte neue Indikation | Magenadenokarzinom und proximale Magenpolyposis (gastric adenocarcinoma and proximal polyposis of the stomach) |
+| TxGNN-Vorhersagewert | 0.9994 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
 | Anzahl Zulassungen | 5 (gültig: 5) |
-| DrugBank ID | [DB01101](https://go.drugbank.com/drugs/DB01101) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus dem Wirkstoffprofil ist Folgendes bekannt: Capecitabin ist ein Prodrug von 5-Fluorouracil. Der aktive Wirkstoff hemmt die Thymidylatsynthase und stört so die DNA- und RNA-Synthese schnell teilender Tumorzellen.
+
+Fluoropyrimidine gehören zu den Standardbausteinen der Chemotherapie bei Magenkrebs. Ein Wirkprinzip, das beim Magenadenokarzinom allgemein genutzt wird, könnte deshalb auch bei dieser Form relevant sein.
+
+Die vorhergesagte Erkrankung ist jedoch ein seltenes erbliches Syndrom. Für diese Erkrankung gibt es in den vorliegenden Daten weder Studien noch Literatur. Ob der Mechanismus hier klinisch etwas bringt, ist daher unbelegt.
+
+---
+
+### Marktinformationen Schweiz
+
+Capecitabin ist in der Schweiz im Handel. Die Zulassungsdetails ergänzt das Programm aus den lokalen Zulassungsdaten.
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (Antimetabolit, Fluoropyrimidin-Prodrug) |
+| Myelosuppressionsrisiko | Niedrig bis mittel |
+| Emetogenitätsklassifikation | Niedrig |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion; vor Therapiebeginn Prüfung auf DPD-Mangel erwägen; Haut (Hand-Fuss-Syndrom) und Magen-Darm-Verträglichkeit beobachten |
+| Handhabungsschutz | Zytostatika-Handhabung erforderlich: Tabletten nicht zerteilen oder zerdrücken, Handschuhe tragen |
+
+Diese Angaben stammen aus allgemeinem Fachwissen. Sie sind nicht in den zusammengestellten Daten enthalten und sollten mit der Fachinformation abgeglichen werden.
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Für die vorhergesagte Indikation gibt es keine klinischen Studien und keine Literatur (Evidenzniveau L5). Es existiert nur der Modellwert von 0,9994.
+- Die Zielerkrankung ist ein seltenes erbliches Syndrom, bei dem der klinische Nutzen einer systemischen Capecitabin-Therapie unbelegt ist. Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen ebenfalls.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Systematische Literaturrecherche und Suche in Studienregistern zu dieser Erkrankung, einschliesslich Fallberichten
+- Beschaffung und Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen)
+- Ergänzung der Wirkmechanismus-Daten des Wirkstoffs
+- Fachliche Einschätzung durch Onkologie und Humangenetik, ob ein systemischer Einsatz bei dieser seltenen Erkrankung sinnvoll ist
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

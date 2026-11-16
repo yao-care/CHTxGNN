@@ -1,34 +1,138 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: CITALOPRAMUM
+title: Citalopramum
+parent: Mittlere Evidenz (L3-L4)
+nav_order: 144
+evidence_level: L3
+indication_count: 5
 drugbank_id: DB00215
-permalink: /drugs/citalopramum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Citalopram"
+predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
+last_modified_at: 2026-11-16
+description: "Citalopramum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahme-Hemmer"
 ---
 
-# CITALOPRAMUM
+# Citalopramum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L3** | Vorhergesagte Indikationen: **5** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Citalopramum: Zwangsstörung (obsessive-compulsive disorder)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Citalopram ist ein selektiver Serotonin-Wiederaufnahmehemmer (SSRI). Für die Zwangsstörung (obsessive-compulsive disorder) liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt jedoch keine Studie, die Citalopram bei dieser Erkrankung direkt und kontrolliert prüft; die Evidenz stammt aus SSRI-Klassenstudien, Übersichtsarbeiten und kleinen Citalopram-Studien (Evidenzniveau L3).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Selektiver Serotonin-Wiederaufnahme-Hemmer; Selektiver Serotonin-Wiederaufnahmehemmer |
+| Vorhergesagte neue Indikation | Zwangsstörung (obsessive-compulsive disorder) |
+| TxGNN-Vorhersagewert | 0.9974 |
+| Evidenzniveau | L3 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
 | Anzahl Zulassungen | mindestens 5 |
-| DrugBank ID | [DB00215](https://go.drugbank.com/drugs/DB00215) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Citalopram hemmt selektiv die Wiederaufnahme von Serotonin. Für diesen Wirkmechanismus liegen in den hier zusammengestellten Daten keine detaillierten Angaben vor; die Einordnung als SSRI ergibt sich aus den Zulassungstexten.
+
+Die Hemmung der Serotonin-Wiederaufnahme ist der am besten belegte pharmakologische Ansatz bei der Zwangsstörung, und SSRI gelten als medikamentöse Erstlinientherapie. Der hohe Vorhersagewert passt zu dieser klassenbezogenen Biologie.
+
+Die Übersichtsarbeiten nennen Citalopram unter den Serotonin-Wiederaufnahmehemmern mit Wirksamkeitshinweisen bei Zwangsstörung. Eine kontrollierte Studie, die Citalopram bei dieser Erkrankung prüft, liegt in den Daten nicht vor.
+
+---
+
+### Klinische Studien
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT02285699](https://clinicaltrials.gov/study/NCT02285699) | Nicht zutreffend | Abgeschlossen | 43 | Pilotstudie zur Darmflora bei Zwangsstörung im Vergleich zu Gesunden, danach 12 Wochen SSRI; kein Wirksamkeitsbezug zu Citalopram |
+| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Phase 4 | Abgeschlossen | 158 | Gruppen-Verhaltenstherapie versus Fluoxetin; anderer SSRI, nur indirekte Klassenevidenz |
+| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Phase 4 | Abgeschlossen | 78 | Expositionstherapie und SSRI sowie Prädiktoren des Ansprechens; Klassenebene, Citalopram nicht gesondert benannt |
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Phase 3 | Abgeschlossen | 124 | Kinder mit Zwangsstörung und Teilansprechen auf SRI; Verhaltenstherapie als Ergänzung; Citalopram nicht gesondert untersucht |
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | Kohortenstudie (offen, randomisiert, 16 Patienten) | European Psychiatry | Citalopram allein versus Citalopram plus Clomipramin bei therapieresistenter Zwangsstörung |
+| [12839522](https://pubmed.ncbi.nlm.nih.gov/12839522/) | 2003 | Offene Studie | Psychiatry and Clinical Neurosciences | Vorläufiger Bericht: Citalopram (20–30 mg/Tag) bei 15 Kindern und Jugendlichen mit Zwangsstörung über 8 Wochen |
+| [11336616](https://pubmed.ncbi.nlm.nih.gov/11336616/) | 2001 | Übersicht | Expert Opinion on Pharmacotherapy | Umfassende Übersicht zu Citalopram; Nutzen auch bei Zwangsstörung und weiteren Erkrankungen genannt |
+| [15990479](https://pubmed.ncbi.nlm.nih.gov/15990479/) | 2000 | Übersicht | Journal of Psychiatric Practice | Biologische Therapien bei Zwangsstörung; Evidenz für Serotonin-Wiederaufnahmehemmer, darunter Citalopram |
+| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Übersicht | BMJ Clinical Evidence | Häufigkeit, Verlauf und Behandlung der Zwangsstörung |
+| [19454066](https://pubmed.ncbi.nlm.nih.gov/19454066/) | 2007 | Übersicht | BMJ Clinical Evidence | Frühere Fassung derselben Übersicht |
+| [12607204](https://pubmed.ncbi.nlm.nih.gov/12607204/) | 2000 | Übersicht | World Journal of Biological Psychiatry | Zwangsstörung: Serotonin und weitere Mechanismen |
+| [10471245](https://pubmed.ncbi.nlm.nih.gov/10471245/) | 1999 | Übersicht | Harvard Review of Psychiatry | SSRI als Mittel der Wahl bei mehreren Erkrankungen, auch Zwangsstörung |
+
+---
+
+### Marktinformationen Schweiz
+
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 5 Zulassungen).
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 49970 | Seropram 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer |
+| 59266 | Citalopram Zentiva 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
+| 55935 | Citalopram Sandoz 20, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
+| 56336 | Citalopram-Mepha, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer |
+| 57260 | Citalopram-Mepha Teva 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
+
+---
+
+### Sicherheitshinweise
+
+Die Fachinformation lag für diesen Bericht nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Aus den Daten zur Vorhersage ergeben sich zusätzlich folgende Punkte, die zu beachten sind: die dosisabhängige QT-Verlängerung, der CYP2C19-Status der Patienten sowie interagierende Begleitmedikation.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Mit Vorsicht fortfahren**
+
+**Begründung:**
+- Der Wirkmechanismus passt gut zur Zwangsstörung, und es gibt Citalopram-spezifische Hinweise aus kleinen offenen Studien und Übersichten. Eine kontrollierte Phase-2/3-Studie mit Citalopram fehlt jedoch in den vorliegenden Daten.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Citalopram-spezifische randomisierte Studien bei Zwangsstörung (die vorliegende Literaturliste ist gekürzt: 10 von 15 Publikationen wurden berücksichtigt)
+- Auswertung der Fachinformation (Warnungen, Kontraindikationen) von Swissmedic
+- Prüfung der dosisabhängigen QT-Verlängerung, des CYP2C19-Status und relevanter Wechselwirkungen
+- Ergänzung der Angaben zum Wirkmechanismus aus einer pharmakologischen Datenbank
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)
