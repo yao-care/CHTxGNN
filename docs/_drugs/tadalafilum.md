@@ -1,34 +1,104 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: TADALAFILUM
+title: Tadalafilum
+parent: Nur Modellvorhersage (L5)
+nav_order: 561
+evidence_level: L5
+indication_count: 8
 drugbank_id: DB00820
-permalink: /drugs/tadalafilum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Tadalafil"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+last_modified_at: 2026-11-16
+description: "Tadalafilum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
-# TADALAFILUM
+# Tadalafilum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Tadalafilum: Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Tadalafil ist ein Arzneimittel, das in der Schweiz im Handel ist. Für die Schweiz sind Zulassungen für mehrere Anwendungsgebiete erfasst. Die Modellvorhersage nennt als neue mögliche Anwendung die Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita). Dafür gibt es weder klinische Studien noch Literatur; die Vorhersage stützt sich allein auf das Modell (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Erektile Dysfunktion; Pulmonale arterielle Hypertonie (PAH); Pulmonale arterielle Hypertonie; Erektile Dysfunktion, Therapie der funktionellen Symptome einer benignen Prostatahyperplasie. |
+| Vorhergesagte neue Indikation | Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
+| TxGNN-Vorhersagewert | 0.9998 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
 | Anzahl Zulassungen | mindestens 4 |
-| DrugBank ID | [DB00820](https://go.drugbank.com/drugs/DB00820) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Zum Wirkmechanismus von Tadalafil liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Tadalafil die Phosphodiesterase Typ 5 (PDE5) hemmt, was die cGMP-Signalwirkung und die Gefässerweiterung verstärkt.
+
+Ein belegter mechanistischer Zusammenhang mit der vorhergesagten Erkrankung besteht nicht. Das Ambras-Syndrom ist eine seltene angeborene Störung, die mit chromosomalen Umbauten verbunden ist, welche die Regulation des Gens TRPS1 betreffen. Ein plausibler Weg, wie eine PDE5-Hemmung diese genetische Ursache beeinflussen könnte, ist nicht erkennbar. Der hohe Vorhersagewert spiegelt vermutlich eher eine statistische Nähe im Modell wider als eine biologisch begründete Wirkung.
+
+---
+
+### Marktinformationen Schweiz
+
+Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen).
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 67625 | Tadalafil Spirig HC, 2.5 mg, Filmtabletten | Synthetika | Erektile Dysfunktion |
+| 66443 | Tadalafil PAH-Mepha, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie (PAH) |
+| 67968 | Tadalafil PAH OrPha 20 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie |
+| 69170 | Tadalafil Zentiva 2,5 mg, Filmtabletten | Synthetika | Erektile Dysfunktion, funktionelle Symptome einer benignen Prostatahyperplasie |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Für die vorhergesagte Erkrankung gibt es weder klinische Studien noch Literatur, und ein biologisch plausibler Wirkmechanismus ist nicht erkennbar. Der hohe Vorhersagewert allein genügt nicht, um eine Weiterverfolgung zu rechtfertigen.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Die Angaben zu Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation.
+- Die Angaben zum Wirkmechanismus aus DrugBank.
+- Präklinische oder klinische Daten, die einen Zusammenhang zwischen PDE5-Hemmung und der vorhergesagten Erkrankung stützen.
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

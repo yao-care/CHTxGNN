@@ -1,34 +1,139 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: ACETYLCYSTEINUM
+title: Acetylcysteinum
+parent: Mittlere Evidenz (L3-L4)
+nav_order: 15
+evidence_level: L3
+indication_count: 10
 drugbank_id: DB06151
-permalink: /drugs/acetylcysteinum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Acetylcysteine"
+predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
+last_modified_at: 2026-11-16
+description: "Acetylcysteinum: vorhergesagte neue Indikation Thrombotische Erkrankung (thrombotic disease) (Evidenzstufe L3). Ursprüngliche Indikation: Mucolitico"
 ---
 
-# ACETYLCYSTEINUM
+# Acetylcysteinum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L3** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Acetylcysteinum: Thrombotische Erkrankung (thrombotic disease)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Acetylcystein wird in der Schweiz als schleimlösendes Mittel (Mukolytikum) eingesetzt. Für die Vorhersage «Thrombotische Erkrankung (thrombotic disease)» liegen kleine Studien und Beobachtungsdaten vor, die vor allem die thrombotisch-thrombozytopenische Purpura (TTP) und die transplantationsassoziierte thrombotische Mikroangiopathie (TA-TMA) betreffen. Belastbare Wirksamkeitsdaten fehlen bisher; die Evidenz ist begrenzt.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Mucolitico; Mukolytikum; mucolitico |
+| Vorhergesagte neue Indikation | Thrombotische Erkrankung (thrombotic disease) |
+| TxGNN-Vorhersagewert | 0.9996 |
+| Evidenzniveau | L3 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | mindestens 9 |
-| DrugBank ID | [DB06151](https://go.drugbank.com/drugs/DB06151) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Für den Wirkmechanismus von Acetylcystein liegen in den zusammengestellten Daten keine Angaben vor. Aus den Studienunterlagen ergibt sich jedoch folgendes Bild: Acetylcystein ist eine Thiolverbindung mit antioxidativer Wirkung. Sie kann Disulfidbrücken in den Multimeren des von-Willebrand-Faktors (VWF) spalten und so deren Grösse und Plättchenbindung verringern. Das ist für die VWF-getriebene Mikrothrombose bei TTP direkt relevant.
+
+Zusätzlich kann Acetylcystein Glutathion auffüllen sowie oxidativen Stress und Endothelschäden begrenzen. Das ist für die TA-TMA denkbar. Tierversuche an Maus und Pavian stützen den VWF-Mechanismus bei TTP.
+
+Die Bezeichnung «thrombotische Erkrankung» fasst sehr unterschiedliche Krankheitsbilder zusammen (TTP, TA-TMA, Immunthrombozytopenie, thrombotischer Phänotyp bei Niereninsuffizienz). Das Signal ist am stärksten für TTP und TMA, nicht für Thrombosen im Allgemeinen.
+
+---
+
+### Klinische Studien
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT03252925](https://clinicaltrials.gov/study/NCT03252925) | Phase 3 | Abgeschlossen | 170 | Acetylcystein bei transplantationsassoziierter thrombotischer Mikroangiopathie; keine Ergebnisse in den Daten |
+| [NCT07279610](https://clinicaltrials.gov/study/NCT07279610) | Phase 2/3 | Aktiv, nicht rekrutierend | 44 | Einarmige Studie zu Acetylcystein bei TA-TMA; noch keine Ergebnisse |
+| [NCT01808521](https://clinicaltrials.gov/study/NCT01808521) | Frühe Phase 1 | Abgeschlossen | 3 | Pilotstudie bei vermuteter TTP; zu klein für Aussagen |
+| [NCT03636932](https://clinicaltrials.gov/study/NCT03636932) | Phase 2 | Abgeschlossen | 40 | RENACTIF: randomisiert, doppelblind, Placebo-kontrolliert; thrombotischer Phänotyp bei Niereninsuffizienz (Surrogatendpunkte) |
+| [NCT04368598](https://clinicaltrials.gov/study/NCT04368598) | Phase 2 | Status unbekannt | 44 | Dexamethason plus Acetylcystein bei neu diagnostizierter Immunthrombozytopenie; Kombination |
+| [NCT03460808](https://clinicaltrials.gov/study/NCT03460808) | Phase 1/2 | Status unbekannt | 200 | Atorvastatin, Acetylcystein und Danazol bei steroidresistenter/rezidivierter Immunthrombozytopenie; Kombination |
+| [NCT05551624](https://clinicaltrials.gov/study/NCT05551624) | Frühe Phase 1 | Abgeschlossen | 15 | Atorvastatin plus Acetylcystein auf die Thrombozytenzahl bei Immunthrombozytopenie; kleine Kombinationsstudie |
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [37171598](https://pubmed.ncbi.nlm.nih.gov/37171598/) | 2023 | Fallserie | Annals of Hematology | 12 Patienten mit erworbener TTP; hochdosiertes Acetylcystein zusätzlich zu Plasmaaustausch und Steroiden |
+| [37311880](https://pubmed.ncbi.nlm.nih.gov/37311880/) | 2023 | Retrospektive Kohortenstudie | Annals of Hematology | Zusammenhang zwischen Acetylcystein und Krankenhaussterblichkeit bei erworbener TTP; Einsatz bleibt umstritten |
+| [28011677](https://pubmed.ncbi.nlm.nih.gov/28011677/) | 2017 | Präklinisch | Blood | Acetylcystein in Maus- und Pavianmodellen der TTP |
+| [28416507](https://pubmed.ncbi.nlm.nih.gov/28416507/) | 2017 | Übersichtsarbeit | Blood | Übersicht zu TTP |
+| [33540569](https://pubmed.ncbi.nlm.nih.gov/33540569/) | 2021 | Übersichtsarbeit | Journal of Clinical Medicine | Pathophysiologie, Diagnose und Behandlung der TTP |
+
+---
+
+### Marktinformationen Schweiz
+
+Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 52254 | Solmucol tosse grassa 100 mg/5 ml, sciroppo per bambini | Synthetika | Mukolytikum |
+| 62750 | Coop Vitality Acetylcystein 600, Brausetabletten | Synthetika | Mukolytikum |
+| 37561 | Fluimucil 100, granulato per soluzione orale | Synthetika | Mukolytikum |
+| 61216 | Amavita Acetylcystein 600 mg, Brausetabletten | Synthetika | Mukolytikum |
+| 57337 | Fluimucil 200 tosse grassa, compresse effervescenti | Synthetika | Mukolytikum |
+| 45179 | Fluimucil 200, compresse effervescenti | Synthetika | Mukolytikum |
+| 53985 | ACC Sandoz 600, Brausetabletten mit Brombeeraroma | Synthetika | Mukolytikum |
+| 54907 | Mucostop 600 mg, Brausetabletten | Synthetika | Mukolytikum |
+| 50046 | Solmucol tosse grassa 200 mg, pastiglia | Synthetika | Mukolytikum |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Mit Vorsicht fortfahren**
+
+**Begründung:**
+- Es gibt direkte, aber kleine Studien und Beobachtungsdaten zu TTP und TA-TMA. Die einzige Phase-3-Studie (NCT03252925) ist abgeschlossen, doch ohne veröffentlichte Ergebnisse lässt sich die Wirksamkeit nicht bestätigen.
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen noch.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Ergebnisse der Phase-3-Studie NCT03252925 und der laufenden Studie NCT07279610
+- Eingrenzung der Zielindikation auf TTP bzw. TA-TMA statt «thrombotische Erkrankung» allgemein
+- Auswertung der Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
+- Mechanismusdaten zu Acetylcystein aus einer geeigneten Arzneimitteldatenbank
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

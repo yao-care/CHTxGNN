@@ -1,34 +1,100 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: IDEBENONUM
+title: Idebenonum
+parent: Nur Modellvorhersage (L5)
+nav_order: 303
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB09081
-permalink: /drugs/idebenonum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Idebenone"
+predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
+last_modified_at: 2026-11-16
+description: "Idebenonum: vorhergesagte neue Indikation Hepatische Porphyrie (hepatic porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Neuropathie optique héréditaire de Leber"
 ---
 
-# IDEBENONUM
+# Idebenonum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Idebenonum: Hepatische Porphyrie (hepatic porphyria)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Idebenon ist ein synthetisches Analogon von Coenzym Q10 und wird in der Schweiz als Raxone vermarktet. Die Vorhersage nennt als neue mögliche Anwendung die hepatische Porphyrie (hepatic porphyria). Diese Vorhersage beruht ausschliesslich auf einem Modellwert; Studien oder Publikationen dazu liegen nicht vor, die Evidenz ist daher sehr gering.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Neuropathie optique héréditaire de Leber |
+| Vorhergesagte neue Indikation | Hepatische Porphyrie (hepatic porphyria) |
+| TxGNN-Vorhersagewert | 0.9992 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| DrugBank ID | [DB09081](https://go.drugbank.com/drugs/DB09081) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Idebenon ist ein synthetisches, kurzkettiges Benzochinon-Analogon von Coenzym Q10. Es wirkt als Elektronenüberträger und Antioxidans und unterstützt die mitochondriale Funktion. Der ursprüngliche Wirkmechanismus liegt in den aufbereiteten Daten nicht vor, die folgende Überlegung ist daher nur eine Hypothese.
+
+Bei der hepatischen Porphyrie können Zwischenprodukte des Häm-Stoffwechsels oxidativen Stress und Schäden an Leberzellen verursachen. Eine Verringerung dieses oxidativen Stresses durch Idebenon wäre denkbar, ist aber nicht belegt. Wegen der fehlenden Daten ist der Zusammenhang spekulativ.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 68063 | Raxone, Filmtabletten | Synthetika | Hereditäre Leber-Optikusneuropathie |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich nur auf ein Modell (Evidenzniveau L5). Es gibt weder klinische Studien noch Literatur, und der Wirkmechanismus ist in den Daten nicht erfasst.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Recherche zu präklinischen und klinischen Daten von Idebenon bei hepatischer Porphyrie
+- Ergänzung des Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Fachliche Prüfung, ob ein mechanistischer Zusammenhang zwischen oxidativem Stress bei Porphyrie und Idebenon plausibel ist
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

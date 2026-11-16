@@ -1,34 +1,127 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: PONATINIBUM
+title: Ponatinibum
+parent: Nur Modellvorhersage (L5)
+nav_order: 477
+evidence_level: L5
+indication_count: 2
 drugbank_id: DB08901
-permalink: /drugs/ponatinibum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Ponatinib"
+predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
+last_modified_at: 2026-11-16
+description: "Ponatinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: agent antinéoplasique"
 ---
 
-# PONATINIBUM
+# Ponatinibum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Ponatinibum: Gingivale Fibromatose (fibromatosis, gingival)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Ponatinib ist ein Krebsmedikament (antineoplastischer Wirkstoff), das in der Schweiz zugelassen ist. Die Modellvorhersage legt nahe, dass es bei gingivaler Fibromatose (fibromatosis, gingival) wirksam sein könnte. Dafür liegt ausschliesslich ein hoher TxGNN-Vorhersagewert vor; klinische Studien und Literatur fehlen vollständig.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | agent antinéoplasique |
+| Vorhergesagte neue Indikation | Gingivale Fibromatose (fibromatosis, gingival) |
+| TxGNN-Vorhersagewert | 0.9904 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| DrugBank ID | [DB08901](https://go.drugbank.com/drugs/DB08901) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus allgemeinem Fachwissen ist Ponatinib ein Multi-Kinase-Hemmer, der unter anderem BCR-ABL, FGFR, PDGFR, VEGFR, SRC und KIT blockiert.
+
+Kinase-getriebene Signalwege fördern die Vermehrung von Fibroblasten und die Fibrosebildung. Daraus lässt sich theoretisch ein Zusammenhang mit Überwuchs- und Fibrosekrankheiten wie der gingivalen Fibromatose ableiten. Dieser Zusammenhang ist jedoch spekulativ.
+
+Die gingivale Fibromatose ist meist erblich (z. B. durch eine SOS1-Mutation) oder medikamentös bedingt. Für Ponatinib wurde in den vorliegenden Daten kein stützender mechanistischer Beleg gefunden.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 63097 | Iclusig 15 mg, comprimés pelliculés | Synthetika | Antineoplastischer Wirkstoff |
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinase-Hemmer) |
+
+Weitere Angaben (Myelosuppressionsrisiko, Emetogenität, Überwachung, Handhabungsschutz) sind in den zusammengestellten Daten nicht enthalten. Bitte die Fachinformation beachten.
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+In der Bewertung der Vorhersage wird zudem darauf hingewiesen, dass Ponatinib mit einer Warnung (Boxed Warning) vor arteriellen Verschlüssen, venösen Thromboembolien, Herzinsuffizienz und Lebertoxizität verbunden ist. Diese Angaben stammen nicht aus der Schweizer Fachinformation und müssen dort überprüft werden.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich nur auf den Modellwert (Evidenzniveau L5); es gibt weder Studien noch Publikationen zu dieser Erkrankung.
+- Bei einer gutartigen, nicht lebensbedrohlichen Erkrankung ist das Herz-Kreislauf- und Leberrisiko von Ponatinib ein ungünstiges Verhältnis von Nutzen zu Risiko.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Auswertung der Schweizer Fachinformation (Warnhinweise und Kontraindikationen), da die Sicherheitsprüfung sonst nicht möglich ist
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Präklinische oder klinische Hinweise, dass Ponatinib bei gingivaler Fibromatose wirkt
+- Eine Abwägung von Wirksamkeitssignal und Sicherheitsrisiko
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

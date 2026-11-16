@@ -1,17 +1,161 @@
 {
-  "generated": "2026-11-04",
-  "total_drugs": 100,
+  "generated": "2026-11-16",
+  "total_drugs": 634,
   "level_counts": {
-    "L1": 0,
-    "L2": 0,
-    "L3": 3,
-    "L4": 8,
-    "L5": 87
+    "L1": 9,
+    "L2": 11,
+    "L3": 23,
+    "L4": 17,
+    "L5": 572
   },
   "all_drugs": [
     {
+      "name": "Abacavirum",
+      "slug": "abacavirum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Abataceptum",
+      "slug": "abataceptum",
+      "level": "L4",
+      "indication_count": 7
+    },
+    {
+      "name": "Acenocoumarolum",
+      "slug": "acenocoumarolum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Acetazolamidum",
+      "slug": "acetazolamidum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Acetylcysteinum",
+      "slug": "acetylcysteinum",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Aciclovirum",
+      "slug": "aciclovirum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Acidum Acetylsalicylicum",
+      "slug": "acidum_acetylsalicylicum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Acidum Ascorbicum",
+      "slug": "acidum_ascorbicum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Acidum Benzoicum E Resina",
+      "slug": "acidum_benzoicum_e_resina",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Acidum Chenodeoxycholicum",
+      "slug": "acidum_chenodeoxycholicum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Acidum Citricum D200",
+      "slug": "acidum_citricum_d200",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Acidum Folicum",
+      "slug": "acidum_folicum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Acidum Fusidicum Anhydricum",
+      "slug": "acidum_fusidicum_anhydricum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Acidum Salicylicum",
+      "slug": "acidum_salicylicum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Acidum Tranexamicum",
+      "slug": "acidum_tranexamicum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Acidum Ursodeoxycholicum",
+      "slug": "acidum_ursodeoxycholicum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Acidum Valproicum",
+      "slug": "acidum_valproicum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Adalimumabum",
+      "slug": "adalimumabum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Adapalenum",
+      "slug": "adapalenum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Adenosinum",
+      "slug": "adenosinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Adrenalinum",
+      "slug": "adrenalinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Afliberceptum",
+      "slug": "afliberceptum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Agomelatinum",
+      "slug": "agomelatinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
       "name": "Alanine",
       "slug": "alanine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Albendazolum",
+      "slug": "albendazolum",
       "level": "L5",
       "indication_count": 1
     },
@@ -22,14 +166,116 @@
       "indication_count": 6
     },
     {
+      "name": "Alectinibum",
+      "slug": "alectinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Alfuzosini Hydrochloridum",
+      "slug": "alfuzosini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Alglucosidase Alfa",
       "slug": "alglucosidase_alfa",
       "level": "L5",
       "indication_count": 8
     },
     {
+      "name": "Alirocumabum",
+      "slug": "alirocumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Aliskirenum",
+      "slug": "aliskirenum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
       "name": "Allantoin",
       "slug": "allantoin",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Allopurinolum",
+      "slug": "allopurinolum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Almotriptanum",
+      "slug": "almotriptanum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Alprazolamum",
+      "slug": "alprazolamum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Alprostadilum",
+      "slug": "alprostadilum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Alteplasum Adnr",
+      "slug": "alteplasum_adnr",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Amantadini Hydrochloridum",
+      "slug": "amantadini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Ambrisentanum",
+      "slug": "ambrisentanum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Ambroxoli Hydrochloridum",
+      "slug": "ambroxoli_hydrochloridum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Amifampridinum",
+      "slug": "amifampridinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Amikacinum",
+      "slug": "amikacinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Amiodaroni Hydrochloridum",
+      "slug": "amiodaroni_hydrochloridum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Amlodipinum",
+      "slug": "amlodipinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Amoxicillinum Anhydricum",
+      "slug": "amoxicillinum_anhydricum",
       "level": "L5",
       "indication_count": 8
     },
@@ -40,16 +286,40 @@
       "indication_count": 10
     },
     {
+      "name": "Anagrelidum",
+      "slug": "anagrelidum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
       "name": "Andexanet Alfa",
       "slug": "andexanet_alfa",
       "level": "L5",
       "indication_count": 4
     },
     {
+      "name": "Apomorphini Hydrochloridum Hemihydricum",
+      "slug": "apomorphini_hydrochloridum_hemihydricum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Aripiprazolum",
+      "slug": "aripiprazolum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
       "name": "Artemether",
       "slug": "artemether",
       "level": "L5",
       "indication_count": 8
+    },
+    {
+      "name": "Asenapinum",
+      "slug": "asenapinum",
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Asfotase Alfa",
@@ -64,16 +334,112 @@
       "indication_count": 1
     },
     {
+      "name": "Atazanavirum",
+      "slug": "atazanavirum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Atenololum",
+      "slug": "atenololum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Atezolizumabum",
+      "slug": "atezolizumabum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Atomoxetinum",
+      "slug": "atomoxetinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Atorvastatinum",
+      "slug": "atorvastatinum",
+      "level": "L1",
+      "indication_count": 4
+    },
+    {
+      "name": "Avapritinibum",
+      "slug": "avapritinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Avatrombopagum",
+      "slug": "avatrombopagum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Avelumabum",
+      "slug": "avelumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Avibactam",
       "slug": "avibactam",
       "level": "L5",
       "indication_count": 4
     },
     {
+      "name": "Axitinibum",
+      "slug": "axitinibum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Azathioprinum",
+      "slug": "azathioprinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Azithromycinum",
+      "slug": "azithromycinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Aztreonamum",
+      "slug": "aztreonamum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Bacitracin",
       "slug": "bacitracin",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Baricitinibum",
+      "slug": "baricitinibum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Belimumabum",
+      "slug": "belimumabum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Bendamustinum",
+      "slug": "bendamustinum",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Benralizumabum",
+      "slug": "benralizumabum",
+      "level": "L5",
+      "indication_count": 5
     },
     {
       "name": "Benzocaine",
@@ -88,10 +454,70 @@
       "indication_count": 4
     },
     {
+      "name": "Benzylpenicillinum",
+      "slug": "benzylpenicillinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Betamethasonum",
+      "slug": "betamethasonum",
+      "level": "L2",
+      "indication_count": 7
+    },
+    {
+      "name": "Bevacizumabum",
+      "slug": "bevacizumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Bezlotoxumabum",
+      "slug": "bezlotoxumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Bictegravir",
       "slug": "bictegravir",
       "level": "L5",
       "indication_count": 3
+    },
+    {
+      "name": "Bimatoprostum",
+      "slug": "bimatoprostum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Biotinum",
+      "slug": "biotinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Biperideni Lactas",
+      "slug": "biperideni_lactas",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Bisoprololi Fumaras",
+      "slug": "bisoprololi_fumaras",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Bleomycinum",
+      "slug": "bleomycinum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Bosentanum",
+      "slug": "bosentanum",
+      "level": "L4",
+      "indication_count": 8
     },
     {
       "name": "Brentuximab Vedotin",
@@ -100,14 +526,158 @@
       "indication_count": 10
     },
     {
+      "name": "Brigatinibum",
+      "slug": "brigatinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Brivaracetamum",
+      "slug": "brivaracetamum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Brolucizumabum",
+      "slug": "brolucizumabum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Bromocriptinum",
+      "slug": "bromocriptinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Budesonidum",
+      "slug": "budesonidum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Bupivacaini Hydrochloridum Anhydricum Adrenalinum",
+      "slug": "bupivacaini_hydrochloridum_anhydricum_adrenalinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Buprenorphinum",
+      "slug": "buprenorphinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Bupropioni Hydrochloridum",
+      "slug": "bupropioni_hydrochloridum",
+      "level": "L2",
+      "indication_count": 10
+    },
+    {
+      "name": "Cabergolinum",
+      "slug": "cabergolinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Cabozantinibum",
+      "slug": "cabozantinibum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Calcifediolum",
+      "slug": "calcifediolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Calcipotriol",
       "slug": "calcipotriol",
       "level": "L3",
       "indication_count": 10
     },
     {
+      "name": "Calcitriolum",
+      "slug": "calcitriolum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Camphor",
       "slug": "camphor",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Canakinumabum",
+      "slug": "canakinumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Capecitabinum",
+      "slug": "capecitabinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Caplacizumabum",
+      "slug": "caplacizumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Carbamazepinum",
+      "slug": "carbamazepinum",
+      "level": "L4",
+      "indication_count": 3
+    },
+    {
+      "name": "Carbetocinum",
+      "slug": "carbetocinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Carbimazolum",
+      "slug": "carbimazolum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Carboplatinum",
+      "slug": "carboplatinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Carfilzomibum",
+      "slug": "carfilzomibum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Carvedilolum",
+      "slug": "carvedilolum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Caspofunginum",
+      "slug": "caspofunginum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Cefazolinum",
+      "slug": "cefazolinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Ceftazidimum",
+      "slug": "ceftazidimum",
       "level": "L5",
       "indication_count": 9
     },
@@ -118,16 +688,64 @@
       "indication_count": 10
     },
     {
+      "name": "Ceftriaxonum",
+      "slug": "ceftriaxonum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Cefuroximum",
+      "slug": "cefuroximum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Celecoxibum",
+      "slug": "celecoxibum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Cemiplimabum",
+      "slug": "cemiplimabum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Centella Asiatica",
       "slug": "centella_asiatica",
       "level": "L5",
       "indication_count": 3
     },
     {
+      "name": "Ceritinibum",
+      "slug": "ceritinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Certolizumab Pegol",
       "slug": "certolizumab_pegol",
       "level": "L5",
       "indication_count": 3
+    },
+    {
+      "name": "Cetirizini Dihydrochloridum",
+      "slug": "cetirizini_dihydrochloridum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Cetuximabum",
+      "slug": "cetuximabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Chlorambucilum",
+      "slug": "chlorambucilum",
+      "level": "L5",
+      "indication_count": 5
     },
     {
       "name": "Chloramphenicol",
@@ -142,8 +760,44 @@
       "indication_count": 10
     },
     {
+      "name": "Chlorprothixeni Hydrochloridum",
+      "slug": "chlorprothixeni_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Chlorthalidone",
       "slug": "chlorthalidone",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Cholecalciferolum",
+      "slug": "cholecalciferolum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Ciclesonidum",
+      "slug": "ciclesonidum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Ciclosporinum",
+      "slug": "ciclosporinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Cilazaprilum Anhydricum",
+      "slug": "cilazaprilum_anhydricum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Ciprofloxacinum",
+      "slug": "ciprofloxacinum",
       "level": "L5",
       "indication_count": 9
     },
@@ -154,10 +808,40 @@
       "indication_count": 10
     },
     {
+      "name": "Citalopramum",
+      "slug": "citalopramum",
+      "level": "L3",
+      "indication_count": 5
+    },
+    {
+      "name": "Cladribinum",
+      "slug": "cladribinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Clarithromycinum",
+      "slug": "clarithromycinum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Clavulanic Acid",
       "slug": "clavulanic_acid",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Clemastinum",
+      "slug": "clemastinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Clindamycinum",
+      "slug": "clindamycinum",
+      "level": "L5",
+      "indication_count": 6
     },
     {
       "name": "Clioquinol",
@@ -166,10 +850,46 @@
       "indication_count": 2
     },
     {
+      "name": "Clobazamum",
+      "slug": "clobazamum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Clomipramini Hydrochloridum",
+      "slug": "clomipramini_hydrochloridum",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Clonazepamum",
+      "slug": "clonazepamum",
+      "level": "L3",
+      "indication_count": 3
+    },
+    {
+      "name": "Clonidini Hydrochloridum",
+      "slug": "clonidini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Clopidogrelum",
+      "slug": "clopidogrelum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
       "name": "Clothiapine",
       "slug": "clothiapine",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Clotrimazolum",
+      "slug": "clotrimazolum",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Cobicistat",
@@ -178,10 +898,166 @@
       "indication_count": 3
     },
     {
+      "name": "Cobimetinibum",
+      "slug": "cobimetinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Codeini Phosphas Hemihydricus",
+      "slug": "codeini_phosphas_hemihydricus",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Colchicinum",
+      "slug": "colchicinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Crizotinibum",
+      "slug": "crizotinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Cyanocobalaminum",
+      "slug": "cyanocobalaminum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Cyclopentolati Hydrochloridum",
+      "slug": "cyclopentolati_hydrochloridum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Cyclophosphamidum Anhydricum",
+      "slug": "cyclophosphamidum_anhydricum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
       "name": "Cysteine",
       "slug": "cysteine",
       "level": "L5",
       "indication_count": 7
+    },
+    {
+      "name": "Cytarabinum",
+      "slug": "cytarabinum",
+      "level": "L3",
+      "indication_count": 9
+    },
+    {
+      "name": "Dacarbazinum",
+      "slug": "dacarbazinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Dalteparinum Natricum",
+      "slug": "dalteparinum_natricum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Dantrolenum Natricum Hemiheptahydricum",
+      "slug": "dantrolenum_natricum_hemiheptahydricum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Dapoxetinum",
+      "slug": "dapoxetinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Darunavirum",
+      "slug": "darunavirum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Dasatinibum",
+      "slug": "dasatinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Daunorubicini Hydrochloridum",
+      "slug": "daunorubicini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Decitabinum",
+      "slug": "decitabinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Deferasiroxum",
+      "slug": "deferasiroxum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Deferipronum",
+      "slug": "deferipronum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Defibrotidum",
+      "slug": "defibrotidum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Demeclocyclinum Calcicum Triamcinoloni Acetonidum",
+      "slug": "demeclocyclinum_calcicum_triamcinoloni_acetonidum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Denosumabum",
+      "slug": "denosumabum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Desloratadinum",
+      "slug": "desloratadinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Desmopressinum",
+      "slug": "desmopressinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Desvenlafaxinum",
+      "slug": "desvenlafaxinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Dexamethasonum",
+      "slug": "dexamethasonum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Dexibuprofenum",
+      "slug": "dexibuprofenum",
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Dexlansoprazole",
@@ -190,16 +1066,190 @@
       "indication_count": 4
     },
     {
+      "name": "Dexmethylphenidatum",
+      "slug": "dexmethylphenidatum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Dexpanthenolum",
+      "slug": "dexpanthenolum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Dextromethorphanum",
+      "slug": "dextromethorphanum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Diazepamum",
+      "slug": "diazepamum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Diazoxidum",
+      "slug": "diazoxidum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Dibotermin Alfa",
       "slug": "dibotermin_alfa",
       "level": "L5",
       "indication_count": 9
     },
     {
+      "name": "Diclofenacum Natricum",
+      "slug": "diclofenacum_natricum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Dihydrocodeini Thiocyanas",
+      "slug": "dihydrocodeini_thiocyanas",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Dimenhydrinatum",
+      "slug": "dimenhydrinatum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Dinutuximabum Beta",
+      "slug": "dinutuximabum_beta",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Diphenhydramini Hydrochloridum",
+      "slug": "diphenhydramini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Docetaxelum",
+      "slug": "docetaxelum",
+      "level": "L1",
+      "indication_count": 7
+    },
+    {
+      "name": "Dolutegravirum",
+      "slug": "dolutegravirum",
+      "level": "L3",
+      "indication_count": 3
+    },
+    {
+      "name": "Donepezilum",
+      "slug": "donepezilum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Doravirinum",
+      "slug": "doravirinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Dorzolamidum",
+      "slug": "dorzolamidum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Doxazosinum",
+      "slug": "doxazosinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Doxorubicini Hydrochloridum",
+      "slug": "doxorubicini_hydrochloridum",
+      "level": "L1",
+      "indication_count": 8
+    },
+    {
+      "name": "Doxycyclinum",
+      "slug": "doxycyclinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Doxylaminum",
+      "slug": "doxylaminum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Dronedaronum",
+      "slug": "dronedaronum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Duloxetinum",
+      "slug": "duloxetinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Dupilumabum",
+      "slug": "dupilumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Durvalumabum",
+      "slug": "durvalumabum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Dutasteridum",
+      "slug": "dutasteridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Echinacea",
       "slug": "echinacea",
       "level": "L5",
       "indication_count": 3
+    },
+    {
+      "name": "Econazoli Nitras",
+      "slug": "econazoli_nitras",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Eculizumabum",
+      "slug": "eculizumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Edaravonum",
+      "slug": "edaravonum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Efavirenzum",
+      "slug": "efavirenzum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Eflornithinum",
+      "slug": "eflornithinum",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Efmoroctocog Alfa",
@@ -214,15 +1264,45 @@
       "indication_count": 3
     },
     {
+      "name": "Eletriptanum",
+      "slug": "eletriptanum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
       "name": "Elosulfase Alfa",
       "slug": "elosulfase_alfa",
       "level": "L5",
       "indication_count": 8
     },
     {
+      "name": "Eltrombopagum",
+      "slug": "eltrombopagum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Elvitegravir",
       "slug": "elvitegravir",
       "level": "L4",
+      "indication_count": 3
+    },
+    {
+      "name": "Emicizumabum",
+      "slug": "emicizumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Empagliflozinum",
+      "slug": "empagliflozinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Emtricitabinum",
+      "slug": "emtricitabinum",
+      "level": "L5",
       "indication_count": 3
     },
     {
@@ -232,8 +1312,188 @@
       "indication_count": 9
     },
     {
+      "name": "Enoxaparinum Natricum",
+      "slug": "enoxaparinum_natricum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Entacaponum",
+      "slug": "entacaponum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Entecavirum",
+      "slug": "entecavirum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Enzalutamidum",
+      "slug": "enzalutamidum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Epinastini Hydrochloridum",
+      "slug": "epinastini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Epirubicini Hydrochloridum",
+      "slug": "epirubicini_hydrochloridum",
+      "level": "L4",
+      "indication_count": 7
+    },
+    {
+      "name": "Eplerenonum",
+      "slug": "eplerenonum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Eribulini Mesilas",
+      "slug": "eribulini_mesilas",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ertapenemum",
+      "slug": "ertapenemum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Erythromycinum",
+      "slug": "erythromycinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Esketaminum",
+      "slug": "esketaminum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Esomeprazolum",
+      "slug": "esomeprazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Etanerceptum",
+      "slug": "etanerceptum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Etelcalcetidum",
+      "slug": "etelcalcetidum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Ethambutoli Hydrochloridum",
+      "slug": "ethambutoli_hydrochloridum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Ethinylestradiol",
       "slug": "ethinylestradiol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Ethosuximidum",
+      "slug": "ethosuximidum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Etodolacum",
+      "slug": "etodolacum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Etofenamatum",
+      "slug": "etofenamatum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Etoposidum",
+      "slug": "etoposidum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Etravirinum",
+      "slug": "etravirinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Everolimusum",
+      "slug": "everolimusum",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Evolocumabum",
+      "slug": "evolocumabum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Ezetimibum",
+      "slug": "ezetimibum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Famciclovirum",
+      "slug": "famciclovirum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Febuxostatum",
+      "slug": "febuxostatum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Felbamatum",
+      "slug": "felbamatum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Felodipinum",
+      "slug": "felodipinum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Fenfluraminum",
+      "slug": "fenfluraminum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Fenofibratum",
+      "slug": "fenofibratum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Fexofenadini Hydrochloridum",
+      "slug": "fexofenadini_hydrochloridum",
       "level": "L5",
       "indication_count": 1
     },
@@ -244,16 +1504,160 @@
       "indication_count": 1
     },
     {
+      "name": "Fidaxomicinum",
+      "slug": "fidaxomicinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Filgrastimum",
+      "slug": "filgrastimum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Finasteridum",
+      "slug": "finasteridum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Flecainidi Acetas",
+      "slug": "flecainidi_acetas",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Fluconazolum",
+      "slug": "fluconazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Fluocinoloni Acetonidum Neomycinum",
+      "slug": "fluocinoloni_acetonidum_neomycinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Fluocinonidum",
+      "slug": "fluocinonidum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Fluorometholonum",
+      "slug": "fluorometholonum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Fluorouracilum",
+      "slug": "fluorouracilum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Fluoxetinum",
+      "slug": "fluoxetinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Flupentixolum",
+      "slug": "flupentixolum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Flurbiprofenum",
+      "slug": "flurbiprofenum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Fluvastatinum",
+      "slug": "fluvastatinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Fluvoxamini Maleas",
+      "slug": "fluvoxamini_maleas",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Formaldehyde",
       "slug": "formaldehyde",
       "level": "L5",
       "indication_count": 10
     },
     {
+      "name": "Formoteroli Fumaras Dihydricus",
+      "slug": "formoteroli_fumaras_dihydricus",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Fosfomycinum",
+      "slug": "fosfomycinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Fremanezumabum",
+      "slug": "fremanezumabum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Galantaminum",
+      "slug": "galantaminum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Galcanezumabum",
+      "slug": "galcanezumabum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Gefitinibum",
+      "slug": "gefitinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Gemcitabinum",
+      "slug": "gemcitabinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Gilteritinibum",
+      "slug": "gilteritinibum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Givosiranum",
+      "slug": "givosiranum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Glecaprevir",
       "slug": "glecaprevir",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Glimepiridum",
+      "slug": "glimepiridum",
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Glutamic Acid",
@@ -266,6 +1670,42 @@
       "slug": "glycine",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Golimumabum",
+      "slug": "golimumabum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Goserelinum",
+      "slug": "goserelinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Guaifenesinum",
+      "slug": "guaifenesinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Guanfacinum",
+      "slug": "guanfacinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Haloperidolum",
+      "slug": "haloperidolum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Heparinum Natricum",
+      "slug": "heparinum_natricum",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Hesperidin",
@@ -286,6 +1726,90 @@
       "indication_count": 2
     },
     {
+      "name": "Hydrocortisonum",
+      "slug": "hydrocortisonum",
+      "level": "L1",
+      "indication_count": 9
+    },
+    {
+      "name": "Hydromorphoni Hydrochloridum",
+      "slug": "hydromorphoni_hydrochloridum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Hydroxocobalamini Acetas",
+      "slug": "hydroxocobalamini_acetas",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Hydroxyzini Hydrochloridum",
+      "slug": "hydroxyzini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Ibuprofenum",
+      "slug": "ibuprofenum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Icatibantum",
+      "slug": "icatibantum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Idebenonum",
+      "slug": "idebenonum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Idelalisibum",
+      "slug": "idelalisibum",
+      "level": "L3",
+      "indication_count": 6
+    },
+    {
+      "name": "Iloprostum",
+      "slug": "iloprostum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Imatinibum",
+      "slug": "imatinibum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Imiglucerasum",
+      "slug": "imiglucerasum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Imipenemum Anhydricum Cilastatinum",
+      "slug": "imipenemum_anhydricum_cilastatinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Imiquimodum",
+      "slug": "imiquimodum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Indometacinum",
+      "slug": "indometacinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Insulin Detemir",
       "slug": "insulin_detemir",
       "level": "L5",
@@ -296,6 +1820,48 @@
       "slug": "insulin_glulisine",
       "level": "L5",
       "indication_count": 9
+    },
+    {
+      "name": "Insulinum Aspartum",
+      "slug": "insulinum_aspartum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Insulinum Degludecum",
+      "slug": "insulinum_degludecum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Insulinum Glarginum",
+      "slug": "insulinum_glarginum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Insulinum Lisprum",
+      "slug": "insulinum_lisprum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ipilimumabum",
+      "slug": "ipilimumabum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Irbesartanum",
+      "slug": "irbesartanum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Irinotecani Hydrochloridum Trihydricum",
+      "slug": "irinotecani_hydrochloridum_trihydricum",
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Isavuconazonium",
@@ -310,8 +1876,218 @@
       "indication_count": 1
     },
     {
+      "name": "Isoniazidum",
+      "slug": "isoniazidum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Isoprenalini Hydrochloridum",
+      "slug": "isoprenalini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Isotretinoinum",
+      "slug": "isotretinoinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Itraconazolum",
+      "slug": "itraconazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Ivermectinum",
+      "slug": "ivermectinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ivosidenibum",
+      "slug": "ivosidenibum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Kalii Chloridum",
+      "slug": "kalii_chloridum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Ketoconazolum",
+      "slug": "ketoconazolum",
+      "level": "L4",
+      "indication_count": 1
+    },
+    {
+      "name": "Ketoprofenum",
+      "slug": "ketoprofenum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ketorolacum Trometamolum",
+      "slug": "ketorolacum_trometamolum",
+      "level": "L1",
+      "indication_count": 3
+    },
+    {
+      "name": "Labetaloli Hydrochloridum",
+      "slug": "labetaloli_hydrochloridum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Lactulosum Liquidum",
+      "slug": "lactulosum_liquidum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Lamivudinum",
+      "slug": "lamivudinum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Lamotriginum",
+      "slug": "lamotriginum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Lanadelumabum",
+      "slug": "lanadelumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Lanreotidum",
+      "slug": "lanreotidum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Lansoprazolum",
+      "slug": "lansoprazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Lapatinibum",
+      "slug": "lapatinibum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Latanoprostum",
+      "slug": "latanoprostum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Leflunomidum",
+      "slug": "leflunomidum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Lenalidomidum",
+      "slug": "lenalidomidum",
+      "level": "L2",
+      "indication_count": 4
+    },
+    {
+      "name": "Lenvatinibum",
+      "slug": "lenvatinibum",
+      "level": "L3",
+      "indication_count": 5
+    },
+    {
+      "name": "Letermovirum",
+      "slug": "letermovirum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Levetiracetamum",
+      "slug": "levetiracetamum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Levocabastinum",
+      "slug": "levocabastinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Levocetirizini Dihydrochloridum",
+      "slug": "levocetirizini_dihydrochloridum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
       "name": "Levodopa",
       "slug": "levodopa",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Levofloxacinum",
+      "slug": "levofloxacinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Levonorgestrelum",
+      "slug": "levonorgestrelum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Levothyroxinum Natricum Anhydricum",
+      "slug": "levothyroxinum_natricum_anhydricum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Lidocaini Hydrochloridum Anhydricum Adrenalinum",
+      "slug": "lidocaini_hydrochloridum_anhydricum_adrenalinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Lifitegrastum",
+      "slug": "lifitegrastum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Linaclotidum",
+      "slug": "linaclotidum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Lisdexamfetamini Dimesilas",
+      "slug": "lisdexamfetamini_dimesilas",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Lisinoprilum",
+      "slug": "lisinoprilum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Lithium",
+      "slug": "lithium",
       "level": "L5",
       "indication_count": 1
     },
@@ -322,10 +2098,34 @@
       "indication_count": 4
     },
     {
+      "name": "Loperamidi Hydrochloridum",
+      "slug": "loperamidi_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Lopinavir",
       "slug": "lopinavir",
       "level": "L4",
       "indication_count": 3
+    },
+    {
+      "name": "Lorazepamum",
+      "slug": "lorazepamum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Lorlatinibum",
+      "slug": "lorlatinibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Losartanum Kalicum",
+      "slug": "losartanum_kalicum",
+      "level": "L5",
+      "indication_count": 7
     },
     {
       "name": "Lumacaftor",
@@ -334,10 +2134,262 @@
       "indication_count": 1
     },
     {
+      "name": "Lurasidonum",
+      "slug": "lurasidonum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Magnesii Hydroxidum",
+      "slug": "magnesii_hydroxidum",
+      "level": "L3",
+      "indication_count": 1
+    },
+    {
+      "name": "Mannitolum",
+      "slug": "mannitolum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Mebendazolum",
+      "slug": "mebendazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Medroxyprogesteroni Acetas",
+      "slug": "medroxyprogesteroni_acetas",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Melphalanum",
+      "slug": "melphalanum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Mepolizumabum",
+      "slug": "mepolizumabum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Mercaptopurinum Monohydricum",
+      "slug": "mercaptopurinum_monohydricum",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Meropenemum",
+      "slug": "meropenemum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Mesalazinum",
+      "slug": "mesalazinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
       "name": "Metamizole",
       "slug": "metamizole",
       "level": "L4",
       "indication_count": 9
+    },
+    {
+      "name": "Metforminum",
+      "slug": "metforminum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Methenaminum",
+      "slug": "methenaminum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Methotrexatum",
+      "slug": "methotrexatum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Methylphenidati Hydrochloridum",
+      "slug": "methylphenidati_hydrochloridum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Methylprednisolonum",
+      "slug": "methylprednisolonum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Metoclopramidum",
+      "slug": "metoclopramidum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Metolazonum",
+      "slug": "metolazonum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Metoprololi Tartras",
+      "slug": "metoprololi_tartras",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Metronidazolum",
+      "slug": "metronidazolum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Mianserini Hydrochloridum",
+      "slug": "mianserini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Micafunginum",
+      "slug": "micafunginum",
+      "level": "L3",
+      "indication_count": 1
+    },
+    {
+      "name": "Miconazoli Nitras",
+      "slug": "miconazoli_nitras",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Midazolamum",
+      "slug": "midazolamum",
+      "level": "L3",
+      "indication_count": 1
+    },
+    {
+      "name": "Midodrini Hydrochloridum",
+      "slug": "midodrini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Miglustatum",
+      "slug": "miglustatum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Minocyclinum",
+      "slug": "minocyclinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Minoxidilum",
+      "slug": "minoxidilum",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Mirtazapinum",
+      "slug": "mirtazapinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Mitomycinum",
+      "slug": "mitomycinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Moclobemidum",
+      "slug": "moclobemidum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Modafinilum",
+      "slug": "modafinilum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Mogamulizumabum",
+      "slug": "mogamulizumabum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Montelukastum",
+      "slug": "montelukastum",
+      "level": "L4",
+      "indication_count": 2
+    },
+    {
+      "name": "Morphinum",
+      "slug": "morphinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Moxifloxacinum",
+      "slug": "moxifloxacinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Moxonidinum",
+      "slug": "moxonidinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Mupirocinum",
+      "slug": "mupirocinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Naproxenum",
+      "slug": "naproxenum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Naratriptanum",
+      "slug": "naratriptanum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Natalizumabum",
+      "slug": "natalizumabum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Nebivololum",
+      "slug": "nebivololum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Nelarabinum",
+      "slug": "nelarabinum",
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Netarsudil",
@@ -346,10 +2398,64 @@
       "indication_count": 0
     },
     {
+      "name": "Nevirapinum",
+      "slug": "nevirapinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Nicardipini Hydrochloridum",
+      "slug": "nicardipini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Nilotinibum",
+      "slug": "nilotinibum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Nimodipinum",
+      "slug": "nimodipinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Nintedanibum",
+      "slug": "nintedanibum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Niraparibum",
+      "slug": "niraparibum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Nitisinonum",
+      "slug": "nitisinonum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Nitrazepamum",
+      "slug": "nitrazepamum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Nitrogen",
       "slug": "nitrogen",
       "level": "L5",
       "indication_count": 4
+    },
+    {
+      "name": "Noradrenalinum",
+      "slug": "noradrenalinum",
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Norelgestromin",
@@ -358,8 +2464,152 @@
       "indication_count": 1
     },
     {
+      "name": "Norfloxacinum",
+      "slug": "norfloxacinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Norgestimate",
       "slug": "norgestimate",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Nortriptylinum",
+      "slug": "nortriptylinum",
+      "level": "L3",
+      "indication_count": 2
+    },
+    {
+      "name": "Nystatinum",
+      "slug": "nystatinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ocrelizumabum",
+      "slug": "ocrelizumabum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Octreotidum",
+      "slug": "octreotidum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Ofatumumabum",
+      "slug": "ofatumumabum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Ofloxacinum",
+      "slug": "ofloxacinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Olanzapinum",
+      "slug": "olanzapinum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Olopatadinum",
+      "slug": "olopatadinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Omalizumabum",
+      "slug": "omalizumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Omeprazolum",
+      "slug": "omeprazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Oritavancinum",
+      "slug": "oritavancinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Orlistatum",
+      "slug": "orlistatum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Oxaliplatinum",
+      "slug": "oxaliplatinum",
+      "level": "L2",
+      "indication_count": 4
+    },
+    {
+      "name": "Oxazepamum",
+      "slug": "oxazepamum",
+      "level": "L3",
+      "indication_count": 1
+    },
+    {
+      "name": "Oxcarbazepinum",
+      "slug": "oxcarbazepinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Oxybutyninum",
+      "slug": "oxybutyninum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Oxymetazolini Hydrochloridum",
+      "slug": "oxymetazolini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Paclitaxelum",
+      "slug": "paclitaxelum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Paliperidonum",
+      "slug": "paliperidonum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Palivizumabum",
+      "slug": "palivizumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Panitumumabum",
+      "slug": "panitumumabum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Panobinostatum",
+      "slug": "panobinostatum",
+      "level": "L2",
+      "indication_count": 1
+    },
+    {
+      "name": "Pantoprazolum",
+      "slug": "pantoprazolum",
       "level": "L5",
       "indication_count": 1
     },
@@ -370,10 +2620,88 @@
       "indication_count": 9
     },
     {
+      "name": "Paromomycinum",
+      "slug": "paromomycinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Paroxetinum",
+      "slug": "paroxetinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Pazopanibum",
+      "slug": "pazopanibum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Pegaspargasum",
+      "slug": "pegaspargasum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Pembrolizumabum",
+      "slug": "pembrolizumabum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Pemetrexedum",
+      "slug": "pemetrexedum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Penciclovirum",
+      "slug": "penciclovirum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Pentamidini Diisethionas",
+      "slug": "pentamidini_diisethionas",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Pentoxyverinum",
+      "slug": "pentoxyverinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Perampanelum",
+      "slug": "perampanelum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Perindoprilum",
+      "slug": "perindoprilum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Pertuzumabum",
+      "slug": "pertuzumabum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
       "name": "Pheniramine",
       "slug": "pheniramine",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Phenobarbitalum",
+      "slug": "phenobarbitalum",
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Phenol",
@@ -382,10 +2710,34 @@
       "indication_count": 8
     },
     {
+      "name": "Phenoxymethylpenicillinum Kalicum",
+      "slug": "phenoxymethylpenicillinum_kalicum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Phenprocoumonum",
+      "slug": "phenprocoumonum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
       "name": "Phenylalanine",
       "slug": "phenylalanine",
       "level": "L4",
       "indication_count": 2
+    },
+    {
+      "name": "Phenylephrini Hydrochloridum Tropicamidum",
+      "slug": "phenylephrini_hydrochloridum_tropicamidum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Phenytoinum",
+      "slug": "phenytoinum",
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Pibrentasvir",
@@ -394,10 +2746,52 @@
       "indication_count": 10
     },
     {
+      "name": "Pimecrolimusum",
+      "slug": "pimecrolimusum",
+      "level": "L2",
+      "indication_count": 3
+    },
+    {
+      "name": "Pioglitazonum",
+      "slug": "pioglitazonum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Piperacillin",
       "slug": "piperacillin",
       "level": "L5",
       "indication_count": 8
+    },
+    {
+      "name": "Pirfenidonum",
+      "slug": "pirfenidonum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Piroxicamum",
+      "slug": "piroxicamum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Pitavastatinum",
+      "slug": "pitavastatinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Pitolisantum",
+      "slug": "pitolisantum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Plerixaforum",
+      "slug": "plerixaforum",
+      "level": "L5",
+      "indication_count": 6
     },
     {
       "name": "Polatuzumab Vedotin",
@@ -412,10 +2806,316 @@
       "indication_count": 2
     },
     {
+      "name": "Ponatinibum",
+      "slug": "ponatinibum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Posaconazolum",
+      "slug": "posaconazolum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Povidonum K 25",
+      "slug": "povidonum_k_25",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Pralatrexatum",
+      "slug": "pralatrexatum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Pramipexolum",
+      "slug": "pramipexolum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Prasteronum",
+      "slug": "prasteronum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Prasugrelum",
+      "slug": "prasugrelum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Pravastatinum Natricum",
+      "slug": "pravastatinum_natricum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Prednicarbatum",
+      "slug": "prednicarbatum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Prednisoloni Pivalas",
+      "slug": "prednisoloni_pivalas",
+      "level": "L2",
+      "indication_count": 9
+    },
+    {
+      "name": "Prednisonum",
+      "slug": "prednisonum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Pregabalinum",
+      "slug": "pregabalinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Prilocaini Hydrochloridum",
+      "slug": "prilocaini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Primidonum",
+      "slug": "primidonum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Probenecidum",
+      "slug": "probenecidum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Procarbazinum",
+      "slug": "procarbazinum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Procyclidini Hydrochloridum",
+      "slug": "procyclidini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Progesteronum",
+      "slug": "progesteronum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Propranololi Hydrochloridum",
+      "slug": "propranololi_hydrochloridum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Propylthiouracilum",
+      "slug": "propylthiouracilum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Prucalopridum",
+      "slug": "prucalopridum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Pyrazinamidum",
+      "slug": "pyrazinamidum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Pyridostigmini Bromidum",
+      "slug": "pyridostigmini_bromidum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Quetiapinum",
+      "slug": "quetiapinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Raloxifenum",
+      "slug": "raloxifenum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Raltegravirum",
+      "slug": "raltegravirum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Ramiprilum",
+      "slug": "ramiprilum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Ramucirumabum",
+      "slug": "ramucirumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ranibizumabum",
+      "slug": "ranibizumabum",
+      "level": "L1",
+      "indication_count": 9
+    },
+    {
+      "name": "Rasagilinum",
+      "slug": "rasagilinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Rasburicasum",
+      "slug": "rasburicasum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ravulizumabum",
+      "slug": "ravulizumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Reboxetinum",
+      "slug": "reboxetinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Regorafenibum",
+      "slug": "regorafenibum",
+      "level": "L2",
+      "indication_count": 8
+    },
+    {
+      "name": "Reslizumabum",
+      "slug": "reslizumabum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Retinoli Palmitas",
+      "slug": "retinoli_palmitas",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Rifampicinum",
+      "slug": "rifampicinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Rifaximinum",
+      "slug": "rifaximinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Rilpivirinum",
+      "slug": "rilpivirinum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
       "name": "Riluzole",
       "slug": "riluzole",
       "level": "L5",
       "indication_count": 8
+    },
+    {
+      "name": "Rimegepantum",
+      "slug": "rimegepantum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Risankizumabum",
+      "slug": "risankizumabum",
+      "level": "L2",
+      "indication_count": 10
+    },
+    {
+      "name": "Risperidonum",
+      "slug": "risperidonum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Ritonavirum",
+      "slug": "ritonavirum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Rivastigminum",
+      "slug": "rivastigminum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Rizatriptanum",
+      "slug": "rizatriptanum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Romiplostimum",
+      "slug": "romiplostimum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ropinirolum",
+      "slug": "ropinirolum",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Rosuvastatinum",
+      "slug": "rosuvastatinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Rotigotinum",
+      "slug": "rotigotinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Rufinamidum",
+      "slug": "rufinamidum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Ruxolitinibum",
+      "slug": "ruxolitinibum",
+      "level": "L5",
+      "indication_count": 10
     },
     {
       "name": "Sacituzumab Govitecan",
@@ -430,10 +3130,40 @@
       "indication_count": 5
     },
     {
+      "name": "Safinamidum",
+      "slug": "safinamidum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Salbutamolum",
+      "slug": "salbutamolum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
       "name": "Salicylamide",
       "slug": "salicylamide",
       "level": "L5",
       "indication_count": 9
+    },
+    {
+      "name": "Salmeterolum",
+      "slug": "salmeterolum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Sapropterini Dihydrochloridum",
+      "slug": "sapropterini_dihydrochloridum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Scopolamini Butylbromidum",
+      "slug": "scopolamini_butylbromidum",
+      "level": "L5",
+      "indication_count": 6
     },
     {
       "name": "Sebelipase Alfa",
@@ -448,8 +3178,32 @@
       "indication_count": 1
     },
     {
+      "name": "Selumetinibum",
+      "slug": "selumetinibum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Serine",
       "slug": "serine",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Sertralinum",
+      "slug": "sertralinum",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Silodosinum",
+      "slug": "silodosinum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Siltuximabum",
+      "slug": "siltuximabum",
       "level": "L5",
       "indication_count": 8
     },
@@ -460,10 +3214,64 @@
       "indication_count": 9
     },
     {
+      "name": "Simvastatinum",
+      "slug": "simvastatinum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Sirolimusum",
+      "slug": "sirolimusum",
+      "level": "L4",
+      "indication_count": 6
+    },
+    {
+      "name": "Sofosbuvirum",
+      "slug": "sofosbuvirum",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Solriamfetolum",
+      "slug": "solriamfetolum",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Sonidegibum",
+      "slug": "sonidegibum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Sorafenibum",
+      "slug": "sorafenibum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
       "name": "Sorbitol",
       "slug": "sorbitol",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Sotaloli Hydrochloridum",
+      "slug": "sotaloli_hydrochloridum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Spironolactonum",
+      "slug": "spironolactonum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Sulfadiazinum Argenticum",
+      "slug": "sulfadiazinum_argenticum",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Sulfamethoxazole",
@@ -472,8 +3280,44 @@
       "indication_count": 1
     },
     {
+      "name": "Sulfasalazinum",
+      "slug": "sulfasalazinum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Sulpiridum",
+      "slug": "sulpiridum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Sulthiame",
       "slug": "sulthiame",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sunitinibum",
+      "slug": "sunitinibum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Tacrolimusum",
+      "slug": "tacrolimusum",
+      "level": "L2",
+      "indication_count": 2
+    },
+    {
+      "name": "Tadalafilum",
+      "slug": "tadalafilum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Tagraxofuspum",
+      "slug": "tagraxofuspum",
       "level": "L5",
       "indication_count": 10
     },
@@ -484,10 +3328,52 @@
       "indication_count": 4
     },
     {
+      "name": "Tamoxifenum",
+      "slug": "tamoxifenum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Tamsulosinum",
+      "slug": "tamsulosinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tasonerminum",
+      "slug": "tasonerminum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Tazobactam",
       "slug": "tazobactam",
       "level": "N/A",
       "indication_count": 0
+    },
+    {
+      "name": "Telbivudinum",
+      "slug": "telbivudinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Telmisartanum",
+      "slug": "telmisartanum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Temozolomidum",
+      "slug": "temozolomidum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Tenecteplasum",
+      "slug": "tenecteplasum",
+      "level": "L5",
+      "indication_count": 7
     },
     {
       "name": "Tenofovir Alafenamide",
@@ -502,10 +3388,82 @@
       "indication_count": 4
     },
     {
+      "name": "Tenofovirum",
+      "slug": "tenofovirum",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Tenoxicamum",
+      "slug": "tenoxicamum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Teprotumumabum",
+      "slug": "teprotumumabum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Terazosinum",
+      "slug": "terazosinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Terbutalini Sulfas",
+      "slug": "terbutalini_sulfas",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Teriparatidum Adnr",
+      "slug": "teriparatidum_adnr",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Tetrabenazinum",
+      "slug": "tetrabenazinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tetracaini Hydrochloridum",
+      "slug": "tetracaini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Tetracyclinum",
+      "slug": "tetracyclinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Tetryzolini Hydrochloridum",
+      "slug": "tetryzolini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Tezacaftor",
       "slug": "tezacaftor",
       "level": "L5",
       "indication_count": 3
+    },
+    {
+      "name": "Theophyllinum Et Ethylendiaminum",
+      "slug": "theophyllinum_et_ethylendiaminum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Thiopentalum",
+      "slug": "thiopentalum",
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Threonine",
@@ -520,6 +3478,12 @@
       "indication_count": 10
     },
     {
+      "name": "Ticagrelorum",
+      "slug": "ticagrelorum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Tiotropium",
       "slug": "tiotropium",
       "level": "L5",
@@ -532,16 +3496,118 @@
       "indication_count": 9
     },
     {
+      "name": "Tobramycinum",
+      "slug": "tobramycinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tocilizumabum",
+      "slug": "tocilizumabum",
+      "level": "L1",
+      "indication_count": 5
+    },
+    {
+      "name": "Tolcaponum",
+      "slug": "tolcaponum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tolvaptanum",
+      "slug": "tolvaptanum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Topiramatum",
+      "slug": "topiramatum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Topotecanum",
+      "slug": "topotecanum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Trabectedinum",
+      "slug": "trabectedinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Tramadoli Hydrochloridum",
+      "slug": "tramadoli_hydrochloridum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Trametinibum",
+      "slug": "trametinibum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Trandolapril",
       "slug": "trandolapril",
       "level": "L5",
       "indication_count": 5
     },
     {
+      "name": "Trastuzumabum",
+      "slug": "trastuzumabum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Travoprostum",
+      "slug": "travoprostum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Trazodonum",
+      "slug": "trazodonum",
+      "level": "L3",
+      "indication_count": 9
+    },
+    {
+      "name": "Treprostinilum",
+      "slug": "treprostinilum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Tretinoinum",
+      "slug": "tretinoinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Triamcinolonum",
+      "slug": "triamcinolonum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Trifarotenum",
+      "slug": "trifarotenum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
       "name": "Trimethoprim",
       "slug": "trimethoprim",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Tropicamidum",
+      "slug": "tropicamidum",
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Tryptophan",
@@ -568,9 +3634,39 @@
       "indication_count": 3
     },
     {
+      "name": "Upadacitinibum",
+      "slug": "upadacitinibum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Ustekinumabum",
+      "slug": "ustekinumabum",
+      "level": "L2",
+      "indication_count": 10
+    },
+    {
       "name": "Valine",
       "slug": "valine",
       "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Valsartanum",
+      "slug": "valsartanum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Vancomycinum",
+      "slug": "vancomycinum",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vandetanibum",
+      "slug": "vandetanibum",
+      "level": "L3",
       "indication_count": 10
     },
     {
@@ -580,16 +3676,82 @@
       "indication_count": 10
     },
     {
+      "name": "Venetoclaxum",
+      "slug": "venetoclaxum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Verapamili Hydrochloridum",
+      "slug": "verapamili_hydrochloridum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Vernakalantum",
+      "slug": "vernakalantum",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Verteporfinum",
+      "slug": "verteporfinum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Vilanterol",
       "slug": "vilanterol",
       "level": "L5",
       "indication_count": 6
     },
     {
+      "name": "Vildagliptinum",
+      "slug": "vildagliptinum",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Vinblastini Sulfas",
+      "slug": "vinblastini_sulfas",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Vincristini Sulfas",
+      "slug": "vincristini_sulfas",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Vindesini Sulfas",
+      "slug": "vindesini_sulfas",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Vinorelbinum",
+      "slug": "vinorelbinum",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Vismodegibum",
+      "slug": "vismodegibum",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
       "name": "Vonicog Alfa",
       "slug": "vonicog_alfa",
       "level": "L5",
       "indication_count": 8
+    },
+    {
+      "name": "Vortioxetinum",
+      "slug": "vortioxetinum",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Voxilaprevir",
@@ -604,10 +3766,52 @@
       "indication_count": 1
     },
     {
+      "name": "Xylometazolini Hydrochloridum",
+      "slug": "xylometazolini_hydrochloridum",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Zanamivirum",
+      "slug": "zanamivirum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Zanubrutinibum",
+      "slug": "zanubrutinibum",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Zidovudinum",
+      "slug": "zidovudinum",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Zinc Oxide",
       "slug": "zinc_oxide",
       "level": "L4",
       "indication_count": 5
+    },
+    {
+      "name": "Zolmitriptanum",
+      "slug": "zolmitriptanum",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Zolpidemi Tartras",
+      "slug": "zolpidemi_tartras",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Zuclopenthixoli Decanoas",
+      "slug": "zuclopenthixoli_decanoas",
+      "level": "L5",
+      "indication_count": 9
     }
   ]
 }

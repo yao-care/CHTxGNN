@@ -1,34 +1,140 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: BUDESONIDUM
+title: Budesonidum
+parent: Nur Modellvorhersage (L5)
+nav_order: 101
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB01222
-permalink: /drugs/budesonidum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Budesonide"
+predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+last_modified_at: 2026-11-16
+description: "Budesonidum: vorhergesagte neue Indikation Atopisches Ekzem (atopic eczema) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Crohn, mikroskopische Kolitis"
 ---
 
-# BUDESONIDUM
+# Budesonidum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Budesonidum: Atopisches Ekzem (atopic eczema)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Budesonid ist ein Kortikosteroid, das in der Schweiz in mehreren Darreichungsformen im Handel ist. Für das atopische Ekzem (atopic eczema) wird eine mögliche Wirksamkeit vorhergesagt, vor allem weil Kortikosteroide als Klasse bei dieser Erkrankung etabliert sind. Die Evidenz ist sehr dünn: Es gibt keine klinischen Studien zu Budesonid bei dieser Erkrankung, und die vorliegende Literatur betrifft überwiegend Kontaktallergien und Formulierungsfragen.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Morbus Crohn, mikroskopische Kolitis; Behandlung der leichten bis mittelschweren akuten Colitis ulcerosa, die auf den Enddarm beschränkt ist (Proktitis).; Colitis ulcerosa; primärer Immunglobulin A (IgA)-Nephropathie (IgAN); Leichte bis mässig schwere Colitis ulcerosa; Rhinitis; Obstruktive Atemwegs |
+| Vorhergesagte neue Indikation | Atopisches Ekzem (atopic eczema) |
+| TxGNN-Vorhersagewert | 0.9996 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | mindestens 9 |
-| DrugBank ID | [DB01222](https://go.drugbank.com/drugs/DB01222) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Budesonid ein Glukokortikoid mit breiter entzündungshemmender und immunsuppressiver Wirkung.
+
+Topische Kortikosteroide gehören bei atopischem Ekzem zur etablierten Standardtherapie. Die Vorhersage ist daher als Klasseneffekt nachvollziehbar. Ein Vorteil von Budesonid gegenüber bestehenden topischen Kortikosteroiden ist aus den Daten nicht erkennbar.
+
+Dieselbe Erkrankung erscheint in den Daten auch unter dem Namen „dermatitis, atopic“. Beide Einträge sollten zusammengeführt werden.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Keine der Publikationen untersucht Budesonid direkt als Behandlung des atopischen Ekzems. Die folgende Auswahl zeigt die thematisch nächsten Arbeiten.
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [9496795](https://pubmed.ncbi.nlm.nih.gov/9496795/) | 1998 | Offene Studie | Pediatric Dermatology | 14 Kinder (5–12 Jahre) mit atopischer Dermatitis; untersucht wurde, ob topisches Budesonid das kurzfristige Wachstum beeinflusst (Sicherheitsfrage, keine Wirksamkeitsstudie). |
+| [38275852](https://pubmed.ncbi.nlm.nih.gov/38275852/) | 2024 | Präklinische Formulierungsstudie | Gels | Budesonid-beladene pH-sensitive Nanopartikel in Hydrogelen für die lokale Therapie der atopischen Dermatitis. |
+| [35056927](https://pubmed.ncbi.nlm.nih.gov/35056927/) | 2021 | Präklinische Formulierungsstudie | Pharmaceutics | Ex-vivo-Studie zur besseren Hautretention von Budesonid mittels Cyclodextrin und Poloxamer-Hydrogelen. |
+| [33931866](https://pubmed.ncbi.nlm.nih.gov/33931866/) | 2021 | Kohorte | Contact Dermatitis | Epikutantests in Italien; Budesonid dient als Marker für Kortikosteroid-Allergie, mit abnehmendem Trend. |
+| [35184304](https://pubmed.ncbi.nlm.nih.gov/35184304/) | 2022 | Fallbericht | Contact Dermatitis | Systemische allergische Dermatitis nach Epikutantest mit Budesonid. |
+| [37927648](https://pubmed.ncbi.nlm.nih.gov/37927648/) | 2023 | Fallbericht | Cureus | Überempfindlichkeitsreaktion vom Soforttyp mit Angioödem und Urtikaria unter Steroiden bei einem Patienten mit atopischer Dermatitis. |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Übersichtsarbeit | Neuroimmunomodulation | Nebennierensuppression unter intranasalen Kortikosteroiden; allgemeiner Sicherheitskontext. |
+
+---
+
+### Marktinformationen Schweiz
+
+Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 53305 | Entocort CIR 3 mg, Hartkapsel mit veränderter Wirkstofffreisetzung | Synthetika | Morbus Crohn, mikroskopische Kolitis |
+| 68683 | Budenofalk 4 mg, Zäpfchen | Synthetika | Leichte bis mittelschwere akute Colitis ulcerosa, auf den Enddarm beschränkt (Proktitis) |
+| 52042 | Entocort Enema, Klistier | Synthetika | Colitis ulcerosa |
+| 69205 | Kinpeygo 4 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Primäre IgA-Nephropathie |
+| 65869 | Cortiment MMX 9 mg, Retardtabletten | Synthetika | Leichte bis mässig schwere Colitis ulcerosa |
+| 55521 | Cortinasal 50, Nasenspray, Suspension | Synthetika | Rhinitis |
+| 50758 | Pulmicort Respules 0,25 mg/mL, Suspension | Synthetika | Obstruktive Atemwegserkrankungen |
+| 66999 | Jorveza 1 mg, Schmelztabletten | Synthetika | Eosinophile Ösophagitis bei Erwachsenen |
+| 68516 | Budesonid Spirig HC 3 mg, Hartkapsel mit veränderter Wirkstofffreisetzung | Synthetika | Morbus Crohn |
+
+---
+
+### Sicherheitshinweise
+
+- **Kontaktallergie und Überempfindlichkeit:** In der Literatur sind Kontaktsensibilisierungen sowie systemische allergische Reaktionen auf Budesonid beschrieben. Das ist bei dermaler Anwendung relevant.
+- **Nebennierensuppression:** Kortikosteroide können die Hypothalamus-Hypophysen-Nebennieren-Achse beeinflussen (allgemeiner Klasseneffekt).
+
+Für Warnhinweise, Kontraindikationen und Wechselwirkungen liegen keine Daten vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Der Vorhersagewert ist hoch, aber es gibt weder klinische Studien noch Literatur, die Budesonid direkt beim atopischen Ekzem untersuchen. Das Evidenzniveau ist daher L5.
+- Budesonid bietet gegenüber bestehenden topischen Kortikosteroiden keinen erkennbaren Vorteil, und die Berichte zu Kontaktallergien sind ein Sicherheitssignal für die dermale Anwendung.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank) ergänzen
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation auswerten
+- Die Einträge „atopic eczema“ und „dermatitis, atopic“ zusammenführen
+- Klären, ob eine topische Budesonid-Formulierung einen klinischen Vorteil bieten könnte, z. B. anhand kontrollierter Studien
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

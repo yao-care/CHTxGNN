@@ -42,21 +42,42 @@ Berichte nach Evidenzstufe:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-3 vorhergesagte Arzneimittel-Krankheits-Paare dieser Website kommen auf keiner anderen der 30 TxGNN-Websites vor.
+3026 vorhergesagte Arzneimittel-Krankheits-Paare dieser Website kommen auf keiner anderen der 30 TxGNN-Websites vor.
 
 ### Arzneimittel mit der höchsten Evidenzstufe auf dieser Website
 
 | Arzneimittel | Evidenzstufe |
 |---|---|
-| [Calcipotriol](/drugs/calcipotriol/) | L3 |
-| [Velpatasvir](/drugs/velpatasvir/) | L3 |
-| [Tryptophan](/drugs/tryptophan/) | L3 |
+| [Bendamustinum](/drugs/bendamustinum/) | L1 |
+| [Solriamfetolum](/drugs/solriamfetolum/) | L1 |
+| [Hydrocortisonum](/drugs/hydrocortisonum/) | L1 |
+| [Ranibizumabum](/drugs/ranibizumabum/) | L1 |
+| [Doxorubicini Hydrochloridum](/drugs/doxorubicini-hydrochloridum/) | L1 |
+| [Docetaxelum](/drugs/docetaxelum/) | L1 |
+| [Tocilizumabum](/drugs/tocilizumabum/) | L1 |
+| [Atorvastatinum](/drugs/atorvastatinum/) | L1 |
+| [Ketorolacum Trometamolum](/drugs/ketorolacum-trometamolum/) | L1 |
+| [Bupropioni Hydrochloridum](/drugs/bupropioni-hydrochloridum/) | L2 |
 
 ### Arzneimittel, die unter den 30 TxGNN-Websites nur diese Website abdeckt
 
 | Arzneimittel | Evidenzstufe |
 |---|---|
-| [Echinacea](/drugs/echinacea/) | L5 |
+| [Bendamustinum](/drugs/bendamustinum/) | L1 |
+| [Solriamfetolum](/drugs/solriamfetolum/) | L1 |
+| [Hydrocortisonum](/drugs/hydrocortisonum/) | L1 |
+| [Ranibizumabum](/drugs/ranibizumabum/) | L1 |
+| [Doxorubicini Hydrochloridum](/drugs/doxorubicini-hydrochloridum/) | L1 |
+| [Docetaxelum](/drugs/docetaxelum/) | L1 |
+| [Tocilizumabum](/drugs/tocilizumabum/) | L1 |
+| [Atorvastatinum](/drugs/atorvastatinum/) | L1 |
+| [Ketorolacum Trometamolum](/drugs/ketorolacum-trometamolum/) | L1 |
+| [Bupropioni Hydrochloridum](/drugs/bupropioni-hydrochloridum/) | L2 |
+| [Risankizumabum](/drugs/risankizumabum/) | L2 |
+| [Ustekinumabum](/drugs/ustekinumabum/) | L2 |
+| [Prednisoloni Pivalas](/drugs/prednisoloni-pivalas/) | L2 |
+| [Regorafenibum](/drugs/regorafenibum/) | L2 |
+| [Betamethasonum](/drugs/betamethasonum/) | L2 |
 
 <!-- local-home:end -->
 

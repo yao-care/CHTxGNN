@@ -1,34 +1,100 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: TASONERMINUM
+title: Tasonerminum
+parent: Nur Modellvorhersage (L5)
+nav_order: 566
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB11626
-permalink: /drugs/tasonerminum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Tasonermin"
+predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "HER2 positive breast carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "uterine ligament serous adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament clear cell adenocarcinoma"]
+last_modified_at: 2026-11-16
+description: "Tasonerminum: vorhergesagte neue Indikation Urothelkarzinom der prostatischen Harnröhre (prostatic urethra urothelial carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Weichteil-Sarkom"
 ---
 
-# TASONERMINUM
+# Tasonerminum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Tasonerminum: Urothelkarzinom der prostatischen Harnröhre (prostatic urethra urothelial carcinoma)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Tasonermin ist in der Schweiz als Biotechnologikum im Handel. Die Vorhersage nennt als mögliche neue Anwendung das Urothelkarzinom der prostatischen Harnröhre (prostatic urethra urothelial carcinoma). Dafür liegt ausschliesslich eine Modellvorhersage vor; es gibt keine klinischen Studien und keine Literatur, die diese Erkrankung direkt untersuchen.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Weichteil-Sarkom |
+| Vorhergesagte neue Indikation | Urothelkarzinom der prostatischen Harnröhre (prostatic urethra urothelial carcinoma) |
+| TxGNN-Vorhersagewert | 0.9981 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| DrugBank ID | [DB11626](https://go.drugbank.com/drugs/DB11626) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Zum Wirkmechanismus von Tasonermin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Eine mechanistische Begründung lässt sich daher nicht belegen.
+
+Eine denkbare, rein hypothetische Überlegung: Tasonermin ist ein rekombinanter Tumornekrosefaktor alpha (TNF-alpha). Dieser kann die Blutgefässe von Tumoren schädigen und die Aufnahme von Chemotherapie ins Tumorgewebe verbessern. Ob dies auf Urothelkarzinome übertragbar ist, wurde in den vorliegenden Daten nicht gezeigt. Der hohe Vorhersagewert ist ein reines Rechenergebnis und ersetzt keine klinische Evidenz.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 54745 | Beromun, Pulver zur Herstellung einer Infusionslösung | Biotechnologika | Weichteil-Sarkom |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen. In den zusammengestellten Daten fanden sich keine Warnungen, Kontraindikationen oder Wechselwirkungen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich allein auf ein Modell (Evidenzniveau L5). Es gibt weder Studien noch Publikationen, noch Angaben zum Wirkmechanismus oder zur Sicherheit.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
+- Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation
+- Präklinische oder klinische Daten, die das Urothelkarzinom der prostatischen Harnröhre direkt untersuchen
+- Prüfung, ob die Darreichungsform und der Anwendungsweg zu dieser Erkrankung passen
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

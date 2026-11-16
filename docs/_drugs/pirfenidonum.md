@@ -1,34 +1,103 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: PIRFENIDONUM
+title: Pirfenidonum
+parent: Nur Modellvorhersage (L5)
+nav_order: 470
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB04951
-permalink: /drugs/pirfenidonum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Pirfenidone"
+predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
+last_modified_at: 2026-11-16
+description: "Pirfenidonum: vorhergesagte neue Indikation Extrakutanes Mastozytom (extracutaneous mastocytoma) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung idiopathischer pulmonaler Fibrose (IPF)"
 ---
 
-# PIRFENIDONUM
+# Pirfenidonum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Pirfenidonum: Extrakutanes Mastozytom (extracutaneous mastocytoma)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Pirfenidon ist in der Schweiz mit mehreren Präparaten im Handel. Für das extrakutane Mastozytom (extracutaneous mastocytoma) liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur in den zusammengestellten Daten, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Behandlung idiopathischer pulmonaler Fibrose (IPF); Idiopathische pulmonale Fibrose (IPF) bei Erwachsenen |
+| Vorhergesagte neue Indikation | Extrakutanes Mastozytom (extracutaneous mastocytoma) |
+| TxGNN-Vorhersagewert | 0.9971 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
-| DrugBank ID | [DB04951](https://go.drugbank.com/drugs/DB04951) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Pirfenidon wirkt antifibrotisch und entzündungshemmend. Es dämpft unter anderem die TGF-beta-Signalübertragung sowie die Wirkung von Botenstoffen wie TNF-alpha. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+
+Ein Zusammenhang mit Mastzell-Neoplasien ist derzeit spekulativ. Mastzellen tragen zwar zur Fibrose bei, es gibt aber keinen Hinweis, dass Pirfenidon die KIT-getriebene Zellvermehrung hemmt. Der hohe Vorhersagewert ist eine reine Modellvorhersage, die nicht durch Studien oder Publikationen gestützt wird.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 69574 | Pirfenidon Sandoz 267 mg, Filmtabletten | Synthetika | Behandlung der idiopathischen pulmonalen Fibrose (IPF) |
+| 69563 | Pirfenidon-Mepha 267 mg, Filmtabletten | Synthetika | IPF bei Erwachsenen |
+| 69567 | Pirfenidon Spirig HC 267 mg, Filmtabletten | Synthetika | Behandlung der IPF |
+| 66422 | Esbriet 267 mg, Filmtabletten | Synthetika | Behandlung der IPF |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich ausschliesslich auf ein Modell. Es gibt keine klinischen Studien oder Publikationen zum extrakutanen Mastozytom, und der mechanistische Zusammenhang ist hypothetisch.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Präklinische Daten zur Wirkung von Pirfenidon auf Mastzell-Neoplasien, insbesondere bei KIT-getriebenem Wachstum
+- Eine Literaturrecherche und Suche nach registrierten Studien zu dieser Erkrankung
+- Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

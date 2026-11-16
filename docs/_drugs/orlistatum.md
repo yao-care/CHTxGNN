@@ -1,34 +1,106 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: ORLISTATUM
+title: Orlistatum
+parent: Nur Modellvorhersage (L5)
+nav_order: 433
+evidence_level: L5
+indication_count: 1
 drugbank_id: DB01083
-permalink: /drugs/orlistatum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Orlistat"
+predicted_indications: ["hypervitaminosis"]
+last_modified_at: 2026-11-16
+description: "Orlistatum: vorhergesagte neue Indikation Hypervitaminose (hypervitaminosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antidiapositum"
 ---
 
-# ORLISTATUM
+# Orlistatum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Orlistatum: Hypervitaminose (hypervitaminosis)
+{: .text-alpha }
+
+### Zusammenfassung
+
+Orlistat ist ein Lipasehemmer, der in der Schweiz in mehreren Präparaten im Handel ist. Für die Vorhersage einer neuen Anwendung bei Hypervitaminose (hypervitaminosis) liegen in den zusammengestellten Daten weder klinische Studien noch Literatur vor. Die Evidenz beschränkt sich auf eine Modellvorhersage (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Antidiapositum; Antiadipositum; Antiadipositum, Lipasehemmer; Antiadipositum, peripher wirksames Präparat zur Gewichtsreduktion |
+| Vorhergesagte neue Indikation | Hypervitaminose (hypervitaminosis) |
+| TxGNN-Vorhersagewert | 0.9942 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
-| DrugBank ID | [DB01083](https://go.drugbank.com/drugs/DB01083) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Orlistat hemmt die Lipasen von Magen und Bauchspeicheldrüse und verringert so die Aufnahme von Nahrungsfett um etwa 30 %. Angaben zum Wirkmechanismus aus der Arzneimitteldatenbank fehlen in den zusammengestellten Daten; die Beschreibung beruht auf dem bekannten Wirkprinzip.
+
+Fettlösliche Vitamine (A, D, E, K) werden zusammen mit Nahrungsfett aufgenommen. Theoretisch könnte Orlistat deren Aufnahme senken und damit eine Anreicherung bei Hypervitaminose mildern. Dies ist jedoch nur eine Hypothese: Die Wirkung von Orlistat auf die Vitaminspiegel gilt bisher als Nebenwirkung (möglicher Mangel an fettlöslichen Vitaminen), nicht als Behandlungsprinzip.
+
+Zudem ist die Hypervitaminose uneinheitlich (z. B. Vitamin A oder D). Die Hauptmassnahme besteht im Absetzen des Präparats mit unterstützender Behandlung. Ein klinischer Bedarf für eine medikamentöse Umwidmung ist daher unklar. Der hohe Vorhersagewert ist eine reine Rechenvorhersage ohne klinische Bestätigung.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 65219 | Orlistat Spirig HC 120 mg, Kapseln | Synthetika | Antiadipositum |
+| 54282 | Xenical, Kapseln | Synthetika | Antiadipositum |
+| 62107 | Orlistat Sandoz, Hartkapseln | Synthetika | Antiadipositum, Lipasehemmer |
+| 62663 | Orlistat-Mepha 120, Kapseln | Synthetika | Antiadipositum, peripher wirksames Präparat zur Gewichtsreduktion |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Es gibt weder klinische Studien noch Literatur zu Orlistat bei Hypervitaminose, und der mögliche Mechanismus (verminderte Aufnahme fettlöslicher Vitamine) steht im Widerspruch zur bekannten Mangelwarnung.
+- Der klinische Bedarf ist fraglich, da bei Hypervitaminose üblicherweise das Absetzen des Präparats und unterstützende Behandlung genügen.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen), da die Sicherheitsprüfung ohne diese Daten nicht möglich ist
+- Ergänzung der Angaben zum Wirkmechanismus
+- Literaturrecherche und gegebenenfalls präklinische Daten zu Orlistat und Vitaminüberschuss, getrennt nach Vitamintyp
+- Klärung, ob ein klinischer Bedarf gegenüber der Standardbehandlung besteht
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

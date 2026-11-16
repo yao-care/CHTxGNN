@@ -1,33 +1,127 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: FLUOROURACILUM
+title: Fluorouracilum
+parent: Nur Modellvorhersage (L5)
+nav_order: 268
+evidence_level: L5
+indication_count: 10
 drugbank_id: DB00544
-permalink: /drugs/fluorouracilum/
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Fluorouracil"
+predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome"]
+last_modified_at: 2026-11-16
+description: "Fluorouracilum: vorhergesagte neue Indikation Botryoides embryonales Rhabdomyosarkom der Vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina) (Evidenzstufe L5)."
 ---
 
-# FLUOROURACILUM
+# Fluorouracilum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Fluorouracilum: Botryoides embryonales Rhabdomyosarkom der Vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Fluorouracil ist ein zytostatischer Wirkstoff, der in der Schweiz in Injektions- und Infusionslösungen sowie in Cremes zur Anwendung auf der Haut zugelassen ist. Für das botryoide embryonale Rhabdomyosarkom der Vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina) wurde ein hoher TxGNN-Vorhersagewert berechnet. Dafür liegen jedoch weder klinische Studien noch Publikationen vor, die Vorhersage beruht allein auf dem Modell.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Kératoses solaires et séniles, maladie de Bowen; Topisches Zytostatikum; Zytostatikum; Cytostatique |
+| Vorhergesagte neue Indikation | Botryoides embryonales Rhabdomyosarkom der Vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina) |
+| TxGNN-Vorhersagewert | 0.9975 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 7 |
-| DrugBank ID | [DB00544](https://go.drugbank.com/drugs/DB00544) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Fluorouracil hemmt die Thymidylat-Synthase und wird in RNA und DNA eingebaut. Dadurch trifft es vor allem sich rasch teilende Zellen. Die Angaben zum Wirkmechanismus sind in den vorliegenden Daten nicht vollständig hinterlegt; die genannte Einordnung entspricht dem allgemeinen pharmakologischen Wissen.
+
+Rhabdomyosarkome sind schnell wachsende Weichteiltumoren, vor allem bei Kindern. Ein antimetabolischer Wirkstoff könnte deshalb grundsätzlich auf solche Tumorzellen wirken.
+
+Der hohe Wert ist jedoch kein unabhängiger Beleg. Er dürfte zu einem erheblichen Teil darauf beruhen, dass verwandte Rhabdomyosarkom-Begriffe im Modell nahe beieinander liegen. Für diesen Subtyp gibt es keine Studie und keine Publikation, die eine Wirkung von Fluorouracil zeigt.
+
+---
+
+### Marktinformationen Schweiz
+
+Es liegen mindestens 7 Zulassungen vor; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 69869 | Fluodix Leman 50 mg/g (5%), Creme | Synthetika | Aktinische (solare) und senile Keratosen, Morbus Bowen |
+| 67752 | Tolak 40 mg/g, Creme | Synthetika | Topisches Zytostatikum |
+| 66825 | Fluorouracil Accord 250 mg/5 ml, Injektions-/Infusionslösung | Synthetika | Zytostatikum |
+| 47160 | Fluorouracil-Teva, Injektions-/Infusionslösung | Synthetika | Zytostatikum |
+| 65688 | Fluorouracil Labatec 250 mg/5 ml, Injektions-/Infusionslösung | Synthetika | Zytostatikum |
+| 36464 | Efudix, Creme | Synthetika | Topisches Zytostatikum |
+| 60186 | Fluorouracil Sandoz 250 mg/5 ml, Konzentrat zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Zytostatikum |
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (Antimetabolit) |
+| Myelosuppressionsrisiko | Mittel bis hoch bei systemaler (intravenöser) Gabe; bei Anwendung auf der Haut gering |
+| Emetogenitätsklassifikation | Niedrig bis mittel bei intravenöser Gabe |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
+| Handhabungsschutz | Ja, die Handhabung als zytotoxischer Stoff erfordert Schutzmassnahmen |
+
+Diese Angaben beruhen auf allgemeinem Fachwissen und nicht auf Fachinformationstexten aus den vorliegenden Daten.
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Die Vorhersage stützt sich ausschliesslich auf das Modell (Evidenzniveau L5). Es gibt keine klinischen Studien und keine Literatur zu diesem Subtyp.
+- Fluorouracil gehört nach allgemeinem Fachwissen nicht zu den üblichen Mehrstoff-Therapien beim Rhabdomyosarkom.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Studien oder Fallberichte, die Fluorouracil direkt beim botryoiden Rhabdomyosarkom der Vagina untersuchen
+- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus den Swissmedic-Fachinformationen
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eine Prüfung, ob die Anwendungswege (intravenös oder topisch) für diese Tumorlokalisation geeignet wären
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

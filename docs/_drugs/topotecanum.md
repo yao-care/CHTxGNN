@@ -1,33 +1,139 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: TOPOTECANUM
+title: Topotecanum
+parent: Nur Modellvorhersage (L5)
+nav_order: 597
+evidence_level: L5
+indication_count: 2
 drugbank_id: DB01030
-permalink: /drugs/topotecanum/
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Topotecan"
+predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
+last_modified_at: 2026-11-16
+description: "Topotecanum: vorhergesagte neue Indikation Weibliches Mammakarzinom (female breast carcinoma) (Evidenzstufe L5)."
 ---
 
-# TOPOTECANUM
+# Topotecanum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Topotecanum: Weibliches Mammakarzinom (female breast carcinoma)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Topotecan ist ein in der Schweiz im Handel befindliches Zytostatikum, das die Topoisomerase I hemmt. Es wird voraussichtlich auch beim weiblichen Mammakarzinom (female breast carcinoma) wirken, mit einem TxGNN-Vorhersagewert von 0,9992. Die Evidenz ist begrenzt: Es liegen nur kleine, nicht randomisierte und teils veraltete Studien vor, darunter eine Phase-II-Studie und eine Pilotstudie.
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Ovarialkarzinom, kleinzelliges Bronchialkarzinom, Zervixkarzinom; Palliative Therapie bei rezidiviertem kleinzelligem Bronchialkarzinom mit extensive disease, wenn eine nochmalige i.v. Chemotherapie nicht angezeigt ist. |
+| Vorhergesagte neue Indikation | Weibliches Mammakarzinom (female breast carcinoma) |
+| TxGNN-Vorhersagewert | 0.9992 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| DrugBank ID | [DB01030](https://go.drugbank.com/drugs/DB01030) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Abwarten |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Topotecan hemmt das Enzym Topoisomerase I. Dadurch entstehen bei der DNA-Replikation Schäden im Erbgut, und teilungsaktive Tumorzellen sterben ab. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine eigenen Angaben vor. Die Beschreibung stützt sich auf die Fachliteratur.
+
+Brustkrebszellen teilen sich, wie viele solide Tumoren, rasch und sind daher grundsätzlich für DNA-schädigende Zytostatika empfindlich. Einzelne Phase-II- und Pilotstudien zeigten eine bescheidene Aktivität bei vorbehandeltem metastasiertem Brustkrebs, auch bei Hirnmetastasen. Präklinische Daten deuten zudem darauf hin, dass MYC-getriebene Tumoren besonders empfindlich auf eine Topoisomerase-1-Hemmung reagieren.
+
+Ein bekannter Resistenzmechanismus ist der Auswurf des Wirkstoffs durch das Transportprotein BCRP (ABCG2). Er spielt vor allem bei Hirnmetastasen eine Rolle und könnte den Nutzen begrenzen.
+
+---
+
+### Klinische Studien
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Phase 2 | Abgebrochen | nicht angegeben | Hochdosis-Kombination aus Topotecan, Ifosfamid/Mesna und Etoposid mit anschliessender autologer Stammzelltransplantation bei metastasiertem Brustkrebs. Keine Ergebnisse berichtet, daher kein klares Signal. |
+| [NCT02419495](https://clinicaltrials.gov/study/NCT02419495) | Phase 1 | Abgebrochen | 221 | Sicherheit von Selinexor mit verschiedenen Standard-Chemotherapien bei fortgeschrittenen Tumoren. Keine brustkrebsspezifischen Topotecan-Daten, nur indirekter Bezug. |
+| [NCT06840886](https://clinicaltrials.gov/study/NCT06840886) | Phase 1 | Rekrutierend | 426 | Dosisfindungsstudie mit PHST001 bei fortgeschrittenen soliden Tumoren. Topotecan ist nicht der Prüfwirkstoff, der Bezug ist schwach. |
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [9413954](https://pubmed.ncbi.nlm.nih.gov/9413954/) | 1997 | Phase-II-Studie | British Journal of Cancer | Topotecan als Dauerinfusion bei fortgeschrittenem Brustkrebs und nicht-kleinzelligem Lungenkarzinom ohne Hinweis auf eine höhere Wirksamkeit. |
+| [11455218](https://pubmed.ncbi.nlm.nih.gov/11455218/) | 2001 | Pilotstudie | Onkologie | Topotecan als primäre Chemotherapie bei Brustkrebs mit Hirnmetastasen. |
+| [39657238](https://pubmed.ncbi.nlm.nih.gov/39657238/) | 2024 | Präklinisch | ACS Applied Materials & Interfaces | Nanopartikel mit Topotecan und einem VEGF-Antisense-Oligonukleotid zur kombinierten Therapie von metastasiertem Brustkrebs. |
+| [37851804](https://pubmed.ncbi.nlm.nih.gov/37851804/) | 2023 | Präklinisch | Science Advances | BCRP verursacht von Anfang an Chemoresistenz bei Hirnmetastasen von Brustkrebs. |
+| [37987734](https://pubmed.ncbi.nlm.nih.gov/37987734/) | 2023 | Präklinisch | Cancer Research | Die Hemmung der Topoisomerase 1 führt in MYC-getriebenen Brustkrebszellen zu synthetischer Letalität. |
+| [27084985](https://pubmed.ncbi.nlm.nih.gov/27084985/) | 2016 | Übersichtsarbeit | Aging | Übersicht zur metronomischen Chemotherapie bei dreifach-negativem Brustkrebs. |
+| [25236865](https://pubmed.ncbi.nlm.nih.gov/25236865/) | 2015 | Übersichtsarbeit | The AAPS Journal | Das Transportprotein BCRP vermittelt Resistenz gegen Topotecan und andere Zytostatika. |
+
+---
+
+### Marktinformationen Schweiz
+
+Topotecan ist in der Schweiz im Handel. Drei gültige Zulassungen für Einzelpräparate liegen vor, zwei davon von Sandoz Pharmaceuticals AG und eine von Accord Healthcare AG.
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch |
+| Myelosuppressionsrisiko | Hoch |
+| Emetogenitätsklassifikation | Mittel |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
+| Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
+
+**Begründung:**
+- Der Vorhersagewert ist sehr hoch (0,9992). Die direkte Evidenz beim Brustkrebs besteht aber nur aus kleinen, nicht randomisierten und älteren Studien mit bescheidener Aktivität. Randomisierte Daten fehlen.
+- Die Resistenz über BCRP und die abgebrochenen Studien schwächen die Datenlage zusätzlich. Die Fragestellung eignet sich derzeit eher als Forschungsfrage.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Aktuelle Phase-II-/III-Studien oder randomisierte Daten zu Topotecan bei Brustkrebs, möglichst für definierte Untergruppen, etwa Hirnmetastasen oder MYC-getriebene Tumoren.
+- Die Sicherheitsinformationen aus der Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen), die in den Daten noch fehlen.
+- Eine Überprüfung der Wirkmechanismus-Angaben anhand einer Arzneimitteldatenbank.
+- Eine Einordnung gegenüber den bestehenden Standardtherapien beim Mammakarzinom.
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)

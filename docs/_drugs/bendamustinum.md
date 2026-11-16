@@ -1,34 +1,143 @@
 ---
-noindex: true
-sitemap: false
 layout: default
-nav_exclude: true
-title: BENDAMUSTINUM
+title: Bendamustinum
+parent: Hohe Evidenz (L1-L2)
+nav_order: 81
+evidence_level: L1
+indication_count: 10
 drugbank_id: DB06769
-permalink: /drugs/bendamustinum/
-search_exclude: true
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+monitor_inn: "Bendamustine"
+predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
+last_modified_at: 2026-11-16
+description: "Bendamustinum: vorhergesagte neue Indikation Mantelzelllymphom (mantle cell lymphoma) (Evidenzstufe L1). Ursprüngliche Indikation: Zytostatikum"
 ---
 
-# BENDAMUSTINUM
+# Bendamustinum
+{: .fs-9 }
 
-## Grundlegende Informationen
+Evidenzniveau: **L1** | Vorhergesagte Indikationen: **10** 
+{: .fs-6 .fw-300 }
 
-| Element | Wert |
-|------|-------|
+---
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist" markdown="1">
+
+## Pharmazeutischer Bewertungsbericht
+
+</div>
+
+## Bendamustinum: Mantelzelllymphom (mantle cell lymphoma)
+{: .text-alpha }
+
+---
+
+### Zusammenfassung
+
+Bendamustin ist ein alkylierendes Zytostatikum. Es wird für das Mantelzelllymphom (mantle cell lymphoma) als wirksam vorhergesagt, meist in Kombination mit Rituximab. Dafür liegen mehrere abgeschlossene Phase-3-Studien und Phase-2-Studien vor, die dieses Lymphom direkt untersuchen. Die Evidenz ist daher gut belegt (Niveau L1).
+
+---
+
+### Kurzübersicht
+
+| Punkt | Inhalt |
+|------|------|
+| Ursprüngliche Indikation | Zytostatikum |
+| Vorhergesagte neue Indikation | Mantelzelllymphom (mantle cell lymphoma) |
+| TxGNN-Vorhersagewert | 0.9963 |
+| Evidenzniveau | L1 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| DrugBank ID | [DB06769](https://go.drugbank.com/drugs/DB06769) |
-| Neue vorhergesagte Indikationen | Keine |
+| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
+---
+
+### Warum ist diese Vorhersage plausibel?
+
+Bendamustin ist ein bifunktionaler Alkylator mit einem Purinanalogon-ähnlichen Benzimidazolring. Es vernetzt die DNA und löst eine besondere DNA-Schadensantwort aus. Diese führt zu Apoptose und mitotischer Katastrophe, auch in Zellen mit gestörtem p53. Die Angaben zum Wirkmechanismus aus den Arzneimitteldatenbanken fehlen in den für diesen Bericht zusammengestellten Daten. Die Mechanismusbeschreibung stützt sich daher auf die Studien- und Literaturlage.
+
+Das Mantelzelllymphom ist ein B-Zell-Lymphom mit stark proliferierenden Tumorzellen. Solche Zellen sprechen auf DNA-schädigende Substanzen an. In der klinischen Praxis wird Bendamustin meist mit Rituximab kombiniert (BR-Schema), sowohl bei bisher unbehandelten als auch bei rezidivierten Patienten.
+
+Der hohe Vorhersagewert passt zur vorliegenden klinischen Evidenz. Mehrere randomisierte Studien nutzen BR als Standardarm oder als Grundgerüst für neue Kombinationen, etwa mit BTK-Hemmern.
+
+---
+
+### Klinische Studien
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT00877006](https://clinicaltrials.gov/study/NCT00877006) | Phase 3 | Abgeschlossen | 447 | Randomisierter Vergleich von BR mit R-CVP oder R-CHOP in der Erstlinie bei fortgeschrittenem indolentem NHL oder Mantelzelllymphom; primäres Ziel war die Rate kompletter Remissionen |
+| [NCT01456351](https://clinicaltrials.gov/study/NCT01456351) | Phase 3 | Abgeschlossen | 230 | Randomisierte Nichtunterlegenheitsstudie: BR gegen Fludarabin plus Rituximab bei rezidivierten niedrigmalignen NHL und Mantelzelllymphomen (Endpunkt: ereignisfreies Überleben) |
+| [NCT02972840](https://clinicaltrials.gov/study/NCT02972840) | Phase 3 | Aktiv, nicht rekrutierend | 635 | Doppelblinde Studie: BR mit Acalabrutinib gegen BR mit Placebo bei unbehandeltem Mantelzelllymphom |
+| [NCT04002297](https://clinicaltrials.gov/study/NCT04002297) | Phase 3 | Aktiv, nicht rekrutierend | 510 | Zanubrutinib plus Rituximab gegen BR bei unbehandelten, nicht transplantierbaren Patienten |
+| [NCT06496308](https://clinicaltrials.gov/study/NCT06496308) | Phase 3 | Rekrutierend | 78 | Orelabrutinib plus BR gegen BR bei nicht transplantierbarem Mantelzelllymphom mit mittlerem bis hohem Risiko |
+| [NCT01662050](https://clinicaltrials.gov/study/NCT01662050) | Phase 2 | Abgeschlossen | 57 | R-BAC (Rituximab, Bendamustin, Cytarabin) als Induktion bei älteren Patienten; sehr gute klinische Aktivität, aber relevante hämatologische Toxizität |
+| [NCT00992134](https://clinicaltrials.gov/study/NCT00992134) | Phase 2 | Abgeschlossen | 41 | R-BAC bei Patienten ab 65 Jahren oder bei nicht für intensive Therapien geeigneten Patienten; Prüfung von Sicherheit, Verträglichkeit und Aktivität |
+| [NCT00891839](https://clinicaltrials.gov/study/NCT00891839) | Phase 2 | Abgeschlossen | 45 | BR bei rezidiviertem oder refraktärem Mantelzelllymphom; Prüfung von Wirksamkeit und Sicherheit |
+| [NCT01737177](https://clinicaltrials.gov/study/NCT01737177) | Phase 2 | Abgeschlossen | 42 | Bendamustin, Lenalidomid und Rituximab (R2-B) im ersten Rezidiv, mit anschliessender Lenalidomid-Erhaltung |
+| [NCT03834688](https://clinicaltrials.gov/study/NCT03834688) | Phase 2 | Abgeschlossen | 33 | Venetoclax plus BR als Induktion bei unbehandelten Patienten über 60 Jahren, danach optional Rituximab-Erhaltung |
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [23433739](https://pubmed.ncbi.nlm.nih.gov/23433739/) | 2013 | RCT (Phase 3) | Lancet | Offene Nichtunterlegenheitsstudie: BR gegen R-CHOP als Erstlinie bei indolentem Lymphom und Mantelzelllymphom |
+| [35657079](https://pubmed.ncbi.nlm.nih.gov/35657079/) | 2022 | RCT | N Engl J Med | Ibrutinib zusätzlich zu BR mit anschliessender Rituximab-Erhaltung bei älteren Patienten mit unbehandeltem Mantelzelllymphom |
+| [40311141](https://pubmed.ncbi.nlm.nih.gov/40311141/) | 2025 | RCT | J Clin Oncol | Acalabrutinib plus BR bei unbehandeltem Mantelzelllymphom. Ausgangspunkt: Ibrutinib plus BR verlängerte das progressionsfreie Überleben, aber ohne Vorteil im Gesamtüberleben, vermutlich wegen Toxizität |
+| [30811293](https://pubmed.ncbi.nlm.nih.gov/30811293/) | 2019 | RCT (Langzeitnachbeobachtung) | J Clin Oncol | Fünf-Jahres-Nachbeobachtung der BRIGHT-Studie: BR gegen R-CHOP oder R-CVP bei unbehandeltem indolentem NHL oder Mantelzelllymphom |
+| [24591201](https://pubmed.ncbi.nlm.nih.gov/24591201/) | 2014 | RCT (Phase 3) | Blood | Randomisierte Nichtunterlegenheitsstudie BRIGHT zu Wirksamkeit und Sicherheit von BR gegenüber Standard-Immunchemotherapie |
+| [41052510](https://pubmed.ncbi.nlm.nih.gov/41052510/) | 2025 | RCT (Phase 2/3) | Lancet | ENRICH-Studie: Ibrutinib plus Rituximab gegen Standard-Immunchemotherapie (R-CHOP oder BR) bei Patienten ab 60 Jahren |
+| [32985902](https://pubmed.ncbi.nlm.nih.gov/32985902/) | 2021 | Studiendesign Phase 3 | Future Oncol | Beschreibung der Phase-3-Studie Zanubrutinib plus Rituximab gegen BR bei nicht transplantierbaren Patienten |
+| [32126141](https://pubmed.ncbi.nlm.nih.gov/32126141/) | 2020 | Phase-2-Studie (gepoolte Analyse) | Blood Adv | Rituximab/Bendamustin gefolgt von Rituximab/Cytarabin vor autologer Stammzelltransplantation bei transplantierbaren Patienten |
+| [36456154](https://pubmed.ncbi.nlm.nih.gov/36456154/) | 2022 | Retrospektive Analyse | Anticancer Res | Koreanische Multicenter-Auswertung: BR ist bei unbehandeltem und bei rezidiviertem oder refraktärem Mantelzelllymphom hochwirksam |
+| [41132246](https://pubmed.ncbi.nlm.nih.gov/41132246/) | 2025 | Leitlinie | HemaSphere | Leitlinie des EHA-EU-MCL-Netzwerks zu Diagnose und Behandlung des Mantelzelllymphoms |
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (alkylierend) |
+| Myelosuppressionsrisiko | Hoch |
+| Emetogenitätsklassifikation | Mittel |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
+| Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
+### Fazit und nächste Schritte
+
+**Entscheidung: Mit Vorsicht fortfahren**
+
+**Begründung:**
+- Das Mantelzelllymphom ist durch mehrere abgeschlossene Phase-3- und Phase-2-Studien direkt belegt (Evidenzniveau L1), und BR dient in grossen Studien als Referenzschema.
+- Für diesen Bericht fehlen Warnungen, Kontraindikationen und Angaben zum Wirkmechanismus aus der Fachinformation. Zudem ist die hämatologische Toxizität bei älteren Patienten relevant, besonders in intensiven Kombinationen.
+
+**Um fortzufahren, wird Folgendes benötigt:**
+- Fachinformation von Swissmedic mit Warnungen und Kontraindikationen, ausgewertet für die Sicherheitsprüfung
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Abklärung, ob und für welche Therapielinie das Mantelzelllymphom in der Schweizer Fachinformation abgedeckt ist
+- Ein Überwachungsplan für Blutbild, Infektionen sowie Leber- und Nierenfunktion
 ## Haftungsausschluss
 
-Diese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
+Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
 Vor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.
 
 ---
 
-[← Zurück zur Arzneimittelsuche](/drugs/)
