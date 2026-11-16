@@ -9,7 +9,7 @@ drugbank_id: DB08899
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 last_modified_at: 2026-11-16
-description: "Enzalutamidum: vorhergesagte neue Indikation Prostate leiomyoma (Evidenzstufe L5). Ursprüngliche Indikation: Prostatakarzinom"
+description: "Enzalutamidum: vorhergesagte neue Indikation Prostata-Leiomyom (prostate leiomyoma) (Evidenzstufe L5). Ursprüngliche Indikation: Prostatakarzinom"
 ---
 
 # Enzalutamidum
@@ -34,23 +34,21 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Enzalutamidum: Prostate leiomyoma
+## Enzalutamidum: Prostata-Leiomyom (prostate leiomyoma)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Enzalutamid ist ein Androgenrezeptor-Antagonist, der in der Schweiz im Handel ist. Es gibt jedoch weder klinische Studien noch Publikationen, die diese Vorhersage stützen. Sie beruht ausschliesslich auf einer Modellberechnung (Evidenzniveau L5).
+Enzalutamid ist ein Arzneimittel zur Hemmung des Androgenrezeptor-Signalwegs und ist in der Schweiz im Handel. Für das Prostata-Leiomyom (prostate leiomyoma) liegt eine rein rechnerische Vorhersage vor. Es gibt dafür weder klinische Studien noch Literatur, die diese Erkrankung direkt untersuchen.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Prostatakarzinom |
-| Vorhergesagte neue Indikation | Prostate leiomyoma |
+| Vorhergesagte neue Indikation | Prostata-Leiomyom (prostate leiomyoma) |
 | TxGNN-Vorhersagewert | 0.9957 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
@@ -59,61 +57,56 @@ Enzalutamid ist ein Androgenrezeptor-Antagonist, der in der Schweiz im Handel is
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Enzalutamid blockiert als Androgenrezeptor-Antagonist die Bindung von Androgenen an den Rezeptor, dessen Transport in den Zellkern und die Bindung an die DNA. Die Mechanismusangabe in den zusammengestellten Daten ist unvollständig. Die Beschreibung stützt sich daher auf das bekannte Wirkprinzip des Arzneimittels.
+Enzalutamid hemmt den Androgenrezeptor (AR) und damit den Signalweg, der das Wachstum von Prostatagewebe antreibt. Eine detaillierte Beschreibung des Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor.
 
-Bei der vorhergesagten «Indikation» handelt es sich um ein Konzept der genetischen Veranlagung (Suszeptibilität) und nicht um eine behandelbare Krankheit. Der Androgenrezeptor-Signalweg ist für die Biologie des Prostatakrebses relevant. Für Hirntumoren ist dagegen kein Mechanismus erkennbar, der Enzalutamid mit dieser Vorhersage verbindet.
+Der hohe Vorhersagewert hängt wahrscheinlich damit zusammen, dass das Arzneimittel eng mit Erkrankungen der Prostata und mit AR-bezogenen Strukturen verknüpft ist. Das Prostata-Leiomyom ist ein seltener gutartiger Tumor der glatten Muskulatur. Eine Abhängigkeit dieses Tumors vom AR-Signalweg ist nicht belegt.
 
-Der hohe Vorhersagewert ist deshalb nur ein Modellergebnis ohne belegte biologische oder klinische Grundlage. Er sollte nicht als Hinweis auf eine tatsächliche Wirksamkeit gelesen werden.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
+Die Verbindung ist daher bislang nur eine Modellvorhersage. Sie ist biologisch nicht bestätigt und durch keine klinische Evidenz gestützt.
 
 ---
 
-## Literaturbelege
+### Marktinformationen Schweiz
 
-Derzeit keine verwandte Literatur verfügbar
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 69477 | Enzalutamid Sandoz 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
+| 67236 | Xtandi 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
+| 69988 | Enzalutamid Sandoz eco 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
+| 69683 | Enzalutamid Spirig HC 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
 
 ---
 
-## Zytotoxizität
+### Zytotoxizität
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete (hormonelle) Therapie, kein konventionelles Zytostatikum |
-| Myelosuppressionsrisiko | Niedrig |
-| Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion gemäss Fachinformation |
-| Handhabungsschutz | Keine zytostatikaspezifischen Schutzmassnahmen für intakte Filmtabletten; Tabletten nicht zerkleinern oder öffnen (Hinweise der Fachinformation beachten) |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (hormonell, AR-Inhibitor) |
 
-*Diese Angaben stammen aus allgemeinem Fachwissen und nicht aus den zusammengestellten Daten. Sie sind anhand der Fachinformation zu prüfen.*
+Angaben zu Myelosuppressionsrisiko, Emetogenität, Überwachungspunkten und Handhabungsschutz sind in den zusammengestellten Daten nicht enthalten. Bitte der Fachinformation entnehmen.
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich nur auf ein Modell, und es liegen weder Studien noch Publikationen zu dieser Vorhersage vor.
-- Da es sich um ein Suszeptibilitätskonzept und keine behandelbare Krankheit handelt, ist ein Nutzen von Enzalutamid biologisch nicht nachvollziehbar.
+- Für das Prostata-Leiomyom liegen weder klinische Studien noch Literatur vor, die diese Erkrankung direkt untersuchen. Der hohe Vorhersagewert ist eine rein rechnerische Aussage (Evidenzniveau L5).
+- Der Wirkmechanismus ist für diese seltene gutartige Erkrankung nicht belegt, und die Sicherheitsdaten aus der Fachinformation fehlen noch.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Eine klare, behandelbare Krankheitsdefinition für die Vorhersage.
-- Mechanistische oder klinische Belege, die einen Nutzen von Enzalutamid in dieser Fragestellung stützen.
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation.
-- Die Mechanismusangabe aus einer Arzneimitteldatenbank, um die Analyse des Wirkprinzips zu vervollständigen.
+- Belege, dass das Prostata-Leiomyom vom Androgenrezeptor-Signalweg abhängt (z. B. Expressionsanalysen von Gewebeproben)
+- Fallberichte, Fallserien oder klinische Studien zu dieser Erkrankung
+- Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
+- Eine ausführliche Beschreibung des Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

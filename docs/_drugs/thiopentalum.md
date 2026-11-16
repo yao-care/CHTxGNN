@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Thiopental ist ein kurz wirkendes Barbiturat, das in der Schweiz im Handel ist. Das Modell sagt eine mögliche Wirksamkeit bei Trichotillomanie (trichotillomania) voraus. Dafür gibt es bisher keine Belege aus klinischen Studien oder Publikationen, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Thiopental ist ein Barbiturat, das als Kurznarkotikum eingesetzt wird. Für die Trichotillomanie (trichotillomania) sagt das Modell eine mögliche Wirksamkeit voraus. Diese Vorhersage beruht allein auf einer Berechnung: Es liegen weder klinische Studien noch Literatur zu dieser Erkrankung vor (Evidenzniveau L5).
 
 ---
 
@@ -61,29 +61,17 @@ Thiopental ist ein kurz wirkendes Barbiturat, das in der Schweiz im Handel ist. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Thiopental verstärkt die hemmende Wirkung des Botenstoffs GABA am GABA-A-Rezeptor und dämpft dadurch das zentrale Nervensystem. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Thiopental ist ein Barbiturat und verstärkt die Aktivität des GABA-A-Rezeptors, was das zentrale Nervensystem dämpft. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Ein nachvollziehbarer Zusammenhang mit der Trichotillomanie ist derzeit nicht belegt. Diese Erkrankung wird mit Gewohnheitsmustern sowie mit glutamaterger und serotonerger Signalübertragung in Verbindung gebracht. Für einen Einfluss von Thiopental auf diese Wege gibt es keine Hinweise. Der hohe Vorhersagewert spiegelt vermutlich eine rechnerische Ähnlichkeit mit anderen zentralnervös wirksamen Arzneimitteln wider, nicht eine klinisch begründete Überlegung.
-
-Die Vorhersage ist deshalb höchstens eine Hypothese. Sie müsste zuerst durch präklinische Untersuchungen oder Fallbeobachtungen gestützt werden.
+Ein nachvollziehbarer Zusammenhang zwischen dieser Wirkung und den Mechanismen der Trichotillomanie (etwa Verhaltensmuster, die über Gewohnheitsumkehr behandelt werden, sowie serotonerge und glutamaterge Signalwege) ist in den vorliegenden Daten nicht belegt. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein Hinweis auf nachgewiesenen Nutzen. Ein Narkosemittel zur Behandlung einer chronischen Verhaltensstörung zu erwägen, ist zudem aus praktischer Sicht schwer vorstellbar.
 
 ---
 
-### Klinische Studien
+### Marktinformationen Schweiz
 
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 62451 | Thiopental Inresa 0.5g, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Kurznarkotikum |
 
 ---
 
@@ -92,13 +80,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf das Modell. Es gibt weder klinische Studien noch Literatur zu Thiopental bei Trichotillomanie, und ein plausibler Wirkmechanismus ist nicht erkennbar.
-- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen in den zusammengestellten Daten noch. Eine Sicherheitsbewertung ist daher derzeit nicht möglich.
+- Für die Trichotillomanie gibt es weder klinische Studien noch Literatur. Die Vorhersage stützt sich ausschliesslich auf das Modell, und ein plausibler Wirkmechanismus ist nicht belegt.
+- Die Sicherheitsdaten aus der Fachinformation fehlen. Eine Sicherheitsbewertung ist deshalb derzeit nicht möglich.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die ausgewertet werden müssen.
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank), um einen möglichen Zusammenhang mit der Trichotillomanie zu prüfen.
-- Gezielte Literaturrecherche und, falls ein Mechanismus plausibel wird, präklinische oder frühe klinische Daten zu dieser Indikation.
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Präklinische oder klinische Belege, die Thiopental direkt mit der Trichotillomanie verbinden
+- Klärung, ob eine intravenöse Narkosesubstanz für diese chronische Erkrankung überhaupt eine praktikable Anwendungsart darstellt
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

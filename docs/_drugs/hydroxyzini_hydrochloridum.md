@@ -9,7 +9,7 @@ drugbank_id: DB00557
 monitor_inn: "Hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
 last_modified_at: 2026-11-16
-description: "Hydroxyzini Hydrochloridum: vorhergesagte neue Indikation Rosacea conjunctivitis (Evidenzstufe L5). Ursprüngliche Indikation: sédatif, antihistaminique"
+description: "Hydroxyzini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: sédatif, antihistaminique"
 ---
 
 # Hydroxyzini Hydrochloridum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Hydroxyzini Hydrochloridum: Rosacea conjunctivitis
+## Hydroxyzini Hydrochloridum: Rosazea-Konjunktivitis (rosacea conjunctivitis)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Hydroxyzinhydrochlorid ist in der Schweiz als Beruhigungsmittel und Antihistaminikum zugelassen. Für diese Erkrankung liegen jedoch keine Studien vor, die Hydroxyzin direkt untersuchen; die Evidenz stützt sich auf Übersichtsarbeiten, Fallberichte und Daten zum Metaboliten Cetirizin.
+Hydroxyzin ist in der Schweiz als Beruhigungsmittel und Antihistaminikum zugelassen. Die Vorhersage legt nahe, dass es bei Rosazea-Konjunktivitis (rosacea conjunctivitis) wirksam sein könnte. Dafür gibt es keine Studien oder Publikationen, die Evidenz beruht allein auf der Modellvorhersage (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +48,7 @@ Hydroxyzinhydrochlorid ist in der Schweiz als Beruhigungsmittel und Antihistamin
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | sédatif, antihistaminique; Sedativum, Antihistaminikum |
-| Vorhergesagte neue Indikation | Rosacea conjunctivitis |
+| Vorhergesagte neue Indikation | Rosazea-Konjunktivitis (rosacea conjunctivitis) |
 | TxGNN-Vorhersagewert | 0.9970 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -59,36 +59,11 @@ Hydroxyzinhydrochlorid ist in der Schweiz als Beruhigungsmittel und Antihistamin
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Daten zum Wirkmechanismus von Hydroxyzin sind in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Hydroxyzin gehört jedoch zu den H1-Antihistaminika der ersten Generation. Sein aktiver Metabolit ist Cetirizin.
+Hydroxyzin ist ein H1-Antihistaminikum der ersten Generation mit anticholinergen, juckreizlindernden und leicht angstlösenden Eigenschaften. Angaben zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
 
-Bei der Urtikaria setzen Mastzellen Histamin frei, das Quaddeln und Juckreiz auslöst. Eine Blockade der H1-Rezeptoren greift deshalb direkt an diesem Mechanismus an. Antihistaminika gelten als Grundpfeiler der Urtikaria-Behandlung.
+Ein möglicher, aber indirekter Zusammenhang besteht darin, dass die Blockade von H1-Rezeptoren histaminbedingten Juckreiz, Gefässerweiterung und Bindehautrötung dämpfen könnte. Diese Beschwerden treten auch bei allergischen oder entzündlichen Erkrankungen der Augenoberfläche auf.
 
-Die gefundene Literatur betrifft überwiegend Cetirizin und andere Antihistaminika der zweiten Generation sowie allgemeine Übersichtsarbeiten. Die Evidenz ist daher indirekt. Hydroxyzin wird bei Urtikaria vermutlich bereits breit eingesetzt, weshalb es sich eher um eine etablierte oder Off-Label-Anwendung als um eine echte Neuausrichtung handeln dürfte. Dies sollte anhand der Fachinformation überprüft werden.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Keine der Publikationen untersucht Hydroxyzin bei allergischer Urtikaria direkt. Aufgelistet sind die relevantesten Arbeiten.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [31582993](https://pubmed.ncbi.nlm.nih.gov/31582993/) | 2019 | Positionspapier | Allergy, Asthma, and Clinical Immunology | Neuere Antihistaminika sind sicherer als solche der ersten Generation (u. a. Hydroxyzin) und sollten bei Rhinitis und Urtikaria erste Wahl sein. Hydroxyzin verursacht Sedation und kognitive Einschränkungen. |
-| [28913986](https://pubmed.ncbi.nlm.nih.gov/28913986/) | 2017 | Übersichtsarbeit | Allergy, Asthma & Immunology Research | Chronische spontane Urtikaria wird mit Antihistaminika begonnen, meist in höherer Dosis. Hydroxyzin wurde früher ähnlich eingesetzt. Bei unzureichendem Ansprechen folgt Omalizumab. |
-| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Übersichtsarbeit | The Annals of Pharmacotherapy | Wirksamkeit und Sicherheit von Antihistaminika der ersten und neuen Generation bei allergischer Rhinitis und chronischer idiopathischer Urtikaria. |
-| [32324180](https://pubmed.ncbi.nlm.nih.gov/32324180/) | 2020 | Übersichtsarbeit | The Medical Letter on Drugs and Therapeutics | Intravenöses Cetirizin bei akuter Urtikaria. |
-| [12113226](https://pubmed.ncbi.nlm.nih.gov/12113226/) | 2002 | Übersichtsarbeit | Clinical Allergy and Immunology | H1-Antagonisten bei Kindern; gute Evidenz bei allergischer Rhinokonjunktivitis. |
-| [12769407](https://pubmed.ncbi.nlm.nih.gov/12769407/) | 2003 | Fallbericht | Cutis | Ein Patient mit chronischer idiopathischer Urtikaria vertrug 50 mg Cetirizin täglich; Hydroxyzin und andere Antihistaminika hatten zuvor nicht geholfen. |
-| [13563068](https://pubmed.ncbi.nlm.nih.gov/13563068/) | 1958 | Klinische Beobachtung | The Journal of Allergy | Frühe Beobachtungen zu Hydroxyzin bei chronischer Urtikaria und allergischen Beschwerden (kein Abstract verfügbar). |
-| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Übersichtsarbeit | Drugs | Cetirizin, Metabolit von Hydroxyzin, als potenter H1-Antagonist ohne die dämpfende Wirkung klassischer Antihistaminika. |
-| [19348661](https://pubmed.ncbi.nlm.nih.gov/19348661/) | 2009 | Fallbericht | The Journal of Dermatology | Seltener Fall einer durch H1-Antihistaminika ausgelösten Urtikaria. |
-| [11034010](https://pubmed.ncbi.nlm.nih.gov/11034010/) | 2000 | Fallbericht | Journal of Clinical Gastroenterology | Cetirizin-bedingte Cholestase bei einem Patienten ohne Vorerkrankung. |
+Allerdings wird die Rosazea-Konjunktivitis (Augenrosazea) hauptsächlich durch eine Funktionsstörung der Meibom-Drüsen, einen instabilen Tränenfilm, mikrobielle Faktoren einschliesslich Demodex sowie eine Fehlregulation von angeborener Immunabwehr und Gefässen verursacht, nicht überwiegend durch Histamin. Zudem können Antihistaminika der ersten Generation wegen ihrer anticholinergen Wirkung die Tränenproduktion verringern und ein trockenes Auge verschlimmern. Der hohe Vorhersagewert stützt sich allein auf das Modell und nicht auf mechanistische, präklinische oder klinische Daten.
 
 ---
 
@@ -106,13 +81,13 @@ Keine der Publikationen untersucht Hydroxyzin bei allergischer Urtikaria direkt.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die allergische Urtikaria gibt es keine registrierten Studien und keine Publikation, die Hydroxyzin direkt bei dieser Erkrankung untersucht; das Evidenzniveau bleibt daher bei L5. Aktuelle Empfehlungen bevorzugen zudem Antihistaminika der zweiten Generation, da Hydroxyzin sedierend wirkt.
+- Für die vorhergesagte Indikation liegen weder klinische Studien noch Literatur vor, und der biologische Zusammenhang ist nur schwach. Die anticholinerge Wirkung könnte bei dieser Patientengruppe sogar schaden.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen, da Sicherheitsdaten in den zusammengestellten Daten fehlen
-- Angaben zum Wirkmechanismus aus DrugBank
-- Kontrollierte Studien, die Hydroxyzin direkt bei allergischer Urtikaria untersuchen
-- Klärung, ob die Anwendung bei Urtikaria bereits als etablierte oder Off-Label-Praxis gilt
+- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Fachinformation von Swissmedic, da diese derzeit fehlen.
+- Die Angaben zum Wirkmechanismus aus DrugBank.
+- Präklinische oder klinische Belege, die Hydroxyzin direkt mit Rosazea-Konjunktivitis in Verbindung bringen.
+- Eine Prüfung, ob eine für das Auge geeignete Darreichungsform nötig und verfügbar wäre, da die Routenverträglichkeit bisher nicht bewertet ist.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

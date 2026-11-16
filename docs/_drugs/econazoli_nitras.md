@@ -9,7 +9,7 @@ drugbank_id: DB01127
 monitor_inn: "Econazole"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
 last_modified_at: 2026-11-16
-description: "Econazoli Nitras: vorhergesagte neue Indikation Ectothrix infectious disease (Evidenzstufe L5). Ursprüngliche Indikation: Dermatomykosen"
+description: "Econazoli Nitras: vorhergesagte neue Indikation Ektothrix-Infektionskrankheit (ectothrix infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Dermatomykosen"
 ---
 
 # Econazoli Nitras
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Econazoli Nitras: Ectothrix infectious disease
+## Econazoli Nitras: Ektothrix-Infektionskrankheit (ectothrix infectious disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Econazolnitrat wird in der Schweiz als Antimykotikum auf Haut und Schleimhaut eingesetzt. Für das Majocchi-Granulom (Majocchi granuloma), eine tiefe, follikuläre Pilzinfektion der Haut, sagt das Modell eine mögliche Wirksamkeit voraus. Die Evidenz ist sehr dünn: Es liegt nur ein einzelner Fallbericht vor, der die Wirksamkeit von Econazol nicht belegt.
+Econazolnitrat ist ein in der Schweiz im Handel befindliches Antimykotikum zur Anwendung auf Haut und Schleimhaut. Vorhergesagt wird eine mögliche Wirksamkeit bei der Ektothrix-Infektionskrankheit (ectothrix infectious disease), einer Pilzinfektion, bei der die Sporen die Haarschaft-Oberfläche befallen. Für diese Vorhersage liegen keine klinischen Studien und keine Literatur vor; sie stützt sich allein auf ein Rechenmodell.
 
 ---
 
@@ -48,7 +48,7 @@ Econazolnitrat wird in der Schweiz als Antimykotikum auf Haut und Schleimhaut ei
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Dermatomykosen; Vulvovaginale Mykosen; Entzündliche Dermatomykosen |
-| Vorhergesagte neue Indikation | Ectothrix infectious disease |
+| Vorhergesagte neue Indikation | Ektothrix-Infektionskrankheit (ectothrix infectious disease) |
 | TxGNN-Vorhersagewert | 0.9997 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
@@ -59,25 +59,11 @@ Econazolnitrat wird in der Schweiz als Antimykotikum auf Haut und Schleimhaut ei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Econazol gehört zu den Imidazol-Antimykotika. Es hemmt das Pilzenzym Lanosterol-14-alpha-Demethylase (CYP51) und blockiert dadurch die Bildung von Ergosterol, das für die Zellmembran von Pilzen notwendig ist. Eine offizielle Beschreibung des Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor; die Angabe beruht auf dem bekannten Wirkprinzip dieser Substanzklasse.
+Econazolnitrat gehört zu den Imidazol-Antimykotika. Solche Wirkstoffe hemmen das Pilzenzym Lanosterol-14-alpha-Demethylase (CYP51) und blockieren damit die Bildung von Ergosterol, einem wichtigen Baustein der Pilzzellmembran. Die Membran wird gestört, und das Pilzwachstum wird gehemmt. In den für diesen Bericht zusammengestellten Daten ist der Wirkmechanismus nicht erfasst; diese Beschreibung beruht auf allgemeinem Wissen über die Wirkstoffklasse.
 
-Das Majocchi-Granulom wird meist durch Dermatophyten wie Trichophyton rubrum verursacht. Diese Erreger sind grundsätzlich empfindlich gegenüber Azolen, daher ist die Vorhersage mechanistisch nachvollziehbar.
+Die Ektothrix-Infektion wird durch Dermatophyten (z. B. Microsporum- oder Trichophyton-Arten) verursacht, die den Haarschaft befallen. Da Econazolnitrat bereits bei Pilzinfektionen der Haut eingesetzt wird, ist ein Nutzen gegen diese Erreger biologisch denkbar.
 
-Ein wesentlicher Einwand bleibt: Die Infektion sitzt tief in der Dermis und um die Haarfollikel. Äusserlich aufgetragene Wirkstoffe dringen dort nur begrenzt ein, weshalb üblicherweise orale Antimykotika der Standard sind. Topisches Econazol wäre daher bestenfalls eine Ergänzung.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [37899944](https://pubmed.ncbi.nlm.nih.gov/37899944/) | 2023 | Fallbericht | Case reports in dermatology | Bericht über einen 54-jährigen Mann mit Majocchi-Granulom. Die Erkrankung wird leicht mit Ekzem oder Psoriasis verwechselt und fälschlich mit topischen Kortikosteroiden behandelt (Tinea incognita). Keine Aussage zur Wirksamkeit von Econazol. |
+Eine praktische Grenze bleibt: Pilzinfektionen des Haarschafts erfordern in der Regel eine systemische Behandlung, weil äussere Präparate schlecht in den Haarfollikel eindringen. Der Nutzen eines rein äusserlich angewendeten Präparats ist daher fraglich. Der hohe Vorhersagewert ist eine rechnerische Einschätzung und ersetzt keinen klinischen Beleg.
 
 ---
 
@@ -94,23 +80,19 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für das Majocchi-Granulom liegt nur ein Fallbericht vor, der Econazol nicht untersucht; Studien zur Wirksamkeit fehlen. Wegen der tiefen Lokalisation der Infektion ist zudem fraglich, ob ein topisches Präparat genügt.
+- Die Vorhersage beruht ausschliesslich auf einem Modellwert (Evidenzniveau L5); es gibt weder klinische Studien noch Publikationen zu dieser Erkrankung.
+- Die schlechte Eindringtiefe äusserlicher Präparate in den Haarfollikel begrenzt den praktischen Wert zusätzlich.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten (Fallserien oder kontrollierte Studien) zu topischem Econazol beim Majocchi-Granulom, auch als Ergänzung zu oralen Antimykotika
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Eine geprüfte Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Die Sicherheitsinformationen (Warnungen, Kontraindikationen) aus den Swissmedic-Fachinformationen, da diese Daten derzeit fehlen.
+- Die Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank.
+- Klinische oder präklinische Daten zur Wirksamkeit bei Ektothrix-Infektionen, insbesondere zur Eindringtiefe in den Haarschaft.
+- Eine Prüfung, ob die vorhandenen Darreichungsformen für diese Indikation geeignet sind.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB00341
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
 last_modified_at: 2026-11-16
-description: "Cetirizini Dihydrochloridum: vorhergesagte neue Indikation Nasal cavity disease (Evidenzstufe L5). Ursprüngliche Indikation: Antiallergikum"
+description: "Cetirizini Dihydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antiallergikum"
 ---
 
 # Cetirizini Dihydrochloridum
@@ -34,65 +34,60 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Cetirizini Dihydrochloridum: Nasal cavity disease
+## Cetirizini Dihydrochloridum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
-### Zusammenfassung
+## Zusammenfassung
 
-Cetirizin ist ein Antihistaminikum, das in der Schweiz von mehreren Herstellern im Handel ist. Eine kleine, abgeschlossene Phase-3-Pilotstudie mit intravenösem Cetirizin stützt die Vorhersage, die Evidenz bleibt aber begrenzt. Zur Urtikaria zeigt die Literatur überwiegend Übersichtsarbeiten, die Cetirizin nur am Rande behandeln.
+Cetirizin ist ein H1-Antihistaminikum, das in der Schweiz als Antiallergikum zugelassen ist. Das Modell sagt eine mögliche Wirksamkeit bei Erkrankungen der Nasenhöhle (nasal cavity disease) voraus. Diese Vorhersage stützt sich nur auf Modellrechnung und allgemeine Literatur zu Antihistaminika, nicht auf Studien, die diese Erkrankung direkt untersuchen.
 
 ---
 
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiallergikum; Antiallergique |
-| Vorhergesagte neue Indikation | Nasal cavity disease |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9977 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 10) |
 | Anzahl Zulassungen | mindestens 10 |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
-### Warum ist diese Vorhersage plausibel?
+## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Cetirizin gehört jedoch zur Klasse der selektiven peripheren Histamin-H1-Rezeptor-Antagonisten.
+Cetirizin blockiert selektiv den peripheren H1-Rezeptor (inverser Agonist). Histamin führt an der Nasenschleimhaut zu erweiterten Gefässen, höherer Gefässdurchlässigkeit, Reizung sensibler Nerven und vermehrter Schleimbildung. Eine Blockade dieser Effekte kann Niesen, Fliessschnupfen und Juckreiz in der Nase lindern. Hinzu kommen klassenspezifische antiallergische und entzündungshemmende Wirkungen der H1-Antihistaminika, etwa eine geringere Anlockung eosinophiler Zellen und weniger Adhäsionsmoleküle.
 
-Bei der allergischen Urtikaria setzen Mastzellen Histamin frei, das die typischen Quaddeln und die Hautrötung auslöst. Eine Blockade der H1-Rezeptoren setzt direkt an diesem Signalweg an. Cetirizin gilt als etablierter Antihistaminikum-Wirkstoff der zweiten Generation bei Urtikaria. Es handelt sich daher weniger um eine echte Neuausrichtung als um eine Anwendung, die mit den gängigen Leitlinien übereinstimmt.
+Die Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die obige Beschreibung beruht auf dem allgemeinen Wissen zur Wirkstoffklasse. Der hohe Vorhersagewert passt zu diesem Mechanismus.
 
-Die vorliegende Studie prüft allerdings die intravenöse Darreichungsform. Die in der Schweiz zugelassenen Produkte sind dagegen Tropfen, Filmtabletten und Lutschtabletten. Ob die Ergebnisse auf diese Formen übertragbar sind, ist nicht belegt.
-
----
-
-### Klinische Studien
-
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT02023164](https://clinicaltrials.gov/study/NCT02023164) | Phase 3 | Abgeschlossen | 36 | Randomisierte, doppelblinde Pilotstudie an mehreren Zentren: intravenöses Cetirizin (10 mg) gegenüber Diphenhydramin (50 mg) bei akuter Urtikaria in Notaufnahmen, Notfallpraxen und Allergiekliniken. Sie prüft die Machbarkeit einer grösseren Phase-3-Studie; Wirksamkeitsergebnisse sind in den Daten nicht enthalten. |
+Die vorliegenden Publikationen sind Übersichtsarbeiten und Tiermodelle zur allergischen Rhinitis und zu Entzündungen von Nase und Nasennebenhöhlen. Keine davon untersucht Cetirizin bei einer Erkrankung der Nasenhöhle als Studienziel am Menschen. Deshalb ist das Evidenzniveau auf L5 begrenzt.
 
 ---
 
-### Literaturbelege
+## Klinische Studien
 
-Die Literatur zur allergischen Urtikaria besteht überwiegend aus Übersichtsarbeiten und Fallberichten. Eine Studie, die Cetirizin bei allergischer Urtikaria direkt untersucht, ist darunter nicht erkennbar.
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+## Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [29565188](https://pubmed.ncbi.nlm.nih.gov/29565188/) | 2018 | Kohortenstudie | Journal of Obstetrics and Gynaecology | Auswertung von Schwangerschaftsausgängen nach Cetirizin-Exposition aus der Sicherheitsdatenbank des Herstellers. Betrifft die Sicherheit, nicht die Wirksamkeit bei Urtikaria. |
-| [17017922](https://pubmed.ncbi.nlm.nih.gov/17017922/) | 2006 | Übersichtsarbeit | Current Medicinal Chemistry | Überblick zu Levocetirizin, dem R-Enantiomer von Cetirizin. |
-| [9951950](https://pubmed.ncbi.nlm.nih.gov/9951950/) | 1999 | Übersichtsarbeit | Drugs | Vergleich von Antihistaminika der zweiten Generation, darunter Cetirizin. |
-| [7645679](https://pubmed.ncbi.nlm.nih.gov/7645679/) | 1995 | Übersichtsarbeit | Allergy | Klinische Studien mit Cetirizin bei allergischer Rhinitis und chronischer Urtikaria (kein Abstract verfügbar). |
-| [11034010](https://pubmed.ncbi.nlm.nih.gov/11034010/) | 2000 | Fallbericht | Journal of Clinical Gastroenterology | Cetirizin-bedingte Cholestase bei einem 28-jährigen Mann nach zweijähriger Einnahme. |
-| [19348661](https://pubmed.ncbi.nlm.nih.gov/19348661/) | 2009 | Fallbericht | The Journal of Dermatology | Durch H1-Antihistaminika ausgelöste Urtikaria bei einer Patientin. |
+| [11291777](https://pubmed.ncbi.nlm.nih.gov/11291777/) | 2000 | Übersichtsarbeit | Allergy | Antihistaminika wirken vor allem durch Blockade des H1-Rezeptors; weitere antiallergische Mechanismen werden bei allergischer Rhinitis diskutiert. |
+| [35818943](https://pubmed.ncbi.nlm.nih.gov/35818943/) | 2022 | Übersichtsarbeit | Vestnik otorinolaringologii | Moderne H1-Antihistaminika bei allergischer Rhinitis mit begleitenden akuten Atemwegsinfekten; die Entzündung der Nasenschleimhaut ist bei Kombination stärker. |
+| [37970776](https://pubmed.ncbi.nlm.nih.gov/37970776/) | 2023 | Übersichtsarbeit | Vestnik otorinolaringologii | Therapieansatz bei entzündlichen Erkrankungen von Nase und Nasennebenhöhlen nach der Krankheitsentstehung; Ziel ist weniger Schwellung und Schleim. |
+| [36116201](https://pubmed.ncbi.nlm.nih.gov/36116201/) | 2022 | Präklinisch (Mausmodell) | Phytomedicine | Pflanzliches Präparat (kein Antihistaminikum) verbessert im Mausmodell der allergischen Rhinitis die Riechstörung über den AMPK/mTOR-Weg. |
+| [9301130](https://pubmed.ncbi.nlm.nih.gov/9301130/) | 1997 | Präklinisch (Tiermodell) | Arerugi | Im Tiermodell der allergischen Rhinitis hemmten Betotastin und Cetirizin dosisabhängig die erhöhte Gefässdurchlässigkeit bzw. den Druckanstieg in der Nase. |
 
 ---
 
-### Marktinformationen Schweiz
+## Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig: Es sind mindestens 10 Zulassungen erfasst, alle gültig.
+Es sind mindestens 10 Zulassungen erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -102,32 +97,31 @@ Die Liste ist möglicherweise unvollständig: Es sind mindestens 10 Zulassungen 
 | 67604 | Sun Store Cetirizin, Filmtabletten | Synthetika | Antiallergikum |
 | 65119 | Cetirizin-Mepha 10, Filmtabletten | Synthetika | Antiallergikum |
 | 57360 | Ceteco Sandoz, Filmtabletten | Synthetika | Antiallergikum |
-| 48143 | Zyrtec, Filmtabletten | Synthetika | Antiallergikum |
+| 48143 | Zyrtec, comprimés pelliculés | Synthetika | Antiallergikum |
 | 61240 | Amavita Cetirizin, Filmtabletten | Synthetika | Antiallergikum |
-| 52700 | Zyrtec, Tropfen zum Einnehmen | Synthetika | Antiallergikum |
-| 57067 | Triofan Allergie, Lutschtabletten | Synthetika | Antiallergikum |
+| 52700 | Zyrtec, gouttes buvables | Synthetika | Antiallergikum |
+| 57067 | Triofan Allergie, comprimés à sucer | Synthetika | Antiallergikum |
 
 ---
 
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus (H1-Blockade) passt gut zur Urtikaria, und eine abgeschlossene Phase-3-Pilotstudie liegt vor. Diese ist mit 36 Teilnehmenden klein und prüft die intravenöse Form, nicht die in der Schweiz erhältlichen Produkte.
-- Die Sicherheitsdaten aus der Fachinformation fehlen bisher, daher ist keine abschliessende Sicherheitsbewertung möglich.
+- Die Vorhersage stützt sich auf einen sehr hohen Modellwert, aber es gibt keine registrierten klinischen Studien und keine Publikation, die Cetirizin bei dieser Erkrankung direkt untersucht (Evidenzniveau L5).
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen bislang.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Wirksamkeitsdaten aus grösseren, kontrollierten Studien zur oralen Anwendung bei allergischer Urtikaria
-- Ergebnisse der Pilotstudie NCT02023164 und Klärung der Übertragbarkeit der intravenösen Daten auf die in der Schweiz erhältlichen Formen
+- Kontrollierte klinische Studien oder systematische Übersichten zu Cetirizin bei der konkreten Erkrankung der Nasenhöhle
+- Auswertung der Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen, Wechselwirkungen)
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

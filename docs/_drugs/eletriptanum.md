@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 ### Zusammenfassung
 
-Eletriptan ist ein Triptan, das in der Schweiz zur Akutbehandlung von Migräneanfällen im Handel ist. Als neue Indikation wird Migräne mit Hirnstammaura (migraine with brainstem aura) vorhergesagt. Die Evidenz ist begrenzt: Es liegt keine Studie vor, die diese Migräneform direkt untersucht, und es gibt zugleich ein ungeklärtes Sicherheitsproblem.
+Eletriptan ist ein Triptan, das in der Schweiz zur Akutbehandlung von Migräneanfällen im Handel ist. Für die Vorhersage Atrophoderma vermiculata (atrophoderma vermiculata) liegt ein sehr hoher TxGNN-Wert vor, jedoch keine einzige klinische Studie und keine Publikation. Die Evidenz beschränkt sich damit auf eine reine Modellvorhersage (Evidenzniveau L5).
 
 ---
 
@@ -61,11 +61,11 @@ Eletriptan ist ein Triptan, das in der Schweiz zur Akutbehandlung von Migränean
 
 ### Warum ist diese Vorhersage plausibel?
 
-Eletriptan wirkt als selektiver Agonist an den Serotoninrezeptoren 5-HT1B und 5-HT1D. Dieser Mechanismus wird mit der Verengung erweiterter Hirngefässe und der Hemmung der Schmerzsignale im Trigeminussystem in Verbindung gebracht. Die Angabe zum Wirkmechanismus in den zusammengestellten Daten fehlt, die obige Beschreibung beruht auf der allgemeinen Pharmakologie der Triptane und auf den Angaben in der Literatur (PMID 12498013).
+Eletriptan wirkt als selektiver Agonist an 5-HT1B/1D-Rezeptoren. Dadurch verengt es Hirngefässe und hemmt die Freisetzung von Neuropeptiden wie CGRP aus den Endigungen des Trigeminusnervs. Die Angaben zum Wirkmechanismus stammen nicht aus den für diesen Bericht zusammengestellten Daten, sondern sind eine allgemeine pharmakologische Einordnung; sie sind dort als Datenlücke vermerkt.
 
-Migräne mit Hirnstammaura gehört zur selben Krankheitsgruppe wie die Migräne, für die Eletriptan zugelassen ist, und teilt deren trigeminovaskuläre Pathophysiologie. Insofern ist der Mechanismus plausibel. Es handelt sich eher um die Ausweitung auf einen Untertyp als um eine echte Umwidmung.
+Atrophoderma vermiculata ist eine seltene follikuläre Verhornungsstörung mit eingesunkener, grübchenförmiger Narbenbildung an den Wangen. Nach heutigem Wissen sind daran weder serotonerge noch trigeminovaskuläre Signalwege beteiligt. Ein biologischer Zusammenhang mit dem Wirkmechanismus von Eletriptan ist deshalb nicht erkennbar.
 
-Dem steht ein Sicherheitsbedenken gegenüber: Triptane gelten bei Migräne mit Hirnstammaura (und bei hemiplegischer Migräne) wegen des theoretischen Risikos einer Gefässverengung traditionell als problematisch oder kontraindiziert. Die mechanistische Passung wird dadurch deutlich eingeschränkt.
+Der hohe Vorhersagewert beruht auf einer rechnerischen Modellableitung, vermutlich auf gemeinsamen Netzwerk- oder Genassoziationen. Er ersetzt keinen Wirksamkeitsnachweis und ist durch keine Studie gestützt.
 
 ---
 
@@ -77,23 +77,13 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Literaturbelege
 
-Keine der gefundenen Publikationen untersucht Migräne mit Hirnstammaura direkt. Die folgende Auswahl betrifft Migräne allgemein bzw. Migräne mit Aura.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [15469451](https://pubmed.ncbi.nlm.nih.gov/15469451/) | 2004 | RCT | European Journal of Neurology | Eletriptan 80 mg, während der Aura eingenommen, zeigte bei Migräne mit Aura keinen Nutzen |
-| [17501848](https://pubmed.ncbi.nlm.nih.gov/17501848/) | 2007 | RCT | Headache | Erfassung der funktionellen Beeinträchtigung und der Arbeitsproduktivität unter Eletriptan bei Migräneanfällen |
-| [15958097](https://pubmed.ncbi.nlm.nih.gov/15958097/) | 2005 | RCT | European Journal of Neurology | Vergleich mehrerer Triptane (darunter Eletriptan 40 mg) gegen Placebo bei Kopfschmerzen mit und ohne Aura |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Übersichtsarbeit | Headache | Bewertung der Evidenz für Medikamente zur Akutbehandlung der Migräne bei Erwachsenen |
-| [11687056](https://pubmed.ncbi.nlm.nih.gov/11687056/) | 2001 | Übersichtsarbeit | Cochrane Database of Systematic Reviews | Bewertung von Eletriptan bei akuter Migräne (spätere Fassung 2007 zurückgezogen) |
-| [12498013](https://pubmed.ncbi.nlm.nih.gov/12498013/) | 2002 | Übersichtsarbeit | Current Opinion in Investigational Drugs | Eletriptan als 5-HT1B/1D-Agonist mit höherer Rezeptoraffinität als Sumatriptan |
-| [25155004](https://pubmed.ncbi.nlm.nih.gov/25155004/) | 2014 | Fallbericht | Revista Portuguesa de Cardiologia | Herzinfarkt wenige Stunden nach Einnahme von Eletriptan bei einem Patienten mit Migräne und Koronarerkrankung |
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
 ### Marktinformationen Schweiz
 
-Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
+Mindestens 4 Zulassungen sind in den Daten erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -106,9 +96,7 @@ Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 ### Sicherheitshinweise
 
-Die Angaben aus der Fachinformation (Warnungen, Kontraindikationen) liegen in den zusammengestellten Daten nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-Hinweise aus der Literatur: Triptane werden bei Migräne mit Hirnstammaura wegen des theoretischen Risikos einer Gefässverengung mit Vorsicht betrachtet. Ein Fallbericht beschreibt zudem einen Herzinfarkt nach Eletriptan-Einnahme (PMID 25155004).
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -117,12 +105,13 @@ Hinweise aus der Literatur: Triptane werden bei Migräne mit Hirnstammaura wegen
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Zudem besteht ein bekanntes Sicherheitsbedenken (Gefässverengung) bei dieser Migräneform.
+- Für Atrophoderma vermiculata gibt es weder Studien noch Publikationen, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert allein reicht für eine Weiterverfolgung nicht aus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation (Warnungen und Kontraindikationen) von Swissmedic, da diese Daten fehlen
-- Klärung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Klinische oder Beobachtungsdaten zu Triptanen bei Migräne mit Hirnstammaura, einschliesslich einer Sicherheitsbewertung
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit fehlend und für jede Sicherheitsbewertung blockierend)
+- Die Angaben zum Wirkmechanismus aus DrugBank
+- Präklinische oder klinische Daten, die eine Wirkung von Eletriptan bei Atrophoderma vermiculata direkt untersuchen
+- Eine Prüfung der Verträglichkeit von Eletriptan bei Patientinnen und Patienten mit Gefässerkrankungen, da die gefässverengende Wirkung ein Sicherheitsrisiko darstellen kann
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

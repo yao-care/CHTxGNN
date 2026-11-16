@@ -9,7 +9,7 @@ drugbank_id: DB06742
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
 last_modified_at: 2026-11-16
-description: "Ambroxoli Hydrochloridum: vorhergesagte neue Indikation Nasenhöhlenerkrankung (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Mukolytikum"
+description: "Ambroxoli Hydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Mukolytikum"
 ---
 
 # Ambroxoli Hydrochloridum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Ambroxoli Hydrochloridum: Nasenhöhlenerkrankung (nasal cavity disease)
+## Ambroxoli Hydrochloridum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Ambroxolhydrochlorid ist in der Schweiz als Mukolytikum zugelassen. Für die Nasenhöhlenerkrankung (nasal cavity disease) liegt ein sehr hoher TxGNN-Vorhersagewert vor, doch es gibt keine Studie, die diese Erkrankung direkt untersucht. Die Evidenz beschränkt sich auf einen indirekten Übersichtsartikel zum akuten Husten und ist damit sehr gering (Evidenzniveau L5).
+Ambroxol-Hydrochlorid ist in der Schweiz als Mukolytikum im Handel. Das Modell sagt voraus, dass es bei Erkrankungen der Nasenhöhle (nasal cavity disease) wirksam sein könnte. Dafür liegt keine direkte Evidenz vor: Es gibt keine klinischen Studien, und die einzige Publikation behandelt akuten Husten, nicht die Nasenhöhle.
 
 ---
 
@@ -48,7 +48,7 @@ Ambroxolhydrochlorid ist in der Schweiz als Mukolytikum zugelassen. Für die Nas
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Mukolytikum |
-| Vorhergesagte neue Indikation | Nasenhöhlenerkrankung (nasal cavity disease) |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9991 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,11 +59,11 @@ Ambroxolhydrochlorid ist in der Schweiz als Mukolytikum zugelassen. Für die Nas
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ambroxol fördert nach allgemeinem pharmakologischem Wissen den Abtransport von Schleim in den Atemwegen, regt die Bildung von Surfactant an und wirkt schwach lokalanästhetisch (Blockade von Natriumkanälen) sowie entzündungshemmend. Die Wirkstoffinformation in den für diesen Bericht zusammengestellten Daten enthält dazu keinen Eintrag; die Angaben stammen aus dem allgemeinen Hintergrundwissen und nicht aus den lokalen Zulassungsdaten.
+Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten. Aus allgemeinem pharmakologischem Wissen ist bekannt, dass Ambroxol den Schleimabtransport in den Atemwegen fördert und die Bildung von Surfactant anregt. Zudem werden lokalanästhetische (Natriumkanal-blockierende) und entzündungshemmende Eigenschaften beschrieben.
 
-Diese Eigenschaften könnten Beschwerden der oberen Atemwege wie verstopfte Nase, vermehrte Sekrete und Schleimhautreizung lindern. Der hohe Vorhersagewert spiegelt die Nähe des Wirkstoffs zu Erkrankungen der Atemwegsschleimhaut wider.
+Diese Eigenschaften könnten Beschwerden bei Erkrankungen der oberen Atemwege und der Nasenschleimhaut lindern. Die Nasenhöhle gehört wie die Bronchien zu den schleimproduzierenden Atemwegen, deshalb ist ein übertragbarer Effekt denkbar.
 
-Die Plausibilität bleibt jedoch indirekt: Die einzige vorliegende Publikation behandelt akuten Husten und nicht gezielt die Nase.
+Dies bleibt eine Hypothese. Der hohe Vorhersagewert ist eine rechnerische Vorhersage und kein klinischer Beleg.
 
 ---
 
@@ -71,7 +71,7 @@ Die Plausibilität bleibt jedoch indirekt: Die einzige vorliegende Publikation b
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Übersichtsarbeit | Vestnik otorinolaringologii | Beschreibt den akuten Husten bei Grippe und akuten Virusinfekten der Atemwege, der meist trocken ist und nach 2–3 Wochen abklingt, in manchen Fällen aber mit Auswurf einhergeht. Kein Bezug zu einer Nasenhöhlenerkrankung. |
+| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Übersichtsarbeit | Vestnik otorinolaringologii | Behandlung von akutem Husten bei Grippe und akuten Atemwegsinfekten. Der Husten ist meist trocken und klingt in 2–3 Wochen ab, kann aber auch produktiv sein. Die Nasenhöhle wird nicht direkt untersucht. |
 
 ---
 
@@ -94,13 +94,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch, aber es gibt weder klinische Studien noch Literatur, die die Nasenhöhlenerkrankung direkt untersuchen. Zudem fehlen Sicherheitsdaten aus der Fachinformation.
+- Es gibt keine klinische Studie und keine Publikation, die Erkrankungen der Nasenhöhle direkt untersucht. Daher bleibt die Vorhersage rein rechnerisch (Evidenzniveau L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
-- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Gezielte Literaturrecherche und klinische Studien zu Ambroxol bei Erkrankungen der Nasenhöhle
-- Prüfung, ob die zugelassene Darreichungsform (Retardkapsel) für die neue Indikation geeignet ist
+- Klinische oder präklinische Studien zu Ambroxol bei Erkrankungen der Nasenhöhle
+- Der Wirkmechanismus aus einer Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic, um die Sicherheit zu prüfen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

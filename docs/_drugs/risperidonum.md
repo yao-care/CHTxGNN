@@ -9,7 +9,7 @@ drugbank_id: DB00734
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 last_modified_at: 2026-11-16
-description: "Risperidonum: vorhergesagte neue Indikation Familiäre horizontale Blickparese mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
+description: "Risperidonum: vorhergesagte neue Indikation Familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
 ---
 
 # Risperidonum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Risperidonum: Familiäre horizontale Blickparese mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis)
+## Risperidonum: Familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Risperidon ist in der Schweiz als Neuroleptikum im Handel. Das Modell sagt für die familiäre horizontale Blickparese mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) einen sehr hohen Vorhersagewert von 0,9976 voraus. Dafür liegen weder klinische Studien noch Literatur vor. Die Evidenz beschränkt sich auf die reine Modellvorhersage (Evidenzniveau L5).
+Risperidon ist in der Schweiz als Neuroleptikum zugelassen. Für die vorhergesagte neue Indikation, die familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis), liegen weder klinische Studien noch Publikationen vor. Die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +50,7 @@ Risperidon ist in der Schweiz als Neuroleptikum im Handel. Das Modell sagt für 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Neurolepticum; Erhaltungstherapie für psychotische Krankheiten aus dem Formenkreis der Schizophrenie |
-| Vorhergesagte neue Indikation | Familiäre horizontale Blickparese mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) |
+| Vorhergesagte neue Indikation | Familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN-Vorhersagewert | 0.9976 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -61,21 +61,24 @@ Risperidon ist in der Schweiz als Neuroleptikum im Handel. Das Modell sagt für 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die für diesen Bericht zusammengestellten Daten enthalten keine Angaben zum Wirkmechanismus von Risperidon. Bekannt ist, dass Risperidon die Dopamin-D2- und Serotonin-5-HT2A-Rezeptoren blockiert. Dieses Wissen stammt jedoch nicht aus den vorliegenden Daten.
+Die für diesen Bericht zusammengestellten Daten enthalten keine Angaben zum Wirkmechanismus. Bekannt ist, dass Risperidon die Dopamin-D2- und Serotonin-5-HT2A-Rezeptoren blockiert. Diese Angabe stammt jedoch nicht aus den vorliegenden Daten und ist daher nur als allgemeiner Hintergrund zu verstehen.
 
-Die vorhergesagte Erkrankung ist eine seltene neurologische Entwicklungsstörung, die mit dem Gen ROBO3 zusammenhängt. Dieses Gen steuert die Wegfindung von Nervenfasern. Zwischen einer D2/5-HT2A-Blockade und dieser Störung ist kein plausibler Zusammenhang erkennbar. Der hohe Vorhersagewert beruht daher sehr wahrscheinlich auf einem Artefakt des Modells und nicht auf einer biologisch begründeten Verbindung.
+Die vorhergesagte Erkrankung ist eine äusserst seltene genetische Störung (ROBO3-bezogen). Sie betrifft die Steuerung von Nervenfaserbahnen und die Entwicklung des Hirnstamms. Ein Zusammenhang mit der Dopamin- oder Serotoninsignalübertragung ist nicht erkennbar.
 
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Der hohe Vorhersagewert von 0,9976 ist daher als rein rechnerisches Ergebnis zu werten, vermutlich aufgrund von Nähe im Datennetzwerk. Klinische oder wissenschaftliche Belege stützen ihn nicht.
 
 ---
 
-### Literaturbelege
+### Marktinformationen Schweiz
 
-Derzeit keine verwandte Literatur verfügbar.
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen).
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 53424 | Risperdal 1 mg/mL, Lösung | Synthetika | Neuroleptikum |
+| 52316 | Risperdal 1 mg, Filmtabletten | Synthetika | Neuroleptikum |
+| 67622 | Risperidon-Mepha LA 25 mg, Pulver und Lösungsmittel zur Herstellung einer Suspension zur i.m. Injektion | Synthetika | Erhaltungstherapie für psychotische Krankheiten aus dem Formenkreis der Schizophrenie |
+| 58092 | Risperidon-Mepha 0.5 mg, Filmtabletten | Synthetika | Neuroleptikum |
 
 ---
 
@@ -90,12 +93,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf einen Modellwert. Es gibt weder Studien noch Literatur noch einen erkennbaren mechanistischen Zusammenhang.
+- Für die vorhergesagte Erkrankung gibt es weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus ist nicht erkennbar. Der Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein belastbarer Wirkmechanismus, der Risperidon mit den Krankheitsprozessen dieser Störung verbindet
-- Präklinische oder klinische Daten zu dieser Erkrankung
-- Die Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Ein nachvollziehbarer biologischer Zusammenhang zwischen der Wirkung von Risperidon und der Erkrankung
+- Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar)
+- Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

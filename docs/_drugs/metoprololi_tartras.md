@@ -9,7 +9,7 @@ drugbank_id: DB00264
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
 last_modified_at: 2026-11-16
-description: "Metoprololi Tartras: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
+description: "Metoprololi Tartras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
 # Metoprololi Tartras
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Metoprololi Tartras: Malignant hypertensive renal disease
+## Metoprololi Tartras: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Metoprololtartrat ist ein Beta-Rezeptorenblocker. Für die hier vorhergesagte neue Anwendung, die maligne renovaskuläre Hypertonie (malignant renovascular hypertension), liegen keine klinischen Studien vor. Die einzige gefundene Publikation untersucht die Diagnostik des Phäochromozytoms und nicht diese Erkrankung. Die Vorhersage beruht daher allein auf dem Modell (Evidenzniveau L5).
+Metoprolol ist ein Betablocker, der in der Schweiz mehrfach zugelassen ist. Das Modell sagt eine mögliche Wirksamkeit bei maligner hypertensiver Nierenerkrankung (malignant hypertensive renal disease) voraus. Dafür liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -48,7 +50,7 @@ Metoprololtartrat ist ein Beta-Rezeptorenblocker. Für die hier vorhergesagte ne
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Beta-Rezeptorenblocker |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9991 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
@@ -59,43 +61,35 @@ Metoprololtartrat ist ein Beta-Rezeptorenblocker. Für die hier vorhergesagte ne
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Metoprolol liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist die Wirkstoffklasse: Beta-Rezeptorenblocker. Die Blockade der Beta-1-Rezeptoren hemmt die Reninfreisetzung aus den juxtaglomerulären Zellen. Das ist bei einer reningetriebenen, renovaskulären Hypertonie grundsätzlich relevant.
+Metoprolol blockiert selektiv Beta-1-Rezeptoren. Dadurch sinken Herzfrequenz, Herzzeitvolumen und die Freisetzung von Renin. Diese Effekte senken den Blutdruck. Ein Zusammenhang mit blutdruckbedingten Organschäden ist deshalb denkbar. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind allerdings lückenhaft, sodass sich dies nicht abschliessend prüfen lässt.
 
-Die Plausibilität ist jedoch begrenzt. Die maligne Hypertonie ist ein hypertensiver Notfall, der in der Regel mit parenteral verabreichten Vasodilatatoren oder Labetalol behandelt wird. Die zugrunde liegende Nierenarterienstenose erfordert meist eine Revaskularisation. Oral gegebenes Metoprolol könnte höchstens unterstützend wirken.
+Die maligne Hypertonie ist jedoch ein hypertensiver Notfall. Üblicherweise werden dabei schnell wirksame Arzneimittel über die Vene gegeben, und der Schutz der Nieren steht im Vordergrund. Eine Behandlung mit einem Betablocker zum Einnehmen gehört nicht zum üblichen Vorgehen.
 
-Der hohe Vorhersagewert beruht wahrscheinlich auf der allgemeinen Verbindung zur Hypertonie und nicht auf krankheitsspezifischen Belegen.
+Der sehr hohe Vorhersagewert ist daher wahrscheinlich eher Ausdruck der Nähe zur bekannten blutdrucksenkenden Anwendung als ein Hinweis auf neue Evidenz. Er ersetzt keine Studiendaten.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [1988765](https://pubmed.ncbi.nlm.nih.gov/1988765/) | 1991 | Diagnosestudie | Medicine | Chromogranin A als Marker beim Phäochromozytom: Sensitivität 83 % und Spezifität 96 %, höher als bei Plasmakatecholaminen. Die Studie betrifft die Differentialdiagnose der Hypertonie und keine Behandlung mit Metoprolol. |
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein.
+Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Alle drei aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 39252 | Lopresor 100, Filmtabletten | Synthetika | Beta-Rezeptorenblocker |
-| 56969 | Meto Zerok 25, Retardtabletten | Synthetika | Beta-Rezeptorenblocker |
-| 65958 | Metoprolol Axapharm retard 25 mg, Retardtabletten | Synthetika | Beta-Rezeptorenblocker |
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+| 39252 | Lopresor 100, Filmtabletten | Synthetika | Betarezeptorenblocker |
+| 56969 | Meto Zerok 25, Retardtabletten | Synthetika | Betarezeptorenblocker |
+| 65958 | Metoprolol Axapharm retard 25 mg, Retardtabletten | Synthetika | Betarezeptorenblocker |
 
 ---
 
@@ -104,13 +98,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Standardtherapie dieses hypertensiven Notfalls ist nicht ein oraler Beta-Blocker, sodass der mögliche Zusatznutzen gering erscheint.
+- Für die Vorhersage gibt es weder Studien noch Publikationen. Zudem spricht die übliche Behandlung der malignen Hypertonie gegen einen Nutzen eines oral eingenommenen Betablockers.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder klinisch-pharmakologische Daten zu Metoprolol bei renovaskulärer bzw. maligner Hypertonie
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) für die Sicherheitsbewertung
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Klärung, ob ein ergänzender Einsatz neben der Revaskularisation und der Notfalltherapie überhaupt sinnvoll ist
+- Die Fachinformation mit Warnhinweisen und Gegenanzeigen muss ausgewertet werden, weil diese Sicherheitsdaten fehlen.
+- Die Angaben zum Wirkmechanismus müssen ergänzt werden.
+- Es braucht klinische oder präklinische Belege, die diese Erkrankung direkt untersuchen.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

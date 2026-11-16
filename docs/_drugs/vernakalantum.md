@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 ### Zusammenfassung
 
-Vernakalant ist in der Schweiz als Antiarrhythmikum im Handel und wird zur raschen Umwandlung von Vorhofflimmern eingesetzt. Vorhergesagt wird eine mögliche Wirksamkeit bei Schlaganfall (stroke disorder). Die Evidenz ist sehr schwach: Es liegen nur Übersichtsarbeiten und eine Kohortenstudie zu Vorhofflimmern vor, aber keine Studie, die Schlaganfall direkt untersucht.
+Vernakalant ist in der Schweiz als Antiarrhythmikum im Handel. Die höchste Vorhersage von TxGNN betrifft den Schlaganfall (stroke disorder). Die Evidenz ist schwach: Es liegen keine klinischen Studien vor, und die Literatur behandelt Vorhofflimmern, nicht den Schlaganfall als Behandlungsziel.
 
 ---
 
@@ -61,27 +61,27 @@ Vernakalant ist in der Schweiz als Antiarrhythmikum im Handel und wird zur rasch
 
 ### Warum ist diese Vorhersage plausibel?
 
-Vernakalant blockiert mehrere Ionenkanäle, die vor allem im Vorhof eine Rolle spielen (unter anderem Kaliumströme wie IKur und IKACh), und hemmt zusätzlich frequenzabhängig Natriumkanäle. Dadurch kann es Vorhofflimmern rasch in einen normalen Sinusrhythmus überführen. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Vernakalant blockiert mehrere Ionenkanäle des Herzens, vor allem früh aktivierende Kaliumkanäle (wie IKur/IKACh) und frequenzabhängig Natriumkanäle. Dadurch wirkt es bevorzugt auf die Vorhöfe. Zur Wirkungsweise liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Die Verbindung zum Schlaganfall läuft über das Vorhofflimmern: Es ist eine wichtige Ursache kardioembolischer Schlaganfälle. Die Vorhersage ist daher nachvollziehbar, aber nur indirekt.
+Der Zusammenhang zum Schlaganfall ist indirekt. Vorhofflimmern ist ein wichtiger Risikofaktor für kardioembolische Schlaganfälle. Eine Rhythmuskontrolle könnte das thromboembolische Risiko theoretisch senken.
 
-Es gibt keinen Beleg, dass Vernakalant die Häufigkeit von Schlaganfällen senkt. Die Kardioversion selbst birgt ein Thromboembolie-Risiko, und die Schlaganfallprävention beruht auf einer Antikoagulation, nicht auf der Rhythmusumwandlung durch diesen Wirkstoff. Es handelt sich also um einen Zusammenhang über einen Risikofaktor und nicht um eine nachgewiesene direkte Wirkung auf den Schlaganfall.
+Es gibt jedoch keinen Beleg, dass Vernakalant einen Schlaganfall verhindert oder behandelt. Auch die Kardioversion selbst birgt ein Schlaganfallrisiko. Der hohe Vorhersagewert spiegelt wahrscheinlich eher die bekannte Verbindung zwischen Vorhofflimmern und Schlaganfall wider als eine direkte therapeutische Wirkung.
 
 ---
 
 ### Literaturbelege
 
-Keine der Arbeiten untersucht Schlaganfall als Behandlungsziel von Vernakalant direkt.
+Keine der Publikationen untersucht Vernakalant direkt beim Schlaganfall. Sie behandeln Vorhofflimmern, und der Schlaganfall wird dort nur als Folgerisiko erwähnt. Deshalb gilt Evidenzniveau L5.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [27292602](https://pubmed.ncbi.nlm.nih.gov/27292602/) | 2016 | Kohortenstudie | The American Journal of Emergency Medicine | Beschreibt Sicherheit und Wirksamkeit der medikamentösen Kardioversion bei neu aufgetretenem Vorhofflimmern in der Notaufnahme, mit Erfassung von Thromboembolien und Todesfällen nach 30 Tagen. |
-| [17371199](https://pubmed.ncbi.nlm.nih.gov/17371199/) | 2007 | Übersichtsarbeit | Expert Opinion on Investigational Drugs | Fasst Eigenschaften und Entwicklung von Vernakalant zur akuten Umwandlung von Vorhofflimmern zusammen; Schlaganfall wird als Folge von Vorhofflimmern genannt. |
-| [22576674](https://pubmed.ncbi.nlm.nih.gov/22576674/) | 2012 | Übersichtsarbeit | Current Hypertension Reports | Behandelt aktuelle Studien zu Vorhofflimmern bei Bluthochdruck, darunter neuere Antiarrhythmika wie Dronedaron und Vernakalant; Vorhofflimmern gilt als wichtiger Schlaganfall-Risikofaktor. |
-| [22166900](https://pubmed.ncbi.nlm.nih.gov/22166900/) | 2012 | Übersichtsarbeit | Lancet | Überblick über das Management von Vorhofflimmern, mit Schwerpunkt auf Schlaganfall-Risikoeinschätzung und oraler Antikoagulation. |
-| [23553811](https://pubmed.ncbi.nlm.nih.gov/23553811/) | 2013 | Übersichtsarbeit | Pharmacotherapy | Aktualisierung zur Behandlung von Vorhofflimmern, einschliesslich Frequenz- und Rhythmuskontrolle. |
-| [19678722](https://pubmed.ncbi.nlm.nih.gov/19678722/) | 2009 | Übersichtsarbeit | Journal of Managed Care Pharmacy | Überblick über etablierte und neue medikamentöse Optionen bei Vorhofflimmern. |
-| [25024989](https://pubmed.ncbi.nlm.nih.gov/25024989/) | 2014 | Übersichtsarbeit | Heart, Lung and Vessels | Jahresrückblick zur Herz-, Thorax- und Gefässanästhesie; erwähnt Fortschritte bei Vorhofflimmern, darunter ein neues Antiarrhythmikum und den Verschluss des linken Vorhofohrs zur Schlaganfallreduktion. |
+| [27292602](https://pubmed.ncbi.nlm.nih.gov/27292602/) | 2016 | Kohortenstudie | The American Journal of Emergency Medicine | Beschreibt Sicherheit und Wirksamkeit der medikamentösen Kardioversion bei Vorhofflimmern mit kurzem Beginn (<48 Std.) in der Notaufnahme; erfasst auch Thromboembolien und Todesfälle nach 30 Tagen. |
+| [17371199](https://pubmed.ncbi.nlm.nih.gov/17371199/) | 2007 | Übersichtsarbeit | Expert Opinion on Investigational Drugs | Fasst Wirkmechanismus und Entwicklung von Vernakalant (RSD1235) zur akuten Umwandlung von Vorhofflimmern in Sinusrhythmus zusammen. |
+| [22576674](https://pubmed.ncbi.nlm.nih.gov/22576674/) | 2012 | Übersichtsarbeit | Current Hypertension Reports | Bespricht aktuelle Studien zu Vorhofflimmern bei Bluthochdruck, auch zu neueren Antiarrhythmika wie Dronedaron und Vernakalant. |
+| [22166900](https://pubmed.ncbi.nlm.nih.gov/22166900/) | 2012 | Übersichtsarbeit | Lancet | Überblick über die Behandlung von Vorhofflimmern, insbesondere Schlaganfall-Risikoeinschätzung und orale Antikoagulation. |
+| [23553811](https://pubmed.ncbi.nlm.nih.gov/23553811/) | 2013 | Übersichtsarbeit | Pharmacotherapy | Aktueller Stand der Behandlung von Vorhofflimmern. |
+| [19678722](https://pubmed.ncbi.nlm.nih.gov/19678722/) | 2009 | Übersichtsarbeit | Journal of Managed Care Pharmacy | Bewertet etablierte und neue medikamentöse Optionen bei Vorhofflimmern. |
+| [25024989](https://pubmed.ncbi.nlm.nih.gov/25024989/) | 2014 | Übersichtsarbeit | Heart, Lung and Vessels | Jahresrückblick 2013 zur Herz-, Thorax- und Gefässanästhesie, u. a. zu Vorhofflimmern und einem neuen Antiarrhythmikum. |
 
 ---
 
@@ -93,17 +93,23 @@ Keine der Arbeiten untersucht Schlaganfall als Behandlungsziel von Vernakalant d
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Zusammenhang mit Schlaganfall ist nur indirekt über das Vorhofflimmern gegeben. Es gibt keine Studie, die einen Nutzen von Vernakalant bei Schlaganfall untersucht, und die Schlaganfallprävention hängt von der Antikoagulation ab.
+- Die Vorhersage stützt sich allein auf das Modell. Es gibt weder klinische Studien noch Literatur, die Vernakalant direkt beim Schlaganfall untersuchen, und der Zusammenhang läuft nur indirekt über das Vorhofflimmern.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien, die Schlaganfall oder thromboembolische Ereignisse unter Vernakalant direkt als Endpunkt untersuchen.
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), die in den vorliegenden Daten fehlen.
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle, um die mechanistische Verbindung besser zu prüfen.
+- Studien oder Auswertungen, die einen Einfluss von Vernakalant auf Schlaganfälle direkt untersuchen
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsprüfung
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

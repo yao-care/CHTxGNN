@@ -37,11 +37,15 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 ## Insulinum Aspartum: Autoimmune oophoritis
 {: .text-alpha }
 
-## Zusammenfassung
+---
 
-Insulin aspart ist ein schnell wirksames Insulinanalogon, das in der Schweiz im Handel ist. Für die Hauptvorhersage, Typ-1-Diabetes mellitus (type 1 diabetes mellitus), liegen mehrere abgeschlossene Phase-3-Studien und aktuelle Literatur vor. Die Evidenz ist stark, weil es sich hier um den etablierten Einsatz des Arzneimittels handelt und nicht um eine echte Neuentdeckung.
+### Zusammenfassung
 
-## Kurzübersicht
+Insulin aspart ist ein schnell wirkendes Insulinanalogon, das über den Insulinrezeptor wirkt. Die ursprüngliche Zulassung ist in der Kurzübersicht aufgeführt. Das Berechnungsmodell sagt für Autoimmune Oophoritis (autoimmune oophoritis), eine Autoimmunerkrankung der Eierstöcke, einen sehr hohen Vorhersagewert voraus. Dafür liegen weder klinische Studien noch Literatur vor, es handelt sich um eine reine Modellvorhersage (Evidenzniveau L5).
+
+---
+
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -51,76 +55,52 @@ Insulin aspart ist ein schnell wirksames Insulinanalogon, das in der Schweiz im 
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
 | Anzahl Zulassungen | 9 (gültig: 9) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
-## Warum ist diese Vorhersage plausibel?
+---
 
-Insulin aspart ersetzt als schnell wirksames Insulinanalogon das fehlende körpereigene Insulin. Es wirkt über eine direkte Aktivierung des Insulinrezeptors. Eine ausführliche Angabe zum Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor.
+### Warum ist diese Vorhersage plausibel?
 
-Beim Typ-1-Diabetes fehlt Insulin fast vollständig, weil die insulinproduzierenden Zellen zerstört sind. Der Ersatz von Insulin zu den Mahlzeiten ist deshalb ein Grundpfeiler der Behandlung. Die Vorhersage entspricht damit dem bekannten klinischen Einsatz und ist kein neuer Therapieansatz.
+Insulin aspart ist ein Analogon des menschlichen Insulins und bindet an den Insulinrezeptor. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
 
-## Klinische Studien
+Ein direkter Zusammenhang zwischen dieser Wirkung und einer Autoimmunerkrankung der Eierstöcke ist nicht belegt. Denkbar wäre allenfalls ein indirekter Weg über Stoffwechsel- oder Hormoneffekte. Dafür fehlen jedoch jegliche Daten.
 
-Die Tabelle zeigt die relevantesten Studien. Zahlreiche weitere Studien sind registriert, darunter Phase-1-Studien zur Pharmakologie und Beobachtungsstudien.
+Der hohe Vorhersagewert ist deshalb als rechnerischer Hinweis zu verstehen, nicht als Beleg für eine Wirksamkeit. Ohne unterstützende Studien lässt sich die Plausibilität nicht bestätigen.
 
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT01831765](https://clinicaltrials.gov/study/NCT01831765) | Phase 3 | Abgeschlossen | 1290 | Wirksamkeit und Sicherheit von schneller wirkendem Insulin aspart (FIAsp) im Vergleich zu Insulin aspart, jeweils mit Insulin detemir, bei Erwachsenen |
-| [NCT04079413](https://clinicaltrials.gov/study/NCT04079413) | Phase 3 | Abgeschlossen | 264 | Offene, randomisierte Studie: Insulin aspart von GEROPHARM im Vergleich zu NovoRapid® |
-| [NCT02034513](https://clinicaltrials.gov/study/NCT02034513) | Phase 3 | Abgeschlossen | 501 | SWITCH 1: Insulin degludec im Vergleich zu Insulin glargine, jeweils mit Insulin aspart zu den Mahlzeiten (Doppelblind, Crossover) |
-| [NCT04588259](https://clinicaltrials.gov/study/NCT04588259) | Phase 3 | Abgeschlossen | 331 | Schneller wirkendes Insulin aspart im Vergleich zu NovoRapid®, jeweils mit Insulin degludec |
-| [NCT00978627](https://clinicaltrials.gov/study/NCT00978627) | Phase 3 | Abgeschlossen | 548 | BOOST™: T1: Insulin degludec/Insulin aspart plus Insulin aspart im Vergleich zu Insulin detemir plus Insulin aspart |
-| [NCT00097071](https://clinicaltrials.gov/study/NCT00097071) | Phase 3 | Abgeschlossen | 299 | Insulin aspart im Vergleich zu Insulin lispro in Insulinpumpen bei Kindern und Jugendlichen |
-| [NCT01134107](https://clinicaltrials.gov/study/NCT01134107) | Phase 3 | Abgeschlossen | 133 | Doppelblinde Crossover-Studie: Insulin lispro im Vergleich zu Insulin aspart in Insulinpumpen |
-| [NCT00365170](https://clinicaltrials.gov/study/NCT00365170) | Phase 4 | Abgeschlossen | 419 | Insulin aspart im Vergleich zu Humaninsulin bei schwangeren Frauen, mit Schwerpunkt auf mütterlicher Unterzuckerung und Schwangerschaftsverlauf |
-| [NCT01992588](https://clinicaltrials.gov/study/NCT01992588) | Phase 1 | Abgeschlossen | 48 | Pharmakokinetik und Pharmakodynamik von FIAsp im Vergleich zu Insulin aspart bei Pumpentherapie |
-| [NCT05069545](https://clinicaltrials.gov/study/NCT05069545) | Nicht zutreffend | Abgeschlossen | 411 | Beobachtungsstudie zur Blutzuckerkontrolle mit dem smarten Injektionsgerät NovoPen® 6 unter Tresiba® und Fiasp® |
+---
 
-## Literaturbelege
+### Klinische Studien
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6: wöchentliches Insulin icodec im Vergleich zu täglichem Insulin degludec im Basal-Bolus-Schema bei Typ-1-Diabetes |
-| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes & Endocrinology | EXPECT: Insulin degludec im Vergleich zu Insulin detemir, jeweils mit Insulin aspart, bei schwangeren Frauen mit Typ-1-Diabetes |
-| [40445776](https://pubmed.ncbi.nlm.nih.gov/40445776/) | 2025 | RCT | Diabetes Technology & Therapeutics | Vollständig geschlossener Regelkreis mit schnellerem Insulin aspart (Fiasp) bei Jugendlichen mit HbA1c über dem Zielwert |
-| [38379002](https://pubmed.ncbi.nlm.nih.gov/38379002/) | 2024 | RCT | Diabetes, Obesity & Metabolism | Pharmakokinetik und Pharmakodynamik von Insulin icodec bei Typ-1-Diabetes |
-| [30259644](https://pubmed.ncbi.nlm.nih.gov/30259644/) | 2018 | Randomisierte Doppelblindstudie | Diabetes, Obesity & Metabolism | Schneller wirkendes Insulin aspart im Vergleich zu Insulin aspart bei Behandlung mit Insulin degludec |
-| [33390422](https://pubmed.ncbi.nlm.nih.gov/33390422/) | 2021 | Subgruppenanalyse | Endocrine Journal | onset 8: Wirksamkeit und Sicherheit von schneller wirkendem Insulin aspart bei japanischen Erwachsenen |
-| [35103951](https://pubmed.ncbi.nlm.nih.gov/35103951/) | 2022 | Beobachtungsstudie | Journal of Endocrinological Investigation | Blutzuckerkontrolle nach Wechsel auf schnelleres Insulin aspart im Praxisalltag |
-| [29978361](https://pubmed.ncbi.nlm.nih.gov/29978361/) | 2019 | Übersicht | Clinical Pharmacokinetics | Pharmakologie von schnellerem Insulin aspart (Fiasp) als neue Bolusoption |
-| [31902063](https://pubmed.ncbi.nlm.nih.gov/31902063/) | 2020 | Übersicht | Diabetes Therapy | Überblick über Insulintherapie-Strategien bei Erwachsenen mit Typ-1-Diabetes |
-| [15871555](https://pubmed.ncbi.nlm.nih.gov/15871555/) | 2003 | Übersicht | Treatments in Endocrinology | Insulin aspart senkt den HbA1c-Wert bei Typ-1-Diabetes meist stärker als reguläres Humaninsulin |
+Derzeit keine verwandten klinischen Studien registriert.
 
-## Marktinformationen Schweiz
+---
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66200 | Fiasp ultra-fast-acting FlexTouch, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 65630 | Insulin NovoNordisk NovoRapid PumpCart 100 E/ml, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 66201 | Fiasp ultra-fast-acting Penfill, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 55045 | Insulin NovoNordisk NovoRapid, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 55712 | Insulin NovoNordisk NovoRapid FlexPen, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 55046 | Insulin NovoNordisk NovoRapid Penfill, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 67809 | Fiasp 100 E/ml ultra-fast-acting PumpCart, Injektionslösung in einer Patrone | Biotechnologikum | Diabetes mellitus |
-| 62260 | Insulin NovoNordisk NovoRapid FlexTouch, Injektionslösung | Biotechnologikum | Diabetes mellitus |
-| 66202 | Fiasp ultra-fast-acting, Injektionslösung | Biotechnologikum | Diabetes mellitus |
+### Literaturbelege
 
-## Sicherheitshinweise
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
-## Fazit und nächste Schritte
+---
 
-**Entscheidung: Mit Vorsicht fortfahren**
+### Fazit und nächste Schritte
+
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Typ-1-Diabetes mellitus liegen mehrere abgeschlossene Phase-3-Studien vor, die den Einsatz von Insulin aspart direkt untersuchen. Die Sicherheitsdaten aus den Fachinformationen fehlen jedoch in den zusammengestellten Daten.
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell. Es gibt keine klinischen Studien und keine Publikationen zu Autoimmune Oophoritis, und ein plausibler Wirkweg ist nicht belegt.
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen noch, sodass keine Sicherheitsbewertung möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Warnhinweise und Kontraindikationen aus den Swissmedic-Fachinformationen
-- Ergänzung der Angaben zum Wirkmechanismus
-- Überwachung auf Unterzuckerung und individuelle Dosierung
-- Bestätigung des Zulassungsstatus für Typ-1-Diabetes in der Schweiz
+- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen)
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Systematische Literaturrecherche zu Insulin bzw. Insulinanaloga und Autoimmune Oophoritis
+- Prüfung, ob ein biologisch begründeter Zusammenhang zwischen Insulinsignalweg und Ovarialautoimmunität besteht
+- Klärung der Darreichungsform und des Verabreichungswegs für eine mögliche neue Anwendung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

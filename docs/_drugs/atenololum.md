@@ -9,7 +9,7 @@ drugbank_id: DB00335
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
 last_modified_at: 2026-11-16
-description: "Atenololum: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
+description: "Atenololum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
 # Atenololum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Atenololum: Malignant hypertensive renal disease
+## Atenololum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Atenolol ist ein Betarezeptorenblocker, der in der Schweiz bei mehreren Präparaten im Handel ist. Dafür liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Atenolol ist ein Betarezeptorenblocker, der in der Schweiz mit mehreren Präparaten im Handel ist. Für die maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) liegt ein hoher TxGNN-Vorhersagewert vor, doch es gibt weder klinische Studien noch Literatur, die diese Erkrankung direkt untersuchen. Die Vorhersage beruht damit allein auf einem Computermodell (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +50,7 @@ Atenolol ist ein Betarezeptorenblocker, der in der Schweiz bei mehreren Präpara
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Beta-Rezeptorenblocker; ipertensione |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9985 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -61,11 +61,11 @@ Atenolol ist ein Betarezeptorenblocker, der in der Schweiz bei mehreren Präpara
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Wirkstoffklasse lässt sich jedoch ableiten: Atenolol blockiert selektiv Beta-1-Rezeptoren am Herzen. Dadurch sinken Herzfrequenz, Kontraktilität und der Sauerstoffbedarf des Herzmuskels. Zudem kann das Risiko von Rhythmusstörungen abnehmen.
+Atenolol blockiert selektiv Beta-1-Rezeptoren, senkt den Blutdruck und hemmt die Freisetzung von Renin. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
 
-Diese Effekte sind für einen Herzinfarkt biologisch plausibel, da bei einem Infarkt ein Missverhältnis zwischen Sauerstoffangebot und -bedarf des Herzmuskels besteht. Der Einsatz von Betablockern nach einem Herzinfarkt ist allgemein etabliert. Diese Evidenz ist in den vorliegenden Daten jedoch nicht enthalten, und für den Untertyp «posterolateral» wurde nichts geliefert.
+Ein hoher Blutdruck schädigt die Nieren, und eine verminderte Reninfreisetzung könnte diesen Kreislauf theoretisch dämpfen. Dies erklärt, warum das Modell eine Verbindung zwischen Atenolol und der hypertensiven Nierenerkrankung herstellt.
 
-Der hohe Vorhersagewert ist deshalb nur ein Modellergebnis und kein Wirksamkeitsnachweis.
+Dem stehen wichtige Einschränkungen gegenüber. Atenolol wird über die Nieren ausgeschieden und muss bei eingeschränkter Nierenfunktion in der Dosis angepasst werden. Eine maligne Hypertonie wird üblicherweise mit intravenösen Wirkstoffen (z. B. Labetalol, Nicardipin, Nitroprussid) und einer Blockade des Renin-Angiotensin-Aldosteron-Systems behandelt. Für Atenolol ist keine klare Rolle erkennbar.
 
 ---
 
@@ -83,7 +83,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Mindestens 4 Zulassungen sind erfasst. Die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -94,23 +94,18 @@ Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den posterolateralen Myokardinfarkt liegen weder klinische Studien noch Publikationen vor. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
+- Der hohe Vorhersagewert (0,9985) ist eine reine Modellvorhersage ohne klinische Studien oder Literatur. Zudem ist Atenolol bei maligner Hypertonie und eingeschränkter Nierenfunktion klinisch wenig plausibel.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Literatur, die Atenolol direkt beim posterolateralen Myokardinfarkt untersuchen
-- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen für die Sicherheitsprüfung
-- Angaben zum Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
+- Klinische Daten oder Studien, die Atenolol direkt bei hypertensiver Nierenerkrankung untersuchen
+- Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen (insbesondere zur Dosierung bei Niereninsuffizienz)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eine Einordnung gegenüber den etablierten Standardtherapien der malignen Hypertonie
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

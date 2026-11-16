@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 ### Zusammenfassung
 
-Ambrisentan ist ein selektiver Endothelin-Rezeptor-Antagonist, der in der Schweiz in mehreren Präparaten im Handel ist. Die Modellvorhersage nennt als neue Indikation die pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)). Die Evidenz dafür ist sehr schwach: Es liegt nur ein Fallbericht zu einer verwandten, aber anderen Erkrankung vor, daher gilt Evidenzniveau L5.
+Ambrisentan ist ein selektiver Endothelin-Typ-A-Rezeptor-Antagonist. Die Vorhersage nennt als mögliche neue Indikation die pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)). Die Evidenz ist sehr dünn: Es liegt nur ein Fallbericht zu einer Patientin bzw. einem Patienten mit pulmonaler arterieller Hypertonie und hereditärer hämorrhagischer Teleangiektasie vor, der die Malformation selbst nicht behandelt.
 
 ---
 
@@ -59,11 +59,11 @@ Ambrisentan ist ein selektiver Endothelin-Rezeptor-Antagonist, der in der Schwei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Ambrisentan liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Ambrisentan den Endothelin-Rezeptor Typ A blockiert und damit Gefässverengung und Gefässumbau in der Lunge hemmt.
+Ambrisentan blockiert selektiv den Endothelin-A-Rezeptor. Dieser Rezeptor vermittelt Gefässverengung und Umbau der Gefässwand. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Die einzige zitierte Publikation beschreibt einen Patienten mit hereditärer hämorrhagischer Teleangiektasie (HHT), der zusätzlich eine pulmonale arterielle Hypertonie entwickelte. Das ist nur ein indirekter Zusammenhang über die pulmonale Hypertonie und kein Beleg für eine Wirkung bei pulmonalen arteriovenösen Malformationen.
+Pulmonale arteriovenöse Malformationen treten überwiegend bei der hereditären hämorrhagischen Teleangiektasie (HHT) auf, einer Erkrankung mit gestörter Gefässneubildung (Signalwege um ENG, ACVRL1, SMAD4). Eine Verbindung über endothelinvermittelten Gefässumbau ist denkbar, aber nicht belegt.
 
-Ein klarer mechanistischer Bezug fehlt. Der Wirkmechanismus von Ambrisentan zielt auf Gefässverengung und Gefässumbau, nicht auf die Fehlbildung selbst. Eine Gefässerweiterung könnte theoretisch sogar den Shunt verstärken. Die Vorhersage ist daher mit grosser Zurückhaltung zu bewerten.
+Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und ersetzt keine klinische Evidenz. Zudem können Vasodilatatoren den Rechts-links-Shunt bei pulmonalen arteriovenösen Malformationen verschlechtern. Dies müsste sorgfältig sicherheitlich geprüft werden.
 
 ---
 
@@ -77,7 +77,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Fallbericht | World Journal of Clinical Cases | Fall einer hereditären hämorrhagischen Teleangiektasie mit pulmonaler arterieller Hypertonie, inklusive genetischer Analyse der Familie. Keine Aussage zu Ambrisentan bei pulmonalen arteriovenösen Malformationen. |
+| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Fallbericht | World Journal of Clinical Cases | Bericht über einen Fall von HHT mit pulmonaler arterieller Hypertonie samt Familiengenanalyse. Der Bericht stützt eine Therapie der begleitenden pulmonalen arteriellen Hypertonie, nicht die Behandlung der Malformation selbst. |
 
 ---
 
@@ -94,7 +94,9 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für diese Vorhersage sind keine Sicherheitsangaben aus der Fachinformation in den Daten vorhanden. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Aus der Mechanismusbewertung ergeben sich folgende Punkte: Systemisch angewendetes Ambrisentan hat ein embryofetales Toxizitätsrisiko, und Vasodilatatoren können den Rechts-links-Shunt bei pulmonalen arteriovenösen Malformationen verschlechtern.
 
 ---
 
@@ -103,13 +105,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch direkte Literatur; die einzige Publikation betrifft eine andere Erkrankung. Ein plausibler Wirkmechanismus ist nicht erkennbar, und eine Gefässerweiterung könnte den Shunt theoretisch verschlechtern.
+- Keine Studie untersucht die pulmonale arteriovenöse Malformation direkt. Der einzige Beleg ist ein Fallbericht zu einer begleitenden pulmonalen arteriellen Hypertonie, daher gilt Evidenzniveau L5.
+- Der hohe Vorhersagewert ist ein rechnerisches Ergebnis ohne klinische Bestätigung, und das Risiko einer Shunt-Verschlechterung ist ungeklärt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte präklinische oder klinische Daten zu Ambrisentan bei pulmonalen arteriovenösen Malformationen
-- Eine fundierte Bewertung des Risikos einer Shunt-Verstärkung
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Die Angabe des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Präklinische oder klinische Daten zur Wirkung von Endothelin-A-Blockade auf pulmonale arteriovenöse Malformationen
+- Sicherheitsbewertung zum Shunt-Risiko bei HHT-Patienten
+- Auswertung der Fachinformation (Warnhinweise und Gegenanzeigen)
+- Ergänzung der Angaben zum Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

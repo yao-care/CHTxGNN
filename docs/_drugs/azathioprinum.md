@@ -9,7 +9,7 @@ drugbank_id: DB00993
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 last_modified_at: 2026-11-16
-description: "Azathioprinum: vorhergesagte neue Indikation Kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (Evidenzstufe L5)."
+description: "Azathioprinum: vorhergesagte neue Indikation Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (Evidenzstufe L5)."
 ---
 
 # Azathioprinum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Azathioprinum: Kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome)
+## Azathioprinum: Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Azathioprin ist ein Immunsuppressivum, das in der Schweiz im Handel ist. Für die Hauptvorhersage, das kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome), liegt keine Evidenz vor: Es gibt weder klinische Studien noch Literatur, und es ist kein plausibler Wirkmechanismus erkennbar. Die Vorhersage ist wahrscheinlich ein Modellartefakt und sollte nicht weiterverfolgt werden.
+Azathioprin ist ein Immunsuppressivum, das in der Schweiz von mehreren Herstellern vertrieben wird. Für das Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) liegt lediglich eine Modellvorhersage vor. Es gibt dazu weder klinische Studien noch Publikationen, die Evidenz ist daher minimal (Niveau L5).
 
 ---
 
@@ -50,7 +48,7 @@ Azathioprin ist ein Immunsuppressivum, das in der Schweiz im Handel ist. Für di
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Immunsuppressivum |
-| Vorhergesagte neue Indikation | Kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
+| Vorhergesagte neue Indikation | Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -61,13 +59,29 @@ Azathioprin ist ein Immunsuppressivum, das in der Schweiz im Handel ist. Für di
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Azathioprin liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Azathioprin eine Vorstufe von 6-Mercaptopurin und hemmt die Vermehrung aktivierter Immunzellen.
+Die Vorhersage ist nach aktueller Datenlage kaum plausibel. Der Wirkmechanismus von Azathioprin ist in den vorliegenden Daten nicht hinterlegt. Allgemein bekannt ist, dass es als Purinantimetabolit die Vermehrung von Lymphozyten hemmt und so das Immunsystem dämpft.
 
-Das kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom ist eine seltene Entwicklungsfehlbildung ohne bekannte immunvermittelte Grundlage. Eine Immunsuppression kann eine solche Fehlbildung nicht beheben. Ein plausibler mechanistischer Zusammenhang ist daher nicht erkennbar, und der hohe Vorhersagewert stützt sich nicht auf klinische Belege.
+Das vorhergesagte Syndrom ist eine seltene Entwicklungsstörung von Auge und Skelett. Eine immunvermittelte Krankheitsursache ist dafür nicht bekannt. Ein Ansatzpunkt für die immunsuppressive Wirkung von Azathioprin ist daher nicht erkennbar.
+
+Der sehr hohe Vorhersagewert beruht auf einem Modell und nicht auf klinischen oder biologischen Befunden. Er sollte nicht als Hinweis auf eine Wirksamkeit gewertet werden.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
+
+Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -77,23 +91,17 @@ Das kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom ist eine seltene En
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Hauptvorhersage gibt es weder klinische Studien noch Literatur und keinen plausiblen Wirkmechanismus. Das Evidenzniveau ist L5.
+- Für die vorhergesagte Indikation gibt es weder Studien noch Literatur, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein biologisch nachvollziehbarer Wirkmechanismus, der Azathioprin mit dieser Erkrankung verbindet
-- Erste präklinische oder klinische Daten zu dieser Erkrankung
-- Die Sicherheitsangaben aus der Fachinformation (Warnungen und Kontraindikationen) sowie die Angaben zum Wirkmechanismus
+- Die Fachinformation mit Warnhinweisen und Kontraindikationen aus Swissmedic, da Sicherheitsdaten in den vorliegenden Daten fehlen
+- Die Angabe zum Wirkmechanismus aus DrugBank
+- Belege für eine tatsächliche Rolle immunvermittelter Prozesse bei diesem Syndrom, etwa aus präklinischen Studien oder Fallberichten
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

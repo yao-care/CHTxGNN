@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 ## Vortioxetinum: Neurotische Störung (neurotic disorder)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Vortioxetin ist ein in der Schweiz im Handel erhältliches Antidepressivum. Das Modell sagt für die „Neurotische Störung (neurotic disorder)" einen hohen Vorhersagewert voraus (0,9924). Dafür gibt es bisher keine direkte Evidenz: Es sind weder klinische Studien noch Publikationen zu dieser Erkrankung selbst registriert. Die Vorhersage ist damit ein reiner Modellbefund (Evidenzniveau L5).
+Vortioxetin ist in der Schweiz als Antidepressivum zugelassen. Für die vorhergesagte neue Indikation «Neurotische Störung (neurotic disorder)» liegt ein hoher TxGNN-Vorhersagewert vor. Die Evidenz ist jedoch sehr dünn: Es gibt keine klinischen Studien und nur eine einzelne Übersichtsarbeit zur neurotischen Depression, sodass die Vorhersage derzeit als reine Modellvorhersage zu werten ist.
 
 ---
 
@@ -61,9 +59,11 @@ Vortioxetin ist ein in der Schweiz im Handel erhältliches Antidepressivum. Das 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine gesicherten Angaben vor. Aus der Literatur ist bekannt, dass Vortioxetin multimodal wirkt. Es hemmt den Serotonin-Transporter und moduliert mehrere Serotonin-Rezeptoren (u. a. 5-HT1A, 5-HT1B, 5-HT3, 5-HT7). Dadurch beeinflusst es auch die Signalwege von Noradrenalin, Dopamin, Acetylcholin und Glutamat.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus allgemeinem pharmakologischem Wissen ist Vortioxetin ein multimodal wirkender serotonerger Wirkstoff: Er hemmt den Serotonin-Transporter, wirkt als Agonist am 5-HT1A-Rezeptor, als partieller Agonist am 5-HT1B-Rezeptor und als Antagonist an 5-HT3-, 5-HT7- und 5-HT1D-Rezeptoren. Dieser Mechanismus ist für depressive und angstnahe Erkrankungen plausibel.
 
-„Neurotische Störung" ist ein älterer, sehr breiter Sammelbegriff für Erkrankungen mit depressiven und ängstlichen Symptomen. Ein serotonerger Wirkstoff mit antidepressiver und angstlösender Wirkung ist hier grundsätzlich denkbar. Wegen der Heterogenität der Kategorie lässt sich daraus aber kein spezifischer Mechanismus ableiten. Die vorliegenden Studien zu Vortioxetin betreffen die Major Depression und nicht die vorhergesagte Erkrankung selbst.
+«Neurotische Störung» ist ein veralteter Sammelbegriff, der historisch depressive und Angstzustände umfasste. Dadurch ist eine inhaltliche Nähe zu einem Antidepressivum nachvollziehbar. Besser abgegrenzte Zielerkrankungen wie die generalisierte Angststörung wären für eine weitere Prüfung jedoch geeigneter.
+
+Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein klinischer Beleg.
 
 ---
 
@@ -77,7 +77,16 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [31006795](https://pubmed.ncbi.nlm.nih.gov/31006795/) | 2019 | Fallbericht / narrative Übersicht | Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova | Beschreibt einen Patienten mit neurotischer Depression. Die Autoren sehen Vorteile in einer kombinierten Behandlung aus Antidepressiva und kognitiver Verhaltenstherapie. Die Arbeit untersucht Vortioxetin nicht gezielt und betrifft nur eine verwandte Unterform. |
+| [31006795](https://pubmed.ncbi.nlm.nih.gov/31006795/) | 2019 | Übersichtsarbeit | Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova | Fallbericht zu neurotischer Depression; ein kombinierter Ansatz aus Antidepressiva und kognitiver Verhaltenstherapie wird als vorteilhaft beschrieben. Vortioxetin wird nicht ausdrücklich untersucht. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 65938 | Brintellix 20 mg/ml, Tropfen zum Einnehmen, Lösung | Synthetika | Antidepressivum |
+| 65937 | Brintellix 5 mg, Filmtabletten | Synthetika | Antidepressivum |
 
 ---
 
@@ -92,14 +101,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist hoch, doch es gibt keine Studie und keine Publikation, die Vortioxetin bei dieser Erkrankung direkt untersucht. Die einzige zugeordnete Arbeit ist ein Fallbericht zu einer verwandten Unterform.
-- Die Kategorie ist ein veralteter Sammelbegriff, und die Sicherheitsdaten aus der Schweizer Fachinformation fehlen bisher.
+- Keine Studie und keine Publikation untersucht Vortioxetin bei dieser Erkrankung; die Vorhersage beruht allein auf einem Modellwert. Zudem fehlen Sicherheitsangaben aus der Fachinformation.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
-- Die Mechanismusdaten, z. B. aus DrugBank.
-- Eine klare, aktuelle diagnostische Definition der Zielerkrankung (z. B. Zuordnung zu heutigen Angst- oder depressiven Störungen).
-- Kontrollierte klinische Daten oder zumindest Beobachtungsstudien, die Vortioxetin direkt bei dieser Erkrankung untersuchen.
+- Sicherheitsinformationen (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus DrugBank
+- Klinische Daten zu klar definierten Zielerkrankungen (z. B. generalisierte Angststörung) statt des veralteten Sammelbegriffs «neurotische Störung»
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

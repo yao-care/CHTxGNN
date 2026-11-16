@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 ## Fremanezumabum: Atrophoderma vermiculata
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Fremanezumab ist ein monoklonaler Antikörper gegen das Calcitonin-Gene-Related Peptide (CGRP) und wird in der Schweiz zur Migräneprophylaxe eingesetzt. Vorhergesagt wird eine mögliche Wirksamkeit bei Migräne mit Hirnstammaura (migraine with brainstem aura). Die Evidenz ist begrenzt: Es liegen keine Studien vor, die genau diese Erkrankung untersuchen.
+Fremanezumab ist ein humanisierter monoklonaler Antikörper, der den Botenstoff CGRP (Calcitonin Gene-Related Peptide) bindet. Laut den Schweizer Zulassungsdaten wird er zur Migräneprophylaxe eingesetzt. Die Modellvorhersage nennt Atrophoderma vermiculata (atrophoderma vermiculata) als mögliche neue Indikation. Dafür liegen keine klinischen Studien oder Publikationen vor, die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -59,36 +61,23 @@ Fremanezumab ist ein monoklonaler Antikörper gegen das Calcitonin-Gene-Related 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Fremanezumab bindet das CGRP-Molekül selbst und verhindert so dessen Wirkung. CGRP spielt bei der Aktivierung des trigeminovaskulären Systems während einer Migräneattacke eine zentrale Rolle. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Argumentation stützt sich daher auf die Fachliteratur.
+Fremanezumab bindet das Signalpeptid CGRP und wird zur Vorbeugung von Migräne eingesetzt. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
 
-Die vorhergesagte Erkrankung gehört zu den Migräneformen mit Aura. Zwei Tierstudien (PMID 31127003, 31895266) untersuchten Fremanezumab im Modell der kortikalen Streudepolarisation (CSD), die als Grundlage der Aura gilt. Fremanezumab verlangsamte die Ausbreitung und verkürzte die Erholungsphase, verhinderte die CSD aber nicht. Der Mechanismus ist damit plausibel, aber unvollständig belegt.
+Atrophoderma vermiculata ist eine seltene Erkrankung der Wangenhaut. Sie beginnt mit verhornten Knötchen an den Haarfollikeln und führt danach zu eingesunkenen, wabenartigen Narben. Ein belegter biologischer Zusammenhang zwischen der CGRP-Signalübertragung und dieser Erkrankung ist in den vorliegenden Daten nicht erkennbar.
 
-Der sehr hohe Vorhersagewert spiegelt vor allem die enge Verwandtschaft dieser Unterform mit der Migräne allgemein wider und ist kein spezifischer Wirksamkeitsnachweis.
+Denkbar, aber rein hypothetisch, wäre eine Rolle von CGRP bei nervenvermittelten Entzündungen oder bei der Steuerung von Gefässen und Immunzellen rund um die Haarfollikel. Der hohe Vorhersagewert ist ein reines Rechenergebnis des Modells und kein klinischer Beleg.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
-Keine der Publikationen untersucht Migräne mit Hirnstammaura direkt. Am nächsten kommen Arbeiten zu Aura und hemiplegischer Migräne.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [41618146](https://pubmed.ncbi.nlm.nih.gov/41618146/) | 2026 | Systematische Übersicht mit Einzelpatientendaten | The Journal of Headache and Pain | Anti-CGRP-Antikörper bei hemiplegischer Migräne (verwandte Aura-Unterform); Patienten sind aus RCTs systematisch ausgeschlossen, Evidenz begrenzt. |
-| [35302681](https://pubmed.ncbi.nlm.nih.gov/35302681/) | 2022 | Post-hoc-Analyse einer Studie | European Journal of Neurology | Wirksamkeit und Lebensqualität unter Fremanezumab bei schwer behandelbarer Migräne, Untergruppen mit und ohne Aura bzw. neurologische Begleitsymptome. |
-| [38332541](https://pubmed.ncbi.nlm.nih.gov/38332541/) | 2024 | Beobachtende Fallserie | CNS Neuroscience & Therapeutics | Wirkung von Anti-CGRP-Therapie auf die Migräneaura; klinische Evidenz bisher begrenzt. |
-| [41589756](https://pubmed.ncbi.nlm.nih.gov/41589756/) | 2026 | Fallbericht | European Journal of Neurology | Weniger lang anhaltende Attacken bei sporadischer hemiplegischer Migräne unter Fremanezumab. |
-| [37638190](https://pubmed.ncbi.nlm.nih.gov/37638190/) | 2023 | Prospektive Beobachtungsstudie | Frontiers in Neurology | Alltagsdaten zu Wirksamkeit und Verträglichkeit bei chronischer Migräne über 3 Monate. |
-| [31127003](https://pubmed.ncbi.nlm.nih.gov/31127003/) | 2019 | Präklinisch | The Journal of Neuroscience | Fremanezumab beeinflusste die CSD-bedingte Gefässerweiterung und Plasmaproteinaustritt nicht. |
-| [31895266](https://pubmed.ncbi.nlm.nih.gov/31895266/) | 2020 | Präklinisch | Pain | Verlangsamte CSD-Ausbreitung und kürzere Erholung, aber keine Verhinderung der CSD bei Ratten. |
-| [35775208](https://pubmed.ncbi.nlm.nih.gov/35775208/) | 2022 | Beobachtungsstudie | Cephalalgia | Wirkung von Anti-CGRP-Antikörpern auf zentrale Symptome und Prodromalsymptome der Migräne. |
-| [37555331](https://pubmed.ncbi.nlm.nih.gov/37555331/) | 2023 | Beobachtungsstudie | Cephalalgia | Einfluss auf Begleitsymptome von Migräneattacken im Praxisalltag. |
-| [30725283](https://pubmed.ncbi.nlm.nih.gov/30725283/) | 2019 | Übersichtsarbeit | Handbook of Experimental Pharmacology | Überblick zur Rolle von CGRP bei Migräne. |
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -101,23 +90,19 @@ Keine der Publikationen untersucht Migräne mit Hirnstammaura direkt. Am nächst
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine Studie untersucht Migräne mit Hirnstammaura direkt; die vorhandenen Arbeiten betreffen verwandte Aura-Formen oder Tiermodelle. Der hohe Vorhersagewert allein genügt nicht.
+- Die Vorhersage stützt sich nur auf das Modell (Evidenzniveau L5). Es gibt weder Studien noch Publikationen, und ein plausibler Wirkzusammenhang ist nicht belegt.
+- Die Sicherheitsdaten aus der Fachinformation fehlen bislang.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten, die gezielt Patienten mit Migräne mit Hirnstammaura untersuchen
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen), da diese Daten derzeit fehlen
-- Ergänzung der Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
+- Angaben zum Wirkmechanismus aus einer verlässlichen Quelle
+- Hinweise auf einen Zusammenhang zwischen CGRP und Atrophoderma vermiculata, z. B. aus präklinischen Studien oder Fallberichten
+- Bei Hinweisen darauf: gezielte Prüfung in kleinen klinischen Studien
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

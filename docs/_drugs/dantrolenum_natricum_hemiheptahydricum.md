@@ -9,7 +9,7 @@ drugbank_id: DB01219
 monitor_inn: "Dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
 last_modified_at: 2026-11-16
-description: "Dantrolenum Natricum Hemiheptahydricum: vorhergesagte neue Indikation Moderate multiminicore disease with hand involvement (Evidenzstufe L5). Ursprüngliche Indikation: Myotonolyticum"
+description: "Dantrolenum Natricum Hemiheptahydricum: vorhergesagte neue Indikation Moderate Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement) (Evidenzstufe L5)."
 ---
 
 # Dantrolenum Natricum Hemiheptahydricum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Dantrolenum Natricum Hemiheptahydricum: Moderate multiminicore disease with hand involvement
+## Dantrolenum Natricum Hemiheptahydricum: Moderate Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Dantrolen-Natrium ist ein Muskelrelaxans, das in der Schweiz bereits im Handel ist. Dazu liegen Leitlinien und Übersichtsarbeiten vor, aber weder registrierte klinische Studien noch randomisierte Studien. Die Evidenz ist daher mässig (Niveau L3).
+Dantrolen ist in der Schweiz als Muskelrelaxans (Myotonolyticum) und zur Behandlung der malignen Hyperthermie zugelassen. Vorhergesagt wird eine mögliche Wirksamkeit bei der moderaten Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement). Diese Vorhersage beruht ausschliesslich auf einem Modellwert; es liegen weder klinische Studien noch Literatur vor (Evidenzniveau L5).
 
 ---
 
@@ -50,68 +50,48 @@ Dantrolen-Natrium ist ein Muskelrelaxans, das in der Schweiz bereits im Handel i
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Myotonolyticum; Maligne Hyperthermie; Myotonolyticum: Maligne Hyperthermie |
-| Vorhergesagte neue Indikation | Moderate multiminicore disease with hand involvement |
+| Vorhergesagte neue Indikation | Moderate Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement) |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dantrolen hemmt den Ryanodinrezeptor des Skelettmuskels (RYR1) und damit die Freisetzung von Kalzium aus dem sarkoplasmatischen Retikulum. Dieser Wirkmechanismus stammt aus der fachlichen Einschätzung zu dieser Vorhersage. Die Mechanismusangabe aus der Arzneimitteldatenbank fehlt in den zusammengestellten Daten.
+Dantrolen hemmt die Freisetzung von Kalzium aus dem sarkoplasmatischen Retikulum über den Ryanodin-Rezeptor Typ 1 (RyR1). Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die Beschreibung stützt sich daher auf allgemeines Hintergrundwissen.
 
-Die maligne Hyperthermie ist eine pharmakogenetische Skelettmuskelerkrankung. Bei Veranlagten lösen flüchtige Narkosegase oder Succinylcholin eine unkontrollierte, RYR1-vermittelte Kalziumfreisetzung aus. Die Folge ist ein Hypermetabolismus mit Muskelsteifheit, Übersäuerung und Temperaturanstieg. Dantrolen setzt genau an diesem krankheitsauslösenden Mechanismus an.
+Die Multiminicore-Erkrankung wird häufig mit Varianten im RYR1-Gen (und im SEPN1-Gen) in Verbindung gebracht. Daraus ergibt sich ein plausibler Ansatz über die Regulation des Kalziumhaushalts im Muskel. Die etablierte Rolle von Dantrolen bei RYR1-bezogenen Erkrankungen liegt jedoch bei der malignen Hyperthermie, nicht bei der Symptomkontrolle einer Myopathie.
 
-Mehrere der gefundenen Arbeiten nennen Dantrolen als Standardtherapie der akuten Krise. Die Leitlinie der Association of Anaesthetists von 2020 gehört dazu. Die Vorhersage passt somit gut zum bekannten Wirkprinzip.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Der sehr hohe Vorhersagewert ist ein Modellergebnis und kein klinischer Beleg. Ob eine Hemmung von RyR1 bei dieser Erkrankung nützt oder schadet, ist offen. Muskelschwäche ist zudem eine mögliche Nebenwirkung von Dantrolen.
 
 ---
 
-### Literaturbelege
+### Marktinformationen Schweiz
 
-Die Arbeiten sind Leitlinien, Konsensusempfehlungen und Übersichten. Randomisierte kontrollierte Studien fehlen, was bei einer so seltenen und lebensbedrohlichen Erkrankung auch aus ethischen Gründen kaum durchführbar ist.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [33399225](https://pubmed.ncbi.nlm.nih.gov/33399225/) | 2021 | Leitlinie | Anaesthesia | Leitlinie der Association of Anaesthetists (2020) zur malignen Hyperthermie. Sie beschreibt die genetische Grundlage und das Risiko bei Exposition gegenüber Inhalationsanästhetika oder Suxamethonium. |
-| [33131754](https://pubmed.ncbi.nlm.nih.gov/33131754/) | 2021 | Konsensusempfehlung | British Journal of Anaesthesia | Konsensus der European Malignant Hyperthermia Group zur perioperativen Betreuung verdächtiger oder veranlagter Patienten. Es gibt keine Evidenz aus Interventionsstudien. |
-| [39171998](https://pubmed.ncbi.nlm.nih.gov/39171998/) | 2024 | Übersichtsarbeit | Critical Care Medicine | Narrative Expertenübersicht zu Epidemiologie und Behandlung kritisch kranker Patienten mit maligner Hyperthermie. |
-| [26238698](https://pubmed.ncbi.nlm.nih.gov/26238698/) | 2015 | Übersichtsarbeit | Orphanet Journal of Rare Diseases | Beschreibt die Erkrankung als pharmakogene Störung des Skelettmuskels. Die Häufigkeit liegt bei etwa 1:10 000 bis 1:250 000 Narkosen. |
-| [32008650](https://pubmed.ncbi.nlm.nih.gov/32008650/) | 2020 | Übersichtsarbeit | Anesthesiology Clinics | Seltene, potenziell tödliche Erkrankung der Kalziumfreisetzungskanäle mit autosomal-dominanter Vererbung. Bei später Diagnose droht Multiorganversagen. |
-| [23198031](https://pubmed.ncbi.nlm.nih.gov/23198031/) | 2012 | Übersichtsarbeit | Korean Journal of Anesthesiology | Fasst die Vererbung (autosomal-dominant, variable Ausprägung) und die Pathophysiologie zusammen. |
-| [25989378](https://pubmed.ncbi.nlm.nih.gov/25989378/) | 2015 | Übersichtsarbeit | Acta Anaesthesiologica Scandinavica | Skandinavisches Update. Die Erkrankung ist meist mit Mutationen im RYR1-Gen verbunden. |
-| [37783627](https://pubmed.ncbi.nlm.nih.gov/37783627/) | 2023 | Fallserie/Übersicht | Neuromuscular Disorders | Berichtet über drei Patienten mit RYR1-Erkrankungen, darunter eine Veranlagung zur malignen Hyperthermie, und zusätzlicher Pankreasbeteiligung. |
-| [9538480](https://pubmed.ncbi.nlm.nih.gov/9538480/) | 1998 | Übersichtsarbeit | Postgraduate Medical Journal | Nennt Dantrolen-Natrium als wichtigste Behandlung und beschreibt Vorsichtsmassnahmen bei veranlagten Patienten. |
-| [14661655](https://pubmed.ncbi.nlm.nih.gov/14661655/) | 2003 | Übersichtsarbeit | Best Practice & Research Clinical Anaesthesiology | Beschreibt die unkontrollierte Freisetzung von Kalzium im Muskel als Kern der Krise. |
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 45215 | Dantamacrin 25 mg, Kapseln | Synthetika | Myotonolyticum |
+| 69083 | Agilus 120 mg, Pulver zur Herstellung einer Injektionslösung | Synthetika | Maligne Hyperthermie |
+| 45217 | Dantrolen i.v., Injektionslösung | Synthetika | Myotonolyticum: Maligne Hyperthermie |
 
 ---
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus passt unmittelbar zur Krankheitsursache, und Leitlinien stützen den Einsatz. Es fehlen jedoch randomisierte Studien und registrierte klinische Studien. Die Sicherheitsdaten der Schweizer Fachinformation liegen noch nicht aufbereitet vor.
+- Für die Vorhersage gibt es weder klinische Studien noch Literatur; sie beruht allein auf einem Modellwert (Evidenzniveau L5).
+- Die mögliche Verschlechterung der Muskelschwäche ist bei einer Myopathie ein relevantes Sicherheitsrisiko.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung noch nicht möglich)
-- Bestätigung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Inhaltliche Prüfung der Literatur auf Relevanz, da diese bisher nicht bewertet wurde
-- Klärung, ob sich die Vorhersage (Veranlagung) von der akuten Krise unterscheidet und welche Anwendung konkret geprüft werden soll
+- Auswertung von Literatur und Studien zu Dantrolen bei RYR1-bezogenen Myopathien, insbesondere zur Multiminicore-Erkrankung
+- Genotypspezifische Daten, die klären, ob eine Hemmung von RyR1 bei dieser Erkrankung sinnvoll ist
+- Die Sicherheitsinformationen der Fachinformation (Warnungen, Kontraindikationen), die in den zusammengestellten Daten fehlen
+- Die Angaben zum Wirkmechanismus aus einer zuverlässigen Quelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

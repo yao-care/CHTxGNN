@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 ## Treprostinilum: Pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease))
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Treprostinil ist ein Prostacyclin-Analogon, das in der Schweiz bei pulmonaler Hypertonie im Handel ist. Für die vorhergesagte neue Indikation, die pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)), liegen weder klinische Studien noch Literatur vor. Die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Treprostinil ist ein Prostacyclin-Analogon, das in der Schweiz als Infusionslösung im Handel ist. Die Modellvorhersage nennt als mögliche neue Indikation die pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)). Dafür liegen weder klinische Studien noch Literatur vor (Evidenzniveau L5), und der Wirkmechanismus könnte bei dieser Erkrankung sogar schaden.
 
 ---
 
@@ -59,21 +61,11 @@ Treprostinil ist ein Prostacyclin-Analogon, das in der Schweiz bei pulmonaler Hy
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus ist in den vorliegenden Daten nicht erfasst. Treprostinil gehört jedoch zur Klasse der Prostacyclin-Analoga. Diese erweitern die Blutgefässe und hemmen die Blutplättchen-Aggregation.
+Treprostinil ist ein Prostacyclin-Analogon. Es erweitert die Blutgefässe in der Lunge und im Körperkreislauf und hemmt die Verklumpung von Blutplättchen. Die Angaben zum Wirkmechanismus in den Arzneimitteldaten sind unvollständig; die obige Beschreibung beruht auf der allgemeinen Einordnung der Substanz.
 
-Pulmonale arteriovenöse Malformationen sind strukturelle Gefässkurzschlüsse in der Lunge, häufig im Zusammenhang mit der hereditären hämorrhagischen Teleangiektasie (HHT). Eine Verbindung zu Erkrankungen der Lungengefässe besteht zwar, ein tragfähiger mechanistischer Grund für einen Nutzen ist aber nicht erkennbar. Eine Gefässerweiterung könnte den Kurzschluss und die Hypoxämie sogar verstärken. Der hohe Vorhersagewert ist deshalb wahrscheinlich Ausdruck der Nähe zu anderen Lungengefässerkrankungen im Modell und kein Hinweis auf einen realen Nutzen.
+Ein theoretischer Zusammenhang besteht über die Gefässerkrankungen der Lunge. Pulmonale arteriovenöse Malformationen sind jedoch krankhafte, direkte Kurzschlüsse zwischen Arterie und Vene, häufig im Zusammenhang mit hereditärer hämorrhagischer Teleangiektasie (HHT). Hier ist die Plausibilität gering.
 
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Eine Gefässerweiterung könnte den Rechts-links-Shunt und den Sauerstoffmangel im Blut verstärken. Die Hemmung der Blutplättchen könnte bei HHT das Blutungsrisiko erhöhen. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis ohne gestützte Belege, die mechanistische Begründung ist spekulativ.
 
 ---
 
@@ -91,6 +83,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
+Zusätzlich ergibt sich aus dem Wirkprinzip für die vorhergesagte Indikation ein theoretisches Risiko: mögliche Verstärkung des Shunts und erhöhte Blutungsneigung, besonders bei HHT.
+
 ---
 
 ### Fazit und nächste Schritte
@@ -98,13 +92,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die pulmonale arteriovenöse Malformation gibt es weder Studien noch Literatur, und der Wirkmechanismus spricht eher gegen einen Nutzen, da eine Gefässerweiterung den Kurzschluss verstärken könnte.
+- Es gibt weder klinische Studien noch Literatur zur vorhergesagten Erkrankung (Evidenzniveau L5). Der Wirkmechanismus spricht eher gegen einen Nutzen und deutet auf mögliche Risiken hin.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Daten, die einen Nutzen von Treprostinil bei dieser Erkrankung belegen
-- Eine tragfähige mechanistische Begründung, die das Risiko einer verstärkten Shunt-Durchblutung oder Hypoxämie berücksichtigt
-- Die Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen für die Sicherheitsbewertung
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Prüfung der Fachinformation auf Warnhinweise und Kontraindikationen (Swissmedic)
+- Vollständige Angaben zum Wirkmechanismus
+- Präklinische oder klinische Daten, die einen Nutzen bei pulmonalen arteriovenösen Malformationen belegen, einschliesslich einer Bewertung des Shunt- und Blutungsrisikos
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

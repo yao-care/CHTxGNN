@@ -9,7 +9,7 @@ drugbank_id: DB08984
 monitor_inn: "Etofenamate"
 predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "polyarticular juvenile rheumatoid arthritis", "Kummell disease"]
 last_modified_at: 2026-11-16
-description: "Etofenamatum: vorhergesagte neue Indikation Ankylosing spondylitis (Evidenzstufe L5). Ursprüngliche Indikation: Kutanes Antiphlogistikum"
+description: "Etofenamatum: vorhergesagte neue Indikation Spondylitis ankylosans (ankylosing spondylitis) (Evidenzstufe L5). Ursprüngliche Indikation: Kutanes Antiphlogistikum"
 ---
 
 # Etofenamatum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Etofenamatum: Ankylosing spondylitis
+## Etofenamatum: Spondylitis ankylosans (ankylosing spondylitis)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Etofenamat ist ein topisch angewendetes nichtsteroidales Antirheumatikum, das in der Schweiz als Gel, Spray und Pflaster im Handel ist.
+Etofenamat ist ein Wirkstoff zur äusserlichen Anwendung (Gel, Spray, Pflaster), der in der Schweiz in mehreren Produkten im Handel ist. Für die Vorhersage von TxGNN, dass er bei Spondylitis ankylosans (ankylosing spondylitis) wirksam sein könnte, gibt es bisher nur eine Pharmakokinetik-Studie und keine Studie zur Wirksamkeit bei dieser Erkrankung. Die Vorhersage beruht damit praktisch allein auf dem Modell.
 
 ---
 
@@ -50,7 +50,7 @@ Etofenamat ist ein topisch angewendetes nichtsteroidales Antirheumatikum, das in
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Kutanes Antiphlogistikum; Kutanes Antirheumatikum |
-| Vorhergesagte neue Indikation | Ankylosing spondylitis |
+| Vorhergesagte neue Indikation | Spondylitis ankylosans (ankylosing spondylitis) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
@@ -61,9 +61,19 @@ Etofenamat ist ein topisch angewendetes nichtsteroidales Antirheumatikum, das in
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Etofenamat ist ein Ester der Flufenaminsäure und gehört zu den NSAR. Solche Wirkstoffe hemmen die Cyclooxygenase und vermindern damit die durch Prostaglandine vermittelte Entzündung.
+Etofenamat ist ein Ester der Flufenaminsäure und gehört zu den nichtsteroidalen Antirheumatika (NSAR). Solche Wirkstoffe hemmen die Cyclooxygenase und senken dadurch die Bildung von Prostaglandinen, die Entzündung und Schmerz vermitteln. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten; die Beschreibung stützt sich daher auf die Wirkstoffklasse.
 
-Dieser Mechanismus passt grundsätzlich zu entzündlichen Erkrankungen des Bewegungsapparats, auch zur Spondyloarthritis. Allerdings ist der vorhergesagte Eintrag ein genetischer Anfälligkeitsbegriff und keine behandelbare klinische Erkrankung. Der sehr hohe Vorhersagewert lässt sich daher nicht als Hinweis auf einen konkreten Therapieeffekt lesen. Er bleibt eine reine Modellvorhersage ohne Studien oder Literatur.
+Bei Spondylitis ankylosans sind NSAR die erste Wahl zur Linderung von Schmerzen und Steifigkeit. Ein entzündungshemmender Wirkstoff passt deshalb grundsätzlich zu dieser Erkrankung.
+
+Es gibt aber wichtige Einschränkungen: Die einzige vorliegende Publikation zeigt, dass Etofenamat per Iontophorese in Serum und Gelenkflüssigkeit gelangt. Das belegt die Aufnahme ins Gewebe, aber keine klinische Wirkung bei Spondylitis ankylosans. Der sehr hohe Vorhersagewert ist ein Modellergebnis und kein klinischer Beleg.
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [11455681](https://pubmed.ncbi.nlm.nih.gov/11455681/) | 2001 | Pharmakokinetische Studie | Arzneimittel-Forschung | Untersucht wurde die Aufnahme von Etofenamat-Gel per Iontophorese bei 11 Patienten mit Kreuzschmerzen und 13 Patienten mit Kniegelenkentzündung. Nach 5 Tagen Behandlung wurden Konzentrationen in Serum und Gelenkflüssigkeit gemessen. Die Studie betrifft nicht Spondylitis ankylosans. |
 
 ---
 
@@ -94,13 +104,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Vorhersage gibt es keine klinischen Studien und keine Literatur. Zudem beschreibt der vorhergesagte Eintrag eine genetische Anfälligkeit und keine unmittelbar behandelbare Erkrankung.
+- Es liegt keine Studie vor, die Etofenamat bei Spondylitis ankylosans untersucht; die einzige Publikation betrifft die Gewebeaufnahme. Der hohe Vorhersagewert allein reicht nicht aus.
+- Die Sicherheitsangaben der Fachinformation liegen in den Daten nicht vor, sodass eine Sicherheitsbewertung noch nicht möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klärung, welche klinische Erkrankung (z. B. axiale Spondyloarthritis) mit diesem Eintrag gemeint ist und ob eine topische Anwendung dort sinnvoll ist
-- Studien oder Publikationen, die Etofenamat direkt bei dieser Erkrankung untersuchen
-- Angaben zum Wirkmechanismus aus einer geeigneten Arzneimitteldatenbank
-- Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation, die für die Sicherheitsprüfung erforderlich sind
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus des Arzneimittels
+- Klinische Daten zur Wirksamkeit bei Spondylitis ankylosans, zum Beispiel aus kontrollierten Studien
+- Klärung, ob eine äusserlich angewendete Form bei dieser Erkrankung überhaupt ausreichend wirkt, da sie vor allem die Wirbelsäule und Kreuz-Darmbein-Gelenke betrifft
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

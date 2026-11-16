@@ -9,7 +9,7 @@ drugbank_id: DB00338
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-16
-description: "Omeprazolum: vorhergesagte neue Indikation Duodenal obstruction (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Zollinger-Ellison-Syndrom"
+description: "Omeprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Zollinger-Ellison-Syndrom"
 ---
 
 # Omeprazolum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Omeprazolum: Duodenal obstruction
+## Omeprazolum: Duodenalobstruktion (duodenal obstruction)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Omeprazol hemmt die Säureproduktion im Magen. Es wird vorhergesagt, dass es bei duodenogastrischem Reflux (duodenogastric reflux) wirksam sein könnte. Diese Vorhersage beruht allein auf einem Modellwert; die Evidenz ist sehr dünn, da keine Studie den Einsatz von Omeprazol bei dieser Erkrankung direkt untersucht.
+Omeprazol ist ein Säureblocker (Protonenpumpenhemmer), der in der Schweiz im Handel ist. Das Modell sagt voraus, dass er bei einer Duodenalobstruktion (duodenal obstruction) nützlich sein könnte, vermutlich indirekt über die Behandlung zugrunde liegender Zwölffingerdarmgeschwüre. Die Evidenz ist gering: Es gibt keine Studie, die diese Erkrankung direkt untersucht, sodass die Vorhersage allein auf dem Modell beruht (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +50,7 @@ Omeprazol hemmt die Säureproduktion im Magen. Es wird vorhergesagt, dass es bei
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Ulcustherapie, Zollinger-Ellison-Syndrom |
-| Vorhergesagte neue Indikation | Duodenal obstruction |
+| Vorhergesagte neue Indikation | Duodenalobstruktion (duodenal obstruction) |
 | TxGNN-Vorhersagewert | 0.9964 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 1) |
@@ -59,11 +61,11 @@ Omeprazol hemmt die Säureproduktion im Magen. Es wird vorhergesagt, dass es bei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Omeprazol gehört zu den Protonenpumpenhemmern und senkt die Säureproduktion des Magens. Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor; diese Beschreibung beruht auf allgemeinem Wissen über die Wirkstoffklasse.
+Omeprazol hemmt die Protonenpumpe der Magenschleimhaut und senkt dadurch die Säureproduktion. Zum ursprünglichen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor, was die mechanistische Einordnung einschränkt.
 
-Beim duodenogastrischen Reflux fliessen Inhalte aus dem Zwölffingerdarm, vor allem Galle, in den Magen zurück. Die Ursache ist also nicht in erster Linie zu viel Säure. Eine Säurehemmung könnte Schleimhautreizungen und Beschwerden daher höchstens indirekt lindern. Auf den Gallerückfluss selbst wirkt Omeprazol nicht.
+Eine Verengung oder Verlegung des Zwölffingerdarms entsteht häufig als Folge eines Geschwürs. Eine Säurehemmung könnte das Geschwür zur Abheilung bringen und die entzündliche Schwellung verringern, die zur Einengung beiträgt.
 
-Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und durch klinische Daten nicht gestützt. Die Plausibilität bleibt deshalb begrenzt und hypothetisch.
+Dieser Effekt wäre nur indirekt. Eine feste, narbige oder mechanische Verengung kann Omeprazol nicht beseitigen; hier sind in der Regel endoskopische Aufdehnung oder eine Operation nötig. Der hohe Vorhersagewert ist eine Modellrechnung und ersetzt keine klinischen Belege.
 
 ---
 
@@ -71,7 +73,21 @@ Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und durch klinische Daten
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT02685150](https://clinicaltrials.gov/study/NCT02685150) | Nicht zutreffend | Abgeschlossen | 157 | Diagnosestudie zur endoskopischen Tri-Modal-Bildgebung, um Refluxkrankheit (Säure- oder Gallereflux) von funktioneller Dyspepsie zu unterscheiden. Omeprazol wird nicht geprüft; kein direkter Wirksamkeits- oder Sicherheitsbeleg. |
+| [NCT00557921](https://clinicaltrials.gov/study/NCT00557921) | Phase 3 | Abgebrochen | 5000 | Prüfte die Kombination Clopidogrel plus Omeprazol gegenüber Clopidogrel allein zur Senkung von Blutungen im oberen Magen-Darm-Trakt und symptomatischen Geschwüren bei gleichzeitiger Aspirintherapie. Duodenalobstruktion war nicht Gegenstand der Studie; der Abbruch schränkt die Aussagekraft zusätzlich ein. |
+
+---
+
+### Literaturbelege
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [7795284](https://pubmed.ncbi.nlm.nih.gov/7795284/) | 1995 | Kohorte/Fallbeschreibung | The Italian Journal of Gastroenterology | Jugendlicher mit Zwölffingerdarmgeschwür und Engstelle am Bulbus. Vier Monate Omeprazol veränderten den endoskopischen Befund nicht; erst die Behandlung der Helicobacter-pylori-Infektion heilte Geschwür und Engstelle. |
+| [9005711](https://pubmed.ncbi.nlm.nih.gov/9005711/) | 1996 | Übersicht/Fallbericht | Acta Medica Portuguesa | Morbus Crohn mit Magen-Zwölffingerdarm-Beteiligung und Magenausgangsverengung. Prednisolon und Omeprazol halfen nicht, eine Operation war nötig. |
+| [9306611](https://pubmed.ncbi.nlm.nih.gov/9306611/) | 1997 | Fallbericht | Surgery Today | Morbus Crohn des Zwölffingerdarms mit anhaltender Magenausgangsverengung, operativ behandelt. |
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | Fallbericht | Surgical Endoscopy | Riesiges Anastomosengeschwür nach Magenoperation; mögliche Komplikationen sind unter anderem Obstruktion und Perforation. |
+| [1475769](https://pubmed.ncbi.nlm.nih.gov/1475769/) | 1992 | Übersicht | Therapeutische Umschau | Diagnostik der Ulkuskrankheit; erwähnt bildgebende Abklärung bei Magenausgangsverengung. |
+
+Die Publikationen sind Einzelfälle oder Übersichten und belegen keinen Nutzen von Omeprazol bei Duodenalobstruktion. Zwei Fälle zeigen im Gegenteil, dass Omeprazol allein die Verengung nicht behob.
 
 ---
 
@@ -96,12 +112,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch, aber es gibt weder Studien noch Publikationen, die Omeprazol bei duodenogastrischem Reflux direkt untersuchen. Zudem ist der Krankheitsmechanismus (Gallerückfluss) durch Säurehemmung nur indirekt beeinflussbar.
+- Keine Studie untersucht die Duodenalobstruktion direkt, und die vorliegenden Fallberichte zeigen eher, dass Omeprazol eine feste Verengung nicht löst. Der hohe Modellwert allein genügt nicht.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Publikationen, die Omeprazol direkt bei duodenogastrischem Reflux untersuchen
+- Kontrollierte klinische Daten zu Omeprazol bei Duodenalobstruktion, etwa bei Verengungen durch Ulkus-Entzündung
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsprüfung
+- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic, bevor eine Sicherheitsbeurteilung möglich ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

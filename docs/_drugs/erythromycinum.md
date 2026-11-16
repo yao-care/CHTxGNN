@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 ## Erythromycinum: Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Erythromycin ist ein Makrolid-Antibiotikum, das in der Schweiz in mehreren Präparaten im Handel ist. Es wird voraussichtlich bei der punktförmigen epithelialen Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) wirksam sein können. Dies stützt sich nur auf eine einzelne, indirekte Übersichtsarbeit zur chronischen Blepharokeratokonjunktivitis bei Kindern; direkte Studien zu dieser Erkrankung liegen nicht vor.
+Erythromycin ist ein Makrolid-Antibiotikum, das in der Schweiz als Salbe, Gel und Lösung sowie als Infusion im Handel ist. Für die punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) wird eine mögliche Wirksamkeit vorhergesagt. Dafür gibt es bisher keine direkte Evidenz: Es liegt nur eine Übersichtsarbeit zu einer verwandten Erkrankung vor, die Vorhersage beruht also im Wesentlichen auf dem Modell.
 
 ---
 
@@ -61,11 +59,11 @@ Erythromycin ist ein Makrolid-Antibiotikum, das in der Schweiz in mehreren Präp
 
 ### Warum ist diese Vorhersage plausibel?
 
-Erythromycin hemmt die bakterielle Proteinsynthese an der 50S-Untereinheit des Ribosoms und wirkt zusätzlich entzündungshemmend. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine detaillierten Angaben vor; die Beschreibung beruht auf allgemeinem Wissen über Makrolide.
+Der Wirkmechanismus ist in den vorliegenden Daten nicht hinterlegt. Allgemein bekannt ist, dass Erythromycin die bakterielle 50S-Ribosomenuntereinheit hemmt und zudem entzündungshemmend wirkt.
 
-Die Hornhautveränderungen bei punktförmiger epithelialer Keratokonjunktivitis stehen häufig im Zusammenhang mit Lidrandentzündungen durch Staphylokokken und mit einer Funktionsstörung der Meibom-Drüsen. Hier könnten die antibakterielle und die entzündungshemmende Wirkung von Makroliden ansetzen.
+Erythromycin wird äusserlich bei Lidrandentzündung (Blepharitis) und Blepharokeratokonjunktivitis eingesetzt. Bei staphylokokkenbedingten Lidentzündungen kann sich sekundär eine punktförmige Hornhautschädigung entwickeln. Die Verbindung zur vorhergesagten Erkrankung ist also indirekt, über eine verwandte Erkrankung.
 
-Der Zusammenhang bleibt jedoch indirekt: Die einzige gefundene Arbeit behandelt die chronische Blepharokeratokonjunktivitis bei Kindern, nicht die punktförmige epitheliale Keratokonjunktivitis als eigenständige Erkrankung. Der sehr hohe Vorhersagewert ist eine Modellvorhersage und kein klinischer Beleg.
+Zu beachten: Der Begriff kann sich mit der adenoviralen Keratokonjunktivitis überschneiden. Dort sind Antibiotika nicht wirksam. Der hohe Vorhersagewert ist eine reine Modellvorhersage und durch klinische Daten nicht gestützt.
 
 ---
 
@@ -73,7 +71,7 @@ Der Zusammenhang bleibt jedoch indirekt: Die einzige gefundene Arbeit behandelt 
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Übersichtsarbeit | Journal of Pediatric Ophthalmology and Strabismus | Beschreibt Vorgeschichte, Symptome, klinische Zeichen und Behandlung der chronischen Blepharokeratokonjunktivitis bei Kindern; keine direkte Aussage zur punktförmigen epithelialen Keratokonjunktivitis. |
+| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Übersichtsarbeit | Journal of Pediatric Ophthalmology and Strabismus | Beschreibt Verlauf, Symptome, klinische Zeichen und Behandlung der chronischen Blepharokeratokonjunktivitis bei Kindern. Die vorhergesagte Erkrankung selbst wird nicht untersucht. |
 
 ---
 
@@ -99,13 +97,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Erkrankung gibt es weder klinische Studien noch Literatur, die sie direkt untersucht; die einzige Arbeit betrifft eine verwandte Erkrankung. Damit stützt sich die Vorhersage allein auf das Modell (Evidenzniveau L5).
+- Keine klinische Studie und keine Publikation untersucht die punktförmige epitheliale Keratokonjunktivitis direkt. Die einzige Quelle betrifft eine verwandte Erkrankung, daher gilt Evidenzniveau L5.
+- Die zugelassenen Schweizer Produkte sind für andere Anwendungen (Haut, systemische Infektionen) bestimmt, nicht für das Auge.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte klinische Studien oder Fallserien zu Erythromycin bei punktförmiger epithelialer Keratokonjunktivitis
-- Eine Fachinformation mit Warnhinweisen und Kontraindikationen (Sicherheitsprüfung derzeit nicht möglich)
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
-- Klärung, ob eine für das Auge geeignete Darreichungsform verfügbar ist; die in der Schweiz zugelassenen Präparate sind für Haut bzw. Infusion bestimmt
+- Klinische Daten oder Studien zu Erythromycin bei punktförmiger epithelialer Keratokonjunktivitis, mit Abgrenzung von der adenoviralen Form
+- Klärung der Darreichungsform und des Anwendungswegs für eine Augenanwendung
+- Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
+- Angaben zum Wirkmechanismus aus einer verlässlichen Quelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

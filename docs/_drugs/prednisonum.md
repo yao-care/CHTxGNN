@@ -37,13 +37,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Prednisonum: Alopecia areata
 {: .text-alpha }
 
-## Zusammenfassung
+### Zusammenfassung
 
-Prednison ist ein Glukokortikoid, das in der Schweiz in mehreren Präparaten im Handel ist. Es wird für Alopecia areata (alopecia areata) als neue Anwendung vorhergesagt, mit einem sehr hohen TxGNN-Vorhersagewert. Für diese Vorhersage liegen in den zusammengestellten Daten weder klinische Studien noch Literatur vor, sie beruht daher allein auf der Modellvorhersage (Evidenzniveau L5).
+Prednison ist ein Glukokortikoid, das in der Schweiz als Tablette, Tablette mit veränderter Wirkstofffreisetzung und Zäpfchen im Handel ist. Es könnte voraussichtlich bei Alopecia areata (alopecia areata), einer T-Zell-vermittelten Autoimmunerkrankung des Haarfollikels, wirksam sein. Für diese Vorhersage liegen in den zusammengestellten Daten weder klinische Studien noch Publikationen vor; sie beruht allein auf der Modellvorhersage (Evidenzniveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -57,47 +57,54 @@ Prednison ist ein Glukokortikoid, das in der Schweiz in mehreren Präparaten im 
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Prednison liegen in den zusammengestellten Daten keine Angaben vor. Allgemein wirken Glukokortikoide entzündungshemmend und dämpfen das Immunsystem.
+Zum genauen Wirkmechanismus von Prednison liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Prednison ein Glukokortikoid mit breiter immunsuppressiver und entzündungshemmender Wirkung.
 
-Alopecia areata gilt als Autoimmunerkrankung, bei der T-Zellen die Haarfollikel angreifen. Ein Glukokortikoid könnte diesen Angriff abschwächen und helfen, den Immunschutz des Follikels wiederherzustellen. Der Mechanismus ist daher plausibel.
+Alopecia areata beruht auf einem Angriff von T-Zellen auf den Haarfollikel. Ein Wirkstoff, der Immunreaktionen und Entzündungen dämpft, passt deshalb biologisch zu dieser Erkrankung.
 
-Diese Überlegung ist bislang nicht durch Studien oder Publikationen in den vorliegenden Daten belegt. Eine Beurteilung der klinischen Praxis müsste unabhängig geprüft werden.
+Diese Plausibilität ist jedoch nur eine Überlegung. Die systemische Anwendung von Kortikosteroiden bei dieser Erkrankung kann in anderen Quellen beschrieben sein, lässt sich aus den vorliegenden Daten aber nicht bewerten. Eine gezielte Literatur- und Studiensuche ist vor einer Einstufung nötig.
 
 ---
 
-## Marktinformationen Schweiz
+### Klinische Studien
 
-Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst).
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
+
+---
+
+### Marktinformationen Schweiz
+
+Die Liste enthält mindestens 4 Zulassungen und kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 69640 | Prednison Galepharm 1 mg, Tabletten | Tabletten | Glukokortikosteroid-Therapie |
-| 60494 | Lodotra 1 mg, Tabletten mit veränderter Wirkstofffreisetzung | Tabletten mit veränderter Wirkstofffreisetzung | Ergänzende Behandlung zu DMARDs bei mässiger bis schwerer aktiver rheumatoider Arthritis |
-| 68119 | Rectodelt, Zäpfchen | Zäpfchen | Akutbehandlung von Pseudokrupp, Krupp und Exazerbationen bei Asthma/akutem Giemen |
-| 58761 | Prednison Axapharm 5 mg, Tabletten | Tabletten | Glukokortikosteroid-Therapie |
+| 69640 | Prednison Galepharm 1 mg, Tabletten | Synthetika | Glukokortikosteroid-Therapie |
+| 60494 | Lodotra 1 mg, Tabletten mit veränderter Wirkstofffreisetzung | Synthetika | Ergänzende Behandlung zu DMARDs bei mässiger bis schwerer aktiver rheumatoider Arthritis |
+| 68119 | Rectodelt, Zäpfchen | Synthetika | Akutbehandlung von Pseudokrupp, Krupp und Exazerbationen bei Asthma/akutem Giemen |
+| 58761 | Prednison Axapharm 5 mg, Tabletten | Synthetika | Glukokortikosteroid-Therapie |
 
 ---
 
-## Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert für Alopecia areata ist sehr hoch (0,9999), doch es gibt weder klinische Studien noch Literatur zu dieser Erkrankung. Die Vorhersage bleibt daher unbestätigt.
+- Für Alopecia areata liegen weder klinische Studien noch Literatur vor; der hohe Vorhersagewert (0,9999) beruht allein auf dem Modell.
+- Die Sicherheitsinformationen aus der Fachinformation fehlen bislang, sodass keine Sicherheitsbewertung möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Recherche und Bewertung klinischer Studien und Publikationen zu Prednison bei Alopecia areata
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus von Prednison aus einer Arzneimitteldatenbank
-- Klärung der geeigneten Darreichungsform und Applikationsroute für diese Anwendung
+- Gezielte Literatur- und Studiensuche zu Prednison bei Alopecia areata
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus (z. B. aus DrugBank)
+- Prüfung der Darreichungsform und Dosierung für die neue Indikation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

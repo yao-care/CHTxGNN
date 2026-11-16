@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 ### Zusammenfassung
 
-Cemiplimab ist ein Antikörper gegen PD-1 und in der Schweiz als Onkologikum im Handel. Für das adenosquamöse Gallenblasenkarzinom (gallbladder adenosquamous carcinoma) liegt ausschliesslich eine Modellvorhersage vor. Klinische Studien oder Publikationen zu dieser Erkrankung sind in den zusammengestellten Daten nicht vorhanden, die Evidenz ist daher sehr gering (L5).
+Cemiplimab ist ein Antikörper gegen PD-1 und in der Schweiz als Onkologikum im Handel. Für das adenosquamöse Gallenblasenkarzinom (gallbladder adenosquamous carcinoma) liegt eine rein rechnerische Vorhersage vor. Dazu gibt es weder klinische Studien noch Literatur, die Evidenz beschränkt sich daher auf die Modellvorhersage (Evidenzniveau L5).
 
 ---
 
@@ -59,23 +59,11 @@ Cemiplimab ist ein Antikörper gegen PD-1 und in der Schweiz als Onkologikum im 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Cemiplimab ist ein gegen PD-1 gerichteter Antikörper. Solche Antikörper heben die Hemmung der T-Zellen auf und sollen so die körpereigene Abwehr gegen Tumorzellen wieder stärken. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Cemiplimab blockiert den Immun-Checkpoint PD-1. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Der Antikörper ist jedoch bei plattenepithelialen Tumoren etabliert, etwa beim kutanen Plattenepithelkarzinom und beim nicht-kleinzelligen Lungenkarzinom.
 
-Eine mögliche biologische Verbindung ist der plattenepitheliale Anteil des Tumors. Er ähnelt Plattenepithelkarzinomen, die auf eine PD-1-Blockade ansprechen können. Das ist jedoch eine Hypothese: Angaben zu PD-L1, Tumormutationslast oder Daten zu Gallengangstumoren liegen nicht vor.
+Das adenosquamöse Gallenblasenkarzinom ist ein seltener Gallengangstumor mit einer Plattenepithelkomponente. Daraus lässt sich ableiten, dass eine PD-1-Blockade sinnvoll sein könnte. Diese Überlegung ist bisher nicht belegt.
 
-Der Wert unterscheidet daher kaum zwischen den einzelnen Indikationen und ist als Beleg für sich allein schwach.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Zu PD-L1-Expression, Tumormutationslast und MSI-Status dieser Tumoren liegen keine Daten vor. Der Vorhersagewert ist ein reines Rechenergebnis. Die Verbindung zwischen Wirkstoff und Erkrankung ist hypothetisch und für diese Tumorart nicht geprüft.
 
 ---
 
@@ -92,8 +80,7 @@ Derzeit keine verwandte Literatur verfügbar.
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Immuntherapie |
-
-Weitere Angaben (Myelosuppressionsrisiko, Emetogenität, Überwachung, Handhabungsschutz) liegen in den zusammengestellten Daten nicht vor und sind der Fachinformation zu entnehmen.
+| Handhabungsschutz | Als Immuntherapie (Antikörper) ist kein zytotoxischer Spezialschutz im Sinne konventioneller Zytostatika zu erwarten; massgeblich ist die Fachinformation. |
 
 ---
 
@@ -108,13 +95,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich nur auf das Modell, ohne Studien oder Publikationen zu dieser Erkrankung (L5). Zudem sind die Vorhersagewerte der obersten Kandidaten kaum unterscheidbar.
+- Für das adenosquamöse Gallenblasenkarzinom gibt es weder klinische Studien noch Literatur. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (aktuell fehlend, blockiert die Sicherheitsprüfung).
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
-- Klinische oder biologische Daten zum adenosquamösen Gallenblasenkarzinom, z. B. PD-L1-Status, Tumormutationslast, MSI-Status, Fallserien oder Studien bei Gallengangstumoren.
-- Prüfung, ob eine Machbarkeit für diese seltene Tumorart besteht (Patientenzahlen, Studiendesign).
+- Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
+- Ergänzung der Angaben zum Wirkmechanismus
+- Recherche zu klinischen Studien und Publikationen bei Gallenwegs- und Plattenepithelkarzinomen
+- Daten zu PD-L1-Expression, Tumormutationslast und MSI-Status beim adenosquamösen Gallenblasenkarzinom
+- Prüfung der Verabreichungswege und der Eignung für diese Indikation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

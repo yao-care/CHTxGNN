@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Flecainid ist ein Natriumkanalblocker der Klasse 1C, der in der Rhythmuskontrolle bei Vorhofflimmern verwendet wird. Das Modell sagt eine mögliche Wirksamkeit bei Schlaganfall (stroke disorder) voraus, wohl nur indirekt über die Verhinderung von Herzrhythmusstörungen. Bisher untersucht keine der vorliegenden Studien Schlaganfall direkt als Ergebnis, daher ist die Evidenz auf Modellebene (L5) einzustufen.
+Flecainid ist ein Natriumkanalblocker der Klasse IC, der bei Herzrhythmusstörungen eingesetzt wird. Das Modell sagt eine mögliche Wirksamkeit bei Schlaganfall (stroke disorder) voraus. Dieser Zusammenhang wäre indirekt: Flecainid könnte Vorhofrhythmusstörungen unterdrücken, die ein wichtiger Auslöser kardioembolischer Schlaganfälle sind. Die Evidenz ist schwach. Es gibt keine Studie, die Schlaganfälle selbst als Endpunkt untersucht, sondern nur eine laufende Phase-3-Studie mit Rhythmusstörungen als Endpunkt.
 
 ---
 
@@ -52,7 +52,7 @@ Flecainid ist ein Natriumkanalblocker der Klasse 1C, der in der Rhythmuskontroll
 | Ursprüngliche Indikation | Antiarrhythmikum |
 | Vorhergesagte neue Indikation | Schlaganfall (stroke disorder) |
 | TxGNN-Vorhersagewert | 0.9991 |
-| Evidenzniveau | L5 (keine Studie untersucht Schlaganfall direkt) |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
@@ -61,11 +61,11 @@ Flecainid ist ein Natriumkanalblocker der Klasse 1C, der in der Rhythmuskontroll
 
 ### Warum ist diese Vorhersage plausibel?
 
-Flecainid blockiert als Antiarrhythmikum der Klasse 1C die Natriumkanäle im Herzen und hilft dadurch, bei Vorhofflimmern den normalen Rhythmus zu erhalten. Zum Wirkmechanismus liegen in den lokalen Daten keine weiteren Angaben vor. Die Einordnung stützt sich daher auf die Auswertung der Studien- und Literaturlage.
+Flecainid blockiert Natriumkanäle im Herzmuskel und verlangsamt dadurch die Erregungsleitung. Es unterdrückt so Rhythmusstörungen der Vorhöfe. Die Daten enthalten keine ausführliche Beschreibung des Wirkmechanismus. Die Angaben beruhen auf der Klassenzugehörigkeit und auf der Literatur.
 
-Vorhofflimmern ist ein wichtiger Risikofaktor für Schlaganfälle durch Blutgerinnsel aus dem Herzen. Ein möglicher Nutzen von Flecainid bei Schlaganfall wäre deshalb indirekt: Es würde Rhythmusstörungen unterdrücken und nicht das Hirngewebe schützen. Die aktuelle Phase-3-Studie prüft Flecainid nach dem Verschluss eines offenen Foramen ovale (PFO) bei Menschen mit kryptogenem Schlaganfall. Ihr Endpunkt sind Herzrhythmusstörungen, nicht erneute Schlaganfälle.
+Vorhofflimmern ist ein bedeutender Risikofaktor für kardioembolische Schlaganfälle. Eine erfolgreiche Rhythmuskontrolle könnte das Schlaganfallrisiko daher indirekt senken. Ein Teil der ischämischen Schlaganfälle bleibt ausserdem ohne klare Ursache (kryptogen). Bei diesen Patienten ist ein offenes Foramen ovale (PFO) häufiger als in der Allgemeinbevölkerung. Nach einem PFO-Verschluss treten teils Vorhofrhythmusstörungen auf, und genau diese soll Flecainid in der unten aufgeführten Studie verhindern.
 
-Es gibt Einschränkungen. Die vorliegende Literatur handelt überwiegend von Rhythmuskontrolle bei Vorhofflimmern und zeigt keine Schlaganfallreduktion, die Flecainid zugeschrieben werden könnte. Flecainid gilt zudem bei struktureller Herzerkrankung und ischämischer Herzerkrankung als problematisch. Das schränkt den Einsatz bei vielen Schlaganfallpatienten ein.
+Der Zusammenhang ist jedoch nur mittelbar. Ein direkter Nutzen von Flecainid bei Schlaganfall ist nicht belegt. Zudem gilt Flecainid bei struktureller und ischämischer Herzerkrankung als kontraindiziert, was bei vielen Schlaganfallpatienten zutrifft. Der hohe Vorhersagewert ist eine rein rechnerische Aussage.
 
 ---
 
@@ -73,30 +73,35 @@ Es gibt Einschränkungen. Die vorliegende Literatur handelt überwiegend von Rhy
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT05213104](https://clinicaltrials.gov/study/NCT05213104) | Phase 3 | Aktiv, nicht rekrutierend | 186 | Prüft, ob Flecainid das Risiko von Vorhofrhythmusstörungen nach PFO-Verschluss senkt. Die Teilnehmer hatten einen kryptogenen Schlaganfall. Endpunkt ist die Rhythmusstörung, nicht der Schlaganfall. Es sind noch keine Ergebnisse berichtet (geplantes Studienende: September 2026). |
+| [NCT05213104](https://clinicaltrials.gov/study/NCT05213104) | Phase 3 | Aktiv, Rekrutierung abgeschlossen | 186 | Prüft, ob Flecainid nach PFO-Verschluss das Risiko von Vorhofrhythmusstörungen senkt. Die Studie läuft von März 2022 bis voraussichtlich September 2026, Ergebnisse liegen noch nicht vor. Der Endpunkt ist die Rhythmusstörung, nicht der Schlaganfall. |
 
 ---
 
 ### Literaturbelege
 
+Keine der Publikationen untersucht Flecainid direkt bei Schlaganfall. Sie betreffen überwiegend Vorhofflimmern und die Sicherheit von Flecainid.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [38702961](https://pubmed.ncbi.nlm.nih.gov/38702961/) | 2024 | RCT | Europace | Untersucht Sicherheit und Wirksamkeit von Natriumkanalblockern (Flecainid, Propafenon) für die frühe Rhythmuskontrolle in der Studie EAST-AFNET 4. Hintergrund sind Bedenken wegen proarrhythmischer Wirkungen bei Herzerkrankungen. |
-| [38551548](https://pubmed.ncbi.nlm.nih.gov/38551548/) | 2024 | Kohortenstudie | JACC. Clinical Electrophysiology | Betrachtet Klasse-1C-Antiarrhythmika zur Unterdrückung ventrikulärer Extrasystolen bei nichtischämischer Kardiomyopathie mit Defibrillator. |
-| [15575054](https://pubmed.ncbi.nlm.nih.gov/15575054/) | 2004 | Studie | New England Journal of Medicine | Prüft die Selbstanwendung einer oralen Einmaldosis Flecainid oder Propafenon ausserhalb des Spitals bei kürzlich aufgetretenem Vorhofflimmern. |
-| [41954064](https://pubmed.ncbi.nlm.nih.gov/41954064/) | 2026 | Studie | Journal of the American Heart Association | Untersucht Langzeitergebnisse der Rhythmuskontrolle mit Klasse-1C-Antiarrhythmika bei Vorhofflimmern. Der kardiovaskuläre Nutzen gegenüber der Frequenzkontrolle gilt als unklar. |
-| [42782286](https://pubmed.ncbi.nlm.nih.gov/42782286/) | 2026 | Übersichtsarbeit | Herz | Überblick über Behandlungsoptionen bei Vorhofflimmern. Frühe Rhythmuskontrolle ist wichtig, um Symptome, Spitaleinweisungen, ischämische Schlaganfälle und kardiovaskuläre Todesfälle zu verringern. |
-| [19265095](https://pubmed.ncbi.nlm.nih.gov/19265095/) | 2009 | Übersichtsarbeit | Chest | Beschreibt das akute Management von Vorhofflimmern mit Strategien zur Frequenz- und Rhythmuskontrolle. |
-| [25430048](https://pubmed.ncbi.nlm.nih.gov/25430048/) | 2014 | Übersichtsarbeit | BMJ Clinical Evidence | Übersicht zu akutem Vorhofflimmern, das das Risiko für Schlaganfall und Herzinsuffizienz erhöht. |
-| [35114252](https://pubmed.ncbi.nlm.nih.gov/35114252/) | 2022 | Präklinisch/Mechanistisch | Journal of Molecular and Cellular Cardiology | Zeigt Unterschiede zwischen Natriumströmen im Vorhof und in der Herzkammer. Dies könnte erklären, warum Flecainid im Vorhof besonders wirksam ist. |
-| [29225842](https://pubmed.ncbi.nlm.nih.gov/29225842/) | 2017 | Fallbericht | Clinical Case Reports | Nach PFO-Verschluss kann Flecainid bei Rhythmusstörungen ein bisher unerkanntes Brugada-Syndrom aufdecken. |
-| [27884575](https://pubmed.ncbi.nlm.nih.gov/27884575/) | 2017 | Fallbericht | Journal of Emergency Medicine | Beschreibt ein Brugada-Muster im EKG nach einer Flecainid-Überdosis. |
+| [38702961](https://pubmed.ncbi.nlm.nih.gov/38702961/) | 2024 | RCT | Europace | Auswertung der EAST-AFNET-4-Studie zur Sicherheit und Wirksamkeit von Natriumkanalblockern (Flecainid, Propafenon) bei früher Rhythmuskontrolle. Hintergrund sind Bedenken wegen proarrhythmischer Effekte. |
+| [38551548](https://pubmed.ncbi.nlm.nih.gov/38551548/) | 2024 | Kohortenstudie | JACC Clinical Electrophysiology | Klasse-1C-Antiarrhythmika unterdrücken ventrikuläre Extrasystolen wirksam. Die Leitlinien schränken ihren Einsatz bei Herzerkrankungen mit Strukturveränderung ein. |
+| [35114252](https://pubmed.ncbi.nlm.nih.gov/35114252/) | 2022 | Präklinisch/Mechanistisch | Journal of Molecular and Cellular Cardiology | Veränderte Eigenschaften der Natriumkanäle erklären die höhere Wirksamkeit von Flecainid im Vorhof. Ventrikuläre Proarrhythmie ist bei Vorhofflimmern vergleichsweise selten. |
+| [15575054](https://pubmed.ncbi.nlm.nih.gov/15575054/) | 2004 | Klinische Studie | New England Journal of Medicine | Prüfte die ambulante Selbsteinnahme von Flecainid oder Propafenon bei Vorhofflimmern mit kürzlichem Beginn («Pill-in-the-pocket»). Untersucht wurden Machbarkeit und Sicherheit. |
+| [29225842](https://pubmed.ncbi.nlm.nih.gov/29225842/) | 2017 | Fallbericht | Clinical Case Reports | PFO ist ein Risikofaktor für kryptogenen Schlaganfall. Flecainid nach PFO-Verschluss kann ein bis dahin unerkanntes Brugada-Syndrom aufdecken. |
+| [27884575](https://pubmed.ncbi.nlm.nih.gov/27884575/) | 2017 | Fallbericht | Journal of Emergency Medicine | Eine Flecainid-Überdosierung löste ein Brugada-Muster im EKG aus. |
+| [25430048](https://pubmed.ncbi.nlm.nih.gov/25430048/) | 2014 | Übersichtsarbeit | BMJ Clinical Evidence | Akutes Vorhofflimmern erhöht das Risiko für Schlaganfall und Herzinsuffizienz. Die Arbeit beschreibt Optionen zur Frequenz- und Rhythmuskontrolle. |
+| [42782286](https://pubmed.ncbi.nlm.nih.gov/42782286/) | 2026 | Übersichtsarbeit | Herz | Frühe Rhythmuskontrolle ist wichtig, um Beschwerden, Spitaleinweisungen, ischämische Schlaganfälle und kardiovaskuläre Todesfälle zu verringern. |
+| [41954064](https://pubmed.ncbi.nlm.nih.gov/41954064/) | 2026 | Kohortenstudie | Journal of the American Heart Association | Langzeitergebnisse unter Klasse-1C-Antiarrhythmika bei Vorhofflimmern. Der kardiovaskuläre Nutzen gegenüber einer reinen Frequenzkontrolle ist noch unklar. |
+| [30067936](https://pubmed.ncbi.nlm.nih.gov/30067936/) | 2018 | Leitlinie | Medical Journal of Australia | Australische Leitlinie zur Diagnose und Behandlung von Vorhofflimmern. |
 
 ---
 
 ### Sicherheitshinweise
 
-> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+- **Wichtige Warnungen:** Die Literatur beschreibt das Risiko proarrhythmischer Effekte. Flecainid kann zudem ein Brugada-Muster im EKG aufdecken oder auslösen, besonders bei Überdosierung oder Kombination mit anderen Natriumkanalblockern.
+- **Kontraindikationen:** Flecainid gilt bei struktureller und ischämischer Herzerkrankung als kontraindiziert. Diese Einschränkung betrifft viele Schlaganfallpatienten.
+
+Die Angaben aus der Schweizer Fachinformation fehlen in den vorliegenden Daten. Bitte beachten Sie die Fachinformation für vollständige Sicherheitsinformationen.
 
 ---
 
@@ -105,14 +110,14 @@ Es gibt Einschränkungen. Die vorliegende Literatur handelt überwiegend von Rhy
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch (0,9991). Keine der vorliegenden Studien untersucht aber Schlaganfall direkt als Ergebnis, und ein möglicher Nutzen wäre nur indirekt über die Rhythmuskontrolle zu erwarten.
-- Die einzige Phase-3-Studie ist noch nicht ausgewertet und hat einen Rhythmus-Endpunkt. Hinzu kommen die Einschränkungen bei Herzerkrankungen.
+- Keine Studie untersucht Flecainid direkt bei Schlaganfall. Die einzige Phase-3-Studie hat einen Rhythmusendpunkt und noch keine Ergebnisse. Das Evidenzniveau ist daher L5.
+- Die Kontraindikation bei struktureller und ischämischer Herzerkrankung sowie das Risiko proarrhythmischer Effekte schränken eine mögliche Anwendung bei Schlaganfallpatienten stark ein.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ergebnisse der Studie NCT05213104 und, falls möglich, Daten zu erneuten Schlaganfällen als Endpunkt.
-- Studien, die Flecainid bei Schlaganfallpatienten direkt untersuchen.
-- Auswertung der Schweizer Fachinformation zu Warnhinweisen, Gegenanzeigen und Wechselwirkungen, insbesondere bei struktureller Herzerkrankung und gleichzeitiger Antikoagulation.
-- Ergänzung der Angaben zum Wirkmechanismus.
+- Die Ergebnisse der Studie NCT05213104, insbesondere dazu, ob die Rhythmusstörungen nach PFO-Verschluss abnehmen und ob sich das auf Schlaganfälle auswirkt.
+- Studien mit Schlaganfall oder Schlaganfall-Rezidiv als Endpunkt.
+- Die Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation für eine Sicherheitsbewertung.
+- Eine ausführliche Beschreibung des Wirkmechanismus für die mechanistische Analyse.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

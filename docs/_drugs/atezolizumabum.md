@@ -9,7 +9,7 @@ drugbank_id: DB11595
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 last_modified_at: 2026-11-16
-description: "Atezolizumabum: vorhergesagte neue Indikation Uterine ligament adenocarcinoma (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
+description: "Atezolizumabum: vorhergesagte neue Indikation Uteriges Ligament-Adenokarzinom (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
 # Atezolizumabum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Atezolizumabum: Uterine ligament adenocarcinoma
+## Atezolizumabum: Uteriges Ligament-Adenokarzinom (uterine ligament adenocarcinoma)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Atezolizumab ist in der Schweiz als Onkologikum zugelassen. Die Evidenz ist dünn: Es liegt nur eine frühe Phase-1b-Studie mit einer Kombinationstherapie vor, die diese Erkrankung nicht gezielt untersucht. Daher gilt Evidenzniveau L5.
+Atezolizumab ist in der Schweiz als Onkologikum zugelassen und wird als Infusion sowie als subkutane Injektion angeboten. Vorhergesagt wird eine mögliche Wirksamkeit beim Adenokarzinom des uterinen Ligaments (uterine ligament adenocarcinoma). Diese Vorhersage beruht ausschliesslich auf einem Modellwert; es liegen keine klinischen Studien oder Publikationen zu dieser Erkrankung vor (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +50,7 @@ Atezolizumab ist in der Schweiz als Onkologikum zugelassen. Die Evidenz ist dün
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Onkologikum |
-| Vorhergesagte neue Indikation | Uterine ligament adenocarcinoma |
+| Vorhergesagte neue Indikation | Uteriges Ligament-Adenokarzinom (uterine ligament adenocarcinoma) |
 | TxGNN-Vorhersagewert | 0.9993 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,19 +61,21 @@ Atezolizumab ist in der Schweiz als Onkologikum zugelassen. Die Evidenz ist dün
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Atezolizumab ist jedoch bekanntermassen ein Hemmstoff des Immun-Checkpoints PD-L1. Es soll dem Immunsystem helfen, Tumorzellen wieder zu erkennen und anzugreifen.
+Atezolizumab ist ein Antikörper gegen PD-L1 (Immun-Checkpoint-Inhibitor). Er soll die Hemmung der T-Zellen durch den Tumor aufheben und so die körpereigene Abwehr gegen Krebszellen wieder aktivieren. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten, daher beruht diese Beschreibung auf allgemeinem Wissen über die Wirkstoffklasse.
 
-Tumoren der prostatischen Harnröhre haben dieselbe Gewebeart (urothelial) wie Blasentumoren. Für Urothelkarzinome ist die Blockade des PD-1/PD-L1-Signalwegs ein etabliertes Konzept. Deshalb ist es denkbar, dass der Mechanismus auch an dieser Stelle greift.
-
-Der sehr hohe Vorhersagewert zeigt vor allem die Nähe zu bekannten Urothelkarzinom-Anwendungen im Modell. Er ist keine klinische Bestätigung für die Harnröhrenlokalisation.
+Die Vorhersage ist plausibel, weil gynäkologische Adenokarzinome teilweise PD-L1 exprimieren könnten. Ob dies beim Adenokarzinom des uterinen Ligaments zutrifft, lässt sich anhand der vorliegenden Daten nicht überprüfen. Es handelt sich um eine rein rechnerische Vorhersage ohne Bestätigung durch Studien oder Literatur.
 
 ---
 
 ### Klinische Studien
 
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1b | Aktiv, keine Rekrutierung mehr | 914 | Dosissteigerungsstudie mit Cabozantinib allein oder mit Atezolizumab bei fortgeschrittenen soliden Tumoren, darunter Urothelkarzinome (Blase, Nierenbecken, Harnleiter, Harnröhre). Untersucht werden Sicherheit, Verträglichkeit, erste Wirksamkeitshinweise und Pharmakokinetik. Ob die prostatische Harnröhre eingeschlossen ist, bleibt unbestätigt. Es liegen keine Ergebnisse vor. |
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -81,7 +83,7 @@ Der sehr hohe Vorhersagewert zeigt vor allem die Nähe zu bekannten Urothelkarzi
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 69262 | TECENTRIQ subkutan 1875 mg/15 ml, Injektionslösung zur subkutanen Anwendung | Biotechnologikum | Onkologikum |
+| 69262 | TECENTRIQ subkutan 1875 mg/15ml, Injektionslösung zur subkutanen Anwendung | Biotechnologikum | Onkologikum |
 | 66152 | Tecentriq 1200 mg/20 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Onkologikum |
 
 ---
@@ -91,10 +93,8 @@ Der sehr hohe Vorhersagewert zeigt vor allem die Nähe zu bekannten Urothelkarzi
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Immuntherapie |
-| Myelosuppressionsrisiko | Niedrig |
-| Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leberfunktion, Nierenfunktion, Schilddrüsenfunktion (immunvermittelte Nebenwirkungen) |
-| Handhabungsschutz | Keine zytotoxischen Spezialmassnahmen nötig; übliche Vorsicht bei Biotechnologika |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion; zusätzlich Schilddrüsenfunktion und Zeichen immunvermittelter Nebenwirkungen |
+| Handhabungsschutz | Üblicher Umgang mit Biologika gemäss Fachinformation; keine spezielle zytotoxische Handhabung angegeben |
 
 ---
 
@@ -103,14 +103,13 @@ Der sehr hohe Vorhersagewert zeigt vor allem die Nähe zu bekannten Urothelkarzi
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Erkrankung gibt es keine Studie, die sie direkt untersucht. Die einzige verfügbare Studie ist eine frühe Kombinationsstudie ohne bestätigten Einschluss dieser Lokalisation.
-- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen in den zusammengestellten Daten, sodass keine Sicherheitsbewertung möglich ist.
+- Der Vorhersagewert ist sehr hoch, aber es gibt keine klinischen Studien und keine Literatur zu dieser Erkrankung. Die Vorhersage bleibt daher ein reiner Modellbefund (L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
+- Sicherheitsinformationen (Warnungen und Kontraindikationen) aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus DrugBank
-- Prüfung, ob Urothelkarzinom-Kohorten der Studie NCT03170960 Patienten mit Tumoren der prostatischen Harnröhre einschliessen und welche Ergebnisse vorliegen
-- Weitere Studien oder Publikationen, die Urothelkarzinome der prostatischen Harnröhre direkt untersuchen
+- Belege zur PD-L1-Expression beim Adenokarzinom des uterinen Ligaments
+- Fallberichte, Studien oder Registerdaten zu dieser seltenen Tumorart
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

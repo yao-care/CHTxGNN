@@ -9,7 +9,7 @@ drugbank_id: DB00938
 monitor_inn: "Salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
 last_modified_at: 2026-11-16
-description: "Salmeterolum: vorhergesagte neue Indikation Respiratory malformation (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
+description: "Salmeterolum: vorhergesagte neue Indikation Respiratorische Fehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 
 # Salmeterolum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Salmeterolum: Respiratory malformation
+## Salmeterolum: Respiratorische Fehlbildung (respiratory malformation)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Salmeterol ist ein inhalativer, langwirksamer Beta-2-Agonist, der in der Schweiz als Bronchospasmolytikum zugelassen ist.
+Salmeterol ist in der Schweiz als Bronchospasmolytikum zugelassen. Die Vorhersage nennt als neue Indikation die respiratorische Fehlbildung (respiratory malformation). Diese Vorhersage stützt sich nur auf ein Rechenmodell: Keine der aufgeführten Studien untersucht diese Erkrankung direkt.
 
 ---
 
@@ -48,40 +48,29 @@ Salmeterol ist ein inhalativer, langwirksamer Beta-2-Agonist, der in der Schweiz
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Bronchospasmolytikum |
-| Vorhergesagte neue Indikation | Respiratory malformation |
+| Vorhergesagte neue Indikation | Respiratorische Fehlbildung (respiratory malformation) |
 | TxGNN-Vorhersagewert | 0.9991 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten. Salmeterol gehört jedoch zu den langwirksamen Beta-2-Agonisten: Es entspannt die glatte Muskulatur der Atemwege und kann die mukoziliäre Reinigung verbessern. Diese Einordnung beruht auf der pharmakologischen Fachliteratur und nicht auf den hier hinterlegten Mechanismusdaten.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Salmeterol ist bekanntermassen ein langwirksamer Beta-2-Agonist, der die glatte Muskulatur der Atemwege entspannt. Möglicherweise steigert er auch die Flimmerhaarbewegung in den Atemwegen und könnte so bei gestörter Schleimreinigung eine Rolle spielen.
 
-Bei chronischer Bronchitis als Teil der COPD sind Atemwegsverengung und gestörte Schleimklärung zentrale Probleme. Eine randomisierte Studie bei chronischer Bronchitis (PMID 15970448) untersuchte die akute Wirkung von Salmeterol auf die mukoziliäre Klärung und die Hustenklärung. Mehrere Phase-3-Studien bei COPD, darunter chronische Bronchitis und Emphysem, stützen den Nutzen des Wirkprinzips.
-
-Die Evidenz gilt für die chronische Bronchitis im Rahmen der COPD, nicht für akute oder eosinophile Bronchitis. Zudem ist Salmeterol bereits für obstruktive Atemwegserkrankungen etabliert, sodass es sich eher um eine Ausweitung der Anwendung als um eine völlig neue Nutzung handelt.
+Der Zusammenhang zur vorhergesagten Indikation ist jedoch schwach. Die «respiratorische Fehlbildung» ist eine strukturell uneinheitliche Gruppe von Erkrankungen. Ein Bronchodilatator kann einen anatomischen Entwicklungsfehler nicht beheben. Der sehr hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu anderen Atemwegserkrankungen im Modell wider und nicht eine krankheitsspezifische Biologie. Ein möglicher Nutzen wäre allenfalls symptomatisch (Atemwegsverengung, Schleimklärung bei Folgeerkrankungen der Atemwege) und nicht krankheitsmodifizierend.
 
 ---
 
 ### Klinische Studien
 
-Die meisten Studien untersuchen COPD, teils mit der Fixkombination Salmeterol/Fluticason, und nicht Bronchitis als eigene Erkrankung.
-
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00268177](https://clinicaltrials.gov/study/NCT00268177) | Phase 3 | Abgeschlossen | 130 | Wirkung von Salmeterol/Fluticason gegenüber Placebo auf die Atemwegsentzündung bei COPD |
-| [NCT00269087](https://clinicaltrials.gov/study/NCT00269087) | Phase 3 | Abgeschlossen | 122 | Langzeitsicherheit von Salmeterol/Fluticason bei COPD (chronische Bronchitis, Emphysem), japanische Patienten |
-| [NCT02173691](https://clinicaltrials.gov/study/NCT02173691) | Phase 3 | Abgeschlossen | 584 | Sechsmonatiger Vergleich von Tiotropium, Salmeterol und Placebo bei COPD (Bronchodilatation, Sicherheit) |
-| [NCT00269126](https://clinicaltrials.gov/study/NCT00269126) | Phase 3 | Abgeschlossen | 150 | Vergleich zweier Arzneimittel bei COPD über 18 Wochen; Titel wenig aussagekräftig |
-| [NCT00064402](https://clinicaltrials.gov/study/NCT00064402) | Phase 3 | Abgeschlossen | 741 | Arformoterol bei COPD, placebo- und wirkstoffkontrolliert; Salmeterol vermutlich Vergleichssubstanz |
-| [NCT00064415](https://clinicaltrials.gov/study/NCT00064415) | Phase 3 | Abgeschlossen | 799 | Langzeitsicherheit von Arformoterol bei COPD über 12 Monate; indirekter Bezug |
-| [NCT00403286](https://clinicaltrials.gov/study/NCT00403286) | Phase 2 | Abgeschlossen | 457 | Dosisfindung Fluticason/Formoterol bei COPD, Vergleich mit Fluticason/Salmeterol |
-| [NCT01361984](https://clinicaltrials.gov/study/NCT01361984) | Phase 4 | Unbekannt | 20 | Vernebeltes Arformoterol versus Salmeterol-Pulverinhalator bei COPD; kleine Stichprobe |
-| [NCT00233051](https://clinicaltrials.gov/study/NCT00233051) | Nicht zutreffend | Abgebrochen | 20 | Biomarkerstudie zu Entzündungsmediatoren im induzierten Sputum bei COPD |
+| [NCT00005110](https://clinicaltrials.gov/study/NCT00005110) | Nicht zutreffend | Ausgesetzt | Keine Angabe | Langzeitwirkung von Salmeterol und Albuterol bei zystischer Fibrose, 6 Monate, zweimal täglich inhaliert. Die Krankheit ist keine Fehlbildung der Atemwege; keine verwertbaren Ergebnisse. |
+| [NCT01681979](https://clinicaltrials.gov/study/NCT01681979) | Nicht zutreffend | Abgeschlossen | 1 | Asthmabehandlung in der Schwangerschaft und Komplikationen der Schwangerschaft. Es geht um Sicherheit nach Exposition, nicht um Wirksamkeit bei Fehlbildungen; nicht aussagekräftig. |
 
 ---
 
@@ -89,13 +78,10 @@ Die meisten Studien untersuchen COPD, teils mit der Fixkombination Salmeterol/Fl
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [15970448](https://pubmed.ncbi.nlm.nih.gov/15970448/) | 2006 | RCT | Pulmonary Pharmacology & Therapeutics | Akute Wirkung von Salmeterol gegenüber Placebo auf mukoziliäre und Hustenklärung bei 14 Patienten mit leichter bis mittelschwerer chronischer Bronchitis |
-| [17557771](https://pubmed.ncbi.nlm.nih.gov/17557771/) | 2007 | RCT | Thorax | Wirkung von Salmeterol/Fluticason auf die Atemwegsentzündung bei COPD |
-| [17196106](https://pubmed.ncbi.nlm.nih.gov/17196106/) | 2006 | Metaanalyse | Respiratory Research | Salmeterol verbesserte klinisch relevante Endpunkte bei COPD gegenüber Placebo bzw. üblicher Therapie |
-| [15329047](https://pubmed.ncbi.nlm.nih.gov/15329047/) | 2004 | Übersichtsarbeit | Drugs | Übersicht zu Salmeterol/Fluticason bei COPD, in den USA zugelassen bei COPD mit chronischer Bronchitis |
-| [19210134](https://pubmed.ncbi.nlm.nih.gov/19210134/) | 2009 | Beobachtungsstudie | Current Medical Research and Opinion | Inanspruchnahme und Kosten bei chronischer Bronchitis unter Fluticason/Salmeterol im Vergleich zu anderen inhalativen Erhaltungstherapien |
-| [32321518](https://pubmed.ncbi.nlm.nih.gov/32321518/) | 2020 | Kohortenanalyse | Respiratory Research | Einfluss der Symptomlast zu Beginn auf COPD-Exazerbationen in der FLAME-Studie |
-| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Leitlinie | Basic & Clinical Pharmacology & Toxicology | Finnische Leitlinie zu Diagnose und Pharmakotherapie der stabilen COPD |
+| [15293609](https://pubmed.ncbi.nlm.nih.gov/15293609/) | 2004 | RCT | The European Respiratory Journal | Salmeterol und die Atemreaktion bei Belastung bei COPD (23 Patienten, Crossover). Betrifft eine andere Erkrankung. |
+| [34902004](https://pubmed.ncbi.nlm.nih.gov/34902004/) | 2022 | Studie (als Übersicht klassifiziert) | JAMA Pediatrics | Inhalative Kortikosteroide allein oder mit langwirksamen Beta-2-Agonisten bei verminderter Lungenfunktion nach Frühgeburt. Verwandtes Thema, aber keine Fehlbildung. |
+| [22608352](https://pubmed.ncbi.nlm.nih.gov/22608352/) | 2012 | Kohortenstudie | Respiratory Medicine | Verminderte Flimmerhaarbewegung in Nasenzilien bei COPD. Mechanistischer Hintergrund. |
+| [20703071](https://pubmed.ncbi.nlm.nih.gov/20703071/) | 2010 | Fallbericht | Arerugi | Primäre Ziliendyskinesie, die zunächst als Asthma behandelt wurde. |
 
 ---
 
@@ -116,16 +102,15 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist hoch und die COPD-Studien sind zahlreich. Die einzige direkt zur Bronchitis durchgeführte Studie ist jedoch klein (n = 14) und untersuchte nur eine akute Wirkung. Für die Bronchitis ausserhalb der COPD fehlen Daten.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, sodass eine Sicherheitsbeurteilung noch nicht möglich ist.
+- Keine Studie untersucht die respiratorische Fehlbildung direkt, daher bleibt die Vorhersage rein rechnerisch (Evidenzniveau L5). Ein Bronchodilatator kann zudem eine strukturelle Fehlbildung nicht korrigieren.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation von Swissmedic (Warnungen, Kontraindikationen, Wechselwirkungen)
-- Ergänzung der Angaben zum Wirkmechanismus
-- Klärung, ob die Zielgruppe die chronische Bronchitis bei COPD ist, sowie gezielte Studien zur Bronchitis als eigenständiger Erkrankung
+- Eine klare Definition, welche Fehlbildungen gemeint sind, und ein plausibler Wirkansatz für Symptome bei Folgeerkrankungen der Atemwege
+- Klinische oder präklinische Daten, die diese Erkrankung direkt untersuchen
+- Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen) sowie Angaben zum Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

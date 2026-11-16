@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 ## Desvenlafaxinum: Zwangsstörung (obsessive-compulsive disorder)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Desvenlafaxin ist ein Antidepressivum aus der Klasse der Serotonin-Noradrenalin-Wiederaufnahmehemmer (SNRI). Es wird für die Zwangsstörung (obsessive-compulsive disorder) als neue Anwendung vorhergesagt, weil die Hemmung der Serotonin-Wiederaufnahme die pharmakologische Grundlage der Erstlinienbehandlung dieser Erkrankung ist. Diese Vorhersage beruht allein auf einem Modellwert; es liegen keine klinischen Studien und keine Literatur zu Desvenlafaxin bei dieser Erkrankung vor.
+Desvenlafaxin ist ein Serotonin-Noradrenalin-Wiederaufnahmehemmer (SNRI) und der aktive Metabolit von Venlafaxin. Für die Zwangsstörung (obsessive-compulsive disorder) liegt ein hoher TxGNN-Vorhersagewert vor, doch die Vorhersage beruht allein auf einem Computermodell. In den für diesen Bericht zusammengestellten Daten gibt es weder klinische Studien noch Publikationen zu Desvenlafaxin bei dieser Erkrankung (Evidenzniveau L5).
 
 ---
 
@@ -59,23 +61,11 @@ Desvenlafaxin ist ein Antidepressivum aus der Klasse der Serotonin-Noradrenalin-
 
 ### Warum ist diese Vorhersage plausibel?
 
-Desvenlafaxin gehört zu den Serotonin-Noradrenalin-Wiederaufnahmehemmern. Ein genauer Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Die Klasseneigenschaft, die Wiederaufnahme von Serotonin und Noradrenalin zu hemmen, ist jedoch bekannt.
+Desvenlafaxin hemmt die Wiederaufnahme von Serotonin und Noradrenalin. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine näheren Angaben vor; die Einordnung beruht auf der bekannten Substanzklasse.
 
-Die Hemmung der Serotonin-Wiederaufnahme ist die pharmakologische Grundlage der Erstlinienbehandlung bei Zwangsstörungen. Für die Muttersubstanz Venlafaxin gibt es zudem einige unterstützende Daten. Der Zusammenhang ist damit auf Klassenebene nachvollziehbar.
+Die Serotonin-Modulation ist der Kern der medikamentösen Behandlung von Zwangsstörungen (SSRI, Clomipramin). Für Venlafaxin, die Muttersubstanz von Desvenlafaxin, gibt es zudem einige unterstützende Daten bei Zwangsstörungen. Ein mechanistischer Zusammenhang ist daher biologisch denkbar.
 
-Zu beachten ist: Die Daten enthalten keine Studien oder Publikationen speziell zu Desvenlafaxin. Der sehr hohe Vorhersagewert von 0,9991 ist ein reines Modellergebnis und ersetzt keine klinischen Belege.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Allerdings wurden für Desvenlafaxin selbst keine Studien oder Literatur gefunden. Der hohe Vorhersagewert ist eine rechnerische Vorhersage und kein klinischer Beleg.
 
 ---
 
@@ -83,7 +73,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 69469 | Desveneurax 50 mg, Retardtabletten | Synthetika | Behandlung der Major Depression bei Erwachsenen |
+| 69469 | Desveneurax 50 mg, Retardtabletten | Retardtabletten | Behandlung der Major Depression bei Erwachsenen |
 
 ---
 
@@ -98,14 +88,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf ein Modell (Evidenzniveau L5). Es gibt weder klinische Studien noch Publikationen zu Desvenlafaxin bei Zwangsstörungen.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, sodass keine Sicherheitsbeurteilung möglich ist.
+- Der Vorhersagewert ist hoch, aber es gibt keine klinischen Studien und keine Literatur zu Desvenlafaxin bei Zwangsstörungen. Die Vorhersage bleibt eine Forschungsfrage.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen)
-- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Systematische Literaturrecherche zu Desvenlafaxin und Venlafaxin bei Zwangsstörungen
-- Prüfung, ob klinische Studien zu Desvenlafaxin bei dieser Erkrankung existieren oder geplant sind
+- Recherche zu klinischen Studien und Publikationen zu Desvenlafaxin (und Venlafaxin) bei Zwangsstörungen
+- Auswertung der Swissmedic-Fachinformation zu Warnhinweisen und Kontraindikationen
+- Ergänzung der Angaben zum Wirkmechanismus (z. B. aus DrugBank)
+- Prüfung der Sicherheit und Verträglichkeit bei dieser Patientengruppe
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

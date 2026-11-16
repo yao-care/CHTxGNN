@@ -37,13 +37,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 ## Methylprednisolonum: Alopecia mucinosa
 {: .text-alpha }
 
-## Zusammenfassung
+### Zusammenfassung
 
-Methylprednisolon ist ein systemisch und lokal einsetzbares Glukokortikoid, das in der Schweiz in mehreren Präparaten im Handel ist. Es könnte voraussichtlich bei Alopecia areata (alopecia areata), dem kreisrunden Haarausfall, wirksam sein. Die Evidenz stützt sich auf eine abgeschlossene Phase-4-Studie sowie mehrere Kohortenstudien und Übersichtsarbeiten, die überwiegend retrospektiv sind. Randomisierte Phase-3-Studien liegen nicht vor.
+Methylprednisolon ist ein Glukokortikoid, das in der Schweiz in mehreren Präparaten für Injektion, Tabletten und Hautanwendung zugelassen ist. Die Vorhersage lautet, dass es bei Alopecia mucinosa (alopecia mucinosa) wirksam sein könnte. Dafür liegen keine klinischen Studien und keine Literatur vor; die Aussage beruht ausschliesslich auf einer Modellvorhersage.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -53,44 +53,19 @@ Methylprednisolon ist ein systemisch und lokal einsetzbares Glukokortikoid, das 
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
 | Anzahl Zulassungen | 7 (gültig: 7) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Methylprednisolon liegen in den zusammengestellten Daten keine Angaben vor. Als systemisches Glukokortikoid wirkt es allgemein entzündungshemmend und unterdrückt die Aktivierung von T-Zellen sowie die Bildung entzündungsfördernder Botenstoffe.
+Methylprednisolon ist ein systemisch wirksames Glukokortikoid mit breiter entzündungshemmender und immunsupprimierender Wirkung. Der ursprüngliche Wirkmechanismus ist in den vorliegenden Daten nicht erfasst; die folgende Einordnung stützt sich daher auf die allgemein bekannte Wirkung dieser Wirkstoffklasse.
 
-Alopecia areata ist eine T-Zell-vermittelte Autoimmunerkrankung, bei der das Haarfollikel seinen Immunprivileg-Schutz verliert. Eine Dämpfung der T-Zell-Aktivität passt daher biologisch zum Krankheitsgeschehen. Bei der Pulstherapie werden kurzzeitig hohe Dosen gegeben, um eine starke entzündungshemmende Wirkung zu erreichen und zugleich die kumulative Steroidbelastung zu begrenzen. Der sehr hohe TxGNN-Wert steht im Einklang mit dieser Biologie.
-
----
-
-## Klinische Studien
-
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Phase 4 | Abgeschlossen | 42 | Orale Mega-Puls-Therapie mit Methylprednisolon bei schwerer, therapieresistenter Alopecia areata. Ziel war es, mit höheren Dosen und häufigeren Pulsen zu prüfen, ob frühere Misserfolge der Pulstherapie auf zu niedrige Dosierung zurückgehen. Ergebnisse sind in den vorliegenden Daten nicht angegeben. |
+Kortikosteroide werden bei entzündlichen Erkrankungen der Haarfollikel empirisch eingesetzt. Alopecia mucinosa gehört in diesen Bereich, sodass ein biologisch nachvollziehbarer Zusammenhang besteht. Der hohe Vorhersagewert ist jedoch ein rein rechnerisches Ergebnis und kein klinischer Beleg. Für diese Indikation liegen keine Studien oder Publikationen vor.
 
 ---
 
-## Literaturbelege
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Übersichtsarbeit | Dermatology Practical & Conceptual | Übersicht zu Wirksamkeit, Rückfallraten, Nebenwirkungen und prognostischen Faktoren der Kortikosteroid-Pulstherapie bei Alopecia areata. |
-| [32270396](https://pubmed.ncbi.nlm.nih.gov/32270396/) | 2020 | Systematische Übersicht | Dermatology and Therapy | Ciclosporin mit und ohne systemische Kortikosteroide bei Alopecia areata; die Ergebnisse sind uneinheitlich. |
-| [8274789](https://pubmed.ncbi.nlm.nih.gov/8274789/) | 1993 | Kohorte | Dermatology | 9 Patienten mit frisch aufgetretener, schwerer Alopecia areata erhielten Methylprednisolon i.v. an 3 Tagen; bei 8 Patienten kam der laufende Krankheitsschub zum Stillstand. |
-| [27095016](https://pubmed.ncbi.nlm.nih.gov/27095016/) | 2016 | Kohorte | The Journal of Dermatology | Mehrfache Pulszyklen; die nötige Zahl der Zyklen für Wiederwachstum hing von Ausmass des Haarverlusts und Krankheitsdauer ab. |
-| [37224971](https://pubmed.ncbi.nlm.nih.gov/37224971/) | 2023 | Kohorte (retrospektiv) | Journal of the American Academy of Dermatology | Faktoren, die das Ansprechen auf ausschleichende orale Methylprednisolon-Therapie vorhersagen. |
-| [43031367](https://pubmed.ncbi.nlm.nih.gov/43031367/) | 2026 | Kohorte (retrospektiv) | The Journal of Dermatology | 72 Patienten mit i.v.-Pulstherapie: 54,2 % sprachen nach 6 Monaten an; kürzere Krankheitsdauer und frühe Behandlung waren mit besserem Ansprechen verbunden. |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Retrospektive Analyse | Dermatologic Therapy | 26 Patienten mit ausgedehnter Alopecia areata; Vergleich von Methylprednisolon allein mit der Kombination mit Methotrexat. |
-| [22426909](https://pubmed.ncbi.nlm.nih.gov/22426909/) | 2012 | Studie | Saudi Medical Journal | Wirksamkeit und Sicherheit einer intensiven oralen Mega-Puls-Therapie bei schwerer, therapieresistenter Alopecia areata. |
-| [25566921](https://pubmed.ncbi.nlm.nih.gov/25566921/) | 2015 | Studie | Indian Journal of Dermatology, Venereology and Leprology | i.v. Methylprednisolon-Pulstherapie bei schwerer, ausgedehnter und therapieresistenter Alopecia areata. |
-| [28378336](https://pubmed.ncbi.nlm.nih.gov/28378336/) | 2017 | Übersichtsarbeit | International Journal of Dermatology | Behandlung von Alopecia totalis und universalis; keine Therapie ist derzeit von der FDA zugelassen. |
-
----
-
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -104,25 +79,24 @@ Alopecia areata ist eine T-Zell-vermittelte Autoimmunerkrankung, bei der das Haa
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Die biologische Plausibilität ist hoch, und es gibt eine abgeschlossene Phase-4-Studie sowie mehrere Kohortenstudien zur Pulstherapie bei Alopecia areata. Randomisierte Phase-3-Studien fehlen jedoch, und die Studien sind überwiegend retrospektiv.
-- Die Sicherheitsdaten aus der Fachinformation liegen nicht vor, und eine Pulstherapie mit hohen Steroiddosen bringt ein relevantes Nebenwirkungsrisiko mit sich.
+- Für Alopecia mucinosa liegen weder klinische Studien noch Literatur vor. Der hohe Vorhersagewert (0,9999) stützt sich allein auf das Modell und reicht für eine klinische Entscheidung nicht aus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung von Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation
-- Ergebnisse der Phase-4-Studie NCT01167946 und, wenn möglich, kontrollierte Studien mit Vergleichsgruppe
-- Angaben zum Wirkmechanismus aus einer pharmakologischen Quelle
-- Klärung von Dosierung, Darreichungsweg und Nutzen-Risiko-Abwägung für die neue Indikation
+- Literaturrecherche zum Einsatz von Kortikosteroiden bei Alopecia mucinosa und verwandten entzündlichen Haarfollikelerkrankungen
+- Auswertung der Fachinformationen von Swissmedic (Warnhinweise und Kontraindikationen) für die Sicherheitsbewertung
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Prüfung, welche Darreichungsform (systemisch oder topisch) für diese Indikation infrage käme
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

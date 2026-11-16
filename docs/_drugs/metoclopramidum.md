@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 ### Zusammenfassung
 
-Metoclopramid ist in der Schweiz als Mittel gegen Übelkeit und Erbrechen im Handel. Die vorhandene Evidenz beschränkt sich auf indirekte Hinweise (Vorbereitung vor einer Endoskopie bei Blutungen im oberen Magen-Darm-Trakt, Studien zur Magenentleerung); das Evidenzniveau ist daher L5.
+Metoclopramid wirkt als Dopamin-D2-Antagonist und fördert die Magen-Darm-Beweglichkeit. Die Vorhersage lautet, dass es bei Gastroduodenitis (gastroduodenitis) nützlich sein könnte, vor allem gegen Beschwerden, die mit gestörter Magen-Zwölffingerdarm-Motilität zusammenhängen. Die Datenlage ist schwach: Es gibt keine registrierten klinischen Studien, und keine der gefundenen Arbeiten untersucht die Gastroduodenitis selbst.
 
 ---
 
@@ -59,35 +59,36 @@ Metoclopramid ist in der Schweiz als Mittel gegen Übelkeit und Erbrechen im Han
 
 ### Warum ist diese Vorhersage plausibel?
 
-Metoclopramid blockiert Dopamin-D2-Rezeptoren und wirkt zusätzlich als 5-HT4-Agonist. Dadurch steigert es die Magenentleerung und die Beweglichkeit des oberen Verdauungstrakts. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben aus der Arzneimittelinformation vor.
+Metoclopramid blockiert Dopamin-D2-Rezeptoren und wirkt zusätzlich als 5-HT4-Agonist. Dadurch verbessert es die Koordination zwischen Magenausgang (Antrum) und Zwölffingerdarm und beschleunigt die Magenentleerung. Die Angaben zum Wirkmechanismus stammen aus der Bewertung der Vorhersage; in den lokalen Stammdaten ist er nicht hinterlegt.
 
-Ein Magengeschwür entsteht vor allem durch Säure, Helicobacter pylori und eine geschwächte Schleimhautabwehr. Metoclopramid greift an keiner dieser Stellen an und heilt Geschwüre nicht. Plausibel ist allenfalls eine unterstützende Rolle: Bei Verdacht auf eine Geschwürblutung könnte es vor der Endoskopie Blut und Speisereste aus dem Magen entfernen und so die Sicht verbessern. Ebenso könnte es Begleitsymptome wie Übelkeit oder verzögerte Magenentleerung lindern.
+Bei Gastroduodenitis treten häufig Motilitätsstörungen und ein Rückfluss von Zwölffingerdarminhalt in den Magen auf. Ein Mittel, das die Magenentleerung und die Antroduodenal-Koordination fördert, könnte deshalb Beschwerden wie Übelkeit, Völlegefühl oder Erbrechen lindern.
 
-Der sehr hohe Vorhersagewert dürfte vor allem die Nähe zu anderen Magen-Darm-Erkrankungen widerspiegeln und ist nicht durch direkte klinische Daten zur Geschwürbehandlung gestützt. Eine Rattenstudie (PMID 3816940) zeigt zudem, dass Dopamin-Antagonisten, darunter Metoclopramid, Magenläsionen auslösen können. Das ist ein Warnsignal gegen eine krankheitsmodifizierende Wirkung.
+Der Zusammenhang ist jedoch indirekt. Die Literatur betrifft Motilität und dyspeptische Symptome, nicht die Behandlung der zugrunde liegenden Schleimhautentzündung. Der hohe TxGNN-Wert spiegelt eine Nähe im Datennetzwerk wider und ist kein klinischer Beleg.
 
 ---
 
 ### Klinische Studien
 
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT05746377](https://clinicaltrials.gov/study/NCT05746377) | Phase 4 | Unbekannt | 60 | Doppelblinde, randomisierte Studie: Soll prüfen, ob Metoclopramid vor der Endoskopie bei Blutungen im oberen Magen-Darm-Trakt die Zahl von Wiederholungsendoskopien, radiologischen Eingriffen oder Operationen senkt und die Sicht verbessert. Untersucht wird die Vorbereitung vor dem Eingriff, nicht die Geschwürbehandlung. Keine veröffentlichten Ergebnisse. |
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
-Keine der aufgeführten Publikationen untersucht Metoclopramid direkt bei der Behandlung des Magengeschwürs.
+Keine der Arbeiten untersucht Metoclopramid direkt bei Gastroduodenitis. Die Auswahl zeigt die relevantesten Publikationen zur Motilität.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [3816940](https://pubmed.ncbi.nlm.nih.gov/3816940/) | 1986 | Präklinisch (Tier) | European Journal of Pharmacology | Bei Ratten lösten Dopamin-Antagonisten, darunter Metoclopramid, Magenläsionen aus. |
-| [6659560](https://pubmed.ncbi.nlm.nih.gov/6659560/) | 1983 | Übersicht | Yale Journal of Biology and Medicine | Magenfunktionsstörungen bei Diabetes; seltener Ulkuskrankheit bei Diabetikern. |
-| [12825960](https://pubmed.ncbi.nlm.nih.gov/12825960/) | 2003 | Übersicht | Drugs | Diabetische Magenlähmung (Gastroparese) und ihre Behandlungsmöglichkeiten. |
-| [7215380](https://pubmed.ncbi.nlm.nih.gov/7215380/) | 1981 | Klinische Untersuchung | European Journal of Nuclear Medicine | Bei diabetischer Gastroenteropathie sprach die verzögerte Magenentleerung gut auf Metoclopramid an; bei Magenausgangsstenose nicht. |
-| [3970596](https://pubmed.ncbi.nlm.nih.gov/3970596/) | 1985 | Übersicht | Annals of Surgery | Spontane Gallereflux-Gastritis und -Ösophagitis bei 42 Patienten. |
-| [7017896](https://pubmed.ncbi.nlm.nih.gov/7017896/) | 1981 | Übersicht | Scandinavian Journal of Gastroenterology, Suppl. | Behandlung des duodenogastralen Refluxes; einige Wirkstoffe fördern die Magenentleerung. |
-| [15259526](https://pubmed.ncbi.nlm.nih.gov/15259526/) | 2004 | Übersicht | American Family Physician | Abklärung und Behandlung der funktionellen Dyspepsie ohne Geschwür. |
+| [38059896](https://pubmed.ncbi.nlm.nih.gov/38059896/) | 2024 | RCT | The American Journal of Gastroenterology | Doppelblinde Studie zur Wirksamkeit von intravenösem Metoclopramid für die endoskopische Magensicht bei aktiver oberer Magen-Darm-Blutung. |
+| [7886398](https://pubmed.ncbi.nlm.nih.gov/7886398/) | 1994 | Humanphysiologische Studie | Scandinavian Journal of Gastroenterology | Vergleich der Wirkung von Cisaprid und Metoclopramid auf die Antroduodenal-Motilität beim Menschen. |
+| [4996971](https://pubmed.ncbi.nlm.nih.gov/4996971/) | 1971 | Humanstudie | Gut | Bei 23 Personen verstärkte Metoclopramid die Antrumkontraktionen und koppelte die Zwölffingerdarmkontraktionen enger an diese. |
+| [7072665](https://pubmed.ncbi.nlm.nih.gov/7072665/) | 1982 | Fallserie | American Journal of Diseases of Children | Bei neun Kindern mit Magenstase oder ungeklärtem Erbrechen nahmen Häufigkeit und Stärke der Magen- und Zwölffingerdarmwellen zu; alle beobachteten klinischen Aspekte besserten sich. |
+| [3731974](https://pubmed.ncbi.nlm.nih.gov/3731974/) | 1986 | Humanstudie | Digestive Diseases and Sciences | Metoclopramid stellte die durch Dopamin verlangsamte Magenentleerung bei gesunden Freiwilligen wieder her. |
+| [6382574](https://pubmed.ncbi.nlm.nih.gov/6382574/) | 1984 | Übersicht | Scandinavian Journal of Gastroenterology | Dopaminantagonisten wie Metoclopramid steigern den Druck des unteren Speiseröhrenschliessmuskels und fördern die gastroduodenale Motilität. |
+| [7017896](https://pubmed.ncbi.nlm.nih.gov/7017896/) | 1981 | Übersicht | Scandinavian Journal of Gastroenterology | Therapeutische Aspekte des duodenogastrischen Rückflusses; einige Mittel wirken über eine beschleunigte Magenentleerung. |
+| [18321441](https://pubmed.ncbi.nlm.nih.gov/18321441/) | 2008 | Übersicht | Current Treatment Options in Gastroenterology | Überblick zu Übelkeit und Erbrechen und deren Behandlung. |
+| [3776267](https://pubmed.ncbi.nlm.nih.gov/3776267/) | 1986 | Übersicht | Zeitschrift für Gastroenterologie | Beschreibung der Antroduodenal-Koordination und ihrer zeitlichen Abläufe. |
+| [6146199](https://pubmed.ncbi.nlm.nih.gov/6146199/) | 1984 | Tiermodell | Scandinavian Journal of Gastroenterology | Vergleich prokinetischer Wirkstoffe, darunter Metoclopramid, auf die Antroduodenal-Koordination. |
 
 ---
 
@@ -106,8 +107,6 @@ Keine der aufgeführten Publikationen untersucht Metoclopramid direkt bei der Be
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
-Ergänzend zeigt eine Tierstudie (PMID 3816940), dass Dopamin-Antagonisten wie Metoclopramid Magenläsionen auslösen können. Bei einer Geschwürperforation wäre eine Anregung der Magen-Darm-Beweglichkeit zudem problematisch, da sie die Verunreinigung des Bauchraums verschlimmern könnte.
-
 ---
 
 ### Fazit und nächste Schritte
@@ -115,14 +114,13 @@ Ergänzend zeigt eine Tierstudie (PMID 3816940), dass Dopamin-Antagonisten wie M
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe Vorhersagewert wird durch keine direkte klinische Evidenz zur Behandlung des Magengeschwürs gestützt (Evidenzniveau L5). Der Wirkmechanismus heilt keine Geschwüre, und ein präklinisches Sicherheitssignal spricht dagegen.
-- Allenfalls denkbar ist eine unterstützende Rolle vor der Endoskopie bei Geschwürblutungen; hier fehlen belastbare Ergebnisse.
+- Es liegt keine Studie vor, die Gastroduodenitis direkt untersucht; die Evidenz bleibt auf Modellvorhersage und indirekte Motilitätsdaten beschränkt (L5).
+- Ein möglicher Nutzen betrifft eher die Symptome als die Schleimhautentzündung selbst.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ergebnisse der Studie NCT05746377 sowie der 2024 veröffentlichten Studien zu Metoclopramid vor der Endoskopie (PMID 38059896, PMID 38672796), um die Rolle bei Geschwürblutungen zu klären.
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen), die in den vorliegenden Daten fehlen.
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um die mechanistische Einordnung zu vervollständigen.
-- Eine klare Abgrenzung, ob nur eine unterstützende Anwendung (Endoskopievorbereitung, Symptomlinderung) oder eine Geschwürbehandlung angestrebt wird.
+- Kontrollierte klinische Studien zu Metoclopramid bei Gastroduodenitis, mit Symptomen und Schleimhautbefund als Endpunkten
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen), da die Sicherheitsprüfung sonst nicht möglich ist
+- Ergänzung der Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB08860
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
 last_modified_at: 2026-11-16
-description: "Pitavastatinum: vorhergesagte neue Indikation Cholesterol-ester transfer protein deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration"
+description: "Pitavastatinum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5)."
 ---
 
 # Pitavastatinum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Pitavastatinum: Cholesterol-ester transfer protein deficiency
+## Pitavastatinum: Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Pitavastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterinkonzentration zugelassen ist. Für die homozygote familiäre Hypercholesterinämie (homozygous familial hypercholesterolemia) wird eine mögliche Wirksamkeit vorhergesagt. Die Evidenz dafür ist sehr dünn: Es gibt keine registrierte klinische Studie und nur einen Fallbericht mit zwei Patienten zu einer verwandten, aber anderen Erkrankung.
+Pitavastatin ist ein Cholesterinsenker. Für den Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) liegt eine reine Modellvorhersage vor. Es wurden weder klinische Studien noch Publikationen gefunden, die diese Erkrankung direkt untersuchen. Die Evidenz ist daher minimal (L5).
 
 ---
 
@@ -50,7 +50,7 @@ Pitavastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterin
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Reduktion der Serumcholesterinkonzentration |
-| Vorhergesagte neue Indikation | Cholesterol-ester transfer protein deficiency |
+| Vorhergesagte neue Indikation | Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) |
 | TxGNN-Vorhersagewert | 0.9998 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -61,11 +61,11 @@ Pitavastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterin
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Pitavastatin gehört jedoch zur Klasse der Statine, die das Enzym HMG-CoA-Reduktase hemmen. Dadurch sinkt die Cholesterinbildung in der Leber, und die Leber bildet mehr LDL-Rezeptoren, die LDL-Cholesterin aus dem Blut aufnehmen.
+Pitavastatin gehört zu den Statinen und hemmt die HMG-CoA-Reduktase, ein Schlüsselenzym der Cholesterinbildung. Dadurch sinkt das LDL-Cholesterin. Die Angaben zum Wirkmechanismus in den zusammengestellten Daten sind unvollständig; die Einordnung beruht auf dem bekannten Arzneimittelklasseneffekt.
 
-Die homozygote familiäre Hypercholesterinämie ist eine schwere erbliche Störung mit extrem hohen LDL-Cholesterinwerten. Sie hängt mit dem Cholesterinstoffwechsel zusammen, den das Arzneimittel beeinflusst. Das erklärt, warum die Vorhersage inhaltlich nachvollziehbar ist.
+Der Cholesterinester-Transferprotein-Mangel ist eine genetische Störung des Fettstoffwechsels. Sie ist durch hohes HDL-Cholesterin und einen veränderten Umbau der Lipoproteine gekennzeichnet. Sie gilt nicht als Erkrankung, die auf Statine anspricht.
 
-Ein wesentlicher Vorbehalt: Der Nutzen hängt von einer Restaktivität der LDL-Rezeptoren ab. Bei Patienten ohne funktionsfähige Rezeptoren ist daher nur ein begrenztes Ansprechen zu erwarten. Der sehr hohe Vorhersagewert wird durch direkte klinische Daten nicht gestützt.
+Der hohe Vorhersagewert spiegelt wahrscheinlich gemeinsame Merkmale im Fettstoffwechsel wider und keine therapeutische Begründung. Ob eine LDL-Senkung bei dieser Patientengruppe einen klinischen Nutzen hätte, ist unklar.
 
 ---
 
@@ -77,16 +77,13 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Literaturbelege
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [39532566](https://pubmed.ncbi.nlm.nih.gov/39532566/) | 2025 | Fallbericht | Journal of Clinical Lipidology | Zwei Fälle von autosomal-rezessiver Hypercholesterinämie (LDLRAP1-Varianten), klinisch von der homozygoten familiären Hypercholesterinämie nicht unterscheidbar; die Überschrift berichtet ein rasches Ansprechen der Blutfette. Es handelt sich um eine verwandte, aber andere Erkrankung. |
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT (Phase 4) | The Lancet HIV | Pitavastatin gegenüber Pravastatin bei HIV-positiven Erwachsenen mit Dyslipidämie (INTREPID). Die Population hat keine homozygote familiäre Hypercholesterinämie. |
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein.
+Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -108,13 +105,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die homozygote familiäre Hypercholesterinämie gibt es weder eine registrierte klinische Studie noch eine Publikation, die diese Erkrankung direkt untersucht. Der hohe Vorhersagewert allein reicht nicht aus.
-- Wegen der erwartbar begrenzten Wirkung bei fehlender LDL-Rezeptor-Aktivität ist der Nutzen unsicher.
+- Es gibt keine Studien oder Publikationen zu dieser Erkrankung, und der Mechanismus spricht eher gegen einen therapeutischen Nutzen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten (Studien oder Fallserien) zu Pitavastatin bei genetisch gesicherter homozygoter familiärer Hypercholesterinämie, möglichst nach Genotyp getrennt
-- Angaben zum Wirkmechanismus aus verlässlichen Quellen
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
+- Hinweise aus präklinischen oder klinischen Untersuchungen, die einen Nutzen einer LDL-Senkung bei Cholesterinester-Transferprotein-Mangel belegen
+- Eine fachliche Prüfung, ob dieser Zustand überhaupt behandlungsbedürftig ist
+- Die vollständigen Sicherheitsangaben aus der Fachinformation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

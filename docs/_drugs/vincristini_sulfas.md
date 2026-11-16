@@ -9,7 +9,7 @@ drugbank_id: DB00541
 monitor_inn: "Vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 last_modified_at: 2026-11-16
-description: "Vincristini Sulfas: vorhergesagte neue Indikation Vertebral anomalies and variable endocrine and T-cell dysfunction (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
+description: "Vincristini Sulfas: vorhergesagte neue Indikation Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) (Evidenzstufe L5)."
 ---
 
 # Vincristini Sulfas
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Vincristini Sulfas: Vertebral anomalies and variable endocrine and T-cell dysfunction
+## Vincristini Sulfas: Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Vincristinsulfat ist ein Zytostatikum, das in der Schweiz als Injektionslösung im Handel ist. Für das Ganglioneuroblastom (ganglioneuroblastoma), einen Nervenzelltumor aus der Neuroblastom-Familie, sagt das Modell eine mögliche Wirksamkeit voraus. Die Evidenz besteht ausschliesslich aus Fallberichten und einer nicht direkt zum Arzneimittel passenden Studie. Zudem liegen keine registrierten klinischen Studien vor. Das Evidenzniveau ist daher L5.
+Vincristinsulfat ist in der Schweiz als Zytostatikum zugelassen. Für die Hauptvorhersage, vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction), liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur; die Vorhersage beruht allein auf einem Rechenmodell.
 
 ---
 
@@ -48,41 +50,32 @@ Vincristinsulfat ist ein Zytostatikum, das in der Schweiz als Injektionslösung 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Zytostatikum |
-| Vorhergesagte neue Indikation | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| Vorhergesagte neue Indikation | Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) |
 | TxGNN-Vorhersagewert | 0.9924 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 1) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Vincristin ist ein Vinca-Alkaloid. Es bindet an Tubulin und hemmt die Bildung der Mikrotubuli. Dadurch werden sich schnell teilende Zellen in der Mitose blockiert. Die Angaben zum Wirkmechanismus in den Rohdaten fehlen allerdings; diese Beschreibung beruht auf der mechanistischen Begründung zur Vorhersage.
+Der Wirkmechanismus von Vincristin ist in den vorliegenden Daten nicht erfasst. Allgemein bekannt ist, dass Vinca-Alkaloide die Mikrotubuli-Bildung hemmen und so die Zellteilung stoppen. Dies erklärt die Anwendung bei Tumorerkrankungen.
 
-Das Ganglioneuroblastom ist ein Tumor mittleren Malignitätsgrades aus der Familie der Neuroblastome. Vincristin gehört dort zu etablierten Mehrfach-Chemotherapien, etwa zusammen mit Cyclophosphamid, Doxorubicin und Platinverbindungen. Die Anwendung liegt damit nah an der bereits bekannten Zytostatika-Anwendung. Es handelt sich eher um eine Erweiterung im selben Bereich als um eine echte Umwidmung.
-
-Wichtig: Der Beitrag von Vincristin allein lässt sich aus den vorliegenden Berichten nicht abgrenzen, da es stets in Kombination gegeben wurde.
+Die vorhergesagte Erkrankung ist ein äusserst seltenes Syndrom mit entwicklungsbedingter und immunologischer Grundlage. Aus den verfügbaren Daten lässt sich keine nachvollziehbare Verbindung zur antimitotischen Wirkung von Vincristin ableiten. Der hohe Vorhersagewert ist daher ein rein rechnerisches Ergebnis. Eine mechanistische Begründung ist derzeit nicht möglich.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [8255850](https://pubmed.ncbi.nlm.nih.gov/8255850/) | 1993 | Fallbericht | Postgraduate Medical Journal | Spinales Ganglioneuroblastom, nicht operabel; vollständige Remission unter Chemotherapie mit Doxorubicin, Vincristin, Cyclophosphamid, Etoposid, Ifosfamid und Cisplatin |
-| [15701990](https://pubmed.ncbi.nlm.nih.gov/15701990/) | 2005 | Fallbericht | Journal of Pediatric Hematology/Oncology | Ganglioneuroblastom mit Gallestau als Erstsymptom; Chemotherapie mit Cisplatin, Pirarubicin/Doxorubicin, Cyclophosphamid und Vincristin |
-| [7421294](https://pubmed.ncbi.nlm.nih.gov/7421294/) | 1980 | Fallserie (als Fallbericht eingestuft) | Journal of Thoracic and Cardiovascular Surgery | 31 Patienten mit intrathorakalem Ganglioneuroblastom; Behandlung mit Resektion, Bestrahlung oder Chemotherapie; 27 von 31 überlebten |
-| [3071124](https://pubmed.ncbi.nlm.nih.gov/3071124/) | 1988 | Fallbericht | Hinyokika Kiyo | Erwachsenes Nebennieren-Ganglioneuroblastom mit grosser Lymphknotenmetastase; multimodale Behandlung |
-| [8888754](https://pubmed.ncbi.nlm.nih.gov/8888754/) | 1996 | Fallbericht | Journal of Pediatric Hematology/Oncology | Säugling mit multifokalem Ganglioneuroblastom Stadium 4 und Magenbeteiligung |
-| [31342649](https://pubmed.ncbi.nlm.nih.gov/31342649/) | 2019 | Prospektive klinische Studie (nicht randomisiert) | Pediatric Blood & Cancer | Studie zu bildbasierten Risikofaktoren für Operationsentscheidungen bei Neuroblastom niedrigen Risikos; keine Prüfung von Vincristin |
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -100,10 +93,10 @@ Derzeit keine verwandten klinischen Studien registriert
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Konventionell zytotoxisch |
-| Myelosuppressionsrisiko | Niedrig bis mittel (nicht in den Daten belegt, allgemeine Einschätzung) |
-| Emetogenitätsklassifikation | Niedrig (allgemeine Einschätzung) |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, neurologische Kontrollen |
-| Handhabungsschutz | Ja, Schutzmassnahmen für Zytostatika erforderlich |
+| Myelosuppressionsrisiko | Niedrig bis mittel |
+| Emetogenitätsklassifikation | Niedrig |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, neurologische Kontrolle |
+| Handhabungsschutz | Ja, spezielle Schutzmassnahmen für Zytostatika erforderlich (Zubereitung durch geschultes Personal, Schutzausrüstung). Nur intravenös anwenden; intrathekale Gabe ist lebensgefährlich. |
 
 ---
 
@@ -115,16 +108,16 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus passt zur Chemotherapie neuroblastischer Tumoren. Es gibt jedoch keine registrierten klinischen Studien, und die Literatur besteht aus Fallberichten mit Kombinationstherapien. Keine Publikation prüft Vincristin direkt beim Ganglioneuroblastom, daher gilt Evidenzniveau L5.
+- Für die Hauptvorhersage existieren weder Studien noch Publikationen, und ein plausibler Wirkmechanismus ist nicht erkennbar. Die Evidenz beschränkt sich auf eine Modellvorhersage (L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen fehlen derzeit in den Daten)
-- Ergänzung der Angaben zum Wirkmechanismus
-- Prüfung aktueller Leitlinien und Studien zu neuroblastischen Tumoren, in denen Vincristin Teil der Standardtherapie ist
-- Bewertung durch Fachpersonen der pädiatrischen Onkologie
+- Ergänzung des Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
+- Prüfung, ob zwischen Vincristin und dem vorhergesagten Syndrom ein biologischer Zusammenhang besteht
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen), da die Sicherheitsdaten derzeit fehlen
+- Präklinische oder klinische Daten zur vorhergesagten Erkrankung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB00967
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 last_modified_at: 2026-11-16
-description: "Desloratadinum: vorhergesagte neue Indikation Nasal cavity disease (Evidenzstufe L5). Ursprüngliche Indikation: Antihistaminikum"
+description: "Desloratadinum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antihistaminikum"
 ---
 
 # Desloratadinum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Desloratadinum: Nasal cavity disease
+## Desloratadinum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Desloratadin ist in der Schweiz als Antihistaminikum zugelassen. Für diese Vorhersage liegen in den zusammengestellten Daten weder klinische Studien noch Publikationen vor; sie beruht allein auf der Modellvorhersage und mechanistischen Überlegungen.
+Desloratadin ist in der Schweiz als Antihistaminikum zugelassen. Für die vorhergesagte neue Indikation «Erkrankung der Nasenhöhle (nasal cavity disease)» liegt ein hoher TxGNN-Vorhersagewert vor. Es sind jedoch weder klinische Studien noch Literatur in den zusammengestellten Daten vorhanden. Die Evidenz beschränkt sich daher auf die Modellvorhersage (L5).
 
 ---
 
@@ -48,7 +48,7 @@ Desloratadin ist in der Schweiz als Antihistaminikum zugelassen. Für diese Vorh
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antihistaminikum; Antihistaminika - H1 Antagonist |
-| Vorhergesagte neue Indikation | Nasal cavity disease |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9987 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
@@ -59,15 +59,29 @@ Desloratadin ist in der Schweiz als Antihistaminikum zugelassen. Für diese Vorh
 
 ### Warum ist diese Vorhersage plausibel?
 
-Desloratadin ist ein selektiver, peripherer Antagonist am H1-Rezeptor. Er blockiert die Wirkung von Histamin an den Zielgeweben, ohne nennenswert anticholinerge Effekte. Detaillierte Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor; die Beschreibung stützt sich auf bekanntes pharmakologisches Wissen.
+Desloratadin ist ein selektiver, peripher wirkender Antagonist am Histamin-H1-Rezeptor und der aktive Metabolit von Loratadin. Der Wirkmechanismus ist in den zusammengestellten Daten nicht hinterlegt; die Angabe beruht auf allgemeinem pharmakologischem Wissen.
 
-Die Kälteurtikaria gehört zu den chronisch induzierbaren Urtikariaformen und wird wesentlich durch Histamin aus Mastzellen vermittelt. Eine H1-Blockade ist daher mechanistisch naheliegend. Antihistaminika der zweiten Generation gelten in Leitlinien als erste Wahl bei induzierbarer Urtikaria, was zum hohen Vorhersagewert passt.
+Histamin spielt in der Nasenschleimhaut eine zentrale Rolle bei Niesen, Juckreiz, Schnupfen und Schwellung. Die Blockade der H1-Rezeptoren kann diese Beschwerden plausibel lindern. Das passt zum hohen Vorhersagewert.
 
-Diese Einschätzung beruht nicht auf den mitgelieferten Daten, sondern auf bestehendem Vorwissen. In der Praxis ist bei dieser Form oft eine höhere Dosierung nötig, was in einem Studiendesign berücksichtigt werden müsste.
+Die Vorhersage könnte allerdings eher eine bereits bekannte Anwendung abbilden als eine echte Umwidmung. Das lässt sich anhand der vorliegenden Daten nicht bestätigen. Zudem ist «Erkrankung der Nasenhöhle» eine sehr breite Kategorie. Sie müsste vor einer Evidenzbewertung auf eine konkrete Erkrankung eingegrenzt werden, etwa auf allergische oder saisonale Rhinitis.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
+
+Alle sieben erfassten Zulassungen sind gültig und betreffen Präparate mit Desloratadin als einzigem Wirkstoff.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -92,12 +106,15 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen, sodass eine Sicherheitsbeurteilung noch nicht möglich ist.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell; es gibt weder klinische Studien noch Publikationen zu dieser Erkrankung (Evidenzniveau L5).
+- Die Zielerkrankung ist zu unspezifisch, und die Sicherheitsdaten aus der Fachinformation fehlen bislang.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Systematische Literatur- und Studienrecherche zu Desloratadin bei Kälteurtikaria, auch zu höheren Dosierungen
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eingrenzung der «Erkrankung der Nasenhöhle» auf eine konkrete Diagnose (z. B. allergische oder saisonale Rhinitis).
+- Prüfung, ob die Anwendung bereits durch die Fachinformation abgedeckt ist oder eine echte Erweiterung darstellt.
+- Recherche klinischer Studien und Literatur zur eingegrenzten Erkrankung.
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
+- Ergänzung der Angaben zum Wirkmechanismus aus einer geeigneten Quelle (z. B. DrugBank).
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Dasatinibum: Ewing-Sarkom (Ewing sarcoma)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Dasatinib ist ein oraler Multi-Kinase-Hemmer, der in der Schweiz im Handel ist. Für das ursprüngliche Anwendungsgebiet verweisen wir auf die Kurzübersicht. Die Vorhersage nennt als neue Indikation das Ewing-Sarkom (Ewing sarcoma). Dafür liegt ausschliesslich eine Modellvorhersage vor, es sind keine klinischen Studien und keine Literatur hinterlegt (Evidenzniveau L5).
+Dasatinib ist in der Schweiz als Onkologikum (Multi-Kinase-Hemmer) im Handel. Für das Ewing-Sarkom (Ewing sarcoma) liegt eine rein rechnerische Vorhersage vor. Es gibt dazu weder registrierte klinische Studien noch Literatur in den für diesen Bericht zusammengestellten Daten, das Evidenzniveau ist daher L5.
 
 ---
 
@@ -61,17 +59,17 @@ Dasatinib ist ein oraler Multi-Kinase-Hemmer, der in der Schweiz im Handel ist. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dasatinib hemmt mehrere Tyrosinkinasen, darunter Kinasen der SRC-Familie, PDGFR und KIT. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Die genannten Zielstrukturen stammen aus der mechanistischen Einschätzung zur Vorhersage.
+In den für diesen Bericht zusammengestellten Daten ist kein Wirkmechanismus hinterlegt. Die folgenden Angaben stammen aus allgemeinem pharmakologischem Wissen und nicht aus den vorliegenden Daten.
 
-Diese Kinasen könnten an Signalwegen des Ewing-Sarkoms beteiligt sein. Dasatinib wirkt jedoch nicht direkt auf den eigentlichen Treiber des Tumors, das Fusionsprotein EWS-FLI1. Der Zusammenhang ist daher indirekt und bisher nicht belegt.
+Dasatinib hemmt mehrere Kinasen, darunter Kinasen der SRC-Familie, PDGFRB, c-KIT und EphA2. Diese Signalwege werden mit dem Wachstum des Ewing-Sarkoms in Verbindung gebracht. Daraus lässt sich eine biologisch denkbare Hypothese ableiten.
 
-Der hohe Vorhersagewert beruht allein auf einer Berechnung. Ohne Studien oder Publikationen lässt sich nicht beurteilen, ob der Mechanismus beim Ewing-Sarkom klinisch relevant ist.
+Der hohe Vorhersagewert (0,9990) ist ein rechnerisches Ergebnis. Er ersetzt keine klinischen oder präklinischen Belege. Bisher fehlen Daten, die diese Hypothese für das Ewing-Sarkom stützen.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 3 Zulassungen erfasst, alle gültig).
+Die Liste ist möglicherweise unvollständig: Es sind mindestens 3 Zulassungen bekannt.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -85,10 +83,9 @@ Die Liste ist möglicherweise unvollständig (mindestens 3 Zulassungen erfasst, 
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Kinasehemmer) |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Multi-Kinase-Hemmer) |
+| Myelosuppressionsrisiko | Hoch (aus allgemeinem Fachwissen, nicht aus den vorliegenden Daten) |
 | Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-
-Angaben zu Myelosuppressionsrisiko, Emetogenität und Handhabungsschutz liegen in den zusammengestellten Daten nicht vor; bitte der Fachinformation entnehmen.
 
 ---
 
@@ -103,13 +100,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für das Ewing-Sarkom liegen weder klinische Studien noch Literatur vor, die Vorhersage ist rein rechnerisch (L5). Dasatinib greift zudem den Haupttreiber EWS-FLI1 nicht direkt an.
+- Für das Ewing-Sarkom stützt sich die Einschätzung nur auf eine Modellvorhersage. Klinische Studien und Literatur fehlen, und es ist kein Wirkmechanismus aus den Daten belegt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Recherche nach klinischen Studien und Publikationen zu Dasatinib beim Ewing-Sarkom
-- Präklinische Daten, die eine Wirkung auf SRC-/PDGFR-abhängige Signalwege im Ewing-Sarkom belegen
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen) von Swissmedic
+- Literaturrecherche zu Dasatinib beim Ewing-Sarkom (präklinische und klinische Daten)
+- Prüfung auf laufende oder abgeschlossene klinische Studien
 - Ergänzung des Wirkmechanismus aus DrugBank
+- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen)
+- Bewertung des Nutzen-Risiko-Verhältnisses, insbesondere der Myelosuppression, in der Zielpopulation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

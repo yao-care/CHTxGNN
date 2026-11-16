@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 ## Colchicinum: Plasmodium-falciparum-Malaria (Plasmodium falciparum malaria)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Colchicinum ist ein Mikrotubuli-hemmender Wirkstoff, der in der Schweiz als Tablette im Handel ist. Die höchste Vorhersage des Modells betrifft die Plasmodium-falciparum-Malaria (Plasmodium falciparum malaria). Es liegen weder klinische Studien noch Studien zur Malaria-Wirksamkeit von Colchicin vor, die Vorhersage beruht allein auf einer Modellberechnung (Evidenzniveau L5).
+Colchicin ist in der Schweiz als Tablette im Handel. Für die Vorhersage zu Plasmodium-falciparum-Malaria (Plasmodium falciparum malaria) liegt nur eine rechnerische Einschätzung mit sehr hohem Vorhersagewert vor. Die Evidenz ist schwach: Es gibt keine klinischen Studien und keine Publikation, die Colchicin direkt bei dieser Erkrankung untersucht. Das Evidenzniveau ist daher L5.
 
 ---
 
@@ -61,17 +59,17 @@ Colchicinum ist ein Mikrotubuli-hemmender Wirkstoff, der in der Schweiz als Tabl
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Colchicinum sind in den zusammengestellten Daten keine Angaben hinterlegt. Bekannt ist allgemein, dass Colchicin an Tubulin bindet und die Bildung von Mikrotubuli hemmt.
+Colchicin bindet an Tubulin und hemmt die Bildung von Mikrotubuli. Zur genauen Wirkungsbeschreibung liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Mikrotubuli sind auch für den Malaria-Erreger Plasmodium falciparum wichtig. Eine vorliegende Laborstudie zeigt, dass Curcumin (nicht Colchicin) die Mikrotubuli des Parasiten stört. Das spricht dafür, dass Tubulin im Parasiten angreifbar sein könnte. Ein direkter Beleg für Colchicin fehlt jedoch.
+Malariaparasiten sind in ihrem Lebenszyklus auf tubulinabhängige Strukturen angewiesen, etwa die Teilungsspindel und die Mikrotubuli unter der Zellmembran. Ein Wirkstoff, der Tubulin angreift, ist deshalb biologisch denkbar.
 
-Die zweite Arbeit untersucht das Gen pfmdr1 in Säugetierzellen und die Empfindlichkeit gegenüber Chloroquin. Sie betrifft Resistenzmechanismen und Transportproteine, nicht die Wirksamkeit von Colchicin gegen Malaria. Zudem hat Colchicin eine geringe therapeutische Breite; Konzentrationen, die Parasiten schädigen, könnten für den Menschen giftig sein. Der hohe Vorhersagewert ist eine reine Computerberechnung.
+Die vorliegende Literatur stützt dies nur indirekt. Eine Arbeit von 1994 beschreibt, dass die Expression des Parasitengens pfmdr1 in Säugetierzellen die Empfindlichkeit gegenüber Chloroquin und weiteren Substanzen verändert. Dabei geht es um einen Ausscheidungsmechanismus der Zellen, nicht um eine antimalarielle Wirkung von Colchicin. Eine Arbeit von 2013 zeigt, dass Curcumin die Mikrotubuli von P. falciparum stört. Das ist ein anderer Wirkstoff und belegt nur, dass Mikrotubuli ein mögliches Angriffsziel sind.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -79,8 +77,8 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Präklinisch/in vitro | PloS one | Curcumin (nicht Colchicin) stört die Mikrotubuli von P. falciparum; stützt Tubulin als möglichen Angriffspunkt. |
-| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Präklinisch/in vitro | Molecular and cellular biology | Das Parasitengen pfmdr1 in Säugetierzellen erhöht die Chloroquin-Empfindlichkeit; betrifft Resistenzmechanismen, kein Beleg für eine Colchicin-Wirkung. |
+| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Präklinisch (Zellstudie) | Molecular and cellular biology | Die Expression des Parasitengens pfmdr1 in Säugetierzellen ging mit erhöhter Chloroquin-Empfindlichkeit einher. Kein Wirksamkeitsnachweis für Colchicin. |
+| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Präklinisch (Laborstudie, anderer Wirkstoff) | PloS one | Curcumin stört die Mikrotubuli von P. falciparum. Stützt Mikrotubuli nur als mögliches Ziel. |
 
 ---
 
@@ -92,24 +90,18 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Malaria-Vorhersage gibt es keine Studie, die Colchicin direkt untersucht; das Evidenzniveau ist L5. Die geringe therapeutische Breite von Colchicin ist zusätzlich ein erhebliches Hindernis.
+- Der hohe Vorhersagewert beruht allein auf einem Modell. Es gibt weder klinische noch Tierdaten zu Colchicin bei Malaria, und die vorhandene Literatur ist nur indirekt.
+- Colchicin hat eine geringe therapeutische Breite, und bei antiparasitär wirksamen Konzentrationen ist mit Toxizität für den Menschen zu rechnen. Wirksame, etablierte Malariamittel stehen bereits zur Verfügung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Laborversuche zur Wirkung von Colchicin auf P. falciparum, einschliesslich Vergleich der wirksamen mit den für den Menschen verträglichen Konzentrationen
+- Laborstudien zur Wirkung von Colchicin auf P. falciparum, inklusive Abgleich der wirksamen Konzentrationen mit verträglichen Dosen beim Menschen
+- Sicherheitsinformationen aus der Fachinformation (Warnhinweise und Kontraindikationen liegen derzeit nicht vor)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Bei positiven Laborergebnissen: Prüfung der Verträglichkeit und Dosierung vor jeder klinischen Planung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

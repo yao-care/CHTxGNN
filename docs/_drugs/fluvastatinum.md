@@ -9,7 +9,7 @@ drugbank_id: DB01095
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "fibroma of prostate"]
 last_modified_at: 2026-11-16
-description: "Fluvastatinum: vorhergesagte neue Indikation HIV infectious disease (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration…"
+description: "Fluvastatinum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration…"
 ---
 
 # Fluvastatinum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Fluvastatinum: HIV infectious disease
+## Fluvastatinum: HIV-Infektionskrankheit (HIV infectious disease)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Fluvastatin ist ein Statin, das in der Schweiz zur Senkung erhöhter Blutfette zugelassen ist. Als neue Indikation wird Hyperlipoproteinämie (hyperlipoproteinemia) vorhergesagt. Es liegen Studien mit Fluvastatin bei verwandten Fettstoffwechselstörungen vor, aber keine, die genau diese Erkrankung untersucht; die Evidenz wird daher nur als Modellvorhersage (L5) eingestuft.
+Fluvastatin ist ein Statin, das zur Senkung erhöhter Blutfettwerte eingesetzt wird. Für die Behandlung der HIV-Infektionskrankheit (HIV infectious disease) wurde es als neue Indikation vorhergesagt. Die vorliegenden Studien betreffen jedoch vor allem HIV-assoziierte Fettstoffwechselstörungen und unterstützende Wirkungen. Keine davon untersucht eine direkte antivirale Wirkung, daher ist die Evidenz für die Vorhersage als Modellvorhersage (L5) einzustufen.
 
 ---
 
@@ -50,7 +50,7 @@ Fluvastatin ist ein Statin, das in der Schweiz zur Senkung erhöhter Blutfette z
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Reduktion der Serumcholesterinkonzentration, primäre gemischte Dyslipidämie |
-| Vorhergesagte neue Indikation | HIV infectious disease |
+| Vorhergesagte neue Indikation | HIV-Infektionskrankheit (HIV infectious disease) |
 | TxGNN-Vorhersagewert | 0.9988 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,38 +61,30 @@ Fluvastatin ist ein Statin, das in der Schweiz zur Senkung erhöhter Blutfette z
 
 ### Warum ist diese Vorhersage plausibel?
 
-Fluvastatin hemmt das Enzym HMG-CoA-Reduktase. Dadurch sinkt die Cholesterinbildung in der Leber, und die Zahl der LDL-Rezeptoren auf den Leberzellen steigt. Das Blut wird so stärker von LDL-Cholesterin befreit. Dieser Wirkmechanismus ist in den vorliegenden Daten nur als Begründung der Vorhersage beschrieben; ein separater Mechanismuseintrag fehlt.
+Zum Wirkmechanismus von Fluvastatin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Statins das Enzym HMG-CoA-Reduktase hemmen und so die Cholesterinbildung senken.
 
-Hyperlipoproteinämie bezeichnet erhöhte Blutfettwerte im Lipoproteinbereich. Das ist genau das Zielfeld eines Statins, weshalb die Vorhersage sachlich nachvollziehbar ist. Man sollte sie eher als Nähe zum bekannten Einsatzgebiet verstehen, weniger als echte Neuentdeckung.
+Bei HIV-Patienten treten unter Proteasehemmern häufig Fettstoffwechselstörungen auf. Fluvastatin wurde in diesem Zusammenhang untersucht. Es wird hauptsächlich über CYP2C9 und nicht über CYP3A4 abgebaut und hat deshalb ein geringeres Wechselwirkungsrisiko mit Proteasehemmern als andere Statine.
 
-Der hohe Vorhersagewert allein ersetzt keine Studien. Für eine höhere Evidenzstufe müsste mindestens eine Studie vorliegen, die Hyperlipoproteinämie als Erkrankung direkt mit Fluvastatin untersucht.
-
----
-
-### Klinische Studien
-
-Die einzige zu dieser Vorhersage gefundene Studie prüft nicht Fluvastatin, sondern einen anderen Wirkstoff.
-
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Abgeschlossen | 18 | Offene Studie mit Alirocumab (PCSK9-Antikörper) bei Kindern und Jugendlichen (8–17 Jahre) mit homozygoter familiärer Hypercholesterinämie; Ziel ist die LDL-C-Senkung nach 12 Wochen. Kein Fluvastatin, daher kein direkter Beleg. |
+Weitere Hinweise betreffen entzündungshemmende und immunmodulierende Effekte der Statine. Diese könnten als Zusatztherapie bei HIV/HCV-Koinfektion oder beim Schutz der Niere (im Mausmodell der HIV-assoziierten Nephropathie) eine Rolle spielen. Ein direkter antiviraler Effekt gegen HIV ist aus den Daten nicht belegt. Die Einordnung beruht zudem auf Titeln und kurzen Abstracts; Studiendesign und Phase konnten nicht überprüft werden.
 
 ---
 
 ### Literaturbelege
 
-Die Publikationen betreffen überwiegend familiäre und andere Hypercholesterinämien. Sie sind verwandt, untersuchen aber die vorhergesagte Erkrankung nicht unmittelbar.
+Keine der Publikationen untersucht Fluvastatin als direkte HIV-Therapie. Sie betreffen HIV-assoziierte Fettstoffwechselstörungen, Wechselwirkungen und unterstützende Anwendungen.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | RCT | Acta Paediatrica | Wirksamkeit und Sicherheit von Fluvastatin bei Kindern und Jugendlichen mit heterozygoter familiärer Hypercholesterinämie. |
-| [7604809](https://pubmed.ncbi.nlm.nih.gov/7604809/) | 1995 | Klinische Studie (doppelblind, placebokontrolliert) | The American Journal of Cardiology | Fluvastatin bei Dyslipoproteinämie, mit und ohne chronische Niereninsuffizienz. |
-| [7604807](https://pubmed.ncbi.nlm.nih.gov/7604807/) | 1995 | Klinische Studie | The American Journal of Cardiology | Dreifachtherapie (Fluvastatin, Bezafibrat, Cholestyramin) bei schwerer familiärer Hypercholesterinämie, 22 Patienten, 60 Wochen. |
-| [7604804](https://pubmed.ncbi.nlm.nih.gov/7604804/) | 1995 | Klinische Studie | The American Journal of Cardiology | Langzeitanwendung von hochdosiertem Fluvastatin allein oder mit Bezafibrat bei schwerer familiärer Hypercholesterinämie. |
-| [7604794](https://pubmed.ncbi.nlm.nih.gov/7604794/) | 1995 | Klinische Studie | The American Journal of Cardiology | Einjahresstudie bei japanischen Patienten mit Hypercholesterinämie (296 ausgewertet); Wirksamkeit und Sicherheit von Fluvastatin. |
-| [7604797](https://pubmed.ncbi.nlm.nih.gov/7604797/) | 1995 | Klinische Studie | The American Journal of Cardiology | Langzeitwirkung von Fluvastatin über 104 Wochen bei 24 Patienten mit familiärer Hypercholesterinämie. |
-| [7604803](https://pubmed.ncbi.nlm.nih.gov/7604803/) | 1995 | Auswertung einer Studiendatenbank | The American Journal of Cardiology | Explorative Analyse randomisierter Studien zu Fluvastatin bei schwerer Hypercholesterinämie. |
-| [11347136](https://pubmed.ncbi.nlm.nih.gov/11347136/) | 2001 | Übersichtsarbeit | Nihon Rinsho | Übersicht zu Fluvastatin. |
+| [16868453](https://pubmed.ncbi.nlm.nih.gov/16868453/) | 2006 | Randomisierte Studie (20 Patienten) | AIDS | Ezetimib senkte LDL-Cholesterin bei HIV-Patienten um 20 %, vergleichbar mit Fluvastatin 80 mg (24 %). |
+| [12351967](https://pubmed.ncbi.nlm.nih.gov/12351967/) | 2002 | Klinische Studie (Design nicht bestätigt) | AIDS | Wirksamkeit und Sicherheit von Fluvastatin bei Patienten mit Hyperlipidämie unter Proteasehemmern; kein Abstract verfügbar. |
+| [15293079](https://pubmed.ncbi.nlm.nih.gov/15293079/) | 2004 | Klinische Studie (Design nicht bestätigt) | Infection | Vergleich von Fluvastatin und Pravastatin bei HIV-Patienten unter antiretroviraler Therapie, inklusive Wechselwirkung mit Indinavir. |
+| [20118492](https://pubmed.ncbi.nlm.nih.gov/20118492/) | 2010 | Offene randomisierte Studie | Journal of Antimicrobial Chemotherapy | Fluvastatin als Zusatz zu pegyliertem Interferon und Ribavirin bei HIV/HCV-Genotyp-1-Koinfektion. |
+| [19215577](https://pubmed.ncbi.nlm.nih.gov/19215577/) | 2009 | Pilotstudie | Journal of Viral Hepatitis | Untersuchung, ob Fluvastatin die HCV-Vermehrung bei HIV/HCV-Koinfizierten beeinflusst. |
+| [19838098](https://pubmed.ncbi.nlm.nih.gov/19838098/) | 2010 | RCT | AIDS | Rosuvastatin gegen Pravastatin bei HIV-Patienten unter Proteasehemmern (nicht Fluvastatin, indirekt). |
+| [19188342](https://pubmed.ncbi.nlm.nih.gov/19188342/) | 2009 | Präklinisch (Maus) | Nephrology Dialysis Transplantation | Fluvastatin verhinderte Podozytenschäden im Mausmodell der HIV-assoziierten Nephropathie. |
+| [23703578](https://pubmed.ncbi.nlm.nih.gov/23703578/) | 2013 | Übersichtsarbeit | Clinical Pharmacokinetics | Wechselwirkungen zwischen Statinen und antiviralen Proteasehemmern. |
+| [12660532](https://pubmed.ncbi.nlm.nih.gov/12660532/) | 2003 | Übersichtsarbeit | AIDS | Statine und Fibrate bei Hyperlipidämie unter hochaktiver antiretroviraler Therapie. |
+| [33238713](https://pubmed.ncbi.nlm.nih.gov/33238713/) | 2021 | Studie zu Statinen allgemein | AIDS Research and Human Retroviruses | Zusammenhang zwischen Statineinnahme und Entzündungs- bzw. Immunaktivierungsmarkern bei HIV-Infizierten unter wirksamer Therapie. |
 
 ---
 
@@ -105,24 +97,18 @@ Die Publikationen betreffen überwiegend familiäre und andere Hypercholesterin�
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine der gefundenen Studien untersucht Hyperlipoproteinämie direkt mit Fluvastatin; die Evidenz bleibt daher bei einer Modellvorhersage (L5).
-- Die Sicherheitsdaten aus der Fachinformation fehlen bislang, sodass keine Sicherheitsbewertung möglich ist.
+- Die vorhandenen Studien zeigen eine Anwendung bei HIV-assoziierter Fettstoffwechselstörung und möglichen unterstützenden Rollen, aber keinen direkten antiviralen Nutzen gegen HIV. Es liegt keine Studie vor, die die vorhergesagte Indikation selbst untersucht, daher bleibt es bei L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (PDF herunterladen und auswerten).
-- Eintrag zum Wirkmechanismus aus DrugBank.
-- Studien oder Auswertungen, die Fluvastatin gezielt bei Hyperlipoproteinämie untersuchen.
+- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen (Sicherheitsprüfung derzeit nicht möglich)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Prüfung von Design und Phase der genannten Studien anhand der Volltexte
+- Klärung, ob ein antiviraler oder immunmodulierender Nutzen bei HIV überhaupt untersucht werden soll, oder ob die Anwendung auf Fettstoffwechselstörungen beschränkt bleibt
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

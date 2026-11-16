@@ -30,11 +30,11 @@ Vorhersagen zur Arzneimittel-Repositionierung fuer Switzerland Swissmedic-zugela
 
 | Evidenzstufe | Berichtsanzahl | Beschreibung |
 |---------|-------|------|
-| **L1** | 9 | Mehrere Phase-3-RCTs |
-| **L2** | 11 | Einzelne RCT oder mehrere Phase-2-Studien |
-| **L3** | 23 | Beobachtungsstudien |
-| **L4** | 17 | Praeklinische / mechanistische Studien |
-| **L5** | 565 | Nur computationale Vorhersage |
+| **L1** | 6 | Mehrere Phase-3-RCTs |
+| **L2** | 17 | Einzelne RCT oder mehrere Phase-2-Studien |
+| **L3** | 20 | Beobachtungsstudien |
+| **L4** | 16 | Praeklinische / mechanistische Studien |
+| **L5** | 566 | Nur computationale Vorhersage |
 | **N/A** | 2 | Nur bekannte Anwendungen (keine neuen Vorhersagen) |
 
 ### Nach Quelle

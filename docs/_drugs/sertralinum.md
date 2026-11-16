@@ -39,13 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 ---
 
-### Zusammenfassung
+## Zusammenfassung
 
-Sertralin ist ein selektiver Serotonin-Wiederaufnahmehemmer und in der Schweiz im Handel. Die Vorhersage nennt als neue Indikation die schizoide Persönlichkeitsstörung (schizoid personality disorder). Dafür liegt keine direkte Evidenz vor: Die einzige verknüpfte Publikation betrifft die Binge-Eating-Störung, daher bleibt die Vorhersage ein reines Modellergebnis.
+Sertralin ist ein selektiver Serotonin-Wiederaufnahmehemmer (SSRI) und in der Schweiz im Handel. Die Vorhersage lautet, dass es bei der schizoiden Persönlichkeitsstörung (schizoid personality disorder) nützlich sein könnte. Diese stützt sich fast ausschliesslich auf einen hohen Modellwert (0,9993). Für diese Erkrankung liegen weder klinische Studien noch passende Literatur vor, das Evidenzniveau ist daher L5.
 
 ---
 
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -59,56 +59,48 @@ Sertralin ist ein selektiver Serotonin-Wiederaufnahmehemmer und in der Schweiz i
 
 ---
 
-### Warum ist diese Vorhersage plausibel?
+## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist Sertralin als selektiver Serotonin-Wiederaufnahmehemmer, der die serotonerge Signalübertragung beeinflusst.
+Sertralin hemmt die Wiederaufnahme von Serotonin und erhöht dadurch die serotonerge Signalübertragung im Gehirn. Genauere Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
 
-Theoretisch könnte eine serotonerge Modulation soziale Anhedonie und affektive Verflachung beeinflussen, die bei der schizoiden Persönlichkeitsstörung eine Rolle spielen. Ein direkter mechanistischer Zusammenhang ist jedoch nicht belegt.
+Eine schlüssige mechanistische Verbindung zur schizoiden Persönlichkeitsstörung lässt sich aus diesen Daten nicht ableiten. Serotonerge Wirkungen auf Stimmung, Angst und Impulskontrolle könnten höchstens begleitende Symptome beeinflussen. Ob das auch die Kernmerkmale der Störung betrifft, etwa sozialer Rückzug und eingeschränkte emotionale Ausdrucksfähigkeit, ist nicht belegt.
 
-Der hohe Vorhersagewert beruht allein auf einem Modell und wird durch keine klinischen Daten gestützt.
+Die Vorhersage ist deshalb eine Hypothese des Modells. Sie ist nicht durch klinische Daten gestützt.
 
 ---
 
-### Literaturbelege
+## Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+## Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Multimodale Behandlungsstudie | International clinical psychopharmacology | 30 Patienten mit Binge-Eating-Störung erhielten über 6 Monate randomisiert drei Behandlungsformen (u. a. Diät, kognitive Verhaltenstherapie und Sertralin). Die Studie betrifft nicht die schizoide Persönlichkeitsstörung und ist hier nicht aussagekräftig. |
+| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Klinische Studie | International Clinical Psychopharmacology | Randomisierter Vergleich von drei sechsmonatigen Behandlungsansätzen bei 30 Personen mit Binge-Eating-Störung (u. a. Diät, kognitive Verhaltenstherapie, Sertralin). Betrifft eine andere Erkrankung und liefert keine Aussage zur schizoiden Persönlichkeitsstörung. |
 
 ---
 
-### Marktinformationen Schweiz
-
-Es sind mindestens 6 Zulassungen erfasst; die Liste kann unvollständig sein.
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61284 | Sertralin Viatris, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 55391 | Zoloft, Konzentrat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 57135 | Sertralin Spirig HC, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 57041 | Sertralin-Mepha 50 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 56956 | Sertralin Sandoz eco 50 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 52251 | Zoloft, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-
----
-
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die schizoide Persönlichkeitsstörung gibt es weder klinische Studien noch relevante Literatur; der hohe Vorhersagewert ist ein reines Modellergebnis (Evidenzniveau L5).
+- Die Vorhersage beruht allein auf einem hohen Modellwert. Es gibt weder klinische Studien noch Literatur, die Sertralin bei schizoider Persönlichkeitsstörung untersuchen.
+- Der einzige gefundene Artikel betrifft die Binge-Eating-Störung und ist für diese Fragestellung nicht aussagekräftig.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Studien, die Sertralin direkt bei schizoider Persönlichkeitsstörung untersuchen
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
-- Auswertung der Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
+- Direkte klinische Studien oder Fallserien zu Sertralin bei schizoider Persönlichkeitsstörung
+- Eine klar formulierte mechanistische Begründung, wie die serotonerge Wirkung die Kernsymptome der Störung beeinflussen könnte
+- Die Sicherheitsangaben der Schweizer Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen), um die Sicherheit bei dieser Patientengruppe zu beurteilen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

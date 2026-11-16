@@ -9,7 +9,7 @@ drugbank_id: DB08883
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 last_modified_at: 2026-11-16
-description: "Perampanelum: vorhergesagte neue Indikation Beta-ketothiolase deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum"
+description: "Perampanelum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum"
 ---
 
 # Perampanelum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Perampanelum: Beta-ketothiolase deficiency
+## Perampanelum: Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Perampanel ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die vorhergesagte neue Indikation, die visuelle Epilepsie (visual epilepsy), liegen keine Studien vor, die diese Erkrankung direkt untersuchen. Die Vorhersage stützt sich daher nur auf ein Rechenmodell (Evidenzniveau L5).
+Perampanel ist in der Schweiz als Antiepileptikum zugelassen. Das Modell sagt voraus, dass es bei Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) wirksam sein könnte. Diese Vorhersage beruht allein auf einer Modellberechnung; es liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung untersuchen.
 
 ---
 
@@ -50,7 +48,7 @@ Perampanel ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die v
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiepileptikum |
-| Vorhergesagte neue Indikation | Beta-ketothiolase deficiency |
+| Vorhergesagte neue Indikation | Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) |
 | TxGNN-Vorhersagewert | 0.9979 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,34 +59,11 @@ Perampanel ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die v
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Literatur geht jedoch hervor, dass Perampanel ein selektiver, nicht kompetitiver Antagonist des AMPA-Rezeptors ist. Dadurch dämpft es die glutamatvermittelte Erregbarkeit von Nervenzellen.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist Perampanel als nicht-kompetitiver Antagonist von AMPA-Typ-Glutamatrezeptoren, der bei Epilepsie eingesetzt wird.
 
-Visuell ausgelöste Anfälle, etwa durch Lichtreize, gelten als Ausdruck einer übermässigen Erregbarkeit der Hirnrinde. Eine Dämpfung der glutamatergen Übertragung könnte hier theoretisch helfen.
+Der Beta-Ketothiolase-Mangel (ACAT1/T2-Mangel) ist eine angeborene Störung des Isoleucin-Abbaus und der Ketonkörper-Verwertung, die zu episodischen Ketoazidosen führt. Die Pathophysiologie ist stoffwechselbedingt und hat keinen erkennbaren Bezug zur AMPA-Rezeptor-Signalübertragung.
 
-Die gefundene Literatur behandelt allerdings Epilepsie allgemein (Leitlinien, Netzwerk-Metaanalysen, Studien an Kindern und bei genetischen Epilepsien). Zur visuell ausgelösten Epilepsie selbst enthält sie keine Aussagen. Der hohe Vorhersagewert spiegelt wahrscheinlich die allgemeine Wirkung gegen Anfälle wider und nicht krankheitsspezifische Belege.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Die folgenden Arbeiten behandeln Epilepsie und Perampanel allgemein. Keine davon untersucht die visuelle Epilepsie direkt.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematische Übersicht / Netzwerk-Metaanalyse | Journal of neurology | Vergleich von Wirksamkeit und Verträglichkeit von Antiepileptika bei idiopathischen generalisierten Epilepsien. |
-| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | Systematische Übersicht / Netzwerk-Metaanalyse | Drugs | Indirekter Vergleich von Antiepileptika der dritten Generation, darunter Perampanel, als Zusatztherapie bei fokalen Anfällen. |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Leitlinie | Neurology | Aktualisierte Leitlinie zur Behandlung neu aufgetretener Epilepsie mit neueren Antiepileptika. |
-| [36034267](https://pubmed.ncbi.nlm.nih.gov/36034267/) | 2022 | Kohortenstudie | Frontiers in neurology | Wirksamkeit und Verträglichkeit von Perampanel bei kindlicher Absence-Epilepsie in der Praxis. |
-| [37329172](https://pubmed.ncbi.nlm.nih.gov/37329172/) | 2023 | Kohortenstudie | Annals of clinical and translational neurology | Ergebnisse unter Perampanel bei Kindern mit bekannter oder vermuteter genetischer Epilepsie. |
-| [29953584](https://pubmed.ncbi.nlm.nih.gov/29953584/) | 2019 | Übersichtsarbeit | Epilepsia | Überblick über das Potenzial von Perampanel als Breitspektrum-Antiepileptikum. |
-| [36150304](https://pubmed.ncbi.nlm.nih.gov/36150304/) | 2022 | Studien- und Praxisdaten | Epilepsy & Behavior | Perampanel als Monotherapie bei epileptischen Anfällen. |
-| [39499201](https://pubmed.ncbi.nlm.nih.gov/39499201/) | 2024 | Pilotstudie | Clinical cancer research | Perampanel bei Übererregbarkeit im Umfeld hochgradiger Gliome. |
+Ein mechanistischer Zusammenhang lässt sich aus den vorliegenden Daten daher nicht herleiten. Der hohe Vorhersagewert ist ein reines Modellergebnis. Er könnte etwa auf gemeinsamen neurologischen Merkmalen beruhen, nicht auf einer belegten biologischen Begründung. Jede Verbindung bleibt spekulativ und ungeprüft.
 
 ---
 
@@ -101,23 +76,17 @@ Die folgenden Arbeiten behandeln Epilepsie und Perampanel allgemein. Keine davon
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die visuelle Epilepsie gibt es weder klinische Studien noch Literatur, die diese Erkrankung direkt untersucht. Der hohe Vorhersagewert beruht allein auf dem Modell.
+- Es gibt keine klinischen Studien oder Literatur zu dieser Erkrankung, und ein plausibler biologischer Zusammenhang ist nicht erkennbar. Der hohe Vorhersagewert allein genügt nicht.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien oder Fallserien zu Perampanel bei visuell ausgelösten Anfällen, etwa bei Photosensitivität
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Eine vollständige Beschreibung des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Die Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic, um die Sicherheit zu prüfen
+- Eine gesicherte Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Präklinische oder klinische Daten, die einen Zusammenhang mit dem Beta-Ketothiolase-Mangel stützen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

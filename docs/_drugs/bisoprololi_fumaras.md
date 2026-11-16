@@ -9,7 +9,7 @@ drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-11-16
-description: "Bisoprololi Fumaras: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Hypertonie"
+description: "Bisoprololi Fumaras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Hypertonie"
 ---
 
 # Bisoprololi Fumaras
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Bisoprololi Fumaras: Malignant hypertensive renal disease
+## Bisoprololi Fumaras: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Bisoprolol ist ein Betarezeptorenblocker, der in der Schweiz bereits im Handel ist. Die Modellvorhersage legt nahe, dass er auch bei maligner renovaskulärer Hypertonie (malignant renovascular hypertension) wirksam sein könnte. Dafür gibt es keine Studien und keine Literatur; die Vorhersage beruht allein auf einer Berechnung (Evidenzniveau L5).
+Bisoprolol ist ein selektiver Beta-1-Rezeptorenblocker, der in der Schweiz in mehreren Präparaten im Handel ist. Das Modell sagt voraus, dass er bei maligner hypertensiver Nierenerkrankung (malignant hypertensive renal disease) wirksam sein könnte. Diese Vorhersage stützt sich allein auf die Modellrechnung; für diese Erkrankung liegen keine klinischen Studien und keine Literatur vor.
 
 ---
 
@@ -48,7 +48,7 @@ Bisoprolol ist ein Betarezeptorenblocker, der in der Schweiz bereits im Handel i
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Hypertonie; Betarezeptorenblocker |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9994 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -59,29 +59,17 @@ Bisoprolol ist ein Betarezeptorenblocker, der in der Schweiz bereits im Handel i
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den hier zusammengestellten Daten keine Angaben vor. Aus der allgemeinen Pharmakologie ist bekannt, dass Bisoprolol selektiv β1-Rezeptoren blockiert. Dadurch sinken Herzfrequenz und Herzzeitvolumen, und die Freisetzung von Renin aus dem juxtaglomerulären Apparat der Niere wird gehemmt.
+Bisoprolol blockiert selektiv Beta-1-Rezeptoren im Herzen. Dadurch sinken Herzfrequenz und Blutdruck, und auch die Freisetzung von Renin in der Niere wird gedämpft. Zum genauen Wirkmechanismus lagen in den zusammengestellten Daten keine Angaben vor; die Beschreibung beruht auf dem allgemeinen pharmakologischen Wissen zur Substanzklasse.
 
-Bei der renovaskulären Hypertonie spielt Renin eine zentrale Rolle: Eine verengte Nierenarterie führt zu vermehrter Reninfreisetzung und damit zu hohem Blutdruck. Eine Hemmung der Reninfreisetzung ist deshalb biologisch nachvollziehbar.
+Eine maligne hypertensive Nierenerkrankung entsteht durch stark erhöhten Blutdruck, der die Nierengefässe schädigt. Eine Blutdrucksenkung und eine geringere Reninfreisetzung sind daher biologisch nachvollziehbar.
 
-Es gibt jedoch Einschränkungen. Die maligne Hypertonie ist ein Notfall, der meist mit intravenös titrierbaren Wirkstoffen behandelt wird. Betablocker sind bei renovaskulärer Erkrankung nicht die erste Wahl. Zudem liegt hier eher ein Untertyp der bereits bekannten Hypertonie vor als eine echte Umwidmung. Der hohe Vorhersagewert ist eine reine Rechenvorhersage und kein Wirksamkeitsnachweis.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Die Plausibilität bleibt jedoch begrenzt. Die Verbindung beruht allein auf der Modellvorhersage. Bei maligner Hypertonie mit Nierenbeteiligung sind Betablocker nicht die erste Wahl; bevorzugt werden Hemmer des Renin-Angiotensin-Aldosteron-Systems und intravenös verabreichte Blutdrucksenker.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Mindestens 4 Zulassungen sind erfasst, alle gültig; die Liste kann unvollständig sein.
+Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -103,13 +91,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation liegen weder klinische Studien noch Literatur vor, die Vorhersage stützt sich nur auf das Modell (L5).
-- Bei maligner Hypertonie sind andere, besser steuerbare Wirkstoffe Standard, und Betablocker sind bei renovaskulärer Erkrankung nicht erste Wahl.
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+- Betablocker gelten bei maligner Hypertonie mit Nierenbeteiligung nicht als Mittel der ersten Wahl.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten oder Fallserien zu Bisoprolol bei renovaskulärer bzw. maligner Hypertonie
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Studien oder Fallserien zu Bisoprolol bei maligner hypertensiver Nierenerkrankung
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation zur Sicherheitsprüfung
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um die mechanistische Verbindung zu prüfen
+- Eine Bewertung, ob Bisoprolol gegenüber der etablierten Therapie (RAAS-Hemmung, intravenöse Blutdrucksenker) einen Vorteil bieten könnte
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB01136
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-11-16
-description: "Carvedilolum: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Alpha- und Beta-Rezeptorenblocker"
+description: "Carvedilolum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Alpha- und Beta-Rezeptorenblocker"
 ---
 
 # Carvedilolum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Carvedilolum: Malignant hypertensive renal disease
+## Carvedilolum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Carvedilol ist ein Alpha- und Beta-Rezeptorenblocker, der in der Schweiz im Handel ist. Das Modell sagt voraus, dass es auch bei maligner renovaskulärer Hypertonie (malignant renovascular hypertension) wirken könnte. Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Carvedilol ist in der Schweiz als Alpha- und Beta-Rezeptorenblocker zugelassen. Für die maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) sagt das Modell eine mögliche Wirksamkeit voraus. Dafür liegen in den zusammengestellten Daten weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -48,7 +48,7 @@ Carvedilol ist ein Alpha- und Beta-Rezeptorenblocker, der in der Schweiz im Hand
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Alpha- und Beta-Rezeptorenblocker |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9955 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -59,29 +59,17 @@ Carvedilol ist ein Alpha- und Beta-Rezeptorenblocker, der in der Schweiz im Hand
 
 ### Warum ist diese Vorhersage plausibel?
 
-Carvedilol blockiert Beta-Rezeptoren (nicht selektiv) und zusätzlich Alpha-1-Rezeptoren und wirkt dadurch gefässerweiternd. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Carvedilol blockiert Beta-Rezeptoren (nicht selektiv) und zusätzlich Alpha-1-Rezeptoren. Es besitzt zudem antioxidative Eigenschaften. Die Gefässerweiterung und die Blutdrucksenkung sind grundsätzlich für Organschäden durch Bluthochdruck relevant, auch für die Niere. Eine ausführliche Beschreibung des Wirkmechanismus liegt in den Daten nicht vor.
 
-Ein theoretischer Zusammenhang besteht für die Blutdrucksenkung bei renovaskulärer Hypertonie: Die Beta-1-Blockade kann die Reninfreisetzung verringern, die Alpha-1-Blockade senkt den peripheren Gefässwiderstand.
+Die vorhergesagte Erkrankung ist eine schwere Form des Bluthochdrucks mit Nierenbeteiligung. Carvedilol wird bei Bluthochdruck allgemein eingesetzt. Für die maligne Verlaufsform mit Nierenschädigung fehlen jedoch spezifische Belege. Dort sind in der Regel rasch wirksame, intravenös verabreichte Mittel Standard, was die Übertragbarkeit einer Tablette einschränkt.
 
-Die Rolle von oralem Carvedilol bleibt jedoch unklar. Eine maligne Hypertonie wird üblicherweise akut mit intravenösen Wirkstoffen behandelt. Bei renovaskulärer Erkrankung stehen die Revaskularisation oder eine Therapie über das Renin-Angiotensin-System im Vordergrund. Der hohe Vorhersagewert ist eine rechnerische Vorhersage und kein klinischer Beleg.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Der hohe Vorhersagewert ist eine rechnerische Einschätzung und kein Wirksamkeitsnachweis.
 
 ---
 
 ### Marktinformationen Schweiz
 
-In den Daten sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -103,13 +91,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur; der Vorhersagewert ist rein rechnerisch. Zudem ist der Nutzen von oralem Carvedilol gegenüber der etablierten Behandlung (intravenöse Blutdrucksenkung, Revaskularisation, Therapie über das Renin-Angiotensin-System) nicht belegt.
+- Für die maligne hypertensive Nierenerkrankung gibt es keine klinischen Studien und keine Literatur; der Vorhersagewert allein reicht nicht aus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Studien, die Carvedilol direkt bei maligner renovaskulärer Hypertonie untersuchen
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsprüfung
-- Angaben zum Wirkmechanismus (z. B. aus DrugBank) für eine genauere Analyse
-- Eine Klärung, welche Rolle eine orale Therapie neben der Standardbehandlung spielen könnte
+- Studien oder Publikationen, die Carvedilol direkt bei dieser Erkrankung untersuchen
+- Eine Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
+- Eine genauere Beschreibung des Wirkmechanismus (z. B. aus DrugBank)
+- Eine Prüfung, ob eine orale Therapie bei dieser akuten Erkrankung klinisch sinnvoll ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

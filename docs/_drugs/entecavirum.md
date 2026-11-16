@@ -39,13 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Entecavir ist ein antivirales Guanosin-Analogon, das die Polymerase des Hepatitis-B-Virus hemmt. Das Modell sagt als neue Indikation die chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection) voraus. Die Evidenz dafür ist schwach: Es gibt keine Studie, die Entecavir zur Behandlung der Hepatitis C untersucht. Die verknüpften Studien betreffen Patienten mit gleichzeitiger HCV/HBV-Infektion, bei denen Entecavir höchstens indirekt über die Kontrolle der Hepatitis B eine Rolle spielt.
+Entecavir ist ein antiviraler Wirkstoff aus der Gruppe der Nukleosidanaloga. Für die chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection) wird er rechnerisch vorhergesagt, ein direkter Wirksamkeitsnachweis fehlt jedoch. Die vorliegenden Studien betreffen Patienten mit gleichzeitiger HBV/HCV-Infektion und prüfen nicht Entecavir als Mittel gegen HCV. Die Evidenz ist daher rein indirekt (Niveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -59,60 +59,62 @@ Entecavir ist ein antivirales Guanosin-Analogon, das die Polymerase des Hepatiti
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Entecavir wird in der Zelle zum Triphosphat umgewandelt. Dieses hemmt die Polymerase des Hepatitis-B-Virus bei Priming, reverser Transkription und DNA-Synthese und unterdrückt so die Virusvermehrung. Zum Wirkmechanismus liegen in den Daten sonst keine detaillierten Angaben vor.
+Entecavir ist ein Guanosin-Nukleosidanalogon. Es hemmt die DNA-Polymerase des Hepatitis-B-Virus (HBV) in mehreren Schritten: Priming, reverse Transkription und DNA-Synthese. In den für diesen Bericht zusammengestellten Daten ist der Wirkmechanismus nicht separat hinterlegt. Die Angaben stützen sich auf die Mechanismusbeschreibung der Vorhersage.
 
-Hepatitis B und Hepatitis C sind beides chronische Virusinfektionen der Leber. Sie treten oft gemeinsam auf und führen zu ähnlichen Folgen wie Zirrhose und Leberzellkrebs. Daraus erklärt sich wahrscheinlich die hohe Modellbewertung.
+Das Hepatitis-C-Virus (HCV) ist ein RNA-Virus. Es vermehrt sich über die RNA-abhängige RNA-Polymerase NS5B, nicht über eine DNA-Polymerase. Für Entecavir ist keine anti-HCV-Wirkung belegt. Ein mechanistischer Zusammenhang ist daher nicht erkennbar.
 
-Ein direkter Wirkmechanismus gegen HCV ist jedoch nicht erkennbar. HCV ist ein RNA-Virus mit einer anderen Polymerase (NS5B). Entecavir hat keine bekannte Aktivität gegen dieses Enzym. Ein möglicher Nutzen bei Hepatitis C wäre nur indirekt: Bei gleichzeitiger HBV-Infektion kann ein Nukleosid-/Nukleotid-Analogon eine HBV-Reaktivierung verhindern, während die HCV-Infektion mit direkt wirkenden antiviralen Mitteln behandelt wird.
+Der hohe Vorhersagewert spiegelt vermutlich vor allem die häufige Koinfektion mit HBV und HCV wider. In der Literatur und in Studien werden beide Viren oft gemeinsam behandelt. Das stützt keine Wirkung von Entecavir gegen HCV selbst.
 
 ---
 
-## Klinische Studien
+### Klinische Studien
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | Abgeschlossen | 23 | Untersucht Häufigkeit und Risikofaktoren einer HBV-Reaktivierung während einer HCV-Therapie mit direkt wirkenden antiviralen Mitteln bei HCV/HBV-Koinfektion. Geprüft wird nicht Entecavir, sondern die HCV-Therapie. |
-| [NCT04405011](https://clinicaltrials.gov/study/NCT04405011) | Ohne Phase | Unbekannt | 60 | Randomisierte, offene Studie mit drei Armen. Prüft, ob ein vorbeugend gegebenes Nukleosid-/Nukleotid-Analogon (12 oder 24 Wochen) eine HBV-Reaktivierung während der HCV-Therapie verhindert. Betrifft den Schutz vor HBV, nicht die Behandlung von HCV. Ergebnisse liegen nicht vor. |
+| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | Abgeschlossen | 23 | Direkt wirkende Virostatika bei HCV/HBV-Koinfektion. Untersucht werden Häufigkeit und Risikofaktoren einer HBV-Reaktivierung. Geprüft wird das HCV-Behandlungsschema, nicht Entecavir. |
+| [NCT04405011](https://clinicaltrials.gov/study/NCT04405011) | Phase NA | Unbekannt | 60 | Randomisierte, offene Studie mit drei Armen. Prüft, ob ein Nukleos(t)idanalogon eine HBV-Reaktivierung unter HCV-Therapie verhindert und ob 24 Wochen besser sind als 12. Es geht um den Schutz vor HBV-Reaktivierung, nicht um die HCV-Behandlung. Ergebnisse sind nicht verifiziert. |
 
 ---
 
-## Literaturbelege
-
-Es liegen keine randomisierten Studien vor. Die Publikationen sind Kohortenstudien, Übersichten, Kommentare und ein Fallbericht.
+### Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [36146665](https://pubmed.ncbi.nlm.nih.gov/36146665/) | 2022 | Kohorte | Viruses | 66 Patienten mit chronischer Hepatitis B und positivem Anti-HCV-Antikörper unter Nukleosid-/Nukleotid-Therapie. Untersucht wurde, ob sich HCV reaktiviert und wie sich die Viruslast entwickelt. |
-| [29194858](https://pubmed.ncbi.nlm.nih.gov/29194858/) | 2018 | Beobachtungsstudie | Journal of Viral Hepatitis | HBV-Reaktivierung unter interferonfreier HCV-Therapie. Die Reaktivierung und die daraus folgende Hepatitis waren selten. |
-| [39538400](https://pubmed.ncbi.nlm.nih.gov/39538400/) | 2024 | Fallbericht | Revista de Gastroenterología del Perú | Patient mit Hepatitis B und C. Zuerst wurde die Hepatitis B mit Entecavir behandelt, danach die Hepatitis C mit direkt wirkenden antiviralen Mitteln. Beide Infektionen waren erfolgreich kontrolliert. |
-| [24773464](https://pubmed.ncbi.nlm.nih.gov/24773464/) | 2014 | Übersicht | Expert Opinion on Pharmacotherapy | Fortschritte in der Behandlung der HBV/HCV-Koinfektion, die ein hohes Risiko für Zirrhose und Leberzellkrebs mit sich bringt. |
-| [29081251](https://pubmed.ncbi.nlm.nih.gov/29081251/) | 2017 | Übersicht | Expert Opinion on Pharmacotherapy | Behandlungsoptionen bei HBV/HCV-Koinfektion. Die Therapiewahl hängt davon ab, welches Virus überwiegt, sowie von HIV-Koinfektion und Begleiterkrankungen. |
-| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Übersicht | Wiener Medizinische Wochenschrift | Überblick über aktuelle und künftige Therapien bei chronischer Hepatitis B und C. |
-| [38450508](https://pubmed.ncbi.nlm.nih.gov/38450508/) | 2024 | Kommentar | Revista Española de Enfermedades Digestivas | Entecavir und Tenofovir wirken gegen das B-Virus, direkt wirkende antivirale Mittel gegen das C-Virus. Damit stehen für beide Erkrankungen wirksame Therapien zur Verfügung. |
+| [36146665](https://pubmed.ncbi.nlm.nih.gov/36146665/) | 2022 | Kohortenstudie | Viruses | 66 Patienten mit chronischer Hepatitis B und positivem Anti-HCV-Antikörper unter Nukleos(t)idanalogon-Therapie. Untersucht wurden HCV-Reaktivierung und Viruslast-Verlauf. |
+| [29194858](https://pubmed.ncbi.nlm.nih.gov/29194858/) | 2018 | Beobachtungsstudie | Journal of Viral Hepatitis | Niedrige Rate an HBV-Reaktivierung bei Patienten mit chronischer Hepatitis C unter direkt wirkenden Virostatika. |
+| [39538400](https://pubmed.ncbi.nlm.nih.gov/39538400/) | 2024 | Fallbericht | Revista de Gastroenterología del Perú | Koinfizierter Patient: Zuerst Entecavir gegen HBV, danach direkt wirkende Virostatika gegen HCV. Das anhaltende virologische Ansprechen bei HCV wurde mit den direkt wirkenden Virostatika erreicht. |
+| [24773464](https://pubmed.ncbi.nlm.nih.gov/24773464/) | 2014 | Übersichtsarbeit | Expert Opinion on Pharmacotherapy | Behandlung der HBV/HCV-Koinfektion bei hohem Risiko für Zirrhose und Leberzellkarzinom. |
+| [38450508](https://pubmed.ncbi.nlm.nih.gov/38450508/) | 2024 | Übersichtsarbeit | Revista Española de Enfermedades Digestivas | Entecavir und Tenofovir gegen das B-Virus, direkt wirkende Virostatika gegen das C-Virus. Beide Viren werden jeweils mit eigenen Wirkstoffen behandelt. |
+| [35327336](https://pubmed.ncbi.nlm.nih.gov/35327336/) | 2022 | Übersichtsarbeit | Biomedicines | Therapie der chronischen Virushepatitis. Die Behandlung richtet sich nach dem jeweiligen Virus. |
 
 ---
 
-## Sicherheitshinweise
+### Marktinformationen Schweiz
+
+Entecavir ist in der Schweiz im Handel. Die Zulassungsliste wird aus den lokalen Zulassungsdaten ergänzt.
+
+---
+
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine Studie, die Entecavir zur Behandlung der chronischen Hepatitis C untersucht, und keinen plausiblen direkten Wirkmechanismus gegen HCV. Der hohe Vorhersagewert beruht auf der Nähe der beiden Virushepatitiden und stützt sich nicht auf klinische Belege.
-- Der einzige nachvollziehbare Nutzen ist indirekt: der Schutz vor einer HBV-Reaktivierung bei Patienten mit HCV/HBV-Koinfektion unter HCV-Therapie. Das ist keine Indikation gegen die Hepatitis C selbst.
+- Es gibt keine Studie, die Entecavir direkt gegen die chronische Hepatitis-C-Virus-Infektion prüft, und keinen bekannten Wirkmechanismus gegen HCV. Die Evidenz bleibt auf Niveau L5.
+- Die vorhandenen Studien betreffen den Schutz vor HBV-Reaktivierung bei HCV/HBV-Koinfektion. Das ist HBV-Management und keine HCV-Therapie. Für HCV stehen zudem wirksame direkt wirkende Virostatika zur Verfügung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Laborbelege (in vitro) oder klinische Studien, die eine Wirkung von Entecavir auf die HCV-Replikation zeigen, falls eine direkte Wirkung weiterverfolgt werden soll.
-- Ergebnisse der Studie NCT04405011 oder vergleichbarer Studien zur Prophylaxe einer HBV-Reaktivierung bei HCV/HBV-Koinfektion, falls der indirekte Nutzen weiterverfolgt werden soll.
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Schweizer Fachinformation, die in den vorliegenden Daten fehlen.
-- Die Beschreibung des Wirkmechanismus aus einer zuverlässigen Arzneimittel-Datenbank.
+- Laborbefunde oder präklinische Daten, die eine antivirale Wirkung von Entecavir gegen HCV zeigen (z. B. Replikationsmodelle)
+- Die Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen
+- Eine klare mechanistische Begründung, die über die Koinfektionssituation hinausgeht
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

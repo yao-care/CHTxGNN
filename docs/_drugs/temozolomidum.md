@@ -9,7 +9,7 @@ drugbank_id: DB00853
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
 last_modified_at: 2026-11-16
-description: "Temozolomidum: vorhergesagte neue Indikation Cauda equina neoplasm (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
+description: "Temozolomidum: vorhergesagte neue Indikation Cauda-equina-Neoplasie (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
 # Temozolomidum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Temozolomidum: Cauda equina neoplasm
+## Temozolomidum: Cauda-equina-Neoplasie (cauda equina neoplasm)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Temozolomid ist in der Schweiz als Zytostatikum zugelassen. Als neue Indikation wurde der adulte astrozytäre Tumor (adult astrocytic tumour) vorhergesagt. Dafür liegen eine abgeschlossene Phase-3-Studie sowie mehrere randomisierte Studien zu Glioblastom und malignem Astrozytom vor. Dieser Einsatz entspricht allerdings bereits der etablierten Standardtherapie, sodass es sich eher um eine Bestätigung als um eine echte Neuentdeckung handelt.
+Temozolomid ist in der Schweiz als Zytostatikum zugelassen. Die Datenbasis nennt als voraussichtlich neues Anwendungsgebiet die Cauda-equina-Neoplasie (cauda equina neoplasm). Dafür liegen nur Einzelfallberichte vor, keine Studie untersucht diese Erkrankung direkt. Die Evidenz ist daher sehr begrenzt.
 
 ---
 
@@ -48,31 +48,26 @@ Temozolomid ist in der Schweiz als Zytostatikum zugelassen. Als neue Indikation 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Zytostatikum |
-| Vorhergesagte neue Indikation | Cauda equina neoplasm |
+| Vorhergesagte neue Indikation | Cauda-equina-Neoplasie (cauda equina neoplasm) |
 | TxGNN-Vorhersagewert | 0.9930 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
 | Anzahl Zulassungen | mindestens 2 |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Temozolomid ist ein oral einnehmbares alkylierendes Mittel. Es methyliert die DNA, vor allem an O6-Guanin und N7-Guanin. Dadurch entstehen DNA-Schäden, die zum Tod von Tumorzellen führen. Die Angaben zum Wirkmechanismus fehlen in den lokalen Stammdaten; die Beschreibung stützt sich auf die Mechanismusbeurteilung der zusammengestellten Daten.
+Temozolomid ist ein oral einnehmbarer alkylierender Wirkstoff. Er methyliert die DNA (an O6- und N7-Guanin), was zu DNA-Schäden und zum Zelltod von Tumorzellen führt. Die Wirkung hängt von der MGMT-Expression ab: Tumoren mit methyliertem MGMT-Promotor sprechen besser an. Zum Wirkmechanismus liegen in den Daten keine eigenen Angaben vor; die Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
 
-Astrozytäre Tumoren des Erwachsenen, etwa das Glioblastom und das anaplastische Astrozytom, sind aggressive Hirntumoren. Die Wirkung von Temozolomid ist am stärksten, wenn der MGMT-Promotor methyliert ist, weil die Tumorzellen dann Schäden schlechter reparieren können.
-
-Die Literatur zeigt, dass Temozolomid in diesem Bereich bereits Teil der Standardbehandlung ist (Stupp-Schema: Bestrahlung mit begleitendem und anschliessendem Temozolomid). Die Vorhersage bestätigt damit vor allem einen bekannten Einsatz.
+Tumoren der Cauda equina sind meist myxopapilläre Ependymome, also Tumoren des zentralen Nervensystems. Temozolomid gelangt ins Zentralnervensystem und wird bei Gliomen eingesetzt. Ein Einsatz bei solchen Tumoren ist daher denkbar. Der MGMT-Status dieser Tumoren ist in den vorliegenden Daten jedoch nicht belegt. Der hohe Vorhersagewert ist eine reine Computerberechnung und ersetzt keine klinische Prüfung.
 
 ---
 
 ### Klinische Studien
 
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | Abgeschlossen | 500 | Randomisierter Vergleich von Temozolomid allein mit PCV (Procarbazin, Lomustin, Vincristin) bei rezidivierenden astrozytären Tumoren WHO-Grad III und IV |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | Abgeschlossen | 26 | Dosisfindung und Sicherheit von XL184 (Cabozantinib) mit Temozolomid und Strahlentherapie bei Glioblastom; Temozolomid ist hier Kombinationspartner |
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
@@ -80,22 +75,17 @@ Die Literatur zeigt, dass Temozolomid in diesem Bereich bereits Teil der Standar
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | The New England Journal of Medicine | Strahlentherapie mit begleitendem und anschliessendem Temozolomid gegenüber Strahlentherapie allein beim Glioblastom |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | Kohorte (5-Jahres-Analyse einer Phase-3-Studie) | The Lancet Oncology | Endergebnisse der EORTC-NCIC-Studie mit mehr als 5 Jahren Nachbeobachtung |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT (Phase 3) | The Lancet Oncology | NOA-08: Temozolomid allein gegenüber Strahlentherapie allein bei älteren Patienten mit malignem Astrozytom |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT (Phase 3) | The Lancet | CeTeG/NOA-09: Lomustin-Temozolomid gegenüber Standard-Temozolomid bei neu diagnostiziertem Glioblastom mit MGMT-Methylierung |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Tumor-Treating Fields plus Temozolomid gegenüber Temozolomid allein beim Glioblastom |
-| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | Wirkung von Tumor-Treating Fields plus Erhaltungs-Temozolomid auf das Überleben bei Glioblastom |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | The New England Journal of Medicine | Bevacizumab zusätzlich zur Standardtherapie mit Temozolomid bei neu diagnostiziertem Glioblastom |
-| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncology | Zusatz von Veliparib zu Temozolomid bei Glioblastom mit MGMT-Methylierung |
-| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Leitlinie | Journal of Clinical Oncology | ASCO-SNO-Leitlinie zur Therapie diffuser astrozytärer und oligodendroglialer Tumoren bei Erwachsenen |
-| [17478095](https://pubmed.ncbi.nlm.nih.gov/17478095/) | 2007 | Übersichtsarbeit | Critical Reviews in Oncology/Hematology | Übersicht zum anaplastischen Astrozytom beim Erwachsenen |
+| [29270703](https://pubmed.ncbi.nlm.nih.gov/29270703/) | 2018 | Fallbericht | European Spine Journal | Auffallend gutes Ansprechen eines mehrfach rezidivierten spinalen myxopapillären Ependymoms mit Ausbreitung im Nervenwasser auf Temozolomid. |
+| [42760727](https://pubmed.ncbi.nlm.nih.gov/42760727/) | 2026 | Fallbericht | Medicine | Seltenes NUT-Karzinom der Nase mit wiederholtem Ansprechen auf eine multimodale Behandlung inklusive Strahlentherapie; kein direkter Bezug zur Cauda equina. |
+| [18706663](https://pubmed.ncbi.nlm.nih.gov/18706663/) | 2009 | Fallbericht | Neuro-Chirurgie | Untypische Kryptokokkose des Nervensystems bei einem Kind, das wegen eines Ponsglioms behandelt wurde; kein Hinweis auf Wirksamkeit bei Cauda-equina-Tumoren. |
+
+Die Berichte betreffen verwandte Tumoren oder andere Erkrankungen, nicht die Cauda-equina-Neoplasie selbst. Es handelt sich ausschliesslich um Einzelfälle.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen kann unvollständig sein (mindestens 2 Zulassungen).
+Die Liste ist möglicherweise unvollständig (mindestens 2 Zulassungen).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -108,11 +98,10 @@ Die Liste der Zulassungen kann unvollständig sein (mindestens 2 Zulassungen).
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (alkylierendes Mittel) |
-| Myelosuppressionsrisiko | Mittel |
-| Emetogenitätsklassifikation | Mittel |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-| Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind einzuhalten |
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (alkylierend) |
+| Handhabungsschutz | Als Zytostatikum sind die üblichen Schutzmassnahmen für den Umgang mit zytotoxischen Arzneimitteln zu beachten. |
+
+Angaben zu Myelosuppressionsrisiko, Emetogenität und Überwachung sind der Fachinformation zu entnehmen.
 
 ---
 
@@ -124,16 +113,17 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Evidenz ist stark (L1: abgeschlossene Phase-3-Studie direkt zu astrozytären Tumoren sowie mehrere randomisierte Studien). Der Einsatz ist jedoch bereits Standard, daher bringt die Vorhersage wenig Neues.
-- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen bisher, und die Angaben zum Wirkmechanismus stammen nicht aus den lokalen Stammdaten.
+- Es gibt keine klinische Studie und keine Publikation, die die Cauda-equina-Neoplasie direkt untersucht; nur ein Fallbericht zu einem verwandten Ependymom liegt vor. Die Evidenz entspricht daher Niveau L5, und die Sicherheitsdaten fehlen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der aktuellen Swissmedic-Fachinformation
-- Prüfung, ob die Indikation astrozytärer Tumoren in den Schweizer Fachinformationen bereits aufgeführt ist
-- Bestätigung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Auswertung der Schweizer Fachinformation (Warnungen, Kontraindikationen)
+- Gezielte Literaturrecherche und systematische Sichtung zu Temozolomid bei Ependymomen und Tumoren der Cauda equina
+- Klärung des MGMT-Status dieser Tumoren
+- Ergänzung der Angaben zum Wirkmechanismus
+- Prüfung, ob prospektive klinische Studien sinnvoll und machbar sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

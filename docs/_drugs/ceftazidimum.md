@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Ceftazidimum: Hyperamylasämie (hyperamylasemia)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Ceftazidim ist ein Cephalosporin-Antibiotikum der dritten Generation, das bei bakteriellen Infektionen eingesetzt wird. Das Modell sagt für Hyperamylasämie (hyperamylasemia) einen hohen Vorhersagewert voraus. Dafür gibt es weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus fehlt. Die Evidenz beschränkt sich daher auf die reine Modellvorhersage (Evidenzniveau L5).
+Ceftazidim ist ein Antibiotikum, das in der Schweiz im Handel ist. Für die Vorhersage „Hyperamylasämie (hyperamylasemia)" wurde ein sehr hoher TxGNN-Wert berechnet. Es liegen jedoch weder klinische Studien noch Publikationen vor, sodass die Vorhersage nicht durch Evidenz gestützt wird.
 
 ---
 
@@ -61,31 +59,17 @@ Ceftazidim ist ein Cephalosporin-Antibiotikum der dritten Generation, das bei ba
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ceftazidim wirkt bakterizid, indem es die Zellwandsynthese von Bakterien hemmt. Es wird vor allem gegen gramnegative Erreger eingesetzt, darunter *Pseudomonas aeruginosa* und Enterobacterales.
+Die Vorhersage ist aus heutiger Sicht **nicht plausibel**. Ceftazidim hemmt als Beta-Lactam-Antibiotikum die Zellwandsynthese von Bakterien. Die Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vollständig vor.
 
-Hyperamylasämie ist ein erhöhter Amylasewert im Blut. Sie ist ein Laborbefund und keine Infektion. Es ist kein Mechanismus bekannt, über den ein Antibiotikum diesen Befund beeinflussen könnte. Die Fachbewertung der Daten kommt deshalb zum Schluss, dass kein plausibler mechanistischer Zusammenhang besteht.
-
-Der hohe Vorhersagewert beruht allein auf dem Modell und wird weder durch klinische noch durch publizierte Daten gestützt. Er sollte nicht als Hinweis auf einen therapeutischen Nutzen gelesen werden.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Hyperamylasämie ist ein Laborbefund (erhöhte Amylase im Blut) und keine Infektionskrankheit. Ein Wirkmechanismus von Ceftazidim, der diesen Befund behandeln würde, ist nicht erkennbar. Der hohe Vorhersagewert beruht wahrscheinlich auf Zusammenhängen im Modell und nicht auf klinischen oder biologischen Belegen.
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 46050 | Fortam 500 mg, Pulver zur Herstellung einer Injektionslösung (Sandoz Pharmaceuticals AG) | Synthetika |
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 46050 | Fortam 500 mg, Pulver zur Herstellung einer Injektionslösung | Synthetika | Infektionskrankheiten |
 
 ---
 
@@ -100,13 +84,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Hyperamylasämie liegen weder Studien noch Publikationen vor, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert von 0,9951 reicht allein nicht aus, um eine Weiterverfolgung zu rechtfertigen.
+- Für Hyperamylasämie gibt es weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus fehlt. Der hohe TxGNN-Wert allein reicht nicht aus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Daten, die einen Zusammenhang zwischen Ceftazidim und Hyperamylasämie direkt untersuchen
-- Eine nachvollziehbare mechanistische Hypothese
-- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen für die Sicherheitsbewertung
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Belege aus klinischen Studien oder Publikationen, die Ceftazidim direkt bei Hyperamylasämie untersuchen
+- Ein nachvollziehbarer Wirkmechanismus
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

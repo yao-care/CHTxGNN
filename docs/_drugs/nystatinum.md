@@ -9,7 +9,7 @@ drugbank_id: DB00646
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 last_modified_at: 2026-11-16
-description: "Nystatinum: vorhergesagte neue Indikation Disease of orbital region (Evidenzstufe L5). Ursprüngliche Indikation: Mycoses"
+description: "Nystatinum: vorhergesagte neue Indikation Erkrankung der Orbitaregion (disease of orbital region) (Evidenzstufe L5). Ursprüngliche Indikation: Mycoses"
 ---
 
 # Nystatinum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Nystatinum: Disease of orbital region
+## Nystatinum: Erkrankung der Orbitaregion (disease of orbital region)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Nystatin ist ein Antimykotikum, das bei Pilzinfektionen eingesetzt wird. Die Datenlage stützt sich ausschliesslich auf Übersichtsarbeiten und ältere Publikationen; klinische Studien sind nicht registriert. Der Zusammenhang mit Pilzinfektionen der Scheide und Vulva ist jedoch gut nachvollziehbar.
+Nystatin ist ein Polyen-Antimykotikum, das in der Schweiz im Handel ist. Die höchste Vorhersage des Modells betrifft eine Erkrankung der Orbitaregion (disease of orbital region). Dafür liegt keine unterstützende Evidenz vor: Die einzige gefundene klinische Studie betrifft eine Netzhauterkrankung, ohne Bezug zu Nystatin, und es gibt keine Literatur. Die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -48,39 +48,28 @@ Nystatin ist ein Antimykotikum, das bei Pilzinfektionen eingesetzt wird. Die Dat
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Mycoses; Behandlung von vulvovaginalen Candida-Infektionen bei Erwachsenen; Mykosen |
-| Vorhergesagte neue Indikation | Disease of orbital region |
+| Vorhergesagte neue Indikation | Erkrankung der Orbitaregion (disease of orbital region) |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Nystatin gehört zu den Polyen-Antimykotika. Es bindet an Ergosterol in der Zellmembran von Pilzen, bildet Poren und führt dazu, dass Zellinhalt austritt. Die Wirkung richtet sich damit gegen Candida-Arten, die Hauptursache der vulvovaginalen Candidose. Die Angabe zum Wirkmechanismus fehlt in den Arzneimitteldaten; die Beschreibung beruht auf der mechanistischen Einordnung im Rahmen dieser Bewertung.
+Ein plausibler Wirkmechanismus ist nicht erkennbar. Nystatin bindet an Ergosterol in der Membran von Pilzzellen, bildet dort Poren und führt zum Zelltod. Es wird vor allem lokal angewendet und kaum aufgenommen. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind unvollständig; die genannte Wirkweise entspricht dem allgemeinen Kenntnisstand zu dieser Wirkstoffklasse.
 
-Die vorhergesagte Indikation liegt sehr nah an den bereits in der Schweiz zugelassenen Anwendungen gegen Pilzinfektionen. Eine der Zulassungen betrifft ausdrücklich vulvovaginale Candida-Infektionen. Es handelt sich daher eher um eine zulassungsnahe Anwendung als um eine echte Umwidmung. Von Interesse bleiben Fälle mit Fluconazol-resistenter Erkrankung oder mit Nicht-albicans-Arten, wie eine Übersichtsarbeit von 2024 beschreibt.
+Für Erkrankungen der Augenhöhle gibt es keine bekannte Verbindung zu dieser antimykotischen Wirkung. Der hohe Vorhersagewert lässt sich biologisch nicht begründen und ist vermutlich ein Artefakt des Modells.
 
 ---
 
-### Literaturbelege
+### Klinische Studien
 
-Keine der gelisteten Arbeiten untersucht Nystatin bei Vulvovaginitis in einer kontrollierten klinischen Studie. Es handelt sich überwiegend um Übersichten, Präklinik und Beobachtungsarbeiten. Daher ist das Evidenzniveau L5.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Übersicht | Pharmaceutics | Management der Fluconazol-resistenten vulvovaginalen Candidose; Nystatin wird neben Borsäure und neueren Substanzen als Alternative genannt. |
-| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Übersicht | BMJ Clinical Evidence | Vulvovaginale Candidose ist nach der bakteriellen Vaginose die zweithäufigste Ursache einer Vaginitis; Candida albicans verursacht 85–90 % der Fälle. |
-| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Übersicht | BMJ Clinical Evidence | Gleiche Kernaussage zur Häufigkeit und zu Erregern. |
-| [19454049](https://pubmed.ncbi.nlm.nih.gov/19454049/) | 2007 | Übersicht | BMJ Clinical Evidence | Gleiche Kernaussage zur Häufigkeit und zu Erregern. |
-| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Übersicht | Journal of Women's Health | Borsäure bei rezidivierender vulvovaginaler Candidose; Nicht-albicans-Arten sind gegenüber Azolen resistenter. |
-| [1436934](https://pubmed.ncbi.nlm.nih.gov/1436934/) | 1992 | Übersicht | Obstetrics and Gynecology Clinics of North America | Nystatin wurde in den 1950er-Jahren eingeführt und ist heute von Imidazolen und Triazolen als Mittel der ersten Wahl abgelöst. |
-| [36588489](https://pubmed.ncbi.nlm.nih.gov/36588489/) | 2022 | Klinisch-morphologische Studie | Romanian Journal of Morphology and Embryology | Vergleich klinischer, mikrobiologischer und histopathologischer Befunde bei schwangeren und nicht schwangeren Frauen vor lokaler Nystatin-Behandlung. |
-| [37830930](https://pubmed.ncbi.nlm.nih.gov/37830930/) | 2023 | Tiermodell | Future Microbiology | Im Mausmodell wurde Gentianaviolett mit Nystatin verglichen. |
-| [35136875](https://pubmed.ncbi.nlm.nih.gov/35136875/) | 2022 | Expertenkonsens | Women's Health Reports | Empfehlungen zur topischen Behandlung der rezidivierenden vulvovaginalen Candidose. |
-| [4919155](https://pubmed.ncbi.nlm.nih.gov/4919155/) | 1970 | Übersicht | Medical Clinics of North America | Allgemeine Übersicht zu Nystatin. |
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT03178149](https://clinicaltrials.gov/study/NCT03178149) | Phase 1 | Rekrutierend | 42 | Verträglichkeitsstudie mit ASP7317 bei geografischer Atrophie infolge altersbedingter Makuladegeneration. Kein Bezug zu Nystatin oder zu Erkrankungen der Augenhöhle; vermutlich eine zufällige Zuordnung. |
 
 ---
 
@@ -88,8 +77,8 @@ Keine der gelisteten Arbeiten untersucht Nystatin bei Vulvovaginitis in einer ko
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 33043 | Mycostatin, Suspension zum Einnehmen/für die Mundhöhle | Synthetika | Mykosen |
-| 69093 | Nystafem Combipack 100 000 I.E., Salbe und Vaginaltabletten | Synthetika | Behandlung von vulvovaginalen Candida-Infektionen bei Erwachsenen |
+| 33043 | Mycostatin, suspension buvable/buccale | Synthetika | Mykosen |
+| 69093 | Nystafem Combipack 100 000 U.I., Salbe und Vaginaltabletten | Synthetika | Behandlung von vulvovaginalen Candida-Infektionen bei Erwachsenen |
 | 57263 | Multilind, Suspension zum Einnehmen | Synthetika | Mykosen |
 
 ---
@@ -102,16 +91,16 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus passt gut zur Candida-bedingten Vulvovaginitis, und es gibt in der Schweiz bereits Nystatin-Produkte gegen Pilzinfektionen. Es fehlen aber klinische Studien, und die Sicherheitsdaten sind nicht verfügbar.
+- Für die vorhergesagte Indikation gibt es weder passende klinische Studien noch Literatur und keinen erkennbaren biologischen Zusammenhang (Evidenzniveau L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus den Fachinformationen der Swissmedic-Produkte
-- Bestätigung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Kontrollierte Studien oder Vergleichsdaten, insbesondere bei Fluconazol-resistenter Erkrankung und Nicht-albicans-Arten
-- Beschränkung der Anwendung auf bestätigte Candida-Ursache
+- Ein nachvollziehbarer biologischer Mechanismus, der Nystatin mit Erkrankungen der Augenhöhle verbindet
+- Studien oder Publikationen, die diese Erkrankung direkt untersuchen
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsbewertung
+- Eine Prüfung, ob die lokale Anwendung von Nystatin den betroffenen Bereich überhaupt erreichen kann
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

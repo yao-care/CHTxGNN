@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Cobimetinibum: Amyotrophe Lateralsklerose (amyotrophic lateral sclerosis)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Cobimetinib ist ein Onkologikum, das in der Schweiz im Handel ist. Für die amyotrophe Lateralsklerose (amyotrophic lateral sclerosis) liegt ein hoher Vorhersagewert des Modells vor. Es gibt jedoch keine klinischen Studien und keine Literatur, die diese Vorhersage stützen; die Evidenz beschränkt sich auf die reine Modellvorhersage.
+Cobimetinib ist ein Krebsmedikament, das in der Schweiz als Onkologikum zugelassen ist. Die Modellvorhersage nennt als mögliche neue Anwendung die amyotrophe Lateralsklerose (amyotrophic lateral sclerosis). Dafür gibt es bisher keine klinischen Studien und keine Literatur; die Vorhersage beruht allein auf einer Berechnung (Evidenzniveau L5).
 
 ---
 
@@ -61,23 +59,9 @@ Cobimetinib ist ein Onkologikum, das in der Schweiz im Handel ist. Für die amyo
 
 ### Warum ist diese Vorhersage plausibel?
 
-Cobimetinib hemmt die Kinasen MEK1 und MEK2 und greift damit in den MAPK/ERK-Signalweg ein. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten; diese Einordnung stammt aus allgemeinem Arzneimittelwissen und nicht aus den Daten.
+Cobimetinib hemmt die Enzyme MEK1 und MEK2 und greift damit in den MAPK/ERK-Signalweg ein. Die Angabe zum Wirkmechanismus fehlt in den für diesen Bericht zusammengestellten Daten und stammt aus allgemeinem pharmakologischem Wissen.
 
-Ein möglicher Zusammenhang mit der ALS wäre, dass der MAPK/ERK-Signalweg bei Neuroinflammation und bei Stressreaktionen von Motoneuronen eine Rolle spielen könnte. Dies ist rein spekulativ und durch keine Studie oder Publikation belegt.
-
-Zusätzlich ist fraglich, ob Cobimetinib das zentrale Nervensystem ausreichend erreicht, da es ein Substrat des Transporters P-Glykoprotein ist und die Gehirngängigkeit daher begrenzt sein dürfte. Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Wirksamkeitsnachweis.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Bei der Degeneration von Motoneuronen werden ein gestörter MAPK/ERK-Signalweg und Neuroinflammation diskutiert. Für andere MEK-Hemmer wurden präklinische Arbeiten in ALS-Modellen berichtet. Das ist nur eine indirekte Begründung auf Wirkstoffklassen-Ebene, für Cobimetinib ist sie nicht überprüft. Ein weiteres Problem ist die unklare Fähigkeit von Cobimetinib, ins zentrale Nervensystem zu gelangen. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein klinischer Beleg.
 
 ---
 
@@ -85,13 +69,23 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 65620 | Cotellic 20mg, Filmtabletten | Synthetika | Onkologikum |
+| 65620 | Cotellic 20 mg, Filmtabletten | Synthetika | Onkologikum |
+
+---
+
+### Zytotoxizität
+
+| Punkt | Inhalt |
+|------|------|
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (MEK-Inhibitor) |
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Aus der Fachinformation liegen in den zusammengestellten Daten keine Warnungen oder Kontraindikationen vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Aus der allgemeinen Pharmakologie ist bekannt, dass Cobimetinib mit Augenschäden wie seröser Retinopathie in Verbindung gebracht wird. Dies sollte bei jeder Nutzenabwägung berücksichtigt werden.
 
 ---
 
@@ -100,13 +94,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht ausschliesslich auf einem Modell. Es gibt weder klinische Studien noch Publikationen zur ALS, und der Wirkmechanismus sowie die Gehirngängigkeit sind für diese Anwendung nicht belegt.
+- Für die vorhergesagte Indikation liegen weder klinische Studien noch Literatur vor, der mechanistische Zusammenhang ist nur indirekt und für Cobimetinib nicht belegt.
+- Die Sicherheitsdaten aus der Fachinformation fehlen bislang, und die Passage ins zentrale Nervensystem ist ungeklärt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische Daten oder Literatur, die eine Wirkung der MEK-Hemmung bei ALS belegen
-- Daten zur Gehirngängigkeit von Cobimetinib
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar, Voraussetzung für die Sicherheitsprüfung)
-- Eine ergänzte Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Auswertung der Swissmedic-Fachinformation zu Warnungen und Kontraindikationen
+- Bestätigung des Wirkmechanismus aus einer geprüften Quelle (z. B. DrugBank)
+- Präklinische Daten zu Cobimetinib in ALS-Modellen, einschliesslich Messung der Hirngängigkeit
+- Klärung, ob Nutzen und Risiko (u. a. Augentoxizität) bei dieser Erkrankung vertretbar sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

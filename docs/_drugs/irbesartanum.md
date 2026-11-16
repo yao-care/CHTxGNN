@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 ### Zusammenfassung
 
-Irbesartan ist ein selektiver Blocker des Angiotensin-II-Typ-1-Rezeptors und wird in der Schweiz als blutdrucksenkendes Arzneimittel eingesetzt. Das Modell sagt eine mögliche Wirksamkeit bei maligner hypertensiver Nierenerkrankung (malignant hypertensive renal disease) voraus. Für diese Indikation liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Irbesartan ist ein Angiotensin-II-Rezeptor-Blocker, der in der Schweiz als Blutdrucksenker eingesetzt wird. Für die Vorhersage «maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)» liegen in den für diesen Bericht zusammengestellten Daten weder klinische Studien noch Publikationen vor. Die Vorhersage stützt sich daher allein auf das Rechenmodell (Evidenzniveau L5).
 
 ---
 
@@ -61,11 +61,21 @@ Irbesartan ist ein selektiver Blocker des Angiotensin-II-Typ-1-Rezeptors und wir
 
 ### Warum ist diese Vorhersage plausibel?
 
-Irbesartan blockiert selektiv den AT1-Rezeptor von Angiotensin II. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine eigenen Angaben vor; die Beschreibung stützt sich auf die allgemein bekannte Wirkweise dieser Wirkstoffklasse.
+Irbesartan blockiert den Angiotensin-II-Typ-1-Rezeptor (AT1). Dadurch sinken der Blutdruck und der Druck in den Nierenkörperchen. Das ist biologisch nachvollziehbar für eine durch Bluthochdruck geschädigte Niere. Detaillierte Angaben zum Wirkmechanismus liegen in den Daten nicht vor; die Beschreibung beruht auf dem bekannten Wirkprinzip dieser Wirkstoffklasse.
 
-Bei maligner Hypertonie mit Nierenbeteiligung spielt eine Aktivierung des Renin-Angiotensin-Aldosteron-Systems (RAAS) eine Rolle. Sie trägt zu Schäden an kleinen Arterien und an den Nierenkörperchen bei. Eine Blockade des AT1-Rezeptors ist deshalb biologisch nachvollziehbar. Wahrscheinlich ist die Vorhersage eine Übertragung von der bekannten Anwendung bei Bluthochdruck und diabetischer Nierenerkrankung.
+Der hohe Vorhersagewert ist eine reine Modellvorhersage. Er spiegelt wahrscheinlich einen bereits bekannten Klasseneffekt wider und keine neue Umwidmungschance. Die maligne (beschleunigte) Hypertonie ist zudem ein akuter Notfall, der meist mit intravenösen Medikamenten behandelt wird. Ein orales Sartan eignet sich daher kaum als Haupttherapie.
 
-Wichtig ist die klinische Einordnung: Bei akuter maligner Hypertonie sind schnell wirksame, titrierbare Medikamente zur intravenösen Gabe der Standard. Ein oraler Angiotensin-Rezeptorblocker wäre kein Erstlinienersatz. Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Wirksamkeitsnachweis.
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -81,19 +91,24 @@ Wichtig ist die klinische Einordnung: Bei akuter maligner Hypertonie sind schnel
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur; die Vorhersage ist rein modellbasiert (L5).
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und bei akuter maligner Hypertonie ist ein oraler Wirkstoff nicht der übliche Therapieansatz.
+- Es gibt keine Studien oder Publikationen zu dieser Indikation, und der Vorhersagewert dürfte einen bereits bekannten Klasseneffekt abbilden. Zudem wird die maligne Hypertonie als Notfall üblicherweise intravenös behandelt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Sicherheitsinformationen (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
-- Eine gezielte Literaturrecherche zu AT1-Blockade bei maligner hypertensiver Nierenerkrankung
-- Eine klinische Einordnung, in welcher Behandlungsphase (z. B. Weiterbehandlung nach Stabilisierung) ein oraler Blocker überhaupt sinnvoll wäre
+- Klinische oder präklinische Daten, die Irbesartan direkt bei maligner hypertensiver Nierenerkrankung untersuchen
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen), da diese Angaben derzeit fehlen
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Bei einer Anwendung: Überwachung von Nierenfunktion und Kaliumspiegel
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

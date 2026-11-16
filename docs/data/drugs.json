@@ -576,7 +576,7 @@
     {
       "slug": "atorvastatinum",
       "name": "Atorvastatinum",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 4,
       "original_indication": "",
       "predicted_indication": "",
@@ -746,7 +746,7 @@
     {
       "slug": "betamethasonum",
       "name": "Betamethasonum",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 7,
       "original_indication": "",
       "predicted_indication": "",
@@ -836,7 +836,7 @@
     {
       "slug": "bosentanum",
       "name": "Bosentanum",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "",
       "predicted_indication": "",
@@ -1016,7 +1016,7 @@
     {
       "slug": "carbamazepinum",
       "name": "Carbamazepinum",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "",
       "predicted_indication": "",
@@ -1396,7 +1396,7 @@
     {
       "slug": "clomipramini-hydrochloridum",
       "name": "Clomipramini Hydrochloridum",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "",
       "predicted_indication": "",
@@ -1846,7 +1846,7 @@
     {
       "slug": "docetaxelum",
       "name": "Docetaxelum",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 7,
       "original_indication": "",
       "predicted_indication": "",
@@ -2906,7 +2906,7 @@
     {
       "slug": "idelalisibum",
       "name": "Idelalisibum",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 6,
       "original_indication": "",
       "predicted_indication": "",
@@ -3286,7 +3286,7 @@
     {
       "slug": "lenvatinibum",
       "name": "Lenvatinibum",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 5,
       "original_indication": "",
       "predicted_indication": "",
@@ -3536,7 +3536,7 @@
     {
       "slug": "medroxyprogesteroni-acetas",
       "name": "Medroxyprogesteroni Acetas",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 6,
       "original_indication": "",
       "predicted_indication": "",
@@ -4106,7 +4106,7 @@
     {
       "slug": "ofatumumabum",
       "name": "Ofatumumabum",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 4,
       "original_indication": "",
       "predicted_indication": "",
@@ -4326,7 +4326,7 @@
     {
       "slug": "pazopanibum",
       "name": "Pazopanibum",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 6,
       "original_indication": "",
       "predicted_indication": "",
@@ -4676,7 +4676,7 @@
     {
       "slug": "pravastatinum-natricum",
       "name": "Pravastatinum Natricum",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 6,
       "original_indication": "",
       "predicted_indication": "",
@@ -4796,7 +4796,7 @@
     {
       "slug": "propylthiouracilum",
       "name": "Propylthiouracilum",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 2,
       "original_indication": "",
       "predicted_indication": "",
@@ -4886,7 +4886,7 @@
     {
       "slug": "ranibizumabum",
       "name": "Ranibizumabum",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "",
@@ -5296,7 +5296,7 @@
     {
       "slug": "sirolimusum",
       "name": "Sirolimusum",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
       "predicted_indication": "",
@@ -5426,7 +5426,7 @@
     {
       "slug": "sunitinibum",
       "name": "Sunitinibum",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 5,
       "original_indication": "",
       "predicted_indication": "",
@@ -5866,7 +5866,7 @@
     {
       "slug": "trazodonum",
       "name": "Trazodonum",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "",
@@ -6136,7 +6136,7 @@
     {
       "slug": "vinorelbinum",
       "name": "Vinorelbinum",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "",
       "predicted_indication": "",

@@ -9,7 +9,7 @@ drugbank_id: DB15233
 monitor_inn: "Avapritinib"
 predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
 last_modified_at: 2026-11-16
-description: "Avapritinibum: vorhergesagte neue Indikation Axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia) (Evidenzstufe L5)."
+description: "Avapritinibum: vorhergesagte neue Indikation axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia) (Evidenzstufe L5)."
 ---
 
 # Avapritinibum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Avapritinibum: Axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia)
+## Avapritinibum: axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Avapritinib ist ein Kinaseinhibitor, der in der Schweiz zugelassen ist und im Handel angeboten wird. Die TxGNN-Modellvorhersage nennt als mögliche neue Anwendung die axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia), eine seltene Skeletterkrankung. Dafür liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Rechenmodell (Evidenzniveau L5).
+Avapritinib ist ein selektiver Hemmstoff der Tyrosinkinasen KIT und PDGFRA. Für die Vorhersage der axialen spondylometaphysären Dysplasie (axial spondylometaphyseal dysplasia), einer seltenen Skeletterkrankung, liegt ein sehr hoher TxGNN-Wert vor. Es gibt dafür aber keine klinischen Studien und keine Literatur; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +50,7 @@ Avapritinib ist ein Kinaseinhibitor, der in der Schweiz zugelassen ist und im Ha
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Gastrointestinaler Stromatumor (GIST) und Fortgeschrittene systemische Mastozytose (AdvSM) |
-| Vorhergesagte neue Indikation | Axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia) |
+| Vorhergesagte neue Indikation | axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,9 +61,23 @@ Avapritinib ist ein Kinaseinhibitor, der in der Schweiz zugelassen ist und im Ha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Avapritinib ist in den vorliegenden Daten nicht hinterlegt. Bekannt ist die Einordnung als Hemmer der Kinasen KIT und PDGFRA.
+Avapritinib hemmt gezielt KIT und PDGFRA, einschliesslich der Mutanten PDGFRA D842V und KIT Exon 17. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Ein nachvollziehbarer Zusammenhang zwischen dieser Hemmung und der vorhergesagten Erkrankung ist in den zusammengestellten Daten nicht belegt. Die axiale spondylometaphysäre Dysplasie wird mit Varianten im Gen CFAP410 in Verbindung gebracht, das für die Funktion der Zilien eine Rolle spielt. Der hohe Vorhersagewert ist ein reines Rechenergebnis und kein Hinweis auf eine tatsächliche Wirksamkeit. Die Vorhersage sollte daher als Hypothese und nicht als Begründung für einen Einsatz verstanden werden.
+Die axiale spondylometaphysäre Dysplasie ist eine seltene Skeletterkrankung. Sie wird mit Varianten im Gen CFAP410 (C21orf2) in Verbindung gebracht, die die Entwicklung der Zilien und des Skeletts betreffen. Ein belegter Zusammenhang mit der KIT- oder PDGFRA-Signalübertragung wurde nicht gefunden.
+
+Der hohe Vorhersagewert ist daher ein rein rechnerisches Ergebnis des Modells. Ein plausibler biologischer Mechanismus, der die Anwendung von Avapritinib bei dieser Erkrankung stützen würde, ist derzeit nicht erkennbar.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -81,13 +95,13 @@ Ein nachvollziehbarer Zusammenhang zwischen dieser Hemmung und der vorhergesagte
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie |
 
-Weitere Angaben zu Myelosuppression, Emetogenität, Überwachung und Handhabungsschutz liegen in den zusammengestellten Daten nicht vor und sind der Fachinformation zu entnehmen.
-
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für die Sicherheitsinformationen beachten Sie bitte die Fachinformation. Zu Warnungen, Kontraindikationen und Wechselwirkungen liegen in den zusammengestellten Daten keine Angaben vor.
+
+Hinweis aus der mechanistischen Bewertung: Avapritinib kann zentralnervöse Nebenwirkungen verursachen (kognitive Effekte, intrakranielle Blutungen).
 
 ---
 
@@ -96,13 +110,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch Literatur zur vorhergesagten Erkrankung, und ein mechanistischer Zusammenhang ist nicht erkennbar. Der hohe Vorhersagewert allein reicht nicht für eine weitere Verfolgung.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell. Es gibt weder Studien noch Literatur noch einen erkennbaren Mechanismus, der KIT/PDGFRA mit dieser Erkrankung verbindet.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein belegter biologischer Zusammenhang zwischen KIT/PDGFRA-Hemmung und der Erkrankung, etwa aus präklinischen Studien
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic
-- Ergänzung der Angaben zum Wirkmechanismus aus DrugBank
-- Prüfung von Wechselwirkungen und Sicherheit für die betroffene Patientengruppe
+- Präklinische Daten oder Mechanismusstudien, die eine Rolle von KIT/PDGFRA bei dieser Erkrankung belegen
+- Vollständige Sicherheitsdaten aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
+- Angaben zum Wirkmechanismus aus einer weiteren Arzneimittelquelle
+- Prüfung, ob die Darreichungsform (Filmtabletten) für die Erkrankung geeignet ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

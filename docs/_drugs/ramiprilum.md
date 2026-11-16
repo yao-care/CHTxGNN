@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Ramiprilum: Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Ramipril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Als neue Indikation wird eine pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) vorhergesagt. Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Ramipril ist ein Arzneimittel, das in der Schweiz mit mehreren Zulassungen im Handel ist. Für die vorhergesagte neue Indikation, die pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism), liegt ein sehr hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Publikationen; die Evidenz beschränkt sich auf die Modellvorhersage (Evidenzniveau L5).
 
 ---
 
@@ -59,15 +61,15 @@ Ramipril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Als neue Indikati
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Ramipril liegen in den zusammengestellten Daten keine Angaben vor. Als ACE-Hemmer vermindert es allgemein die Bildung von Angiotensin II. Dieses wirkt gefässverengend und fördert den Umbau der Gefässwände.
+Zum Wirkmechanismus von Ramipril liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist allgemein, dass Ramipril zu den ACE-Hemmern gehört und damit in das Renin-Angiotensin-System (RAS) eingreift.
 
-Theoretisch könnte eine Hemmung dieses Systems auch die Gefässveränderungen in der Lunge abschwächen. Dieser Zusammenhang ist jedoch nicht belegt: Es wurden weder klinische Studien noch Publikationen zu dieser Erkrankung gefunden. Systemisch wirkende ACE-Hemmer haben zudem keinen etablierten Stellenwert bei der pulmonal-arteriellen Hypertonie. Die Vorhersage ist daher als Hypothese zu verstehen.
+Denkbar wäre, dass eine Hemmung des RAS den Umbau der Lungengefässe beeinflusst. Dieser Zusammenhang ist hier jedoch nicht belegt, sondern rein hypothetisch. Die Vorhersage stützt sich ausschliesslich auf den hohen Modellwert; Studien zur pulmonalen Hypertonie mit unklarem multifaktoriellem Mechanismus liegen nicht vor.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 3 Zulassungen erfasst, alle gültig.
+Mindestens 3 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -82,13 +84,14 @@ Die Liste kann unvollständig sein; es sind mindestens 3 Zulassungen erfasst, al
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur. Die Vorhersage stützt sich ausschliesslich auf das Modell (L5).
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und systemische ACE-Hemmer haben bei pulmonaler Hypertonie keinen etablierten Nutzen.
+- Die Vorhersage beruht allein auf dem Modellwert (0,9993). Es gibt weder klinische Studien noch Literatur, die diese Erkrankung direkt untersuchen.
+- Die Sicherheitsdaten aus der Fachinformation fehlen bislang, daher ist keine Sicherheitsbewertung möglich.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Präklinische und klinische Daten, die ausdrücklich die pulmonale Hypertonie untersuchen
+- Präklinische und klinische Daten, die Ramipril direkt bei dieser Form der pulmonalen Hypertonie untersuchen
+- Angaben zum Wirkmechanismus (z. B. aus DrugBank)
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Eine Prüfung der Darreichungsform und Dosierung für die neue Indikation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

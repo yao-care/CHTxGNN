@@ -9,7 +9,7 @@ drugbank_id: DB09104
 monitor_inn: "Magnesium hydroxide"
 predicted_indications: ["stomach disease"]
 last_modified_at: 2026-11-16
-description: "Magnesii Hydroxidum: vorhergesagte neue Indikation Stomach disease (Evidenzstufe L3). Ursprüngliche Indikation: Laxativum und Antazidum"
+description: "Magnesii Hydroxidum: vorhergesagte neue Indikation Magenerkrankung (stomach disease) (Evidenzstufe L3). Ursprüngliche Indikation: Laxativum und Antazidum"
 ---
 
 # Magnesii Hydroxidum
@@ -34,14 +34,14 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Magnesii Hydroxidum: Stomach disease
+## Magnesii Hydroxidum: Magenerkrankung (stomach disease)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Magnesiumhydroxid ist in der Schweiz im Handel. Die aktuell zugelassene Indikation ist in der Kurzübersicht aufgeführt.
+Magnesiumhydroxid ist ein Arzneimittel, das in der Schweiz im Handel ist. Vorhergesagt wird eine mögliche Wirksamkeit bei Magenerkrankungen (stomach disease). Die Evidenz ist begrenzt (Niveau L3): Es gibt keine registrierten klinischen Studien, und die Literatur besteht überwiegend aus älteren Übersichten und Studien zu Kombinationspräparaten mit Aluminiumhydroxid. Magnesiumhydroxid allein wird kaum untersucht.
 
 ---
 
@@ -50,22 +50,22 @@ Magnesiumhydroxid ist in der Schweiz im Handel. Die aktuell zugelassene Indikati
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Laxativum und Antazidum |
-| Vorhergesagte neue Indikation | Stomach disease |
+| Vorhergesagte neue Indikation | Magenerkrankung (stomach disease) |
 | TxGNN-Vorhersagewert | 0.9923 |
 | Evidenzniveau | L3 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine formalen Angaben vor. Aus der Wirkstoffklasse ergibt sich aber eine gut bekannte Wirkung: Magnesiumhydroxid neutralisiert Salzsäure im Magen und hebt den pH-Wert im Magen an. Dadurch sinkt die Aktivität des Pepsins, was die Abheilung von Geschwüren unterstützen kann.
+Magnesiumhydroxid neutralisiert Salzsäure im Magen und erhöht so den pH-Wert im Mageninneren. Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Die Beschreibung stützt sich daher auf die allgemein bekannte Pharmakologie von Antazida.
 
-Bei einem aktiven Magen- oder Zwölffingerdarmgeschwür trägt die aggressive Säure- und Pepsinwirkung auf die Schleimhaut wesentlich zur Gewebeschädigung bei. Eine Pufferung der Säure setzt direkt an diesem Faktor an. Ältere klinische Arbeiten berichten, dass Aluminium-Magnesiumhydroxid-Gemische Magen- und Zwölffingerdarmgeschwüre abheilen liessen, besser als Placebo und vergleichbar mit H2-Rezeptor-Antagonisten.
+Die Säureneutralisation passt direkt zu säurebedingten Magenbeschwerden wie Dyspepsie, Magengeschwür oder Übersäuerung. Der hohe Vorhersagewert ist mit dieser Pharmakologie vereinbar.
 
-Hinzu kommt ein möglicher zusätzlicher Schutzeffekt auf die Schleimhaut. In Rattenmodellen verhinderte ein Aluminium-Magnesiumhydroxid-Antazidum Schleimhautläsionen, offenbar über körpereigene Prostaglandine. Dieser Befund stammt aus dem Tierversuch und ist für den Menschen nicht bestätigt.
+Die Vorhersage ist allerdings eher eine Bestätigung eines bekannten Wirkprinzips als ein echter neuer Anwendungsbereich. Ein dokumentierter Ausgangspunkt für die Einordnung fehlt in den Daten. Zudem betreffen mehrere der zitierten Arbeiten Präparate mit Aluminiumhydroxid oder Kombinationsprodukte. Das schwächt den Bezug zu Magnesiumhydroxid allein.
 
 ---
 
@@ -77,18 +77,17 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Literaturbelege
 
-Die Publikationen untersuchen fast durchwegs Kombinationspräparate mit Aluminiumhydroxid, nicht Magnesiumhydroxid allein.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [4059297](https://pubmed.ncbi.nlm.nih.gov/4059297/) | 1985 | RCT (Antazida als Vergleich) | Pharmatherapeutica | 30 ambulante Patienten mit aktivem Zwölffingerdarmgeschwür, 8 Wochen: Aluminium- und Magnesiumhydroxid allein, Triletid allein oder beides kombiniert. Endoskopische Beurteilung nach 8 Wochen. |
-| [3903784](https://pubmed.ncbi.nlm.nih.gov/3903784/) | 1985 | RCT (Antazida als Vergleich) | Pharmatherapeutica | 30 ambulante Patienten mit Magen- oder Zwölffingerdarmgeschwür: Aluminium- und Magnesiumhydroxid allein oder zusammen mit Triletid über 8 Wochen. |
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Klinisch-physiologische Studie | Journal of Clinical Gastroenterology | Vergleich der Pufferwirkung nach der Mahlzeit bei Patienten mit Zwölffingerdarmgeschwür: Natriumbicarbonat gegenüber Aluminium-Magnesiumhydroxid. |
-| [2228342](https://pubmed.ncbi.nlm.nih.gov/2228342/) | 1990 | Übersicht | International Journal of Clinical Pharmacology Research | Schutz der Magen-Darm-Schleimhaut durch Antazida. Untersucht wurde bei 28 Patienten mit Geschwür im Magenantrum, ob ein Aluminium-Magnesiumhydroxid-Präparat die Prostanoid-Bildung verändert. Das Ergebnis ist im vorliegenden Abstract nicht vollständig wiedergegeben. |
-| [3660893](https://pubmed.ncbi.nlm.nih.gov/3660893/) | 1987 | Übersicht | Zeitschrift für Gastroenterologie | Klinische Untersuchungen: Aluminium-Magnesiumhydroxid-Gemische heilten Magen- und Zwölffingerdarmgeschwüre, besser als Placebo und vergleichbar mit H2-Rezeptor-Antagonisten. |
-| [9305482](https://pubmed.ncbi.nlm.nih.gov/9305482/) | 1997 | Kohortenstudie | Alimentary Pharmacology & Therapeutics | Bei Patienten mit Zwölffingerdarmgeschwür verstärkten H2-Rezeptor-Antagonisten und Antazida die Helicobacter-pylori-Gastritis. Das ist ein möglicher Nachteil der Säurepufferung. |
-| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Tierstudie | Scandinavian Journal of Gastroenterology | Bei Ratten verhinderte das Antazidum dosisabhängig Magenläsionen (Ethanol, Aspirin, Stress), ähnlich wie ein Prostaglandin-E2-Analogon. |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In-vitro-/Produktqualitätsstudie | Medicine and Pharmacy Reports | Bewertung der Säureneutralisationskapazität von Antazida auf dem marokkanischen Markt. Kein direkter Bezug zur Ulkusheilung. |
+| [6519637](https://pubmed.ncbi.nlm.nih.gov/6519637/) | 1984 | RCT | Hepato-gastroenterology | Zwölffingerdarmgeschwür: Rückfälle nach Behandlung mit konzentriertem Aluminium-Magnesiumhydroxid bei 92,3 % (24 von 26) und mit Cimetidin bei 76,2 % (16 von 21). Der Unterschied war nicht signifikant. |
+| [6617982](https://pubmed.ncbi.nlm.nih.gov/6617982/) | 1983 | Offene Anwendungsstudie | The Journal of International Medical Research | 109 Patienten mit funktionellen Beschwerden des oberen Verdauungstrakts. 67–73 % der Symptome waren unter einem hochwirksamen Antazidum vollständig verschwunden. |
+| [2228342](https://pubmed.ncbi.nlm.nih.gov/2228342/) | 1990 | Klinische Untersuchung (in den Daten als Übersicht eingestuft) | International Journal of Clinical Pharmacology Research | 28 Patienten mit Magengeschwür im Antrum. Untersucht wurde, ob eine Aluminium-/Magnesiumhydroxid-Kombination die Prostanoid-Bildung in der Magenschleimhaut verändert. Das Ergebnis ist im vorliegenden Abstract abgeschnitten. |
+| [3660893](https://pubmed.ncbi.nlm.nih.gov/3660893/) | 1987 | Fachartikel | Zeitschrift für Gastroenterologie | Antazida-Mischungen aus Aluminium-Magnesiumhydroxid heilten Magen- und Zwölffingerdarmgeschwüre ebenso gut wie H2-Blocker und besser als Placebo. |
+| [3604202](https://pubmed.ncbi.nlm.nih.gov/3604202/) | 1987 | Klinische Studie | Vutreshni bolesti | 20 Patienten mit Zwölffingerdarmgeschwür, behandelt mit einem Kombinationspräparat (u. a. Aluminium- und Magnesiumhydroxid). Einzelne Symptome besserten sich bei 50–80 %. |
+| [3213266](https://pubmed.ncbi.nlm.nih.gov/3213266/) | 1988 | Klinische Studie | Zeitschrift für Rheumatologie | 21 Patienten mit Magen- oder Zwölffingerdarmgeschwür unter fortgesetzter Rheumatherapie, behandelt mit Ranitidin und Antazida. Das Ergebnis ist im vorliegenden Abstract abgeschnitten. |
+| [6755653](https://pubmed.ncbi.nlm.nih.gov/6755653/) | 1982 | Übersicht | Scandinavian Journal of Gastroenterology. Supplement | Antazida beschleunigen die Geschwürheilung und verhindern Blutungen aus Stressgeschwüren. Zudem werden Gastrin-Freisetzung und «Säure-Rebound» beschrieben. |
+| [236651](https://pubmed.ncbi.nlm.nih.gov/236651/) | 1975 | Übersicht | American Journal of Hospital Pharmacy | Flüssige Antazida sollen mindestens eine Stunde nach jeder Mahlzeit und vor dem Schlafen gegeben werden. In der akuten Phase säurebedingter Erkrankungen wird stündliche Gabe empfohlen. |
+| [6959250](https://pubmed.ncbi.nlm.nih.gov/6959250/) | 1982 | Übersicht | Scandinavian Journal of Gastroenterology. Supplement | Beschreibt eine Methode zur Messung von Magensekretion und Magenentleerung unter Antazida-Therapie, auch für Aluminium- und Magnesiumhydroxid. |
 
 ---
 
@@ -100,17 +99,17 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus ist plausibel, und mehrere kleine klinische Studien mit Aluminium-Magnesiumhydroxid-Kombinationen untersuchten aktive Geschwüre. Sie stammen jedoch aus den 1980er-Jahren und sind klein.
-- Registrierte klinische Studien und Sicherheitsangaben aus der Schweizer Fachinformation fehlen. Studien zu Magnesiumhydroxid allein sind in den vorliegenden Daten nicht enthalten.
+- Der Vorhersagewert ist hoch, die Vorhersage entspricht aber eher einem bekannten Wirkprinzip als einer neuen Anwendung. Die Literatur betrifft überwiegend ältere Arbeiten und Kombinationspräparate, nicht Magnesiumhydroxid allein.
+- Die Sicherheitsinformationen aus der Fachinformation fehlen. Das ist eine blockierende Datenlücke für die weitere Prüfung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Schweizer Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen). Diese Sicherheitsprüfung ist derzeit blockiert.
-- Belege speziell für Magnesiumhydroxid als Einzelwirkstoff bei aktivem Ulkus, nicht nur für Kombinationen mit Aluminiumhydroxid.
-- Einordnung gegenüber heutigen Standardtherapien (z. B. Säurehemmer, Helicobacter-pylori-Eradikation) anhand aktueller Leitlinien.
-- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (PDF herunterladen und auswerten)
+- Der Wirkmechanismus von Magnesiumhydroxid aus einer zuverlässigen Quelle (z. B. DrugBank)
+- Studien, die Magnesiumhydroxid allein bei Magenerkrankungen untersuchen
+- Eine Klärung, ob die Vorhersage einen echten neuen Nutzen beschreibt oder nur eine bekannte Anwendung bestätigt
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

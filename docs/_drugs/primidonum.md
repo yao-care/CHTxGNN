@@ -9,7 +9,7 @@ drugbank_id: DB00794
 monitor_inn: "Primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-11-16
-description: "Primidonum: vorhergesagte neue Indikation Trigeminusnerventumor (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
+description: "Primidonum: vorhergesagte neue Indikation Trigeminus-Nerventumor (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
 # Primidonum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Primidonum: Trigeminusnerventumor (trigeminal nerve neoplasm)
+## Primidonum: Trigeminus-Nerventumor (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Primidon ist ein Barbituratderivat, das in der Schweiz im Handel ist. Die Vorhersage nennt als neue Indikation einen Tumor des Trigeminusnervs (trigeminal nerve neoplasm). Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Primidon ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die vorhergesagte neue Indikation Trigeminus-Nerventumor (trigeminal nerve neoplasm) liegt ausschliesslich eine Modellvorhersage vor; es gibt weder klinische Studien noch Literatur dazu. Die Evidenz ist damit auf dem niedrigsten Niveau (L5).
 
 ---
 
@@ -50,7 +50,7 @@ Primidon ist ein Barbituratderivat, das in der Schweiz im Handel ist. Die Vorher
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiepilepticum |
-| Vorhergesagte neue Indikation | Trigeminusnerventumor (trigeminal nerve neoplasm) |
+| Vorhergesagte neue Indikation | Trigeminus-Nerventumor (trigeminal nerve neoplasm) |
 | TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,9 +61,11 @@ Primidon ist ein Barbituratderivat, das in der Schweiz im Handel ist. Die Vorher
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Primidon liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass der Wirkstoff im Körper unter anderem zu Phenobarbital und PEMA umgewandelt wird. Für Nervenerkrankungen mit Anfallsgeschehen ist der Mechanismus nachvollziehbar, für Tumoren dagegen nicht.
+Der Wirkmechanismus von Primidon ist in den vorliegenden Daten nicht erfasst. Bekannt ist, dass Primidon ein Antikonvulsivum ist und im Körper zu Phenobarbital und PEMA abgebaut wird. Eine krebshemmende Wirkung ist nicht belegt.
 
-Der hohe Vorhersagewert entsteht vermutlich dadurch, dass Primidon im Modell nahe an Knoten liegt, die mit dem Trigeminusnerv und mit Anfällen zu tun haben. Eine tumorhemmende Wirkung ist von Primidon nicht bekannt. Ein plausibler biologischer Zusammenhang mit einem Nerventumor ist daher derzeit nicht erkennbar. Auch eine Prüfung der Ähnlichkeit zur ursprünglichen Indikation und der Anwendungswege steht noch aus.
+Ein nachvollziehbarer Wirkzusammenhang mit einem Tumor des Trigeminusnervs ergibt sich aus den vorliegenden Daten nicht. Der sehr hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Möglicherweise spiegelt er die Nähe zu Trigeminus-bezogenen Krankheitsbildern (etwa der Trigeminusneuralgie) wider und nicht eine tatsächliche Wirkung gegen Tumoren.
+
+Die Beziehung zwischen der bisherigen Anwendung (Epilepsie) und der vorhergesagten Indikation (Tumor) ist daher derzeit nicht begründet und müsste erst durch Daten gestützt werden.
 
 ---
 
@@ -81,11 +83,9 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Hersteller |
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 17885 | Mysoline, Tabletten | Synthetika | Curatis AG |
-
-Die Zulassung ist gültig, es handelt sich um ein Einzelwirkstoff-Präparat.
+| 17885 | Mysoline, Tabletten | Synthetika | Antiepilepticum |
 
 ---
 
@@ -100,14 +100,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den Trigeminusnerventumor gibt es weder klinische noch literaturbasierte Belege. Ein antineoplastischer Mechanismus von Primidon ist nicht bekannt, der hohe Vorhersagewert allein reicht daher nicht.
+- Die Vorhersage stützt sich allein auf ein Modell; es gibt weder Studien noch Literatur und keinen erkennbaren Wirkmechanismus gegen Tumoren.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Mechanistische Belege oder präklinische Daten, die eine Wirkung von Primidon oder seinen Metaboliten auf Nerventumoren stützen
-- Eine Literaturrecherche gezielt zu Primidon bei Tumoren des Trigeminusnervs
-- Angaben zum Wirkmechanismus von Primidon
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
-- Klärung von Ähnlichkeit zur ursprünglichen Indikation und Anwendungswegen
+- Klärung des Wirkmechanismus von Primidon (z. B. über DrugBank)
+- Auswertung der Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
+- Präklinische oder klinische Daten, die eine Wirkung bei Trigeminus-Nerventumoren direkt untersuchen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Tretinoin ist in der Schweiz als Kapsel zugelassen. Das Modell sagt voraus, dass es bei der rheumatoiden Nodulose (rheumatoid nodulosis) wirksam sein könnte. Für diese Vorhersage liegen keine klinischen Studien und keine Literatur vor; sie beruht allein auf einer Modellrechnung (Evidenzniveau L5).
+Tretinoin ist in der Schweiz als Weichkapsel im Handel. Als mögliche neue Anwendung sagt das Modell die rheumatoide Nodulose (rheumatoid nodulosis) voraus. Diese Vorhersage beruht allein auf einer Modellrechnung: Es liegen weder klinische Studien noch passende Publikationen vor.
 
 ---
 
@@ -61,9 +61,23 @@ Tretinoin ist in der Schweiz als Kapsel zugelassen. Das Modell sagt voraus, dass
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Tretinoin ist in den zusammengestellten Daten nicht hinterlegt. Allgemein wirkt Tretinoin (all-trans-Retinsäure) über Retinsäure-Rezeptoren (RAR) und beeinflusst dadurch Zelldifferenzierung und Immunreaktionen. Beschrieben sind unter anderem Effekte auf das Gleichgewicht zwischen Th17- und Treg-Zellen.
+Zum Wirkmechanismus von Tretinoin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein wirken Retinoide über Retinoidrezeptoren (RAR/RXR), die Zelldifferenzierung und Entzündungsprozesse beeinflussen können.
 
-Eine direkte Verbindung zur Bildung von Rheumaknoten ist jedoch nicht belegt. Die Plausibilität beruht allein auf der allgemeinen entzündungshemmenden und immunmodulierenden Wirkung der Retinoide. Der Vorhersagewert ist ein Modellergebnis und kein Wirksamkeitsnachweis.
+Ein denkbarer Zusammenhang wäre eine Beeinflussung von Immunzellen, etwa der T-Zell-Differenzierung und der Aktivität von Makrophagen. Dies ist jedoch eine Hypothese. Für die rheumatoide Nodulose gibt es in den vorliegenden Daten keinen Beleg, der Tretinoin mit dieser Erkrankung verbindet.
+
+Der hohe Vorhersagewert ist daher ein Hinweis für weitere Abklärungen, aber kein Wirksamkeitsnachweis.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Zur rheumatoiden Nodulose liegt keine Literatur vor. Die beiden für andere Vorhersagen (Arthrose) gefundenen Publikationen betreffen keine Wirkung von Tretinoin bei der vorhergesagten Erkrankung und werden hier nicht als Beleg gewertet.
 
 ---
 
@@ -81,7 +95,7 @@ Eine direkte Verbindung zur Bildung von Rheumaknoten ist jedoch nicht belegt. Di
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Differenzierungstherapie) |
 
-Weitere Angaben zu Myelosuppression, Emetogenität, Überwachung und Handhabungsschutz liegen in den zusammengestellten Daten nicht vor.
+Weitere Angaben (Myelosuppressionsrisiko, Emetogenität, Überwachung, Handhabungsschutz) sind in den vorliegenden Daten nicht enthalten und der Fachinformation zu entnehmen.
 
 ---
 
@@ -89,7 +103,7 @@ Weitere Angaben zu Myelosuppression, Emetogenität, Überwachung und Handhabungs
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
-Hinweis aus der Bewertung der Vorhersage: Systemische Retinoide gelten als teratogen. Das ist bei einer Anwendung bei Patientinnen im gebärfähigen Alter ein zentraler Punkt.
+Zusätzlich ist aus allgemeinem Wissen zu systemischen Retinoiden zu beachten, dass sie fruchtschädigend wirken können. Diese Angabe stammt nicht aus den zusammengestellten Daten und muss anhand der Fachinformation überprüft werden.
 
 ---
 
@@ -98,14 +112,13 @@ Hinweis aus der Bewertung der Vorhersage: Systemische Retinoide gelten als terat
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Vorhersage gibt es weder klinische Studien noch Literatur, die die rheumatoide Nodulose direkt untersuchen. Sie bleibt eine reine Modellvorhersage (L5).
-- Die Sicherheitsdaten und der Wirkmechanismus fehlen in den zusammengestellten Daten.
+- Die Vorhersage stützt sich ausschliesslich auf ein Modell (Evidenzniveau L5). Es gibt weder Studien noch Publikationen zur rheumatoiden Nodulose, und die Sicherheitsdaten fehlen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
-- Wirkmechanismus aus DrugBank
-- Präklinische oder klinische Hinweise auf einen Zusammenhang zwischen Retinsäure-Signalwegen und Rheumaknoten
-- Prüfung der Verträglichkeit und der Teratogenität für ein mögliches Studiendesign
+- Eine gezielte Literaturrecherche zu Retinoiden und rheumatoider Nodulose
+- Der Wirkmechanismus von Tretinoin aus einer verlässlichen Quelle (z. B. DrugBank)
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Eine fachliche Einschätzung durch die Rheumatologie, bevor präklinische oder klinische Schritte erwogen werden
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

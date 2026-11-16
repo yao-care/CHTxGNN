@@ -9,7 +9,7 @@ drugbank_id: DB00305
 monitor_inn: "Mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 last_modified_at: 2026-11-16
-description: "Mitomycinum: vorhergesagte neue Indikation Solide pseudopapilläre Neoplasie des Pankreas (solid pseudopapillary carcinoma of pancreas) (Evidenzstufe L5). Ursprüngliche Indikation: cytostatique"
+description: "Mitomycinum: vorhergesagte neue Indikation Solides pseudopapilläres Pankreaskarzinom (solid pseudopapillary carcinoma of pancreas) (Evidenzstufe L5). Ursprüngliche Indikation: cytostatique"
 ---
 
 # Mitomycinum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Mitomycinum: Solide pseudopapilläre Neoplasie des Pankreas (solid pseudopapillary carcinoma of pancreas)
+## Mitomycinum: Solides pseudopapilläres Pankreaskarzinom (solid pseudopapillary carcinoma of pancreas)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Mitomycin ist ein Zytostatikum, das in der Schweiz im Handel ist. Für die vorhergesagte neue Anwendung, das solide pseudopapilläre Karzinom des Pankreas (solid pseudopapillary carcinoma of pancreas), liegen in den zusammengestellten Daten weder klinische Studien noch Publikationen vor. Die Vorhersage beruht allein auf einem hohen Modellwert, die Evidenz entspricht daher dem Niveau L5.
+Mitomycin (Mitem) ist in der Schweiz als Zytostatikum zugelassen. Die Modellvorhersage legt nahe, dass es bei einem soliden pseudopapillären Pankreaskarzinom (solid pseudopapillary carcinoma of pancreas) wirksam sein könnte. Diese Vorhersage beruht ausschliesslich auf einem Rechenmodell: Es liegen keine klinischen Studien und keine Literatur zu dieser Erkrankung vor.
 
 ---
 
@@ -48,7 +50,7 @@ Mitomycin ist ein Zytostatikum, das in der Schweiz im Handel ist. Für die vorhe
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | cytostatique |
-| Vorhergesagte neue Indikation | Solide pseudopapilläre Neoplasie des Pankreas (solid pseudopapillary carcinoma of pancreas) |
+| Vorhergesagte neue Indikation | Solides pseudopapilläres Pankreaskarzinom (solid pseudopapillary carcinoma of pancreas) |
 | TxGNN-Vorhersagewert | 0.9986 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,9 +61,21 @@ Mitomycin ist ein Zytostatikum, das in der Schweiz im Handel ist. Für die vorhe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Mitomycin C wirkt als alkylierende Substanz: Es wird in der Zelle bioreduktiv aktiviert und vernetzt anschliessend die DNA. Dadurch wird die Zellteilung gehemmt, was vor allem schnell wachsende Tumorzellen trifft. Die Angaben zum Wirkmechanismus in den zusammengestellten Daten sind allerdings unvollständig; die obige Beschreibung entspricht dem allgemein bekannten Wirkprinzip.
+Mitomycin C ist ein DNA-vernetzender Wirkstoff, der im Körper durch Reduktion aktiviert wird und die DNA-Synthese hemmt. Die Wirkung beruht also auf einer allgemeinen zytotoxischen Schädigung teilungsaktiver Zellen. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind lückenhaft; die Beschreibung stützt sich auf das allgemeine pharmakologische Wissen.
 
-Ein solcher zytotoxischer Mechanismus könnte grundsätzlich auch bei Tumoren der Bauchspeicheldrüse eine Rolle spielen. Für diesen seltenen Tumortyp gibt es jedoch keine Studien oder Publikationen, die das belegen. Die Verbindung ist rein rechnerisch und stützt sich nur auf den hohen Vorhersagewert.
+Eine zytotoxische Aktivität gegen Tumoren der Bauchspeicheldrüse ist deshalb grundsätzlich denkbar. Das solide pseudopapilläre Pankreaskarzinom ist jedoch selten und meist wenig aggressiv. Es wird hauptsächlich chirurgisch behandelt. Der hohe Vorhersagewert allein ersetzt keine klinischen Belege.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -79,9 +93,9 @@ Ein solcher zytotoxischer Mechanismus könnte grundsätzlich auch bei Tumoren de
 |------|------|
 | Zytotoxizitätsklassifikation | Konventionell zytotoxisch |
 | Myelosuppressionsrisiko | Hoch |
-| Emetogenitätsklassifikation | Mittel |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-| Handhabungsschutz | Ja, spezielle Schutzmassnahmen für Zytostatika erforderlich |
+| Emetogenitätsklassifikation | Niedrig |
+| Überwachungspunkte | Blutbild, Leberfunktion, Nierenfunktion |
+| Handhabungsschutz | Ja, als zytotoxischer Wirkstoff sind die üblichen Schutzmassnahmen für die Zubereitung und Handhabung erforderlich |
 
 ---
 
@@ -96,14 +110,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf einen Modellwert; für die Erkrankung liegen weder Studien noch Literatur vor (Evidenzniveau L5).
-- Sicherheitsdaten aus der Fachinformation fehlen bislang, sodass eine Sicherheitsbewertung nicht möglich ist.
+- Die Vorhersage stützt sich allein auf ein Rechenmodell (Evidenzniveau L5). Es gibt weder Studien noch Publikationen zu dieser seltenen, überwiegend chirurgisch behandelten Erkrankung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Download und Auswertung des Dokuments).
-- Eine Literatur- und Studienrecherche, die gezielt Mitomycin beim soliden pseudopapillären Karzinom des Pankreas untersucht.
-- Eine Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
-- Eine Prüfung, ob die Darreichungsform (Injektion/Infusion) für die vorgesehene Anwendung geeignet ist.
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar; blockiert die Sicherheitsprüfung)
+- Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Klinische oder präklinische Daten, die Mitomycin bei dieser Erkrankung direkt untersuchen
+- Eine Prüfung des Nutzens gegenüber der chirurgischen Standardbehandlung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

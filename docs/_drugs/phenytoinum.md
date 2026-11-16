@@ -9,7 +9,7 @@ drugbank_id: DB00252
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-11-16
-description: "Phenytoinum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
+description: "Phenytoinum: vorhergesagte neue Indikation Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
 # Phenytoinum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Phenytoinum: Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm)
+## Phenytoinum: Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Phenytoin ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die Vorhersage einer Wirksamkeit bei Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) gibt es keine direkte Evidenz: Es liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung selbst untersuchen. Die Vorhersage beruht allein auf dem Modell und vermutlich auf einer symptomatischen Überschneidung mit der Trigeminusneuralgie.
+Phenytoin ist in der Schweiz als Antiepileptikum im Handel. Die Modellvorhersage nennt als neue mögliche Indikation die Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm). Dafür gibt es keine direkte Evidenz: keine registrierten klinischen Studien und keine Publikation, die diese Erkrankung untersucht. Die Vorhersage bleibt daher rein modellbasiert (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +50,7 @@ Phenytoin ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die Vo
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiepilepticum |
-| Vorhergesagte neue Indikation | Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) |
+| Vorhergesagte neue Indikation | Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) |
 | TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -59,38 +61,28 @@ Phenytoin ist ein Antiepileptikum, das in der Schweiz im Handel ist. Für die Vo
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Daten zum Wirkmechanismus von Phenytoin fehlen in den für diesen Bericht zusammengestellten Daten. Aus der allgemeinen Pharmakologie ist bekannt, dass Phenytoin spannungsabhängige Natriumkanäle gebrauchsabhängig blockiert und so übermässige, hochfrequente Nervenentladungen dämpft.
+Zum Wirkmechanismus von Phenytoin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Phenytoin spannungsabhängige Natriumkanäle blockiert. Das dämpft übermässige, hochfrequente Nervenentladungen.
 
-Dieser Mechanismus wirkt gegen Symptome, nicht gegen Tumorwachstum. Phenytoin hat keinen antineoplastischen Mechanismus. Die Vorhersage spiegelt wahrscheinlich eine symptomatische Nähe zur Trigeminusneuralgie wider. Dort könnte die Dämpfung ungewöhnlicher Entladungen geschädigter Nervenfasern Schmerzen lindern.
+Ein Zusammenhang mit einer Neoplasie des Trigeminusnervs lässt sich daraus nur indirekt ableiten. Der hohe Vorhersagewert beruht vermutlich auf der Nähe des Arzneimittels zu Schmerzsyndromen des Trigeminusnervs und nicht auf einer Wirkung gegen Tumorbiologie. Phenytoin könnte allenfalls neuropathische Schmerzen lindern, die mit einer Läsion am Trigeminusnerv einhergehen. Das wäre ein rein symptomatischer Effekt. Es gibt keinen Hinweis darauf, dass Phenytoin das Tumorwachstum beeinflusst.
 
-Ein Nutzen bei einem Tumor des Trigeminusnervs wäre daher bestenfalls eine Linderung neuropathischer Schmerzen und keine Behandlung der Neoplasie selbst. Das ist eine Hypothese, die nicht durch Daten belegt ist.
+Die beiden gefundenen Publikationen betreffen das Sturge-Weber-Syndrom und die allgemeine Behandlung der Trigeminusneuralgie. Keine davon untersucht eine Neoplasie. Der mechanistische Zusammenhang ist deshalb nicht belegt.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
-Die beiden zugeordneten Publikationen untersuchen die vorhergesagte Erkrankung nicht direkt, sondern verwandte Zustände.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Übersichtsarbeit | Expert Review of Neurotherapeutics | Überblick über medikamentöse und chirurgische Behandlungen der Trigeminusneuralgie; wahrscheinliche Ursache ist oft eine Gefässkompression der Nervenwurzel. Betrifft keine Neoplasie. |
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Fallserie | Anales españoles de pediatría | Erfahrungen mit 14 Fällen von Sturge-Weber-Syndrom (Verlauf und Therapieansprechen). Betrifft keine Trigeminusnerven-Neoplasie. |
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Übersichtsarbeit | Expert Review of Neurotherapeutics | Überblick über medikamentöse und chirurgische Behandlungen der Trigeminusneuralgie. Als wahrscheinliche Ursache gilt meist die Gefässkompression der Nervenwurzel. Neoplasien sind nicht Thema. |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Fallserie | Anales Españoles de Pediatría | Auswertung von 14 Fällen des Sturge-Weber-Syndroms hinsichtlich Klinik, Verlauf und Therapieansprechen. Kein Bezug zu Trigeminusnerv-Neoplasien. |
 
----
-
-### Marktinformationen Schweiz
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 25930 | Phenytoin-Gerot, Tabletten | Synthetika | Antiepileptikum |
-| 36110 | Phenhydan, Injektionslösung | Synthetika | Antiepileptikum |
-| 36111 | Phenhydan, Tabletten | Synthetika | Antiepileptikum |
+Beide Arbeiten untersuchen die vorhergesagte Erkrankung nicht direkt.
 
 ---
 
@@ -105,13 +97,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine Studien oder Publikationen zur Trigeminusnerven-Neoplasie selbst (Evidenzniveau L5), und Phenytoin hat keinen antineoplastischen Mechanismus. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch direkte Literatur, und ein plausibler Wirkmechanismus gegen Tumorbiologie ist nicht erkennbar. Der hohe Vorhersagewert allein genügt nicht, um weitere Schritte zu rechtfertigen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte klinische oder präklinische Daten zu Phenytoin bei dieser Erkrankung
-- Eine geklärte Fragestellung: Tumorbehandlung oder nur symptomatische Schmerzlinderung
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Präklinische oder klinische Daten, die eine Wirkung von Phenytoin bei Neoplasien des Trigeminusnervs direkt untersuchen
+- Eine Beschreibung des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle, um die mechanistische Verbindung zu prüfen
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, damit die Sicherheitsprüfung möglich wird
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

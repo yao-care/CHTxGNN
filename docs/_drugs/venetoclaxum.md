@@ -9,7 +9,7 @@ drugbank_id: DB11581
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 last_modified_at: 2026-11-16
-description: "Venetoclaxum: vorhergesagte neue Indikation Hodgkins lymphoma (Evidenzstufe L5). Ursprüngliche Indikation: Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML)"
+description: "Venetoclaxum: vorhergesagte neue Indikation Hodgkin-Lymphom (Hodgkins lymphoma) (Evidenzstufe L5). Ursprüngliche Indikation: Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML)"
 ---
 
 # Venetoclaxum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Venetoclaxum: Hodgkins lymphoma
+## Venetoclaxum: Hodgkin-Lymphom (Hodgkins lymphoma)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Venetoclax ist ein Arzneimittel zur Behandlung bestimmter Blutkrebserkrankungen und hemmt das Überlebensprotein BCL-2. Für die vorhergesagte neue Indikation, chronische lymphatische Leukämie/kleinzelliges lymphozytisches Lymphom mit somatischer Hypermutation der IGHV-Gene (chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation), liegen in den für diesen Bericht zusammengestellten Daten weder klinische Studien noch Publikationen vor. Die Vorhersage beruht daher allein auf dem Modellwert, und die Evidenz ist entsprechend schwach (Niveau L5).
+Venetoclax ist ein selektiver BCL-2-Inhibitor, der in der Schweiz bei bestimmten Leukämien eingesetzt wird. Die Vorhersage nennt als neue Indikation das Hodgkin-Lymphom (Hodgkins lymphoma). Hierfür gibt es keine direkte Evidenz: Die verknüpften Studien betreffen fast ausschliesslich andere Lymphome und Leukämien, weshalb das Evidenzniveau L5 beträgt.
 
 ---
 
@@ -50,7 +48,7 @@ Venetoclax ist ein Arzneimittel zur Behandlung bestimmter Blutkrebserkrankungen 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML) |
-| Vorhergesagte neue Indikation | Hodgkins lymphoma |
+| Vorhergesagte neue Indikation | Hodgkin-Lymphom (Hodgkins lymphoma) |
 | TxGNN-Vorhersagewert | 0.9951 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,23 +59,44 @@ Venetoclax ist ein Arzneimittel zur Behandlung bestimmter Blutkrebserkrankungen 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Venetoclax ahmt als sogenannter BH3-Mimetikum-Wirkstoff die natürlichen Gegenspieler von BCL-2 nach und blockiert das Protein. Bösartige B-Zellen sind häufig von BCL-2 abhängig, weil es sie vor dem programmierten Zelltod schützt. Wird BCL-2 gehemmt, kann dieser Zelltod wieder ablaufen. Die Mechanismusangabe des Wirkstoffs selbst ist in den Daten nicht hinterlegt. Die Beschreibung stützt sich auf die mechanistische Einordnung zur Vorhersage.
+Venetoclax hemmt das Protein BCL-2 und löst dadurch den programmierten Zelltod in Tumorzellen aus, die von BCL-2 abhängen. Die Angaben zum Wirkmechanismus sind in den vorliegenden Daten nicht vollständig erfasst; die Beschreibung beruht auf der Literatur.
 
-Die vorhergesagte Erkrankung ist ein molekularer Untertyp der chronischen lymphatischen Leukämie bzw. des kleinzelligen lymphozytischen Lymphoms. Dieser Untertyp zeichnet sich durch somatisch mutierte IGHV-Gene aus. Da bei der übergeordneten Erkrankung BCL-2 stark gebildet wird, ist eine BCL-2-Abhängigkeit auch im Untertyp denkbar.
-
-Diese Plausibilität ist jedoch nur indirekt: Sie wird von der übergeordneten Erkrankung abgeleitet, und für den Untertyp selbst liegen keine Daten vor. Der hohe Vorhersagewert spiegelt wahrscheinlich die enge Verwandtschaft zur übergeordneten Erkrankung wider. Er ist kein eigenständiger Hinweis auf einen neuen Nutzen.
+Die Plausibilität ist hier schwach. Beim klassischen Hodgkin-Lymphom hängen die Reed-Sternberg-Zellen vor allem von NF-κB-, JAK/STAT- und PD-L1-Signalwegen ab, nicht von BCL-2. Der sehr hohe Vorhersagewert scheint eher durch die Nähe zu anderen B-Zell-Lymphomen entstanden zu sein als durch Daten zum Hodgkin-Lymphom. Ein Hodgkin-spezifischer Nachweis liegt nicht vor.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Unter den 42 verknüpften Studien ist keine, die gezielt Patientinnen und Patienten mit Hodgkin-Lymphom untersucht. Die nächstliegenden Signale (Auswahl):
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT03713580](https://clinicaltrials.gov/study/NCT03713580) | Phase 1 | Abgeschlossen | 25 | Venetoclax plus BEAM-Konditionierung vor autologer Stammzelltransplantation bei Non-Hodgkin-Lymphom; ob Hodgkin-Patienten eingeschlossen waren, ist aus den Daten nicht ersichtlich. |
+| [NCT03112174](https://clinicaltrials.gov/study/NCT03112174) | Phase 3 | Abgeschlossen | 366 | Ibrutinib plus Venetoclax beim Mantelzell-Lymphom; nicht auf das Hodgkin-Lymphom übertragbar. |
+| [NCT03113422](https://clinicaltrials.gov/study/NCT03113422) | Phase 2 | Abgeschlossen | 56 | Venetoclax, Obinutuzumab und Bendamustin beim follikulären Lymphom; nicht relevant für das Hodgkin-Lymphom. |
+| [NCT03844048](https://clinicaltrials.gov/study/NCT03844048) | Phase 3 | Aktiv, nicht rekrutierend | 165 | Verlängerungsstudie zur Weiterversorgung und Langzeitsicherheit von Venetoclax; keine Wirksamkeitsdaten beim Hodgkin-Lymphom. |
+| [NCT03223610](https://clinicaltrials.gov/study/NCT03223610) | Phase 1/2 | Rekrutierend | 155 | ViPOR-Schema bei rezidivierten B-Zell-Lymphomen (Non-Hodgkin); höchstens indirekt relevant. |
 
 ---
 
 ### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Keine der gefundenen Publikationen untersucht Venetoclax beim Hodgkin-Lymphom. Genannt sind Arbeiten zu verwandten Erkrankungen:
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [40009494](https://pubmed.ncbi.nlm.nih.gov/40009494/) | 2025 | RCT | Blood | Abschlussanalyse der MURANO-Studie (Venetoclax plus Rituximab bei rezidivierter/refraktärer CLL); Vorteil beim progressionsfreien Überleben und Gesamtüberleben gegenüber Bendamustin-Rituximab. Nicht auf das Hodgkin-Lymphom übertragbar. |
+| [28724540](https://pubmed.ncbi.nlm.nih.gov/28724540/) | 2017 | Übersichtsarbeit | Blood | BCL-2 als Zielstruktur bei B-Zell-Lymphomen. |
+| [33775465](https://pubmed.ncbi.nlm.nih.gov/33775465/) | 2021 | Übersichtsarbeit | Blood Reviews | Richter-Transformation einer CLL, selten auch als Hodgkin-Lymphom; kein Wirksamkeitsnachweis für Venetoclax. |
+| [35933930](https://pubmed.ncbi.nlm.nih.gov/35933930/) | 2022 | Übersichtsarbeit | Cancer Treatment Reviews | Behandlungsstrategien beim diffusen grosszelligen B-Zell-Lymphom. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 66235 | Venclyxto 10 mg, Filmtabletten | Synthetika | Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML) |
 
 ---
 
@@ -86,9 +105,6 @@ Derzeit keine verwandte Literatur verfügbar.
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie (BCL-2-Inhibitor) |
-| Überwachungspunkte | Blutbild (Neutropenie, Zytopenien), Nierenfunktion und Elektrolyte (Tumorlyse-Syndrom, vor allem bei Therapiebeginn) |
-
-Diese Einordnung beruht auf allgemeinem Fachwissen und nicht auf den zusammengestellten Daten. Sie ist anhand der Fachinformation zu überprüfen.
 
 ---
 
@@ -103,14 +119,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den vorhergesagten Untertyp gibt es keine Studien und keine Literatur. Die Vorhersage stützt sich nur auf den Modellwert und eine indirekte Ableitung von der übergeordneten Erkrankung.
-- Die Sicherheitsangaben aus der Fachinformation fehlen in den Daten, daher ist eine Sicherheitsbewertung derzeit nicht möglich.
+- Für das Hodgkin-Lymphom liegen weder Studien noch Publikationen vor, und der biologische Hintergrund spricht eher gegen eine BCL-2-Abhängigkeit. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Untergruppenanalysen oder Studien zu Patientinnen und Patienten mit IGHV-mutierter Erkrankung unter Venetoclax-Therapie
-- Warnhinweise, Kontraindikationen und Wechselwirkungen aus der Swissmedic-Fachinformation
-- Die Mechanismusangabe des Wirkstoffs aus einer Arzneimitteldatenbank (z. B. DrugBank)
-- Eine Prüfung, ob der Untertyp bereits durch die bestehende Anwendung abgedeckt ist und damit keine echte Umwidmung darstellt
+- Präklinische Daten zur BCL-2-Abhängigkeit in Hodgkin-Lymphom-Zellen
+- Klinische Studien oder Fallserien zu Venetoclax beim Hodgkin-Lymphom
+- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
+- Vollständige Angaben zum Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

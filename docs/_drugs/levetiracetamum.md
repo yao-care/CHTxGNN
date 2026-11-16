@@ -9,7 +9,7 @@ drugbank_id: DB01202
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 last_modified_at: 2026-11-16
-description: "Levetiracetamum: vorhergesagte neue Indikation Beta-ketothiolase deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Antiépileptique"
+description: "Levetiracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Antiépileptique"
 ---
 
 # Levetiracetamum
@@ -34,23 +34,23 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Levetiracetamum: Beta-ketothiolase deficiency
+## Levetiracetamum: Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency)
 {: .text-alpha }
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Levetiracetam ist in der Schweiz im Handel und wirkt über das synaptische Vesikelprotein SV2A. Für das Modell sagt es als neue Indikation Visuelle Epilepsie (visual epilepsy) voraus, also durch visuelle Reize ausgelöste Anfälle. Der Vorhersagewert ist sehr hoch, aber keine der gefundenen Studien untersucht diese Erkrankung direkt. Die Evidenz entspricht daher dem Niveau L5.
+Levetiracetam ist in der Schweiz als Antiepileptikum zugelassen. Die Vorhersage lautet, dass es beim Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) wirksam sein könnte. Diese Vorhersage beruht allein auf einem Modellwert; klinische Studien oder Literatur dazu liegen nicht vor.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiépileptique; Antiepileptikum; Antiepilettico |
-| Vorhergesagte neue Indikation | Beta-ketothiolase deficiency |
+| Vorhergesagte neue Indikation | Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -59,57 +59,45 @@ Levetiracetam ist in der Schweiz im Handel und wirkt über das synaptische Vesik
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Mehrere der gefundenen Publikationen beschreiben aber, dass Levetiracetam an das synaptische Vesikelprotein SV2A bindet. Dadurch wird die Freisetzung von Neurotransmittern gedämpft.
+Der Beta-Ketothiolase-Mangel (ACAT1-/T2-Mangel) ist eine angeborene Störung des Isoleucinabbaus und des Ketonkörperstoffwechsels. Sie führt zu wiederkehrenden Ketoazidosen. Levetiracetam wirkt hauptsächlich über die Bindung an SV2A und beeinflusst die Freisetzung von Neurotransmittern an den Synapsen. Ein direkter Zusammenhang mit dem Defekt in der Ketolyse oder im Isoleucinabbau ist nicht erkennbar. Der Wirkmechanismus ist in den vorliegenden Daten nicht hinterlegt; die Angaben stammen aus allgemeinem Wissen.
 
-Visuelle Epilepsie gehört zu den Reflexepilepsien. Dabei lösen bestimmte visuelle Reize Anfälle aus, die auf einer übermässigen neuronalen Erregbarkeit beruhen. Ein Antiseizure-Medikament, das die präsynaptische Freisetzung dämpft, könnte hier grundsätzlich wirken.
-
-Dieser Zusammenhang ist bisher nur eine mechanistische Überlegung. Die gefundene Literatur besteht aus Berichten zu Nebenwirkungen, Studien zu Neugeborenenkrämpfen, Studien zur Anfallsprophylaxe und allgemeinen Übersichtsarbeiten. Keine davon untersucht visuell ausgelöste Anfälle.
+Eine mögliche indirekte Überlegung wäre die Anfallskontrolle bei oder nach Stoffwechselkrisen mit neurologischen Folgeschäden. Diese Überlegung ist spekulativ und durch die vorliegenden Daten nicht belegt. Der hohe Vorhersagewert kann auch auf Eigenheiten der Netzwerkstruktur im Modell zurückgehen und muss nicht auf biologischer Relevanz beruhen.
 
 ---
 
-## Klinische Studien
+### Marktinformationen Schweiz
 
-Derzeit keine verwandten klinischen Studien registriert.
+Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
----
-
-## Literaturbelege
-
-Keine der folgenden Publikationen untersucht visuelle Epilepsie direkt. Sie liefern nur indirekten Kontext zu Levetiracetam bei Anfällen.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | RCT (Phase 3) | The Lancet. Neurology | Prophylaktisches Levetiracetam bei akuter Hirnblutung; geprüft wurde die Vorbeugung früher Anfälle, nicht visuelle Epilepsie. |
-| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | Levetiracetam im Vergleich zu Phenobarbital bei Krampfanfällen von Neugeborenen. |
-| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Systematische Übersicht/Metaanalyse | Neurocritical Care | Wirksamkeit, Dosierung und Nebenwirkungen von Levetiracetam zur Anfallsprophylaxe in der neurologischen Intensivmedizin. |
-| [39808752](https://pubmed.ncbi.nlm.nih.gov/39808752/) | 2025 | Systematische Übersicht/Netzwerk-Metaanalyse | Neurology | Vergleich von Antiseizure-Medikamenten bei Anfällen nach Schlaganfall. |
-| [37037506](https://pubmed.ncbi.nlm.nih.gov/37037506/) | 2023 | Übersichtsarbeit | Brain and Nerve | Überblick über aktuelle Leitlinien zur medikamentösen Epilepsiebehandlung. |
-| [39899098](https://pubmed.ncbi.nlm.nih.gov/39899098/) | 2025 | Übersichtsarbeit | Continuum | Behandlung erster Anfälle, Anfallsserien und Status epilepticus. |
-| [35848684](https://pubmed.ncbi.nlm.nih.gov/35848684/) | 2022 | Fallbericht | Journal of Postgraduate Medicine | Zahnfleischwucherung unter Levetiracetam bei einem Jugendlichen (Nebenwirkung). |
-| [19447009](https://pubmed.ncbi.nlm.nih.gov/19447009/) | 2009 | Fallbericht | Epilepsy Research | Störung der Thrombozytenfunktion unter Levetiracetam, nach Absetzen rückläufig (Nebenwirkung). |
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 57519 | Keppra 500 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antiepileptikum |
+| 62069 | Levetiracetam Desitin 250 mg, Filmgranulat im Beutel | Synthetika | Antiepileptikum |
+| 69225 | Levetiracetam-Neuraxpharm 250 mg, Filmtabletten | Synthetika | Antiepileptikum |
+| 62036 | Levetiracetam Rivopharm 250, Filmtabletten | Synthetika | Antiepileptikum |
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch. Es gibt aber weder klinische Studien noch Publikationen, die Levetiracetam direkt bei visueller Epilepsie untersuchen.
-- Die Plausibilität stützt sich nur auf den allgemeinen antiepileptischen Mechanismus. Zudem fehlen derzeit die Sicherheitsangaben aus der Fachinformation.
+- Für die Vorhersage liegen weder klinische Studien noch Literatur vor, und ein plausibler Wirkmechanismus ist nicht erkennbar. Der hohe Modellwert allein belegt weder Wirksamkeit noch einen Mechanismus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien oder Fallserien, die Levetiracetam bei visuell ausgelösten Anfällen direkt untersuchen, zum Beispiel Studien mit Photostimulation.
-- Warnhinweise, Kontraindikationen und Wechselwirkungen aus der Swissmedic-Fachinformation.
-- Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank, um die mechanistische Verbindung zur Erkrankung zu prüfen.
+- Präklinische oder klinische Daten zu Levetiracetam beim Beta-Ketothiolase-Mangel
+- Eine Mechanismusanalyse, die SV2A-Wirkung und Ketolyse- bzw. Isoleucinstoffwechsel verbindet
+- Die Sicherheitsangaben aus den Fachinformationen von Swissmedic (Warnungen, Kontraindikationen)
+- Den Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

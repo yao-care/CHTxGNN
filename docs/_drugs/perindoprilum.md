@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 ## Perindoprilum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Perindopril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Laut der Vorhersage könnte es bei der malignen hypertensiven Nierenerkrankung (malignant hypertensive renal disease) wirksam sein. Dafür gibt es bislang keine direkte Evidenz: Es liegen keine klinischen Studien vor, und die einzige gefundene Publikation behandelt die Nierenfunktion nach Nephrektomie bei Nierenkrebs, nicht die vorhergesagte Erkrankung.
+Perindopril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Vorhergesagt wird eine mögliche Wirksamkeit bei maligner hypertensiver Nierenerkrankung (malignant hypertensive renal disease). Diese Vorhersage beruht allein auf einem Modell: Es liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung direkt untersuchen.
 
 ---
 
@@ -59,11 +61,17 @@ Perindopril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Laut der Vorhe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Perindopril hemmt das Angiotensin-konvertierende Enzym (ACE) und verringert damit die Bildung von Angiotensin II. Dadurch sinken der Blutdruck und der Druck in den Nierenknäueln (Glomeruli). Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Perindopril gehört jedoch zur Klasse der ACE-Hemmer. Diese hemmen die Bildung von Angiotensin II, senken dadurch den Blutdruck und verringern den Druck in den Nierenkörperchen.
 
-Eine maligne hypertensive Nierenerkrankung entsteht durch stark erhöhten Blutdruck, der die Nierengefässe schädigt. Ein Mittel, das den Blutdruck und den Glomerulusdruck senkt, ist deshalb grundsätzlich plausibel. ACE-Hemmer werden zudem bei hypertensiver Nephropathie eingesetzt.
+Eine solche Wirkung ist für eine Nierenerkrankung, die durch stark erhöhten Blutdruck verursacht wird, biologisch nachvollziehbar. ACE-Hemmer werden allgemein zur Blutdrucksenkung und zum Nierenschutz eingesetzt. Der Zusammenhang mit der vorhergesagten Erkrankung ist aber nur indirekt.
 
-Der hohe Vorhersagewert ist jedoch ein reines Modellergebnis. Durch Daten zu dieser Erkrankung ist er nicht gestützt. ACE-Hemmer können ausserdem bei bestimmten Zuständen (Nierenarterienstenose, Volumenmangel) die Nierenfunktion akut verschlechtern. Die Nierensicherheit müsste daher gezielt geprüft werden.
+Der hohe Vorhersagewert spiegelt wahrscheinlich diesen klassenweiten Mechanismus wider und nicht krankheitsspezifische Belege für die maligne hypertensive Nephropathie.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -71,13 +79,7 @@ Der hohe Vorhersagewert ist jedoch ein reines Modellergebnis. Durch Daten zu die
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [36382821](https://pubmed.ncbi.nlm.nih.gov/36382821/) | 2022 | Kohortenstudie | Urologiia | Funktionszustand einer Einzelniere nach Nephrektomie bei Nierenkrebs. Die Studie betrifft weder Perindopril noch die maligne hypertensive Nierenerkrankung und stützt die Vorhersage nicht direkt. |
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+| [36382821](https://pubmed.ncbi.nlm.nih.gov/36382821/) | 2022 | Kohortenstudie | Urologiia | Funktionszustand der Einzelniere nach Nephrektomie wegen Nierenkrebs. Die Studie betrifft nicht die vorhergesagte Erkrankung und liefert keine direkte Evidenz. |
 
 ---
 
@@ -88,7 +90,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 | 69100 | Perindopril Arginin Spirig HC 2,5 mg, Filmtabletten | Synthetika | ACE-Hemmer |
 | 62970 | Perindopril-Mepha N 5 mg, Filmtabletten | Synthetika | ACE-Hemmer |
 | 58333 | Perindopril Sandoz 2 mg, Tabletten | Synthetika | ACE-Hemmer |
-| 57617 | Coversum N 5 mg, Filmtabletten | Synthetika | ACE-Hemmer (Hemmer des Angiotensin-konvertierenden Enzyms) |
+| 57617 | Coversum N 5 mg, Filmtabletten | Synthetika | ACE-Hemmer (Hemmer des Angiotensin-Konversionsenzyms) |
 
 ---
 
@@ -103,14 +105,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht allein auf einem Modellwert. Keine klinische Studie und keine Publikation untersucht diese Erkrankung direkt.
-- Die Nierensicherheit von ACE-Hemmern bei bestimmten Gefässzuständen ist ein zusätzliches Risiko.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell. Es gibt keine klinischen Studien und keine Publikation, die die maligne hypertensive Nierenerkrankung direkt untersucht; die einzige gefundene Arbeit behandelt ein anderes Thema.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien oder Publikationen, die Perindopril oder ACE-Hemmer direkt bei maligner hypertensiver Nierenerkrankung untersuchen
-- Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
-- Eine gezielte Bewertung des Risikos einer akuten Verschlechterung der Nierenfunktion
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) für die Sicherheitsprüfung
+- Angaben zum Wirkmechanismus des Arzneimittels
+- Gezielte Literaturrecherche und, falls vorhanden, klinische Daten zu ACE-Hemmern bei maligner hypertensiver Nierenerkrankung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

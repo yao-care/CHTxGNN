@@ -9,7 +9,7 @@ drugbank_id: DB00136
 monitor_inn: "Calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
 last_modified_at: 2026-11-16
-description: "Calcitriolum: vorhergesagte neue Indikation Vitamin-D-Mangel, veraltete Bezeichnung (obsolete vitamin D deficiency) (Evidenzstufe L5)."
+description: "Calcitriolum: vorhergesagte neue Indikation Obsoletes Vitamin-D-Mangel-Syndrom (obsolete vitamin D deficiency) (Evidenzstufe L5)."
 ---
 
 # Calcitriolum
@@ -34,72 +34,57 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Calcitriolum: Vitamin-D-Mangel, veraltete Bezeichnung (obsolete vitamin D deficiency)
+## Calcitriolum: Obsoletes Vitamin-D-Mangel-Syndrom (obsolete vitamin D deficiency)
 {: .text-alpha }
 
----
+## Zusammenfassung
 
-### Zusammenfassung
+Calcitriol ist die aktive Form von Vitamin D (1,25-Dihydroxyvitamin D3). Für den Vitamin-D-Mangel (obsolete vitamin D deficiency), die Hauptvorhersage, liegen in den zusammengestellten Daten weder klinische Studien noch Literatur vor. Die Vorhersage stützt sich daher allein auf das Modell (Evidenzniveau L5). Zudem überschneidet sich der Begriff stark mit der bekannten Pharmakologie des Wirkstoffs und gilt in der Ontologie als veraltet; es handelt sich nicht um eine echte Umwidmung.
 
-Calcitriol ist die aktive Hormonform von Vitamin D und in der Schweiz im Handel. Für die Vorhersage «Vitamin-D-Mangel, veraltete Bezeichnung (obsolete vitamin D deficiency)» liegen weder klinische Studien noch Literatur vor. Die Evidenz beschränkt sich damit auf die Modellvorhersage (Evidenzniveau L5). Zudem ist der Krankheitsbegriff veraltet.
-
----
-
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose |
-| Vorhergesagte neue Indikation | Vitamin-D-Mangel, veraltete Bezeichnung (obsolete vitamin D deficiency) |
+| Vorhergesagte neue Indikation | Obsoletes Vitamin-D-Mangel-Syndrom (obsolete vitamin D deficiency) |
 | TxGNN-Vorhersagewert | 0.9996 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
----
+## Warum ist diese Vorhersage plausibel?
 
-### Warum ist diese Vorhersage plausibel?
+Calcitriol ist der biologisch aktive Metabolit von Vitamin D. Er bindet an den Vitamin-D-Rezeptor und reguliert so die Aufnahme von Kalzium und Phosphat im Darm sowie den Knochenstoffwechsel. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Calcitriol ist 1,25-Dihydroxyvitamin D3, die aktive Form von Vitamin D. Sie wirkt über den Vitamin-D-Rezeptor und steuert den Calcium- und Phosphathaushalt. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Die Verbindung zum Vitamin-D-Mangel ist biologisch naheliegend, da Calcitriol direkt zum selben Stoffwechselweg gehört.
+Ein Zusammenhang mit einem Vitamin-D-Mangel ist biologisch naheliegend, da der Wirkstoff das fehlende aktive Hormon direkt ersetzt. Der hohe Vorhersagewert spiegelt vermutlich diese Nähe zur bekannten Pharmakologie wider. Da der Krankheitsbegriff in der Ontologie als veraltet markiert ist, handelt es sich eher um eine Überschneidung mit dem bereits bekannten Anwendungsgebiet als um eine neue Indikation.
 
-Die Plausibilität ist jedoch stark eingeschränkt:
-- Beim ernährungsbedingten Vitamin-D-Mangel gilt natives Vitamin D (Cholecalciferol oder Ergocalciferol) als Standard. Aktives Calcitriol wird dafür in der Regel nicht eingesetzt.
-- Der hohe Vorhersagewert spiegelt wahrscheinlich die Zugehörigkeit zur Wirkstoffklasse wider und nicht ein eigenständiges Umwidmungssignal.
+Belastbare Aussagen zur Wirksamkeit sind auf dieser Grundlage nicht möglich, da weder Studien noch Publikationen zu dieser Erkrankung vorliegen.
 
----
+## Marktinformationen Schweiz
 
-### Klinische Studien
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 69164 | Calcitriol Devatis 0,25 μg, Weichkapseln | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose |
+| 68504 | Calcitriol Fairmed 0.25 mcg, Weichkapseln | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose |
+| 41728 | Rocaltrol 0,25 ug, Kapseln | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose |
+| 55950 | Calcitriol Salmon Pharma 0,25 ug, Kapseln | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose |
 
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
----
-
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Hauptvorhersage gibt es weder Studien noch Literatur, und der Krankheitsbegriff ist veraltet.
-- Für den ernährungsbedingten Mangel existiert mit nativem Vitamin D bereits eine etablierte Standardtherapie. Ein zusätzlicher Nutzen von Calcitriol ist nicht erkennbar.
+- Für die Hauptvorhersage gibt es weder klinische Studien noch Literatur (Evidenzniveau L5). Der Krankheitsbegriff ist zudem veraltet und überschneidet sich mit der bekannten Pharmakologie des Wirkstoffs.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klärung, welcher aktuellen Diagnose der veraltete Krankheitsbegriff entspricht
-- Gezielte Recherche nach Studien und Publikationen zu dieser aktuellen Diagnose
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Auswertung der Schweizer Fachinformation zu Warnhinweisen und Kontraindikationen, bevor eine Sicherheitsbewertung möglich ist
+- Klärung, ob der veraltete Krankheitsbegriff einer aktuellen Diagnose zugeordnet werden kann, und eine gezielte Literatur- und Studienrecherche dazu
+- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da die Sicherheitsprüfung sonst nicht möglich ist
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, z. B. DrugBank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

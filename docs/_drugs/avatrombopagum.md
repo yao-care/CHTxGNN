@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Avatrombopag ist ein Thrombopoetin-Rezeptor-Agonist. Vorhergesagt wird eine mögliche Wirksamkeit bei Makrothrombozytopenie mit Mitralklappeninsuffizienz (marcothrombocytopenia with mitral valve insufficiency). Diese Vorhersage beruht ausschliesslich auf einem Rechenmodell; für sie liegen weder klinische Studien noch Literatur vor.
+Avatrombopag ist ein oral einnehmbarer Thrombopoietin-Rezeptor-Agonist, der in der Schweiz im Handel ist. Für die Makrothrombozytopenie mit Mitralklappeninsuffizienz (marcothrombocytopenia with mitral valve insufficiency) liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt jedoch weder klinische Studien noch Publikationen dazu, die Evidenz beschränkt sich daher auf die Modellvorhersage (L5).
 
 ---
 
@@ -61,11 +61,11 @@ Avatrombopag ist ein Thrombopoetin-Rezeptor-Agonist. Vorhergesagt wird eine mög
 
 ### Warum ist diese Vorhersage plausibel?
 
-Avatrombopag aktiviert den Thrombopoetin-Rezeptor (TPO-R, c-Mpl) und fördert dadurch die Vermehrung der Megakaryozyten und die Bildung von Blutplättchen. Die Angaben zum Wirkmechanismus in den zusammengestellten Daten sind lückenhaft; die Beschreibung stützt sich daher auf das bekannte Wirkprinzip dieser Wirkstoffklasse.
+Avatrombopag aktiviert den Thrombopoietin-Rezeptor (TPO-R, c-Mpl) und fördert dadurch die Bildung von Megakaryozyten und die Produktion von Blutplättchen. Der Wirkmechanismus ist in den vorliegenden Daten nicht näher beschrieben; die Angaben hier beruhen auf der allgemeinen pharmakologischen Einordnung der Substanz.
 
-Bei einer Thrombozytopenie durch verminderte Plättchenbildung ist ein Nutzen biologisch denkbar. Makrothrombozytopenien beruhen jedoch häufig auf angeborenen Störungen der Plättchenbildung, sodass der Nutzen unsicher bleibt. Für den Anteil «Mitralklappeninsuffizienz» besteht kein erkennbarer Zusammenhang mit dem Wirkmechanismus.
+Eine Makrothrombozytopenie ist meist eine angeborene Störung der Plättchenbildung. Ein Mittel, das die Plättchenproduktion anregt, könnte also theoretisch ansetzen. Ob die Erkrankung auf eine TPO-R-Stimulation anspricht, ist jedoch unbekannt, denn die genetische Ursache kann das Ansprechen stark beeinflussen. Die Mitralklappeninsuffizienz als zweite Komponente der Diagnose wird durch den Mechanismus nicht erfasst.
 
-Der Vorhersagewert ist eine rein rechnerische Einschätzung und ersetzt keine klinische Evidenz.
+Der hohe Vorhersagewert allein ersetzt keine klinischen Belege. Die Plausibilität bleibt daher rein theoretisch.
 
 ---
 
@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 67893 | Doptelet 20 mg, Filmtabletten | Synthetika | Schwere Thrombozytopenie bei Erwachsenen mit chronischer Lebererkrankung und geplantem invasivem Eingriff; chronische Immunthrombozytopenie bei Erwachsenen mit unzureichendem Ansprechen auf mindestens eine Vorbehandlung |
+| 67893 | Doptelet 20 mg, Filmtabletten | Synthetika | Schwere Thrombozytopenie bei Erwachsenen mit chronischer Lebererkrankung, bei denen ein invasiver Eingriff geplant ist; chronische Immunthrombozytopenie bei Erwachsenen, die auf mindestens eine vorherige Behandlung unzureichend angesprochen haben |
 
 ---
 
@@ -100,14 +100,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur (Evidenzniveau L5). Der Wirkmechanismus passt nur teilweise, und die Mitralklappeninsuffizienz hat keinen erkennbaren Bezug zum Wirkstoff.
+- Für die vorhergesagte Indikation gibt es weder Studien noch Literatur; die Vorhersage stützt sich allein auf das Modell (L5).
+- Das Ansprechen einer angeborenen Makrothrombozytopenie auf TPO-R-Agonisten ist unklar, und die Mitralklappeninsuffizienz wird vom Mechanismus nicht abgedeckt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) für die Sicherheitsprüfung
-- Ergänzung der Angaben zum Wirkmechanismus
-- Klärung, ob die vorhergesagte Erkrankung klinisch eindeutig definiert ist
-- Studien oder Fallberichte zur Anwendung bei angeborenen Makrothrombozytopenien
-- Prüfung der Verabreichungswege und der Eignung für die vorhergesagte Patientengruppe
+- Klinische oder präklinische Daten zu Avatrombopag bei dieser oder einer eng verwandten angeborenen Thrombozytopenie
+- Klärung der Krankheitsdefinition und der zugrunde liegenden genetischen Ursache
+- Beschreibung des Wirkmechanismus aus einer verlässlichen Quelle
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

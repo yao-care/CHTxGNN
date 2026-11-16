@@ -9,7 +9,7 @@ drugbank_id: DB00776
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 last_modified_at: 2026-11-16
-description: "Oxcarbazepinum: vorhergesagte neue Indikation Restless legs syndrome (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
+description: "Oxcarbazepinum: vorhergesagte neue Indikation Restless-Legs-Syndrom (restless legs syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
 # Oxcarbazepinum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Oxcarbazepinum: Restless legs syndrome
+## Oxcarbazepinum: Restless-Legs-Syndrom (restless legs syndrome)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Oxcarbazepin ist in der Schweiz als Antiepileptikum zugelassen. Dafür liegen keine Studien zu dieser Erkrankung vor, nur allgemeine Übersichtsarbeiten zur Epilepsiebehandlung; die Vorhersage beruht daher im Wesentlichen auf dem Modellwert.
+Oxcarbazepin ist in der Schweiz als Antiepileptikum zugelassen. Für das Restless-Legs-Syndrom (restless legs syndrome) liegt ein hoher Vorhersagewert vor, doch stützen bisher nur wenige Fallberichte und Übersichtsarbeiten diese Vorhersage. Es gibt keine klinischen Studien, daher ist die Evidenz schwach (Niveau L5).
 
 ---
 
@@ -48,7 +48,7 @@ Oxcarbazepin ist in der Schweiz als Antiepileptikum zugelassen. Dafür liegen ke
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiepilepticum; Antiepileptikum |
-| Vorhergesagte neue Indikation | Restless legs syndrome |
+| Vorhergesagte neue Indikation | Restless-Legs-Syndrom (restless legs syndrome) |
 | TxGNN-Vorhersagewert | 0.9989 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -59,27 +59,27 @@ Oxcarbazepin ist in der Schweiz als Antiepileptikum zugelassen. Dafür liegen ke
 
 ### Warum ist diese Vorhersage plausibel?
 
-Oxcarbazepin blockiert spannungsabhängige Natriumkanäle, vor allem über seinen aktiven Metaboliten (Monohydroxy-Derivat, MHD). Dadurch wird die übermässige Erregbarkeit von Nervenzellen gedämpft. Die Angaben zum Wirkmechanismus in den compilierten Daten sind lückenhaft; die Beschreibung stützt sich auf die Literatur zu Oxcarbazepin.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der allgemeinen Pharmakologie ist bekannt, dass Oxcarbazepin über seinen aktiven Metaboliten spannungsabhängige Natriumkanäle blockiert und Calciumkanäle beeinflusst. Dadurch dämpft es die Übererregbarkeit von Nervenzellen und die glutamaterge Signalübertragung. Diese Einordnung beruht nicht auf den hier vorliegenden Daten.
 
-Visuelle Epilepsie gehört zu den Reflexepilepsien, bei denen Anfälle durch einen bestimmten Reiz ausgelöst werden. Eine allgemeine anfallsunterdrückende Wirkung könnte daher auch hier nützlich sein.
+Beim Restless-Legs-Syndrom werden eine sensomotorische Übererregbarkeit sowie veränderte dopaminerge und glutamaterge Signale diskutiert. Andere Antiepileptika wie Gabapentin, Pregabalin und Carbamazepin werden bei dieser Erkrankung eingesetzt oder haben Nutzen gezeigt. Ein ähnlicher Effekt von Oxcarbazepin, einem Abkömmling von Carbamazepin, ist daher denkbar.
 
-Es gibt aber eine wichtige Einschränkung: Natriumkanalblocker können manche generalisierte Epilepsien verschlimmern. Das ist bei lichtempfindlichen (photosensiblen) generalisierten Syndromen zu beachten. Studien, die Oxcarbazepin gezielt bei visuell ausgelösten Anfällen prüfen, wurden nicht gefunden.
+Der hohe Vorhersagewert zeigt eine Assoziation auf Modellebene. Er ist eine rechnerische Vorhersage und kein klinischer Beleg.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Die gefundenen Arbeiten sind allgemeine Übersichten zur Epilepsiebehandlung und untersuchen visuelle Epilepsie nicht direkt.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [35380580](https://pubmed.ncbi.nlm.nih.gov/35380580/) | 2022 | Übersicht | JAMA | Überblick über Antiseizure-Medikamente bei Erwachsenen; Ziel ist Anfallsfreiheit bei möglichst wenigen Nebenwirkungen. |
-| [39899099](https://pubmed.ncbi.nlm.nih.gov/39899099/) | 2025 | Übersicht | Continuum | Aktualisierter Überblick über verfügbare Antiseizure-Medikamente, Pharmakokinetik und Anwendung. |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Leitlinie | Neurology | Aktualisierung der Leitlinie zu neueren Antiepileptika bei neu aufgetretener Epilepsie. |
-| [11772334](https://pubmed.ncbi.nlm.nih.gov/11772334/) | 2002 | Übersicht | Expert Opinion on Pharmacotherapy | Oxcarbazepin wirkt als Zusatz- und Monotherapie bei fokalen Anfällen; Hinweise auch bei Trigeminusneuralgie. |
-| [11738014](https://pubmed.ncbi.nlm.nih.gov/11738014/) | 2001 | Übersicht | Neurologia | Wirksamkeit bei fokalen und sekundär generalisierten Anfällen; nicht angezeigt bei Myoklonus- und Absence-Epilepsien. |
-| [26844734](https://pubmed.ncbi.nlm.nih.gov/26844734/) | 2016 | Übersicht | Continuum | Überblick über Antiepileptika, Wirkspektrum und Anwendung. |
-| [19445769](https://pubmed.ncbi.nlm.nih.gov/19445769/) | 2009 | Übersicht | BMJ Clinical Evidence | Allgemeine Daten zu Epilepsie und Remissionsraten. |
+| [19483488](https://pubmed.ncbi.nlm.nih.gov/19483488/) | 2009 | Fallserie (3 Fälle) | Clinical Neuropharmacology | Drei Fälle von Restless-Legs-Syndrom wurden erfolgreich mit Oxcarbazepin behandelt. |
+| [16675374](https://pubmed.ncbi.nlm.nih.gov/16675374/) | 2006 | Fallbericht | General Hospital Psychiatry | Oxcarbazepin-Behandlung bei Restless-Legs-Syndrom, das durch Paroxetin ausgelöst wurde (kein Abstract verfügbar). |
+| [36873914](https://pubmed.ncbi.nlm.nih.gov/36873914/) | 2023 | Übersichtsarbeit | Tremor and Other Hyperkinetic Movements | Überblick über weniger bekannte Medikamente bei Restless-Legs-Syndrom, wenn Standardtherapien nicht ausreichen. |
 
 ---
 
@@ -104,13 +104,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Natriumkanalblocker können bestimmte lichtempfindliche generalisierte Epilepsien verschlimmern, was ein Sicherheitsrisiko darstellt.
+- Der Vorhersagewert ist sehr hoch. Zum Restless-Legs-Syndrom gibt es aber nur Fallberichte und eine Übersichtsarbeit, keine kontrollierten Studien.
+- Die Sicherheitsdaten aus der Fachinformation fehlen noch.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten oder Fallserien zu Oxcarbazepin bei visuell ausgelösten Anfällen
-- Klärung, ob lichtempfindliche generalisierte Syndrome betroffen sind (Risiko der Anfallsverschlechterung)
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen), da diese Daten noch fehlen
-- Vollständige Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
+- Kontrollierte klinische Studien (idealerweise randomisiert) zu Oxcarbazepin beim Restless-Legs-Syndrom
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

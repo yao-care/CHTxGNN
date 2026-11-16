@@ -39,13 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Acetylsalicylsäure ist ein in der Schweiz im Handel befindlicher Thrombozytenaggregationshemmer. Das Modell sagt eine mögliche Wirksamkeit bei Migräne mit Hirnstammaura (migraine with brainstem aura) voraus. Für diese Untergruppe liegen aber keine direkten Studien vor, sodass die Evidenz nur dem Niveau L5 entspricht. Es gibt lediglich indirekte Hinweise zur Migräne mit Aura im Allgemeinen.
+Acetylsalicylsäure ist in der Schweiz als Schmerz- und Fiebermittel sowie als Thrombozytenaggregationshemmer zugelassen. Als neue Indikation wird atrophoderma vermiculata (atrophoderma vermiculata) vorhergesagt, eine seltene atrophische Hauterkrankung. Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf einem Computermodell (Evidenzniveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -59,58 +59,61 @@ Acetylsalicylsäure ist ein in der Schweiz im Handel befindlicher Thrombozytenag
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Die Wirkung von Acetylsalicylsäure beruht auf der Hemmung der Cyclooxygenase-1 (COX-1) in den Blutplättchen. Dadurch wird die Bildung von Thromboxan A2 gehemmt und die Blutplättchen verklumpen weniger. Zusätzlich wirkt die Substanz entzündungshemmend. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine eigenen Angaben vor.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Acetylsalicylsäure die Cyclooxygenase hemmt und dadurch die Bildung von Prostaglandinen und Thromboxan A2 senkt. Das erklärt die schmerzlindernde, fiebersenkende und plättchenhemmende Wirkung.
 
-Bei der Migräne mit Aura wird unter anderem diskutiert, dass kleine, von Blutplättchen getragene Mikroembolien und neurogene Entzündungen zu den Beschwerden beitragen. Gestützt wird dies durch den bekannten Zusammenhang zwischen einem offenen Foramen ovale (PFO) und der Migräne mit Aura. Die Hypothese lautet, dass Blutgerinnsel über diese Verbindung ins Gehirn gelangen könnten. Zusätzlich gibt es eine retrospektive Studie zu niedrig dosierter Acetylsalicylsäure zur Vorbeugung der Migräne mit Aura.
-
-Die Hinweise beziehen sich jedoch auf die Migräne mit Aura allgemein. Keine der gesichteten Arbeiten untersucht die Untergruppe mit Hirnstammaura gezielt. Die Übertragbarkeit ist daher eine Annahme und nicht belegt.
+Ein nachvollziehbarer Zusammenhang zwischen diesem Mechanismus und der atrophoderma vermiculata, einer seltenen follikulären, atrophischen Hauterkrankung, ist aus den vorliegenden Daten nicht erkennbar. Die hohe Punktzahl ist ein rechnerisches Ergebnis. Sie könnte eher auf Ähnlichkeiten im Netzwerk mit verwandten Hauterkrankungen zurückgehen als auf einen echten therapeutischen Mechanismus.
 
 ---
 
-## Klinische Studien
+### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-## Literaturbelege
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT (doppelblind) | Cephalalgia | Intravenöses Lysin-Acetylsalicylat wurde bei 278 Patienten mit akutem Migräneanfall (mit oder ohne Aura) mit subkutanem Sumatriptan und Placebo verglichen. Untersucht wurde die Akutbehandlung, nicht die Vorbeugung. |
-| [26908949](https://pubmed.ncbi.nlm.nih.gov/26908949/) | 2016 | RCT | European Heart Journal | PRIMA-Studie: Verschluss eines offenen Foramen ovale bei Migräne mit Aura, die auf Medikamente nicht ansprach. Sie stützt den Zusammenhang zwischen PFO und Migräne, betrifft aber nicht Acetylsalicylsäure. |
-| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Systematische Übersicht | Headache | Untersucht, ob Antithrombotika, zu denen auch Acetylsalicylsäure gehört, in der Migräneprophylaxe eine Rolle spielen. Im verfügbaren Auszug sind keine Ergebnisse angegeben. |
-| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Retrospektive Kohortenstudie | Current Health Sciences Journal | 203 Patienten mit Migräne mit Aura: 95 erhielten niedrig dosierte Acetylsalicylsäure, 108 andere Prophylaxe. Verglichen wurden Wirksamkeit und Verträglichkeit. Im Auszug sind keine Zahlen genannt. |
-| [19708964](https://pubmed.ncbi.nlm.nih.gov/19708964/) | 2009 | Leitlinie | European Journal of Neurology | Überarbeitete EFNS-Leitlinie zur medikamentösen Migränebehandlung. |
-| [16796580](https://pubmed.ncbi.nlm.nih.gov/16796580/) | 2006 | Leitlinie | European Journal of Neurology | Erste EFNS-Leitlinie mit evidenz- und expertenbasierten Empfehlungen für verschiedene Migräneformen. |
-| [9606899](https://pubmed.ncbi.nlm.nih.gov/9606899/) | 1998 | Übersicht / Therapiestudie | Zhurnal Nevrologii i Psikhiatrii | Vorbeugende Behandlung von 105 Patienten mit Migräne ohne Aura mit 1000, 500 und 100 mg Acetylsalicylsäure. Betrifft nicht die Migräne mit Aura. |
-| [15265054](https://pubmed.ncbi.nlm.nih.gov/15265054/) | 2004 | Mechanistische Studie | Cephalalgia | Vergleich der schmerzhemmenden Wirkung von intravenöser Acetylsalicylsäure und Zolmitriptan an Migränepatienten und Gesunden mittels Blinzelreflex. |
-| [16362645](https://pubmed.ncbi.nlm.nih.gov/16362645/) | 2005 | Beobachtungsstudie | Journal of Headache and Pain | 25 Patienten mit Migräne mit Aura während eines Anfalls. Ein offenes Foramen ovale war sehr häufig nachweisbar. |
-| [15891416](https://pubmed.ncbi.nlm.nih.gov/15891416/) | 2005 | Übersicht | Current Opinion in Neurology | Beleuchtet den Zusammenhang zwischen offenem Foramen ovale, kryptogenem Schlaganfall und Migräne. |
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Sicherheitshinweise
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
+
+---
+
+### Marktinformationen Schweiz
+
+Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 57673 | Aspirin, Granulat | Synthetika | Schmerzmittel, Fiebersenker |
+| 55197 | Cardiax ASS 100, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
+| 62784 | ASS Cardio-Mepha, magensaftresistente Tabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris |
+| 66814 | Coop Vitality Acetylsalicylsäure 500, Tabletten | Synthetika | Schmerzmittel, Fiebersenker |
+| 62911 | Aspirin S, überzogene Tabletten | Synthetika | Schmerzmittel, Fiebersenker |
+| 51795 | Aspirin Cardio 100, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris |
+| 49494 | ASA-Tabs, Tabletten | Synthetika | Schmerzmittel, Fiebersenker |
+| 8671 | Alka-Seltzer, Brausetabletten | Synthetika | Schmerzmittel, Fiebersenker |
+| 66097 | ASS Cardio Spirig HC 100 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris |
+
+---
+
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe Vorhersagewert beruht auf einer Modellberechnung. Für die Migräne mit Hirnstammaura gibt es weder klinische Studien noch gezielte Publikationen, daher gilt Evidenzniveau L5. Die vorhandenen Hinweise betreffen nur die Migräne mit Aura allgemein.
-- Die Sicherheitsprüfung kann derzeit nicht abgeschlossen werden, weil die Warnhinweise und Kontraindikationen der Fachinformation fehlen.
+- Die Vorhersage stützt sich ausschliesslich auf ein Computermodell. Es gibt keine Studien, keine Literatur und keinen erkennbaren Wirkmechanismus für diese Hauterkrankung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
-- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
-- Studien oder Daten speziell zur Migräne mit Hirnstammaura, etwa Subgruppenauswertungen aus Studien zur Migräne mit Aura.
-- Eine prospektive, kontrollierte Studie zu niedrig dosierter Acetylsalicylsäure in der Migräneprophylaxe, bevor eine Weiterverfolgung erwogen wird.
+- Eine gezielte Literaturrecherche und präklinische Hinweise zu Acetylsalicylsäure bei atrophoderma vermiculata
+- Eine nachvollziehbare mechanistische Begründung (Wirkmechanismus aus einer verlässlichen Quelle ergänzen)
+- Die Warnhinweise und Kontraindikationen aus den Fachinformationen von Swissmedic
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -2,11 +2,11 @@
   "generated": "2026-11-16",
   "total_drugs": 627,
   "level_counts": {
-    "L1": 9,
-    "L2": 11,
-    "L3": 23,
-    "L4": 17,
-    "L5": 565
+    "L1": 6,
+    "L2": 17,
+    "L3": 20,
+    "L4": 16,
+    "L5": 566
   },
   "all_drugs": [
     {
@@ -354,7 +354,7 @@
     {
       "name": "Atorvastatinum",
       "slug": "atorvastatinum",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 4
     },
     {
@@ -456,7 +456,7 @@
     {
       "name": "Betamethasonum",
       "slug": "betamethasonum",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 7
     },
     {
@@ -510,7 +510,7 @@
     {
       "name": "Bosentanum",
       "slug": "bosentanum",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 8
     },
     {
@@ -618,7 +618,7 @@
     {
       "name": "Carbamazepinum",
       "slug": "carbamazepinum",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 3
     },
     {
@@ -846,7 +846,7 @@
     {
       "name": "Clomipramini Hydrochloridum",
       "slug": "clomipramini_hydrochloridum",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 8
     },
     {
@@ -1116,7 +1116,7 @@
     {
       "name": "Docetaxelum",
       "slug": "docetaxelum",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 7
     },
     {
@@ -1752,7 +1752,7 @@
     {
       "name": "Idelalisibum",
       "slug": "idelalisibum",
-      "level": "L3",
+      "level": "L2",
       "indication_count": 6
     },
     {
@@ -1980,7 +1980,7 @@
     {
       "name": "Lenvatinibum",
       "slug": "lenvatinibum",
-      "level": "L3",
+      "level": "L2",
       "indication_count": 5
     },
     {
@@ -2130,7 +2130,7 @@
     {
       "name": "Medroxyprogesteroni Acetas",
       "slug": "medroxyprogesteroni_acetas",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 6
     },
     {
@@ -2472,7 +2472,7 @@
     {
       "name": "Ofatumumabum",
       "slug": "ofatumumabum",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 4
     },
     {
@@ -2604,7 +2604,7 @@
     {
       "name": "Pazopanibum",
       "slug": "pazopanibum",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 6
     },
     {
@@ -2814,7 +2814,7 @@
     {
       "name": "Pravastatinum Natricum",
       "slug": "pravastatinum_natricum",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 6
     },
     {
@@ -2886,7 +2886,7 @@
     {
       "name": "Propylthiouracilum",
       "slug": "propylthiouracilum",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 2
     },
     {
@@ -2940,7 +2940,7 @@
     {
       "name": "Ranibizumabum",
       "slug": "ranibizumabum",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -3186,7 +3186,7 @@
     {
       "name": "Sirolimusum",
       "slug": "sirolimusum",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -3264,7 +3264,7 @@
     {
       "name": "Sunitinibum",
       "slug": "sunitinibum",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 5
     },
     {
@@ -3528,7 +3528,7 @@
     {
       "name": "Trazodonum",
       "slug": "trazodonum",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -3690,7 +3690,7 @@
     {
       "name": "Vinorelbinum",
       "slug": "vinorelbinum",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 8
     },
     {

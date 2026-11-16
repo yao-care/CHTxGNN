@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ## Zusammenfassung
 
-Tramadolhydrochlorid ist in der Schweiz als Schmerzmittel (Analgetikum) im Handel. Das Modell sagt voraus, dass es bei der akromesomelen Dysplasie vom Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) wirksam sein könnte. Diese Vorhersage stützt sich nur auf eine Modellrechnung: Es liegen keine klinischen Studien und keine Literatur zu dieser Erkrankung vor.
+Tramadolhydrochlorid ist in der Schweiz als Schmerzmittel (Analgetikum) im Handel. Das Modell sagt eine mögliche Wirksamkeit bei der akromesomelen Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) voraus, einer seltenen genetischen Skeletterkrankung. Dafür liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
 ---
 
@@ -59,29 +59,17 @@ Tramadolhydrochlorid ist in der Schweiz als Schmerzmittel (Analgetikum) im Hande
 
 ## Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Tramadol ist in den für diesen Bericht zusammengestellten Daten nicht erfasst. Aus allgemeinem Wissen: Tramadol wirkt als Agonist am Mu-Opioid-Rezeptor und hemmt zusätzlich die Wiederaufnahme von Serotonin und Noradrenalin.
+Zum Wirkmechanismus von Tramadol liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Tramadol schmerzlindernd über die Aktivierung von Opioidrezeptoren (µ-Rezeptor) und die Hemmung der Wiederaufnahme von Monoaminen wirkt.
 
-Ein überzeugender mechanistischer Zusammenhang mit der Erkrankung ist nicht erkennbar. Die akromesomele Dysplasie vom Typ Hunter-Thompson ist eine genetisch bedingte Skelettfehlbildung, die mit dem GDF5-Signalweg (CDMP1) zusammenhängt. Tramadol greift in diesen Signalweg nicht ein. Allenfalls wäre es für die symptomatische Schmerzbehandlung denkbar, nicht aber zur Beeinflussung der Krankheit selbst.
+Die vorhergesagte Erkrankung ist eine seltene, erbliche Skelettfehlbildung, die mit Veränderungen im Gen CDMP1/GDF5 zusammenhängt. Ein Zusammenhang zwischen der Wirkweise von Tramadol und dieser Krankheitsursache ist nicht erkennbar. Tramadol greift in die Entwicklung des Skeletts nicht ein.
 
-Der hohe Vorhersagewert ist daher als rein rechnerisches Ergebnis zu verstehen und nicht als Hinweis auf eine tatsächliche Wirksamkeit.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-## Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Der hohe Vorhersagewert beruht daher sehr wahrscheinlich auf einem rechnerischen Artefakt des Modells und nicht auf einer biologischen Begründung. Die Vorhersage sollte als nicht plausibel eingestuft werden, solange keine unterstützenden Daten vorliegen.
 
 ---
 
 ## Marktinformationen Schweiz
 
-Es sind mindestens 5 Zulassungen erfasst (Einzelpräparate, alle gültig); die Liste kann unvollständig sein.
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 5 Zulassungen).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -93,17 +81,25 @@ Es sind mindestens 5 Zulassungen erfasst (Einzelpräparate, alle gültig); die L
 
 ---
 
+## Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ## Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Erkrankung gibt es weder klinische Studien noch Publikationen, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert allein reicht nicht aus, um weiterzumachen.
+- Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, und ein Wirkmechanismus, der die Krankheitsursache betreffen könnte, ist nicht erkennbar.
+- Auch die weiteren vorhergesagten Erkrankungen (überwiegend seltene Skelett- und Gelenkleiden) zeigen keinen belegten Zusammenhang mit Tramadol.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen (derzeit nicht verfügbar, blockierend für die Sicherheitsprüfung).
-- Der Wirkmechanismus aus DrugBank, um einen möglichen mechanistischen Zusammenhang gezielt zu prüfen.
-- Präklinische oder klinische Daten, die Tramadol direkt mit dieser Erkrankung in Verbindung bringen.
+- Ein biologisch begründeter Zusammenhang zwischen Tramadol und der Krankheitsursache
+- Präklinische oder klinische Daten zu dieser Erkrankung
+- Vollständige Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

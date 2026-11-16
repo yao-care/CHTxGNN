@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Amlodipinum: Hirnstamminfarkt (brain stem infarction)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Amlodipin ist ein Calciumantagonist vom Dihydropyridin-Typ, der in der Schweiz mehrfach im Handel ist. Das Vorhersagemodell TxGNN hält es für möglich, dass Amlodipin beim Hirnstamminfarkt (brain stem infarction) wirksam sein könnte. Diese Vorhersage beruht allein auf dem Modell: Für diese Erkrankung liegen weder klinische Studien noch Publikationen vor (Evidenzniveau L5).
+Amlodipin ist ein Calciumantagonist, der in der Schweiz als Tablette im Handel ist. Für die Vorhersage Hirnstamminfarkt (brain stem infarction) kommt eine mögliche Wirkung über die Blutdrucksenkung zur Schlaganfall-Vorbeugung infrage. Dafür liegen keine Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -61,37 +59,25 @@ Amlodipin ist ein Calciumantagonist vom Dihydropyridin-Typ, der in der Schweiz m
 
 ### Warum ist diese Vorhersage plausibel?
 
-Amlodipin blockiert L-Typ-Calciumkanäle in der glatten Gefässmuskulatur. Dadurch erweitern sich die Arterien, der Gefässwiderstand sinkt und der Blutdruck fällt. Die Mechanismusangaben (Wirkmechanismus) sind in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Die Beschreibung stützt sich auf das bekannte Wirkprinzip dieser Wirkstoffklasse.
+Amlodipin gehört zu den Calciumantagonisten vom Dihydropyridin-Typ. Es hemmt den Calciumeinstrom in die glatten Gefässmuskelzellen und senkt dadurch den Blutdruck. Die Angaben zum genauen Wirkmechanismus fehlen in den zusammengestellten Daten.
 
-Der Hirnstamminfarkt ist eine durch Gefässverschluss verursachte Durchblutungsstörung im Hirnstamm. Ein möglicher Zusammenhang besteht darin, dass Blutdrucksenkung und Gefässschutz das Risiko solcher Gefässereignisse mindern könnten. Dies ist eine Modellannahme.
+Ein möglicher Zusammenhang mit dem Hirnstamminfarkt ergibt sich aus der Blutdrucksenkung, die zur Vorbeugung weiterer Schlaganfälle beitragen kann. Denkbar sind zudem gefässbezogene oder neuroprotektive Effekte.
 
-Für diese Annahme liegen in den vorhandenen Daten keine klinischen oder präklinischen Belege vor. Die Ähnlichkeit zur ursprünglichen Anwendung ist nicht weiter bewertet. Der hohe Vorhersagewert zeigt nur, dass das Modell einen Zusammenhang erkennt. Er ist kein Wirksamkeitsnachweis.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Diese Überlegungen sind theoretisch. Für diese konkrete Erkrankung wurden weder klinische Studien noch Publikationen gefunden. Der Zusammenhang ist daher nicht durch direkte Daten belegt.
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Hersteller |
-|---------|------|------|-----------|
-| 50044 | Norvasc 5 mg, Tabletten | Tabletten (Synthetika) | Viatris Pharma GmbH |
-| 59421 | Amlodipin axapharm 5 mg, Tabletten | Tabletten (Synthetika) | axapharm ag |
-| 56821 | ZentiAmlo 5 mg, Tabletten | Tabletten (Synthetika) | Helvepharm AG |
-| 68727 | Amlodipin Zentiva 5 mg, Tabletten | Tabletten (Synthetika) | Helvepharm AG |
-| 56991 | Amlodipin-Mepha 5, Tabletten | Tabletten (Synthetika) | Mepha Pharma AG |
+Die Liste kann unvollständig sein; es sind mindestens 5 Zulassungen vorhanden.
 
-Alle fünf aufgeführten Zulassungen sind gültig und betreffen Einzelwirkstoff-Präparate. Die Liste ist möglicherweise unvollständig, da mindestens fünf Zulassungen bestehen.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 50044 | Norvasc 5 mg, Tabletten | Synthetika | Calciumantagonist |
+| 59421 | Amlodipin axapharm 5 mg, Tabletten | Synthetika | Calciumantagonist |
+| 56821 | ZentiAmlo 5 mg, Tabletten | Synthetika | Calciumantagonist |
+| 68727 | Amlodipin Zentiva 5 mg, Tabletten | Synthetika | Calciumantagonist |
+| 56991 | Amlodipin-Mepha 5, Tabletten | Synthetika | Calciumantagonist |
 
 ---
 
@@ -106,14 +92,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage für den Hirnstamminfarkt beruht ausschliesslich auf dem Modell (Evidenzniveau L5). Es gibt keine klinischen Studien und keine Publikationen zu dieser Erkrankung.
-- Die Sicherheitsdaten aus der Schweizer Fachinformation und die Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten.
+- Für den Hirnstamminfarkt gibt es nur eine Modellvorhersage ohne klinische Studien oder Literatur (Evidenzniveau L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen)
-- Ergänzung der Wirkmechanismus-Angaben aus DrugBank
-- Systematische Suche nach präklinischen und klinischen Studien zum Hirnstamminfarkt
-- Prüfung der Darreichungsform und Anwendungsweise für die neue Indikation
+- Klinische Studien oder Publikationen, die Amlodipin direkt bei Hirnstamminfarkt untersuchen
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

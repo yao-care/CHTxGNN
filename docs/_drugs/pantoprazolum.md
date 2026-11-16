@@ -9,7 +9,7 @@ drugbank_id: DB00213
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-16
-description: "Pantoprazolum: vorhergesagte neue Indikation Duodenal obstruction (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Refluxoesophagitis, Zollinger-Ellison-Syndrom"
+description: "Pantoprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Refluxoesophagitis, Zollinger-Ellison-Syndrom"
 ---
 
 # Pantoprazolum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Pantoprazolum: Duodenal obstruction
+## Pantoprazolum: Duodenalobstruktion (duodenal obstruction)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Pantoprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. Vorhergesagt wird eine Wirksamkeit bei aktivem Magengeschwür (active peptic ulcer disease). Dafür liegt eine abgeschlossene Phase-3-Studie vor, die das Geschwür im Zusammenhang mit der H.-pylori-Eradikation untersucht; die übrige Literatur ist überwiegend indirekt.
+Pantoprazol ist in der Schweiz als Protonenpumpenhemmer im Handel. Für die Duodenalobstruktion (duodenal obstruction) liegt ein hoher TxGNN-Vorhersagewert vor, doch es gibt dazu weder klinische Studien noch Studien, die diese Erkrankung direkt untersuchen. Die Evidenz beschränkt sich auf einen einzelnen Fallbericht, in dem Pantoprazol lediglich als Begleittherapie erwähnt wird. Die Vorhersage ist daher rein modellbasiert.
 
 ---
 
@@ -48,28 +48,28 @@ Pantoprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. V
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Ulcustherapie, Refluxoesophagitis, Zollinger-Ellison-Syndrom; Protonenpumpenhemmer |
-| Vorhergesagte neue Indikation | Duodenal obstruction |
+| Vorhergesagte neue Indikation | Duodenalobstruktion (duodenal obstruction) |
 | TxGNN-Vorhersagewert | 0.9921 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
 | Anzahl Zulassungen | mindestens 3 |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pantoprazol hemmt irreversibel die H+/K+-ATPase (Protonenpumpe) der Magenwandzellen. Dadurch sinkt die Säuresekretion, und Geschwüre können abheilen. Die Angabe zum Wirkmechanismus fehlt in den Arzneimitteldaten; die Beschreibung stützt sich auf die in der Literatur beschriebene Pharmakologie dieser Wirkstoffklasse.
+Pantoprazol hemmt die H+/K+-ATPase (Protonenpumpe) der Magenschleimhaut und senkt dadurch die Säureproduktion. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Magengeschwüre sind säureabhängige Erkrankungen. Zusätzlich wird Pantoprazol in Therapien zur Eradikation von Helicobacter pylori eingesetzt, die eine Hauptursache vieler Geschwüre behandeln. Der Mechanismus ist daher unmittelbar anwendbar. Es handelt sich um eine etablierte säurebezogene Anwendung und weniger um eine wirklich neuartige Umwidmung.
+Ein möglicher Zusammenhang besteht indirekt: Wenn eine Verengung des Zwölffingerdarms durch säurebedingte Entzündung und Schwellung (z. B. bei Magen-Darm-Geschwüren oder Duodenitis) mitverursacht wird, könnte weniger Säure die Schwellung mindern.
+
+Diese Überlegung ist rein theoretisch. Eine mechanische oder strukturelle Obstruktion lässt sich mit Pantoprazol nicht beheben, und es gibt keine direkten Belege, dass Pantoprazol die Duodenalobstruktion selbst behandelt. Der hohe Vorhersagewert ist eine rechnerische Modellvorhersage ohne klinische Bestätigung.
 
 ---
 
 ### Klinische Studien
 
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Phase 3 | Abgeschlossen | 323 | Randomisierte, doppelblinde Studie: Ilaprazol versus Pantoprazol in einer 7-tägigen Tripeltherapie bei H.-pylori-positiven Patienten mit Magen- und/oder Zwölffingerdarmgeschwür. Der Titel ist abgeschnitten; Vergleichsarm und Endpunkt sollten im Studienregister geprüft werden. |
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -77,17 +77,13 @@ Magengeschwüre sind säureabhängige Erkrankungen. Zusätzlich wird Pantoprazol
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [9692693](https://pubmed.ncbi.nlm.nih.gov/9692693/) | 1998 | Klinische Studie | Alimentary Pharmacology & Therapeutics | Pilotstudie in einem Zentrum: Eine 10-tägige Tripeltherapie mit Pantoprazol zur H.-pylori-Eradikation wurde untersucht. |
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematische Übersicht/Netzwerk-Metaanalyse | American Journal of Gastroenterology | Vergleich von P-CAB und Protonenpumpenhemmern bei schwerer Refluxösophagitis; nur indirekt auf Geschwüre übertragbar. |
-| [19938880](https://pubmed.ncbi.nlm.nih.gov/19938880/) | 2009 | Übersichtsarbeit | Clinical Drug Investigation | Beschreibt Pantoprazol als Protonenpumpenhemmer mit relativ langer Wirkdauer und bisher keinen identifizierten Arzneimittelwechselwirkungen in Studien. |
-| [16700898](https://pubmed.ncbi.nlm.nih.gov/16700898/) | 2006 | Übersichtsarbeit | Alimentary Pharmacology & Therapeutics | Klinische Pharmakologie der Protonenpumpenhemmer. |
-| [11060758](https://pubmed.ncbi.nlm.nih.gov/11060758/) | 2000 | Übersichtsarbeit | Expert Opinion on Investigational Drugs | Überblick über neue Therapieansätze bei Magen- und Zwölffingerdarmgeschwüren; Ursachen sind vor allem H. pylori und NSAR. |
+| [35305006](https://pubmed.ncbi.nlm.nih.gov/35305006/) | 2022 | Fallbericht | Acta gastro-enterologica Belgica | Ein 63-jähriger Patient unter Induktionschemotherapie wegen Tonsillenkarzinoms litt an Nahrungsintoleranz, Erbrechen und Gewichtsverlust. Die Beschwerden bestanden trotz intravenösem Pantoprazol, Prokinetika und Magensonde fort. Pantoprazol erscheint nur als erfolglose Begleittherapie, nicht als Behandlung der Obstruktion. |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen kann unvollständig sein.
+Die Liste ist möglicherweise unvollständig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -97,25 +93,19 @@ Die Liste der Zulassungen kann unvollständig sein.
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Es liegt eine abgeschlossene Phase-3-Studie mit 323 Teilnehmenden zu Geschwüren bei H.-pylori-Infektion vor. Ihr Titel ist jedoch abgeschnitten, sodass Vergleichsarm und Endpunkt nicht bestätigt sind.
-- Es handelt sich um eine etablierte säurebezogene Anwendung, nicht um eine echte neue Umwidmung.
+- Die Vorhersage stützt sich nur auf ein Rechenmodell. Es gibt keine Studie, die Pantoprazol bei Duodenalobstruktion untersucht, und der einzige Literaturhinweis ist ein Fallbericht ohne Wirksamkeitsbeleg.
+- Pantoprazol kann eine mechanische Obstruktion nicht beheben, die Plausibilität ist daher eingeschränkt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Prüfung des vollständigen Registereintrags von NCT02084420 (Studienarm, Vergleichspräparat, Endpunkt)
-- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
-- Bestätigung der Wirkmechanismus-Angaben aus einer Arzneimitteldatenbank
-- Übliche Vorsichtsmassnahmen bei Protonenpumpenhemmern: kürzest mögliche wirksame Behandlungsdauer, Prüfung von Wechselwirkungen (CYP2C19-bezogen) sowie bei Langzeitgebrauch Beachtung von Magnesium- und Vitamin-B12-Mangel, Frakturrisiko und Clostridioides-difficile-Infektionen
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar, daher keine Sicherheitsbewertung möglich)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klinische oder präklinische Studien, die Pantoprazol direkt bei Duodenalobstruktion untersuchen, insbesondere bei säurebedingter Schwellung
+- Klärung, bei welchen Ursachen der Obstruktion (entzündlich statt strukturell) ein Nutzen überhaupt denkbar ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

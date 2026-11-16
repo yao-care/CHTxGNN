@@ -37,13 +37,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Omalizumabum: Bronchitis
 {: .text-alpha }
 
-### Zusammenfassung
+## Zusammenfassung
 
-Omalizumab ist ein gegen Immunglobulin E (IgE) gerichteter monoklonaler Antikörper. Für die Atemwegserkrankung Bronchitis (bronchitis) liefert das Modell einen sehr hohen Vorhersagewert. Direkte Belege fehlen jedoch: Die vorliegenden Studien und Publikationen betreffen überwiegend Asthma und verwandte Zustände, nicht Bronchitis selbst. Die Evidenz ist daher als schwach einzustufen.
+Omalizumab ist ein gegen Immunglobulin E (IgE) gerichteter monoklonaler Antikörper. Die Datenlage ist jedoch dünn: Eine kleine randomisierte Studie bei eosinophiler Bronchitis mit Asthma (11 Teilnehmende) sowie Übersichtsarbeiten zu Asthma-COPD-Überlappung, aber keine Studie, die Bronchitis als solche untersucht. Der Evidenzstand entspricht daher Stufe L5.
 
 ---
 
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -57,69 +57,65 @@ Omalizumab ist ein gegen Immunglobulin E (IgE) gerichteter monoklonaler Antikör
 
 ---
 
-### Warum ist diese Vorhersage plausibel?
+## Warum ist diese Vorhersage plausibel?
 
-Omalizumab bindet freies IgE und senkt dadurch die Besetzung und Ausprägung des hochaffinen IgE-Rezeptors (FcεRI) auf Mastzellen, Basophilen und dendritischen Zellen. Dies dämpft allergische Entzündungsreaktionen in den Atemwegen. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind lückenhaft; die Beschreibung stützt sich auf die Fachliteratur.
+Omalizumab bindet freies IgE und senkt dessen Spiegel. Zudem verringert es die Zahl der hochaffinen IgE-Rezeptoren (FcεRI) auf Mastzellen, Basophilen und dendritischen Zellen. Dadurch wird die allergische Entzündung der Atemwege gedämpft. Die Angaben zum Wirkmechanismus in den Rohdaten fehlen; die Beschreibung stützt sich auf die in der Literatur beschriebene Wirkweise.
 
-Bei einer chronischen Bronchitis oder einer Überlappung von Asthma und COPD mit allergischer oder eosinophiler Komponente könnte eine IgE-vermittelte Entzündung eine Rolle spielen. Dort wäre ein Ansprechen denkbar. Der hohe Vorhersagewert spiegelt wahrscheinlich eher die Nähe zu Asthma wider als eine spezifische Biologie der Bronchitis.
-
-Eine direkte Evidenz für Bronchitis als eigenständige Indikation gibt es in den vorliegenden Daten nicht.
+Ein Zusammenhang ist am ehesten bei allergischen oder eosinophilen Atemwegserkrankungen denkbar, etwa bei Asthma-COPD-Überlappung mit chronischem Bronchitis-Phänotyp. Für nicht allergische oder infektiöse Bronchitis gibt es keine Belege. Die Verbindung ist daher indirekt und hängt vom Krankheitsphänotyp ab.
 
 ---
 
-### Klinische Studien
+## Klinische Studien
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Phase 2 | Abgeschlossen | 382 | Dosisfindungsstudie (Phase 2b) mit Placebo- und Wirkstoffkontrolle zu QGE031 bei chronischer spontaner Urtikaria; nur indirekter Bezug zu Bronchitis |
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Phase 2/3 | Abgeschlossen | 11 | Placebokontrollierte Studie zum kortisonsparenden Effekt von Omalizumab bei Asthma mit eosinophiler Bronchitis; sehr kleine Stichprobe, Ergebnisse nicht berichtet |
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Phase 2/3 | Abgeschlossen | 11 | Placebokontrollierte Studie zur kortison­sparenden Wirkung von Omalizumab bei Asthma mit persistierender eosinophiler Bronchitis. Ergebnisse liegen in den Daten nicht vor; die sehr kleine Teilnehmerzahl schränkt die Aussagekraft stark ein. |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Phase 2 | Abgeschlossen | 382 | Dosisfindungsstudie (QGE031) bei chronischer spontaner Urtikaria. Der Bezug zu Bronchitis ist nicht gegeben. |
 
 ---
 
-### Literaturbelege
+## Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Kohorte | Postepy dermatologii i alergologii | Biologika könnten auch bei älteren Patienten mit schwerem allergischem Asthma-COPD-Overlap nützlich sein |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Übersicht | Expert opinion on pharmacotherapy | Rauchbedingte Atemwegserkrankungen (u. a. chronische Bronchitis) bei Asthma; die Behandlung ist unsicher, da diese Patienten aus den meisten Studien ausgeschlossen sind |
-| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Übersicht | Clinical reviews in allergy & immunology | Omalizumab ist bei mittelschwerem bis schwerem persistierendem Asthma wirksam |
-| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | Übersicht | Current medical research and opinion | Gepoolte Sicherheitsanalyse bei Kindern mit allergischem Asthma |
-| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Übersicht | Masui | Präoperatives Management bei Asthma oder chronischer Bronchitis; Omalizumab wird als Option bei schwerem allergischem Asthma erwähnt |
-| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Übersicht | Allergologia et immunopathologia | Überblick über monoklonale Antikörper in der Pädiatrie |
-| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Fallbericht | Journal of investigational allergology & clinical immunology | Seltener Fall einer plastischen Bronchitis nach bronchialer Thermoplastik |
+| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Kohortenstudie | Postepy dermatologii i alergologii | Biologika gegen schweres Asthma können auch bei älteren Patienten mit schwerem allergischem Asthma-COPD-Overlap nützlich sein. |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Übersichtsarbeit | Expert Opinion on Pharmacotherapy | Rauchbedingte Atemwegserkrankungen wie chronische Bronchitis betreffen viele Menschen mit Asthma; die Behandlung ist unsicher, da diese Gruppe von den meisten Studien ausgeschlossen wird. |
+| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Übersichtsarbeit | Clinical Reviews in Allergy & Immunology | Omalizumab ist bei mittelschwerem bis schwerem persistierendem Asthma wirksam. |
+| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | Übersichtsarbeit (gepoolte Analyse) | Current Medical Research and Opinion | Sicherheit und Verträglichkeit von Omalizumab bei Kindern mit allergischem Asthma. |
+| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Übersichtsarbeit | Masui | Präoperatives Management bei Asthma oder chronischer Bronchitis; Omalizumab wird als Option bei schwerem allergischem Asthma erwähnt. |
+| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Übersichtsarbeit | Allergologia et Immunopathologia | Überblick über monoklonale Antikörper in der Pädiatrie; keine spezifischen Aussagen zu Bronchitis. |
+| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Fallbericht | Journal of Investigational Allergology & Clinical Immunology | Seltener Fall einer plastischen Bronchitis nach bronchialer Thermoplastie. |
 
 ---
 
-### Marktinformationen Schweiz
+## Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 69508 | Omlyclo 75 mg/0.5 ml, Injektionslösung in Fertigspritze | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria |
-| 69272 | Xolair 75 mg/0.5 ml, Injektionslösung in einem Fertigpen | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen |
+| 69272 | Xolair 75 mg/0.5 ml, Injektionslösung im Fertigpen | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen |
 | 57178 | Xolair 75 mg, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen |
 | 68030 | Xolair 75 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen |
 
 ---
 
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine der vorliegenden Studien oder Publikationen untersucht Bronchitis direkt; die Evidenz beschränkt sich auf Asthma und verwandte Zustände, daher gilt Evidenzniveau L5.
-- Der hohe Vorhersagewert allein genügt nicht, um eine Weiterverfolgung zu rechtfertigen.
+- Keine der gefundenen Studien untersucht Bronchitis als solche; die einzige randomisierte Studie (11 Teilnehmende, eosinophile Bronchitis bei Asthma) ist sehr klein. Der Wirkmechanismus ist nur für allergische oder eosinophile Phänotypen plausibel.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Kontrollierte Studien zu Omalizumab bei Patienten mit Bronchitis, insbesondere eosinophiler oder allergischer Ausprägung, oder bei Asthma-COPD-Überlappung
-- Ergebnisse der Studie NCT02049294 (eosinophile Bronchitis)
-- Sicherheitsangaben aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen)
-- Vollständige Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Ergebnisse und Auswertung der Studie NCT02049294 sowie ggf. grössere kontrollierte Studien bei klar definierten Bronchitis-Phänotypen (allergisch/eosinophil)
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar; blockierende Datenlücke für die Sicherheitsprüfung)
+- Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Flurbiprofen ist ein nichtsteroidaler Entzündungshemmer (NSAR), der die Cyclooxygenasen hemmt und in der Schweiz im Handel ist. Das Vorhersagemodell TxGNN nennt als neue mögliche Anwendung die akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type), eine seltene genetische Skelettfehlbildung. Dafür gibt es weder klinische Studien noch Literatur. Die Vorhersage stützt sich allein auf das Modell (Evidenzniveau L5).
+Flurbiprofen ist ein nichtsteroidales Antirheumatikum (NSAR), das in der Schweiz in mehreren Präparaten im Handel ist. Als neue Indikation wurde die akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) vorhergesagt, eine seltene genetische Skeletterkrankung. Diese Vorhersage beruht ausschliesslich auf einem Modellwert; es liegen weder klinische Studien noch Publikationen vor, und ein nachvollziehbarer biologischer Zusammenhang ist nicht erkennbar.
 
 ---
 
@@ -61,29 +61,31 @@ Flurbiprofen ist ein nichtsteroidaler Entzündungshemmer (NSAR), der die Cycloox
 
 ### Warum ist diese Vorhersage plausibel?
 
-Flurbiprofen hemmt die Cyclooxygenasen COX-1 und COX-2 und senkt dadurch die Bildung von Prostaglandinen, die Entzündung und Schmerz vermitteln. Der Wirkmechanismus ist in den vorliegenden Daten nicht gesondert hinterlegt. Die Angabe entspricht dem bekannten Wirkprinzip dieser Arzneimittelklasse.
+Der Wirkmechanismus von Flurbiprofen ist in den vorliegenden Daten nicht hinterlegt. Allgemein gehört der Wirkstoff zu den nichtselektiven COX-Hemmern, die die Bildung von Prostaglandinen vermindern und dadurch Schmerz und Entzündung dämpfen.
 
-Die akromesomele Dysplasie Typ Hunter-Thompson ist eine angeborene Skelettentwicklungsstörung mit verkürzten Gliedmassen. Sie beruht auf einem Funktionsverlust des Gens *CDMP1/GDF5*, das den Wachstumsfaktor GDF5 im BMP-Signalweg kodiert. Für eine Verbindung zwischen der COX-Hemmung durch Flurbiprofen und diesem Signalweg gibt es keine Hinweise.
+Die akromesomele Dysplasie Typ Hunter-Thompson ist dagegen eine seltene Skelettfehlbildung, die auf Funktionsverlust-Mutationen im Gen CDMP1/GDF5 zurückgeht. Betroffen sind der BMP-Signalweg und die Knorpelbildung. Die Hemmung der Cyclooxygenase greift in diesen Weg nicht ein.
 
-Der hohe Vorhersagewert ist daher nach heutigem Wissen nicht mechanistisch begründbar. Er ist wahrscheinlich ein Artefakt der Modellberechnung. Eine biologische Plausibilität lässt sich aus den vorliegenden Daten nicht ableiten.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Ein glaubwürdiger mechanistischer Zusammenhang besteht daher nicht. Der sehr hohe Vorhersagewert spiegelt wahrscheinlich Eigenheiten des Modells wider und keine biologische Begründung. Die fehlende Mechanismusinformation schränkt die Beurteilung zusätzlich ein.
 
 ---
 
-### Literaturbelege
+### Marktinformationen Schweiz
 
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 58523 | Strepsils Dolo, Lutschtabletten mit Honig/Zitronengeschmack | Synthetika | Schmerzhafte Entzündungen der Rachenschleimhaut |
+| 65201 | Strepsils Dolo Orange, Lutschtabletten | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 69186 | Flurbifelan Dolo 8.75 mg, Lutschtabletten | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 40795 | Froben 50 mg, Dragées | Synthetika | Entzündungshemmend |
+| 69187 | SUN STORE Flurbiprofen 8.75 mg, Lutschtabletten | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 67471 | Neo-Angin Dolo Spray 8.75 mg, Spray zur Anwendung in der Mundhöhle, Lösung mit Kirscharoma | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 67880 | Mebucaïne Dolo, Lutschtablette | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 65577 | Strepsils Dolo Spray, Spray zur Anwendung in der Mundhöhle | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 69044 | Mebucaïne Dolo Spray 8.75 mg, Spray zur Anwendung in der Mundhöhle | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 69181 | Amavita Flurbiprofen 8.75 mg, Lutschtabletten | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 69518 | Mebucaïne Dolo Honig-Zitrone 8.75 mg, Lutschtabletten | Synthetika | Schmerzhafte Entzündungen der Rachenschleimhaut |
+| 69182 | Coop Vitality Flurbiprofen 8.75 mg, Lutschtabletten | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
+| 67961 | Neo-Angin Dolo Orange 8.75 mg, Lutschtabletten | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut |
 
 ---
 
@@ -92,14 +94,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht ausschliesslich auf dem Modellwert (Evidenzniveau L5). Es gibt weder Studien noch Literatur noch einen erkennbaren biologischen Zusammenhang zwischen COX-Hemmung und der GDF5-bedingten Skelettentwicklungsstörung.
-- Eine krankheitsmodifizierende Wirkung ist nicht zu erwarten. Mögliche Effekte beschränkten sich bestenfalls auf eine allgemeine Schmerzlinderung.
+- Die Vorhersage stützt sich nur auf einen Modellwert. Es gibt keine klinischen Studien, keine Literatur und keinen plausiblen biologischen Zusammenhang zwischen COX-Hemmung und der zugrunde liegenden genetischen Störung.
+- Die Sicherheitsdaten aus der Fachinformation fehlen, sodass eine Sicherheitsprüfung derzeit nicht möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische oder mechanistische Daten, die einen Zusammenhang zwischen Prostaglandin-Hemmung und GDF5/BMP-Signalweg zeigen
-- Publizierte Studien oder Fallberichte zu dieser Erkrankung
-- Die Sicherheitsinformationen aus der Fachinformation (Warnhinweise, Kontraindikationen), die in den vorliegenden Daten fehlen
-- Die Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Download und Auswertung des Dokuments).
+- Die Angaben zum Wirkmechanismus aus DrugBank.
+- Präklinische oder klinische Belege, die einen Einfluss von Flurbiprofen auf den GDF5-/BMP-Signalweg oder auf die Erkrankung selbst zeigen.
+- Eine Prüfung der Anwendungswege, da die vorhandenen Präparate vorwiegend lokal im Rachenraum angewendet werden.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

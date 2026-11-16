@@ -9,7 +9,7 @@ drugbank_id: DB01023
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 last_modified_at: 2026-11-16
-description: "Felodipinum: vorhergesagte neue Indikation Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
+description: "Felodipinum: vorhergesagte neue Indikation Pulmonale Hypertonie bei unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
 ---
 
 # Felodipinum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Felodipinum: Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism)
+## Felodipinum: Pulmonale Hypertonie bei unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Felodipin ist ein Calciumantagonist vom Dihydropyridin-Typ, der in der Schweiz als Retardtablette im Handel ist. Für die pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) sagt das Modell eine mögliche Wirksamkeit voraus. Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Felodipin ist ein Calciumantagonist, der in der Schweiz mit mehreren Präparaten im Handel ist. Es wird vorhergesagt, dass es bei pulmonaler Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) wirksam sein könnte. Diese Vorhersage beruht ausschliesslich auf einem Rechenmodell; für diese Erkrankung liegen weder klinische Studien noch Publikationen vor.
 
 ---
 
@@ -50,7 +48,7 @@ Felodipin ist ein Calciumantagonist vom Dihydropyridin-Typ, der in der Schweiz a
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Calciumantagonist |
-| Vorhergesagte neue Indikation | Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) |
+| Vorhergesagte neue Indikation | Pulmonale Hypertonie bei unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) |
 | TxGNN-Vorhersagewert | 0.9991 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
@@ -61,19 +59,23 @@ Felodipin ist ein Calciumantagonist vom Dihydropyridin-Typ, der in der Schweiz a
 
 ### Warum ist diese Vorhersage plausibel?
 
-Felodipin blockiert L-Typ-Calciumkanäle in der glatten Gefässmuskulatur und wirkt dadurch gefässerweiternd, sowohl im Körper- als auch im Lungenkreislauf. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind lückenhaft; die Einordnung stützt sich auf die Substanzklasse.
+Felodipin gehört zu den Dihydropyridinen und blockiert L-Typ-Calciumkanäle. Dadurch erschlafft die glatte Gefässmuskulatur, und die Gefässe erweitern sich. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine näheren Angaben vor; die Einordnung als Calciumantagonist stammt aus den Schweizer Zulassungen.
 
-Eine Gefässerweiterung ist für die pulmonale Hypertonie grundsätzlich nachvollziehbar. Der Ansatz ist allerdings allgemein gehalten: Calciumantagonisten helfen nur einer kleinen Untergruppe von Patientinnen und Patienten, nämlich jenen, die im akuten Vasoreaktivitätstest ansprechen. Die hier vorhergesagte Kategorie ist zudem mechanistisch uneinheitlich.
+Eine Gefässerweiterung im Lungenkreislauf könnte den Druck in den Lungenarterien senken. Dieser Zusammenhang ist plausibel, aber für Felodipin bei dieser Erkrankung nicht belegt.
 
-Der hohe Vorhersagewert ersetzt keine Belege. Für diese Erkrankung wurden weder Studien noch Literatur gefunden.
+Zu beachten ist: Calciumantagonisten eignen sich nur für eine kleine Gruppe von Patientinnen und Patienten mit nachweislich gefässreaktiver pulmonal-arterieller Hypertonie. Bei Patienten, die nicht darauf ansprechen, können sie schaden.
 
 ---
 
-### Sicherheitshinweise
+### Klinische Studien
 
-Für Felodipin liegen in den zusammengestellten Daten weder Warnhinweise noch Kontraindikationen vor, und es wurden keine Wechselwirkungen gefunden. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Derzeit keine verwandten klinischen Studien registriert
 
-Zu beachten ist: Vasodilatatoren können bei Lungenerkrankungen das Verhältnis von Belüftung zu Durchblutung verschlechtern.
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -88,18 +90,25 @@ Zu beachten ist: Vasodilatatoren können bei Lungenerkrankungen das Verhältnis 
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch, aber es gibt keine Studien oder Publikationen zu dieser Erkrankung. Der Mechanismus ist plausibel, aber unspezifisch, und die Kategorie ist uneinheitlich.
+- Die Vorhersage stützt sich nur auf das Rechenmodell (Evidenzniveau L5); es gibt weder Studien noch Publikationen zu dieser Erkrankung.
+- Calciumantagonisten können bei Patienten ohne Gefässreaktivität schaden, und die Sicherheitsdaten aus der Fachinformation fehlen bislang.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Daten, die Felodipin direkt bei pulmonaler Hypertonie untersuchen
-- Eine genauere Eingrenzung der Patientengruppe, zum Beispiel Ansprechen im Vasoreaktivitätstest
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation
-- Die Angaben zum Wirkmechanismus aus einer zuverlässigen Arzneimitteldatenbank
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) von Swissmedic
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klinische oder zumindest direkt auf die Erkrankung bezogene Daten, etwa zur Gefässreaktivität im Rechtsherzkatheter
+- Klärung der Sicherheit bei Patienten mit Sauerstoffmangel oder Lungenerkrankung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

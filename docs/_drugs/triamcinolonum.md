@@ -37,13 +37,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 ## Triamcinolonum: Alopecia mucinosa
 {: .text-alpha }
 
-## Zusammenfassung
+### Zusammenfassung
 
-Triamcinolon ist ein Glucocorticoid, das in der Schweiz in mehreren Darreichungsformen im Handel ist. Für Alopecia mucinosa (alopecia mucinosa), eine entzündliche Erkrankung der Haarfollikel, sagt das Modell einen möglichen Nutzen voraus. Die Evidenz ist sehr schwach: Es liegen nur zwei Einzelfallberichte vor, die Triamcinolon nicht untersuchen, und keine klinischen Studien.
+Triamcinolon ist ein Glucocorticoid mit entzündungshemmender und immunsupprimierender Wirkung. Die höchste Vorhersage des Modells betrifft die Alopecia mucinosa (follikuläre Muzinose). Für diese Vorhersage liegen nur zwei einzelne Fallberichte vor, die Triamcinolon nicht behandeln; die Evidenz ist daher sehr schwach.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -57,65 +57,65 @@ Triamcinolon ist ein Glucocorticoid, das in der Schweiz in mehreren Darreichungs
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Triamcinolon liegen in den zusammengestellten Daten keine Angaben vor. Allgemein wirken Glucocorticoide entzündungshemmend und dämpfen die Immunantwort.
+Zum Wirkmechanismus von Triamcinolon liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein ist Triamcinolon ein starkes Kortikosteroid, das Entzündungsprozesse und Immunreaktionen dämpft.
 
-Die follikuläre Muzinose (Alopecia mucinosa) ist eine entzündliche Erkrankung der Haarfollikel, bei der sich Muzin in den Haarbälgen und Talgdrüsen ablagert. Ein Corticosteroid, etwa als Creme oder als Injektion in die Läsion, könnte deshalb über seine entzündungshemmende Wirkung hilfreich sein. Das ist eine fachliche Überlegung, keine belegte Tatsache.
+Bei der follikulären Muzinose findet sich ein entzündliches Infiltrat rund um die Haarfollikel. Ein Kortikosteroid, das in die betroffenen Hautstellen gespritzt wird, könnte dieses Infiltrat grundsätzlich beeinflussen. Dies ist jedoch eine Überlegung aus dem Mechanismus und keine belegte Wirkung.
 
-Die gefundene Literatur stützt diese Annahme bisher nicht: Sie beschreibt andere Behandlungen und dokumentiert keine Wirksamkeit von Triamcinolon.
+Die gefundene Literatur beschreibt kein Triamcinolon. Die Evidenz ist deshalb indirekt.
 
 ---
 
-## Klinische Studien
+### Klinische Studien
 
 Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
-## Literaturbelege
+### Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [23968145](https://pubmed.ncbi.nlm.nih.gov/23968145/) | 2014 | Fallbericht | International journal of dermatology | Erfolgreiche Behandlung einer anhaltenden idiopathischen follikulären Muzinose mit Bexaroten-Gel (1 %). Triamcinolon wurde nicht untersucht. |
-| [14170262](https://pubmed.ncbi.nlm.nih.gov/14170262/) | 1964 | Fallbericht | Hifuka kiyo. Acta dermatologica | Fallbeschreibung einer Alopecia mucinosa Pinkus. Kein Abstract verfügbar. |
+| [23968145](https://pubmed.ncbi.nlm.nih.gov/23968145/) | 2014 | Fallbericht | International journal of dermatology | Erfolgreiche Behandlung einer anhaltenden idiopathischen follikulären Muzinose mit Bexaroten-Gel (ohne Zusammenhang mit einem kutanen T-Zell-Lymphom). Kein Triamcinolon. |
+| [14170262](https://pubmed.ncbi.nlm.nih.gov/14170262/) | 1964 | Fallbericht | Hifuka kiyo. Acta dermatologica | Beschreibung eines Falls von Alopecia mucinosa Pinkus. Kein Abstract verfügbar; Triamcinolon wird nicht dokumentiert. |
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 7 Zulassungen).
+Die Liste kann unvollständig sein; es sind mindestens 7 Zulassungen bekannt.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 69099 | Nasalone, Nasenspray-Suspension | Synthetika | Rhinitis |
 | 41174 | Triamcort Depot 10 mg/1 ml, Kristallsuspension zur Injektion | Synthetika | Glucocorticoid-Therapie |
-| 32990 | Kenacort-A 40 mg/ml, Injektionssuspension | Synthetika | Glucocorticoid-Therapie |
-| 26177 | Kenacort-A 10 mg/ml, Injektionssuspension | Synthetika | Glucocorticoid-Therapie |
+| 32990 | Kenacort-A 40 40 mg/ml, Injektionssuspension | Synthetika | Glucocorticoid-Therapie |
+| 26177 | Kenacort-A 10 10 mg/ml, Injektionssuspension | Synthetika | Glucocorticoid-Therapie |
 | 24206 | Kenacort, Tabletten | Synthetika | Glucocorticoid-Therapie |
 | 35039 | Kenacort-A Orabase, Paste zur Anwendung in der Mundhöhle | Synthetika | Entzündliche Erkrankungen der Mundschleimhaut |
 | 38774 | Kenacort-A Solubile 10 mg/0,25 ml, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine klinischen Studien und keine Literatur, die Triamcinolon bei Alopecia mucinosa untersucht; die Vorhersage beruht allein auf dem Modell.
+- Die Vorhersage stützt sich auf ein Modellergebnis. Die zwei gefundenen Fallberichte betreffen die Erkrankung, aber nicht Triamcinolon. Damit liegt keine direkte Studie zur Wirkung von Triamcinolon bei dieser Erkrankung vor, und das Evidenzniveau bleibt L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Gezielte Literaturrecherche zu Triamcinolon (lokal oder intraläsional) bei follikulärer Muzinose
-- Fachinformationen mit Warnhinweisen und Kontraindikationen aus Swissmedic
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Prüfung, welche Darreichungsform (z. B. topisch oder intraläsional) für diese Hauterkrankung infrage kommt
+- Publikationen oder Fallserien, die Triamcinolon (z. B. intraläsional) bei follikulärer Muzinose direkt untersuchen
+- Angaben zum Wirkmechanismus von Triamcinolon
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung)
+- Prüfung der geeigneten Anwendungsform (z. B. intraläsional oder topisch) für die vorgesehene Indikation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

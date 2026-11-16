@@ -9,7 +9,7 @@ drugbank_id: DB11186
 monitor_inn: "Pentoxyverine"
 predicted_indications: ["nasal cavity disease"]
 last_modified_at: 2026-11-16
-description: "Pentoxyverinum: vorhergesagte neue Indikation Nasal cavity disease (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung von unproduktivem (trockenem) Husten bei Er…"
+description: "Pentoxyverinum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5)."
 ---
 
 # Pentoxyverinum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Pentoxyverinum: Nasal cavity disease
+## Pentoxyverinum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Pentoxyverin ist ein zentral wirkendes Mittel gegen Husten. Dafür liegen in den für diesen Bericht zusammengestellten Daten jedoch weder klinische Studien noch Publikationen vor. Die Evidenz beschränkt sich daher auf die reine Modellvorhersage.
+Pentoxyverin ist ein Arzneimittel gegen Husten, das in der Schweiz im Handel ist. Für die Vorhersage wurde als neue Indikation eine Erkrankung der Nasenhöhle (nasal cavity disease) berechnet. Dafür liegen derzeit keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modellwert (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +48,7 @@ Pentoxyverin ist ein zentral wirkendes Mittel gegen Husten. Dafür liegen in den
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Symptomatische Behandlung von unproduktivem (trockenem) Husten bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren |
-| Vorhergesagte neue Indikation | Nasal cavity disease |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9957 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,9 +59,9 @@ Pentoxyverin ist ein zentral wirkendes Mittel gegen Husten. Dafür liegen in den
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pentoxyverin (Carbetapentan) gilt aus allgemeinem pharmakologischem Wissen als zentral wirkendes Antitussivum mit zusätzlichen anticholinergen und lokalanästhetisch ähnlichen Eigenschaften. Zudem wirkt es als Sigma-1-Rezeptor-Agonist. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; diese Einordnung beruht daher auf allgemeinem Wissen und nicht auf belegten Daten.
+Zum Wirkmechanismus von Pentoxyverin liegen in den zusammengestellten Daten keine Angaben vor. Aus allgemeinem pharmakologischem Wissen (nicht aus den vorliegenden Daten) gilt die Substanz als zentral wirkendes Hustenmittel mit Sigma-1-Rezeptor-agonistischen, antimuskarinischen und lokalanästhetikaähnlichen Eigenschaften. Solche Eigenschaften könnten sich theoretisch auf Symptome einer Reizung der oberen Atemwege auswirken.
 
-Eine akute Laryngopharyngitis geht mit gereizten oberen Atemwegen und oft mit Hustenreiz einher. Eine Linderung dieses Symptoms ist biologisch plausibel. Der hohe Vorhersagewert könnte allerdings vor allem die bestehende Anwendung gegen Husten widerspiegeln. Es könnte sich also um eine Überschneidung auf Symptomebene handeln und nicht um eine echte Umwidmung.
+«Erkrankung der Nasenhöhle» ist jedoch eine sehr breite Kategorie. Ob etwa Rhinitis, Sinusitis oder verstopfte Nase gemeint ist, bleibt offen. Ein belegter biologischer Zusammenhang zwischen Wirkmechanismus und dieser Indikation besteht nach den vorliegenden Daten nicht. Die Vorhersage stützt sich allein auf den hohen Modellwert.
 
 ---
 
@@ -69,7 +69,7 @@ Eine akute Laryngopharyngitis geht mit gereizten oberen Atemwegen und oft mit Hu
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 69779 | Bisolvon Pentoxyverin 2,13 mg/ml, Sirup | Synthetika | Symptomatische Behandlung von unproduktivem (trockenem) Husten bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren |
+| 69779 | Bisolvon Pentoxyverin 2.13 mg/ml, Sirup | Synthetika | Symptomatische Behandlung von unproduktivem (trockenem) Husten bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren |
 
 ---
 
@@ -84,12 +84,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf das Modell. Es gibt keine klinischen Studien und keine Literatur zu dieser Erkrankung, daher gilt Evidenzniveau L5.
+- Die Vorhersage beruht ausschliesslich auf dem Modellwert (0,9957). Es gibt weder klinische Studien noch Literatur, und der Wirkmechanismus sowie ein Zusammenhang mit der neuen Indikation sind nicht belegt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, da die Sicherheitsprüfung sonst nicht möglich ist.
-- Daten zum Wirkmechanismus, um den Zusammenhang mit der vorhergesagten Indikation zu prüfen.
-- Klinische Studien oder Publikationen, die Pentoxyverin direkt bei akuter Laryngopharyngitis untersuchen.
+- Präzisierung der gemeinten Erkrankung der Nasenhöhle (z. B. Rhinitis, Sinusitis, Nasenschleimhautreizung)
+- Angaben zum Wirkmechanismus von Pentoxyverin (z. B. aus DrugBank)
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (aktuell blockierende Datenlücke für die Sicherheitsprüfung)
+- Prüfung der Eignung der Darreichungsform (Sirup) für eine Anwendung im Nasenbereich
+- Präklinische oder klinische Studien, die Pentoxyverin direkt bei Erkrankungen der Nasenhöhle untersuchen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

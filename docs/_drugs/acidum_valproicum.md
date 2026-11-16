@@ -9,7 +9,7 @@ drugbank_id: DB00313
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 last_modified_at: 2026-11-16
-description: "Acidum Valproicum: vorhergesagte neue Indikation Neubildung des Nervus trigeminus (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
+description: "Acidum Valproicum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
 # Acidum Valproicum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Acidum Valproicum: Neubildung des Nervus trigeminus (trigeminal nerve neoplasm)
+## Acidum Valproicum: Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Valproinsäure ist ein in der Schweiz im Handel befindliches Arzneimittel. Für die Vorhersage einer Neubildung des Nervus trigeminus (trigeminal nerve neoplasm) liegt ein sehr hoher Modellwert vor (0,9997). Es gibt dafür aber keine direkte Evidenz: keine klinischen Studien und keine Publikation, die diese Erkrankung untersucht. Die Vorhersage ist daher ein reines Modellergebnis (Evidenzniveau L5).
+Valproinsäure ist in der Schweiz als Antiepileptikum im Handel. Für die Vorhersage einer Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) liegt keine tragfähige Evidenz vor: Die einzige verknüpfte Publikation ist eine Fallserie zum Sturge-Weber-Syndrom, einer anderen Erkrankung. Die Vorhersage beruht daher allein auf dem Modell (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +48,7 @@ Valproinsäure ist ein in der Schweiz im Handel befindliches Arzneimittel. Für 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiepilepticum; Antiépileptique |
-| Vorhergesagte neue Indikation | Neubildung des Nervus trigeminus (trigeminal nerve neoplasm) |
+| Vorhergesagte neue Indikation | Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) |
 | TxGNN-Vorhersagewert | 0.9997 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -61,9 +59,9 @@ Valproinsäure ist ein in der Schweiz im Handel befindliches Arzneimittel. Für 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für diesen Bericht liegen keine Angaben zum Wirkmechanismus von Valproinsäure vor. Eine mechanistische Begründung lässt sich aus den vorliegenden Daten daher nicht ableiten. Bekannt ist lediglich, dass Valproinsäure in der Schweiz als Antiepileptikum zugelassen ist.
+Zum Wirkmechanismus von Valproinsäure liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem Fachwissen ist bekannt, dass Valproinsäure die GABA-Übertragung beeinflusst, Natriumkanäle hemmt und als Histon-Deacetylase-Hemmer (HDAC) in präklinischen Modellen eine gewisse Antitumor-Aktivität zeigt.
 
-Ein direkter biologischer Zusammenhang zwischen Valproinsäure und einer Neubildung des Nervus trigeminus ist in den vorliegenden Daten nicht belegt. Die einzige gefundene Publikation befasst sich mit dem Sturge-Weber-Syndrom, einer neurokutanen Gefässfehlbildung und keinem Tumor. Ein möglicher Bezug bestünde allenfalls über die Anfallskontrolle bei neurologischen Begleiterkrankungen, nicht über eine tumorhemmende Wirkung. Der hohe Vorhersagewert allein ist deshalb kein Hinweis auf eine tatsächliche Wirksamkeit und sollte nicht als solcher gelesen werden.
+Ein Zusammenhang dieser Eigenschaften mit Tumoren des Trigeminusnervs ist jedoch nicht belegt. Der hohe Vorhersagewert spiegelt wahrscheinlich eine Nähe im Modell wider (gemeinsame neurologische und trigeminusbezogene Merkmale) und keine tatsächliche therapeutische Beziehung. Die Plausibilität ist daher gering und rein hypothetisch.
 
 ---
 
@@ -77,7 +75,17 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Fallserie | Anales espanoles de pediatria | Auswertung von 14 Fällen eines Sturge-Weber-Syndroms über 25 Jahre (klinische Merkmale, Verlauf, Ansprechen auf die Behandlung). Die Studie betrifft keine Neubildung des Nervus trigeminus und liefert keine direkte Evidenz. |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Fallserie | Anales espanoles de pediatria | Auswertung von 14 Fällen des Sturge-Weber-Syndroms (neurokutane Gefässerkrankung) über 25 Jahre hinsichtlich klinischer Merkmale, Verlauf und Therapieansprechen. Keine Aussage zu Trigeminusnerven-Tumoren. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 40410 | Convulex 150, Kapseln | Synthetika | Antiepileptikum |
+| 34734 | Depakine, solution buvable | Synthetika | Antiepileptikum |
+| 50271 | Depakine, poudre et solvant pour solution injectable/pour perfusion | Synthetika | Antiepileptikum |
 
 ---
 
@@ -92,13 +100,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch (0,9997). Es gibt aber weder klinische Studien noch Literatur, die Valproinsäure bei dieser Erkrankung direkt untersuchen (Evidenzniveau L5).
-- Auch Angaben zum Wirkmechanismus und zur Sicherheit fehlen in den vorliegenden Daten.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell. Die einzige verknüpfte Publikation betrifft eine andere Erkrankung, und es gibt keine registrierten klinischen Studien.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Angaben zum Wirkmechanismus von Valproinsäure, um einen möglichen Bezug zu Tumoren des Nervus trigeminus zu prüfen
-- Präklinische oder klinische Daten, die Valproinsäure direkt bei Neubildungen des Nervus trigeminus untersuchen
-- Warnhinweise und Kontraindikationen aus der aktuellen Fachinformation von Swissmedic, damit eine Sicherheitsbewertung möglich wird
+- Präklinische oder klinische Daten, die Valproinsäure direkt mit Tumoren des Trigeminusnervs in Verbindung bringen
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle (z. B. DrugBank)
+- Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Kontraindikationen, bevor eine Sicherheitsbewertung möglich ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

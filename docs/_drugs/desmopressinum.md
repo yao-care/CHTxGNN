@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Desmopressin ist ein synthetisches Vasopressin-Analogon, das in der Schweiz in mehreren Darreichungsformen im Handel ist. Für den angeborenen Prothrombinmangel (congenital prothrombin deficiency) liegt ein hoher Vorhersagewert vor. Es gibt jedoch weder klinische Studien noch Publikationen dazu, die Evidenz beschränkt sich daher auf die reine Modellvorhersage (L5).
+Desmopressin ist in der Schweiz als Arzneimittel zugelassen und im Handel. Für den angeborenen Prothrombinmangel (congenital prothrombin deficiency) liegt eine reine Modellvorhersage vor. Es gibt weder klinische Studien noch Publikationen, die diese Erkrankung direkt untersuchen. Die Evidenz ist daher minimal (L5).
 
 ---
 
@@ -61,11 +61,23 @@ Desmopressin ist ein synthetisches Vasopressin-Analogon, das in der Schweiz in m
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Desmopressin als Agonist am Vasopressin-V2-Rezeptor den von-Willebrand-Faktor (VWF) und den Faktor VIII aus den Speichern der Gefässinnenwand freisetzt.
+Desmopressin setzt über die Signalübertragung am V2-Rezeptor den von-Willebrand-Faktor (VWF) und den Faktor VIII aus den Speichern der Gefässwand frei. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Die Beschreibung stützt sich daher auf allgemein bekanntes pharmakologisches Wissen.
 
-Prothrombin (Faktor II) wird jedoch nicht in Endothelzellen gespeichert und nicht daraus freigesetzt. Ein klarer Wirkweg zur Korrektur dieses Mangels ist daher nicht erkennbar. Der sehr hohe Vorhersagewert beruht allein auf dem Modell und wird durch keine Studie gestützt.
+Der Prothrombinmangel (Faktor II) ist eine angeborene Gerinnungsstörung. Desmopressin erhöht Prothrombin nicht direkt. Der mechanistische Zusammenhang ist deshalb schwach. Der hohe Vorhersagewert spiegelt vermutlich die allgemeine Verbindung des Arzneimittels mit Blutungsstörungen wider und keinen spezifischen Wirkmechanismus.
 
-Die Standardbehandlung ist Prothrombinkomplex-Konzentrat. Nach heutiger Datenlage kann Desmopressin dieses nicht ersetzen.
+Die Standardbehandlung bei Prothrombinmangel besteht aus Prothrombinkomplex-Konzentrat oder Plasma. Ohne belastbare Daten lässt sich nicht beurteilen, ob Desmopressin hier einen Nutzen bringt.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -76,11 +88,17 @@ Die Standardbehandlung ist Prothrombinkomplex-Konzentrat. Nach heutiger Datenlag
 | 57151 | Minirin Melt 60 µg, Sublingualtabletten | Synthetika | Diabetes insipidus centralis, Polyurie, Polydipsie nach Hypophysektomie; Enuresis nocturna |
 | 43585 | Minirin, Injektionslösung | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen |
 | 48069 | Minirin, Nasenspray, Lösung | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen |
-| 52711 | Octostim 15 ug, Injektions-/Infusionslösung | Biotechnologika | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I, urämische Thrombozytenfunktionsstörungen |
+| 52711 | Octostim 15 µg, Injektions-/Infusionslösung | Biotechnologika | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I, urämische Thrombozytenfunktionsstörungen |
 | 49002 | Minirin 0,1 mg, Tabletten | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen; Enuresis nocturna |
 | 53745 | Octostim, Nasenspray, Lösung | Biotechnologika | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I |
 | 57377 | Nocutil 0,1 mg, Tabletten | Synthetika | Diabetes insipidus centralis, Polyurie, Polydipsie nach Hypophysektomie; Enuresis nocturna |
 | 54616 | Nocutil, Nasenspray | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen; Enuresis nocturna |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -89,13 +107,13 @@ Die Standardbehandlung ist Prothrombinkomplex-Konzentrat. Nach heutiger Datenlag
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den angeborenen Prothrombinmangel gibt es weder Studien noch Literatur, und ein plausibler Wirkmechanismus fehlt, da Prothrombin nicht aus Endothelspeichern freigesetzt wird.
+- Die Vorhersage beruht allein auf einem Modellwert. Es gibt keine Studien oder Publikationen, und der mechanistische Zusammenhang ist schwach, weil Desmopressin Prothrombin nicht direkt beeinflusst.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Eine systematische Literaturrecherche zu Desmopressin bei angeborenen Mangelzuständen von Gerinnungsfaktoren
-- Die Fachinformation (Warnhinweise und Kontraindikationen) aus Swissmedic, da zur Sicherheit bisher keine Daten vorliegen
-- Eine Beschreibung des Wirkmechanismus aus einer pharmakologischen Referenzquelle
-- Falls die Hypothese weiterverfolgt wird: präklinische oder mechanistische Daten, die einen Effekt auf Prothrombin belegen
+- Systematische Literaturrecherche zu Desmopressin bei angeborenem Prothrombinmangel (Fallberichte, Kohorten)
+- Ergänzung der fehlenden Angaben zum Wirkmechanismus
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Klärung, ob ein Nutzen über die Freisetzung von VWF und Faktor VIII überhaupt plausibel ist, verglichen mit der Standardtherapie (Prothrombinkomplex-Konzentrat, Plasma)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

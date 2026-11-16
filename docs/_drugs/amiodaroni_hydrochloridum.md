@@ -37,11 +37,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Amiodaroni Hydrochloridum: Katecholaminerge polymorphe ventrikuläre Tachykardie (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
-## Zusammenfassung
+### Zusammenfassung
 
-Amiodaron ist in der Schweiz als Antiarrhythmikum zugelassen. Vorhergesagt wird eine mögliche Wirksamkeit bei der katecholaminergen polymorphen ventrikulären Tachykardie (catecholaminergic polymorphic ventricular tachycardia), einer seltenen erblichen Herzrhythmusstörung. Dafür liegen keine klinischen Studien und keine Publikation vor, die Amiodaron bei dieser Erkrankung direkt untersucht; die Evidenz beschränkt sich auf die Modellvorhersage (Evidenzniveau L5).
+Amiodaron wird in der Schweiz als Antiarrhythmikum eingesetzt. Für die katecholaminerge polymorphe ventrikuläre Tachykardie (catecholaminergic polymorphic ventricular tachycardia) liegt ein hoher TxGNN-Vorhersagewert vor. Die Evidenz ist jedoch schwach: Es gibt keine registrierten klinischen Studien, und die Literatur besteht aus Fallberichten, Übersichten und Kohortenstudien, die das Arzneimittel nicht gezielt bei dieser Erkrankung untersuchen.
 
-## Kurzübersicht
+---
+
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -53,33 +55,42 @@ Amiodaron ist in der Schweiz als Antiarrhythmikum zugelassen. Vorhergesagt wird 
 | Anzahl Zulassungen | 7 (gültig: 7) |
 | Empfohlene Entscheidung | Abwarten |
 
-## Warum ist diese Vorhersage plausibel?
+---
 
-Für Amiodaron liegen in den vorliegenden Daten keine Angaben zum Wirkmechanismus vor. Allgemein bekannt ist, dass Amiodaron mehrere Ionenkanäle (Kalium, Natrium, Kalzium) beeinflusst und zusätzlich eine antiadrenerge, beta-blockerähnliche Wirkung hat.
+### Warum ist diese Vorhersage plausibel?
 
-Die katecholaminerge polymorphe ventrikuläre Tachykardie wird durch körperliche oder emotionale Belastung ausgelöst. Ursache sind meist Störungen der Kalziumfreisetzung in Herzmuskelzellen (z. B. über RYR2). Die antiadrenerge und kalziumkanalbezogene Wirkung von Amiodaron könnte hier theoretisch ansetzen. Die Verbindung ist jedoch indirekt: Klinische Berichte deuten auf eine nur begrenzte Wirksamkeit hin.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben aus der Arzneimitteldatenbank vor. Amiodaron ist aus der Fachliteratur als Mehrkanalblocker bekannt: Es hemmt Kalium-, Natrium- und Calciumkanäle und wirkt zusätzlich anti-adrenerg.
 
-## Klinische Studien
+Die katecholaminerge polymorphe ventrikuläre Tachykardie ist eine seltene, erbliche Rhythmusstörung. Sie entsteht meist durch Veränderungen im RYR2- oder CASQ2-Gen, die bei Stress oder Belastung zu einem Calciumleck in den Herzmuskelzellen führen. Dadurch werden gefährliche Kammerrhythmusstörungen ausgelöst.
 
-Derzeit keine verwandten klinischen Studien registriert.
+Die anti-adrenerge und calciumkanalbezogene Wirkung von Amiodaron könnte hier theoretisch helfen. Der Mechanismus ist aber nicht spezifisch auf den zugrunde liegenden RyR2-Defekt ausgerichtet; die mechanistische Verbindung ist daher nur indirekt.
 
-## Literaturbelege
+---
 
-Die gefundene Literatur befasst sich mit der Erkrankung selbst, nicht mit Amiodaron als Behandlung. Es handelt sich überwiegend um Fallberichte und Kohortenstudien.
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Keine der aufgeführten Publikationen untersucht Amiodaron direkt bei dieser Erkrankung. Sie beschreiben die Erkrankung selbst oder verwandte Rhythmusstörungen.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Systematische Übersicht | Life (Basel) | Klinische Merkmale, Genetik und Rhythmusverlauf von CPVT-Patienten aus China; keine Aussage zu Amiodaron. |
-| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Kohortenstudie | Reviews in Cardiovascular Medicine | Klinik, Genetik und Kosten bei CPVT in einer chinesischen Stadt. |
-| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Übersichtsarbeit | Expert Opinion on Pharmacotherapy | Überblick über medikamentöse Behandlung ventrikulärer Arrhythmien. |
-| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Fallbericht | PACE | Flecainid unterdrückte defibrillatorbedingte Rhythmusstürme bei einem Jungen mit CPVT. |
-| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Fallbericht | Frontiers in Cardiovascular Medicine | CPVT bei einem Jugendlichen durch rechtsseitige kardiale sympathische Denervation gelöst. |
-| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Fallbericht | Medicine | Sechs Jahre verspätete Diagnose bei einem Kind mit RYR2-Mutation. |
-| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Fallbericht | Türk Pediatri Arşivi | Plötzlicher Herzstillstand bei einem Zweijährigen mit CPVT. |
-| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Fallbericht | BMJ Case Reports | Überleben eines Kleinkinds nach Herzstillstand mit wiederkehrender Kammertachykardie. |
-| [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Fallbericht | Anesthesia & Analgesia | Neugeborenes mit Long-QT-Syndrom, bei dem unter anderem Amiodaron eingesetzt wurde (andere Erkrankung). |
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Systematische Übersicht | Life (Basel) | Klinische Merkmale, genetische Befunde und Rhythmusverläufe von Patienten mit dieser Erkrankung aus China |
+| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Retrospektive Kohortenstudie | Reviews in Cardiovascular Medicine | Klinische Merkmale, Genetik, Ressourcenverbrauch und Kosten bei Patienten aus einer chinesischen Stadt |
+| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Übersicht | Expert Opinion on Pharmacotherapy | Überblick über medikamentöse Therapie ventrikulärer Arrhythmien |
+| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Fallbericht | PACE | Flecainid unterdrückte Defibrillator-bedingte Rhythmusstürme bei einem 14-jährigen Jungen mit dieser Erkrankung |
+| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Fallbericht | Frontiers in Cardiovascular Medicine | Erfolgreiche Behandlung eines Jugendlichen durch rechtsseitige Sympathikusdenervation nach linksseitiger Denervation |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Fallbericht | Medicine | Sechs Jahre verspätete Diagnose bei einem 9-jährigen Kind mit RYR2-Mutation |
+| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Fallbericht | Turkish Pediatrics Archive | Plötzlicher Herzstillstand bei einem 2-jährigen Kind als seltene Erstmanifestation |
+| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Fallbericht | BMJ Case Reports | Überleben eines Kleinkinds nach Herzstillstand mit wiederholten Kammerrhythmusstörungen |
 
-## Marktinformationen Schweiz
+---
+
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -91,21 +102,26 @@ Die gefundene Literatur befasst sich mit der Erkrankung selbst, nicht mit Amioda
 | 55721 | Amiodar, Tabletten | Synthetika | Antiarrhythmikum |
 | 53114 | Amiodarone Zentiva 200 mg, Tabletten | Synthetika | Antiarrhythmikum |
 
-## Sicherheitshinweise
+---
+
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
-## Fazit und nächste Schritte
+---
+
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für diese Erkrankung gibt es weder klinische Studien noch Publikationen, die Amiodaron direkt untersuchen. Der hohe Vorhersagewert beruht allein auf dem Modell, und die vorhandenen klinischen Berichte deuten auf eine begrenzte Wirksamkeit hin.
+- Der TxGNN-Vorhersagewert ist hoch, aber keine Studie untersucht Amiodaron direkt bei der katecholaminergen polymorphen ventrikulären Tachykardie. Der Mechanismus ist nur indirekt plausibel.
+- Die Sicherheitsdaten der Schweizer Fachinformation fehlen bislang.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien oder Fallserien zu Amiodaron bei katecholaminerger polymorpher ventrikulärer Tachykardie, auch im Vergleich zu etablierten Therapien
-- Wirkmechanismus-Daten zu Amiodaron (z. B. aus DrugBank)
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, bevor eine Sicherheitsbewertung möglich ist
+- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klinische Daten, die Amiodaron direkt bei dieser Erkrankung untersuchen, auch im Vergleich zu etablierten Therapien
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

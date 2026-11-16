@@ -9,7 +9,7 @@ drugbank_id: DB00973
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-11-16
-description: "Ezetimibum: vorhergesagte neue Indikation Cholesterol-ester transfer protein deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serum Cholesterin Konzentration"
+description: "Ezetimibum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5)."
 ---
 
 # Ezetimibum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Ezetimibum: Cholesterol-ester transfer protein deficiency
+## Ezetimibum: Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Ezetimib hemmt die Aufnahme von Cholesterin im Darm. Die Vorhersage wird durch mehrere abgeschlossene Phase-3-Studien zu Hyperlipidämie und gemischter Hyperlipidämie gestützt (Evidenzniveau L1). In vielen dieser Studien wird Ezetimib allerdings zusammen mit anderen Wirkstoffen geprüft.
+Ezetimib ist ein Cholesterinabsorptionshemmer, der in der Schweiz als Tablette im Handel ist. Für den Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) sagt das Modell eine mögliche Wirksamkeit voraus, doch der biologische Zusammenhang ist schwach. Es liegen weder klinische Studien noch Literatur vor, die diese Erkrankung direkt untersuchen; die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -50,56 +50,55 @@ Ezetimib hemmt die Aufnahme von Cholesterin im Darm. Die Vorhersage wird durch m
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Reduktion der Serum Cholesterin Konzentration |
-| Vorhergesagte neue Indikation | Cholesterol-ester transfer protein deficiency |
+| Vorhergesagte neue Indikation | Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) |
 | TxGNN-Vorhersagewert | 0.9909 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
 | Anzahl Zulassungen | 9 (gültig: 9) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ezetimib blockiert das Transportprotein NPC1L1 in der Darmwand. Dadurch gelangt weniger Nahrungs- und Gallencholesterin ins Blut, und das LDL-Cholesterin sinkt. Die Wirkung ergänzt jene der Statine, die die Cholesterinbildung in der Leber verringern. Sie lässt sich auch mit Fenofibrat kombinieren. In den vorliegenden Daten ist der Wirkmechanismus nicht separat hinterlegt. Die Angaben hier stützen sich auf die mechanistische Begründung zur Vorhersage.
+Ezetimib hemmt den Transporter NPC1L1 im Darm und vermindert so die Aufnahme von Cholesterin aus der Nahrung und der Galle. Dadurch sinkt der LDL-Cholesterinspiegel. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind lückenhaft; die obige Beschreibung entspricht dem allgemein bekannten Wirkprinzip.
 
-Hyperlipoproteinämie bezeichnet erhöhte Blutfettwerte, vor allem erhöhtes LDL-Cholesterin und teils auch erhöhte Triglyceride. Eine Senkung der Cholesterinaufnahme setzt direkt an diesem Problem an. Die vorhergesagte Anwendung liegt damit sehr nah an der bekannten Wirkung des Arzneimittels. Die Vorhersage ist daher weniger eine echte Neuentdeckung als eine Bestätigung eines etablierten Wirkprinzips.
+Der Cholesterinester-Transferprotein-Mangel ist eine genetische Störung. Typisch sind stark erhöhte HDL-Cholesterinwerte bei normalem oder eher niedrigem LDL-Cholesterin. Meist braucht sie keine cholesterinsenkende Behandlung. Beide Themen betreffen den Fettstoffwechsel, daher ist der hohe Vorhersagewert wahrscheinlich Ausdruck der Nähe in diesem Stoffwechselnetzwerk und kein Hinweis auf einen therapeutischen Zusammenhang.
+
+Ein direkter Mechanismus, der die NPC1L1-Hemmung mit einem Nutzen bei dieser Erkrankung verbindet, ist nicht bekannt. Denkbar wäre allenfalls ein indirekter Nutzen bei einer zusätzlich bestehenden Fettstoffwechselstörung, wofür aber keine Daten vorliegen.
 
 ---
 
 ### Klinische Studien
 
-Die folgende Auswahl zeigt die relevantesten Studien. Zu den Studien liegen keine zusammengefassten Ergebnisse vor, die Angaben stammen aus den Studienbeschreibungen.
-
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT00651560](https://clinicaltrials.gov/study/NCT00651560) | Phase 3 | Abgeschlossen | 167 | Ezetimib/Simvastatin (Vytorin) gegen Atorvastatin bei Erwachsenen mit Dyslipidämie; Zielerreichung nach ATP-III-Kriterien |
-| [NCT00093899](https://clinicaltrials.gov/study/NCT00093899) | Phase 3 | Abgeschlossen | 611 | Ezetimib/Simvastatin plus Fenofibrat bei gemischter Hyperlipidämie; cholesterinsenkende Wirkung |
-| [NCT00092560](https://clinicaltrials.gov/study/NCT00092560) | Phase 3 | Abgeschlossen | 587 | Fenofibrat plus Ezetimib bei gemischter Hyperlipidämie; Wirksamkeit und Sicherheit |
-| [NCT00092573](https://clinicaltrials.gov/study/NCT00092573) | Phase 3 | Abgeschlossen | 576 | Fenofibrat plus Ezetimib bei gemischter Hyperlipidämie; Wirksamkeit und Sicherheit |
-| [NCT00271817](https://clinicaltrials.gov/study/NCT00271817) | Phase 3 | Abgeschlossen | 1220 | Ezetimib/Simvastatin plus Niacin (retardiert) bei Hyperlipidämie Typ IIa/IIb |
-| [NCT00349284](https://clinicaltrials.gov/study/NCT00349284) | Phase 3 | Abgeschlossen | 181 | Fenofibrat, Ezetimib und Kombination bei Dyslipidämie Typ IIb mit metabolischem Syndrom |
-| [NCT00552097](https://clinicaltrials.gov/study/NCT00552097) | Phase 3 | Abgeschlossen | 720 | ENHANCE: Ezetimib plus Simvastatin gegen Simvastatin allein bei heterozygoter familiärer Hypercholesterinämie; Fortschreiten der Arteriosklerose |
-| [NCT01763905](https://clinicaltrials.gov/study/NCT01763905) | Phase 3 | Abgeschlossen | 307 | Evolocumab gegen Ezetimib bei Statin-Unverträglichkeit (Ezetimib als Vergleichssubstanz); LDL-C-Senkung über 12 Wochen |
-| [NCT00753883](https://clinicaltrials.gov/study/NCT00753883) | Phase 4 | Abgeschlossen | 40 | Ezetimib als Zusatz zu Statin gegen Statin allein bei Hypercholesterinämie; kleine, offene Studie |
-| [NCT00203476](https://clinicaltrials.gov/study/NCT00203476) | Phase 4 | Abgeschlossen | 30 | Ezetimib, Niacin und Colestipol als Zusatz zu Statin; kleine, offene Studie |
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
+Die beiden gefundenen Publikationen behandeln die Erkrankung nicht direkt.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [40347969](https://pubmed.ncbi.nlm.nih.gov/40347969/) | 2025 | RCT (Phase 3) | Lancet | TANDEM: Fixkombination aus Obicetrapib und Ezetimib zur Senkung des LDL-Cholesterins, placebokontrolliert |
-| [41206969](https://pubmed.ncbi.nlm.nih.gov/41206969/) | 2026 | RCT | JAMA | Oraler PCSK9-Hemmer Enlicitide bei heterozygoter familiärer Hypercholesterinämie; Ezetimib ist nicht der geprüfte Wirkstoff |
-| [25282519](https://pubmed.ncbi.nlm.nih.gov/25282519/) | 2015 | RCT | Lancet | RUTHERFORD-2: Evolocumab bei heterozygoter familiärer Hypercholesterinämie, auch bei Patienten unter Statin mit oder ohne Ezetimib |
-| [33766264](https://pubmed.ncbi.nlm.nih.gov/33766264/) | 2021 | Übersicht | Journal of the American College of Cardiology | Neue LDL-senkende Therapien als Ergänzung zu Statinen, Ezetimib und PCSK9-Hemmern |
-| [40682836](https://pubmed.ncbi.nlm.nih.gov/40682836/) | 2025 | Übersicht | Molecular Medicine Reports | Aktuelle Arzneimittel gegen Hyperlipidämie und Behandlungsziel der Vorbeugung atherosklerotischer Herz-Kreislauf-Erkrankungen |
-| [19654419](https://pubmed.ncbi.nlm.nih.gov/19654419/) | 2009 | Arzneimittelbewertung | Drug and Therapeutics Bulletin | Ezetimib senkt LDL- und Gesamtcholesterin allein oder mit Statin; zum Zeitpunkt der Bewertung fehlten Daten zu Herz-Kreislauf-Ereignissen |
-| [18638604](https://pubmed.ncbi.nlm.nih.gov/18638604/) | 2008 | Kommentar | The American Journal of Cardiology | Einordnung der ENHANCE-Studie; die Aussagekraft des Ersatzendpunkts wird kritisch diskutiert |
-| [23928724](https://pubmed.ncbi.nlm.nih.gov/23928724/) | 2013 | Übersicht | Der Internist | Update zur Behandlung der Dyslipidämie; Statine im Zentrum, Lebensstil bei Hypertriglyceridämie und kombinierter Hyperlipoproteinämie |
-| [25242435](https://pubmed.ncbi.nlm.nih.gov/25242435/) | 2014 | Übersicht | Metabolism | Diabetische Dyslipidämie mit erhöhten Triglyceriden, niedrigem HDL und erhöhtem LDL |
-| [25939291](https://pubmed.ncbi.nlm.nih.gov/25939291/) | 2015 | Übersicht | Cardiology Clinics | Familiäre Hypercholesterinämie; Ezetimib gehört zu den Optionen zur LDL-Senkung |
+| [40911366](https://pubmed.ncbi.nlm.nih.gov/40911366/) | 2025 | Übersichtsarbeit | European Heart Journal | Überblick über Angriffspunkte der Lipidsenkung (LDL-C, Triglyceride, ApoB, Lp(a)) und ihre Bedeutung für das Restrisiko für Herz-Kreislauf-Erkrankungen. |
+| [31779098](https://pubmed.ncbi.nlm.nih.gov/31779098/) | 2019 | Präklinische Tierstudie | International Journal of Molecular Sciences | Hamstermodell mit Ldlr-Defizienz zur Prüfung eines PCSK9-Antikörpers bei Hyperlipidämie und Atherosklerose. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 70602 | Ezetimib axapharm 10mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 66003 | Ezetimib Spirig HC, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 67060 | Ezetim axapharm 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 65100 | Ezetimib Sandoz 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 65892 | Ezetimib-Mepha Teva 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 56195 | Ezetrol, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 66068 | Ezetimib Zentiva 10mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 66551 | Ezetimibe Organon 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
+| 66070 | Ezetimib-Mepha 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration |
 
 ---
 
@@ -111,17 +110,16 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Mehrere abgeschlossene Phase-3-Studien zu Hyperlipidämie und gemischter Hyperlipidämie sprechen für die vorhergesagte Anwendung. In diesen Studien wird Ezetimib aber meist als Teil einer Kombination oder als Vergleichssubstanz geprüft, sodass der Beitrag von Ezetimib allein oft nicht klar abgegrenzt werden kann.
-- Die Sicherheitsdaten aus der Fachinformation fehlen bisher.
+- Die Vorhersage stützt sich nur auf das Modell; es gibt keine Studien zur Erkrankung, und der biologische Zusammenhang ist schwach, da der Cholesterinester-Transferprotein-Mangel in der Regel keine cholesterinsenkende Therapie erfordert.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation aus der Schweiz (Warnhinweise, Kontraindikationen, Wechselwirkungen) auswerten.
-- Wirkmechanismus aus einer verlässlichen Arzneimittelquelle bestätigen.
-- Studien auswählen, in denen Ezetimib allein oder klar abgrenzbar geprüft wurde, und deren Ergebnisse auswerten.
-- Prüfen, ob die vorhergesagte Anwendung über die bereits bekannte Wirkung hinausgeht.
+- Klinische oder präklinische Daten, die Ezetimib direkt bei dieser Erkrankung untersuchen
+- Eine nachvollziehbare mechanistische Begründung, etwa für eine zusätzlich bestehende Fettstoffwechselstörung
+- Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Vollständige Angaben zum Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

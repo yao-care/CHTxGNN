@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 ## Losartanum Kalicum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Losartan-Kalium ist in der Schweiz als Angiotensin-II-Rezeptor-Antagonist zugelassen. Für die maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) liegt ein hoher TxGNN-Vorhersagewert vor. Die Evidenz ist jedoch dünn: Es gibt keine klinischen Studien, und die einzige Publikation befasst sich mit einem Tiermodell. Das Evidenzniveau ist daher L5.
+Losartan-Kalium ist ein Angiotensin-II-Rezeptor-Antagonist. Es wird für die maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) als mögliche neue Anwendung vorhergesagt. Die Evidenz ist sehr begrenzt: Es liegen keine klinischen Studien vor, sondern nur eine Tierstudie, sodass es sich im Wesentlichen um eine Modellvorhersage handelt.
 
 ---
 
@@ -59,11 +61,17 @@ Losartan-Kalium ist in der Schweiz als Angiotensin-II-Rezeptor-Antagonist zugela
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Aus der Arzneimittelklasse (Angiotensin-II-Rezeptor-Antagonist) lässt sich jedoch ableiten, dass Losartan den Angiotensin-II-Typ-1-Rezeptor (AT1R) blockiert.
+Zum Wirkmechanismus liegen in den Daten keine Angaben vor. Aus der Zulassung ergibt sich jedoch, dass es sich um einen Angiotensin-II-Rezeptor-Antagonisten handelt. Solche Wirkstoffe blockieren den Angiotensin-II-Typ-1-Rezeptor (AT1) und senken dadurch den Blutdruck.
 
-In einem Rattenmodell der malignen hypertensiven Nephrosklerose spielen Angiotensin II und das NF-κB-System eine Rolle bei der Krankheitsentstehung. Eine Blockade des Renin-Angiotensin-Systems ist deshalb mechanistisch nachvollziehbar. Losartan wird zudem allgemein bei Bluthochdruck und zum Schutz der Nieren eingesetzt.
+Bei der malignen hypertensiven Nierenerkrankung schädigen stark erhöhter Blutdruck und ein überaktives Renin-Angiotensin-System die kleinen Nierengefässe. Eine Tierstudie an einem Modell der malignen hypertensiven Nephrosklerose (PMID 30809002) beschreibt eine Beteiligung von Angiotensin II und des NF-κB-Signalwegs. Damit ist ein Ansatz über die AT1-Blockade biologisch nachvollziehbar.
 
-Diese Überlegung stützt sich bisher nur auf präklinische Daten. Sie belegt weder Wirksamkeit noch Sicherheit beim Menschen mit maligner hypertensiver Nierenerkrankung.
+Diese Studie untersucht jedoch weder Losartan noch Menschen. Der hohe Vorhersagewert ist eine Modellrechnung und ersetzt keine klinischen Belege.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -71,13 +79,13 @@ Diese Überlegung stützt sich bisher nur auf präklinische Daten. Sie belegt we
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [30809002](https://pubmed.ncbi.nlm.nih.gov/30809002/) | 2019 | Präklinisches Tiermodell | Hypertension Research | Untersucht die Rolle von Angiotensin II und des NF-κB-Systems in einem Rattenmodell der malignen hypertensiven Nephrosklerose (Uninephrektomie plus Salzbelastung). Es handelt sich um eine Modellstudie zum Krankheitsmechanismus, nicht um eine Studie zur Wirksamkeit von Losartan beim Menschen. |
+| [30809002](https://pubmed.ncbi.nlm.nih.gov/30809002/) | 2019 | Präklinisch (Tiermodell) | Hypertension Research | Rattenmodell der malignen hypertensiven Nephrosklerose; Angiotensin II und das NF-κB-System spielen eine Rolle bei der Nierenschädigung. |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
+Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -99,13 +107,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich auf einen hohen Modellwert und eine einzelne präklinische Studie. Es gibt keine klinischen Studien oder Humandaten zu dieser Erkrankung.
-- Die Sicherheitsinformationen aus der Fachinformation liegen nicht vor, sodass eine Sicherheitsbewertung noch nicht möglich ist.
+- Für die maligne hypertensive Nierenerkrankung liegt keine klinische Studie und keine Untersuchung zu Losartan vor; die einzige Publikation ist eine Tierstudie zum Krankheitsmechanismus. Das Evidenzniveau ist daher L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten (Fallserien, Beobachtungs- oder kontrollierte Studien) zu Losartan bei maligner hypertensiver Nierenerkrankung
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Gezielte Literaturrecherche zu Losartan bzw. AT1-Blockern bei maligner hypertensiver Nephrosklerose, einschliesslich klinischer Daten
+- Registrierte oder geplante klinische Studien zu dieser Erkrankung
+- Sicherheitsinformationen aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen), insbesondere zur Anwendung bei schwerer Nierenfunktionsstörung
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

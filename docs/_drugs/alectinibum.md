@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Alectinib ist ein Tyrosinkinase-Inhibitor, der gegen ALK und RET wirkt. Für die gingivale Fibromatose (fibromatosis, gingival) liegt ein sehr hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur. Die Vorhersage beruht allein auf einem Computermodell und ist durch keine Evidenz gestützt.
+Alectinib ist ein Kinase-Inhibitor, der in der Schweiz zugelassen ist und im Handel erhältlich ist. Die Vorhersage weist auf eine mögliche Wirksamkeit bei gingivaler Fibromatose (fibromatosis, gingival) hin. Diese Vorhersage beruht ausschliesslich auf einem Modellwert: Es liegen weder klinische Studien noch Literatur zu dieser Erkrankung vor.
 
 ---
 
@@ -59,23 +59,11 @@ Alectinib ist ein Tyrosinkinase-Inhibitor, der gegen ALK und RET wirkt. Für die
 
 ### Warum ist diese Vorhersage plausibel?
 
-Alectinib hemmt die Tyrosinkinasen ALK und RET. Die Wirkungsweise ist in den vorliegenden Daten nicht im Detail beschrieben.
+Alectinib hemmt die Kinasen ALK und RET. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
 
-Ein Zusammenhang zwischen diesem Mechanismus und der gingivalen Fibromatose ist nicht erkennbar. Die hereditäre Form wird nicht als ALK- oder RET-getrieben beschrieben. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis. Die Werte der Kandidaten liegen sehr nahe beieinander und unterscheiden die Kandidaten daher kaum voneinander.
+Für die gingivale Fibromatose, ob erblich oder arzneimittelbedingt, ist kein ALK-getriebener Krankheitsmechanismus bekannt. Eine biologische Begründung für den Einsatz von Alectinib lässt sich daher aus den vorhandenen Daten nicht ableiten.
 
-Die Vorhersage ist deshalb zum jetzigen Zeitpunkt nicht plausibel begründet. Sie kann höchstens als Hypothese für weitere Prüfungen dienen.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Der sehr hohe Vorhersagewert (0,9997) ist zudem wenig aussagekräftig: Die Werte der höchstbewerteten Vorhersagen liegen alle sehr eng beieinander (etwa 0,9995 bis 0,9997) und unterscheiden die Kandidaten kaum voneinander. Die Vorhersage ist daher als reine Modellhypothese zu verstehen.
 
 ---
 
@@ -91,11 +79,9 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie |
-| Myelosuppressionsrisiko | Niedrig |
-| Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leberfunktion und Nierenfunktion. Zusätzlich sind in der Literatur Hämolyse und Anämie, Hypertriglyceridämie mit Pankreatitis sowie Gewichtszunahme als Nebenwirkungen beschrieben. |
-| Handhabungsschutz | Bei oralen Zytostatika sind die üblichen Vorsichtsmassnahmen für Krebsmedikamente zu beachten. Die Fachinformation ist massgebend. |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Kinase-Inhibitor) |
+| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion; in der Literatur sind u. a. hämolytische Anämie, Akanthozytose und Gewichtszunahme beschrieben |
+| Handhabungsschutz | Gemäss Fachinformation zu klären |
 
 ---
 
@@ -110,13 +96,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die gingivale Fibromatose gibt es keine Studien, keine Literatur und keinen erkennbaren Wirkmechanismus. Die Vorhersage stützt sich nur auf das Modell (Evidenzniveau L5).
+- Für gingivale Fibromatose liegen weder klinische Studien noch Publikationen vor, und es ist kein plausibler ALK-/RET-bezogener Mechanismus bekannt. Das Evidenzniveau ist L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein plausibler biologischer Zusammenhang zwischen ALK/RET-Signalwegen und der gingivalen Fibromatose, zum Beispiel aus präklinischen Studien.
-- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da die Sicherheitsdaten fehlen.
-- Eine Beschreibung des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle.
-- Erst danach lohnt sich die Prüfung von Studien oder Fallberichten.
+- Belege für eine ALK- oder RET-abhängige Krankheitsbiologie bei gingivaler Fibromatose (z. B. präklinische Studien)
+- Ergänzung der Wirkmechanismus-Daten von Alectinib
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Eine Nutzen-Risiko-Abwägung, da es sich um eine in der Regel gutartige Erkrankung handelt und Alectinib ein Krebsmedikament mit relevanten Nebenwirkungen ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

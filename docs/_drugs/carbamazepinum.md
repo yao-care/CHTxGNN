@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Carbamazepinum
-parent: Mittlere Evidenz (L3-L4)
+parent: Nur Modellvorhersage (L5)
 nav_order: 114
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 drugbank_id: DB00564
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 last_modified_at: 2026-11-16
-description: "Carbamazepinum: vorhergesagte neue Indikation Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L4). Ursprüngliche Indikation: Antiepilepticum"
+description: "Carbamazepinum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
 # Carbamazepinum
 {: .fs-9 }
 
-Evidenzniveau: **L4** | Vorhergesagte Indikationen: **3** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,14 +34,14 @@ Evidenzniveau: **L4** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Carbamazepinum: Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm)
+## Carbamazepinum: Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Carbamazepin ist ein Natriumkanal-Blocker. Für die Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) liegt ein sehr hoher Modell-Vorhersagewert vor. Ein möglicher Nutzen wäre rein symptomatisch, nämlich die Linderung tumorbedingter neuropathischer Gesichtsschmerzen. Eine Wirkung gegen den Tumor selbst ist nicht zu erwarten. Die Evidenz ist schwach: Es gibt keine klinischen Studien, und die Literatur besteht überwiegend aus Einzelfallberichten, in denen Carbamazepin teils wirkungslos blieb.
+Carbamazepin ist in der Schweiz als Antiepileptikum zugelassen. Für die Vorhersage einer Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) liegen keine klinischen Studien und keine Studie vor, die diese Erkrankung direkt untersucht; die vorhandene Literatur besteht überwiegend aus Fallberichten über Tumoren, die eine Trigeminusneuralgie auslösen. Die Evidenz beschränkt sich damit auf die Modellvorhersage (Evidenzniveau L5), ein möglicher Nutzen wäre allenfalls symptomatisch (Schmerzlinderung) und nicht tumorbezogen.
 
 ---
 
@@ -50,9 +50,9 @@ Carbamazepin ist ein Natriumkanal-Blocker. Für die Trigeminusnerv-Neoplasie (tr
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiepilepticum |
-| Vorhergesagte neue Indikation | Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) |
+| Vorhergesagte neue Indikation | Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) |
 | TxGNN-Vorhersagewert | 1.0000 |
-| Evidenzniveau | L4 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
 | Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
@@ -61,34 +61,43 @@ Carbamazepin ist ein Natriumkanal-Blocker. Für die Trigeminusnerv-Neoplasie (tr
 
 ### Warum ist diese Vorhersage plausibel?
 
-Carbamazepin blockiert spannungsabhängige Natriumkanäle und dämpft dadurch die übermässige, spontane Nervenaktivität. In den zusammengestellten Daten ist der Wirkmechanismus nicht separat hinterlegt. Die Beschreibung stützt sich auf das bekannte Wirkprinzip der Substanz.
+Zum Wirkmechanismus von Carbamazepin sind in den zusammengestellten Daten keine Angaben hinterlegt. Allgemein bekannt ist, dass der Wirkstoff spannungsabhängige Natriumkanäle blockiert und bei der Trigeminusneuralgie zur Standardbehandlung gehört.
 
-Die Literatur beschreibt Carbamazepin als etablierte Erstlinientherapie der Trigeminusneuralgie. Diese kann auch durch Tumoren im Verlauf des Nervs ausgelöst werden, etwa durch Meningeome, Schwannome oder Läsionen im Meckel-Raum. Zudem hemmte Carbamazepin im Tiermodell die spontane Aktivität experimenteller Neurome (PMID 3181365).
+Tumoren des Trigeminusnerven, etwa Schwannome, Meningeome oder eine Neurolymphomatose, können eine sekundäre Trigeminusneuralgie verursachen. Carbamazepin könnte in diesen Fällen den Nervenschmerz lindern. Eine tierexperimentelle Studie (PMID 3181365) zeigt zudem, dass Carbamazepin spontane ektopische Aktivität in experimentellen Neuromen hemmt.
 
-Der Zusammenhang ist daher symptomatisch und indirekt. Der hohe Vorhersagewert spiegelt wahrscheinlich die bekannte Anwendung bei Trigeminusneuralgie wider und keinen tumorspezifischen Nutzen. In mehreren Fallberichten sprachen die Schmerzen nicht oder nur vorübergehend auf Carbamazepin an. Das war oft der Anlass, einen zugrunde liegenden Tumor zu suchen.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Für eine Wirkung gegen den Tumor selbst gibt es keinen Hinweis. Der hohe Vorhersagewert spiegelt wahrscheinlich die bekannte Verbindung zur Trigeminusneuralgie wider und keinen onkologischen Effekt. Ein Nutzen wäre symptomatisch, nicht krankheitsmodifizierend. Mehrere Fallberichte beschreiben zudem, dass Carbamazepin bei Tumorpatienten die Schmerzen nicht ausreichend linderte.
 
 ---
 
 ### Literaturbelege
 
+Es wurden keine klinischen Studien gefunden. Die Literatur besteht aus Übersichten, Fallberichten und einer Tierstudie; es gibt keine RCTs.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [36824641](https://pubmed.ncbi.nlm.nih.gov/36824641/) | 2022 | Übersichtsarbeit | Acta clinica Croatica | Behandlungsoptionen bei Trigeminusneuralgie. Die Neuralgie kann durch Gefässkompression oder einen Tumor verursacht sein. |
-| [30741017](https://pubmed.ncbi.nlm.nih.gov/30741017/) | 2023 | Fallbericht | British Journal of Neurosurgery | Primäres malignes Lymphom des Trigeminusnervs mit Gesichtsschmerz. Carbamazepin brachte keine Besserung. |
-| [15235745](https://pubmed.ncbi.nlm.nih.gov/15235745/) | 2004 | Fallbericht | Arquivos de Neuro-Psiquiatria | Primäres Melanom im Meckel-Raum. Carbamazepin und mikrovaskuläre Dekompression linderten den Schmerz nicht. Die Resektion führte zur Diagnose. |
-| [33989821](https://pubmed.ncbi.nlm.nih.gov/33989821/) | 2021 | Fallbericht | World Neurosurgery | Petroklivales Meningeom mit Trigeminusneuralgie, operativ über den Kawase-Zugang entfernt. |
-| [32454201](https://pubmed.ncbi.nlm.nih.gov/32454201/) | 2020 | Fallbericht | World Neurosurgery | Endoskopische Resektion eines Trigeminus-Schwannoms der Fossa pterygopalatina. |
-| [25142539](https://pubmed.ncbi.nlm.nih.gov/25142539/) | 2014 | Fallbericht | Rinsho Shinkeigaku | Malignes Lymphom mit perineuraler Ausbreitung entlang des Trigeminus. Carbamazepin half zunächst, später nicht mehr. |
-| [15981696](https://pubmed.ncbi.nlm.nih.gov/15981696/) | 2005 | Fallbericht | Nederlands Tijdschrift voor Tandheelkunde | Akustikusneurinom als Ursache einer Trigeminusneuralgie. Carbamazepin linderte die Beschwerden, die Bildgebung deckte den Tumor auf. |
-| [28666502](https://pubmed.ncbi.nlm.nih.gov/28666502/) | 2016 | Fallbericht | JCPSP | Beidseitige Trigeminusneuralgie durch ein präpontines Epidermoid. Carbamazepin über 8 Wochen ohne Wirkung. |
-| [6857479](https://pubmed.ncbi.nlm.nih.gov/6857479/) | 1983 | Fallbericht | Surgical Neurology | Parapontine Epidermalzyste. Carbamazepin kontrollierte den Schmerz anfangs, später waren weitere Eingriffe nötig. |
-| [3181365](https://pubmed.ncbi.nlm.nih.gov/3181365/) | 1988 | Präklinisch | Experimental Neurology | Intravenöses Carbamazepin hemmte die spontane Aktivität experimenteller Neurome bei Ratten. |
+| [36824641](https://pubmed.ncbi.nlm.nih.gov/36824641/) | 2022 | Übersicht | Acta clinica Croatica | Behandlungsoptionen bei Trigeminusneuralgie; diese kann durch Gefässkompression oder einen Tumor verursacht sein. |
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Übersicht | Expert review of neurotherapeutics | Überblick über medikamentöse und chirurgische Therapien der Trigeminusneuralgie. |
+| [3181365](https://pubmed.ncbi.nlm.nih.gov/3181365/) | 1988 | Präklinisch (Tier) | Experimental neurology | Carbamazepin hemmte bei Ratten die spontane Aktivität in experimentellen Neuromen. |
+| [30741017](https://pubmed.ncbi.nlm.nih.gov/30741017/) | 2023 | Fallbericht | British journal of neurosurgery | Primäres Lymphom des Trigeminusnerven; Carbamazepin besserte die Gesichtsschmerzen nicht. |
+| [15235745](https://pubmed.ncbi.nlm.nih.gov/15235745/) | 2004 | Fallbericht | Arquivos de neuro-psiquiatria | Primäres Melanom der Meckel-Höhle; Schmerz sprach auf Carbamazepin nicht an. |
+| [33989821](https://pubmed.ncbi.nlm.nih.gov/33989821/) | 2021 | Fallbericht | World neurosurgery | Petroclivales Meningeom mit Trigeminusneuralgie, operativ entfernt. |
+| [15981696](https://pubmed.ncbi.nlm.nih.gov/15981696/) | 2005 | Fallbericht | Nederlands tijdschrift voor tandheelkunde | Akustikusneurinom als Ursache einer Trigeminusneuralgie; Symptome sprachen auf Carbamazepin an. |
+| [25142539](https://pubmed.ncbi.nlm.nih.gov/25142539/) | 2014 | Fallbericht | Rinsho shinkeigaku | Malignes Lymphom entlang des Trigeminusnerven; anfängliche Besserung unter Carbamazepin, später keine Wirkung mehr. |
+| [28666502](https://pubmed.ncbi.nlm.nih.gov/28666502/) | 2016 | Fallbericht | JCPSP | Beidseitige Trigeminusneuralgie durch Epidermoid; kein Ansprechen auf Carbamazepin. |
+| [6857479](https://pubmed.ncbi.nlm.nih.gov/6857479/) | 1983 | Fallbericht | Surgical neurology | Epidermalzyste als Ursache; Schmerz anfangs durch Carbamazepin kontrolliert, später war ein Eingriff nötig. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 45724 | Timonil, Tabletten | Tabletten | Antiepileptikum |
+| 36896 | Tegretol 2%, Suspension zum Einnehmen | Suspension zum Einnehmen | Antiepileptikum |
+| 47443 | Tegretol CR 400, Retardtabletten | Retardtabletten | Antiepileptikum |
+| 45723 | Timonil, Suspension zum Einnehmen | Suspension zum Einnehmen | Antiepileptikum |
+| 47127 | Timonil 300 retard, Retardtabletten | Retardtabletten | Antiepileptikum |
+| 29789 | Tegretol 200, Tabletten | Tabletten | Antiepileptikum |
 
 ---
 
@@ -103,13 +112,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Modellwert ist sehr hoch, aber es gibt keine klinischen Studien. Die Literatur besteht aus Einzelfallberichten, in denen Carbamazepin teils wirkungslos war. Ein möglicher Nutzen beschränkt sich auf die Schmerzlinderung ohne Wirkung auf den Tumor.
+- Es gibt keine Studie, die Carbamazepin direkt bei Trigeminusnerven-Neoplasien untersucht, und keine Hinweise auf eine tumorhemmende Wirkung. Ein möglicher Nutzen beschränkt sich auf die Schmerzlinderung, die bei Tumorpatienten in mehreren Fallberichten unzureichend war.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Kontrollierte oder zumindest systematische Daten zur Schmerzlinderung durch Carbamazepin bei tumorbedingter Trigeminusneuralgie
-- Eine klare Abgrenzung zwischen symptomatischem Nutzen und einer eigentlichen Tumorindikation
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar)
-- Eine ergänzende Beschreibung des Wirkmechanismus aus einer pharmakologischen Primärquelle
+- Kontrollierte oder zumindest systematische klinische Daten zu Carbamazepin bei tumorbedingtem Gesichtsschmerz
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

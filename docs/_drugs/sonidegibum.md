@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Sonidegibum: Medulloblastom mit ausgeprägter Nodularität (medulloblastoma with extensive nodularity)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Sonidegib ist ein oral eingenommener Hemmstoff des Hedgehog-Signalwegs und in der Schweiz im Handel. Die Vorhersage lautet, dass es bei Medulloblastom mit ausgeprägter Nodularität (medulloblastoma with extensive nodularity) wirksam sein könnte. Die Vorhersage stützt sich ausschliesslich auf das Modell: Für diese Erkrankung liegen weder registrierte klinische Studien noch Publikationen vor.
+Sonidegib ist ein Hemmer des Hedgehog-Signalwegs. Er könnte voraussichtlich bei Medulloblastom mit ausgeprägter Nodularität (medulloblastoma with extensive nodularity) wirksam sein. Diese Vorhersage beruht allein auf dem Modell (Evidenzniveau L5): Es liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung direkt untersuchen.
 
 ---
 
@@ -61,23 +59,19 @@ Sonidegib ist ein oral eingenommener Hemmstoff des Hedgehog-Signalwegs und in de
 
 ### Warum ist diese Vorhersage plausibel?
 
-Sonidegib hemmt Smoothened (SMO), einen zentralen Baustein des Hedgehog-Signalwegs. Dadurch wird die GLI-vermittelte Genaktivierung unterdrückt, die bei Tumoren mit überaktivem Signalweg das Wachstum antreibt. Ein formaler Wirkmechanismus-Eintrag lag in den für diesen Bericht zusammengestellten Daten nicht vor. Die Angabe zur SMO-Hemmung stammt aus der Begründung der Vorhersage.
+Sonidegib ist ein Antagonist des Smoothened-Rezeptors (SMO) und hemmt damit den Hedgehog-Signalweg. Die Angaben zum Wirkmechanismus in den zusammengestellten Daten sind lückenhaft; die mechanistische Einordnung stützt sich daher auf die bekannte Pharmakologie der Substanz.
 
-Nodulär geprägte Medulloblastom-Varianten werden häufig durch den Sonic-Hedgehog-Signalweg (SHH) getrieben. Bei solchen Tumoren könnte eine SMO-Hemmung die krankhaft aktive Signalübertragung dämpfen. Der mechanistische Zusammenhang ist damit nachvollziehbar, aber bisher rein theoretisch.
+Das Medulloblastom mit ausgeprägter Nodularität gehört typischerweise zur SHH-aktivierten Gruppe. Der Signalweg, den Sonidegib blockiert, ist hier also ein möglicher Tumortreiber, und der mechanistische Zusammenhang erscheint stimmig.
 
-Es gibt eine wichtige Einschränkung: Sind SUFU oder nachgeschaltete GLI-Komponenten verändert, liegt die Aktivierung unterhalb von SMO. Dann wäre mit Resistenz gegen Sonidegib zu rechnen. Ob ein Tumor überhaupt ansprechen könnte, hängt daher von seinem molekularen Profil ab.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Ob das Arzneimittel tatsächlich wirken könnte, hängt vom Tumorstatus ab: Entscheidend wären die SHH-Subgruppe sowie der Zustand von SMO und nachgeschalteten Genen wie SUFU oder GLI2. Bei Veränderungen unterhalb von SMO ist eine Wirkung unwahrscheinlich. Hinzu kommt ein bekanntes Klassenrisiko: SMO-Hemmer können bei wachsenden Kindern die Entwicklung beeinträchtigen, etwa durch vorzeitigen Schluss der Wachstumsfugen.
 
 ---
 
-### Literaturbelege
+### Marktinformationen Schweiz
 
-Derzeit keine verwandte Literatur verfügbar.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 65065 | Odomzo 200 mg, Hartkapseln | Synthetika | Basalzellkarzinom |
 
 ---
 
@@ -86,12 +80,8 @@ Derzeit keine verwandte Literatur verfügbar.
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie |
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion; zusätzlich Kreatinkinase (Muskelsymptome) gemäss Fachinformation prüfen |
+| Handhabungsschutz | Spezielle Schutzmassnahmen sind gemäss Fachinformation zu klären (Embryotoxizität des Wirkstoffs) |
 
 ---
 
@@ -100,14 +90,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5). Für diese Erkrankung gibt es weder Studien noch Publikationen.
-- Der Mechanismus ist plausibel, aber bei SUFU- oder GLI-Veränderungen wäre mit Resistenz zu rechnen.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell (L5); es gibt keine klinischen Studien oder Literatur zu dieser Erkrankung. Bei Kindern kommt das Risiko für das Skelettwachstum hinzu.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische oder klinische Daten, die Sonidegib direkt bei dieser Tumorform untersuchen.
-- Angaben zum molekularen Profil geeigneter Tumoren (SHH-Aktivierung, Status von SUFU und GLI).
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die in den vorliegenden Daten fehlen.
-- Eine Klärung der Anwendbarkeit in der betroffenen Patientengruppe und der Darreichungsform (Routenkompatibilität).
+- Studien- oder Literaturdaten, die Sonidegib direkt bei Medulloblastom untersuchen
+- Daten zum SHH-Subgruppenstatus und zu Veränderungen in SMO, SUFU und GLI2
+- Die Sicherheitsinformationen (Warnhinweise und Kontraindikationen) aus der Swissmedic-Fachinformation; diese fehlen bisher und blockieren die Sicherheitsbewertung
+- Eine Nutzen-Risiko-Bewertung für das Kindesalter
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

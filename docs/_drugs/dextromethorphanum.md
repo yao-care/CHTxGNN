@@ -37,15 +37,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 ## Dextromethorphanum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
----
+### Zusammenfassung
 
-## Zusammenfassung
-
-Dextromethorphan wird in der Schweiz als Hustenmittel eingesetzt. Für die vorhergesagte neue Indikation, eine Erkrankung der Nasenhöhle (nasal cavity disease), liegt ausschliesslich ein Modellwert von TxGNN vor. Klinische Studien oder Fachliteratur, die diese Erkrankung direkt untersuchen, sind in den zusammengestellten Daten nicht vorhanden. Die Evidenz ist daher auf Stufe L5.
+Dextromethorphan ist in der Schweiz als Hustenmittel im Handel. Das Modell sagt eine mögliche Wirksamkeit bei Erkrankungen der Nasenhöhle (nasal cavity disease) voraus. Diese Vorhersage beruht allein auf einer Modellberechnung: Es liegen weder klinische Studien noch Publikationen vor (Evidenzniveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -59,19 +57,29 @@ Dextromethorphan wird in der Schweiz als Hustenmittel eingesetzt. Für die vorhe
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Dextromethorphan wirkt als NMDA-Rezeptor-Antagonist und Sigma-1-Agonist mit hustenstillender Wirkung. Ein genauer Wirkmechanismus ist in den zusammengestellten Daten allerdings nicht hinterlegt.
+Der Wirkmechanismus von Dextromethorphan ist in den für diesen Bericht zusammengestellten Daten nicht erfasst. Allgemein bekannt ist das Arzneimittel als NMDA-Rezeptor-Antagonist und Sigma-1-Rezeptor-Agonist mit zentral hustenstillender Wirkung.
 
-Ein belegter Wirkungsweg von Dextromethorphan zu Erkrankungen der Nasenhöhle ist in den vorliegenden Daten nicht dokumentiert. Der Begriff «Erkrankung der Nasenhöhle» ist sehr breit und unspezifisch. Der hohe Vorhersagewert könnte vor allem die inhaltliche Nähe zu Husten und Symptomen der oberen Atemwege widerspiegeln und nicht eine echte therapeutische Wirkung.
-
-Die Vorhersage ist deshalb als Hypothese zu verstehen. Ohne Studien oder Literatur lässt sich nicht beurteilen, ob ein Nutzen über die bereits bekannte Hustenlinderung hinausgeht.
+Aus diesen Eigenschaften lässt sich nach den vorliegenden Daten kein nachvollziehbarer Zusammenhang mit der Pathologie von Erkrankungen der Nasenhöhle herleiten. Die Ähnlichkeit zur ursprünglichen Anwendung ist nicht bewertet. Der hohe Vorhersagewert (0,9998) ist daher als reines Rechenergebnis zu verstehen und ersetzt keine Evidenz.
 
 ---
 
-## Marktinformationen Schweiz
+### Klinische Studien
 
-Alle 17 erfassten Zulassungen sind gültig und betreffen Einzelwirkstoff-Präparate.
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -91,29 +99,28 @@ Alle 17 erfassten Zulassungen sind gültig und betreffen Einzelwirkstoff-Präpar
 | 53863 | Calmesin-Mepha, Sirup | Synthetika | Husten |
 | 53260 | Emedrin N, Sirup | Synthetika | Husten, insbesondere trockener Reizhusten |
 | 67013 | Amavita Dextromethorphan Hustentabletten, Filmtabletten | Synthetika | Husten |
-| 41799 | Vicks Medinait, sirop | Synthetika | Erkältung und Schnupfen |
+| 41799 | Vicks Medinait, sirop | Synthetika | Schnupfen und Erkältungen |
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf einen Modellwert. Es gibt keine klinischen Studien, keine Literatur und keinen dokumentierten Wirkungsweg zur Erkrankung der Nasenhöhle.
-- Die Sicherheitsdaten aus der Fachinformation fehlen noch, sodass eine Sicherheitsbeurteilung derzeit nicht möglich ist.
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell. Es gibt weder Studien noch Publikationen, und ein plausibler Mechanismus zur Nasenhöhlenerkrankung ist nicht erkennbar.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Publikationen, die Dextromethorphan direkt bei Erkrankungen der Nasenhöhle untersuchen
-- Eine Präzisierung, welche konkrete Erkrankung der Nasenhöhle gemeint ist
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Eine vollständige Beschreibung des Wirkmechanismus und eine Prüfung der Wechselwirkungen
+- Gezielte Literaturrecherche und Suche nach klinischen Studien zu Dextromethorphan bei Erkrankungen der Nasenhöhle
+- Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), da diese Sicherheitsdaten derzeit fehlen
+- Eine klare Definition der gemeinten Erkrankung der Nasenhöhle und der geplanten Anwendungsart
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -37,9 +37,13 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **8**
 ## Doxorubicini Hydrochloridum: Ewing-Sarkom (Ewing sarcoma)
 {: .text-alpha }
 
+---
+
 ## Zusammenfassung
 
-Doxorubicin ist in der Schweiz als Zytostatikum zugelassen. Es wird voraussichtlich beim Ewing-Sarkom (Ewing sarcoma) wirksam sein; dort ist es bereits Bestandteil der gängigen Mehrfachchemotherapien. Die Evidenz ist breit: Mehrere grosse randomisierte Phase-3-Studien und Publikationen mit Doxorubicin-haltigen Regimen liegen vor, allerdings wird der Beitrag von Doxorubicin darin nicht einzeln geprüft.
+Doxorubicinhydrochlorid ist ein Zytostatikum. Für das Ewing-Sarkom (Ewing sarcoma) sagt das Modell einen möglichen Nutzen voraus. In den für diesen Bericht zusammengestellten Daten gibt es dafür mehrere abgeschlossene Phase-3-Studien und randomisierte Publikationen, in denen doxorubicinhaltige Chemotherapie-Regime untersucht wurden. Die Evidenz ist daher vergleichsweise breit. Die Studien prüfen jedoch überwiegend Kombinationsregime und nicht Doxorubicin allein.
+
+---
 
 ## Kurzübersicht
 
@@ -53,89 +57,85 @@ Doxorubicin ist in der Schweiz als Zytostatikum zugelassen. Es wird voraussichtl
 | Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
+---
+
 ## Warum ist diese Vorhersage plausibel?
 
-Doxorubicin hemmt die Topoisomerase II und lagert sich in die DNA ein. Dadurch entstehen DNA-Schäden, die vor allem schnell wachsende Zellen treffen. Die offizielle Beschreibung des Wirkmechanismus fehlt in den zusammengestellten Daten; die Angaben hier stützen sich auf die ausgewertete Evidenz.
+Doxorubicin schiebt sich in die DNA ein (Interkalation) und hemmt das Enzym Topoisomerase II. Dadurch entstehen DNA-Doppelstrangbrüche, zusätzlich bilden sich reaktive Sauerstoffspezies. Diese Mechanismen treffen besonders schnell wachsende, chemosensitive Tumoren. Zum Wirkmechanismus liegen in den lokalen Daten keine eigenen Angaben vor. Die Beschreibung stützt sich auf das allgemein bekannte Wirkprinzip.
 
-Das Ewing-Sarkom ist ein schnell wachsender, chemotherapiesensibler Rundzelltumor. Doxorubicin gehört zu den Standardregimen (VDC/IE, VAC/VAI). Es handelt sich daher weniger um eine neue Anwendung als um einen bereits etablierten Einsatz in der Fachliteratur und in Studien.
+Das Ewing-Sarkom ist ein aggressiver Knochen- und Weichteiltumor, der vor allem bei Kindern, Jugendlichen und jungen Erwachsenen auftritt. Es gehört zu den kleinrundzelligen Tumoren, die durch das EWS-FLI1-Fusionsgen angetrieben werden. Diese Tumoren sprechen gut auf Chemotherapie an. Die Standardbehandlung kombiniert mehrere Zytostatika mit Operation und/oder Bestrahlung.
+
+Mehrere Studien der Datenbasis enthalten ein Anthrazyklin als Bestandteil des Standardregimes, etwa Vincristin, Doxorubicin und Cyclophosphamid (VDC) im Wechsel mit Ifosfamid und Etoposid (IE). Der hohe Vorhersagewert passt damit zur klinischen Evidenz.
+
+---
 
 ## Klinische Studien
 
-Die wichtigsten Studien mit Doxorubicin-haltigen Regimen beim Ewing-Sarkom (Auswahl):
-
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Phase 3 | Unbekannt | 1200 | EURO-E.W.I.N.G.99: Mehrfachchemotherapien mit und ohne Strahlentherapie bzw. Stammzelltransplantation; keine Ergebnisse in den Daten |
-| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Phase 3 | Abgeschlossen | 587 | Verdichtete (intervallkomprimierte) Chemotherapie beim Ewing-Sarkom; keine Ergebnisse in den Daten |
-| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Phase 3 | Abgeschlossen | 642 | Zusatz von Vincristin-Topotecan-Cyclophosphamid zur Standardchemotherapie (inkl. Doxorubicin) bei nicht metastasiertem Ewing-Sarkom |
-| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Phase 3 | Abgeschlossen | 278 | Dosisintensivierung bei nicht metastasiertem Ewing-Sarkom, Standard- versus Intensivbehandlung |
-| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Phase 3 | Aktiv, nicht rekrutierend | 312 | Ganitumab zusätzlich zur Mehrfachchemotherapie (u. a. Doxorubicin) bei metastasiertem Ewing-Sarkom |
-| [NCT00002643](https://clinicaltrials.gov/study/NCT00002643) | Phase 2 | Abgeschlossen | 130 | Intensive Kombinationschemotherapie mit Wachstumsfaktoren bei metastasiertem Ewing-Tumor |
-| [NCT00061893](https://clinicaltrials.gov/study/NCT00061893) | Phase 2 | Abgeschlossen | 38 | Niedrig dosierte antiangiogene Therapie zusätzlich zur Standardchemotherapie bei metastasiertem Ewing-Sarkom |
-| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | Phase 2 | Abgebrochen | 46 | VAC mit Dexrazoxan (Herzschutz) mit oder ohne ImmTher bei Hochrisiko-Ewing-Sarkom |
-| [NCT06820957](https://clinicaltrials.gov/study/NCT06820957) | Phase 2/3 | Abgebrochen | 2 | Vincristin-Irinotecan-Regorafenib zusätzlich zu VDC/IE; wegen zu weniger Patienten ohne verwertbare Daten |
-| [NCT01313884](https://clinicaltrials.gov/study/NCT01313884) | Phase 2 | Abgebrochen | 3 | Pilotstudie mit Cyclophosphamid, Doxorubicin, Vincristin im Wechsel mit Irinotecan/Temozolomid; wegen zu weniger Patienten nicht aussagekräftig |
+| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Phase 3 | Unbekannt | 1200 | Euro-E.W.I.N.G. 99: randomisierter Vergleich von Chemotherapie-Regimen (mit anthrazyklinhaltigen Schemata) mit oder ohne Strahlentherapie und/oder Operation bei Ewing-Tumoren. Ergebnisse in den Daten nicht angegeben. |
+| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Phase 3 | Abgeschlossen | 587 | Randomisierter Vergleich verschiedener Chemotherapie-Regime mit Intervallverkürzung („Kompression“) bei Ewing-Sarkom und verwandten Tumoren. Ergebnisse in den Daten nicht angegeben. |
+| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Phase 3 | Abgeschlossen | 642 | Randomisiert: Zusatz von Vincristin-Topotecan-Cyclophosphamid zur 5-Wirkstoff-Standardtherapie (inkl. Doxorubicin) bei nicht metastasiertem Ewing-Sarkom. Ergebnisse in den Daten nicht angegeben. |
+| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Phase 3 | Abgeschlossen | 278 | Randomisierter Vergleich von Standard- und Intensivtherapie bei nicht metastasiertem Ewing-Sarkom. Ergebnisse in den Daten nicht angegeben. |
+| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Phase 3 | Aktiv, nicht rekrutierend | 312 | Zusatz des IGF-1R-Antikörpers Ganitumab zur Mehrfach-Chemotherapie (inkl. Doxorubicin) bei neu diagnostiziertem metastasiertem Ewing-Sarkom. |
+| [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | Phase 3 | Unbekannt | k. A. | EICESS 92: randomisierter Vergleich verschiedener Kombinations-Chemotherapien plus Operation und Bestrahlung. |
+| [NCT00002643](https://clinicaltrials.gov/study/NCT00002643) | Phase 2 | Abgeschlossen | 130 | Intensivtherapie mit Wachstumsfaktor-Unterstützung bei Ewing-Tumor mit Metastasen bei Diagnose. Einarmig, stützt die Machbarkeit. |
+| [NCT00061893](https://clinicaltrials.gov/study/NCT00061893) | Phase 2 | Abgeschlossen | 38 | Pilotstudie: niedrig dosierte antiangiogene Therapie (Vinblastin, Celecoxib) zusätzlich zur Standard-Mehrfachchemotherapie bei metastasiertem Ewing-Sarkom. |
+| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | Phase 2 | Beendet | 46 | Randomisiert: VAC mit Doxorubicin und Dexrazoxan (Herzschutz) mit oder ohne ImmTher bei Hochrisiko-Ewing-Sarkom. |
+| [NCT06820957](https://clinicaltrials.gov/study/NCT06820957) | Phase 2/3 | Beendet | 2 | Randomisierter Vergleich mit VDC/IE-Basis bei metastasiertem Ewing-Sarkom. Wegen nur 2 Teilnehmenden ohne verwertbare Wirksamkeitsdaten. |
+
+---
 
 ## Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | The New England Journal of Medicine | Prüfung, ob die Zugabe von Ifosfamid und Etoposid zur Standardchemotherapie das Überleben bei neu diagnostiziertem Ewing-Sarkom verbessert |
-| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT (Phase 3) | The Lancet | EE2012: Vergleich zweier Chemotherapie-Strategien (europäisch und US-amerikanisch) bei neu diagnostiziertem Ewing-Sarkom |
-| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | Phase-3-Studie | Journal of Clinical Oncology | Ganitumab zusätzlich zu intervallkomprimierter Chemotherapie bei metastasiertem Ewing-Sarkom |
-| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Übersichtsarbeit | Cancer | Konsensempfehlungen des National Ewing Sarcoma Tumor Board zur Behandlung |
-| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Übersichtsarbeit | Journal of Clinical Oncology | Aktuelle Behandlung und künftige Ansätze beim Ewing-Sarkom |
-| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Übersichtsarbeit | The Lancet Oncology | Überleben bei lokalisierten Tumoren von etwa 10 % auf rund 75 % gestiegen; bei Metastasen weiterhin schlechte Prognose |
-| [25993235](https://pubmed.ncbi.nlm.nih.gov/25993235/) | 2015 | Übersichtsarbeit | ASCO Educational Book | Systemische Therapie bei Osteosarkom und Ewing-Sarkom |
-| [37651654](https://pubmed.ncbi.nlm.nih.gov/37651654/) | 2023 | Langzeitauswertung | Journal of Clinical Oncology | Langzeitergebnisse der Studie AEWS0031 mit intervallkomprimierter Chemotherapie bei lokalisiertem Ewing-Sarkom |
-| [8441279](https://pubmed.ncbi.nlm.nih.gov/8441279/) | 1993 | Fallserie | Journal of Surgical Oncology | 50 Patienten mit VDC (Vincristin, Doxorubicin, Cyclophosphamid), danach Strahlentherapie |
-| [30231396](https://pubmed.ncbi.nlm.nih.gov/30231396/) | 2018 | Übersichtsarbeit | ASCO Educational Book | Vorhersage und Vorbeugung der Anthracyclin-bedingten Herzschädigung |
+| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | The New England Journal of Medicine | Prüfte, ob der Zusatz von Ifosfamid und Etoposid zur Standardchemotherapie das Überleben bei neu diagnostiziertem Ewing-Sarkom oder PNET des Knochens verbessert. |
+| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT (Phase 3) | Lancet | EE2012: offener, randomisierter Vergleich der in Europa und den USA üblichen Chemotherapie-Strategien bei neu diagnostiziertem Ewing-Sarkom. |
+| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | Randomisierte Phase-3-Studie | Journal of Clinical Oncology | Prüfte, ob Ganitumab zusätzlich zur intervallverkürzten Chemotherapie das ereignisfreie Überleben bei metastasiertem Ewing-Sarkom verbessert. |
+| [37651654](https://pubmed.ncbi.nlm.nih.gov/37651654/) | 2023 | Langzeit-Auswertung | Journal of Clinical Oncology | Langzeitergebnisse der Studie AEWS0031 mit intervallverkürzter Chemotherapie bei lokalisiertem Ewing-Sarkom. |
+| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Konsensus-Leitlinie | Cancer | Konsensempfehlungen des National Ewing Sarcoma Tumor Board zu Streitfragen der Standardbehandlung. |
+| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Übersichtsarbeit | Journal of Clinical Oncology | Aktuelles Management: risikoadaptierte intensive Chemotherapie mit Operation und/oder Strahlentherapie. |
+| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Übersichtsarbeit | The Lancet Oncology | Das Überleben stieg mit Chemotherapie von etwa 10 auf etwa 75 Prozent bei lokalisierten Tumoren. Bei Metastasen bleibt die Prognose schlecht, die Therapie hat Kurz- und Langzeittoxizität. |
+| [25993235](https://pubmed.ncbi.nlm.nih.gov/25993235/) | 2015 | Übersichtsarbeit | ASCO Educational Book | Systemtherapie bei Osteosarkom und Ewing-Sarkom in Kombination mit lokaler Tumorkontrolle. |
+| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | Studienprotokoll | Trials | Protokoll der internationalen randomisierten Studie EURO EWING 2012 zu zwei Induktions-/Konsolidierungs-Chemotherapien. |
+| [30231396](https://pubmed.ncbi.nlm.nih.gov/30231396/) | 2018 | Übersichtsarbeit (Kardiotoxizität) | ASCO Educational Book | Anthrazykline sind Basis der Kinderonkologie-Regime, u. a. beim Ewing-Sarkom. Ihr Nutzen wird durch Herzschäden eingeschränkt. |
 
-## Marktinformationen Schweiz
-
-Es sind mindestens 7 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54273 | Caelyx, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 50358 | Adriblastin Solution 10 mg/5 ml, Injektionslösung | Synthetika | Zytostatikum |
-| 68961 | Doxorubicin Accord liposomal 20 mg/10 ml, Konzentrat zur Herstellung einer Infusionsdispersion | Synthetika | Zytostatikum |
-| 50357 | Adriblastin RD 10 mg, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Synthetika | Zytostatikum |
-| 68746 | Doxorubicin Accord 10 mg/5 ml, Injektionslösung | Synthetika | Zytostatikum |
-| 54828 | Doxorubicin Sandoz eco 10 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 59350 | Doxorubicin-Teva 10 mg/5 ml, Injektionslösung | Synthetika | Zytostatikum |
+---
 
 ## Zytotoxizität
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (Anthracyclin) |
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (Anthrazyklin) |
 | Myelosuppressionsrisiko | Hoch |
-| Emetogenitätsklassifikation | Mittel bis hoch |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Herzfunktion (Echokardiografie), kumulative Anthracyclin-Dosis |
-| Handhabungsschutz | Ja, Schutzmassnahmen für Zytostatika erforderlich |
+| Emetogenitätsklassifikation | Mittel bis hoch (abhängig vom Kombinationsregime) |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Herzfunktion (z. B. Auswurffraktion) |
+| Handhabungsschutz | Ja, Schutzmassnahmen für Zytostatika bei Zubereitung, Verabreichung und Entsorgung erforderlich |
 
-Die Einstufungen beruhen auf allgemeinem Fachwissen zu Doxorubicin und nicht auf den zusammengestellten Daten.
+---
 
 ## Sicherheitshinweise
 
-- **Herzschädigung (Kardiotoxizität):** Die Evidenz zum Ewing-Sarkom nennt die Begrenzung der kumulativen Anthracyclin-Dosis sowie eine Herzüberwachung (z. B. Dexrazoxan, Echokardiografie) als notwendige Schutzmassnahmen. Besonders bei Kindern ist dies wichtig.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
-Weitere Warnungen, Kontraindikationen und Wechselwirkungen sind in den zusammengestellten Daten nicht erfasst. Bitte beachten Sie die Fachinformation für vollständige Sicherheitsinformationen.
+Die Literatur nennt die Herzschädigung (Kardiotoxizität) als wichtige Einschränkung der Anthrazykline, besonders bei Kindern und jungen Erwachsenen. Für das Ewing-Sarkom wird dazu auch der Herzschutz mit Dexrazoxan untersucht.
+
+---
 
 ## Fazit und nächste Schritte
 
 **Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Doxorubicin ist beim Ewing-Sarkom bereits fester Bestandteil der Standard-Mehrfachchemotherapie, und mehrere grosse Phase-3-Studien sowie hochrangige Publikationen belegen den Einsatz dieser Regime. Die Studien prüfen jedoch Kombinationen, nicht Doxorubicin allein, und die Herzschädigung durch Anthracycline erfordert strenge Überwachung.
+- Zum Ewing-Sarkom liegen mehrere abgeschlossene Phase-3-Studien und randomisierte Publikationen vor, in denen Doxorubicin Teil der Behandlungsregime ist. Das stützt die Vorhersage klar.
+- Die Studien prüfen überwiegend Kombinationsregime. Der Beitrag von Doxorubicin allein lässt sich daraus nicht trennen. Die Sicherheitsdaten der lokalen Fachinformation fehlen in den vorliegenden Daten.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation (Warnungen, Kontraindikationen, Wechselwirkungen), da diese Daten fehlen
-- Offizielle Beschreibung des Wirkmechanismus
-- Festlegung von Patientengruppe, Dosierung und Grenzwerten für die kumulative Anthracyclin-Dosis
-- Konzept zur Herzüberwachung und zum Herzschutz
-- Klärung, welche Darreichungsform (konventionell oder liposomal) in Betracht kommt, da die Studien überwiegend konventionelles Doxorubicin in Kombinationen einsetzen
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (vor allem zu Herzfunktion und Knochenmarkunterdrückung)
+- Der Wirkmechanismus aus einer verlässlichen Arzneimittelquelle (z. B. DrugBank)
+- Die Ergebnisse (Überleben, Ereignisfreiheit) der grossen Phase-3-Studien zu den doxorubicinhaltigen Regimen
+- Eine fachärztliche (onkologische) Prüfung, ob und in welcher Form ein Einsatz in der Schweiz sinnvoll ist, einschliesslich Kardioprotektion und Dosierung bei Kindern und jungen Erwachsenen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

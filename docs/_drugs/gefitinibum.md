@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Gefitinibum: Gingivale Fibromatose (fibromatosis, gingival)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Gefitinib ist in der Schweiz als Zytostatikum zugelassen. Die höchste Vorhersage des Modells betrifft die gingivale Fibromatose (fibromatosis, gingival), eine seltene Zahnfleischerkrankung. Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf einer Modellberechnung (Evidenzniveau L5).
+Gefitinib ist in der Schweiz als Zytostatikum zugelassen. Die höchste Vorhersage des Modells betrifft die gingivale Fibromatose (fibromatosis, gingival), eine seltene Zahnfleischerkrankung. Für diese Vorhersage liegen weder klinische Studien noch Literatur vor; sie beruht ausschliesslich auf einer Modellberechnung.
 
 ---
 
@@ -61,21 +59,9 @@ Gefitinib ist in der Schweiz als Zytostatikum zugelassen. Die höchste Vorhersag
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Literatur, dass Gefitinib den Rezeptor für den epidermalen Wachstumsfaktor (EGFR) hemmt, ein Enzym, das Zellwachstum und Zellüberleben steuert.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Gefitinib die Tyrosinkinase des epidermalen Wachstumsfaktor-Rezeptors (EGFR) hemmt. Dieser Rezeptor steuert Zellwachstum, Zellüberleben und Gefässneubildung.
 
-Eine mögliche, rein spekulative Verbindung wäre, dass die Hemmung von EGFR und Tyrosinkinasen die Vermehrung von Bindegewebszellen (Fibroblasten) dämpft, die bei einer Zahnfleischwucherung eine Rolle spielt. Dafür gibt es in den vorliegenden Daten keinen Beleg. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein Hinweis auf nachgewiesene Wirksamkeit. Die Ähnlichkeit zur ursprünglichen Indikation ist noch nicht bewertet.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Eine denkbare Verbindung wäre, dass die Hemmung der EGFR-Signalwege die Vermehrung von Bindegewebszellen (Fibroblasten) bremst, die bei einer Fibromatose übermässig wachsen. Diese Überlegung ist spekulativ und durch die vorliegenden Daten nicht belegt. Eine Ähnlichkeitsanalyse zur ursprünglichen Anwendung steht aus.
 
 ---
 
@@ -92,8 +78,12 @@ Derzeit keine verwandte Literatur verfügbar
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie (EGFR-Tyrosinkinase-Hemmer) |
-| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion; zusätzlich Lungensymptome (Pneumonitis), Haut und EKG (QT-Verlängerung) |
-| Handhabungsschutz | Für Zytostatika sind die üblichen Schutzmassnahmen zu beachten; Details siehe Fachinformation |
+
+Die Einstufung beruht auf den Literaturangaben zum Wirkprinzip. Zu Myelosuppression, Emetogenität und Handhabungsschutz enthalten die Daten keine Angaben. Aus der Literatur sind folgende Nebenwirkungen bekannt, die bei einer Überwachung zu beachten wären:
+- Interstitielle Lungenerkrankung bzw. Pneumonitis
+- Hautreaktionen (z. B. akneiforme Ausschläge)
+- Verlängerung des QT-Intervalls
+- Hyponatriämie (in Einzelfällen)
 
 ---
 
@@ -108,14 +98,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die gingivale Fibromatose gibt es weder Studien noch Publikationen; die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell.
-- Die Sicherheitsdaten und der Wirkmechanismus fehlen in den vorliegenden Daten, sodass keine Sicherheitsprüfung möglich ist.
+- Für die gingivale Fibromatose gibt es keine klinischen Studien und keine Literatur; der hohe Vorhersagewert allein reicht nicht aus (Evidenzniveau L5).
+- Die Sicherheitsdaten aus der Fachinformation und die Angaben zum Wirkmechanismus fehlen noch, sodass eine Sicherheitsbewertung nicht möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
-- Dokumentierter Wirkmechanismus (z. B. aus DrugBank)
-- Präklinische Daten oder Fallberichte zu EGFR-Hemmung bei Zahnfleisch-Fibroblasten
-- Bewertung, ob ein Nutzen eine Krebsmedikament-Toxizität bei einer gutartigen Erkrankung rechtfertigen würde
+- Fachinformation von Swissmedic (Warnungen, Kontraindikationen) auswerten
+- Wirkmechanismus aus einer geeigneten Arzneimitteldatenbank ergänzen
+- Präklinische oder klinische Hinweise auf einen EGFR-abhängigen Mechanismus bei gingivaler Fibromatose suchen
+- Sicherheit bei einer gutartigen, nicht lebensbedrohlichen Erkrankung gegenüber bekannten Nebenwirkungen (Lunge, Haut, Herz) abwägen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

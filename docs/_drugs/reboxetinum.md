@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 ### Zusammenfassung
 
-Reboxetin ist ein selektiver Noradrenalin-Wiederaufnahmehemmer. Die Vorhersage nennt als neue Indikation den benignen paroxysmalen Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy). Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modellwert (Evidenzniveau L5).
+Reboxetin ist ein selektiver Noradrenalin-Wiederaufnahmehemmer. Für den benignen paroxysmalen Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) liegt ein hoher Vorhersagewert des Modells vor. Es gibt jedoch weder klinische Studien noch Literatur zu dieser Erkrankung, sodass die Vorhersage rein rechnerisch ist (Evidenzniveau L5).
 
 ---
 
@@ -61,9 +61,11 @@ Reboxetin ist ein selektiver Noradrenalin-Wiederaufnahmehemmer. Die Vorhersage n
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Reboxetin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist Reboxetin als Hemmer der Noradrenalin-Wiederaufnahme.
+Reboxetin hemmt gezielt die Wiederaufnahme von Noradrenalin. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
 
-Ein mechanistischer Zusammenhang mit der vorhergesagten Erkrankung ist nicht erkennbar. Der benigne paroxysmale Torticollis des Säuglingsalters gilt als kindliche Erkrankung, die mit Kanalopathien (CACNA1A-bezogen) in Verbindung gebracht wird. Eine plausible Verbindung zur Hemmung der Noradrenalin-Wiederaufnahme besteht nicht. Der hohe Vorhersagewert ist daher lediglich eine rechnerische Vorhersage ohne unterstützende Studien oder Publikationen.
+Ein belastbarer mechanistischer Zusammenhang mit dem benignen paroxysmalen Torticollis des Säuglingsalters ist nicht erkennbar. Die Erkrankung ist selten, selbstlimitierend und tritt im Säuglingsalter auf. Sie wird mit Veränderungen im Kalziumkanal-Gen CACNA1A in Verbindung gebracht. Warum ein Hemmer der Noradrenalin-Wiederaufnahme hier wirken sollte, ist unklar. Der hohe Vorhersagewert beruht allein auf Mustern im Modell und nicht auf biologischen oder klinischen Belegen.
+
+Hinzu kommt ein Sicherheitsaspekt: Ein noradrenerg wirkendes Arzneimittel bei Säuglingen wäre bedenklich. Der Vorhersagewert allein rechtfertigt keine weiteren Schritte.
 
 ---
 
@@ -79,16 +81,6 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
-### Marktinformationen Schweiz
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54159 | Edronax, Tabletten 4 mg | Synthetika | Depressionen |
-
-Die einzige erfasste Zulassung ist gelöscht.
-
----
-
 ### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
@@ -100,14 +92,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur und keinen erkennbaren mechanistischen Zusammenhang. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
-- Die einzige Schweizer Zulassung ist gelöscht, und Sicherheitsdaten aus der Fachinformation fehlen.
+- Es gibt keine klinischen Studien und keine Literatur zu dieser Indikation, und ein mechanistischer Zusammenhang ist nicht erkennbar (Evidenzniveau L5).
+- Die Anwendung eines noradrenerg wirkenden Arzneimittels bei Säuglingen wirft zusätzliche Sicherheitsfragen auf. In der Schweiz besteht zudem keine gültige Zulassung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein biologisch begründeter Wirkmechanismus, der Noradrenalin-Wiederaufnahmehemmung mit dieser Erkrankung verbindet
-- Präklinische oder klinische Daten zur vorhergesagten Indikation
-- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen)
-- Ergänzung der Angaben zum Wirkmechanismus
+- Eine plausible pathophysiologische Begründung, warum eine Noradrenalin-Wiederaufnahmehemmung bei dieser Erkrankung wirken könnte
+- Präklinische oder klinische Daten zu dieser Erkrankung
+- Eine Bewertung der Sicherheit im Säuglings- und Kindesalter anhand der Fachinformation, da Warnhinweise und Kontraindikationen in den vorliegenden Daten fehlen
+- Ergänzende Angaben zum Wirkmechanismus aus einer geeigneten Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

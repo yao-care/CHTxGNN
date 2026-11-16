@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 ### Zusammenfassung
 
-Cabozantinib ist in der Schweiz als Filmtablette (Cabometyx) im Handel. Es wird als Tyrosinkinase-Hemmer bei mehreren Krebserkrankungen eingesetzt. Für Liposarkom (liposarcoma) wird eine mögliche neue Anwendung vorhergesagt. Die Evidenz ist gering: Es gibt eine laufende Phase-2-Studie bei Weichteilsarkomen allgemein und eine Phase-1-Studie, aber keine Studie, die speziell Liposarkome untersucht.
+Cabozantinib ist ein Multi-Tyrosinkinase-Inhibitor, der in der Schweiz unter dem Namen Cabometyx im Handel ist. Für das Liposarkom (liposarcoma) liegt eine Vorhersage mit hohem Wert vor. Die Evidenz dafür ist begrenzt: eine laufende randomisierte Phase-2-Studie bei Weichteilsarkomen im Allgemeinen und eine Phase-1-Studie bei Extremitätensarkomen. Keine der beiden Studien untersucht das Liposarkom gezielt.
 
 ---
 
@@ -61,11 +61,11 @@ Cabozantinib ist in der Schweiz als Filmtablette (Cabometyx) im Handel. Es wird 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Cabozantinib die Rezeptoren VEGFR2, MET und AXL hemmt. Diese sind an der Gefässneubildung, am Tumorwachstum und an der Unterdrückung der Immunabwehr bei Sarkomen beteiligt.
+Cabozantinib hemmt mehrere Tyrosinkinasen gleichzeitig, darunter VEGFR2, MET, AXL, RET und KIT. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor. Die folgende Einordnung beruht auf dem bekannten Zielprofil des Wirkstoffs.
 
-Daraus lässt sich ein plausibler Ansatz ableiten: Cabozantinib könnte bei Weichteilsarkomen, zu denen das Liposarkom gehört, das Tumorwachstum bremsen. Die Kombination mit Checkpoint-Hemmern (Ipilimumab/Nivolumab) oder mit Strahlentherapie wird derzeit geprüft.
+Die Signalwege für Gefässneubildung (Angiogenese) sowie MET und AXL gelten als wichtig für das Wachstum von Weichteilsarkomen und für die Umgehung der Immunabwehr. Das Liposarkom gehört zu den Weichteilsarkomen. Eine Hemmung dieser Wege könnte deshalb auch hier das Tumorwachstum bremsen. Zusammen mit Checkpoint-Inhibitoren (Ipilimumab, Nivolumab) ist ein Nutzen denkbar, weil die Hemmung von VEGFR und AXL die Immununterdrückung im Tumorumfeld verringern könnte.
 
-Der hohe Vorhersagewert passt dazu, ersetzt aber keine Daten zum Liposarkom. Die vorhandenen Studien betreffen Weichteilsarkome insgesamt, nicht gezielt diese Untergruppe.
+Der hohe Vorhersagewert ist eine rechnerische Vorhersage und kein klinischer Beleg.
 
 ---
 
@@ -73,7 +73,7 @@ Der hohe Vorhersagewert passt dazu, ersetzt aber keine Daten zum Liposarkom. Die
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Phase 2 | Aktiv, Rekrutierung abgeschlossen | 66 | Randomisierter Vergleich von Ipilimumab/Nivolumab allein gegen die Kombination mit Cabozantinib bei fortgeschrittenem Weichteilsarkom. Liposarkom ist nur eine Untergruppe; Ergebnisse liegen noch nicht vor. |
+| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Phase 2 | Aktiv, nicht mehr rekrutierend | 66 | Randomisierter Vergleich von Ipilimumab plus Nivolumab allein gegenüber der Kombination mit Cabozantinib bei fortgeschrittenem Weichteilsarkom. Es liegen noch keine Ergebnisse vor. Die Studie ist nicht auf das Liposarkom beschränkt, und der Beitrag von Cabozantinib lässt sich in der Dreierkombination nicht isolieren. |
 
 ---
 
@@ -81,7 +81,7 @@ Der hohe Vorhersagewert passt dazu, ersetzt aber keine Daten zum Liposarkom. Die
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Phase-1-Studie | American Journal of Clinical Oncology | Prüft die Sicherheit von Cabozantinib zusammen mit Strahlentherapie vor der Operation bei Weichteilsarkomen der Extremitäten. Hintergrund ist die Sorge vor Fisteln oder Perforationen. Cabozantinib zeigt Aktivität bei mehreren Weichteilsarkom-Typen. |
+| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Phase-1-Studie | American Journal of Clinical Oncology | Prüfte die Sicherheit von Cabozantinib zusammen mit Strahlentherapie vor der Operation bei Weichteilsarkomen der Extremitäten. Hintergrund war die Sorge vor Fisteln und Perforationen. Der Abstract nennt keine Ergebnisse. |
 
 ---
 
@@ -97,7 +97,19 @@ Der hohe Vorhersagewert passt dazu, ersetzt aber keine Daten zum Liposarkom. Die
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinase-Hemmer) |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinase-Inhibitor) |
+| Myelosuppressionsrisiko | Niedrig |
+| Emetogenitätsklassifikation | Niedrig |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Blutdruck |
+| Handhabungsschutz | In den zusammengestellten Daten nicht belegt; Vorgaben der Fachinformation beachten |
+
+Diese Einordnung beruht auf allgemeinem Fachwissen und nicht auf den zusammengestellten Daten.
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -106,13 +118,14 @@ Der hohe Vorhersagewert passt dazu, ersetzt aber keine Daten zum Liposarkom. Die
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Liposarkom liegt keine Studie vor, die diese Erkrankung direkt untersucht. Die vorhandenen Daten betreffen Weichteilsarkome allgemein, daher bleibt die Evidenz auf Modellvorhersage-Niveau (L5).
-- Sicherheitsdaten aus der Fachinformation fehlen derzeit.
+- Keine der vorliegenden Studien untersucht das Liposarkom direkt. Das Evidenzniveau bleibt daher bei L5, obwohl der Vorhersagewert hoch ist.
+- Die Sicherheitsdaten aus der Fachinformation und die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ergebnisse der laufenden Phase-2-Studie NCT05836571, möglichst mit Auswertung für Liposarkom.
-- Studien, die Liposarkom gezielt untersuchen.
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation sowie Angaben zum Wirkmechanismus.
+- Ergebnisse der Phase-2-Studie NCT05836571, möglichst mit Auswertung nach Sarkom-Subtyp
+- Studien oder Auswertungen, die Cabozantinib gezielt beim Liposarkom untersuchen
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Eine geprüfte Beschreibung des Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
