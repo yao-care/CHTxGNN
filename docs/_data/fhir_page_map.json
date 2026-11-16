@@ -309,6 +309,7 @@
     "db01086": {
       "page": "benzocaine",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -463,6 +464,7 @@
       "sources": [
         "CaTxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "UkTxGNN"
       ]
     },
@@ -559,6 +561,7 @@
     "db06697": {
       "page": "artemether",
       "sources": [
+        "SETxGNN",
         "ZaTxGNN"
       ]
     },
@@ -641,6 +644,7 @@
         "DETxGNN",
         "FITxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "NOTxGNN"
       ]
     },
@@ -889,6 +893,7 @@
     "db11799": {
       "page": "bictegravir",
       "sources": [
+        "BrTxGNN",
         "CaTxGNN",
         "DETxGNN",
         "FITxGNN",

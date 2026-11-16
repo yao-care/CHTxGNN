@@ -1,12 +1,12 @@
 {
   "generated": "2026-11-16",
-  "total_drugs": 634,
+  "total_drugs": 627,
   "level_counts": {
     "L1": 9,
     "L2": 11,
     "L3": 23,
     "L4": 17,
-    "L5": 572
+    "L5": 565
   },
   "all_drugs": [
     {
@@ -56,12 +56,6 @@
       "slug": "acidum_ascorbicum",
       "level": "L5",
       "indication_count": 9
-    },
-    {
-      "name": "Acidum Benzoicum E Resina",
-      "slug": "acidum_benzoicum_e_resina",
-      "level": "L5",
-      "indication_count": 10
     },
     {
       "name": "Acidum Chenodeoxycholicum",
@@ -556,12 +550,6 @@
       "indication_count": 10
     },
     {
-      "name": "Bupivacaini Hydrochloridum Anhydricum Adrenalinum",
-      "slug": "bupivacaini_hydrochloridum_anhydricum_adrenalinum",
-      "level": "L5",
-      "indication_count": 4
-    },
-    {
       "name": "Buprenorphinum",
       "slug": "buprenorphinum",
       "level": "L5",
@@ -1016,12 +1004,6 @@
       "slug": "defibrotidum",
       "level": "L5",
       "indication_count": 10
-    },
-    {
-      "name": "Demeclocyclinum Calcicum Triamcinoloni Acetonidum",
-      "slug": "demeclocyclinum_calcicum_triamcinoloni_acetonidum",
-      "level": "L5",
-      "indication_count": 3
     },
     {
       "name": "Denosumabum",
@@ -1792,12 +1774,6 @@
       "indication_count": 5
     },
     {
-      "name": "Imipenemum Anhydricum Cilastatinum",
-      "slug": "imipenemum_anhydricum_cilastatinum",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
       "name": "Imiquimodum",
       "slug": "imiquimodum",
       "level": "L5",
@@ -2054,12 +2030,6 @@
       "slug": "levothyroxinum_natricum_anhydricum",
       "level": "L5",
       "indication_count": 4
-    },
-    {
-      "name": "Lidocaini Hydrochloridum Anhydricum Adrenalinum",
-      "slug": "lidocaini_hydrochloridum_anhydricum_adrenalinum",
-      "level": "L5",
-      "indication_count": 10
     },
     {
       "name": "Lifitegrastum",
@@ -2725,12 +2695,6 @@
       "name": "Phenylalanine",
       "slug": "phenylalanine",
       "level": "L4",
-      "indication_count": 2
-    },
-    {
-      "name": "Phenylephrini Hydrochloridum Tropicamidum",
-      "slug": "phenylephrini_hydrochloridum_tropicamidum",
-      "level": "L5",
       "indication_count": 2
     },
     {
@@ -3452,12 +3416,6 @@
       "slug": "tezacaftor",
       "level": "L5",
       "indication_count": 3
-    },
-    {
-      "name": "Theophyllinum Et Ethylendiaminum",
-      "slug": "theophyllinum_et_ethylendiaminum",
-      "level": "L5",
-      "indication_count": 6
     },
     {
       "name": "Thiopentalum",

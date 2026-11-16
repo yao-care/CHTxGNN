@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-16",
-  "total_count": 634,
+  "total_count": 627,
   "source": "CHTxGNN",
   "drugs": [
     {
@@ -82,16 +82,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/acidum-ascorbicum/"
-    },
-    {
-      "slug": "acidum-benzoicum-e-resina",
-      "name": "Acidum Benzoicum E Resina",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acidum-benzoicum-e-resina/"
     },
     {
       "slug": "acidum-chenodeoxycholicum",
@@ -914,16 +904,6 @@
       "url": "/drugs/budesonidum/"
     },
     {
-      "slug": "bupivacaini-hydrochloridum-anhydricum-adrenalinum",
-      "name": "Bupivacaini Hydrochloridum Anhydricum Adrenalinum",
-      "evidence_level": "L5",
-      "indication_count": 4,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bupivacaini-hydrochloridum-anhydricum-adrenalinum/"
-    },
-    {
       "slug": "buprenorphinum",
       "name": "Buprenorphinum",
       "evidence_level": "L5",
@@ -1682,16 +1662,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/defibrotidum/"
-    },
-    {
-      "slug": "demeclocyclinum-calcicum-triamcinoloni-acetonidum",
-      "name": "Demeclocyclinum Calcicum Triamcinoloni Acetonidum",
-      "evidence_level": "L5",
-      "indication_count": 3,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/demeclocyclinum-calcicum-triamcinoloni-acetonidum/"
     },
     {
       "slug": "denosumabum",
@@ -2974,16 +2944,6 @@
       "url": "/drugs/imiglucerasum/"
     },
     {
-      "slug": "imipenemum-anhydricum-cilastatinum",
-      "name": "Imipenemum Anhydricum Cilastatinum",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/imipenemum-anhydricum-cilastatinum/"
-    },
-    {
       "slug": "imiquimodum",
       "name": "Imiquimodum",
       "evidence_level": "L5",
@@ -3412,16 +3372,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/levothyroxinum-natricum-anhydricum/"
-    },
-    {
-      "slug": "lidocaini-hydrochloridum-anhydricum-adrenalinum",
-      "name": "Lidocaini Hydrochloridum Anhydricum Adrenalinum",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lidocaini-hydrochloridum-anhydricum-adrenalinum/"
     },
     {
       "slug": "lifitegrastum",
@@ -4532,16 +4482,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/phenylalanine/"
-    },
-    {
-      "slug": "phenylephrini-hydrochloridum-tropicamidum",
-      "name": "Phenylephrini Hydrochloridum Tropicamidum",
-      "evidence_level": "L5",
-      "indication_count": 2,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/phenylephrini-hydrochloridum-tropicamidum/"
     },
     {
       "slug": "phenytoinum",
@@ -5742,16 +5682,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tezacaftor/"
-    },
-    {
-      "slug": "theophyllinum-et-ethylendiaminum",
-      "name": "Theophyllinum Et Ethylendiaminum",
-      "evidence_level": "L5",
-      "indication_count": 6,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/theophyllinum-et-ethylendiaminum/"
     },
     {
       "slug": "thiopentalum",
