@@ -9,7 +9,7 @@ drugbank_id: DB09077
 monitor_inn: "Dinutuximab"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
 last_modified_at: 2026-11-16
-description: "Dinutuximabum Beta: vorhergesagte neue Indikation Wirbelanomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) (Evidenzstufe L5)."
+description: "Dinutuximabum Beta: vorhergesagte neue Indikation Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) (Evidenzstufe L5)."
 ---
 
 # Dinutuximabum Beta
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Dinutuximabum Beta: Wirbelanomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction)
+## Dinutuximabum Beta: Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Dinutuximab beta ist ein gegen GD2 gerichteter, chimärer monoklonaler Antikörper, der in der Schweiz im Handel ist. Das Modell sagt eine mögliche Wirksamkeit bei Wirbelanomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) voraus. Dafür gibt es weder klinische Studien noch Literatur, und es ist kein Wirkmechanismus erkennbar. Die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Dinutuximab beta ist ein gegen GD2 gerichteter monoklonaler Antikörper. Für die vorhergesagte neue Indikation «vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction)» liegt ein hoher Vorhersagewert vor, jedoch keine Evidenz aus klinischen Studien oder Literatur. Die Vorhersage beruht allein auf dem Rechenmodell (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +50,7 @@ Dinutuximab beta ist ein gegen GD2 gerichteter, chimärer monoklonaler Antikörp
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Neuroblastoma |
-| Vorhergesagte neue Indikation | Wirbelanomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) |
+| Vorhergesagte neue Indikation | Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) |
 | TxGNN-Vorhersagewert | 0.9942 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,49 +61,27 @@ Dinutuximab beta ist ein gegen GD2 gerichteter, chimärer monoklonaler Antikörp
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dinutuximab beta bindet an das Disialogangliosid GD2 und wirkt über antikörperabhängige zellvermittelte Zytotoxizität (ADCC) und komplementabhängige Zytotoxizität (CDC) gegen Zellen, die GD2 tragen. Der Wirkmechanismus setzt also voraus, dass die Zielzellen GD2 auf ihrer Oberfläche exprimieren.
+Dinutuximab beta ist ein chimärer monoklonaler Antikörper gegen das Gangliosid GD2. Er wirkt über antikörperabhängige zelluläre Zytotoxizität (ADCC) und komplementabhängige Zytotoxizität (CDC) gegen Zellen, die GD2 tragen.
 
-Bei der vorhergesagten Erkrankung handelt es sich um ein seltenes angeborenes Syndrom. Es gibt keine bekannte GD2-getriebene Krankheitsursache. Eine biologische Verbindung zwischen dem Wirkmechanismus des Antikörpers und dieser Erkrankung ist daher nicht erkennbar. Der hohe Vorhersagewert von 0,9942 lässt sich nicht mit Daten untermauern und ist mit Zurückhaltung zu interpretieren.
+Für die vorhergesagte Erkrankung, ein seltenes angeborenes Syndrom mit endokriner und T-Zell-Dysfunktion, ist keine GD2-getriebene Krankheitsursache bekannt. Ein nachvollziehbarer Wirkmechanismus fehlt daher. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis ohne mechanistische oder klinische Stütze.
 
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Zusätzlich ist Vorsicht geboten: Die immunmodulierenden Wirkungen, die Freisetzung von Zytokinen und die neurotoxischen Effekte des Arzneimittels könnten bei Patientinnen und Patienten mit T-Zell-Dysfunktion ein Sicherheitsproblem darstellen.
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 67463 | Qarziba 20,25 mg/4,5 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika |
-
----
-
-### Zytotoxizität
-
-| Punkt | Inhalt |
-|------|------|
-| Zytotoxizitätsklassifikation | Immuntherapie (monoklonaler Antikörper) |
-| Myelosuppressionsrisiko | Niedrig |
-| Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Elektrolyte; Überwachung auf infusionsbedingte Reaktionen und Schmerzen |
-| Handhabungsschutz | Üblicherweise keine besonderen zytostatischen Schutzmassnahmen; die Vorgaben der Fachinformation sind massgebend |
-
-Diese Einschätzung beruht auf allgemeinem Fachwissen zur Wirkstoffklasse. Die für diesen Bericht zusammengestellten Daten enthalten dazu keine Angaben.
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 67463 | Qarziba 20,25 mg/4,5 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Neuroblastom |
 
 ---
 
 ### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Zu Arzneimittelwechselwirkungen wurden in den für diesen Bericht zusammengestellten Daten keine Einträge gefunden.
 
 ---
 
@@ -112,13 +90,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Erkrankung gibt es weder Studien noch Literatur. Ein Zusammenhang mit dem GD2-gerichteten Wirkmechanismus ist nicht erkennbar, sodass die Vorhersage nur auf dem Modell beruht (L5).
+- Es gibt weder klinische Studien noch Literatur zur vorhergesagten Erkrankung, und ein Wirkmechanismus ist nicht erkennbar.
+- Die möglichen immunologischen Nebenwirkungen sind bei bestehender T-Zell-Dysfunktion ein zusätzliches Risiko.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Hinweise, dass die Zellen der vorhergesagten Erkrankung GD2 exprimieren, oder ein anderer plausibler biologischer Zusammenhang
-- Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
-- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Fachinformation und eine Bewertung der Wechselwirkungen
-- Eine fachliche Klärung, ob die Vorhersage bei einer so seltenen Erkrankung klinisch sinnvoll ist
+- Ein plausibler biologischer Zusammenhang zwischen GD2 und der vorhergesagten Erkrankung
+- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) der Swissmedic
+- Angaben zum Wirkmechanismus aus einer zusätzlichen Arzneimitteldatenbank
+- Präklinische oder klinische Daten, die einen Nutzen bei dieser Erkrankung stützen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

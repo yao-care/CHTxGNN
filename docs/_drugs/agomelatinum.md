@@ -9,7 +9,7 @@ drugbank_id: DB06594
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
 last_modified_at: 2026-11-16
-description: "Agomelatinum: vorhergesagte neue Indikation Gutartige paroxysmale Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
+description: "Agomelatinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
 # Agomelatinum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Agomelatinum: Gutartige paroxysmale Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy)
+## Agomelatinum: Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Agomelatin ist in der Schweiz als Antidepressivum zugelassen. Die Vorhersage für die gutartige paroxysmale Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) beruht ausschliesslich auf einer Modellberechnung. Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, und ein mechanistischer Zusammenhang ist nicht erkennbar.
+Agomelatin ist ein Antidepressivum, das in der Schweiz im Handel ist. Das Modell sagt voraus, dass es bei benignem paroxysmalem Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) wirksam sein könnte. Dafür liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +50,7 @@ Agomelatin ist in der Schweiz als Antidepressivum zugelassen. Die Vorhersage fü
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antidepressivum; Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte |
-| Vorhergesagte neue Indikation | Gutartige paroxysmale Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) |
+| Vorhergesagte neue Indikation | Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) |
 | TxGNN-Vorhersagewert | 0.9996 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 5) |
@@ -59,11 +61,9 @@ Agomelatin ist in der Schweiz als Antidepressivum zugelassen. Die Vorhersage fü
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Agomelatin die Melatoninrezeptoren MT1 und MT2 aktiviert und den Serotoninrezeptor 5-HT2C blockiert. Dadurch kann es den Tag-Nacht-Rhythmus normalisieren und die Freisetzung von Dopamin und Noradrenalin im präfrontalen Kortex steigern.
+Agomelatin wirkt als Agonist an den Melatoninrezeptoren MT1 und MT2 und als Antagonist am 5-HT2C-Rezeptor. Die für diesen Bericht zusammengestellten Daten enthalten dazu keine ausführliche Mechanismusbeschreibung. Die Angaben beruhen auf der allgemeinen pharmakologischen Einordnung.
 
-Die vorhergesagte Erkrankung ist eine seltene Störung des Säuglingsalters, die dem Migränespektrum nahesteht und oft mit Veränderungen im Gen CACNA1A zusammenhängt. Für die genannten Rezeptoren ist keine Verbindung zu diesem Krankheitsgeschehen bekannt. Der hohe Vorhersagewert ist deshalb wahrscheinlich ein Artefakt der graphbasierten Modellberechnung und kein Hinweis auf eine echte Wirkung.
-
-Hinzu kommt, dass Agomelatin bei Säuglingen nicht etabliert ist.
+Der benigne paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitierende Erkrankung des Kindesalters. Sie wird oft mit Varianten im Gen CACNA1A in Verbindung gebracht, das einen Ionenkanal betrifft. Eine Verbindung zur melatonergen oder serotonergen Wirkung von Agomelatin ist spekulativ. Der hohe Vorhersagewert ist ein reines Modellergebnis und ersetzt keine Evidenz. Zudem ist Agomelatin für Säuglinge nicht etabliert.
 
 ---
 
@@ -77,14 +77,6 @@ Hinzu kommt, dass Agomelatin bei Säuglingen nicht etabliert ist.
 | 57596 | Valdoxan 25 mg, Filmtabletten | Synthetika | Behandlung depressiver Episoden bei Erwachsenen; Behandlung der generalisierten Angststörung bei Erwachsenen |
 | 67666 | Agomelatin Zentiva 25 mg, Filmtabletten | Synthetika | Antidepressivum |
 
-Vier der fünf Zulassungen sind gültig, eine ist gelöscht (Nr. 67502).
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
 ---
 
 ### Fazit und nächste Schritte
@@ -92,13 +84,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für diese Erkrankung gibt es weder klinische Studien noch Literatur, und es ist kein plausibler Wirkmechanismus erkennbar. Die Vorhersage stützt sich allein auf das Modell (Evidenzniveau L5).
+- Für die Vorhersage gibt es weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus ist nicht erkennbar. Die Sicherheitsdaten sind ausserdem lückenhaft, und eine Anwendung bei Säuglingen ist nicht etabliert.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein belegter mechanistischer Zusammenhang zwischen Agomelatin und der Pathophysiologie dieser Erkrankung
-- Präklinische oder klinische Daten zur Erkrankung selbst
-- Daten zur Sicherheit und Anwendung bei Säuglingen
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die in den zusammengestellten Daten fehlen
+- Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Präklinische oder klinische Belege, die Agomelatin mit dieser Erkrankung in Verbindung bringen
+- Prüfung der Sicherheit und Eignung bei Säuglingen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB00571
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 last_modified_at: 2026-11-16
-description: "Propranololi Hydrochloridum: vorhergesagte neue Indikation Distale Myopathie vom Tateyama-Typ (distal myopathy, Tateyama type) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
+description: "Propranololi Hydrochloridum: vorhergesagte neue Indikation Distale Myopathie, Typ Tateyama (distal myopathy, Tateyama type) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
 # Propranololi Hydrochloridum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Propranololi Hydrochloridum: Distale Myopathie vom Tateyama-Typ (distal myopathy, Tateyama type)
+## Propranololi Hydrochloridum: Distale Myopathie, Typ Tateyama (distal myopathy, Tateyama type)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Propranolol ist ein Beta-Rezeptorenblocker, der in der Schweiz in mehreren Präparaten im Handel ist. Die Vorhersage nennt als neue Indikation die distale Myopathie vom Tateyama-Typ (distal myopathy, Tateyama type), eine seltene Muskelerkrankung. Dafür gibt es keine Belege: Es liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell.
+Propranolol ist ein Betablocker, der in der Schweiz im Handel ist. Die Berechnung sagt eine mögliche Wirksamkeit bei der distalen Myopathie, Typ Tateyama (distal myopathy, Tateyama type), voraus. Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf einem Modell.
 
 ---
 
@@ -50,7 +48,7 @@ Propranolol ist ein Beta-Rezeptorenblocker, der in der Schweiz in mehreren Präp
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Beta-Rezeptorenblocker; Behandlung von proliferierenden infantilen Hämangiomen, die systemische Therapiemassnahmen erfordern.; betabloccante |
-| Vorhergesagte neue Indikation | Distale Myopathie vom Tateyama-Typ (distal myopathy, Tateyama type) |
+| Vorhergesagte neue Indikation | Distale Myopathie, Typ Tateyama (distal myopathy, Tateyama type) |
 | TxGNN-Vorhersagewert | 0.9940 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
@@ -61,21 +59,21 @@ Propranolol ist ein Beta-Rezeptorenblocker, der in der Schweiz in mehreren Präp
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die vorliegenden Daten stützen die Vorhersage nur schwach. Der Wirkmechanismus von Propranolol ist in den zusammengestellten Daten nicht hinterlegt. Allgemein blockiert der Wirkstoff als nicht-selektiver Beta-Blocker die Beta-Adrenozeptoren.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Propranolol ist laut Zulassung ein Betablocker, also ein Wirkstoff, der Beta-Adrenorezeptoren hemmt.
 
-Ein Zusammenhang zwischen dieser Blockade und der Krankheitsentstehung der distalen Myopathie vom Tateyama-Typ ist nicht bekannt. Es gibt keinen bekannten Signalweg, über den eine Beta-Blockade den Verlauf dieser seltenen Muskelerkrankung beeinflussen würde. Der hohe Vorhersagewert ist eine rein rechnerische Aussage und kein Hinweis auf eine tatsächliche Wirkung.
+Ein Zusammenhang zwischen dieser Wirkung und der distalen Myopathie, Typ Tateyama, einer seltenen erblichen Muskelerkrankung, ist nicht belegt. Es ist kein biologischer Weg bekannt, der die Betablockade mit dem Krankheitsgeschehen verbindet. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis und kein Hinweis auf eine nachgewiesene Wirkung.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -85,9 +83,9 @@ Derzeit keine verwandte Literatur verfügbar.
 |---------|------|------|-----------|
 | 47025 | Propranolol Zentiva 10 mg, Filmtabletten | Synthetika | Beta-Rezeptorenblocker |
 | 31706 | Inderal 10 mg, Filmtabletten | Synthetika | Beta-Rezeptorenblocker |
-| 61214 | Hemangiol 3,75 mg/ml, Lösung | Synthetika | Behandlung von proliferierenden infantilen Hämangiomen, die systemische Therapiemassnahmen erfordern |
+| 61214 | Hemangiol 3.75 mg/ml, Lösung | Synthetika | Behandlung von proliferierenden infantilen Hämangiomen, die systemische Therapiemassnahmen erfordern |
 | 47551 | Propranolol retard Zentiva, Kapseln | Synthetika | Beta-Rezeptorenblocker |
-| 66719 | Bedranol 10 mg, comprimés pelliculés | Synthetika | Beta-Rezeptorenblocker |
+| 66719 | Bedranol 10 mg, comprimés pelliculés | Synthetika | Betablocker |
 
 ---
 
@@ -96,12 +94,12 @@ Derzeit keine verwandte Literatur verfügbar.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die distale Myopathie vom Tateyama-Typ liegen weder Studien noch Literatur vor, und es ist kein plausibler Wirkmechanismus bekannt. Die Vorhersage bleibt deshalb auf dem Evidenzniveau L5.
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell. Es gibt weder Studien noch Publikationen zu dieser Erkrankung und keinen erkennbaren Wirkmechanismus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische oder mechanistische Daten, die eine Rolle der Beta-Adrenozeptoren bei dieser Myopathie belegen
-- Der Wirkmechanismus von Propranolol aus einer Arzneimitteldatenbank, um die mechanistische Verbindung zu prüfen
-- Die Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic, da die Sicherheitsdaten derzeit fehlen und eine Sicherheitsbeurteilung nicht möglich ist
+- Ein plausibler biologischer Zusammenhang zwischen Betablockade und der Krankheit, zum Beispiel aus präklinischen Untersuchungen
+- Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Die Sicherheitsangaben (Warnhinweise, Gegenanzeigen) aus der Schweizer Fachinformation, die in den vorliegenden Daten fehlen und vor einer Sicherheitsbewertung nötig sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

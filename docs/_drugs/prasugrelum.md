@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Prasugrelum: Pulmonale Hypertonie (pulmonary hypertension)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Prasugrel ist ein Thrombozytenaggregationshemmer, der in der Schweiz in Kombination mit Acetylsalicylsäure zugelassen ist. Für die vorhergesagte neue Anwendung, die pulmonale Hypertonie (pulmonary hypertension), liegen keine direkten Studien vor; die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
+Prasugrel ist ein Thrombozytenaggregationshemmer, der in der Schweiz in Kombination mit Acetylsalicylsäure zugelassen ist. Für die Behandlung der pulmonalen Hypertonie (pulmonary hypertension) wird ein möglicher Nutzen vorhergesagt, doch es liegt dafür keine direkte klinische Evidenz vor. Die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
 
 ---
 
@@ -59,26 +61,26 @@ Prasugrel ist ein Thrombozytenaggregationshemmer, der in der Schweiz in Kombinat
 
 ### Warum ist diese Vorhersage plausibel?
 
-Prasugrel ist ein Prodrug aus der Gruppe der Thienopyridine. Es blockiert den P2Y12-Rezeptor auf Blutplättchen und hemmt dadurch deren Aggregation. Angaben zum Wirkmechanismus in den Arzneimitteldaten fehlen; die hier genannte Wirkweise entspricht dem allgemeinen pharmakologischen Wissen.
+Prasugrel hemmt den P2Y12-Rezeptor auf Blutplättchen und verhindert so deren Aggregation. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Eine mögliche Verbindung zur pulmonalen Hypertonie besteht darin, dass Blutplättchenaktivierung und Thrombosen in den Lungengefässen zum Umbau der Gefässwände beitragen könnten. Das ist jedoch spekulativ und durch die vorliegenden Daten nicht gestützt. Ein direkter mechanistischer Zusammenhang ist nicht belegt. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis.
+Bei der pulmonalen Hypertonie spielen die Aktivierung von Blutplättchen und Gerinnselbildung in den Lungengefässen (In-situ-Thrombose) eine Rolle beim Umbau der Gefässwand. Daraus ergibt sich eine theoretische Verbindung zu einem Plättchenhemmer.
+
+Diese Verbindung ist jedoch rein hypothetisch. Die beiden gefundenen Publikationen untersuchen die Erkrankung nicht direkt, und es gibt keine klinische Studie, die Prasugrel bei pulmonaler Hypertonie prüft.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Die beiden gefundenen Publikationen untersuchen die pulmonale Hypertonie nicht direkt.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Kohortenstudie | Kardiologiia | Auswertung eines COVID-19-Registers (5 808 Patienten): Einfluss der Dauertherapie bei Begleiterkrankungen auf den Verlauf der Infektion. Kein direkter Bezug zu Prasugrel bei pulmonaler Hypertonie. |
-| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Kohortenstudie | Current Medical Research and Opinion | Faktoren für Anwendung und Therapietreue von Clopidogrel bei Patienten mit akutem Koronarsyndrom nach Stentimplantation. Kein Bezug zur pulmonalen Hypertonie. |
+| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Kohortenstudie | Kardiologiia | Register mit COVID-19-Patienten (ACTIVE). Untersucht, wie sich die Dauertherapie bei Begleiterkrankungen vor der Infektion auf Schwere und Verlauf von COVID-19 auswirkt. Kein direkter Bezug zu pulmonaler Hypertonie. |
+| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Kohortenstudie | Current Medical Research and Opinion | Untersucht Einflussfaktoren auf Anwendung und Therapietreue von Clopidogrel nach Koronarintervention bei akutem Koronarsyndrom. Kein Bezug zu pulmonaler Hypertonie. |
 
 ---
 
@@ -103,12 +105,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die pulmonale Hypertonie gibt es weder klinische Studien noch passende Literatur; der hohe Vorhersagewert (0,9988) stützt sich nur auf das Rechenmodell.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell. Es gibt weder klinische Studien noch Publikationen, die Prasugrel bei pulmonaler Hypertonie direkt untersuchen.
+- Der biologische Zusammenhang über Blutplättchen und Thrombosen in den Lungengefässen ist nur theoretisch.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische oder klinische Daten, die Prasugrel direkt bei pulmonaler Hypertonie untersuchen
-- Eine nachvollziehbare Begründung des Wirkmechanismus für diese Erkrankung
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, da diese Sicherheitsdaten fehlen
+- Präklinische oder klinische Daten, die Prasugrel direkt bei pulmonaler Hypertonie prüfen
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsbeurteilung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

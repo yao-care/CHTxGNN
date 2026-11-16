@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 ## Rosuvastatinum: Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Rosuvastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterinkonzentration und zur Vorbeugung kardiovaskulärer Ereignisse zugelassen ist. Für den Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) wird es vom Modell als mögliche neue Indikation vorhergesagt. Diese Vorhersage stützt sich ausschliesslich auf eine Modellberechnung; es liegen weder klinische Studien noch Publikationen vor.
+Rosuvastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterinkonzentration und zur Vorbeugung kardiovaskulärer Ereignisse zugelassen ist. Für die vorhergesagte neue Indikation, den Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency), liegt ein hoher Modellwert vor. Es gibt dazu jedoch weder klinische Studien noch Literatur, die Evidenz beruht also allein auf der Modellvorhersage.
 
 ---
 
@@ -59,30 +61,30 @@ Rosuvastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterin
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rosuvastatin hemmt die HMG-CoA-Reduktase, ein Schlüsselenzym der Cholesterinbildung in der Leber. Dadurch sinkt die Cholesterinsynthese, die LDL-Rezeptoren nehmen zu, und mehr LDL-Cholesterin wird aus dem Blut entfernt. Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht gesondert aufgeführt; die Beschreibung beruht auf allgemein bekanntem Wissen über Statine.
+Rosuvastatin hemmt die HMG-CoA-Reduktase und senkt dadurch das LDL-Cholesterin. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
 
-Beim Cholesterinester-Transferprotein-Mangel (CETP-Mangel) ist das HDL-Cholesterin erhöht, und das LDL-Cholesterin ist häufig normal oder niedrig. Ein klarer mechanistischer Nutzen einer LDL-Senkung ist daher nicht erkennbar. Der hohe Vorhersagewert ist eine reine Modellberechnung und wird durch keine klinischen oder publizierten Daten gestützt.
+Der Cholesterinester-Transferprotein-Mangel ist eine genetisch bedingte Störung des Fettstoffwechsels. Typisch sind ein hohes HDL-Cholesterin und ein niedriges LDL-Cholesterin. Der hohe Vorhersagewert spiegelt wahrscheinlich die enge Nachbarschaft der beiden Krankheitsbilder im Fettstoffwechsel wider.
 
----
-
-### Sicherheitshinweise
-
-Für diesen Bericht liegen keine auswertbaren Angaben zu Warnhinweisen, Kontraindikationen oder Wechselwirkungen vor.
-
-> Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Die klinische Begründung ist jedoch schwach: Menschen mit dieser Störung haben in der Regel bereits niedrige LDL-Werte und benötigen keine zusätzliche LDL-Senkung. Ein echter therapeutischer Nutzen ist daher nicht erkennbar.
 
 ---
 
 ### Marktinformationen Schweiz
 
-In der Schweiz sind mindestens 4 Zulassungen von Einzelwirkstoff-Präparaten erfasst, alle gültig. Die Liste kann unvollständig sein.
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 66415 | Rosuvastatin Axapharm 5 mg, Filmtabletten | Filmtabletten | Senkung der Serumcholesterinkonzentration; Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit normalem LDL-Cholesterin und erhöhtem Risiko atherosklerotischer Erkrankungen |
-| 66447 | Rosuvastax 5 mg, Filmtabletten | Filmtabletten | wie oben |
-| 56139 | Crestor 10 mg, Filmtabletten | Filmtabletten | wie oben |
-| 66463 | Rosuvastatin Spirig HC 5 mg, Filmtabletten | Filmtabletten | wie oben |
+| 66415 | Rosuvastatin Axapharm 5 mg, Filmtabletten | Filmtabletten | Reduktion der Serumcholesterinkonzentration; Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit normalem LDL-Cholesterin und erhöhtem Risiko atherosklerotischer Erkrankungen |
+| 66447 | Rosuvastax 5 mg, Filmtabletten | Filmtabletten | Wie oben |
+| 56139 | Crestor 10 mg, Filmtabletten | Filmtabletten | Wie oben |
+| 66463 | Rosuvastatin Spirig HC 5 mg, Filmtabletten | Filmtabletten | Wie oben |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -91,12 +93,12 @@ In der Schweiz sind mindestens 4 Zulassungen von Einzelwirkstoff-Präparaten erf
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den CETP-Mangel gibt es weder klinische Studien noch Literatur, und ein mechanistischer Nutzen ist nicht erkennbar. Das Evidenzniveau ist L5.
+- Für den Cholesterinester-Transferprotein-Mangel gibt es weder Studien noch Literatur. Die Vorhersage stützt sich nur auf das Modell, und ein LDL-senkender Nutzen ist bei dieser Erkrankung klinisch kaum plausibel.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder publizierte Daten, die Rosuvastatin direkt bei CETP-Mangel untersuchen
-- Eine nachvollziehbare mechanistische Begründung für einen Nutzen bei normalem oder niedrigem LDL-Cholesterin
-- Die Sicherheitsinformationen aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen)
+- Studien oder Fallberichte, die Rosuvastatin direkt bei dieser Erkrankung untersuchen
+- Eine klinische Begründung, warum eine LDL-Senkung bei bereits niedrigem LDL-Cholesterin nützlich sein könnte
+- Angaben zum Wirkmechanismus sowie Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

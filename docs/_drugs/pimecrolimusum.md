@@ -37,13 +37,15 @@ Evidenzniveau: **L2** | Vorhergesagte Indikationen: **3**
 ## Pimecrolimusum: Seborrhoische Dermatitis (seborrheic dermatitis)
 {: .text-alpha }
 
-### Zusammenfassung
+---
 
-Pimecrolimus ist ein topischer Calcineurin-Inhibitor, der in der Schweiz als Creme zugelassen ist. Die vorhergesagte neue Anwendung ist die seborrhoische Dermatitis (seborrheic dermatitis). Dafür liegen eine abgeschlossene Phase-2-Studie sowie mehrere systematische Übersichtsarbeiten zu randomisierten Studien vor, die das Arzneimittel direkt bei dieser Erkrankung untersuchen.
+## Zusammenfassung
+
+Pimecrolimus ist ein topischer Calcineurin-Inhibitor, der in der Schweiz als Creme im Handel ist. Es könnte bei seborrhoischer Dermatitis (seborrheic dermatitis) wirksam sein, einer chronisch-entzündlichen Hauterkrankung mit Rötung und Schuppung in talgdrüsenreichen Hautarealen. Die Evidenz ist mässig: Eine abgeschlossene randomisierte Phase-2-Studie und mehrere systematische Übersichtsarbeiten befassen sich direkt mit dieser Erkrankung (Evidenzniveau L2).
 
 ---
 
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -57,60 +59,61 @@ Pimecrolimus ist ein topischer Calcineurin-Inhibitor, der in der Schweiz als Cre
 
 ---
 
-### Warum ist diese Vorhersage plausibel?
+## Warum ist diese Vorhersage plausibel?
 
-Pimecrolimus hemmt Calcineurin und damit die Aktivierung des Transkriptionsfaktors NFAT in T-Zellen und Mastzellen. Dadurch werden weniger entzündungsfördernde Botenstoffe wie IL-2, IL-4, Interferon-gamma und TNF-alpha freigesetzt. Die Daten zum Wirkmechanismus aus den Stammdaten fehlen; die Beschreibung stützt sich auf die Angaben der zusammengestellten Literatur.
+Pimecrolimus hemmt Calcineurin und damit die Aktivierung von T-Zellen. Dadurch werden entzündungsfördernde Botenstoffe wie IL-2, Interferon-gamma und TNF-alpha weniger freigesetzt. Auch die Degranulation von Mastzellen wird gehemmt. Die Angaben zum Wirkmechanismus stammen aus allgemeinem pharmakologischem Wissen und nicht aus den lokalen Daten. Möglicherweise wirkt Pimecrolimus zusätzlich auf Entzündungen, die mit der Hefe Malassezia zusammenhängen.
 
-Die seborrhoische Dermatitis ist eine chronisch-wiederkehrende Entzündung talgdrüsenreicher Hautareale. Sie hängt mit einer Entzündungsreaktion auf Hefepilze der Gattung Malassezia zusammen. Ein nicht-steroidaler, entzündungshemmender Wirkstoff ist daher mechanistisch nachvollziehbar. In vitro wurde zudem eine gewisse Aktivität gegen Malassezia beschrieben. Ein Vorteil gegenüber Kortikosteroiden ist, dass keine Hautverdünnung (Atrophie) zu erwarten ist, was bei der Behandlung im Gesicht und bei Langzeitanwendung relevant ist.
+Die seborrhoische Dermatitis hat eine T-Zell-vermittelte entzündliche Komponente. Hinzu kommt eine überschiessende Reaktion auf Stoffwechselprodukte von Malassezia. Ein nicht-steroidaler Entzündungshemmer passt dazu. Er ist besonders dort interessant, wo eine längere Anwendung von Kortikosteroiden im Gesicht vermieden werden soll.
+
+Mehrere Übersichtsarbeiten beschreiben den Off-Label-Einsatz topischer Calcineurin-Inhibitoren bei dieser Erkrankung. Zwei davon sind systematische Übersichten randomisierter Studien zu Pimecrolimus 1 % bei seborrhoischer Dermatitis.
 
 ---
 
-### Klinische Studien
+## Klinische Studien
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00403559](https://clinicaltrials.gov/study/NCT00403559) | Phase 2 | Abgeschlossen | 113 | Randomisierte, doppelblinde Vergleichsstudie über 4 Wochen mit Elidel bei seborrhoischer Dermatitis; explorativ zur Wirksamkeit. Ergebnisse in den vorliegenden Daten nicht beschrieben. |
+| [NCT00403559](https://clinicaltrials.gov/study/NCT00403559) | Phase 2 | Abgeschlossen | 113 | Vierwöchige, randomisierte, doppelblinde Studie mit Parallelgruppen und aktivem Vergleichspräparat. Sie untersucht Elidel (Pimecrolimus) bei seborrhoischer Dermatitis. Es sind keine Wirksamkeitsergebnisse hinterlegt, Vergleichspräparat und Endpunkte sind noch zu klären. |
 
 ---
 
-### Literaturbelege
+## Literaturbelege
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [36072203](https://pubmed.ncbi.nlm.nih.gov/36072203/) | 2022 | Systematische Übersicht von RCTs | Cureus | Bewertung von Wirksamkeit und Sicherheit von Pimecrolimus bei seborrhoischer Dermatitis im Gesicht. |
-| [23441238](https://pubmed.ncbi.nlm.nih.gov/23441238/) | 2013 | Übersichtsarbeit | Journal of Clinical and Aesthetic Dermatology | Pimecrolimus wird als sichere Alternative zu Kortikosteroiden beschrieben, besonders für die Langzeitanwendung. |
-| [31053034](https://pubmed.ncbi.nlm.nih.gov/31053034/) | 2019 | Übersichtsarbeit | Journal of Cutaneous Medicine and Surgery | Übersicht zu Off-Label-Anwendungen von topischem Pimecrolimus mit Fokus auf RCTs. |
-| [31476936](https://pubmed.ncbi.nlm.nih.gov/31476936/) | 2019 | Übersichtsarbeit | Journal of Cutaneous Medicine and Surgery | Übersicht zur Evidenz für Off-Label-Einsatz topischer Calcineurin-Inhibitoren bei Hauterkrankungen. |
-| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Übersichtsarbeit | Journal of Drugs in Dermatology | Aktueller Stand und Therapieperspektiven bei seborrhoischer Dermatitis im Gesicht. |
+| [22142161](https://pubmed.ncbi.nlm.nih.gov/22142161/) | 2012 | Systematische Übersicht von RCTs | Expert Review of Clinical Pharmacology | Pimecrolimus 1 % Creme scheint bei seborrhoischer Dermatitis gut verträglich und wirksam zu sein. Verglichen wurde mit Kortikosteroiden, Antimykotika, Placebo oder keiner Behandlung. Der Abstract liegt nur gekürzt vor. |
+| [36072203](https://pubmed.ncbi.nlm.nih.gov/36072203/) | 2022 | Systematische Übersicht von RCTs | Cureus | Prüft Wirksamkeit und Sicherheit von Pimecrolimus bei seborrhoischer Dermatitis im Gesicht. Konkrete Ergebnisse sind im vorliegenden Abstract nicht ersichtlich. |
+| [23715821](https://pubmed.ncbi.nlm.nih.gov/23715821/) | 2013 | Vergleichsstudie | Irish Journal of Medical Science | Vergleicht Sertaconazol 2 % Creme mit Pimecrolimus 1 % Creme bei seborrhoischer Dermatitis. Ergebnisse sind im Abstract nicht angegeben. |
+| [23441238](https://pubmed.ncbi.nlm.nih.gov/23441238/) | 2013 | Übersichtsarbeit | Journal of Clinical and Aesthetic Dermatology | Beschreibt Pimecrolimus als sichere Alternative zu topischen Kortikosteroiden, besonders für die Langzeitanwendung. |
+| [31053034](https://pubmed.ncbi.nlm.nih.gov/31053034/) | 2019 | Übersichtsarbeit | Journal of Cutaneous Medicine and Surgery | Fasst veröffentlichte Studien zum Off-Label-Einsatz von topischem Pimecrolimus zusammen, mit Schwerpunkt auf RCTs. |
+| [31476936](https://pubmed.ncbi.nlm.nih.gov/31476936/) | 2019 | Übersichtsarbeit | Journal of Cutaneous Medicine and Surgery | Bewertet die Evidenz für topische Calcineurin-Inhibitoren bei verschiedenen Hauterkrankungen ausserhalb der Zulassung. |
+| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Übersichtsarbeit | Journal of Drugs in Dermatology | Gibt einen Überblick über Stand und Perspektiven der Therapie der seborrhoischen Dermatitis im Gesicht. |
+| [16033622](https://pubmed.ncbi.nlm.nih.gov/16033622/) | 2005 | Übersichtsarbeit | International Journal of Clinical Practice | Beschreibt die Wirkung von Pimecrolimus auf T-Zellen und Mastzellen sowie seinen Einsatz über die atopische Dermatitis hinaus. |
+| [17910727](https://pubmed.ncbi.nlm.nih.gov/17910727/) | 2007 | Fallbericht | International Journal of Dermatology | Beschreibt eine durch Pimecrolimus ausgelöste rosazea-ähnliche Demodikose. |
+| [20347654](https://pubmed.ncbi.nlm.nih.gov/20347654/) | 2010 | Übersichtsarbeit | Clinics in Dermatology | Tinea incognito kann durch Kortikosteroide oder Immunmodulatoren wie Pimecrolimus verändert aussehen und mit seborrhoischer Dermatitis verwechselt werden. |
 
 ---
 
-### Marktinformationen Schweiz
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55965 | Elidel 1 %, Crème | Synthetika | — |
-
----
-
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
 **Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Für die seborrhoische Dermatitis liegen eine abgeschlossene Phase-2-Studie und mehrere systematische Übersichtsarbeiten vor, die den Nutzen stützen. Die Studie ist jedoch kurz (4 Wochen) und explorativ, und die Sicherheitsdaten aus der Fachinformation fehlen.
+- Der Wirkmechanismus passt zur Entzündung bei seborrhoischer Dermatitis. Eine abgeschlossene randomisierte Phase-2-Studie und zwei systematische Übersichten befassen sich direkt mit der Erkrankung.
+- Für die Studie liegen keine Ergebnisse vor. Zudem sind Warnhinweise zu beachten: der Klassenhinweis zu topischen Calcineurin-Inhibitoren, mögliche rosazea-ähnliche Reaktionen oder Demodikose im Gesicht und das Risiko, eine Tinea (Tinea incognito) zu verdecken.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic
-- Detaillierte Ergebnisse der Phase-2-Studie NCT00403559 sowie der Studien in den systematischen Übersichten
-- Bestätigende, längere kontrollierte Studien zur Wirksamkeit und zum Rückfallverhalten
-- Ergänzung der Mechanismusdaten (Wirkmechanismus) aus einer Arzneimitteldatenbank
+- Auswertung der Ergebnisse, des Vergleichspräparats und der Endpunkte von NCT00403559.
+- Prüfung der Hauptstudien aus den beiden systematischen Übersichten (PMID 22142161 und 36072203) auf Wirksamkeit, Rückfallraten und Verträglichkeit.
+- Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Kontraindikationen, da diese Daten derzeit fehlen.
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
+- Klärung von Dosierung, Behandlungsdauer und Anwendungsort (Gesicht oder Kopfhaut) für den Einsatz bei seborrhoischer Dermatitis.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

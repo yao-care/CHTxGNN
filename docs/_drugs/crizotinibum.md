@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Crizotinibum: Gingivale Fibromatose (fibromatosis, gingival)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Crizotinib ist ein Krebsmedikament (Onkologikum), das in der Schweiz zugelassen ist. Die Vorhersage deutet darauf hin, dass es bei der gingivalen Fibromatose (fibromatosis, gingival) wirksam sein könnte. Hierfür liegen jedoch keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf einem Modellwert.
+Crizotinib ist ein Krebsmedikament, das in der Schweiz als Onkologikum zugelassen ist. Für Gingivale Fibromatose (fibromatosis, gingival) liefert das Modell einen hohen Vorhersagewert, doch die Datenlage ist dünn: Zu dieser Erkrankung wurden weder klinische Studien noch Publikationen gefunden. Die Vorhersage beruht allein auf einer Modellrechnung (Evidenzniveau L5).
 
 ---
 
@@ -61,15 +59,11 @@ Crizotinib ist ein Krebsmedikament (Onkologikum), das in der Schweiz zugelassen 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Crizotinib ist in den vorliegenden Daten nicht hinterlegt. Aus der Fachliteratur ist bekannt, dass der Wirkstoff die Kinasen ALK, ROS1 und MET hemmt. Diese Kenntnis stammt jedoch nicht aus den für diesen Bericht zusammengestellten Daten.
+Crizotinib hemmt als ATP-kompetitiver Kinasehemmer die Rezeptor-Tyrosinkinasen ALK, ROS1 und MET. Die Angaben zum Wirkmechanismus in den lokalen Daten sind unvollständig; die genannten Zielstrukturen stammen aus den ausgewerteten Publikationen.
 
-Für die gingivale Fibromatose lässt sich aus den Daten keine mechanistische Begründung ableiten. Für diese Erkrankung ist kein ALK-, ROS1- oder MET-Treiber dokumentiert. Der hohe Vorhersagewert ist ein reines Netzwerkergebnis. Eine Ähnlichkeit zur ursprünglichen Indikation wurde bisher nicht bewertet.
+Ein Zusammenhang mit fibroproliferativen Signalwegen ist denkbar, durch die vorliegenden Daten aber nicht gestützt. Gingivale Fibromatose ist eine gutartige Erkrankung ohne bekannte Abhängigkeit von ALK, ROS1 oder MET. Der hohe Vorhersagewert ist daher als Hypothese zu verstehen, nicht als Hinweis auf Wirksamkeit.
 
----
-
-### Sicherheitshinweise
-
-Für Crizotinib liegen in den zusammengestellten Daten weder Warnungen noch Kontraindikationen vor, und es wurden keine Arzneimittelwechselwirkungen gefunden. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Hinzu kommt das Nutzen-Risiko-Verhältnis: Crizotinib kann die Leber und das Herz belasten. Bei einer gutartigen Erkrankung wäre die erforderliche Verträglichkeit entsprechend hoch.
 
 ---
 
@@ -86,8 +80,17 @@ Für Crizotinib liegen in den zusammengestellten Daten weder Warnungen noch Kont
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie |
-| Handhabungsschutz | Bitte der Fachinformation entnehmen |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinasehemmer) |
+| Überwachungspunkte | Blutbild, Leberfunktion (Fälle von akutem Leberversagen berichtet), Herzfrequenz und QT-Zeit (Bradykardie, QT-Verlängerung berichtet) |
+| Handhabungsschutz | Für orale Krebsmedikamente sind die üblichen Schutzmassnahmen im Umgang zu beachten; Details siehe Fachinformation |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Ergänzend zeigen Einzelfallberichte in den ausgewerteten Publikationen mögliche schwere Nebenwirkungen von Crizotinib: akutes Leberversagen, mehrfache Herzrhythmusstörungen (Bradykardie, QT-Verlängerung) sowie Erythema multiforme.
 
 ---
 
@@ -96,13 +99,13 @@ Für Crizotinib liegen in den zusammengestellten Daten weder Warnungen noch Kont
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die gingivale Fibromatose gibt es weder klinische Studien noch Literatur, und es ist kein plausibler Wirkmechanismus belegt. Der hohe Vorhersagewert allein genügt nicht für eine Weiterverfolgung.
+- Für die vorhergesagte Indikation liegen weder klinische Studien noch Literatur vor; die Vorhersage ist rein rechnerisch (L5).
+- Bei einer gutartigen Erkrankung stehen die bekannten Leber- und Herzrisiken von Crizotinib einem unklaren Nutzen gegenüber.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein belegter molekularer Zusammenhang (ALK, ROS1 oder MET) mit der gingivalen Fibromatose
-- Präklinische oder klinische Daten zu dieser Erkrankung
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
-- Die Angabe des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Biologische oder präklinische Hinweise, dass ALK-, ROS1- oder MET-Signalwege bei gingivaler Fibromatose eine Rolle spielen
+- Vollständige Sicherheitsangaben aus der Swissmedic-Fachinformation
+- Ergänzte Angaben zum Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

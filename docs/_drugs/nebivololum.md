@@ -9,7 +9,7 @@ drugbank_id: DB04861
 monitor_inn: "Nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 last_modified_at: 2026-11-16
-description: "Nebivololum: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
+description: "Nebivololum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
 # Nebivololum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Nebivololum: Malignant hypertensive renal disease
+## Nebivololum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Nebivolol ist in der Schweiz als Beta-Rezeptorenblocker zugelassen. Es gibt dafür weder klinische Studien noch Literatur, die diese Erkrankung direkt untersuchen (Evidenzniveau L5).
+Nebivolol ist in der Schweiz als Betablocker zugelassen. Für die maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) liegt eine rein rechnerische Vorhersage vor. Dafür gibt es weder klinische Studien noch Literatur; die Evidenz entspricht daher Niveau L5.
 
 ---
 
@@ -50,7 +50,7 @@ Nebivolol ist in der Schweiz als Beta-Rezeptorenblocker zugelassen. Es gibt daf�
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Beta-Rezeptorenblocker |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9942 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
@@ -61,23 +61,21 @@ Nebivolol ist in der Schweiz als Beta-Rezeptorenblocker zugelassen. Es gibt daf�
 
 ### Warum ist diese Vorhersage plausibel?
 
-Nebivolol ist ein hochselektiver β1-Blocker, der zusätzlich eine gefässerweiternde Wirkung über Stickstoffmonoxid (NO) hat. Die Angaben zum Wirkmechanismus sind in den vorliegenden Daten nicht erfasst; die Beschreibung stützt sich auf die allgemein bekannten pharmakologischen Eigenschaften der Substanz. Eine blutdrucksenkende Wirkung ist daher grundsätzlich denkbar.
+Nebivolol blockiert selektiv Beta-1-Rezeptoren und fördert zusätzlich über Stickstoffmonoxid (NO) die Erweiterung der Blutgefässe. Dieser Mechanismus ist für schwere Bluthochdruckformen mit Nierenbeteiligung biologisch denkbar. Die Angaben zum Wirkmechanismus in den lokalen Daten sind allerdings lückenhaft.
 
-Die vorhergesagte Erkrankung ist ein hypertensiver Notfall, der wesentlich durch die Aktivierung des Renin-Angiotensin-Systems getrieben wird. Betablocker gelten dabei in der Regel nicht als Mittel der ersten Wahl. Ein spezifischer Nutzen von Nebivolol ist durch die vorliegenden Daten nicht belegt.
-
-Der Vorhersagewert ist ein reines Modellergebnis. Er ersetzt keine klinische Evidenz.
+Der hohe Vorhersagewert könnte lediglich die bereits bekannte blutdrucksenkende Anwendung widerspiegeln und nicht ein neues Umwidmungssignal. Die maligne Hypertonie ist zudem ein akuter Notfall, der meist mit intravenösen Wirkstoffen behandelt wird. Ein orales Nebivolol ist dafür keine Standardoption.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -99,14 +97,14 @@ Derzeit keine verwandte Literatur verfügbar.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation liegen weder klinische Studien noch Literatur vor; der Vorhersagewert beruht allein auf einem Modell.
-- Die Erkrankung ist ein hypertensiver Notfall, der meist eine titrierbare parenterale Therapie erfordert, während Nebivolol ein oraler Wirkstoff ist.
+- Für die vorhergesagte Indikation gibt es keine klinischen Studien und keine Literatur. Die Vorhersage allein reicht nicht aus.
+- Die Behandlung der malignen Hypertonie erfolgt in der Regel intravenös, und der Vorhersagewert könnte die bereits bekannte Blutdruckwirkung abbilden.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Studien, die Nebivolol direkt bei maligner renovaskulärer Hypertonie untersuchen
-- Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen (in den vorliegenden Daten fehlen diese Angaben)
-- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Klärung der Eignung der Darreichungsform (Tabletten) für diese Notfallsituation
+- Klinische oder präklinische Daten, die Nebivolol direkt bei maligner hypertensiver Nierenerkrankung untersuchen
+- Die Warnhinweise und Kontraindikationen aus der Fachinformation (Swissmedic), die in den lokalen Daten fehlen und für eine Sicherheitsbewertung nötig sind
+- Angaben zum Wirkmechanismus aus einer ergänzenden Quelle (z. B. DrugBank)
+- Eine Klärung, ob eine orale Therapie in diesem akuten Krankheitsbild überhaupt sinnvoll ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

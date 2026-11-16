@@ -9,7 +9,7 @@ drugbank_id: DB06201
 monitor_inn: "Rufinamide"
 predicted_indications: ["perioral myoclonia with absences"]
 last_modified_at: 2026-11-16
-description: "Rufinamidum: vorhergesagte neue Indikation Perioral myoclonia with absences (Evidenzstufe L5). Ursprüngliche Indikation: Zusatztherapie zur Behandlung von Anfällen bei Lennox-Gastaut-Syndrom…"
+description: "Rufinamidum: vorhergesagte neue Indikation Perioraler Myoklonus mit Absenzen (perioral myoclonia with absences) (Evidenzstufe L5)."
 ---
 
 # Rufinamidum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Rufinamidum: Perioral myoclonia with absences
+## Rufinamidum: Perioraler Myoklonus mit Absenzen (perioral myoclonia with absences)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Rufinamid ist ein in der Schweiz im Handel befindliches Antiepileptikum. Vorhergesagt wird eine mögliche Wirksamkeit beim febrilen Infektions-bedingten Epilepsiesyndrom (febrile infection-related epilepsy syndrome, FIRES). Diese Vorhersage beruht ausschliesslich auf einem Modellwert; es liegen weder klinische Studien noch Publikationen dazu vor (Evidenzniveau L5).
+Rufinamid ist ein Antiepileptikum, das in der Schweiz als Zusatztherapie bei Anfällen im Rahmen des Lennox-Gastaut-Syndroms zugelassen ist. Die Vorhersage nennt als neue Indikation den perioralen Myoklonus mit Absenzen (perioral myoclonia with absences), eine seltene genetische generalisierte Epilepsieform. Die Vorhersage stützt sich ausschliesslich auf eine Modellberechnung; für diese Erkrankung liegen weder klinische Studien noch Literatur vor.
 
 ---
 
@@ -50,7 +48,7 @@ Rufinamid ist ein in der Schweiz im Handel befindliches Antiepileptikum. Vorherg
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Zusatztherapie zur Behandlung von Anfällen bei Lennox-Gastaut-Syndrom bei Patienten ab dem 1. Lebensjahr |
-| Vorhergesagte neue Indikation | Perioral myoclonia with absences |
+| Vorhergesagte neue Indikation | Perioraler Myoklonus mit Absenzen (perioral myoclonia with absences) |
 | TxGNN-Vorhersagewert | 0.9951 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,23 +59,11 @@ Rufinamid ist ein in der Schweiz im Handel befindliches Antiepileptikum. Vorherg
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rufinamid wird allgemein so beschrieben, dass es spannungsabhängige Natriumkanäle länger im inaktiven Zustand hält und so die Anfallsbereitschaft senkt. Die Angabe zum Wirkmechanismus fehlt in den zusammengestellten Daten und ist daher durch diese nicht bestätigt.
+Rufinamid wirkt als Modulator spannungsabhängiger Natriumkanäle: Es verlängert deren inaktiven Zustand und dämpft dadurch die übermässige neuronale Erregung. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den zusammengestellten Daten; die Beschreibung stützt sich auf die Mechanismus-Begründung der Vorhersage.
 
-Ein solcher Mechanismus ist für therapieresistente Anfälle grundsätzlich nachvollziehbar. Beim febrilen Infektions-bedingten Epilepsiesyndrom ist die Lage jedoch schwierig: Man geht davon aus, dass es wesentlich durch Neuroinflammation getrieben wird, und Natriumkanalblocker gelten dabei allgemein als wenig wirksam. Die Plausibilität ist daher begrenzt und rein hypothetisch.
+Der perioraler Myoklonus mit Absenzen gehört zu den generalisierten Epilepsien. Eine antikonvulsive Wirkung von Rufinamid könnte daher grundsätzlich relevant sein. Das ist jedoch eine theoretische Überlegung ohne belegende Studien.
 
-Für weitere Schritte wären eine systematische Literaturrecherche und eine klar definierte Hypothese nötig, zum Beispiel eine Fallserie bei therapieresistentem Status epilepticus.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Es gibt zudem einen Gegenpunkt: Natriumkanalblocker können manche generalisierte Epilepsien mit Absenzen oder myoklonischen Anfällen verschlechtern. Die Wirkrichtung ist daher unklar, und die Sicherheit muss vor jeder weiteren Verfolgung geprüft werden. Der hohe Vorhersagewert ist eine rechnerische Vorhersage und kein klinischer Beleg.
 
 ---
 
@@ -95,13 +81,15 @@ Derzeit keine verwandte Literatur verfügbar
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage (0,9957) stützt sich allein auf das Modell. Es gibt keine Studien oder Publikationen, und der vermutete neuroinflammatorische Krankheitsmechanismus spricht eher gegen die Wirksamkeit von Natriumkanalblockern.
+- Für die vorhergesagte Indikation liegen keine klinischen Studien und keine Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+- Natriumkanalblocker können bestimmte generalisierte Epilepsien verschlimmern, sodass die Wirkrichtung unsicher ist. Zudem fehlen Sicherheitsangaben aus der Fachinformation.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Systematische Literaturrecherche zu Rufinamid beim febrilen Infektions-bedingten Epilepsiesyndrom
-- Klar definierte Hypothese, z. B. eine Fallserie bei therapieresistentem Status epilepticus
-- Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
-- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) für die Sicherheitsbewertung
+- Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen)
+- Ergänzung des Wirkmechanismus aus DrugBank
+- Recherche zu Fallberichten oder Studien zu Rufinamid beim perioralen Myoklonus mit Absenzen
+- Fachliche Bewertung des Risikos einer Anfallsverschlechterung durch Natriumkanalmodulation
+- Prüfung der Darreichungsformen und Applikationswege für die neue Indikation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

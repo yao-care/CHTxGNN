@@ -39,13 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Celecoxib ist ein selektiver COX-2-Hemmer, der in der Schweiz von mehreren Anbietern vertrieben wird. Das Modell sagt eine mögliche Wirksamkeit bei der Akromesomelen Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) voraus, einer seltenen genetischen Skelettfehlbildung. Dafür gibt es weder klinische Studien noch Publikationen, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Celecoxib ist ein selektiver COX-2-Hemmer, der in der Schweiz im Handel ist. Für die akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch keine klinischen Studien und keine Literatur; die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -59,53 +59,61 @@ Celecoxib ist ein selektiver COX-2-Hemmer, der in der Schweiz von mehreren Anbie
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Celecoxib hemmt selektiv das Enzym Cyclooxygenase-2 (COX-2) und senkt so die Bildung entzündungs- und schmerzfördernder Prostaglandine. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Zum Wirkmechanismus von Celecoxib liegen in den zusammengestellten Daten keine Angaben vor. Aus den Zulassungsdaten geht hervor, dass es sich um einen selektiven COX-2-Hemmer handelt, der die Bildung von Prostaglandinen beeinflusst.
 
-Die Akromesomele Dysplasie Typ Hunter-Thompson ist eine seltene erbliche Skelettentwicklungsstörung. Ursache ist ein Funktionsverlust im Gen für CDMP1 (GDF5), also ein Defekt in der Knorpel- und Knochenbildung. Das ist keine entzündliche Erkrankung.
+Die akromesomele Dysplasie Typ Hunter-Thompson ist eine seltene Skeletterkrankung. Sie wird durch Funktionsverlust-Mutationen im Gen CDMP1/GDF5 verursacht, einem genetischen Defekt im BMP-Signalweg und in der Knorpelbildung. Ein plausibler biologischer Zusammenhang zwischen der COX-2-Hemmung und dem GDF5-Signalweg ist nicht erkennbar.
 
-Ein glaubwürdiger Zusammenhang zwischen COX-2-Hemmung und diesem Gendefekt ist nicht erkennbar. Die COX-2-Hemmung greift nicht an der Ursache an. Der hohe Vorhersagewert ist deshalb nicht durch klinische oder mechanistische Hinweise gestützt und mit grosser Vorsicht zu interpretieren.
-
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Der hohe Vorhersagewert beruht vermutlich auf Ähnlichkeiten im Datenmodell, etwa gemeinsamen Begriffen für Skelett- und Muskelmerkmale, und nicht auf einer biologischen Begründung. Die Vorhersage sollte daher als rein rechnerisch betrachtet werden.
 
 ---
 
-## Literaturbelege
+### Klinische Studien
 
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-## Marktinformationen Schweiz
-
-Celecoxib ist in der Schweiz im Handel. In den lokalen Daten sind 7 gültige Einzelpräparate-Zulassungen aufgeführt (Hartkapseln bzw. Kapseln zu 100 mg), unter anderem von Sandoz, Viatris, Helvepharm (Zentiva), Mepha, Spirig HealthCare und axapharm. Diese Liste kann unvollständig sein.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Sicherheitshinweise
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
+
+---
+
+### Marktinformationen Schweiz
+
+Es sind mindestens 7 Zulassungen erfasst. Die Liste kann unvollständig sein.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 62936 | Celecoxib Sandoz 100 mg, Hartkapseln | Synthetika | Selektiver COX-2-Hemmer |
+| 65095 | Celecoxib Viatris 100 mg, Hartkapseln | Synthetika | Selektiver COX-2-Hemmer |
+| 63184 | Celecoxib Zentiva 100 mg, Hartkapseln | Synthetika | Selektiver COX-2-Hemmer |
+| 63126 | Celecoxib-Mepha 100 mg, Kapseln | Synthetika | Selektiver COX-2-Hemmer |
+| 63220 | Celecoxib Spirig HC 100 mg, Hartkapseln | Synthetika | Selektiver COX-2-Hemmer |
+| 68029 | Celecoxib axapharm 100 mg, Hartkapseln | Synthetika | Selektiver COX-2-Hemmer |
+| 69355 | Celecoxib-Mepha Teva 100 mg, Hartkapseln | Synthetika | Selektiver COX-2-Hemmer |
+
+---
+
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch Publikationen zu dieser Erkrankung, und ein plausibler Wirkmechanismus fehlt, da die COX-2-Hemmung den zugrunde liegenden genetischen Defekt nicht beeinflusst.
-- Der hohe Vorhersagewert allein rechtfertigt keine weitere Verfolgung.
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, und ein biologischer Zusammenhang zwischen COX-2-Hemmung und dem GDF5-Signalweg ist nicht erkennbar. Der Vorhersagewert allein reicht für eine Weiterverfolgung nicht aus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein biologisch nachvollziehbarer Zusammenhang zwischen COX-2-Hemmung und dem GDF5/CDMP1-Defekt, etwa aus präklinischen Studien.
-- Klinische oder präklinische Daten, die einen Nutzen von Celecoxib bei dieser Erkrankung zeigen.
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation.
-- Vollständige Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
+- Präklinische oder mechanistische Daten, die einen Zusammenhang zwischen Celecoxib und dem GDF5-/BMP-Signalweg belegen
+- Sicherheitsinformationen aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
+- Angaben zum Wirkmechanismus aus einer weiteren Arzneimittelquelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

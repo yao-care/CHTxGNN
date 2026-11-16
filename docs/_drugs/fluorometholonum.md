@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Fluorometholon ist ein Kortikosteroid, das als Augentropfen eingesetzt wird. Die Berechnung sagt eine mögliche Wirksamkeit bei postinfektiöser Vaskulitis (postinfectious vasculitis) voraus. Diese Vorhersage beruht allein auf einem Modell; es gibt keine klinischen Studien und keine Literatur, die sie stützen.
+Fluorometholon ist ein Kortikosteroid in Form von Augentropfen. Für die Hauptvorhersage, die postinfektiöse Vaskulitis (postinfectious vasculitis), liegen weder klinische Studien noch Publikationen vor. Die Vorhersage beruht allein auf dem Rechenmodell und gehört damit zum Evidenzniveau L5.
 
 ---
 
@@ -59,11 +59,9 @@ Fluorometholon ist ein Kortikosteroid, das als Augentropfen eingesetzt wird. Die
 
 ### Warum ist diese Vorhersage plausibel?
 
-Fluorometholon gehört zu den Kortikosteroiden und wirkt entzündungshemmend und das Immunsystem dämpfend. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor.
+Fluorometholon ist ein Kortikosteroid mit entzündungshemmender und immunsuppressiver Wirkung. Der genaue Wirkmechanismus ist in den vorliegenden Daten nicht hinterlegt.
 
-Bei einer postinfektiösen Vaskulitis richtet sich die Immunantwort nach einer Infektion gegen Blutgefässe. Ein entzündungshemmender und immundämpfender Wirkstoff könnte hier theoretisch ansetzen.
-
-Die Plausibilität ist jedoch begrenzt. Fluorometholon wird als Augentropfen angewendet und gelangt kaum in den Blutkreislauf. Für diese Anwendung fehlen Studien und Publikationen. Die Verbindung beruht allein auf der Modellvorhersage.
+Systemische Kortikosteroide werden bei immunvermittelten Vaskulitiden eingesetzt. Fluorometholon wird jedoch am Auge angewendet und gelangt kaum in den Blutkreislauf. Eine ausreichende Wirkung auf eine systemische Gefässentzündung ist deshalb nicht zu erwarten. Der Zusammenhang ist eine reine Modellvorhersage. Studien oder Literatur, die ihn stützen, liegen nicht vor.
 
 ---
 
@@ -86,13 +84,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation liegen weder klinische Studien noch Literatur vor (Evidenzniveau L5). Zudem ist die systemische Aufnahme eines Augentropfens sehr gering, was die Anwendung bei einer Gefässentzündung zusätzlich in Frage stellt.
+- Für die postinfektiöse Vaskulitis gibt es keine Studien und keine Literatur. Zudem ist die systemische Aufnahme eines Augenpräparats minimal, sodass ein plausibler Weg zum Wirkort fehlt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation zu Warnhinweisen und Gegenanzeigen
-- Angaben zum Wirkmechanismus des Arzneimittels
-- Präklinische oder klinische Daten, die die Wirkung bei postinfektiöser Vaskulitis belegen
-- Prüfung, ob eine geeignete Darreichungsform und Anwendungsart für diese Erkrankung möglich ist
+- Daten zum Wirkmechanismus des Arzneimittels
+- Klinische Studien oder Fachliteratur, die Fluorometholon direkt bei dieser Erkrankung untersuchen
+- Eine Prüfung, ob die Darreichungsform und der Anwendungsweg für die Erkrankung geeignet sind
+- Die Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

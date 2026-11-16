@@ -9,7 +9,7 @@ drugbank_id: DB00448
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-16
-description: "Lansoprazolum: vorhergesagte neue Indikation Duodenal obstruction (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
+description: "Lansoprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
 ---
 
 # Lansoprazolum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Lansoprazolum: Duodenal obstruction
+## Lansoprazolum: Duodenalobstruktion (duodenal obstruction)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Lansoprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. Das Modell sagt voraus, dass er bei duodenogastralem Reflux (duodenogastric reflux) wirksam sein könnte. Die Evidenz dafür ist sehr dünn: Es gibt keine klinischen Studien und nur eine allgemeine Übersichtsarbeit zu Protonenpumpenhemmern, die diese Erkrankung nicht gezielt untersucht.
+Lansoprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. Für die Vorhersage einer Duodenalobstruktion (duodenal obstruction) liegt derzeit nur ein Rechenmodell-Ergebnis vor, jedoch keine klinische Studie und keine Publikation. Die Evidenz ist daher sehr schwach (Niveau L5).
 
 ---
 
@@ -48,7 +48,7 @@ Lansoprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. D
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Protonenpumpenhemmer; peptisches Ulcus, gastroösophageale Refluxkrankheit |
-| Vorhergesagte neue Indikation | Duodenal obstruction |
+| Vorhergesagte neue Indikation | Duodenalobstruktion (duodenal obstruction) |
 | TxGNN-Vorhersagewert | 0.9968 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
@@ -59,31 +59,29 @@ Lansoprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. D
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lansoprazol hemmt die Protonenpumpe der Belegzellen im Magen und senkt dadurch die Säureproduktion. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine näheren Angaben vor.
+Lansoprazol hemmt die Protonenpumpe der Magenschleimhaut und senkt dadurch die Säuremenge im Magen und Zwölffingerdarm. Der genaue Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt; die Angabe beruht auf allgemeinem pharmakologischem Wissen.
 
-Beim duodenogastralen Reflux fliessen Galle und Duodenalinhalt in den Magen zurück. Zusammen mit der Magensäure können sie die Schleimhaut schädigen und Beschwerden auslösen. Eine Säurehemmung könnte Symptome lindern und säurebedingte Schleimhautschäden verringern.
+Theoretisch könnte weniger Säure säurebedingte Schleimhautschäden, Entzündung und Schwellung im Zwölffingerdarm vermindern. Diese tragen manchmal zu Engstellen oder geschwürsbedingten Verlegungen bei. Das ist eine allgemeine Überlegung und kein Nachweis eines Nutzens.
 
-Der Zusammenhang ist jedoch nur indirekt. Lansoprazol bindet keine Gallensäuren und behebt keine Funktionsstörung des Magenausgangs oder der Motilität. Der hohe Vorhersagewert ist eine reine Modellberechnung und kein klinischer Beleg.
+Eine Duodenalobstruktion ist meist mechanisch bedingt, etwa durch Tumor, Pancreas anulare oder narbige Verengung, und wird endoskopisch oder chirurgisch behandelt. Säurehemmung könnte höchstens unterstützend wirken. Der hohe Vorhersagewert ist ein reines Rechenergebnis und kein klinischer Beleg. Er könnte die Nähe zu säurebedingten Erkrankungen des Zwölffingerdarms widerspiegeln.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
 ### Literaturbelege
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Übersichtsarbeit | European Journal of Clinical Pharmacology | Allgemeine Übersicht zu klinischem Einsatz und Pharmakokinetik von Protonenpumpenhemmern (u. a. Magengeschwür, H.-pylori-Infektion, Refluxkrankheit, NSAR-bedingte Schäden, Zollinger-Ellison-Syndrom). Duodenogastraler Reflux wird nicht gezielt untersucht. |
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 3 Zulassungen erfasst.
+Mindestens 3 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle drei aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -104,13 +102,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist hoch, aber es gibt keine Studie, die diese Erkrankung direkt untersucht. Der Wirkmechanismus (Säurehemmung) behandelt die eigentliche Ursache des Rückflusses nicht.
+- Es gibt weder klinische Studien noch Publikationen zur Duodenalobstruktion. Die Vorhersage stützt sich allein auf ein Rechenmodell, und die Erkrankung ist meist mechanisch bedingt, sodass Säurehemmung höchstens eine Zusatzrolle spielen könnte.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Fallserien zu Lansoprazol bei duodenogastralem Reflux
-- Angaben zu Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus (z. B. aus DrugBank)
-- Prüfung der Anwendbarkeit der Darreichungsform und der Dosierung für diese Erkrankung
+- Klinische Studien oder Publikationen, die Lansoprazol direkt bei Duodenalobstruktion untersuchen
+- Der dokumentierte Wirkmechanismus des Arzneimittels
+- Warn- und Kontraindikationshinweise aus der Swissmedic-Fachinformation
+- Eine Prüfung, ob Säurehemmung bei dieser überwiegend mechanischen Erkrankung klinisch sinnvoll ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

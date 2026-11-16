@@ -9,7 +9,7 @@ drugbank_id: DB01009
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 last_modified_at: 2026-11-16
-description: "Ketoprofenum: vorhergesagte neue Indikation Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
+description: "Ketoprofenum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
 ---
 
 # Ketoprofenum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Ketoprofenum: Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
+## Ketoprofenum: Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Ketoprofen ist in der Schweiz als Gel mit entzündungshemmender und antirheumatischer Wirkung zugelassen. Für die Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type), eine seltene Skelettfehlbildung, sagt das Modell eine mögliche Wirksamkeit voraus. Diese Vorhersage beruht allein auf dem Modellwert; es liegen weder klinische Studien noch Publikationen vor.
+Ketoprofen ist ein entzündungshemmendes und schmerzlinderndes Arzneimittel aus der Gruppe der nichtsteroidalen Antirheumatika. Das Vorhersagemodell TxGNN schlägt als neue Indikation die akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) vor, eine seltene genetische Skeletterkrankung. Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +50,7 @@ Ketoprofen ist in der Schweiz als Gel mit entzündungshemmender und antirheumati
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antiphlogistikum, Antirheumatikum |
-| Vorhergesagte neue Indikation | Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Vorhergesagte neue Indikation | Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN-Vorhersagewert | 0.9998 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,11 +61,11 @@ Ketoprofen ist in der Schweiz als Gel mit entzündungshemmender und antirheumati
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage ist nach aktuellem Stand **nicht plausibel begründbar**. Zum Wirkmechanismus von Ketoprofen liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist allgemein, dass Ketoprofen die Cyclooxygenase (COX) hemmt und damit die Bildung von Prostaglandinen verringert.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Ketoprofen die Cyclooxygenasen COX-1 und COX-2 hemmt und dadurch Schmerzen und Entzündungen lindert.
 
-Die Akromesomele Dysplasie, Typ Hunter-Thompson, ist eine seltene Skelettdysplasie. Sie wird durch Funktionsverlust-Varianten im GDF5-Gen verursacht, das den BMP-Signalweg betrifft. Ein entzündlicher Mechanismus, den ein COX-Hemmer beeinflussen könnte, ist nicht erkennbar. Allenfalls könnte ein NSAR muskuloskelettale Schmerzen lindern, eine krankheitsmodifizierende Wirkung ist daraus aber nicht abzuleiten.
+Die akromesomele Dysplasie Typ Hunter-Thompson ist eine genetische Skeletterkrankung. Sie hängt mit Funktionsverlust-Mutationen im Gen CDMP1/GDF5 zusammen, das die Knorpelbildung steuert. Die COX-Hemmung greift in diesen Signalweg nicht ein.
 
-Der sehr hohe Vorhersagewert ist ein reines Modellergebnis und ersetzt keine klinische Evidenz.
+Ein belegter mechanistischer Zusammenhang besteht daher nicht. Der sehr hohe Vorhersagewert ist ein reines Modellergebnis und wird durch keine Studie gestützt. Die Vorhersage sollte deshalb als Hypothese verstanden werden, nicht als Hinweis auf eine Wirksamkeit.
 
 ---
 
@@ -75,17 +77,24 @@ Der sehr hohe Vorhersagewert ist ein reines Modellergebnis und ersetzt keine kli
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine klinischen Studien und keine Literatur zur vorhergesagten Erkrankung, und ein glaubwürdiger Wirkmechanismus fehlt. Das Evidenzniveau ist daher L5.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell, es gibt keine klinischen Studien, keine Literatur und keinen plausiblen Wirkmechanismus für diese Erkrankung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Belege aus Studien oder Publikationen, die Ketoprofen bei dieser Erkrankung untersuchen
-- Angaben zum Wirkmechanismus von Ketoprofen
-- Sicherheitsinformationen aus der Fachinformation (Warnhinweise und Kontraindikationen), da diese in den Daten fehlen; bitte die Fachinformation beachten
+- Ein belegter biologischer Zusammenhang zwischen COX-Hemmung und dem GDF5-Signalweg, etwa durch präklinische Studien
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Der Wirkmechanismus aus DrugBank
+- Die Prüfung, ob die topische Darreichungsform (Gel) für die Zielerkrankung überhaupt geeignet ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

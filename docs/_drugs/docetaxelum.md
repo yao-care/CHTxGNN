@@ -3,19 +3,19 @@ layout: default
 title: Docetaxelum
 parent: Hohe Evidenz (L1-L2)
 nav_order: 198
-evidence_level: L1
+evidence_level: L2
 indication_count: 7
 drugbank_id: DB01248
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 last_modified_at: 2026-11-16
-description: "Docetaxelum: vorhergesagte neue Indikation Ewing sarcoma (Evidenzstufe L1). Ursprüngliche Indikation: Zytostatikum"
+description: "Docetaxelum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 
 # Docetaxelum
 {: .fs-9 }
 
-Evidenzniveau: **L1** | Vorhergesagte Indikationen: **7** 
+Evidenzniveau: **L2** | Vorhergesagte Indikationen: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,14 +34,14 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Docetaxelum: Ewing sarcoma
+## Docetaxelum: Ewing-Sarkom (Ewing sarcoma)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Docetaxel ist ein Zytostatikum aus der Gruppe der Taxane. In den lokalen Zulassungsdaten ist es nur als Zytostatikum eingestuft. Die Evidenz ist umfangreich: Es liegen mehrere abgeschlossene Phase-3-Studien mit Docetaxel-haltigen Therapien bei Brustkrebs vor (Evidenzniveau L1). Docetaxel wirkt in vielen dieser Studien jedoch nur als Teil einer Kombination.
+Docetaxel ist ein zytostatisch wirkendes Taxan, das in der Schweiz im Handel ist. Das Modell sagt für das Ewing-Sarkom (Ewing sarcoma) einen möglichen Nutzen voraus. Dafür gibt es direkte klinische Daten: mehrere Phase-II-Studien, allein und in Kombination. Sie zeigen aber höchstens eine bescheidene Wirkung.
 
 ---
 
@@ -50,9 +50,9 @@ Docetaxel ist ein Zytostatikum aus der Gruppe der Taxane. In den lokalen Zulassu
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Zytostatikum; Cytostatique |
-| Vorhergesagte neue Indikation | Ewing sarcoma |
+| Vorhergesagte neue Indikation | Ewing-Sarkom (Ewing sarcoma) |
 | TxGNN-Vorhersagewert | 0.9990 |
-| Evidenzniveau | L1 |
+| Evidenzniveau | L2 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
@@ -61,30 +61,26 @@ Docetaxel ist ein Zytostatikum aus der Gruppe der Taxane. In den lokalen Zulassu
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Angabe zum Wirkmechanismus fehlt in den zusammengestellten Daten. Gemäss der vorliegenden Literatur ist Docetaxel ein Taxan, das die Mikrotubuli der Zellen stabilisiert. Dadurch werden Zellteilung (Mitose) und Zellwachstum blockiert, und es kommt zum Zelltod. Besonders empfindlich reagieren schnell wachsende Tumorzellen.
+Docetaxel stabilisiert die Mikrotubuli der Zelle. Dadurch fördert es die Tubulin-Polymerisation und blockiert die Zellteilung in der Mitose. Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Die Beschreibung stützt sich auf die allgemein bekannte Pharmakologie der Taxane.
 
-Brustkrebs ist ein solider Tumor, der auf viele zytostatische Substanzen anspricht. Mehrere Übersichtsarbeiten beschreiben Taxane wie Docetaxel als gut belegte Bestandteile der Therapie bei fortgeschrittenem Brustkrebs. Der Wirkmechanismus passt also direkt zu dieser Erkrankung.
+Das Ewing-Sarkom ist ein schnell wachsender Knochen- und Weichteiltumor, der vor allem Kinder, Jugendliche und junge Erwachsene betrifft. Bei Rückfall oder fehlendem Ansprechen auf die Standardchemotherapie ist die Prognose schlecht. Ein Wirkstoff, der sich teilende Zellen gezielt in der Mitose stoppt, ist deshalb grundsätzlich sinnvoll.
 
-Die Vorhersage bestätigt damit vor allem eine bereits klinisch gut untersuchte Anwendung und ist weniger eine echte Neuentdeckung. Entsprechend gross ist die Zahl der registrierten Studien (nach den zusammengestellten Daten 44).
+Docetaxel wurde bei dieser Erkrankung bereits direkt geprüft, allein und mit Gemcitabin oder Irinotecan. Der sehr hohe Vorhersagewert ist daher durch klinische Testung gestützt, nicht aber durch einen klar belegten Wirksamkeitsnachweis.
 
 ---
 
 ### Klinische Studien
 
-Die Tabelle zeigt die 10 relevantesten Studien. Ergebnisdaten liegen in den zusammengestellten Daten nicht vor, daher sind nur Studiendesign und Fragestellung zusammengefasst.
-
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00003782](https://clinicaltrials.gov/study/NCT00003782) | Phase 3 | Abgeschlossen | 5351 | Adjuvanter Vergleich von AC-T, AT und ATC (Adriamycin, Cyclophosphamid, Taxotere) bei Brustkrebs mit befallenen Achsellymphknoten; keine Ergebnisse vorliegend |
-| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | Phase 3 | Abgeschlossen | 2778 | Adjuvanter Vergleich Adriamycin/Taxotere gegen Adriamycin/Cyclophosphamid bei Brustkrebs mit Lymphknotenbefall oder hohem Risiko; keine Ergebnisse vorliegend |
-| [NCT00004125](https://clinicaltrials.gov/study/NCT00004125) | Phase 3 | Abgeschlossen | k. A. | Doxorubicin-Cyclophosphamid, danach Paclitaxel oder Docetaxel wöchentlich bzw. alle 3 Wochen bei Lymphknotenbefall; keine Ergebnisse vorliegend |
-| [NCT00431080](https://clinicaltrials.gov/study/NCT00431080) | Phase 3 | Abgeschlossen | 478 | Dosisverdichtete adjuvante Chemotherapie (FE75C), danach Docetaxel oder Paclitaxel, mit G-CSF-Unterstützung; keine Ergebnisse vorliegend |
-| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Phase 3 | Unbekannt | 1206 | Neoadjuvante Therapie: Wirkung von Capecitabin oder Gemcitabin zusätzlich zu Docetaxel vor AC auf die pathologische Komplettremission |
-| [NCT00006120](https://clinicaltrials.gov/study/NCT00006120) | Phase 2 | Unbekannt | k. A. | Randomisierter Vergleich zweier Schemata von Docetaxel oder Paclitaxel bei metastasiertem Brustkrebs |
-| [NCT00398489](https://clinicaltrials.gov/study/NCT00398489) | Phase 2 | Unbekannt | 94 | Präoperatives Docetaxel mit Trastuzumab (Teil A) bzw. allein (Teil B), nach HER2-Status; Endpunkt ist die Ansprechrate |
-| [NCT00841828](https://clinicaltrials.gov/study/NCT00841828) | Phase 2 | Abgeschlossen | 102 | Randomisierter Vergleich Epirubicin/Cyclophosphamid plus Docetaxel/Trastuzumab gegen Docetaxel/Lapatinib bei HER2-positivem Brustkrebs |
-| [NCT00015886](https://clinicaltrials.gov/study/NCT00015886) | Phase 2 | Abgeschlossen | 25 | Docetaxel plus 5-Fluorouracil als Zweit- oder Drittlinientherapie bei metastasiertem Brustkrebs; kleine Studie ohne Vergleichsarm |
-| [NCT02502864](https://clinicaltrials.gov/study/NCT02502864) | Phase 4 | Abgeschlossen | 9 | Anpassung der Docetaxel-Dosis anhand von Blutspiegeln bei älteren Patientinnen unter Docetaxel/Cyclophosphamid, um Nebenwirkungen zu verringern |
+| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Phase 2 | Abgeschlossen | 54 | Gemcitabin gefolgt von Docetaxel bei rezidiviertem Ewing-Sarkom, Osteosarkom oder Chondrosarkom. Das ist die direkteste Studie zur Zielerkrankung. Ergebnisse sind in den vorliegenden Daten nicht berichtet. |
+| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Phase 2 | Abgeschlossen | 98 | ADI-PEG 20 plus Gemcitabin und Docetaxel bei Sarkomen, darunter Ewing-Sarkom. Der Beitrag von Docetaxel lässt sich in der Kombination nicht isolieren. |
+| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Phase 2 | Abgeschlossen | 20 | Docetaxel allein bei Kindern mit rezidivierenden soliden Tumoren, darunter Ewing-Sarkom. Gemischte Population und kleine Stichprobe. |
+| [NCT00014456](https://clinicaltrials.gov/study/NCT00014456) | Phase 1 | Abgeschlossen | 35 | Dosissteigerung von Docetaxel, Gemcitabin und Filgrastim bei fortgeschrittenen soliden Tumoren. Liefert Sicherheits- und Dosierungsdaten. |
+| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Phase 2 | Abgeschlossen | 22 | Metastasiertes Ewing-Sarkom: Vigil-Immuntherapie gegenüber Gemcitabin plus Docetaxel (Gesamtüberleben). Docetaxel steht nicht im Zentrum der Prüfung. |
+| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Phase 2 | Zurückgezogen | 0 | 9-ING-41 mit Gemcitabin/Docetaxel bei fortgeschrittenen Sarkomen. Keine Daten. |
+| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Phase 2 | Zurückgezogen | 0 | BIO-11006 zusätzlich zu Gemcitabin/Docetaxel bei Osteosarkom und Ewing-Sarkom mit Lungenmetastasen. Keine Daten. |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Phase 1 | Abgeschlossen | 26 | Pharmakokinetik von Thalidomid plus Docetaxel bei verschiedenen fortgeschrittenen Tumoren. Kaum erkrankungsspezifische Aussagen. |
 
 ---
 
@@ -92,14 +88,21 @@ Die Tabelle zeigt die 10 relevantesten Studien. Ergebnisdaten liegen in den zusa
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | RCT (Phase-3-Programm) | Journal of Clinical Oncology | Docetaxel/Cyclophosphamid (TC) wurde in drei adjuvanten Studien mit anthrazyklinhaltigen Taxan-Schemata verglichen |
-| [10791395](https://pubmed.ncbi.nlm.nih.gov/10791395/) | 2000 | Übersichtsarbeit | Lancet | Paclitaxel und Docetaxel sind anerkannte, evidenzbasierte Bestandteile der Therapie bei fortgeschrittenem Brust-, Lungen- und Eierstockkrebs |
-| [25532690](https://pubmed.ncbi.nlm.nih.gov/25532690/) | 2014 | Übersichtsarbeit | Bulletin du cancer | Pertuzumab zusätzlich zu Docetaxel und Trastuzumab verbesserte das Gesamtüberleben bei HER2-positivem metastasiertem Brustkrebs deutlich |
-| [15892043](https://pubmed.ncbi.nlm.nih.gov/15892043/) | 2005 | Kosten-Nutzen-Analyse | Cancer | Capecitabin plus Docetaxel verlängerte das Gesamtüberleben gegenüber Docetaxel allein nach Anthrazyklin-Vorbehandlung |
-| [10898354](https://pubmed.ncbi.nlm.nih.gov/10898354/) | 2000 | Übersichtsarbeit | Cancer | Überblick über die Entwicklung der Chemotherapie bei Brustkrebs |
-| [19856651](https://pubmed.ncbi.nlm.nih.gov/19856651/) | 2009 | Dosisfindungsstudie | Tumori | Docetaxel plus Gemcitabin bei metastasiertem Brustkrebs nach Anthrazyklin-Vorbehandlung |
-| [33432555](https://pubmed.ncbi.nlm.nih.gov/33432555/) | 2021 | Retrospektive Kohortenstudie | Turk Patoloji Dergisi | Behandlungsergebnisse bei dreifach-negativem Brustkrebs; niedrig dosiertes Capecitabin und Docetaxel werden als wirksame Substanzen genannt |
-| [30991918](https://pubmed.ncbi.nlm.nih.gov/30991918/) | 2019 | Präklinisch | Therapeutic Delivery | Nanopartikel mit Docetaxel und Alpha-Liponsäure wurden in Brustkrebs-Zelllinien untersucht |
+| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Phase-II-Studie | Sarcoma | Docetaxel bei Patienten mit rezidiviertem oder therapierefraktärem Ewing-Tumor (erste Ergebnisse bei 14 Patienten). |
+| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | Phase-II-Studie | BMC Cancer | Docetaxel plus Irinotecan bei Kindern und jungen Erwachsenen mit rezidivierter oder refraktärer Ewing-Sarkom-Familie. Die Kombination war dort zuvor nicht geprüft worden. |
+| [16532433](https://pubmed.ncbi.nlm.nih.gov/16532433/) | 2006 | Phase-II-Studie | Cancer | Children's Oncology Group: Ansprechraten und Verträglichkeit von Docetaxel bei rezidivierten soliden Tumoren im Kindesalter. |
+| [34496122](https://pubmed.ncbi.nlm.nih.gov/34496122/) | 2021 | Auswertung mehrerer Phase-II-Studien | Pediatric Blood & Cancer | 128 Patienten mit rezidiviertem Ewing-Sarkom, ereignisfreies Überleben nach 6 Monaten nur 12,7 %. Nur Docetaxel erreichte das im Protokoll festgelegte radiologische Ansprechen, das ereignisfreie Überleben glich jedoch dem anderer Substanzen. |
+| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Phase-II-Studie | British Journal of Cancer | GEIS-21: intensive Chemotherapie mit Gemcitabin und Docetaxel bei neu diagnostiziertem Hochrisiko-Ewing-Sarkom. |
+| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | Studie (Design nicht angegeben) | Cancer | Gemcitabin plus Docetaxel bei Kindern und jungen Erwachsenen mit refraktärem Knochensarkom. Geprüft wurden Toxizität und Wirksamkeit. |
+| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | Studie (Design nicht angegeben) | Pediatric Blood & Cancer | Gemcitabin plus Docetaxel (GEMDOX) bei rezidivierten und refraktären Sarkomen im Kindesalter. |
+| [28221727](https://pubmed.ncbi.nlm.nih.gov/28221727/) | 2017 | Erfahrungsbericht eines Zentrums | Pediatric Blood & Cancer | Docetaxel, Bevacizumab und Gemcitabin bei Sarkomen mit sehr hohem Risiko bei Jugendlichen und jungen Erwachsenen. |
+| [23478198](https://pubmed.ncbi.nlm.nih.gov/23478198/) | 2014 | Fallbericht mit Literaturübersicht | Journal of Oncology Pharmacy Practice | Palmar-plantare Erythrodysästhesie unter Docetaxel bei einem 28-Jährigen mit rezidiviertem Ewing-Sarkom. |
+
+---
+
+### Marktinformationen Schweiz
+
+Docetaxel ist in der Schweiz im Handel. Mindestens sieben Zulassungen von Einzelpräparaten sind gültig. Die vorliegende Liste ist möglicherweise unvollständig.
 
 ---
 
@@ -107,22 +110,17 @@ Die Tabelle zeigt die 10 relevantesten Studien. Ergebnisdaten liegen in den zusa
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Konventionell zytotoxisch (Taxan) |
-| Myelosuppressionsrisiko | Hoch (Neutropenie ist typisch; in Studien wird oft G-CSF unterstützend gegeben) |
+| Zytotoxizitätsklassifikation | Konventionell zytotoxisch |
+| Myelosuppressionsrisiko | Hoch |
 | Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leberfunktion (relevant für die Dosierung), Nierenfunktion |
-| Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich |
-
-Diese Einstufungen beruhen auf allgemeinem Fachwissen und sind nicht aus den lokalen Daten abgeleitet. Sie sollten anhand der Fachinformation überprüft werden.
+| Überwachungspunkte | Blutbild (insbesondere Neutrophile), Leberfunktion, Nierenfunktion |
+| Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika bei Zubereitung und Verabreichung |
 
 ---
 
 ### Sicherheitshinweise
 
-- **Arzneimittelwechselwirkungen:** In den zusammengestellten Daten wurden keine Einträge gefunden.
-- **In der Literatur beschriebene Nebenwirkungen:** Nagelbettblutungen, Haarausfall (in Einzelfällen dauerhaft), Flüssigkeitseinlagerungen bis hin zu Lymphödemen.
-
-Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation liegen nicht vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -131,14 +129,15 @@ Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation liegen nic
 **Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Die Evidenz für Brustkrebs ist breit (mehrere abgeschlossene Phase-3-Studien, Evidenzniveau L1), und der Wirkmechanismus passt zur Erkrankung.
-- Die Sicherheitsdaten der Schweizer Fachinformation fehlen. Das ist ein wesentliches Hindernis für eine abschliessende Beurteilung. Zudem ist Docetaxel in den meisten Studien Teil einer Kombination, sein Einzelbeitrag lässt sich daher nicht immer trennen.
+- Docetaxel wurde beim Ewing-Sarkom in mehreren Phase-II-Studien direkt geprüft, allein und in Kombination. Die Wirkung scheint aber bestenfalls bescheiden, und Docetaxel ist keine klare Standardoption.
+- Der sehr hohe Vorhersagewert von 0,9990 ersetzt keinen Wirksamkeitsnachweis.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise, Kontraindikationen und Wechselwirkungen aus der aktuellen Swissmedic-Fachinformation.
-- Eine Prüfung, ob die Brustkrebs-Anwendung in der Schweizer Fachinformation beschrieben ist, da der Zulassungstext in den lokalen Daten nur «Zytostatikum» lautet.
-- Die Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank.
-- Die Ergebnisse (Überleben, Ansprechen) der grossen Phase-3-Studien für eine Bewertung des Nutzens.
+- Auswertung der Ergebnisse der abgeschlossenen Phase-II-Studien, insbesondere NCT00073983, mit Ansprechraten und Überleben.
+- Beurteilung, ob Docetaxel allein oder nur in Kombination, etwa mit Gemcitabin oder Irinotecan, sinnvoll ist.
+- Prüfung der Fachinformation auf Warnhinweise, Kontraindikationen und Wechselwirkungen, da zu diesen Punkten keine Daten vorliegen.
+- Ergänzung des Wirkmechanismus aus einer geeigneten Arzneimittelquelle.
+- Klärung der Eignung für Kinder und Jugendliche, da die Erkrankung vor allem diese Altersgruppen betrifft.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

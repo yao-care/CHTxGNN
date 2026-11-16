@@ -9,7 +9,7 @@ drugbank_id: DB00982
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
 last_modified_at: 2026-11-16
-description: "Isotretinoinum: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Schwere therapieresistente Formen von Akne"
+description: "Isotretinoinum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
 # Isotretinoinum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Isotretinoinum: Malignant hypertensive renal disease
+## Isotretinoinum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Isotretinoin ist ein Retinoid, das in der Schweiz als Kapselpräparat im Handel ist. Dafür gibt es keine Evidenz aus Studien oder Publikationen; die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5).
+Isotretinoin ist in der Schweiz als Arzneimittel gegen Akne zugelassen. Für die Vorhersage einer Wirksamkeit bei maligner hypertensiver Nierenerkrankung (malignant hypertensive renal disease) gibt es bisher nur einen Modellwert, aber keine klinischen Studien und keine Literatur. Die Evidenz ist daher sehr schwach (Niveau L5).
 
 ---
 
@@ -50,7 +48,7 @@ Isotretinoin ist ein Retinoid, das in der Schweiz als Kapselpräparat im Handel 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Schwere therapieresistente Formen von Akne; Aknetherapeutikum |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9901 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
@@ -61,41 +59,29 @@ Isotretinoin ist ein Retinoid, das in der Schweiz als Kapselpräparat im Handel 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Isotretinoin ist in den für diesen Bericht zusammengestellten Daten nicht erfasst. Bekannt ist allgemein, dass Retinoide über Retinsäure- und Retinoid-X-Rezeptoren die Genregulation beeinflussen.
+Der Wirkmechanismus von Isotretinoin ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Der Vorhersagewert lässt sich deshalb nicht mit einem bekannten pharmakologischen Weg begründen. Isotretinoin gehört zu den Retinoiden, die über Kernrezeptoren (RAR/RXR) wirken.
 
-Ein klinisch belegter Zusammenhang zwischen Isotretinoin und maligner renovaskulärer Hypertonie besteht nicht. Der hohe Vorhersagewert ist eine rein rechnerische Modellvorhersage. In experimentellen Modellen wurden Retinoide bei Nierenschäden und bei der Beeinflussung des Renin-Angiotensin-Systems untersucht. Diese Überlegung ist spekulativ und durch keine klinischen Daten gestützt.
+Für Retinoide gibt es in präklinischen Nierenmodellen Hinweise auf eiweissmindernde und entzündungshemmende Effekte bei Erkrankungen der Nierenkörperchen. Diese Zusammenhänge sind indirekt und hypothetisch. Für die maligne hypertensive Nephrosklerose wurden sie nicht gezeigt. Diese Erkrankung entsteht durch stark erhöhten Blutdruck, Schäden an der Gefässinnenwand und thrombotische Mikroangiopathie.
 
-Die maligne renovaskuläre Hypertonie ist ein akuter, lebensbedrohlicher Zustand, der mit Blutdrucksenkung und Revaskularisation behandelt wird. Ein nicht validierter Kandidat sollte ohne starke präklinische Begründung nicht erwogen werden. Zudem sind bekannte Nebenwirkungen von Isotretinoin (Fettstoffwechselstörungen, Teratogenität) eher ein Grund zur Vorsicht.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Hinzu kommt ein Sicherheitsrisiko: Isotretinoin wird mit erhöhten Triglyceriden und selten mit erhöhtem Blutdruck oder Nierenproblemen in Verbindung gebracht. Das könnte einen spekulativen Nutzen aufheben.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Mindestens 3 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle drei aufgeführten Zulassungen sind gültig.
+Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 55972 | Isotretinoin-Mepha 10 mg, Weichkapseln | Weichkapseln | Schwere therapieresistente Formen von Akne |
-| 68109 | Isotretinoin Sandoz 5 mg, Weichkapseln | Weichkapseln | Aknetherapeutikum |
-| 55873 | Tretinac 10 mg, Weichkapseln | Weichkapseln | Schwere therapieresistente Formen von Akne |
+| 55972 | Isotretinoin-Mepha 10 mg, Weichkapseln | Synthetika | Schwere therapieresistente Formen von Akne |
+| 68109 | Isotretinoin Sandoz 5 mg, Weichkapseln | Synthetika | Aknetherapeutikum |
+| 55873 | Tretinac 10 mg, Weichkapseln | Synthetika | Schwere therapieresistente Formen von Akne |
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für Warnungen, Kontraindikationen und Wechselwirkungen liegen keine Daten vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -104,13 +90,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es liegen weder Studien noch Publikationen zur vorhergesagten Indikation vor, und der Vorhersagewert allein ersetzt keine Evidenz.
-- Bei einer schweren, akut lebensbedrohlichen Erkrankung wären die bekannten Risiken von Isotretinoin (u. a. Teratogenität, Fettstoffwechsel- und Leberveränderungen) zusätzlich zu bewerten.
+- Es gibt nur eine Modellvorhersage ohne klinische Studien oder Literatur zu dieser Erkrankung. Der Wirkmechanismus ist nicht belegt, und es bestehen mögliche Sicherheitsbedenken.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische Daten, die einen Nutzen von Retinoiden bei renovaskulärer Hypertonie belegen
-- Der Wirkmechanismus von Isotretinoin als Grundlage für eine mechanistische Analyse
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung ist derzeit blockiert)
+- Der Wirkmechanismus aus DrugBank
+- Präklinische oder klinische Belege, die direkt die maligne hypertensive Nierenerkrankung untersuchen
+- Eine Bewertung der Verträglichkeit von Isotretinoin bei Nierenerkrankung und Bluthochdruck
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ofatumumabum
-parent: Nur Modellvorhersage (L5)
+parent: Hohe Evidenz (L1-L2)
 nav_order: 426
-evidence_level: L5
+evidence_level: L2
 indication_count: 4
 drugbank_id: DB06650
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
 last_modified_at: 2026-11-16
-description: "Ofatumumabum: vorhergesagte neue Indikation Follicular lymphoma (Evidenzstufe L5). Ursprüngliche Indikation: Multiple Sklerose"
+description: "Ofatumumabum: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L2). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 
 # Ofatumumabum
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4** 
+Evidenzniveau: **L2** | Vorhergesagte Indikationen: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Ofatumumabum: Follicular lymphoma
+## Ofatumumabum: Follikuläres Lymphom (follicular lymphoma)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Ofatumumab ist ein Anti-CD20-Antikörper, der in der Schweiz im Handel ist. Für die vorhergesagte neue Indikation, die Prägerminalzentrum-Unterform der chronischen lymphatischen Leukämie bzw. des kleinzelligen lymphozytischen Lymphoms, ist ein Wirkmechanismus plausibel, weil CD20 auf diesen Zellen vorkommt. In den zusammengestellten Daten gibt es für diese Unterform jedoch weder klinische Studien noch Literatur. Die Evidenz beschränkt sich daher auf die Modellvorhersage (L5).
+Ofatumumab ist ein vollständig humaner monoklonaler Antikörper gegen CD20 und in der Schweiz im Handel. Die Modellvorhersage nennt das follikuläre Lymphom (follicular lymphoma) als neues mögliches Anwendungsgebiet. Dafür liegen mehrere Phase-2-Studien und eine Phase-3-Studie direkt zu dieser Erkrankung vor (Evidenzniveau L2), aber keine bestätigenden Phase-3-Ergebnisse in den vorliegenden Daten.
 
 ---
 
@@ -50,42 +50,57 @@ Ofatumumab ist ein Anti-CD20-Antikörper, der in der Schweiz im Handel ist. Für
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Multiple Sklerose |
-| Vorhergesagte neue Indikation | Follicular lymphoma |
+| Vorhergesagte neue Indikation | Follikuläres Lymphom (follicular lymphoma) |
 | TxGNN-Vorhersagewert | 0.9970 |
-| Evidenzniveau | L5 |
+| Evidenzniveau | L2 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| Empfohlene Entscheidung | Abwarten |
+| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ofatumumab ist ein Anti-CD20-Antikörper. Er zerstört B-Zellen über komplementabhängige Zytotoxizität (CDC) und antikörperabhängige zelluläre Zytotoxizität (ADCC). Das CD20-Molekül sitzt auf der Oberfläche von B-Zellen und kommt auch auf Zellen der chronischen lymphatischen Leukämie bzw. des kleinzelligen lymphozytischen Lymphoms vor. Ein Angriff über diesen Mechanismus ist daher grundsätzlich denkbar.
+Ofatumumab bindet an ein membrannahes Epitop des CD20-Moleküls auf B-Zellen. Der Antikörper löst eine komplementabhängige Zytotoxizität und eine antikörperabhängige zelluläre Zytotoxizität aus. Die Angaben zum Wirkmechanismus in der Arzneimitteldatenbank fehlen in den zusammengestellten Daten. Die Beschreibung stützt sich deshalb auf die Mechanismusanalyse der Vorhersage.
 
-Er beruht nicht auf Daten, die speziell diese Unterform betreffen. Für die Unterform selbst liegen keine Studien oder Publikationen vor, die eine eigene Empfehlung stützen würden. Ein möglicher Nutzen müsste aus Daten zur allgemeinen Erkrankung übertragen werden.
+Die Zellen des follikulären Lymphoms tragen CD20 auf ihrer Oberfläche. Ofatumumab hat damit dasselbe Ziel und denselben Wirkansatz wie Rituximab, das in diesem Bereich als Standard gilt. Studien deuten zudem auf eine Aktivität bei Rituximab-refraktärer Erkrankung hin. Der sehr hohe Vorhersagewert passt zu dieser biologischen Begründung.
 
-Die Angaben zum Wirkmechanismus der Datenbank fehlen in den zusammengestellten Daten. Die obige Beschreibung stützt sich deshalb auf die mechanistische Einordnung der Vorhersage.
+Das Evidenzniveau ist auf L2 begrenzt. Die vorliegenden Daten enthalten keine abgeschlossenen Phase-3-Studien mit Ergebnissen, die den Nutzen bestätigen.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Die Tabelle zeigt bis zu 10 der relevantesten Studien. Die Studienbeschreibungen enthalten keine Ergebnisse, deshalb werden Design und Fragestellung zusammengefasst.
+
+| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
+|---------|------|------|------|---------|
+| [NCT00394836](https://clinicaltrials.gov/study/NCT00394836) | Phase 2 | Abgeschlossen | 116 | Einarmige, internationale Studie bei follikulärem Lymphom, das auf Rituximab nicht mehr anspricht. Es ist die grösste Studie zur Indikation. |
+| [NCT01190449](https://clinicaltrials.gov/study/NCT01190449) | Phase 2 | Abgeschlossen | 51 | Ofatumumab bei zuvor unbehandeltem follikulärem Non-Hodgkin-Lymphom (Stadium II–IV). |
+| [NCT00494780](https://clinicaltrials.gov/study/NCT00494780) | Phase 2 | Abgeschlossen | 59 | Randomisierter Vergleich zweier Ofatumumab-Dosierungen mit CHOP bei unbehandeltem follikulärem Lymphom. Es gibt keinen Vergleichsarm mit Standardtherapie. |
+| [NCT01286272](https://clinicaltrials.gov/study/NCT01286272) | Phase 2 | Abgeschlossen | 135 | Randomisierter Vergleich von Ofatumumab plus Bendamustin mit oder ohne Bortezomib bei unbehandeltem follikulärem Lymphom. |
+| [NCT01077518](https://clinicaltrials.gov/study/NCT01077518) | Phase 3 | Abgebrochen | 346 | Ofatumumab plus Bendamustin gegenüber Bendamustin allein bei indolentem B-Zell-NHL, das auf Rituximab nicht angesprochen hat. |
+| [NCT02710643](https://clinicaltrials.gov/study/NCT02710643) | Phase 2 | Abgeschlossen | 110 | Studie «MIRO»: Strahlentherapie mit oder ohne Ofatumumab bei follikulärem Lymphom im Stadium I/II, gesteuert nach molekularen Merkmalen. |
+| [NCT01239394](https://clinicaltrials.gov/study/NCT01239394) | Phase 2 | Abgeschlossen | 43 | Ofatumumab als Ersttherapie bei indolentem B-Zell-Lymphom. Die Studie betrifft nicht nur das follikuläre Lymphom. |
+| [NCT00742144](https://clinicaltrials.gov/study/NCT00742144) | Phase 1 | Abgeschlossen | 6 | Sicherheit und Pharmakokinetik bei japanischen Patienten mit CD20-positivem follikulärem Lymphom oder chronischer lymphatischer Leukämie. |
+| [NCT00823719](https://clinicaltrials.gov/study/NCT00823719) | Phase 2 | Abgeschlossen | 61 | Ofatumumab mit ICE- oder DHAP-Chemotherapie bei rezidiviertem oder refraktärem aggressivem Lymphom. Die Studie ist möglicherweise nicht spezifisch für das follikuläre Lymphom. |
+| [NCT01119794](https://clinicaltrials.gov/study/NCT01119794) | Phase 2 | Abgebrochen | 10 | Ofatumumab plus Bortezomib bei rezidiviertem oder refraktärem niedrigmalignem NHL. Die Studie ist zu klein für Schlussfolgerungen. |
 
 ---
 
 ### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-### Marktinformationen Schweiz
-
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 67758 | Kesimpta, Injektionslösung in Fertigpen (Novartis Pharma Schweiz AG) | Biotechnologika |
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [32810220](https://pubmed.ncbi.nlm.nih.gov/32810220/) | 2020 | Randomisierte Phase-3-Studie (HOMER) | Blood Advances | Ofatumumab gegenüber Rituximab, jeweils als Einzelsubstanz, bei Rituximab-sensitivem rezidiviertem follikulärem Lymphom. |
+| [22389254](https://pubmed.ncbi.nlm.nih.gov/22389254/) | 2012 | Multizentrische Phase-2-Studie | Blood | 116 Patienten mit Rituximab-refraktärem follikulärem Lymphom erhielten 8 wöchentliche Infusionen. Die Gesamtansprechrate lag bei 13 % bzw. 10 % in den beiden Dosisgruppen. |
+| [22409295](https://pubmed.ncbi.nlm.nih.gov/22409295/) | 2012 | Randomisierte Phase-2-Studie | British Journal of Haematology | 59 unbehandelte Patienten erhielten Ofatumumab (500 mg oder 1000 mg) mit CHOP über sechs Zyklen. |
+| [30723894](https://pubmed.ncbi.nlm.nih.gov/30723894/) | 2019 | Phase-2-Studie (CALGB 50901) | British Journal of Haematology | Ofatumumab als Einzelsubstanz bei unbehandeltem follikulärem Lymphom mit niedrigem oder mittlerem Risiko. |
+| [31174236](https://pubmed.ncbi.nlm.nih.gov/31174236/) | 2019 | Randomisierte Phase-2-Studie (CALGB 50904) | Cancer | Ofatumumab plus Bendamustin mit oder ohne Bortezomib bei unbehandeltem follikulärem Hochrisiko-Lymphom. Endpunkte waren komplette Remissionen, Wirksamkeit und Sicherheit. |
+| [38937025](https://pubmed.ncbi.nlm.nih.gov/38937025/) | 2024 | Phase-2-Studie (FIL MIRO) | The Lancet Haematology | Lokale Strahlentherapie mit einer von der messbaren Resterkrankung gesteuerten Antikörpertherapie bei frühem follikulärem Lymphom. |
+| [18390837](https://pubmed.ncbi.nlm.nih.gov/18390837/) | 2008 | Phase-1/2-Studie | Blood | Erste klinische Anwendung von Ofatumumab bei rezidiviertem oder refraktärem follikulärem Lymphom Grad 1–2. Vier Dosisgruppen zu je 10 Patienten erhielten vier wöchentliche Infusionen. |
+| [26043777](https://pubmed.ncbi.nlm.nih.gov/26043777/) | 2015 | Übersichtsarbeit | Expert Opinion on Biological Therapy | Überblick über die Aktivität von Ofatumumab bei CD20-positiven B-Zell-Lymphomen. |
+| [22830942](https://pubmed.ncbi.nlm.nih.gov/22830942/) | 2012 | Übersichtsarbeit | Annals of the New York Academy of Sciences | Ofatumumab als erster humaner Anti-CD20-Antikörper bei B-Zell-Neoplasien. |
 
 ---
 
@@ -97,17 +112,17 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Abwarten**
+**Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Für diese Unterform gibt es keine klinischen Studien und keine Literatur. Der hohe Vorhersagewert beruht vermutlich auf der übergeordneten Erkrankung und genügt allein nicht für eine eigene Weiterverfolgung.
-- Die Sicherheitsdaten der Fachinformation und die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten.
+- Der Wirkmechanismus ist schlüssig, und mehrere Phase-2-Studien sowie eine Phase-3-Studie untersuchen Ofatumumab direkt beim follikulären Lymphom.
+- Bestätigende Phase-3-Ergebnisse fehlen in den vorliegenden Daten, die Ansprechraten bei Rituximab-refraktärer Erkrankung waren niedrig, und die Sicherheitsdaten sind unvollständig.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung).
-- Die Angaben zum Wirkmechanismus aus DrugBank.
-- Daten, die speziell diese Unterform betreffen, oder eine fachliche Einschätzung, ob Daten zur übergeordneten Erkrankung übertragen werden können.
-- Eine Einordnung gegenüber den heutigen Standardtherapien (z. B. BTK- und BCL2-Hemmer).
+- Sicherheitsinformationen (Warnungen, Kontraindikationen, Wechselwirkungen) aus der aktuellen Fachinformation.
+- Auswertung der Ergebnisse der Phase-3-Studien (HOMER und NCT01077518), insbesondere zu Wirksamkeit und Verträglichkeit gegenüber Rituximab bzw. Bendamustin allein.
+- Klärung, ob die in der Schweiz im Handel befindliche Darreichungsform und Dosierung für diese Anwendung geeignet sind, und der regulatorischen Voraussetzungen für eine Anwendung ausserhalb der Zulassung.
+- Bestätigung der Wirkmechanismus-Angaben aus der Arzneimitteldatenbank.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

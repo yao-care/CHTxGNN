@@ -9,7 +9,7 @@ drugbank_id: DB00760
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 last_modified_at: 2026-11-16
-description: "Meropenemum: vorhergesagte neue Indikation bakterielle Arthritis (bacterial arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: maladies infectieuses"
+description: "Meropenemum: vorhergesagte neue Indikation Bakterielle Arthritis (bacterial arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: maladies infectieuses"
 ---
 
 # Meropenemum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Meropenemum: bakterielle Arthritis (bacterial arthritis)
+## Meropenemum: Bakterielle Arthritis (bacterial arthritis)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Meropenem ist ein Breitband-Antibiotikum aus der Gruppe der Carbapeneme. Für die bakterielle Arthritis (bacterial arthritis) liegt ein hoher TxGNN-Vorhersagewert vor. Die Evidenz dazu besteht jedoch nur aus Kohortenstudien, Fallberichten und Antibiogrammen, es gibt keine registrierten klinischen Studien. Die Evidenz ist daher auf Niveau L5 einzustufen.
+Meropenem ist ein Breitspektrum-Antibiotikum aus der Gruppe der Carbapeneme, das in der Schweiz mit mehreren Präparaten im Handel ist. Es wird voraussichtlich auch bei bakterieller Arthritis (bacterial arthritis) wirksam sein, vor allem bei Gelenkinfektionen durch empfindliche Gram-negative Erreger. Die Evidenz stützt sich allerdings nur auf Fallberichte, retrospektive Studien und Übersichtsarbeiten, die diese Erkrankung nicht gezielt untersuchen; klinische Studien sind nicht registriert.
 
 ---
 
@@ -48,7 +48,7 @@ Meropenem ist ein Breitband-Antibiotikum aus der Gruppe der Carbapeneme. Für di
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | maladies infectieuses; Infektionskrankheiten |
-| Vorhergesagte neue Indikation | bakterielle Arthritis (bacterial arthritis) |
+| Vorhergesagte neue Indikation | Bakterielle Arthritis (bacterial arthritis) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
@@ -59,11 +59,11 @@ Meropenem ist ein Breitband-Antibiotikum aus der Gruppe der Carbapeneme. Für di
 
 ### Warum ist diese Vorhersage plausibel?
 
-Meropenem hemmt Penicillin-bindende Proteine und damit den Aufbau der bakteriellen Zellwand. Es wirkt gegen gramnegative, grampositive und anaerobe Bakterien. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Meropenem hemmt die Bildung der bakteriellen Zellwand, indem es an Penicillin-bindende Proteine bindet. Dadurch wirkt es gegen ein breites Spektrum von Bakterien, darunter Pseudomonas aeruginosa und Burkholderia pseudomallei (Erreger der Melioidose). Die in den Daten hinterlegte Angabe zum Wirkmechanismus fehlt; die Beschreibung beruht auf dem allgemein bekannten Wirkprinzip der Carbapeneme.
 
-Eine bakterielle Gelenkentzündung entsteht durch Erreger, die ein Breitband-Antibiotikum grundsätzlich erfassen kann. Besonders gut belegt ist dies bei der Melioidose (Erreger: *Burkholderia pseudomallei*). Dort ist Meropenem ein Standardmittel der Intensivphase, auch bei Knochen- und Gelenkbefall. In einer Fallserie mit 22 Patienten mit muskuloskelettaler Melioidose waren alle Isolate meropenem-empfindlich.
+Gelenk- und Knocheninfektionen werden häufig durch solche Erreger verursacht. Der Mechanismus passt daher zur vorhergesagten Indikation. Meropenem ist zudem bereits ein Standardmittel bei schwerer Melioidose und bei resistenten Gram-negativen Infektionen. Die Vorhersage wäre somit eher eine Ausweitung des bestehenden antibakteriellen Einsatzes als eine echte Neuausrichtung.
 
-Die Daten sind allerdings erregerspezifisch und retrospektiv. Ein prospektiver Vergleich für bakterielle Arthritis im Allgemeinen fehlt. Der hohe Vorhersagewert ist biologisch nachvollziehbar, ersetzt aber keine klinische Prüfung.
+Eine gezielte Prüfung bei septischer Arthritis fehlt bisher.
 
 ---
 
@@ -75,16 +75,20 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Literaturbelege
 
+Die Publikationen betreffen verwandte Infektionen (v. a. Melioidose mit Gelenk- oder Knochenbeteiligung) und untersuchen bakterielle Arthritis nicht als eigenständige Erkrankung.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [39489417](https://pubmed.ncbi.nlm.nih.gov/39489417/) | 2024 | Kohorte (retrospektiv) | Indian Journal of Medical Microbiology | 22 von 100 Melioidose-Fällen mit Befall des Bewegungsapparats (Osteomyelitis, septische Arthritis); alle Isolate meropenem-empfindlich |
-| [35146367](https://pubmed.ncbi.nlm.nih.gov/35146367/) | 2021 | Kohorte (retrospektiv) | Le Infezioni in Medicina | Beschreibung von Patienten mit osteoartikulärer Melioidose, einer seltenen Manifestation |
-| [36678359](https://pubmed.ncbi.nlm.nih.gov/36678359/) | 2022 | Übersichtsarbeit | Pathogens | Antibiotika und Phagentherapie bei Melioidose im Vergleich |
-| [39681779](https://pubmed.ncbi.nlm.nih.gov/39681779/) | 2025 | Kohorte | Clinical Pharmacokinetics | Populationspharmakokinetik von Meropenem im Erwachsenenalter und optimale Dosierung |
-| [37713001](https://pubmed.ncbi.nlm.nih.gov/37713001/) | 2024 | Kohorte | European Journal of Orthopaedic Surgery & Traumatology | Antibiogramm zur empirischen Antibiotikawahl bei orthopädischen Infektionen, u. a. septische Arthritis |
-| [39380073](https://pubmed.ncbi.nlm.nih.gov/39380073/) | 2024 | Fallbericht | Journal of Medical Case Reports | Disseminierte Melioidose mit septischer Arthritis, zunächst fehldiagnostiziert |
-| [27376438](https://pubmed.ncbi.nlm.nih.gov/27376438/) | 2017 | Fallbericht | Paediatrics and International Child Health | Säugling mit disseminierter Melioidose und Arthritis; Behandlung mit Meropenem und Cotrimoxazol führte zur Besserung |
-| [32649134](https://pubmed.ncbi.nlm.nih.gov/32649134/) | 2020 | Fallbericht | JBJS Case Connector | Gelenkprotheseninfektion mit *Mycobacterium fortuitum*; Zement-Spacer mit Meropenem plus systemische Therapie |
+| [35146367](https://pubmed.ncbi.nlm.nih.gov/35146367/) | 2021 | Kohortenstudie (retrospektiv) | Le infezioni in medicina | Beschreibt Patienten mit Gelenk- und Knochenmelioidose, einer seltenen Manifestation. |
+| [39489417](https://pubmed.ncbi.nlm.nih.gov/39489417/) | 2024 | Kohortenstudie (retrospektiv) | Indian Journal of Medical Microbiology | 22 von 100 Melioidose-Fällen mit Muskel-Skelett-Beteiligung (u. a. septische Arthritis); alle Isolate waren auf Meropenem empfindlich. |
+| [37713001](https://pubmed.ncbi.nlm.nih.gov/37713001/) | 2024 | Kohortenstudie | European Journal of Orthopaedic Surgery & Traumatology | Antibiogramm zur empirischen Antibiotikawahl bei orthopädischen Infektionen, darunter septische Arthritis. |
+| [36678359](https://pubmed.ncbi.nlm.nih.gov/36678359/) | 2022 | Übersichtsarbeit | Pathogens | Vergleicht Antibiotika und Phagentherapie bei Melioidose. |
+| [11869242](https://pubmed.ncbi.nlm.nih.gov/11869242/) | 1997 | Übersichtsarbeit | Clinical Microbiology and Infection | Allgemeine Übersicht zur Therapie der Sepsis. |
+| [39681779](https://pubmed.ncbi.nlm.nih.gov/39681779/) | 2025 | Pharmakokinetische Studie | Clinical Pharmacokinetics | Populationspharmakokinetik von Meropenem bei Erwachsenen aller Altersgruppen mit Dosierungsempfehlungen. |
+| [39380073](https://pubmed.ncbi.nlm.nih.gov/39380073/) | 2024 | Fallbericht | Journal of Medical Case Reports | Disseminierte Melioidose mit septischer Arthritis, zunächst fehldiagnostiziert. |
+| [27376438](https://pubmed.ncbi.nlm.nih.gov/27376438/) | 2017 | Fallbericht | Paediatrics and International Child Health | Säugling mit disseminierter Melioidose inkl. Arthritis; Besserung unter Meropenem und Cotrimoxazol. |
+| [32649134](https://pubmed.ncbi.nlm.nih.gov/32649134/) | 2020 | Fallbericht | JBJS Case Connector | Prothesengelenkinfektion mit Mycobacterium fortuitum; Zementspacer mit Meropenem plus Mehrfachtherapie. |
+| [38808002](https://pubmed.ncbi.nlm.nih.gov/38808002/) | 2024 | Fallbericht | Frontiers in Public Health | Streptococcus-suis-Meningitis; der Erreger kann auch Sepsis oder Arthritis verursachen. |
 
 ---
 
@@ -110,14 +114,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch und der Mechanismus plausibel. Die Belege betreffen aber überwiegend die Melioidose und bestehen aus retrospektiven Kohorten und Fallberichten, nicht aus Studien zur bakteriellen Arthritis allgemein.
-- Es gibt keine registrierten klinischen Studien.
+- Keine der gefundenen Studien untersucht bakterielle Arthritis gezielt, und es gibt keine registrierten klinischen Studien. Der hohe Vorhersagewert ist daher nur durch den antibakteriellen Wirkmechanismus und indirekte Hinweise gestützt.
+- Die Sicherheitsdaten aus der Fachinformation fehlen derzeit, sodass eine Sicherheitsbewertung noch nicht möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Prospektive oder vergleichende Studien zu Meropenem bei bakterieller Arthritis, auch ausserhalb der Melioidose
-- Auswertung der Fachinformation auf Warnhinweise und Kontraindikationen
-- Klärung, ob die bestehende Zulassung für «Infektionskrankheiten» die Gelenkinfektion bereits abdeckt
-- Ergänzung der Angaben zum Wirkmechanismus
+- Die Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen) ist auszuwerten.
+- Der Wirkmechanismus ist aus einer Arzneimitteldatenbank zu ergänzen.
+- Studien oder Auswertungen speziell zu Meropenem bei septischer Arthritis, idealerweise mit Vergleich zu Standardtherapien, sind zu sichten oder zu initiieren.
+- Resistenzdaten (Antibiogramme) zu den relevanten Erregern sind zu prüfen, um den Einsatz im Sinne der Antibiotikastrategie (Stewardship) abzusichern.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

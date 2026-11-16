@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Plerixafor ist ein CXCR4-Antagonist und in der Schweiz als Mozobil im Handel. Für das indolente Plasmazellmyelom (indolent plasma cell myeloma) wird eine mögliche Wirksamkeit vorhergesagt. Diese Vorhersage beruht allein auf dem Modell: Zu dieser Erkrankung liegen weder klinische Studien noch Publikationen vor, daher ist die Evidenz sehr schwach (L5).
+Plerixafor ist in der Schweiz als Mozobil zugelassen. Das Modell sagt für das Arzneimittel eine mögliche Wirksamkeit bei CMM7 (CMM7) voraus. Für diese Vorhersage liegen in den für diesen Bericht zusammengestellten Daten weder klinische Studien noch Publikationen vor; sie beruht ausschliesslich auf einer Modellberechnung.
 
 ---
 
@@ -61,37 +61,31 @@ Plerixafor ist ein CXCR4-Antagonist und in der Schweiz als Mozobil im Handel. F�
 
 ### Warum ist diese Vorhersage plausibel?
 
-Plerixafor blockiert den Rezeptor CXCR4 und stört damit die Bindung an seinen Liganden CXCL12. Dieses Signal hält Blutstammzellen und andere Zellen im Knochenmark fest. Wird es unterbrochen, verlassen die Zellen die schützende Knochenmarknische. Eine offizielle Beschreibung des Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor. Die Angabe stützt sich auf die mechanistische Einschätzung zur Vorhersage.
+Plerixafor blockiert den Chemokinrezeptor CXCR4. Dieser Rezeptor und sein Gegenstück CXCL12 steuern, wie Zellen wandern und sich im Gewebe ansiedeln. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind lückenhaft; die Beschreibung stützt sich auf allgemeines Wissen über den Wirkstoff.
 
-Plasmazellen siedeln sich im Knochenmark an und sind dort auf Signale wie CXCL12/CXCR4 angewiesen. Daher ist denkbar, dass eine CXCR4-Blockade die Bindung der Zellen an ihre Nische schwächt. Das wäre ein möglicher Ansatzpunkt beim indolenten Plasmazellmyelom.
+CMM7 scheint ein melanomassoziiertes Krankheitsbild zu sein. Die Bezeichnung ist in den Daten nicht näher erläutert. In der Fachliteratur wird die CXCR4/CXCL12-Signalübertragung mit der Metastasierung von Melanomen in Verbindung gebracht. Eine Blockade könnte daher theoretisch eine Rolle spielen.
 
-Diese Überlegung ist bisher rein theoretisch. Für diese Erkrankung wurden weder Studien noch Fachartikel gefunden, die den Ansatz stützen. Die Vorhersage ist deshalb eine Hypothese, kein belegter Nutzen.
+Dieser Zusammenhang ist hier nicht belegt. Es wurden weder Studien noch Publikationen gefunden. Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Hinweis auf eine nachgewiesene Wirksamkeit.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zulassungsinhaberin |
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 63139 | Mozobil 20 mg/ml, Injektionslösung | Synthetika | Sanofi-Aventis (Suisse) SA |
-
----
-
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+| 63139 | Mozobil 20mg/mL, solution injectable | Synthetika | Mobilisation hämatopoetischer Stammzellen |
 
 ---
 
@@ -100,14 +94,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Zum indolenten Plasmazellmyelom gibt es weder Studien noch Publikationen, das Evidenzniveau ist daher L5.
-- Der mögliche Mechanismus über CXCR4/CXCL12 ist plausibel, aber nicht belegt. Auch die Sicherheitsdaten aus der Fachinformation fehlen noch.
+- Für CMM7 gibt es keine klinischen Studien und keine Literatur. Die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
+- Der Wirkmechanismus und die Sicherheitsinformationen aus der Fachinformation fehlen in den vorliegenden Daten.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Sicherheitsinformationen (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation.
-- Eine gesicherte Beschreibung des Wirkmechanismus, zum Beispiel aus DrugBank.
-- Präklinische Daten oder erste klinische Studien, die Plerixafor direkt beim indolenten Plasmazellmyelom untersuchen.
-- Eine Prüfung, ob eine Anwendung bei dieser Erkrankung, die meist über lange Zeit beobachtet wird, klinisch sinnvoll und sicher wäre.
+- Klärung, was CMM7 genau bezeichnet, und Prüfung, ob die Krankheit mit dem CXCR4-Signalweg zusammenhängt
+- Präklinische oder klinische Daten, die Plerixafor direkt bei dieser Erkrankung untersuchen
+- Ergänzung des Wirkmechanismus (z. B. aus DrugBank)
+- Auswertung der Swissmedic-Fachinformation zu Warnhinweisen und Kontraindikationen, bevor eine Sicherheitsbewertung möglich ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

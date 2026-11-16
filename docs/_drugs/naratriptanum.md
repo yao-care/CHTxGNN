@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 ## Naratriptanum: Atrophoderma vermiculata
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Naratriptan ist ein Triptan, das in der Schweiz als Filmtabletten im Handel ist. Vorhergesagt wird eine mögliche Wirksamkeit bei Migräne mit Hirnstammaura (migraine with brainstem aura). Die Evidenz ist schwach: Die vorhandene Literatur betrifft die Migräne allgemein und nicht diese Unterform, und es gibt keine registrierten klinischen Studien. Zudem muss vorab eine Sicherheitsfrage geklärt werden.
+Naratriptan ist ein Triptan, das in der Schweiz zugelassen ist und im Handel erhältlich ist. Die Berechnungen sagen für Atrophoderma vermiculata (atrophoderma vermiculata) eine mögliche Wirksamkeit voraus. Dafür liegen keine klinischen Studien und keine Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell.
 
 ---
 
@@ -61,36 +59,11 @@ Naratriptan ist ein Triptan, das in der Schweiz als Filmtabletten im Handel ist.
 
 ### Warum ist diese Vorhersage plausibel?
 
-Naratriptan ist ein selektiver Agonist an den 5-HT1B/1D-Rezeptoren. Diese Wirkung verengt Blutgefässe und hemmt die Freisetzung von Neuropeptiden im Trigeminussystem. Beides sind zentrale Mechanismen bei Migräneanfällen.
+Naratriptan wirkt als selektiver Agonist an den Serotoninrezeptoren 5-HT1B und 5-HT1D. Dieser Mechanismus verengt Hirngefässe und hemmt die Freisetzung entzündungsfördernder Botenstoffe. Die Angabe zum Wirkmechanismus fehlt in den für diesen Bericht zusammengestellten Daten, die Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
 
-Die Migräne mit Hirnstammaura teilt die grundlegende Pathophysiologie mit anderen Migräneformen. Der hohe Vorhersagewert spiegelt vor allem die enge Verwandtschaft dieser Erkrankung mit der Migräne im Allgemeinen wider.
+Atrophoderma vermiculata ist eine seltene Erkrankung der Haarfollikel an den Wangen, mit Vernarbung und Gewebeschwund. Sie gehört zum Spektrum der Keratosis pilaris atrophicans. Ein plausibler Zusammenhang zwischen der Wirkung auf 5-HT1B/1D-Rezeptoren und dem Follikelschwund ist nicht belegt.
 
-Es gibt jedoch eine wichtige Einschränkung: Triptane gelten bei Migräne mit Hirnstammaura (früher basilare Migräne) historisch als problematisch, weil man eine Gefässverengung im hinteren Hirnkreislauf befürchtet. Es handelt sich daher eher um eine Frage zur Abgrenzung einer Unterform als um eine echte Umwidmung. Die Sicherheit muss zuerst geklärt werden.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Keine der Publikationen untersucht die Migräne mit Hirnstammaura direkt. Sie betreffen die Migräne allgemein, die menstruelle Migräne oder andere Triptane. Die wichtigsten Arbeiten:
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [11264684](https://pubmed.ncbi.nlm.nih.gov/11264684/) | 2001 | Randomisierte, doppelblinde, placebokontrollierte Studie | Headache | Naratriptan 1 mg und 2,5 mg zweimal täglich als Kurzzeitprophylaxe der menstruell assoziierten Migräne |
-| [10972634](https://pubmed.ncbi.nlm.nih.gov/10972634/) | 2000 | RCT | Clinical Therapeutics | Vergleich von Naratriptan und Sumatriptan bei Patienten mit häufigem Wiederauftreten der Kopfschmerzen |
-| [10961768](https://pubmed.ncbi.nlm.nih.gov/10961768/) | 2000 | RCT | Cephalalgia | Naratriptan in der Prodromalphase zur Vorbeugung des Migränekopfschmerzes |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Übersichtsarbeit | Headache | Aktualisierte Bewertung der Evidenz für Medikamente zur Akutbehandlung der Migräne (American Headache Society) |
-| [25841032](https://pubmed.ncbi.nlm.nih.gov/25841032/) | 2015 | Beobachtungsstudie | Neurology | Sumatriptan wirkt bei Migräne mit Aura schwächer als bei Migräne ohne Aura |
-| [15926020](https://pubmed.ncbi.nlm.nih.gov/15926020/) | 2005 | Offene Pilotstudie | Neurological Sciences | Naratriptan als Kurzzeitprophylaxe der rein menstruellen Migräne |
-| [23877022](https://pubmed.ncbi.nlm.nih.gov/23877022/) | 2014 | Fallbericht | Brain & Development | Naratriptan besserte migräneartige Kopfschmerzen bei einem Patienten mit Sturge-Weber-Syndrom deutlich |
-| [14511276](https://pubmed.ncbi.nlm.nih.gov/14511276/) | 2003 | Übersichtsarbeit | Headache | Umgang mit therapieresistenter Migräne unter Naratriptan |
-| [21028917](https://pubmed.ncbi.nlm.nih.gov/21028917/) | 2010 | Übersichtsarbeit | Paediatric Drugs | Einsatz von Triptanen bei Migräne im Kindesalter |
-| [22337860](https://pubmed.ncbi.nlm.nih.gov/22337860/) | 2013 | Übersichtsarbeit | Cephalalgia | Behandlung in der Vorphase (Prodrom) der Migräne |
+Der hohe Vorhersagewert ist daher als rechnerischer Hinweis zu verstehen, vermutlich bedingt durch Nähe zu verwandten seltenen Hauterkrankungen im Modell. Er ist kein Beleg für eine Wirkung.
 
 ---
 
@@ -102,19 +75,24 @@ Keine der Publikationen untersucht die Migräne mit Hirnstammaura direkt. Sie be
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine Studie untersucht Migräne mit Hirnstammaura direkt, daher gilt höchstens Evidenzniveau L5. Der hohe Vorhersagewert beruht vor allem auf der Nähe zur Migräne im Allgemeinen.
-- Die historischen Vorbehalte gegen Triptane bei dieser Unterform (mögliche Gefässverengung im hinteren Hirnkreislauf) sind nicht geklärt.
+- Es gibt weder klinische Studien noch Publikationen zur vorhergesagten Erkrankung, und ein biologischer Zusammenhang ist nicht erkennbar. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, insbesondere zu Hirnstamm- bzw. basilarer Migräne
-- Daten zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Studien oder Fallserien, die Triptane gezielt bei Migräne mit Hirnstammaura untersuchen
-- Eine fachliche Sicherheitsbewertung zur Durchblutung im hinteren Hirnkreislauf
+- Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen) für die Sicherheitsprüfung
+- Ergänzung des Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
+- Präklinische oder mechanistische Hinweise auf eine Rolle von 5-HT1B/1D-Rezeptoren bei follikulärer Atrophie
+- Prüfung der Darreichungsform und des Verabreichungswegs für eine Hauterkrankung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

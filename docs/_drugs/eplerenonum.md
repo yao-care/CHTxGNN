@@ -9,7 +9,7 @@ drugbank_id: DB00700
 monitor_inn: "Eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
 last_modified_at: 2026-11-16
-description: "Eplerenonum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
+description: "Eplerenonum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge von Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
 ---
 
 # Eplerenonum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Eplerenonum: Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia)
+## Eplerenonum: Pulmonale Hypertonie infolge von Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Eplerenon ist in der Schweiz als Diuretikum zugelassen. Die Vorhersage lautet, dass es bei pulmonaler Hypertonie (pulmonary hypertension owing to lung disease and/or hypoxia) wirksam sein könnte. Die Evidenz beschränkt sich auf Tierversuche, Laborstudien und Übersichtsarbeiten; direkte Studien zu dieser Erkrankung am Menschen fehlen.
+Eplerenon ist ein selektiver Mineralocorticoid-Rezeptor-Antagonist, der in der Schweiz mit vier gültigen Zulassungen im Handel ist. Als neue Indikation wird eine pulmonale Hypertonie infolge von Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) vorhergesagt. Die Evidenz dafür ist gering: Es liegen keine klinischen Studien vor, und die Literatur besteht überwiegend aus tierexperimentellen und indirekten Arbeiten, daher Evidenzniveau L5.
 
 ---
 
@@ -48,7 +48,7 @@ Eplerenon ist in der Schweiz als Diuretikum zugelassen. Die Vorhersage lautet, d
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Diuretikum |
-| Vorhergesagte neue Indikation | Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) |
+| Vorhergesagte neue Indikation | Pulmonale Hypertonie infolge von Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | TxGNN-Vorhersagewert | 0.9950 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
@@ -59,11 +59,11 @@ Eplerenon ist in der Schweiz als Diuretikum zugelassen. Die Vorhersage lautet, d
 
 ### Warum ist diese Vorhersage plausibel?
 
-Eplerenon blockiert selektiv den Mineralokortikoid-Rezeptor (MR). Die Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten; die Einordnung beruht daher auf der bekannten Wirkstoffklasse und den zitierten Arbeiten.
+Zum Wirkmechanismus von Eplerenon liegen in den zusammengestellten Daten keine Angaben aus einer Arzneimitteldatenbank vor. Bekannt ist jedoch, dass die Substanz als selektiver Mineralocorticoid-Rezeptor-Antagonist (MR-Antagonist) wirkt, also die Wirkung von Aldosteron und anderen Stoffen am Mineralocorticoid-Rezeptor blockiert.
 
-Aus der Literatur ergibt sich ein plausibler, aber indirekter Zusammenhang. In Tiermodellen der pulmonal-arteriellen Hypertonie dämpfte die MR-Blockade den krankhaften Umbau der Lungengefässe und verbesserte teils auch bereits bestehende Erkrankung. Zellstudien deuten zudem darauf hin, dass Hypoxie die Aldosteronbildung in Lungengefässzellen anregt und so zu Gefässfibrose beiträgt. Bei chronischer intermittierender Hypoxie (Modell der Schlafapnoe) wurde in Ratten eine MR-vermittelte Schädigung von Niere und Vorhof beschrieben.
+Der Zusammenhang zur vorhergesagten Indikation ergibt sich aus Laborarbeiten: Hypoxie kann in Zellen der Lungengefässe die Aldosteron-Bildung anregen und so den Umbau der Gefässwand und eine Fibrose fördern (Maron et al., 2014). Ein erhöhter Aldosteronspiegel hängt zudem mit der Verdickung der kleinen Lungenarterien bei pulmonaler arterieller Hypertonie zusammen. In Tiermodellen verminderte Eplerenon den krankhaften Umbau der Lungengefässe und verbesserte teilweise eine bereits bestehende Erkrankung.
 
-Zu beachten: Die meisten Arbeiten betreffen die pulmonal-arterielle Hypertonie im Tiermodell oder andere Organe, nicht die Lungenhochdruckform infolge von Lungenerkrankung oder Hypoxie beim Menschen.
+Diese Hinweise sind vorklinisch oder indirekt. Studien an Patientinnen und Patienten mit pulmonaler Hypertonie infolge von Lungenerkrankung oder Hypoxie fehlen. Der hohe TxGNN-Wert ist eine rechnerische Vorhersage und ersetzt keine klinischen Belege.
 
 ---
 
@@ -75,16 +75,20 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Literaturbelege
 
+Keine der Arbeiten untersucht die vorhergesagte Erkrankung direkt am Menschen. Die folgende Auswahl ist nach Nähe zum Thema geordnet.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [35043674](https://pubmed.ncbi.nlm.nih.gov/35043674/) | 2022 | Präklinisch (Tiermodell) | Am J Physiol Lung Cell Mol Physiol | MR-Antagonisten (Eplerenon, Spironolacton) verbesserten bei bestehender pulmonal-arterieller Hypertonie im SU5416-Hypoxie-Rattenmodell die Wechselwirkung zwischen den Herzkammern. |
-| [29499691](https://pubmed.ncbi.nlm.nih.gov/29499691/) | 2018 | Präklinisch (Tiermodell) | BMC Pulm Med | Eplerenon milderte eher den krankhaften Umbau der Lungengefässe als jenen der rechten Herzkammer. |
-| [25001622](https://pubmed.ncbi.nlm.nih.gov/25001622/) | 2014 | Mechanismusstudie | Circulation | Hypoxie steigert über StAR die Aldosteronsynthese in Lungenarterien-Endothelzellen und fördert Gefässfibrose. |
-| [27006450](https://pubmed.ncbi.nlm.nih.gov/27006450/) | 2016 | Mechanismusstudie | FASEB J | Aldosteron fördert über Raptor (mTORC1) ein verändertes Überleben glatter Muskelzellen der Lungenarterie. |
-| [41483355](https://pubmed.ncbi.nlm.nih.gov/41483355/) | 2026 | Übersichtsarbeit | Curr Hypertens Rep | Übersicht zu obstruktiver Schlafapnoe und Bluthochdruck; bewertet die Aldosteronblockade zur Blutdrucksenkung und Verbesserung der Oxygenierung. |
-| [27230560](https://pubmed.ncbi.nlm.nih.gov/27230560/) | 2016 | Klinische Studie | Pol Arch Med Wewn | Untersuchung von Eplerenon bei Schlafapnoe-Schweregrad und Gefässsteifigkeit bei resistenter Hypertonie. |
-| [35568141](https://pubmed.ncbi.nlm.nih.gov/35568141/) | 2022 | Präklinisch (Ratte) | Cardiovasc Pathol | Eplerenon verbesserte den durch chronische intermittierende Hypoxie ausgelösten Vorhofumbau. |
-| [35346763](https://pubmed.ncbi.nlm.nih.gov/35346763/) | 2022 | Präklinisch (Ratte) | Exp Gerontol | Chronische intermittierende Hypoxie führt über MR-Aktivierung zu Nierenfibrose. |
+| [27230560](https://pubmed.ncbi.nlm.nih.gov/27230560/) | 2016 | Klinische Studie (Bluthochdruck mit Schlafapnoe) | Polskie Archiwum Medycyny Wewnetrznej | Untersucht den Einfluss von Eplerenon auf Schweregrad der obstruktiven Schlafapnoe und Gefässsteifigkeit bei therapieresistenter Hypertonie. |
+| [35043674](https://pubmed.ncbi.nlm.nih.gov/35043674/) | 2022 | Präklinisch (Tier, PAH) | American Journal of Physiology – Lung | MR-Antagonisten (Eplerenon, Spironolacton) bei bereits bestehender pulmonaler arterieller Hypertonie im Ratten-Modell; verbesserte Wechselwirkung zwischen den Herzkammern. |
+| [29499691](https://pubmed.ncbi.nlm.nih.gov/29499691/) | 2018 | Präklinisch (Tier, PAH) | BMC Pulmonary Medicine | Eplerenon verminderte den krankhaften Umbau der Lungengefässe, weniger den der rechten Herzkammer. |
+| [25001622](https://pubmed.ncbi.nlm.nih.gov/25001622/) | 2014 | Laborstudie | Circulation | Hypoxie steigert über StAR die Aldosteron-Bildung in Endothelzellen der Lungenarterien und fördert Gefässfibrose. |
+| [27006450](https://pubmed.ncbi.nlm.nih.gov/27006450/) | 2016 | Laborstudie | FASEB Journal | Aldosteron fördert über Raptor (mTORC1) ein abnormes Überleben glatter Muskelzellen der Lungenarterien. |
+| [35568141](https://pubmed.ncbi.nlm.nih.gov/35568141/) | 2022 | Präklinisch (Tier, chronische intermittierende Hypoxie) | Cardiovascular Pathology | Eplerenon verbesserte den durch chronische intermittierende Hypoxie ausgelösten Umbau der Vorhöfe bei Ratten. |
+| [35346763](https://pubmed.ncbi.nlm.nih.gov/35346763/) | 2022 | Präklinisch (Tier) | Experimental Gerontology | Chronische intermittierende Hypoxie führt über MR-Aktivierung zu Nierenfibrose. |
+| [41483355](https://pubmed.ncbi.nlm.nih.gov/41483355/) | 2026 | Übersichtsarbeit | Current Hypertension Reports | Bespricht Aldosteron-Blockade bei obstruktiver Schlafapnoe und Bluthochdruck. |
+| [39707386](https://pubmed.ncbi.nlm.nih.gov/39707386/) | 2024 | Präklinisch (Leberzirrhose) | Cell Communication and Signaling | Eplerenon verringerte zirrhosebedingte Veränderungen im Glukose- und Fettstoffwechsel der Leberzellen; Hypoxie kann den MR in Leberzellen aktivieren. |
+| [29682743](https://pubmed.ncbi.nlm.nih.gov/29682743/) | 2018 | Präklinisch (Leberzirrhose) | British Journal of Pharmacology | Eplerenon verhinderte im Tiermodell die Dekompensation der Leber bei Zirrhose. |
 
 ---
 
@@ -110,13 +114,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich auf einen hohen TxGNN-Wert und auf Tier- und Mechanismusdaten. Direkte Studien am Menschen zu dieser Form der pulmonalen Hypertonie fehlen, daher bleibt das Evidenzniveau bei L5.
+- Die Vorhersage stützt sich nur auf ein Rechenmodell und vorklinische oder indirekte Arbeiten. Klinische Studien zur vorhergesagten Erkrankung fehlen, deshalb gilt Evidenzniveau L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Beobachtungsdaten zu Eplerenon bei pulmonaler Hypertonie infolge von Lungenerkrankung oder Hypoxie
-- Der Wirkmechanismus aus einer Arzneimitteldatenbank
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Bei künftigen Studien besondere Beachtung des Hyperkaliämierisikos, vor allem bei Niereninsuffizienz und gleichzeitiger Gabe von ACE-Hemmern oder Sartanen
+- Klinische Daten zu Eplerenon bei pulmonaler Hypertonie infolge von Lungenerkrankung oder Hypoxie (z. B. eine kontrollierte Pilotstudie)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Warnhinweise, Kontraindikationen und Wechselwirkungen aus der Swissmedic-Fachinformation, insbesondere zu Hyperkaliämie und Nierenfunktion, für eine Sicherheitsprüfung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB06626
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 last_modified_at: 2026-11-16
-description: "Axitinibum: vorhergesagte neue Indikation Liposarcoma (Evidenzstufe L5). Ursprüngliche Indikation: Nierenzellkarzinom"
+description: "Axitinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Nierenzellkarzinom"
 ---
 
 # Axitinibum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Axitinibum: Liposarcoma
+## Axitinibum: Liposarkom (liposarcoma)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Axitinib ist ein selektiver Hemmer der VEGF-Rezeptoren 1–3 mit gefässhemmender Wirkung. Für diese Erkrankung liegen derzeit weder klinische Studien noch Publikationen vor, die Vorhersage stützt sich allein auf das Rechenmodell (Evidenzniveau L5).
+Axitinib ist ein selektiver Hemmer der VEGF-Rezeptoren 1, 2 und 3 (zusätzlich wirksam gegen PDGFR und c-KIT) und in der Schweiz als Arzneimittel im Handel. Für das Liposarkom (liposarcoma) wird eine mögliche Wirksamkeit vorhergesagt. Die Evidenz ist sehr schwach: Sie beschränkt sich auf eine einzelne präklinische Studie zum myxoiden Liposarkom, klinische Studien liegen nicht vor.
 
 ---
 
@@ -50,7 +50,7 @@ Axitinib ist ein selektiver Hemmer der VEGF-Rezeptoren 1–3 mit gefässhemmende
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Nierenzellkarzinom |
-| Vorhergesagte neue Indikation | Liposarcoma |
+| Vorhergesagte neue Indikation | Liposarkom (liposarcoma) |
 | TxGNN-Vorhersagewert | 0.9987 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -61,23 +61,25 @@ Axitinib ist ein selektiver Hemmer der VEGF-Rezeptoren 1–3 mit gefässhemmende
 
 ### Warum ist diese Vorhersage plausibel?
 
-Axitinib hemmt gezielt die Rezeptoren VEGFR-1, -2 und -3 und blockiert damit die Neubildung von Blutgefässen im Tumor. Dieser Mechanismus ist beim Nierenzellkarzinom gut etabliert. Zur Wirkungsweise liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Axitinib hemmt die VEGF-Rezeptoren 1, 2 und 3 und damit die Neubildung von Blutgefässen (Angiogenese). Angaben zum Wirkmechanismus aus den Arzneimitteldatenbanken fehlen in den für diesen Bericht zusammengestellten Daten; die Beschreibung stützt sich auf die bekannte Pharmakologie dieser Wirkstoffklasse.
 
-Die vorhergesagte Erkrankung ist eine seltene Unterform des Nierenzellkarzinoms. Eine gefässabhängige Tumorbiologie ist denkbar, ein direkter Beleg dafür fehlt jedoch. Die Verbindung zum Arzneimittel beruht ausschliesslich auf der Modellvorhersage.
+Die Angiogenese gilt als wichtiger Treiber bei Weichteilsarkomen. Das myxoide Liposarkom besitzt ein auffälliges, plexiformes Netz kleiner Blutgefässe. Ein Hemmer der VEGF-Signalwege könnte daher dort theoretisch ansetzen.
 
-Der Mechanismus könnte also grundsätzlich übertragbar sein. Das bleibt bis zum Vorliegen von Daten zu dieser Unterform eine Hypothese.
+Eine präklinische Studie berichtet über antiangiogene und tumorhemmende Wirkung von Axitinib in Modellen des myxoiden Liposarkoms. Das stützt die Plausibilität, ersetzt aber keinen Nachweis beim Menschen.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar.
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [27822137](https://pubmed.ncbi.nlm.nih.gov/27822137/) | 2016 | Präklinische Studie (Zell- und Tiermodell) | Sarcoma | Gegen Zelllinien des myxoiden Liposarkoms wurden verschiedene Wirkstoffe getestet. Angiogenese-hemmende Substanzen zeigten Antitumoraktivität; Axitinib wirkte in den Modellen antiangiogen und tumorhemmend. |
 
 ---
 
@@ -96,8 +98,8 @@ Derzeit keine verwandte Literatur verfügbar.
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinase-Inhibitor) |
-
-Angaben zu Myelosuppressionsrisiko, Emetogenität, Überwachung und Handhabungsschutz liegen in den zusammengestellten Daten nicht vor; bitte die Fachinformation beachten.
+| Überwachungspunkte | Blutdruck, Urin (Proteinurie), Schilddrüsen-, Leber- und Nierenfunktion, Blutbild |
+| Handhabungsschutz | Gemäss Fachinformation prüfen |
 
 ---
 
@@ -112,14 +114,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Erkrankung gibt es weder Studien noch Publikationen; die Vorhersage stützt sich allein auf das Modell (L5).
-- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen noch, sodass keine Sicherheitsbeurteilung möglich ist.
+- Für das Liposarkom liegt nur eine präklinische Studie zum myxoiden Subtyp vor, es gibt keine klinischen Studien. Da keine Studie die Erkrankung direkt beim Menschen untersucht, gilt Evidenzniveau L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen)
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Fallberichte, Fallserien oder Studien zu dieser seltenen Nierenzellkarzinom-Unterform
-- Klärung der Beziehung zur bestehenden Zulassung durch klinische Expertise
+- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic, da die Sicherheitsdaten derzeit fehlen
+- Ergänzung der Angaben zum Wirkmechanismus aus DrugBank
+- Klinische Daten (zunächst Phase-2-Studien) zu Axitinib beim Liposarkom
+- Prüfung, ob die präklinischen Ergebnisse vom myxoiden Subtyp auf andere Liposarkom-Formen übertragbar sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

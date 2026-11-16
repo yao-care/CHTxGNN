@@ -9,7 +9,7 @@ drugbank_id: DB00389
 monitor_inn: "Carbimazole"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 last_modified_at: 2026-11-16
-description: "Carbimazolum: vorhergesagte neue Indikation Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (Evidenzstufe L5). Ursprüngliche Indikation: Thyreostaticum"
+description: "Carbimazolum: vorhergesagte neue Indikation Schilddrüsenhormonresistenz durch Mutation im Schilddrüsenhormon-Rezeptor beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) (Evidenzstufe L5)."
 ---
 
 # Carbimazolum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Carbimazolum: Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta
+## Carbimazolum: Schilddrüsenhormonresistenz durch Mutation im Schilddrüsenhormon-Rezeptor beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Carbimazol ist in der Schweiz als Thyreostatikum zugelassen. Für die Hauptvorhersage, die Resistenz gegen Schilddrüsenhormon durch eine Mutation im Schilddrüsenhormonrezeptor beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta), liegt ein hoher Modellwert vor. Es gibt dafür aber weder klinische Studien noch Literatur, die diese Erkrankung direkt untersucht; die Evidenz entspricht daher nur einer Modellvorhersage (L5).
+Carbimazol ist in der Schweiz als Thyreostatikum zugelassen. Für die Schilddrüsenhormonresistenz durch Mutation im Schilddrüsenhormon-Rezeptor beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) wird es vom Modell vorhergesagt, doch der Mechanismus spricht eher dagegen. Es gibt keine klinischen Studien und nur einen Fallbericht, der diese Erkrankung nicht gezielt untersucht; die Evidenz entspricht daher dem Niveau L5.
 
 ---
 
@@ -50,7 +50,7 @@ Carbimazol ist in der Schweiz als Thyreostatikum zugelassen. Für die Hauptvorhe
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Thyreostaticum |
-| Vorhergesagte neue Indikation | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta |
+| Vorhergesagte neue Indikation | Schilddrüsenhormonresistenz durch Mutation im Schilddrüsenhormon-Rezeptor beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) |
 | TxGNN-Vorhersagewert | 0.9971 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,21 +61,19 @@ Carbimazol ist in der Schweiz als Thyreostatikum zugelassen. Für die Hauptvorhe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Carbimazol eine Vorstufe von Methimazol ist und die Schilddrüsenperoxidase hemmt. Dadurch sinkt die Bildung von Schilddrüsenhormonen.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Carbimazol eine Vorstufe von Methimazol ist. Dieses hemmt die Schilddrüsenperoxidase und senkt dadurch die Bildung von Schilddrüsenhormonen.
 
-Bei der Resistenz gegen Schilddrüsenhormon (RTH-beta) liegt der Grundfehler jedoch nicht in einer Überproduktion von Hormonen. Die Gewebe reagieren wegen einer THRB-Mutation weniger empfindlich auf Schilddrüsenhormon. Theoretisch könnte eine geringere Hormonbildung die zirkulierenden T4- und T3-Spiegel senken.
+Bei der Schilddrüsenhormonresistenz (RTH-beta) sind das freie Thyroxin (fT4) erhöht und das TSH nicht unterdrückt, weil die Rückkopplung über den Rezeptor gestört ist. Der hohe Vorhersagewert spiegelt wahrscheinlich nur das gemeinsame biochemische Bild (erhöhtes Thyroxin) wider, nicht eine tatsächliche therapeutische Verbindung.
 
-Dies würde aber auch den TSH-Spiegel erhöhen, eine Vergrösserung des Kropfs begünstigen und in ohnehin resistenten Geweben eine Unterfunktion auslösen können. Der hohe Modellwert wird daher durch keine klare mechanistische Begründung gestützt. Antithyreoidale Substanzen gelten bei RTH im Allgemeinen nicht als geeignet.
+Der mechanistische Zusammenhang ist schwach und möglicherweise sogar ungünstig. Wird das Schilddrüsenhormon gesenkt, steigt das TSH weiter an. Das verstärkt die Schilddrüsenstimulation und das Kropfrisiko, während Gewebe, die empfindlich geblieben sind (z. B. die Hypophyse), nicht korrigiert werden. Antithyreoidale Substanzen werden bei RTH-beta in der Regel nicht empfohlen, ausser in ausgewählten Fällen mit gleichzeitiger echter Hyperthyreose.
 
 ---
 
 ### Literaturbelege
 
-Zur Hauptvorhersage liegt eine Publikation vor. Sie beschreibt einen Patienten mit erhöhtem freiem Thyroxin und nicht unterdrücktem TSH, der über Jahre zeitweise mit Carbimazol behandelt wurde. Es handelt sich um einen Fallbericht, nicht um eine Studie zur Wirksamkeit bei dieser Erkrankung.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [24165508](https://pubmed.ncbi.nlm.nih.gov/24165508/) | 2013 | Übersicht/Fallbericht | BMJ Case Reports | Junger Mann mit über zehn Jahre erhöhtem freiem T4 (25–35,7 pmol/L) und nicht unterdrücktem TSH; intermittierend mit Carbimazol behandelt; derbe, nicht schmerzhafte Struma. |
+| [24165508](https://pubmed.ncbi.nlm.nih.gov/24165508/) | 2013 | Übersicht/Fallbericht | BMJ Case Reports | Junger Mann mit über zehn Jahre erhöhtem fT4 (25–35,7 pmol/L) und nicht unterdrücktem TSH (6,78–22,1 mIU/L) sowie Kropf. Er wurde zeitweise mit Carbimazol behandelt. Der Fall zeigt die diagnostische Schwierigkeit bei dieser Konstellation. |
 
 ---
 
@@ -98,13 +96,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der hohe Vorhersagewert (0,9971) stützt sich nur auf das Modell. Es gibt keine direkten Studien, und der Wirkmechanismus spricht eher gegen einen Nutzen bei Hormonresistenz.
+- Der Wirkmechanismus spricht gegen einen Nutzen bei Schilddrüsenhormonresistenz: Eine weitere Hormonsenkung kann das TSH erhöhen und das Kropfwachstum fördern.
+- Es gibt keine klinischen Studien und keine Literatur, die diese Erkrankung direkt untersucht. Der hohe Vorhersagewert allein genügt nicht.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische oder präklinische Daten, die Carbimazol direkt bei RTH-beta untersuchen
-- Eine fachliche Bewertung, ob ein Eingriff in die Hormonsynthese bei Gewebsresistenz sinnvoll ist (Risiko für TSH-Anstieg, Kropfwachstum, Unterfunktion)
-- Die Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da die Sicherheitsprüfung sonst nicht möglich ist
+- Angaben zum Wirkmechanismus aus einer pharmakologischen Datenbank
+- Kontrollierte klinische Daten, die den Nutzen bei Schilddrüsenhormonresistenz direkt belegen, falls diese Indikation weiterverfolgt werden soll
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

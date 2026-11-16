@@ -9,7 +9,7 @@ drugbank_id: DB00749
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 last_modified_at: 2026-11-16
-description: "Etodolacum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum"
+description: "Etodolacum: vorhergesagte neue Indikation Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum"
 ---
 
 # Etodolacum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Etodolacum: Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
+## Etodolacum: Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## Zusammenfassung
 
-Etodolac ist ein nichtsteroidales Antirheumatikum (NSAID), das in der Schweiz als Antirheumatikum zugelassen ist. Für die akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type), eine genetisch bedingte Skeletterkrankung, liegt lediglich eine Modellvorhersage vor. Es gibt dafür weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus ist nicht erkennbar.
+Etodolac ist ein nichtsteroidales Antirheumatikum. Für dieses Arzneimittel sagt das Modell voraus, dass es bei der akromesomelen Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type), wirksam sein könnte. Diese Vorhersage beruht allein auf einer Modellberechnung. Es liegen weder klinische Studien noch Literatur vor, die sie stützen.
 
 ---
 
@@ -48,7 +48,7 @@ Etodolac ist ein nichtsteroidales Antirheumatikum (NSAID), das in der Schweiz al
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antirheumatikum |
-| Vorhergesagte neue Indikation | Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Vorhergesagte neue Indikation | Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN-Vorhersagewert | 0.9997 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -59,21 +59,11 @@ Etodolac ist ein nichtsteroidales Antirheumatikum (NSAID), das in der Schweiz al
 
 ## Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage ist aus heutiger Sicht **kaum plausibel**. Zum Wirkmechanismus von Etodolac liegen in den Daten keine Angaben vor. Bekannt ist, dass Etodolac als NSAID bevorzugt die Cyclooxygenase-2 (COX-2) hemmt und dadurch Entzündung und Schmerz lindert.
+Etodolac hemmt bevorzugt das Enzym Cyclooxygenase-2 (COX-2) und senkt dadurch Entzündung und Schmerz. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Die akromesomele Dysplasie Typ Hunter-Thompson wird durch Mutationen im Gen CDMP1/GDF5 verursacht und stört die Entwicklung des Skeletts. Eine Verbindung zwischen der COX-Hemmung und dem GDF5-Signalweg ist nicht erkennbar. Der hohe Vorhersagewert beruht wahrscheinlich auf gemeinsamen Zuordnungen zu Skelett- und Bewegungsapparat-Erkrankungen und nicht auf einem echten biologischen Zusammenhang.
+Die akromesomele Dysplasie, Typ Hunter-Thompson, ist eine seltene Skelenterkrankung. Sie entsteht durch Funktionsverlust-Varianten im Gen CDMP1/GDF5, das für die Signalwege des Knochen- und Knorpelwachstums (BMP-Signalweg) wichtig ist. Ein plausibler mechanistischer Zusammenhang zwischen der COX-Hemmung und diesem Gendefekt ist nicht erkennbar.
 
----
-
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-## Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Der hohe Vorhersagewert beruht deshalb vermutlich eher auf Nähe im Datennetz des Modells als auf biologischen Gründen. Die Vorhersage sollte als Hypothese betrachtet werden, nicht als Hinweis auf einen Nutzen.
 
 ---
 
@@ -92,13 +82,12 @@ Derzeit keine verwandte Literatur verfügbar
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf ein Modell (Evidenzniveau L5). Es gibt weder Studien noch Literatur, und ein biologischer Zusammenhang zwischen Etodolac und dieser genetischen Skeletterkrankung ist nicht erkennbar.
+- Die Vorhersage stützt sich ausschliesslich auf das Modell (Evidenzniveau L5). Es gibt keine klinischen Studien, keine Literatur und keinen erkennbaren biologischen Zusammenhang.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein plausibler, belegter Wirkmechanismus, der Etodolac mit dem GDF5-Signalweg oder der Krankheitsentstehung verbindet
-- Präklinische oder klinische Daten, die die Erkrankung direkt untersuchen
-- Die Sicherheitsinformationen aus der Fachinformation (Warnhinweise und Kontraindikationen), die in den vorliegenden Daten fehlen und vor einer weiteren Bewertung ergänzt werden müssen
-- Angaben zum Wirkmechanismus von Etodolac aus einer Arzneimitteldatenbank
+- Präklinische oder klinische Daten, die einen Nutzen von Etodolac bei dieser Erkrankung direkt untersuchen
+- Eine nachvollziehbare mechanistische Begründung für einen Zusammenhang zwischen COX-2-Hemmung und dem GDF5/BMP-Signalweg
+- Die Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation, die bisher fehlen und für eine Sicherheitsbewertung nötig sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -39,7 +39,7 @@ Evidenzniveau: **L2** | Vorhergesagte Indikationen: **4**
 
 ### Zusammenfassung
 
-Lenalidomid wird in der Schweiz als Onkologikum eingesetzt. Die Vorhersage nennt als neue Indikation die myeloische Leukämie (myeloid leukemia). Es liegen mehrere abgeschlossene Phase-2-Studien direkt zur akuten myeloischen Leukämie vor, jedoch keine abgeschlossenen Phase-3-Studien mit Ergebnissen zu dieser Erkrankung. Die Literatur im Datensatz behandelt überwiegend myelodysplastische Syndrome und nicht die akute myeloische Leukämie selbst.
+Lenalidomid ist in der Schweiz als Onkologikum zugelassen. Für die vorhergesagte neue Anwendung bei myeloischer Leukämie (myeloid leukemia) liegen mehrere abgeschlossene Phase-2-Studien vor, jedoch keine abgeschlossene Phase-3-Studie mit Ergebnissen. Die Evidenz stützt sich überwiegend auf frühe Studien und Übersichtsarbeiten.
 
 ---
 
@@ -59,53 +59,50 @@ Lenalidomid wird in der Schweiz als Onkologikum eingesetzt. Die Vorhersage nennt
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lenalidomid wirkt als Modulator der Cereblon-E3-Ligase. Es baut die Transkriptionsfaktoren IKZF1 und IKZF3 sowie die Kinase CK1alpha ab. Zusätzlich aktiviert es T- und NK-Zellen. Die Daten enthalten keine eigene Angabe zum Wirkmechanismus; die Beschreibung stützt sich auf die mechanistische Begründung der Vorhersage.
+Lenalidomid bindet an Cereblon, einen Teil der CRL4-E3-Ubiquitin-Ligase, und fördert den Abbau bestimmter Eiweisse, darunter IKZF1, IKZF3 und CK1alpha (CSNK1A1). Der Abbau von CK1alpha erklärt die gut belegte Wirksamkeit bei myelodysplastischen Syndromen mit del(5q). Diese Erkrankung ist eine myeloische Neoplasie, die in eine akute myeloische Leukämie (AML) übergehen kann. Die Produktinformationen enthalten keine Angaben zum Wirkmechanismus; die Beschreibung stützt sich auf die Begründung der Vorhersage.
 
-Der Abbau von CK1alpha erklärt die Wirkung bei myeloischen Erkrankungen mit Deletion 5q. Myelodysplastische Syndrome und akute myeloische Leukämie sind eng verwandte Erkrankungen der blutbildenden Stammzellen, daher ist ein Übertrag des Mechanismus denkbar.
-
-Die Wirkung bei akuter myeloischer Leukämie ohne Deletion 5q ist jedoch nur mässig und uneinheitlich. Die Plausibilität ist deshalb vor allem für Untergruppen mit del(5q) gut begründet.
+Zusätzlich wirkt Lenalidomid auf das Immunsystem (Aktivierung von T- und NK-Zellen). Das könnte die Erhaltungstherapie nach einer Stammzelltransplantation unterstützen. Bei AML ohne del(5q) ist die Wirkung deutlich weniger einheitlich, und der klinische Nutzen ist hauptsächlich durch frühe Studien belegt.
 
 ---
 
 ### Klinische Studien
 
-Es sind zahlreiche Studien registriert. Die wichtigsten, nach Relevanz und Aussagekraft ausgewählt:
+Es sind zahlreiche Studien registriert. Nachfolgend die relevantesten (Auswahl von 10):
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00546897](https://clinicaltrials.gov/study/NCT00546897) | Phase 2 | Abgeschlossen | 48 | Lenalidomid allein bei älteren Patienten (über 60 Jahre) mit unbehandelter AML ohne 5q-Anomalie; einarmig, ohne Vergleichsgruppe |
-| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Phase 2 | Abgeschlossen | 88 | Randomisierter Vergleich von hochdosiertem Lenalidomid, sequenziell Azacitidin plus Lenalidomid und Azacitidin allein bei Älteren (≥65 Jahre) mit neu diagnostizierter AML |
-| [NCT01301820](https://clinicaltrials.gov/study/NCT01301820) | Phase 2 | Abgeschlossen | 120 | Erhaltungstherapie mit Lenalidomid im Wechsel mit Azacitidin nach Induktion bei älteren, fitten AML-Patienten mit ungünstiger Prognose |
-| [NCT00352365](https://clinicaltrials.gov/study/NCT00352365) | Phase 2 | Abgeschlossen | 41 | Lenalidomid bei Patienten ab 60 Jahren mit unbehandelter AML mit del(5q), die keine Induktionschemotherapie wünschen |
-| [NCT03118466](https://clinicaltrials.gov/study/NCT03118466) | Phase 2 | Abgeschlossen | 41 | Lenalidomid plus Chemotherapie (MEC) bei rezidivierter oder refraktärer AML |
-| [NCT02126553](https://clinicaltrials.gov/study/NCT02126553) | Phase 2 | Abgeschlossen | 29 | Lenalidomid-Erhaltung bei Hochrisiko-AML in Remission |
-| [NCT01743859](https://clinicaltrials.gov/study/NCT01743859) | Phase 2 | Abgeschlossen | 37 | Sequenzielle Gabe von Azacitidin und Lenalidomid bei rezidivierter oder refraktärer AML; Ziel ist die Rate kompletter Remissionen |
-| [NCT02538965](https://clinicaltrials.gov/study/NCT02538965) | Phase 2 | Abgeschlossen | 17 | Lenalidomid bei Kindern und Jugendlichen mit rezidivierter oder refraktärer AML |
-| [NCT01038635](https://clinicaltrials.gov/study/NCT01038635) | Phase 1/2 | Abgeschlossen | 94 | Azacitidin plus Lenalidomid bei Hochrisiko-MDS und AML; Dosisfindung und Wirksamkeit |
-| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Phase 3 | Unbekannt | 60 | Azacitidin plus Lenalidomid als Erhaltung bei älteren oder nicht belastbaren AML-Patienten, gesteuert nach MRD |
+| [NCT00546897](https://clinicaltrials.gov/study/NCT00546897) | Phase 2 | Abgeschlossen | 48 | Lenalidomid allein bei unbehandelter AML, Alter über 60, ohne 5q-Veränderung; Sicherheit und Wirksamkeit |
+| [NCT01301820](https://clinicaltrials.gov/study/NCT01301820) | Phase 2 | Abgeschlossen | 120 | Erhaltungstherapie im Wechsel mit Azacitidin nach Induktion bei älteren AML-Patienten mit ungünstiger Prognose |
+| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Phase 2 | Abgeschlossen | 88 | Randomisierter Vergleich von Lenalidomid hochdosiert, Azacitidin plus Lenalidomid und Azacitidin allein bei neu diagnostizierter AML (≥65 Jahre) |
+| [NCT00352365](https://clinicaltrials.gov/study/NCT00352365) | Phase 2 | Abgeschlossen | 41 | Lenalidomid bei unbehandelter AML mit del(5q), Alter ≥60, ohne Induktionschemotherapie |
+| [NCT03118466](https://clinicaltrials.gov/study/NCT03118466) | Phase 2 | Abgeschlossen | 41 | Lenalidomid plus MEC-Chemotherapie bei rezidivierter/refraktärer AML |
+| [NCT02126553](https://clinicaltrials.gov/study/NCT02126553) | Phase 2 | Abgeschlossen | 29 | Lenalidomid-Erhaltung bei AML mit hohem Risiko in Remission |
+| [NCT00360672](https://clinicaltrials.gov/study/NCT00360672) | Phase 2 | Abgeschlossen | 27 | Lenalidomid bei rezidivierter/refraktärer AML oder MDS mit Chromosom-5-Veränderungen |
+| [NCT02538965](https://clinicaltrials.gov/study/NCT02538965) | Phase 2 | Abgeschlossen | 17 | Aktivität bei Kindern und Jugendlichen mit rezidivierter/refraktärer AML |
+| [NCT01132586](https://clinicaltrials.gov/study/NCT01132586) | Phase 1 | Abgeschlossen | 61 | Dosisfindung und Sicherheit mit Cytarabin und Idarubicin bei AML |
+| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Phase 3 | Unbekannt | 60 | Azacitidin plus Lenalidomid als Erhaltung, gesteuert durch MRD-Messung, bei älteren oder nicht fitten AML-Patienten |
 
-Die vorliegenden Zusammenfassungen enthalten keine Ergebnisdaten zu Wirksamkeit oder Überleben.
+Mehrere weitere kleine oder vorzeitig beendete Studien (z. B. NCT01198054 mit 4 Teilnehmern) liefern kaum verwertbare Aussagen.
 
 ---
 
 ### Literaturbelege
 
-Die Literatur behandelt überwiegend myelodysplastische Syndrome und nicht die akute myeloische Leukämie selbst. Es handelt sich ausschliesslich um Übersichtsarbeiten bzw. nicht klassifizierte Publikationen.
+Die gefundene Literatur besteht überwiegend aus allgemeinen Übersichtsarbeiten zu myelodysplastischen Syndromen und enthält keine randomisierte Studie zu Lenalidomid bei myeloischer Leukämie.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Übersichtsarbeit | American Journal of Hematology | Aktualisierung zu Diagnose, Risikoeinstufung und Behandlung myelodysplastischer Syndrome |
-| [37874917](https://pubmed.ncbi.nlm.nih.gov/37874917/) | 2023 | Übersichtsarbeit | Blood | Entscheidungsfindung bei MDS; Stammzelltransplantation als einzige mögliche Heilung |
-| [24656536](https://pubmed.ncbi.nlm.nih.gov/24656536/) | 2014 | Übersichtsarbeit | Lancet | MDS als klonale Stammzellerkrankungen; Übergang in AML bei etwa einem Drittel der Patienten |
-| [34864823](https://pubmed.ncbi.nlm.nih.gov/34864823/) | 2021 | Übersichtsarbeit | Blood Cancer Journal | Differenzierungstherapien bei myeloischen Neoplasien jenseits der Zytotoxizität |
-| [38777652](https://pubmed.ncbi.nlm.nih.gov/38777652/) | 2024 | Retrospektive Analyse | Clinical Lymphoma, Myeloma & Leukemia | Eosinophilie unter Lenalidomid bei 44 Patienten mit MDS |
-| [29795386](https://pubmed.ncbi.nlm.nih.gov/29795386/) | 2018 | Übersichtsarbeit | Blood Cancer Journal | Aktueller Behandlungsalgorithmus bei MDS |
+| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Übersichtsarbeit | American Journal of Hematology | Aktualisierung zu Diagnose, Risikoeinteilung und Behandlung von MDS, die in eine AML übergehen können |
+| [37874917](https://pubmed.ncbi.nlm.nih.gov/37874917/) | 2023 | Übersichtsarbeit | Blood | Therapieentscheidungen bei MDS; Stammzelltransplantation als einzige potenziell heilende Option |
+| [24656536](https://pubmed.ncbi.nlm.nih.gov/24656536/) | 2014 | Übersichtsarbeit | Lancet | MDS als Stammzellerkrankung; Übergang in AML bei etwa einem Drittel der Patienten |
+| [38777652](https://pubmed.ncbi.nlm.nih.gov/38777652/) | 2024 | Retrospektive Analyse | Clinical Lymphoma, Myeloma & Leukemia | Eosinophilie unter Lenalidomid bei 44 MDS-Patienten |
+| [30305508](https://pubmed.ncbi.nlm.nih.gov/30305508/) | 2018 | Übersichtsarbeit | Rinsho Ketsueki | Lenalidomid bei Niedrigrisiko-MDS mit del(5q) und symptomatischer Anämie |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 2 Zulassungen).
+Die Liste kann unvollständig sein; es sind mindestens 2 Zulassungen erfasst.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -118,19 +115,19 @@ Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 2 Zulas
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Immunmodulatorische Therapie (Cereblon-E3-Ligase-Modulator) |
-| Myelosuppressionsrisiko | Hoch |
+| Zytotoxizitätsklassifikation | Immunmodulierende, zielgerichtete Therapie (kein konventionelles Zytostatikum) |
+| Myelosuppressionsrisiko | Hoch (Neutropenie und Thrombozytopenie sind bekannte Wirkungen, vor allem bei MDS und AML) |
 | Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-| Handhabungsschutz | Spezielle Schutzmassnahmen sind zu beachten (Kapseln nicht öffnen; Kontakt mit Schwangeren vermeiden) |
+| Überwachungspunkte | Regelmässiges Blutbild, Leber- und Nierenfunktion |
+| Handhabungsschutz | Kapseln nicht öffnen oder zerdrücken; Schutzhandschuhe beim Umgang; strenge Vorsichtsmassnahmen wegen Fruchtschädigung (Schwangerschaftsverhütungsprogramm) |
 
-Diese Einstufung beruht auf allgemeinem Fachwissen und nicht auf den für diesen Bericht zusammengestellten Daten.
+Diese Angaben stammen aus allgemeinem Fachwissen und nicht aus den für diesen Bericht zusammengestellten Daten; sie sind anhand der Fachinformation zu bestätigen.
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen. Für Wechselwirkungen wurden in den zusammengestellten Daten keine Einträge gefunden.
 
 ---
 
@@ -139,14 +136,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Es gibt mehrere abgeschlossene Phase-2-Studien direkt zur akuten myeloischen Leukämie. Ihre Ergebnisse liegen in den vorhandenen Daten aber nicht vor, und die Literatur behandelt vor allem MDS.
-- Die Wirkung ausserhalb von del(5q) gilt als mässig und uneinheitlich; Sicherheitsdaten aus der Fachinformation fehlen.
+- Mehrere abgeschlossene Phase-2-Studien bei AML (u. a. n = 120 und n = 88) und ein plausibler Mechanismus sprechen für die Vorhersage. Belastbare Phase-3-Ergebnisse fehlen jedoch, und die Wirkung ausserhalb von del(5q) ist uneinheitlich.
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen noch.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Veröffentlichte Ergebnisse (Remissionsraten, Überleben) der abgeschlossenen Phase-2-Studien zur AML
-- Fachinformation von Swissmedic mit Warnungen und Kontraindikationen
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Klärung, welche Untergruppen (z. B. mit del(5q)) am ehesten profitieren
+- Auswertung der Ergebnisse der Phase-2-Studien (insbesondere NCT01301820 und NCT01358734) und Prüfung der Phase-3-Studie NCT04490707
+- Abgleich der Warnhinweise und Kontraindikationen mit der Schweizer Fachinformation (Swissmedic)
+- Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Klärung, bei welchen AML-Untergruppen (z. B. del(5q), Erhaltungstherapie nach Transplantation) ein Nutzen am wahrscheinlichsten ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

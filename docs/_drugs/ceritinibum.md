@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Ceritinib ist ein Tyrosinkinase-Hemmer, der gegen ALK, ROS1 und IGF-1R wirkt und in der Schweiz als Onkologikum zugelassen ist. Das Modell sagt voraus, dass es bei gingivaler Fibromatose (fibromatosis, gingival) wirksam sein könnte. Dafür gibt es keine direkte Evidenz: Weder klinische Studien noch Publikationen untersuchen diese Erkrankung, die Vorhersage beruht allein auf dem Modell.
+Ceritinib ist ein Onkologikum, das in der Schweiz im Handel ist. Die Vorhersage nennt als mögliche neue Indikation die gingivale Fibromatose (fibromatosis, gingival). Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf einem Computermodell (Evidenzniveau L5).
 
 ---
 
@@ -59,9 +59,9 @@ Ceritinib ist ein Tyrosinkinase-Hemmer, der gegen ALK, ROS1 und IGF-1R wirkt und
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ceritinib hemmt die Tyrosinkinasen ALK, ROS1 und IGF-1R. Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt; die Angaben stammen aus der allgemeinen pharmakologischen Einordnung.
+Zum Wirkmechanismus von Ceritinib liegen in den zusammengestellten Daten keine Angaben vor. Aus der Literatur zu anderen Krankheiten ist bekannt, dass Ceritinib die anaplastische Lymphomkinase (ALK) hemmt. Für die gingivale Fibromatose ist jedoch kein ALK-getriebener oder kinaseabhängiger Krankheitsmechanismus belegt.
 
-Ein belastbarer mechanistischer Zusammenhang zur gingivalen Fibromatose ist nicht erkennbar. Diese Erkrankung ist eine erbliche oder arzneimittelbedingte fibrotische Gewebewucherung des Zahnfleisches, für die keine ALK-Abhängigkeit bekannt ist. Der hohe Vorhersagewert (0,9986) ist ein reines Modellergebnis und kein Hinweis auf eine tatsächliche Wirksamkeit. Ob eine Hemmung von IGF-1R oder anderen Signalwegen in der Fibrose eine Rolle spielen könnte, ist bislang nicht untersucht.
+Die Vorhersage stützt sich ausschliesslich auf eine statistische Assoziation im Modell. Es gibt keine Studien oder Veröffentlichungen, die eine Verbindung zwischen der Hemmung von ALK, ROS1 oder IGF-1R durch Ceritinib und dieser Erkrankung zeigen. Die Plausibilität ist daher derzeit nicht begründet und müsste erst durch Grundlagenforschung geklärt werden.
 
 ---
 
@@ -77,10 +77,9 @@ Ein belastbarer mechanistischer Zusammenhang zur gingivalen Fibromatose ist nich
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinase-Hemmer) |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion; zudem EKG (QT-Verlängerung wurde bei Tyrosinkinase-Hemmern einschliesslich Ceritinib beschrieben) |
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Kinase-Inhibitor) |
 
-Angaben zu Myelosuppressionsrisiko, Emetogenität und Handhabungsschutz liegen in den zusammengestellten Daten nicht vor.
+Weitere Angaben (Myelosuppressionsrisiko, Emetogenität, Überwachung, Handhabungsschutz) sind in den zusammengestellten Daten nicht enthalten.
 
 ---
 
@@ -95,13 +94,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die gingivale Fibromatose gibt es weder klinische Studien noch Literatur, und ein plausibler Wirkmechanismus fehlt. Die Vorhersage stützt sich ausschliesslich auf das Modell (Evidenzniveau L5).
+- Es gibt weder klinische Studien noch Literatur zur gingivalen Fibromatose, und ein plausibler Mechanismus ist nicht erkennbar. Die Vorhersage ist rein rechnerisch (L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische Daten, die einen Zusammenhang zwischen ALK-/IGF-1R-Signalwegen und gingivaler Fibrose belegen
-- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, um die Sicherheit zu prüfen
-- Die Angaben zum Wirkmechanismus aus DrugBank
-- Eine Nutzen-Risiko-Abwägung, da Ceritinib ein onkologisches Arzneimittel mit relevantem Nebenwirkungsprofil ist und die Erkrankung gutartig ist
+- Präklinische Hinweise, dass ALK oder verwandte Kinasen bei der gingivalen Fibromatose eine Rolle spielen
+- Der Wirkmechanismus von Ceritinib aus einer geeigneten Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation, da diese in den Daten fehlen und eine Sicherheitsbewertung bisher nicht möglich ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

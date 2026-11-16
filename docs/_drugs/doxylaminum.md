@@ -9,7 +9,7 @@ drugbank_id: DB00366
 monitor_inn: "Doxylamine"
 predicted_indications: ["nasal cavity disease"]
 last_modified_at: 2026-11-16
-description: "Doxylaminum: vorhergesagte neue Indikation Nasal cavity disease (Evidenzstufe L5). Ursprüngliche Indikation: Beruhigungsmittel"
+description: "Doxylaminum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beruhigungsmittel"
 ---
 
 # Doxylaminum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Doxylaminum: Nasal cavity disease
+## Doxylaminum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Doxylamin ist ein sedierendes H1-Antihistaminikum der ersten Generation. Vorhergesagt wird eine mögliche Wirksamkeit bei allergischer Urtikaria (allergic urticaria). Diese Vorhersage beruht allein auf einem Modellwert; für diese Erkrankung liegen weder klinische Studien noch Literatur vor (Evidenzniveau L5).
+Doxylamin ist ein Antihistaminikum der ersten Generation, das in der Schweiz als Arzneimittel im Handel ist. Für die Vorhersage einer Erkrankung der Nasenhöhle (nasal cavity disease) liegt ein hoher Modellwert vor. Es gibt jedoch keine klinischen Studien und keine Literatur dazu, die Evidenz beschränkt sich daher auf die reine Modellvorhersage (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +48,7 @@ Doxylamin ist ein sedierendes H1-Antihistaminikum der ersten Generation. Vorherg
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Beruhigungsmittel; symptomatischen Behandlung von Übelkeit und Erbrechen während der Schwangerschaft bei Frauen, die nicht auf eine konservative Behandlung ansprechen |
-| Vorhergesagte neue Indikation | Nasal cavity disease |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9936 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -59,11 +59,23 @@ Doxylamin ist ein sedierendes H1-Antihistaminikum der ersten Generation. Vorherg
 
 ### Warum ist diese Vorhersage plausibel?
 
-Doxylamin gehört zu den Ethanolamin-H1-Antihistaminika der ersten Generation und wirkt zusätzlich anticholinergisch und sedierend. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
+Doxylamin gehört zu den Antihistaminika der ersten Generation (Ethanolamin-Typ) und blockiert H1-Rezeptoren. Zudem wirkt es stark anticholinerg, also hemmend auf muskarinische Rezeptoren. Der Wirkmechanismus ist in den vorliegenden Daten nicht hinterlegt; die Einordnung beruht auf der bekannten Wirkstoffklasse.
 
-Bei der Urtikaria setzen Mastzellen Histamin frei. Dieses führt zu Quaddeln, Rötung und Juckreiz. Blockiert man H1-Rezeptoren an Hautgefässen und sensiblen Nerven, kann man diese Symptome plausibel lindern. Das entspricht dem Einsatz von Antihistaminika dieser Klasse bei Urtikaria.
+Eine Blockade der H1- und muskarinischen Rezeptoren kann Beschwerden lindern, die durch Histamin vermittelt werden, etwa verstopfte Nase, Fliessschnupfen, Niesen und vermehrte Schleimbildung. Das passt biologisch zu Beschwerden wie allergischem Schnupfen oder Erkältungssymptomen.
 
-Der hohe Vorhersagewert beruht vermutlich vor allem auf der Ähnlichkeit zu anderen H1-Antihistaminika. Er ersetzt keine Studiendaten. Zudem sind Antihistaminika der zweiten Generation wegen geringerer Sedierung und geringerer anticholinerger Belastung in Leitlinien bevorzugt. Das macht Doxylamin hier weniger attraktiv.
+Der hohe Vorhersagewert ist jedoch eine reine Rechenvorhersage. Die Bezeichnung «Erkrankung der Nasenhöhle» ist zudem sehr breit und umfasst unterschiedliche Krankheitsbilder (z. B. allergische Rhinitis, Rhinosinusitis, Nasenpolypen). Die Vorhersage dürfte daher vor allem den bekannten Klasseneffekt von Antihistaminika widerspiegeln und kein neues Umwidmungssignal darstellen.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -76,24 +88,18 @@ Der hohe Vorhersagewert beruht vermutlich vor allem auf der Ähnlichkeit zu ande
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Mechanismus ist plausibel, aber es gibt weder Studien noch Literatur zu Doxylamin bei allergischer Urtikaria. Die Vorhersage stützt sich nur auf das Modell. Zweitgenerations-Antihistaminika sind Standard und verträglicher.
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell, es liegen weder klinische Studien noch Literatur vor. Die Zielindikation ist zudem unspezifisch.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Systematische Literaturrecherche und Prüfung registrierter Studien zu Doxylamin bei Urtikaria
-- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen) von Swissmedic
-- Ergänzung des Wirkmechanismus aus DrugBank
-- Vergleich des Nutzens und der Sedierung mit Antihistaminika der zweiten Generation
+- Fachinformation (Warnhinweise und Kontraindikationen) von Swissmedic beschaffen und auswerten, da Sicherheitsdaten bisher fehlen
+- Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank) ergänzen
+- Konkretisierung der Zielindikation (z. B. allergische Rhinitis) und Suche nach klinischen Studien oder Publikationen, die diese Erkrankung direkt untersuchen
+- Prüfung der Darreichungsform und Applikationsweise für die vorgesehene Anwendung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

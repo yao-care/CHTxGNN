@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Aliskiren ist ein direkter Renin-Hemmer, der in der Schweiz zugelassen war. Vorhergesagt wird eine mögliche Wirksamkeit bei pulmonaler Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia). Die Evidenz dafür ist schwach: Es liegen keine klinischen Studien und nur Tier- und Laborstudien vor, die sich nicht direkt mit dieser Erkrankung befassen.
+Aliskiren ist ein Arzneimittel, das in der Schweiz zugelassen war und die Bildung von Angiotensin II hemmt. Die Vorhersage lautet, dass es bei pulmonaler Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) wirksam sein könnte. Die Evidenz ist sehr schwach: Es liegen nur Tier- und Laborstudien zu verwandten Mechanismen vor, aber keine Studie zu dieser Erkrankung selbst.
 
 ---
 
@@ -61,24 +61,28 @@ Aliskiren ist ein direkter Renin-Hemmer, der in der Schweiz zugelassen war. Vorh
 
 ### Warum ist diese Vorhersage plausibel?
 
-Aliskiren hemmt Renin und blockiert damit den ersten, geschwindigkeitsbestimmenden Schritt des Renin-Angiotensin-Systems (RAS). Ein detaillierter Wirkmechanismus aus einer Arzneimitteldatenbank liegt für diesen Bericht nicht vor; die Beschreibung stützt sich auf die allgemein bekannte Wirkweise.
+Aliskiren hemmt das Enzym Renin und senkt dadurch die Bildung von Angiotensin II. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Sauerstoffmangel, insbesondere chronisch intermittierende Hypoxie, aktiviert lokale und zirkulierende RAS-Anteile. Angiotensin II fördert dabei die Aktivierung des sympathischen Nervensystems, den Umbau von Gefässen und Wachstumsfaktor-Signale. Das ergibt eine biologisch nachvollziehbare Begründung, warum eine Hemmung des RAS bei hypoxiebedingtem Lungenhochdruck nützlich sein könnte.
+Intermittierende Hypoxie aktiviert das Renin-Angiotensin-System (RAS). Angiotensin II fördert dabei die Aktivierung des sympathischen Nervensystems, den Umbau von Gefässen und die Signalwege für Wachstumsfaktoren. Diese Vorgänge sind für Gefässerkrankungen der Lunge im Zusammenhang mit Sauerstoffmangel von Bedeutung. In Ratten schwächte Aliskiren den Umbau der Vorhöfe ab, der durch chronische intermittierende Hypoxie ausgelöst wurde.
 
-Die Datenlage ist jedoch vorklinisch: Sie stammt aus Rattenmodellen (Vorhofumbau und Sympathikusaktivierung unter intermittierender Hypoxie) und aus Zellversuchen zur Angiotensin-Signalgebung. Studien zu Lungengefässerkrankungen beim Menschen fehlen.
+Dieser Zusammenhang ist jedoch nur indirekt. Es gibt keine Daten zu pulmonaler Hypertonie bei Menschen oder in einem entsprechenden Tiermodell. Der hohe TxGNN-Wert beruht auf Nähe im Netzwerk der Modellvorhersage und ist keine klinische Bestätigung.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Keine der gefundenen Arbeiten untersucht die vorhergesagte Erkrankung direkt.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [32982180](https://pubmed.ncbi.nlm.nih.gov/32982180/) | 2020 | Tierstudie | Drug design, development and therapy | Aliskiren im Rattenmodell mit chronisch intermittierender Hypoxie; untersucht wurde der Umbau des Vorhofs (Vorhofflimmern), nicht der Lungenkreislauf. |
-| [29645283](https://pubmed.ncbi.nlm.nih.gov/29645283/) | 2018 | Tierstudie | The Journal of physiology | Bei Ratten wird die Sympathikusaktivierung nach intermittierender Hypoxie durch zirkulierendes Angiotensin II vermittelt; RAS-Hemmung verhindert diese Effekte. |
-| [39133776](https://pubmed.ncbi.nlm.nih.gov/39133776/) | 2024 | In-vitro-Grundlagenstudie | American journal of physiology. Regulatory, integrative and comparative physiology | Untersuchung der Angiotensin-II-Freisetzung in Hirngewebe von Ratten; kein Bezug zur Lunge. |
-| [26502369](https://pubmed.ncbi.nlm.nih.gov/26502369/) | 2016 | Vorklinische Grundlagenstudie | Transplantation | Calcineurin-Hemmer erhöhen die lokale Renin-Bildung in den Sammelrohren der Niere; indirekter Mechanismusbezug. |
+| [32982180](https://pubmed.ncbi.nlm.nih.gov/32982180/) | 2020 | Präklinisch (Ratte) | Drug design, development and therapy | Untersucht die Wirkung von Aliskiren auf den Umbau der Vorhöfe bei chronischer intermittierender Hypoxie. Verwandter Mechanismus, aber keine pulmonale Hypertonie. |
+| [29645283](https://pubmed.ncbi.nlm.nih.gov/29645283/) | 2018 | Präklinisch (Ratte) | The Journal of Physiology | Die sympathische Aktivierung nach intermittierender Hypoxie wird durch zirkulierendes Angiotensin II vermittelt. Eine Hemmung des RAS verhindert diese Effekte. |
+| [26502369](https://pubmed.ncbi.nlm.nih.gov/26502369/) | 2016 | Präklinisch (in vitro/Tier) | Transplantation | Calcineurin-Hemmer erhöhen das lokale Renin in den Sammelrohren der Niere. Nur indirekter Bezug. |
+| [39133776](https://pubmed.ncbi.nlm.nih.gov/39133776/) | 2024 | Präklinisch (in vitro) | American Journal of Physiology. Regulatory, Integrative and Comparative Physiology | Untersucht die Freisetzung von Angiotensin II im Gehirn. Nur Grundlagenforschung ohne Bezug zur Lunge. |
 
 ---
 
@@ -87,8 +91,6 @@ Keine der gefundenen Arbeiten untersucht die vorhergesagte Erkrankung direkt.
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 58050 | Rasilez 150 mg, Filmtabletten | Synthetika | Behandlung der essentiellen Hypertonie |
-
-Die Zulassung ist gelöscht; derzeit besteht keine gültige Zulassung.
 
 ---
 
@@ -103,14 +105,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch, doch es gibt weder klinische Studien noch Literatur, die die vorhergesagte Erkrankung direkt untersucht; die Evidenz ist daher auf Modellvorhersage beschränkt (L5).
-- Es gibt keine gültige Zulassung in der Schweiz, und die Sicherheitsdaten aus der Fachinformation fehlen.
+- Keine der aufgeführten Studien untersucht die vorhergesagte Erkrankung direkt, daher gilt Evidenzniveau L5. Die vorhandenen Daten stammen aus Tiermodellen zu verwandten Mechanismen.
+- Die Schweizer Zulassung ist nur noch als gelöscht verzeichnet, und die Sicherheitsdaten aus der Fachinformation fehlen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Präklinische Daten in Modellen der pulmonalen Hypertonie (z. B. hypoxiebedingt) sowie, bei positivem Ergebnis, klinische Studien bei Patienten
-- Klärung der Sicherheit, insbesondere Blutdruckabfall, Hyperkaliämie und Nierenfunktion unter RAS-Blockade
+- Präklinische Daten in einem Modell der pulmonalen Hypertonie (z. B. hypoxiebedingt)
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Bei positiven präklinischen Ergebnissen: eine klinische Pilotstudie mit sorgfältiger Prüfung der Sicherheit (Blutdruck, Kalium, Nierenfunktion)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

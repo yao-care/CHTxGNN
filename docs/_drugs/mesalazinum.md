@@ -9,7 +9,7 @@ drugbank_id: DB00244
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 last_modified_at: 2026-11-16
-description: "Mesalazinum: vorhergesagte neue Indikation angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy) (Evidenzstufe L5)."
+description: "Mesalazinum: vorhergesagte neue Indikation Angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy) (Evidenzstufe L5)."
 ---
 
 # Mesalazinum
@@ -34,54 +34,44 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Mesalazinum: angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy)
+## Mesalazinum: Angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy)
 {: .text-alpha }
 
-### Zusammenfassung
+## Zusammenfassung
 
-Mesalazin ist ein in der Schweiz im Handel befindlicher Wirkstoff, der lokal im Darm entzündungshemmend wirkt. Für die Vorhersage «angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy)» liegen weder klinische Studien noch Literatur vor. Die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5).
+Mesalazin ist ein entzündungshemmender Wirkstoff, der in der Schweiz in mehreren Präparaten im Handel ist. Für die angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy) liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt dafür aber weder klinische Studien noch Literatur; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
----
-
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Colitis ulcerosa; Proktitis ulcerosa |
-| Vorhergesagte neue Indikation | angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy) |
+| Vorhergesagte neue Indikation | Angeborene Hypotrichose mit juveniler Makuladystrophie (congenital hypotrichosis with juvenile macular dystrophy) |
 | TxGNN-Vorhersagewert | 0.9965 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
 | Anzahl Zulassungen | mindestens 9 |
 | Empfohlene Entscheidung | Abwarten |
 
----
+## Warum ist diese Vorhersage plausibel?
 
-### Warum ist diese Vorhersage plausibel?
+Der Wirkmechanismus von Mesalazin ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Allgemein wird eine entzündungshemmende Wirkung angenommen (Hemmung von COX/LOX, Aktivierung von PPAR-gamma, Modulation von NF-kB).
 
-Der Wirkmechanismus von Mesalazin ist in den vorliegenden Daten nicht hinterlegt. Aus der Fachliteratur ist bekannt, dass der Wirkstoff vor allem lokal an der Darmschleimhaut entzündungshemmend wirkt, unter anderem über die Hemmung von Entzündungsbotenstoffen, die Aktivierung von PPAR-gamma und die Modulation von NF-kB.
+Die vorhergesagte Erkrankung ist eine äusserst seltene genetische Störung, die durch eine Mutation im CDH3-Gen (Mangel an P-Cadherin) verursacht wird. Ein plausibler Zusammenhang zwischen der entzündungshemmenden Wirkung von Mesalazin und diesem Cadherin-Defekt ist nicht erkennbar.
 
-Die vorhergesagte Erkrankung ist eine seltene Erbkrankheit, die mit Mutationen im CDH3-Gen und einer gestörten Zelladhäsion zusammenhängt. Ein plausibler Zusammenhang zwischen dem entzündungshemmenden Mechanismus von Mesalazin und dieser Störung ist nicht erkennbar.
+Der hohe Vorhersagewert ist daher mit Vorsicht zu interpretieren: Er ist ein reines Modellergebnis ohne stützende Studien oder Publikationen. Ein mechanistischer Zusammenhang wurde nicht identifiziert.
 
-Der hohe Vorhersagewert ist daher mit hoher Wahrscheinlichkeit ein Artefakt des Modells und kein Hinweis auf eine tatsächliche Wirksamkeit. Eine biologische Begründung fehlt.
+## Klinische Studien
 
----
+Derzeit keine verwandten klinischen Studien registriert
 
-### Klinische Studien
+## Literaturbelege
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandte Literatur verfügbar
 
----
+## Marktinformationen Schweiz
 
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-### Marktinformationen Schweiz
-
-Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 9 Zulassungen erfasst).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -95,26 +85,21 @@ Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein. Al
 | 53108 | Yaldigo 400 mg, magensaftresistente Tablette | Synthetika | Colitis ulcerosa |
 | 55951 | Salofalk 1000 mg, Granulat | Synthetika | Colitis ulcerosa |
 
----
-
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
----
-
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, und ein Wirkmechanismus ist nicht erkennbar. Der hohe Modellwert allein genügt nicht, um eine Weiterverfolgung zu rechtfertigen.
+- Es gibt keine klinischen Studien und keine Literatur, und ein mechanistischer Zusammenhang zwischen Mesalazin und dem CDH3-Defekt ist nicht erkennbar. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein plausibler biologischer Zusammenhang zwischen Mesalazin und der CDH3-bezogenen Erkrankung
-- Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Die Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eine nachvollziehbare biologische Begründung, wie Mesalazin auf den P-Cadherin-Mangel wirken könnte
+- Präklinische oder klinische Daten zur Erkrankung
+- Die Wirkmechanismus-Daten des Arzneimittels sowie die Warnhinweise und Kontraindikationen aus der Fachinformation (Swissmedic)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

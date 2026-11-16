@@ -9,7 +9,7 @@ drugbank_id: DB01265
 monitor_inn: "Telbivudine"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
 last_modified_at: 2026-11-16
-description: "Telbivudinum: vorhergesagte neue Indikation Chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis B"
+description: "Telbivudinum: vorhergesagte neue Indikation Chronische Hepatitis-C-Virusinfektion (chronic hepatitis C virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis B"
 ---
 
 # Telbivudinum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Telbivudinum: Chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection)
+## Telbivudinum: Chronische Hepatitis-C-Virusinfektion (chronic hepatitis C virus infection)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Telbivudin ist ein antiviraler Wirkstoff, der in der Schweiz zugelassen ist. Für die chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection) liefert das Modell zwar einen hohen Vorhersagewert, doch die zusammengestellten Daten enthalten weder klinische Studien noch Publikationen, die diese Erkrankung direkt untersuchen. Die Evidenz beschränkt sich daher auf die Modellvorhersage.
+Telbivudin ist ein Nukleosidanalogon, das gegen das Hepatitis-B-Virus eingesetzt wird. Für die chronische Hepatitis-C-Virusinfektion (chronic hepatitis C virus infection) sagt das Modell einen möglichen Nutzen voraus, doch der Mechanismus ist nicht plausibel und es gibt keine Studie, die diese Erkrankung direkt untersucht. Die Evidenz ist daher auf eine reine Modellvorhersage beschränkt (L5).
 
 ---
 
@@ -48,7 +50,7 @@ Telbivudin ist ein antiviraler Wirkstoff, der in der Schweiz zugelassen ist. Fü
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Chronische Hepatitis B |
-| Vorhergesagte neue Indikation | Chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection) |
+| Vorhergesagte neue Indikation | Chronische Hepatitis-C-Virusinfektion (chronic hepatitis C virus infection) |
 | TxGNN-Vorhersagewert | 0.9996 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,24 +61,24 @@ Telbivudin ist ein antiviraler Wirkstoff, der in der Schweiz zugelassen ist. Fü
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Telbivudin liegen in den zusammengestellten Daten keine Angaben vor. Aus der Fachliteratur ist bekannt, dass es ein synthetisches Nukleosidanalogon ist, das die DNA-Polymerase des Hepatitis-B-Virus (HBV) hemmt.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Wirkstoffklasse ist bekannt, dass Telbivudin ein Thymidin-Nukleosidanalogon ist, das die DNA-Polymerase (reverse Transkriptase) des Hepatitis-B-Virus hemmt.
 
-Das Hepatitis-C-Virus (HCV) vermehrt sich jedoch über ein anderes Enzym, die RNA-abhängige RNA-Polymerase NS5B. Ein plausibler direkter Wirkmechanismus gegen HCV ist deshalb nicht erkennbar. Beide Viren verursachen chronische Lebererkrankungen und werden in Übersichtsarbeiten oft gemeinsam besprochen. Der hohe Vorhersagewert dürfte vor allem auf dieser gemeinsamen Nennung und auf der Nähe zu anderen Nukleosidanaloga beruhen, nicht auf einem echten Wirkprinzip.
+Das Hepatitis-C-Virus vermehrt sich dagegen über eine RNA-abhängige RNA-Polymerase (NS5B), für die keine Hemmung durch Telbivudin bekannt ist. Beide Erkrankungen sind Virushepatitiden und werden in der Literatur oft gemeinsam behandelt. Der hohe Vorhersagewert spiegelt wahrscheinlich diese thematische Nähe wider und nicht einen echten Wirkmechanismus. Eine mechanistische Begründung für die Anwendbarkeit bei Hepatitis C fehlt.
 
 ---
 
 ### Literaturbelege
 
-Die sechs gefundenen Arbeiten behandeln Hepatitis B und C gemeinsam oder betreffen ausschliesslich HBV. Keine davon zeigt eine Wirkung von Telbivudin gegen HCV.
+Die gefundenen Publikationen sind ausschliesslich Übersichtsarbeiten und eine Kohortenstudie. Sie behandeln Hepatitis B und C allgemein; die einzige Telbivudin-spezifische Arbeit betrifft Hepatitis B. Keine Arbeit untersucht Telbivudin bei Hepatitis C.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Übersichtsarbeit | Wiener medizinische Wochenschrift | Aktuelle Behandlung der chronischen Hepatitis B und C; bei Hepatitis B Peginterferon bzw. Lamivudin. |
-| [21999649](https://pubmed.ncbi.nlm.nih.gov/21999649/) | 2011 | Übersichtsarbeit | Paediatric Drugs | Medikamentöse Behandlung chronischer Lebererkrankungen bei Kindern, Fokus auf heilbare Erkrankungen. |
-| [25233195](https://pubmed.ncbi.nlm.nih.gov/25233195/) | 2014 | Übersichtsarbeit | Journal of Perinatology | Hepatitis B und C in der Schwangerschaft; Empfehlungen zur Verhinderung der Mutter-Kind-Übertragung. |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Übersichtsarbeit | Minerva Gastroenterologica e Dietologica | Virostatika bei Hepatitis B und C und ihre Auswirkungen auf die Nierenfunktion. |
-| [18340426](https://pubmed.ncbi.nlm.nih.gov/18340426/) | 2008 | Übersichtsarbeit | Der Internist | Neue Daten und Empfehlungen zur antiviralen Therapie bei chronischer Hepatitis B und C; Telbivudin als Option bei Hepatitis B. |
-| [23697556](https://pubmed.ncbi.nlm.nih.gov/23697556/) | 2013 | Kohortenstudie | Journal of Interferon & Cytokine Research | Interleukin-37 und HBeAg-Serokonversion unter Telbivudin bei chronischer Hepatitis B (HBV-spezifisch). |
+| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Übersicht | Wiener medizinische Wochenschrift | Aktuelle Behandlung der chronischen Hepatitis B und C; bei Hepatitis B gilt pegyliertes Interferon als Therapie der Wahl, Lamivudin senkt die HBV-DNA. |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Übersicht | Minerva gastroenterologica e dietologica | Antivirale Medikamente bei Hepatitis B und C und ihre Auswirkungen auf die Nierenfunktion. |
+| [25233195](https://pubmed.ncbi.nlm.nih.gov/25233195/) | 2014 | Übersicht | Journal of perinatology | Hepatitis B und C in der Schwangerschaft; Empfehlungen zur Verringerung der Mutter-Kind-Übertragung. |
+| [18340426](https://pubmed.ncbi.nlm.nih.gov/18340426/) | 2008 | Übersicht | Der Internist | Neue Empfehlungen zur antiviralen Therapie der chronischen Hepatitis B und C; Telbivudin ist eine Option bei Hepatitis B. |
+| [21999649](https://pubmed.ncbi.nlm.nih.gov/21999649/) | 2011 | Übersicht | Paediatric drugs | Medikamentöse Behandlung chronischer Lebererkrankungen bei Kindern. |
+| [23697556](https://pubmed.ncbi.nlm.nih.gov/23697556/) | 2013 | Kohorte | Journal of interferon & cytokine research | Serum-Interleukin-37 und HBeAg-Serokonversion bei Patienten mit chronischer Hepatitis B unter Telbivudin (Hepatitis B, nicht Hepatitis C). |
 
 ---
 
@@ -99,12 +101,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die chronische Hepatitis-C-Virus-Infektion gibt es keine klinischen Studien und keine Publikation, die sie direkt untersucht. Zudem fehlt ein plausibler Wirkmechanismus, da Telbivudin die HBV-Polymerase und nicht die HCV-Polymerase hemmt.
+- Für Hepatitis C fehlt ein plausibler Wirkmechanismus, da Telbivudin die virale NS5B-Polymerase nicht hemmt. Es liegen weder klinische Studien noch Literatur vor, die Telbivudin bei dieser Erkrankung untersuchen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Laborexperimente (in vitro) zur Wirkung von Telbivudin auf die HCV-Replikation
-- Angaben zum Wirkmechanismus und zu Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation
-- Bei positiven Laborergebnissen: gezielte klinische Studien zur chronischen Hepatitis C
+- Daten zum Wirkmechanismus von Telbivudin.
+- Laborbefunde (in vitro), die eine Wirkung auf das Hepatitis-C-Virus belegen.
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
+- Bei positiven Laborbefunden: kontrollierte klinische Studien bei Hepatitis C.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

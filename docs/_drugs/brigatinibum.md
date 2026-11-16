@@ -9,7 +9,7 @@ drugbank_id: DB12267
 monitor_inn: "Brigatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 last_modified_at: 2026-11-16
-description: "Brigatinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: nicht-kleinzelliges Lungenkarzinom (NSCLC)"
+description: "Brigatinibum: vorhergesagte neue Indikation Gingivafibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: nicht-kleinzelliges Lungenkarzinom (NSCLC)"
 ---
 
 # Brigatinibum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Brigatinibum: Gingivale Fibromatose (fibromatosis, gingival)
+## Brigatinibum: Gingivafibromatose (fibromatosis, gingival)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Brigatinib ist ein Tyrosinkinase-Hemmer, der in der Schweiz zugelassen ist und im Handel erhältlich ist. Für die Vorhersage «Gingivale Fibromatose (fibromatosis, gingival)» liegt ausschliesslich ein Modellwert vor; es sind weder klinische Studien noch Publikationen zu dieser Erkrankung vorhanden. Die Evidenz ist daher auf dem tiefsten Niveau (L5).
+Brigatinib ist ein Tyrosinkinase-Hemmer aus der Krebstherapie und in der Schweiz im Handel. Das Modell sagt eine mögliche Wirksamkeit bei Gingivafibromatose (fibromatosis, gingival) voraus, einer übermässigen Wucherung des Zahnfleischgewebes. Für diese Vorhersage gibt es keine klinischen Studien und keine Literatur, sie beruht allein auf der Modellrechnung (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +50,7 @@ Brigatinib ist ein Tyrosinkinase-Hemmer, der in der Schweiz zugelassen ist und i
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | nicht-kleinzelliges Lungenkarzinom (NSCLC) |
-| Vorhergesagte neue Indikation | Gingivale Fibromatose (fibromatosis, gingival) |
+| Vorhergesagte neue Indikation | Gingivafibromatose (fibromatosis, gingival) |
 | TxGNN-Vorhersagewert | 0.9989 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,17 +61,21 @@ Brigatinib ist ein Tyrosinkinase-Hemmer, der in der Schweiz zugelassen ist und i
 
 ### Warum ist diese Vorhersage plausibel?
 
-Brigatinib hemmt Tyrosinkinasen aus der Familie von ALK, ROS1 und EGFR. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine detaillierten Angaben vor.
+Brigatinib hemmt mehrere Tyrosinkinasen, darunter ALK, ROS1, FLT3 und bestimmte EGFR-Mutanten. In den vorliegenden Daten ist kein detaillierter Wirkmechanismus hinterlegt, deshalb lässt sich die mechanistische Analyse nur eingeschränkt durchführen.
 
-Ein biologischer Zusammenhang zwischen diesen Kinasen und der gingivalen Fibromatose ist in den vorliegenden Daten nicht dokumentiert. Der hohe Vorhersagewert beruht allein auf dem Modell. Eine Plausibilität lässt sich aus den verfügbaren Informationen nicht ableiten und müsste erst durch Mechanismus- und Laborstudien geprüft werden.
+Bei der Gingivafibromatose wuchern Bindegewebszellen (Fibroblasten) übermässig. Eine Hemmung von Kinase-Signalwegen, die Zellwachstum steuern, könnte theoretisch darauf einwirken. Dafür gibt es bisher keinen Beleg. Ein Zusammenhang zwischen den Zielstrukturen von Brigatinib und dieser Erkrankung ist rein spekulativ. Der hohe Vorhersagewert ist ein reines Rechenergebnis des Modells und wird durch keine klinischen Daten gestützt.
 
 ---
 
-### Marktinformationen Schweiz
+### Klinische Studien
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66738 | Alunbrig 30 mg, Filmtabletten | Synthetika | Nicht-kleinzelliges Lungenkarzinom (NSCLC) |
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -79,9 +83,8 @@ Ein biologischer Zusammenhang zwischen diesen Kinasen und der gingivalen Fibroma
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Kinasehemmer) |
-
-**Überwachung und Handhabung:** Angaben zu Myelosuppression, Emetogenität, Überwachungsparametern und Handhabungsschutz sind in den vorliegenden Daten nicht enthalten; bitte die Fachinformation beachten.
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Tyrosinkinase-Hemmer) |
+| Überwachungspunkte | Leberfunktion, Blutbild, Nierenfunktion; Details laut Fachinformation |
 
 ---
 
@@ -96,13 +99,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die gingivale Fibromatose gibt es weder klinische Studien noch Literatur, und ein Wirkmechanismus ist nicht belegt. Der hohe Modellwert allein genügt nicht für eine Weiterverfolgung.
+- Für Gingivafibromatose liegen weder Studien noch Publikationen vor. Die Vorhersage stützt sich allein auf das Modell, und ein plausibler biologischer Zusammenhang ist nicht belegt.
+- Zudem fehlen die Sicherheitsangaben aus der Fachinformation.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Mechanistische Hinweise, ob ALK-, ROS1- oder EGFR-nahe Signalwege bei der gingivalen Fibromatose eine Rolle spielen
-- Präklinische Daten oder Fallberichte zu dieser Erkrankung
-- Vollständige Sicherheitsdaten aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen)
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, um die Sicherheit zu beurteilen.
+- Die Beschreibung des Wirkmechanismus, zum Beispiel aus DrugBank.
+- Präklinische Daten oder Fallberichte, die einen Zusammenhang zwischen Kinase-Hemmung und Fibroblastenwucherung im Zahnfleisch belegen.
+- Eine Prüfung, ob die Darreichungsform (Filmtabletten zum Einnehmen) für eine Behandlung dieser Erkrankung geeignet wäre.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

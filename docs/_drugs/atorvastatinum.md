@@ -3,19 +3,19 @@ layout: default
 title: Atorvastatinum
 parent: Hohe Evidenz (L1-L2)
 nav_order: 69
-evidence_level: L1
+evidence_level: L2
 indication_count: 4
 drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-16
-description: "Atorvastatinum: vorhergesagte neue Indikation HIV infectious disease (Evidenzstufe L1). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration"
+description: "Atorvastatinum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L2). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration"
 ---
 
 # Atorvastatinum
 {: .fs-9 }
 
-Evidenzniveau: **L1** | Vorhergesagte Indikationen: **4** 
+Evidenzniveau: **L2** | Vorhergesagte Indikationen: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,12 +34,14 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Atorvastatinum: HIV infectious disease
+## Atorvastatinum: HIV-Infektionskrankheit (HIV infectious disease)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Atorvastatin ist ein Cholesterinsenker (Statin), der in der Schweiz im Handel ist. Es gibt mehrere abgeschlossene Phase-3-Studien in dieser Patientengruppe, in denen Atorvastatin selbst oder als Kombinationspartner eingesetzt wurde. Wirksamkeit und Verträglichkeit werden dort jedoch meist in offenen oder kombinierten Designs untersucht.
+Atorvastatin ist ein Statin, das in der Schweiz zugelassen und im Handel ist. Es wird voraussichtlich bei der HIV-Infektionskrankheit (HIV infectious disease) unterstützend wirksam sein, nicht als Virenhemmer, sondern über Effekte auf Blutfette und chronische Entzündung. Die Evidenz stützt sich auf mehrere HIV-spezifische klinische Studien, darunter eine Phase-3-Studie mit unbekanntem Status und mehrere randomisierte Studien mit kleinen Teilnehmerzahlen.
 
 ---
 
@@ -48,22 +50,24 @@ Atorvastatin ist ein Cholesterinsenker (Statin), der in der Schweiz im Handel is
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Reduktion der Serumcholesterinkonzentration |
-| Vorhergesagte neue Indikation | HIV infectious disease |
+| Vorhergesagte neue Indikation | HIV-Infektionskrankheit (HIV infectious disease) |
 | TxGNN-Vorhersagewert | 0.9931 |
-| Evidenzniveau | L1 |
+| Evidenzniveau | L2 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
 | Anzahl Zulassungen | mindestens 2 |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+
+Hinweis zum Evidenzniveau: Die Phase-3-Studie NCT03037372 hat den Status «unbekannt», die Phase-3-Studie NCT01766076 ist abgeschlossen, aber mit nur 30 Teilnehmenden und ohne bewertete Ergebnisse. Eine abgeschlossene, placebokontrollierte Phase-2-Studie (NCT00367458) und mehrere publizierte RCTs liegen vor. Da keine zwei gesicherten, abgeschlossenen Phase-3-Studien mit belegten Ergebnissen vorhanden sind, wird L2 vergeben.
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Atorvastatin hemmt das Enzym HMG-CoA-Reduktase, das für die Cholesterinbildung in der Leber wichtig ist. Dadurch bildet die Leber mehr LDL-Rezeptoren und nimmt mehr LDL-Cholesterin aus dem Blut auf. Der LDL-Cholesterinspiegel sinkt.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Statine das LDL-Cholesterin senken. Zusätzlich haben sie entzündungshemmende Wirkungen, etwa eine geringere Aktivierung von Monozyten und Makrophagen sowie eine geringere Aktivierung des Immunsystems.
 
-Bei der familiären Hypercholesterinämie sind die LDL-Werte aufgrund einer genetischen Störung des LDL-Abbaus stark erhöht. Der Wirkmechanismus von Atorvastatin passt daher direkt zu dieser Erkrankung. Bei der homozygoten Form ist die Wirkung begrenzt, weil kaum funktionsfähige LDL-Rezeptoren vorhanden sind. Dort sind meist zusätzliche Therapien nötig, etwa Ezetimib, PCSK9-Hemmer oder Evinacumab.
+Menschen mit HIV haben auch unter wirksamer antiretroviraler Therapie oft eine anhaltende Entzündung und ein erhöhtes Herz-Kreislauf-Risiko. Proteaseinhibitoren und einige andere Wirkstoffe verursachen zudem Fettstoffwechselstörungen. Atorvastatin könnte hier gleich zwei Probleme ansprechen: die Blutfette und die chronische Immunaktivierung.
 
-Die Anwendung von Statinen bei dieser Erkrankung ist bereits etabliert. Es handelt sich daher nicht um einen wirklich neuen Umwidmungsbefund.
+Die Evidenz betrifft Herz-Kreislauf- und Entzündungsmarker, nicht die Beseitigung des Virus. Wichtig sind ausserdem Wechselwirkungen über CYP3A4 mit geboosterten antiretroviralen Therapien.
 
 ---
 
@@ -71,16 +75,16 @@ Die Anwendung von Statinen bei dieser Erkrankung ist bereits etabliert. Es hande
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00827606](https://clinicaltrials.gov/study/NCT00827606) | Phase 3 | Abgeschlossen | 272 | Dreijährige offene Studie mit Atorvastatin bei Kindern und Jugendlichen mit heterozygoter familiärer Hypercholesterinämie. Untersucht werden Wachstum, Entwicklung und Cholesterinsenkung. |
-| [NCT00136981](https://clinicaltrials.gov/study/NCT00136981) | Phase 3 | Abgeschlossen | 800 | Doppelblinde Studie mit Torcetrapib/Atorvastatin gegenüber Atorvastatin allein, Ultraschall der Halsarterien. Das Torcetrapib-Projekt wurde 2006 wegen Sicherheitsbefunden beendet. |
-| [NCT00134485](https://clinicaltrials.gov/study/NCT00134485) | Phase 3 | Abgeschlossen | 400 | Torcetrapib/Atorvastatin gegenüber Atorvastatin allein bei heterozygoter Form über sechs Monate. Das Projekt wurde wegen Sicherheitsbefunden beendet. |
-| [NCT00134511](https://clinicaltrials.gov/study/NCT00134511) | Phase 3 | Abgeschlossen | 30 | Offene Studie mit Torcetrapib/Atorvastatin bei homozygoter Form. Das Projekt wurde wegen Sicherheitsbefunden beendet. |
-| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Phase 3 | Abgeschlossen | 50 | Ezetimib zusätzlich zu Atorvastatin oder Simvastatin bei homozygoter Form. Untersucht werden Wirksamkeit und Sicherheit. |
-| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Phase 3 | Abgeschlossen | 44 | Verlängerungsstudie über bis zu 24 Monate zur Langzeitsicherheit von Ezetimib zusammen mit Atorvastatin oder Simvastatin. |
-| [NCT00739999](https://clinicaltrials.gov/study/NCT00739999) | Phase 1 | Abgeschlossen | 39 | Achtwöchige offene Studie zu Pharmakokinetik, Pharmakodynamik und Verträglichkeit von Atorvastatin bei Kindern und Jugendlichen mit heterozygoter Form. |
-| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Phase 3 | Abgeschlossen | 153 | Alirocumab gegenüber Placebo bei Kindern und Jugendlichen mit heterozygoter Form. Statine, darunter Atorvastatin, sind Hintergrundtherapie. |
-| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Phase 3 | Abgeschlossen | 249 | Alirocumab gegenüber Placebo bei heterozygoter Form mit unzureichend kontrollierten Lipidwerten. Atorvastatin ist vermutlich Hintergrundtherapie. |
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Abgeschlossen | 18 | Offene Alirocumab-Studie bei Kindern und Jugendlichen mit homozygoter Form. Statine sind Hintergrundtherapie. |
+| [NCT02081638](https://clinicaltrials.gov/study/NCT02081638) | Phase 2 | Abgeschlossen | 53 | Statin gegenüber Aspirin bei Elite-Controllern und unter ART behandelten Menschen mit HIV; Ziel: Entzündung und Immunaktivierung |
+| [NCT03037372](https://clinicaltrials.gov/study/NCT03037372) | Phase 3 | Unbekannt | 320 | Atorvastatin gegenüber Rosuvastatin als Zusatztherapie in Subsahara-Afrika; Ziel: Immunaktivierung, Entzündung, Immunalterung |
+| [NCT01766076](https://clinicaltrials.gov/study/NCT01766076) | Phase 3 | Abgeschlossen | 30 | Randomisierte Studie mit Atorvastatin bei unzureichendem CD4-Anstieg unter ART in Afrika; Ziel: Immunaktivierung |
+| [NCT00367458](https://clinicaltrials.gov/study/NCT00367458) | Phase 2 | Abgeschlossen | 24 | Placebokontrollierte Studie mit Atorvastatin bei HIV ohne ART; Ziel: Viruslast und Immunaktivierungsmarker |
+| [NCT00965185](https://clinicaltrials.gov/study/NCT00965185) | Nicht zutreffend | Abgeschlossen | 40 | Statintherapie bei HIV zur Senkung der Plaque-Entzündung und Verbesserung der Gefässfunktion |
+| [NCT01600170](https://clinicaltrials.gov/study/NCT01600170) | Phase 4 | Abgeschlossen | 11 | Statin und Monozytenaktivierung bei HIV-assoziierten neurokognitiven Störungen; sehr klein |
+| [NCT01263938](https://clinicaltrials.gov/study/NCT01263938) | Phase 4 | Abgeschlossen | 5 | Pilotstudie zu Atorvastatin und Monozytenaktivierung; zu klein für Schlussfolgerungen |
+| [NCT00355251](https://clinicaltrials.gov/study/NCT00355251) | Phase 4 | Abgebrochen | 5 | Atorvastatin und Virusreplikation vor einer Therapiepause; vorzeitig beendet |
+| [NCT00663234](https://clinicaltrials.gov/study/NCT00663234) | Phase 1/2 | Abgebrochen | 28 | Sicherheit und Wirksamkeit von Atorvastatin bei Kindern und Jugendlichen mit HIV und erhöhtem LDL-Cholesterin unter Proteaseinhibitoren |
+| [NCT00000941](https://clinicaltrials.gov/study/NCT00000941) | Phase 1 | Abgeschlossen | 56 | Pharmakokinetische Wechselwirkungen zwischen Proteaseinhibitoren und Lipidsenkern, darunter Atorvastatin |
 
 ---
 
@@ -88,18 +92,22 @@ Die Anwendung von Statinen bei dieser Erkrankung ist bereits etabliert. Es hande
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [9301631](https://pubmed.ncbi.nlm.nih.gov/9301631/) | 1997 | Offene Studie | Arteriosclerosis, Thrombosis, and Vascular Biology | Wirksamkeit und Sicherheit von Atorvastatin 80 mg bei gesicherter familiärer Hypercholesterinämie (22 Teilnehmer, zwei Dosierschemata). |
-| [25760954](https://pubmed.ncbi.nlm.nih.gov/25760954/) | 2015 | Systematische Übersicht (Cochrane) | Cochrane Database of Systematic Reviews | Dosisabhängige Wirkung von Atorvastatin auf die Blutfette. |
-| [12883464](https://pubmed.ncbi.nlm.nih.gov/12883464/) | 2003 | Klinische Studie | Medical Science Monitor | Untersucht, ob Atorvastatin die Mikroalbuminurie bei heterozygoter familiärer Hypercholesterinämie senkt. |
-| [15199433](https://pubmed.ncbi.nlm.nih.gov/15199433/) | 2004 | Übersichtsarbeit | Seminars in Vascular Medicine | Diagnostische und therapeutische Aspekte der familiären Hypercholesterinämie bei Kindern. |
-| [9793596](https://pubmed.ncbi.nlm.nih.gov/9793596/) | 1998 | Übersichtsarbeit | Annals of Pharmacotherapy | Wirksamkeit und Sicherheit von Atorvastatin bei Dyslipidämien. |
-| [34640319](https://pubmed.ncbi.nlm.nih.gov/34640319/) | 2021 | Beobachtungsstudie | Journal of Clinical Medicine | Klinische Merkmale und Behandlung der familiären Hypercholesterinämie bei Kindern und Erwachsenen in Polen. |
+| [37772075](https://pubmed.ncbi.nlm.nih.gov/37772075/) | 2021 | RCT | F1000Research | Doppelblinde, placebokontrollierte Studie zu Atorvastatin und subklinischer Atherosklerose bei virologisch kontrollierter HIV-Infektion mit CMV-Seropositivität |
+| [37450602](https://pubmed.ncbi.nlm.nih.gov/37450602/) | 2023 | RCT (offen) | AIDS | Atorvastatin gegenüber Aspirin bei Elite-Controllern und unter ART behandelten Menschen mit HIV; Ziel: Restentzündung |
+| [25441397](https://pubmed.ncbi.nlm.nih.gov/25441397/) | 2015 | RCT (Crossover, placebokontrolliert) | Tropical Medicine & International Health | Atorvastatin als Zusatztherapie zur Verminderung von T-Zell-Aktivierung und -Erschöpfung bei unzureichender Immunantwort in Uganda |
+| [18991624](https://pubmed.ncbi.nlm.nih.gov/18991624/) | 2008 | Randomisierte offene Studie | Current HIV Research | Rosuvastatin, Pravastatin und Atorvastatin bei Hypercholesterinämie unter Proteaseinhibitoren (94 Erwachsene) |
+| [26658651](https://pubmed.ncbi.nlm.nih.gov/26658651/) | 2016 | Übersichtsarbeit | Current Opinion in Infectious Diseases | Bewertung der Evidenz, ob Statine das Herz-Kreislauf-Risiko bei HIV senken |
+| [29804227](https://pubmed.ncbi.nlm.nih.gov/29804227/) | 2018 | Übersichtsarbeit | Current Infectious Disease Reports | Nutzen und Risiken der Statintherapie bei Menschen mit HIV unter ART |
+| [27192322](https://pubmed.ncbi.nlm.nih.gov/27192322/) | 2016 | Übersichtsarbeit | Expert Opinion on Pharmacotherapy | Medikamentöse Therapien bei HIV-bedingten Stoffwechselstörungen |
+| [28062146](https://pubmed.ncbi.nlm.nih.gov/28062146/) | 2017 | Kohortenstudie | International Journal of Cardiology | Intensive Statinschemata und Herz-Kreislauf-Risiko in der HIV-Population (Taiwan) |
+| [32028327](https://pubmed.ncbi.nlm.nih.gov/32028327/) | 2020 | Pharmakokinetische Studie | AIDS | Wechselwirkungen von Atorvastatin mit geboostertem Darunavir bei älteren Menschen mit HIV; vergleichbar mit Jüngeren |
+| [41774493](https://pubmed.ncbi.nlm.nih.gov/41774493/) | 2026 | Präklinisch (Maus) | JCI Insight | Atorvastatin verringert HIV- und ART-bedingte Herzfibrose in Mäusen über Hemmung des Thrombozyten-TGF-β1-Signalwegs |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen kann unvollständig sein.
+Mindestens 2 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -108,18 +116,26 @@ Die Liste der Zulassungen kann unvollständig sein.
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Aus der Literatur ergibt sich ein Hinweis: Atorvastatin wird über CYP3A4 abgebaut. Proteaseinhibitoren und geboostertes Darunavir können seine Konzentration erhöhen. Die Dosierung muss bei geboosterten antiretroviralen Therapien sorgfältig gewählt werden.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Mechanismus und klinische Daten passen gut zur familiären Hypercholesterinämie. Der Einsatz von Statinen ist dort aber bereits etabliert, und mehrere Studien prüfen Kombinationspartner statt Atorvastatin allein.
-- Bei der homozygoten Form reicht Atorvastatin allein meist nicht aus.
+- Zur HIV-Infektionskrankheit liegen mehrere HIV-spezifische Studien und randomisierte Publikationen vor, die vor allem Entzündungs- und Herz-Kreislauf-Aspekte betreffen. Viele Studien sind jedoch klein, abgebrochen oder ohne gesicherten Status, und ein Nutzen gegen das Virus selbst ist nicht belegt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen, da diese Sicherheitsdaten in den vorliegenden Daten fehlen.
-- Abgleich, ob die Schweizer Zulassungstexte die familiäre Hypercholesterinämie ausdrücklich nennen.
-- Prüfung der Wechselwirkungen, da zu Arzneimittelwechselwirkungen keine Daten vorliegen.
+- Auswertung der Ergebnisse von NCT03037372 und NCT01766076 sowie der Phase-2-Studien
+- Prüfung der Wechselwirkungen mit den jeweiligen antiretroviralen Therapien
+- Auswertung der Fachinformation zu Warnungen und Kontraindikationen
+- Klärung des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

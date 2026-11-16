@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Fluoxetin ist ein Antidepressivum, das in der Schweiz im Handel ist. Die Modellvorhersage nennt als mögliche neue Anwendung die schizotypische Persönlichkeitsstörung (schizotypal personality disorder). Dafür gibt es nur schwache Evidenz: keine registrierten klinischen Studien, nur eine kleine, unverblindete Studie an gemischten Stichproben und Übersichtsarbeiten. Die Vorhersage bleibt eine Forschungsfrage.
+Fluoxetin ist ein Antidepressivum aus der Gruppe der selektiven Serotonin-Wiederaufnahmehemmer. Es wird für die schizotypische Persönlichkeitsstörung (schizotypal personality disorder) als mögliche neue Anwendung vorhergesagt. Die Evidenz ist sehr begrenzt: Es liegen keine klinischen Studien zu dieser Erkrankung vor, nur eine kleine offene Studie sowie Übersichtsarbeiten und Einzelfallberichte.
 
 ---
 
@@ -61,17 +61,17 @@ Fluoxetin ist ein Antidepressivum, das in der Schweiz im Handel ist. Die Modellv
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Fluoxetin liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Fluoxetin die Wiederaufnahme von Serotonin hemmt. Dadurch könnten Merkmale gedämpft werden, die bei schizotypischen Störungen häufig vorkommen, etwa Stimmungsschwankungen, zwanghafte Züge und Angst.
+Die Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor. Fluoxetin ist jedoch als selektiver Serotonin-Wiederaufnahmehemmer bekannt, der die Serotoninverfügbarkeit im Gehirn erhöht.
 
-Die einzige direkt verwandte Arbeit ist eine kleine, offene und unverblindete 12-Wochen-Studie mit 22 Patientinnen und Patienten mit Borderline- oder schizotypischer Persönlichkeitsstörung (PMID 1853957). Sie fand weniger Selbstverletzung und geringere Symptomwerte, unabhängig von der Diagnose. Der Effekt lässt sich daher nicht der schizotypischen Störung allein zuordnen. Eine Übersicht zu Cluster-A-Persönlichkeitsstörungen belegt keine Wirksamkeit.
+Eine Störung des serotonergen Systems wird mit Impulsivität, Stimmungsschwankungen und psychoseähnlichen Symptomen bei Persönlichkeitsstörungen in Verbindung gebracht. Daraus ergibt sich eine plausible, aber unbewiesene Grundlage für einen Nutzen auf Symptomebene.
 
-Der hohe Vorhersagewert ist eine Modellrechnung und kein klinischer Beleg. Aus diesem Grund bleibt das Evidenzniveau bei L5: Keine der zitierten Arbeiten untersucht Fluoxetin kontrolliert bei schizotypischer Persönlichkeitsstörung.
+Die vorhandenen Daten stammen aus kleinen, meist offenen Studien mit gemischten Gruppen aus Borderline- und schizotypischen Patienten. Wirkungen speziell bei der schizotypischen Persönlichkeitsstörung lassen sich daraus nicht abgrenzen.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
@@ -79,18 +79,19 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Offene Studie | The American Journal of Psychiatry | 22 Personen mit Borderline- oder schizotypischer Störung, 12 Wochen Fluoxetin: weniger Selbstverletzung und niedrigere Symptomwerte; kontrollierte Studien wären nötig. |
-| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Kohorte / Übersicht | The Journal of Clinical Psychiatry | Für Borderline- und schizotypische Störung gibt es kein Mittel der ersten Wahl; verschiedene Substanzklassen helfen einzelnen Betroffenen je nach Symptomen. |
-| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Übersichtsarbeit | The Mental Health Clinician | Überblick über Arzneimitteltherapie bei Cluster-A-Persönlichkeitsstörungen; keine gesicherte Wirksamkeit. |
-| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Übersichtsarbeit | Journal of Clinical Psychopharmacology | Rahmenkonzept und klinische Strategien zur Arzneimitteltherapie bei Persönlichkeitsstörungen. |
-| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Übersichtsarbeit (indirekt) | Psychological Medicine | Persönlichkeitsstörungen bei depressiven Patienten vor und nach Behandlung mit Fluoxetin. |
-| [9664779](https://pubmed.ncbi.nlm.nih.gov/9664779/) | 1998 | Fallbericht (Nebenwirkung) | Psychosomatics | Vorübergehende Psychose mit psychogener Polydipsie bei einem schizotypischen Patienten unter Fluoxetin; Sicherheitssignal. |
+| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Kohortenstudie (offen, 12 Wochen) | The American Journal of Psychiatry | 22 Patienten mit Borderline- oder schizotypischer Störung; deutliche Abnahme von Selbstverletzung und Symptomwerten, unabhängig von der Diagnose. Kontrollierte Studien wären sinnvoll. |
+| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Übersichtsarbeit | The Mental Health Clinician | Überblick über die medikamentöse Behandlung von Persönlichkeitsstörungen des Clusters A, zu dem auch die schizotypische Störung gehört. |
+| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Übersichtsarbeit | The Journal of Clinical Psychiatry | Für Borderline- und schizotypische Störungen gibt es kein Mittel der Wahl; verschiedene Wirkstoffe helfen ausgewählten Patienten je nach Symptomen. |
+| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Übersichtsarbeit | Journal of Clinical Psychopharmacology | Konzeptioneller Rahmen und Wirksamkeitsdaten zur Pharmakotherapie bei Persönlichkeitsstörungen. |
+| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Übersichtsarbeit | Psychological Medicine | Persönlichkeitsstörungen wurden bei depressiven Patienten vor und nach Behandlung mit Fluoxetin erfasst. |
+| [15209835](https://pubmed.ncbi.nlm.nih.gov/15209835/) | 2004 | Kohortenstudie | Australian and New Zealand Journal of Psychiatry | Vergleich von Persönlichkeitsmerkmalen bei bipolarer II-Störung und Depression; Einfluss auf das Behandlungsergebnis. |
+| [9664779](https://pubmed.ncbi.nlm.nih.gov/9664779/) | 1998 | Fallbericht | Psychosomatics | Vorübergehende Psychose mit psychogener Polydipsie bei einem schizotypischen Patienten unter Fluoxetin (Sicherheitssignal). |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Mindestens 8 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+In der Schweiz sind mindestens 8 Zulassungen für Fluoxetin-Einzelpräparate erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -99,7 +100,7 @@ Mindestens 8 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 | 57925 | Fluoxetin Zentiva, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Antidepressivum |
 | 54049 | Fluoxetin-Mepha, Hartkapseln | Synthetika | Antidepressivum |
 | 59410 | Fluoxetin Axapharm, Kapseln | Synthetika | Antidepressivum |
-| 46347 | Fluctine 20 mg, gélule | Synthetika | Antidepressivum |
+| 46347 | Fluctine 20 mg, Kapseln | Synthetika | Antidepressivum |
 | 60485 | Fluoxetin Spirig HC, Kapseln | Synthetika | Antidepressivum |
 | 57235 | Fluoxetin-Mepha Dispersible 20 mg, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Antidepressivum |
 
@@ -107,9 +108,9 @@ Mindestens 8 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+- **Wichtiger Hinweis aus der Literatur**: Ein Fallbericht beschreibt eine vorübergehende Psychose mit psychogener Polydipsie bei einem schizotypischen Patienten unter Fluoxetin.
 
-Ein Fallbericht beschreibt eine vorübergehende Psychose mit psychogener Polydipsie bei einem schizotypischen Patienten unter Fluoxetin (PMID 9664779). Das ist ein Einzelfall, sollte aber bei einer möglichen Anwendung in dieser Gruppe beachtet werden.
+Für weitere Sicherheitsinformationen beachten Sie bitte die Fachinformation.
 
 ---
 
@@ -118,12 +119,13 @@ Ein Fallbericht beschreibt eine vorübergehende Psychose mit psychogener Polydip
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich fast nur auf ein Modell. Direkte Evidenz besteht nur aus einer kleinen, unverblindeten Studie mit gemischter Stichprobe, ohne registrierte Studien. Dazu kommt ein Sicherheitssignal bei schizotypischen Patienten.
+- Zur schizotypischen Persönlichkeitsstörung selbst gibt es keine klinische Studie. Die vorhandenen Arbeiten untersuchen gemischte Gruppen oder Persönlichkeitsstörungen allgemein, daher bleibt es beim Evidenzniveau L5. Der hohe Vorhersagewert ist eine rechnerische Vorhersage und ersetzt keine klinischen Daten.
+- Der Fallbericht zu einer Psychose unter Fluoxetin bei einem schizotypischen Patienten ist ein Sicherheitssignal.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Kontrollierte, randomisierte Studien mit Fluoxetin ausschliesslich bei schizotypischer Persönlichkeitsstörung
-- Angaben zum Wirkmechanismus sowie die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Eine vertiefte Prüfung des Sicherheitssignals (Psychose, Polydipsie) in dieser Patientengruppe
+- Kontrollierte Studien mit Fluoxetin speziell bei schizotypischer Persönlichkeitsstörung
+- Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen (in den vorliegenden Daten nicht enthalten)
+- Angaben zum Wirkmechanismus aus einer pharmakologischen Referenzquelle
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

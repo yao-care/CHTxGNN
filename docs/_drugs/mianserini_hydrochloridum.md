@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 ## Mianserini Hydrochloridum: Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Mianserin ist ein tetrazyklisches Antidepressivum. Als neue Indikation wurde der gutartige paroxysmale Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) vorhergesagt. Diese Vorhersage beruht allein auf einer Modellberechnung. Es liegen weder klinische Studien noch Literatur vor, die sie stützen.
+Mianserin ist ein in der Schweiz im Handel befindliches Antidepressivum. Als neue Indikation wurde der gutartige paroxysmale Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) vorhergesagt, eine seltene Erkrankung im Kindesalter, die zu den Migräne-Varianten zählt. Diese Vorhersage beruht ausschliesslich auf einem Rechenmodell, es gibt weder klinische Studien noch Literatur dazu (Evidenzniveau L5).
 
 ---
 
@@ -59,11 +61,11 @@ Mianserin ist ein tetrazyklisches Antidepressivum. Als neue Indikation wurde der
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage ist derzeit nur eingeschränkt plausibel. Zum Wirkmechanismus von Mianserin liegen in den zusammengestellten Daten keine Angaben vor. Aus der Pharmakologie der Substanz ist bekannt, dass sie Alpha-2-Adrenozeptoren sowie 5-HT2- und H1-Rezeptoren blockiert.
+Zum Wirkmechanismus von Mianserin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Pharmakologie, dass Mianserin an 5-HT2- und Alpha-2-Rezeptoren antagonistisch wirkt. Dadurch könnte es serotonerge Signalwege beeinflussen.
 
-Der gutartige paroxysmale Torticollis des Säuglingsalters ist eine seltene Erkrankung des Kindesalters. Sie steht im Zusammenhang mit Ionenkanalstörungen und wird oft mit Veränderungen im Gen CACNA1A in Verbindung gebracht. Ein nachvollziehbarer Zusammenhang zwischen diesem Krankheitsbild und den genannten Rezeptoreffekten von Mianserin lässt sich nicht herleiten.
+Der gutartige paroxysmale Torticollis des Säuglingsalters gilt als Migräne-Variante und wird mit Kanalopathien (z. B. CACNA1A) in Verbindung gebracht. Ein Einfluss auf serotonerge Wege, die bei Migräne-nahen Erkrankungen eine Rolle spielen, wäre denkbar. Dies ist jedoch rein spekulativ und durch keine Daten gestützt.
 
-Hinzu kommen Sicherheitsbedenken: Ein dämpfend wirkendes Antidepressivum bei Säuglingen einzusetzen, wäre problematisch. Der hohe Vorhersagewert ist daher als rechnerischer Hinweis zu verstehen, nicht als Beleg für eine Wirksamkeit.
+Hinzu kommen erhebliche Sicherheitsbedenken: Der Einsatz eines tetrazyklischen Antidepressivums bei Säuglingen wäre kritisch zu bewerten. Der hohe Vorhersagewert ist eine Modellrechnung und kein Hinweis auf klinische Wirksamkeit.
 
 ---
 
@@ -80,14 +82,13 @@ Hinzu kommen Sicherheitsbedenken: Ein dämpfend wirkendes Antidepressivum bei S�
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell (Evidenzniveau L5). Es gibt weder Studien noch Literatur, und ein plausibler Wirkmechanismus fehlt.
-- Der Einsatz eines sedierenden Antidepressivums bei Säuglingen wirft zusätzliche Sicherheitsfragen auf.
+- Die Vorhersage stützt sich nur auf ein Modell, ohne klinische Studien oder Literatur. Zudem sind Wirkmechanismus und Sicherheitsdaten aus der Fachinformation in den vorliegenden Daten nicht erfasst, und eine Anwendung bei Säuglingen wäre mit erheblichen Sicherheitsfragen verbunden.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Belege aus präklinischen oder klinischen Untersuchungen zu dieser Erkrankung
-- Eine nachvollziehbare mechanistische Begründung, die Mianserin mit der zugrunde liegenden Ionenkanalstörung verbindet
-- Die Sicherheitsinformationen aus der Fachinformation (Warnhinweise und Kontraindikationen), insbesondere für die Anwendung im Kindesalter
-- Angaben zum Wirkmechanismus aus einer zuverlässigen Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit blockierende Datenlücke)
+- Angaben zum Wirkmechanismus von Mianserin (z. B. aus DrugBank)
+- Eine gezielte Literaturrecherche und Prüfung der pathophysiologischen Verbindung zwischen Mianserin und dieser Erkrankung
+- Eine Bewertung der Machbarkeit und Sicherheit in der Altersgruppe der Säuglinge
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

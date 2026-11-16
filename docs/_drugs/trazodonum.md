@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trazodonum
-parent: Mittlere Evidenz (L3-L4)
+parent: Nur Modellvorhersage (L5)
 nav_order: 604
-evidence_level: L3
+evidence_level: L5
 indication_count: 9
 drugbank_id: DB00656
 monitor_inn: "Trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 last_modified_at: 2026-11-16
-description: "Trazodonum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Antidepressivum"
+description: "Trazodonum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
 # Trazodonum
 {: .fs-9 }
 
-Evidenzniveau: **L3** | Vorhergesagte Indikationen: **9** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -41,7 +41,7 @@ Evidenzniveau: **L3** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Trazodon ist in der Schweiz als Antidepressivum im Handel. Die Modellvorhersage nennt als neue mögliche Anwendung die Zwangsstörung (obsessive-compulsive disorder). Dafür gibt es ältere Literatur, überwiegend offene Studien und Fallserien aus den 1980er- und 1990er-Jahren. Registrierte klinische Studien und moderne kontrollierte Daten fehlen.
+Trazodon ist in der Schweiz als Antidepressivum zugelassen. Aufgrund der Vorhersage könnte es bei der Zwangsstörung (obsessive-compulsive disorder) wirksam sein. Die Evidenz besteht aus kleinen, überwiegend offenen Studien und Fallberichten aus den 1980er- und 1990er-Jahren; kontrollierte Studien zur Zwangsstörung liegen nicht vor.
 
 ---
 
@@ -52,45 +52,54 @@ Trazodon ist in der Schweiz als Antidepressivum im Handel. Die Modellvorhersage 
 | Ursprüngliche Indikation | Antidepressivum; Antidépresseur |
 | Vorhergesagte neue Indikation | Zwangsstörung (obsessive-compulsive disorder) |
 | TxGNN-Vorhersagewert | 0.9995 |
-| Evidenzniveau | L3 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Trazodon blockiert Serotoninrezeptoren (5-HT2A/2C) und hemmt schwach den Serotonin-Transporter (SERT). Daten zum Wirkmechanismus aus der Datenbank liegen für diesen Bericht nicht vor. Die Beschreibung stützt sich auf die pharmakologische Einordnung in der Literatur.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Trazodon die Serotonin-2A/2C-Rezeptoren blockiert und den Serotonintransporter schwach hemmt. Sein aktiver Metabolit m-CPP wirkt zudem auf serotonerge Rezeptoren.
 
-Serotonin spielt bei der Zwangsstörung eine zentrale Rolle. Die etablierten Medikamente sind Serotonin-Wiederaufnahmehemmer wie Clomipramin und SSRI. Trazodon wirkt ebenfalls auf das serotonerge System. Sein Metabolit m-CPP ist serotonerg aktiv. Die 5-HT2-Blockade könnte zudem eine Zusatzbehandlung (Augmentation) zu Serotonin-Wiederaufnahmehemmern sinnvoll machen.
+Die Pharmakotherapie der Zwangsstörung beruht im Kern auf serotonerger Modulation (SSRI, Clomipramin). Daher ist es nachvollziehbar, dass ein serotonerg wirkendes Arzneimittel wie Trazodon in diesem Gebiet geprüft wurde. Mögliche Rollen sind vor allem die Zusatzbehandlung zu einem SSRI oder der Einsatz bei Clomipramin-resistenter Zwangsstörung.
 
-Die Berichte stützen diese Überlegung vorsichtig. Beschrieben wurden eine Zusatzbehandlung bei Clomipramin-resistenter Zwangsstörung und die Kombination mit Fluoxetin. Die Ergebnisse sind uneinheitlich. Eine Pilotstudie mit Trazodon plus Tryptophan zeigte nur einen marginalen Nutzen.
+Die Studienlage ist jedoch uneinheitlich. Eine Pilotstudie mit Trazodon plus Tryptophan zeigte nur einen marginalen Nutzen bei schlechter Verträglichkeit.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert.
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
 ### Literaturbelege
 
-Es liegen keine randomisierten kontrollierten Studien vor. Die Tabelle zeigt die relevantesten Publikationen zur Zwangsstörung.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [2119885](https://pubmed.ncbi.nlm.nih.gov/2119885/) | 1990 | Fallserie / offene Studie | Clinical Neuropharmacology | 9 Patienten, die auf Clomipramin (auch mit Lithium) nicht ansprachen. Insgesamt signifikante, aber milde Besserung. 3 Patienten sprachen sehr gut an, die Symptome kehrten nach Absetzen zurück. |
-| [3725000](https://pubmed.ncbi.nlm.nih.gov/3725000/) | 1986 | Offene klinische Studie | Neuropsychobiology | 8 Patienten mit chronischer Zwangsstörung. Nach 4 Wochen zeigten 6 eine deutliche Symptomabnahme, die über 6 Wochen anhielt. |
-| [3983224](https://pubmed.ncbi.nlm.nih.gov/3983224/) | 1985 | Klinische Studie | Pharmacology, Biochemistry, and Behavior | Gleiche Patientengruppe wie oben: 6 von 8 Patienten besserten sich deutlich. |
-| [3501130](https://pubmed.ncbi.nlm.nih.gov/3501130/) | 1987 | Offene / mechanistische Studie | Psychopathology | Das Ansprechen auf Trazodon, teils mit einem MAO-Hemmer, ging mit Veränderungen des Glukosestoffwechsels in den Nuclei caudati (PET) einher. |
-| [2589561](https://pubmed.ncbi.nlm.nih.gov/2589561/) | 1989 | Fallserie | American Journal of Psychiatry | Kombination von Trazodon und Fluoxetin bei Zwangsstörung. Kein Abstract verfügbar. |
-| [8434675](https://pubmed.ncbi.nlm.nih.gov/8434675/) | 1993 | Fallserie | American Journal of Psychiatry | Behandlung von Zwangsstörung und Trichotillomanie mit Trazodon. Kein Abstract verfügbar. |
-| [18311107](https://pubmed.ncbi.nlm.nih.gov/18311107/) | 1999 | Fallserie | CNS Spectrums | Zusatz von Trazodon zu verschiedenen SSRI bei 5 Patienten. Alle besserten sich, teils wurde auch die SSRI-Verträglichkeit besser. |
-| [3571943](https://pubmed.ncbi.nlm.nih.gov/3571943/) | 1986 | Offene Pilotstudie | International Clinical Psychopharmacology | 11 Patienten mit Trazodon plus Tryptophan. Der Nutzen war marginal, mehrere Patienten vertrugen die Kombination schlecht. |
-| [4009160](https://pubmed.ncbi.nlm.nih.gov/4009160/) | 1985 | Fallbericht | Journal of Nervous and Mental Disease | 2 Patienten mit schwerer Zwangsstörung und Depression, die auf viele Antidepressiva nicht angesprochen hatten. Beide besserten sich rasch unter Trazodon. |
-| [26088119](https://pubmed.ncbi.nlm.nih.gov/26088119/) | 2015 | Übersichtsarbeit | Current Pharmaceutical Design | Beschreibt den Off-Label-Einsatz von Trazodon, unter anderem bei Zwangsstörung, mit Nutzen und Risiken. |
+| [2119885](https://pubmed.ncbi.nlm.nih.gov/2119885/) | 1990 | Kohortenstudie | Clinical Neuropharmacology | 9 Patienten mit Clomipramin-resistenter Zwangsstörung: insgesamt signifikante, aber milde Besserung; 3 Patienten sprachen deutlich an, Symptome kehrten nach Absetzen zurück. |
+| [3725000](https://pubmed.ncbi.nlm.nih.gov/3725000/) | 1986 | Kohortenstudie | Neuropsychobiology | 8 Patienten mit chronischer Zwangsstörung: 6 zeigten nach 4 Wochen eine deutliche Symptomminderung, die über 6 Wochen anhielt. |
+| [3501130](https://pubmed.ncbi.nlm.nih.gov/3501130/) | 1987 | Kohortenstudie | Psychopathology | Das Ansprechen auf Trazodon war mit Veränderungen des Glukosestoffwechsels im Nucleus caudatus (PET) verbunden. |
+| [2589561](https://pubmed.ncbi.nlm.nih.gov/2589561/) | 1989 | Kohortenstudie | American Journal of Psychiatry | Kombination von Trazodon und Fluoxetin bei Zwangsstörung (kein Abstract verfügbar). |
+| [18311107](https://pubmed.ncbi.nlm.nih.gov/18311107/) | 1999 | Fallserie | CNS Spectrums | Zusatz von Trazodon zu verschiedenen SSRI bei 5 Patienten: Alle besserten sich, teils auch die Verträglichkeit des SSRI. |
+| [3571943](https://pubmed.ncbi.nlm.nih.gov/3571943/) | 1986 | Offene Pilotstudie | International Clinical Psychopharmacology | 11 Patienten, Trazodon plus Tryptophan: Nutzen marginal, mehrere Patienten vertrugen die Kombination schlecht. |
+| [27744763](https://pubmed.ncbi.nlm.nih.gov/27744763/) | 2017 | Übersichtsarbeit | Postgraduate Medicine | Überblick über den Einsatz von Trazodon bei psychiatrischen und internistischen Erkrankungen. |
+| [26088119](https://pubmed.ncbi.nlm.nih.gov/26088119/) | 2015 | Übersichtsarbeit | Current Pharmaceutical Design | Beschreibt den Off-Label-Einsatz von Trazodon, unter anderem bei Zwangsstörung, samt Nutzen und Risiken. |
+| [4009160](https://pubmed.ncbi.nlm.nih.gov/4009160/) | 1985 | Fallbericht | Journal of Nervous and Mental Disease | Zwei Patienten mit schwerer Zwangsstörung und Depression, die auf Trazodon rasch ansprachen. |
+| [8434675](https://pubmed.ncbi.nlm.nih.gov/8434675/) | 1993 | Fallbericht | American Journal of Psychiatry | Behandlung von Zwangsstörung und Trichotillomanie mit Trazodon. |
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 66504 | Trazodon Sandoz 100 mg, Tabletten | Synthetika | Antidepressivum |
+| 57786 | Trittico retard, comprimés | Synthetika | Antidepressivum |
+| 46559 | Trittico 50 mg, comprimés | Synthetika | Antidepressivum |
+| 66656 | Trittico Uno 150 mg, comprimés à libération prolongée | Synthetika | Antidepressivum |
 
 ---
 
@@ -102,17 +111,16 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch (0,9995). Es gibt mehrere Berichte direkt zur Zwangsstörung, die ein mögliches Ansprechen zeigen, vor allem als Zusatzbehandlung.
-- Die Evidenz besteht fast nur aus alten, kleinen, unkontrollierten Beobachtungen. Es gibt weder registrierte Studien noch moderne kontrollierte Daten, und eine Studie zeigte nur marginalen Nutzen.
+- Zur Zwangsstörung gibt es nur kleine, überwiegend offene Studien und Fallberichte aus den 1980er- und 1990er-Jahren, aber keine kontrollierte Studie und keine registrierte klinische Studie. Die Ergebnisse sind uneinheitlich. Da keine Studie vorliegt, die die Wirksamkeit bei dieser Erkrankung kontrolliert belegt, ist das Evidenzniveau L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Eine kontrollierte Studie (idealerweise randomisiert), vor allem zur Zusatzbehandlung zu SSRI oder Clomipramin.
-- Die vollständigen Sicherheitsdaten aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen), die für diesen Bericht fehlen.
-- Die Wirkmechanismus-Daten aus DrugBank, um die Verbindung zur Zwangsstörung besser zu begründen.
-- Eine Prüfung der Dosierung und Verträglichkeit bei Kombination mit serotonergen Arzneimitteln.
+- Kontrollierte, randomisierte Studien zu Trazodon bei Zwangsstörung, insbesondere als Zusatz zu einem SSRI oder bei therapieresistenter Erkrankung
+- Vergleich mit den etablierten Standardtherapien (SSRI, Clomipramin, kognitive Verhaltenstherapie)
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
+- Angaben zum Wirkmechanismus aus einer geprüften Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

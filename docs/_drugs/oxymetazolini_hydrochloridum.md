@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 ## Oxymetazolini Hydrochloridum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Oxymetazolin ist ein topisch angewendeter Wirkstoff, der die Gefässe der Nasenschleimhaut verengt und sie dadurch abschwellen lässt. Die Modellvorhersage nennt als neue Indikation eine Erkrankung der Nasenhöhle (nasal cavity disease). Diese Bezeichnung ist sehr breit, und die Vorhersage deckt sich weitgehend mit dem bekannten Wirkprofil. Die Evidenz für eine direkte Untersuchung dieser Erkrankung ist gering: Es gibt keine registrierten klinischen Studien und nur Literatur zu verwandten Einzelerkrankungen.
+Oxymetazolinhydrochlorid wird in der Schweiz als Nasenspray und Nasentropfen eingesetzt. Laut der Vorhersage könnte es bei Erkrankungen der Nasenhöhle (nasal cavity disease) wirksam sein. Die Evidenz ist begrenzt: Es liegen keine registrierten klinischen Studien vor, und die Literatur besteht aus kleinen oder indirekten Publikationen, die diese Erkrankung nicht direkt untersuchen.
 
 ---
 
@@ -61,31 +59,36 @@ Oxymetazolin ist ein topisch angewendeter Wirkstoff, der die Gefässe der Nasens
 
 ### Warum ist diese Vorhersage plausibel?
 
-Oxymetazolin wirkt als alpha-1/alpha-2-adrenerger Agonist. Auf der Nasenschleimhaut verengt es die Blutgefässe. Dadurch nehmen Schleimhautschwellung, Verstopfung und Neigung zu Blutungen ab. Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank lagen für diesen Bericht nicht vor. Die Beschreibung stützt sich auf die pharmakologische Einordnung in den kompilierten Daten.
+Oxymetazolin ist ein topischer Alpha-Agonist (Alpha-1 und Alpha-2). Er verengt die Gefässe der Nasenschleimhaut und verringert dadurch Schwellung und Verstopfung. Die Angaben zum Wirkmechanismus in den Daten sind unvollständig; die Beschreibung stützt sich auf die bekannte Pharmakologie des Wirkstoffs.
 
-Die vorhergesagte Indikation umfasst Erkrankungen, bei denen Schleimhautschwellung oder fragile Gefässe eine Rolle spielen, zum Beispiel Rhinitis, Sinusitis oder blutende Teleangiektasien. Der Mechanismus passt zu einer symptomatischen Behandlung solcher Zustände.
+Dieser Mechanismus passt zu Erkrankungen der Nasenhöhle mit Schleimhautschwellung und Verstopfung, etwa akuter Rhinitis oder Sinusitis. Der hohe Vorhersagewert entspricht dieser gut bekannten Pharmakologie.
 
-Der hohe Vorhersagewert (0,9996) stimmt mit dieser Pharmakologie überein. Der Begriff „Erkrankung der Nasenhöhle“ ist jedoch sehr weit gefasst. Die Vorhersage ist daher eher die Bestätigung eines bekannten Wirkprinzips als ein klar neues Anwendungsgebiet.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Die Vorhersage deckt sich weitgehend mit dem bereits bestehenden Einsatz als Nasendekongestivum. Es handelt sich daher kaum um eine echte Umwidmung. Da die lokalen Angaben zur Indikation fehlen, lässt sich die Vorhersage nicht abschliessend mit dem Zulassungstext abgleichen.
 
 ---
 
 ### Literaturbelege
 
+Keine der folgenden Publikationen untersucht die vorhergesagte Erkrankung direkt am Menschen mit Oxymetazolin als Prüfsubstanz; sie liefern allenfalls indirekte Hinweise.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [9929658](https://pubmed.ncbi.nlm.nih.gov/9929658/) | 1998 | Klinische Studie | Annals of the New York Academy of Sciences | 36 Personen. Untersucht wurde, wie sich eine akute Erkältungsrhinitis auf das Riechvermögen auswirkt (Messung über Riech- und Trigeminus-Potenziale, Schwellenwerte und akustische Rhinometrie). Oxymetazolin wird nicht als Prüfsubstanz genannt. |
-| [8615587](https://pubmed.ncbi.nlm.nih.gov/8615587/) | 1996 | Tierstudie (Kaninchen) | The Annals of Otology, Rhinology, and Laryngology | 14 Kaninchen mit beidseitiger Kieferhöhlen-Infektion. Oxymetazolin-Nasentropfen auf einer Seite, Placebo auf der anderen. Geprüft wurde der Einfluss auf die frühe lokale Gewebeabwehr nach 48 Stunden. |
-| [25496205](https://pubmed.ncbi.nlm.nih.gov/25496205/) | 2015 | Beobachtungsstudie | Journal of Plastic Surgery and Hand Surgery | Kinder von 4 bis 8 Jahren nach Operation einer einseitigen Lippen-Kiefer-Gaumen-Spalte, verglichen mit Kontrollen. Die Nasendurchgängigkeit wurde per akustischer Rhinometrie gemessen. |
-| [28490409](https://pubmed.ncbi.nlm.nih.gov/28490409/) | 2017 | Verfahrensbeschreibung | American Journal of Rhinology & Allergy | Endoskopisch gestützte Koblation von Teleangiektasien der Nase bei hereditärer hämorrhagischer Teleangiektasie (HHT), die häufiges Nasenbluten verursacht. Oxymetazolin ist höchstens Begleitmittel. |
-| [38024464](https://pubmed.ncbi.nlm.nih.gov/38024464/) | 2023 | Fallbericht | Global Pediatric Health | Rhinosklerom (seltene granulomatöse Erkrankung der Atemwege, meist der Nasenhöhle) bei einem 9-jährigen Jungen. Oxymetazolin ist nicht der Gegenstand der Arbeit. |
+| [9929658](https://pubmed.ncbi.nlm.nih.gov/9929658/) | 1998 | Kohortenstudie | Annals of the New York Academy of Sciences | Untersuchung des Riechvermögens bei akutem Schnupfen an 36 Personen, u. a. mit Messung des Nasenvolumens. |
+| [8615587](https://pubmed.ncbi.nlm.nih.gov/8615587/) | 1996 | Präklinisch (Tierstudie) | The Annals of Otology, Rhinology, and Laryngology | Bei Kaninchen mit experimenteller Kieferhöhlenentzündung wurde die Wirkung von Oxymetazolin-Nasentropfen auf die lokale Gewebeabwehr geprüft. |
+| [25496205](https://pubmed.ncbi.nlm.nih.gov/25496205/) | 2015 | Kohortenstudie | Journal of Plastic Surgery and Hand Surgery | Messung der Nasendurchgängigkeit mittels akustischer Rhinometrie bei Kindern nach Lippen-Kiefer-Gaumenspalten-Operation. |
+| [38024464](https://pubmed.ncbi.nlm.nih.gov/38024464/) | 2023 | Fallbericht | Global Pediatric Health | Seltener Fall von Rhinosklerom bei einem 9-jährigen Jungen. |
+| [28490409](https://pubmed.ncbi.nlm.nih.gov/28490409/) | 2017 | Fallbericht | American Journal of Rhinology & Allergy | Technik der endoskopisch geführten Koblation bei nasalen Teleangiektasien bei hereditärer hämorrhagischer Teleangiektasie. |
 
-Keine dieser Arbeiten belegt die Wirksamkeit von Oxymetazolin bei einer Erkrankung der Nasenhöhle im Sinne einer kontrollierten Studie. Nur die Kaninchenstudie prüft den Wirkstoff selbst, und zwar im Tiermodell.
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 45138 | VICKS Nasivin Classic 0.05 %, Nasenspray | Synthetika | Schnupfen |
+| 51764 | VICKS Nasivin Classic Menthol, Nasenspray | Synthetika | Schnupfen |
+| 54613 | VICKS Nasivin 0.05 %, Nasenspray | Synthetika | Schnupfen |
+| 70160 | VICKS Nasivin 0.01 %, Nasentropfen | Synthetika | Schnupfen |
 
 ---
 
@@ -100,13 +103,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage ist breit formuliert und entspricht weitgehend einer bereits bekannten Wirkung des Arzneimittels. Es gibt keine registrierten klinischen Studien. Die Literatur betrifft verwandte Einzelerkrankungen oder nennt Oxymetazolin nur am Rande, daher bleibt das Evidenzniveau bei L5.
+- Die Vorhersage entspricht weitgehend dem bekannten Einsatz als Nasendekongestivum, bringt also kaum neuen Nutzen. Es gibt keine registrierten Studien und keine Publikation, die die Erkrankung direkt untersucht.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Eine Präzisierung, welche konkrete Erkrankung der Nasenhöhle gemeint ist (zum Beispiel Rhinitis, Sinusitis oder HHT-bedingtes Nasenbluten) und worin der Mehrwert gegenüber dem bestehenden Einsatz läge.
-- Kontrollierte klinische Studien oder systematische Übersichten, die Oxymetazolin bei dieser konkreten Erkrankung direkt untersuchen.
-- Die Warnhinweise, Gegenanzeigen und Wechselwirkungen aus der Swissmedic-Fachinformation, die für die Sicherheitsbewertung noch fehlen.
-- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank) zur Ergänzung der Mechanismusanalyse.
+- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen.
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank).
+- Klinische Studien oder Publikationen, die eine konkrete Erkrankung der Nasenhöhle direkt untersuchen, und eine klare Abgrenzung zur bereits bestehenden Anwendung.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

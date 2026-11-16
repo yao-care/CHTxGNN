@@ -9,7 +9,7 @@ drugbank_id: DB01039
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-11-16
-description: "Fenofibratum: vorhergesagte neue Indikation Cholesterol-ester transfer protein deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Hyperlipidämie"
+description: "Fenofibratum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Hyperlipidämie"
 ---
 
 # Fenofibratum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Fenofibratum: Cholesterol-ester transfer protein deficiency
+## Fenofibratum: Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Fenofibrat ist ein Lipidsenker, der in der Schweiz als Kapselpräparat im Handel ist. Dafür gibt es keine direkte Evidenz: Die einzige registrierte Studie prüft einen anderen Wirkstoff (Alirocumab), und zu Fenofibrat liegt nur ein älterer Bericht mit einem einzelnen betroffenen Patienten vor.
+Fenofibrat ist ein Lipidsenker, der in der Schweiz zugelassen ist. Der Wirkstoff wird für den Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) vorhergesagt, doch ein klarer therapeutischer Nutzen ist nicht erkennbar. Die Evidenz beschränkt sich auf Vorhersagemodell, Tier- und Mechanismusstudien, es liegen keine Studien zu dieser Erkrankung vor.
 
 ---
 
@@ -50,7 +50,7 @@ Fenofibrat ist ein Lipidsenker, der in der Schweiz als Kapselpräparat im Handel
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Hyperlipidämie |
-| Vorhergesagte neue Indikation | Cholesterol-ester transfer protein deficiency |
+| Vorhergesagte neue Indikation | Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) |
 | TxGNN-Vorhersagewert | 0.9961 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,17 +61,11 @@ Fenofibrat ist ein Lipidsenker, der in der Schweiz als Kapselpräparat im Handel
 
 ### Warum ist diese Vorhersage plausibel?
 
-Fenofibrat aktiviert den Kernrezeptor PPAR-alpha. Dadurch steigt die Aktivität der Lipoproteinlipase und das Apolipoprotein C-III sinkt. Die Triglyzeride fallen deutlich, das LDL-Cholesterin sinkt mässig, weil sich die Zusammensetzung der LDL-Partikel verändert. Zum Wirkmechanismus liegen in den Daten keine weiteren Angaben vor.
+Fenofibrat ist ein Agonist des Peroxisom-Proliferator-aktivierten Rezeptors alpha (PPAR-alpha). Er senkt Triglyceride und erhöht das HDL-Cholesterin mässig. Die Angaben zum Wirkmechanismus in den für diesen Bericht zusammengestellten Daten sind unvollständig; die Einordnung beruht auf der in der Literatur beschriebenen Pharmakologie.
 
-Die homozygote familiäre Hypercholesterinämie beruht auf einer nahezu fehlenden Funktion des LDL-Rezeptors. Fenofibrat greift hier nicht an der Ursache an, daher ist nur ein kleiner Effekt auf das LDL-Cholesterin zu erwarten. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu anderen Fettstoffwechselstörungen wider und nicht spezifische Belege für diese Erkrankung.
+Beim Cholesterinester-Transferprotein-Mangel (CETP-Mangel) ist das HDL-Cholesterin deutlich erhöht, weil der Transfer von Cholesterinestern von HDL auf apoB-haltige Lipoproteine gestört ist. Die Literatur verbindet PPAR-alpha-Agonismus mit dem Umbau von HDL, etwa über die Induktion des Phospholipid-Transferproteins (PLTP), und untersucht das Zusammenspiel mit der CETP-Hemmung. Dies ist ein rein pharmakologischer und mechanistischer Zusammenhang.
 
----
-
-### Klinische Studien
-
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Abgeschlossen | 18 | Offene Studie mit Alirocumab (PCSK9-Hemmer) bei Kindern und Jugendlichen von 8 bis 17 Jahren mit homozygoter familiärer Hypercholesterinämie; Zielgrösse ist das LDL-Cholesterin nach 12 Wochen. Keine Fenofibrat-Studie, daher kein direkter Beleg. |
+Ein therapeutischer Nutzen ist unklar: Fenofibrat würde das HDL in einer Situation weiter anheben, in der es bereits hoch ist. Ein CETP-Mangel gilt zudem meist nicht als Erkrankung, die eine lipidsenkende Behandlung braucht, und sein Zusammenhang mit dem Herz-Kreislauf-Risiko ist uneindeutig. Der hohe Vorhersagewert ist eine rechnerische Vorhersage, die wahrscheinlich die Nähe im Lipidstoffwechsel widerspiegelt, und kein klinischer Beleg.
 
 ---
 
@@ -79,9 +73,9 @@ Die homozygote familiäre Hypercholesterinämie beruht auf einer nahezu fehlende
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [37979722](https://pubmed.ncbi.nlm.nih.gov/37979722/) | 2024 | Übersichtsarbeit | Indian Heart Journal | Überblick über Nicht-Statine; Fenofibrat-Monotherapie vor allem bei Triglyzeriden über 500 mg/dl zur Vorbeugung einer akuten Pankreatitis. |
-| [2042836](https://pubmed.ncbi.nlm.nih.gov/2042836/) | 1991 | Übersichtsarbeit | Annals of the New York Academy of Sciences | Medikamentöse und chirurgische Behandlung von Kindern mit Fettstoffwechselstörungen, darunter Fenofibrat bei familiärer Hypercholesterinämie. |
-| [24734312](https://pubmed.ncbi.nlm.nih.gov/24734312/) | 2014 | Pharmakokinetische Interaktionsstudie | Pharmacotherapy | Wechselwirkungen von Lomitapid mit Lipidsenkern, darunter Fenofibrat; keine Wirksamkeitsdaten zu Fenofibrat bei dieser Erkrankung. |
+| [20332533](https://pubmed.ncbi.nlm.nih.gov/20332533/) | 2010 | Tierstudie (transgene Mäuse) | Journal of Cardiovascular Pharmacology and Therapeutics | CETP-Hemmung (Torcetrapib) und PPAR-alpha-Agonismus (Fenofibrat) in Mäusen mit humanem ApoB-100 und humanem CETP; Wirkung auf Lipidprofile, kein Bezug zu CETP-Mangel-Patienten. |
+| [30271349](https://pubmed.ncbi.nlm.nih.gov/30271349/) | 2018 | Mechanistische/translationale Studie | Frontiers in Physiology | Untersucht HDL-Cholesterin, HDL-Funktion, fäkale Cholesterinausscheidung und Cholesterin-Efflux; nur indirekte Relevanz. |
+| [11342537](https://pubmed.ncbi.nlm.nih.gov/11342537/) | 2001 | Präklinische Mechanismusstudie | Journal of Biological Chemistry | Fenofibrat führt in Mäusen über die Induktion des PLTP-Gens zu vergrösserten HDL-Partikeln. |
 
 ---
 
@@ -104,13 +98,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine Studie, die Fenofibrat bei homozygoter familiärer Hypercholesterinämie direkt untersucht. Ein einzelner Patient in einem Bericht von 1984 reicht nicht aus. Da der Defekt am LDL-Rezeptor liegt, ist ein grösserer Effekt unwahrscheinlich.
+- Es gibt keine Studie, die Fenofibrat direkt bei CETP-Mangel untersucht; die Evidenz stützt sich auf Modellvorhersage sowie Tier- und Mechanismusdaten (Evidenzniveau L5).
+- Ein therapeutischer Nutzen ist fraglich, da HDL beim CETP-Mangel bereits erhöht ist und der Mangel meist keine lipidsenkende Behandlung erfordert.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Daten zu Fenofibrat bei genetisch gesicherter homozygoter familiärer Hypercholesterinämie, zum Beispiel Fallserien oder kontrollierte Studien als Zusatztherapie
-- Der Vergleich mit etablierten Therapien (Statine, Ezetimib, PCSK9-Hemmer, Lomitapid)
-- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klinische Daten oder Fallserien zu Fenofibrat bei Personen mit CETP-Mangel
+- Klärung, ob bei CETP-Mangel überhaupt ein behandlungsbedürftiges Krankheitsbild mit Behandlungsziel besteht
+- Vollständige Angaben zu Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation
+- Vollständige Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

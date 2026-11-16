@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 ## Clotrimazolum: Akne (acne (disease))
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Clotrimazol ist ein Antimykotikum, das in der Schweiz in mehreren Präparaten im Handel ist. Für die Vorhersage steht Akne (acne (disease)) an erster Stelle. Dafür liegt nur eine einzelne, ausgesetzte Studie mit einer Dreierkombination vor, sodass die Vorhersage derzeit praktisch nur auf einer Modellberechnung beruht.
+Clotrimazol ist ein in der Schweiz im Handel befindliches Antimykotikum, das vor allem auf der Haut und in der Scheide angewendet wird. Vorhergesagt wird eine mögliche Wirksamkeit bei Akne (acne (disease)). Dafür gibt es bisher nur eine Modellvorhersage und eine ausgesetzte Studie mit einer Fixkombination, also keine belastbare Evidenz.
 
 ---
 
@@ -59,9 +61,11 @@ Clotrimazol ist ein Antimykotikum, das in der Schweiz in mehreren Präparaten im
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Clotrimazol als Imidazol-Antimykotikum die Bildung von Ergosterol in Pilzzellen hemmt und dadurch deren Zellmembran schädigt.
+Die Wirkweise von Clotrimazol ist in den vorliegenden Daten nicht hinterlegt. Allgemein bekannt ist, dass Imidazol-Antimykotika das Pilzenzym 14-alpha-Demethylase (CYP51) hemmen und so die Bildung von Ergosterol in der Pilzzellwand stören. In Laborversuchen zeigt Clotrimazol zudem gewisse antibakterielle und entzündungshemmende Effekte.
 
-Eine Verbindung zur Akne ist nur indirekt denkbar. Hefepilze der Gattung Malassezia können akneähnliche Hautveränderungen (Malassezia-Follikulitis) verursachen, und für Imidazole werden zudem leichte entzündungshemmende und antibakterielle Wirkungen beschrieben. Für die klassische Akne (Acne vulgaris) fehlen jedoch Belege für einen Nutzen von Clotrimazol. Der hohe Vorhersagewert ist eine reine Modellberechnung.
+Bei Akne spielen die Besiedlung mit Cutibacterium acnes und Entzündungsprozesse eine Rolle. Bei manchen akne-ähnlichen, follikulitisartigen Bildern ist auch Malassezia beteiligt. Daraus ergibt sich eine indirekte Begründung.
+
+Der hohe Vorhersagewert ist eine reine Modellberechnung und nicht durch klinische Daten gestützt. Da die ursprüngliche Wirkweise fehlt, lässt sich der mechanistische Zusammenhang nur eingeschränkt prüfen.
 
 ---
 
@@ -69,7 +73,7 @@ Eine Verbindung zur Akne ist nur indirekt denkbar. Hefepilze der Gattung Malasse
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Phase 2/3 | Ausgesetzt | 80 | Vergleich einer Kombinationscreme (Beclometason + Gentamicin + Clotrimazol) bei kontaminierter Dermatose mit beidseitig symmetrischen Läsionen. Keine Ergebnisse veröffentlicht. Wegen der Kombination lässt sich kein Effekt allein Clotrimazol zuordnen. |
+| [NCT01244256](https://clinicaltrials.gov/study/NCT01244256) | Phase 2/3 | Ausgesetzt | 80 (geplant) | Vergleich einer Fixkombination aus Beclometason, Gentamicin und Clotrimazol bei kontaminierter Dermatose mit symmetrischen Läsionen. Keine Ergebnisse verfügbar. Wegen der Kombination und des unklaren Bezugs zu Akne nicht aussagekräftig für Clotrimazol allein. |
 
 ---
 
@@ -79,15 +83,15 @@ Eine Verbindung zur Akne ist nur indirekt denkbar. Hefepilze der Gattung Malasse
 |---------|------|------|-----------|
 | 45862 | Imazol, Pâte-crème | Synthetika | Antimykotikum |
 | 48679 | Corisol, Crème | Synthetika | Antimykotikum |
-| 68353 | Gyno-Canesten, Kombi FORTE, 500 mg und 20 g 1% | Synthetika | Durch Clotrimazol-empfindliche Erreger verursachte vulvovaginale Infektionen |
-| 49768 | Fungotox-200, Vaginaltabletten | Synthetika | Pilzinfektionen der Vagina |
+| 68353 | Gyno-Canesten, Kombi FORTE, 500 mg und 20 g 1% | Synthetika | Vulvovaginale Infektionen durch Clotrimazol-empfindliche Erreger |
+| 49768 | Fungotox-200, Vaginaltabletten | Synthetika | Pilzinfektionen der Scheide |
 | 39725 | Canesten, Spray zur Anwendung auf der Haut, Lösung | Synthetika | Antimykotikum |
-| 67736 | Kadefemin Mycostop 200 mg / 2%, Vaginaltabletten und Creme | Synthetika | Durch Clotrimazol-empfindliche Erreger verursachte vulvovaginale Infektionen |
+| 67736 | Kadefemin Mycostop 200 mg / 2%, Vaginaltabletten und Creme | Synthetika | Vulvovaginale Infektionen durch Clotrimazol-empfindliche Erreger |
 | 37510 | Canesten, Creme | Synthetika | Antimykotikum |
-| 60954 | Gyno-Canesten, Kombipack | Synthetika | Durch Clotrimazol-empfindliche Erreger verursachte vulvovaginale Infektionen |
-| 43401 | Gyno-Canesten, Vaginalcrème | Synthetika | Vaginalinfektionen mit Pilzen |
+| 60954 | Gyno-Canesten, Kombipack | Synthetika | Vulvovaginale Infektionen durch Clotrimazol-empfindliche Erreger |
+| 43401 | Gyno-Canesten, Vaginalcrème | Synthetika | Pilzinfektionen der Scheide |
 | 49767 | Fungotox, Crème | Synthetika | Antimykotikum |
-| 37512 | Gyno-Canesten, Vaginaltabletten | Synthetika | Vaginalinfektionen mit Pilzen |
+| 37512 | Gyno-Canesten, Vaginaltabletten | Synthetika | Pilzinfektionen der Scheide |
 
 ---
 
@@ -102,12 +106,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Akne liegt nur eine ausgesetzte Studie mit einer Dreierkombination ohne Ergebnisse vor, und keine Studie untersucht Clotrimazol allein bei dieser Erkrankung. Der Vorhersagewert beruht allein auf dem Modell.
+- Für Akne liegt nur eine Modellvorhersage vor. Die einzige registrierte Studie ist ausgesetzt, testet eine Kombination und untersucht Akne nicht eindeutig. Ohne direkte Studien gilt Evidenzniveau L5.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Kontrollierte Studien mit Clotrimazol allein bei Akne, insbesondere bei Malassezia-assoziierter Follikulitis
-- Klärung des Wirkmechanismus bei Akne
-- Auswertung der Sicherheitsinformationen aus der Schweizer Fachinformation (Warnhinweise und Kontraindikationen)
+- Klinische oder präklinische Studien, die Clotrimazol allein direkt bei Akne untersuchen
+- Die Wirkweise des Arzneimittels aus einer verlässlichen Quelle (z. B. DrugBank)
+- Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation (Swissmedic)
+- Prüfung, ob die vorhandenen Darreichungsformen für die Anwendung bei Akne geeignet sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

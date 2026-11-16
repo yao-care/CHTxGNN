@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Verapamil ist ein Calciumantagonist, der in der Schweiz in mehreren Filmtabletten-Präparaten im Handel ist. Für die Hauptvorhersage «Obsoleter Schenkelblock (obsolete bundle branch block)» liegen weder klinische Studien noch Literatur vor; der hohe Vorhersagewert ist eine rein rechnerische Aussage. Die Evidenz entspricht damit dem Niveau L5, und die Vorhersage ist aus pharmakologischer Sicht wenig plausibel.
+Verapamil ist ein Calciumantagonist, der in der Schweiz als Filmtabletten im Handel ist. Für die Vorhersage „Obsoleter Schenkelblock (obsolete bundle branch block)“ liegt ein sehr hoher TxGNN-Wert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur; die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
 
 ---
 
@@ -61,11 +61,23 @@ Verapamil ist ein Calciumantagonist, der in der Schweiz in mehreren Filmtablette
 
 ### Warum ist diese Vorhersage plausibel?
 
-Verapamil blockiert L-Typ-Calciumkanäle und verlangsamt die Erregungsleitung im AV-Knoten. Dieser Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht als eigener Eintrag hinterlegt; er entspricht jedoch der klassischen Pharmakologie von Verapamil.
+Verapamil blockiert L-Typ-Calciumkanäle und verlangsamt die Erregungsleitung im AV-Knoten. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor; die Beschreibung stützt sich auf das bekannte Wirkprinzip dieser Arzneimittelklasse.
 
-Beim Schenkelblock liegt die Störung in der Erregungsleitung des His-Purkinje-Systems. Eine Substanz, die die Leitung verlangsamt, ist hier nicht als Therapie zu erwarten und könnte die Störung sogar verschlechtern. Der Begriff ist zudem veraltet.
+Die Plausibilität ist begrenzt. Ein Schenkelblock ist eine Leitungsstörung unterhalb des AV-Knotens. Eine Blockade der AV-Knoten-Leitung könnte eine bestehende Leitungsstörung eher verschlechtern als behandeln. Zudem deutet der Zusatz „obsolete“ auf einen veralteten Eintrag in der Krankheitsklassifikation hin, möglicherweise ein Datenartefakt.
 
-Ein überzeugender mechanistischer Zusammenhang lässt sich daher nicht herleiten. Der hohe Vorhersagewert bleibt eine rechnerische Aussage ohne klinische Bestätigung.
+Der hohe Vorhersagewert allein ist daher kein Hinweis auf einen therapeutischen Nutzen. Ein belastbarer mechanistischer Zusammenhang ist aus den vorliegenden Daten nicht ableitbar.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
@@ -90,12 +102,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch Literatur zur vorhergesagten Indikation (Evidenzniveau L5). Der Wirkmechanismus spricht eher gegen einen Nutzen, da eine Verlangsamung der Leitung einen Schenkelblock verschlechtern könnte.
+- Die Vorhersage stützt sich ausschliesslich auf einen Modellwert, ohne Studien oder Literatur. Der Wirkmechanismus spricht eher gegen einen Nutzen bei einer Leitungsstörung unterhalb des AV-Knotens.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warn- und Kontraindikationsangaben aus der Swissmedic-Fachinformation (derzeit nicht verfügbar; blockierend für die Sicherheitsprüfung)
-- Eine dokumentierte Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Direkte klinische oder präklinische Studien zur vorhergesagten Indikation, bevor eine Weiterverfolgung erwogen wird
+- Klärung, ob der Krankheitseintrag „obsolete bundle branch block“ ein veralteter Datenbankeintrag ist und welcher aktuellen Diagnose er entspricht
+- Systematische Literaturrecherche und Prüfung auf klinische Studien zur Erkrankung
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (insbesondere zu Leitungsstörungen)
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

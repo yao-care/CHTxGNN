@@ -9,7 +9,7 @@ drugbank_id: DB06414
 monitor_inn: "Etravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "obsolete familial combined hyperlipidemia"]
 last_modified_at: 2026-11-16
-description: "Etravirinum: vorhergesagte neue Indikation Simiane Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
+description: "Etravirinum: vorhergesagte neue Indikation Simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
 # Etravirinum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 </div>
 
-## Etravirinum: Simiane Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection)
+## Etravirinum: Simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Etravirin ist ein Hemmer der HIV-1-Reverse-Transkriptase aus der Gruppe der nicht-nukleosidischen Reverse-Transkriptase-Hemmer (NNRTI). Die Vorhersage nennt als neue Indikation die Infektion mit dem simianen Immundefizienz-Virus (simian immunodeficiency virus infection), eine Erkrankung bei Affen, die vor allem als Tiermodell dient. Die Evidenz ist sehr dünn: Es gibt nur eine indirekte Laborstudie zu HIV-1 und keine Studie, die diese Erkrankung direkt untersucht.
+Etravirin ist ein Diarylpyrimidin-NNRTI und in der Schweiz im Handel. Die Vorhersage nennt als neue Indikation die simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection), eine Infektion bei Affen mit einem engen Verwandten des Humanen Immundefizienzvirus. Die Evidenz ist sehr schwach: Es gibt keine klinischen Studien und keine Studie zu dieser Erkrankung, und der Mechanismus spricht eher dagegen.
 
 ---
 
@@ -48,7 +50,7 @@ Etravirin ist ein Hemmer der HIV-1-Reverse-Transkriptase aus der Gruppe der nich
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | HIV-Infektionen |
-| Vorhergesagte neue Indikation | Simiane Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) |
+| Vorhergesagte neue Indikation | Simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection) |
 | TxGNN-Vorhersagewert | 0.9998 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,11 +61,17 @@ Etravirin ist ein Hemmer der HIV-1-Reverse-Transkriptase aus der Gruppe der nich
 
 ### Warum ist diese Vorhersage plausibel?
 
-Etravirin hemmt die Reverse-Transkriptase von HIV-1, ein Enzym, das für die Vermehrung des Virus nötig ist. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Etravirin hemmt die Reverse Transkriptase von HIV-1 als NNRTI. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor. Das Simiane Immundefizienzvirus (SIV) ist wie HIV ein Lentivirus mit einer Reverse Transkriptase. Daraus ergibt sich formal ein Zusammenhang zwischen den beiden Erkrankungen.
 
-Das simiane Immundefizienz-Virus (SIV) gehört wie HIV zu den Lentiviren und ist mit HIV eng verwandt. Dies erklärt, warum die Vorhersage trotz fehlender SIV-spezifischer Daten einen hohen Wert erhält. Der hohe Wert dürfte vor allem die Nähe zu HIV-bezogenen Krankheitsbegriffen widerspiegeln.
+Dieser Zusammenhang trägt aber nur begrenzt. SIV, insbesondere SIVmac, und HIV-2 sind von Natur aus gegen die meisten NNRTI resistent. Der hohe Vorhersagewert wird deshalb nicht durch eine direkte mechanistische Begründung gestützt. Daten zu Etravirin bei SIV liegen nicht vor.
 
-Der Mechanismus lässt sich jedoch voraussichtlich nicht direkt übertragen: SIV ist, ähnlich wie HIV-2, von Natur aus meist unempfindlich gegenüber NNRTI. Die Wirksamkeit ist daher nicht zu erwarten. Zudem handelt es sich um eine Erkrankung im Tiermodell mit geringer Bedeutung für die klinische Anwendung beim Menschen.
+Die einzige gefundene Publikation untersucht Nanopartikel-basierte antiretrovirale Kombinationen gegen HIV. Sie stützt die Vorhersage nur indirekt.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -71,15 +79,7 @@ Der Mechanismus lässt sich jedoch voraussichtlich nicht direkt übertragen: SIV
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [26529558](https://pubmed.ncbi.nlm.nih.gov/26529558/) | 2015 | Präklinisch / In vitro | Molecular pharmaceutics | Nanopartikel-basierte Kombinationen antiretroviraler Wirkstoffe gegen HIV; untersucht wurde die Hemmung der zellfreien und zellvermittelten HIV-Übertragung. Indirekter Beleg, keine SIV-Daten. |
-
----
-
-### Marktinformationen Schweiz
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58483 | Intelence 200 mg, Tabletten | Synthetika | HIV-Infektionen |
+| [26529558](https://pubmed.ncbi.nlm.nih.gov/26529558/) | 2015 | Präklinisch / in vitro | Molecular Pharmaceutics | Nanopartikel als Träger für antiretrovirale Wirkstoffkombinationen. Untersucht wurde die Hemmung der HIV-Übertragung (zellfrei und von Zelle zu Zelle). Die Studie betrifft HIV, nicht SIV, und liefert keine SIV-spezifischen Daten zu Etravirin. |
 
 ---
 
@@ -94,12 +94,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine klinische Studie und keine Publikation untersucht die SIV-Infektion direkt; das Evidenzniveau bleibt daher bei L5. Zudem sind SIV und verwandte Lentiviren gegenüber NNRTI meist unempfindlich, und die Indikation hat kaum klinische Relevanz für den Menschen.
+- Keine klinische Studie und keine Publikation untersucht Etravirin bei SIV-Infektion, daher gilt Evidenzniveau L5. Die bekannte natürliche Resistenz von SIV gegen die meisten NNRTI spricht zusätzlich gegen die Vorhersage.
+- Die SIV-Infektion betrifft Affen und liegt ausserhalb des klinischen Studienrahmens beim Menschen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte experimentelle Daten (Zellkultur oder Tiermodell) zur Wirksamkeit von Etravirin gegen SIV
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, um die Sicherheitsprüfung durchführen zu können
+- Präklinische Daten zur Wirksamkeit von Etravirin gegen SIV, zum Beispiel Zellkulturstudien an verschiedenen SIV-Stämmen.
+- Eine Klärung, ob die natürliche NNRTI-Resistenz von SIV die Vorhersage entkräftet.
+- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Fachinformation von Swissmedic.
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

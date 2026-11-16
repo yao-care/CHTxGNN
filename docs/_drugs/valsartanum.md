@@ -9,7 +9,7 @@ drugbank_id: DB00177
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 last_modified_at: 2026-11-16
-description: "Valsartanum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
+description: "Valsartanum: vorhergesagte neue Indikation Bösartige hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
 # Valsartanum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Valsartanum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
+## Valsartanum: Bösartige hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Valsartan ist ein Angiotensin-II-Rezeptor-Antagonist, der in der Schweiz zur Behandlung des Bluthochdrucks im Handel ist. Es könnte sich nach der Vorhersage von TxGNN auch bei der malignen hypertensiven Nierenerkrankung (malignant hypertensive renal disease) eignen. Dafür liegt bisher nur indirekte, präklinische Evidenz vor, die keine Studie zu Valsartan bei dieser Erkrankung einschliesst.
+Valsartan ist ein Angiotensin-II-Rezeptor-Blocker, der in der Schweiz zur Blutdrucksenkung eingesetzt wird. Das Modell sagt voraus, dass er bei der bösartigen hypertensiven Nierenerkrankung (malignant hypertensive renal disease) wirksam sein könnte. Dafür liegt nur eine Modellvorhersage ohne direkte Studienbelege vor (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +48,7 @@ Valsartan ist ein Angiotensin-II-Rezeptor-Antagonist, der in der Schweiz zur Beh
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Antihypertensivum, Angiotensin-II-Rezeptor-Antagonist; Hypertonie |
-| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
+| Vorhergesagte neue Indikation | Bösartige hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9997 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
@@ -59,11 +59,11 @@ Valsartan ist ein Angiotensin-II-Rezeptor-Antagonist, der in der Schweiz zur Beh
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Valsartan liegen in den vorliegenden Daten keine Angaben vor. Bekannt ist jedoch, dass Valsartan zur Klasse der Angiotensin-II-Rezeptor-Antagonisten gehört. Diese blockieren den Angiotensin-II-Typ-1-Rezeptor (AT1).
+Zum Wirkmechanismus von Valsartan liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist die Wirkstoffklasse: Angiotensin-II-Rezeptor-Blocker senken den Blutdruck und können den Druck in den Nierenkörperchen sowie den Eiweissverlust im Urin verringern.
 
-Angiotensin II treibt bei maligner Hypertonie Schäden an Nierenkörperchen und Gefässen an. Eine Blockade dieses Rezeptors ist deshalb für hypertensive Nierenerkrankungen mechanistisch nachvollziehbar.
+Diese Wirkung ist für eine durch Bluthochdruck geschädigte Niere nachvollziehbar. Wirkstoffe dieser Klasse werden bei hypertensiven Nierenschäden bereits allgemein eingesetzt. Für die bösartige (maligne) Verlaufsform fehlen jedoch Daten zu Valsartan selbst.
 
-Die einzige gefundene Publikation betrifft jedoch Avosentan, einen Endothelin-Antagonisten, und nicht Valsartan. Sie stützt die Vorhersage deshalb nur indirekt auf der Ebene verwandter Signalwege.
+Der hohe Vorhersagewert beruht auf einer netzwerkbasierten Berechnung und ist kein klinischer Beleg.
 
 ---
 
@@ -77,13 +77,13 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Präklinisch (Tierstudie) | Pharmacological Research | Avosentan (Endothelin-Antagonist) schützte bei Ratten mit hypertensiver Nephropathie in Dosen, die keine Flüssigkeitsretention verursachen. Valsartan wurde nicht untersucht. |
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Präklinisch (Rattenmodell) | Pharmacological Research | Untersucht Avosentan (einen Endothelin-Rezeptor-Antagonisten, nicht Valsartan). In einem Rattenmodell wirkte es bei niedrigen Dosen ohne Flüssigkeitsretention schützend bei hypertensiver Nierenschädigung. Kein direkter Beleg für Valsartan. |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst, alle gültig).
+Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -105,12 +105,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht auf einem hohen Modellwert und einer einzigen präklinischen Arbeit zu einem anderen Wirkstoff. Es gibt keine Studie, die Valsartan bei dieser Erkrankung untersucht, daher gilt Evidenzniveau L5.
+- Die einzige gefundene Publikation betrifft einen anderen Wirkstoff (Avosentan) im Tiermodell, und es gibt keine registrierten Studien zu Valsartan bei dieser Erkrankung.
+- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen bisher.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte präklinische oder klinische Studien zu Valsartan bei maligner hypertensiver Nierenerkrankung
-- Der Wirkmechanismus von Valsartan aus einer Arzneimitteldatenbank
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung noch nicht möglich)
+- Klinische oder präklinische Studien, die Valsartan direkt bei bösartiger hypertensiver Nierenerkrankung untersuchen
+- Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+- Prüfung, ob die Anwendung bereits durch die etablierte Klassenanwendung von Angiotensin-II-Rezeptor-Blockern abgedeckt ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

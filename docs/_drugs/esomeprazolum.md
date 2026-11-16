@@ -9,7 +9,7 @@ drugbank_id: DB00736
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-16
-description: "Esomeprazolum: vorhergesagte neue Indikation Duodenal obstruction (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenblocker"
+description: "Esomeprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenblocker"
 ---
 
 # Esomeprazolum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Esomeprazolum: Duodenal obstruction
+## Esomeprazolum: Duodenalobstruktion (duodenal obstruction)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Esomeprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. Es wird als mögliche Option bei duodenogastralem Reflux (duodenogastric reflux) vorhergesagt, also beim Rückfluss von Galle und Darminhalt in den Magen. Die Evidenz ist gering: Es liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung direkt untersuchen. Die Vorhersage stützt sich daher allein auf das Modell (Evidenzniveau L5).
+Esomeprazol ist ein Protonenpumpenblocker, der die Magensäureproduktion hemmt. Das Modell sagt voraus, dass es bei einer Duodenalobstruktion (duodenal obstruction) wirksam sein könnte. Diese Vorhersage beruht allein auf einem Modellwert; es liegen weder klinische Studien noch Publikationen vor.
 
 ---
 
@@ -50,7 +48,7 @@ Esomeprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. E
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Protonenpumpenblocker |
-| Vorhergesagte neue Indikation | Duodenal obstruction |
+| Vorhergesagte neue Indikation | Duodenalobstruktion (duodenal obstruction) |
 | TxGNN-Vorhersagewert | 0.9945 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
@@ -61,11 +59,11 @@ Esomeprazol ist ein Protonenpumpenhemmer, der die Magensäureproduktion senkt. E
 
 ### Warum ist diese Vorhersage plausibel?
 
-Esomeprazol hemmt die H⁺/K⁺-ATPase der Belegzellen im Magen. Das ist die Protonenpumpe, die für die Säureabgabe verantwortlich ist. Die Substanz senkt die Säurebildung im Magen deutlich und lang anhaltend.
+Esomeprazol hemmt irreversibel die H⁺/K⁺-ATPase der Magenschleimhaut (Protonenpumpe) und senkt dadurch die Säureproduktion. Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt; die Angaben hier beruhen auf allgemeinem pharmakologischem Wissen.
 
-Der duodenogastrale Reflux ist überwiegend nicht säurebedingt, sondern wird durch Galle und Duodenalsaft verursacht. Esomeprazol kann den Rückfluss selbst nicht verhindern. Ein Nutzen wäre nur indirekt zu erwarten. Wenn Galle und Säure gleichzeitig auf die Magenschleimhaut treffen, könnte weniger Säure die Schleimhautschäden und die Beschwerden mildern.
+Ein denkbarer, aber nicht belegter Zusammenhang wäre unterstützend: Weniger Säure könnte bei säurebedingten Veränderungen des Zwölffingerdarms (Geschwür, Entzündung, Schwellung) helfen, die zu einer Verengung beitragen, oder obere Magen-Darm-Beschwerden bei Betroffenen lindern.
 
-Er spiegelt wahrscheinlich die enge Verwandtschaft des Arzneimittels mit anderen säurebedingten Erkrankungen des oberen Verdauungstrakts wider. Er belegt keinen spezifischen Nutzen bei dieser Erkrankung.
+Es gibt jedoch deutliche Einschränkungen. Eine Duodenalobstruktion ist meist mechanisch bedingt (z. B. Stenose, Tumor, Pancreas anulare, Syndrom der Arteria mesenterica superior). Eine Säurehemmung würde ein fixes anatomisches Hindernis nicht beheben. Der hohe Wert könnte auch auf die Nähe zu verwandten Zwölffingerdarm- oder Ulkuserkrankungen zurückgehen und nicht auf eine echte therapeutische Beziehung. Der Rechenweg des Modells ist nicht verfügbar.
 
 ---
 
@@ -77,9 +75,19 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Literaturbelege
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Übersichtsarbeit | European Journal of Clinical Pharmacology | Allgemeine Übersicht zum klinischen Einsatz und zur Pharmakokinetik von Protonenpumpenhemmern. Der duodenogastrale Reflux wird darin nicht direkt untersucht. |
+Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 3 Zulassungen erfasst, alle gültig).
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 60576 | Esomep i.v., Pulver zur Herstellung einer Injektions-/Infusionslösung (Grünenthal Pharma AG) | Synthetika | Protonenpumpenblocker |
+| 66321 | Esoprax 20 mg, magensaftresistente Tabletten (Drossapharm AG) | Synthetika | Protonenpumpenblocker |
+| 62581 | Esomeprazol-Mepha 20 mg, magensaftresistente Tabletten (Mepha Pharma AG) | Synthetika | Protonenpumpenblocker |
 
 ---
 
@@ -94,13 +102,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den duodenogastralen Reflux gibt es keine direkte klinische Evidenz. Der erwartete Nutzen wäre nur indirekt, da Esomeprazol die Säure hemmt, aber den Rückfluss von Galle nicht verhindert.
-- Der hohe Vorhersagewert allein reicht für eine Weiterverfolgung nicht aus.
+- Die Vorhersage stützt sich ausschliesslich auf einen Modellwert (0,9945) ohne Studien oder Publikationen. Die Duodenalobstruktion ist meist mechanisch bedingt, sodass ein Nutzen der Säurehemmung biologisch wenig naheliegend ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Beobachtungsdaten, die Esomeprazol direkt bei duodenogastralem Reflux untersuchen, etwa mit Symptom- und Endoskopieendpunkten oder Galle- und pH-Messungen.
-- Vollständige Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um die mechanistische Verbindung zur Erkrankung genauer zu prüfen.
-- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der aktuellen Fachinformation von Swissmedic, bevor eine Sicherheitsbewertung möglich ist.
+- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen), da die Sicherheitsprüfung sonst nicht möglich ist
+- Ergänzung des Wirkmechanismus aus DrugBank
+- Literatur- und Studienrecherche zu Esomeprazol bei Duodenalobstruktion
+- Klärung, ob ein klinisch sinnvoller, z. B. unterstützender Einsatz bei säurebedingter Duodenalstenose denkbar ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

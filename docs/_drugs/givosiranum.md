@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Givosiran ist ein GalNAc-gekoppeltes siRNA-Arzneimittel, das in der Schweiz im Handel ist. Seine zugelassene Anwendung wird aus den lokalen Zulassungsdaten ergänzt. Für die Vorhersage, dass es bei hepatoportaler Sklerose (hepatoportal sclerosis) wirksam sein könnte, gibt es keine Studien und keine Publikationen. Sie beruht allein auf einer Modellvorhersage (Evidenzniveau L5) und ist biologisch nicht plausibel begründet.
+Givosiran ist eine leberspezifische siRNA, die in der Schweiz im Handel ist. Die Vorhersage nennt als mögliche neue Anwendung die hepatoportale Sklerose (hepatoportal sclerosis). Dafür liegen weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5).
 
 ---
 
@@ -61,23 +61,11 @@ Givosiran ist ein GalNAc-gekoppeltes siRNA-Arzneimittel, das in der Schweiz im H
 
 ### Warum ist diese Vorhersage plausibel?
 
-Givosiran unterdrückt über RNA-Interferenz die Bildung der 5-Aminolävulinat-Synthase 1 (ALAS1) in der Leber. Dadurch sinken die Zwischenprodukte der Hämsynthese ALA und PBG. Der Wirkstoff gelangt über die GalNAc-Kopplung gezielt in Leberzellen. Zur Wirkung auf diesem Weg liegen in den zusammengestellten Daten keine weiteren Angaben vor, die Beschreibung des Wirkmechanismus ist dort lückenhaft.
+Die Plausibilität ist gering. Givosiran ist eine siRNA, die an N-Acetylgalactosamin (GalNAc) gekoppelt ist und in Leberzellen das Enzym ALAS1 (Teil der Häm-Biosynthese) gezielt herunterreguliert. Der Wirkmechanismus ist in den vorliegenden Daten nicht näher beschrieben; die Angaben hier stammen aus der Bewertung des Kandidaten.
 
-Die hepatoportale Sklerose ist eine Erkrankung der Pfortader und der kleinen Lebergefässe, verbunden mit nicht-zirrhotischer portaler Hypertonie. Ihre Pathologie ist vor allem vaskulär und fibrotisch. Ein Zusammenhang mit der Hämbiosynthese oder mit ALAS1 ist nicht erkennbar.
+Die hepatoportale Sklerose ist eine Gefässerkrankung im Bereich der Pfortader. Für eine Rolle von ALAS1 oder der Häm-Synthese bei dieser Erkrankung gibt es keine bekannten Hinweise. Die Leberausrichtung von Givosiran ist die einzige Gemeinsamkeit.
 
-Der Vorhersagewert ist für mehrere voneinander unabhängige Lebererkrankungen identisch. Das spricht dafür, dass er auf einer allgemeinen Nähe zu «Lebererkrankungen» beruht und nicht auf einem biologischen Signal. Die Vorhersage sollte daher als Artefakt behandelt werden, solange keine Gegenbelege vorliegen.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Der Vorhersagewert von 1,0000 (genauer 0,99999) ist identisch mit den Werten der fünf bestplatzierten Vorhersagen. Das spricht eher für eine Sättigung des Modellwerts als für ein trennscharfes Signal. Der Wert allein ist deshalb kein Beleg für eine Wirksamkeit.
 
 ---
 
@@ -92,14 +80,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder Studien noch Publikationen zur hepatoportalen Sklerose, und ein plausibler Wirkmechanismus fehlt.
-- Der hohe Vorhersagewert ist wahrscheinlich ein Modellartefakt und kein Hinweis auf eine tatsächliche Wirksamkeit.
+- Es gibt weder klinische Studien noch Literatur zur hepatoportalen Sklerose, und ein biologischer Zusammenhang mit der ALAS1-Hemmung ist nicht erkennbar.
+- Der Vorhersagewert ist gesättigt und daher wenig aussagekräftig.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische oder mechanistische Hinweise, dass die Unterdrückung von ALAS1 den vaskulären oder fibrotischen Verlauf der hepatoportalen Sklerose beeinflusst
-- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Eine vollständige Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Bei neuen Belegen eine erneute Bewertung, einschliesslich der Prüfung der Anwendungsroute
+- Ein plausibler mechanistischer Zusammenhang zwischen ALAS1-Hemmung und der Pathologie der hepatoportalen Sklerose, etwa durch präklinische Daten.
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (bisher nicht ausgewertet).
+- Die Wirkmechanismus-Angaben aus DrugBank.
+- Eine Prüfung der Verabreichungsform und des Zugangswegs für die neue Indikation.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

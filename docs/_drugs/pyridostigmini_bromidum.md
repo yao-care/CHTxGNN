@@ -9,7 +9,7 @@ drugbank_id: DB00545
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 last_modified_at: 2026-11-16
-description: "Pyridostigmini Bromidum: vorhergesagte neue Indikation Autoimmune disease of peripheral nervous system (Evidenzstufe L5). Ursprüngliche Indikation: Vagotonicum, Antimyasthenicum"
+description: "Pyridostigmini Bromidum: vorhergesagte neue Indikation Autoimmunerkrankung des peripheren Nervensystems (autoimmune disease of peripheral nervous system) (Evidenzstufe L5)."
 ---
 
 # Pyridostigmini Bromidum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Pyridostigmini Bromidum: Autoimmune disease of peripheral nervous system
+## Pyridostigmini Bromidum: Autoimmunerkrankung des peripheren Nervensystems (autoimmune disease of peripheral nervous system)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Pyridostigminbromid ist ein reversibler Acetylcholinesterase-Hemmer.
+Pyridostigminbromid ist ein reversibler Acetylcholinesterase-Hemmer, der in der Schweiz im Handel ist. Für die Autoimmunerkrankung des peripheren Nervensystems (autoimmune disease of peripheral nervous system) liegt ein hoher TxGNN-Vorhersagewert vor. Die Literatur besteht überwiegend aus Übersichtsarbeiten, Kohortenstudien und Fallberichten zu Myasthenia gravis und verwandten Erkrankungen der neuromuskulären Endplatte; eine Studie, die genau diese Krankheitsgruppe untersucht, fehlt. Die Evidenz wird daher nur als Modellvorhersage (L5) eingestuft.
 
 ---
 
@@ -50,22 +50,28 @@ Pyridostigminbromid ist ein reversibler Acetylcholinesterase-Hemmer.
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Vagotonicum, Antimyasthenicum |
-| Vorhergesagte neue Indikation | Autoimmune disease of peripheral nervous system |
+| Vorhergesagte neue Indikation | Autoimmunerkrankung des peripheren Nervensystems (autoimmune disease of peripheral nervous system) |
 | TxGNN-Vorhersagewert | 0.9975 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
 | Anzahl Zulassungen | 3 (gültig: 3) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pyridostigmin hemmt reversibel die Acetylcholinesterase und verlängert dadurch die Verfügbarkeit von Acetylcholin an der neuromuskulären Endplatte. Bei der Myasthenia gravis ist die Signalübertragung gestört, weil Autoantikörper die Zahl oder Funktion der Acetylcholinrezeptoren (AChR) bzw. von MuSK vermindern. Der Wirkmechanismus passt daher direkt zum Krankheitsbild. Die Mechanismusangabe aus der Arzneimitteldatenbank fehlt in den zusammengestellten Daten; die Beschreibung stützt sich auf die Bewertung der Vorhersage.
+Pyridostigmin hemmt reversibel das Enzym Acetylcholinesterase und erhöht so die Menge an Acetylcholin im synaptischen Spalt der neuromuskulären Endplatte. Die Mechanismusangabe in den vorliegenden Daten ist lückenhaft; dieser Wirkmechanismus entspricht jedoch der allgemein bekannten Pharmakologie der Substanz.
 
-Die Thymushyperplasie ist ein Begleitmerkmal der Erkrankung, kein eigener Krankheitsmechanismus. Pyridostigmin wirkt rein symptomatisch: Es behandelt weder den Autoimmunprozess noch die Veränderung des Thymus. Sinnvoll ist es daher als ergänzende Therapie neben Immuntherapie oder Thymektomie.
+Bei antikörpervermittelten Störungen der neuromuskulären Übertragung, vor allem der Myasthenia gravis, sind Acetylcholinrezeptoren vermindert oder gestört. Mehr verfügbares Acetylcholin kann diesen Mangel teilweise ausgleichen. Die Literatur beschreibt einen ähnlichen symptomatischen Nutzen auch bei verwandten Endplattenerkrankungen wie dem Lambert-Eaton-Syndrom und manchen kongenitalen myasthenen Syndromen. Einzelne Fallberichte nennen zudem eine Besserung bei autoimmuner autonomer Ganglionopathie.
 
-Bei MuSK-positiven Patienten kann das Ansprechen schlechter sein, und es kann eine cholinerge Unverträglichkeit auftreten. Die Dosierung sollte entsprechend vorsichtig erfolgen.
+Wichtig: Die Wirkung ist rein symptomatisch und verändert den Krankheitsverlauf nicht. Eine Übersichtsarbeit weist ausserdem auf negative Effekte von Pyridostigmin bei MuSK-positiver Myasthenia gravis hin. Eine weitere Arbeit zeigt, dass eine Langzeitgabe die Endplattenstruktur beeinträchtigen kann.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
@@ -73,9 +79,16 @@ Bei MuSK-positiven Patienten kann das Ansprechen schlechter sein, und es kann ei
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [25683765](https://pubmed.ncbi.nlm.nih.gov/25683765/) | 2015 | Retrospektive Kohortenstudie | Journal of neurology | Zweijahresverlauf nach Thymektomie bei 39 Patienten mit nicht-thymomatöser, spät beginnender, AChR-Antikörper-positiver generalisierter Myasthenia gravis; die Thymektomie gilt als wirksame Behandlung, Daten für diese Gruppe waren bisher begrenzt. |
-| [18053719](https://pubmed.ncbi.nlm.nih.gov/18053719/) | 2008 | Fallbericht | Neuromuscular disorders | MuSK-positive Patientin mit Thymushyperplasie und über vier Jahre langsam fortschreitender Schwäche der Nackenstrecker (Dropped-Head-Syndrom). |
-| [34225443](https://pubmed.ncbi.nlm.nih.gov/34225443/) | 2021 | Übersichtsarbeit | Molecular medicine reports | Überblick über Genomik, Phänotyp und epigenetische Aspekte der Myasthenia gravis; nicht arzneimittelspezifisch. |
+| [38494283](https://pubmed.ncbi.nlm.nih.gov/38494283/) | 2024 | Übersichtsarbeit | Handbook of Clinical Neurology | Pathophysiologie, Diagnostik und Behandlung der Myasthenia gravis; Einteilung nach Autoantikörpern |
+| [27704496](https://pubmed.ncbi.nlm.nih.gov/27704496/) | 2016 | Übersichtsarbeit | Seminars in Neurology | Myasthenia gravis: Verminderung der Acetylcholinrezeptoren durch Autoantikörper, klinisches Bild und Diagnose |
+| [39590927](https://pubmed.ncbi.nlm.nih.gov/39590927/) | 2024 | Übersichtsarbeit | Journal of Clinical Neuromuscular Disease | Literaturupdate zur neuromuskulären Endplatte; grosse Studie zu negativen Effekten von Pyridostigmin bei MuSK-Myasthenia gravis |
+| [29381222](https://pubmed.ncbi.nlm.nih.gov/29381222/) | 2018 | Übersichtsarbeit | Annals of the New York Academy of Sciences | Behandlung kongenitaler myasthener Syndrome; Acetylcholinesterase-Hemmer (v. a. Pyridostigmin) als Standard |
+| [34291446](https://pubmed.ncbi.nlm.nih.gov/34291446/) | 2021 | Übersichtsarbeit | Revista de Neurologia | Lambert-Eaton-Syndrom: frühe Diagnose ermöglicht frühe symptomatische Therapie |
+| [33497057](https://pubmed.ncbi.nlm.nih.gov/33497057/) | 2021 | Kohortenstudie | Ideggyógyászati Szemle | Prospektive Untersuchung der autonomen Funktion bei Myasthenia gravis, inkl. Wirkung von Cholinesterase-Hemmern |
+| [2166138](https://pubmed.ncbi.nlm.nih.gov/2166138/) | 1990 | Kohortenstudie | J Neurol Neurosurg Psychiatry | 18 Patienten mit generalisierter Myasthenie: Zusammenhang zwischen Pyridostigmin-Plasmaspiegel und Muskelfunktion nur teilweise nachweisbar |
+| [21210293](https://pubmed.ncbi.nlm.nih.gov/21210293/) | 2011 | Fallbericht | Clinical Autonomic Research | Autoimmune autonome Ganglionopathie mit Besserung unter Pyridostigmin |
+| [31633155](https://pubmed.ncbi.nlm.nih.gov/31633155/) | 2019 | Präklinisch/Mechanismus | Brain | β2-Agonisten mildern den ungünstigen Effekt einer Langzeitgabe von Pyridostigmin auf die Endplattenstruktur |
+| [22768972](https://pubmed.ncbi.nlm.nih.gov/22768972/) | 2012 | Übersichtsarbeit | Expert Opinion on Therapeutic Patents | Überblick über Acetylcholinesterase-Hemmer, u. a. bei Myasthenia gravis |
 
 ---
 
@@ -89,23 +102,19 @@ Bei MuSK-positiven Patienten kann das Ansprechen schlechter sein, und es kann ei
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus passt direkt zur Myasthenia gravis, und der symptomatische Einsatz ist etabliert. Für die spezifische Konstellation mit Thymushyperplasie fehlen jedoch klinische Studien, und die Literatur besteht nur aus einer Kohortenstudie, einem Fallbericht und einer Übersichtsarbeit.
+- Der Vorhersagewert ist hoch und der Mechanismus nachvollziehbar. Es gibt aber keine registrierte klinische Studie und keine Arbeit, die die vorhergesagte Krankheitsgruppe direkt untersucht; die Evidenz bleibt daher bei L5.
+- Die Sicherheitsdaten aus der Fachinformation fehlen. Bei MuSK-positiver Myasthenia gravis gibt es zudem Hinweise auf mögliche negative Effekte.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation.
-- Bestätigung der zugelassenen Indikation anhand der Fachinformation.
-- Klinische Daten zur Anwendung als ergänzende symptomatische Therapie bei Thymushyperplasie, insbesondere bei MuSK-positiven Patienten.
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung nicht möglich ohne diese Daten)
+- Gesicherte Angaben zum Wirkmechanismus
+- Kontrollierte Studien oder systematische Übersichten, die konkrete Untergruppen autoimmuner Erkrankungen des peripheren Nervensystems direkt untersuchen
+- Prüfung, welche Untergruppen (z. B. autoimmune autonome Ganglionopathie) tatsächlich über die bekannte Anwendung hinausgehen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

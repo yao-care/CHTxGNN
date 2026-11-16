@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Lorlatinibum: Gingivale Fibromatose (fibromatosis, gingival)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Lorlatinib ist ein Tyrosinkinase-Inhibitor, der in der Schweiz zugelassen ist und im Handel erhältlich ist. Die Modellvorhersage nennt als neue mögliche Anwendung die gingivale Fibromatose (fibromatosis, gingival). Für diese Vorhersage liegen weder klinische Studien noch Literatur vor; sie beruht allein auf einer Berechnung.
+Lorlatinib ist ein Tyrosinkinase-Hemmer gegen ALK und ROS1, der in der Schweiz mit Lorviqua im Handel ist. Für die vorhergesagte neue Anwendung, die gingivale Fibromatose (fibromatosis, gingival), gibt es keine klinischen Studien und keine Literatur. Die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5).
 
 ---
 
@@ -59,9 +61,9 @@ Lorlatinib ist ein Tyrosinkinase-Inhibitor, der in der Schweiz zugelassen ist un
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lorlatinib hemmt die Kinasen ALK und ROS1, die bei bestimmten Tumoren das Wachstum antreiben. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten jedoch keine näheren Angaben vor.
+Lorlatinib hemmt die Kinasen ALK und ROS1. Diese Wirkung ist vor allem bei Tumoren von Bedeutung, die durch Veränderungen dieser beiden Gene angetrieben werden. In den für diesen Bericht zusammengestellten Daten ist der Wirkmechanismus allerdings nicht ausführlich beschrieben.
 
-Ein nachvollziehbarer Zusammenhang zwischen der ALK/ROS1-Hemmung und der gingivalen Fibromatose ist in den vorliegenden Daten nicht belegt. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis. Ohne Studien oder Publikationen lässt sich nicht beurteilen, ob der Mechanismus bei dieser Erkrankung eine Rolle spielt. Die Vorhersage ist daher als Hypothese zu betrachten.
+Ein nachvollziehbarer Zusammenhang zwischen der ALK/ROS1-Hemmung und der gingivalen Fibromatose, einer gutartigen Zahnfleischwucherung, ist in den vorliegenden Daten nicht erkennbar. Es gibt weder Studien noch Veröffentlichungen, die einen solchen Zusammenhang belegen. Der hohe Vorhersagewert ist daher als reiner Modellhinweis zu verstehen und kein Beleg für eine Wirksamkeit.
 
 ---
 
@@ -77,15 +79,16 @@ Ein nachvollziehbarer Zusammenhang zwischen der ALK/ROS1-Hemmung und der gingiva
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete Therapie (ALK/ROS1-Tyrosinkinase-Inhibitor) |
-
-Weitere Angaben zu Myelosuppression, Emetogenität, Überwachung und Handhabungsschutz liegen in den Daten nicht vor.
+| Zytotoxizitätsklassifikation | Zielgerichtete Therapie |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion; zusätzlich Blutfette, da in der Literatur Fälle von Hyperlipidämie beschrieben sind |
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Die Literatur beschreibt unter Lorlatinib Einzelfälle von nicht kardiogenem Lungenödem, akutem Atemnotsyndrom (ARDS), Psychose, Hyperlipidämie bzw. metabolischem Syndrom und Sweet-Syndrom. Zudem wurde eine Lungentoxizität bei gleichzeitiger Gabe mit einem Anti-GD2-Antikörper berichtet.
+
+Die Angaben zu Warnungen und Kontraindikationen aus der Fachinformation fehlen in den vorliegenden Daten. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -94,13 +97,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die gingivale Fibromatose liegen weder klinische Studien noch Literatur vor, und ein biologischer Zusammenhang mit der ALK/ROS1-Hemmung ist nicht erkennbar. Der Vorhersagewert allein reicht für eine Weiterverfolgung nicht aus.
+- Für die gingivale Fibromatose liegen weder klinische Studien noch Literatur vor, und ein plausibler Wirkmechanismus ist nicht erkennbar. Der Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Mechanistische oder präklinische Hinweise auf eine Rolle von ALK/ROS1 bei der gingivalen Fibromatose
-- Publikationen oder registrierte klinische Studien zu dieser Erkrankung
-- Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Ein biologisch begründeter Zusammenhang zwischen ALK/ROS1-Signalwegen und gingivaler Fibromatose
+- Präklinische oder klinische Daten zu dieser Erkrankung
+- Die Sicherheitsangaben aus der aktuellen Fachinformation von Swissmedic
+- Die Angaben zum Wirkmechanismus aus DrugBank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

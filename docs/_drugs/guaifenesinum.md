@@ -9,7 +9,7 @@ drugbank_id: DB00874
 monitor_inn: "Guaifenesin"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 last_modified_at: 2026-11-16
-description: "Guaifenesinum: vorhergesagte neue Indikation Nasenhöhlenerkrankung (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Husten"
+description: "Guaifenesinum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Husten"
 ---
 
 # Guaifenesinum
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Guaifenesinum: Nasenhöhlenerkrankung (nasal cavity disease)
+## Guaifenesinum: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
 ## Zusammenfassung
 
-Guaifenesin ist in der Schweiz als schleimlösendes Mittel gegen Husten im Handel. Die Vorhersage lautet, dass es bei Nasenhöhlenerkrankungen (nasal cavity disease) wirken könnte. Dafür gibt es nur sehr schwache Evidenz: keine klinischen Studien und eine einzige indirekte Übersichtsarbeit. Die Vorhersage bleibt daher eine Forschungsfrage.
+Guaifenesin ist ein schleimlösendes Arzneimittel (Expektorans), das in der Schweiz als Hustenmittel im Handel ist. Die Vorhersage lautet, dass es bei Erkrankungen der Nasenhöhle (nasal cavity disease) wirksam sein könnte. Dafür gibt es bisher nur sehr dünne Evidenz: keine klinischen Studien und eine einzelne, indirekte Übersichtsarbeit.
 
 ---
 
@@ -48,7 +48,7 @@ Guaifenesin ist in der Schweiz als schleimlösendes Mittel gegen Husten im Hande
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Husten |
-| Vorhergesagte neue Indikation | Nasenhöhlenerkrankung (nasal cavity disease) |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9998 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,15 +59,17 @@ Guaifenesin ist in der Schweiz als schleimlösendes Mittel gegen Husten im Hande
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Guaifenesin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein gilt es als Expektorans: Es erhöht das Volumen der Sekrete in den Atemwegen und verringert deren Zähigkeit. Das ist eine allgemeine pharmakologische Einordnung und kein Ergebnis der vorliegenden Daten.
+Guaifenesin gilt als Expektorans. Es soll die Flüssigkeitsabsonderung in den Atemwegen erhöhen und den Schleim weniger zäh machen. Dadurch lässt sich Schleim leichter abtransportieren. Der genaue Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt.
 
-Bei Erkrankungen mit zähem Schleim in den oberen Atemwegen, etwa in der Nasenhöhle, könnte ein solcher Effekt theoretisch Beschwerden lindern. Das ist jedoch eine Annahme. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein klinischer Beleg.
+Bei Beschwerden der oberen Atemwege wie verstopfter Nase oder allergischer Rhinitis spielt zäher Schleim eine Rolle. Ein Mittel, das die Schleimviskosität senkt, könnte hier theoretisch Symptome lindern. Das ist eine plausible Überlegung, aber keine belegte Wirkung.
+
+Der hohe Vorhersagewert ist eine reine Modellberechnung. Er ersetzt keine Daten aus klinischen Studien.
 
 ---
 
 ## Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -75,7 +77,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Übersichtsarbeit | Logopedics, Phoniatrics, Vocology | Behandlungsstrategien bei allergischen Atemwegsbeschwerden von Stimmnutzern. Abschwellende Mittel mit Guaifenesin können nützlich sein, Antihistaminika werden meist vermieden. Guaifenesin wird nicht als geprüfte Behandlung einer Nasenhöhlenerkrankung untersucht. |
+| [12487405](https://pubmed.ncbi.nlm.nih.gov/12487405/) | 2002 | Übersichtsarbeit | Logopedics, Phoniatrics, Vocology | Behandlungsstrategien bei verborgenen Atemwegsallergien bei Stimmberufen. Antihistaminika werden meist vermieden; Dekongestiva mit Guaifenesin können nützlich sein. Die Arbeit untersucht Guaifenesin nicht gezielt bei Erkrankungen der Nasenhöhle (indirekte Evidenz). |
 
 ---
 
@@ -98,13 +100,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine Studie untersucht Guaifenesin direkt bei Nasenhöhlenerkrankungen. Die einzige Publikation ist eine indirekte Übersichtsarbeit, der hohe Vorhersagewert allein reicht nicht aus.
+- Keine Studie untersucht Guaifenesin direkt bei Erkrankungen der Nasenhöhle; die einzige Publikation ist indirekt. Der hohe Vorhersagewert beruht allein auf dem Modell.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte klinische oder präklinische Studien zu Guaifenesin bei Nasenhöhlenerkrankungen
-- Angaben zum Wirkmechanismus aus einer zuverlässigen Arzneimitteldatenbank
-- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Klärung, ob die Darreichungsform (Sirup) für die vorgesehene Anwendung geeignet ist
+- Kontrollierte klinische Studien zu Guaifenesin bei Erkrankungen der Nasenhöhle, z. B. bei verstopfter Nase oder allergischer Rhinitis
+- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) zur Sicherheitsbewertung
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

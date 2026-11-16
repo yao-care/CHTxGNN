@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 ### Zusammenfassung
 
-Fluocinolonacetonid ist ein topisches Kortikosteroid, kombiniert mit dem Antibiotikum Neomycin. Für die Kombination liegen in der Schweiz Zulassungen für entzündliche Hauterkrankungen und Beschwerden im Analbereich vor. Vorhergesagt wird eine mögliche Wirksamkeit bei annulärem atrophischem Lichen planus (annular atrophic lichen planus). Diese Vorhersage beruht allein auf einem Modellwert; klinische Studien oder Literatur fehlen, die Evidenz ist daher sehr gering (L5).
+Fluocinolonacetonid ist ein topisches Kortikosteroid und wird hier mit dem Antibiotikum Neomycin kombiniert. Für die Kombination wird als neue Indikation Lichen planus pemphigoides (lichen planus pemphigoides) vorhergesagt. Diese Vorhersage beruht ausschliesslich auf einer Modellrechnung; es liegen weder klinische Studien noch Publikationen vor (Evidenzniveau L5).
 
 ---
 
@@ -59,11 +59,23 @@ Fluocinolonacetonid ist ein topisches Kortikosteroid, kombiniert mit dem Antibio
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein wirkt Fluocinolonacetonid als Kortikosteroid entzündungshemmend und dämpft die Immunreaktion der Haut. Neomycin wirkt antibakteriell.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die folgenden Überlegungen beruhen daher auf allgemeinem Wissen zur Wirkstoffklasse und nicht auf den vorliegenden Daten.
 
-Lichen planus ist eine entzündliche Hauterkrankung, die von T-Zellen getragen wird. Topische Kortikosteroide gelten dort allgemein als Standardbehandlung. Die Vorhersage ist daher biologisch nachvollziehbar. Dieser Schluss stammt aus allgemeinem Fachwissen, nicht aus Belegen in den vorliegenden Daten.
+Fluocinolonacetonid ist ein topisches Kortikosteroid. Stark wirksame topische Kortikosteroide gehören zu den häufig eingesetzten Ansätzen bei Lichen planus und bei autoimmunen subepidermalen Blasenkrankheiten wie dem bullösen Pemphigoid. Der Lichen planus pemphigoides vereint Merkmale beider Erkrankungen: eine lichenoide Entzündung und eine durch Anti-BP180-Autoantikörper vermittelte Blasenbildung. Die entzündungshemmende und immunsuppressive Wirkung der Glukokortikoide könnte daher die lichenoide T-Zell-Infiltration und die Blasenbildung vermindern.
 
-Neomycin hat bei dieser nicht infektiösen Erkrankung keine erkennbare Rolle und kann Kontaktallergien auslösen. Der annuläre atrophische Typ ist eine seltene Variante. Da potente topische Kortikosteroide selbst eine Hautatrophie verursachen können, ist hier besondere Vorsicht geboten.
+Neomycin ist ein topisches Aminoglykosid-Antibiotikum ohne erkennbare mechanistische Rolle bei dieser Autoimmunerkrankung. Es könnte zudem das Risiko einer Kontaktsensibilisierung erhöhen. Ein möglicher Nutzen läge somit vor allem in der Kortikosteroid-Komponente.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
@@ -72,9 +84,9 @@ Neomycin hat bei dieser nicht infektiösen Erkrankung keine erkennbare Rolle und
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 29729 | Synalar-N, Creme | Synthetika | Entzündliche oder allergische Hauterkrankungen mit bakterieller Superinfektion |
-| 29730 | Synalar-N, Salbe | Synthetika | Entzündliche oder allergische Hauterkrankungen mit bakterieller Superinfektion |
 | 32025 | Procto-Synalar N, Zäpfchen | Synthetika | Behandlung von Hämorrhoiden und Hauterkrankungen im Analbereich |
 | 32024 | Procto-Synalar N, Rektalsalbe | Synthetika | Behandlung von Hämorrhoiden und Hauterkrankungen im Analbereich |
+| 29730 | Synalar-N, Salbe | Synthetika | Entzündliche oder allergische Hauterkrankungen mit bakterieller Superinfektion |
 
 ---
 
@@ -83,14 +95,14 @@ Neomycin hat bei dieser nicht infektiösen Erkrankung keine erkennbare Rolle und
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage beruht ausschliesslich auf dem Modellwert; es gibt weder klinische Studien noch Literatur zu dieser Erkrankung.
-- Neomycin bringt bei dieser Indikation keinen erkennbaren Nutzen, aber ein Sensibilisierungsrisiko. Zudem fehlen Sicherheitsangaben aus der Fachinformation.
+- Der hohe Vorhersagewert (0,9934) beruht allein auf einer Modellrechnung. Es gibt keine klinischen Studien und keine Literatur zu dieser Erkrankung, die Evidenz bleibt daher auf Niveau L5.
+- Die Sicherheitsinformationen aus der Fachinformation fehlen bislang, und Neomycin trägt keinen erkennbaren Nutzen für diese Indikation bei.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
-- Angaben zum Wirkmechanismus
-- Klinische Studien oder Literatur, die den annulären atrophischen Lichen planus direkt untersuchen
-- Prüfung, ob ein Präparat mit Fluocinolonacetonid allein sinnvoller wäre als die Kombination mit Neomycin
+- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen) für die Sicherheitsbewertung
+- Angaben zum Wirkmechanismus aus DrugBank
+- Klinische Daten oder Fallserien zur Anwendung topischer Kortikosteroide bei Lichen planus pemphigoides
+- Prüfung, ob ein Monopräparat mit Fluocinolonacetonid ohne Neomycin sinnvoller wäre
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

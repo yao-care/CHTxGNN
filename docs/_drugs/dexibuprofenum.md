@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Dexibuprofen ist ein entzündungshemmendes und schmerzlinderndes Arzneimittel (nichtsteroidales Antirheumatikum), das in der Schweiz im Handel ist. Das Modell sagt eine mögliche Wirksamkeit beim Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) voraus, einer angeborenen Fehlbildung der Gliedmassen. Diese Vorhersage beruht allein auf einer Computerberechnung: Es liegen weder klinische Studien noch Literatur vor, das Evidenzniveau ist L5.
+Dexibuprofen ist das wirksame S(+)-Enantiomer von Ibuprofen und gehört zu den Hemmstoffen der Cyclooxygenase. Für das Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) liegt ein hoher Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Publikationen, die Evidenz beruht allein auf der Modellvorhersage (Evidenzniveau L5).
 
 ---
 
@@ -61,23 +61,11 @@ Dexibuprofen ist ein entzündungshemmendes und schmerzlinderndes Arzneimittel (n
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dexibuprofen ist das wirksame S-Enantiomer von Ibuprofen und hemmt die Cyclooxygenasen (COX). Dadurch werden Entzündung und Schmerz gedämpft. Der genaue Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt; die Einordnung als COX-Hemmer beruht auf der Substanzklasse.
+Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht hinterlegt. Bekannt ist, dass Dexibuprofen als aktives Enantiomer von Ibuprofen die Cyclooxygenasen COX-1 und COX-2 hemmt und dadurch die Bildung von Prostaglandinen vermindert. Das erklärt die schmerzlindernde und entzündungshemmende Wirkung.
 
-Das Brachydaktylie-Syndaktylie-Syndrom ist eine angeborene Fehlbildung, die auf Störungen der Entwicklungs- und Skelettmusterung beruht. Ein Zusammenhang zwischen COX-Hemmung und diesen Entwicklungswegen ist nicht bekannt. Ein plausibler Mechanismus lässt sich deshalb nicht herleiten.
+Das Brachydaktylie-Syndaktylie-Syndrom ist eine angeborene Fehlbildung des Skeletts, die auf Veränderungen in Entwicklungsgenen beruht. Ein plausibler mechanistischer Zusammenhang mit der Hemmung der Prostaglandinsynthese ist nicht erkennbar. Eine Hemmung der COX-Enzyme dürfte die zugrunde liegende Entwicklungsstörung nicht korrigieren.
 
-Der hohe Vorhersagewert ist somit ein reines Rechenergebnis und kein Hinweis auf eine tatsächliche Wirksamkeit. Bestenfalls wäre eine Schmerzlinderung bei Begleitbeschwerden denkbar, was jedoch keine Behandlung der Erkrankung selbst wäre.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis des Modells. Er wird weder durch Studien noch durch Literatur gestützt und sollte nicht als Hinweis auf eine tatsächliche Wirksamkeit gelesen werden.
 
 ---
 
@@ -101,13 +89,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für das Brachydaktylie-Syndaktylie-Syndrom gibt es weder Studien noch Literatur noch einen erkennbaren Wirkmechanismus. Der Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
+- Für die vorhergesagte Indikation gibt es keine klinischen Studien und keine Literatur, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Belege aus Studien oder Literatur, die Dexibuprofen oder COX-Hemmer direkt bei dieser Erkrankung untersuchen
-- Eine nachvollziehbare mechanistische Begründung
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit fehlend, blockiert die Sicherheitsprüfung)
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eine begründete mechanistische Hypothese sowie präklinische oder klinische Daten zum Brachydaktylie-Syndaktylie-Syndrom
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

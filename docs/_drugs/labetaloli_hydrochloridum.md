@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 ### Zusammenfassung
 
-Labetalol ist ein kombinierter Alpha- und Beta-Rezeptorenblocker. Die Vorhersage deutet darauf hin, dass es bei der malignen hypertensiven Nierenerkrankung (malignant hypertensive renal disease) wirksam sein könnte. Dafür liegen derzeit weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Labetalol ist ein kombinierter Alpha- und Beta-Rezeptorenblocker, der in der Schweiz als Tablette und als Injektionslösung im Handel ist. Es wird vorhergesagt, dass es bei der malignen hypertensiven Nierenerkrankung (malignant hypertensive renal disease) wirksam sein könnte. Diese Vorhersage beruht allein auf einem Modellwert; es liegen weder klinische Studien noch Literatur zu dieser Erkrankung vor.
 
 ---
 
@@ -59,32 +59,17 @@ Labetalol ist ein kombinierter Alpha- und Beta-Rezeptorenblocker. Die Vorhersage
 
 ### Warum ist diese Vorhersage plausibel?
 
-Labetalol blockiert sowohl Alpha-1-Rezeptoren als auch Beta-Rezeptoren (nicht selektiv). Die Alpha-1-Blockade senkt den Gefässwiderstand, die Beta-Blockade verringert Herzfrequenz und Reninfreisetzung. Der Wirkmechanismus ist in den vorliegenden Daten nicht hinterlegt; die Angaben hier stützen sich auf die bekannte Pharmakologie der Substanz.
+Labetalol blockiert sowohl Alpha-1- als auch Beta-Rezeptoren. Dadurch senkt es den Gefässwiderstand und den Blutdruck. Die Angaben zum Wirkmechanismus sind in den vorliegenden Daten allerdings nicht erfasst; die Einordnung beruht auf der allgemein bekannten Pharmakologie der Substanz.
 
-Bei der malignen Hypertonie mit Nierenbeteiligung ist das Therapieziel eine kontrollierte Blutdrucksenkung. Ein blutdrucksenkender Mechanismus passt dazu grundsätzlich. Labetalol wird zudem bereits klinisch bei hypertensiven Notfällen eingesetzt. Die vorhergesagte Indikation könnte sich daher weitgehend mit der bestehenden Anwendung überschneiden und wäre dann keine echte Umwidmung. Das lässt sich anhand der vorliegenden Daten nicht bestätigen.
+Die maligne Hypertonie mit Nierenbeteiligung ist durch stark erhöhten Blutdruck gekennzeichnet, der die Nierengefässe schädigen kann. Eine rasche und kontrollierte Blutdrucksenkung könnte solche Organschäden begrenzen. Labetalol wird klinisch bei hypertensiven Notfällen eingesetzt, weshalb ein biologischer Zusammenhang denkbar ist.
 
-Der hohe Vorhersagewert ist ein reines Modellergebnis und ersetzt keine klinischen Belege.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
+Ob Labetalol über die reine Blutdrucksenkung hinaus die Nierenfunktion schützt, ist nicht belegt. Der hohe Vorhersagewert ist eine reine Modellaussage ohne klinische Bestätigung.
 
 ---
 
-### Literaturbelege
+### Sicherheitshinweise
 
-Derzeit keine verwandte Literatur verfügbar.
-
----
-
-### Marktinformationen Schweiz
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 41530 | Trandate 100 mg, Tabletten | Synthetika | Alpha- und Beta-Rezeptorenblocker |
-| 41529 | Trandate, Injektionslösung | Synthetika | Alpha- und Beta-Rezeptorenblocker |
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -93,14 +78,13 @@ Derzeit keine verwandte Literatur verfügbar.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die maligne hypertensive Nierenerkrankung gibt es weder Studien noch Literatur. Die Vorhersage beruht allein auf dem Modell.
-- Die Anwendung könnte sich mit dem bereits üblichen Einsatz bei hypertensiven Notfällen überschneiden. Ob es sich um eine echte Umwidmung handelt, ist offen.
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur. Der Vorhersagewert allein reicht nicht aus, um weiterzugehen (Evidenzniveau L5).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Klinische Studien oder Publikationen, die Labetalol direkt bei maligner hypertensiver Nierenerkrankung untersuchen
-- Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da Sicherheitsdaten derzeit fehlen
-- Eine Abklärung, inwieweit die Indikation bereits durch die bestehende Anwendung abgedeckt ist
-- Die Angabe des Wirkmechanismus aus einer Arzneimitteldatenbank, um den mechanistischen Zusammenhang prüfen zu können
+- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eine Prüfung, ob die vorhandenen Darreichungsformen (Tabletten, Injektionslösung) für die Indikation geeignet sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

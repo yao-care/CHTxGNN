@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Avelumabum: Human herpesvirus 8-related tumor
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Avelumab ist ein monoklonaler Antikörper gegen PD-L1, der in der Schweiz unter dem Namen Bavencio im Handel ist. Für den Herpesvirus-8-assoziierten Tumor (human herpesvirus 8-related tumor) liegt ein Vorhersagewert von 0.9997 vor. Dafür gibt es bisher keine klinischen Studien und keine Literatur, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Avelumab ist ein monoklonaler Antikörper gegen PD-L1 und in der Schweiz im Handel. Für den vorhergesagten Einsatz bei HHV-8-assoziierten Tumoren (human herpesvirus 8-related tumor), etwa dem Kaposi-Sarkom, liegen in den für diesen Bericht zusammengestellten Daten weder klinische Studien noch Literatur vor. Die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
 
 ---
 
@@ -61,11 +59,11 @@ Avelumab ist ein monoklonaler Antikörper gegen PD-L1, der in der Schweiz unter 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Avelumab blockiert PD-L1 und hebt damit eine Bremse des Immunsystems auf, sodass T-Zellen Tumorzellen wieder besser angreifen können. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den zusammengestellten Daten; die Einordnung als PD-L1-Antikörper stützt sich auf die Substanzklasse.
+Avelumab blockiert PD-L1 und hebt dadurch eine Bremse des Immunsystems auf, sodass T-Zellen Tumorzellen wieder besser angreifen können. Die Angaben zum Wirkmechanismus liegen in den Daten nicht vor; die Einordnung als Anti-PD-L1-Antikörper stützt sich auf die Beschreibung des Wirkstoffs.
 
-Tumoren, die durch das Herpesvirus 8 ausgelöst werden (zum Beispiel das Kaposi-Sarkom), können sich dem Immunsystem über den PD-1/PD-L1-Weg entziehen. Eine Checkpoint-Blockade ist deshalb biologisch denkbar. Avelumab wird zudem bei einem anderen virusassoziierten Tumor, dem Merkelzellkarzinom, eingesetzt. Das ist jedoch kein direkter Beleg für Herpesvirus-8-assoziierte Tumoren.
+HHV-8-assoziierte Tumoren wie das Kaposi-Sarkom oder das primäre Effusionslymphom könnten sich über den PD-1/PD-L1-Weg der Immunabwehr entziehen. Eine Checkpoint-Blockade ist daher biologisch denkbar. Checkpoint-Hemmer wurden beim Kaposi-Sarkom bereits untersucht, in den hier zusammengestellten Daten findet sich dazu jedoch keine Studie und keine Publikation.
 
-Die Verbindung ist eine reine Modellableitung. Studien oder Publikationen, die diese Erkrankung direkt untersuchen, liegen in den zusammengestellten Daten nicht vor.
+Vorsicht ist bei HHV-8-Erkrankungen mit gleichzeitiger HIV-Infektion geboten, ebenso bei der HHV-8-assoziierten multizentrischen Castleman-Krankheit und dem KSHV-Entzündungszytokin-Syndrom. Dort könnte eine Immunaktivierung die Entzündung verstärken.
 
 ---
 
@@ -74,18 +72,6 @@ Die Verbindung ist eine reine Modellableitung. Studien oder Publikationen, die d
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 66380 | Bavencio 200 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Merkelzellkarzinom, Urothelkarzinom |
-
----
-
-### Zytotoxizität
-
-| Punkt | Inhalt |
-|------|------|
-| Zytotoxizitätsklassifikation | Immuntherapie |
-| Myelosuppressionsrisiko | Niedrig |
-| Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion; zusätzlich Schilddrüsenfunktion wegen immunvermittelter Nebenwirkungen |
-| Handhabungsschutz | Keine zytotoxische Spezialhandhabung im engeren Sinn; übliche Vorsichtsmassnahmen bei der Zubereitung von Infusionen |
 
 ---
 
@@ -100,13 +86,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den Herpesvirus-8-assoziierten Tumor gibt es weder klinische Studien noch Literatur. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung, und die Sicherheitsdaten aus der Fachinformation fehlen.
+- Für die Hauptvorhersage gibt es weder klinische Studien noch Literatur. Der hohe Vorhersagewert ist ein reines Rechenergebnis und kein Wirksamkeitsnachweis.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Gezielte Recherche nach klinischen Studien und Publikationen zu Checkpoint-Inhibitoren bei Herpesvirus-8-assoziierten Tumoren (z. B. Kaposi-Sarkom)
-- Auswertung der Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen)
-- Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Prüfung der Sicherheit bei Patientinnen und Patienten mit HIV-Infektion oder Immunschwäche, die für diese Tumoren typisch sind
+- Recherche zu Checkpoint-Hemmern bei Kaposi-Sarkom und anderen HHV-8-assoziierten Tumoren (Studien und Publikationen)
+- Prüfung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Bewertung des Risikos bei HIV-Koinfektion sowie bei Castleman-Krankheit und KSHV-Entzündungszytokin-Syndrom
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

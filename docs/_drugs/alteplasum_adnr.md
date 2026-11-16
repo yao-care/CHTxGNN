@@ -9,7 +9,7 @@ drugbank_id: DB00009
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-11-16
-description: "Alteplasum Adnr: vorhergesagte neue Indikation Heparin cofactor 2 deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Thrombolytische Therapie bei akutem Herzinfarkt…"
+description: "Alteplasum Adnr: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Thrombolytische Therapie bei akutem Herzinfarkt…"
 ---
 
 # Alteplasum Adnr
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Alteplasum Adnr: Heparin cofactor 2 deficiency
+## Alteplasum Adnr: Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Alteplase ist ein rekombinanter Gewebe-Plasminogenaktivator, der Blutgerinnsel auflöst. Für den posterolateralen Myokardinfarkt (posterolateral myocardial infarction) sagt das Modell einen möglichen Nutzen voraus, weil dieser Infarkt durch einen Gerinnselverschluss einer Herzkranzarterie entsteht. Für diese spezielle Infarktlokalisation liegen in den zusammengestellten Daten weder klinische Studien noch Publikationen vor. Die Vorhersage stützt sich daher nur auf die Modellrechnung und auf den allgemeinen Wirkmechanismus.
+Alteplase ist ein rekombinanter Gewebeplasminogenaktivator, der Blutgerinnsel auflöst. Vorhergesagt wird eine mögliche Wirksamkeit beim Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency), einer angeborenen Gerinnungsstörung mit erhöhtem Thromboserisiko. Dafür liegt ausschliesslich eine Modellvorhersage vor; es gibt weder klinische Studien noch Literatur zu dieser Erkrankung.
 
 ---
 
@@ -50,7 +50,7 @@ Alteplase ist ein rekombinanter Gewebe-Plasminogenaktivator, der Blutgerinnsel a
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Thrombolytische Therapie bei akutem Herzinfarkt, akuter massiver Lungenembolie, akutem ischämischem Hirnschlag; Rekanalisation thrombotisch verschlossener zentraler Venenzugänge |
-| Vorhergesagte neue Indikation | Heparin cofactor 2 deficiency |
+| Vorhergesagte neue Indikation | Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) |
 | TxGNN-Vorhersagewert | 0.9972 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,11 +61,11 @@ Alteplase ist ein rekombinanter Gewebe-Plasminogenaktivator, der Blutgerinnsel a
 
 ### Warum ist diese Vorhersage plausibel?
 
-Alteplase wandelt Plasminogen in Plasmin um, das Fibrin in Blutgerinnseln abbaut. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor. Die hier genannte Wirkung entspricht dem bekannten Prinzip dieser Wirkstoffklasse.
+Alteplase wandelt Plasminogen in Plasmin um, das Fibrin in Blutgerinnseln abbaut. Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die Beschreibung beruht auf dem allgemein bekannten Wirkprinzip von Alteplase.
 
-Ein Herzinfarkt entsteht in der Regel durch ein Gerinnsel, das eine Herzkranzarterie verschliesst. Der posterolaterale Infarkt ist eine Lokalisationsform des akuten Herzinfarkts, nämlich die Hinterwand und Seitenwand der linken Herzkammer. Ein fibrinspezifisches Thrombolytikum greift daher grundsätzlich am richtigen Punkt an.
+Der Heparin-Cofaktor-II-Mangel ist eine vererbte Neigung zu Thrombosen (Thrombophilie). Bei akuten Gerinnseln könnte eine Thrombolyse grundsätzlich helfen. Das ist jedoch nur eine allgemeine Überlegung zur Gerinnselauflösung.
 
-Diese Plausibilität beruht allein auf dem allgemeinen Mechanismus. Studien oder Publikationen, die speziell diese Infarktlokalisation untersuchen, wurden nicht gefunden. Es handelt sich zudem nicht um ein klares Umwidmungssignal, da die Vorhersage unter die allgemeine Herzinfarkt-Behandlung fällt. Der hohe Vorhersagewert sagt für sich genommen nichts über die tatsächliche Wirksamkeit aus.
+Wichtig: Alteplase behebt den zugrunde liegenden Mangel nicht. Krankheitsspezifische Daten fehlen vollständig. Der hohe Vorhersagewert ist eine reine Computerprognose.
 
 ---
 
@@ -81,6 +81,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 48313 | Actilyse 20mg, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung | Biotechnologika | Thrombolytische Therapie bei akutem Herzinfarkt, akuter massiver Lungenembolie, akutem ischämischem Hirnschlag |
+| 58665 | Actilyse Cathflo 2mg, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Rekanalisation thrombotisch verschlossener zentraler Venenzugänge |
+
+---
+
 ### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
@@ -92,13 +101,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den posterolateralen Myokardinfarkt gibt es keine direkte Studien- oder Literaturevidenz, daher bleibt es beim Evidenzniveau L5. Die Vorhersage ist nur durch den allgemeinen Wirkmechanismus gestützt und bringt kaum zusätzlichen Erkenntnisgewinn.
+- Für den Heparin-Cofaktor-II-Mangel gibt es nur eine Modellvorhersage (Evidenzniveau L5), keine Studien und keine Literatur. Alteplase wirkt zudem nur auf das akute Gerinnsel und nicht auf die Ursache der Erkrankung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien oder Auswertungen, die Alteplase speziell bei posterolateralem Myokardinfarkt untersuchen, etwa Subgruppenanalysen grosser Infarktstudien
-- Die Warnhinweise und Kontraindikationen aus der aktuellen Swissmedic-Fachinformation, da diese in den zusammengestellten Daten fehlen
-- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um die Mechanismusanalyse zu vervollständigen
-- Eine klare Einordnung, ob die Vorhersage über die bestehende Herzinfarkt-Behandlung hinaus einen eigenständigen Nutzen verspricht
+- Krankheitsspezifische klinische oder präklinische Daten zur Anwendung von Alteplase bei Heparin-Cofaktor-II-Mangel
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

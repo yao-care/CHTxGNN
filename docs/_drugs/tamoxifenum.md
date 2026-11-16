@@ -9,7 +9,7 @@ drugbank_id: DB00675
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 last_modified_at: 2026-11-16
-description: "Tamoxifenum: vorhergesagte neue Indikation Morbus Paget der Brust (mammary Paget disease) (Evidenzstufe L5). Ursprüngliche Indikation: Oncologicum"
+description: "Tamoxifenum: vorhergesagte neue Indikation Mammärer Morbus Paget (mammary Paget disease) (Evidenzstufe L5). Ursprüngliche Indikation: Oncologicum"
 ---
 
 # Tamoxifenum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Tamoxifenum: Morbus Paget der Brust (mammary Paget disease)
+## Tamoxifenum: Mammärer Morbus Paget (mammary Paget disease)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Tamoxifen ist ein selektiver Estrogenrezeptor-Modulator und in der Schweiz zugelassen. Die Datenanalyse sagt eine mögliche Wirkung bei Morbus Paget der Brust (mammary Paget disease) voraus (TxGNN-Wert 0,9969). Die Evidenz ist dünn: Es liegen nur Fallberichte, kleine Fallserien und eine Metaanalyse zur Erkrankung selbst vor, aber keine Studie, die Tamoxifen bei dieser Erkrankung prüft.
+Tamoxifen ist ein hormonell wirkendes Krebsmedikament, das in der Schweiz als Onkologikum zugelassen ist. Die Vorhersage deutet darauf hin, dass es auch beim mammären Morbus Paget (mammary Paget disease) wirksam sein könnte. Die Evidenz dafür ist sehr dünn: Es liegen keine Studien vor, die Tamoxifen direkt bei dieser Erkrankung untersuchen, sondern nur Einzelfallberichte und verwandte Arbeiten. Das Evidenzniveau ist daher L5.
 
 ---
 
@@ -50,7 +50,7 @@ Tamoxifen ist ein selektiver Estrogenrezeptor-Modulator und in der Schweiz zugel
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Oncologicum |
-| Vorhergesagte neue Indikation | Morbus Paget der Brust (mammary Paget disease) |
+| Vorhergesagte neue Indikation | Mammärer Morbus Paget (mammary Paget disease) |
 | TxGNN-Vorhersagewert | 0.9969 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
@@ -61,11 +61,11 @@ Tamoxifen ist ein selektiver Estrogenrezeptor-Modulator und in der Schweiz zugel
 
 ### Warum ist diese Vorhersage plausibel?
 
-Tamoxifen blockiert den Estrogenrezeptor im Brustgewebe und hemmt so das estrogenabhängige Wachstum von Tumorzellen. Für diesen Bericht liegen keine Angaben zum Wirkmechanismus aus den Arzneimitteldaten vor. Die Beschreibung stützt sich auf das allgemein bekannte Wirkprinzip.
+Tamoxifen wirkt als Modulator des Östrogenrezeptors und wird bei hormonrezeptor-positivem Brustkrebs eingesetzt. Die Angaben zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vollständig vor; die folgende Einordnung beruht auf dem allgemein bekannten Wirkprinzip.
 
-Der Morbus Paget der Brust ist eine seltene Hautveränderung der Brustwarze. Er geht meist mit einem darunterliegenden duktalen Carcinoma in situ oder einem invasiven Brustkarzinom einher. Ist dieser Tumor hormonrezeptorpositiv, könnte Tamoxifen darauf wirken. Ein direkter Effekt auf die Paget-Zellen selbst ist nicht belegt.
+Der mammäre Morbus Paget ist fast immer mit einem darunterliegenden In-situ- oder invasiven duktalen Karzinom verbunden. Bei hormonrezeptor-positiven Fällen könnte eine endokrine Therapie daher grundsätzlich wirken.
 
-Der hohe Vorhersagewert spiegelt vermutlich vor allem die enge Verwandtschaft mit Brustkrebserkrankungen wider. Er ist kein Beleg für eine Wirksamkeit bei dieser Erkrankung.
+Die Datenlage stützt dies nur indirekt. Ein Fallbericht beschreibt ein Ansprechen bei einem hormonrezeptor-positiven extramammären Morbus Paget, was eine andere Erkrankung ist. Ein weiterer Fallbericht erwähnt ein Ansprechen auf Tamoxifen bei einem ausgedehnten Morbus Paget der Brustwarze. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu Brustkrebs wider und ist kein direkter Wirksamkeitsnachweis.
 
 ---
 
@@ -73,7 +73,7 @@ Der hohe Vorhersagewert spiegelt vermutlich vor allem die enge Verwandtschaft mi
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) | Phase 3 | Abgeschlossen | 313 | Prüft Medroxyprogesteronacetat gegenüber Beobachtung zur Vorbeugung von Gebärmutterschleimhaut-Veränderungen bei Frauen unter Tamoxifen. Eingeschlossen waren u. a. Frauen mit Morbus Paget der Brustwarze. Die Studie betrifft eine Nebenwirkung von Tamoxifen und prüft nicht dessen Wirkung bei Morbus Paget. |
+| [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) | Phase 3 | Abgeschlossen | 313 | Medroxyprogesteronacetat versus Beobachtung zur Vorbeugung von Gebärmutterschleimhaut-Veränderungen bei Frauen unter Tamoxifen (u. a. mit Morbus Paget der Brustwarze). Es geht um die Sicherheit der Gebärmutterschleimhaut, nicht um die Behandlung des Morbus Paget. |
 
 ---
 
@@ -81,25 +81,23 @@ Der hohe Vorhersagewert spiegelt vermutlich vor allem die enge Verwandtschaft mi
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [25759627](https://pubmed.ncbi.nlm.nih.gov/25759627/) | 2014 | Metaanalyse (Kohorte) | Breast Care | Auswertung der Rückfallraten nach Mastektomie bzw. brusterhaltender Operation bei Morbus Paget der Brust. Die Gesamtrückfallrate liegt bei 20–40 %. Tamoxifen wird nicht untersucht. |
-| [1648987](https://pubmed.ncbi.nlm.nih.gov/1648987/) | 1991 | Übersicht | British Journal of Surgery | 48 Frauen mit Morbus Paget der Brustwarze. Behandelt wurde meist operativ, ein Fall mit Tamoxifen. |
-| [14965622](https://pubmed.ncbi.nlm.nih.gov/14965622/) | 2001 | Fallbericht | Breast | Ungewöhnlich ausgedehnter Morbus Paget der Brustwarze. Auf Tamoxifen wurde ein Ansprechen erreicht, anschliessend ein vollständiges Ansprechen auf Strahlentherapie. |
-| [34463889](https://pubmed.ncbi.nlm.nih.gov/34463889/) | 2022 | Fallbericht | Investigational New Drugs | Erfolgreiche Behandlung eines hormonrezeptorpositiven, metastasierten extramammären Morbus Paget mit Tamoxifen. Dies ist eine verwandte, aber andere Erkrankung. |
-| [17319355](https://pubmed.ncbi.nlm.nih.gov/17319355/) | 2006 | Fallserie | Nigerian Journal of Clinical Practice | 8 von 240 Brustkrebspatientinnen in Benin City hatten einen Morbus Paget der Brustwarze. Beschreibung des Erscheinungsbilds. |
-| [8955252](https://pubmed.ncbi.nlm.nih.gov/8955252/) | 1996 | Fallbericht | American Surgeon | Morbus Paget der männlichen Brust mit Literaturübersicht über 32 Fälle. |
-| [19112575](https://pubmed.ncbi.nlm.nih.gov/19112575/) | 2009 | Fallserie | Archives of Gynecology and Obstetrics | Seltene Kombination von Morbus Paget der Vulva und der Brust. |
-| [16277886](https://pubmed.ncbi.nlm.nih.gov/16277886/) | 2005 | Fallserie | Clinical Breast Cancer | Morbus Paget der Brustwarze als lokaler Rückfall nach brusterhaltender Behandlung bei 2181 Frauen mit Brustkrebs im Frühstadium. |
+| [34463889](https://pubmed.ncbi.nlm.nih.gov/34463889/) | 2022 | Fallbericht | Investigational New Drugs | Erfolgreiche Behandlung eines hormonrezeptor-positiven, metastasierten extramammären Morbus Paget mit Tamoxifen (andere Erkrankung). |
+| [14965622](https://pubmed.ncbi.nlm.nih.gov/14965622/) | 2001 | Fallbericht | Breast | Ungewöhnlich ausgedehnter Morbus Paget der Brustwarze; Ansprechen auf Tamoxifen, vollständiges Ansprechen unter Strahlentherapie. |
+| [25759627](https://pubmed.ncbi.nlm.nih.gov/25759627/) | 2014 | Metaanalyse (Kohorte) | Breast Care | Lokale Rückfallrate nach Mastektomie bzw. brusterhaltender Operation beim Morbus Paget der Brust; die Rückfälle werden mit 20–40 % angegeben. |
+| [1648987](https://pubmed.ncbi.nlm.nih.gov/1648987/) | 1991 | Übersicht | British Journal of Surgery | 48 Frauen mit Morbus Paget der Brustwarze; Behandlung meist per Mastektomie, nur ein Fall mit Tamoxifen. |
+| [8955252](https://pubmed.ncbi.nlm.nih.gov/8955252/) | 1996 | Fallbericht | American Surgeon | Morbus Paget der männlichen Brust mit Überblick über 32 Fälle in der Literatur. |
+| [16277886](https://pubmed.ncbi.nlm.nih.gov/16277886/) | 2005 | Fallbericht | Clinical Breast Cancer | Morbus Paget der Brustwarze als lokaler Rückfall nach brusterhaltender Therapie bei Brustkrebs im Frühstadium. |
 | [12924421](https://pubmed.ncbi.nlm.nih.gov/12924421/) | 2003 | Fallbericht | Surgery Today | Beidseitiger Brustkrebs mit Morbus Paget und invasivem duktalem Karzinom. |
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 49059 | Tamoxifen Farmos 10 mg, Tabletten | Tabletten |
-| 54989 | Tamec 20 mg, Filmtabletten | Filmtabletten |
-| 39053 | Nolvadex 20 mg, Filmtabletten | Filmtabletten |
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 49059 | Tamoxifen Farmos 10 mg, Tabletten | Synthetika | Onkologikum |
+| 54989 | Tamec 20 mg, Filmtabletten | Synthetika | Onkologikum |
+| 39053 | Nolvadex 20 mg, Filmtabletten | Synthetika | Onkologikum |
 
 ---
 
@@ -107,11 +105,11 @@ Der hohe Vorhersagewert spiegelt vermutlich vor allem die enge Verwandtschaft mi
 
 | Punkt | Inhalt |
 |------|------|
-| Zytotoxizitätsklassifikation | Zielgerichtete (hormonelle) Therapie, keine konventionelle Zytostatikatherapie |
+| Zytotoxizitätsklassifikation | Zielgerichtete (endokrine) Therapie |
 | Myelosuppressionsrisiko | Niedrig |
 | Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leberfunktion, gynäkologische Kontrolle der Gebärmutterschleimhaut |
-| Handhabungsschutz | Keine speziellen Schutzmassnahmen wie bei klassischen Zytostatika üblich |
+| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion; zusätzlich gynäkologische Kontrolle der Gebärmutterschleimhaut |
+| Handhabungsschutz | Keine besonderen Schutzmassnahmen über die üblichen Vorsichtsmassnahmen hinaus |
 
 ---
 
@@ -126,14 +124,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Evidenz zur vorhergesagten Indikation besteht nur aus einzelnen Fallberichten, kleinen Fallserien und einer Metaanalyse zu anderen Behandlungsfragen. Eine Studie zu Tamoxifen bei Morbus Paget der Brust fehlt.
-- Ein plausibler Nutzen ergibt sich nur indirekt über einen hormonrezeptorpositiven Begleittumor. Die vorliegenden Sicherheitsdaten sind unvollständig.
+- Keine Studie untersucht Tamoxifen direkt beim mammären Morbus Paget; es gibt nur Einzelfallberichte und eine Studie zu einer verwandten Fragestellung (Gebärmutterschleimhaut unter Tamoxifen). Der hohe Vorhersagewert allein genügt nicht.
+- Die Sicherheitsdaten aus der Fachinformation liegen nicht vor.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) von Swissmedic
-- Bestätigung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Systematische Auswertung des Hormonrezeptorstatus bei Morbus Paget der Brust und des Ansprechens auf Tamoxifen
-- Prospektive oder zumindest grössere beobachtende Daten zu Tamoxifen bei dieser Erkrankung, einschliesslich des Nutzens gegenüber der Standardbehandlung (Operation, Strahlentherapie)
+- Auswertung der Schweizer Fachinformation (Warnungen und Kontraindikationen)
+- Ergänzung der Daten zum Wirkmechanismus
+- Systematische Literaturrecherche und Prüfung des Hormonrezeptorstatus bei mammärem Morbus Paget
+- Gegebenenfalls Planung einer Beobachtungs- oder Pilotstudie bei hormonrezeptor-positiven Fällen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

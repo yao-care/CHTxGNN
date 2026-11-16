@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Telmisartan ist ein in der Schweiz im Handel befindlicher Wirkstoff zur Blutdrucksenkung. Für die Prinzmetal-Angina (Prinzmetal angina) sagt das Modell eine mögliche Wirksamkeit voraus. Dafür liegen in den für diesen Bericht zusammengestellten Daten weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modell.
+Telmisartan ist in der Schweiz als blutdrucksenkendes Arzneimittel im Handel. Die Vorhersage lautet, dass es bei der Prinzmetal-Angina (Prinzmetal angina), einer durch Gefässkrämpfe der Herzkranzgefässe ausgelösten Angina, wirksam sein könnte. Dafür liegt keine Evidenz vor: Es gibt weder klinische Studien noch Literatur, die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -59,21 +59,9 @@ Telmisartan ist ein in der Schweiz im Handel befindlicher Wirkstoff zur Blutdruc
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Telmisartan liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Telmisartan den Angiotensin-II-Typ-1-Rezeptor (AT1) blockiert.
+Telmisartan blockiert den Angiotensin-II-Typ-1-Rezeptor und wirkt zusätzlich als partieller Agonist am PPARγ-Rezeptor. Zu den Wirkmechanismen liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor; die genannten Eigenschaften sind aus allgemeinem Fachwissen und der Modellbegründung abgeleitet.
 
-Die Prinzmetal-Angina beruht auf krampfartigen Verengungen der Herzkranzgefässe. Denkbar ist, dass die Blockade des AT1-Rezeptors die Gefässe erweitert und die Gefässinnenwand (Endothel) günstig beeinflusst. Dieser Zusammenhang ist jedoch eine Annahme: Die vorliegenden Daten enthalten keine Studie und keine Publikation, die ihn stützt. Auch die Ähnlichkeit zur ursprünglichen Anwendung ist nicht bewertet.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Eine Verbesserung der Gefässinnenwand-Funktion (Endothelfunktion) durch diese beiden Mechanismen ist denkbar und könnte für die Prinzmetal-Angina relevant sein. Die Erkrankung wird jedoch hauptsächlich durch eine Überempfindlichkeit der glatten Muskulatur der Herzkranzgefässe verursacht. Ein Zusammenhang mit Telmisartan ist daher nicht belegt und bleibt Hypothese.
 
 ---
 
@@ -89,25 +77,17 @@ Derzeit keine verwandte Literatur verfügbar
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage für die Prinzmetal-Angina stützt sich ausschliesslich auf das Modell (Evidenzniveau L5). Es gibt keine klinischen Studien und keine Literatur.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, deshalb ist eine Sicherheitsbewertung derzeit nicht möglich.
+- Für die Prinzmetal-Angina gibt es weder klinische Studien noch Literatur. Der hohe Vorhersagewert ist eine reine Modellvorhersage, und der biologische Zusammenhang ist nicht gesichert.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Herunterladen und Auswerten des PDF)
-- Angaben zum Wirkmechanismus aus DrugBank
-- Eine systematische Literatur- und Studiensuche speziell zur Prinzmetal-Angina
-- Eine Bewertung, ob die Blutdrucksenkung bei Gefässkrämpfen der Herzkranzgefässe klinisch sinnvoll und sicher ist
+- Präklinische oder klinische Daten, die Telmisartan bei koronarer Vasospasmus direkt untersuchen
+- Prüfung der Fachinformation auf Warnhinweise und Kontraindikationen, da für diesen Bericht keine Sicherheitsdaten vorliegen
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

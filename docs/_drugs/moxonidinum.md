@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Moxonidinum: Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Moxonidin ist in der Schweiz als Blutdrucksenker zugelassen. Vorhergesagt wird eine mögliche Wirksamkeit bei Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp), einer erblichen Haarfollikelerkrankung. Diese Vorhersage beruht allein auf einem Rechenmodell; es gibt weder klinische Studien noch Literatur, die sie stützen.
+Moxonidin ist in der Schweiz als blutdrucksenkendes Arzneimittel zugelassen. Für die Vorhersage, dass es bei Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) wirksam sein könnte, liegt ausschliesslich ein Rechenmodell vor. Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, die Evidenz entspricht daher dem Niveau L5.
 
 ---
 
@@ -61,21 +59,11 @@ Moxonidin ist in der Schweiz als Blutdrucksenker zugelassen. Vorhergesagt wird e
 
 ### Warum ist diese Vorhersage plausibel?
 
-Moxonidin wirkt als Agonist an Imidazolin-I1-Rezeptoren und Alpha-2-Rezeptoren und dämpft dadurch die Aktivität des sympathischen Nervensystems. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die hier genannte Wirkweise entspricht dem allgemein bekannten pharmakologischen Profil.
+Moxonidin wirkt als Agonist an Imidazolin-I1-Rezeptoren und Alpha-2-Rezeptoren und senkt dadurch die Aktivität des sympathischen Nervensystems. Die ursprüngliche Beschreibung des Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor.
 
-Die Hypotrichosis simplex ist eine genetisch bedingte Haarfollikelerkrankung (z. B. Varianten in CDSN, APCDD1 oder RPL21). Ein Signalweg, der die Dämpfung des Sympathikus mit dem Haarwachstum verbindet, ist nicht bekannt. Die Plausibilität ist daher gering: Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis ohne biologische oder klinische Bestätigung.
+Hypotrichosis simplex ist eine genetisch bedingte Erkrankung der Haarfollikel (z. B. Varianten in CDSN, APCDD1, RPL21). Ein plausibler Weg, wie eine zentrale Dämpfung des Sympathikus die Biologie des Haarfollikels beeinflussen könnte, ist nicht bekannt.
 
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Die Vorhersage beruht deshalb allein auf einer computergestützten Berechnung. Ein biologischer Zusammenhang ist nicht belegt, und der hohe Vorhersagewert ersetzt keine klinischen Belege.
 
 ---
 
@@ -87,24 +75,17 @@ Derzeit keine verwandte Literatur verfügbar
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Hypotrichosis simplex der Kopfhaut liegen weder Studien noch Publikationen vor, und es gibt keinen erkennbaren Mechanismus; die Vorhersage bleibt auf Modellebene (L5).
+- Für die Hypotrichosis simplex der Kopfhaut gibt es weder klinische Studien noch Literatur, und ein biologischer Wirkzusammenhang mit Moxonidin ist nicht erkennbar.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein belegter biologischer Zusammenhang zwischen sympatholytischer Wirkung bzw. Imidazolin-/Alpha-2-Agonismus und dem Haarfollikel (präklinische Daten)
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), die derzeit fehlen
-- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Eine Prüfung der Darreichungsform: Moxonidin ist als Tablette zugelassen, für eine Behandlung der Kopfhaut wäre voraussichtlich eine andere Anwendungsart nötig
+- Präklinische Daten oder Mechanismusstudien, die einen Einfluss von Moxonidin auf Haarfollikel zeigen
+- Die Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation, die derzeit fehlen und vor weiteren Schritten ausgewertet werden müssen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

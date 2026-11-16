@@ -37,13 +37,15 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 ## Levonorgestrelum: Akne (acne (disease))
 {: .text-alpha }
 
-## Zusammenfassung
+---
 
-Levonorgestrel ist ein synthetisches Gestagen, das in der Schweiz in Notfallverhütungstabletten und in intrauterinen Systemen eingesetzt wird. Die Modellvorhersage nennt Akne (acne (disease)) als mögliche neue Indikation. Die Evidenz ist schwach: Es liegen keine klinischen Studien vor, und die Literatur behandelt Akne nicht direkt für Levonorgestrel allein.
+### Zusammenfassung
+
+Levonorgestrel ist ein synthetisches Gestagen, das in der Schweiz in mehreren Präparaten im Handel ist (Notfallverhütung, Intrauterinsysteme). Die Modellvorhersage nennt Akne (acne (disease)) als mögliche neue Indikation. Die Evidenz ist sehr schwach: Es gibt keine klinischen Studien und keine Publikation, die Levonorgestrel direkt bei Akne untersucht, daher gilt Evidenzniveau L5.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
@@ -57,38 +59,44 @@ Levonorgestrel ist ein synthetisches Gestagen, das in der Schweiz in Notfallverh
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Levonorgestrel liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Literatur, dass es sich um ein Gestagen mit relativ androgener Restwirkung handelt (Abkömmling des 19-Nortestosterons).
+Zum Wirkmechanismus von Levonorgestrel liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es ein Gestagen mit gewisser verbleibender androgener Aktivität ist.
 
-Eine Verbesserung von Akne unter hormonellen Verhütungsmitteln wird vor allem dem Östrogenanteil kombinierter Präparate zugeschrieben (mehr SHBG, weniger freie Androgene) sowie antiandrogenen Gestagenen. Levonorgestrel allein ist daher für Akne mechanistisch zwiespältig: Es könnte neutral wirken oder bei einigen Anwenderinnen die Akne sogar verschlechtern, besonders bei reinen Gestagenformen wie hormonfreisetzenden Intrauterinsystemen oder Implantaten. Ein möglicher Nutzen käme eher von der Kombination mit Ethinylestradiol als von Levonorgestrel selbst.
+Gerade diese androgene Restwirkung spricht eher gegen einen Nutzen bei Akne, da Androgene die Talgproduktion fördern. Eine Besserung der Akne unter hormonellen Verhütungsmitteln wird üblicherweise der Östrogenkomponente kombinierter Pillen (mehr SHBG, weniger freies Testosteron) oder antiandrogenen Gestagenen wie Chlormadinonacetat zugeschrieben. Levonorgestrel-freisetzende Intrauterinsysteme und reine Gestagenmethoden wurden bei einigen Anwenderinnen als neutral oder sogar akneverschlechternd beschrieben.
 
-Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu hormonellen Verhütungsmitteln im Datennetz wider und keine direkten Wirksamkeitsbelege.
+Der hohe Vorhersagewert spiegelt daher wahrscheinlich die Nähe zu Verhütungs- und Hormonpräparaten im Modell wider und nicht einen belegten Nutzen von Levonorgestrel selbst.
 
 ---
 
-## Literaturbelege
+### Klinische Studien
 
-Keine der aufgeführten Arbeiten untersucht Akne unter Levonorgestrel allein in einer Studie. Es handelt sich überwiegend um Übersichtsarbeiten.
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Die gefundenen Publikationen sind überwiegend Übersichtsarbeiten zu Verhütung. Keine untersucht Levonorgestrel direkt als Akne-Therapie. Die folgende Auswahl ist die für das Thema relevanteste.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Übersichtsarbeit | American Journal of Clinical Dermatology | Androgenüberschuss an der Talgdrüseneinheit trägt zu Akne, Hirsutismus und Seborrhö bei; dermatologische Vorteile der Kombination Ethinylestradiol/Chlormadinonacetat. |
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Übersichtsarbeit | Drugs | Ethinylestradiol/Chlormadinonacetat war bei leichter bis mittelschwerer papulopustulöser Akne wirksamer als Ethinylestradiol/Levonorgestrel. |
-| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Übersichtsarbeit | The American Journal of Medicine | Gestagene aus der 19-Kohlenstoff-Reihe, wie Levonorgestrel, haben eine androgene Restwirkung. |
-| [2534253](https://pubmed.ncbi.nlm.nih.gov/2534253/) | 1989 | Pharmakologische Arbeit | Yale Journal of Biology and Medicine | Für eine androgene Wirkung sind hohe Levonorgestrel-Dosen nötig; in Kombination mit einem Östrogen wird sie abgeschwächt. |
-| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Übersichtsarbeit | Current Drug Targets | Steroide und ihre molekularen Wechselwirkungen bei der Talgproduktion, relevant für Akne. |
-| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Übersichtsarbeit | Seminars in Reproductive Medicine | Das Levonorgestrel-Intrauterinsystem ist ein wirksames Verhütungsmittel mit starker antiproliferativer Wirkung auf die Gebärmutterschleimhaut. |
+| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Übersicht | Drugs | Die Kombination Ethinylestradiol/Chlormadinonacetat wirkte bei leichter bis mittelschwerer Akne signifikant besser als Ethinylestradiol/Levonorgestrel. |
+| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Übersicht | American Journal of Clinical Dermatology | Beschreibt Akne, Hirsutismus und Seborrhö als Folge überschüssiger Androgene an der Talgdrüseneinheit; Gegenstand ist die Kombination mit Chlormadinonacetat. |
+| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Übersicht | Current Drug Targets | Fasst die Wirkung verschiedener Steroide auf die Talgproduktion zusammen. |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Übersicht | The American Journal of Medicine | Erläutert die androgene Wirkung von Gestagenen, zu denen die in vielen Verhütungsmitteln verwendeten 19-Nor-Derivate zählen. |
+| [2534253](https://pubmed.ncbi.nlm.nih.gov/2534253/) | 1989 | Pharmakologische Arbeit | The Yale Journal of Biology and Medicine | Für androgene Effekte von Levonorgestrel sind hohe Dosen nötig; in Kombination mit Östrogen wird die androgene Wirkung abgeschwächt. |
+| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Übersicht | Seminars in Reproductive Medicine | Levonorgestrel-Intrauterinsystem: wirksame Verhütung, starke antiproliferative Wirkung auf das Endometrium, weniger Menstruationsblutung. |
 
 ---
 
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 62876 | Norlevo 1.5 mg, Tabletten | Synthetika | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen |
 | 65364 | Levonorgestrel Sandoz, Tablette | Synthetika | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen |
-| 52996 | Mirena, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption, idiopathische Hypermenorrhoe, Schutz vor Endometriumhyperplasie bei Östrogensubstitution |
+| 52996 | Mirena, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption / idiopathische Hypermenorrhoe / Schutz vor Endometriumhyperplasie bei Östrogensubstitution |
 | 66260 | Levonesse, Tabletten | Synthetika | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen |
 | 65444 | Levosert, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption und idiopathische Hypermenorrhoe |
 | 62688 | Jaydess 10 mcg/24 Stunden, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Kontrazeption |
@@ -97,23 +105,23 @@ Keine der aufgeführten Arbeiten untersucht Akne unter Levonorgestrel allein in 
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine klinischen Studien und keine Literatur, die Akne direkt unter Levonorgestrel untersucht; das Evidenzniveau ist daher L5.
-- Der Mechanismus ist zwiespältig: Ein Nutzen bei Akne wäre eher der Kombination mit Ethinylestradiol zuzuschreiben, und reine Levonorgestrel-Formen könnten Akne sogar verschlechtern.
+- Es gibt keine klinischen Studien und keine Publikation zu Levonorgestrel bei Akne. Der Wirkmechanismus (androgene Restwirkung) spricht eher gegen einen Nutzen; der hohe Vorhersagewert ist wahrscheinlich ein Modelleffekt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Kontrollierte Studien zu Akne unter Levonorgestrel, getrennt nach Darreichungsform (kombinierte Pille, Intrauterinsystem, Implantat).
-- Der Wirkmechanismus von Levonorgestrel sowie die Warnhinweise und Kontraindikationen aus der Fachinformation, um die Sicherheit zu beurteilen.
+- Direkte klinische oder epidemiologische Daten zu Levonorgestrel (insbesondere Intrauterinsysteme und reine Gestagenmethoden) und Akne
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus den Schweizer Fachinformationen, da die Sicherheitsprüfung sonst nicht möglich ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

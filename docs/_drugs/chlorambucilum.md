@@ -9,7 +9,7 @@ drugbank_id: DB00291
 monitor_inn: "Chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
 last_modified_at: 2026-11-16
-description: "Chlorambucilum: vorhergesagte neue Indikation ALK-positive large B-cell lymphoma (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
+description: "Chlorambucilum: vorhergesagte neue Indikation ALK-positives grosszelliges B-Zell-Lymphom (ALK-positive large B-cell lymphoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
 # Chlorambucilum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Chlorambucilum: ALK-positive large B-cell lymphoma
+## Chlorambucilum: ALK-positives grosszelliges B-Zell-Lymphom (ALK-positive large B-cell lymphoma)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Chlorambucil ist in der Schweiz als Zytostatikum zugelassen. Für diesen Eintrag liegen in den zusammengestellten Daten weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf dem Modell.
+Chlorambucil ist ein Zytostatikum, das in der Schweiz im Handel ist. Für das ALK-positive grosszellige B-Zell-Lymphom (ALK-positive large B-cell lymphoma) liegt ein hoher Vorhersagewert des Modells vor (0,9961). Diese Vorhersage beruht allein auf einer Modellrechnung. Für die Krankheit gibt es in den zusammengestellten Daten weder klinische Studien noch Literatur (Evidenzniveau L5). Daher ist derzeit Abwarten angezeigt.
 
 ---
 
@@ -50,7 +50,7 @@ Chlorambucil ist in der Schweiz als Zytostatikum zugelassen. Für diesen Eintrag
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Zytostatikum |
-| Vorhergesagte neue Indikation | ALK-positive large B-cell lymphoma |
+| Vorhergesagte neue Indikation | ALK-positives grosszelliges B-Zell-Lymphom (ALK-positive large B-cell lymphoma) |
 | TxGNN-Vorhersagewert | 0.9961 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,17 +61,31 @@ Chlorambucil ist in der Schweiz als Zytostatikum zugelassen. Für diesen Eintrag
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Chlorambucil ein alkylierendes Mittel aus der Gruppe der Stickstofflost-Verbindungen ist, das die DNA quervernetzt und so die Teilung bösartiger Zellen hemmt. Dies ist Hintergrundwissen und keine Evidenz aus den vorliegenden Daten.
+Chlorambucil ist ein DNA-alkylierendes Stickstoff-Lost-Derivat. Es schädigt die Erbsubstanz von Zellen durch Alkylierung und Quervernetzung und wirkt besonders auf lymphatische Zellen. Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank lag nicht vor. Die Angaben hier beruhen auf dem allgemein bekannten Wirkprinzip dieser Substanzklasse.
 
-Die vorhergesagte Erkrankung ist ein molekularer Untertyp der chronischen lymphatischen Leukämie (CLL), einer klassischen Anwendung alkylierender Substanzen. Es handelt sich daher nicht um eine echte Umwidmung im engeren Sinn. Der sehr hohe Vorhersagewert spiegelt wahrscheinlich die bekannte Nähe zur CLL wider.
+Aus diesem Wirkprinzip ergibt sich ein allgemeiner Grund, weshalb das Arzneimittel bei B-Zell-Lymphomen wirken könnte. Das ALK-positive grosszellige B-Zell-Lymphom ist aber eine seltene und aggressive Erkrankung. Sie wird üblicherweise mit intensiver Kombinations-Chemotherapie behandelt. Ein einzelner Alkylator allein dürfte dafür kaum ausreichen.
+
+Der hohe Vorhersagewert ist eine rein rechnerische Aussage. Er ersetzt keine klinische Evidenz. Für diese Krankheit liegen keine Studien oder Publikationen vor.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 23426 | Leukeran, Filmtabletten | Synthetika | Zytostatikum |
+| Zulassungsnummer | Produktname | Darreichungsform | Zulassungsinhaberin | Status |
+|---------|------|------|-----------|------|
+| 23426 | Leukeran, Filmtabletten | Synthetika | Aspen Pharma Schweiz GmbH | Gültig |
 
 ---
 
@@ -82,10 +96,10 @@ Die vorhergesagte Erkrankung ist ein molekularer Untertyp der chronischen lympha
 | Zytotoxizitätsklassifikation | Konventionell zytotoxisch |
 | Myelosuppressionsrisiko | Hoch |
 | Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
-| Handhabungsschutz | Ja, als zytotoxischer Wirkstoff sind die üblichen Schutzmassnahmen erforderlich |
+| Überwachungspunkte | Regelmässige Kontrolle des Blutbilds sowie der Leber- und Nierenfunktion |
+| Handhabungsschutz | Ja, die für Zytostatika üblichen Schutzmassnahmen sind erforderlich |
 
-Hinweis: Diese Einstufung beruht auf allgemeinem Fachwissen und nicht auf den zusammengestellten Daten.
+Diese Einordnung beruht auf allgemeinem Fachwissen zur Substanzklasse und nicht auf den für diesen Bericht zusammengestellten Daten.
 
 ---
 
@@ -100,12 +114,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Hauptvorhersage liegen keine Studien oder Publikationen vor, sodass die Evidenz nur auf der Modellvorhersage beruht (L5). Zudem handelt es sich um einen Untertyp der CLL und nicht um eine eigenständige neue Indikation.
+- Der hohe Vorhersagewert (0,9961) stützt sich nur auf ein Rechenmodell. Es gibt weder Studien noch Publikationen zu dieser Krankheit (Evidenzniveau L5).
+- Die Erkrankung ist selten und aggressiv und wird üblicherweise mit intensiver Kombinations-Chemotherapie behandelt. Eine alleinige Alkylator-Therapie erscheint wenig aussichtsreich.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen) ist auszuwerten, da diese Sicherheitsdaten fehlen.
-- Der Wirkmechanismus ist aus einer verlässlichen Arzneimittelquelle zu ergänzen.
-- Es ist zu prüfen, ob Studien zu Chlorambucil bei CLL mit mutiertem IGHV-Status vorliegen und wie Chlorambucil im Vergleich zu modernen zielgerichteten Therapien einzuordnen ist.
+- Klinische oder präklinische Belege, die Chlorambucil direkt bei dieser Lymphomform untersuchen
+- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Eine geprüfte Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Eine fachliche Einschätzung, ob eine Alkylator-Therapie neben den etablierten Kombinationsschemata überhaupt eine Rolle spielen könnte
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

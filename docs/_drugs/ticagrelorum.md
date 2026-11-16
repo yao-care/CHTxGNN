@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Ticagrelor ist ein reversibler Hemmstoff des P2Y12-Rezeptors auf Blutplättchen. Das Modell sagt eine mögliche Wirksamkeit bei intrakranieller Arteriosklerose (intracranial arteriosclerosis) voraus. Die Evidenz ist begrenzt: Eine grosse Phase-3-Studie läuft noch ohne Ergebnisse, dazu kommt eine kleine Beobachtungsstudie. Es liegen keine abgeschlossenen Wirksamkeitsstudien für diese Erkrankung vor.
+Ticagrelor ist ein Thrombozytenaggregationshemmer, der in der Schweiz in Kombination mit Acetylsalicylsäure zugelassen ist. Die Modellvorhersage nennt als mögliches neues Anwendungsgebiet die intrakranielle Arteriosklerose (intracranial arteriosclerosis). Für diese Erkrankung liegen eine laufende Phase-3-Studie und mehrere Beobachtungs- bzw. Übersichtsarbeiten vor, aber noch keine abgeschlossenen Wirksamkeitsergebnisse.
 
 ---
 
@@ -55,17 +55,19 @@ Ticagrelor ist ein reversibler Hemmstoff des P2Y12-Rezeptors auf Blutplättchen.
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
 | Anzahl Zulassungen | mindestens 4 |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
+
+Hinweis zum Evidenzniveau: Die einzige grosse Phase-3-Studie zur Erkrankung (CAPTIVA) ist noch nicht abgeschlossen und liefert keine Ergebnisse. Die Rolle des Ticagrelor-Arms ist zudem aus den vorliegenden Angaben nicht bestätigt. Die übrigen Belege zur intrakraniellen Erkrankung sind klein oder beschreibend. Die Einstufung als L1, wie sie in den Rohdaten steht, wird daher nicht übernommen; es gilt vorsichtig L5, bis abgeschlossene Ergebnisse vorliegen.
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ticagrelor blockiert den P2Y12-Rezeptor und hemmt dadurch die durch ADP ausgelöste Aktivierung und Verklumpung der Blutplättchen. Im Gegensatz zu Clopidogrel muss es nicht erst in der Leber aktiviert werden. Die Angaben zum Wirkmechanismus in den Stammdaten sind unvollständig. Die hier beschriebene Wirkung stammt aus der mechanistischen Begründung der Vorhersage.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Substanzklasse ergibt sich jedoch: Ticagrelor blockiert reversibel den P2Y12-Rezeptor der Blutplättchen und hemmt dadurch die ADP-vermittelte Aktivierung und Aggregation.
 
-Bei der intrakraniellen Arteriosklerose tragen plättchenvermittelte Gerinnselbildung und Embolien aus der verengten Arterie zu ischämischen Ereignissen bei. Eine P2Y12-Hemmung ist daher mechanistisch schlüssig. Das Rückfallrisiko für Schlaganfälle bleibt unter der Standardbehandlung hoch, bis zu 12 Monate nach dem Ereignis. Das erklärt das Interesse an wirksameren Kombinationen.
+Bei der intrakraniellen Arteriosklerose entstehen Schlaganfälle vor allem durch Blutgerinnsel auf instabilen Gefässplaques und durch Embolien, die von der verengten Arterie ausgehen. Eine Hemmung der Plättchenaggregation ist deshalb mechanistisch nachvollziehbar.
 
-Besonders plausibel ist der Ansatz bei symptomatischer Erkrankung und bei Personen mit CYP2C19-Funktionsverlust-Varianten. Bei ihnen wird Clopidogrel schlechter aktiviert, Ticagrelor ist davon nicht betroffen.
+Ein möglicher Vorteil: Ticagrelor muss nicht über das Enzym CYP2C19 aktiviert werden. Bei Personen mit eingeschränkter CYP2C19-Funktion, bei denen Clopidogrel weniger wirkt, könnte es daher eine Alternative sein.
 
 ---
 
@@ -73,8 +75,8 @@ Besonders plausibel ist der Ansatz bei symptomatischer Erkrankung und bei Person
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) (CAPTIVA) | Phase 3 | Aktiv, nicht rekrutierend | 1683 | Prüft, ob Rivaroxaban, Ticagrelor oder beide der Clopidogrel-Gruppe überlegen sind (Schlaganfall, Hirnblutung oder Gefässtod innerhalb eines Jahres). Ergebnisse liegen noch nicht vor. |
-| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | Nicht zutreffend | Rekrutierend | 100 | Pilotstudie: genotypgesteuerte Wahl eines P2Y12-Hemmers (u. a. Ticagrelor) gegenüber Clopidogrel bei symptomatischer intrakranieller Atherosklerose. Für klinische Endpunkte zu klein. |
+| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) (CAPTIVA) | Phase 3 | Aktiv, Rekrutierung abgeschlossen | 1683 | Prüft, ob Rivaroxaban, Ticagrelor oder beide dem Clopidogrel-Arm bei der 1-Jahres-Rate von ischämischem Schlaganfall, Hirnblutung oder vaskulärem Tod überlegen sind. Noch keine Ergebnisse. |
+| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | Nicht zutreffend | Rekrutierend | 100 | Pilotstudie: genotypgesteuerte Wahl eines P2Y12-Hemmers (u. a. Ticagrelor) gegenüber Clopidogrel bei symptomatischer intrakranieller Atherosklerose. |
 
 ---
 
@@ -82,36 +84,42 @@ Besonders plausibel ist der Ansatz bei symptomatischer Erkrankung und bei Person
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Kohortenstudie | Journal of NeuroInterventional Surgery | Erfahrungsbericht: Ticagrelor 60 mg zweimal täglich plus Aspirin 81 mg im Vergleich zu Aspirin plus Clopidogrel bei intrakraniellem Stenting. |
-| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Übersichtsarbeit (Studiendesign) | International Journal of Stroke | Beschreibt Aufbau und frühen Verlauf der CAPTIVA-Studie. Sie prüft, ob andere Kombinationen gegenüber Clopidogrel plus Aspirin überlegen sind. |
+| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Kohortenstudie | Journal of NeuroInterventional Surgery | Erfahrungsbericht: Ticagrelor 60 mg zweimal täglich plus Aspirin 81 mg im Vergleich zu Aspirin plus Clopidogrel bei intrakranieller Stentimplantation. |
+| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Übersichtsarbeit | International Journal of Stroke | Beschreibt Design und frühen Verlauf der CAPTIVA-Studie bei symptomatischer intrakranieller Stenose. |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Ticagrelor ist in der Schweiz im Handel. Es sind mindestens vier gültige Zulassungen von Einzelpräparaten erfasst. Die Liste ist möglicherweise nicht vollständig.
+Es sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 68830 | Ticagrelor Zentiva 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer (in Kombination mit Acetylsalicylsäure) |
+| 69816 | Ticagrelor Devatis 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure |
+| 68430 | Ticagrelor Sandoz 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure |
+| 68827 | Ticagrelor-Mepha 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure |
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für Warnungen, Kontraindikationen und Wechselwirkungen liegen in den zusammengestellten Daten keine Angaben vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch, und der Mechanismus ist stimmig. Mit CAPTIVA läuft eine grosse, direkt relevante Phase-3-Studie.
-- Es gibt aber noch keine abgeschlossene Studie mit Wirksamkeitsergebnissen für diese Erkrankung. Die vorhandenen Belege sind eine kleine Beobachtungsstudie und ein Beitrag zum Studiendesign. Zudem sind die Sicherheitsdaten der Fachinformation nicht verfügbar.
+- Für die intrakranielle Arteriosklerose gibt es bisher keine abgeschlossene Studie mit Ergebnissen; die grosse Phase-3-Studie CAPTIVA läuft noch, und die Pilotstudie ist klein.
+- Sicherheitsdaten aus der Fachinformation fehlen, sodass eine Sicherheitsbeurteilung derzeit nicht möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Ergebnisse der CAPTIVA-Studie (Ticagrelor-Arm gegenüber Clopidogrel) abwarten und bewerten.
-- Warnhinweise und Kontraindikationen aus der aktuellen Schweizer Fachinformation prüfen, insbesondere Blutungsrisiko, Atemnot, Bradyarrhythmie und Wechselwirkungen mit starken CYP3A-Hemmern und -Induktoren.
-- Die Angaben zum Wirkmechanismus ergänzen und überprüfen.
-- Die Ergebnisse der Pilotstudie zur genotypgesteuerten Therapie (NCT06714526) verfolgen.
+- Abgeschlossene Ergebnisse der CAPTIVA-Studie, insbesondere zum Ticagrelor-Arm
+- Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB00524
 monitor_inn: "Metolazone"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 last_modified_at: 2026-11-16
-description: "Metolazonum: vorhergesagte neue Indikation Malignant hypertensive renal disease (Evidenzstufe L5). Ursprüngliche Indikation: Diureticum"
+description: "Metolazonum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Diureticum"
 ---
 
 # Metolazonum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Metolazonum: Malignant hypertensive renal disease
+## Metolazonum: Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Metolazon ist ein Diuretikum, das in der Schweiz im Handel ist. Es gibt dafür jedoch weder klinische Studien noch Literatur, die Evidenz beruht ausschliesslich auf der Modellvorhersage (L5).
+Metolazon ist ein Diuretikum und in der Schweiz im Handel. Die höchste Vorhersage dieses Berichts betrifft die maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease). Diese Vorhersage beruht allein auf einem Rechenmodell; es liegen weder klinische Studien noch Literatur vor, die sie stützen (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +48,7 @@ Metolazon ist ein Diuretikum, das in der Schweiz im Handel ist. Es gibt dafür j
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Diureticum |
-| Vorhergesagte neue Indikation | Malignant hypertensive renal disease |
+| Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9984 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,21 +59,11 @@ Metolazon ist ein Diuretikum, das in der Schweiz im Handel ist. Es gibt dafür j
 
 ### Warum ist diese Vorhersage plausibel?
 
-Metolazon ist ein thiazidähnliches Diuretikum. Es hemmt den Natrium-Chlorid-Cotransporter im distalen Tubulus der Niere und bleibt auch bei verminderter Nierenfunktion (reduzierter GFR) wirksam. Daraus ergibt sich eine nachvollziehbare Begründung für eine Senkung des Flüssigkeitsvolumens und damit des Blutdrucks. Für das Arzneimittel liegen in den vorliegenden Daten keine Angaben zum Wirkmechanismus vor; die Beschreibung stützt sich auf die allgemeine Einordnung als thiazidähnliches Diuretikum.
+Metolazon gehört zu den thiazidartigen Diuretika. Es hemmt den Natrium-Chlorid-Cotransporter im distalen Tubulus der Niere. Dadurch scheidet der Körper mehr Salz und Wasser aus, das Flüssigkeitsvolumen sinkt und der Blutdruck kann abfallen. Die Angaben zum Wirkmechanismus in den vorliegenden Daten sind lückenhaft; die Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
 
-Es gibt aber deutliche Einschränkungen. Die maligne renovaskuläre Hypertonie wird vor allem durch eine Aktivierung des Renin-Angiotensin-Systems und eine Nierenarterienstenose getrieben. Ein Flüssigkeitsentzug durch ein Diuretikum kann die Reninfreisetzung weiter anregen und die Nierenfunktion verschlechtern. Der hohe Vorhersagewert ist daher eine rein rechnerische Aussage und ersetzt keine klinische Evidenz.
+Ein Zusammenhang mit hypertensiven Nierenerkrankungen ist deshalb denkbar: Wer den Blutdruck und die Flüssigkeitsbelastung senkt, entlastet unter Umständen die Niere.
 
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Die Plausibilität ist jedoch begrenzt. Die maligne Hypertonie ist ein hypertensiver Notfall, der wesentlich durch die Aktivierung des Renin-Angiotensin-Systems getrieben wird. Sie erfordert eine rasche, kontrollierte Blutdrucksenkung über Infusionen. Ein orales Diuretikum käme daher kaum als Haupttherapie infrage. Der hohe Vorhersagewert ist eine reine Rechenvorhersage ohne klinische Bestätigung.
 
 ---
 
@@ -98,14 +86,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf ein Rechenmodell (L5); es gibt weder Studien noch Publikationen zu dieser Erkrankung.
-- Der Mechanismus spricht teilweise sogar dagegen, da Volumenentzug das Renin-Angiotensin-System zusätzlich aktivieren kann.
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell. Es gibt keine Studien oder Publikationen zur maligenen hypertensiven Nierenerkrankung, und ein orales Diuretikum passt schlecht zu einem hypertensiven Notfall.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen), da die Sicherheitsdaten fehlen
-- Ergänzung der Angaben zum Wirkmechanismus (z. B. aus DrugBank)
-- Gezielte Literaturrecherche und, falls vorhanden, klinische Daten zur Anwendung von Metolazon bei maligner renovaskulärer Hypertonie
-- Klinische Bewertung, ob ein Diuretikum bei dieser Erkrankung überhaupt sinnvoll und sicher einsetzbar ist
+- Klinische oder präklinische Studien, die Metolazon direkt bei dieser Erkrankung untersuchen
+- Vollständige Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation, um die Sicherheit zu prüfen
+- Klärung der Anwendungswege und der Eignung der Darreichungsform für diese Indikation
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

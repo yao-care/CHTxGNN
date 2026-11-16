@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Cefuroxim ist ein Antibiotikum aus der Gruppe der Cephalosporine und ist in der Schweiz im Handel. Für die vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) liegen weder klinische Studien noch Literatur vor. Die Vorhersage stützt sich allein auf das Rechenmodell (Evidenzniveau L5).
+Cefuroxim ist ein Cephalosporin-Antibiotikum der zweiten Generation, das in der Schweiz bei Infektionskrankheiten eingesetzt wird. Das Modell sagt eine mögliche Wirksamkeit bei Hyperamylasämie (hyperamylasemia) voraus. Dafür gibt es keine Evidenz: Es liegen weder klinische Studien noch Literatur vor, und ein plausibler Wirkmechanismus ist nicht erkennbar.
 
 ---
 
@@ -59,9 +59,9 @@ Cefuroxim ist ein Antibiotikum aus der Gruppe der Cephalosporine und ist in der 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Cefuroxim liegen in den zusammengestellten Daten keine Angaben vor. Allgemein hemmen Cephalosporine die Zellwandsynthese von Bakterien, indem sie an Penicillin-bindende Proteine binden.
+Ein Wirkmechanismus von Cefuroxim ist in den vorliegenden Daten nicht erfasst. Bekannt ist, dass Cefuroxim als Cephalosporin die Zellwandsynthese von Bakterien hemmt.
 
-Ein Zusammenhang zwischen dieser antibakteriellen Wirkung und einer erhöhten Serum-Amylase ist nicht erkennbar. Ein Antibiotikum hat keinen bekannten Einfluss auf die Amylase-Erhöhung. Die Vorhersage ist daher als rein rechnerisches Signal ohne biologische Begründung zu betrachten. Auch eine Ähnlichkeit zur ursprünglichen Indikation konnte nicht belegt werden.
+Hyperamylasämie ist ein biochemischer Laborbefund und keine Infektion. Ein antibakterieller Wirkstoff hat darauf keinen bekannten therapeutischen Einfluss. Ein plausibler pharmakologischer Zusammenhang lässt sich nicht herleiten. Der hohe Vorhersagewert spiegelt vermutlich eine statistische Nähe in den Modelldaten wider und keine biologische Begründung. Arzneimittelbedingte Effekte auf die Bauchspeicheldrüse wären eher ein Sicherheitsthema als ein therapeutischer Ansatz.
 
 ---
 
@@ -79,7 +79,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-Mindestens 8 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Es sind mindestens 8 Zulassungen erfasst. Die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -105,13 +105,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Hyperamylasämie gibt es weder Studien noch Literatur und keinen erkennbaren biologischen Wirkmechanismus. Die Vorhersage ist rein modellbasiert (L5).
+- Für Hyperamylasämie gibt es keine klinischen Studien und keine Literatur, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein plausibler Wirkmechanismus, der Cefuroxim mit der Amylase-Erhöhung verbindet
-- Prüfung auf direkte Studien oder Fallberichte zu Cefuroxim bei Hyperamylasämie
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Fachinformation von Swissmedic
-- Die Angaben zum Wirkmechanismus aus DrugBank
+- Ein nachvollziehbarer pharmakologischer Mechanismus, der Cefuroxim mit Hyperamylasämie verbindet
+- Klinische oder präklinische Daten, die diese Erkrankung direkt untersuchen
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsbewertung
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pravastatinum Natricum
-parent: Nur Modellvorhersage (L5)
+parent: Hohe Evidenz (L1-L2)
 nav_order: 484
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 drugbank_id: DB00175
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-11-16
-description: "Pravastatinum Natricum: vorhergesagte neue Indikation HIV infectious disease (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion des Serumcholesterinspiegels"
+description: "Pravastatinum Natricum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L2). Ursprüngliche Indikation: Reduktion des Serumcholesterinspiegels"
 ---
 
 # Pravastatinum Natricum
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6** 
+Evidenzniveau: **L2** | Vorhergesagte Indikationen: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Pravastatinum Natricum: HIV infectious disease
+## Pravastatinum Natricum: HIV-Infektionskrankheit (HIV infectious disease)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Pravastatin ist ein Cholesterinsenker aus der Gruppe der Statine. Die Evidenz dafür ist schwach: Es liegt keine Studie vor, die Pravastatin bei dieser Erkrankung untersucht, daher bleibt es bei einer reinen Modellvorhersage.
+Pravastatin ist ein Cholesterinsenker (Statin), der in der Schweiz mit mehreren Präparaten im Handel ist. Für die Vorhersage HIV-Infektionskrankheit (HIV infectious disease) ist nicht eine antivirale Wirkung gemeint, sondern die Behandlung der durch HIV bzw. die antiretrovirale Therapie bedingten Fettstoffwechselstörung und des damit verbundenen Herz-Kreislauf-Risikos. Die Evidenz umfasst mehrere kleine bis mittelgrosse Studien bei Menschen mit HIV, darunter randomisierte Vergleiche mit Pravastatin.
 
 ---
 
@@ -48,20 +50,22 @@ Pravastatin ist ein Cholesterinsenker aus der Gruppe der Statine. Die Evidenz da
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Reduktion des Serumcholesterinspiegels |
-| Vorhergesagte neue Indikation | HIV infectious disease |
+| Vorhergesagte neue Indikation | HIV-Infektionskrankheit (HIV infectious disease) |
 | TxGNN-Vorhersagewert | 0.9974 |
-| Evidenzniveau | L5 |
+| Evidenzniveau | L2 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
-| Empfohlene Entscheidung | Abwarten |
+| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pravastatin hemmt die HMG-CoA-Reduktase und regt dadurch die LDL-Rezeptoren der Leber an, sodass mehr LDL-Cholesterin aus dem Blut aufgenommen wird. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten, diese Beschreibung beruht auf dem allgemeinen Wissen über die Wirkstoffklasse.
+Pravastatin hemmt die HMG-CoA-Reduktase, ein Schlüsselenzym der Cholesterinbildung in der Leber. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
 
-Bei der homozygoten familiären Hypercholesterinämie fehlt die Funktion der LDL-Rezeptoren fast vollständig oder ganz. Der Mechanismus von Pravastatin ist daher nur teilweise anwendbar: Ein Effekt hängt von der verbliebenen Restaktivität der Rezeptoren ab. Pravastatin ist zudem ein Statin mit eher geringer Wirkstärke und dürfte bei dieser Erkrankung kaum erste Wahl sein. Die ausgewerteten Übersichtsarbeiten halten fest, dass Statine bei dieser Form nur wenig wirksam sind.
+Menschen mit HIV haben häufig erhöhte Blutfette, vor allem unter Proteasehemmern, und ein erhöhtes Risiko für Herz-Kreislauf-Erkrankungen. Statine werden hier zur Kontrolle der Blutfette eingesetzt. Der hohe Vorhersagewert spiegelt wahrscheinlich diese Verbindung wider und nicht eine Wirkung gegen das Virus selbst.
+
+Pravastatin wird kaum über CYP3A4 abgebaut. Dadurch ist das Risiko für Wechselwirkungen mit Proteasehemmern und Wirkverstärkern geringer als bei Simvastatin oder Lovastatin. Wechselwirkungen mit Nelfinavir, Efavirenz und Raltegravir wurden untersucht. Die Indikation sollte daher als HIV-assoziierte Dyslipidämie bzw. Senkung des kardiovaskulären Risikos formuliert werden, nicht als HIV-Behandlung.
 
 ---
 
@@ -69,7 +73,16 @@ Bei der homozygoten familiären Hypercholesterinämie fehlt die Funktion der LDL
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Abgeschlossen | 18 | Offene Studie mit Alirocumab bei Kindern und Jugendlichen (8–17 Jahre) mit homozygoter familiärer Hypercholesterinämie; Zielgrösse ist der LDL-Cholesterinwert nach 12 Wochen. Pravastatin wird nicht geprüft, die Studie liefert nur Krankheitskontext. |
+| [NCT00221754](https://clinicaltrials.gov/study/NCT00221754) | Phase 2 | Abgeschlossen | 21 | Doppelblinde, randomisierte Studie zu Pravastatin bei HIV-Infizierten mit Proteasehemmern und erhöhtem Cholesterin; kleine Stichprobe |
+| [NCT00227500](https://clinicaltrials.gov/study/NCT00227500) | Phase 4 | Abgeschlossen | 40 | Placebokontrolliert; prüft, ob Pravastatin das Cholesterin bei HIV-Infizierten unter Proteasehemmern stärker senkt als Placebo |
+| [NCT00117494](https://clinicaltrials.gov/study/NCT00117494) | Phase 4 | Abgeschlossen | 86 | Randomisierter Vergleich von Rosuvastatin und Pravastatin bei HIV-Patienten mit Dyslipidämie unter antiretroviraler Therapie |
+| [NCT00006412](https://clinicaltrials.gov/study/NCT00006412) | Phase 3 | Abgeschlossen | 630 | Fenofibrat versus Pravastatin bei HIV-Infizierten mit Fettstoffwechselstörung; Wirksamkeit und Sicherheit im Vergleich |
+| [NCT00843661](https://clinicaltrials.gov/study/NCT00843661) | Phase 4 | Unbekannt | 60 | Ezetimib plus Fenofibrat versus Pravastatin 40 mg bei HIV-Infizierten unter Proteasehemmern |
+| [NCT02841774](https://clinicaltrials.gov/study/NCT02841774) | Phase 2 | Abgeschlossen | 10 | Pravastatin 40 mg versus hochdosiertes Rosuvastatin bei HIV und koronarer Herzkrankheit; sehr kleine Stichprobe |
+| [NCT00630734](https://clinicaltrials.gov/study/NCT00630734) | Phase 4 | Abgeschlossen | 32 | Einfluss genetischer Varianten (SLCO1B1) auf die Wechselwirkung zwischen Darunavir/Ritonavir und Pravastatin |
+| [NCT00000941](https://clinicaltrials.gov/study/NCT00000941) | Phase 1 | Abgeschlossen | 56 | Wechselwirkungen zwischen Proteasehemmern und Lipidsenkern, u. a. Pravastatin |
+| [NCT00017758](https://clinicaltrials.gov/study/NCT00017758) | Phase 1 | Abgeschlossen | 56 | Einfluss von Efavirenz und Nelfinavir auf die Blutspiegel von Statinen, u. a. Pravastatin |
+| [NCT00665717](https://clinicaltrials.gov/study/NCT00665717) | Phase 1 | Abgeschlossen | 24 | Wechselwirkung zwischen Raltegravir und Pravastatin bei gesunden Freiwilligen |
 
 ---
 
@@ -77,14 +90,14 @@ Bei der homozygoten familiären Hypercholesterinämie fehlt die Funktion der LDL
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [28685504](https://pubmed.ncbi.nlm.nih.gov/28685504/) | 2017 | Systematische Übersicht (Cochrane) | The Cochrane Database of Systematic Reviews | Statine bei Kindern mit familiärer Hypercholesterinämie; allgemeine Wirkstoffklasse, nicht pravastatinspezifisch für die homozygote Form. |
-| [31696945](https://pubmed.ncbi.nlm.nih.gov/31696945/) | 2019 | Systematische Übersicht (Cochrane) | The Cochrane Database of Systematic Reviews | Aktualisierung der Übersicht zu Statinen bei Kindern mit familiärer Hypercholesterinämie. |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Leitlinie | Endocrine Practice | Leitlinie zur Behandlung von Dyslipidämie und Prävention kardiovaskulärer Erkrankungen. |
-| [15532136](https://pubmed.ncbi.nlm.nih.gov/15532136/) | 2004 | Übersicht | Prescrire International | Simvastatin und Pravastatin gelten als Referenzstatine; Statine sind bei der homozygoten Form wenig wirksam. |
-| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Übersicht | Clinical Therapeutics | Rosuvastatin bei Hyperlipidämie, einschliesslich homozygoter familiärer Hypercholesterinämie. |
-| [12269853](https://pubmed.ncbi.nlm.nih.gov/12269853/) | 2002 | Übersicht | Drugs | Rosuvastatin war in Studien wirksamer als Pravastatin bei Hypercholesterinämie. |
-| [14727947](https://pubmed.ncbi.nlm.nih.gov/14727947/) | 2003 | Übersicht | American Journal of Cardiovascular Drugs | Ezetimib als Hemmer der Cholesterinaufnahme im Darm. |
-| [23319054](https://pubmed.ncbi.nlm.nih.gov/23319054/) | 2013 | Präklinisch | Molecular Therapy | Exon-Skipping von APOB bei familiärer Hypercholesterinämie; Statine bei homozygoter Form nur begrenzt wirksam. |
+| [18991624](https://pubmed.ncbi.nlm.nih.gov/18991624/) | 2008 | Kohortenstudie (offen, randomisiert) | Current HIV Research | Vergleich von Rosuvastatin, Pravastatin und Atorvastatin bei Hypercholesterinämie unter Proteasehemmern (94 Patienten) |
+| [17117030](https://pubmed.ncbi.nlm.nih.gov/17117030/) | 2006 | Vergleichsstudie | AIDS | Pravastatin zeigte keinen Einfluss auf Struktur und Funktion der Halsschlagader bei HIV-Infizierten mit Dyslipidämie |
+| [25907504](https://pubmed.ncbi.nlm.nih.gov/25907504/) | 2015 | Systematische Übersicht | The American Journal of Cardiology | Nutzen von Statinen bei HIV-Infizierten, die ein erhöhtes Herzinfarktrisiko haben |
+| [32240298](https://pubmed.ncbi.nlm.nih.gov/32240298/) | 2020 | Kohortenstudie | Journal of Antimicrobial Chemotherapy | Praxis im Umgang mit Wechselwirkungen zwischen antiretroviralen Mitteln und Statinen |
+| [28364370](https://pubmed.ncbi.nlm.nih.gov/28364370/) | 2017 | Übersicht | American Journal of Cardiovascular Drugs | Empfehlungen zum Umgang mit Wechselwirkungen von Statinen und HIV-Medikamenten |
+| [27192322](https://pubmed.ncbi.nlm.nih.gov/27192322/) | 2016 | Übersicht | Expert Opinion on Pharmacotherapy | Medikamentöse Therapien bei HIV-bedingten Stoffwechselstörungen |
+| [15958836](https://pubmed.ncbi.nlm.nih.gov/15958836/) | 2005 | Vergleichsstudie | AIDS | Wechsel von Proteasehemmer auf Nevirapin/Efavirenz im Vergleich zur Lipidsenkung bei Dyslipidämie |
+| [14727985](https://pubmed.ncbi.nlm.nih.gov/14727985/) | 2002 | Übersicht | American Journal of Cardiovascular Drugs | Behandlung der durch Proteasehemmer ausgelösten Hyperlipidämie |
 
 ---
 
@@ -99,25 +112,20 @@ Bei der homozygoten familiären Hypercholesterinämie fehlt die Funktion der LDL
 
 ---
 
-### Sicherheitshinweise
-
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
----
-
 ### Fazit und nächste Schritte
 
-**Entscheidung: Abwarten**
+**Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Keine Studie untersucht Pravastatin bei homozygoter familiärer Hypercholesterinämie. Die vorhandene Evidenz betrifft nur verwandte Zustände oder andere Wirkstoffe, daher bleibt es bei Evidenzniveau L5.
-- Bei fehlender LDL-Rezeptorfunktion ist ein nur teilweises Ansprechen zu erwarten, und Pravastatin ist ein Statin mit geringer Wirkstärke.
+- Es gibt direkte, auch randomisierte Studien bei Menschen mit HIV, doch sie sind meist klein, und der Nutzen betrifft die Blutfette und das Herz-Kreislauf-Risiko, nicht das Virus.
+- Wechselwirkungen mit antiretroviralen Mitteln müssen im Einzelfall geprüft werden.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Pravastatinspezifische Daten (Studien oder Fallserien) bei homozygoter familiärer Hypercholesterinämie
-- Vergleich mit wirksameren Statinen und Kombinationen (z. B. mit Ezetimib oder PCSK9-Hemmern)
-- Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
-- Eine Beschreibung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Klare Definition der Indikation als HIV-assoziierte Dyslipidämie bzw. Senkung des kardiovaskulären Risikos
+- Prüfung der Wechselwirkungen mit dem jeweiligen antiretroviralen Regime (v. a. geboostete Proteasehemmer und Cobicistat)
+- Überwachung von Blutfetten, Kreatinkinase und Leberwerten
+- Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Gegenanzeigen, die in den Daten fehlen
+- Ergänzung der Angaben zum Wirkmechanismus
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

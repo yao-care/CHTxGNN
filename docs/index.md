@@ -51,13 +51,13 @@ Berichte nach Evidenzstufe:
 | [Bendamustinum](/drugs/bendamustinum/) | L1 |
 | [Solriamfetolum](/drugs/solriamfetolum/) | L1 |
 | [Hydrocortisonum](/drugs/hydrocortisonum/) | L1 |
-| [Ranibizumabum](/drugs/ranibizumabum/) | L1 |
 | [Doxorubicini Hydrochloridum](/drugs/doxorubicini-hydrochloridum/) | L1 |
-| [Docetaxelum](/drugs/docetaxelum/) | L1 |
 | [Tocilizumabum](/drugs/tocilizumabum/) | L1 |
-| [Atorvastatinum](/drugs/atorvastatinum/) | L1 |
 | [Ketorolacum Trometamolum](/drugs/ketorolacum-trometamolum/) | L1 |
 | [Bupropioni Hydrochloridum](/drugs/bupropioni-hydrochloridum/) | L2 |
+| [Risankizumabum](/drugs/risankizumabum/) | L2 |
+| [Ustekinumabum](/drugs/ustekinumabum/) | L2 |
+| [Prednisoloni Pivalas](/drugs/prednisoloni-pivalas/) | L2 |
 
 ### Arzneimittel, die unter den 30 TxGNN-Websites nur diese Website abdeckt
 
@@ -66,18 +66,18 @@ Berichte nach Evidenzstufe:
 | [Bendamustinum](/drugs/bendamustinum/) | L1 |
 | [Solriamfetolum](/drugs/solriamfetolum/) | L1 |
 | [Hydrocortisonum](/drugs/hydrocortisonum/) | L1 |
-| [Ranibizumabum](/drugs/ranibizumabum/) | L1 |
 | [Doxorubicini Hydrochloridum](/drugs/doxorubicini-hydrochloridum/) | L1 |
-| [Docetaxelum](/drugs/docetaxelum/) | L1 |
 | [Tocilizumabum](/drugs/tocilizumabum/) | L1 |
-| [Atorvastatinum](/drugs/atorvastatinum/) | L1 |
 | [Ketorolacum Trometamolum](/drugs/ketorolacum-trometamolum/) | L1 |
 | [Bupropioni Hydrochloridum](/drugs/bupropioni-hydrochloridum/) | L2 |
 | [Risankizumabum](/drugs/risankizumabum/) | L2 |
 | [Ustekinumabum](/drugs/ustekinumabum/) | L2 |
 | [Prednisoloni Pivalas](/drugs/prednisoloni-pivalas/) | L2 |
 | [Regorafenibum](/drugs/regorafenibum/) | L2 |
-| [Betamethasonum](/drugs/betamethasonum/) | L2 |
+| [Docetaxelum](/drugs/docetaxelum/) | L2 |
+| [Idelalisibum](/drugs/idelalisibum/) | L2 |
+| [Pravastatinum Natricum](/drugs/pravastatinum-natricum/) | L2 |
+| [Lenvatinibum](/drugs/lenvatinibum/) | L2 |
 
 <!-- local-home:end -->
 

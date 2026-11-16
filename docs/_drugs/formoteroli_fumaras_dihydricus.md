@@ -9,7 +9,7 @@ drugbank_id: DB00983
 monitor_inn: "Formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 last_modified_at: 2026-11-16
-description: "Formoteroli Fumaras Dihydricus: vorhergesagte neue Indikation Respiratorische Fehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
+description: "Formoteroli Fumaras Dihydricus: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 
 # Formoteroli Fumaras Dihydricus
@@ -34,23 +34,23 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Formoteroli Fumaras Dihydricus: Respiratorische Fehlbildung (respiratory malformation)
+## Formoteroli Fumaras Dihydricus: Atemwegsfehlbildung (respiratory malformation)
 {: .text-alpha }
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Formoterol ist ein inhalativer, langwirksamer Beta-2-Agonist, der in der Schweiz im Handel ist. Für die vorhergesagte neue Indikation, die respiratorische Fehlbildung (respiratory malformation), liegt ein hoher Vorhersagewert vor. Es gibt dafür aber weder klinische Studien noch Literatur, die diese Erkrankung direkt untersuchen. Die Evidenz beschränkt sich daher auf die Modellvorhersage (Evidenzniveau L5).
+Formoterol ist ein langwirksamer Beta-2-Agonist, der die Bronchien erweitert und in der Schweiz als Inhalationspräparat im Handel ist. Das Modell sagt eine mögliche Wirksamkeit bei Atemwegsfehlbildung (respiratory malformation) voraus. Diese Vorhersage beruht nur auf einer Modellberechnung (Evidenzniveau L5), denn keine der gefundenen Publikationen untersucht diese Erkrankung direkt.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Bronchospasmolytikum |
-| Vorhergesagte neue Indikation | Respiratorische Fehlbildung (respiratory malformation) |
+| Vorhergesagte neue Indikation | Atemwegsfehlbildung (respiratory malformation) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -59,44 +59,63 @@ Formoterol ist ein inhalativer, langwirksamer Beta-2-Agonist, der in der Schweiz
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine eigenen Angaben vor. Formoterol ist als langwirksamer Beta-2-Agonist bekannt: Es entspannt die glatte Muskulatur der Atemwege und erweitert dadurch die Bronchien.
+Formoterol aktiviert Beta-2-Adrenozeptoren in der Atemwegsmuskulatur und führt so zu einer lang anhaltenden Erweiterung der Bronchien. Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank liegen in den Daten nicht vor. Die Einordnung stützt sich daher auf das bekannte Wirkprinzip dieser Wirkstoffklasse.
 
-Eine plausible biologische Verbindung zur respiratorischen Fehlbildung lässt sich daraus nicht ableiten. Die Bronchodilatation könnte höchstens Symptome einer begleitenden Atemwegsobstruktion lindern. Eine strukturelle Entwicklungsstörung würde sie nicht beheben. Der hohe Vorhersagewert beruht vermutlich auf der Nähe zu anderen Atemwegserkrankungen im Modell und nicht auf krankheitsspezifischer Biologie.
+Der hohe Vorhersagewert spiegelt wahrscheinlich eine Nähe des Arzneimittels zu Genen und Merkmalen der Atemwegserkrankungen wider. Eine Atemwegsfehlbildung ist jedoch eine strukturelle Entwicklungsstörung. Eine Bronchodilatation kann anatomische Defekte nicht beheben.
+
+Im besten Fall könnte Formoterol bei einem Teil der Betroffenen Folgesymptome lindern, etwa Bronchospasmus oder eine Atemwegsverengung bei gleichzeitig bestehender reaktiver Atemwegserkrankung. Für eine krankheitsmodifizierende Wirkung gibt es keine Belege.
 
 ---
 
-## Klinische Studien
+### Klinische Studien
 
 Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
-## Literaturbelege
+### Literaturbelege
 
-Derzeit keine verwandte Literatur verfügbar. Die neun recherchierten Publikationen betreffen Asthma, COPD, kleine Atemwegserkrankungen nach COVID-19, allergische bronchopulmonale Mykose und kognitive Störungen beim Down-Syndrom. Keine davon untersucht eine angeborene respiratorische Fehlbildung.
+Die gefundenen Publikationen betreffen verwandte Atemwegserkrankungen (Asthma, COPD) oder andere Themen. Keine davon untersucht eine Atemwegsfehlbildung direkt.
+
+| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
+|------|-----|------|------|---------|
+| [35115339](https://pubmed.ncbi.nlm.nih.gov/35115339/) | 2022 | Randomisierte Crossover-Studie | The European Respiratory Journal | Vergleich von wiederholt angewendetem Budesonid/Formoterol und Salbutamol bei stabilem Asthma. Untersucht wurden bronchodilatierende, systemische, kardiovaskuläre und unerwünschte Wirkungen. |
+| [22541245](https://pubmed.ncbi.nlm.nih.gov/22541245/) | 2012 | RCT (Langzeit-Sicherheit) | The Journal of Allergy and Clinical Immunology | Langzeitsicherheit von Budesonid/Formoterol bei afroamerikanischen Asthmapatienten. |
+| [14738234](https://pubmed.ncbi.nlm.nih.gov/14738234/) | 2004 | Mechanistische klinische Studie | The European Respiratory Journal | Untersuchung des Schutzes von Formoterol vor Effekten des plättchenaktivierenden Faktors bei Asthma. |
+| [40840693](https://pubmed.ncbi.nlm.nih.gov/40840693/) | 2026 | Systematische Übersicht und Metaanalyse | Journal of the American Pharmacists Association | Vergleich der Dreifachtherapie Budesonid/Glycopyrronium/Formoterol mit Glycopyrronium/Formoterol bei COPD hinsichtlich Sicherheit und Wirksamkeit. |
+| [35034195](https://pubmed.ncbi.nlm.nih.gov/35034195/) | 2022 | Physiologische Studie | European Journal of Applied Physiology | Atemmechanik und Ausgleichsmechanismen bei COPD im Schlaf. |
+| [20528601](https://pubmed.ncbi.nlm.nih.gov/20528601/) | 2010 | Übersichtsarbeit | The Journal of Asthma | Übersicht zu Wirksamkeit und Sicherheit von Budesonid/Formoterol als Dosieraerosol bei persistierendem Asthma. |
+| [37691104](https://pubmed.ncbi.nlm.nih.gov/37691104/) | 2023 | Fallbericht | Journal of Medical Case Reports | Erkrankung der kleinen Atemwege nach COVID-19 bei einer Patientin mit dreijährigem Verlauf. |
 
 ---
 
-## Sicherheitshinweise
+### Marktinformationen Schweiz
+
+Formoterol ist in der Schweiz im Handel. Beide erfassten Zulassungen sind gültig, es handelt sich um Einzelwirkstoff-Präparate zur Inhalation.
+
+---
+
+### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist hoch, aber es gibt weder Studien noch Literatur zur Erkrankung selbst. Auch ein plausibler Wirkmechanismus fehlt, da ein Bronchodilatator eine strukturelle Fehlbildung nicht korrigiert.
+- Der hohe Vorhersagewert (0,9992) ist eine reine Modellvorhersage. Es gibt weder klinische Studien noch Publikationen, die Formoterol bei Atemwegsfehlbildung untersuchen.
+- Die Erkrankung ist eine strukturelle Fehlbildung, die eine Bronchodilatation nicht beheben kann. Ein Nutzen wäre höchstens symptomatisch.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein dokumentierter, krankheitsspezifischer Wirkmechanismus oder präklinische Daten zur respiratorischen Fehlbildung
-- Klinische oder publizierte Evidenz, die diese Erkrankung direkt untersucht
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
-- Die Angaben zum Wirkmechanismus aus DrugBank
+- Studien oder Fallserien, die Formoterol direkt bei Atemwegsfehlbildungen untersuchen, insbesondere bei Betroffenen mit zusätzlicher Atemwegsverengung.
+- Eine klare klinische Definition, welche Untergruppen von einer symptomatischen Bronchodilatation profitieren könnten.
+- Die Sicherheitsdaten aus der Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen), die in den vorliegenden Daten fehlen.
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um den mechanistischen Zusammenhang besser zu prüfen.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

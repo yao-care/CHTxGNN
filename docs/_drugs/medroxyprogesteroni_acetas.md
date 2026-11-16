@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Medroxyprogesteroni Acetas
-parent: Nur Modellvorhersage (L5)
+parent: Mittlere Evidenz (L3-L4)
 nav_order: 369
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 drugbank_id: DB00603
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-11-16
-description: "Medroxyprogesteroni Acetas: vorhergesagte neue Indikation Breast fibrocystic disease (Evidenzstufe L5). Ursprüngliche Indikation: Parenterales Kontrazeptivum (Dreimonatsspritze)"
+description: "Medroxyprogesteroni Acetas: vorhergesagte neue Indikation Fibrozystische Brusterkrankung (breast fibrocystic disease) (Evidenzstufe L3)."
 ---
 
 # Medroxyprogesteroni Acetas
 {: .fs-9 }
 
-Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6** 
+Evidenzniveau: **L3** | Vorhergesagte Indikationen: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Medroxyprogesteroni Acetas: Breast fibrocystic disease
+## Medroxyprogesteroni Acetas: Fibrozystische Brusterkrankung (breast fibrocystic disease)
 {: .text-alpha }
 
 ## Zusammenfassung
 
-Medroxyprogesteronacetat ist ein synthetisches Gestagen. Die vorhandene Literatur besteht überwiegend aus Übersichtsarbeiten zur Depot-Verhütung, bei denen Amenorrhö als Nebenwirkung oder erwartetes Ergebnis auftritt, nicht als Behandlungsziel. Direkte Studien zur Behandlung dieser Erkrankung fehlen.
+Medroxyprogesteronacetat ist ein synthetisches Gestagen. Für die fibrozystische Brusterkrankung (breast fibrocystic disease) liegt der höchste Vorhersagewert vor; sie könnte durch die gegen Östrogen gerichtete Wirkung des Arzneimittels günstig beeinflusst werden. Die Evidenz ist begrenzt: Es gibt keine registrierten klinischen Studien, aber einzelne ältere klinische Arbeiten und Übersichten, deren Ergebnisse teils widersprüchlich sind.
 
 ---
 
@@ -48,39 +48,38 @@ Medroxyprogesteronacetat ist ein synthetisches Gestagen. Die vorhandene Literatu
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Parenterales Kontrazeptivum (Dreimonatsspritze); Gestagenbehandlung bei bestimmten Karzionomen; Tumorkachexie |
-| Vorhergesagte neue Indikation | Breast fibrocystic disease |
+| Vorhergesagte neue Indikation | Fibrozystische Brusterkrankung (breast fibrocystic disease) |
 | TxGNN-Vorhersagewert | 0.9995 |
-| Evidenzniveau | L5 |
+| Evidenzniveau | L3 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
 | Anzahl Zulassungen | 2 (gültig: 2) |
-| Empfohlene Entscheidung | Abwarten |
+| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den vorliegenden Daten keine Angaben vor. Medroxyprogesteronacetat gehört jedoch zu den synthetischen Gestagenen. Diese wirken über Progesteronrezeptoren. Sie bewirken in einer durch Östrogen vorbereiteten Gebärmutterschleimhaut eine sekretorische Umwandlung und eine Entzugsblutung. Das passt grundsätzlich zur hormonellen Behandlung von Zyklusstörungen wie der Amenorrhö.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben aus einer Arzneimitteldatenbank vor. Medroxyprogesteronacetat gehört zu den synthetischen Gestagenen. Diese hemmen die Freisetzung von Hormonen aus der Hirnanhangdrüse, die die Eierstöcke steuern, und wirken der östrogengetriebenen Zellvermehrung im Gewebe entgegen.
 
-Die gefundenen Publikationen betreffen aber vor allem die Verhütung mit Depot-Präparaten. Dort ist das Ausbleiben der Regelblutung eine bekannte Begleiterscheinung und kein untersuchtes Therapieziel. Die Verbindung zur vorhergesagten Erkrankung ist deshalb nur indirekt.
+Die fibrozystische Brusterkrankung entsteht nach der Übersichtsarbeit von Vorherr (1986) durch ein Übergewicht von Östrogen bei zu wenig Progesteron. Dadurch vermehrt sich das Bindegewebe, später auch das Drüsengewebe. Ein Gestagen, das dem Östrogen entgegenwirkt, ist daher biologisch nachvollziehbar. Auch eine Wirkung über Androgenrezeptoren im Brustgewebe wird beschrieben.
 
-Ob diese Anwendung bereits in der Fachinformation steht, lässt sich mit den vorliegenden Daten nicht klären. Das sollte anhand der Produktinformation geprüft werden, bevor von einer Umwidmung gesprochen wird.
+Die Datenlage ist aber nicht einheitlich. Studien zur Hormonersatztherapie bei Frauen nach den Wechseljahren zeigen, dass kombinierte Östrogen-Gestagen-Schemata, auch mit Medroxyprogesteronacetat, die Brustdichte im Mammogramm erhöhen und gutartige Brustveränderungen verschlechtern können. Die Wirkrichtung hängt also vom Kontext ab (Jugendliche und Frauen vor den Wechseljahren gegenüber Hormonersatz nach den Wechseljahren).
 
 ---
 
 ## Literaturbelege
 
-Es gibt keine Studie, die die Behandlung der Amenorrhö mit diesem Wirkstoff direkt untersucht. Die folgenden Arbeiten sind thematisch verwandt und stellen nur indirekte Evidenz dar.
-
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | Systematische Übersicht (Cochrane) | The Cochrane database of systematic reviews | Kombinierte Injektionskontrazeptiva verhüten Schwangerschaften sehr wirksam; Akzeptanz kann durch Blutungsveränderungen eingeschränkt sein. |
-| [18843662](https://pubmed.ncbi.nlm.nih.gov/18843662/) | 2008 | Systematische Übersicht (Cochrane) | The Cochrane database of systematic reviews | Frühere Fassung derselben Übersicht mit gleicher Kernaussage. |
-| [8492647](https://pubmed.ncbi.nlm.nih.gov/8492647/) | 1993 | Übersichtsarbeit | MCN. The American journal of maternal child nursing | Übersicht zu Depo-Provera; kein Abstract verfügbar. |
-| [6141923](https://pubmed.ncbi.nlm.nih.gov/6141923/) | 1984 | Übersichtsarbeit | Drug intelligence & clinical pharmacy | Arzneimittelbedingte Unfruchtbarkeit durch Einfluss auf die Hypothalamus-Hypophysen-Gonaden-Achse oder direkte Keimdrüsentoxizität. |
-| [6119259](https://pubmed.ncbi.nlm.nih.gov/6119259/) | 1981 | Übersichtsarbeit | International journal of gynaecology and obstetrics | Verhütung nach der Geburt; Wahl der Methode hängt unter anderem vom Stillstatus ab. |
-| [5107182](https://pubmed.ncbi.nlm.nih.gov/5107182/) | 1971 | Übersichtsarbeit | Obstetrics and gynecology | Therapeutische Amenorrhö bei Bluterkrankungen; kein Abstract verfügbar. |
-| [12278913](https://pubmed.ncbi.nlm.nih.gov/12278913/) | 1981 | Klinische Auswertung | Contraceptive delivery systems | Klinische Bewertung von Depo-Provera; kein Abstract verfügbar. |
-| [12229496](https://pubmed.ncbi.nlm.nih.gov/12229496/) | 1975 | Übersichtsarbeit | Drug therapy | Übersicht zu injizierbarem Medroxyprogesteron; kein Abstract verfügbar. |
+| [2978834](https://pubmed.ncbi.nlm.nih.gov/2978834/) | 1988 | Klinische Studie | Revista chilena de pediatria | Behandlung mit Medroxyprogesteronacetat bei Jugendlichen mit fibrozystischer Brusterkrankung; kein Abstract verfügbar |
+| [6241963](https://pubmed.ncbi.nlm.nih.gov/6241963/) | 1983 | Klinische Therapiestudie | Revista chilena de obstetricia y ginecologia | Therapieversuch bei schwerer fibrozystischer Brusterkrankung, vermutlich unkontrolliert; kein Abstract verfügbar |
+| [12841885](https://pubmed.ncbi.nlm.nih.gov/12841885/) | 2003 | Klinische Studie | Climacteric | Vergleich von fünf Hormonersatzschemata bei Frauen nach den Wechseljahren mit gutartiger fibrozystischer Mastopathie |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Übersichtsarbeit | American Journal of Obstetrics and Gynecology | Östrogenübergewicht und Progesteronmangel als Ursache; das Brustkrebsrisiko ist zwei- bis vierfach erhöht |
+| [3657597](https://pubmed.ncbi.nlm.nih.gov/3657597/) | 1987 | Übersichtsarbeit | Maturitas | Orale Kontrazeptiva senken die Häufigkeit; bei Hunden können einzelne Gestagene (u. a. Medroxyprogesteronacetat) Veränderungen des Brustgewebes auslösen |
+| [11379380](https://pubmed.ncbi.nlm.nih.gov/11379380/) | 2001 | Kohorten-/Zytologiestudie | Climacteric | Verlauf der Zellvermehrung im Brustgewebe unter Hormonersatztherapie nach den Wechseljahren |
+| [10576236](https://pubmed.ncbi.nlm.nih.gov/10576236/) | 1999 | Kohorten-/Bildgebungsstudie | International Journal of Gynaecology and Obstetrics | Veränderungen von Brustdichte sowie neuen soliden oder zystischen Bildungen unter verschiedenen Hormonersatzschemata |
+| [11379377](https://pubmed.ncbi.nlm.nih.gov/11379377/) | 2001 | Bildgebungsstudie | Climacteric | Einfluss verschiedener Hormonersatzschemata auf die Brustdichte im Mammogramm |
+| [8603031](https://pubmed.ncbi.nlm.nih.gov/8603031/) | 1996 | Präklinisch/mechanistisch | Journal of Steroid Biochemistry and Molecular Biology | Wachstumskontrolle von Brust- und Gebärmutterschleimhautzellen über Androgenrezeptoren |
 
 ---
 
@@ -101,16 +100,18 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ## Fazit und nächste Schritte
 
-**Entscheidung: Abwarten**
+**Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch direkte Literatur, daher gilt Evidenzniveau L5.
+- Der Vorhersagewert ist sehr hoch, und es gibt einzelne klinische Arbeiten zu Medroxyprogesteronacetat bei fibrozystischer Brusterkrankung. Diese sind aber alt, klein, teils ohne Abstract und ohne registrierte Studien. Studien zum Hormonersatz weisen zudem auf mögliche Verschlechterungen hin.
+- Eine Studie, die diese Erkrankung mit dem Wirkstoff direkt und kontrolliert untersucht, liegt nicht vor. Die Evidenz ist daher eher begrenzt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Prüfung der Schweizer Fachinformation, ob diese Anwendung bereits beschrieben ist
-- Ergänzung der fehlenden Angaben zum Wirkmechanismus
-- Auswertung der Warnhinweise und Kontraindikationen aus der Fachinformation
-- Gezielte Suche nach klinischen Studien oder Beobachtungsstudien zur Behandlung der Amenorrhö mit Medroxyprogesteronacetat
+- Auswertung der Volltexte der beiden klinischen Arbeiten (1983, 1988) und der Hormonersatzstudie von 2003
+- Prüfung der Wirkrichtung je nach Patientengruppe (vor bzw. nach den Wechseljahren)
+- Sicherheitsangaben aus der Fachinformation der Swissmedic (Warnhinweise und Kontraindikationen fehlen derzeit)
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Idealerweise eine kontrollierte klinische Studie mit klar definierten Endpunkten
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

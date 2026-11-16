@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 ## Ceftriaxonum: Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Ceftriaxon ist ein Antibiotikum, das in der Schweiz zugelassen ist. Als mögliche neue Indikation wurde das polyklonale Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) vorhergesagt. Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht ausschliesslich auf einem Modellwert (Evidenzniveau L5).
+Ceftriaxon ist ein Antibiotikum aus der Gruppe der Cephalosporine der dritten Generation. Für die Hauptvorhersage, das polyklonale Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome), liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur (Evidenzniveau L5); ein biologischer Zusammenhang ist nicht erkennbar.
 
 ---
 
@@ -59,23 +61,9 @@ Ceftriaxon ist ein Antibiotikum, das in der Schweiz zugelassen ist. Als möglich
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ceftriaxon ist ein Cephalosporin der dritten Generation. Es hemmt die Zellwandsynthese von Bakterien und wirkt dadurch gegen viele Infektionserreger. Zum Wirkmechanismus liegen in den vorliegenden Daten keine weiteren Angaben vor.
+Ceftriaxon hemmt die Zellwandsynthese von Bakterien und wirkt dadurch gegen ein breites Spektrum bakterieller Erreger. Die Daten enthalten dazu keine ergänzenden Angaben zum Wirkmechanismus.
 
-Das polyklonale Hyperviskositätssyndrom entsteht durch einen Überschuss an polyklonalen Immunglobulinen, die das Blut verdicken. Es handelt sich nicht um eine bakterielle Infektion. Ein plausibler Mechanismus, wie ein Antibiotikum diesen Zustand beeinflussen könnte, ist nicht erkennbar.
-
-Der hohe Modellwert ist daher mit Vorsicht zu interpretieren. Es handelt sich sehr wahrscheinlich um ein Artefakt der Vorhersage und nicht um einen echten Hinweis auf eine Wirksamkeit.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Das polyklonale Hyperviskositätssyndrom entsteht durch erhöhte Immunglobuline oder Proteine im Serum. Ein Antibiotikum wirkt darauf nicht. Ein glaubwürdiger mechanistischer Zusammenhang ist daher nicht erkennbar. Der hohe Vorhersagewert beruht sehr wahrscheinlich auf einem Artefakt des Vorhersagemodells und nicht auf einer biologischen Begründung.
 
 ---
 
@@ -100,13 +88,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, und ein biologisch plausibler Wirkmechanismus fehlt. Der hohe Modellwert allein reicht nicht für eine Weiterverfolgung.
+- Für das polyklonale Hyperviskositätssyndrom gibt es keine klinischen Studien und keine Literatur, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert allein genügt nicht, um die Vorhersage weiterzuverfolgen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein nachvollziehbarer Wirkmechanismus, der Ceftriaxon mit der Pathophysiologie des Hyperviskositätssyndroms verbindet
-- Präklinische oder klinische Daten, die die Indikation direkt untersuchen
-- Die Warnhinweise und Kontraindikationen aus der Fachinformation (Swissmedic), da diese Sicherheitsdaten derzeit fehlen
-- Die Angabe des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Ein nachvollziehbarer biologischer Wirkmechanismus, der ein Antibiotikum mit der Erkrankung verbindet
+- Klinische oder präklinische Daten, die Ceftriaxon bei dieser Erkrankung direkt untersuchen
+- Die Warnhinweise und Kontraindikationen aus der Fachinformation der Swissmedic
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 ### Zusammenfassung
 
-Zolmitriptan ist ein Triptan, das in der Schweiz zugelassen ist und im Handel erhältlich ist. Es gibt jedoch keine Studie, die diese Erkrankung direkt untersucht, die Evidenz beschränkt sich auf die Modellvorhersage (L5). Zudem gelten Triptane bei dieser Migräneform historisch als problematisch.
+Zolmitriptan ist ein Arzneimittel aus der Gruppe der Triptane, das in der Schweiz zugelassen ist und im Handel steht. Für die vorhergesagte neue Anwendung bei Atrophoderma vermiculata (atrophoderma vermiculata), einer seltenen follikulären Hauterkrankung der Wangen, liegt ausschliesslich eine Modellvorhersage vor. Es gibt weder klinische Studien noch Literatur dazu, die Evidenz ist daher sehr gering (L5).
 
 ---
 
@@ -61,11 +61,9 @@ Zolmitriptan ist ein Triptan, das in der Schweiz zugelassen ist und im Handel er
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zolmitriptan wirkt als selektiver Agonist an den Serotoninrezeptoren 5-HT1B und 5-HT1D. Über diese Rezeptoren verengt es erweiterte Hirngefässe, hemmt die Freisetzung gefässaktiver Botenstoffe und dämpft die Schmerzweiterleitung im trigeminovaskulären System. Zu diesem Wirkmechanismus liegen in den zusammengestellten Daten keine eigenen Angaben vor. Die Beschreibung stützt sich auf die ausgewertete Literatur.
+Für diese Vorhersage lässt sich anhand der vorliegenden Daten keine mechanistische Begründung belegen. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Allgemein bekannt ist Zolmitriptan als Agonist an 5-HT1B/1D-Rezeptoren; eine etablierte Rolle bei follikulären, atrophisierenden Hauterkrankungen ist damit jedoch nicht verbunden.
 
-Die Migräne mit Hirnstammaura ist eine Unterform der Migräne und teilt wahrscheinlich die serotonergen und trigeminovaskulären Mechanismen. Das erklärt, warum das Modell die Erkrankung nahe am bekannten Wirkprofil des Arzneimittels einordnet. Der hohe Wert spiegelt vermutlich diese Nähe wider und ist kein unabhängiger Wirksamkeitsnachweis.
-
-Es gibt auch ein Gegenargument. Triptane gelten bei Migräne mit Hirnstammaura (früher basiläre Migräne) und bei hemiplegischer Migräne traditionell als problematisch, weil theoretisch die Gefahr von Gefässverengung und Durchblutungsstörungen besteht. Die Plausibilität ist daher nur mechanistisch gegeben. Ein klinischer Nutzen ist nicht belegt, und das Sicherheitsrisiko ist ungeklärt.
+Der hohe Vorhersagewert allein ist kein Beleg für eine Wirksamkeit. Jede mechanistische Erklärung wäre derzeit spekulativ und müsste erst durch gezielte Untersuchungen erarbeitet werden.
 
 ---
 
@@ -77,27 +75,29 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Literaturbelege
 
-Keine der gefundenen Publikationen untersucht die Migräne mit Hirnstammaura direkt. Es handelt sich um allgemeine Migräneliteratur, Übersichten, Leitlinien und Fallberichte.
+Derzeit keine verwandte Literatur verfügbar.
 
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [24867845](https://pubmed.ncbi.nlm.nih.gov/24867845/) | 2014 | RCT (gepoolte Analyse) | Neurological Sciences | Gepoolte Auswertung dreier randomisierter Crossover-Studien zu Frovatriptan im Vergleich mit anderen Triptanen, aufgeteilt nach Geschlecht. Keine Daten zur Hirnstammaura. |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Metaanalyse | The Journal of Headache and Pain | Vergleich von Frovatriptan mit Zolmitriptan und weiteren Triptanen bei Migräne mit Aura. Triptane wirken wahrscheinlich nicht, wenn sie während der Auraphase eingenommen werden. Randomisierte Daten zur Einnahme in der Kopfschmerzphase sind unzureichend. |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Übersichtsarbeit / Leitlinie | Headache | Aktualisierte Bewertung der Evidenz für Medikamente zur Akutbehandlung der Migräne durch die American Headache Society. |
-| [12083998](https://pubmed.ncbi.nlm.nih.gov/12083998/) | 2002 | Übersichtsarbeit | Expert Opinion on Pharmacotherapy | In placebokontrollierten Studien wirkt Zolmitriptan gut. Auch Begleitsymptome wie Übelkeit, Licht- und Lärmempfindlichkeit bessern sich. |
-| [10473025](https://pubmed.ncbi.nlm.nih.gov/10473025/) | 1999 | Übersichtsarbeit | Drugs | Zolmitriptan ist ein selektiver 5-HT1B/1D-Agonist mit raschem Wirkungseintritt und ist Placebo überlegen. |
-| [9399012](https://pubmed.ncbi.nlm.nih.gov/9399012/) | 1997 | Präklinische Pharmakologie | Cephalalgia | Zolmitriptan wirkt zentral und peripher und hemmt in präklinischen Modellen die trigeminovaskuläre Aktivierung. |
-| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Übersichtsarbeit | Frontiers in Neurology | Überblick über Behandlungsoptionen bei vestibulärer Migräne. Spezifische Studien sind selten. |
-| [22298171](https://pubmed.ncbi.nlm.nih.gov/22298171/) | 2012 | Fallbericht | Cardiology Journal | Akuter Herzinfarkt bei einer 45-jährigen Frau unter Zolmitriptan. Das Sicherheitsrisiko betrifft die Gefässwirkung der Triptane. |
-| [32026963](https://pubmed.ncbi.nlm.nih.gov/32026963/) | 2019 | Fallbericht | JA Clinical Reports | Starker Kopfschmerz bei Dissektion der Wirbelarterie. Er ist schwer von anderen Kopfschmerzformen abzugrenzen. |
+---
+
+### Marktinformationen Schweiz
+
+In der Schweiz sind sieben Zulassungen für Zolmitriptan als Einzelwirkstoff gültig.
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 54335 | Zomig 2,5 mg, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura |
+| 61507 | Zolmitriptan Sandoz, Schmelztabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura |
+| 61506 | Zolmitriptan Sandoz, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura |
+| 62789 | Zolmitriptan Spirig HC 2.5, Schmelztabletten | Synthetika | Akutbehandlung von Migräneanfällen mit und ohne Aura |
+| 56003 | Zomig nasal 5 mg, Nasenspray | Synthetika | Akutbehandlung von Migräneanfällen und Cluster-Kopfschmerz |
+| 62790 | Zolmitriptan Spirig HC 2.5, Tabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura |
+| 55264 | Zomig oro, Schmelztabletten | Synthetika | Akutbehandlung von Migräneanfällen mit und ohne Aura |
 
 ---
 
 ### Sicherheitshinweise
 
-Für Warnhinweise, Kontraindikationen und Wechselwirkungen liegen in den zusammengestellten Daten keine Angaben vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-Aus der Literatur ergibt sich ein Sicherheitssignal, das bei Migräne mit Hirnstammaura besonders zählt. Triptane können gefässverengend wirken und im Einzelfall Durchblutungsstörungen auslösen, etwa einen Herzinfarkt unter Zolmitriptan. Für Migräne mit Hirnstammaura ist dieses Risiko wegen der betroffenen Hirnstammdurchblutung besonders sorgfältig abzuwägen.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -106,14 +106,13 @@ Aus der Literatur ergibt sich ein Sicherheitssignal, das bei Migräne mit Hirnst
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine klinische Studie und keine Publikation, die Zolmitriptan bei Migräne mit Hirnstammaura direkt untersucht (Evidenzniveau L5).
-- Triptane gelten bei dieser Migräneform historisch als problematisch (Gefässverengung, Durchblutungsstörungen), und die Sicherheitsdaten sind in den vorliegenden Daten unvollständig.
+- Die Vorhersage stützt sich allein auf einen Modellwert, ohne Studien, Literatur oder einen nachvollziehbaren Wirkmechanismus. Zudem fehlen Sicherheitsdaten aus der Fachinformation.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), insbesondere zu Hirnstamm- und hemiplegischer Migräne.
-- Gezielte Literaturrecherche zu Triptanen bei Migräne mit Hirnstammaura (Wirksamkeit und Sicherheit, auch Fallserien).
-- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank).
-- Klinische und neurologische Risikobewertung, bevor eine Studie oder eine Anwendung in Betracht gezogen wird.
+- Auswertung der Schweizer Fachinformation (Warnhinweise und Kontraindikationen)
+- Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+- Eine begründete biologische Hypothese, die Triptan-Wirkung und Atrophoderma vermiculata verbindet
+- Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -9,7 +9,7 @@ drugbank_id: DB00169
 monitor_inn: "Cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
 last_modified_at: 2026-11-16
-description: "Cholecalciferolum: vorhergesagte neue Indikation Acromesomelic dysplasia, Campailla Martinelli type (Evidenzstufe L5). Ursprüngliche Indikation: Vitamin D-Präparat"
+description: "Cholecalciferolum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (Evidenzstufe L5)."
 ---
 
 # Cholecalciferolum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **4**
 
 </div>
 
-## Cholecalciferolum: Acromesomelic dysplasia, Campailla Martinelli type
+## Cholecalciferolum: Akromesomele Dysplasie Typ Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Cholecalciferol (Vitamin D3) ist in der Schweiz als Vitamin-D-Präparat im Handel. Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
+Cholecalciferol (Vitamin D3) ist in der Schweiz als Vitamin-D-Präparat im Handel. Für die Akromesomele Dysplasie Typ Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type), eine seltene genetische Skelkelterkrankung, wurde ein hoher TxGNN-Vorhersagewert berechnet. Es liegen weder klinische Studien noch Publikationen vor, die diese Krankheit direkt untersuchen. Die Vorhersage beruht daher allein auf einem Rechenmodell (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +50,7 @@ Cholecalciferol (Vitamin D3) ist in der Schweiz als Vitamin-D-Präparat im Hande
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Vitamin D-Präparat; Initialbehandlung eines symptomatischen Vitamin-D-Mangelzustands bei Erwachsenen.; Prévention d’une carence en vitamine D chez les adultes présentant un risque identifiable de carence en vitamine D en cas de malabsorption. Prévention d’une carence en vitamine D chez les adultes d |
-| Vorhergesagte neue Indikation | Acromesomelic dysplasia, Campailla Martinelli type |
+| Vorhergesagte neue Indikation | Akromesomele Dysplasie Typ Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
 | TxGNN-Vorhersagewert | 0.9978 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
@@ -59,11 +61,9 @@ Cholecalciferol (Vitamin D3) ist in der Schweiz als Vitamin-D-Präparat im Hande
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Cholecalciferol liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Vitamin D3 im Körper schrittweise in die aktive Form umgewandelt wird und die Aufnahme von Calcium und Phosphat reguliert.
+Zum Wirkmechanismus von Cholecalciferol liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Vitamin D3 im Körper zu Calcitriol umgewandelt wird. Dieses Hormon steuert die Aufnahme von Calcium und Phosphat und damit die Knochenmineralisierung.
 
-Bei Hypoparathyreoidismus fehlt Parathormon (PTH), und es kommt zu einem niedrigen Calciumspiegel. Vitamin D (oder aktive Abkömmlinge) wird hier üblicherweise ergänzend zu Calcium eingesetzt. Dieser Zusammenhang ist plausibel.
-
-Es gibt jedoch eine wichtige Einschränkung: Die Aktivierung von Cholecalciferol in der Niere hängt von PTH ab. Bei PTH-Mangel wird es daher nur schlecht aktiviert, weshalb meist bereits aktivierte Formen wie Calcitriol oder Alfacalcidol verwendet werden. Der hohe Vorhersagewert ist eine rein rechnerische Aussage und durch keine Daten gestützt.
+Das Rechenmodell hat die Verbindung vermutlich über den Bezug zum Skelett hergestellt. Ein belegter Zusammenhang mit der Krankheitsentstehung besteht nicht. Die Akromesomele Dysplasie ist eine seltene, genetisch bedingte Störung des Skelettwachstums. Es ist unwahrscheinlich, dass eine Vitamin-D3-Gabe ihre Ursache beeinflusst. Der hohe Vorhersagewert zeigt nur, dass das Modell eine Ähnlichkeit in den Daten erkannt hat. Er ist kein Hinweis auf eine tatsächliche Wirksamkeit.
 
 ---
 
@@ -79,20 +79,9 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
-### Marktinformationen Schweiz
+### Sicherheitshinweise
 
-Es sind mindestens 8 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
-
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 33481 | Vitamin D3 Streuli Prophylax, Lösung zum Einnehmen | Synthetika | Vitamin-D-Präparat |
-| 66124 | Luvit D3 zur Prophylaxe, Lösung zum Einnehmen | Synthetika | Vitamin-D-Präparat |
-| 66441 | HEMONITA D3 zur Prophylaxe, Lösung zum Einnehmen | Synthetika | Vitamin-D-Präparat |
-| 65856 | DIBASE 10'000, orale Tropflösung | Synthetika | Vitamin-D-Präparat |
-| 67937 | Vitamin D3 Streuli 20'000 I.E. Weichkapseln | Synthetika | Initialbehandlung eines symptomatischen Vitamin-D-Mangelzustands bei Erwachsenen |
-| 67173 | Viferol D3 25'000 UI/ml, Lösung zum Einnehmen | Synthetika | Vorbeugung eines Vitamin-D-Mangels bei Erwachsenen mit Malabsorption und bei Erwachsenen über 60 Jahren; Behandlung des Vitamin-D-Mangels bei Erwachsenen und Jugendlichen ab 12 Jahren |
-| 68197 | D3 VitaCaps 24,000 IU (600 μg), Weichkapseln | Synthetika | Vitamin-D-Mangel |
-| 67796 | Lundeos, Weichkapseln | Synthetika | Behandlung des Vitamin-D-Mangels bei Erwachsenen und Jugendlichen ab 12 Jahren; Vorbeugung eines Vitamin-D-Mangels bei Erwachsenen bis 60 Jahre und Jugendlichen ab 12 Jahren |
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -101,12 +90,13 @@ Es sind mindestens 8 Zulassungen erfasst; die Liste kann unvollständig sein. Al
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die Vorhersage gibt es weder Studien noch Literatur. Zudem wird natives Cholecalciferol bei PTH-Mangel schlecht aktiviert, sodass aktive Vitamin-D-Formen die sinnvollere Wahl sind.
+- Die Vorhersage stützt sich ausschliesslich auf ein Rechenmodell (L5). Es gibt weder Studien noch Publikationen zur Krankheit, und ein plausibler biologischer Zusammenhang ist nicht erkennbar.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Die Fachinformation (Warnhinweise und Kontraindikationen) von Swissmedic, da die Sicherheitsdaten fehlen.
-- Angaben zum Wirkmechanismus aus einer pharmakologischen Datenbank.
-- Klinische Daten oder Literatur, die Cholecalciferol bei dieser Erkrankung direkt untersuchen, auch im Vergleich mit aktiven Vitamin-D-Formen.
+- Präklinische oder klinische Daten, die einen Nutzen von Cholecalciferol bei dieser Erkrankung direkt untersuchen.
+- Eine nachvollziehbare mechanistische Begründung, wie Vitamin D3 die Krankheitsursache beeinflussen könnte.
+- Die Wirkmechanismus-Angaben zum Arzneimittel.
+- Die Sicherheitsangaben (Warnhinweise und Kontraindikationen) aus der Swissmedic-Fachinformation, die für eine Sicherheitsbewertung noch fehlen.
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

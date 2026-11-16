@@ -37,9 +37,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 ## Levofloxacinum: Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
+---
+
 ### Zusammenfassung
 
-Levofloxacin ist ein Antibiotikum aus der Gruppe der Fluorchinolone und in der Schweiz mit mehreren Präparaten im Handel. Die Vorhersage nennt als mögliche neue Anwendung die punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis). Die Evidenz dafür ist sehr schwach: Es liegt nur ein Ausbruchsbericht zu einer mikrosporidialen Keratokonjunktivitis vor, der die Substanz nicht direkt untersucht.
+Levofloxacin ist ein Antibiotikum aus der Gruppe der Fluorchinolone und wird in der Schweiz bei Infektionskrankheiten eingesetzt. Die Modellvorhersage nennt als neue Indikation die punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis). Dafür liegt keine direkte Evidenz vor: Der einzige verknüpfte Artikel ist ein Ausbruchsbericht zu einer mikrosporidialen Keratokonjunktivitis, daher gilt Evidenzniveau L5.
 
 ---
 
@@ -59,15 +61,17 @@ Levofloxacin ist ein Antibiotikum aus der Gruppe der Fluorchinolone und in der S
 
 ### Warum ist diese Vorhersage plausibel?
 
-Levofloxacin hemmt die bakterielle DNA-Gyrase und die Topoisomerase IV und wirkt damit gegen ein breites Spektrum von Bakterien. Die Daten zum Wirkmechanismus sind in den für diesen Bericht zusammengestellten Daten nicht hinterlegt; die Angabe beruht auf allgemeinem Fachwissen zur Substanzklasse.
+Zum Wirkmechanismus von Levofloxacin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Fluorchinolone wirken allgemein antibakteriell. Eine Wirkung gegen die Hornhaut- und Bindehauterkrankung selbst lässt sich daraus nicht ableiten.
 
-Ein Zusammenhang mit Augenoberflächenerkrankungen ist denkbar, etwa wenn bakterielle Zweitinfektionen vorbeugend oder begleitend behandelt werden. Der einzige verknüpfte Artikel beschreibt jedoch einen Ausbruch einer Keratokonjunktivitis durch Mikrosporidien, die auf Fluorchinolone üblicherweise nicht ansprechen. Der Zusammenhang ist daher indirekt. Der sehr hohe Vorhersagewert wird durch klinische Daten nicht gestützt.
+Der einzige verknüpfte Artikel beschreibt einen Ausbruch einer mikrosporidialen Keratokonjunktivitis in Zusammenhang mit verunreinigtem Wasser in Schwimmbädern in Taiwan. Mikrosporidien sind gegenüber Levofloxacin nicht zuverlässig empfindlich. Ein antibakterieller Mechanismus erklärt die Vorhersage daher nicht. Levofloxacin kann am Auge allenfalls zur Vorbeugung bakterieller Begleitinfektionen eingesetzt werden. Das ist kein Beleg für eine krankheitsgerichtete Wirkung.
+
+Der hohe Vorhersagewert wird durch klinische Daten nicht gestützt. Die Vorhersage ist als Hypothese zu betrachten.
 
 ---
 
 ### Klinische Studien
 
-Derzeit keine verwandten klinischen Studien registriert
+Derzeit keine verwandten klinischen Studien registriert.
 
 ---
 
@@ -75,13 +79,13 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Ausbruchsbericht | American Journal of Ophthalmology | Beschreibt einen Ausbruch einer mikrosporidialen Keratokonjunktivitis, ausgelöst durch verunreinigtes Wasser in Schwimmbädern in Taiwan. Levofloxacin wird nicht als Behandlung untersucht. |
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Ausbruchsbericht (Fallserie) | American Journal of Ophthalmology | Bericht über einen Ausbruch mikrosporidialer Keratokonjunktivitis durch Wasserverunreinigung in Schwimmbädern in Taiwan. Keine Daten zur Wirksamkeit von Levofloxacin. |
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste enthält mindestens 4 Zulassungen und kann unvollständig sein.
+Es sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -103,13 +107,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die vorhergesagte Erkrankung gibt es keine Studie, die Levofloxacin direkt untersucht; der einzige Artikel betrifft einen Ausbruch durch Mikrosporidien. Damit bleibt nur die Modellvorhersage (Evidenzniveau L5).
+- Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, die Levofloxacin direkt bei dieser Erkrankung untersuchen. Ein plausibler Wirkmechanismus fehlt, und der hohe Vorhersagewert wird durch keine klinischen Daten gestützt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Klinische oder präklinische Daten, die Levofloxacin direkt bei punktförmiger epithelialer Keratokonjunktivitis untersuchen
-- Prüfung, ob eine Augenformulierung verfügbar ist, da die in der Schweiz erfassten Präparate Infusionslösungen und Filmtabletten sind
-- Sicherheitsangaben aus den Schweizer Fachinformationen (Warnungen, Kontraindikationen)
-- Daten zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Warnhinweise und Kontraindikationen aus den Fachinformationen von Swissmedic
+- Prüfung, ob eine augenärztliche Darreichungsform verfügbar ist, da die in der Schweiz erfassten Produkte als Infusionslösung und Filmtabletten vorliegen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

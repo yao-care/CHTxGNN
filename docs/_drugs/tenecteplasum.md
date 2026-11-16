@@ -9,7 +9,7 @@ drugbank_id: DB00031
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 last_modified_at: 2026-11-16
-description: "Tenecteplasum: vorhergesagte neue Indikation Congenital coronary artery anomaly (Evidenzstufe L5). Ursprüngliche Indikation: Thrombolytische Therapie bei akutem ischämischem Schlaganfall"
+description: "Tenecteplasum: vorhergesagte neue Indikation Angeborene Koronararterienanomalie (congenital coronary artery anomaly) (Evidenzstufe L5)."
 ---
 
 # Tenecteplasum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Tenecteplasum: Congenital coronary artery anomaly
+## Tenecteplasum: Angeborene Koronararterienanomalie (congenital coronary artery anomaly)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Tenecteplase ist ein fibrinspezifischer Gewebeplasminogenaktivator, der Blutgerinnsel auflöst. Dafür liegen weder klinische Studien noch Publikationen vor, die diese Erkrankung direkt untersuchen. Die Vorhersage stützt sich daher nur auf das Modell und auf indirekte Überlegungen zum Mechanismus.
+Tenecteplase ist ein gentechnisch hergestellter, fibrinspezifischer Plasminogenaktivator, der in der Schweiz als Thrombolytikum im Handel ist. Für die angeborene Koronararterienanomalie (congenital coronary artery anomaly) liegt ein hoher Vorhersagewert vor, doch es gibt dafür weder klinische Studien noch Literatur. Die Evidenz beruht allein auf der Modellvorhersage (L5), und ein plausibler Wirkzusammenhang ist nicht erkennbar.
 
 ---
 
@@ -50,7 +48,7 @@ Tenecteplase ist ein fibrinspezifischer Gewebeplasminogenaktivator, der Blutgeri
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Thrombolytische Therapie bei akutem ischämischem Schlaganfall; Thrombolytische Therapie bei akutem Herzinfarkt |
-| Vorhergesagte neue Indikation | Congenital coronary artery anomaly |
+| Vorhergesagte neue Indikation | Angeborene Koronararterienanomalie (congenital coronary artery anomaly) |
 | TxGNN-Vorhersagewert | 0.9961 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,11 +59,11 @@ Tenecteplase ist ein fibrinspezifischer Gewebeplasminogenaktivator, der Blutgeri
 
 ### Warum ist diese Vorhersage plausibel?
 
-Tenecteplase aktiviert Plasminogen gezielt an Fibrin und löst dadurch frische Blutgerinnsel auf. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine näheren Angaben vor. Die Beschreibung stützt sich deshalb auf die allgemein bekannte Wirkweise dieser Substanzklasse.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Tenecteplase eine fibrinspezifische Variante des Gewebe-Plasminogenaktivators ist: Es wandelt Plasminogen in Plasmin um und löst so Fibrinblutgerinnsel auf.
 
-Ein posteroinferiorer Infarkt entsteht, wenn ein Gerinnsel ein Herzkranzgefäss im hinteren und unteren Bereich des Herzens verschliesst. Er gehört zum Spektrum der Herzinfarkte mit ST-Streckenhebung, bei denen eine Thrombolyse eingesetzt wird. Das Auflösen des Gerinnsels kann den Blutfluss im betroffenen Gefäss wiederherstellen. Der hohe Vorhersagewert spiegelt diese enge biologische Verwandtschaft wider.
+Dieser Mechanismus wirkt auf Blutgerinnsel, nicht auf die zugrunde liegende strukturelle Fehlbildung der Herzkranzgefässe. Ein Zusammenhang bestünde allenfalls indirekt, wenn sich bei einer solchen Anomalie ein Gerinnsel bildet. Die vorliegenden Daten stützen diese Überlegung nicht.
 
-Die Vorhersage betrifft vermutlich eher einen Untertyp eines bereits bekannten Krankheitsbildes als eine echte Umwidmung. Studien, die gezielt diesen Untertyp untersuchen, fehlen bislang.
+Die Vorhersage ist daher mechanistisch kaum nachvollziehbar und sollte als reine Modellvorhersage verstanden werden.
 
 ---
 
@@ -81,6 +79,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 69958 | Metalyse 5'000 U, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Thrombolytische Therapie bei akutem ischämischem Schlaganfall |
+| 55418 | Metalyse 10'000 U, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Thrombolytische Therapie bei akutem Herzinfarkt |
+
+---
+
 ### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
@@ -92,14 +99,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Mechanismus ist plausibel, doch es gibt keine direkte Evidenz für diesen Infarkttyp, sodass nur L5 erreicht wird.
-- Der Vorhersagewert allein genügt nicht für eine Weiterverfolgung. Auch die Sicherheitsangaben aus der Fachinformation sind noch nicht ausgewertet.
+- Es gibt weder klinische Studien noch Publikationen zu dieser Erkrankung, und der Wirkmechanismus von Tenecteplase erklärt keinen Nutzen bei einer strukturellen, angeborenen Fehlbildung. Der hohe Vorhersagewert allein genügt nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Studien oder Auswertungen, die den posteroinferioren Infarkt gezielt untersuchen, zum Beispiel Subgruppenanalysen grosser Infarktstudien
-- Die Warnhinweise und Gegenanzeigen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
-- Eine klare Abgrenzung, ob es sich um eine echte Umwidmung oder nur um einen Untertyp der bestehenden Anwendung handelt
+- Belege aus Studien oder Fallserien, die einen Nutzen bei dieser Erkrankung direkt untersuchen
+- Eine nachvollziehbare mechanistische Begründung, die über Gerinnselbildung als Komplikation hinausgeht
+- Warn- und Kontraindikationshinweise aus der Swissmedic-Fachinformation, die für die Sicherheitsbewertung noch fehlen
+- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

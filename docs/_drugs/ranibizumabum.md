@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ranibizumabum
-parent: Hohe Evidenz (L1-L2)
+parent: Nur Modellvorhersage (L5)
 nav_order: 505
-evidence_level: L1
+evidence_level: L5
 indication_count: 9
 drugbank_id: DB01270
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
 last_modified_at: 2026-11-16
-description: "Ranibizumabum: vorhergesagte neue Indikation Mature cataract (Evidenzstufe L1). Ursprüngliche Indikation: exsudative altersbezogene Makuladegeneration…"
+description: "Ranibizumabum: vorhergesagte neue Indikation Reifer Katarakt (mature cataract) (Evidenzstufe L5). Ursprüngliche Indikation: exsudative altersbezogene Makuladegeneration…"
 ---
 
 # Ranibizumabum
 {: .fs-9 }
 
-Evidenzniveau: **L1** | Vorhergesagte Indikationen: **9** 
+Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,12 +34,12 @@ Evidenzniveau: **L1** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Ranibizumabum: Mature cataract
+## Ranibizumabum: Reifer Katarakt (mature cataract)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Ranibizumab ist ein gegen den Gefässwachstumsfaktor VEGF-A gerichtetes Antikörperfragment, das in der Schweiz in mehreren Präparaten im Handel ist. Es könnte voraussichtlich bei der schweren nicht-proliferativen diabetischen Retinopathie (severe nonproliferative diabetic retinopathy) wirksam sein. Die Vorhersage stützt sich auf Literatur, darunter randomisierte Studien und Auswertungen daraus, jedoch auf keine in den Daten hinterlegte klinische Studie.
+Ranibizumab ist ein Arzneimittel, das in der Schweiz bei verschiedenen Netzhauterkrankungen des Auges eingesetzt wird. Die Vorhersage nennt als neue Indikation den reifen Katarakt (mature cataract). Diese Vorhersage stützt sich nur auf ein Rechenmodell: Die vorhandene Literatur untersucht keine Behandlung des Katarakts selbst, daher gilt das Evidenzniveau L5.
 
 ---
 
@@ -48,22 +48,22 @@ Ranibizumab ist ein gegen den Gefässwachstumsfaktor VEGF-A gerichtetes Antikör
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem infolge eines retinalen Venenverschlusses und durch choroidale Neovaskularisation infolge pathologischer Myopie, aktive, den Visus beeinträchtigende choroidale Neovaskularisation, mässig schwere |
-| Vorhergesagte neue Indikation | Mature cataract |
+| Vorhergesagte neue Indikation | Reifer Katarakt (mature cataract) |
 | TxGNN-Vorhersagewert | 0.9999 |
-| Evidenzniveau | L1 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
 | Anzahl Zulassungen | 6 (gültig: 6) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ranibizumab neutralisiert VEGF-A. Die Daten zum Wirkmechanismus aus der Arzneimitteldatenbank fehlen, doch die Wirkweise als VEGF-A-hemmendes Antikörperfragment ist in den zusammengestellten Daten beschrieben.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Ranibizumab gehört bekanntlich zu den Hemmstoffen des Gefässwachstumsfaktors VEGF (Anti-VEGF). Diese Einordnung stammt aus allgemeinem Fachwissen und nicht aus den Daten dieses Berichts.
 
-Bei der diabetischen Retinopathie sind die VEGF-Spiegel im Serum und im Glaskörper erhöht (PMID 36580154). VEGF fördert Gefässlecks und die Bildung neuer Netzhautgefässe. Eine Hemmung von VEGF ist daher ein nachvollziehbarer Ansatz, um das Fortschreiten der Erkrankung zu bremsen.
+Ein plausibler therapeutischer Zusammenhang mit dem reifen Katarakt (einer Trübung der Augenlinse) ist nicht erkennbar. Die Linsentrübung ist kein VEGF-getriebener Prozess. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe verschiedener Augenerkrankungen im Modell wider und keine therapeutische Beziehung.
 
-Die Literatur enthält RCT-Evidenz: Nachanalysen der Studien RIDE/RISE zeigen eine Rückbildung des Schweregrads der Retinopathie. Die Pavilion-Studie untersuchte das Ranibizumab-Port-Delivery-System bei nicht-proliferativer Retinopathie ohne Makulaödem.
+Die gefundene Studie beschreibt Ranibizumab als Ergänzung zur Kataraktoperation, um eine gleichzeitig bestehende Netzhauterkrankung (diabetisches Makulaödem) zu behandeln. Die Katarakt selbst wird dadurch nicht behandelt.
 
 ---
 
@@ -77,16 +77,8 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [40048178](https://pubmed.ncbi.nlm.nih.gov/40048178/) | 2025 | RCT | JAMA Ophthalmology | Pavilion: Port-Delivery-System mit Ranibizumab gegenüber Beobachtung bei nicht-proliferativer diabetischer Retinopathie ohne Makulaödem; Ziel ist weniger häufige Behandlung. |
-| [39673354](https://pubmed.ncbi.nlm.nih.gov/39673354/) | 2025 | Systematische Übersicht/Meta-Analyse | Health Technology Assessment | Vergleich von Anti-VEGF-Mitteln mit Laserkoagulation bei diabetischer Retinopathie. |
-| [42219053](https://pubmed.ncbi.nlm.nih.gov/42219053/) | 2026 | Systematische Übersicht/Meta-Analyse | European Journal of Pharmacology | Ranibizumab-Port-Delivery bei diabetischer Retinopathie und diabetischem Makulaödem: Krankheitsmodifikation und Behandlungsdauer. |
-| [36774994](https://pubmed.ncbi.nlm.nih.gov/36774994/) | 2023 | Meta-Analyse (RCT-Nachanalyse RIDE/RISE) | Ophthalmology Retina | Einfluss des Ausgangsschweregrads der Retinopathie auf die Zeit bis zur Rückbildung des Makulaödems unter Ranibizumab. |
-| [32606578](https://pubmed.ncbi.nlm.nih.gov/32606578/) | 2020 | RCT-Nachanalyse (RIDE/RISE) | Clinical Ophthalmology | Prädiktoren für eine frühe Rückbildung der diabetischen Retinopathie unter Ranibizumab. |
-| [37278412](https://pubmed.ncbi.nlm.nih.gov/37278412/) | 2023 | Simulationsstudie | BMJ Open Ophthalmology | Simulation: vorausschauende Anti-VEGF-Behandlung der schweren nicht-proliferativen Retinopathie gegenüber Abwarten bis zur proliferativen Form. |
-| [33966556](https://pubmed.ncbi.nlm.nih.gov/33966556/) | 2021 | Übersichtsarbeit | Expert Opinion on Biological Therapy | Übersicht zu Ranibizumab bei diabetischer Retinopathie. |
-| [31669065](https://pubmed.ncbi.nlm.nih.gov/31669065/) | 2019 | Übersichtsarbeit | Journal of Diabetes and its Complications | Fortschritte in der Behandlung der diabetischen Retinopathie; VEGF-A als Schlüsselfaktor. |
-| [36580154](https://pubmed.ncbi.nlm.nih.gov/36580154/) | 2023 | Beobachtungsstudie | International Ophthalmology | Serum- und Glaskörper-VEGF bei diabetischer Retinopathie; Vergleich der Glaskörperspiegel nach Bevacizumab, Ranibizumab und Triamcinolon. |
-| [30973596](https://pubmed.ncbi.nlm.nih.gov/30973596/) | 2019 | Nicht klassifiziert | JAMA Ophthalmology | Netzhaut-Nichtperfusion bei schwerer nicht-proliferativer und proliferativer diabetischer Retinopathie. |
+| [40790176](https://pubmed.ncbi.nlm.nih.gov/40790176/) | 2025 | Kohortenstudie | BMC Ophthalmology | Vergleich von Kataraktoperation mit und ohne Ranibizumab-Injektion in Augen mit diabetischem Makulaödem und durch Katarakt verdecktem Augenhintergrund (39 Augen). Untersucht wurde das Netzhautödem, nicht die Behandlung der Katarakt. |
+| [30606142](https://pubmed.ncbi.nlm.nih.gov/30606142/) | 2019 | Fallbericht | BMC Ophthalmology | Schnelles Fortschreiten einer Katarakt nach einem Dexamethason-Implantat (nicht Ranibizumab) bei Makulaödem. |
 
 ---
 
@@ -94,28 +86,33 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Feuchte altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss und choroidale Neovaskularisation bei pathologischer Myopie, aktive choroidale Neovaskularisation, mässig schwere bis schwere NPDR bzw. PDR |
-| 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | Wie oben; zusätzlich Frühgeborenen-Retinopathie (Zone I, Zone II, AP-RPM) |
-| 68690 | Byooviz 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation (auch bei pathologischer Myopie), Frühgeborenen-Retinopathie |
-| 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, mässig schwere bis schwere NPDR bzw. PDR, Frühgeborenen-Retinopathie |
-| 57664 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Durchstechflasche | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, mässig schwere bis schwere NPDR bzw. PDR, Frühgeborenen-Retinopathie |
-| 63277 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Fertigspritze | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, mässig schwere bis schwere NPDR bzw. PDR |
+| 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Feuchte altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation (u. a. bei pathologischer Myopie), mässig schwere bis schwere NPDR bzw. PDR |
+| 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | Wie oben; zusätzlich Frühgeborenen-Retinopathie |
+| 68690 | Byooviz 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, Frühgeborenen-Retinopathie |
+| 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, NPDR bzw. PDR, Frühgeborenen-Retinopathie |
+| 57664 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Durchstechflasche | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, NPDR bzw. PDR, Frühgeborenen-Retinopathie |
+| 63277 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Fertigspritze | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, NPDR bzw. PDR |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Literatur enthält randomisierte Evidenz (RIDE/RISE-Nachanalysen, Pavilion-Studie) zur diabetischen Retinopathie. Mehrere Titel sind jedoch gekürzt, und es wurden nur 10 von 19 Treffern bereitgestellt; zudem liegt keine registrierte klinische Studie in den Daten vor.
-- Der Nutzen bei Retinopathie ohne Makulaödem könnte nur für das Port-Delivery-System gelten und ausserhalb der Zulassung liegen.
+- Es gibt keine Studie, die Ranibizumab zur Behandlung des reifen Katarakts untersucht, und keinen plausiblen Wirkmechanismus. Der hohe Vorhersagewert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Prüfung der Volltexte zu Studienphase und Endpunkten
-- Klärung des Zulassungsumfangs (Retinopathie mit und ohne Makulaödem)
-- Fachinformation von Swissmedic zu Warnhinweisen und Kontraindikationen (derzeit nicht verfügbar); zu beachten sind Endophthalmitis, Augeninnendruckanstieg und mögliche systemische Effekte der VEGF-Hemmung
-- Sicherstellung der langfristigen Nachsorge, da der Nutzen von einer fortgesetzten Dosierung abhängt
+- Eine mechanistische Begründung, warum eine VEGF-Hemmung die Linsentrübung beeinflussen sollte
+- Klinische oder präklinische Studien, die den Effekt auf die Katarakt selbst untersuchen
+- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

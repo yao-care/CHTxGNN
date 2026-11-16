@@ -9,7 +9,7 @@ drugbank_id: DB00290
 monitor_inn: "Bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
 last_modified_at: 2026-11-16
-description: "Bleomycinum: vorhergesagte neue Indikation Neoplasie der Cauda equina (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
+description: "Bleomycinum: vorhergesagte neue Indikation Neoplasma der Cauda equina (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
 # Bleomycinum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 
 </div>
 
-## Bleomycinum: Neoplasie der Cauda equina (cauda equina neoplasm)
+## Bleomycinum: Neoplasma der Cauda equina (cauda equina neoplasm)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Bleomycin ist ein Zytostatikum, das in der Schweiz im Handel ist. Für die Cauda-equina-Neoplasie (cauda equina neoplasm) sagt das Modell einen möglichen Nutzen voraus. Die Evidenz dafür ist sehr dünn: Es gibt keine klinischen Studien und keine Publikation, die diese Erkrankung direkt untersucht. Die Vorhersage stützt sich daher im Wesentlichen auf die Modellberechnung (Evidenzniveau L5).
+Bleomycin ist in der Schweiz als Zytostatikum im Handel. Für das Neoplasma der Cauda equina (cauda equina neoplasm) liegt ein hoher TxGNN-Vorhersagewert vor. Die Evidenz ist sehr dünn: Es gibt keine registrierten klinischen Studien und nur eine indirekt verwandte Publikation zu ZNS-Keimzelltumoren. Das Evidenzniveau ist daher L5.
 
 ---
 
@@ -50,7 +50,7 @@ Bleomycin ist ein Zytostatikum, das in der Schweiz im Handel ist. Für die Cauda
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Zytostatikum |
-| Vorhergesagte neue Indikation | Neoplasie der Cauda equina (cauda equina neoplasm) |
+| Vorhergesagte neue Indikation | Neoplasma der Cauda equina (cauda equina neoplasm) |
 | TxGNN-Vorhersagewert | 0.9930 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,11 +61,11 @@ Bleomycin ist ein Zytostatikum, das in der Schweiz im Handel ist. Für die Cauda
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Bleomycin liegen in den zusammengestellten Daten keine Angaben vor. Eine mechanistische Begründung lässt sich daher nur eingeschränkt ableiten.
+Für die Datenzusammenstellung liegen keine Angaben zum Wirkmechanismus vor. Bleomycin ist allgemein als Zytostatikum bekannt, das DNA-Strangbrüche verursacht. Es wird in Kombinationsschemata gegen Keimzelltumoren eingesetzt, etwa im BEP-Schema (Bleomycin, Etoposid, Cisplatin).
 
-Die einzige verknüpfte Publikation betrifft die Strahlentherapie bei rezidiviertem Keimzelltumor (Germinom) des Zentralnervensystems nach Chemotherapie. Diese Chemotherapie enthielt Bleomycin. Das ist ein indirekter Bezug: Keimzelltumoren gelten als bleomycinsensibel. Daraus folgt aber nicht, dass Bleomycin bei Tumoren der Cauda equina allgemein wirkt. Studien oder Fallberichte zu dieser Erkrankung selbst fehlen.
+Ein möglicher Zusammenhang besteht darüber, dass ZNS-Keimzelltumoren auch in der Spinalachse entstehen können. Die einzige verknüpfte Publikation behandelt die Strahlentherapie bei rezidivierten ZNS-Germinomen nach einer Chemotherapie, die Bleomycin enthielt. Sie betrifft aber weder Tumoren der Cauda equina noch zeigt sie eine Wirkung von Bleomycin allein.
 
-Der hohe Vorhersagewert ist deshalb ein Hinweis für weitere Abklärungen, aber noch keine belastbare Grundlage für eine klinische Anwendung.
+Die Plausibilität ist deshalb indirekt. Die begrenzte Penetration von Bleomycin ins Zentralnervensystem spricht zusätzlich gegen eine Wirksamkeit. Der hohe Vorhersagewert ist eine rein rechnerische Einschätzung und kein Wirksamkeitsnachweis.
 
 ---
 
@@ -79,7 +79,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [9440744](https://pubmed.ncbi.nlm.nih.gov/9440744/) | 1998 | Kohortenstudie | Journal of Clinical Oncology | Retrospektive Auswertung der Strahlentherapie bei Patienten mit ZNS-Germinom, die nach einer Primärchemotherapie (Carboplatin, Etoposid, Bleomycin) einen Rückfall erlitten. Die Arbeit betrifft nicht direkt Tumoren der Cauda equina. |
+| [9440744](https://pubmed.ncbi.nlm.nih.gov/9440744/) | 1998 | Kohortenstudie (retrospektiv) | Journal of Clinical Oncology | Auswertung, ob eine Strahlentherapie Patienten mit ZNS-Germinom retten kann, die nach einer primären Chemotherapie (Carboplatin, Etoposid, Bleomycin) einen Rückfall erlitten. Es geht nicht um Tumoren der Cauda equina und nicht um die Wirkung von Bleomycin allein. |
 
 ---
 
@@ -90,16 +90,16 @@ Derzeit keine verwandten klinischen Studien registriert.
 | Zytotoxizitätsklassifikation | Konventionell zytotoxisch |
 | Myelosuppressionsrisiko | Niedrig |
 | Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Lungenfunktion, Blutbild, Leber- und Nierenfunktion |
+| Überwachungspunkte | Lungenfunktion (Lungentoxizität), Blutbild, Leber- und Nierenfunktion |
 | Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich |
-
-Diese Angaben stammen aus allgemeinem Fachwissen, nicht aus den zusammengestellten Daten. Sie sind anhand der Fachinformation zu prüfen.
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Für die Datenzusammenstellung liegen keine Warnhinweise, Kontraindikationen oder Wechselwirkungsdaten aus der Fachinformation vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+Die verknüpfte Literatur zu anderen Fragestellungen weist auf eine mögliche Lungentoxizität von Bleomycin hin, etwa eine interstitielle Pneumonitis.
 
 ---
 
@@ -108,14 +108,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Keine Studie und keine Publikation untersucht die Cauda-equina-Neoplasie direkt. Die einzige verknüpfte Arbeit betrifft einen anderen Tumortyp (ZNS-Germinom). Das Evidenzniveau bleibt daher bei L5.
-- Zusätzlich fehlen Angaben zum Wirkmechanismus und zu den Sicherheitsinformationen aus der Fachinformation.
+- Es gibt weder klinische Studien noch Publikationen, die Bleomycin direkt bei Tumoren der Cauda equina untersuchen. Die Vorhersage stützt sich allein auf das Rechenmodell.
+- Die schlechte ZNS-Penetration und die Lungentoxizität sprechen gegen eine rasche Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Direkte klinische Daten oder Fallserien zu Tumoren der Cauda equina
-- Angaben zum Wirkmechanismus von Bleomycin
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Eine Einschätzung, ob Bleomycin im Bereich des Rückenmarks und der Cauda equina ausreichend wirksam ist (Gewebegängigkeit)
+- Direkte klinische oder präklinische Daten zu Bleomycin bei Tumoren der Cauda equina oder des Spinalkanals
+- Angaben zum Wirkmechanismus und zur Gewebegängigkeit im ZNS
+- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Eine fachliche Prüfung, ob die Keimzelltumor-Verbindung für diese Indikation tragfähig ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

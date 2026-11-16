@@ -37,11 +37,9 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **5**
 ## Rimegepantum: Atrophoderma vermiculata
 {: .text-alpha }
 
----
-
 ### Zusammenfassung
 
-Rimegepant ist in der Schweiz als Migränemittel zugelassen. Die Evidenz ist jedoch indirekt: Die vorhandene Literatur behandelt Migräne allgemein, keine Studie untersucht gezielt diesen Subtyp. Daher gilt Evidenzniveau L5.
+Rimegepant ist ein Arzneimittel gegen Migräne und in der Schweiz im Handel. Es wird für Atrophoderma vermiculata (atrophoderma vermiculata) als mögliche neue Indikation vorhergesagt, einer seltenen Hauterkrankung mit atrophischer Narbenbildung im Wangenbereich. Diese Vorhersage beruht allein auf einem Modellwert; es liegen weder klinische Studien noch Publikationen vor (Evidenzniveau L5).
 
 ---
 
@@ -61,34 +59,9 @@ Rimegepant ist in der Schweiz als Migränemittel zugelassen. Die Evidenz ist jed
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rimegepant blockiert den Rezeptor des Calcitonin Gene-Related Peptide (CGRP). Dieses Signal spielt bei der Entstehung von Migräneattacken eine zentrale Rolle. Die Angaben zum Wirkmechanismus in den für diesen Bericht zusammengestellten Daten sind lückenhaft; die Einordnung stützt sich auf die Übersichtsarbeiten in der Literatur.
+Ein belastbarer Wirkmechanismus-Zusammenhang ist derzeit nicht erkennbar. Rimegepant blockiert den CGRP-Rezeptor (Calcitonin Gene-Related Peptide). Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
 
-Die Migräne mit Hirnstammaura ist ein Subtyp der Migräne. Da derselbe CGRP-Signalweg beteiligt ist, ist ein Nutzen biologisch denkbar. Die Vorhersage beruht aber auf der Übertragung von der allgemeinen Migräne.
-
-Zu beachten ist: Die grossen Zulassungsstudien haben Personen mit Hirnstamm- oder hemiplegischer Aura möglicherweise ausgeschlossen oder nur wenig berücksichtigt, wegen theoretischer Gefässsicherheitsbedenken. Eine subtypspezifische Studie ist in den Daten nicht dokumentiert.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Keine der Publikationen untersucht die Migräne mit Hirnstammaura direkt. Die folgenden Arbeiten betreffen Migräne allgemein.
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [42143245](https://pubmed.ncbi.nlm.nih.gov/42143245/) | 2026 | Systematische Übersicht/Metaanalyse | The Journal of Headache and Pain | Wirksamkeit und Verträglichkeit einer Einzeldosis von 75 mg Rimegepant gegenüber Placebo bei akuten Migräneattacken |
-| [36739335](https://pubmed.ncbi.nlm.nih.gov/36739335/) | 2023 | Übersichtsarbeit | CNS Drugs | In Phase-III-Studien wirksamer als Placebo; Einsatz bei akuter Behandlung und Vorbeugung der episodischen Migräne |
-| [41366286](https://pubmed.ncbi.nlm.nih.gov/41366286/) | 2025 | Phase-4-Studie (offen) | The Journal of Headache and Pain | 24-Wochen-Studie zur Sicherheit und Verträglichkeit von 75 mg einmal täglich zur Vorbeugung der episodischen Migräne |
-| [41066271](https://pubmed.ncbi.nlm.nih.gov/41066271/) | 2025 | Phase-3-Studie (offen, einarmig) | Cephalalgia | Langzeitsicherheit und Wirksamkeit von 75 mg bei chinesischen Erwachsenen mit akuter Migräne |
-| [35790906](https://pubmed.ncbi.nlm.nih.gov/35790906/) | 2022 | Netzwerk-Metaanalyse | The Journal of Headache and Pain | Indirekter Vergleich von Lasmiditan mit Rimegepant und Ubrogepant bei akuter Migräne |
-| [38307667](https://pubmed.ncbi.nlm.nih.gov/38307667/) | 2024 | Übersichtsarbeit | Handbook of Clinical Neurology | Überblick über Gepante; Ubrogepant und Rimegepant als Gepante der zweiten Generation |
-| [41574090](https://pubmed.ncbi.nlm.nih.gov/41574090/) | 2026 | Prospektive Bildgebungsstudie | Brain Communications | Untersuchung der Gefässwirkung von Rimegepant während spontaner Migräneattacken mittels Magnetresonanzangiographie |
-| [41652664](https://pubmed.ncbi.nlm.nih.gov/41652664/) | 2026 | Retrospektive Analyse | Headache | Verträglichkeit und Wirksamkeit bei Jugendlichen (Anwendung ausserhalb der Zulassung) |
+Atrophoderma vermiculata ist eine seltene follikuläre Verhornungsstörung mit narbiger Atrophie der Wangen. Die Daten zeigen keinen Signalweg, der eine CGRP-Rezeptor-Blockade mit dieser Erkrankung verbindet. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis des Modells und kein Hinweis auf eine tatsächliche Wirksamkeit.
 
 ---
 
@@ -111,13 +84,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Wirkmechanismus ist plausibel, aber keine Studie untersucht die Migräne mit Hirnstammaura direkt. Zudem fehlen Sicherheitsdaten für diesen Subtyp.
+- Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, und ein plausibler Wirkmechanismus ist nicht erkennbar. Der hohe Modellwert allein reicht nicht für eine Weiterverfolgung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Subtypspezifische Studien oder Auswertungen bei Migräne mit Hirnstammaura
-- Bewertung der Gefässsicherheit bei Personen mit Hirnstammaura
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Vollständige Angaben zum Wirkmechanismus
+- Der Wirkmechanismus von Rimegepant aus einer verlässlichen Quelle (z. B. DrugBank).
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, damit die Sicherheitsprüfung durchgeführt werden kann.
+- Mechanistische oder präklinische Hinweise, die einen Zusammenhang zwischen CGRP-Rezeptor-Blockade und Atrophoderma vermiculata stützen.
+- Die Prüfung der Anwendungsweg-Kompatibilität (die Zulassung betrifft ein Lyophilisat zum Einnehmen).
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

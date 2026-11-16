@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Sulfasalazin ist ein entzündungshemmendes Arzneimittel, das in der Schweiz bei chronisch-entzündlichen Darm- und Gelenkerkrankungen zugelassen ist. Für das Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome), eine angeborene Fehlbildung der Gliedmassen, liegt rechnerisch ein sehr hoher Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur, die Vorhersage beruht allein auf einem Computermodell.
+Sulfasalazin ist in der Schweiz in zwei Tablettenpräparaten zugelassen. Für das Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome), eine seltene angeborene Fehlbildung der Gliedmassen, sagt das Modell einen möglichen Nutzen voraus. Diese Vorhersage beruht ausschliesslich auf einer Modellberechnung; es liegen weder klinische Studien noch Literatur vor.
 
 ---
 
@@ -61,9 +61,18 @@ Sulfasalazin ist ein entzündungshemmendes Arzneimittel, das in der Schweiz bei 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ein Wirkmechanismus von Sulfasalazin ist in den vorliegenden Daten nicht hinterlegt. Aus allgemeinem Wissen hemmt die Substanz Entzündungssignale (NF-κB) sowie die Bildung von Prostaglandinen und Leukotrienen und beeinflusst den Folatstoffwechsel.
+Für diese Vorhersage lässt sich in den vorliegenden Daten keine plausible Begründung herleiten. Der Wirkmechanismus von Sulfasalazin ist in den zusammengestellten Daten nicht erfasst. Bekannt ist allgemein eine entzündungshemmende Wirkung, unter anderem über die Hemmung des NF-κB-Signalwegs und der Prostaglandinsynthese (COX) sowie eine Beeinflussung des Folatstoffwechsels.
 
-Eine Verbindung zwischen diesen Wirkungen und dem Brachydaktylie-Syndaktylie-Syndrom ist nicht erkennbar. Es handelt sich um eine genetisch bedingte Fehlbildung der Gliedmassen, die durch eine entzündungshemmende Behandlung nicht plausibel beeinflusst werden kann. Der hohe Vorhersagewert ist daher ein rein rechnerisches Ergebnis ohne biologische oder klinische Stützung.
+Das Brachydaktylie-Syndaktylie-Syndrom ist eine seltene, genetisch bedingte Entwicklungsstörung der Gliedmassen. Ein Zusammenhang mit entzündungshemmenden Mechanismen ist nicht erkennbar. Der hohe Vorhersagewert ist daher am ehesten ein Artefakt der Modellberechnung und kein Hinweis auf eine tatsächliche Wirksamkeit.
+
+---
+
+### Marktinformationen Schweiz
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 15303 | Salazopyrin, Tabletten | Synthetika | Colitis ulcerosa, Morbus Crohn |
+| 30906 | Salazopyrin EN, magensaftresistente Filmtabletten | Synthetika | Colitis ulcerosa, rheumatoide Polyarthritis |
 
 ---
 
@@ -78,12 +87,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder klinische Studien noch Literatur zu dieser Erkrankung, und ein biologischer Zusammenhang mit der Wirkung von Sulfasalazin ist nicht erkennbar. Das Evidenzniveau ist L5.
+- Die Vorhersage stützt sich nur auf einen Modellwert. Es gibt weder klinische Studien noch Literatur und keinen erkennbaren Wirkmechanismus.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Ein belegbarer Wirkmechanismus von Sulfasalazin, der für diese Fehlbildung relevant ist
-- Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die derzeit fehlen
+- Ein belegbarer biologischer Zusammenhang zwischen Sulfasalazin und der Entstehung des Syndroms
+- Präklinische Daten oder Fallberichte, die die Krankheit direkt betreffen
+- Die Sicherheitsangaben aus der Fachinformation (Warnungen, Kontraindikationen, Wechselwirkungen)
+- Die Angabe des Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

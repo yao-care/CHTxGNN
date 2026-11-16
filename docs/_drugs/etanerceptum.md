@@ -9,7 +9,7 @@ drugbank_id: DB00005
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 last_modified_at: 2026-11-16
-description: "Etanerceptum: vorhergesagte neue Indikation Hypermobility of coccyx (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis…"
+description: "Etanerceptum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis…"
 ---
 
 # Etanerceptum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Etanerceptum: Hypermobility of coccyx
+## Etanerceptum: Steissbeinhypermobilität (hypermobility of coccyx)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Etanercept ist ein Biotechnologie-Arzneimittel, das den Entzündungsbotenstoff TNF-α blockiert und in der Schweiz im Handel ist. Für die Rheumatoide Vaskulitis (rheumatoid vasculitis) sagt das Modell einen möglichen Nutzen voraus. Die Evidenz dafür ist schwach: Es gibt eine systematische Übersicht zu Biologika bei dieser Erkrankung, die keine Wirksamkeit von Etanercept belegt. Dazu kommen vor allem Fallberichte, die Vaskulitis als Nebenwirkung von Etanercept beschreiben.
+Etanercept ist ein biotechnologisch hergestelltes Arzneimittel, das in der Schweiz mehrfach zugelassen ist. Für die Steissbeinhypermobilität (hypermobility of coccyx) liegt ein sehr hoher Vorhersagewert vor, doch es gibt weder klinische Studien noch Literatur zu dieser Erkrankung. Die Vorhersage beruht damit allein auf einem Modell (Evidenzniveau L5).
 
 ---
 
@@ -50,7 +48,7 @@ Etanercept ist ein Biotechnologie-Arzneimittel, das den Entzündungsbotenstoff T
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, Enthesitis-assoziierte Arthritis), Psoriasis-Arthritis, Morbus Bechterew (ankylosierende Spondylitis), mittelschwere bis schwere Plaque-Psoriasis; Rheumatoide Arthritis, Psoriasis-Arthr |
-| Vorhergesagte neue Indikation | Hypermobility of coccyx |
+| Vorhergesagte neue Indikation | Steissbeinhypermobilität (hypermobility of coccyx) |
 | TxGNN-Vorhersagewert | 0.9963 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
@@ -61,42 +59,27 @@ Etanercept ist ein Biotechnologie-Arzneimittel, das den Entzündungsbotenstoff T
 
 ### Warum ist diese Vorhersage plausibel?
 
-Etanercept bindet TNF-α und neutralisiert es. TNF-α treibt die Entzündung bei der rheumatoiden Arthritis an. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Etanercept ist ein löslicher TNF-Rezeptor-Fusionsproteinblocker, der den Entzündungsbotenstoff TNF-α bindet. Die Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die Einordnung als TNF-α-Hemmer stützt sich auf die allgemein bekannte Wirkweise.
 
-Die Rheumatoide Vaskulitis ist eine schwere Begleiterkrankung der rheumatoiden Arthritis ausserhalb der Gelenke. Weil TNF-α an der Entzündung beider Erkrankungen beteiligt sein dürfte, ist ein Nutzen der TNF-Blockade denkbar. Eine systematische Übersicht (2021) untersuchte Biologika bei dieser Erkrankung. Sie zeigt aber nicht, dass Etanercept wirkt.
-
-Die übrige Literatur widerspricht der Vorhersage teilweise. Mehrere Fallberichte und Fallserien beschreiben Vaskulitis, Rheumaknoten und Nierenschäden, die unter Etanercept erstmals auftraten. Dieser paradoxe Effekt ist ein Warnsignal. Der hohe Vorhersagewert ist eine reine Modellvorhersage und wird durch keine direkte klinische Evidenz gestützt.
-
----
-
-### Klinische Studien
-
-| Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
-|---------|------|------|------|---------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Rekrutierend | 80 | Untersucht, wie Immunsuppressiva bei rheumatologischen Patienten vor einer Schulterprothesen-Operation pausiert werden sollen (Schübe, Schmerzen, Wundkomplikationen). Etanercept wird nicht gegen Vaskulitis geprüft, daher für die Wirksamkeit nicht relevant. |
-
----
-
-### Literaturbelege
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [33058033](https://pubmed.ncbi.nlm.nih.gov/33058033/) | 2021 | Systematische Übersicht | Clinical Rheumatology | Untersucht den Einsatz biologischer Arzneimittel bei Rheumatoider Vaskulitis, einer der schwersten Begleiterkrankungen der rheumatoiden Arthritis. Eine Wirksamkeit von Etanercept belegt sie nicht. |
-| [36706240](https://pubmed.ncbi.nlm.nih.gov/36706240/) | 2023 | Kohortenstudie | Kidney360 | Beschreibt Nierenveränderungen nach Anti-TNF-α-Therapie, darunter autoimmune Schäden. |
-| [17632266](https://pubmed.ncbi.nlm.nih.gov/17632266/) | 2007 | Fallserienanalyse | Medicine | Analyse von 233 Fällen von Autoimmunerkrankungen, die unter TNF-Blockern auftraten. |
-| [12209493](https://pubmed.ncbi.nlm.nih.gov/12209493/) | 2002 | Fallbericht | Arthritis and Rheumatism | Beschleunigte Knotenbildung und Vaskulitis unter Etanercept bei rheumatoider Arthritis. |
-| [10955351](https://pubmed.ncbi.nlm.nih.gov/10955351/) | 2000 | Fallbericht | The Journal of Rheumatology | Erster beschriebener Fall einer leukozytoklastischen Vaskulitis unter Etanercept bei schwerer rheumatoider Arthritis. |
-| [11792895](https://pubmed.ncbi.nlm.nih.gov/11792895/) | 2002 | Fallbericht | Rheumatology (Oxford) | Hautvaskulitis im Zusammenhang mit Etanercept und Infliximab. |
-| [15853915](https://pubmed.ncbi.nlm.nih.gov/15853915/) | 2005 | Immunologische Untersuchung | Scandinavian Journal of Immunology | Untersucht die immunologischen Mechanismen der Hautvaskulitis unter Etanercept und Infliximab. |
-| [31632872](https://pubmed.ncbi.nlm.nih.gov/31632872/) | 2019 | Fallbericht | Cureus | Beschreibt eine Nierenerkrankung im Zusammenhang mit Etanercept. |
-| [19579151](https://pubmed.ncbi.nlm.nih.gov/19579151/) | 2009 | Beobachtungsstudie | Scandinavian Journal of Rheumatology | Beschreibt immunvermittelte Hautläsionen bei Patienten unter TNF-α-Hemmern. |
-| [16979537](https://pubmed.ncbi.nlm.nih.gov/16979537/) | 2006 | Übersichtsarbeit | Best Practice & Research Clinical Rheumatology | Übersicht über Probleme unter TNF-Hemmern, etwa die Reaktivierung der Tuberkulose. |
+Ein Zusammenhang mit der Steissbeinhypermobilität ist spekulativ. Der hohe Vorhersagewert spiegelt wahrscheinlich eine Nähe zu entzündlichen oder degenerativen Wirbelsäulen- und Gelenkerkrankungen im Modell wider, nicht ein echtes therapeutisches Signal. Die Steissbeinhypermobilität ist überwiegend eine mechanische oder traumatische Störung und nicht primär TNF-getrieben. Die biologische Begründung ist daher schwach.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Etanercept ist in der Schweiz im Handel. Mindestens neun Zulassungen sind gültig, darunter Originalpräparate und Biosimilars. Die Liste kann unvollständig sein.
+Die Liste ist möglicherweise unvollständig (mindestens 9 Zulassungen; alle 9 aufgeführten sind gültig).
+
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 60025 | Enbrel MyClic 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, juvenile idiopathische Arthritis, Psoriasis-Arthritis, Morbus Bechterew, mittelschwere bis schwere Plaque-Psoriasis |
+| 57711 | Enbrel 25 mg, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 60025 |
+| 55365 | Enbrel 25 mg, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Wie 60025 |
+| 66323 | Benepali 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, ankylosierende Spondylitis, Plaque-Psoriasis (Erwachsene, Kinder und Jugendliche), juvenile idiopathische Arthritis |
+| 66325 | Benepali 50 mg, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 66323 |
+| 66176 | Erelzi SensoReady 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, juvenile idiopathische Arthritis, Psoriasis-Arthritis, Morbus Bechterew, mittelschwere bis schwere Plaque-Psoriasis |
+| 66175 | Erelzi 25 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 66176 |
+| 68150 | Nepexto 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Wie 66323 |
+| 68149 | Nepexto 50 mg/1 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 66323 |
 
 ---
 
@@ -111,15 +94,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine klinische Studie, die Etanercept bei Rheumatoider Vaskulitis prüft. Die einzige direkt passende Arbeit ist eine systematische Übersicht zu Biologika allgemein.
-- Die Literatur beschreibt Vaskulitis und Nierenschäden als mögliche Nebenwirkungen von Etanercept. Das spricht gegen einen Nutzen und erfordert besondere Vorsicht.
+- Der Vorhersagewert ist sehr hoch, aber es gibt keine klinischen Studien und keine Literatur zur Steissbeinhypermobilität. Der biologische Zusammenhang ist schwach, da die Erkrankung vor allem mechanisch bedingt ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der systematischen Übersicht (PMID 33058033) auf Daten speziell zu Etanercept, einschliesslich Ansprechen und Verschlechterungen
-- Kontrollierte oder zumindest gut dokumentierte prospektive Daten zu Etanercept bei Rheumatoider Vaskulitis
-- Klärung, wie sich ein möglicher Nutzen von der Etanercept-assoziierten Vaskulitis abgrenzen lässt
-- Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), die in den vorliegenden Daten fehlen
-- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Studien oder Fallberichte, die Etanercept direkt bei Steissbeinhypermobilität untersuchen
+- Eine nachvollziehbare Begründung, wie die TNF-Hemmung diese Erkrankung beeinflussen könnte
+- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

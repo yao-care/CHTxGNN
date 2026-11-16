@@ -9,7 +9,7 @@ drugbank_id: DB01340
 monitor_inn: "Cilazapril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
 last_modified_at: 2026-11-16
-description: "Cilazaprilum Anhydricum: vorhergesagte neue Indikation Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
+description: "Cilazaprilum Anhydricum: vorhergesagte neue Indikation Pulmonale Hypertonie bei unklarem, multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
 ---
 
 # Cilazaprilum Anhydricum
@@ -34,14 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 </div>
 
-## Cilazaprilum Anhydricum: Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism)
+## Cilazaprilum Anhydricum: Pulmonale Hypertonie bei unklarem, multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism)
 {: .text-alpha }
-
----
 
 ### Zusammenfassung
 
-Cilazapril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Für die neue Indikation „Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism)“ liegt ein sehr hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur; die Vorhersage beruht allein auf dem Rechenmodell (Evidenzniveau L5).
+Cilazapril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Es könnte bei pulmonaler Hypertonie mit unklarem, multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) wirksam sein. Diese Vorhersage beruht allein auf einem Modellwert; für diese Erkrankung liegen weder klinische Studien noch Publikationen vor.
 
 ---
 
@@ -50,7 +48,7 @@ Cilazapril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Für die neue I
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | ACE-Hemmer; Antihypertensivum |
-| Vorhergesagte neue Indikation | Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) |
+| Vorhergesagte neue Indikation | Pulmonale Hypertonie bei unklarem, multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) |
 | TxGNN-Vorhersagewert | 0.9920 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
@@ -61,11 +59,9 @@ Cilazapril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Für die neue I
 
 ### Warum ist diese Vorhersage plausibel?
 
-Cilazapril hemmt das Angiotensin-konvertierende Enzym (ACE) und senkt dadurch die Bildung von Angiotensin II. Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die Einordnung als ACE-Hemmer ergibt sich aus den Schweizer Zulassungsdaten.
+Cilazapril hemmt das Angiotensin-konvertierende Enzym (ACE). Dadurch entsteht weniger Angiotensin II, das Gefässe verengt und das Wachstum glatter Gefässmuskelzellen fördert. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Einordnung als ACE-Hemmer ergibt sich aus der Schweizer Zulassung.
 
-Angiotensin II verengt Gefässe und kann den Umbau der Gefässwand fördern. Eine Hemmung dieses Systems könnte daher theoretisch auch im Lungenkreislauf den Gefässwiderstand senken. Der Vorhersagewert ist sehr hoch, bleibt aber eine reine Modellberechnung.
-
-Diese Krankheitsgruppe ist ursächlich vielfältig. Deshalb lässt sich kein einheitlicher Wirkmechanismus begründen, und die Übertragbarkeit bleibt unklar.
+Theoretisch könnte eine geringere Gefässverengung und weniger Gefässumbau in den Lungenarterien den Druck im Lungenkreislauf senken. Dies ist jedoch nur eine allgemeine Überlegung auf Klassenebene und kein spezifischer Beleg. ACE-Hemmer sind bei pulmonaler Hypertonie unklarer oder multifaktorieller Ursache keine etablierte Therapie.
 
 ---
 
@@ -90,18 +86,25 @@ Derzeit keine verwandte Literatur verfügbar
 
 ---
 
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+
+---
+
 ### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich ausschliesslich auf das Rechenmodell. Es gibt weder Studien noch Publikationen zu dieser Indikation, und der Mechanismus ist bei einer so heterogenen Krankheitsgruppe schwer zu begründen.
+- Die Vorhersage stützt sich nur auf den hohen Modellwert, ohne klinische Studien oder Literatur zu dieser Erkrankung (Evidenzniveau L5).
+- Der Mechanismus ist nur auf Klassenebene plausibel, und die Sicherheitsdaten aus der Fachinformation fehlen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Fachinformation mit Warnhinweisen und Kontraindikationen (Sicherheitsdaten fehlen bisher)
-- Angaben zum Wirkmechanismus
-- Klinische oder präklinische Studien, die diese Krankheit direkt untersuchen
-- Eine Eingrenzung auf klar definierte Untergruppen der pulmonalen Hypertonie
+- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen)
+- Ergänzung der Angaben zum Wirkmechanismus
+- Gezielte Literaturrecherche und Prüfung auf Studien zu dieser Form der pulmonalen Hypertonie
+- Abklärung, ob die Erkrankung klar genug definiert ist, um eine klinische Prüfung zu planen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

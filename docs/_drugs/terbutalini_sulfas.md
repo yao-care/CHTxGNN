@@ -9,7 +9,7 @@ drugbank_id: DB00871
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 last_modified_at: 2026-11-16
-description: "Terbutalini Sulfas: vorhergesagte neue Indikation Respiratory malformation (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
+description: "Terbutalini Sulfas: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 
 # Terbutalini Sulfas
@@ -34,12 +34,12 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **2**
 
 </div>
 
-## Terbutalini Sulfas: Respiratory malformation
+## Terbutalini Sulfas: Atemwegsfehlbildung (respiratory malformation)
 {: .text-alpha }
 
 ### Zusammenfassung
 
-Terbutalinsulfat ist ein Bronchospasmolytikum, das in der Schweiz im Handel ist. Mehrere abgeschlossene Phase-3-Studien mit Terbutalin bei Asthma stützen dies. Eine Studie zu einer COPD-Population ist registriert, deren Ergebnisse sich aber nur indirekt auf Terbutalin beziehen.
+Terbutalinsulfat ist ein inhalatives Bronchospasmolytikum. Für Atemwegsfehlbildung (respiratory malformation) liegt eine rein rechnerische Vorhersage vor. Es gibt keine Studie, die diese Erkrankung direkt untersucht, die Evidenz entspricht daher dem Niveau L5.
 
 ---
 
@@ -48,54 +48,46 @@ Terbutalinsulfat ist ein Bronchospasmolytikum, das in der Schweiz im Handel ist.
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Bronchospasmolytikum |
-| Vorhergesagte neue Indikation | Respiratory malformation |
+| Vorhergesagte neue Indikation | Atemwegsfehlbildung (respiratory malformation) |
 | TxGNN-Vorhersagewert | 0.9952 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
-| Empfohlene Entscheidung | Mit Vorsicht fortfahren |
+| Empfohlene Entscheidung | Abwarten |
 
 ---
 
 ### Warum ist diese Vorhersage plausibel?
 
-Terbutalin ist ein selektiver Beta-2-Adrenozeptor-Agonist. Die Aktivierung dieser Rezeptoren auf der glatten Muskulatur der Atemwege erhöht den intrazellulären cAMP-Spiegel und führt zur Erweiterung der Bronchien. Dies wirkt direkt der reversiblen Atemwegsverengung entgegen. (Die Mechanismusangabe in den Arzneimitteldaten selbst fehlt; die Beschreibung stützt sich auf die Begründung der Vorhersage.)
+Der Wirkmechanismus ist in den vorliegenden Daten nicht hinterlegt. Terbutalin gehört jedoch zur Klasse der Beta-2-Adrenozeptor-Agonisten. Diese entspannen die glatte Muskulatur der Atemwege. Eine Studie aus der Literatur beschreibt zudem eine Verstärkung der Zilienbewegung durch einen Beta-Agonisten (PMID 6314736).
 
-Die vorhergesagte Indikation liegt sehr nah an dem, wofür das Präparat in der Schweiz als Bronchospasmolytikum geführt wird. Der hohe Vorhersagewert passt zu diesem etablierten Wirkprinzip. Es handelt sich daher weniger um eine neuartige Umwidmung als um die Bestätigung eines bekannten Einsatzgebiets.
+Der mögliche Zusammenhang ist indirekt. Bei strukturellen Atemwegsanomalien könnten Atemwegsverengung oder Überempfindlichkeit als Begleitsymptome auftreten, die ein Bronchodilatator lindern könnte. Es gibt keinen Hinweis darauf, dass Terbutalin die Fehlbildung selbst behebt oder beeinflusst.
+
+Der hohe Vorhersagewert ist ein Rechenergebnis und wird durch keine krankheitsspezifischen klinischen Daten gestützt.
 
 ---
 
 ### Klinische Studien
 
-Die folgende Auswahl zeigt die relevantesten Studien. Mehrere weitere Studien mit Terbutalin als Vergleichs- oder Bedarfsmedikation sind registriert.
-
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Phase 3 | Abgeschlossen | 24 | Terbutalin Turbuhaler 0,4 mg gegen Salbutamol-Dosieraerosol bei japanischen Erwachsenen mit Asthma; direkter Wirksamkeitsvergleich, kleine Stichprobe |
-| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Phase 3 | Abgeschlossen | 120 | Intravenöses Magnesiumsulfat gegen Terbutalin bei Kindern mit akuter Asthma-Exazerbation |
-| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Phase 3 | Abgeschlossen | 95 | Bricanyl Turbuhaler M3 gegen M2: Schutz vor Methacholin-induzierter Bronchokonstriktion bei leichtem bis mittelschwerem Asthma |
-| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | Phase 3 | Abgeschlossen | 315 | Symbicort plus Bricasol (Terbutalin) gegen Pulmicort plus Bricasol bei chinesischen COPD-Patienten |
-| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Phase 3 | Abgeschlossen | 4215 | Symbicort bei Bedarf gegen Pulmicort zweimal täglich plus Terbutalin bei Bedarf bei Asthma |
-| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Phase 3 | Abgeschlossen | 3850 | Symbicort bei Bedarf gegen Terbutalin bei Bedarf und gegen Pulmicort plus Terbutalin bei Bedarf bei Asthma |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Abgeschlossen | 2091 | Symbicort SMART gegen Symbicort plus Terbutalin bei Bedarf; Terbutalin als Bedarfsmedikation im Vergleichsarm |
-| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Phase 3 | Abgeschlossen | 860 | Budesonid/Formoterol bei Bedarf gegen regelmässige Gabe plus Terbutalin bei Bedarf |
-| [NCT00259766](https://clinicaltrials.gov/study/NCT00259766) | Phase 3 | Abgeschlossen | 1970 | Gesundheitsökonomische Studie bei Asthma; Terbutalin als Bedarfsmedikation im Vergleichsarm |
-| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Phase 3 | Abgeschlossen | 1600 | Symbicort-Einzelinhalatortherapie gegen übliche Standardtherapie bei persistierendem Asthma |
+| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | Keine Angabe | Rekrutierend | 5000 | Pharmakokinetik- und Sicherheitsstudie zu wenig untersuchten Arzneimitteln bei Kindern und jungen Erwachsenen. Sie prüft keine Wirksamkeit bei Atemwegsfehlbildung. |
 
 ---
 
 ### Literaturbelege
 
+Keine der Publikationen untersucht Atemwegsfehlbildung direkt. Die folgende Auswahl zeigt die thematisch nächsten Arbeiten.
+
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | The New England Journal of Medicine | Budesonid-Formoterol bei Bedarf bei leichtem Asthma als mögliche Alternative zur konventionellen Behandlung |
-| [36227333](https://pubmed.ncbi.nlm.nih.gov/36227333/) | 2023 | Systematische Übersicht | Naunyn-Schmiedeberg's Archives of Pharmacology | Pharmakokinetik von Terbutalin beim Menschen; eingesetzt bei Bronchospasmus bei Asthma, Bronchitis, Emphysem und COPD |
-| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT (Crossover) | British Journal of Diseases of the Chest | Orales Terbutalin steigerte bei 10 COPD-Patienten die Kraft der Zwerchfellkontraktion gegenüber Placebo |
-| [4571398](https://pubmed.ncbi.nlm.nih.gov/4571398/) | 1973 | Klinische Studie | Archives of Disease in Childhood | Orales Terbutalin bei 30 asthmatischen Kindern: gute, anhaltende Wirkung auf die Lungenfunktion ohne Herz-Kreislauf-Nebenwirkungen |
-| [23348973](https://pubmed.ncbi.nlm.nih.gov/23348973/) | 2013 | Übersichtsarbeit | American Journal of Respiratory and Critical Care Medicine | Kurzwirksame Beta-2-Agonisten wie Terbutalin sorgen für rasche Symptomlinderung bei Bedarf |
-| [326244](https://pubmed.ncbi.nlm.nih.gov/326244/) | 1977 | Klinische Studie | Australian and New Zealand Journal of Medicine | Terbutalin- und Salbutamol-Aerosol bei 16 Patienten: Salbutamol wirkte in der ersten Stunde stärker, danach kein Unterschied |
-| [373786](https://pubmed.ncbi.nlm.nih.gov/373786/) | 1979 | Klinische Studie | British Journal of Diseases of the Chest | Fenoterol und Terbutalin steigerten den exspiratorischen Spitzenfluss signifikant gegenüber Placebo |
-| [26963310](https://pubmed.ncbi.nlm.nih.gov/26963310/) | 2015 | Übersichtsarbeit | Tuberkuloz ve Toraks | Asthma-COPD-Überlappungssyndrom mit reversibler, aber anhaltender Atemwegsobstruktion |
+| [3281307](https://pubmed.ncbi.nlm.nih.gov/3281307/) | 1988 | RCT | Thorax | Doppelblinder Vergleich von subkutanem Adrenalin und Terbutalin bei 20 Patienten mit akutem schwerem Asthma. |
+| [1629507](https://pubmed.ncbi.nlm.nih.gov/1629507/) | 1992 | RCT | The Journal of Allergy and Clinical Immunology | Vergleich von Budesonid und Terbutalin bei 14 Erwachsenen mit neu diagnostiziertem Asthma (Symptome, Lungenfunktion, Atemwegsentzündung). |
+| [12061354](https://pubmed.ncbi.nlm.nih.gov/12061354/) | 2002 | Fallserie | Acta Paediatrica | 14 Kinder mit zentraler Atemwegsstenose (u. a. Gefässringe, subglottische Stenose). Fokus auf Abgrenzung zu Asthma mittels Spirometrie und Röntgen. |
+| [1620986](https://pubmed.ncbi.nlm.nih.gov/1620986/) | 1992 | Kohorte | Respiration | Bei 33 Patienten mit chronischer Bronchitis war die Atemwegsimpedanz nach inhaliertem Terbutalin akut rückläufig. |
+| [8327281](https://pubmed.ncbi.nlm.nih.gov/8327281/) | 1993 | Physiologische Studie | Pediatric Pulmonology | Analyse der Lungenmechanik beschatmeter Frühgeborener nach Terbutalin mittels nichtlinearer Regression. |
+| [6314736](https://pubmed.ncbi.nlm.nih.gov/6314736/) | 1983 | Physiologische Studie | Acta Oto-Laryngologica. Supplementum | Beta-adrenerge Stimulation verstärkt den Zilienschlag und den mukoziliären Transport. |
+| [11813927](https://pubmed.ncbi.nlm.nih.gov/11813927/) | 2001 | Fallserie | Cardiology in the Young | Orales Terbutalin bei fetalem komplettem AV-Block: Bei 4 von 7 Feten blieb die Herzfrequenz erhöht, und sie überlebten. Kein Bezug zu Atemwegsfehlbildungen. |
 
 ---
 
@@ -109,27 +101,21 @@ Die folgende Auswahl zeigt die relevantesten Studien. Mehrere weitere Studien mi
 
 ### Sicherheitshinweise
 
-Für Warnungen, Kontraindikationen und Wechselwirkungen liegen keine Daten vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-Aus der Begründung der Vorhersage ergeben sich folgende Punkte, die überwacht werden sollten:
-- Herz-Kreislauf-Wirkungen (Herzrasen, Rhythmusstörungen)
-- Hypokaliämie
-- Tremor
-- Für Sportlerinnen und Sportler: Dopingbestimmungen (WADA)
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
 ### Fazit und nächste Schritte
 
-**Entscheidung: Mit Vorsicht fortfahren**
+**Entscheidung: Abwarten**
 
 **Begründung:**
-- Mehrere abgeschlossene Phase-3-Studien bei obstruktiven Atemwegserkrankungen, vor allem Asthma, und ein sehr hoher Vorhersagewert sprechen für die Vorhersage. Die Sicherheitsdaten fehlen jedoch, und viele Studien betreffen Terbutalin nur als Vergleichs- oder Bedarfsmedikation.
+- Der Vorhersagewert ist hoch, aber keine Studie untersucht Terbutalin bei Atemwegsfehlbildung. Ein möglicher Nutzen beschränkt sich auf die Linderung von Begleitsymptomen, nicht auf die Behandlung der Fehlbildung.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Direkte Studien zu Terbutalin bei der vorhergesagten Erkrankung, insbesondere bei COPD
+- Krankheitsspezifische klinische Daten oder Studien zu Terbutalin bei Atemwegsfehlbildung
+- Die Fachinformation mit Warnhinweisen und Kontraindikationen aus Swissmedic
+- Angaben zum Wirkmechanismus aus DrugBank für eine genauere Analyse des mechanistischen Zusammenhangs
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Pembrolizumab ist ein Antikörper gegen den PD-1-Rezeptor und wird in der Schweiz in der Krebsbehandlung eingesetzt. Für die Vorhersage Gingivafibromatose (fibromatosis, gingival) liegen keine klinischen Studien und keine Literatur vor. Die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5) und ist inhaltlich nicht nachvollziehbar.
+Pembrolizumab ist ein Antikörper, der in der Schweiz unter dem Namen Keytruda für mehrere Krebserkrankungen zugelassen ist. Das Modell sagt voraus, dass er bei Gingivafibromatose (fibromatosis, gingival) wirksam sein könnte. Diese Vorhersage beruht allein auf einer Modellberechnung; es liegen weder klinische Studien noch Publikationen zu dieser Erkrankung vor.
 
 ---
 
@@ -61,21 +61,9 @@ Pembrolizumab ist ein Antikörper gegen den PD-1-Rezeptor und wird in der Schwei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pembrolizumab blockiert den PD-1-Rezeptor auf T-Zellen und hebt so die Hemmung der körpereigenen Immunantwort gegen Tumorzellen auf. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Pembrolizumab blockiert den PD-1-Rezeptor auf T-Zellen. Dadurch wird die Hemmung der Immunantwort aufgehoben, und das Immunsystem kann Tumorzellen besser angreifen. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; diese Beschreibung entspricht dem allgemeinen Kenntnisstand.
 
-Die Gingivafibromatose ist eine fibroproliferative oder erbliche Zahnfleischwucherung. Eine Rolle der PD-1-Blockade bei dieser Erkrankung ist nicht bekannt, und ein biologisch plausibler Zusammenhang lässt sich nicht herleiten. Der hohe Vorhersagewert ist daher vermutlich ein Artefakt des Modells und kein Hinweis auf einen realen Nutzen.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Für die Gingivafibromatose, eine erbliche oder arzneimittelbedingte Zahnfleischwucherung, ist kein plausibler Zusammenhang mit dem PD-1/PD-L1-Signalweg erkennbar. Die Daten zeigen keine mechanistische Verbindung. Der hohe Vorhersagewert ist deshalb als reine Modellaussage zu verstehen und rechtfertigt allein keine Anwendung.
 
 ---
 
@@ -92,13 +80,16 @@ Derzeit keine verwandte Literatur verfügbar.
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Immuntherapie |
-| Überwachungspunkte | Bei Immuntherapien üblich sind Kontrollen von Blutbild sowie Leber-, Nieren- und Schilddrüsenfunktion; genaue Vorgaben sind der Fachinformation zu entnehmen. |
+| Myelosuppressionsrisiko | Niedrig |
+| Emetogenitätsklassifikation | Niedrig |
+| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Schilddrüsenfunktion; Überwachung auf immunvermittelte Nebenwirkungen |
+| Handhabungsschutz | Keine besonderen Schutzmassnahmen wie bei konventionellen Zytostatika; übliche aseptische Zubereitung |
 
 ---
 
 ### Sicherheitshinweise
 
-Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen. In den zusammengestellten Daten sind keine Warnungen, Kontraindikationen oder Arzneimittelwechselwirkungen erfasst.
 
 ---
 
@@ -107,12 +98,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt weder Studien noch Literatur zu dieser Indikation, und ein plausibler Wirkmechanismus fehlt. Der hohe Vorhersagewert von 0,9940 allein genügt nicht, um eine Weiterverfolgung zu rechtfertigen.
+- Die Vorhersage für Gingivafibromatose stützt sich ausschliesslich auf ein Modell (Evidenzniveau L5). Es gibt keine klinischen Studien, keine Literatur und keinen erkennbaren Wirkmechanismus.
+- Immunvermittelte Nebenwirkungen von Pembrolizumab wären bei einer gutartigen Erkrankung schwer zu rechtfertigen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Mechanistische oder präklinische Hinweise, die eine Rolle der PD-1-Blockade bei der Gingivafibromatose stützen
-- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Präklinische oder mechanistische Hinweise auf eine Rolle des PD-1-Signalwegs bei Gingivafibromatose
+- Die Angaben zum Wirkmechanismus sowie die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Eine Nutzen-Risiko-Abwägung, bevor eine klinische Prüfung erwogen wird
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

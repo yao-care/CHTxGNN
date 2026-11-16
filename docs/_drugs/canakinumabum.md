@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Canakinumab ist ein Antikörper, der den Botenstoff Interleukin-1β neutralisiert und in der Schweiz bei autoinflammatorischen Erkrankungen eingesetzt wird. Die Vorhersage nennt als neue Indikation einen Leberinfarkt (hepatic infarction), dessen Ursache meist in einer Durchblutungsstörung liegt. Dafür gibt es keine klinischen Studien und keine Literatur; die Vorhersage beruht allein auf einem Modell.
+Canakinumab ist ein Antikörper gegen Interleukin-1β und in der Schweiz für mehrere autoinflammatorische Erkrankungen zugelassen. Die höchste Vorhersage des Modells betrifft einen Leberinfarkt (hepatic infarction). Dafür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modell.
 
 ---
 
@@ -59,9 +59,9 @@ Canakinumab ist ein Antikörper, der den Botenstoff Interleukin-1β neutralisier
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Canakinumab liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass der Wirkstoff den Entzündungsbotenstoff Interleukin-1β gezielt abfängt.
+Canakinumab blockiert Interleukin-1β, einen zentralen Entzündungsbotenstoff. Die Angaben zum genauen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
 
-Ein Leberinfarkt entsteht in der Regel durch Gefässverschlüsse oder Durchblutungsstörungen. Ein belegter Zusammenhang zwischen der Hemmung von Interleukin-1β und dieser Form des Gewebeuntergangs besteht nicht. Denkbar wäre allenfalls, dass entzündliche Vorgänge den Schaden verstärken. Das ist jedoch reine Spekulation und durch keine Daten gestützt.
+Ein Zusammenhang zwischen der Blockade von Interleukin-1β und einer ischämischen oder entzündlichen Leberschädigung ist denkbar, bleibt aber spekulativ. Es liegen keine direkten Hinweise auf einen solchen Mechanismus vor. Die Vorhersage sollte daher als Hypothese und nicht als belegte Möglichkeit verstanden werden.
 
 ---
 
@@ -97,13 +97,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Leberinfarkt gibt es weder Studien noch Publikationen. Der hohe Vorhersagewert wird durch keinen erkennbaren biologischen Zusammenhang gestützt.
+- Für den Leberinfarkt gibt es nur eine Modellvorhersage, weder Studien noch Literatur stützen sie. Der Wirkmechanismus ist für diese Erkrankung nicht belegt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Eine gezielte Literaturrecherche zu Interleukin-1β und ischämischer Leberschädigung
-- Präklinische Daten, die einen Mechanismus belegen
-- Die Sicherheitsangaben aus der Fachinformation (Warnhinweise, Kontraindikationen)
-- Angaben zum Wirkmechanismus aus einer zuverlässigen Arzneimittelquelle
+- Mechanistische Daten oder präklinische Studien zur Rolle von Interleukin-1β beim Leberinfarkt
+- Eine systematische Literaturrecherche zur Erkrankung selbst
+- Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Die Angabe des Wirkmechanismus aus einer Arzneimitteldatenbank
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

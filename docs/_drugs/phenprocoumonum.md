@@ -9,7 +9,7 @@ drugbank_id: DB00946
 monitor_inn: "Phenprocoumon"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "congenital coronary artery anomaly", "stroke disorder", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-11-16
-description: "Phenprocoumonum: vorhergesagte neue Indikation Heparin cofactor 2 deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Anticoagulans"
+description: "Phenprocoumonum: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Anticoagulans"
 ---
 
 # Phenprocoumonum
@@ -34,12 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **7**
 
 </div>
 
-## Phenprocoumonum: Heparin cofactor 2 deficiency
+## Phenprocoumonum: Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency)
 {: .text-alpha }
+
+---
 
 ### Zusammenfassung
 
-Phenprocoumon ist ein Gerinnungshemmer (Antikoagulans), der in der Schweiz als Marcoumar im Handel ist. Dafür gibt es bisher keine Evidenz: Es wurden weder klinische Studien noch Literatur zu dieser Erkrankung gefunden, die Vorhersage beruht allein auf dem Modell.
+Phenprocoumon ist ein oral einnehmbarer Vitamin-K-Antagonist, der die Blutgerinnung hemmt. Das Modell sagt voraus, dass es bei Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) nützlich sein könnte, einer seltenen erblichen Neigung zu Thrombosen. Dafür gibt es bisher keine Belege aus Studien oder Fachliteratur, die Vorhersage stützt sich allein auf das Modell (Evidenzniveau L5).
 
 ---
 
@@ -48,7 +50,7 @@ Phenprocoumon ist ein Gerinnungshemmer (Antikoagulans), der in der Schweiz als M
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Anticoagulans |
-| Vorhergesagte neue Indikation | Heparin cofactor 2 deficiency |
+| Vorhergesagte neue Indikation | Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) |
 | TxGNN-Vorhersagewert | 0.9986 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -59,19 +61,33 @@ Phenprocoumon ist ein Gerinnungshemmer (Antikoagulans), der in der Schweiz als M
 
 ### Warum ist diese Vorhersage plausibel?
 
-Phenprocoumon hemmt als Vitamin-K-Antagonist die Bildung der Gerinnungsfaktoren II, VII, IX und X. Dadurch entsteht weniger Thrombin, und Blutgerinnsel bilden sich schwerer. Die Angaben zur Wirkungsweise (Mechanismus) sind in den vorliegenden Daten nicht hinterlegt; die Beschreibung stützt sich auf die allgemein bekannte Wirkung dieser Wirkstoffklasse.
+Phenprocoumon hemmt die Bildung funktionsfähiger Gerinnungsfaktoren II, VII, IX und X, die von Vitamin K abhängen. Dadurch wird die Gerinnungsneigung des Blutes gesenkt. In den für diesen Bericht zusammengestellten Daten fehlt allerdings eine ausführliche Beschreibung des Wirkmechanismus.
 
-Bei einem Herzinfarkt verschliesst meist ein Blutgerinnsel ein Herzkranzgefäss. Eine Hemmung der Gerinnung könnte daher theoretisch weitere Gerinnselbildung nach dem Infarkt verringern. Das ist biologisch nachvollziehbar, aber nicht durch Daten belegt.
+Der Heparin-Cofaktor-II-Mangel ist eine erbliche Thrombophilie, also eine angeborene Neigung zu Blutgerinnseln. Eine gerinnungshemmende Behandlung zur Vorbeugung von Thrombosen ist daher biologisch denkbar.
 
-Der hohe Vorhersagewert ist ein reines Netzwerkergebnis. Derselbe Wert erscheint auch bei verwandten Infarkt-Untertypen, was auf eine gemeinsame, aus der Krankheitsordnung abgeleitete Vorhersage hindeutet und nicht auf ein unabhängiges Signal.
+Die Vorhersage ist jedoch mit grosser Vorsicht zu betrachten. Die Erkrankung ist extrem selten, und ohne einen breiteren Rahmen für Thrombophilien ist kaum zu erwarten, dass sich ein klinisches Signal ergibt. Der sehr hohe Vorhersagewert beruht nur auf einer netzwerkbasierten Modellrechnung und ist kein Beleg für Wirksamkeit.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar
 
 ---
 
 ### Marktinformationen Schweiz
 
+Eine gültige Zulassung, Marktstatus: Im Handel.
+
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 19395 | Marcoumar, Tabletten | Synthetika | Antikoagulans (Gerinnungshemmer) |
+| 19395 | Marcoumar, Tabletten (Viatris Pharma GmbH) | Synthetika | Antikoagulans |
 
 ---
 
@@ -86,14 +102,14 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für den posterolateralen Myokardinfarkt liegen weder klinische Studien noch Literatur vor; die Vorhersage stützt sich nur auf das Modell (Evidenzniveau L5).
-- Die Sicherheitsdaten aus der Fachinformation fehlen, sodass keine Sicherheitsbewertung möglich ist.
+- Für den Heparin-Cofaktor-II-Mangel liegen weder klinische Studien noch Publikationen vor, die Vorhersage beruht ausschliesslich auf dem Modell (L5).
+- Die Erkrankung ist sehr selten, und die Sicherheitsdaten aus der Schweizer Fachinformation sind in den vorliegenden Daten nicht enthalten.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
-- Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
-- Klinische Studien oder Publikationen, die Phenprocoumon direkt bei dieser Erkrankung untersuchen
-- Prüfung, ob ein Vorteil gegenüber der heutigen Standardtherapie nach Herzinfarkt (vor allem Thrombozytenhemmer) plausibel ist
+- Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für Marcoumar
+- Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Gezielte Literatur- und Studienrecherche zu Heparin-Cofaktor-II-Mangel und zu erblichen Thrombophilien insgesamt
+- Fachliche Einschätzung, ob bei einer so seltenen Erkrankung überhaupt eine aussagekräftige klinische Prüfung machbar ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

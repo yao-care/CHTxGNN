@@ -9,7 +9,7 @@ drugbank_id: DB11714
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 last_modified_at: 2026-11-16
-description: "Durvalumabum: vorhergesagte neue Indikation Uterine ligament adenocarcinoma (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
+description: "Durvalumabum: vorhergesagte neue Indikation Adenokarzinom des Lig. uteri (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
 # Durvalumabum
@@ -34,75 +34,68 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 </div>
 
-## Durvalumabum: Uterine ligament adenocarcinoma
+## Durvalumabum: Adenokarzinom des Lig. uteri (uterine ligament adenocarcinoma)
 {: .text-alpha }
 
-### Zusammenfassung
+## Zusammenfassung
 
-Durvalumab ist ein Antikörper gegen PD-L1 und in der Schweiz als Onkologikum im Handel. Für die vorhergesagte neue Indikation, das Urothelkarzinom der prostatischen Harnröhre (prostatic urethra urothelial carcinoma), liegen derzeit weder klinische Studien noch Publikationen vor. Die Vorhersage stützt sich allein auf ein Rechenmodell, daher ist das Evidenzniveau L5.
+Durvalumab ist ein Antikörper gegen PD-L1 und in der Schweiz als Onkologikum im Handel. Die höchstbewertete Vorhersage ist das Adenokarzinom des Lig. uteri (uterine ligament adenocarcinoma). Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf dem Modell (Evidenzniveau L5).
 
----
-
-### Kurzübersicht
+## Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Onkologikum |
-| Vorhergesagte neue Indikation | Uterine ligament adenocarcinoma |
+| Vorhergesagte neue Indikation | Adenokarzinom des Lig. uteri (uterine ligament adenocarcinoma) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
 | Anzahl Zulassungen | 1 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
----
+## Warum ist diese Vorhersage plausibel?
 
-### Warum ist diese Vorhersage plausibel?
+Durvalumab ist ein monoklonaler Antikörper, der PD-L1 blockiert. Dadurch kann die gegen Tumorzellen gerichtete T-Zell-Antwort wieder aktiviert werden. Der Wirkmechanismus ist in den vorliegenden Daten nicht näher beschrieben; die Angabe beruht auf der bekannten Substanzklasse.
 
-Der Wirkmechanismus von Durvalumab ist in den vorliegenden Daten nicht hinterlegt. Bekannt ist, dass es sich um einen gegen PD-L1 gerichteten Antikörper handelt. Er hebt die Bremse auf, mit der Tumorzellen das Immunsystem ausschalten können.
+Eine Übertragung auf gynäkologische Adenokarzinome ist denkbar, wenn der Tumor PD-L1 exprimiert oder viele Mutationen trägt. Für diese seltene Tumorart gibt es in den vorliegenden Daten jedoch keinen direkten Beleg. Zudem überschneidet sich ihre Einordnung mit den breiteren Gruppen der Gebärmutterhals- und Gebärmutteradenokarzinome. Die Plausibilität bleibt daher eine Annahme.
 
-Das Urothelkarzinom der prostatischen Harnröhre hat dieselbe Gewebeart (Urothel) wie das Blasenkarzinom. Auch die Biologie rund um PD-L1 dürfte ähnlich sein. Daraus lässt sich ein möglicher Nutzen ableiten.
+## Klinische Studien
 
-Dieser Zusammenhang ist jedoch indirekt und aus einer verwandten Erkrankung geschlossen. Für genau diese Erkrankung wurden keine Studien gefunden. Der hohe Vorhersagewert ist eine rein rechnerische Aussage und kein Wirksamkeitsnachweis.
+Derzeit keine verwandten klinischen Studien registriert.
 
----
+## Literaturbelege
 
-### Marktinformationen Schweiz
+Derzeit keine verwandte Literatur verfügbar.
+
+## Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
 | 66548 | Imfinzi 120 mg/2.4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum |
 
----
-
-### Zytotoxizität
+## Zytotoxizität
 
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Immuntherapie |
-| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion; zudem Schilddrüsenfunktion und Anzeichen immunvermittelter Nebenwirkungen |
-| Handhabungsschutz | Als Antikörper kein klassisches Zytostatikum; die Handhabung richtet sich nach der Fachinformation |
+| Überwachungspunkte | Blutbild sowie Leber- und Nierenfunktion |
 
----
-
-### Sicherheitshinweise
+## Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
----
-
-### Fazit und nächste Schritte
+## Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für das Urothelkarzinom der prostatischen Harnröhre gibt es weder klinische Studien noch Literatur. Die Vorhersage beruht nur auf dem Modell und auf der Verwandtschaft zum Blasenkarzinom.
+- Für die Hauptvorhersage liegen weder Studien noch Publikationen vor; sie stützt sich ausschliesslich auf das Modell (L5).
+- Sicherheitsdaten aus der Fachinformation fehlen bisher.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Klinische Studien oder Fallserien, die diese Erkrankung direkt untersuchen
-- Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
-- Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
-- Eine fachliche Prüfung, ob Daten aus dem Blasenkarzinom auf die Harnröhrenlokalisation übertragbar sind
+- Fachinformation von Swissmedic mit Warnungen und Kontraindikationen
+- Beschreibung des Wirkmechanismus aus einer verlässlichen Quelle
+- Klinische oder präklinische Daten, die diese Tumorart direkt untersuchen (z. B. PD-L1-Expression, Ansprechen auf Immuntherapie)
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

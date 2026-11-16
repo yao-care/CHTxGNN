@@ -9,7 +9,7 @@ drugbank_id: DB06081
 monitor_inn: "Caplacizumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "hemophilia", "platelet-type bleeding disorder"]
 last_modified_at: 2026-11-16
-description: "Caplacizumabum: vorhergesagte neue Indikation Primäre Plättchen-Freisetzungsstörung (primary release disorder of platelets) (Evidenzstufe L5)."
+description: "Caplacizumabum: vorhergesagte neue Indikation Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) (Evidenzstufe L5)."
 ---
 
 # Caplacizumabum
@@ -34,14 +34,14 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 </div>
 
-## Caplacizumabum: Primäre Plättchen-Freisetzungsstörung (primary release disorder of platelets)
+## Caplacizumabum: Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets)
 {: .text-alpha }
 
 ---
 
 ### Zusammenfassung
 
-Caplacizumab ist ein Nanobody gegen den von-Willebrand-Faktor (vWF) und in der Schweiz im Handel. Das Modell sagt eine mögliche Wirksamkeit bei der primären Plättchen-Freisetzungsstörung (primary release disorder of platelets) voraus, einer Störung der Plättchenfunktion mit Blutungsneigung. Für diese Erkrankung liegen weder klinische Studien noch Publikationen vor, und der bekannte Wirkmechanismus spricht eher gegen einen Nutzen.
+Caplacizumab ist ein Nanobody, der die Bindung des von-Willebrand-Faktors (vWF) an Blutplättchen blockiert. Für die Hauptvorhersage «Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets)» liegen weder klinische Studien noch Literatur vor. Die Vorhersage beruht allein auf einem Modellwert (Evidenzniveau L5) und ist mechanistisch kaum nachvollziehbar.
 
 ---
 
@@ -50,7 +50,7 @@ Caplacizumab ist ein Nanobody gegen den von-Willebrand-Faktor (vWF) und in der S
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Traitement d'un épisode de purpura thrombotique thrombocytopénique acquis (PTTa) |
-| Vorhergesagte neue Indikation | Primäre Plättchen-Freisetzungsstörung (primary release disorder of platelets) |
+| Vorhergesagte neue Indikation | Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
@@ -61,39 +61,25 @@ Caplacizumab ist ein Nanobody gegen den von-Willebrand-Faktor (vWF) und in der S
 
 ### Warum ist diese Vorhersage plausibel?
 
-Caplacizumab bindet an die A1-Domäne des von-Willebrand-Faktors und blockiert dessen Wechselwirkung mit dem Plättchenrezeptor GPIb-IX-V. Damit hemmt es die vWF-vermittelte Anheftung von Blutplättchen. Detaillierte Mechanismusangaben zum Arzneimittel fehlen in den zusammengestellten Daten.
+Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Beschreibung des Wirkstoffs, dass Caplacizumab die A1-Domäne des vWF blockiert und damit verhindert, dass der Faktor an den Thrombozytenrezeptor GPIb-IX-V bindet. Dies hemmt die Anheftung der Blutplättchen unter hoher Scherkraft.
 
-Die vorhergesagte Erkrankung ist eine Störung der Plättchensekretion und -funktion mit erhöhter Blutungsneigung. Die Verbindung zum Arzneimittel liegt im gemeinsamen Themenfeld von Plättchenadhäsion und Blutstillung. Ein therapeutischer Zusammenhang lässt sich daraus jedoch nicht ableiten.
+Bei der vorhergesagten Erkrankung handelt es sich um einen Defekt in der Freisetzung von Granula bzw. in der Signalübertragung der Thrombozyten. Diese Störung liegt in den Plättchen selbst und nicht in der vWF-Bindung. Ein therapeutischer Ansatzpunkt für Caplacizumab ist daher nicht erkennbar.
 
-Der Mechanismus spricht sogar dagegen. Caplacizumab würde die vWF-abhängige Plättchenadhäsion zusätzlich schwächen und damit voraussichtlich die Blutungsneigung verstärken. Der sehr hohe Vorhersagewert beruht daher vermutlich auf einer Nähe in den Daten und nicht auf einer biologisch nachvollziehbaren Wirkung.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert.
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar.
+Zusätzlich könnte die Hemmung der vWF-abhängigen Anheftung die bereits bestehende Blutungsneigung verstärken. Der sehr hohe Vorhersagewert ist ein reines Modellergebnis und kein Hinweis auf einen Nutzen.
 
 ---
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 66792 | Cablivi 10 mg, Pulver und Lösungsmittel für Injektionslösung (Sanofi-Aventis (Suisse) SA) | Biotechnologika |
+| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
+|---------|------|------|-----------|
+| 66792 | Cablivi 10 mg, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologikum | Behandlung einer Episode einer erworbenen thrombotisch-thrombozytopenischen Purpura (aTTP) |
 
 ---
 
 ### Sicherheitshinweise
 
 Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
-
-Aus dem Wirkmechanismus ergibt sich zudem ein erhöhtes Blutungsrisiko, wenn Caplacizumab bei Patienten mit bestehender Plättchenfunktionsstörung eingesetzt würde.
 
 ---
 
@@ -102,13 +88,12 @@ Aus dem Wirkmechanismus ergibt sich zudem ein erhöhtes Blutungsrisiko, wenn Cap
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Es gibt keine Studien oder Publikationen zur vorhergesagten Erkrankung, daher gilt Evidenzniveau L5. Der Wirkmechanismus spricht eher für eine Verschlechterung der Blutungsneigung als für einen Nutzen.
+- Für die Hauptvorhersage gibt es weder Studien noch Literatur. Der Wirkmechanismus spricht eher gegen einen Nutzen, da Caplacizumab das Blutungsrisiko erhöhen kann.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Präklinische oder mechanistische Daten, die einen Nutzen bei Plättchen-Freisetzungsstörungen plausibel machen.
-- Eine Bewertung des Blutungsrisikos bei Patienten mit Plättchenfunktionsstörung.
-- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Fachinformation von Swissmedic.
-- Die ergänzende Mechanismusbeschreibung des Arzneimittels aus DrugBank.
+- Mechanistische Daten (präklinisch, in vitro oder ex vivo), die einen Nutzen bei Thrombozytenfreisetzungsstörungen belegen
+- Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Die Warnhinweise und Kontraindikationen aus der Fachinformation der Swissmedic
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

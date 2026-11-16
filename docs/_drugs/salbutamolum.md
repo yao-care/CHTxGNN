@@ -41,7 +41,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Salbutamol ist ein Bronchospasmolytikum, das in der Schweiz in mehreren Darreichungsformen im Handel ist. Für die Hauptvorhersage, papilläre Konjunktivitis (papillary conjunctivitis), liegt ein sehr hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch weder klinische Studien noch Literatur, die Evidenz beruht allein auf der Modellvorhersage (Evidenzniveau L5).
+Salbutamol ist ein Bronchospasmolytikum, das in der Schweiz in mehreren Darreichungsformen im Handel ist. Als neue Indikation wird eine papilläre Konjunktivitis (papillary conjunctivitis) vorhergesagt. Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf dem Modellwert (Evidenzniveau L5).
 
 ---
 
@@ -61,11 +61,11 @@ Salbutamol ist ein Bronchospasmolytikum, das in der Schweiz in mehreren Darreich
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Salbutamol liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Salbutamol ein Beta-2-Agonist ist, der die glatte Muskulatur der Atemwege entspannt.
+Zum Wirkmechanismus von Salbutamol liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein ist bekannt, dass Beta-2-Agonisten die Konzentration von cAMP in Zellen erhöhen. Dadurch kann die glatte Muskulatur der Atemwege erschlaffen, und die Freisetzung von Entzündungsmediatoren aus Mastzellen kann gehemmt werden.
 
-Theoretisch könnte ein Beta-2-Agonist die Freisetzung von Botenstoffen aus Mastzellen verringern und die Gefässstauung in der Bindehaut dämpfen. Dies wäre ein möglicher Ansatzpunkt bei der papillären Konjunktivitis. Es handelt sich jedoch ausschliesslich um eine rechnerische Vorhersage ohne klinische Bestätigung.
+Aus dieser Mastzell-stabilisierenden und entzündungshemmenden Wirkung leitet sich die Überlegung ab, dass Salbutamol auch an der Bindehaut wirken könnte. Dies ist bislang eine reine Hypothese: Für die papilläre Konjunktivitis wurde sie nicht geprüft.
 
-Die Ähnlichkeit zur ursprünglichen Anwendung wurde bisher nicht bewertet. Zu dieser Vorhersage wurden weder Studien noch Publikationen gefunden, sodass der Zusammenhang derzeit nicht belegt ist.
+Der sehr hohe Modellwert allein genügt daher nicht, um einen Nutzen anzunehmen.
 
 ---
 
@@ -82,8 +82,6 @@ Derzeit keine verwandte Literatur verfügbar
 ---
 
 ### Marktinformationen Schweiz
-
-Es sind 7 gültige Zulassungen von Einzelwirkstoff-Präparaten vorhanden.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -108,13 +106,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch, aber für papilläre Konjunktivitis gibt es weder Studien noch Literatur. Die Vorhersage stützt sich allein auf das Modell.
+- Der Modellwert ist sehr hoch, aber es gibt weder klinische Studien noch Literatur zur papillären Konjunktivitis. Der Nutzen ist nicht belegt.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Literaturrecherche und präklinische Daten zur Anwendung von Beta-2-Agonisten an der Bindehaut
-- Klärung des Wirkmechanismus und der Ähnlichkeit zur ursprünglichen Anwendung
-- Prüfung der Anwendungsart (z. B. Augentropfen), da die bestehenden Darreichungsformen nicht für das Auge vorgesehen sind
-- Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Fachinformation von Swissmedic
+- Präklinische oder klinische Daten zu Salbutamol bei papillärer Konjunktivitis
+- Klärung, ob eine für das Auge geeignete Darreichungsform verfügbar wäre
+- Wirkmechanismus aus einer zuverlässigen Quelle (z. B. DrugBank)
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, um die Sicherheit zu prüfen
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ### Zusammenfassung
 
-Deferipron ist in der Schweiz als Eisenchelator zugelassen und derzeit im Handel. Für die vorhergesagte neue Anwendung, die hepatische Porphyrie (hepatic porphyria), liegt bisher nur eine Modellvorhersage vor. Es sind weder klinische Studien noch Publikationen in den zusammengestellten Daten vorhanden, das Evidenzniveau ist daher L5.
+Deferipron ist ein oral einnehmbarer Eisenchelator. Für die hepatische Porphyrie (hepatic porphyria) liegt ein hoher TxGNN-Vorhersagewert vor. Es gibt dafür jedoch keine klinischen Studien und keine Literatur; die Vorhersage ist rein rechnerisch (Evidenzniveau L5).
 
 ---
 
@@ -59,23 +59,11 @@ Deferipron ist in der Schweiz als Eisenchelator zugelassen und derzeit im Handel
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Deferipron liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist Deferipron als Eisenchelator, also als Substanz, die Eisen im Körper bindet und dessen Ausscheidung fördert.
+Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Deferipron als Eisenchelator überschüssiges Eisen bindet.
 
-Ein möglicher Zusammenhang mit der hepatischen Porphyrie ergibt sich aus dieser Eisenbindung: Eine Eisenanreicherung in der Leber kann einige Porphyrien verschlechtern (z. B. die Porphyria cutanea tarda), und die Senkung des Eisengehalts gilt dort als anerkanntes Behandlungsprinzip. Diese Überlegung stützt sich auf allgemeines Hintergrundwissen und nicht auf die zusammengestellten Daten. Sie muss durch eine gezielte Literaturrecherche überprüft werden.
+Ein möglicher, aber nicht belegter Zusammenhang: Eine erhöhte Eisenbeladung der Leber kann einige hepatische Porphyrien verschlechtern, etwa die Porphyria cutanea tarda. Ein oraler Eisenchelator könnte hier die Eisenlast in der Leber senken. Bei akuten hepatischen Porphyrien ist ein eisenbedingter Mechanismus dagegen nicht klar erkennbar.
 
-Der Vorhersagewert von 0,9920 zeigt, dass das Modell eine starke Verbindung zwischen Arzneimittel und Erkrankung sieht. Er ersetzt jedoch keine klinischen Belege.
-
----
-
-### Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-### Literaturbelege
-
-Derzeit keine verwandte Literatur verfügbar
+Dieser Ansatz beruht auf Hintergrundwissen und nicht auf Daten aus den vorliegenden Unterlagen. Die Vorhersage ist daher als Hypothese zu verstehen.
 
 ---
 
@@ -83,8 +71,8 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 55679 | Ferriprox, Filmtabletten | Synthetika | Behandlung der Eisenüberladung bei Patienten mit Thalassaemia major, bei denen eine Behandlung mit Deferoxamin kontraindiziert oder ungeeignet ist |
-| 67344 | Deferipron Lipomed 500 mg, Filmtabletten | Synthetika | Eisenüberladung bei Thalassaemia major bei Kontraindikation oder schwerer Toxizität von Deferoxamin |
+| 55679 | Ferriprox, Filmtabletten (Chiesi SA) | Filmtabletten | Behandlung der Eisenüberladung bei Patienten mit Thalassaemia major, bei denen eine Behandlung mit Deferoxamin kontraindiziert oder ungeeignet ist |
+| 67344 | Deferipron Lipomed 500 mg, Filmtabletten (Lipomed AG) | Filmtabletten | Eisenüberladung bei Thalassaemia major bei Kontraindikation oder schwerer Toxizität von Deferoxamin |
 
 ---
 
@@ -99,13 +87,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für die hepatische Porphyrie liegen weder klinische Studien noch Publikationen vor, die Vorhersage beruht allein auf dem Modell (L5). Zudem fehlen Angaben zu Wirkmechanismus und Sicherheit.
+- Für die Vorhersage gibt es weder klinische Studien noch Literatur. Der mögliche Zusammenhang über die Eisenbeladung der Leber ist nur eine Hypothese und betrifft nur einen Teil der hepatischen Porphyrien.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Literatur- und Studienrecherche zu Eisenchelation bei hepatischen Porphyrien
-- Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
-- Prüfung der Verträglichkeit und der Darreichungsform für die neue Anwendung
+- Gezielte Literaturrecherche zur Eisenchelation bei hepatischen Porphyrien, insbesondere Porphyria cutanea tarda
+- Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsprüfung
+- Klärung, ob eine Prüfung in klinischen Studien sinnvoll ist
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

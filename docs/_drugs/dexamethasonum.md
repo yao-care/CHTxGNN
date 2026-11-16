@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **9**
 
 ### Zusammenfassung
 
-Dexamethason ist ein Glukokortikoid mit breiter entzündungshemmender und immunsuppressiver Wirkung. Für die vorhergesagte neue Indikation Alopecia areata (alopecia areata), eine T-Zell-vermittelte Autoimmunerkrankung der Haarfollikel, liegt derzeit nur eine Modellvorhersage vor. Es gibt weder klinische Studien noch Literatur in den für diesen Bericht zusammengestellten Daten.
+Dexamethason ist ein Glucocorticoid, das in der Schweiz in mehreren Zubereitungen (Injektionslösungen, Augentropfen, intravitreales Implantat) im Handel ist. Für die Vorhersage, dass es bei Alopecia mucinosa (alopecia mucinosa) wirksam sein könnte, liegen derzeit weder klinische Studien noch Literatur vor. Die Aussage stützt sich allein auf ein Modell (Evidenzniveau L5).
 
 ---
 
@@ -59,26 +59,46 @@ Dexamethason ist ein Glukokortikoid mit breiter entzündungshemmender und immuns
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dexamethason wirkt als Agonist am Glukokortikoid-Rezeptor und hemmt dadurch entzündliche und immunologische Prozesse breit. Der ursprüngliche Wirkmechanismus ist in den vorliegenden Daten nicht dokumentiert. Die folgende Einordnung beruht daher auf allgemeiner Pharmakologie.
+Dexamethason ist ein Glucocorticoid mit entzündungshemmender und immunsuppressiver Wirkung. Der Wirkmechanismus ist in den für diesen Bericht zusammengestellten Daten nicht näher beschrieben; die folgenden Überlegungen beruhen daher auf dem allgemein bekannten Wirkprofil dieser Wirkstoffklasse.
 
-Bei Alopecia areata greifen T-Zellen die Haarfollikel an. Eine immunsuppressive Substanz kann diesen Prozess biologisch plausibel dämpfen. Diese Verbindung ist jedoch nicht durch Studien oder Publikationen belegt. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein Wirksamkeitsnachweis.
+Bei Alopecia mucinosa finden sich typischerweise Entzündungszellen rund um die Haarfollikel sowie Schleimablagerungen (Muzin). Eine entzündungshemmende Wirkung könnte hier grundsätzlich ansetzen. Kortikosteroide werden bei entzündlichen Haarfollikelerkrankungen klinisch eingesetzt.
+
+Dexamethason-spezifische Belege für diese Erkrankung fehlen jedoch. Allfällige Hinweise zu anderen Kortikosteroiden wären nur indirekt. Der hohe Vorhersagewert (0,9999) allein genügt nicht, um die Wirksamkeit anzunehmen.
+
+---
+
+### Klinische Studien
+
+Derzeit keine verwandten klinischen Studien registriert.
+
+---
+
+### Literaturbelege
+
+Derzeit keine verwandte Literatur verfügbar.
 
 ---
 
 ### Marktinformationen Schweiz
 
-Die Liste enthält mindestens 8 Zulassungen und kann unvollständig sein.
+Es sind mindestens 8 Zulassungen erfasst, die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
-| 66710 | Dexamethason Galepharm Amp 4mg/1ml, Injektionslösung | Synthetika | Glukokortikoid-Therapie |
-| 69719 | Dexocol 1 mg/ml, collyre en solution | Synthetika | Nicht infektiöse Entzündungen des vorderen Augenabschnitts |
-| 31890 | Mephameson 4 mg/ml, Injektionslösung | Synthetika | Glukokortikoid-Therapie |
-| 48669 | Fortecortin Inject 4 mg, Injektionslösung | Synthetika | Glukokortikoid-Therapie |
+| 66710 | Dexamethason Galepharm Amp 4mg/1ml, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
+| 69719 | Dexocol 1 mg/ml, collyre en solution | Synthetika | Behandlung nicht infektiöser Entzündungen des vorderen Augenabschnitts |
+| 31890 | Mephameson 4 mg/ml, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
+| 48669 | Fortecortin Inject 4 mg, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
 | 57477 | Dexafree UD 0,1%, collyre | Synthetika | Nicht infektiöse Augenentzündungen |
-| 60324 | Ozurdex, intravitreales Implantat in Applikator | Synthetika | Makulaödem nach retinalem Venenverschluss, nicht infektiöse Uveitis des hinteren Augenabschnitts, diabetisches Makulaödem |
+| 60324 | Ozurdex, intravitreales Implantat in Applikator | Synthetika | Makulaödem nach retinalem Venenastverschluss oder Zentralvenenverschluss; Entzündung des hinteren Augenabschnitts bei nicht infektiöser Uveitis; diabetisches Makulaödem |
 | 30058 | Maxidex, Augentropfensuspension | Synthetika | Nicht infizierte Augenentzündungen |
 | 41074 | Dexamethason Zentiva 5 mg, Injektionslösung | Synthetika | Glukokortikosteroid-Therapie |
+
+---
+
+### Sicherheitshinweise
+
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
@@ -87,14 +107,14 @@ Die Liste enthält mindestens 8 Zulassungen und kann unvollständig sein.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für Alopecia areata liegen keine klinischen Studien und keine Literatur vor (Evidenzniveau L5). Der hohe Vorhersagewert (0,9999) ersetzt keine Evidenz.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und der Wirkmechanismus ist nicht dokumentiert.
+- Es gibt keine klinischen Studien und keine Literatur zu Dexamethason bei Alopecia mucinosa; die Vorhersage beruht ausschliesslich auf dem Modell (L5).
+- Die Sicherheitsdaten aus der Fachinformation fehlen, sodass keine Sicherheitsbeurteilung möglich ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Gezielte Literaturrecherche zur systemischen und intraläsionalen Anwendung von Kortikosteroiden bei Alopecia areata
-- Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen)
-- Ergänzung der Wirkmechanismus-Daten
-- Prüfung der Anwendungswege (systemisch, intraläsional, topisch) für diese Indikation
+- Gezielte Literaturrecherche zu Kortikosteroiden (auch Dexamethason) bei Alopecia mucinosa und verwandten entzündlichen Haarfollikelerkrankungen
+- Auswertung der Fachinformationen von Swissmedic (Warnhinweise, Kontraindikationen)
+- Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klärung der geeigneten Darreichungsform (z. B. topisch, intraläsional oder systemisch) für die Hauterkrankung, da die in der Schweiz zugelassenen Zubereitungen vor allem Injektionslösungen und Augenpräparate sind
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

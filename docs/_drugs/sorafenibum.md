@@ -39,7 +39,7 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Sorafenib ist ein Multikinase-Hemmer, der in der Schweiz mit zwei gültigen Zulassungen im Handel ist. Die Vorhersage nennt als neue Anwendung das Liposarkom (liposarcoma). Die Evidenz ist begrenzt: Es liegt eine Phase-2-Studie bei fortgeschrittenen Weichteilsarkomen mit gemischten Tumortypen vor, aber keine Studie, die das Liposarkom gezielt untersucht. Der Evidenzgrad ist daher L5.
+Sorafenib ist ein Multikinase-Inhibitor, der in der Schweiz im Handel ist. Für das Liposarkom (liposarcoma) sagt das Modell eine mögliche Wirksamkeit voraus. Die Evidenz ist dünn: Es gibt keine Studie, die ausschliesslich Liposarkome untersucht, sondern nur Studien zu fortgeschrittenen Weichteilsarkomen insgesamt.
 
 ---
 
@@ -59,11 +59,9 @@ Sorafenib ist ein Multikinase-Hemmer, der in der Schweiz mit zwei gültigen Zula
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den Daten, die für diesen Bericht zusammengestellt wurden, keine Angaben aus einer Arzneimitteldatenbank vor. Aus der Literatur ist bekannt, dass Sorafenib mehrere Kinasen hemmt (RAF, VEGFR, PDGFR, KIT). Dadurch kann es die Neubildung von Tumorgefässen und den MAPK-Signalweg in Tumorzellen bremsen.
+Zum Wirkmechanismus liegen in den hier zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Sorafenib den RAF/MEK/ERK-Signalweg sowie die Rezeptoren VEGFR-2/3 und PDGFR-β hemmt. Das ergibt eine nachvollziehbare Begründung für eine gefässhemmende und wachstumshemmende Wirkung bei Weichteilsarkomen.
 
-Beide Signalwege spielen auch bei Weichteilsarkomen eine Rolle, zu denen das Liposarkom gehört. Die Phase-2-Studie SWOG S0505 zeigte bei fortgeschrittenen Weichteilsarkomen eine Wirkung vor allem bei Gefässsarkomen, bei anderen Tumortypen dagegen nur begrenzte Aktivität. Ein spezifischer Nutzen beim Liposarkom ist deshalb nicht belegt.
-
-Ergänzend gibt es präklinische Arbeiten an Zelllinien und Xenograft-Modellen des entdifferenzierten Liposarkoms. Sie stützen die Vorhersage, lassen sich aber nicht direkt auf Patientinnen und Patienten übertragen.
+Der Zusammenhang zum Liposarkom ist jedoch nur indirekt. Liposarkome werden vor allem durch eine MDM2/CDK4-Amplifikation (gut und entdifferenzierte Formen) oder durch FUS-DDIT3 (myxoider Typ) getrieben, nicht durch die Zielstrukturen von Sorafenib. Der sehr hohe Vorhersagewert dürfte vor allem von der Nähe zur breiteren Sarkomgruppe stammen. Eine Studie an entdifferenzierten Liposarkom-Xenograft-Modellen (PTEN-Herunterregulierung) stützt Sorafenib nicht direkt.
 
 ---
 
@@ -71,7 +69,7 @@ Ergänzend gibt es präklinische Arbeiten an Zelllinien und Xenograft-Modellen d
 
 | Studiennummer | Phase | Status | Teilnehmer | Wichtige Ergebnisse |
 |---------|------|------|------|---------|
-| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Abgeschlossen | 51 | Einarmige Studie mit Sorafenib bei fortgeschrittenen Weichteilsarkomen. Die Tumortypen waren gemischt, daher lässt sich die Wirkung beim Liposarkom nicht einzeln beurteilen. |
+| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | Abgeschlossen | 51 | Einarmige Studie zu Sorafenib bei fortgeschrittenen Weichteilsarkomen. Gemischte Histologien, nicht liposarkomspezifisch; keine Ergebnisse in den Daten angegeben. |
 
 ---
 
@@ -79,12 +77,12 @@ Ergänzend gibt es präklinische Arbeiten an Zelllinien und Xenograft-Modellen d
 
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
-| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Phase-2-Studie (SWOG S0505) | Cancer | Sorafenib bei fortgeschrittenen Weichteilsarkomen; Aktivität vor allem bei Gefässsarkomen. |
-| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Phase-1-Studie | Annals of Surgical Oncology | Sorafenib mit präoperativer Strahlentherapie bei lokal fortgeschrittenem Weichteilsarkom der Extremitäten. |
-| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Übersichtsarbeit | Annals of Oncology | Die Behandlung von Weichteilsarkomen richtet sich zunehmend nach dem Gewebetyp. Für das Liposarkom wird Trabectedin genannt. |
-| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Übersichtsarbeit | Magyar Onkologia | Medikamentöse Therapie von Weichteilsarkomen nach Gewebetyp. |
-| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | Präklinisch | Molecular Cancer Therapeutics | Sorafenib hemmt Wachstum und MAPK-Signalweg in Zelllinien von malignen peripheren Nervenscheidentumoren und entdifferenziertem Liposarkom. |
-| [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | Präklinisch | The American Journal of Pathology | Xenograft-Modelle des entdifferenzierten Liposarkoms; Ansprechen auf Hemmung des PI3K-Signalwegs. |
+| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Phase-2-Studie (SWOG S0505) | Cancer | Sorafenib bei fortgeschrittenen Weichteilsarkomen; Sorafenib hemmt u. a. RAF, VEGFR1–3, PDGFR-B, FLT3 und c-Kit. Ergebnisse im verfügbaren Abstract nicht enthalten. |
+| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Phase-1-Studie | Annals of Surgical Oncology | Neoadjuvante Strahlentherapie plus Sorafenib bei lokal fortgeschrittenem Extremitäten-Weichteilsarkom. |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Übersichtsarbeit | Annals of Oncology | Weichteilsarkome werden zunehmend nach Histologie behandelt; Trabectedin zeigt Wirkung bei Liposarkomen. Sorafenib ist nicht der Schwerpunkt. |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Übersichtsarbeit | Magyar Onkologia | Histologiebasierte medikamentöse Behandlung von Weichteilsarkomen. |
+| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | Präklinisch | Molecular Cancer Therapeutics | Sorafenib hemmt Wachstum und MAPK-Signalweg in Zelllinien maligner peripherer Nervenscheidentumoren; untersucht wurden auch entdifferenzierte Liposarkom-Zelllinien. |
+| [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | Präklinisch | American Journal of Pathology | Neue Xenograft-Modelle des entdifferenzierten Liposarkoms; Ansprechen auf Hemmung des PI3K-Signalwegs, nicht auf Sorafenib. |
 
 ---
 
@@ -102,12 +100,8 @@ Ergänzend gibt es präklinische Arbeiten an Zelllinien und Xenograft-Modellen d
 | Punkt | Inhalt |
 |------|------|
 | Zytotoxizitätsklassifikation | Zielgerichtete Therapie (Multikinase-Inhibitor) |
-| Myelosuppressionsrisiko | Niedrig |
-| Emetogenitätsklassifikation | Niedrig |
-| Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Blutdruck |
-| Handhabungsschutz | Die üblichen Vorsichtsmassnahmen für orale Krebsmedikamente genügen. |
 
-Diese Einstufung beruht auf allgemeinem Fachwissen und nicht auf den zusammengestellten Daten; sie ist anhand der Fachinformation zu prüfen.
+Weitere Angaben (Myelosuppressionsrisiko, Emetogenität, Überwachung, Handhabungsschutz) sind in den zusammengestellten Daten nicht enthalten; bitte die Fachinformation beachten.
 
 ---
 
@@ -122,13 +116,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist hoch, aber keine Studie untersucht das Liposarkom gezielt. Die einzige klinische Studie umfasst gemischte Weichteilsarkome und zeigte vor allem bei Gefässsarkomen Aktivität.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, sodass die Sicherheit noch nicht beurteilt werden kann.
+- Keine zusammengestellte Studie untersucht das Liposarkom selbst; die vorhandene Evidenz betrifft gemischte Weichteilsarkome. Der Zusammenhang zu den Zielstrukturen von Sorafenib ist indirekt, und die Sicherheitsdaten fehlen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Liposarkom-Untergruppe aus den vorliegenden Weichteilsarkom-Studien oder eine eigene Studie beim Liposarkom
-- Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+- Auswertung der Ergebnisse der Phase-2-Studien (NCT00217620, SWOG S0505), insbesondere der Liposarkom-Untergruppe
+- Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Klärung, ob Sorafenib einen Vorteil gegenüber den etablierten, histologiebasierten Therapien des Liposarkoms bietet
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
