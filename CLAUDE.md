@@ -33,3 +33,15 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 本站 2026-10-31～11-06 沒有刪改正文許可證子句的提交（許可證矛盾句掃描結果為 0 頁），所以紀錄從 0 筆開始；之後的更正、加註、重審都記在 `docs/_data/drug_reviews.json`。
 原適應症交叉驗證 2026-11-12 列了 2 頁待查（alglucosidase_alfa、metamizole）：兩頁的原適應症跟 Swissmedic 資料一致，只是資料的適應症欄是法文或義大利文（Maladie de Pompe、Analgesico），德文詞組比不到；留在待查清單，人工對照後標 resolved。
 
+## 新資料查不到的許可證（2026-11-17）
+
+每週排程原本把「包裝清單（Zugelassene Packungen HAM）查不到」的許可號保留原狀態，CH 每週都因同一批 91 張超過 2% 開 issue。
+2026-11-17 用戶要求確認實際狀態：下載 Swissmedic 全部現行清單逐號比對——20 張在藥品清單（Zugelassene Arzneimittel HAM）有、
+包裝清單沒有，仍是現行許可；71 張 2026-03 的包裝清單還在、11 月所有現行清單都沒有（35 張效期已過，36 張效期未到但已撤回／放棄）。
+- `scripts/license_adapter.py` 另下載藥品清單：只在藥品清單的號照它的有效期限算；兩份都沒有的號由 preprocess 標
+  `license_status: cancelled`＋`swissmedic_not_listed`（第一次發現日），又出現在清單就取消；任一清單下載失敗不判定。
+  `confirmed_absent()` 讓排程把這些列成「主管機關現行清單確認已不列」，不算「查不到」、不開 issue（母目錄 license_refresh 的掛鉤）。
+- 48 頁狀態列／張數列照事實層同步；正文寫「全部有效」而相反的 3 頁以 `ch-lic-20261117-*` 更正；全部註銷的 4 頁依成分確認
+  （bezlotoxumab、chloramphenicol、phenol 現行 0 個產品；ritonavir 單方 0、複方 Paxlovid／Kaletra 糖漿仍在）。
+- 同日另修：pheniramine 正文主題跟主預測不一致（重產報告）；6 個公開頁補 FHIR（front matter 補 drugbank_id）、2 個藥刪掉不在 kept 的 ClinicalUseDefinition。
+
