@@ -9,6 +9,7 @@ last_modified_at: 2026-10-28
 description: "Echinacea: vorhergesagte neue Indikation Lepra (Evidenzstufe L5). Ursprüngliche Indikation: Homöopathisch zur Steigerung der Abwehrkräfte bei Neigung zu Erkältun…"
 monitor_inn: "ECHINACEA"
 predicted_indications: ["leprosy", "candidiasis", "pneumocystosis"]
+drugbank_id: DB14240
 ---
 
 # Echinacea

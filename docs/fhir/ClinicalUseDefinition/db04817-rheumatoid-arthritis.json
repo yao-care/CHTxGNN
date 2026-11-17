@@ -1,27 +1,27 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "db01409-asthma",
+  "id": "db04817-rheumatoid-arthritis",
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/db01409"
+      "reference": "MedicationKnowledge/db04817"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "asthma"
+        "text": "rheumatoid arthritis"
       }
     }
   },
   "extension": [
     {
       "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L4"
     },
     {
       "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.5
+      "valueDecimal": 0.9978
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "db06636-black-piedra",
+  "id": "db13256-insomnia-(disease)",
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/db06636"
+      "reference": "MedicationKnowledge/db13256"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "black piedra"
+        "text": "insomnia (disease)"
       }
     }
   },
@@ -21,7 +21,7 @@
     },
     {
       "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.5
+      "valueDecimal": 0.9984
     }
   ]
 }

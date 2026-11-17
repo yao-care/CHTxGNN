@@ -1,16 +1,16 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "db01409-intrinsic-asthma",
+  "id": "db14240-candidiasis",
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/db01409"
+      "reference": "MedicationKnowledge/db14240"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "intrinsic asthma"
+        "text": "candidiasis"
       }
     }
   },
@@ -21,7 +21,7 @@
     },
     {
       "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.5
+      "valueDecimal": 0.9925
     }
   ]
 }

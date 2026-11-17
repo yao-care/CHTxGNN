@@ -1,16 +1,16 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "db01409-pulmonary-emphysema",
+  "id": "db04817-exostosis",
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/db01409"
+      "reference": "MedicationKnowledge/db04817"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "pulmonary emphysema"
+        "text": "exostosis"
       }
     }
   },
@@ -21,7 +21,7 @@
     },
     {
       "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.5
+      "valueDecimal": 0.9969
     }
   ]
 }

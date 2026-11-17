@@ -9,6 +9,7 @@ last_modified_at: 2026-10-28
 description: "Xylitol: vorhergesagte neue Indikation Meningokokken-Infektion (Evidenzstufe L5). Ursprüngliche Indikation: Kardioplegie-Lösung bei Herzoperationen"
 monitor_inn: "xylitol"
 predicted_indications: ["meningococcal infection"]
+drugbank_id: DB11195
 ---
 
 # Xylitol

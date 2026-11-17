@@ -1,16 +1,16 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "db06636-white-piedra",
+  "id": "db14256-sleep-disorder-initiating-and-maintaining-sleep",
   "type": "indication",
   "subject": [
     {
-      "reference": "MedicationKnowledge/db06636"
+      "reference": "MedicationKnowledge/db14256"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "white piedra"
+        "text": "sleep disorder, initiating and maintaining sleep"
       }
     }
   },
@@ -21,7 +21,7 @@
     },
     {
       "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.5
+      "valueDecimal": 0.9903
     }
   ]
 }
