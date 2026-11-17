@@ -53,7 +53,7 @@ Docetaxel ist ein zytostatisch wirkendes Taxan, das in der Schweiz im Handel ist
 | Vorhergesagte neue Indikation | Ewing-Sarkom (Ewing sarcoma) |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L2 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
 | Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 

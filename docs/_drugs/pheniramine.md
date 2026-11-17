@@ -2,13 +2,14 @@
 layout: default
 title: Pheniramine
 parent: Nur Modellvorhersage (L5)
-nav_order: 71
+nav_order: 453
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
-description: "Pheniramine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
+drugbank_id: DB01620
 monitor_inn: "pheniramine"
 predicted_indications: ["nasal cavity disease"]
+last_modified_at: 2026-11-17
+description: "Pheniramine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
 ---
 
 # Pheniramine
@@ -33,63 +34,42 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 </div>
 
-## Pheniramin: Von Erkältungskrankheiten zu Erkrankung der Nasenhöhle
+## Pheniramine: Erkrankung der Nasenhöhle (nasal cavity disease)
 {: .text-alpha }
 
 ---
 
-## Zusammenfassung
+### Zusammenfassung
 
-Pheniramin ist ein Antihistaminikum der ersten Generation und wird in der Schweiz zur symptomatischen Behandlung bei Erkältungskrankheiten eingesetzt. Es könnte voraussichtlich auch bei allergischer Urtikaria (Nesselsucht) wirksam sein, weil es Histamin-H1-Rezeptoren blockiert. Die Datenlage ist jedoch schwach: Es liegen nur eine Modellvorhersage und vier Publikationen vor (drei Fallberichte zu Nebenwirkungen bzw. Differenzialdiagnosen sowie eine Übersicht zu einem anderen Wirkstoff), aber keine Studien zur Wirksamkeit von Pheniramin bei Urtikaria.
+Pheniramin ist ein Antihistaminikum der ersten Generation, das in der Schweiz in Kombinationspräparaten gegen Erkältungskrankheiten eingesetzt wird. Für die Erkrankung der Nasenhöhle (nasal cavity disease) wurde ein hoher TxGNN-Vorhersagewert errechnet. Dafür liegen bisher weder klinische Studien noch Publikationen vor; die Vorhersage beruht allein auf dem Modell.
 
 ---
 
-## Kurzübersicht
+### Kurzübersicht
 
 | Punkt | Inhalt |
 |------|------|
 | Ursprüngliche Indikation | Symptomatische Behandlung bei Erkältungskrankheiten |
-| Vorhergesagte neue Indikation | Allergische Urtikaria |
-| TxGNN-Vorhersagewert | 0,9928 |
-| Evidenzniveau | L5 (nur Mechanismusbegründung, keine Wirksamkeitsstudien) |
+| Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
+| TxGNN-Vorhersagewert | 0.9928 |
+| Evidenzniveau | L5 |
 | Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
 | Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
 
-## Warum ist diese Vorhersage plausibel?
+### Warum ist diese Vorhersage plausibel?
 
-Pheniramin gehört zu den Alkylamin-Antihistaminika der ersten Generation. Für den Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Die Wirkung beruht nach allgemeinem pharmakologischem Wissen auf der Blockade des Histamin-H1-Rezeptors.
+Pheniramin blockiert als Antihistaminikum der ersten Generation den Histamin-H1-Rezeptor und wirkt zusätzlich anticholinergisch. Der Wirkmechanismus ist in den vorliegenden Daten nicht näher beschrieben, die Einordnung beruht auf der Wirkstoffklasse.
 
-Bei der Urtikaria sind Histamin-vermittelte Quaddeln, Rötung und Juckreiz zentral. Die H1-Blockade ist daher biologisch plausibel, und der sehr hohe TxGNN-Wert passt dazu. Die ursprüngliche Erkältungsindikation betrifft ebenfalls Symptome, die teils histaminerg bedingt sind. Es handelt sich deshalb eher um eine Ausweitung des Einsatzes innerhalb der Antihistaminika-Klasse als um eine wirklich neue Umwidmung.
+Histamin fördert in der Nasenschleimhaut Entzündung und Sekretion. Eine H1-Blockade kann daher Symptome wie Schnupfen, Niesen und verstopfte Nase lindern. Dies erklärt, warum das Modell eine Erkrankung der Nasenhöhle vorhersagt.
 
-Einschränkend gilt: Die gefundene Literatur liefert keinen Wirksamkeitsnachweis für Pheniramin bei Urtikaria. Antihistaminika der ersten Generation verursachen zudem Sedierung und anticholinerge Effekte, weshalb Leitlinien bei Urtikaria Antihistaminika der zweiten Generation bevorzugen.
-
-Weitere Vorhersagen des Modells (jeweils nur Modellvorhersage ohne Studien oder Literatur):
-- Erkrankung der Nasenhöhle (99,3 %)
-- Akute Laryngopharyngitis (99,2 %)
+Der hohe Wert spiegelt jedoch wahrscheinlich vor allem die Nähe zur bereits zugelassenen Anwendung und die Zugehörigkeit zur Antihistaminika-Klasse wider, nicht ein unabhängiges neues Signal. Die Vorhersage ist daher eher eine Umschreibung der bestehenden Anwendung als eine echte Umwidmungschance.
 
 ---
 
-## Klinische Studien
-
-Derzeit keine verwandten klinischen Studien registriert
-
----
-
-## Literaturbelege
-
-| PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
-|------|-----|------|------|---------|
-| [40324831](https://pubmed.ncbi.nlm.nih.gov/40324831/) | 2025 | Fallbericht | Indian Journal of Pharmacology | Bewusstlosigkeit nach gleichzeitiger intravenöser Gabe von Pheniramin und Hydrocortison bei der Behandlung einer allergischen Reaktion. Hinweis auf eine Nebenwirkung, kein Wirksamkeitsnachweis. |
-| [40125237](https://pubmed.ncbi.nlm.nih.gov/40125237/) | 2025 | Fallbericht | Cureus | Sofortreaktion (Überempfindlichkeit) auf Pheniramin bei einem Multiple-Drug-Hypersensitivity-Syndrom. |
-| [16854350](https://pubmed.ncbi.nlm.nih.gov/16854350/) | 2006 | Fallbericht | Allergologia et Immunopathologia | Lebensbedrohliches Gesichtsödem bei einem Kind nach Verschlucken einer Pinienprozessionsspinner-Raupe, das eine allergische Reaktion nachahmte. Kein direkter Bezug zur Wirksamkeit von Pheniramin. |
-| [2859711](https://pubmed.ncbi.nlm.nih.gov/2859711/) | 1985 | Übersichtsarbeit (anderer Wirkstoff: Astemizol) | Zeitschrift für Hautkrankheiten | Übersicht zu 39 Studien mit Astemizol bei Heuschnupfen, allergischer Rhinitis und chronischer Urtikaria. Betrifft nicht Pheniramin. |
-
----
-
-## Marktinformationen Schweiz
+### Marktinformationen Schweiz
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -100,35 +80,26 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ---
 
-## Sicherheitshinweise
+### Sicherheitshinweise
 
-- **Hinweise aus dem Wissensgraphen (keine Angaben aus der Fachinformation):** Im Wissensgraphen sind Kontraindikationen bzw. Vorsichtshinweise zu folgenden Erkrankungsgruppen hinterlegt:
-  - Herz-Kreislauf und Stoffwechsel: Bluthochdruck, Diabetes mellitus, diabetische Ketoazidose, Hyperglykämie, Hypothyreose (inkl. Myxödem und angeborene Hypothyreose)
-  - Leber, Niere, Magen-Darm: Leberversagen, Lebererkrankung, Nierenerkrankung, Gallenblasenerkrankung, Pankreatitis, Magengeschwür, Magen-Darm-Geschwür, Gastritis, chronisch-entzündliche Darmerkrankung, Pyoureter
-  - Atemwege: chronisch obstruktive Lungenerkrankung (COPD), Bronchitis
-  - Nervensystem und Psyche: Epilepsie, Schlaflosigkeit, psychotische Störungen, schizophreniforme und schizoaffektive Störung, psychische Erkrankungen
-  - Weitere: benigne Prostatahyperplasie, Thrombozytopenie, Dermatitis herpetiformis
-- **Nebenwirkungen aus der Literatur:** Fallberichte beschreiben Bewusstlosigkeit bei intravenöser Gabe zusammen mit Hydrocortison sowie eine Sofortreaktion auf Pheniramin selbst.
-- **Allgemein:** Antihistaminika der ersten Generation verursachen Sedierung und anticholinerge Effekte.
-
-Zu Warnungen, Kontraindikationen laut Fachinformation und Wechselwirkungen liegen keine Daten vor. Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
+Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ---
 
-## Fazit und nächste Schritte
+### Fazit und nächste Schritte
 
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Der Vorhersagewert ist sehr hoch und der Mechanismus (H1-Blockade) plausibel. Es gibt aber keine Studien und keine Literatur zur Wirksamkeit von Pheniramin bei Urtikaria.
-- Zweitgenerations-Antihistaminika sind bei Urtikaria Standard und besser verträglich. Der zusätzliche Nutzen von Pheniramin ist daher fraglich.
+- Die Vorhersage stützt sich nur auf das Modell (L5); es gibt weder klinische Studien noch Literatur zur Erkrankung der Nasenhöhle.
+- Der hohe Wert dürfte vor allem die Nähe zur bestehenden Anwendung widerspiegeln, sodass kaum ein eigenständiger neuer Nutzen erkennbar ist.
 
 **Um fortzufahren, wird Folgendes benötigt:**
-- Auswertung der Fachinformation von Swissmedic (Warnungen und Kontraindikationen). Dieser Punkt blockiert derzeit die Sicherheitsprüfung.
-- Ergänzung des Wirkmechanismus aus DrugBank.
-- Gezielte Literaturrecherche nach kontrollierten Studien zu Pheniramin bei Urtikaria.
-- Vergleich mit Antihistaminika der zweiten Generation hinsichtlich Wirksamkeit und Verträglichkeit.
-- Klärung der Darreichungsform: Die in der Schweiz zugelassenen Produkte sind Pulver bzw. Granulat zur Herstellung einer Lösung zum Einnehmen, und die Kompatibilität der Applikationswege wurde noch nicht geprüft.
+- Klinische Studien oder Publikationen, die Pheniramin bei Erkrankungen der Nasenhöhle direkt untersuchen
+- Der Wirkmechanismus aus einer verlässlichen Quelle
+- Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
+- Eine Prüfung der Wechselwirkungen, da hierzu keine Daten vorliegen
+- Eine Klärung, ob die Vorhersage über die bestehende Erkältungsindikation hinausgeht
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

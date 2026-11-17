@@ -52,7 +52,7 @@ Stickstoff (DrugBank DB09152) ist in der Schweiz als Bestandteil von Infusionsl�
 | Vorhergesagte neue Indikation | 16q24.1-Mikrodeletionssyndrom |
 | TxGNN-Vorhersagewert | 0,9973 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
 | Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Abwarten |
 

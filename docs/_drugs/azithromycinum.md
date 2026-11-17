@@ -53,7 +53,7 @@ Azithromycin ist ein Makrolid-Antibiotikum, das in der Schweiz mit mehreren Zula
 | Vorhergesagte neue Indikation | Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) |
 | TxGNN-Vorhersagewert | 0.9981 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

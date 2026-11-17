@@ -50,7 +50,7 @@ Isoleucin ist eine verzweigtkettige Aminosäure, die in der Schweiz in Infusions
 | Vorhergesagte neue Indikation | Gastroparese (gastroparesis) |
 | TxGNN-Vorhersagewert | 0,9932 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

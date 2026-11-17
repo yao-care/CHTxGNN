@@ -53,8 +53,8 @@ Travoprost ist ein Prostaglandin-F2α-Analogon, das als Augentropfen in der Schw
 | Vorhergesagte neue Indikation | Viszerale Kalziphylaxie (visceral calciphylaxis) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

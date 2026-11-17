@@ -52,7 +52,7 @@ Tyrosin wird in der Schweiz als Bestandteil von Aminosäurelösungen für die pa
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom |
 | TxGNN-Vorhersagewert | 0,9977 |
 | Evidenzniveau | L5 (nur Modellvorhersage) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 9) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 9 |
 | Empfohlene Entscheidung | Abwarten |
 

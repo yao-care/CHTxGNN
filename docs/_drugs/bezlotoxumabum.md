@@ -53,8 +53,8 @@ Bezlotoxumab ist ein Antikörper, der das Toxin B von Clostridioides difficile n
 | Vorhergesagte neue Indikation | Akute weibliche Beckenperitonitis (acute female pelvic peritonitis) |
 | TxGNN-Vorhersagewert | 0.9989 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 0) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

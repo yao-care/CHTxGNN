@@ -50,7 +50,7 @@ Histidin ist eine Aminosäure, die in der Schweiz in Infusionslösungen zur pare
 | Vorhergesagte neue Indikation | Gastroparese (gastroparesis) |
 | TxGNN-Vorhersagewert | 0,9955 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

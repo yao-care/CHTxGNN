@@ -51,8 +51,8 @@ Codeinphosphat Hemihydrat wird in der Schweiz als Hustenmittel eingesetzt. Das M
 | Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9993 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
-| Anzahl Zulassungen | 9 (gültig: 9) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 9) |
+| Anzahl Zulassungen | 9 (gültig: 7) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

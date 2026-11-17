@@ -50,7 +50,7 @@ Glutaminsäure ist eine körpereigene Aminosäure, die in der Schweiz als Toniku
 | Vorhergesagte neue Indikation | postmenopausale Osteoporose (postmenopausal osteoporosis) |
 | TxGNN-Vorhersagewert | 0,9934 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
 | Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Abwarten |
 

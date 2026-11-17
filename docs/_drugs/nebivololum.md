@@ -53,8 +53,8 @@ Nebivolol ist in der Schweiz als Betablocker zugelassen. Für die maligne hypert
 | Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9942 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
-| Anzahl Zulassungen | 6 (gültig: 6) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

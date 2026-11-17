@@ -51,7 +51,7 @@ Bisoprolol ist ein selektiver Beta-1-Rezeptorenblocker, der in der Schweiz in me
 | Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9994 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
 | Anzahl Zulassungen | mindestens 4 |
 | Empfohlene Entscheidung | Abwarten |
 

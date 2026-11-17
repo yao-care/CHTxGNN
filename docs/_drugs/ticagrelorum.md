@@ -53,7 +53,7 @@ Ticagrelor ist ein Thrombozytenaggregationshemmer, der in der Schweiz in Kombina
 | Vorhergesagte neue Indikation | Intrakranielle Arteriosklerose (intracranial arteriosclerosis) |
 | TxGNN-Vorhersagewert | 0.9997 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
 | Anzahl Zulassungen | mindestens 4 |
 | Empfohlene Entscheidung | Abwarten |
 

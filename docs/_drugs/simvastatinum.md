@@ -53,7 +53,7 @@ Simvastatin ist ein Statin, das in der Schweiz zugelassen ist und im Handel erh�
 | Vorhergesagte neue Indikation | Hirnstamminfarkt (brain stem infarction) |
 | TxGNN-Vorhersagewert | 0.9941 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
 | Anzahl Zulassungen | mindestens 3 |
 | Empfohlene Entscheidung | Abwarten |
 

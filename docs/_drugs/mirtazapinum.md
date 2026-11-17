@@ -53,7 +53,7 @@ Mirtazapin ist in der Schweiz als Antidepressivum zugelassen. Für das Ohdo-Synd
 | Vorhergesagte neue Indikation | Ohdo-Syndrom und Varianten (Ohdo syndrome and variants) |
 | TxGNN-Vorhersagewert | 0.9942 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
 | Anzahl Zulassungen | mindestens 4 |
 | Empfohlene Entscheidung | Abwarten |
 

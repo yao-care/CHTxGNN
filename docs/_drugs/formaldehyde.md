@@ -52,8 +52,8 @@ Formaldehyd (Handelsname Tannosynt flüssig) wird in der Schweiz zur Behandlung 
 | Vorhergesagte neue Indikation | Diffuse kutane Leishmaniose |
 | TxGNN-Vorhersagewert | 0,9993 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

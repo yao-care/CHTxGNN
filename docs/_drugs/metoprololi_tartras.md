@@ -53,7 +53,7 @@ Metoprolol ist ein Betablocker, der in der Schweiz mehrfach zugelassen ist. Das 
 | Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9991 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 2) |
 | Anzahl Zulassungen | mindestens 3 |
 | Empfohlene Entscheidung | Abwarten |
 

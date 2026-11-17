@@ -52,7 +52,7 @@ Alanin ist eine nicht-essenzielle Aminosäure. Sie wird in der Schweiz zur paren
 | Vorhergesagte neue Indikation | Gastroparese |
 | TxGNN-Vorhersagewert | 0,9937 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

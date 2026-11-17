@@ -52,7 +52,7 @@ Valin ist eine verzweigtkettige Aminosäure, die in der Schweiz in Infusionslös
 | Vorhergesagte neue Indikation | Sklerosierende Cholangitis (sclerosing cholangitis) |
 | TxGNN-Vorhersagewert | 0,9942 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

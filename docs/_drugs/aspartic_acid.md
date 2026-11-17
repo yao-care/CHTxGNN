@@ -50,7 +50,7 @@ Asparaginsäure ist eine nicht-essenzielle Aminosäure, die in Infusionslösunge
 | Vorhergesagte neue Indikation | Renale tubuläre Azidose (renal tubular acidosis) |
 | TxGNN-Vorhersagewert | 0,9947 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
 | Anzahl Zulassungen | mindestens 6 |
 | Empfohlene Entscheidung | Abwarten |
 

@@ -1,5 +1,66 @@
 {
  "_doc": "藥物頁人工查核紀錄（單一真實來源；2026-11-12 建，核心流程比照 TwTxGNN docs/_data/drug_reviews.json，欄位相同）。每筆＝一次查核：drug／file／claim（頁面原句）／replacement（更正後）／note（頁面上顯示的說明，用本站語言）／finding（內部查證結論）／sources（網址＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 附來源段落｜rereview_result 重審結果｜header_level｜description_level）。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；改寫頁面的程式結尾都會重套，scripts/check_seo_docs.py 第 17 項擋未套用的紀錄。原則：基本事實照主管機關資料更正；模型預測原文不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新。2026-10-31～11-06 正文裡跟許可證事實矛盾、直接刪掉的子句，2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入（id 以 <站碼>-lic- 開頭）；報告在 11 月經 AI 重產、原句已不在頁面的標 status=resolved_by_regeneration。同 id 重發時前版存進 history（retired、reason），不覆蓋丟棄。",
  "schema_version": 1,
- "records": []
+ "records": [
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
+   "drug": "azathioprinum",
+   "file": "azathioprinum.md",
+   "id": "ch-lic-20261117-azathioprinum-1",
+   "finding": "正文說 3 張許可全部有效；Zulassung 63011（Azafalk 75 mg）2026-03 的包裝清單還在、2026-11-17 包裝清單與藥品清單都沒有，現行有效的是 31887（Imurek）、55578（Azarek）",
+   "claim": "Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
+   "replacement": "Nach den lokalen Daten sind zwei der drei Zulassungen gültig; die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
+   "note": "Swissmedic führt die Zulassung 63011 (Azafalk 75 mg) seit 2026 nicht mehr in den Listen der zugelassenen Arzneimittel und Packungen (Stand 2026-11-17); gültig sind 31887 und 55578.",
+   "summary": "„alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen)"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
+   "drug": "dextromethorphanum",
+   "file": "dextromethorphanum.md",
+   "id": "ch-lic-20261117-dextromethorphanum-1",
+   "finding": "正文說 17 張全部有效；Zulassung 59309（Irotussin Antitussivum）許可效期 2026-05-31 已過，2026-11-17 兩份現行清單都沒有",
+   "claim": "Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
+   "replacement": "16 der 17 Zulassungen sind gültig (die Zulassung 59309, Irotussin Antitussivum, ist abgelaufen); alle betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
+   "note": "Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+   "summary": "„alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen)"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
+   "drug": "ritonavirum",
+   "file": "ritonavirum.md",
+   "id": "ch-lic-20261117-ritonavirum-1",
+   "finding": "正文說 ritonavir 以有效許可在瑞士上市；唯一的單方許可 60090（Norvir）2026-11-17 兩份現行清單都沒有；含 ritonavir 的複方 Kaletra 糖漿（55649）、Paxlovid（68793）仍在包裝清單",
+   "claim": "Ritonavir ist ein Arzneimittel, das in der Schweiz mit einer gültigen Zulassung im Handel ist.",
+   "replacement": "Die einzige erfasste Schweizer Einzelpräparat-Zulassung von Ritonavir (Norvir, 60090) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; als Bestandteil von Kombinationspräparaten (z. B. Paxlovid, Kaletra Sirup) ist Ritonavir weiterhin zugelassen.",
+   "note": "Norvir (Zulassung 60090) ist in den Swissmedic-Listen vom 2026-11-17 nicht mehr enthalten; Paxlovid (68793) und Kaletra Sirup (55649) mit Ritonavir sind weiterhin zugelassen.",
+   "summary": "„mit gültiger Zulassung im Handel“ → Einzelpräparat nicht mehr zugelassen, Kombinationen weiterhin zugelassen"
+  }
+ ]
 }

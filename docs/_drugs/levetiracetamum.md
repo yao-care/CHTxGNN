@@ -53,7 +53,7 @@ Levetiracetam ist in der Schweiz als Antiepileptikum zugelassen. Die Vorhersage 
 | Vorhergesagte neue Indikation | Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 3) |
 | Anzahl Zulassungen | mindestens 4 |
 | Empfohlene Entscheidung | Abwarten |
 

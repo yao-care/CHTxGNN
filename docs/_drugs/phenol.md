@@ -52,8 +52,8 @@ Phenol (Tannosynt fl체ssig) ist in der Schweiz zur Behandlung entz체ndlicher, n�
 | Vorhergesagte neue Indikation | Acrodermatitis chronica atrophicans |
 | TxGNN-Vorhersagewert | 0,9995 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tats채chlichen Studien) |
-| Marktstatus Schweiz | Im Handel (g체ltige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (g체ltig: 1) |
+| Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (g체ltig: 0) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

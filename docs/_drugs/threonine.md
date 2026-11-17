@@ -52,7 +52,7 @@ Threonin ist eine essenzielle Aminosäure, die in der Schweiz als Bestandteil vo
 | Vorhergesagte neue Indikation | Gastroparese |
 | TxGNN-Vorhersagewert | 0,9932 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

@@ -39,7 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **3**
 
 ### Zusammenfassung
 
-Ritonavir ist ein Arzneimittel, das in der Schweiz mit einer gültigen Zulassung im Handel ist. Als neue Indikation wird das feline erworbene Immunschwächesyndrom (feline acquired immunodeficiency syndrome) vorhergesagt. Hierfür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modellwert, die Evidenz ist daher sehr schwach (Niveau L5).
+Die einzige erfasste Schweizer Einzelpräparat-Zulassung von Ritonavir (Norvir, 60090) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; als Bestandteil von Kombinationspräparaten (z. B. Paxlovid, Kaletra Sirup) ist Ritonavir weiterhin zugelassen. Als neue Indikation wird das feline erworbene Immunschwächesyndrom (feline acquired immunodeficiency syndrome) vorhergesagt. Hierfür liegen weder klinische Studien noch Literatur vor; die Vorhersage beruht allein auf dem Modellwert, die Evidenz ist daher sehr schwach (Niveau L5).
+
+<!-- review:begin ch-lic-20261117-ritonavirum-1 -->
+
+> **Prüfkorrektur (2026-11-17)**: Ursprünglich stand hier: „Ritonavir ist ein Arzneimittel, das in der Schweiz mit einer gültigen Zulassung im Handel ist.“ Norvir (Zulassung 60090) ist in den Swissmedic-Listen vom 2026-11-17 nicht mehr enthalten; Paxlovid (68793) und Kaletra Sirup (55649) mit Ritonavir sind weiterhin zugelassen. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261117-ritonavirum-1 -->
 
 ---
 
@@ -51,8 +57,8 @@ Ritonavir ist ein Arzneimittel, das in der Schweiz mit einer gültigen Zulassung
 | Vorhergesagte neue Indikation | Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 0) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -105,6 +111,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Untersuchungen (z. B. im Labor), ob Ritonavir die FIV-Protease hemmt
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Klärung, ob ein tierärztlicher Einsatz überhaupt vorgesehen und rechtlich möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-17 | „mit gültiger Zulassung im Handel“ → Einzelpräparat nicht mehr zugelassen, Kombinationen weiterhin zugelassen | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

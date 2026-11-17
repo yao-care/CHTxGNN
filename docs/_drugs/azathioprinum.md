@@ -51,8 +51,8 @@ Azathioprin ist ein Immunsuppressivum, das in der Schweiz von mehreren Herstelle
 | Vorhergesagte neue Indikation | Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -81,7 +81,13 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.
+Nach den lokalen Daten sind zwei der drei Zulassungen gültig; die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.
+
+<!-- review:begin ch-lic-20261117-azathioprinum-1 -->
+
+> **Prüfkorrektur (2026-11-17)**: Ursprünglich stand hier: „Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.“ Swissmedic führt die Zulassung 63011 (Azafalk 75 mg) seit 2026 nicht mehr in den Listen der zugelassenen Arzneimittel und Packungen (Stand 2026-11-17); gültig sind 31887 und 55578. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261117-azathioprinum-1 -->
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -102,6 +108,19 @@ Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jewei
 - Die Fachinformation mit Warnhinweisen und Kontraindikationen aus Swissmedic, da Sicherheitsdaten in den vorliegenden Daten fehlen
 - Die Angabe zum Wirkmechanismus aus DrugBank
 - Belege für eine tatsächliche Rolle immunvermittelter Prozesse bei diesem Syndrom, etwa aus präklinischen Studien oder Fallberichten
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-17 | „alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

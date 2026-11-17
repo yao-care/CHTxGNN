@@ -51,8 +51,8 @@ Goserelin ist ein GnRH-Agonist (Gonadotropin-Releasing-Hormon), der in der Schwe
 | Vorhergesagte neue Indikation | Amenorrhö (amenorrhea (disease)) |
 | TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 2) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

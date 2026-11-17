@@ -52,8 +52,8 @@ Chloramphenicol ist in der Schweiz als Augentropfen (in Kombination mit Dexameth
 | Vorhergesagte neue Indikation | Diffuse scleroderma |
 | TxGNN-Vorhersagewert | 0.9965 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
+| Anzahl Zulassungen | 1 (gültig: 0) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

@@ -51,8 +51,8 @@ Sunitinib ist ein Zytostatikum aus der Gruppe der Tyrosinkinase-Hemmer und in de
 | Vorhergesagte neue Indikation | Liposarkom (liposarcoma) |
 | TxGNN-Vorhersagewert | 0.9987 |
 | Evidenzniveau | L2 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 3) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---

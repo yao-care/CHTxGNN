@@ -53,8 +53,8 @@ Insulin aspart ist ein schnell wirkendes Insulinanalogon, das über den Insulinr
 | Vorhergesagte neue Indikation | Autoimmune oophoritis |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
-| Anzahl Zulassungen | 9 (gültig: 9) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 9) |
+| Anzahl Zulassungen | 9 (gültig: 8) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

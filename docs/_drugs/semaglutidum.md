@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 3) |
 | DrugBank ID | [DB13928](https://go.drugbank.com/drugs/DB13928) |
 | Neue vorhergesagte Indikationen | Keine |
 

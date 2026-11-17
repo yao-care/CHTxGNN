@@ -53,7 +53,7 @@ Fluoxetin ist ein Antidepressivum aus der Gruppe der selektiven Serotonin-Wieder
 | Vorhergesagte neue Indikation | Schizotypische Persönlichkeitsstörung (schizotypal personality disorder) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

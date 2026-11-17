@@ -51,7 +51,7 @@ Tamsulosin ist ein Alpha-1-Adrenozeptor-Antagonist, der in der Schweiz als Retar
 | Vorhergesagte neue Indikation | Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 5) |
 | Anzahl Zulassungen | mindestens 7 |
 | Empfohlene Entscheidung | Abwarten |
 

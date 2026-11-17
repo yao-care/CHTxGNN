@@ -51,8 +51,8 @@ Povidon K 25 ist ein wasserlösliches Polymer, das in der Schweiz in Augentropfe
 | Vorhergesagte neue Indikation | Angeborene ichthyosiforme Erythrodermie (congenital ichthyosiform erythroderma) |
 | TxGNN-Vorhersagewert | 0.9911 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

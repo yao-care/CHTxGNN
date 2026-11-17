@@ -53,8 +53,8 @@ Tamoxifen ist ein hormonell wirkendes Krebsmedikament, das in der Schweiz als On
 | Vorhergesagte neue Indikation | Mammärer Morbus Paget (mammary Paget disease) |
 | TxGNN-Vorhersagewert | 0.9969 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

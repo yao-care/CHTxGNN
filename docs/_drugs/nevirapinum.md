@@ -51,8 +51,8 @@ Nevirapin ist ein Arzneimittel, das in der Schweiz mit mehreren Zulassungen im H
 | Vorhergesagte neue Indikation | Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) |
 | TxGNN-Vorhersagewert | 0.9985 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

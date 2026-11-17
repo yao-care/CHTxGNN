@@ -51,8 +51,8 @@ Dextromethorphan ist in der Schweiz als Hustenmittel im Handel. Das Modell sagt 
 | Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9998 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 17 von 17) |
-| Anzahl Zulassungen | 17 (gültig: 17) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 16 von 17) |
+| Anzahl Zulassungen | 17 (gültig: 16) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -79,7 +79,13 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.
+16 der 17 Zulassungen sind gültig (die Zulassung 59309, Irotussin Antitussivum, ist abgelaufen); alle betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.
+
+<!-- review:begin ch-lic-20261117-dextromethorphanum-1 -->
+
+> **Prüfkorrektur (2026-11-17)**: Ursprünglich stand hier: „Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.“ Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261117-dextromethorphanum-1 -->
 
 | Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
 |---------|------|------|-----------|
@@ -121,6 +127,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), da diese Sicherheitsdaten derzeit fehlen
 - Eine klare Definition der gemeinten Erkrankung der Nasenhöhle und der geplanten Anwendungsart
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-17 | „alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

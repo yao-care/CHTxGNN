@@ -50,7 +50,7 @@ Phenylalanin wird in der Schweiz als Aminosäurebestandteil in Infusionslösunge
 | Vorhergesagte neue Indikation | Sklerosierende Cholangitis |
 | TxGNN-Vorhersagewert | 0,9943 |
 | Evidenzniveau | L4 (nur Mechanismus- bzw. Biomarker-Hinweise, keine Studien zur Wirksamkeit) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

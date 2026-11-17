@@ -51,8 +51,8 @@ Nitisinon hemmt das Enzym 4-Hydroxyphenylpyruvat-Dioxygenase (HPPD) im Abbau der
 | Vorhergesagte neue Indikation | Renale tubuläre Azidose (renal tubular acidosis) |
 | TxGNN-Vorhersagewert | 0.9996 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

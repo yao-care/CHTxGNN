@@ -53,8 +53,8 @@ Dantrolen ist in der Schweiz als Muskelrelaxans (Myotonolyticum) und zur Behandl
 | Vorhergesagte neue Indikation | Moderate Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement) |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---

@@ -52,7 +52,7 @@ Tryptophan wird in der Schweiz als Aminosäure-Bestandteil von Infusionslösunge
 | Vorhergesagte neue Indikation | Restless-Legs-Syndrom |
 | TxGNN-Vorhersagewert | 0,9972 |
 | Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 

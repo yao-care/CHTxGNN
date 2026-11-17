@@ -50,7 +50,7 @@ Serin ist eine Aminosäure, die in der Schweiz als Bestandteil von Infusionslös
 | Vorhergesagte neue Indikation | Familiäre viszerale Myopathie |
 | TxGNN-Vorhersagewert | 0,9999 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 8) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 7) |
 | Anzahl Zulassungen | mindestens 8 |
 | Empfohlene Entscheidung | Abwarten |
 
