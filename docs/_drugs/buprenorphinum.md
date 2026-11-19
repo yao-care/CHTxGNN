@@ -61,7 +61,7 @@ Buprenorphin wird in der Schweiz als Schmerzmittel und zur Substitutionsbehandlu
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Buprenorphin liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist Buprenorphin als partieller Agonist am µ-Opioid-Rezeptor. Dieses Wissen stammt nicht aus den hier verfügbaren Daten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Buprenorphinum (inoffizielle Übersetzung): „SUBLOCADE Injektionslösung enthält Buprenorphin. Buprenorphin ist ein partieller Agonist am Mu-Opioidrezeptor und ein Antagonist am Kappa-Opioidrezeptor.“ Englischer Originalwortlaut: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), Fassung vom 2026-07-27; abgerufen am 2026-11-19). Allgemein bekannt ist Buprenorphin als partieller Agonist am µ-Opioid-Rezeptor. Dieses Wissen stammt nicht aus den hier verfügbaren Daten.
 
 Ein klarer mechanistischer Zusammenhang zwischen Buprenorphin und der Krankheitsentstehung der akuten intermittierenden Porphyrie (Störung der Hämbiosynthese durch Mangel an Porphobilinogen-Desaminase) ist nicht erkennbar. Opioide gelten bei akuten Porphyrie-Attacken zwar häufig als verwendbar für die Schmerzlinderung. Das ist jedoch eine symptomatische Behandlung und keine Wirkung auf die Erkrankung selbst.
 
@@ -116,6 +116,19 @@ Hinweis: Ob Buprenorphin bei akuter intermittierender Porphyrie sicher ist (Porp
 - Angaben zum Wirkmechanismus und eine nachvollziehbare mechanistische Hypothese
 - Fachinformation mit Warnhinweisen und Kontraindikationen von Swissmedic
 - Präklinische oder klinische Studien, die die Erkrankung direkt untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

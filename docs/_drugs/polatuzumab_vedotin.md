@@ -60,7 +60,7 @@ Polatuzumab vedotin ist in der Schweiz als Onkologikum zugelassen. Für das HER2
 
 ### Warum ist diese Vorhersage plausibel?
 
-Polatuzumab vedotin ist ein Antikörper-Wirkstoff-Konjugat. Es richtet sich gegen CD79b, einen Bestandteil des B-Zell-Rezeptors, und gibt den mikrotubuli-hemmenden Wirkstoff MMAE ab. Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor, sodass der Mechanismus nicht gegengeprüft werden konnte.
+Polatuzumab vedotin ist ein Antikörper-Wirkstoff-Konjugat. Es richtet sich gegen CD79b, einen Bestandteil des B-Zell-Rezeptors, und gibt den mikrotubuli-hemmenden Wirkstoff MMAE ab. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Polatuzumab Vedotin (inoffizielle Übersetzung): „Polatuzumab vedotin-piiq ist ein gegen CD79b gerichtetes Antikörper-Wirkstoff-Konjugat mit Aktivität gegen sich teilende B-Zellen. Das kleine Molekül MMAE ist ein antimitotischer Wirkstoff, der über einen spaltbaren Linker kovalent an den Antikörper gebunden ist. Der monoklonale Antikörper bindet an CD79b, ein B-Zell-spezifisches Oberflächenprotein, das Bestandteil des B-Zell-Rezeptors ist.“ Englischer Originalwortlaut: "Polatuzumab vedotin-piiq is a CD79b-directed antibody-drug conjugate with activity against dividing B cells. The small molecule, MMAE, is an anti-mitotic agent covalently attached to the antibody via a cleavable linker. The monoclonal antibody binds to CD79b, a B-cell specific surface protein, which is a component of the B-cell receptor." ([DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc), Fassung vom 2026-08-24; abgerufen am 2026-11-19).
 
 Eine biologische Verbindung zum HER2-positiven Mammakarzinom ist nicht belegt. CD79b ist in dieser Tumorart kein anerkanntes Ziel. Der hohe Vorhersagewert könnte darauf beruhen, dass MMAE (Auristatin) auch in anderen Antikörper-Wirkstoff-Konjugaten verwendet wird. Das ist eine Vermutung, kein nachgewiesener Zusammenhang.
 
@@ -127,6 +127,19 @@ Warnhinweise und Kontraindikationen aus der Fachinformation liegen nicht vor. Bi
 - Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus DrugBank
 - Vergleich mit den bestehenden HER2-gerichteten Standardtherapien
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

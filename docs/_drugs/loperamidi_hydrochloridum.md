@@ -59,7 +59,7 @@ Loperamid ist in der Schweiz als Mittel gegen Durchfall im Handel. Das Modell sa
 
 ### Warum ist diese Vorhersage plausibel?
 
-Loperamid wirkt als peripherer μ-Opioid-Rezeptor-Agonist auf die Nervenzellen der Darmwand. Es verlangsamt die Darmbewegung und vermindert die Sekretion. Die genauen Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten; die Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
+Loperamid wirkt als peripherer μ-Opioid-Rezeptor-Agonist auf die Nervenzellen der Darmwand. Es verlangsamt die Darmbewegung und vermindert die Sekretion. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Loperamidi Hydrochloridum (inoffizielle Übersetzung): „In-vitro- und tierexperimentelle Studien zeigen, dass Loperamidhydrochlorid-Kapseln durch eine Verlangsamung der Darmmotilität sowie durch Beeinflussung des Wasser- und Elektrolyttransports durch den Darm wirken. Loperamid bindet an den Opiatrezeptor in der Darmwand.“ Englischer Originalwortlaut: "In vitro and animal studies show that loperamide hydrochloride capsules act by slowing intestinal motility and by affecting water and electrolyte movement through the bowel. Loperamide binds to the opiate receptor in the gut wall." ([DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b), Fassung vom 2026-07-09; abgerufen am 2026-11-19).
 
 Die akute ansteckende Bindehautentzündung ist eine infektiöse Erkrankung der Augenoberfläche. Ein Zusammenhang mit der Hemmung der Darmbewegung ist nicht bekannt. Ein glaubwürdiger Wirkmechanismus lässt sich daher nicht herleiten.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
 - Die Auswertung der Fachinformation der Swissmedic (Warnhinweise und Kontraindikationen), da diese Sicherheitsdaten in den vorliegenden Daten fehlen
 - Eine Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Darunavir ist in der Schweiz als Arzneimittel gegen HIV-Infektionen zugelassen. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Darunavir liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Darunavir als HIV-1-Proteaseinhibitor wirkt. Dieses Enzym spaltet virale Vorläuferproteine, die für die Reifung infektiöser Viruspartikel nötig sind.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Darunavirum (inoffizielle Übersetzung): „Darunavir ist ein antivirales Arzneimittel gegen HIV-1. […] Darunavir ist ein Inhibitor der HIV-1-Protease. Es hemmt selektiv die Spaltung HIV-1-kodierter Gag-Pol-Polyproteine in infizierten Zellen und verhindert dadurch die Bildung reifer Viruspartikel.“ Englischer Originalwortlaut: "Darunavir is an HIV-1 antiviral drug. […] Darunavir is an inhibitor of the HIV-1 protease. It selectively inhibits the cleavage of HIV-1 encoded Gag-Pol polyproteins in infected cells, thereby preventing the formation of mature virus particles." ([DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f), Fassung vom 2025-08-29; abgerufen am 2026-11-19). Bekannt ist, dass Darunavir als HIV-1-Proteaseinhibitor wirkt. Dieses Enzym spaltet virale Vorläuferproteine, die für die Reifung infektiöser Viruspartikel nötig sind.
 
 Das Feline Immundefizienzvirus (FIV) besitzt ebenfalls eine Aspartylprotease. Daher gibt es eine Begründung auf Ebene der Wirkstoffklasse. Allerdings unterscheiden sich die FIV-Protease und die HIV-1-Protease in der Substratspezifität und in Aminosäuren des aktiven Zentrums. Dadurch könnte die Bindung von Darunavir schwächer ausfallen.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten zur Hemmung der FIV-Protease durch Darunavir (Bindungsaffinität, Wirksamkeit in Zellkulturen)
 - Klärung, ob eine tiermedizinische Anwendung überhaupt verfolgt werden soll
 - Ergänzung des Wirkmechanismus und der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

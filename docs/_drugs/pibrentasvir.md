@@ -60,7 +60,7 @@ Pibrentasvir ist in der Schweiz als Maviret Filmtabletten zur Behandlung der chr
 
 ## Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Pibrentasvir liegt in den für diesen Bericht zusammengestellten Daten nicht vor. Bekannt ist aus den Daten, dass Pibrentasvir das HCV-Protein NS5A hemmt. Es wird gemeinsam mit Glecaprevir eingesetzt, einem NS3/4A-Proteasehemmer.
+Laut ChEMBL (EMBL-EBI) ist für Pibrentasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“ Englischer Originalwortlaut: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; abgerufen am 2026-11-19). Bekannt ist aus den Daten, dass Pibrentasvir das HCV-Protein NS5A hemmt. Es wird gemeinsam mit Glecaprevir eingesetzt, einem NS3/4A-Proteasehemmer.
 
 Zwischen Hepatitis C und Hepatitis B besteht vor allem eine klinische Nähe: Beide Infektionen betreffen die Leber und führen zu chronischer Lebererkrankung. Ein gemeinsamer Wirkmechanismus ist jedoch nicht erkennbar. Das Hepatitis-B-Virus ist ein DNA-Virus, das sich über reverse Transkription vermehrt, und es besitzt kein Gegenstück zu NS5A. Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und spiegelt wahrscheinlich Ähnlichkeiten wider, die das Modell zwischen verwandten Erkrankungen gelernt hat, und keine tatsächliche pharmakologische Verbindung oder biologische Evidenz.
 
@@ -111,6 +111,19 @@ Die folgenden Arbeiten stammen aus der Recherche zu dieser Indikation. Keine dav
 - Der Wirkmechanismus von Pibrentasvir aus einer verlässlichen Quelle
 - Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da Sicherheitsdaten derzeit fehlen und eine Sicherheitsprüfung noch nicht möglich ist
 - Ein Vergleich mit den weiteren vorhergesagten Indikationen, darunter HIV-Infektion; dort betreffen die Daten die Behandlung der Hepatitis C bei HIV-Koinfektion und keine Wirkung auf HIV selbst
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

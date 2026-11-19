@@ -61,7 +61,7 @@ Flecainid ist ein Natriumkanalblocker der Klasse IC, der bei Herzrhythmusstörun
 
 ### Warum ist diese Vorhersage plausibel?
 
-Flecainid blockiert Natriumkanäle im Herzmuskel und verlangsamt dadurch die Erregungsleitung. Es unterdrückt so Rhythmusstörungen der Vorhöfe. Die Daten enthalten keine ausführliche Beschreibung des Wirkmechanismus. Die Angaben beruhen auf der Klassenzugehörigkeit und auf der Literatur.
+Flecainid blockiert Natriumkanäle im Herzmuskel und verlangsamt dadurch die Erregungsleitung. Es unterdrückt so Rhythmusstörungen der Vorhöfe. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Flecainidi Acetas (inoffizielle Übersetzung): „Flecainid besitzt eine lokalanästhetische Wirkung und gehört zur Gruppe der membranstabilisierenden Antiarrhythmika (Klasse 1); es weist für die Klasse IC der Antiarrhythmika charakteristische elektrophysiologische Wirkungen auf. Elektrophysiologie Beim Menschen bewirkt Flecainid eine dosisabhängige Abnahme der intrakardialen Erregungsleitung in allen Bereichen des Herzens, wobei die stärkste Wirkung auf das His-Purkinje-System (H-V-Leitung) ausgeübt wird.“ Englischer Originalwortlaut: "Flecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics. Electrophysiology In man, flecainide produces a dose-related decrease in intracardiac conduction in all parts of the heart with the greatest effect on the His-Purkinje system (H-V conduction)." ([DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4), Fassung vom 2026-06-11; abgerufen am 2026-11-19). Die Angaben beruhen auf der Klassenzugehörigkeit und auf der Literatur.
 
 Vorhofflimmern ist ein bedeutender Risikofaktor für kardioembolische Schlaganfälle. Eine erfolgreiche Rhythmuskontrolle könnte das Schlaganfallrisiko daher indirekt senken. Ein Teil der ischämischen Schlaganfälle bleibt ausserdem ohne klare Ursache (kryptogen). Bei diesen Patienten ist ein offenes Foramen ovale (PFO) häufiger als in der Allgemeinbevölkerung. Nach einem PFO-Verschluss treten teils Vorhofrhythmusstörungen auf, und genau diese soll Flecainid in der unten aufgeführten Studie verhindern.
 
@@ -118,6 +118,19 @@ Die Angaben aus der Schweizer Fachinformation fehlen in den vorliegenden Daten. 
 - Studien mit Schlaganfall oder Schlaganfall-Rezidiv als Endpunkt.
 - Die Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation für eine Sicherheitsbewertung.
 - Eine ausführliche Beschreibung des Wirkmechanismus für die mechanistische Analyse.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

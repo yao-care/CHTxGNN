@@ -60,7 +60,7 @@ Eftrenonacog alfa (Alprolix) ist ein rekombinantes Faktor-IX-Fc-Fusionsprotein. 
 
 ## Warum ist diese Vorhersage plausibel?
 
-Eftrenonacog alfa ersetzt den fehlenden Gerinnungsfaktor IX im intrinsischen Gerinnungsweg. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Die mechanistische Einschätzung stützt sich daher auf die bekannte Funktion des Wirkstoffs.
+Eftrenonacog alfa ersetzt den fehlenden Gerinnungsfaktor IX im intrinsischen Gerinnungsweg. Laut ChEMBL (EMBL-EBI) ist für Eftrenonacog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-IX-Protein“ Englischer Originalwortlaut: "Coagulation factor IX exogenous protein" ([ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598), CC BY-SA 3.0; abgerufen am 2026-11-19). Die mechanistische Einschätzung stützt sich daher auf die bekannte Funktion des Wirkstoffs.
 
 Die Pseudo-von-Willebrand-Erkrankung (plättchentypische von-Willebrand-Erkrankung) entsteht durch eine Funktionssteigerung des Plättchenrezeptors GPIbα. Dadurch bindet dieser verstärkt an den von-Willebrand-Faktor (VWF). Hochmolekulare VWF-Multimere gehen verloren, und es kommt zu plättchenbedingten Blutungen. Beide Erkrankungen sind Blutgerinnungsstörungen. Die Verbindung besteht jedoch nur über diese allgemeine Gemeinsamkeit.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder mechanistische Daten, die einen Nutzen bei plättchenbedingten Blutungsstörungen belegen
 - Eine systematische Literaturrecherche und eine Suche nach registrierten klinischen Studien
 - Eine Prüfung der Anwendungswege und der Ähnlichkeit zur ursprünglichen Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

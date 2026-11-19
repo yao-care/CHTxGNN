@@ -61,7 +61,7 @@ Hydrocortison ist ein Glukokortikoid mit entzündungshemmender und immunsuppress
 
 ### Warum ist diese Vorhersage plausibel?
 
-Hydrocortison ist ein Glukokortikoid und dämpft Entzündungen sowie Immunreaktionen. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine detaillierten Angaben vor.
+Hydrocortison ist ein Glukokortikoid und dämpft Entzündungen sowie Immunreaktionen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Hydrocortisonum (inoffizielle Übersetzung): „Hydrocortison ist ein Glucocorticoid. Glucocorticoide, Steroide der Nebennierenrinde, verursachen vielfältige metabolische Wirkungen. Darüber hinaus modifizieren sie die Immunantworten des Körpers auf unterschiedliche Reize..“ Englischer Originalwortlaut: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), Fassung vom 2026-04-21; abgerufen am 2026-11-19).
 
 Alopecia areata ist eine T-Zell-vermittelte Autoimmunerkrankung, bei der das Immunsystem die Haarfollikel angreift. Eine lokale Dämpfung dieser Immunaktivität ist daher biologisch nachvollziehbar. Dazu passt, dass Kortikosteroide in den 1950er- bis 1970er-Jahren intraläsional und äusserlich bei dieser Erkrankung eingesetzt wurden.
 
@@ -127,6 +127,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Prüfung, ob eine ausreichend wirksame Darreichungsform und Dosierung bei Alopecia areata realistisch ist.
 - Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen).
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Tobramycin ist ein Aminoglykosid-Antibiotikum, das in der Schweiz in mehreren Da
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Tobramycin ein Breitspektrum-Aminoglykosid mit bekannter Wirkung gegen Pseudomonas aeruginosa und Staphylokokken, also typische Erreger von Infektionen der Augenoberfläche. In der Schweiz sind Tobramycin-Augentropfen und -Augensalbe zugelassen.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tobramycinum (inoffizielle Übersetzung): „Tobramycin ist ein Aminoglykosid-Antibiotikum. […] Tobramycin ist ein von Streptomyces tenebrarius produziertes Aminoglykosid-Antibiotikum. Es wirkt in erster Linie durch Störung der Proteinsynthese, was zu einer veränderten Permeabilität der Zellmembran, einer fortschreitenden Zerstörung der Zellhülle und schließlich zum Zelltod führt.“ Englischer Originalwortlaut: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), Fassung vom 2026-04-15; abgerufen am 2026-11-19). Allgemein ist Tobramycin ein Breitspektrum-Aminoglykosid mit bekannter Wirkung gegen Pseudomonas aeruginosa und Staphylokokken, also typische Erreger von Infektionen der Augenoberfläche. In der Schweiz sind Tobramycin-Augentropfen und -Augensalbe zugelassen.
 
 Die Expositionskeratitis entsteht hauptsächlich durch Austrocknung der Hornhaut bei unvollständigem Lidschluss. Antibiotika sind hier nur relevant, um eine sekundäre bakterielle Infektion zu verhindern oder zu behandeln. Der Zusammenhang ist daher indirekt und keine Behandlung der Grunderkrankung.
 
@@ -118,6 +118,19 @@ Aus den zusammengestellten Daten ergibt sich lediglich der Hinweis, dass Aminogl
 - Die Warnhinweise und Kontraindikationen aus der Fachinformation (Swissmedic), insbesondere zur Hornhautverträglichkeit
 - Angaben zum Wirkmechanismus aus einer pharmakologischen Referenzquelle
 - Vergleich mit gängigen Massnahmen wie Befeuchtung, Lidschutz und Behandlung der Grunderkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Dimenhydrinat ist ein Salz aus Diphenhydramin und 8-Chlortheophyllin und in der 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dimenhydrinat setzt im Körper Diphenhydramin frei, einen H1-Rezeptor-Antagonisten (inverser Agonist) der ersten Generation. Eine Angabe zum Wirkmechanismus des Arzneimittels selbst liegt in den für diesen Bericht zusammengestellten Daten nicht vor; die folgende Überlegung beruht auf dem bekannten Wirkprinzip von Diphenhydramin.
+Dimenhydrinat setzt im Körper Diphenhydramin frei, einen H1-Rezeptor-Antagonisten (inverser Agonist) der ersten Generation. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dimenhydrinatum (inoffizielle Übersetzung): „Obwohl der genaue Wirkmechanismus von Dimenhydrinat nicht bekannt ist, übt es eine dämpfende Wirkung auf eine übermäßig stimulierte Labyrinthfunktion aus.“ Englischer Originalwortlaut: "While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function." ([DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c), Fassung vom 2025-01-15; abgerufen am 2026-11-19).
 
 Bei allergischer Urtikaria setzen Mastzellen Histamin frei, das Quaddeln und Juckreiz auslöst. Die Blockade des H1-Rezeptors greift an genau dieser Stelle an, weshalb der Mechanismus biologisch nachvollziehbar ist. Der hohe TxGNN-Wert ist jedoch eine rein rechnerische Vorhersage.
 
@@ -100,6 +100,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Wirksamkeitsdaten zu Dimenhydrinat oder Diphenhydramin bei allergischer Urtikaria, idealerweise im Vergleich mit Zweitgenerations-Antihistaminika
 - Sicherheitsinformationen (Warnhinweise und Kontraindikationen) aus der Schweizer Fachinformation
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

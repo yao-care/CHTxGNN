@@ -59,7 +59,7 @@ Dronedaron ist ein in der Schweiz zugelassenes Antiarrhythmikum. Die Vorhersage 
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Dronedaron liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass es ein Antiarrhythmikum mit Wirkung auf mehrere Ionenkanäle ist. Es senkt zudem die Herzfrequenz und den Blutdruck.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dronedaronum (inoffizielle Übersetzung): „Der Wirkmechanismus von Dronedaron ist nicht bekannt. Dronedaron besitzt antiarrhythmische Eigenschaften, die allen vier Vaughan-Williams-Klassen zuzuordnen sind, der Beitrag jeder dieser Aktivitäten zur klinischen Wirkung ist jedoch nicht bekannt.“ Englischer Originalwortlaut: "The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown." ([DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c), Fassung vom 2026-01-27; abgerufen am 2026-11-19). Aus der Literatur ist bekannt, dass es ein Antiarrhythmikum mit Wirkung auf mehrere Ionenkanäle ist. Es senkt zudem die Herzfrequenz und den Blutdruck.
 
 Der Zusammenhang mit dem Schlaganfall läuft über das Vorhofflimmern. Dieses ist ein wichtiger Risikofaktor für kardioembolische Schlaganfälle. Wenn die Rhythmuskontrolle die Last des Vorhofflimmerns senkt, könnte dadurch auch das Schlaganfallrisiko sinken. Eine Auswertung der ATHENA-Studie (Post-hoc-Analyse) deutet auf ein geringeres Schlaganfallrisiko hin. Diese Verbindung ist aber indirekt und durch das Vorhofflimmern selbst verzerrt.
 
@@ -121,6 +121,19 @@ Weitere Sicherheitsangaben aus der Fachinformation liegen nicht vor. Bitte beach
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus DrugBank
 - Eine Abgrenzung des Nutzens zur Antikoagulation, der etablierten Schlaganfallprävention bei Vorhofflimmern
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

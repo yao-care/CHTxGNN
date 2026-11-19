@@ -59,7 +59,7 @@ Anagrelid wird in der Schweiz bei einer Erkrankung mit erhöhter Thrombozytenzah
 
 ### Warum ist diese Vorhersage plausibel?
 
-Anagrelid senkt die Thrombozytenzahl, indem es die Reifung und Differenzierung der Megakaryozyten (der Vorläuferzellen der Blutplättchen) hemmt. Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die Beschreibung stützt sich auf die Mechanismusbeurteilung zur Vorhersage.
+Anagrelid senkt die Thrombozytenzahl, indem es die Reifung und Differenzierung der Megakaryozyten (der Vorläuferzellen der Blutplättchen) hemmt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Anagrelidum (inoffizielle Übersetzung): „Der genaue Mechanismus, über den Anagrelid die Thrombozytenzahl im Blut senkt, ist nicht bekannt. In Zellkulturstudien unterdrückte Anagrelid die Expression von Transkriptionsfaktoren, darunter GATA-1 und FOG-1, die für die Megakaryozytopoese erforderlich sind, was letztlich zu einer verminderten Thrombozytenproduktion führte.“ Englischer Originalwortlaut: "The precise mechanism by which anagrelide reduces blood platelet count is unknown. In cell culture studies, anagrelide suppressed expression of transcription factors including GATA-1 and FOG-1 required for megakaryocytopoiesis, ultimately leading to reduced platelet production." ([DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219), Fassung vom 2026-04-08; abgerufen am 2026-11-19).
 
 Bei der reaktiven Thrombozytose ist die Thrombozytenzahl als Folge einer anderen Ursache erhöht, etwa bei Entzündung, Infektion, Eisenmangel, nach Milzentfernung oder bei einer bösartigen Erkrankung. Botenstoffe wie Interleukin-6 und Thrombopoietin steigern dabei die Blutplättchenbildung. Eine Senkung der Thrombozytenzahl ist deshalb mechanistisch denkbar.
 
@@ -112,6 +112,19 @@ Keine der aufgeführten Publikationen untersucht Anagrelid bei reaktiver Thrombo
 - Studien oder klinische Daten, die Anagrelid direkt bei reaktiver Thrombozytose untersuchen
 - Klärung, bei welchen Patientengruppen mit reaktiver Thrombozytose überhaupt ein Thromboserisiko besteht, das eine Senkung der Thrombozyten rechtfertigt
 - Sicherheitsinformationen aus der Schweizer Fachinformation (Warnhinweise und Kontraindikationen) sowie Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -60,7 +60,7 @@ Sacubitril wird in der Schweiz zur Behandlung der Herzinsuffizienz eingesetzt. F
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Sacubitril liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Sacubitril in Kombination mit Valsartan eingesetzt wird, einem Angiotensin-Rezeptor-Blocker. Eine mechanistische Begründung für die vorhergesagte Anwendung lässt sich daraus nicht ableiten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für sacubitril and valsartan (Kombinationspräparat mit Sacubitril) (inoffizielle Übersetzung): „Sacubitril und Valsartan enthält einen Neprilysin-Inhibitor, Sacubitril, und einen Angiotensin-Rezeptorblocker, Valsartan. Sacubitril und Valsartan hemmt Neprilysin (neutrale Endopeptidase; NEP) über LBQ657, den aktiven Metaboliten des Prodrugs Sacubitril, und blockiert den Angiotensin-II-Typ-1-(AT 1 )-Rezeptor über Valsartan.“ Englischer Originalwortlaut: "Sacubitril and valsartan contains a neprilysin inhibitor, sacubitril, and an angiotensin receptor blocker, valsartan. Sacubitril and valsartan inhibits neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite of the prodrug sacubitril, and blocks the angiotensin II type-1 (AT 1 ) receptor via valsartan." ([DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c), Fassung vom 2026-10-30; abgerufen am 2026-11-19). Bekannt ist, dass Sacubitril in Kombination mit Valsartan eingesetzt wird, einem Angiotensin-Rezeptor-Blocker. Eine mechanistische Begründung für die vorhergesagte Anwendung lässt sich daraus nicht ableiten.
 
 Die vorhergesagte Erkrankung ist eine seltene, monogene Störung der kleinen Hirngefässe, die mit Veränderungen im COL4A1-Gen zusammenhängt. Ein direkter Zusammenhang zwischen einer Neprilysin-Hemmung und den Krankheitsprozessen ist nicht belegt.
 
@@ -105,6 +105,19 @@ Für weitere Sicherheitsinformationen, insbesondere Warnungen und Kontraindikati
 - Angaben zum Wirkmechanismus von Sacubitril, um eine mögliche Verbindung zur Pathologie der COL4A1-bedingten Gefässerkrankung zu prüfen
 - Präklinische oder klinische Daten, die die Erkrankung direkt untersuchen
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsbewertung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

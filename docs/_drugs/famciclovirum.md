@@ -61,7 +61,7 @@ Famciclovir ist ein antivirales Arzneimittel. Es wird im Körper zu Penciclovir 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Famciclovir ist ein Prodrug von Penciclovir. Dessen Triphosphat hemmt in virusinfizierten Zellen die DNA-Polymerase des Varizella-Zoster-Virus (VZV) und bremst so die Virusvermehrung. Zum Wirkmechanismus fehlen in den zusammengestellten Daten zwar formale Angaben, die Wirkweise ist aber gut bekannt.
+Famciclovir ist ein Prodrug von Penciclovir. Dessen Triphosphat hemmt in virusinfizierten Zellen die DNA-Polymerase des Varizella-Zoster-Virus (VZV) und bremst so die Virusvermehrung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Famciclovirum (inoffizielle Übersetzung): „Famciclovir ist ein oral angewendetes Prodrug des gegen Alpha-Herpesviren wirksamen antiviralen Wirkstoffs Penciclovir.“ Englischer Originalwortlaut: "Famciclovir is an orally administered prodrug of the anti-alpha herpes viral agent penciclovir." ([DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761), Fassung vom 2026-11-13; abgerufen am 2026-11-19).
 
 Eine postinfektiöse Neuralgie, etwa die Post-Zoster-Neuralgie, entsteht nach einer Infektion, bei der das Virus Nervengewebe schädigt. Eine frühe antivirale Behandlung der akuten Infektion könnte die Virusvermehrung und damit den Nervenschaden begrenzen. Dadurch könnte das Risiko oder die Dauer der anschliessenden Nervenschmerzen sinken.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine gezielte Literaturrecherche zu Famciclovir und Post-Zoster-Neuralgie.
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation.
 - Eine formale Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: famciclovir prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c44b8d2-3b70-4e8b-af03-2e917178f761) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

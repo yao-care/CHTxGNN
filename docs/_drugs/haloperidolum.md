@@ -61,7 +61,7 @@ Haloperidol ist ein in der Schweiz im Handel befindliches Neuroleptikum. Das Mod
 
 ### Warum ist diese Vorhersage plausibel?
 
-Haloperidol blockiert vor allem Dopamin-D2-Rezeptoren. Die Angaben zum Wirkmechanismus in den zusammengestellten Daten sind lückenhaft, daher ist keine detailliertere Mechanismusanalyse möglich.
+Haloperidol blockiert vor allem Dopamin-D2-Rezeptoren. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Haloperidolum (inoffizielle Übersetzung): „Der Wirkmechanismus von Haloperidoldecanoat bei der Behandlung der Schizophrenie bei Erwachsenen ist unklar. Seine Wirkung bei Schizophrenie könnte jedoch über seine Aktivität als Antagonist an zentralen Dopamin-Typ-2-Rezeptoren vermittelt werden.“ Englischer Originalwortlaut: "The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors." ([DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c), Fassung vom 2026-11-03; abgerufen am 2026-11-19).
 
 Zwischen dem Wirkprinzip von Haloperidol und einer Störung der Fucosylierung, also des Anhängens von Fucose-Zuckerresten an Proteine, ist aus den vorliegenden Daten kein plausibler Zusammenhang erkennbar. Der hohe Vorhersagewert von 0,9991 ist ein reines Rechenergebnis des Modells. Er ersetzt keinen biologischen oder klinischen Beleg. Die Vorhersage sollte daher als Hypothese und nicht als begründete Therapieoption verstanden werden.
 
@@ -96,6 +96,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare biologische Begründung, wie die Dopamin-D2-Blockade die gestörte Fucosylierung beeinflussen könnte.
 - Präklinische Untersuchungen, zum Beispiel in Zell- oder Tiermodellen dieser Glykosylierungsstörung.
 - Die Sicherheitsangaben (Warnungen und Kontraindikationen) aus der Swissmedic-Fachinformation sowie die Angaben zum Wirkmechanismus aus DrugBank, bevor eine Sicherheitsbewertung möglich ist.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

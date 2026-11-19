@@ -61,7 +61,7 @@ Capecitabin ist ein orales Zytostatikum, das im Körper in 5-Fluorouracil umgewa
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus dem Wirkstoffprofil ist Folgendes bekannt: Capecitabin ist ein Prodrug von 5-Fluorouracil. Der aktive Wirkstoff hemmt die Thymidylatsynthase und stört so die DNA- und RNA-Synthese schnell teilender Tumorzellen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Capecitabinum (inoffizielle Übersetzung): „Capecitabin wird in vivo zu Fluorouracil metabolisiert. Sowohl normale Zellen als auch Tumorzellen metabolisieren Fluorouracil zu 5-Fluor-2'-desoxyuridinmonophosphat (FdUMP) und 5-Fluoruridintriphosphat (FUTP). Diese Metaboliten verursachen Zellschädigungen über zwei unterschiedliche Mechanismen.“ Englischer Originalwortlaut: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), Fassung vom 2026-02-05; abgerufen am 2026-11-19). Aus dem Wirkstoffprofil ist Folgendes bekannt: Capecitabin ist ein Prodrug von 5-Fluorouracil. Der aktive Wirkstoff hemmt die Thymidylatsynthase und stört so die DNA- und RNA-Synthese schnell teilender Tumorzellen.
 
 Fluoropyrimidine gehören zu den Standardbausteinen der Chemotherapie bei Magenkrebs. Ein Wirkprinzip, das beim Magenadenokarzinom allgemein genutzt wird, könnte deshalb auch bei dieser Form relevant sein.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Beschaffung und Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen)
 - Ergänzung der Wirkmechanismus-Daten des Wirkstoffs
 - Fachliche Einschätzung durch Onkologie und Humangenetik, ob ein systemischer Einsatz bei dieser seltenen Erkrankung sinnvoll ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

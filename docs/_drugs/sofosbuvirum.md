@@ -61,7 +61,7 @@ Sofosbuvir ist ein antiviral wirkendes Nukleotidanalogon, das die RNA-abhängige
 
 ### Warum ist diese Vorhersage plausibel?
 
-Sofosbuvir wird in der Leber zu einem aktiven Triphosphat umgewandelt. Dieses baut sich als Kettenabbruch-Baustein in die virale RNA ein und blockiert so die RNA-abhängige RNA-Polymerase des Zielvirus. Angaben zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
+Sofosbuvir wird in der Leber zu einem aktiven Triphosphat umgewandelt. Dieses baut sich als Kettenabbruch-Baustein in die virale RNA ein und blockiert so die RNA-abhängige RNA-Polymerase des Zielvirus. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Sofosbuvirum (inoffizielle Übersetzung): „Sofosbuvir ist ein direkt wirkendes antivirales Mittel gegen das Hepatitis-C-Virus. […] Sofosbuvir ist ein Inhibitor der RNA-abhängigen RNA-Polymerase NS5B des HCV, die für die Virusreplikation essenziell ist. Sofosbuvir ist ein Nukleotid-Prodrug, das intrazellulär zum pharmakologisch aktiven Uridin-Analogon-Triphosphat (GS-461203) metabolisiert wird, welches durch die NS5B-Polymerase in die HCV-RNA eingebaut werden kann und als Kettenabbrecher wirkt.“ Englischer Originalwortlaut: "Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus. […] Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator." ([DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf), Fassung vom 2024-12-26; abgerufen am 2026-11-19).
 
 Der mechanistische Zusammenhang mit HBV ist schwach. HBV vermehrt sich über eine DNA-abhängige Reverse Transkriptase (Polymerase) und erhält sich über eine stabile Form seiner DNA (cccDNA) im Zellkern. Ein direkter Angriffspunkt für Sofosbuvir ist daher nicht erkennbar. Der hohe Vorhersagewert spiegelt vermutlich vor allem die häufige gemeinsame Infektion mit HCV und HBV sowie die gemeinsame Substanzklasse der Nukleosid- und Nukleotidanaloga wider.
 
@@ -121,6 +121,19 @@ Aus der Literatur ergibt sich ein wichtiger praktischer Punkt: Unter Sofosbuvir-
 - Kontrollierte Studien, die eine Wirkung auf HBV im Vergleich zu bestehender Standardtherapie zeigen.
 - Klärung des Wirkmechanismus gegen HBV, z. B. durch Laborstudien.
 - Die Sicherheitsdaten aus der Fachinformation (Warnhinweise, Gegenanzeigen, Wechselwirkungen), insbesondere zum Risiko einer HBV-Reaktivierung.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

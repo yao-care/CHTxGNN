@@ -61,7 +61,7 @@ Pramipexol ist ein in der Schweiz im Handel befindlicher Dopamin-Agonist. Die Vo
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Pramipexol liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Literatur, dass es ein Dopamin-Agonist ist, der vor allem an D2- und D3-Rezeptoren wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pramipexolum (inoffizielle Übersetzung): „Pramipexol ist ein Nicht-Ergot-Dopaminagonist mit hoher relativer In-vitro-Spezifität und voller intrinsischer Aktivität an der D 2-Subfamilie der Dopaminrezeptoren, wobei er mit höherer Affinität an D 3- als an D 2- oder D 4-Rezeptorsubtypen bindet. Parkinson-Krankheit Der genaue Wirkmechanismus von Pramipexol bei der Behandlung der Parkinson-Krankheit ist nicht bekannt, es wird jedoch angenommen, dass er mit seiner Fähigkeit zusammenhängt, Dopaminrezeptoren im Striatum zu stimulieren.“ Englischer Originalwortlaut: "Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D 2 subfamily of dopamine receptors, binding with higher affinity to D 3 than to D 2 or D 4 receptor subtypes. Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum." ([DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c), Fassung vom 2026-09-09; abgerufen am 2026-11-19). Bekannt ist aus der Literatur, dass es ein Dopamin-Agonist ist, der vor allem an D2- und D3-Rezeptoren wirkt.
 
 Die Dopamin-Hypothese der ADHS liefert eine plausible, aber nur indirekte Verbindung. Auch Arbeiten zu Dopamin-D4-Rezeptoren und deren Zusammenspiel mit α2A-Adrenozeptoren stützen einen dopaminergen Ansatz. Diese Arbeit ist jedoch präklinisch und untersucht Pramipexol nicht an Patienten mit ADHS.
 
@@ -115,6 +115,19 @@ Die Liste ist möglicherweise nicht vollständig.
 - Ergänzung der Angaben zum Wirkmechanismus
 - Klinische Daten oder gut begründete präklinische Daten zu Pramipexol bei ADHS, etwa eine kleine Pilotstudie
 - Nutzen-Risiko-Abwägung für Kinder und Jugendliche, da ADHS häufig in dieser Altersgruppe auftritt
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

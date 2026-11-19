@@ -59,7 +59,7 @@ Metformin ist in der Schweiz als orales Antidiabetikum zugelassen. Für das foka
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Daten enthalten keine Angaben zum Wirkmechanismus von Metformin. Bekannt ist allgemein, dass Metformin die AMPK aktiviert, die Glukosebildung in der Leber senkt und den Komplex I der Mitochondrien beeinflusst. Diese Wirkungen haben keine belegte Verbindung zur Erkrankung.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Metforminum (inoffizielle Übersetzung): „Metformin ist ein antihyperglykämischer Wirkstoff, der die Glukosetoleranz bei Patienten mit Diabetes mellitus Typ 2 verbessert und sowohl die basale als auch die postprandiale Plasmaglukose senkt. Metformin verringert die hepatische Glukoseproduktion, verringert die intestinale Resorption von Glukose und verbessert die Insulinsensitivität durch Steigerung der peripheren Glukoseaufnahme und -verwertung.“ Englischer Originalwortlaut: "Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization." ([DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574), Fassung vom 2026-09-21; abgerufen am 2026-11-19). Bekannt ist allgemein, dass Metformin die AMPK aktiviert, die Glukosebildung in der Leber senkt und den Komplex I der Mitochondrien beeinflusst. Diese Wirkungen haben keine belegte Verbindung zur Erkrankung.
 
 Das fokale Stiff-Limb-Syndrom ist eine seltene Variante des Stiff-Person-Spektrums. Man vermutet eine Autoimmunstörung der hemmenden GABA- und Glycin-Signalwege. Ein klarer Zusammenhang mit dem Wirkprinzip von Metformin ist aus den vorliegenden Daten nicht erkennbar.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Präklinische oder klinische Daten, die einen Nutzen bei dieser Erkrankung belegen
 - Eine Prüfung, ob der identische Wert für das klassische Stiff-Person-Syndrom nur auf der Nähe der Krankheiten im Modell beruht
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

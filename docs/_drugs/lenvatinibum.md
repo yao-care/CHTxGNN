@@ -61,7 +61,7 @@ Lenvatinib ist ein oraler Multi-Tyrosinkinase-Inhibitor, der in der Schweiz zuge
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben aus der Arzneimitteldatenbank vor. Aus der Bewertung der Vorhersage ergibt sich aber, dass Lenvatinib mehrere Rezeptor-Tyrosinkinasen hemmt (VEGFR1–3, FGFR1–4, PDGFRα, RET, KIT). Dadurch bremst es die Neubildung von Tumorgefässen sowie das Wachstum, das über FGFR und PDGFR gesteuert wird.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lenvatinibum (inoffizielle Übersetzung): „Lenvatinib ist ein Kinaseinhibitor, der die Kinaseaktivitäten der Rezeptoren für den vaskulären endothelialen Wachstumsfaktor (VEGF) VEGFR1 (FLT1), VEGFR2 (KDR) und VEGFR3 (FLT4) hemmt. Lenvatinib hemmt weitere Kinasen, die neben ihren normalen zellulären Funktionen mit pathogener Angiogenese, Tumorwachstum und Krebsprogression in Verbindung gebracht werden, darunter die Rezeptoren für den Fibroblasten-Wachstumsfaktor (FGF) FGFR1, 2, 3 und 4, den Platelet-Derived-Growth-Factor-Rezeptor alpha (PDGFRA), KIT und RET.“ Englischer Originalwortlaut: "Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET." ([DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e), Fassung vom 2026-10-14; abgerufen am 2026-11-19). Aus der Bewertung der Vorhersage ergibt sich aber, dass Lenvatinib mehrere Rezeptor-Tyrosinkinasen hemmt (VEGFR1–3, FGFR1–4, PDGFRα, RET, KIT). Dadurch bremst es die Neubildung von Tumorgefässen sowie das Wachstum, das über FGFR und PDGFR gesteuert wird.
 
 Weichteilsarkome, zu denen das Liposarkom gehört, sind auf die Gefässneubildung angewiesen. Eine Hemmung dieser Signalwege ist deshalb biologisch nachvollziehbar. Zusätzlich ist Eribulin, ein Mikrotubuli-Hemmer, bereits für fortgeschrittenes Liposarkom im Einsatz. Die Kombination verbindet zwei unterschiedliche Wirkprinzipien. Präklinische Daten deuten auf einen synergistischen Effekt von Eribulin mit anderen Wirkstoffen hin.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
 - Bestätigung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Sicherheitsprüfung, insbesondere zu Blutdruck, Blutungsrisiko sowie Leber- und Nierenfunktion bei der Kombination mit Eribulin
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

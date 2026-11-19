@@ -61,7 +61,7 @@ Azithromycin ist ein Makrolid-Antibiotikum, das in der Schweiz mit mehreren Zula
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Azithromycin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt sind seine antibakteriellen und entzündungsmodulierenden Eigenschaften.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Azithromycinum (inoffizielle Übersetzung): „Azithromycin ist ein antibakterieller Wirkstoff aus der Gruppe der Makrolide. […] Azithromycin wirkt durch Bindung an die 23S-rRNA der 50S-Untereinheit des Ribosoms empfindlicher Mikroorganismen, wodurch die bakterielle Proteinsynthese gehemmt und der Zusammenbau der 50S-Ribosomenuntereinheit behindert wird.“ Englischer Originalwortlaut: "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit." ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), Fassung vom 2026-09-09; abgerufen am 2026-11-19). Allgemein bekannt sind seine antibakteriellen und entzündungsmodulierenden Eigenschaften.
 
 Ein Zusammenhang zwischen diesen Eigenschaften und dem polyklonalen Hyperviskositätssyndrom ist nicht erkennbar. Bei dieser Erkrankung steigt die Blutviskosität durch erhöhte polyklonale Immunglobuline im Serum. Ein etablierter Wirkmechanismus von Azithromycin, der darauf Einfluss nimmt, ist nicht bekannt.
 
@@ -104,6 +104,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische oder publizierte Daten, die diese Erkrankung direkt untersuchen.
 - Angaben zum Wirkmechanismus von Azithromycin (derzeit nicht verfügbar).
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die für eine Sicherheitsbewertung nötig sind.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

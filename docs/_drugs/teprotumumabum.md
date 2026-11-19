@@ -59,7 +59,7 @@ Teprotumumab ist ein Biologikum, das in der Schweiz unter dem Namen Tepezza im H
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Teprotumumab liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es sich um einen Antikörper handelt, der den IGF-1-Rezeptor (IGF-1R) blockiert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Teprotumumabum (inoffizielle Übersetzung): „Der Wirkmechanismus von Teprotumumab-trbw bei Patienten mit endokriner Orbitopathie ist nicht vollständig charakterisiert. Teprotumumab-trbw bindet an IGF-1R und blockiert dessen Aktivierung und Signalübertragung.“ Englischer Originalwortlaut: "Teprotumumab-trbw's mechanism of action in patients with Thyroid Eye Disease has not been fully characterized. Teprotumumab-trbw binds to IGF-1R and blocks its activation and signaling." ([DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce), Fassung vom 2026-09-28; abgerufen am 2026-11-19). Bekannt ist, dass es sich um einen Antikörper handelt, der den IGF-1-Rezeptor (IGF-1R) blockiert.
 
 Ein direkter mechanistischer Zusammenhang zur vorhergesagten Indikation ist nicht erkennbar. Bei Monosomie X (Turner-Syndrom) stehen Minderwuchs und eine eingeschränkte Eierstockfunktion im Vordergrund. Die Standardbehandlung nutzt Wachstumshormon, um die IGF-1-Signalwirkung zu verstärken. Eine Blockade des IGF-1-Rezeptors würde dieser Behandlung entgegenwirken, die Vorhersage ist daher mechanistisch zweifelhaft und möglicherweise sogar kontraproduktiv.
 
@@ -92,6 +92,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus (z. B. aus DrugBank) für eine fundierte Analyse des mechanistischen Zusammenhangs
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Präklinische oder klinische Daten, die einen Nutzen bei Monosomie X belegen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

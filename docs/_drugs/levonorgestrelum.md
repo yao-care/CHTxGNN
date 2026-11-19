@@ -61,7 +61,7 @@ Levonorgestrel ist ein synthetisches Gestagen, das in der Schweiz in mehreren Pr
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Levonorgestrel liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es ein Gestagen mit gewisser verbleibender androgener Aktivität ist.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Levonorgestrelum (inoffizielle Übersetzung): „Der lokale Mechanismus, durch den das kontinuierlich freigesetzte LNG zur kontrazeptiven Wirksamkeit von Skyla beiträgt, ist nicht abschließend nachgewiesen. Studien zu Skyla und ähnlichen LNG-IUS-Prototypen haben mehrere Mechanismen nahegelegt, die eine Schwangerschaft verhindern: Verdickung des Zervixschleims, die das Eindringen von Spermien in den Uterus verhindert, Hemmung der Kapazitation oder des Überlebens der Spermien sowie Veränderung des Endometriums.“ Englischer Originalwortlaut: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), Fassung vom 2026-03-04; abgerufen am 2026-11-19). Bekannt ist, dass es ein Gestagen mit gewisser verbleibender androgener Aktivität ist.
 
 Gerade diese androgene Restwirkung spricht eher gegen einen Nutzen bei Akne, da Androgene die Talgproduktion fördern. Eine Besserung der Akne unter hormonellen Verhütungsmitteln wird üblicherweise der Östrogenkomponente kombinierter Pillen (mehr SHBG, weniger freies Testosteron) oder antiandrogenen Gestagenen wie Chlormadinonacetat zugeschrieben. Levonorgestrel-freisetzende Intrauterinsysteme und reine Gestagenmethoden wurden bei einigen Anwenderinnen als neutral oder sogar akneverschlechternd beschrieben.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Direkte klinische oder epidemiologische Daten zu Levonorgestrel (insbesondere Intrauterinsysteme und reine Gestagenmethoden) und Akne
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus den Schweizer Fachinformationen, da die Sicherheitsprüfung sonst nicht möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

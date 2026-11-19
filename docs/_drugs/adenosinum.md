@@ -59,7 +59,7 @@ Für Adenosin ist in den lokalen Daten eine Zulassung vorhanden. Als neue Indika
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage ist kaum plausibel. Adenosin wirkt über A1-Rezeptoren am AV-Knoten, verlangsamt dort die Erregungsleitung und kann sie kurzzeitig unterbrechen. Zum Wirkmechanismus liegen in den lokalen Daten keine weiteren Angaben vor.
+Die Vorhersage ist kaum plausibel. Adenosin wirkt über A1-Rezeptoren am AV-Knoten, verlangsamt dort die Erregungsleitung und kann sie kurzzeitig unterbrechen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Adenosinum (inoffizielle Übersetzung): „Adenosin Injektionslösung verlangsamt die Überleitungszeit durch den AV-Knoten, kann die Reentry-Bahnen durch den AV-Knoten unterbrechen und kann bei Patienten mit paroxysmaler supraventrikulärer Tachykardie (PSVT), einschließlich einer mit dem Wolff-Parkinson-White-Syndrom assoziierten PSVT, den normalen Sinusrhythmus wiederherstellen. Adenosin Injektionslösung wird durch Methylxanthine wie Coffein und Theophyllin kompetitiv antagonisiert und durch Hemmer des Nukleosidtransports wie Dipyridamol verstärkt.“ Englischer Originalwortlaut: "Adenosine Injection slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome. Adenosine Injection is antagonized competitively by methylxanthines such as caffeine and theophylline, and potentiated by blockers of nucleoside transport such as dipyridamole." ([DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30), Fassung vom 2026-08-31; abgerufen am 2026-11-19).
 
 Dieser Effekt könnte höchstens helfen, eine aberrante Leitung von einer ventrikulären Tachykardie abzugrenzen. Eine Schenkelblockierung behandelt er nicht, und eine bestehende Leitungsstörung könnte sich sogar verschlechtern.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Direkte klinische oder präklinische Belege für diese Diagnose
 - Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Pioglitazon ist ein oral eingenommenes Antidiabetikum. Das Modell sagt voraus, d
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pioglitazon aktiviert den Rezeptor PPAR-gamma und verbessert dadurch die Wirkung von körpereigenem Insulin. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine detaillierten Angaben vor.
+Pioglitazon aktiviert den Rezeptor PPAR-gamma und verbessert dadurch die Wirkung von körpereigenem Insulin. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pioglitazonum (inoffizielle Übersetzung): „ACTOS ist ein Thiazolidindion, dessen Wirkmechanismus vom Vorhandensein von Insulin abhängt. ACTOS verringert die Insulinresistenz in der Peripherie und in der Leber, was zu einer erhöhten insulinabhängigen Glucoseverwertung und einer verminderten hepatischen Glucoseabgabe führt. […] Pioglitazon ist kein Insulin-Sekretagogum.“ Englischer Originalwortlaut: "ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. […] Pioglitazone is not an insulin secretagogue." ([DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c), Fassung vom 2025-03-28; abgerufen am 2026-11-19).
 
 Opsismodysplasie ist eine seltene Skelettdysplasie, die durch Mutationen im Gen INPPL1 (SHIP2) verursacht wird. Dieses Gen beeinflusst den PI3K/AKT-Signalweg und die Knochenbildung am Wachstumsknorpel. Eine Verbindung zu Pioglitazon über die Insulin- bzw. PI3K-Signalübertragung ist denkbar, aber rein spekulativ.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder mechanistische Daten, die eine Wirkung von Pioglitazon auf den INPPL1/SHIP2- bzw. PI3K/AKT-Signalweg bei Skelettdysplasien belegen
 - Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, um die Sicherheit beurteilen zu können
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

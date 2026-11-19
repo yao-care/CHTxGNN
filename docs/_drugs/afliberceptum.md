@@ -59,7 +59,7 @@ Aflibercept ist ein Fusionsprotein, das VEGF-A, VEGF-B und den Plazenta-Wachstum
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Wirkstoffklasse ist bekannt, dass Aflibercept VEGF-A, VEGF-B und PlGF abfängt und damit die Neubildung und Durchlässigkeit von Gefässen hemmt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Afliberceptum (inoffizielle Übersetzung): „Vaskulärer endothelialer Wachstumsfaktor A (VEGF-A) und Plazenta-Wachstumsfaktor (PlGF) sind Mitglieder der VEGF-Familie angiogener Faktoren, die als mitogene, chemotaktische und die Gefäßpermeabilität steigernde Faktoren für Endothelzellen wirken können. VEGF wirkt über zwei Rezeptor-Tyrosinkinasen, VEGFR-1 und VEGFR-2, die auf der Oberfläche von Endothelzellen vorhanden sind. […] Aflibercept-Produkte wirken als löslicher Köderrezeptor, der VEGF - A und PlGF bindet, und können dadurch die Bindung an diese zugehörigen VEGF-Rezeptoren und deren Aktivierung hemmen.“ Englischer Originalwortlaut: "Vascular endothelial growth factor-A (VEGF-A) and placental growth factor (PlGF) are members of the VEGF family of angiogenic factors that can act as mitogenic, chemotactic, and vascular permeability factors for endothelial cells. VEGF acts via two receptor tyrosine kinases, VEGFR-1 and VEGFR-2, present on the surface of endothelial cells. […] Aflibercept products act as a soluble decoy receptor that binds VEGF - A and PlGF, and thereby can inhibit the binding and activation of these cognate VEGF receptors." ([DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06), Fassung vom 2026-10-29; abgerufen am 2026-11-19). Aus der Wirkstoffklasse ist bekannt, dass Aflibercept VEGF-A, VEGF-B und PlGF abfängt und damit die Neubildung und Durchlässigkeit von Gefässen hemmt.
 
 Esotropie ist eine Fehlstellung der Augen (Einwärtsschielen). Sie entsteht meist durch neuromuskuläre, refraktive bzw. akkommodative oder sensorische Faktoren. Eine VEGF-abhängige Krankheitsentstehung ist nicht etabliert. Der hohe Vorhersagewert ist daher eher als rechnerische Nähe zu Augenerkrankungen zu verstehen und nicht als Beleg für einen Wirkmechanismus.
 
@@ -128,6 +128,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob die Esotropie als Folge einer VEGF-getriebenen Netzhauterkrankung relevant sein könnte
 - Präklinische oder klinische Daten, die Aflibercept direkt mit Esotropie in Verbindung bringen
 - Prüfung der Anwendungswege (die intravitreale Gabe ist für diese Fragestellung nicht ohne Weiteres übertragbar)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -58,7 +58,7 @@ Vonicog alfa ist ein rekombinanter von-Willebrand-Faktor (VWF), der als Biotechn
 
 ### Warum ist diese Vorhersage plausibel?
 
-Vonicog alfa ist rekombinanter von-Willebrand-Faktor. Dieser Faktor unterstützt die Anheftung und Verklumpung der Blutplättchen an verletzten Gefässwänden und bindet zudem den Gerinnungsfaktor VIII. Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank liegen in den zusammengestellten Daten nicht vor.
+Vonicog alfa ist rekombinanter von-Willebrand-Faktor. Dieser Faktor unterstützt die Anheftung und Verklumpung der Blutplättchen an verletzten Gefässwänden und bindet zudem den Gerinnungsfaktor VIII. Laut ChEMBL (EMBL-EBI) ist für Vonicog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Von-Willebrand-Faktor-Protein“ Englischer Originalwortlaut: "von Willebrand factor exogenous protein" ([ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Der Zusammenhang zur vorhergesagten Erkrankung ist lediglich rechnerisch: Beide betreffen die Blutstillung über die Blutplättchen. Bei einer Freisetzungsstörung liegt der Defekt jedoch in den Blutplättchen selbst, nämlich in der Ausschüttung ihrer Inhaltsstoffe. Von aussen zugeführter VWF dürfte diesen Defekt daher nicht beheben. Die biologische Plausibilität ist somit begrenzt, trotz des hohen Vorhersagewerts.
 
@@ -101,6 +101,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die einen Nutzen bei Thrombozyten-Freisetzungsstörungen belegen
 - Die Wirkmechanismus-Angaben des Arzneimittels aus einer Arzneimitteldatenbank
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

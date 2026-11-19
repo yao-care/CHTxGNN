@@ -59,7 +59,7 @@ Lanadelumab ist ein monoklonaler Antikörper, der in der Schweiz im Handel ist. 
 
 ## Warum ist diese Vorhersage plausibel?
 
-Lanadelumab hemmt das Enzym Plasma-Kallikrein. Dieses Enzym wird vom Serpin C1-Inhibitor reguliert. Der hohe Vorhersagewert spiegelt vermutlich vor allem die Nähe zur Serpin-Biologie in den Daten wider (SERPING1/C1-Inhibitor beim hereditären Angioödem). Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Lanadelumab hemmt das Enzym Plasma-Kallikrein. Dieses Enzym wird vom Serpin C1-Inhibitor reguliert. Der hohe Vorhersagewert spiegelt vermutlich vor allem die Nähe zur Serpin-Biologie in den Daten wider (SERPING1/C1-Inhibitor beim hereditären Angioödem). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lanadelumabum (inoffizielle Übersetzung): „Lanadelumab-flyo ist ein vollständig humaner monoklonaler Antikörper (IgG1/κ-Leichtkette), der Plasmakallikrein bindet und dessen proteolytische Aktivität hemmt. Plasmakallikrein ist eine Protease, die hochmolekulares Kininogen (HMWK) spaltet, wodurch gespaltenes HMWK (cHMWK) und Bradykinin entstehen; Bradykinin ist ein potenter Vasodilatator, der die Gefäßpermeabilität erhöht, was zu den mit HAE verbundenen Schwellungen und Schmerzen führt.“ Englischer Originalwortlaut: "Lanadelumab-flyo is a fully human monoclonal antibody (IgG1/κ-light chain) that binds plasma kallikrein and inhibits its proteolytic activity. Plasma kallikrein is a protease that cleaves high-molecular-weight-kininogen (HMWK) to generate cleaved HMWK (cHMWK) and bradykinin, a potent vasodilator that increases vascular permeability resulting in swelling and pain associated with HAE." ([DailyMed: Takhzyro (lanadelumab-flyo) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15f99d8c-efe7-4f7d-aa20-0d0f1e30c6e8), Fassung vom 2026-09-18; abgerufen am 2026-11-19).
 
 Die toxische Serpin-Polymerisation, etwa beim Alpha-1-Antitrypsin-Mangel oder bei der Neuroserpinopathie, ist eine Erkrankung durch Fehlfaltung und Ablagerung von Proteinen. Eine Kallikrein-Hemmung setzt an diesem Mechanismus nicht an. Die biologische Plausibilität ist daher gering, und die Verbindung bleibt eine reine Modellvorhersage.
 
@@ -91,6 +91,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder mechanistische Daten, die eine Wirkung auf die Serpin-Polymerisation belegen
 - Ergänzung der Angaben zum Wirkmechanismus
 - Auswertung der Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation (Swissmedic)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Takhzyro (lanadelumab-flyo) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15f99d8c-efe7-4f7d-aa20-0d0f1e30c6e8) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

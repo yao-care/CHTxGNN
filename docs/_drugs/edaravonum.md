@@ -59,7 +59,7 @@ Edaravon ist ein Radikalfänger, der in der Schweiz als Radicava zugelassen ist.
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Edaravon liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der klinischen Anwendung ist bekannt, dass Edaravon als Radikalfänger wirkt. Seine antioxidativen und gefässschützenden Effekte könnten theoretisch oxidativen Stress im Zusammenhang mit Thrombosen beeinflussen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Edaravonum (inoffizielle Übersetzung): „Der Mechanismus, über den Edaravon-Injektionslösung bei Patienten mit ALS seine therapeutische Wirkung entfaltet, ist unbekannt.“ Englischer Originalwortlaut: "The mechanism by which edaravone injection exert its therapeutic effect in patients with ALS is unknown." ([DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749), Fassung vom 2025-10-07; abgerufen am 2026-11-19). Aus der klinischen Anwendung ist bekannt, dass Edaravon als Radikalfänger wirkt. Seine antioxidativen und gefässschützenden Effekte könnten theoretisch oxidativen Stress im Zusammenhang mit Thrombosen beeinflussen.
 
 Der Heparin-Cofaktor-2-Mangel ist dagegen ein erblicher Defekt der Thrombinhemmung (Serpin-Aktivität, abhängig von Dermatansulfat). Eine Radikalfängerwirkung dürfte diesen Defekt kaum beheben. Ein direkter Wirkungsweg ist nicht belegt.
 
@@ -87,6 +87,19 @@ Der hohe Vorhersagewert ist daher als Hypothese zu verstehen und nicht als Hinwe
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung derzeit nicht möglich)
 - Angaben zum Wirkmechanismus aus einer kuratierten Quelle
 - Präklinische oder klinische Belege, die den Heparin-Cofaktor-2-Mangel direkt untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

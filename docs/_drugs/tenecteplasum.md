@@ -59,7 +59,7 @@ Tenecteplase ist ein gentechnisch hergestellter, fibrinspezifischer Plasminogena
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Tenecteplase eine fibrinspezifische Variante des Gewebe-Plasminogenaktivators ist: Es wandelt Plasminogen in Plasmin um und löst so Fibrinblutgerinnsel auf.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tenecteplasum (inoffizielle Übersetzung): „Tenecteplase ist eine modifizierte Form des humanen Gewebeplasminogenaktivators (tPA), die an Fibrin bindet und Plasminogen in Plasmin umwandelt. In-vitro-Studien zeigen, dass die Tenecteplase-vermittelte Umwandlung von Plasminogen in Plasmin in Gegenwart von Fibrin im Vergleich zur Umwandlung in Abwesenheit von Fibrin erhöht ist.“ Englischer Originalwortlaut: "Tenecteplase is a modified form of human tissue plasminogen activator (tPA) that binds to fibrin and converts plasminogen to plasmin. In the presence of fibrin, in vitro studies demonstrate that tenecteplase-mediated conversion of plasminogen to plasmin is increased relative to its conversion in the absence of fibrin." ([DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84), Fassung vom 2025-12-15; abgerufen am 2026-11-19). Bekannt ist, dass Tenecteplase eine fibrinspezifische Variante des Gewebe-Plasminogenaktivators ist: Es wandelt Plasminogen in Plasmin um und löst so Fibrinblutgerinnsel auf.
 
 Dieser Mechanismus wirkt auf Blutgerinnsel, nicht auf die zugrunde liegende strukturelle Fehlbildung der Herzkranzgefässe. Ein Zusammenhang bestünde allenfalls indirekt, wenn sich bei einer solchen Anomalie ein Gerinnsel bildet. Die vorliegenden Daten stützen diese Überlegung nicht.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare mechanistische Begründung, die über Gerinnselbildung als Komplikation hinausgeht
 - Warn- und Kontraindikationshinweise aus der Swissmedic-Fachinformation, die für die Sicherheitsbewertung noch fehlen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Tolcapon ist ein Arzneimittel, das in der Schweiz zugelassen ist und im Handel i
 
 ### Warum ist diese Vorhersage plausibel?
 
-Tolcapon hemmt das Enzym Catechol-O-Methyltransferase (COMT) und wird als Zusatztherapie zu Levodopa eingesetzt. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine näheren Angaben vor.
+Tolcapon hemmt das Enzym Catechol-O-Methyltransferase (COMT) und wird als Zusatztherapie zu Levodopa eingesetzt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tolcaponum (inoffizielle Übersetzung): „Tolcapon ist ein selektiver und reversibler Inhibitor der Catechol-O-Methyltransferase (COMT). Bei Säugetieren ist COMT in verschiedenen Organen verteilt. Die höchsten Aktivitäten finden sich in Leber und Niere. COMT kommt außerdem in Herz, Lunge, glatter und Skelettmuskulatur, Darmtrakt, Fortpflanzungsorganen, verschiedenen Drüsen, Fettgewebe, Haut, Blutzellen und neuronalen Geweben vor, insbesondere in Gliazellen.“ Englischer Originalwortlaut: "Tolcapone is a selective and reversible inhibitor of catechol- O -methyltransferase (COMT). In mammals, COMT is distributed throughout various organs. The highest activities are in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells and neuronal tissues, especially in glial cells." ([DailyMed: Tasmar (tolcapone) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0e47a9d-78e7-4523-983a-aa259f221736), Fassung vom 2020-10-02; abgerufen am 2026-11-19).
 
 Die Rasmussen-Enzephalitis ist eine seltene, entzündliche Erkrankung des Gehirns mit autoimmunem Hintergrund. Aus den vorliegenden Daten lässt sich keine mechanistische Verbindung zwischen der COMT-Hemmung und diesem Krankheitsgeschehen herleiten. Der hohe Vorhersagewert ist ein reines Modellergebnis und wird durch keine Studie oder Publikation gestützt. Die Plausibilität ist daher derzeit nicht belegt.
 
@@ -92,6 +92,19 @@ Die für diesen Bericht zusammengestellten Daten enthalten keine verwertbaren An
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle, um eine mechanistische Verbindung zur Erkrankung zu prüfen
 - Präklinische oder klinische Studien, die Tolcapon direkt bei Rasmussen-Enzephalitis untersuchen
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation als Grundlage für eine Sicherheitsbewertung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tasmar (tolcapone) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0e47a9d-78e7-4523-983a-aa259f221736) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

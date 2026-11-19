@@ -59,7 +59,7 @@ Idebenon ist ein synthetisches Analogon von Coenzym Q10 und wird in der Schweiz 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Idebenon ist ein synthetisches, kurzkettiges Benzochinon-Analogon von Coenzym Q10. Es wirkt als Elektronenüberträger und Antioxidans und unterstützt die mitochondriale Funktion. Der ursprüngliche Wirkmechanismus liegt in den aufbereiteten Daten nicht vor, die folgende Überlegung ist daher nur eine Hypothese.
+Idebenon ist ein synthetisches, kurzkettiges Benzochinon-Analogon von Coenzym Q10. Es wirkt als Elektronenüberträger und Antioxidans und unterstützt die mitochondriale Funktion. Laut ChEMBL (EMBL-EBI) ist für Idebenonum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Antioxidans und mitochondrialer Elektronenüberträger“ Englischer Originalwortlaut: "Antioxidant and mitochondrial electron carrier" ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Bei der hepatischen Porphyrie können Zwischenprodukte des Häm-Stoffwechsels oxidativen Stress und Schäden an Leberzellen verursachen. Eine Verringerung dieses oxidativen Stresses durch Idebenon wäre denkbar, ist aber nicht belegt. Wegen der fehlenden Daten ist der Zusammenhang spekulativ.
 
@@ -91,6 +91,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Fachliche Prüfung, ob ein mechanistischer Zusammenhang zwischen oxidativem Stress bei Porphyrie und Idebenon plausibel ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

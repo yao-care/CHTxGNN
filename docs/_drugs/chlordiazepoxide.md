@@ -58,7 +58,7 @@ Chlordiazepoxid ist ein Benzodiazepin und in der Schweiz im Handel. Die Modellvo
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Als Benzodiazepin verstärkt Chlordiazepoxid jedoch bekanntermassen die Signalübertragung am GABA-A-Rezeptor. Dadurch wirkt es beruhigend, angstlösend und schlaffördernd.
+Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Chlordiazepoxide (inoffizielle Übersetzung): „Chlordiazepoxid-HCl besitzt anxiolytische, sedierende, appetitanregende und schwach analgetische Wirkungen. Der genaue Wirkmechanismus ist nicht bekannt. Das Arzneimittel blockiert die EEG-Weckreaktion auf eine Stimulation der Formatio reticularis des Hirnstamms.“ Englischer Originalwortlaut: "Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation." ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), Fassung vom 2026-11-05; abgerufen am 2026-11-19). Als Benzodiazepin verstärkt Chlordiazepoxid jedoch bekanntermassen die Signalübertragung am GABA-A-Rezeptor. Dadurch wirkt es beruhigend, angstlösend und schlaffördernd.
 
 Diese Wirkungen passen zu Schlaflosigkeit, und andere Benzodiazepine sind für diesen Zweck etabliert. Eine Verkürzung der Einschlafzeit und weniger nächtliches Erwachen sind daher mechanistisch plausibel.
 
@@ -117,6 +117,19 @@ Angaben zu Warnungen und Kontraindikationen aus der Fachinformation liegen nicht
 - Kontrollierte Studien zu Chlordiazepoxid bei Schlaflosigkeit, mit Vergleich zu etablierten Schlafmitteln
 - Angaben zum Wirkmechanismus und die Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
 - Eine Nutzen-Risiko-Bewertung für ältere Patientinnen und Patienten
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

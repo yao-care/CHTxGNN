@@ -61,7 +61,7 @@ Tretinoin ist in der Schweiz als Weichkapsel im Handel. Als mögliche neue Anwen
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Tretinoin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein wirken Retinoide über Retinoidrezeptoren (RAR/RXR), die Zelldifferenzierung und Entzündungsprozesse beeinflussen können.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tretinoinum (inoffizielle Übersetzung): „Tretinoin induziert in Kultur und in vivo eine Zytodifferenzierung und eine verminderte Proliferation von APL-Zellen. Bei APL-Patienten bewirkt die Behandlung mit Tretinoin zunächst eine Ausreifung der vom leukämischen Klon abstammenden primitiven Promyelozyten, gefolgt von einer Wiederbesiedlung des Knochenmarks und des peripheren Blutes durch normale, polyklonale hämatopoetische Zellen bei Patienten, die eine komplette Remission (CR) erreichen.“ Englischer Originalwortlaut: "Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo. In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR)." ([DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9), Fassung vom 2026-08-20; abgerufen am 2026-11-19). Allgemein wirken Retinoide über Retinoidrezeptoren (RAR/RXR), die Zelldifferenzierung und Entzündungsprozesse beeinflussen können.
 
 Ein denkbarer Zusammenhang wäre eine Beeinflussung von Immunzellen, etwa der T-Zell-Differenzierung und der Aktivität von Makrophagen. Dies ist jedoch eine Hypothese. Für die rheumatoide Nodulose gibt es in den vorliegenden Daten keinen Beleg, der Tretinoin mit dieser Erkrankung verbindet.
 
@@ -119,6 +119,19 @@ Zusätzlich ist aus allgemeinem Wissen zu systemischen Retinoiden zu beachten, d
 - Der Wirkmechanismus von Tretinoin aus einer verlässlichen Quelle (z. B. DrugBank)
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Eine fachliche Einschätzung durch die Rheumatologie, bevor präklinische oder klinische Schritte erwogen werden
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

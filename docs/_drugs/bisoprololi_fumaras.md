@@ -59,7 +59,7 @@ Bisoprolol ist ein selektiver Beta-1-Rezeptorenblocker, der in der Schweiz in me
 
 ### Warum ist diese Vorhersage plausibel?
 
-Bisoprolol blockiert selektiv Beta-1-Rezeptoren im Herzen. Dadurch sinken Herzfrequenz und Blutdruck, und auch die Freisetzung von Renin in der Niere wird gedämpft. Zum genauen Wirkmechanismus lagen in den zusammengestellten Daten keine Angaben vor; die Beschreibung beruht auf dem allgemeinen pharmakologischen Wissen zur Substanzklasse.
+Bisoprolol blockiert selektiv Beta-1-Rezeptoren im Herzen. Dadurch sinken Herzfrequenz und Blutdruck, und auch die Freisetzung von Renin in der Niere wird gedämpft. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bisoprololi Fumaras (inoffizielle Übersetzung): „BISOPROLOLFUMARAT ist ein beta 1 -selektiver (kardioselektiver) Adrenozeptor-Blocker ohne signifikante membranstabilisierende Aktivität oder intrinsische sympathomimetische Aktivität in seinem therapeutischen Dosisbereich. Die Kardioselektivität ist jedoch nicht absolut, und in höheren Dosen (≥ 20 mg) hemmt Bisoprololfumarat auch beta 2 -Adrenozeptoren, die hauptsächlich in der Bronchial- und Gefäßmuskulatur lokalisiert sind; um die Selektivität zu erhalten, ist es daher wichtig, die niedrigste wirksame Dosis anzuwenden.“ Englischer Originalwortlaut: "BISOPROLOL FUMARATE is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range. Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose." ([DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e), Fassung vom 2026-11-11; abgerufen am 2026-11-19).
 
 Eine maligne hypertensive Nierenerkrankung entsteht durch stark erhöhten Blutdruck, der die Nierengefässe schädigt. Eine Blutdrucksenkung und eine geringere Reninfreisetzung sind daher biologisch nachvollziehbar.
 
@@ -99,6 +99,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation zur Sicherheitsprüfung
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um die mechanistische Verbindung zu prüfen
 - Eine Bewertung, ob Bisoprolol gegenüber der etablierten Therapie (RAAS-Hemmung, intravenöse Blutdrucksenker) einen Vorteil bieten könnte
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

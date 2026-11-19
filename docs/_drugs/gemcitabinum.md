@@ -59,7 +59,7 @@ Gemcitabin ist ein Zytostatikum, das in der Schweiz als Infusionskonzentrat im H
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Gemcitabin gehört allgemein zu den Nukleosidanaloga, die die DNA-Synthese hemmen und sich daher gegen schnell teilende Tumorzellen richten können. Diese Überlegung ist ein allgemeiner pharmakologischer Hintergrund und kein Beleg aus den vorliegenden Daten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Gemcitabinum (inoffizielle Übersetzung): „Gemcitabin tötet Zellen ab, die sich in der DNA-Synthese befinden, und blockiert das Fortschreiten der Zellen über die G1/S-Phasengrenze. Gemcitabin wird durch Nukleosidkinasen zu den Diphosphat- (dFdCDP) und Triphosphat-Nukleosiden (dFdCTP) metabolisiert.“ Englischer Originalwortlaut: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), Fassung vom 2026-07-27; abgerufen am 2026-11-19). Gemcitabin gehört allgemein zu den Nukleosidanaloga, die die DNA-Synthese hemmen und sich daher gegen schnell teilende Tumorzellen richten können. Diese Überlegung ist ein allgemeiner pharmakologischer Hintergrund und kein Beleg aus den vorliegenden Daten.
 
 Ein Hinweis auf die Eignung bei Adenokarzinomen des Rektums findet sich in den Daten nicht. Muzinöse Tumoren gelten oft als wenig empfindlich gegenüber Chemotherapie, und Gemcitabin ist kein Standardmittel bei Darmkrebs. Der hohe Vorhersagewert allein reicht daher nicht, um einen Nutzen anzunehmen.
 
@@ -104,6 +104,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Gezielte Literaturrecherche und Prüfung registrierter Studien zu Gemcitabin bei muzinösem Adenokarzinom des Rektums
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, da die Sicherheitsprüfung sonst nicht möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

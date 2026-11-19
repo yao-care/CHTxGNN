@@ -58,7 +58,7 @@ Elvitegravir ist ein Hemmstoff der HIV-1-Integrase und wird in der Schweiz in Ko
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den compilierten Daten keine Angaben vor. Bekannt ist jedoch, dass Elvitegravir die Integrase von HIV-1 hemmt und so den Einbau der viralen DNA in das Erbgut der Wirtszelle verhindert (Strangtransfer-Hemmung).
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate (Kombinationspräparat mit Elvitegravir) (inoffizielle Übersetzung): „STRIBILD ist eine Fixdosiskombination der antiretroviralen Wirkstoffe Elvitegravir (geboostert durch den CYP3A-Inhibitor Cobicistat), Emtricitabin und TDF.“ Englischer Originalwortlaut: "STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and TDF." ([DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee), Fassung vom 2025-02-04; abgerufen am 2026-11-19). Bekannt ist jedoch, dass Elvitegravir die Integrase von HIV-1 hemmt und so den Einbau der viralen DNA in das Erbgut der Wirtszelle verhindert (Strangtransfer-Hemmung).
 
 Das Affen-Immundefizienzvirus (SIV) und HIV-1 sind eng verwandte Lentiviren, deren Integrase-Enzyme ein weitgehend übereinstimmendes aktives Zentrum besitzen. Ein Effekt dieser Wirkstoffklasse auf SIV ist daher mechanistisch nachvollziehbar. Laborarbeiten beschreiben die Empfindlichkeit von SIVmac239 gegenüber Integrase-Hemmern und ähnliche Resistenzmuster wie bei HIV.
 
@@ -113,6 +113,19 @@ Für Warnungen und Kontraindikationen beachten Sie bitte die Fachinformation.
 - Klärung, ob ein relevanter Anwendungsbereich (z. B. Forschung oder Veterinärmedizin) besteht
 - Ergänzung des Wirkmechanismus und der Sicherheitsangaben aus der Fachinformation (Warnungen, Kontraindikationen)
 - Direkte Studien zu Elvitegravir als Einzelwirkstoff bei SIV-Infektion
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -100,13 +100,26 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Die Vorhersage stützt sich allein auf ein Rechenmodell. Es gibt keine Studien oder Publikationen zur vorhergesagten Erkrankung, und der Wirkmechanismus sowie die Sicherheitsdaten fehlen.
+- Die Vorhersage stützt sich allein auf ein Rechenmodell. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Minocyclinum (inoffizielle Übersetzung): „Der Wirkmechanismus von ARESTIN als Ergänzung zu Scaling- und Wurzelglättungsverfahren zur Verringerung der Taschentiefe bei Patienten mit Parodontitis im Erwachsenenalter ist unbekannt.“ Englischer Originalwortlaut: "The mechanism of action of ARESTIN as an adjunct to scaling and root planing procedures for reduction of pocket depth in patients with adult periodontitis is unknown." ([DailyMed: Arestin (minocycline hydrochloride) prescribing information, OraPharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8515df41-1936-4f3b-86ba-d2bb2a8441fb), Fassung vom 2024-05-31; abgerufen am 2026-11-19).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Systematische Literaturrecherche zu Minocyclin bei Erkrankungen der Augenoberfläche
 - Ergänzung des Wirkmechanismus (z. B. aus DrugBank)
 - Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
 - Klärung der Darreichungsform: Die vorliegende Zulassung betrifft Filmtabletten; für eine Anwendung am Auge ist die Eignung der Route zu prüfen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Arestin (minocycline hydrochloride) prescribing information, OraPharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8515df41-1936-4f3b-86ba-d2bb2a8441fb) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

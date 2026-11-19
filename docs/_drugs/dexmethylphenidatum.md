@@ -61,7 +61,7 @@ Dexmethylphenidat ist ein zentral wirksames Sympathomimetikum, das in der Schwei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine gesicherten Angaben vor. Dexmethylphenidat gehört allgemein zu den Hemmern der Dopamin- und Noradrenalin-Wiederaufnahme. Diese Einordnung stammt aus der fachlichen Einschätzung zur Vorhersage und ist nicht durch die Daten belegt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dexmethylphenidatum (inoffizielle Übersetzung): „Dexmethylphenidathydrochlorid ist ein Stimulans des zentralen Nervensystems (ZNS). Der therapeutische Wirkmechanismus bei ADHS ist nicht bekannt.“ Englischer Originalwortlaut: "Dexmethylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action in ADHD is not known." ([DailyMed: Dexmethylphenidate Hydrochloride Extended-Release (dexmethylphenidate hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb4f32eb-05c7-449e-8e5a-f45781a58f70), Fassung vom 2026-03-31; abgerufen am 2026-11-19). Dexmethylphenidat gehört allgemein zu den Hemmern der Dopamin- und Noradrenalin-Wiederaufnahme. Diese Einordnung stammt aus der fachlichen Einschätzung zur Vorhersage und ist nicht durch die Daten belegt.
 
 Die Vorhersage könnte darauf beruhen, dass Aufmerksamkeitsstörungen häufig zusammen mit spezifischen Entwicklungsstörungen auftreten, etwa mit Lern- und Sprachstörungen. Ein Stimulans könnte in diesem Fall begleitende Aufmerksamkeitssymptome beeinflussen, nicht die Entwicklungsstörung selbst.
 
@@ -88,6 +88,19 @@ Dieser Zusammenhang ist indirekt und nicht überprüft. Es gibt keine Studien od
 - Literaturrecherche und Suche nach registrierten Studien zu Dexmethylphenidat bei spezifischen Entwicklungsstörungen
 - Ergänzung der Angaben zum Wirkmechanismus
 - Sicherheitsangaben aus der Fachinformation (Warnhinweise und Kontraindikationen), die in den Daten fehlen und vor jeder weiteren Bewertung nötig sind
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Dexmethylphenidate Hydrochloride Extended-Release (dexmethylphenidate hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb4f32eb-05c7-449e-8e5a-f45781a58f70) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

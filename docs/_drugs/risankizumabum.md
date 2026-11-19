@@ -59,7 +59,7 @@ Risankizumab ist ein humanisierter monoklonaler Antikörper gegen die p19-Untere
 
 ### Warum ist diese Vorhersage plausibel?
 
-Risankizumab blockiert gezielt die p19-Untereinheit von Interleukin-23. Dieses Zytokin steuert die Th17- und Th22-Immunantworten, die bei mehreren entzündlichen Hauterkrankungen eine Rolle spielen. Eine Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank lag nicht vor. Die Beschreibung stützt sich auf die Fachliteratur.
+Risankizumab blockiert gezielt die p19-Untereinheit von Interleukin-23. Dieses Zytokin steuert die Th17- und Th22-Immunantworten, die bei mehreren entzündlichen Hauterkrankungen eine Rolle spielen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Risankizumabum (inoffizielle Übersetzung): „Risankizumab-rzaa ist ein humanisierter monoklonaler IgG1-Antikörper, der selektiv an die p19-Untereinheit des humanen Zytokins IL-23 bindet und dessen Interaktion mit dem IL-23-Rezeptor hemmt. IL-23 ist ein natürlich vorkommendes Zytokin, das an Entzündungs- und Immunreaktionen beteiligt ist.“ Englischer Originalwortlaut: "Risankizumab-rzaa is a humanized IgG1 monoclonal antibody that selectively binds to the p19 subunit of human IL-23 cytokine and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858), Fassung vom 2026-10-23; abgerufen am 2026-11-19). Die Beschreibung stützt sich auf die Fachliteratur.
 
 «Dermatitis» ist ein weiter und uneinheitlicher Sammelbegriff. Bei der atopischen Dermatitis sind neben Th2 auch Th22 und möglicherweise Th17 beteiligt. Das spricht grundsätzlich für eine Blockade von IL-23 und IL-22. Th2-Signalwege dominieren dort jedoch, und die IL-23-Achse ist nicht der Haupttreiber.
 
@@ -120,6 +120,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Prüfung der Fachinformation auf Warnhinweise und Kontraindikationen
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Kontrollierte Studien statt Einzelfallberichte
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

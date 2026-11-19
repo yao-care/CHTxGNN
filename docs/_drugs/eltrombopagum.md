@@ -59,7 +59,7 @@ Eltrombopag ist in der Schweiz zur Behandlung von Thrombozytopenien zugelassen. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Eltrombopag die Thrombozytenbildung anregt. Diese Information stammt nicht aus den hier verfügbaren Daten, sondern aus allgemeinem Fachwissen und sollte vor einer Verwendung geprüft werden.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Eltrombopagum (inoffizielle Übersetzung): „Eltrombopag ist ein TPO-Rezeptor-Agonist, der mit der Transmembrandomäne des humanen TPO-Rezeptors (auch als cMpl bekannt) interagiert und Signalkaskaden auslöst, die die Proliferation und Differenzierung von Megakaryozyten induzieren und so zu einer gesteigerten Thrombozytenproduktion führen.“ Englischer Originalwortlaut: "Eltrombopag is a TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor (also known as cMpl) and initiates signaling cascades that induce proliferation and differentiation of megakaryocytes leading to increased platelet production." ([DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46), Fassung vom 2026-05-20; abgerufen am 2026-11-19). Bekannt ist, dass Eltrombopag die Thrombozytenbildung anregt. Diese Information stammt nicht aus den hier verfügbaren Daten, sondern aus allgemeinem Fachwissen und sollte vor einer Verwendung geprüft werden.
 
 Die Literatur zeigt einen Zusammenhang zwischen HIV und Blutbildstörungen. Chronische HIV-Infektionen können zu anhaltender Thrombozytopenie führen. Einzelne Fallberichte beschreiben, dass Eltrombopag bei HIV-assoziierter Thrombozytopenie und bei HIV-assoziierter aplastischer Anämie wirkte. Ein Bericht deutet zudem auf eine mögliche immunmodulatorische Wirkung hin.
 
@@ -121,6 +121,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 - Präklinische oder klinische Daten zu einer Wirkung von Eltrombopag auf die HIV-Infektion selbst
 - Prüfung der Wechselwirkungen mit antiretroviralen Therapien
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Medroxyprogesteronacetat ist ein synthetisches Gestagen. Für die fibrozystische
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben aus einer Arzneimitteldatenbank vor. Medroxyprogesteronacetat gehört zu den synthetischen Gestagenen. Diese hemmen die Freisetzung von Hormonen aus der Hirnanhangdrüse, die die Eierstöcke steuern, und wirken der östrogengetriebenen Zellvermehrung im Gewebe entgegen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Medroxyprogesteroni Acetas (inoffizielle Übersetzung): „Depo-Provera CI (Medroxyprogesteronacetat [MPA]) hemmt die Sekretion von Gonadotropinen, was in erster Linie die Follikelreifung und die Ovulation verhindert und eine Verdickung des Zervixschleims bewirkt. Diese Wirkungen tragen zu seiner kontrazeptiven Wirkung bei.“ Englischer Originalwortlaut: "Depo-Provera CI (medroxyprogesterone acetate [MPA]) inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus. These actions contribute to its contraceptive effect." ([DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049), Fassung vom 2026-08-25; abgerufen am 2026-11-19). Medroxyprogesteronacetat gehört zu den synthetischen Gestagenen. Diese hemmen die Freisetzung von Hormonen aus der Hirnanhangdrüse, die die Eierstöcke steuern, und wirken der östrogengetriebenen Zellvermehrung im Gewebe entgegen.
 
 Die fibrozystische Brusterkrankung entsteht nach der Übersichtsarbeit von Vorherr (1986) durch ein Übergewicht von Östrogen bei zu wenig Progesteron. Dadurch vermehrt sich das Bindegewebe, später auch das Drüsengewebe. Ein Gestagen, das dem Östrogen entgegenwirkt, ist daher biologisch nachvollziehbar. Auch eine Wirkung über Androgenrezeptoren im Brustgewebe wird beschrieben.
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Sicherheitsangaben aus der Fachinformation der Swissmedic (Warnhinweise und Kontraindikationen fehlen derzeit)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Idealerweise eine kontrollierte klinische Studie mit klar definierten Endpunkten
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

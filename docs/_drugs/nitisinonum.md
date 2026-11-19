@@ -59,7 +59,7 @@ Nitisinon hemmt das Enzym 4-Hydroxyphenylpyruvat-Dioxygenase (HPPD) im Abbau der
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Nitisinon das Enzym HPPD hemmt und damit die Bildung giftiger Stoffwechselprodukte wie Succinylaceton verringert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nitisinonum (inoffizielle Übersetzung): „Nitisinon ist ein kompetitiver Inhibitor der 4-Hydroxyphenylpyruvat-Dioxygenase, eines Enzyms, das im Tyrosin-Abbauweg der Fumarylacetoacetat-Hydrolase (FAH) vorgeschaltet ist. Durch Hemmung des normalen Tyrosinabbaus bei Patienten mit HT-1 verhindert Nitisinon die Akkumulation der katabolen Zwischenprodukte Maleylacetoacetat und Fumarylacetoacetat.“ Englischer Originalwortlaut: "Nitisinone is a competitive inhibitor of 4-hydroxyphenyl-pyruvate dioxygenase, an enzyme upstream of fumarylacetoacetate hydrolase (FAH) in the tyrosine catabolic pathway. By inhibiting the normal catabolism of tyrosine in patients with HT-1, nitisinone prevents the accumulation of the catabolic intermediates maleylacetoacetate and fumarylacetoacetate." ([DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526), Fassung vom 2026-10-21; abgerufen am 2026-11-19). Bekannt ist, dass Nitisinon das Enzym HPPD hemmt und damit die Bildung giftiger Stoffwechselprodukte wie Succinylaceton verringert.
 
 Bei der hereditären Tyrosinämie Typ 1 können diese Stoffwechselprodukte die Nierentubuli schädigen. Es kommt dann zu einer Funktionsstörung, die dem Fanconi-Syndrom ähnelt. Eine Behandlung der zugrunde liegenden Stoffwechselstörung könnte diese Tubulusschäden indirekt bessern.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Warnhinweise, Kontraindikationen und Wechselwirkungen aus der Schweizer Fachinformation (derzeit fehlen diese, was eine Sicherheitsbewertung blockiert)
 - Klärung, ob eine Anwendung ausserhalb der Tyrosinämie-assoziierten Tubulopathie überhaupt sinnvoll ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

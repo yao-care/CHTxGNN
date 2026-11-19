@@ -61,7 +61,7 @@ Mepolizumab ist ein monoklonaler Antikörper, der in der Schweiz im Handel ist. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Mepolizumab ist ein Antikörper gegen Interleukin-5 (IL-5) und senkt dadurch die Zahl der eosinophilen Granulozyten. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Mepolizumab ist ein Antikörper gegen Interleukin-5 (IL-5) und senkt dadurch die Zahl der eosinophilen Granulozyten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Mepolizumabum (inoffizielle Übersetzung): „Mepolizumab ist ein IL-5-Antagonist (IgG1 kappa). IL-5 ist das wichtigste Zytokin, das für Wachstum und Differenzierung, Rekrutierung, Aktivierung und Überleben von Eosinophilen verantwortlich ist. Mepolizumab bindet mit einer Dissoziationskonstante von 100 pM an IL-5 und hemmt die Bioaktivität von IL-5, indem es dessen Bindung an die Alpha-Kette des auf der Oberfläche von Eosinophilen exprimierten IL-5-Rezeptorkomplexes blockiert.“ Englischer Originalwortlaut: "Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface." ([DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea), Fassung vom 2025-08-06; abgerufen am 2026-11-19).
 
 Ein denkbarer Zusammenhang mit der Immunthrombozytopenie besteht nur bei Patientinnen und Patienten mit hypereosinophiler, eosinophilengetriebener Immunstörung. Dort könnte die Aktivierung des Immunsystems durch Eosinophile zum Abbau von Blutplättchen beitragen. Ein einzelner Fallbericht beschreibt, dass sich eine steroidresistente hypereosinophile Immunstörung unter Mepolizumab mit begleitender Therapie zurückbildete.
 
@@ -98,6 +98,19 @@ Für die primäre Immunthrombozytopenie, die durch Autoantikörper gegen Blutpl�
 - Klinische oder präklinische Daten, die Mepolizumab direkt bei Immunthrombozytopenie untersuchen, insbesondere bei Patientinnen und Patienten mit begleitender Eosinophilie.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, da die Sicherheitsdaten in den vorliegenden Daten fehlen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, um den Zusammenhang genauer zu prüfen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

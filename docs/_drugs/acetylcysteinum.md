@@ -59,7 +59,7 @@ Acetylcystein wird in der Schweiz als schleimlösendes Mittel (Mukolytikum) eing
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus von Acetylcystein liegen in den zusammengestellten Daten keine Angaben vor. Aus den Studienunterlagen ergibt sich jedoch folgendes Bild: Acetylcystein ist eine Thiolverbindung mit antioxidativer Wirkung. Sie kann Disulfidbrücken in den Multimeren des von-Willebrand-Faktors (VWF) spalten und so deren Grösse und Plättchenbindung verringern. Das ist für die VWF-getriebene Mikrothrombose bei TTP direkt relevant.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Acetylcysteinum (inoffizielle Übersetzung): „Es wurde gezeigt, dass Acetylcystein das Ausmaß der Leberschädigung nach einer Paracetamol-Überdosierung verringert. Paracetamol-Dosen von 150 mg/kg oder mehr wurden mit Hepatotoxizität in Verbindung gebracht. Acetylcystein schützt die Leber wahrscheinlich, indem es die Glutathionspiegel aufrechterhält oder wiederherstellt oder indem es als alternatives Substrat für die Konjugation mit dem reaktiven Metaboliten von Paracetamol und damit für dessen Entgiftung dient.“ Englischer Originalwortlaut: "Acetylcysteine has been shown to reduce the extent of liver injury following acetaminophen overdose. Acetaminophen doses of 150 mg/kg or greater have been associated with hepatotoxicity. Acetylcysteine probably protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite of acetaminophen." ([DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39), Fassung vom 2025-04-30; abgerufen am 2026-11-19). Aus den Studienunterlagen ergibt sich jedoch folgendes Bild: Acetylcystein ist eine Thiolverbindung mit antioxidativer Wirkung. Sie kann Disulfidbrücken in den Multimeren des von-Willebrand-Faktors (VWF) spalten und so deren Grösse und Plättchenbindung verringern. Das ist für die VWF-getriebene Mikrothrombose bei TTP direkt relevant.
 
 Zusätzlich kann Acetylcystein Glutathion auffüllen sowie oxidativen Stress und Endothelschäden begrenzen. Das ist für die TA-TMA denkbar. Tierversuche an Maus und Pavian stützen den VWF-Mechanismus bei TTP.
 
@@ -130,6 +130,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eingrenzung der Zielindikation auf TTP bzw. TA-TMA statt «thrombotische Erkrankung» allgemein
 - Auswertung der Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
 - Mechanismusdaten zu Acetylcystein aus einer geeigneten Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

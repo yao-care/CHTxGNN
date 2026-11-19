@@ -60,7 +60,7 @@ Certolizumab pegol ist ein pegylierter Antikörperfragment-Wirkstoff, der den En
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bindet und neutralisiert Certolizumab pegol TNF-α, einen zentralen Botenstoff bei entzündlichen Erkrankungen. Er wird deshalb bei entzündlich-rheumatischen Leiden eingesetzt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Certolizumab Pegol (inoffizielle Übersetzung): „Certolizumab pegol bindet an humanes TNFα mit einer KD von 90pM. TNFα ist ein wichtiges proinflammatorisches Zytokin mit einer zentralen Rolle bei Entzündungsprozessen. Certolizumab pegol neutralisiert TNFα selektiv (IC 90 von 4 ng/mL für die Hemmung von humanem TNFα im In-vitro-Zytotoxizitäts-Assay mit murinen L929-Fibrosarkomzellen), neutralisiert jedoch nicht Lymphotoxin α (TNFβ).“ Englischer Originalwortlaut: "Certolizumab pegol binds to human TNFα with a KD of 90pM. TNFα is a key pro-inflammatory cytokine with a central role in inflammatory processes. Certolizumab pegol selectively neutralizes TNFα (IC 90 of 4 ng/mL for inhibition of human TNFα in the in vitro L929 murine fibrosarcoma cytotoxicity assay) but does not neutralize lymphotoxin α (TNFβ)." ([DailyMed: Cimzia (certolizumab pegol) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4c2c9dc-a0bb-4d64-a667-a67ebe88392d), Fassung vom 2026-10-29; abgerufen am 2026-11-19). Allgemein bindet und neutralisiert Certolizumab pegol TNF-α, einen zentralen Botenstoff bei entzündlichen Erkrankungen. Er wird deshalb bei entzündlich-rheumatischen Leiden eingesetzt.
 
 Die Hypermobilität des Steissbeins ist dagegen ein mechanisch-struktureller Zustand, bei dem das Steissbein ungewöhnlich beweglich ist. Eine klare Verbindung zu einer TNF-getriebenen Entzündung ist nicht erkennbar. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis und ist biologisch nicht begründet.
 
@@ -114,6 +114,19 @@ Warnhinweise und Kontraindikationen liegen in den zusammengestellten Daten nicht
 - Präklinische oder Pilotdaten, die einen Nutzen der TNF-Hemmung bei dieser Erkrankung plausibel machen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Die Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cimzia (certolizumab pegol) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4c2c9dc-a0bb-4d64-a667-a67ebe88392d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

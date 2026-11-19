@@ -58,7 +58,7 @@ Trandolapril ist ein Hemmer des Angiotensin-konvertierenden Enzyms (ACE-Hemmer) 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Trandolapril hemmt das Angiotensin-konvertierende Enzym. Dadurch sinkt die Bildung von Angiotensin II, einem starken Gefässverengerer. Der Blutdruck fällt, und die Gefässe der Niere werden entlastet. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Trandolapril hemmt das Angiotensin-konvertierende Enzym. Dadurch sinkt die Bildung von Angiotensin II, einem starken Gefässverengerer. Der Blutdruck fällt, und die Gefässe der Niere werden entlastet. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Trandolapril (inoffizielle Übersetzung): „Trandolapril wird zum Disäure-Metaboliten Trandolaprilat deesterifiziert, der als Hemmer der ACE-Aktivität etwa achtmal stärker wirksam ist. ACE ist eine Peptidyl-Dipeptidase, die die Umwandlung von Angiotensin I in den Vasokonstriktor Angiotensin II katalysiert.“ Englischer Originalwortlaut: "Trandolapril is deesterified to the diacid metabolite, trandolaprilat, which is approximately eight times more active as an inhibitor of ACE activity. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor, angiotensin II." ([DailyMed: trandolapril prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8143a6cf-dadc-4ef7-a8db-d16d7150ad34), Fassung vom 2025-10-31; abgerufen am 2026-11-19).
 
 Eine maligne hypertensive Nierenerkrankung entsteht durch stark erhöhten Blutdruck, der die Nierengefässe schädigt. Die Beziehung zur bisherigen Anwendung ist deshalb nahe: In beiden Fällen steht der Bluthochdruck im Mittelpunkt, und die Hemmung des Renin-Angiotensin-Systems setzt an einem Schadensmechanismus an.
 
@@ -106,6 +106,19 @@ Für Warnhinweise und Kontraindikationen bitte die Fachinformation beachten.
 - Auswertung der Fachinformation der Swissmedic zu Warnhinweisen und Kontraindikationen
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klärung der Nierenfunktion und der Kaliumüberwachung, da Nierenerkrankungen und Wechselwirkungen mit Kalium relevant sind
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: trandolapril prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8143a6cf-dadc-4ef7-a8db-d16d7150ad34) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

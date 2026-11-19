@@ -59,7 +59,7 @@ Insulin glargin ist ein langwirksames Basalinsulin, das in der Schweiz unter meh
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Insulin glargin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es als langwirksames Basalinsulin am Insulinrezeptor wirkt und den Blutzucker senkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Insulinum Glarginum (inoffizielle Übersetzung): „Die primäre Wirkung von Insulin, einschließlich Insulin-glargin-Präparaten, ist die Regulation des Glucosestoffwechsels. Insulin und seine Analoga senken den Blutzucker, indem sie die periphere Glucoseaufnahme, insbesondere durch Skelettmuskulatur und Fettgewebe, stimulieren und die hepatische Glucoseproduktion hemmen.“ Englischer Originalwortlaut: "The primary activity of insulin, including insulin glargine products, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810), Fassung vom 2026-10-15; abgerufen am 2026-11-19). Bekannt ist, dass es als langwirksames Basalinsulin am Insulinrezeptor wirkt und den Blutzucker senkt.
 
 Für einen Wirkmechanismus bei autoimmuner Eierstockentzündung gibt es keine belastbare Grundlage. Denkbar ist allenfalls ein indirekter Zusammenhang: Autoimmune Eierstockschädigungen treten gelegentlich zusammen mit anderen Autoimmunerkrankungen auf, etwa im Rahmen polyglandulärer Autoimmunsyndrome, zu denen auch ein autoimmuner Diabetes gehören kann. Das würde eine gemeinsame Erkrankungshäufigkeit widerspiegeln, aber keine therapeutische Wirkung des Insulins.
 
@@ -102,6 +102,19 @@ Derzeit keine verwandte Literatur verfügbar
 - Eine nachvollziehbare mechanistische Begründung, die über eine blosse Begleiterkrankung hinausgeht
 - Die Sicherheitsinformationen aus der Fachinformation (Warnungen und Kontraindikationen), die in den vorliegenden Daten fehlen und für eine Sicherheitsbewertung zwingend erforderlich sind
 - Angaben zum Wirkmechanismus aus einer zuverlässigen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

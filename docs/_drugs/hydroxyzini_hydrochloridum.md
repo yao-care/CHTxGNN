@@ -59,7 +59,7 @@ Hydroxyzin ist in der Schweiz als Beruhigungsmittel und Antihistaminikum zugelas
 
 ### Warum ist diese Vorhersage plausibel?
 
-Hydroxyzin ist ein H1-Antihistaminikum der ersten Generation mit anticholinergen, juckreizlindernden und leicht angstlösenden Eigenschaften. Angaben zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
+Hydroxyzin ist ein H1-Antihistaminikum der ersten Generation mit anticholinergen, juckreizlindernden und leicht angstlösenden Eigenschaften. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Hydroxyzini Hydrochloridum (inoffizielle Übersetzung): „Hydroxyzin ist kein kortikal dämpfender Wirkstoff, seine Wirkung könnte jedoch auf einer Unterdrückung der Aktivität in bestimmten Schlüsselregionen des subkortikalen Bereichs des Zentralnervensystems beruhen. Eine primäre Relaxation der Skelettmuskulatur wurde experimentell nachgewiesen.“ Englischer Originalwortlaut: "Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally." ([DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1), Fassung vom 2026-11-12; abgerufen am 2026-11-19).
 
 Ein möglicher, aber indirekter Zusammenhang besteht darin, dass die Blockade von H1-Rezeptoren histaminbedingten Juckreiz, Gefässerweiterung und Bindehautrötung dämpfen könnte. Diese Beschwerden treten auch bei allergischen oder entzündlichen Erkrankungen der Augenoberfläche auf.
 
@@ -88,6 +88,19 @@ Allerdings wird die Rosazea-Konjunktivitis (Augenrosazea) hauptsächlich durch e
 - Die Angaben zum Wirkmechanismus aus DrugBank.
 - Präklinische oder klinische Belege, die Hydroxyzin direkt mit Rosazea-Konjunktivitis in Verbindung bringen.
 - Eine Prüfung, ob eine für das Auge geeignete Darreichungsform nötig und verfügbar wäre, da die Routenverträglichkeit bisher nicht bewertet ist.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

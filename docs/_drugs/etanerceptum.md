@@ -59,7 +59,7 @@ Etanercept ist ein biotechnologisch hergestelltes Arzneimittel, das in der Schwe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Etanercept ist ein löslicher TNF-Rezeptor-Fusionsproteinblocker, der den Entzündungsbotenstoff TNF-α bindet. Die Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die Einordnung als TNF-α-Hemmer stützt sich auf die allgemein bekannte Wirkweise.
+Etanercept ist ein löslicher TNF-Rezeptor-Fusionsproteinblocker, der den Entzündungsbotenstoff TNF-α bindet. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Etanerceptum (inoffizielle Übersetzung): „TNF ist ein natürlich vorkommendes Zytokin, das an normalen Entzündungs- und Immunreaktionen beteiligt ist. Es spielt eine wichtige Rolle bei den Entzündungsprozessen der RA, der polyartikulären JIA, der PsA und der AS sowie bei der daraus resultierenden Gelenkpathologie. […] Etanercept ist eine dimere lösliche Form des p75-TNF-Rezeptors, die TNF-Moleküle binden kann.“ Englischer Originalwortlaut: "TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. It plays an important role in the inflammatory processes of RA, polyarticular JIA, PsA, and AS and the resulting joint pathology. […] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind TNF molecules." ([DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f), Fassung vom 2026-05-11; abgerufen am 2026-11-19).
 
 Ein Zusammenhang mit der Steissbeinhypermobilität ist spekulativ. Der hohe Vorhersagewert spiegelt wahrscheinlich eine Nähe zu entzündlichen oder degenerativen Wirbelsäulen- und Gelenkerkrankungen im Modell wider, nicht ein echtes therapeutisches Signal. Die Steissbeinhypermobilität ist überwiegend eine mechanische oder traumatische Störung und nicht primär TNF-getrieben. Die biologische Begründung ist daher schwach.
 
@@ -101,6 +101,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare Begründung, wie die TNF-Hemmung diese Erkrankung beeinflussen könnte
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

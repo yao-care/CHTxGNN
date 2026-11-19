@@ -61,7 +61,7 @@ Salbutamol ist ein Bronchospasmolytikum, das in der Schweiz in mehreren Darreich
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Salbutamol liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein ist bekannt, dass Beta-2-Agonisten die Konzentration von cAMP in Zellen erhöhen. Dadurch kann die glatte Muskulatur der Atemwege erschlaffen, und die Freisetzung von Entzündungsmediatoren aus Mastzellen kann gehemmt werden.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Salbutamolum (inoffizielle Übersetzung): „Salbutamolsulfat ist ein beta 2 -adrenerger Agonist. Die pharmakologischen Wirkungen von Salbutamolsulfat sind auf die Aktivierung von beta 2 -adrenergen Rezeptoren an der glatten Muskulatur der Atemwege zurückzuführen. Die Aktivierung von beta 2 -adrenergen Rezeptoren führt zur Aktivierung der Adenylcyclase und zu einem Anstieg der intrazellulären Konzentration von zyklischem 3',5’-Adenosinmonophosphat (zyklischem AMP).“ Englischer Originalwortlaut: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), Fassung vom 2024-12-20; abgerufen am 2026-11-19). Allgemein ist bekannt, dass Beta-2-Agonisten die Konzentration von cAMP in Zellen erhöhen. Dadurch kann die glatte Muskulatur der Atemwege erschlaffen, und die Freisetzung von Entzündungsmediatoren aus Mastzellen kann gehemmt werden.
 
 Aus dieser Mastzell-stabilisierenden und entzündungshemmenden Wirkung leitet sich die Überlegung ab, dass Salbutamol auch an der Bindehaut wirken könnte. Dies ist bislang eine reine Hypothese: Für die papilläre Konjunktivitis wurde sie nicht geprüft.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob eine für das Auge geeignete Darreichungsform verfügbar wäre
 - Wirkmechanismus aus einer zuverlässigen Quelle (z. B. DrugBank)
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, um die Sicherheit zu prüfen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

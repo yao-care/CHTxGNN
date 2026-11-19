@@ -61,7 +61,7 @@ Etravirin ist ein Diarylpyrimidin-NNRTI und in der Schweiz im Handel. Die Vorher
 
 ### Warum ist diese Vorhersage plausibel?
 
-Etravirin hemmt die Reverse Transkriptase von HIV-1 als NNRTI. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor. Das Simiane Immundefizienzvirus (SIV) ist wie HIV ein Lentivirus mit einer Reverse Transkriptase. Daraus ergibt sich formal ein Zusammenhang zwischen den beiden Erkrankungen.
+Etravirin hemmt die Reverse Transkriptase von HIV-1 als NNRTI. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Etravirinum (inoffizielle Übersetzung): „Etravirin ist ein antiretroviraler Wirkstoff. […] Etravirin ist ein NNRTI von HIV-1. Etravirin bindet direkt an die Reverse Transkriptase (RT) und blockiert die RNA-abhängigen und DNA-abhängigen DNA-Polymerase-Aktivitäten, indem es eine Störung des katalytischen Zentrums des Enzyms verursacht. Etravirin hemmt die humanen DNA-Polymerasen α, β und γ nicht.“ Englischer Originalwortlaut: "Etravirine is an antiretroviral drug. […] Etravirine is an NNRTI of HIV-1. Etravirine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site. Etravirine does not inhibit the human DNA polymerases α, β, and γ." ([DailyMed: Intelence (etravirine) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a9cbc29-9f15-4b24-8d86-206b82887f3d), Fassung vom 2023-08-15; abgerufen am 2026-11-19). Das Simiane Immundefizienzvirus (SIV) ist wie HIV ein Lentivirus mit einer Reverse Transkriptase. Daraus ergibt sich formal ein Zusammenhang zwischen den beiden Erkrankungen.
 
 Dieser Zusammenhang trägt aber nur begrenzt. SIV, insbesondere SIVmac, und HIV-2 sind von Natur aus gegen die meisten NNRTI resistent. Der hohe Vorhersagewert wird deshalb nicht durch eine direkte mechanistische Begründung gestützt. Daten zu Etravirin bei SIV liegen nicht vor.
 
@@ -102,6 +102,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Klärung, ob die natürliche NNRTI-Resistenz von SIV die Vorhersage entkräftet.
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Fachinformation von Swissmedic.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Intelence (etravirine) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a9cbc29-9f15-4b24-8d86-206b82887f3d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

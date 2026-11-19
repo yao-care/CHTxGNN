@@ -61,7 +61,7 @@ Bevacizumab ist ein in der Schweiz im Handel befindliches Krebsmedikament. Für 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Bevacizumab neutralisiert den Wachstumsfaktor VEGF-A und hemmt dadurch die Neubildung von Blutgefässen (Angiogenese). Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Bevacizumab neutralisiert den Wachstumsfaktor VEGF-A und hemmt dadurch die Neubildung von Blutgefässen (Angiogenese). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bevacizumabum (inoffizielle Übersetzung): „Bevacizumab-Präparate binden VEGF und verhindern die Interaktion von VEGF mit seinen Rezeptoren (Flt-1 und KDR) auf der Oberfläche von Endothelzellen. Die Interaktion von VEGF mit seinen Rezeptoren führt in In-vitro-Modellen der Angiogenese zur Proliferation von Endothelzellen und zur Bildung neuer Blutgefäße.“ Englischer Originalwortlaut: "Bevacizumab products bind VEGF and prevent the interaction of VEGF to its receptors (Flt-1 and KDR) on the surface of endothelial cells. The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis." ([DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe), Fassung vom 2026-08-21; abgerufen am 2026-11-19).
 
 Tumoren und Wucherungen im Kehlkopf- und Kehldeckelbereich, insbesondere durch HPV ausgelöste Papillome, sind stark durchblutet und gelten als VEGF-abhängig. Eine Hemmung der Angiogenese ist daher biologisch denkbar.
 
@@ -130,6 +130,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Studien oder Fallserien, die einen Nutzen bei dieser Erkrankung zeigen
 - Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Kontraindikationen
 - Ergänzung der Angaben zum Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

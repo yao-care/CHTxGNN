@@ -59,7 +59,7 @@ Metronidazol ist ein Antibiotikum und Antiprotozoikum, das in der Schweiz mit me
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Metronidazol liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem Fachwissen ist bekannt: Metronidazol ist ein Nitroimidazol-Prodrug, das unter anaeroben Bedingungen durch Nitroreduktion aktiviert wird und deshalb gegen anaerobe Bakterien und Protozoen wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Metronidazolum (inoffizielle Übersetzung): „Metronidazol, ein Nitroimidazol, entfaltet in einer anaeroben Umgebung antibakterielle Wirkungen gegen die meisten obligaten Anaerobier. Sobald Metronidazol durch passive Diffusion in den Organismus gelangt und im Zytoplasma empfindlicher anaerober Bakterien aktiviert wurde, wird es reduziert; dieser Prozess umfasst intrazelluläre Elektronentransport-Donatoren wie Ferredoxin und die Übertragung eines Elektrons auf die Nitrogruppe des Metronidazols, was zur Bildung eines kurzlebigen freien Nitroso-Radikals führt.“ Englischer Originalwortlaut: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), Fassung vom 2026-11-02; abgerufen am 2026-11-19). Aus allgemeinem Fachwissen ist bekannt: Metronidazol ist ein Nitroimidazol-Prodrug, das unter anaeroben Bedingungen durch Nitroreduktion aktiviert wird und deshalb gegen anaerobe Bakterien und Protozoen wirkt.
 
 Ein plausibler Zusammenhang mit Pneumocystose ist jedoch nicht erkennbar. Pneumocystis ist ein aerober, pilzähnlicher Organismus, dem dieser Aktivierungsweg fehlt. Die Standardtherapie (Trimethoprim-Sulfamethoxazol) greift in die Folsäuresynthese ein, ein völlig anderer Mechanismus. Der hohe Vorhersagewert beruht vermutlich auf den breiten antimikrobiellen und antiparasitären Zusammenhängen des Arzneimittels und nicht auf einer echten biologischen Verbindung.
 
@@ -125,6 +125,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten, die eine Wirkung von Metronidazol auf Pneumocystis belegen
 - Angaben zum Wirkmechanismus von Metronidazol aus einer Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, bevor eine Sicherheitsbewertung möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

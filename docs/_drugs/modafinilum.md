@@ -61,7 +61,7 @@ Modafinil ist ein wachheitsförderndes Arzneimittel. Für die vorhergesagte neue
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine gesicherten Angaben vor. Aus der Fachliteratur ist bekannt, dass Modafinil die Wachheit über mehrere Systeme beeinflusst: Hemmung des Dopamintransporters sowie Effekte auf Orexin-, Histamin- und glutamaterge/GABAerge Wachheitskreisläufe.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Modafinilum (inoffizielle Übersetzung): „Der Mechanismus bzw. die Mechanismen, durch den bzw. die Modafinil die Wachheit fördert, ist bzw. sind unbekannt. Modafinil besitzt wachheitsfördernde Wirkungen ähnlich denen von Sympathomimetika einschließlich Amphetamin und Methylphenidat, obwohl das pharmakologische Profil nicht mit dem der sympathomimetischen Amine identisch ist.“ Englischer Originalwortlaut: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), Fassung vom 2026-09-16; abgerufen am 2026-11-19). Aus der Fachliteratur ist bekannt, dass Modafinil die Wachheit über mehrere Systeme beeinflusst: Hemmung des Dopamintransporters sowie Effekte auf Orexin-, Histamin- und glutamaterge/GABAerge Wachheitskreisläufe.
 
 Die Schlafstörung als Krankheitsgruppe ist mit dem Anwendungsgebiet von Modafinil eng verwandt. Das erklärt wahrscheinlich den sehr hohen Vorhersagewert: Er spiegelt vermutlich die Nähe zu Schlaf-Wach-Störungen wider und nicht ein echtes Therapiesignal bei Schlaflosigkeit.
 
@@ -118,6 +118,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen. Aus den zu
 - Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation.
 - Gesicherte Angaben zum Wirkmechanismus aus DrugBank.
 - Eine klar definierte Fragestellung, z. B. Tagesschläfrigkeit bei Schlaflosigkeit, mit kontrollierten Studien.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

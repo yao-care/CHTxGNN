@@ -61,7 +61,7 @@ Ascorbinsäure (Vitamin C) ist in der Schweiz im Handel. Das Modell sagt eine m�
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Ascorbinsäure liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist Vitamin C als wasserlösliches Antioxidans und als Cofaktor der Kollagensynthese.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Acidum Ascorbicum (inoffizielle Übersetzung): „Der genaue Wirkmechanismus von Ascorbinsäure bei der Behandlung von Symptomen und Anzeichen von Skorbut (einer durch schweren Vitamin-C-Mangel verursachten Erkrankung) ist unbekannt; es wird jedoch angenommen, dass die Gabe von Ascorbinsäure bei Patienten mit Skorbut den Ascorbinsäure-Pool des Körpers wiederherstellt.“ Englischer Originalwortlaut: "The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid." ([DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6), Fassung vom 2026-09-03; abgerufen am 2026-11-19). Allgemein bekannt ist Vitamin C als wasserlösliches Antioxidans und als Cofaktor der Kollagensynthese.
 
 Eine Ösophagusfehlbildung ist ein struktureller Entwicklungsdefekt, der vor der Geburt entsteht. Ein plausibler Mechanismus, wie Ascorbinsäure einen solchen Defekt beheben oder behandeln könnte, ist nicht erkennbar. Der hohe Vorhersagewert zeigt nur, dass das Modell eine statistische Verbindung berechnet hat. Ein biologischer oder klinischer Beleg ist das nicht. Die Vorhersage ist daher mit grosser Skepsis zu betrachten und könnte ein Modellartefakt sein.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Warn- und Kontraindikationshinweise aus der Swissmedic-Fachinformation.
 - Belastbare präklinische oder klinische Daten, die einen Zusammenhang mit dieser Fehlbildung stützen.
 - Eine fachliche Prüfung, ob die Vorhersage biologisch überhaupt sinnvoll ist.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

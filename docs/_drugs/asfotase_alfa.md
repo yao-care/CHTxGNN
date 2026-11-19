@@ -60,7 +60,7 @@ Asfotase alfa (Strensiq) wird in der Schweiz zur Behandlung der Hypophosphatasie
 
 ## Warum ist diese Vorhersage plausibel?
 
-Asfotase alfa ist eine rekombinante Form der gewebeunspezifischen alkalischen Phosphatase (TNAP) und wird als Enzymersatztherapie eingesetzt. Sie baut extrazelluläre Substrate wie anorganisches Pyrophosphat und Pyridoxal-5'-phosphat ab. Die Angaben zum ursprünglichen Wirkmechanismus sind in den für diesen Bericht zusammengestellten Daten nicht vorhanden; die obige Beschreibung beruht auf der Bewertung des Mechanismus im Rahmen der Vorhersageanalyse.
+Asfotase alfa ist eine rekombinante Form der gewebeunspezifischen alkalischen Phosphatase (TNAP) und wird als Enzymersatztherapie eingesetzt. Sie baut extrazelluläre Substrate wie anorganisches Pyrophosphat und Pyridoxal-5'-phosphat ab. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Asfotase Alfa (inoffizielle Übersetzung): „HPP wird durch einen Mangel an TNSALP-Enzymaktivität verursacht, der zu erhöhten Spiegeln mehrerer TNSALP-Substrate führt, darunter anorganisches Pyrophosphat (PPi). TNSALP ist ein Metalloenzym, das die Hydrolyse von Phosphomonoestern unter Freisetzung von anorganischem Phosphat und Alkohol katalysiert.“ Englischer Originalwortlaut: "HPP is caused by a deficiency in TNSALP enzyme activity, which leads to elevations in several TNSALP substrates, including inorganic pyrophosphate (PPi). TNSALP is a metallo-enzyme that catalyzes the hydrolysis of phosphomonoesters with release of inorganic phosphate and alcohol." ([DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031), Fassung vom 2025-12-12; abgerufen am 2026-11-19).
 
 Mitochondriale Störungen der oxidativen Phosphorylierung entstehen durch Defekte im intrazellulären Energiestoffwechsel. Ein extrazellulär wirkendes Enzym wie TNAP dürfte diese Defekte nicht beheben können. Ein etablierter mechanistischer Zusammenhang zwischen Hypophosphatasie und dieser Erkrankung besteht daher nicht.
 
@@ -109,6 +109,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus DrugBank, um die mechanistische Analyse zu ermöglichen.
 - Präklinische Daten oder Literatur, die einen Zusammenhang zwischen TNAP-Ersatz und mitochondrialer Funktion belegen.
 - Prüfung der Anwendungswege, da die Kompatibilität der Applikationsform noch offen ist.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

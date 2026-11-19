@@ -61,7 +61,7 @@ Bimatoprost ist ein Prostamid-Analogon (Prostaglandin-F2α-Analogon), das in der
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Bimatoprost liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist nur, dass es zur Gruppe der Prostaglandin-F2α-Analoga (Prostamide) gehört.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bimatoprostum (inoffizielle Übersetzung): „Bimatoprost, ein Prostaglandin-Analogon, ist ein synthetisches Strukturanalogon von Prostaglandin mit augeninnendrucksenkender Wirkung. Es wird angenommen, dass Bimatoprost den IOD beim Menschen senkt, indem es den Abfluss des Kammerwassers sowohl über das Trabekelwerk (konventionell) als auch über den uveoskleralen Weg (unkonventionell) erhöht.“ Englischer Originalwortlaut: "Bimatoprost, a prostaglandin analog, is a synthetic structural analog of prostaglandin with ocular hypotensive activity. Bimatoprost is believed to lower IOP in humans by increasing outflow of aqueous humor through both the trabecular meshwork (conventional) and uveoscleral routes (unconventional)." ([DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341), Fassung vom 2024-10-16; abgerufen am 2026-11-19). Bekannt ist nur, dass es zur Gruppe der Prostaglandin-F2α-Analoga (Prostamide) gehört.
 
 Für diese Vorhersage lässt sich kein biologisch plausibler Zusammenhang herleiten. Ein Missbildungssyndrom mit Beteiligung von Zähnen und Zahnhalteapparat ist eine angeborene Entwicklungsstörung. Es gibt keinen erkennbaren Grund, warum ein Prostamid-Augenpräparat eine solche Störung beeinflussen sollte. Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Hinweis auf eine therapeutische Wirkung.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine gezielte Literaturrecherche zu Bimatoprost bzw. Prostamiden bei Zahn- und Parodontalentwicklungsstörungen.
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation.
 - Eine fachliche Einschätzung, ob die Vorhersage biologisch sinnvoll ist, bevor weitere Ressourcen eingesetzt werden.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Etelcalcetid ist ein intravenös verabreichtes Calcimimetikum, das in der Schwei
 
 ## Warum ist diese Vorhersage plausibel?
 
-Etelcalcetid aktiviert den Calcium-Sensing-Rezeptor (CaSR) der Nebenschilddrüsenzellen und senkt dadurch das Parathormon (PTH). Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor; die folgende Einordnung beruht auf der in den Daten beschriebenen mechanistischen Überlegung.
+Etelcalcetid aktiviert den Calcium-Sensing-Rezeptor (CaSR) der Nebenschilddrüsenzellen und senkt dadurch das Parathormon (PTH). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Etelcalcetidum (inoffizielle Übersetzung): „Etelcalcetid ist ein Calcimimetikum, das den Calcium-sensitiven Rezeptor (CaSR) allosterisch moduliert. Etelcalcetid bindet an den CaSR und verstärkt die Aktivierung des Rezeptors durch extrazelluläres Calcium. Die Aktivierung des CaSR auf den Hauptzellen der Nebenschilddrüse vermindert die PTH-Sekretion.“ Englischer Originalwortlaut: "Etelcalcetide is a calcimimetic agent that allosterically modulates the calcium-sensing receptor (CaSR). Etelcalcetide binds to the CaSR and enhances activation of the receptor by extracellular calcium. Activation of the CaSR on parathyroid chief cells decreases PTH secretion." ([DailyMed: Parsabiv (etelcalcetide) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd270093-c6a8-4596-a4ab-e6aa0a2c8a0c), Fassung vom 2026-03-08; abgerufen am 2026-11-19).
 
 Bei chronischer Nierenerkrankung und Dialyse hängen PTH, Kalzium und Phosphat eng zusammen. Ein tieferes PTH und eine mögliche CaSR-vermittelte Wirkung auf den Knochen- und Mineralstoffwechsel könnten indirekt den Serumphosphatspiegel und das Kalzium-Phosphat-Produkt senken. Eine präklinische Arbeit aus dem Jahr 2026 (PMID 42044867) deutet zudem darauf hin, dass die CaSR-Aktivierung durch Etelcalcetid die Herzfunktion bei chronischer Hyperphosphatämie wiederherstellt.
 
@@ -111,6 +111,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Studien, die den Effekt auf Serumphosphat als primären Endpunkt untersuchen
 - Auswertung der Phosphatdaten aus vorhandenen Studien bei sekundärem Hyperparathyreoidismus
 - Angaben zu Wirkmechanismus, Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Parsabiv (etelcalcetide) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd270093-c6a8-4596-a4ab-e6aa0a2c8a0c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

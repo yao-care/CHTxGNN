@@ -59,7 +59,7 @@ Terazosin ist ein Alpha-1-Adrenozeptor-Antagonist, der in der Schweiz als Einzel
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Terazosin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Terazosin Alpha-1-Adrenozeptoren blockiert und dadurch gefässerweiternd wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Terazosinum (inoffizielle Übersetzung): „Benigne Prostatahyperplasie Die mit einer benignen Prostatahyperplasie (BPH) verbundenen Symptome stehen im Zusammenhang mit einer Blasenauslassobstruktion, die aus zwei zugrunde liegenden Komponenten besteht: einer statischen und einer dynamischen. Die statische Komponente steht im Zusammenhang mit einer Vergrößerung der Prostata, die teilweise durch eine Proliferation glatter Muskelzellen im Prostatastroma verursacht wird. […] Die Blockade des Alpha-1-Rezeptors verringert den Harnröhrenwiderstand und kann die Obstruktion bei BPH-Symptomen lindern und den Harnfluss verbessern Hypertonie Der Wirkmechanismus von Terazosin ist die selektive Blockade des Alpha-1-Subtyps der adrenergen Rezeptoren.“ Englischer Originalwortlaut: "Benign Prostatic Hyperplasia The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part by a proliferation of smooth muscle cells in the prostatic stroma. […] Blockade of the alpha-1 receptor decreases urethral resistance and may relieve the obstruction of BPH symptoms and improve urine flow Hypertension The mechanism of action of terazosin is selective blockade of the alpha-1 subtype of adrenergic receptors." ([DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f), Fassung vom 2025-04-18; abgerufen am 2026-11-19). Bekannt ist, dass Terazosin Alpha-1-Adrenozeptoren blockiert und dadurch gefässerweiternd wirkt.
 
 Ein denkbarer Zusammenhang mit der Haarfollikelbiologie wäre eine bessere Durchblutung rund um die Haarfollikel. Dieser Gedanke ist jedoch spekulativ. Die einfache Hypotrichose ist eine genetisch bedingte Haarerkrankung; ein gefässaktiver Wirkmechanismus dürfte deren Ursache kaum beeinflussen.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Klärung der Anwendungsart (z. B. topisch oder systemisch) und der Verträglichkeit, insbesondere wegen blutdrucksenkender Wirkung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

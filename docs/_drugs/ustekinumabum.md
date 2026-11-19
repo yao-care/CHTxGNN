@@ -61,7 +61,7 @@ Ustekinumab ist ein Antikörper gegen die gemeinsame p40-Untereinheit von Interl
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ustekinumab blockiert die gemeinsame p40-Untereinheit von Interleukin-12 und Interleukin-23. Dadurch werden Signalwege der Th1- und Th17/Th22-Zellen gedämpft. Bei entzündlichen Hauterkrankungen wie der Psoriasis ist dieser Mechanismus gut belegt. Eine Beschreibung des Wirkmechanismus aus den lokalen Zulassungsdaten liegt nicht vor; die obige Darstellung beruht auf dem allgemein bekannten Wirkprinzip.
+Ustekinumab blockiert die gemeinsame p40-Untereinheit von Interleukin-12 und Interleukin-23. Dadurch werden Signalwege der Th1- und Th17/Th22-Zellen gedämpft. Bei entzündlichen Hauterkrankungen wie der Psoriasis ist dieser Mechanismus gut belegt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ustekinumabum (inoffizielle Übersetzung): „Ustekinumab-Produkte sind humane monoklonale IgG1κ-Antikörper, die spezifisch an die p40-Protein-Untereinheit binden, die sowohl von den Zytokinen IL-12 als auch IL-23 genutzt wird. IL-12 und IL-23 sind natürlich vorkommende Zytokine, die an Entzündungs- und Immunreaktionen beteiligt sind, wie etwa der Aktivierung natürlicher Killerzellen sowie der Differenzierung und Aktivierung von CD4+-T-Zellen.“ Englischer Originalwortlaut: "Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines. IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation." ([DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7), Fassung vom 2026-11-11; abgerufen am 2026-11-19).
 
 Bei der atopischen Dermatitis, der häufigsten Form, passt der Mechanismus nur teilweise. Sie wird überwiegend von Th2-Signalen (IL-4/IL-13) getrieben. Th17/Th22-Aktivität spielt nur bei bestimmten Untergruppen eine Rolle, etwa bei asiatischen oder pädiatrischen Patienten und bei der intrinsischen Form. Die bisherigen Phase-2-Daten deuten auf eine begrenzte oder uneinheitliche Wirksamkeit hin, und zielgerichtete Th2-Therapien sind bereits etabliert.
 
@@ -138,6 +138,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eingrenzung auf einen Dermatitis-Untertyp (atopisch, Kontakt, psoriasiform/erythrodermisch), in dem ein Th1/Th17-Anteil plausibel ist
 - Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Kontraindikationen
 - Ergänzung der Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Diclofenac-Natrium ist ein entzündungshemmendes und schmerzstillendes Arzneimit
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Diclofenac liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Diclofenac die Cyclooxygenase (COX) hemmt und dadurch Entzündung und Schmerz lindert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Diclofenacum Natricum (inoffizielle Übersetzung): „Diclofenac besitzt analgetische, entzündungshemmende und fiebersenkende Eigenschaften. Der Wirkmechanismus von Diclofenac ist, wie der anderer NSAR, nicht vollständig geklärt, umfasst jedoch eine Hemmung der Cyclooxygenase (COX-1 und COX-2).“ Englischer Originalwortlaut: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), Fassung vom 2026-09-24; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Diclofenac die Cyclooxygenase (COX) hemmt und dadurch Entzündung und Schmerz lindert.
 
 Die Hypotrichosis simplex ist dagegen eine erbliche Haarausfallerkrankung, die auf Genveränderungen zurückgeht (zum Beispiel in CDSN, APCDD1 oder RPL21). Ein Zusammenhang mit der COX-Hemmung ist nicht belegt. Ein schlüssiger Wirkmechanismus lässt sich daher nicht herleiten.
 
@@ -101,6 +101,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus DrugBank
 - Eine gezielte Literatur- und Studiensuche zur Hypotrichosis simplex, um einen möglichen Mechanismus oder erste präklinische Hinweise zu finden
 - Eine Prüfung der Anwendungswege, da die Zulassungen oral und über die Haut angewendete Formen umfassen und für die Kopfhaut bisher keine Eignung geklärt ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

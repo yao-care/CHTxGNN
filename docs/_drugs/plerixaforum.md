@@ -95,13 +95,26 @@ Derzeit keine verwandte Literatur verfügbar
 
 **Begründung:**
 - Für CMM7 gibt es keine klinischen Studien und keine Literatur. Die Vorhersage beruht allein auf einem Modell (Evidenzniveau L5).
-- Der Wirkmechanismus und die Sicherheitsinformationen aus der Fachinformation fehlen in den vorliegenden Daten.
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Plerixaforum (inoffizielle Übersetzung): „Plerixafor ist ein Inhibitor des CXCR4-Chemokinrezeptors und blockiert die Bindung seines spezifischen Liganden, des Stromal Cell-Derived Factor-1α (SDF-1α). Es ist anerkannt, dass SDF-1α und CXCR4 eine Rolle bei der Migration und dem Homing humaner hämatopoetischer Stammzellen (HSCs) in das Knochenmarkkompartiment spielen.“ Englischer Originalwortlaut: "Plerixafor is an inhibitor of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1α (SDF-1α). SDF-1α and CXCR4 are recognized to play a role in the trafficking and homing of human hematopoietic stem cells (HSCs) to the marrow compartment." ([DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003), Fassung vom 2025-09-22; abgerufen am 2026-11-19).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Klärung, was CMM7 genau bezeichnet, und Prüfung, ob die Krankheit mit dem CXCR4-Signalweg zusammenhängt
 - Präklinische oder klinische Daten, die Plerixafor direkt bei dieser Erkrankung untersuchen
 - Ergänzung des Wirkmechanismus (z. B. aus DrugBank)
 - Auswertung der Swissmedic-Fachinformation zu Warnhinweisen und Kontraindikationen, bevor eine Sicherheitsbewertung möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

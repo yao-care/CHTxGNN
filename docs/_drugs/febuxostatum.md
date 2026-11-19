@@ -59,7 +59,7 @@ Febuxostat ist ein Harnsäure-senkendes Arzneimittel (Urikostatikum). Für die v
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Febuxostat liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Febuxostat ein nicht-purinartiger, selektiver Hemmer der Xanthinoxidoreduktase ist und die Harnsäurebildung senkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Febuxostatum (inoffizielle Übersetzung): „ULORIC, ein Xanthinoxidase-Hemmer, erzielt seine therapeutische Wirkung durch Senkung der Harnsäure im Serum. Es ist nicht zu erwarten, dass ULORIC in therapeutischen Konzentrationen andere Enzyme hemmt, die an der Synthese und am Stoffwechsel von Purinen und Pyrimidinen beteiligt sind.“ Englischer Originalwortlaut: "ULORIC, a xanthine oxidase inhibitor, achieves its therapeutic effect by decreasing serum uric acid. ULORIC is not expected to inhibit other enzymes involved in purine and pyrimidine synthesis and metabolism at therapeutic concentrations." ([DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd), Fassung vom 2025-12-24; abgerufen am 2026-11-19). Aus der Literatur ist bekannt, dass Febuxostat ein nicht-purinartiger, selektiver Hemmer der Xanthinoxidoreduktase ist und die Harnsäurebildung senkt.
 
 Die renale Hypourikämie ist durch eine zu niedrige Harnsäurekonzentration im Blut gekennzeichnet. Ursache ist ein Funktionsverlust der Harnsäure-Transporter (URAT1/GLUT9) mit vermehrter Harnsäureausscheidung über die Niere. Eine weitere Senkung der Harnsäure bietet daher grundsätzlich keinen therapeutischen Ansatz und könnte sogar Risiken bergen. Der hohe Vorhersagewert spiegelt wahrscheinlich eine Nähe zum Harnsäurestoffwechsel wider und keine echte therapeutische Eignung.
 
@@ -111,6 +111,19 @@ Aus der Literatur ergibt sich zusätzlich ein Hinweis: Bei renaler Hypourikämie
 - Kontrollierte Studien oder grössere Fallserien zu Febuxostat bei renaler Hypourikämie
 - Eine Sicherheitsbewertung anhand der Schweizer Fachinformation (Warnungen und Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

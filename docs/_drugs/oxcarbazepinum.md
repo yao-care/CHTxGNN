@@ -59,7 +59,7 @@ Oxcarbazepin ist in der Schweiz als Antiepileptikum zugelassen. Für das Restles
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der allgemeinen Pharmakologie ist bekannt, dass Oxcarbazepin über seinen aktiven Metaboliten spannungsabhängige Natriumkanäle blockiert und Calciumkanäle beeinflusst. Dadurch dämpft es die Übererregbarkeit von Nervenzellen und die glutamaterge Signalübertragung. Diese Einordnung beruht nicht auf den hier vorliegenden Daten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Oxcarbazepinum (inoffizielle Übersetzung): „Die pharmakologische Wirkung von TRILEPTAL wird hauptsächlich über den 10-Monohydroxy-Metaboliten (MHD) von Oxcarbazepin vermittelt. Der genaue Mechanismus, durch den Oxcarbazepin und MHD ihre antikonvulsive Wirkung entfalten, ist nicht bekannt; elektrophysiologische In-vitro-Studien deuten jedoch darauf hin, dass sie eine Blockade spannungsabhängiger Natriumkanäle bewirken, was zu einer Stabilisierung übererregter neuronaler Membranen, einer Hemmung repetitiver neuronaler Entladungen und einer Verminderung der Ausbreitung synaptischer Impulse führt.“ Englischer Originalwortlaut: "The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses." ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), Fassung vom 2026-10-28; abgerufen am 2026-11-19). Aus der allgemeinen Pharmakologie ist bekannt, dass Oxcarbazepin über seinen aktiven Metaboliten spannungsabhängige Natriumkanäle blockiert und Calciumkanäle beeinflusst. Dadurch dämpft es die Übererregbarkeit von Nervenzellen und die glutamaterge Signalübertragung. Diese Einordnung beruht nicht auf den hier vorliegenden Daten.
 
 Beim Restless-Legs-Syndrom werden eine sensomotorische Übererregbarkeit sowie veränderte dopaminerge und glutamaterge Signale diskutiert. Andere Antiepileptika wie Gabapentin, Pregabalin und Carbamazepin werden bei dieser Erkrankung eingesetzt oder haben Nutzen gezeigt. Ein ähnlicher Effekt von Oxcarbazepin, einem Abkömmling von Carbamazepin, ist daher denkbar.
 
@@ -111,6 +111,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
 - Kontrollierte klinische Studien (idealerweise randomisiert) zu Oxcarbazepin beim Restless-Legs-Syndrom
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

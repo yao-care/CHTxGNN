@@ -59,7 +59,7 @@ Phenoxymethylpenicillin-Kalium ist ein schmalspektriges Penicillin zur Behandlun
 
 ## Warum ist diese Vorhersage plausibel?
 
-Phenoxymethylpenicillin ist ein schmalspektriges Betalaktam-Antibiotikum. Es hemmt die Zellwandsynthese von Bakterien über die Penicillin-bindenden Proteine und wirkt vor allem gegen grampositive Erreger wie Streptococcus pyogenes und Streptococcus pneumoniae. Die Wirkmechanismus-Angaben aus der Arzneimittel-Datenbank fehlen in den zusammengestellten Daten; die Beschreibung stützt sich auf das allgemeine pharmakologische Wissen.
+Phenoxymethylpenicillin ist ein schmalspektriges Betalaktam-Antibiotikum. Es hemmt die Zellwandsynthese von Bakterien über die Penicillin-bindenden Proteine und wirkt vor allem gegen grampositive Erreger wie Streptococcus pyogenes und Streptococcus pneumoniae. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Phenoxymethylpenicillinum Kalicum (inoffizielle Übersetzung): „Penicillin V übt während der Phase der aktiven Vermehrung eine bakterizide Wirkung auf penicillinempfindliche Mikroorganismen aus. Es wirkt durch Hemmung der Biosynthese des Zellwand-Mukopeptids. Es ist nicht wirksam gegen penicillinasebildende Bakterien, zu denen viele Staphylokokkenstämme gehören.“ Englischer Originalwortlaut: "Penicillin V exerts a bactericidal action against penicillin-sensitive microorganisms during the stage of active multiplication. It acts through the inhibition of biosynthesis of cell-wall mucopeptide. It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci." ([DailyMed: penicillin v potassium prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ceddc406-4a17-471f-917e-63b4b03779ea), Fassung vom 2026-11-12; abgerufen am 2026-11-19).
 
 Die Epiglottitis ist eine bakterielle Infektion des Kehldeckels. Sie wurde früher vor allem durch Haemophilus influenzae Typ b verursacht, heute spielen auch Streptokokken und andere Erreger eine Rolle. Ein antibakterieller Wirkmechanismus passt daher grundsätzlich zur Erkrankung.
 
@@ -93,6 +93,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zu Warnhinweisen und Kontraindikationen aus der Schweizer Fachinformation (Swissmedic)
 - Angaben zum Wirkmechanismus aus einer Arzneimittel-Datenbank
 - Prüfung der Verabreichungswege (oral gegenüber parenteral) im Hinblick auf die Anforderungen der Erkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: penicillin v potassium prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ceddc406-4a17-471f-917e-63b4b03779ea) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

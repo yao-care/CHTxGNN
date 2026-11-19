@@ -59,7 +59,7 @@ Cilazapril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Es könnte bei 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Cilazapril hemmt das Angiotensin-konvertierende Enzym (ACE). Dadurch entsteht weniger Angiotensin II, das Gefässe verengt und das Wachstum glatter Gefässmuskelzellen fördert. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Einordnung als ACE-Hemmer ergibt sich aus der Schweizer Zulassung.
+Cilazapril hemmt das Angiotensin-konvertierende Enzym (ACE). Dadurch entsteht weniger Angiotensin II, das Gefässe verengt und das Wachstum glatter Gefässmuskelzellen fördert. Laut ChEMBL (EMBL-EBI) ist für Cilazaprilum Anhydricum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Angiotensin-Converting-Enzym-Inhibitor“ Englischer Originalwortlaut: "Angiotensin-converting enzyme inhibitor" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Theoretisch könnte eine geringere Gefässverengung und weniger Gefässumbau in den Lungenarterien den Druck im Lungenkreislauf senken. Dies ist jedoch nur eine allgemeine Überlegung auf Klassenebene und kein spezifischer Beleg. ACE-Hemmer sind bei pulmonaler Hypertonie unklarer oder multifaktorieller Ursache keine etablierte Therapie.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung der Angaben zum Wirkmechanismus
 - Gezielte Literaturrecherche und Prüfung auf Studien zu dieser Form der pulmonalen Hypertonie
 - Abklärung, ob die Erkrankung klar genug definiert ist, um eine klinische Prüfung zu planen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Ramucirumab ist ein monoklonaler Antikörper, der in der Schweiz als Krebsmittel
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ramucirumab blockiert den VEGF-Rezeptor 2 (VEGFR-2) und hemmt dadurch die Bildung neuer Blutgefässe, die Tumoren zum Wachstum brauchen. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Beschreibung stützt sich auf allgemeines Wissen über das Arzneimittel.
+Ramucirumab blockiert den VEGF-Rezeptor 2 (VEGFR-2) und hemmt dadurch die Bildung neuer Blutgefässe, die Tumoren zum Wachstum brauchen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ramucirumabum (inoffizielle Übersetzung): „Ramucirumab ist ein VEGFR2-Antagonist, der spezifisch an VEGFR2 bindet und die Bindung der VEGFR-Liganden VEGF-A, VEGF-C und VEGF-D blockiert. Infolgedessen hemmt Ramucirumab die ligandenstimulierte Aktivierung von VEGFR2 und dadurch die ligandeninduzierte Proliferation und Migration humaner Endothelzellen. Ramucirumab hemmte die Angiogenese in einem In-vivo-Tiermodell.“ Englischer Originalwortlaut: "Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model." ([DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4), Fassung vom 2026-06-09; abgerufen am 2026-11-19).
 
 Die Hemmung der Angiogenese ist bei Adenokarzinomen im weiblichen Genitaltrakt grundsätzlich denkbar. Für Gebärmutterhalskrebs gibt es mit anderen gefässhemmenden Wirkstoffen zudem eine gewisse Klassenerfahrung. Für Ramucirumab selbst liegt bei dieser Erkrankung jedoch kein Beleg vor.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klinische oder präklinische Daten zu Ramucirumab bei Adenokarzinomen des Ligamentum uteri oder verwandten gynäkologischen Tumoren
 - Prüfung der Darreichungsform und des Anwendungswegs für die neue Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

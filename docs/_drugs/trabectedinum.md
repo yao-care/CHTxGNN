@@ -61,7 +61,7 @@ Trabectedin ist ein Krebsmedikament, das in der Schweiz im Handel ist. Für das 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Daten enthalten keine Angabe zum Wirkmechanismus aus der Arzneimitteldatenbank. Die Literatur beschreibt Trabectedin jedoch als Substanz marinen Ursprungs, die an die kleine Furche der DNA bindet und die transkriptionsgekoppelte Nukleotid-Exzisionsreparatur auslöst. Dadurch entstehen DNA-Doppelstrangbrüche. Zellen mit BRCA1/2-Defizienz oder gestörter homologer Rekombination reagieren darauf besonders empfindlich. Das ist für BRCA-assoziierten und triple-negativen Brustkrebs relevant.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Trabectedinum (inoffizielle Übersetzung): „Trabectedin ist ein alkylierender Wirkstoff, der in der kleinen Furche der DNA an Guaninreste bindet, Addukte bildet und zu einer Biegung der DNA-Helix in Richtung der großen Furche führt. Die Adduktbildung löst eine Kaskade von Ereignissen aus, die die nachfolgende Aktivität DNA-bindender Proteine, einschließlich einiger Transkriptionsfaktoren, sowie DNA-Reparaturwege beeinträchtigen kann, was zu einer Störung des Zellzyklus und letztlich zum Zelltod führt.“ Englischer Originalwortlaut: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), Fassung vom 2026-06-29; abgerufen am 2026-11-19). Die Literatur beschreibt Trabectedin jedoch als Substanz marinen Ursprungs, die an die kleine Furche der DNA bindet und die transkriptionsgekoppelte Nukleotid-Exzisionsreparatur auslöst. Dadurch entstehen DNA-Doppelstrangbrüche. Zellen mit BRCA1/2-Defizienz oder gestörter homologer Rekombination reagieren darauf besonders empfindlich. Das ist für BRCA-assoziierten und triple-negativen Brustkrebs relevant.
 
 Zusätzlich verringert Trabectedin tumorassoziierte Makrophagen und verändert das entzündliche Tumormikromilieu. Für die verwandte Substanz Lurbinectedin wurde derselbe Effekt gezeigt. In präklinischen Arbeiten zum triple-negativen Brustkrebs verstärkte Trabectedin die Wirkung von IL-12.
 
@@ -133,6 +133,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Bestätigung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Prüfung, ob Untergruppen (z. B. BRCA-assoziierter oder triple-negativer Brustkrebs) von der Behandlung profitieren könnten
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

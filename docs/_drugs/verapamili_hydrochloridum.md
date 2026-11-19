@@ -61,7 +61,7 @@ Verapamil ist ein Calciumantagonist, der in der Schweiz als Filmtabletten im Han
 
 ### Warum ist diese Vorhersage plausibel?
 
-Verapamil blockiert L-Typ-Calciumkanäle und verlangsamt die Erregungsleitung im AV-Knoten. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor; die Beschreibung stützt sich auf das bekannte Wirkprinzip dieser Arzneimittelklasse.
+Verapamil blockiert L-Typ-Calciumkanäle und verlangsamt die Erregungsleitung im AV-Knoten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Verapamili Hydrochloridum (inoffizielle Übersetzung): „Angina pectoris: Der genaue Wirkmechanismus von Verapamilhydrochlorid als antianginöser Wirkstoff ist noch nicht vollständig geklärt, umfasst jedoch die folgenden zwei Mechanismen: 1. Relaxation und Prävention von Koronararterienspasmen: Verapamilhydrochlorid erweitert die großen Koronararterien und die koronaren Arteriolen, sowohl in normalen als auch in ischämischen Regionen, und ist ein potenter Inhibitor von Koronararterienspasmen, unabhängig davon, ob diese spontan auftreten oder durch Ergonovin ausgelöst werden.“ Englischer Originalwortlaut: "Angina: The precise mechanism of action of verapamil hydrochloride as an antianginal agent remains to be fully determined, but includes the following two mechanisms: 1. Relaxation and prevention of coronary artery spasm: Verapamil hydrochloride dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced." ([DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c), Fassung vom 2026-10-30; abgerufen am 2026-11-19).
 
 Die Plausibilität ist begrenzt. Ein Schenkelblock ist eine Leitungsstörung unterhalb des AV-Knotens. Eine Blockade der AV-Knoten-Leitung könnte eine bestehende Leitungsstörung eher verschlechtern als behandeln. Zudem deutet der Zusatz „obsolete“ auf einen veralteten Eintrag in der Krankheitsklassifikation hin, möglicherweise ein Datenartefakt.
 
@@ -109,6 +109,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Systematische Literaturrecherche und Prüfung auf klinische Studien zur Erkrankung
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (insbesondere zu Leitungsstörungen)
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

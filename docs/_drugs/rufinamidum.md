@@ -59,7 +59,7 @@ Rufinamid ist ein Antiepileptikum, das in der Schweiz als Zusatztherapie bei Anf
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rufinamid wirkt als Modulator spannungsabhängiger Natriumkanäle: Es verlängert deren inaktiven Zustand und dämpft dadurch die übermässige neuronale Erregung. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den zusammengestellten Daten; die Beschreibung stützt sich auf die Mechanismus-Begründung der Vorhersage.
+Rufinamid wirkt als Modulator spannungsabhängiger Natriumkanäle: Es verlängert deren inaktiven Zustand und dämpft dadurch die übermässige neuronale Erregung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rufinamidum (inoffizielle Übersetzung): „Der genaue Mechanismus bzw. die genauen Mechanismen, durch die Rufinamid seine antiepileptische Wirkung entfaltet, ist bzw. sind unbekannt. Die Ergebnisse von In-vitro-Studien deuten darauf hin, dass der hauptsächliche Wirkmechanismus von Rufinamid in der Modulation der Aktivität von Natriumkanälen und insbesondere in der Verlängerung des inaktiven Zustands des Kanals besteht.“ Englischer Originalwortlaut: "The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown. The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel." ([DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d), Fassung vom 2022-12-15; abgerufen am 2026-11-19).
 
 Der perioraler Myoklonus mit Absenzen gehört zu den generalisierten Epilepsien. Eine antikonvulsive Wirkung von Rufinamid könnte daher grundsätzlich relevant sein. Das ist jedoch eine theoretische Überlegung ohne belegende Studien.
 
@@ -90,6 +90,19 @@ Es gibt zudem einen Gegenpunkt: Natriumkanalblocker können manche generalisiert
 - Recherche zu Fallberichten oder Studien zu Rufinamid beim perioralen Myoklonus mit Absenzen
 - Fachliche Bewertung des Risikos einer Anfallsverschlechterung durch Natriumkanalmodulation
 - Prüfung der Darreichungsformen und Applikationswege für die neue Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

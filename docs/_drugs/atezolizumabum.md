@@ -61,7 +61,7 @@ Atezolizumab ist in der Schweiz als Onkologikum zugelassen und wird als Infusion
 
 ### Warum ist diese Vorhersage plausibel?
 
-Atezolizumab ist ein Antikörper gegen PD-L1 (Immun-Checkpoint-Inhibitor). Er soll die Hemmung der T-Zellen durch den Tumor aufheben und so die körpereigene Abwehr gegen Krebszellen wieder aktivieren. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten, daher beruht diese Beschreibung auf allgemeinem Wissen über die Wirkstoffklasse.
+Atezolizumab ist ein Antikörper gegen PD-L1 (Immun-Checkpoint-Inhibitor). Er soll die Hemmung der T-Zellen durch den Tumor aufheben und so die körpereigene Abwehr gegen Krebszellen wieder aktivieren. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Atezolizumabum (inoffizielle Übersetzung): „PD L1 kann auf Tumorzellen und/oder tumorinfiltrierenden Immunzellen exprimiert werden und kann zur Hemmung der Antitumor-Immunantwort in der Tumormikroumgebung beitragen. Die Bindung von PD L1 an die auf T-Zellen und antigenpräsentierenden Zellen vorkommenden Rezeptoren PD 1 und B7.1 unterdrückt die zytotoxische T-Zell-Aktivität, die T-Zell-Proliferation und die Zytokinproduktion. […] Atezolizumab ist ein monoklonaler Antikörper, der an PD L1 bindet und dessen Interaktionen sowohl mit dem PD 1- als auch mit dem B7.1-Rezeptor blockiert.“ Englischer Originalwortlaut: "PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors." ([DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee), Fassung vom 2026-10-13; abgerufen am 2026-11-19).
 
 Die Vorhersage ist plausibel, weil gynäkologische Adenokarzinome teilweise PD-L1 exprimieren könnten. Ob dies beim Adenokarzinom des uterinen Ligaments zutrifft, lässt sich anhand der vorliegenden Daten nicht überprüfen. Es handelt sich um eine rein rechnerische Vorhersage ohne Bestätigung durch Studien oder Literatur.
 
@@ -110,6 +110,19 @@ Derzeit keine verwandte Literatur verfügbar.
 - Angaben zum Wirkmechanismus aus DrugBank
 - Belege zur PD-L1-Expression beim Adenokarzinom des uterinen Ligaments
 - Fallberichte, Studien oder Registerdaten zu dieser seltenen Tumorart
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

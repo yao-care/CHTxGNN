@@ -63,7 +63,7 @@ Hinweis zum Evidenzniveau: Die Phase-3-Studie NCT03037372 hat den Status «unbek
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Statine das LDL-Cholesterin senken. Zusätzlich haben sie entzündungshemmende Wirkungen, etwa eine geringere Aktivierung von Monozyten und Makrophagen sowie eine geringere Aktivierung des Immunsystems.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Atorvastatinum (inoffizielle Übersetzung): „LIPITOR ist ein selektiver, kompetitiver Inhibitor der HMG-CoA-Reduktase, des geschwindigkeitsbestimmenden Enzyms, das 3-Hydroxy-3-methylglutaryl-Coenzym A in Mevalonat umwandelt, eine Vorstufe von Sterolen einschließlich Cholesterin. In Tiermodellen senkt LIPITOR die Plasmaspiegel von Cholesterin und Lipoproteinen, indem es die HMG-CoA-Reduktase und die Cholesterinsynthese in der Leber hemmt und die Anzahl der hepatischen LDL-Rezeptoren auf der Zelloberfläche erhöht, wodurch die Aufnahme und der Katabolismus von LDL gesteigert werden; LIPITOR verringert außerdem die LDL-Produktion und die Anzahl der LDL-Partikel.“ Englischer Originalwortlaut: "LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol. In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles." ([DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65), Fassung vom 2024-04-15; abgerufen am 2026-11-19). Bekannt ist, dass Statine das LDL-Cholesterin senken. Zusätzlich haben sie entzündungshemmende Wirkungen, etwa eine geringere Aktivierung von Monozyten und Makrophagen sowie eine geringere Aktivierung des Immunsystems.
 
 Menschen mit HIV haben auch unter wirksamer antiretroviraler Therapie oft eine anhaltende Entzündung und ein erhöhtes Herz-Kreislauf-Risiko. Proteaseinhibitoren und einige andere Wirkstoffe verursachen zudem Fettstoffwechselstörungen. Atorvastatin könnte hier gleich zwei Probleme ansprechen: die Blutfette und die chronische Immunaktivierung.
 
@@ -136,6 +136,19 @@ Aus der Literatur ergibt sich ein Hinweis: Atorvastatin wird über CYP3A4 abgeba
 - Prüfung der Wechselwirkungen mit den jeweiligen antiretroviralen Therapien
 - Auswertung der Fachinformation zu Warnungen und Kontraindikationen
 - Klärung des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

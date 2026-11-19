@@ -59,7 +59,7 @@ Asenapin ist in der Schweiz als Neuroleptikum zugelassen. Die Evidenz besteht je
 
 ### Warum ist diese Vorhersage plausibel?
 
-Asenapin blockiert mehrere Rezeptoren, darunter Serotonin-5-HT2A-, Dopamin-D2-, Alpha-2- und Histamin-H1-Rezeptoren. Eine vollständige Beschreibung des Wirkmechanismus liegt in den Daten nicht vor. Eine Übersichtsarbeit (PMID 20420486) beschreibt zudem Effekte auf NMDA- und AMPA-Rezeptoren.
+Asenapin blockiert mehrere Rezeptoren, darunter Serotonin-5-HT2A-, Dopamin-D2-, Alpha-2- und Histamin-H1-Rezeptoren. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Asenapinum (inoffizielle Übersetzung): „Der Wirkmechanismus von Asenapin bei Schizophrenie und Bipolar-I-Störung ist unbekannt. Es wurde vermutet, dass die Wirksamkeit von Asenapin bei Schizophrenie durch eine Kombination aus antagonistischer Aktivität an D 2- und 5-HT 2A-Rezeptoren vermittelt werden könnte.“ Englischer Originalwortlaut: "The mechanism of action of asenapine, in schizophrenia and bipolar I disorder, is unknown. It has been suggested that the efficacy of asenapine in schizophrenia could be mediated through a combination of antagonist activity at D 2 and 5-HT 2A receptors." ([DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8), Fassung vom 2025-01-31; abgerufen am 2026-11-19). Eine Übersichtsarbeit (PMID 20420486) beschreibt zudem Effekte auf NMDA- und AMPA-Rezeptoren.
 
 Stimmungsstörungen und psychotische Erkrankungen teilen Botenstoff-Systeme, die durch solche Antipsychotika beeinflusst werden. Deshalb ist eine Wirkung bei affektiven Störungen mechanistisch denkbar. Die Literatur befasst sich überwiegend mit manischen und gemischten Episoden bei bipolarer Störung. Das ist keine neue Anwendung im engeren Sinn, sondern ein verwandtes Gebiet. Offen ist die Frage, ob Asenapin bei depressiven Formen, etwa der psychotischen Depression, hilft. Dazu gibt es bisher nur einen Fallbericht.
 
@@ -110,6 +110,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Kontrollierte Studien oder systematische Übersichten zu Asenapin bei depressiven Formen der affektiven Störung, insbesondere bei psychotischer Depression
 - Der vollständige Wirkmechanismus aus DrugBank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

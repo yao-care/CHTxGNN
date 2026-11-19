@@ -61,7 +61,7 @@ Bezlotoxumab ist ein Antikörper, der das Toxin B von Clostridioides difficile n
 
 ### Warum ist diese Vorhersage plausibel?
 
-Bezlotoxumab ist ein humaner monoklonaler Antikörper, der das Toxin B von Clostridioides difficile bindet und neutralisiert. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
+Bezlotoxumab ist ein humaner monoklonaler Antikörper, der das Toxin B von Clostridioides difficile bindet und neutralisiert. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bezlotoxumabum (inoffizielle Übersetzung): „ZINPLAVA (Bezlotoxumab) ist ein humaner monoklonaler Antikörper, der an C. difficile-Toxin B bindet und dessen Wirkungen neutralisiert. […] Bezlotoxumab ist ein humaner monoklonaler Antikörper, der C. difficile-Toxin B mit einer Gleichgewichts-Dissoziationskonstante (K d ) von &lt;1×10 -9 M bindet. Bezlotoxumab hemmt die Bindung von Toxin B und verhindert dessen Wirkungen auf Säugetierzellen. Bezlotoxumab bindet nicht an C. difficile-Toxin A. Aktivität in vitro Bezlotoxumab bindet an ein Epitop auf Toxin B, das bei den beschriebenen Stämmen von C. difficile konserviert ist, wobei jedoch Variationen der Aminosäuresequenz innerhalb des Epitops vorkommen.“ Englischer Originalwortlaut: "ZINPLAVA (bezlotoxumab) is a human monoclonal antibody that binds to C. difficile toxin B and neutralizes its effects. […] Bezlotoxumab is a human monoclonal antibody that binds C. difficile toxin B with an equilibrium dissociation constant (K d ) of &lt;1×10 -9 M. Bezlotoxumab inhibits the binding of toxin B and prevents its effects on mammalian cells. Bezlotoxumab does not bind to C. difficile toxin A. Activity In Vitro Bezlotoxumab binds to an epitope on toxin B that is conserved across reported strains of C. difficile, although amino acid sequence variation within the epitope does occur." ([DailyMed: Zinplava (bezlotoxumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f479bfe-2bfa-4cc5-9aee-1357364480b0), Fassung vom 2024-11-12; abgerufen am 2026-11-19).
 
 Die akute weibliche Beckenperitonitis ist in der Regel eine Mischinfektion, zum Beispiel durch Chlamydien, Neisseria gonorrhoeae oder Anaerobier. C. difficile und sein Toxin B spielen dabei keine bekannte Rolle. Ein plausibler Wirkzusammenhang lässt sich daher nicht erkennen.
 
@@ -89,6 +89,19 @@ Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis des Modells. Er ist 
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Die Angaben zum Wirkmechanismus aus DrugBank.
 - Biologische oder klinische Hinweise, dass Toxin B oder C. difficile bei der akuten weiblichen Beckenperitonitis eine Rolle spielt.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zinplava (bezlotoxumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f479bfe-2bfa-4cc5-9aee-1357364480b0) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

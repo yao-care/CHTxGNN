@@ -60,7 +60,7 @@ Tiotropium ist ein inhalatives, langwirksames Anticholinergikum, das in der Schw
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Tiotropium gehört zur Klasse der Muskarinrezeptor-Antagonisten. Solche Substanzen entspannen die glatte Muskulatur der Atemwege und können so den Atemwegswiderstand senken.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tiotropium (inoffizielle Übersetzung): „Tiotropium ist ein langwirksamer Muskarinrezeptor-Antagonist, der häufig als Anticholinergikum bezeichnet wird. Es weist eine ähnliche Affinität zu den Subtypen der Muskarinrezeptoren, M 1 bis M 5, auf. In den Atemwegen entfaltet es seine pharmakologische Wirkung durch Hemmung der M 3 -Rezeptoren an der glatten Muskulatur, was zu einer Bronchodilatation führt.“ Englischer Originalwortlaut: "Tiotropium is a long-acting, antimuscarinic agent, which is often referred to as an anticholinergic. It has similar affinity to the subtypes of muscarinic receptors, M 1 to M 5. In the airways, it exhibits pharmacological effects through inhibition of M 3 -receptors at the smooth muscle leading to bronchodilation." ([DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9), Fassung vom 2025-11-10; abgerufen am 2026-11-19). Tiotropium gehört zur Klasse der Muskarinrezeptor-Antagonisten. Solche Substanzen entspannen die glatte Muskulatur der Atemwege und können so den Atemwegswiderstand senken.
 
 Eine Atemwegsfehlbildung ist jedoch ein struktureller Defekt. Ein Bronchodilatator kann solche Anomalien nicht korrigieren. Allenfalls könnte er eine sekundäre Atemwegsobstruktion lindern. Die Verbindung wirkt eher wie ein Zuordnungsartefakt der Modellvorhersage als wie ein belegter biologischer Zusammenhang.
 
@@ -125,6 +125,18 @@ Für Warnhinweise und Kontraindikationen bitte die Fachinformation beachten.
 - Klärung, ob ein sekundärer Atemwegswiderstand bei bestimmten Fehlbildungen therapeutisch relevant ist
 - Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9) |
+
+<!-- review:end log -->
 
 ## Haftungsausschluss
 

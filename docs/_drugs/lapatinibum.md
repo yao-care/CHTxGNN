@@ -59,7 +59,7 @@ Lapatinib ist in der Schweiz als Zytostatikum zugelassen. Für die Vorhersage, d
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lapatinib hemmt als Tyrosinkinase-Inhibitor zwei Rezeptoren: EGFR (ErbB1) und HER2 (ErbB2). Die Wirkmechanismus-Angaben aus der Arzneimitteldatenbank fehlen in den vorliegenden Daten, die Einordnung beruht daher auf dem bekannten Wirkprinzip.
+Lapatinib hemmt als Tyrosinkinase-Inhibitor zwei Rezeptoren: EGFR (ErbB1) und HER2 (ErbB2). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lapatinibum (inoffizielle Übersetzung): „Lapatinib ist ein 4-Anilinochinazolin-Kinaseinhibitor der intrazellulären Tyrosinkinasedomänen sowohl des Epidermal-Growth-Factor-Rezeptors (EGFR [ErbB1]) als auch des Human-Epidermal-Rezeptors Typ 2 (HER2 [ErbB2]) (geschätzte K i app-Werte von 3nM bzw. 13nM) mit einer Dissoziationshalbwertszeit von mindestens 300 Minuten. Lapatinib hemmt das ErbB-vermittelte Tumorzellwachstum in vitro und in verschiedenen Tiermodellen.“ Englischer Originalwortlaut: "Lapatinib is a 4-anilinoquinazoline kinase inhibitor of the intracellular tyrosine kinase domains of both Epidermal Growth Factor Receptor (EGFR [ErbB1]) and of Human Epidermal Receptor Type 2 (HER2 [ErbB2]) receptors (estimated K i app values of 3nM and 13nM, respectively) with a dissociation half-life of greater than or equal to 300 minutes. Lapatinib inhibits ErbB-driven tumor cell growth in vitro and in various animal models." ([DailyMed: Tykerb (lapatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee37f88-ec6a-4c30-b8aa-e2c71f93088c), Fassung vom 2026-01-27; abgerufen am 2026-11-19).
 
 Das Dermatofibrosarcoma protuberans wird hauptsächlich durch die COL1A1-PDGFB-Fusion getrieben. Diese führt zu einer dauerhaften Aktivierung von PDGFRB. Die etablierte zielgerichtete Therapie ist Imatinib, ein PDGFR-Hemmer. Ein direkter mechanistischer Zusammenhang mit Lapatinib ist nicht belegt.
 
@@ -102,6 +102,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus der Arzneimitteldatenbank
 - Präklinische Daten oder Studien zu Lapatinib beim Dermatofibrosarcoma protuberans, auch zur Prüfung eines Zusammenhangs mit dem PDGFR-Signalweg
 - Literaturrecherche und Prüfung registrierter klinischer Studien zu dieser Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tykerb (lapatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee37f88-ec6a-4c30-b8aa-e2c71f93088c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

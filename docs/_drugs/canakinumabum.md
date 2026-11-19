@@ -59,7 +59,7 @@ Canakinumab ist ein Antikörper gegen Interleukin-1β und in der Schweiz für me
 
 ### Warum ist diese Vorhersage plausibel?
 
-Canakinumab blockiert Interleukin-1β, einen zentralen Entzündungsbotenstoff. Die Angaben zum genauen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
+Canakinumab blockiert Interleukin-1β, einen zentralen Entzündungsbotenstoff. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Canakinumabum (inoffizielle Übersetzung): „Canakinumab ist ein humaner monoklonaler Anti-human-IL-1β-Antikörper vom Isotyp IgG1/κ. Canakinumab bindet an humanes IL-1β und neutralisiert dessen Aktivität, indem es seine Interaktion mit IL-1-Rezeptoren blockiert, bindet jedoch nicht an IL-1α oder den IL-1-Rezeptorantagonisten (IL-1ra).“ Englischer Originalwortlaut: "Canakinumab is a human monoclonal anti-human IL-1β antibody of the IgG1/κ isotype. Canakinumab binds to human IL-1β and neutralizes its activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1α or IL-1 receptor antagonist (IL-1ra)." ([DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e), Fassung vom 2026-06-08; abgerufen am 2026-11-19).
 
 Ein Zusammenhang zwischen der Blockade von Interleukin-1β und einer ischämischen oder entzündlichen Leberschädigung ist denkbar, bleibt aber spekulativ. Es liegen keine direkten Hinweise auf einen solchen Mechanismus vor. Die Vorhersage sollte daher als Hypothese und nicht als belegte Möglichkeit verstanden werden.
 
@@ -104,6 +104,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine systematische Literaturrecherche zur Erkrankung selbst
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Die Angabe des Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

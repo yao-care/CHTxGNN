@@ -58,7 +58,7 @@ Andexanet alfa ist in der Schweiz als Antidot gegen Faktor-Xa-Inhibitoren zugela
 
 ## Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage ist nach aktueller Datenlage **nicht plausibel begründbar**. Andexanet alfa ist ein rekombinantes, katalytisch inaktives Faktor-Xa-Täuschmolekül. Es bindet Faktor-Xa-Inhibitoren und neutralisiert so deren gerinnungshemmende Wirkung. Die Angaben zum ursprünglichen Wirkmechanismus lagen für diesen Bericht nicht vor, weshalb ein Abgleich damit nicht möglich war.
+Die Vorhersage ist nach aktueller Datenlage **nicht plausibel begründbar**. Andexanet alfa ist ein rekombinantes, katalytisch inaktives Faktor-Xa-Täuschmolekül. Es bindet Faktor-Xa-Inhibitoren und neutralisiert so deren gerinnungshemmende Wirkung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Andexanet Alfa (inoffizielle Übersetzung): „Koagulationsfaktor Xa (rekombinant), inaktiviert-zhzo, entfaltet seine prokoagulatorische Wirkung durch Bindung und Sequestrierung der FXa-Inhibitoren Rivaroxaban und Apixaban. Eine weitere beobachtete prokoagulatorische Wirkung des ANDEXXA-Proteins ist seine Fähigkeit, an den Tissue Factor Pathway Inhibitor (TFPI) zu binden und dessen Aktivität zu hemmen.“ Englischer Originalwortlaut: "Coagulation factor Xa (recombinant), inactivated-zhzo exerts its procoagulant effect by binding and sequestering the FXa inhibitors, rivaroxaban and apixaban. Another observed procoagulant effect of the ANDEXXA protein is its ability to bind to, and inhibit the activity of, Tissue Factor Pathway Inhibitor (TFPI)." ([DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c), Fassung vom 2025-05-23; abgerufen am 2026-11-19).
 
 Die Glanzmann-Thrombasthenie ist dagegen ein angeborener Defekt des Plättchen-Integrins αIIbβ3 (GPIIb/IIIa), der die Plättchenaggregation beeinträchtigt. Ein Zusammenhang zwischen der Aufhebung einer Faktor-Xa-Hemmung und der Korrektur dieses Plättchendefekts ist nicht erkennbar. Der hohe Vorhersagewert ist wahrscheinlich ein Artefakt des TxGNN-Modells (Deep Learning), der auf gemeinsamen Nachbarn im Bereich «Blutstillung/Blutung» beruht.
 
@@ -107,6 +107,19 @@ Zusätzlich ist zu beachten: Bei Patientinnen und Patienten mit Gerinnungsstöru
 - Ergänzung des Wirkmechanismus aus DrugBank
 - Eine nachvollziehbare mechanistische Begründung für den Einsatz bei Plättchenfunktionsstörungen
 - Präklinische oder klinische Daten, die einen Nutzen bei der Glanzmann-Thrombasthenie belegen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

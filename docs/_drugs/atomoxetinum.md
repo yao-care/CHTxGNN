@@ -59,7 +59,7 @@ Atomoxetin ist in der Schweiz als zentral wirksames, nicht stimulierendes Sympat
 
 ### Warum ist diese Vorhersage plausibel?
 
-Atomoxetin hemmt selektiv die Wiederaufnahme von Noradrenalin. Zu seinem Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine näheren Angaben vor.
+Atomoxetin hemmt selektiv die Wiederaufnahme von Noradrenalin. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Atomoxetinum (inoffizielle Übersetzung): „Der genaue Mechanismus, über den STRATTERA seine therapeutischen Wirkungen bei ADHS hervorruft, ist nicht bekannt, man nimmt jedoch an, dass er mit einer selektiven Hemmung des präsynaptischen Noradrenalin-Transporters zusammenhängt, wie in Ex-vivo-Aufnahme- und Neurotransmitter-Depletionsstudien ermittelt wurde.“ Englischer Originalwortlaut: "The precise mechanism by which STRATTERA produces its therapeutic effects in ADHD is unknown, but is thought to be related to selective inhibition of the pre-synaptic norepinephrine transporter, as determined in ex vivo uptake and neurotransmitter depletion studies." ([DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb), Fassung vom 2026-06-30; abgerufen am 2026-11-19).
 
 Eine verstärkte noradrenerge Signalübertragung im präfrontalen Kortex kann Aufmerksamkeit und exekutive Funktionen verbessern. Das ist ein plausibler Ansatz bei Entwicklungsstörungen, die diese Funktionen beeinträchtigen. Die Vorhersage stützt sich also vor allem auf die Nähe zu neuroentwicklungsbedingten Störungsbildern.
 
@@ -107,6 +107,19 @@ Die folgende Auswahl betrifft ADHS oder Nachbarthemen und untersucht die vorherg
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klinische Studien oder Publikationen, die Atomoxetin direkt bei spezifischen Entwicklungsstörungen des Lernens oder der Sprache untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

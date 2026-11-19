@@ -61,7 +61,7 @@ Lamivudin ist ein Hemmer der reversen Transkriptase, der in der Schweiz bereits 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lamivudin gehört zu den nukleosidischen Reverse-Transkriptase-Hemmern. Sein aktiver Metabolit (Triphosphat) führt zum Kettenabbruch bei der Synthese der proviralen DNA. Die genauen Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor; die Beschreibung beruht auf dem allgemein bekannten Wirkprinzip.
+Lamivudin gehört zu den nukleosidischen Reverse-Transkriptase-Hemmern. Sein aktiver Metabolit (Triphosphat) führt zum Kettenabbruch bei der Synthese der proviralen DNA. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lamivudinum (inoffizielle Übersetzung): „Lamivudin ist ein antiretroviraler Wirkstoff. […] Lamivudin ist ein synthetisches Nukleosidanalogon. Intrazellulär wird Lamivudin zu seinem aktiven 5′-Triphosphat-Metaboliten, Lamivudintriphosphat (3TC-TP), phosphoryliert. Der hauptsächliche Wirkmechanismus von 3TC-TP ist die Hemmung der Reversen Transkriptase (RT) von HIV-1 durch DNA-Kettenabbruch nach dem Einbau des Nukleotidanalogons.“ Englischer Originalwortlaut: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), Fassung vom 2024-08-15; abgerufen am 2026-11-19).
 
 Das Katzen-Immunschwächevirus (FIV) ist ein Lentivirus mit einer reversen Transkriptase, die jener von HIV-1 ähnelt. FIV wird deshalb als Tiermodell für HIV genutzt, und mehrere gegen HIV wirksame Hemmer der reversen Transkriptase zeigen auch gegen FIV Aktivität. Dies erklärt den hohen Vorhersagewert plausibel.
 
@@ -115,6 +115,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob für die Schweiz überhaupt ein humanmedizinischer Nutzen oder eine tiermedizinische Anwendung angestrebt wird
 - Sicherheits- und Wirkmechanismusdaten aus der Fachinformation bzw. aus Arzneimitteldatenbanken
 - Fachinformation (Warnhinweise und Kontraindikationen) von Swissmedic
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

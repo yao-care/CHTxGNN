@@ -61,7 +61,7 @@ Atenolol ist ein Betarezeptorenblocker, der in der Schweiz mit mehreren Präpara
 
 ### Warum ist diese Vorhersage plausibel?
 
-Atenolol blockiert selektiv Beta-1-Rezeptoren, senkt den Blutdruck und hemmt die Freisetzung von Renin. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Atenolol blockiert selektiv Beta-1-Rezeptoren, senkt den Blutdruck und hemmt die Freisetzung von Renin. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Atenololum (inoffizielle Übersetzung): „TENORMIN ist ein beta 1 -selektiver (kardioselektiver) Beta-Adrenozeptor-Blocker ohne membranstabilisierende oder intrinsische sympathomimetische (partiell agonistische) Aktivität. Diese bevorzugte Wirkung ist jedoch nicht absolut, und in höheren Dosen hemmt TENORMIN beta 2 -Adrenozeptoren, die hauptsächlich in der Bronchial- und Gefäßmuskulatur lokalisiert sind.“ Englischer Originalwortlaut: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), Fassung vom 2025-09-18; abgerufen am 2026-11-19).
 
 Ein hoher Blutdruck schädigt die Nieren, und eine verminderte Reninfreisetzung könnte diesen Kreislauf theoretisch dämpfen. Dies erklärt, warum das Modell eine Verbindung zwischen Atenolol und der hypertensiven Nierenerkrankung herstellt.
 
@@ -106,6 +106,19 @@ Mindestens 4 Zulassungen sind erfasst. Die Liste kann unvollständig sein.
 - Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen (insbesondere zur Dosierung bei Niereninsuffizienz)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Eine Einordnung gegenüber den etablierten Standardtherapien der malignen Hypertonie
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -60,7 +60,7 @@ Insulin glulisine (Apidra) ist ein schnell wirkendes Insulinanalogon und in der 
 
 ## Warum ist diese Vorhersage plausibel?
 
-Insulin glulisine ist ein schnell wirkendes Insulinanalogon, das den Insulinrezeptor aktiviert und so den Blutzucker senkt. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine detaillierten Angaben vor. Dieser Zusammenhang ist jedoch pharmakologisch allgemein bekannt.
+Insulin glulisine ist ein schnell wirkendes Insulinanalogon, das den Insulinrezeptor aktiviert und so den Blutzucker senkt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Insulin Glulisine (inoffizielle Übersetzung): „Die Regulation des Glucosestoffwechsels ist die primäre Wirkung von Insulinen und Insulinanaloga, einschließlich Insulinglulisin. Insuline senken den Blutzucker, indem sie die periphere Glucoseaufnahme durch Skelettmuskulatur und Fettgewebe stimulieren und die hepatische Glucoseproduktion hemmen.“ Englischer Originalwortlaut: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin glulisine. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa), Fassung vom 2025-11-25; abgerufen am 2026-11-19). Dieser Zusammenhang ist jedoch pharmakologisch allgemein bekannt.
 
 Typ-1-Diabetes ist eine Erkrankung mit Insulinmangel. Die vorhergesagte Indikation entspricht damit dem Kern der bestehenden Zulassung («Diabetes mellitus beim Erwachsenen»). Es handelt sich nicht um eine Umwidmung im engeren Sinn, sondern um eine Präzisierung der Zielgruppe. Die vorliegenden Studien erweitern das Bild zusätzlich auf Kinder und Jugendliche sowie auf die Anwendung in Insulinpumpen.
 
@@ -137,6 +137,19 @@ Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation liegen in 
 - Auswertung der Schweizer Fachinformation (Warnhinweise und Kontraindikationen) von der Swissmedic-Website
 - Ergänzung der Angaben zum Wirkmechanismus aus DrugBank
 - Klärung, ob Typ-1-Diabetes innerhalb der Zulassung «Diabetes mellitus beim Erwachsenen» ausreichend abgedeckt ist, und ob eine Erweiterung auf Kinder und Jugendliche geprüft werden soll
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

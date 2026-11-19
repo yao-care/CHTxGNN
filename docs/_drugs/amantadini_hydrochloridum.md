@@ -59,7 +59,7 @@ Amantadin ist in der Schweiz für neurologische und infektiologische Anwendungen
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Amantadin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem pharmakologischem Wissen ist bekannt, dass Amantadin die NMDA-Rezeptoren hemmt. Dadurch könnte es die durch Glutamat vermittelte Übererregung von Nervenzellen und die Anfallsaktivität abschwächen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Amantadini Hydrochloridum (inoffizielle Übersetzung): „Der Mechanismus, über den Amantadin seine Wirksamkeit bei der Behandlung von Dyskinesien bei Patienten mit Parkinson-Krankheit oder als Zusatzbehandlung zu Levodopa/Carbidopa bei Patienten mit Parkinson-Krankheit mit „Off“-Episoden entfaltet, ist nicht bekannt. Amantadin ist ein schwacher unkompetitiver Antagonist des NMDA-Rezeptors.“ Englischer Originalwortlaut: "The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor." ([DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28), Fassung vom 2026-10-05; abgerufen am 2026-11-19). Aus allgemeinem pharmakologischem Wissen ist bekannt, dass Amantadin die NMDA-Rezeptoren hemmt. Dadurch könnte es die durch Glutamat vermittelte Übererregung von Nervenzellen und die Anfallsaktivität abschwächen.
 
 Die Rasmussen-Enzephalitis ist eine seltene, überwiegend T-Zell-vermittelte entzündliche Erkrankung, die meist nur eine Gehirnhälfte betrifft und mit schwer behandelbaren Anfällen einhergeht. Ein NMDA-antagonistischer Effekt würde allenfalls Symptome lindern. Dass er den zugrunde liegenden Entzündungsprozess beeinflusst, ist unwahrscheinlich.
 
@@ -100,6 +100,19 @@ Derzeit keine verwandte Literatur verfügbar.
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Präklinische oder klinische Daten, die Amantadin direkt bei der Rasmussen-Enzephalitis untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Levofloxacin ist ein Antibiotikum aus der Gruppe der Fluorchinolone und wird in 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Levofloxacin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Fluorchinolone wirken allgemein antibakteriell. Eine Wirkung gegen die Hornhaut- und Bindehauterkrankung selbst lässt sich daraus nicht ableiten.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Levofloxacinum (inoffizielle Übersetzung): „Levofloxacin gehört zur Klasse der Fluorchinolon-Antibiotika. […] Levofloxacin ist das L-Isomer des Racemats Ofloxacin, eines antimikrobiellen Chinolon-Wirkstoffs. Die antibakterielle Aktivität von Ofloxacin beruht hauptsächlich auf dem L-Isomer. Der Wirkmechanismus von Levofloxacin und anderen antimikrobiellen Fluorchinolonen beruht auf der Hemmung der bakteriellen Topoisomerase IV und der DNA-Gyrase (beides Typ-II-Topoisomerasen), Enzymen, die für DNA-Replikation, Transkription, Reparatur und Rekombination erforderlich sind.“ Englischer Originalwortlaut: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), Fassung vom 2026-11-05; abgerufen am 2026-11-19). Fluorchinolone wirken allgemein antibakteriell. Eine Wirkung gegen die Hornhaut- und Bindehauterkrankung selbst lässt sich daraus nicht ableiten.
 
 Der einzige verknüpfte Artikel beschreibt einen Ausbruch einer mikrosporidialen Keratokonjunktivitis in Zusammenhang mit verunreinigtem Wasser in Schwimmbädern in Taiwan. Mikrosporidien sind gegenüber Levofloxacin nicht zuverlässig empfindlich. Ein antibakterieller Mechanismus erklärt die Vorhersage daher nicht. Levofloxacin kann am Auge allenfalls zur Vorbeugung bakterieller Begleitinfektionen eingesetzt werden. Das ist kein Beleg für eine krankheitsgerichtete Wirkung.
 
@@ -114,6 +114,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus den Fachinformationen von Swissmedic
 - Prüfung, ob eine augenärztliche Darreichungsform verfügbar ist, da die in der Schweiz erfassten Produkte als Infusionslösung und Filmtabletten vorliegen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Fluoxetin ist ein Antidepressivum aus der Gruppe der selektiven Serotonin-Wieder
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor. Fluoxetin ist jedoch als selektiver Serotonin-Wiederaufnahmehemmer bekannt, der die Serotoninverfügbarkeit im Gehirn erhöht.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Fluoxetinum (inoffizielle Übersetzung): „Obwohl der genaue Wirkmechanismus von PROZAC nicht bekannt ist, wird angenommen, dass er mit der Hemmung der neuronalen Serotonin-Wiederaufnahme im ZNS zusammenhängt.“ Englischer Originalwortlaut: "Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin." ([DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299), Fassung vom 2026-01-08; abgerufen am 2026-11-19). Fluoxetin ist jedoch als selektiver Serotonin-Wiederaufnahmehemmer bekannt, der die Serotoninverfügbarkeit im Gehirn erhöht.
 
 Eine Störung des serotonergen Systems wird mit Impulsivität, Stimmungsschwankungen und psychoseähnlichen Symptomen bei Persönlichkeitsstörungen in Verbindung gebracht. Daraus ergibt sich eine plausible, aber unbewiesene Grundlage für einen Nutzen auf Symptomebene.
 
@@ -126,6 +126,19 @@ Für weitere Sicherheitsinformationen beachten Sie bitte die Fachinformation.
 - Kontrollierte Studien mit Fluoxetin speziell bei schizotypischer Persönlichkeitsstörung
 - Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen (in den vorliegenden Daten nicht enthalten)
 - Angaben zum Wirkmechanismus aus einer pharmakologischen Referenzquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

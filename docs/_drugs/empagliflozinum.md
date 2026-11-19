@@ -61,7 +61,7 @@ Empagliflozin ist ein Arzneimittel, das in der Schweiz im Handel ist. Die Vorher
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Empagliflozin liegen in den vorliegenden Daten keine Angaben vor. Bekannt ist, dass die Substanzklasse der SGLT2-Hemmer die Glukoserückresorption in der Niere hemmt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Empagliflozinum (inoffizielle Übersetzung): „Empagliflozin ist ein Inhibitor von SGLT2, dem vorherrschenden Transporter, der für die Rückresorption von Glucose aus dem glomerulären Filtrat zurück in den Kreislauf verantwortlich ist. Durch die Hemmung von SGLT2 verringert Empagliflozin die renale Rückresorption der filtrierten Glucose und senkt die Nierenschwelle für Glucose, wodurch die Glucoseausscheidung im Urin erhöht wird.“ Englischer Originalwortlaut: "Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation. By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion." ([DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565), Fassung vom 2026-11-10; abgerufen am 2026-11-19). Bekannt ist, dass die Substanzklasse der SGLT2-Hemmer die Glukoserückresorption in der Niere hemmt.
 
 Das fokale Stiff-Limb-Syndrom gehört zum Spektrum des Stiff-Person-Syndroms. Es wird durch eine autoimmun bedingte Störung der hemmenden Signalübertragung im Nervensystem (GABA- und Glycin-Übertragung, z. B. Anti-GAD65- oder Anti-Glycinrezeptor-Antikörper) verursacht. Eine plausible pharmakologische Brücke zwischen der Nierenwirkung von Empagliflozin und diesem Krankheitsmechanismus ist anhand der vorliegenden Daten nicht erkennbar.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus von Empagliflozin sowie eine Analyse, ob ein Bezug zu den Krankheitsmechanismen des Stiff-Person-Spektrums besteht
 - Präklinische oder klinische Hinweise, die den Nutzen bei dieser Erkrankung direkt untersuchen
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsprüfung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

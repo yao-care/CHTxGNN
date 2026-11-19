@@ -59,7 +59,7 @@ Ciclosporin ist ein in der Schweiz im Handel befindliches Immunsuppressivum. Die
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Ciclosporin die Calcineurin-Aktivität hemmt und dadurch die Aktivierung von T-Zellen unterdrückt. Es wird häufig zur Vorbeugung der Graft-versus-Host-Erkrankung (GVHD) nach allogener Stammzelltransplantation eingesetzt.
+Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ciclosporinum (inoffizielle Übersetzung): „Ciclosporin ist ein potentes Immunsuppressivum, das bei Tieren das Überleben allogener Transplantate von Haut, Niere, Leber, Herz, Pankreas, Knochenmark, Dünndarm und Lunge verlängert. Es wurde gezeigt, dass Ciclosporin bei vielen Tierarten für eine Vielzahl von Organen einige humorale Immunreaktionen und in größerem Ausmaß zellvermittelte Immunreaktionen wie Allotransplantatabstoßung, Überempfindlichkeit vom verzögerten Typ, experimentelle allergische Enzephalomyelitis, Freund-Adjuvans-Arthritis und Graft-versus-Host-Krankheit unterdrückt.“ Englischer Originalwortlaut: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), Fassung vom 2026-09-10; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Ciclosporin die Calcineurin-Aktivität hemmt und dadurch die Aktivierung von T-Zellen unterdrückt. Es wird häufig zur Vorbeugung der Graft-versus-Host-Erkrankung (GVHD) nach allogener Stammzelltransplantation eingesetzt.
 
 Die chronische Granulomatose beruht auf einem Defekt der NADPH-Oxidase in Fresszellen. Die einzige gefundene Publikation berichtet über gute Überlebensraten nach Stammzelltransplantation von Geschwister- oder Fremdspendern. Ciclosporin dürfte dort lediglich als unterstützender Bestandteil der GVHD-Prophylaxe dienen. Der Nutzen ist der Transplantation zuzuschreiben, nicht dem Ciclosporin als krankheitsmodifizierender Substanz. Der Zusammenhang ist daher indirekt.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Daten zum Wirkmechanismus und zur Sicherheit aus der Fachinformation (Warnhinweise, Kontraindikationen)
 - Studien, die Ciclosporin direkt bei chronischer Granulomatose untersuchen, oder eine Analyse, ob Ciclosporin über die GVHD-Prophylaxe hinaus einen Beitrag leistet
 - Eine Prüfung der Anwendbarkeit der in der Schweiz zugelassenen Darreichungsformen (Augentropfen, Kapseln, Trinklösung, Infusion) für diese Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

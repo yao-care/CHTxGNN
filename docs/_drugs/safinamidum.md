@@ -61,7 +61,7 @@ Safinamid ist ein Arzneimittel, das in der Schweiz zugelassen und im Handel ist.
 
 Safinamid hemmt reversibel das Enzym MAO-B. Zusätzlich blockiert es spannungsabhängige Natriumkanäle und beeinflusst die Freisetzung von Glutamat. Diese Eigenschaften könnten theoretisch für die Neuroentzündung und die Anfallsaktivität bei der Rasmussen-Enzephalitis von Bedeutung sein.
 
-Die Erkrankung wird jedoch hauptsächlich durch eine T-Zell-vermittelte Autoimmunentzündung getrieben. Der mechanistische Zusammenhang ist deshalb spekulativ. Er stützt sich allein auf den hohen TxGNN-Vorhersagewert. Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
+Die Erkrankung wird jedoch hauptsächlich durch eine T-Zell-vermittelte Autoimmunentzündung getrieben. Der mechanistische Zusammenhang ist deshalb spekulativ. Er stützt sich allein auf den hohen TxGNN-Vorhersagewert. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Safinamidum (inoffizielle Übersetzung): „Der genaue Mechanismus, über den XADAGO seine therapeutische Wirkung bei PD ausübt, ist nicht bekannt. XADAGO ist ein Inhibitor der Monoaminoxidase B (MAO-B). Es wird angenommen, dass die Hemmung der MAO-B-Aktivität durch Blockade des Dopaminabbaus zu einem Anstieg der Dopaminspiegel und in der Folge zu einer Zunahme der dopaminergen Aktivität im Gehirn führt.“ Englischer Originalwortlaut: "The precise mechanism by which XADAGO exerts its therapeutic effects in PD is unknown. XADAGO is an inhibitor of monoamine oxidase B (MAO-B). Inhibition of MAO-B activity, by blocking the catabolism of dopamine, is thought to result in an increase in dopamine levels and a subsequent increase in dopaminergic activity in the brain." ([DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2), Fassung vom 2026-10-05; abgerufen am 2026-11-19).
 
 ---
 
@@ -91,6 +91,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus DrugBank
 - Präklinische Daten oder Fallberichte, die Safinamid direkt bei Rasmussen-Enzephalitis untersuchen
 - Eine Prüfung der Verabreichungswege und der Ähnlichkeit zur ursprünglichen Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

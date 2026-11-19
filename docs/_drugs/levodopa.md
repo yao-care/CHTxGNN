@@ -60,7 +60,7 @@ Levodopa wird in der Schweiz zur Behandlung der Parkinson-Krankheit und des Rest
 
 ## Warum ist diese Vorhersage plausibel?
 
-Levodopa ist eine Vorstufe von Dopamin und gleicht bei Parkinson den Dopaminmangel im Gehirn aus. Angaben zum Wirkmechanismus lagen in den für diesen Bericht zusammengestellten Daten nicht vor.
+Levodopa ist eine Vorstufe von Dopamin und gleicht bei Parkinson den Dopaminmangel im Gehirn aus. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Levodopa (inoffizielle Übersetzung): „Levodopa, die Stoffwechselvorstufe von Dopamin, überwindet die Blut-Hirn-Schranke und wird vermutlich im Gehirn zu Dopamin umgewandelt. Man nimmt an, dass dies der Mechanismus ist, über den Levodopa die Symptome der Parkinson-Krankheit lindert.“ Englischer Originalwortlaut: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), Fassung vom 2026-07-20; abgerufen am 2026-11-19).
 
 Die Rasmussen-Enzephalitis ist eine seltene, meist einseitige, chronisch-entzündliche Hirnerkrankung mit schwer behandelbarer fokaler Epilepsie, fortschreitender Halbseitenlähmung und nachlassender Hirnleistung. Als Ursache gilt eine von T-Zellen vermittelte Schädigung von Nervenzellen. Ein dopaminerger Mechanismus, der beide Erkrankungen verbindet, ist nicht erkennbar.
 
@@ -110,6 +110,19 @@ Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation lagen nich
 - Systematische Literaturrecherche und Suche nach klinischen Studien zu Levodopa bei Rasmussen-Enzephalitis
 - Fundierte Begründung für einen möglichen biologischen Zusammenhang, etwa durch präklinische Daten
 - Klärung der Darreichungswege und der Ähnlichkeit zur ursprünglichen Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

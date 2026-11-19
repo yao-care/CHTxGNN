@@ -61,7 +61,7 @@ Sertralin ist ein selektiver Serotonin-Wiederaufnahmehemmer (SSRI) und in der Sc
 
 ## Warum ist diese Vorhersage plausibel?
 
-Sertralin hemmt die Wiederaufnahme von Serotonin und erhöht dadurch die serotonerge Signalübertragung im Gehirn. Genauere Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
+Sertralin hemmt die Wiederaufnahme von Serotonin und erhöht dadurch die serotonerge Signalübertragung im Gehirn. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Sertralinum (inoffizielle Übersetzung): „Sertralin verstärkt die serotonerge Aktivität im zentralen Nervensystem durch Hemmung der neuronalen Wiederaufnahme von Serotonin (5-HT).“ Englischer Originalwortlaut: "Sertraline potentiates serotonergic activity in the central nervous system through inhibition of neuronal reuptake of serotonin (5-HT)." ([DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7), Fassung vom 2023-08-08; abgerufen am 2026-11-19).
 
 Eine schlüssige mechanistische Verbindung zur schizoiden Persönlichkeitsstörung lässt sich aus diesen Daten nicht ableiten. Serotonerge Wirkungen auf Stimmung, Angst und Impulskontrolle könnten höchstens begleitende Symptome beeinflussen. Ob das auch die Kernmerkmale der Störung betrifft, etwa sozialer Rückzug und eingeschränkte emotionale Ausdrucksfähigkeit, ist nicht belegt.
 
@@ -101,6 +101,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Direkte klinische Studien oder Fallserien zu Sertralin bei schizoider Persönlichkeitsstörung
 - Eine klar formulierte mechanistische Begründung, wie die serotonerge Wirkung die Kernsymptome der Störung beeinflussen könnte
 - Die Sicherheitsangaben der Schweizer Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen), um die Sicherheit bei dieser Patientengruppe zu beurteilen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

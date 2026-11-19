@@ -61,7 +61,7 @@ Trazodon ist in der Schweiz als Antidepressivum zugelassen. Aufgrund der Vorhers
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Trazodon die Serotonin-2A/2C-Rezeptoren blockiert und den Serotonintransporter schwach hemmt. Sein aktiver Metabolit m-CPP wirkt zudem auf serotonerge Rezeptoren.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Trazodonum (inoffizielle Übersetzung): „Der Mechanismus der antidepressiven Wirkung von Trazodon ist nicht vollständig geklärt, man nimmt jedoch an, dass er mit der Verstärkung der serotonergen Aktivität im ZNS zusammenhängt. Trazodon ist sowohl ein selektiver Serotonin-Wiederaufnahmehemmer (SSRI) als auch ein 5HT2-Rezeptor-Antagonist; das Nettoergebnis dieser Wirkung auf die serotonerge Transmission und deren Rolle bei der antidepressiven Wirkung von Trazodon sind unbekannt.“ Englischer Originalwortlaut: "The mechanism of trazodone’s antidepressant action is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS. Trazodone is both a selective serotonin reuptake inhibitor (SSRI) and a 5HT2 receptor antagonist and the net result of this action on serotonergic transmission and its role in trazodone’s antidepressant effect is unknown." ([DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768), Fassung vom 2026-11-13; abgerufen am 2026-11-19). Aus der Literatur ist bekannt, dass Trazodon die Serotonin-2A/2C-Rezeptoren blockiert und den Serotonintransporter schwach hemmt. Sein aktiver Metabolit m-CPP wirkt zudem auf serotonerge Rezeptoren.
 
 Die Pharmakotherapie der Zwangsstörung beruht im Kern auf serotonerger Modulation (SSRI, Clomipramin). Daher ist es nachvollziehbar, dass ein serotonerg wirkendes Arzneimittel wie Trazodon in diesem Gebiet geprüft wurde. Mögliche Rollen sind vor allem die Zusatzbehandlung zu einem SSRI oder der Einsatz bei Clomipramin-resistenter Zwangsstörung.
 
@@ -121,6 +121,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Vergleich mit den etablierten Standardtherapien (SSRI, Clomipramin, kognitive Verhaltenstherapie)
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
 - Angaben zum Wirkmechanismus aus einer geprüften Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

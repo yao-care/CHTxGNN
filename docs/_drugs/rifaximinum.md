@@ -61,7 +61,7 @@ Rifaximin ist ein kaum resorbierbares Antibiotikum. Für die Vorhersage einer or
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Rifaximin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es ein kaum resorbierbares, antibakteriell wirkendes Arzneimittel ist, das vor allem im Darm wirkt. Eine direkte Wirkung gegen Pilze ist nicht beschrieben.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rifaximinum (inoffizielle Übersetzung): „Rifaximin ist ein antibakterieller Wirkstoff. […] Rifaximin ist ein halbsynthetisches Derivat von Rifampicin und wirkt durch Bindung an die Beta-Untereinheit der bakteriellen DNA-abhängigen RNA-Polymerase, wodurch einer der Schritte der Transkription blockiert wird. Dies führt zu einer Hemmung der bakteriellen Proteinsynthese und hemmt folglich das Wachstum der Bakterien.“ Englischer Originalwortlaut: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), Fassung vom 2025-08-27; abgerufen am 2026-11-19). Bekannt ist, dass es ein kaum resorbierbares, antibakteriell wirkendes Arzneimittel ist, das vor allem im Darm wirkt. Eine direkte Wirkung gegen Pilze ist nicht beschrieben.
 
 Ein plausibler therapeutischer Zusammenhang mit der oralen Candidose lässt sich daher nicht herleiten. Der hohe Vorhersagewert beruht wahrscheinlich auf Mustern im Datennetzwerk des Modells und nicht auf einem nachvollziehbaren Wirkprinzip.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Klärung des Wirkmechanismus anhand von Arzneimitteldatenbanken
 - Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) von Swissmedic
 - Eine Bewertung, ob die beobachtete Assoziation mit resistenten Candida-Infektionen die Umwidmung ausschliesst
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

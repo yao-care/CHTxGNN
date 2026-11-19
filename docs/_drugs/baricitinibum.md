@@ -59,7 +59,7 @@ Baricitinib ist ein Arzneimittel, das in der Schweiz im Handel ist. Für die vor
 
 ### Warum ist diese Vorhersage plausibel?
 
-Baricitinib hemmt gezielt die Januskinasen JAK1 und JAK2 und dämpft damit Entzündungssignale, die über den JAK-STAT-Weg laufen. Zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor.
+Baricitinib hemmt gezielt die Januskinasen JAK1 und JAK2 und dämpft damit Entzündungssignale, die über den JAK-STAT-Weg laufen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Baricitinibum (inoffizielle Übersetzung): „Baricitinib ist ein Januskinase (JAK)-Inhibitor. JAKs sind intrazelluläre Enzyme, die Signale weiterleiten, die aus Interaktionen von Zytokin- oder Wachstumsfaktor-Rezeptoren an der Zellmembran hervorgehen, und so zelluläre Prozesse der Hämatopoese und der Immunzellfunktion beeinflussen.“ Englischer Originalwortlaut: "Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf), Fassung vom 2026-10-09; abgerufen am 2026-11-19).
 
 Ein klarer mechanistischer Zusammenhang mit dem vorhergesagten Syndrom ist in den Daten nicht erkennbar. Es handelt sich um eine seltene angeborene Entwicklungsstörung, die vermutlich auf genetische Entwicklungsdefekte zurückgeht und nicht auf eine durch JAK-STAT vermittelte Entzündung. Ein JAK-Inhibitor dürfte die zugrunde liegende Pathologie daher kaum beeinflussen.
 
@@ -104,6 +104,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Unabhängige biologische Hinweise, dass JAK-Hemmung bei diesem Syndrom eine Rolle spielen könnte
 - Ergänzung des ursprünglichen Wirkmechanismus
 - Sicherheitsdaten aus der Fachinformation (Warnungen, Kontraindikationen)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

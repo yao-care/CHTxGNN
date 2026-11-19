@@ -61,7 +61,7 @@ Entacapon ist ein COMT-Hemmer, der in der Schweiz als Zusatztherapie bei Morbus 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Entacapon liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es als peripherer COMT-Hemmer den Abbau von Levodopa ausserhalb des Gehirns verringert und so dessen Wirkung verlängert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Entacaponum (inoffizielle Übersetzung): „Entacapon ist ein selektiver und reversibler Inhibitor der COMT. Bei Säugetieren ist die COMT in verschiedenen Organen verteilt, wobei die höchsten Aktivitäten in Leber und Niere vorliegen. COMT kommt außerdem in Herz, Lunge, glatter und Skelettmuskulatur, Darmtrakt, Fortpflanzungsorganen, verschiedenen Drüsen, Fettgewebe, Haut, Blutzellen und neuronalen Geweben vor, insbesondere in Gliazellen.“ Englischer Originalwortlaut: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), Fassung vom 2026-02-16; abgerufen am 2026-11-19). Bekannt ist, dass es als peripherer COMT-Hemmer den Abbau von Levodopa ausserhalb des Gehirns verringert und so dessen Wirkung verlängert.
 
 Die PLA2G6-assoziierte Neurodegeneration, einschliesslich der Form mit Dystonie-Parkinsonismus (PARK14), geht mit einer Störung des dopaminergen Systems einher. Daher ist eine theoretische Verbindung zu einer Levodopa-Zusatztherapie denkbar.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Falls die Hypothese bestätigt wird: erste explorative Studien bei Patientinnen und Patienten mit PLA2G6-assoziiertem Dystonie-Parkinsonismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

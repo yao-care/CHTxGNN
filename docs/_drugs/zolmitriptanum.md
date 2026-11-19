@@ -61,7 +61,7 @@ Zolmitriptan ist ein Arzneimittel aus der Gruppe der Triptane, das in der Schwei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für diese Vorhersage lässt sich anhand der vorliegenden Daten keine mechanistische Begründung belegen. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Allgemein bekannt ist Zolmitriptan als Agonist an 5-HT1B/1D-Rezeptoren; eine etablierte Rolle bei follikulären, atrophisierenden Hauterkrankungen ist damit jedoch nicht verbunden.
+Für diese Vorhersage lässt sich anhand der vorliegenden Daten keine mechanistische Begründung belegen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Zolmitriptanum (inoffizielle Übersetzung): „Zolmitriptan bindet mit hoher Affinität an humane rekombinante 5-HT 1D - und 5-HT 1B -Rezeptoren und mit mäßiger Affinität an 5-HT 1A -Rezeptoren. Der N-Desmethyl-Metabolit weist ebenfalls eine hohe Affinität zu 5-HT 1B/1D - und eine mäßige Affinität zu 5-HT 1A -Rezeptoren auf.“ Englischer Originalwortlaut: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), Fassung vom 2026-01-29; abgerufen am 2026-11-19). Allgemein bekannt ist Zolmitriptan als Agonist an 5-HT1B/1D-Rezeptoren; eine etablierte Rolle bei follikulären, atrophisierenden Hauterkrankungen ist damit jedoch nicht verbunden.
 
 Der hohe Vorhersagewert allein ist kein Beleg für eine Wirksamkeit. Jede mechanistische Erklärung wäre derzeit spekulativ und müsste erst durch gezielte Untersuchungen erarbeitet werden.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Eine begründete biologische Hypothese, die Triptan-Wirkung und Atrophoderma vermiculata verbindet
 - Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

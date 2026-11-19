@@ -60,7 +60,7 @@ Alglucosidase alfa (Myozyme) ist in der Schweiz als Enzymersatztherapie für Mor
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Alglucosidase alfa ein rekombinantes Enzym (saure alpha-Glucosidase) ist, das Glykogen in den Lysosomen abbaut. Bei Morbus Pompe fehlt dieses Enzym, und Glykogen sammelt sich in den Lysosomen an.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Alglucosidase Alfa (inoffizielle Übersetzung): „Morbus Pompe (Saure-Maltase-Mangel, Glykogenspeicherkrankheit Typ II, GSD II, Glykogenose Typ II) ist eine erbliche Störung des Glykogenstoffwechsels, die durch das Fehlen oder einen ausgeprägten Mangel des lysosomalen Enzyms GAA verursacht wird. Alglucosidase alfa stellt eine exogene Quelle für GAA bereit.“ Englischer Originalwortlaut: "Pompe disease (acid maltase deficiency, glycogen storage disease type II, GSD II, glycogenosis type II) is an inherited disorder of glycogen metabolism caused by the absence or marked deficiency of the lysosomal enzyme GAA. Alglucosidase alfa provides an exogenous source of GAA." ([DailyMed: Lumizyme (alglucosidase alfa) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6bfbc45-2d34-439e-8aad-59ee2d53d4df), Fassung vom 2025-01-10; abgerufen am 2026-11-19). Bekannt ist, dass Alglucosidase alfa ein rekombinantes Enzym (saure alpha-Glucosidase) ist, das Glykogen in den Lysosomen abbaut. Bei Morbus Pompe fehlt dieses Enzym, und Glykogen sammelt sich in den Lysosomen an.
 
 Die APBD entsteht durch einen Mangel am Glykogen-Verzweigungsenzym (GBE1). Dadurch lagern sich schlecht verzweigte, unlösliche Polyglucosane in Nervenzellen, Axonen und anderen Geweben ab. Die Verbindung zur Pompe-Krankheit besteht lediglich im gemeinsamen Thema des Glykogenstoffwechsels.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten, die zeigen, ob das Enzym in relevante Gewebe (insbesondere Nervengewebe) gelangt und Polyglucosane abbauen kann.
 - Eine systematische Literatur- und Studienrecherche zu APBD und Enzymersatztherapie.
 - Eine Bewertung der Darreichungsform und des Applikationswegs für die neue Indikation.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Lumizyme (alglucosidase alfa) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6bfbc45-2d34-439e-8aad-59ee2d53d4df) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

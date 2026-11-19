@@ -58,7 +58,7 @@ Lonoctocog alfa (Afstyla) ist ein rekombinanter Einzelketten-Faktor-VIII und wir
 
 ## Warum ist diese Vorhersage plausibel?
 
-Lonoctocog alfa ist ein rekombinanter Einzelketten-Faktor-VIII (rVIII-SingleChain). Er ersetzt bei Hämophilie A den fehlenden Faktor VIII. Die Angaben zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
+Lonoctocog alfa ist ein rekombinanter Einzelketten-Faktor-VIII (rVIII-SingleChain). Er ersetzt bei Hämophilie A den fehlenden Faktor VIII. Laut ChEMBL (EMBL-EBI) ist für Lonoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Die Pseudo-von-Willebrand-Krankheit (plättchenartige von-Willebrand-Krankheit) entsteht durch eine Funktionsgewinn-Veränderung des Plättchenrezeptors GPIb alpha. Dadurch bindet der von-Willebrand-Faktor (VWF) verstärkt an die Plättchen, und die hochmolekularen VWF-Multimere gehen verloren. Faktor VIII wird durch VWF stabilisiert, deshalb besteht über die VWF-FVIII-Achse eine lose biologische Verbindung.
 
@@ -117,6 +117,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Angaben zum Wirkmechanismus müssen aus DrugBank ergänzt werden, um die mechanistische Verbindung besser zu analysieren.
 - Es sind präklinische oder klinische Hinweise nötig, dass Faktor-VIII-Substitution bei Plättchenfunktionsstörungen oder bei der Pseudo-von-Willebrand-Krankheit einen Nutzen bringt.
 - Die Kompatibilität der Applikationswege und die Ähnlichkeit zur ursprünglichen Indikation sind noch zu prüfen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

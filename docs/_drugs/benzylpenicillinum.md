@@ -59,7 +59,7 @@ Benzylpenicillin ist ein Beta-Laktam-Antibiotikum, das in der Schweiz für Infek
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Benzylpenicillin als Beta-Laktam-Antibiotikum die Zellwandsynthese von Bakterien hemmt. Es wirkt gegen grampositive Kokken und viele orale Anaerobier.
+Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Benzylpenicillinum (inoffizielle Übersetzung): „Penicilline binden an Serumproteine, hauptsächlich an Albumin. Therapeutische Penicillinspiegel werden unter normalen Umständen in der Extrazellulärflüssigkeit und den meisten anderen Körpergeweben leicht erreicht. Penicilline verteilen sich in unterschiedlichem Ausmaß in Pleura-, Perikard-, Peritoneal-, Aszites-, Synovial- und interstitielle Flüssigkeit.“ Englischer Originalwortlaut: "Penicillins bind to serum proteins, mainly albumin. Therapeutic levels of the penicillins are easily achieved under normal circumstances in extracellular fluid and most other body tissues. Penicillins are distributed in varying degrees into pleural, pericardial, peritoneal, ascitic, synovial, and interstitial fluids." ([DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2), Fassung vom 2026-11-04; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Benzylpenicillin als Beta-Laktam-Antibiotikum die Zellwandsynthese von Bakterien hemmt. Es wirkt gegen grampositive Kokken und viele orale Anaerobier.
 
 Die Perikoronitis ist eine gemischte bakterielle Infektion des Zahnfleischs um einen teilweise durchgebrochenen Zahn. Die typischerweise beteiligten Keime liegen im Wirkspektrum von Penicillinen. Antibiotika dieser Klasse, meist Penicillin V oder Amoxicillin zum Einnehmen, werden bei Zahninfektionen bereits eingesetzt. Es handelt sich daher eher um eine Übertragung einer bestehenden Praxis auf Klassenebene als um eine völlig neue Anwendung.
 
@@ -94,6 +94,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Vergleich mit den bereits üblichen oralen Penicillinen (Penicillin V, Amoxicillin) und Klärung, ob die Injektionsform einen Vorteil bringt
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

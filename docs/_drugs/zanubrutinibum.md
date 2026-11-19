@@ -57,7 +57,7 @@ Zanubrutinib ist ein Hemmstoff der Bruton-Tyrosinkinase (BTK), der in der Schwei
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zanubrutinib hemmt die BTK gezielt und kovalent. Dieses Enzym ist ein zentraler Baustein im Signalweg des B-Zell-Rezeptors. Zu seinem Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Zanubrutinib hemmt die BTK gezielt und kovalent. Dieses Enzym ist ein zentraler Baustein im Signalweg des B-Zell-Rezeptors. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Zanubrutinibum (inoffizielle Übersetzung): „Zanubrutinib ist ein niedermolekularer Inhibitor der Bruton-Tyrosinkinase (BTK). Zanubrutinib bildet eine kovalente Bindung mit einem Cysteinrest im aktiven Zentrum der BTK, was zu einer Hemmung der BTK-Aktivität führt. BTK ist ein Signalmolekül der Signalwege des B-Zell-Antigenrezeptors (BCR) und der Zytokinrezeptoren.“ Englischer Originalwortlaut: "Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways." ([DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902), Fassung vom 2026-09-04; abgerufen am 2026-11-19).
 
 Die Vorhersage beruht vermutlich vor allem auf der allgemeinen Bezeichnung «Leukämie» und der Nähe zur chronisch-lymphatischen Leukämie. Für eine BTK-abhängige Biologie bei myeloischen Leukämien (AML/CML) liefern die vorliegenden Daten keinen Beleg. Präklinisch wird zwar über BTK in AML-Blasten berichtet, dies ist hier aber nicht belegt.
 
@@ -128,6 +128,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Direkte klinische Studien mit Zanubrutinib bei myeloischer Leukämie
 - Wirkmechanismus aus DrugBank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

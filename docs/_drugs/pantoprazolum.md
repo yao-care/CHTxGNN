@@ -59,7 +59,7 @@ Pantoprazol ist in der Schweiz als Protonenpumpenhemmer im Handel. Für die Duod
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pantoprazol hemmt die H+/K+-ATPase (Protonenpumpe) der Magenschleimhaut und senkt dadurch die Säureproduktion. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Pantoprazol hemmt die H+/K+-ATPase (Protonenpumpe) der Magenschleimhaut und senkt dadurch die Säureproduktion. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pantoprazolum (inoffizielle Übersetzung): „Pantoprazol ist ein PPI, der den letzten Schritt der Magensäureproduktion unterdrückt, indem er kovalent an das (H +, K + )-ATPase-Enzymsystem an der sekretorischen Oberfläche der Parietalzelle des Magens bindet. Diese Wirkung führt zu einer Hemmung sowohl der basalen als auch der stimulierten Magensäuresekretion, unabhängig vom Stimulus.“ Englischer Originalwortlaut: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), Fassung vom 2026-11-06; abgerufen am 2026-11-19).
 
 Ein möglicher Zusammenhang besteht indirekt: Wenn eine Verengung des Zwölffingerdarms durch säurebedingte Entzündung und Schwellung (z. B. bei Magen-Darm-Geschwüren oder Duodenitis) mitverursacht wird, könnte weniger Säure die Schwellung mindern.
 
@@ -106,6 +106,19 @@ Die Liste ist möglicherweise unvollständig.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klinische oder präklinische Studien, die Pantoprazol direkt bei Duodenalobstruktion untersuchen, insbesondere bei säurebedingter Schwellung
 - Klärung, bei welchen Ursachen der Obstruktion (entzündlich statt strukturell) ein Nutzen überhaupt denkbar ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

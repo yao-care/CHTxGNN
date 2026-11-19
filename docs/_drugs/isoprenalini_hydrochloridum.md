@@ -55,7 +55,7 @@ Isoprenalinhydrochlorid ist ein Sympathomimetikum, das in der Schweiz als Injekt
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Isoprenalin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist es als nicht selektiver Beta-Adrenozeptor-Agonist. Theoretisch könnte ein solcher Wirkstoff den Gefässtonus und die Sekretion der Nasenschleimhaut beeinflussen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Isoprenalini Hydrochloridum (inoffizielle Übersetzung): „Isoproterenol ist ein potenter nichtselektiver beta-adrenerger Agonist mit sehr geringer Affinität zu alpha‑adrenergen Rezeptoren.“ Englischer Originalwortlaut: "Isoproterenol is a potent nonselective beta-adrenergic agonist with very low affinity for alpha‑adrenergic receptors." ([DailyMed: isoproterenol hydrochloride prescribing information, KVK-Tech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=051acbc2-7bf8-4059-e063-6394a90a115b), Fassung vom 2026-11-12; abgerufen am 2026-11-19). Bekannt ist es als nicht selektiver Beta-Adrenozeptor-Agonist. Theoretisch könnte ein solcher Wirkstoff den Gefässtonus und die Sekretion der Nasenschleimhaut beeinflussen.
 
 Die Daten stützen diesen Zusammenhang jedoch nicht. Die einzige verknüpfte Publikation beschreibt einen Fall von Koronarspasmus bei perioperativer ventrikulärer Tachykardie. Nasenerkrankungen werden darin nicht untersucht; Epinephrin wurde lediglich zum Tränken der Nasenhöhle vor der Intubation verwendet. Der hohe Vorhersagewert ist daher als rein rechnerische Vorhersage zu verstehen.
 
@@ -90,6 +90,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus DrugBank
 - Präklinische oder klinische Daten, die Isoprenalin direkt bei Erkrankungen der Nasenhöhle untersuchen
 - Prüfung, ob eine für die Nase geeignete Darreichungsform und Applikationsroute überhaupt möglich ist (die derzeit zugelassene Form ist eine Injektions- bzw. Infusionslösung)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: isoproterenol hydrochloride prescribing information, KVK-Tech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=051acbc2-7bf8-4059-e063-6394a90a115b) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

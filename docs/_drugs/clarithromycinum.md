@@ -61,7 +61,7 @@ Clarithromycin ist ein Makrolid-Antibiotikum, das in der Schweiz im Handel ist. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Clarithromycin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Eine mechanistische Analyse ist daher nur eingeschränkt möglich.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Clarithromycinum (inoffizielle Übersetzung): „Clarithromycin ist ein antimikrobielles Makrolid-Arzneimittel. […] Clarithromycin entfaltet seine antibakterielle Wirkung durch Bindung an die 50S-Untereinheit des Ribosoms empfindlicher Bakterien, was zu einer Hemmung der Proteinsynthese führt.“ Englischer Originalwortlaut: "Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis." ([DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460), Fassung vom 2026-11-12; abgerufen am 2026-11-19). Eine mechanistische Analyse ist daher nur eingeschränkt möglich.
 
 Als Makrolid wird Clarithromycin neben der antibakteriellen Wirkung auch mit immunmodulierenden Effekten in Verbindung gebracht, etwa einer Dämpfung entzündungsfördernder Botenstoffe wie IL-6 und TNF-alpha. Beim polyklonalen Hyperviskositätssyndrom ist das Blut durch eine übermässige Bildung von Immunglobulinen zähflüssiger. Ein Zusammenhang mit einer dämpfenden Wirkung auf die Immunaktivierung ist denkbar.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank) für eine belastbare Mechanismusanalyse.
 - Gezielte Literaturrecherche zu Makroliden und Hyperviskosität bzw. übermässiger Immunglobulinbildung, um mögliche direkte Belege zu finden.
 - Bei einem tragfähigen Hinweis: Planung präklinischer oder erster klinischer Untersuchungen zur Erkrankung selbst.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -55,7 +55,7 @@ Propylthiouracil ist in der Schweiz als Thyreostatikum im Handel und hemmt die B
 
 ## Warum ist diese Vorhersage plausibel?
 
-Propylthiouracil hemmt die Schilddrüsenperoxidase und senkt dadurch die Produktion von Schilddrüsenhormonen. In geringerem Mass bremst es auch die Umwandlung von T4 zu T3 im Gewebe. Angaben zum Wirkmechanismus liegen in den Daten nicht vor; diese Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
+Propylthiouracil hemmt die Schilddrüsenperoxidase und senkt dadurch die Produktion von Schilddrüsenhormonen. In geringerem Mass bremst es auch die Umwandlung von T4 zu T3 im Gewebe. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Propylthiouracilum (inoffizielle Übersetzung): „Propylthiouracil hemmt die Synthese der Schilddrüsenhormone und ist daher bei der Behandlung der Hyperthyreose wirksam. Der Wirkstoff inaktiviert weder bereits vorhandenes Thyroxin und Triiodthyronin, das in der Schilddrüse gespeichert ist oder im Blut zirkuliert, noch beeinträchtigt er die Wirksamkeit oral oder durch Injektion verabreichter Schilddrüsenhormone.“ Englischer Originalwortlaut: "Propylthiouracil inhibits the synthesis of thyroid hormones and thus is effective in the treatment of hyperthyroidism. The drug does not inactivate existing thyroxine and triiodothyronine that are stored in the thyroid or circulating in the blood, nor does it interfere with the effectiveness of thyroid hormones given by mouth or by injection." ([DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa), Fassung vom 2026-08-27; abgerufen am 2026-11-19).
 
 Bei der Schilddrüsenhormonresistenz (Beta-Form) sind T4 und T3 erhöht, das TSH bleibt aber nicht unterdrückt, weil die Rückkopplung über den Rezeptor gestört ist. Theoretisch könnte eine Senkung der Hormonproduktion in Geweben helfen, die weiterhin empfindlich reagieren.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klinische Daten zur Behandlung der Schilddrüsenhormonresistenz mit Propylthiouracil, insbesondere zum Risiko eines TSH-Anstiegs und einer Kropfzunahme
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

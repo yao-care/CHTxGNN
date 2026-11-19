@@ -61,7 +61,7 @@ Celecoxib ist ein selektiver COX-2-Hemmer, der in der Schweiz im Handel ist. Fü
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Celecoxib liegen in den zusammengestellten Daten keine Angaben vor. Aus den Zulassungsdaten geht hervor, dass es sich um einen selektiven COX-2-Hemmer handelt, der die Bildung von Prostaglandinen beeinflusst.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Celecoxibum (inoffizielle Übersetzung): „Celecoxib hat analgetische, entzündungshemmende und antipyretische Eigenschaften. Es wird angenommen, dass der Wirkmechanismus von Celecoxib auf der Hemmung der Prostaglandinsynthese beruht, hauptsächlich über die Hemmung von COX-2. Celecoxib ist in vitro ein potenter Inhibitor der Prostaglandinsynthese.“ Englischer Originalwortlaut: "Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro." ([DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d), Fassung vom 2025-07-31; abgerufen am 2026-11-19). Aus den Zulassungsdaten geht hervor, dass es sich um einen selektiven COX-2-Hemmer handelt, der die Bildung von Prostaglandinen beeinflusst.
 
 Die akromesomele Dysplasie Typ Hunter-Thompson ist eine seltene Skeletterkrankung. Sie wird durch Funktionsverlust-Mutationen im Gen CDMP1/GDF5 verursacht, einem genetischen Defekt im BMP-Signalweg und in der Knorpelbildung. Ein plausibler biologischer Zusammenhang zwischen der COX-2-Hemmung und dem GDF5-Signalweg ist nicht erkennbar.
 
@@ -114,6 +114,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder mechanistische Daten, die einen Zusammenhang zwischen Celecoxib und dem GDF5-/BMP-Signalweg belegen
 - Sicherheitsinformationen aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer weiteren Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Omalizumab ist ein gegen Immunglobulin E (IgE) gerichteter monoklonaler Antikör
 
 ## Warum ist diese Vorhersage plausibel?
 
-Omalizumab bindet freies IgE und senkt dessen Spiegel. Zudem verringert es die Zahl der hochaffinen IgE-Rezeptoren (FcεRI) auf Mastzellen, Basophilen und dendritischen Zellen. Dadurch wird die allergische Entzündung der Atemwege gedämpft. Die Angaben zum Wirkmechanismus in den Rohdaten fehlen; die Beschreibung stützt sich auf die in der Literatur beschriebene Wirkweise.
+Omalizumab bindet freies IgE und senkt dessen Spiegel. Zudem verringert es die Zahl der hochaffinen IgE-Rezeptoren (FcεRI) auf Mastzellen, Basophilen und dendritischen Zellen. Dadurch wird die allergische Entzündung der Atemwege gedämpft. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Omalizumabum (inoffizielle Übersetzung): „Asthma, chronische Rhinosinusitis mit Nasenpolypen und IgE-vermittelte Nahrungsmittelallergie Omalizumab-Produkte hemmen die Bindung von IgE an den hochaffinen IgE-Rezeptor (FcεRI) auf der Oberfläche von Mastzellen, Basophilen und dendritischen Zellen, was zu einer Herunterregulierung von FcεRI auf diesen Zellen führt. Bei allergischen Asthmatikern hemmt die Behandlung mit Omalizumab-Produkten die IgE-vermittelte Entzündung, wie sich an verringerten Eosinophilen in Blut und Gewebe sowie an verringerten Entzündungsmediatoren, einschließlich IL-4, IL-5 und IL-13, zeigt.“ Englischer Originalwortlaut: "Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13." ([DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84), Fassung vom 2026-10-06; abgerufen am 2026-11-19).
 
 Ein Zusammenhang ist am ehesten bei allergischen oder eosinophilen Atemwegserkrankungen denkbar, etwa bei Asthma-COPD-Überlappung mit chronischem Bronchitis-Phänotyp. Für nicht allergische oder infektiöse Bronchitis gibt es keine Belege. Die Verbindung ist daher indirekt und hängt vom Krankheitsphänotyp ab.
 
@@ -116,6 +116,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergebnisse und Auswertung der Studie NCT02049294 sowie ggf. grössere kontrollierte Studien bei klar definierten Bronchitis-Phänotypen (allergisch/eosinophil)
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar; blockierende Datenlücke für die Sicherheitsprüfung)
 - Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

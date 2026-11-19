@@ -59,7 +59,7 @@ Nilotinib ist ein Tyrosinkinase-Hemmer, der in der Schweiz als Krebsmedikament i
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Nilotinib liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus dem allgemeinen pharmakologischen Wissen ist Nilotinib ein Hemmer der BCR-ABL-Tyrosinkinase, der zusätzlich die Rezeptoren PDGFR, KIT und DDR blockiert. Diese Einordnung stammt nicht aus den vorliegenden Datensätzen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nilotinibum (inoffizielle Übersetzung): „Nilotinib ist ein Inhibitor der BCR-ABL-Kinase. Nilotinib bindet an die inaktive Konformation der Kinasedomäne des ABL-Proteins und stabilisiert diese. In vitro hemmte Nilotinib die BCR-ABL-vermittelte Proliferation muriner leukämischer Zelllinien und humaner Zelllinien, die von Patienten mit Ph+ CML stammten.“ Englischer Originalwortlaut: "Nilotinib is an inhibitor of the BCR-ABL kinase. Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein. In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML." ([DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc), Fassung vom 2026-07-20; abgerufen am 2026-11-19). Aus dem allgemeinen pharmakologischen Wissen ist Nilotinib ein Hemmer der BCR-ABL-Tyrosinkinase, der zusätzlich die Rezeptoren PDGFR, KIT und DDR blockiert. Diese Einordnung stammt nicht aus den vorliegenden Datensätzen.
 
 Das Dermatofibrosarcoma protuberans wird typischerweise durch eine COL1A1-PDGFB-Translokation ausgelöst. Sie führt über ein selbst gebildetes PDGFB-Signal zu einer dauerhaften Aktivierung von PDGFRB. Ein Hemmer, der diesen Signalweg blockiert, könnte das Tumorwachstum daher bremsen.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Angaben zum Wirkmechanismus aus DrugBank
 - Klinische oder präklinische Daten zu Nilotinib beim Dermatofibrosarcoma protuberans
 - Ein Vergleich mit der etablierten Imatinib-Therapie bei dieser Erkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

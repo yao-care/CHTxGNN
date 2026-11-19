@@ -59,7 +59,7 @@ Alectinib ist ein Kinase-Inhibitor, der in der Schweiz zugelassen ist und im Han
 
 ### Warum ist diese Vorhersage plausibel?
 
-Alectinib hemmt die Kinasen ALK und RET. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Alectinib hemmt die Kinasen ALK und RET. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Alectinibum (inoffizielle Übersetzung): „Alectinib ist ein Tyrosinkinase-Inhibitor, der gegen ALK und RET gerichtet ist. In nichtklinischen Studien hemmte Alectinib die ALK-Phosphorylierung und die ALK-vermittelte Aktivierung der nachgeschalteten Signalproteine STAT3 und AKT und verringerte die Viabilität von Tumorzellen in mehreren Zelllinien mit ALK-Fusionen, -Amplifikationen oder aktivierenden Mutationen.“ Englischer Originalwortlaut: "Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations." ([DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb), Fassung vom 2026-08-21; abgerufen am 2026-11-19).
 
 Für die gingivale Fibromatose, ob erblich oder arzneimittelbedingt, ist kein ALK-getriebener Krankheitsmechanismus bekannt. Eine biologische Begründung für den Einsatz von Alectinib lässt sich daher aus den vorhandenen Daten nicht ableiten.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung der Wirkmechanismus-Daten von Alectinib
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Eine Nutzen-Risiko-Abwägung, da es sich um eine in der Regel gutartige Erkrankung handelt und Alectinib ein Krebsmedikament mit relevanten Nebenwirkungen ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Nevirapin ist ein Arzneimittel, das in der Schweiz mit mehreren Zulassungen im H
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Fachliteratur, dass Nevirapin zu den nicht-nukleosidischen Reverse-Transkriptase-Hemmern (NNRTI) gehört. Diese binden an eine allosterische Tasche der Reverse Transkriptase des HIV-1.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nevirapinum (inoffizielle Übersetzung): „Nevirapin ist ein antiretroviraler Wirkstoff. […] Nevirapin ist ein nicht-nukleosidischer Reverse-Transkriptase-Inhibitor (NNRTI) von HIV-1. Nevirapin bindet direkt an die Reverse Transkriptase (RT) und blockiert die RNA-abhängigen und DNA-abhängigen DNA-Polymerase-Aktivitäten, indem es eine Störung des katalytischen Zentrums des Enzyms verursacht.“ Englischer Originalwortlaut: "Nevirapine is an antiretroviral drug. […] Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of HIV-1. Nevirapine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site." ([DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15), Fassung vom 2026-10-08; abgerufen am 2026-11-19). Bekannt ist aus der Fachliteratur, dass Nevirapin zu den nicht-nukleosidischen Reverse-Transkriptase-Hemmern (NNRTI) gehört. Diese binden an eine allosterische Tasche der Reverse Transkriptase des HIV-1.
 
 Das Katzen-Immunschwächevirus (FIV) ist wie HIV ein Lentivirus und besitzt eine verwandte Reverse Transkriptase. Daraus ergibt sich ein theoretischer Ansatz. Allerdings unterscheidet sich die NNRTI-Bindungstasche bei FIV, und NNRTIs gelten gegen FIV allgemein als wenig wirksam.
 
@@ -104,6 +104,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Tierärztliche Studien zu Wirksamkeit und Verträglichkeit bei Katzen
 - Eine Klärung, ob eine Bewertung für die Humanmedizin überhaupt sinnvoll ist
 - Die Sicherheitsinformationen aus der Fachinformation (Warnungen, Gegenanzeigen) sowie Angaben zum Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

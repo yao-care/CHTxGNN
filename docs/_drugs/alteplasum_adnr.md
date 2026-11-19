@@ -61,7 +61,7 @@ Alteplase ist ein rekombinanter Gewebeplasminogenaktivator, der Blutgerinnsel au
 
 ### Warum ist diese Vorhersage plausibel?
 
-Alteplase wandelt Plasminogen in Plasmin um, das Fibrin in Blutgerinnseln abbaut. Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die Beschreibung beruht auf dem allgemein bekannten Wirkprinzip von Alteplase.
+Alteplase wandelt Plasminogen in Plasmin um, das Fibrin in Blutgerinnseln abbaut. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Alteplasum Adnr (inoffizielle Übersetzung): „Alteplase ist ein Enzym (Serinprotease), das die Eigenschaft der fibrinverstärkten Umwandlung von Plasminogen in Plasmin besitzt. In Abwesenheit von Fibrin bewirkt es nur eine begrenzte Umwandlung von Plasminogen. Alteplase bindet an das Fibrin in einem Thrombus und wandelt das eingeschlossene Plasminogen in Plasmin um, wodurch eine lokale Fibrinolyse eingeleitet wird.“ Englischer Originalwortlaut: "Alteplase is an enzyme (serine protease) that has the property of fibrin-enhanced conversion of plasminogen to plasmin. It produces limited conversion of plasminogen in the absence of fibrin. Alteplase binds to fibrin in a thrombus and converts the entrapped plasminogen to plasmin, thereby initiating local fibrinolysis." ([DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9), Fassung vom 2026-01-20; abgerufen am 2026-11-19).
 
 Der Heparin-Cofaktor-II-Mangel ist eine vererbte Neigung zu Thrombosen (Thrombophilie). Bei akuten Gerinnseln könnte eine Thrombolyse grundsätzlich helfen. Das ist jedoch nur eine allgemeine Überlegung zur Gerinnselauflösung.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Krankheitsspezifische klinische oder präklinische Daten zur Anwendung von Alteplase bei Heparin-Cofaktor-II-Mangel
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

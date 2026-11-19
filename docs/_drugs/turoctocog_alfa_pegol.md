@@ -60,7 +60,7 @@ Turoctocog alfa pegol (Esperoct) ist ein PEGyliertes rekombinantes Faktor-VIII-P
 
 ### Warum ist diese Vorhersage plausibel?
 
-Turoctocog alfa pegol ersetzt den fehlenden Gerinnungsfaktor VIII (FVIII) bei Hämophilie A. Die PEGylierung verlängert die Halbwertszeit des Präparats. Angaben zum Wirkmechanismus sind in den für diesen Bericht zusammengestellten Daten nicht enthalten.
+Turoctocog alfa pegol ersetzt den fehlenden Gerinnungsfaktor VIII (FVIII) bei Hämophilie A. Die PEGylierung verlängert die Halbwertszeit des Präparats. Laut ChEMBL (EMBL-EBI) ist für Turoctocog Alfa Pegol folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Bei der primären Thrombozyten-Freisetzungsstörung ist die Sekretion der Thrombozyten gestört, also ein qualitativer Funktionsdefekt der Blutplättchen. Der FVIII-Spiegel ist dabei normal. Ein FVIII-Ersatz würde den Defekt daher nicht beheben. Die hohe Vorhersage ist vermutlich auf die gemeinsame Zuordnung zu „Blutungserkrankungen" im Wissensnetzwerk zurückzuführen und nicht auf einen echten mechanistischen Zusammenhang.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine systematische Literatur- und Studienrecherche zu FVIII-Ersatz bei Thrombozytenfunktionsstörungen
 - Eine präzisere Definition der Indikation „erworbener Gerinnungsfaktormangel" (z. B. Abgrenzung zur erworbenen Hämophilie A) als möglicherweise aussichtsreichster Ansatz
 - Prüfung der Anwendungswege (derzeit nicht bewertet)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

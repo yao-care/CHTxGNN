@@ -61,7 +61,7 @@ Ofatumumab ist ein vollständig humaner monoklonaler Antikörper gegen CD20 und 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ofatumumab bindet an ein membrannahes Epitop des CD20-Moleküls auf B-Zellen. Der Antikörper löst eine komplementabhängige Zytotoxizität und eine antikörperabhängige zelluläre Zytotoxizität aus. Die Angaben zum Wirkmechanismus in der Arzneimitteldatenbank fehlen in den zusammengestellten Daten. Die Beschreibung stützt sich deshalb auf die Mechanismusanalyse der Vorhersage.
+Ofatumumab bindet an ein membrannahes Epitop des CD20-Moleküls auf B-Zellen. Der Antikörper löst eine komplementabhängige Zytotoxizität und eine antikörperabhängige zelluläre Zytotoxizität aus. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ofatumumabum (inoffizielle Übersetzung): „Der genaue Mechanismus, über den Ofatumumab seine therapeutische Wirkung bei multipler Sklerose entfaltet, ist nicht bekannt, es wird jedoch angenommen, dass er die Bindung an CD20 umfasst, ein Zelloberflächenantigen auf Prä-B- und reifen B-Lymphozyten. Nach Bindung an die Zelloberfläche von B-Lymphozyten bewirkt Ofatumumab eine antikörperabhängige zelluläre Zytolyse und eine komplementvermittelte Lyse.“ Englischer Originalwortlaut: "The precise mechanism by which ofatumumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ofatumumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3), Fassung vom 2026-04-01; abgerufen am 2026-11-19). Die Beschreibung stützt sich deshalb auf die Mechanismusanalyse der Vorhersage.
 
 Die Zellen des follikulären Lymphoms tragen CD20 auf ihrer Oberfläche. Ofatumumab hat damit dasselbe Ziel und denselben Wirkansatz wie Rituximab, das in diesem Bereich als Standard gilt. Studien deuten zudem auf eine Aktivität bei Rituximab-refraktärer Erkrankung hin. Der sehr hohe Vorhersagewert passt zu dieser biologischen Begründung.
 
@@ -123,6 +123,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Ergebnisse der Phase-3-Studien (HOMER und NCT01077518), insbesondere zu Wirksamkeit und Verträglichkeit gegenüber Rituximab bzw. Bendamustin allein.
 - Klärung, ob die in der Schweiz im Handel befindliche Darreichungsform und Dosierung für diese Anwendung geeignet sind, und der regulatorischen Voraussetzungen für eine Anwendung ausserhalb der Zulassung.
 - Bestätigung der Wirkmechanismus-Angaben aus der Arzneimitteldatenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

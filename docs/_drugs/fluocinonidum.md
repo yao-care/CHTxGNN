@@ -61,7 +61,7 @@ Fluocinonid ist ein hochpotentes topisches Kortikosteroid, das in der Schweiz al
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Als Wirkstoffklasse wirken hochpotente topische Kortikosteroide jedoch über den Glukokortikoid-Rezeptor entzündungshemmend und immunsuppressiv.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Fluocinonidum (inoffizielle Übersetzung): „Corticosteroide spielen eine Rolle bei der zellulären Signalübertragung, der Immunfunktion, Entzündungen und der Proteinregulation; der genaue Wirkmechanismus von Fluocinonide Cream USP, 0,1 % bei auf Corticosteroide ansprechenden Dermatosen ist jedoch unbekannt.“ Englischer Originalwortlaut: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of Fluocinonide Cream USP, 0.1% in corticosteroid responsive dermatoses is unknown." ([DailyMed: Fluocinol Pak (fluocinonide) prescribing information, PureTek Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9c88a41-3ff8-78f7-e053-2995a90adb8f), Fassung vom 2023-01-11; abgerufen am 2026-11-19). Als Wirkstoffklasse wirken hochpotente topische Kortikosteroide jedoch über den Glukokortikoid-Rezeptor entzündungshemmend und immunsuppressiv.
 
 Alopecia mucinosa (Follikuläre Muzinose) ist eine entzündliche Erkrankung der Haarfollikel. Entzündungshemmende Wirkstoffe wie topische Kortikosteroide werden in der klinischen Praxis plausibel eingesetzt, sodass ein klassenbezogener Zusammenhang denkbar ist.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Literaturrecherche und Fallserien zu topischen Kortikosteroiden bei follikulärer Muzinose
 - Prüfung der Eignung der Darreichungsform und Anwendungsart für diese Erkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Fluocinol Pak (fluocinonide) prescribing information, PureTek Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9c88a41-3ff8-78f7-e053-2995a90adb8f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

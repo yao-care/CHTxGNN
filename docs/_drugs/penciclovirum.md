@@ -59,7 +59,7 @@ Penciclovir ist ein antivirales Arzneimittel, das in der Schweiz als Creme gegen
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Plausibilität ist gering. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten. Aus der Substanzklasse ist bekannt, dass Penciclovir ein Guanosin-Nukleosid-Analogon ist. Nach der Phosphorylierung durch die virale Thymidinkinase hemmt es die virale DNA-Polymerase. Seine Wirkung ist damit auf Herpesviren (HSV-1, HSV-2, VZV) beschränkt.
+Die Plausibilität ist gering. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Penciclovirum (inoffizielle Übersetzung): „Penciclovir ist ein antiviraler Wirkstoff mit Aktivität gegen Alpha-Herpesviren. […] Penciclovir weist eine hemmende Aktivität gegen Herpes-simplex-Virus Typ 1 (HSV-1) und Typ 2 (HSV-2) auf. In mit HSV-1 oder HSV-2 infizierten Zellen phosphoryliert die virale Thymidinkinase Penciclovir zu einer Monophosphatform, die ihrerseits durch zelluläre Kinasen in die aktive Form Penciclovir-Triphosphat umgewandelt wird.“ Englischer Originalwortlaut: "Penciclovir is an antiviral agent active against alpha herpes viruses. […] Penciclovir has inhibitory activity against herpes simplex virus types 1 (HSV-1) and 2 (HSV-2). In cells infected with HSV-1 or HSV-2, the viral thymidine kinase phosphorylates penciclovir to a monophosphate form that, in turn, is converted by cellular kinases to the active form penciclovir triphosphate." ([DailyMed: Denavir (penciclovir) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61229829-55a0-4d6f-a423-4b48a2b4d8e5), Fassung vom 2018-11-26; abgerufen am 2026-11-19). Aus der Substanzklasse ist bekannt, dass Penciclovir ein Guanosin-Nukleosid-Analogon ist. Nach der Phosphorylierung durch die virale Thymidinkinase hemmt es die virale DNA-Polymerase. Seine Wirkung ist damit auf Herpesviren (HSV-1, HSV-2, VZV) beschränkt.
 
 Fasziolose wird durch die Leberegel Fasciola hepatica und F. gigantica verursacht, also durch parasitäre Trematoden und nicht durch Viren. Die Standardbehandlung ist Triclabendazol. Ein antiparasitärer Wirkmechanismus von Penciclovir ist nicht erkennbar, und es sind keine Zielstrukturen im Parasiten bekannt.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten (z. B. In-vitro-Tests gegen Fasciola) als Nachweis einer antiparasitären Wirkung
 - Angaben zum Wirkmechanismus von Penciclovir und möglichen Zielstrukturen im Parasiten
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Denavir (penciclovir) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61229829-55a0-4d6f-a423-4b48a2b4d8e5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

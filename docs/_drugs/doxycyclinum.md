@@ -59,7 +59,7 @@ Doxycyclin ist ein Antibiotikum aus der Tetracyclin-Klasse. Für die Hauptvorher
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Doxycyclin gegen Chlamydia trachomatis wirksam. Zudem werden der Tetracyclin-Klasse entzündungshemmende und matrixmetalloproteinase-hemmende (MMP) Effekte an der Augenoberfläche zugeschrieben. Beides könnte bei Erkrankungen der Hornhaut und Bindehaut eine Rolle spielen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Doxycyclinum (inoffizielle Übersetzung): „Doxycyclin hemmt die bakterielle Proteinsynthese durch Bindung an die ribosomale 30S-Untereinheit. Doxycyclin besitzt eine bakteriostatische Aktivität gegen ein breites Spektrum grampositiver und gramnegativer Bakterien.“ Englischer Originalwortlaut: "Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria." ([DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8), Fassung vom 2026-07-09; abgerufen am 2026-11-19). Allgemein ist Doxycyclin gegen Chlamydia trachomatis wirksam. Zudem werden der Tetracyclin-Klasse entzündungshemmende und matrixmetalloproteinase-hemmende (MMP) Effekte an der Augenoberfläche zugeschrieben. Beides könnte bei Erkrankungen der Hornhaut und Bindehaut eine Rolle spielen.
 
 Der einzige verfügbare Literaturhinweis beschreibt zwei Fälle, in denen nach einer Chlamydien-Bindehautentzündung eine anhaltende punktförmige Hornhautentzündung auftrat. Beide Patienten waren zuvor mit Tetracyclin oder Doxycyclin behandelt worden, und die Follikel hatten sich zurückgebildet. Dieser Bericht zeigt keinen Nutzen von Doxycyclin bei der Hornhautveränderung selbst. Die Verbindung bleibt indirekt.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Informationen zum Wirkmechanismus aus verlässlichen Quellen
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Eine Prüfung, ob eine systemische oder eine lokale Anwendung am Auge in Frage käme
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Orlistat ist ein Lipasehemmer, der in der Schweiz in mehreren Präparaten im Han
 
 ### Warum ist diese Vorhersage plausibel?
 
-Orlistat hemmt die Lipasen von Magen und Bauchspeicheldrüse und verringert so die Aufnahme von Nahrungsfett um etwa 30 %. Angaben zum Wirkmechanismus aus der Arzneimitteldatenbank fehlen in den zusammengestellten Daten; die Beschreibung beruht auf dem bekannten Wirkprinzip.
+Orlistat hemmt die Lipasen von Magen und Bauchspeicheldrüse und verringert so die Aufnahme von Nahrungsfett um etwa 30 %. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Orlistatum (inoffizielle Übersetzung): „Orlistat ist ein reversibler Inhibitor gastrointestinaler Lipasen. Es entfaltet seine therapeutische Wirkung im Lumen des Magens und des Dünndarms, indem es eine kovalente Bindung mit dem aktiven Serinrest der Magen- und Pankreaslipasen eingeht.“ Englischer Originalwortlaut: "Orlistat is a reversible inhibitor of gastrointestinal lipases. It exerts its therapeutic activity in the lumen of the stomach and small intestine by forming a covalent bond with the active serine residue site of gastric and pancreatic lipases." ([DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e), Fassung vom 2026-09-30; abgerufen am 2026-11-19).
 
 Fettlösliche Vitamine (A, D, E, K) werden zusammen mit Nahrungsfett aufgenommen. Theoretisch könnte Orlistat deren Aufnahme senken und damit eine Anreicherung bei Hypervitaminose mildern. Dies ist jedoch nur eine Hypothese: Die Wirkung von Orlistat auf die Vitaminspiegel gilt bisher als Nebenwirkung (möglicher Mangel an fettlöslichen Vitaminen), nicht als Behandlungsprinzip.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung der Angaben zum Wirkmechanismus
 - Literaturrecherche und gegebenenfalls präklinische Daten zu Orlistat und Vitaminüberschuss, getrennt nach Vitamintyp
 - Klärung, ob ein klinischer Bedarf gegenüber der Standardbehandlung besteht
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

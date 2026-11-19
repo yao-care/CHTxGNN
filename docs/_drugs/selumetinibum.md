@@ -59,7 +59,7 @@ Selumetinib ist in der Schweiz als Kapsel zugelassen (Koselugo). Für die Vorher
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Selumetinib liegen in den zusammengestellten Daten keine Angaben vor. Selumetinib ist allgemein als Hemmstoff der Kinasen MEK1 und MEK2 im RAS/MAPK-Signalweg bekannt. Diese Einordnung stammt nicht aus den vorliegenden Daten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Selumetinibum (inoffizielle Übersetzung): „Selumetinib ist ein Inhibitor der mitogenaktivierten Proteinkinase-Kinasen 1 und 2 (MEK1/2). MEK1/2-Proteine sind vorgeschaltete Regulatoren des Signalwegs der extrazellulär signalregulierten Kinase (ERK). Sowohl MEK als auch ERK sind entscheidende Komponenten des RAS-regulierten RAF-MEK-ERK-Signalwegs, der bei verschiedenen Krebsarten häufig aktiviert ist.“ Englischer Originalwortlaut: "Selumetinib is an inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). MEK1/2 proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. Both MEK and ERK are critical components of the RAS-regulated RAF-MEK-ERK pathway, which is often activated in different types of cancers." ([DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff), Fassung vom 2026-05-26; abgerufen am 2026-11-19). Selumetinib ist allgemein als Hemmstoff der Kinasen MEK1 und MEK2 im RAS/MAPK-Signalweg bekannt. Diese Einordnung stammt nicht aus den vorliegenden Daten.
 
 Die vorhergesagte Erkrankung ist eine Pigmentstörung mit Lentigines (kleinen, flachen Pigmentflecken). Ein Zusammenhang mit dem RAS/MAPK-Signalweg ist denkbar, aber hier nicht belegt. Der hohe Vorhersagewert ist eine reine Modellaussage. Ein bestätigter Mechanismus, der eine Wirkung von Selumetinib bei dieser Erkrankung stützt, liegt nicht vor.
 
@@ -91,6 +91,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Daten oder Fallberichte zu MEK-Hemmern bei dieser Erkrankung
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus DrugBank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

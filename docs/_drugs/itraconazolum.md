@@ -61,7 +61,7 @@ Itraconazol ist ein Antimykotikum, das in der Schweiz in mehreren Kapselpräpara
 
 ### Warum ist diese Vorhersage plausibel?
 
-Itraconazol hemmt das Pilzenzym Lanosterol-14-alpha-Demethylase (CYP51) und blockiert damit die Ergosterol-Synthese. Die Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten; die Beschreibung beruht auf allgemeinem Wissen über Azol-Antimykotika.
+Itraconazol hemmt das Pilzenzym Lanosterol-14-alpha-Demethylase (CYP51) und blockiert damit die Ergosterol-Synthese. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Itraconazolum (inoffizielle Übersetzung): „In-vitro-Studien haben gezeigt, dass Itraconazol die Cytochrom-P450-abhängige Synthese von Ergosterol hemmt, einem lebenswichtigen Bestandteil der Zellmembranen von Pilzen.“ Englischer Originalwortlaut: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), Fassung vom 2026-07-13; abgerufen am 2026-11-19).
 
 Bei näherer Betrachtung ist die Plausibilität gering. Pneumocystis jirovecii enthält in der Zellmembran kein Ergosterol, sondern vor allem Cholesterol und verwandte Sterole. Der Azol-Mechanismus ist daher gegen diesen Erreger nicht zu erwarten. Eine Arbeit zur Lanosterol-14-alpha-Demethylase von Pneumocystis carinii (2003) beschreibt zudem eine natürliche Resistenz gegenüber Azolen.
 
@@ -114,6 +114,19 @@ Keine der Publikationen untersucht Itraconazol direkt bei Pneumozystose. Die Aus
 - Direkte präklinische oder klinische Daten zu Itraconazol bei Pneumozystose
 - Eine Fachinformation mit Warnhinweisen und Kontraindikationen für die Sicherheitsbewertung (derzeit nicht verfügbar)
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

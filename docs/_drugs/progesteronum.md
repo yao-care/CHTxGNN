@@ -59,7 +59,7 @@ Progesteron ist ein körpereigenes Gestagen, das in der Schweiz in mehreren Prä
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Progesteron liegen in den vorliegenden Daten keine Angaben vor. Allgemein bekannt ist jedoch, dass Progesteron im Brustdrüsengewebe als Gegenspieler der östrogenbedingten Zellvermehrung wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Progesteronum (inoffizielle Übersetzung): „Progesteron ist ein natürlich vorkommendes Steroid, das von Ovar, Plazenta und Nebenniere sezerniert wird. Bei ausreichendem Estrogenspiegel wandelt Progesteron ein proliferatives Endometrium in ein sekretorisches Endometrium um.“ Englischer Originalwortlaut: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), Fassung vom 2026-10-05; abgerufen am 2026-11-19). Allgemein bekannt ist jedoch, dass Progesteron im Brustdrüsengewebe als Gegenspieler der östrogenbedingten Zellvermehrung wirkt.
 
 Mehrere Arbeiten beschreiben bei fibrozystischen Veränderungen ein Ungleichgewicht zugunsten des Östrogens mit relativem Progesteronmangel in der Lutealphase (z. B. Vorherr 1986; Brkić et al. 2018, Studie zum Östradiol/Progesteron-Verhältnis). Daraus lässt sich ableiten, dass ein Ausgleich über Progesteron denkbar wäre.
 
@@ -124,6 +124,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Fachinformation (Warnhinweise, Kontraindikationen), insbesondere im Hinblick auf das Brustkrebsrisiko
 - Klärung des Wirkmechanismus aus ergänzenden Quellen
 - Prüfung geeigneter Darreichungsformen (z. B. topisch oder oral) für die Brust
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Ceftriaxon ist ein Antibiotikum aus der Gruppe der Cephalosporine der dritten Ge
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ceftriaxon hemmt die Zellwandsynthese von Bakterien und wirkt dadurch gegen ein breites Spektrum bakterieller Erreger. Die Daten enthalten dazu keine ergänzenden Angaben zum Wirkmechanismus.
+Ceftriaxon hemmt die Zellwandsynthese von Bakterien und wirkt dadurch gegen ein breites Spektrum bakterieller Erreger. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ceftriaxonum (inoffizielle Übersetzung): „Ceftriaxon ist ein antibakterieller Wirkstoff. […] Ceftriaxon ist ein bakterizider Wirkstoff, der durch Hemmung der bakteriellen Zellwandsynthese wirkt. Ceftriaxon ist auch in Gegenwart einiger Beta-Lactamasen gramnegativer und grampositiver Bakterien wirksam, sowohl von Penicillinasen als auch von Cephalosporinasen.“ Englischer Originalwortlaut: "Ceftriaxone is an antibacterial drug. […] Ceftriaxone is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftriaxone has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467), Fassung vom 2022-01-13; abgerufen am 2026-11-19).
 
 Das polyklonale Hyperviskositätssyndrom entsteht durch erhöhte Immunglobuline oder Proteine im Serum. Ein Antibiotikum wirkt darauf nicht. Ein glaubwürdiger mechanistischer Zusammenhang ist daher nicht erkennbar. Der hohe Vorhersagewert beruht sehr wahrscheinlich auf einem Artefakt des Vorhersagemodells und nicht auf einer biologischen Begründung.
 
@@ -94,6 +94,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ein nachvollziehbarer biologischer Wirkmechanismus, der ein Antibiotikum mit der Erkrankung verbindet
 - Klinische oder präklinische Daten, die Ceftriaxon bei dieser Erkrankung direkt untersuchen
 - Die Warnhinweise und Kontraindikationen aus der Fachinformation der Swissmedic
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

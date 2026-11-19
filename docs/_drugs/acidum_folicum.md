@@ -61,7 +61,7 @@ Folsäure ist ein wasserlösliches B-Vitamin, das in der Schweiz mit mehreren Zu
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Folsäure liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Folat den Transfer von Ein-Kohlenstoff-Gruppen, die Nukleotidsynthese und die Remethylierung von Homocystein unterstützt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Acidum Folicum (inoffizielle Übersetzung): „Folsäure wirkt auf ein megaloblastäres Knochenmark und führt zu einem normoblastären Knochenmark. Beim Menschen ist eine exogene Folatquelle für die Nukleoproteinsynthese und die Aufrechterhaltung einer normalen Erythropoese erforderlich. Folsäure ist die Vorstufe der Tetrahydrofolsäure, die als Cofaktor an Transformylierungsreaktionen bei der Biosynthese von Purinen und Thymidylaten der Nukleinsäuren beteiligt ist.“ Englischer Originalwortlaut: "Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids." ([DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1), Fassung vom 2026-10-05; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Folat den Transfer von Ein-Kohlenstoff-Gruppen, die Nukleotidsynthese und die Remethylierung von Homocystein unterstützt.
 
 Biotin und Folsäure sind beide wasserlösliche B-Vitamine und wirken als Cofaktoren im Stoffwechsel. Biotin ist Cofaktor von Carboxylasen (z. B. Propionyl-CoA-Carboxylase, Pyruvat-Carboxylase) und wird durch die Biotinidase wiederverwertet. Biotin-Stoffwechselerkrankungen (Biotinidase-Mangel, Holocarboxylase-Synthetase-Mangel) entstehen durch Defekte beim Recycling von Biotin oder bei dessen Anbindung an Carboxylasen. Behandelt werden sie mit pharmakologischen Biotin-Dosen.
 
@@ -124,6 +124,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung des Wirkmechanismus von Folsäure und mechanistische Prüfung einer möglichen Verbindung zum Biotin-Stoffwechsel.
 - Präklinische oder klinische Daten, die Folsäure direkt bei Biotinidase-Mangel oder Holocarboxylase-Synthetase-Mangel untersuchen.
 - Auswertung der Schweizer Fachinformationen zu Warnhinweisen und Kontraindikationen, da die Sicherheitsdaten bislang fehlen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

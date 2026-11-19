@@ -61,7 +61,7 @@ Miglustat ist ein Hemmer der Glucosylceramid-Synthase, der die Bildung bestimmte
 
 ### Warum ist diese Vorhersage plausibel?
 
-Miglustat hemmt die Glucosylceramid-Synthase und senkt dadurch die Neubildung von Glykosphingolipiden. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Miglustat hemmt die Glucosylceramid-Synthase und senkt dadurch die Neubildung von Glykosphingolipiden. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Miglustatum (inoffizielle Übersetzung): „Morbus Gaucher Typ 1 wird durch einen funktionellen Mangel an Glucocerebrosidase verursacht, dem Enzym, das den Abbau des Glykosphingolipids Glucosylceramid vermittelt. Miglustat wirkt als kompetitiver und reversibler Inhibitor des Enzyms Glucosylceramid-Synthase, des Ausgangsenzyms einer Reihe von Reaktionen, die zur Synthese der meisten Glykosphingolipide führen.“ Englischer Originalwortlaut: "Type 1 Gaucher disease is caused by a functional deficiency of glucocerebrosidase, the enzyme that mediates the degradation of the glycosphingolipid glucosylceramide. Miglustat functions as a competitive and reversible inhibitor of the enzyme glucosylceramide synthase, the initial enzyme in a series of reactions which results in the synthesis of most glycosphingolipids." ([DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87), Fassung vom 2025-12-17; abgerufen am 2026-11-19).
 
 Ein klarer mechanistischer Zusammenhang zwischen Miglustat und dieser Ichthyose-Form ist aus den vorliegenden Daten nicht erkennbar. Ceramide und Glykosphingolipide sind zwar wichtig für die Barrierefunktion der Haut, ein Nutzen der Substratreduktion bei dieser Erkrankung ist aber rein spekulativ. Ein Mass für die Ähnlichkeit zur ursprünglichen Anwendung liegt nicht vor.
 
@@ -100,6 +100,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Der Wirkmechanismus von Miglustat aus einer Arzneimitteldatenbank (z. B. DrugBank).
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Hinweise auf Studien oder Fallberichte zu dieser Erkrankung.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

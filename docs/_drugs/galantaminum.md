@@ -61,7 +61,7 @@ Galantamin ist in der Schweiz für die Behandlung der Demenz vom Alzheimer-Typ z
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Galantamin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus dem allgemeinen Wissen ist Galantamin ein Hemmer der Acetylcholinesterase und ein positiver allosterischer Modulator nikotinerger Rezeptoren. Es verstärkt also die cholinerge Signalübertragung im Gehirn.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Galantaminum (inoffizielle Übersetzung): „Obwohl die Ätiologie der kognitiven Beeinträchtigung bei der Alzheimer-Krankheit (AD) nicht vollständig geklärt ist, wurde berichtet, dass Acetylcholin-produzierende Neuronen im Gehirn von Patienten mit Alzheimer-Krankheit degenerieren. Das Ausmaß dieses cholinergen Verlusts korreliert mit dem Ausmaß der kognitiven Beeinträchtigung und der Dichte der Amyloid-Plaques (ein neuropathologisches Kennzeichen der Alzheimer-Krankheit). […] Galantamin, ein tertiäres Alkaloid, ist ein kompetitiver und reversibler Inhibitor der Acetylcholinesterase.“ Englischer Originalwortlaut: "Although the etiology of cognitive impairment in Alzheimer’s disease (AD) is not fully understood, it has been reported that acetylcholine-producing neurons degenerate in the brains of patients with Alzheimer’s disease. The degree of this cholinergic loss has been correlated with degree of cognitive impairment and density of amyloid plaques (a neuropathological hallmark of Alzheimer’s disease). […] Galantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase." ([DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1), Fassung vom 2026-07-02; abgerufen am 2026-11-19). Aus dem allgemeinen Wissen ist Galantamin ein Hemmer der Acetylcholinesterase und ein positiver allosterischer Modulator nikotinerger Rezeptoren. Es verstärkt also die cholinerge Signalübertragung im Gehirn.
 
 Für psychogene (funktionelle) Bewegungsstörungen ist ein solcher Mechanismus allerdings kaum nachvollziehbar. Diese Störungen werden vor allem mit veränderter Aufmerksamkeit, gestörtem Handlungs- und Kontrollempfinden sowie Veränderungen auf Netzwerkebene erklärt, nicht mit einem cholinergen Defizit. Die hohe Modellbewertung ist daher bislang nicht durch eine biologische Begründung gestützt.
 
@@ -90,6 +90,19 @@ Die Vorhersage ist deshalb als reine Hypothese zu verstehen. Ein nachvollziehbar
 - Eine belastbare mechanistische Begründung für den Einsatz eines cholinergen Wirkstoffs bei dieser Erkrankung
 - Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen), die bisher fehlen
 - Die Daten zum Wirkmechanismus aus einer geeigneten Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

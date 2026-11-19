@@ -61,7 +61,7 @@ Risperidon ist in der Schweiz als Neuroleptikum zugelassen. Für die vorhergesag
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die für diesen Bericht zusammengestellten Daten enthalten keine Angaben zum Wirkmechanismus. Bekannt ist, dass Risperidon die Dopamin-D2- und Serotonin-5-HT2A-Rezeptoren blockiert. Diese Angabe stammt jedoch nicht aus den vorliegenden Daten und ist daher nur als allgemeiner Hintergrund zu verstehen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Risperidonum (inoffizielle Übersetzung): „Der Wirkmechanismus von Risperidon bei Schizophrenie ist unklar. Die therapeutische Wirkung des Arzneimittels bei Schizophrenie könnte durch eine Kombination aus Antagonismus an Dopamin-Typ-2-(D 2 )- und Serotonin-Typ-2-(5HT 2 )-Rezeptoren vermittelt werden.“ Englischer Originalwortlaut: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), Fassung vom 2026-10-23; abgerufen am 2026-11-19). Bekannt ist, dass Risperidon die Dopamin-D2- und Serotonin-5-HT2A-Rezeptoren blockiert. Diese Angabe stammt jedoch nicht aus den vorliegenden Daten und ist daher nur als allgemeiner Hintergrund zu verstehen.
 
 Die vorhergesagte Erkrankung ist eine äusserst seltene genetische Störung (ROBO3-bezogen). Sie betrifft die Steuerung von Nervenfaserbahnen und die Entwicklung des Hirnstamms. Ein Zusammenhang mit der Dopamin- oder Serotoninsignalübertragung ist nicht erkennbar.
 
@@ -100,6 +100,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar)
 - Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

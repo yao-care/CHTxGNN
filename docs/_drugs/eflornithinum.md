@@ -59,7 +59,7 @@ Eflornithin ist in der Schweiz als Tablette und als Creme im Handel. Als möglic
 
 ### Warum ist diese Vorhersage plausibel?
 
-Aus den für diesen Bericht zusammengestellten Daten lässt sich kein Zusammenhang zwischen Eflornithin und Esotropie herleiten. Der Wirkmechanismus ist in den Daten nicht erfasst, daher kann keine mechanistische Verbindung belegt werden.
+Aus den für diesen Bericht zusammengestellten Daten lässt sich kein Zusammenhang zwischen Eflornithin und Esotropie herleiten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Eflornithinum (inoffizielle Übersetzung): „Eflornithin ist ein irreversibler Hemmer des Enzyms Ornithin-Decarboxylase (ODC), des ersten und geschwindigkeitsbestimmenden Enzyms der Polyaminbiosynthese und eines transkriptionellen Ziels von MYCN. Polyamine sind an der Differenzierung und Proliferation von Säugetierzellen beteiligt und für die neoplastische Transformation von Bedeutung.“ Englischer Originalwortlaut: "Eflornithine is an irreversible inhibitor of the enzyme ornithine decarboxylase (ODC), the first and rate-limiting enzyme in the biosynthesis of polyamines and a transcriptional target of MYCN. Polyamines are involved in differentiation and proliferation of mammalian cells and are important for neoplastic transformation." ([DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5), Fassung vom 2026-03-26; abgerufen am 2026-11-19).
 
 Esotropie ist eine Fehlstellung der Augen, die das beidäugige Sehen betrifft. Ein pharmakologischer Weg, über den die Hemmung der Polyaminsynthese diese Erkrankung beeinflussen könnte, wird durch die vorliegenden Daten nicht gestützt. Der sehr hohe Vorhersagewert von 0,9985 ist ein reines Rechenergebnis des Modells. Er kann auf Artefakten im Modell beruhen und sollte mit Vorsicht gelesen werden.
 
@@ -109,6 +109,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Der Wirkmechanismus von Eflornithin (z. B. aus DrugBank) und eine systematische Literatur- und Mechanismusrecherche zu Esotropie
 - Die Warnhinweise und Kontraindikationen aus den Fachinformationen von Swissmedic, damit die Sicherheitsprüfung möglich wird
 - Prüfung, ob die Darreichungsformen (Tablette, Creme) für eine Anwendung bei Esotropie überhaupt geeignet wären
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

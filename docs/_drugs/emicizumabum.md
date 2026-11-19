@@ -59,7 +59,7 @@ Emicizumab ist ein bispezifischer Antikörper, der die Funktion des aktivierten 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Emicizumab liegen in den zusammengestellten Daten keine Angaben vor. Aus der Fachliteratur ist bekannt, dass der Antikörper den Faktor IXa und den Faktor X verbindet und so die Rolle des aktivierten Faktors VIII ersetzt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Emicizumabum (inoffizielle Übersetzung): „HEMLIBRA überbrückt aktivierten Faktor IX und Faktor X und stellt so die Funktion des fehlenden aktivierten Faktors VIII wieder her, der für eine wirksame Hämostase erforderlich ist.“ Englischer Originalwortlaut: "HEMLIBRA bridges activated factor IX and factor X to restore the function of missing activated factor VIII that is needed for effective hemostasis." ([DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071), Fassung vom 2025-07-11; abgerufen am 2026-11-19). Aus der Fachliteratur ist bekannt, dass der Antikörper den Faktor IXa und den Faktor X verbindet und so die Rolle des aktivierten Faktors VIII ersetzt.
 
 Die Pseudo-von-Willebrand-Krankheit (Plättchentyp) entsteht durch eine Funktionssteigerung des Rezeptors GPIb-alpha auf den Blutplättchen. Dadurch bindet der von-Willebrand-Faktor übermässig an die Plättchen, und diese werden vermehrt abgebaut. Emicizumab wirkt nicht auf diese Achse zwischen von-Willebrand-Faktor und GPIb.
 
@@ -92,6 +92,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Mechanistische Daten, die einen Zusammenhang zwischen Emicizumab und der Pseudo-von-Willebrand-Krankheit stützen
 - Präklinische oder klinische Daten zur Wirksamkeit bei dieser Erkrankung
 - Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Kontraindikationen, da diese Sicherheitsdaten derzeit fehlen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

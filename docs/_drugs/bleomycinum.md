@@ -61,7 +61,7 @@ Bleomycin ist in der Schweiz als Zytostatikum im Handel. Für das Neoplasma der 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für die Datenzusammenstellung liegen keine Angaben zum Wirkmechanismus vor. Bleomycin ist allgemein als Zytostatikum bekannt, das DNA-Strangbrüche verursacht. Es wird in Kombinationsschemata gegen Keimzelltumoren eingesetzt, etwa im BEP-Schema (Bleomycin, Etoposid, Cisplatin).
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bleomycinum (inoffizielle Übersetzung): „Obwohl der genaue Wirkmechanismus von Bleomycin nicht bekannt ist, deuten die verfügbaren Erkenntnisse darauf hin, dass die Hauptwirkungsweise in der Hemmung der DNA-Synthese besteht, wobei es auch Hinweise auf eine geringere Hemmung der RNA- und Proteinsynthese gibt. Bleomycin verursacht bekanntermaßen Einzelstrangbrüche und in geringerem Maße Doppelstrangbrüche der DNA.“ Englischer Originalwortlaut: "Although the exact mechanism of action of bleomycin is unknown, available evidence indicates that the main mode of action is the inhibition of DNA synthesis with some evidence of lesser inhibition of RNA and protein synthesis. Bleomycin is known to cause single, and to a lesser extent, double-stranded breaks in DNA." ([DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee), Fassung vom 2026-04-17; abgerufen am 2026-11-19). Bleomycin ist allgemein als Zytostatikum bekannt, das DNA-Strangbrüche verursacht. Es wird in Kombinationsschemata gegen Keimzelltumoren eingesetzt, etwa im BEP-Schema (Bleomycin, Etoposid, Cisplatin).
 
 Ein möglicher Zusammenhang besteht darüber, dass ZNS-Keimzelltumoren auch in der Spinalachse entstehen können. Die einzige verknüpfte Publikation behandelt die Strahlentherapie bei rezidivierten ZNS-Germinomen nach einer Chemotherapie, die Bleomycin enthielt. Sie betrifft aber weder Tumoren der Cauda equina noch zeigt sie eine Wirkung von Bleomycin allein.
 
@@ -116,6 +116,19 @@ Die verknüpfte Literatur zu anderen Fragestellungen weist auf eine mögliche Lu
 - Angaben zum Wirkmechanismus und zur Gewebegängigkeit im ZNS
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Eine fachliche Prüfung, ob die Keimzelltumor-Verbindung für diese Indikation tragfähig ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Rivastigmin ist ein Cholinesterase-Hemmer. Das Modell sagt eine mögliche Wirksa
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rivastigmin hemmt die Enzyme Acetylcholinesterase und Butyrylcholinesterase pseudo-irreversibel. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Die folgende Erklärung stützt sich daher auf allgemeines pharmakologisches Wissen.
+Rivastigmin hemmt die Enzyme Acetylcholinesterase und Butyrylcholinesterase pseudo-irreversibel. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rivastigminum (inoffizielle Übersetzung): „Obwohl der genaue Wirkmechanismus von Rivastigmin unbekannt ist, wird angenommen, dass es seine therapeutische Wirkung durch Verstärkung der cholinergen Funktion entfaltet. Dies geschieht durch Erhöhung der Acetylcholinkonzentration mittels reversibler Hemmung seiner Hydrolyse durch die Cholinesterase.“ Englischer Originalwortlaut: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), Fassung vom 2025-11-11; abgerufen am 2026-11-19). Die folgende Erklärung stützt sich daher auf allgemeines pharmakologisches Wissen.
 
 Durch die Enzymhemmung steigt die Acetylcholinmenge an den muskarinischen Rezeptoren des Auges. Das kann den Ziliarmuskel zusammenziehen und den Abfluss des Kammerwassers über das Trabekelwerk verbessern. So sinkt der Augeninnendruck, der wichtigste behandelbare Risikofaktor beim Glaukom. Nach demselben Prinzip wirken Pilocarpin und der Cholinesterase-Hemmer Physostigmin, die beim Glaukom eingesetzt wurden. Ein möglicher Schutz der retinalen Ganglienzellen durch cholinerge Wirkung ist dagegen eine spekulative Hypothese.
 
@@ -111,6 +111,19 @@ Für eine mögliche Anwendung am Auge sind besonders zu prüfen: Verträglichkei
 - Bestätigung der Tierdaten in weiteren präklinischen Studien, insbesondere bei erhöhtem Augendruck
 - Entwicklung und Prüfung einer topischen Augenformulierung, da die bestehenden Darreichungsformen (Kapsel, Pflaster) für diese Anwendung nicht vorgesehen sind
 - Frühe klinische Studien zu Wirksamkeit und Verträglichkeit am Auge
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

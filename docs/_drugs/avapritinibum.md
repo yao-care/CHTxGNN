@@ -61,7 +61,7 @@ Avapritinib ist ein selektiver Hemmstoff der Tyrosinkinasen KIT und PDGFRA. Für
 
 ### Warum ist diese Vorhersage plausibel?
 
-Avapritinib hemmt gezielt KIT und PDGFRA, einschliesslich der Mutanten PDGFRA D842V und KIT Exon 17. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Avapritinib hemmt gezielt KIT und PDGFRA, einschliesslich der Mutanten PDGFRA D842V und KIT Exon 17. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Avapritinibum (inoffizielle Übersetzung): „Avapritinib ist ein Tyrosinkinase-Inhibitor, der gegen KIT D816V, PDGFRA und PDGFRA-D842-Mutanten sowie gegen mehrere KIT-Exon-11-, -11/17- und -17-Mutanten gerichtet ist, mit halbmaximalen Hemmkonzentrationen (IC 50-Werten) von weniger als 25 nM in biochemischen Assays. Bestimmte Mutationen in PDGFRA und KIT können zur Autophosphorylierung und konstitutiven Aktivierung dieser Rezeptoren führen, was zur Proliferation von Tumor- und Mastzellen beitragen kann.“ Englischer Originalwortlaut: "Avapritinib is a tyrosine kinase inhibitor that targets KIT D816V, PDGFRA and PDGFRA D842 mutants as well as multiple KIT exon 11, 11/17 and 17 mutants with half maximal inhibitory concentrations (IC 50s ) less than 25 nM in biochemical assays. Certain mutations in PDGFRA and KIT can result in the autophosphorylation and constitutive activation of these receptors which can contribute to tumor and mast cell proliferation." ([DailyMed: Ayvakit (avapritinib) prescribing information, Blueprint Medicines Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=645c887c-8cd4-4623-8da9-ac223d71a8b9), Fassung vom 2026-10-20; abgerufen am 2026-11-19).
 
 Die axiale spondylometaphysäre Dysplasie ist eine seltene Skeletterkrankung. Sie wird mit Varianten im Gen CFAP410 (C21orf2) in Verbindung gebracht, die die Entwicklung der Zilien und des Skeletts betreffen. Ein belegter Zusammenhang mit der KIT- oder PDGFRA-Signalübertragung wurde nicht gefunden.
 
@@ -117,6 +117,19 @@ Hinweis aus der mechanistischen Bewertung: Avapritinib kann zentralnervöse Nebe
 - Vollständige Sicherheitsdaten aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer weiteren Arzneimittelquelle
 - Prüfung, ob die Darreichungsform (Filmtabletten) für die Erkrankung geeignet ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ayvakit (avapritinib) prescribing information, Blueprint Medicines Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=645c887c-8cd4-4623-8da9-ac223d71a8b9) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Pravastatin ist ein Cholesterinsenker (Statin), der in der Schweiz mit mehreren 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pravastatin hemmt die HMG-CoA-Reduktase, ein Schlüsselenzym der Cholesterinbildung in der Leber. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Pravastatin hemmt die HMG-CoA-Reduktase, ein Schlüsselenzym der Cholesterinbildung in der Leber. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pravastatinum Natricum (inoffizielle Übersetzung): „Pravastatin ist ein reversibler Inhibitor der HMG-CoA-Reduktase, des geschwindigkeitsbestimmenden Enzyms, das HMG-CoA in Mevalonat, eine Vorstufe des Cholesterins, umwandelt.“ Englischer Originalwortlaut: "Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d), Fassung vom 2026-10-23; abgerufen am 2026-11-19).
 
 Menschen mit HIV haben häufig erhöhte Blutfette, vor allem unter Proteasehemmern, und ein erhöhtes Risiko für Herz-Kreislauf-Erkrankungen. Statine werden hier zur Kontrolle der Blutfette eingesetzt. Der hohe Vorhersagewert spiegelt wahrscheinlich diese Verbindung wider und nicht eine Wirkung gegen das Virus selbst.
 
@@ -126,6 +126,19 @@ Pravastatin wird kaum über CYP3A4 abgebaut. Dadurch ist das Risiko für Wechsel
 - Überwachung von Blutfetten, Kreatinkinase und Leberwerten
 - Auswertung der Fachinformation von Swissmedic zu Warnhinweisen und Gegenanzeigen, die in den Daten fehlen
 - Ergänzung der Angaben zum Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

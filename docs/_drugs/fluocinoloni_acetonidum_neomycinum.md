@@ -59,7 +59,7 @@ Fluocinolonacetonid ist ein topisches Kortikosteroid und wird hier mit dem Antib
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die folgenden Überlegungen beruhen daher auf allgemeinem Wissen zur Wirkstoffklasse und nicht auf den vorliegenden Daten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Fluocinoloni Acetonidum Neomycinum (inoffizielle Übersetzung): „Corticosteroide spielen eine Rolle bei der zellulären Signalübertragung, der Immunfunktion, Entzündungen und der Proteinregulation; der genaue Wirkmechanismus bei Psoriasis der Kopfhaut ist jedoch unbekannt.“ Englischer Originalwortlaut: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in psoriasis of the scalp is unknown." ([DailyMed: Derma-Smoothe/Fs (fluocinolone acetonide) prescribing information, Royal Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46), Fassung vom 2026-10-27; abgerufen am 2026-11-19). Die folgenden Überlegungen beruhen daher auf allgemeinem Wissen zur Wirkstoffklasse und nicht auf den vorliegenden Daten.
 
 Fluocinolonacetonid ist ein topisches Kortikosteroid. Stark wirksame topische Kortikosteroide gehören zu den häufig eingesetzten Ansätzen bei Lichen planus und bei autoimmunen subepidermalen Blasenkrankheiten wie dem bullösen Pemphigoid. Der Lichen planus pemphigoides vereint Merkmale beider Erkrankungen: eine lichenoide Entzündung und eine durch Anti-BP180-Autoantikörper vermittelte Blasenbildung. Die entzündungshemmende und immunsuppressive Wirkung der Glukokortikoide könnte daher die lichenoide T-Zell-Infiltration und die Blasenbildung vermindern.
 
@@ -103,6 +103,19 @@ Derzeit keine verwandte Literatur verfügbar.
 - Angaben zum Wirkmechanismus aus DrugBank
 - Klinische Daten oder Fallserien zur Anwendung topischer Kortikosteroide bei Lichen planus pemphigoides
 - Prüfung, ob ein Monopräparat mit Fluocinolonacetonid ohne Neomycin sinnvoller wäre
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Derma-Smoothe/Fs (fluocinolone acetonide) prescribing information, Royal Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

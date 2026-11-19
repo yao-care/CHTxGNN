@@ -59,7 +59,7 @@ Perampanel ist in der Schweiz als Antiepileptikum zugelassen. Das Modell sagt vo
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist Perampanel als nicht-kompetitiver Antagonist von AMPA-Typ-Glutamatrezeptoren, der bei Epilepsie eingesetzt wird.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Perampanelum (inoffizielle Übersetzung): „Perampanel ist ein nicht-kompetitiver Antagonist des ionotropen α-Amino-3-hydroxy-5-methyl-4-isoxazolpropionsäure(AMPA)-Glutamatrezeptors auf postsynaptischen Neuronen. Glutamat ist der wichtigste exzitatorische Neurotransmitter im zentralen Nervensystem und wird mit einer Reihe neurologischer Erkrankungen in Verbindung gebracht, die durch eine neuronale Übererregung verursacht werden.“ Englischer Originalwortlaut: "Perampanel is a non-competitive antagonist of the ionotropic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal over excitation." ([DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122), Fassung vom 2022-12-28; abgerufen am 2026-11-19). Allgemein bekannt ist Perampanel als nicht-kompetitiver Antagonist von AMPA-Typ-Glutamatrezeptoren, der bei Epilepsie eingesetzt wird.
 
 Der Beta-Ketothiolase-Mangel (ACAT1/T2-Mangel) ist eine angeborene Störung des Isoleucin-Abbaus und der Ketonkörper-Verwertung, die zu episodischen Ketoazidosen führt. Die Pathophysiologie ist stoffwechselbedingt und hat keinen erkennbaren Bezug zur AMPA-Rezeptor-Signalübertragung.
 
@@ -87,6 +87,19 @@ Ein mechanistischer Zusammenhang lässt sich aus den vorliegenden Daten daher ni
 - Die Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic, um die Sicherheit zu prüfen
 - Eine gesicherte Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Präklinische oder klinische Daten, die einen Zusammenhang mit dem Beta-Ketothiolase-Mangel stützen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

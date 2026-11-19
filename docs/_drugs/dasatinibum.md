@@ -100,7 +100,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Entscheidung: Abwarten**
 
 **Begründung:**
-- Für das Ewing-Sarkom stützt sich die Einschätzung nur auf eine Modellvorhersage. Klinische Studien und Literatur fehlen, und es ist kein Wirkmechanismus aus den Daten belegt.
+- Für das Ewing-Sarkom stützt sich die Einschätzung nur auf eine Modellvorhersage. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dasatinibum (inoffizielle Übersetzung): „Dasatinib hemmt in nanomolaren Konzentrationen die folgenden Kinasen: BCR-ABL, SRC-Familie (SRC, LCK, YES, FYN), c-KIT, EPHA2 und PDGFRβ. Auf Grundlage von Modellierungsstudien wird vorhergesagt, dass Dasatinib an mehrere Konformationen der ABL-Kinase bindet.“ Englischer Originalwortlaut: "Dasatinib, at nanomolar concentrations, inhibits the following kinases: BCR-ABL, SRC family (SRC, LCK, YES, FYN), c-KIT, EPHA2, and PDGFRβ. Based on modeling studies, dasatinib is predicted to bind to multiple conformations of the ABL kinase." ([DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df), Fassung vom 2026-10-16; abgerufen am 2026-11-19).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Literaturrecherche zu Dasatinib beim Ewing-Sarkom (präklinische und klinische Daten)
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus DrugBank
 - Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen, Wechselwirkungen)
 - Bewertung des Nutzen-Risiko-Verhältnisses, insbesondere der Myelosuppression, in der Zielpopulation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

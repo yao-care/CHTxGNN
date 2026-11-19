@@ -61,7 +61,7 @@ Brivaracetam ist ein in der Schweiz im Handel befindliches Antiepileptikum. Für
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ein Wirkmechanismus-Eintrag liegt in den für diesen Bericht zusammengestellten Daten nicht vor. Brivaracetam bindet bekanntermassen an das synaptische Vesikelprotein 2A (SV2A) und wird gegen epileptische Anfälle eingesetzt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Brivaracetamum (inoffizielle Übersetzung): „Der genaue Mechanismus, über den BRIVIACT seine antikonvulsive Wirkung entfaltet, ist nicht bekannt. Brivaracetam zeigt eine hohe und selektive Affinität für das synaptische Vesikelprotein 2A (SV2A) im Gehirn, was zur antikonvulsiven Wirkung beitragen kann.“ Englischer Originalwortlaut: "The precise mechanism by which BRIVIACT exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect." ([DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c), Fassung vom 2026-11-05; abgerufen am 2026-11-19). Brivaracetam bindet bekanntermassen an das synaptische Vesikelprotein 2A (SV2A) und wird gegen epileptische Anfälle eingesetzt.
 
 Beta-Ketothiolase-Mangel ist eine angeborene Störung des Isoleucin- und Ketonkörperstoffwechsels. Ursache sind Mutationen im ACAT1-Gen, das Hauptmerkmal sind episodische Ketoazidosen. Ein plausibler Weg, wie die Beeinflussung von SV2A den ACAT1-Defekt oder ketoazidotische Krisen korrigieren könnte, ist aus den vorliegenden Daten nicht erkennbar.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Beschreibung des Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
 - Präklinische oder klinische Daten, die einen Zusammenhang zwischen SV2A-Modulation und dem Beta-Ketothiolase-Mangel belegen
 - Eine Prüfung, ob die Vorhersage durch Modellartefakte erklärt werden kann
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

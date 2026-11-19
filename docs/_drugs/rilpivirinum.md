@@ -59,7 +59,7 @@ Rilpivirin ist ein antiretrovirales Arzneimittel, das in der Schweiz in drei Pr�
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den compilierten Daten keine Angaben vor. Rilpivirin gehört nach allgemeinem Wissen zu den nicht-nukleosidischen Reverse-Transkriptase-Hemmern (NNRTI), die die Vermehrung von HIV-1 blockieren.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rilpivirinum (inoffizielle Übersetzung): „Rilpivirin ist ein antivirales Arzneimittel. […] Rilpivirin ist ein Diarylpyrimidin-Nicht-Nukleosid-Reverse-Transkriptase-Inhibitor (NNRTI) des humanen Immundefizienzvirus Typ 1 (HIV-1) und hemmt die HIV-1-Replikation durch nicht-kompetitive Hemmung der HIV-1-Reversen-Transkriptase (RT). Rilpivirin hemmt die humanen zellulären DNA-Polymerasen α, β und γ nicht.“ Englischer Originalwortlaut: "Rilpivirine is an antiviral drug. […] Rilpivirine is a diarylpyrimidine non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1) and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). Rilpivirine does not inhibit the human cellular DNA polymerases α, β and γ." ([DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6), Fassung vom 2025-08-28; abgerufen am 2026-11-19). Rilpivirin gehört nach allgemeinem Wissen zu den nicht-nukleosidischen Reverse-Transkriptase-Hemmern (NNRTI), die die Vermehrung von HIV-1 blockieren.
 
 Das Simian-Immundefizienzvirus (SIV) und seine Hybridform SHIV sind das übliche Tiermodell für HIV in Makaken. SIV ist von Natur aus gegen NNRTI unempfindlich. Die Studien verwenden daher SHIV-Konstrukte mit der Reversen Transkriptase von HIV-1. Die Vorhersage beschreibt somit ein präklinisches Modell der HIV-Behandlung und -Prävention und keine eigenständige tiermedizinische Indikation.
 
@@ -100,6 +100,19 @@ Die Arbeiten sind Tierstudien oder Übersichten, die die Kombination aus Caboteg
 - Die Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation.
 - Angaben zum Wirkmechanismus aus DrugBank.
 - Klärung, ob aus den Makakenstudien überhaupt ein Erkenntnisgewinn für die Anwendung beim Menschen entsteht, der über die bestehende Anwendung hinausgeht.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

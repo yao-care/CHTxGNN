@@ -61,7 +61,7 @@ Hinweis zum Evidenzniveau: Die zitierten Studien untersuchen Panikstörung mit b
 
 ### Warum ist diese Vorhersage plausibel?
 
-Moclobemid hemmt das Enzym Monoaminoxidase A reversibel. Dadurch wird der Abbau von Serotonin, Noradrenalin und Dopamin vermindert und die Signalübertragung dieser Botenstoffe verstärkt. Die Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten; diese Beschreibung beruht auf allgemeinem pharmakologischem Wissen und den Titeln der zitierten Literatur.
+Moclobemid hemmt das Enzym Monoaminoxidase A reversibel. Dadurch wird der Abbau von Serotonin, Noradrenalin und Dopamin vermindert und die Signalübertragung dieser Botenstoffe verstärkt. Laut ChEMBL (EMBL-EBI) ist für Moclobemidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Monoaminoxidase-A-Hemmer“ Englischer Originalwortlaut: "Monoamine oxidase A inhibitor" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Agoraphobie tritt klinisch oft zusammen mit einer Panikstörung auf. Dieselben Botenstoffsysteme spielen bei Panikstörung und sozialer Angst eine Rolle. Studien zur Panikstörung sind deshalb der naheliegendste Ersatzbefund.
 
@@ -111,6 +111,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Studien oder Auswertungen, die Agoraphobie als eigenständige Erkrankung untersuchen (auch Teilgruppen aus den vorhandenen Panikstörungs-Studien).
 - Auswertung der Fachinformation von Swissmedic zu Warnhinweisen, Gegenanzeigen und Wechselwirkungen.
 - Ergänzung der Angaben zum Wirkmechanismus aus einer pharmakologischen Datenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

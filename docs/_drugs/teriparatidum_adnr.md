@@ -61,7 +61,7 @@ Teriparatid ist ein rekombinantes Parathormon-Fragment, das in der Schweiz mehrf
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus allgemeinem pharmakologischem Wissen wirkt Teriparatid über den PTH1-Rezeptor (PTH1R) und fördert den Knochenaufbau.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Teriparatidum Adnr (inoffizielle Übersetzung): „Das endogene, aus 84 Aminosäuren bestehende Parathormon (PTH) ist der primäre Regulator des Calcium- und Phosphatstoffwechsels in Knochen und Niere. Zu den physiologischen Wirkungen von PTH gehören die Regulation des Knochenstoffwechsels, die renale tubuläre Rückresorption von Calcium und Phosphat sowie die intestinale Calciumresorption. […] Die biologischen Wirkungen von PTH und Teriparatid werden über die Bindung an spezifische hochaffine Zelloberflächenrezeptoren vermittelt.“ Englischer Originalwortlaut: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), Fassung vom 2026-08-31; abgerufen am 2026-11-19). Aus allgemeinem pharmakologischem Wissen wirkt Teriparatid über den PTH1-Rezeptor (PTH1R) und fördert den Knochenaufbau.
 
 Ein klarer mechanistischer Zusammenhang zwischen dieser Wirkung und der Heilung der Schleimhaut im Magen-Darm-Trakt ist nicht bekannt. Die Verbindung zum Zwölffingerdarmgeschwür lässt sich deshalb derzeit nicht biologisch begründen.
 
@@ -105,6 +105,19 @@ Derzeit keine verwandte Literatur verfügbar.
 - Ein belegter biologischer Mechanismus, der PTH1R-Signalwege mit der Schleimhautheilung im Zwölffingerdarm verbindet
 - Präklinische Daten oder erste klinische Studien zu dieser Fragestellung
 - Die Sicherheitsangaben aus den Schweizer Fachinformationen (Warnhinweise und Kontraindikationen), die in den zusammengestellten Daten fehlen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

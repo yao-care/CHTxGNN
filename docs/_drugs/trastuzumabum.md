@@ -61,7 +61,7 @@ Trastuzumab ist ein Antikörper gegen HER2 und wird in der Schweiz in der Krebsb
 
 ### Warum ist diese Vorhersage plausibel?
 
-Trastuzumab bindet an den Rezeptor HER2 und hemmt damit HER2-abhängige Wachstumssignale von Tumorzellen. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Trastuzumab bindet an den Rezeptor HER2 und hemmt damit HER2-abhängige Wachstumssignale von Tumorzellen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Trastuzumabum (inoffizielle Übersetzung): „Das HER2- (oder c-erbB2-) Protoonkogen kodiert ein Transmembran-Rezeptorprotein von 185 kDa, das strukturell mit dem epidermalen Wachstumsfaktorrezeptor verwandt ist. Für Trastuzumab-Produkte wurde sowohl in In-vitro-Assays als auch an Tieren gezeigt, dass sie die Proliferation menschlicher Tumorzellen, die HER2 überexprimieren, hemmen.“ Englischer Originalwortlaut: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), Fassung vom 2026-06-26; abgerufen am 2026-11-19).
 
 Für den malignen kutanen Granularzelltumor ist eine HER2-Abhängigkeit nicht belegt. Die Verbindung zum Arzneimittel ist daher nur eine rechnerisch vorhergesagte Assoziation. Der hohe Vorhersagewert allein ist kein Wirksamkeitsnachweis.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Gezielte Literaturrecherche zu HER2 beim Granularzelltumor
 - Die Sicherheitsangaben der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
 - Daten zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

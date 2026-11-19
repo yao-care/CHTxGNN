@@ -60,7 +60,7 @@ Hexaminolevulinat wird in der Schweiz als Diagnostikum für die Fluoreszenz-Zyst
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Plausibilität ist aktuell gering. Der ursprüngliche Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor. Bekannt ist, dass Hexaminolevulinat eine Vorstufe von Protoporphyrin IX (PpIX) ist. Es wird bevorzugt von veränderten Urothelzellen aufgenommen und in PpIX umgewandelt. Unter Blaulicht fluoresziert PpIX, wodurch Tumorareale in der Blase sichtbar werden.
+Die Plausibilität ist aktuell gering. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Hexaminolevulinate (inoffizielle Übersetzung): „Hexaminolevulinat ist ein Ester der Häm-Vorstufe Aminolävulinsäure. Nach der Instillation in die Harnblase dringt Hexaminolevulinat in die Blasenschleimhaut ein und gelangt vermutlich in den Intrazellularraum der Schleimhautzellen, wo es als Vorstufe für die Bildung des photoaktiven Zwischenprodukts Protoporphyrin IX (PpIX) und anderer photoaktiver Porphyrine (PAPs) verwendet wird.“ Englischer Originalwortlaut: "Hexaminolevulinate is an ester of the heme precursor, aminolevulinic acid. After bladder instillation, hexaminolevulinate enters the bladder mucosa and is proposed to enter the intracellular space of mucosal cells where it is used as a precursor in the formation of the photoactive intermediate protoporphyrin IX (PpIX) and other photoactive porphyrins (PAPs)." ([DailyMed: Cysview (hexaminolevulinate hydrochloride) prescribing information, Photocure Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5aeed40d-6841-4adf-8940-f51d439fdfa3), Fassung vom 2026-06-03; abgerufen am 2026-11-19). Bekannt ist, dass Hexaminolevulinat eine Vorstufe von Protoporphyrin IX (PpIX) ist. Es wird bevorzugt von veränderten Urothelzellen aufgenommen und in PpIX umgewandelt. Unter Blaulicht fluoresziert PpIX, wodurch Tumorareale in der Blase sichtbar werden.
 
 Zwischen der ursprünglichen Anwendung (Darstellung von Blasentumoren) und Bronchitis (entzündliche oder infektiöse Erkrankung der Atemwege) lässt sich aus den vorliegenden Daten keine sinnvolle Verbindung herleiten. Denkbar wäre allenfalls ein photodynamischer antimikrobieller Effekt. Das ist jedoch spekulativ, durch keine Daten gestützt und für ein in die Blase eingebrachtes Diagnostikum kaum praktikabel.
 
@@ -110,6 +110,19 @@ Für weitere Sicherheitsinformationen beachten Sie bitte die Fachinformation.
 - Systematische Literatur- und Studienrecherche zu einem möglichen Zusammenhang mit Bronchitis
 - Prüfung der Anwendungswege (Routenkompatibilität), die derzeit offen ist
 - Präklinische Hinweise auf einen photodynamischen antimikrobiellen Effekt in den Atemwegen, bevor eine weitere Verfolgung erwogen wird
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cysview (hexaminolevulinate hydrochloride) prescribing information, Photocure Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5aeed40d-6841-4adf-8940-f51d439fdfa3) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

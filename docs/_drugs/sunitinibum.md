@@ -59,7 +59,7 @@ Sunitinib ist ein Zytostatikum aus der Gruppe der Tyrosinkinase-Hemmer und in de
 
 ### Warum ist diese Vorhersage plausibel?
 
-Sunitinib hemmt mehrere Rezeptor-Tyrosinkinasen, darunter VEGFR, PDGFR, KIT, FLT3 und RET. Eine ausführliche Beschreibung des Wirkmechanismus liegt in den zusammengestellten Daten nicht vor; die genannten Zielstrukturen stammen aus der mechanistischen Einschätzung zur Vorhersage.
+Sunitinib hemmt mehrere Rezeptor-Tyrosinkinasen, darunter VEGFR, PDGFR, KIT, FLT3 und RET. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Sunitinibum (inoffizielle Übersetzung): „Sunitinib ist ein kleines Molekül, das mehrere Rezeptor-Tyrosinkinasen (RTKs) hemmt, von denen einige an Tumorwachstum, pathologischer Angiogenese und metastatischer Progression von Krebs beteiligt sind.“ Englischer Originalwortlaut: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), Fassung vom 2026-02-20; abgerufen am 2026-11-19).
 
 Die Signalwege von Angiogenese und PDGFR/VEGFR tragen zum Wachstum von Weichteilsarkomen bei. Das liefert eine nachvollziehbare Begründung, Sunitinib auch beim Liposarkom zu prüfen.
 
@@ -130,6 +130,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
 - Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Sicherheitsprüfung, einschliesslich Überwachung (u. a. Blutbild, Leber- und Nierenfunktion)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

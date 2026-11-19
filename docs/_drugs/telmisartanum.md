@@ -59,7 +59,7 @@ Telmisartan ist in der Schweiz als blutdrucksenkendes Arzneimittel im Handel. Di
 
 ### Warum ist diese Vorhersage plausibel?
 
-Telmisartan blockiert den Angiotensin-II-Typ-1-Rezeptor und wirkt zusätzlich als partieller Agonist am PPARγ-Rezeptor. Zu den Wirkmechanismen liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor; die genannten Eigenschaften sind aus allgemeinem Fachwissen und der Modellbegründung abgeleitet.
+Telmisartan blockiert den Angiotensin-II-Typ-1-Rezeptor und wirkt zusätzlich als partieller Agonist am PPARγ-Rezeptor. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Telmisartanum (inoffizielle Übersetzung): „Angiotensin II wird aus Angiotensin I in einer durch das Angiotensin-Converting-Enzyme (ACE, Kininase II) katalysierten Reaktion gebildet. Angiotensin II ist die wichtigste blutdrucksteigernde Substanz des Renin-Angiotensin-Systems; zu seinen Wirkungen gehören Vasokonstriktion, Stimulation der Synthese und Freisetzung von Aldosteron, Stimulation des Herzens sowie renale Rückresorption von Natrium. […] Telmisartan blockiert die vasokonstriktorischen und aldosteronsezernierenden Wirkungen von Angiotensin II, indem es selektiv die Bindung von Angiotensin II an den AT 1 -Rezeptor in vielen Geweben, wie der glatten Gefäßmuskulatur und der Nebenniere, blockiert.“ Englischer Originalwortlaut: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), Fassung vom 2026-11-02; abgerufen am 2026-11-19).
 
 Eine Verbesserung der Gefässinnenwand-Funktion (Endothelfunktion) durch diese beiden Mechanismen ist denkbar und könnte für die Prinzmetal-Angina relevant sein. Die Erkrankung wird jedoch hauptsächlich durch eine Überempfindlichkeit der glatten Muskulatur der Herzkranzgefässe verursacht. Ein Zusammenhang mit Telmisartan ist daher nicht belegt und bleibt Hypothese.
 
@@ -88,6 +88,19 @@ Eine Verbesserung der Gefässinnenwand-Funktion (Endothelfunktion) durch diese b
 - Präklinische oder klinische Daten, die Telmisartan bei koronarer Vasospasmus direkt untersuchen
 - Prüfung der Fachinformation auf Warnhinweise und Kontraindikationen, da für diesen Bericht keine Sicherheitsdaten vorliegen
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

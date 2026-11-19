@@ -63,7 +63,7 @@ Zum Evidenzniveau: Die einzige direkte Studie ist eine einarmige, noch nicht abg
 
 ### Warum ist diese Vorhersage plausibel?
 
-Everolimus hemmt den Proteinkomplex mTORC1. Dieser steuert Zellwachstum und Zellteilung. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Everolimus hemmt den Proteinkomplex mTORC1. Dieser steuert Zellwachstum und Zellteilung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Everolimusum (inoffizielle Übersetzung): „Everolimus hemmt die durch Antigene und Interleukine (IL-2 und IL-15) stimulierte Aktivierung und Proliferation von T- und B-Lymphozyten. In Zellen bindet Everolimus an ein zytoplasmatisches Protein, das FK506-bindende Protein-12 (FKBP-12), und bildet einen immunsuppressiven Komplex (Everolimus: FKBP-12), der an das mammalian Target of Rapamycin (mTOR), eine wichtige regulatorische Kinase, bindet und dieses hemmt.“ Englischer Originalwortlaut: "Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase." ([DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a), Fassung vom 2026-09-16; abgerufen am 2026-11-19).
 
 Das dedifferenzierte Liposarkom wird typischerweise durch Genamplifikationen von MDM2 und CDK4 getrieben. Der PI3K/AKT/mTOR-Signalweg ist dabei häufig zusätzlich aktiviert. Everolimus könnte daher an einem Signalweg ansetzen, der das Tumorwachstum mitträgt.
 
@@ -123,6 +123,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Hinweise, ob Everolimus allein oder in anderen Kombinationen beim Liposarkom Wirkung zeigt, idealerweise aus randomisierten Studien.
 - Die Warnhinweise, Kontraindikationen und Wechselwirkungen aus der Swissmedic-Fachinformation.
 - Eine Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank, um die mechanistische Begründung zu stützen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

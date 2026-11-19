@@ -59,7 +59,7 @@ Lenalidomid ist in der Schweiz als Onkologikum zugelassen. Für die vorhergesagt
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lenalidomid bindet an Cereblon, einen Teil der CRL4-E3-Ubiquitin-Ligase, und fördert den Abbau bestimmter Eiweisse, darunter IKZF1, IKZF3 und CK1alpha (CSNK1A1). Der Abbau von CK1alpha erklärt die gut belegte Wirksamkeit bei myelodysplastischen Syndromen mit del(5q). Diese Erkrankung ist eine myeloische Neoplasie, die in eine akute myeloische Leukämie (AML) übergehen kann. Die Produktinformationen enthalten keine Angaben zum Wirkmechanismus; die Beschreibung stützt sich auf die Begründung der Vorhersage.
+Lenalidomid bindet an Cereblon, einen Teil der CRL4-E3-Ubiquitin-Ligase, und fördert den Abbau bestimmter Eiweisse, darunter IKZF1, IKZF3 und CK1alpha (CSNK1A1). Der Abbau von CK1alpha erklärt die gut belegte Wirksamkeit bei myelodysplastischen Syndromen mit del(5q). Diese Erkrankung ist eine myeloische Neoplasie, die in eine akute myeloische Leukämie (AML) übergehen kann. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lenalidomidum (inoffizielle Übersetzung): „Lenalidomid ist ein Analogon von Thalidomid mit immunmodulatorischen, antiangiogenen und antineoplastischen Eigenschaften. Die zellulären Wirkungen von Lenalidomid werden über sein Zielprotein Cereblon vermittelt, einen Bestandteil eines Cullin-RING-E3-Ubiquitin-Ligase-Enzymkomplexes.“ Englischer Originalwortlaut: "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex." ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), Fassung vom 2023-03-24; abgerufen am 2026-11-19).
 
 Zusätzlich wirkt Lenalidomid auf das Immunsystem (Aktivierung von T- und NK-Zellen). Das könnte die Erhaltungstherapie nach einer Stammzelltransplantation unterstützen. Bei AML ohne del(5q) ist die Wirkung deutlich weniger einheitlich, und der klinische Nutzen ist hauptsächlich durch frühe Studien belegt.
 
@@ -144,6 +144,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen. Für Wechs
 - Abgleich der Warnhinweise und Kontraindikationen mit der Schweizer Fachinformation (Swissmedic)
 - Ergänzung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Klärung, bei welchen AML-Untergruppen (z. B. del(5q), Erhaltungstherapie nach Transplantation) ein Nutzen am wahrscheinlichsten ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

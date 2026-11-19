@@ -61,7 +61,7 @@ Ramipril ist ein Arzneimittel, das in der Schweiz mit mehreren Zulassungen im Ha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Ramipril liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist allgemein, dass Ramipril zu den ACE-Hemmern gehört und damit in das Renin-Angiotensin-System (RAS) eingreift.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ramiprilum (inoffizielle Übersetzung): „Ramipril und Ramiprilat hemmen das ACE bei Menschen und Tieren. Das Angiotensin-Converting-Enzym ist eine Peptidyl-Dipeptidase, die die Umwandlung von Angiotensin I in die vasokonstriktorische Substanz Angiotensin II katalysiert. Angiotensin II stimuliert außerdem die Aldosteronsekretion durch die Nebennierenrinde.“ Englischer Originalwortlaut: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), Fassung vom 2026-11-11; abgerufen am 2026-11-19). Bekannt ist allgemein, dass Ramipril zu den ACE-Hemmern gehört und damit in das Renin-Angiotensin-System (RAS) eingreift.
 
 Denkbar wäre, dass eine Hemmung des RAS den Umbau der Lungengefässe beeinflusst. Dieser Zusammenhang ist hier jedoch nicht belegt, sondern rein hypothetisch. Die Vorhersage stützt sich ausschliesslich auf den hohen Modellwert; Studien zur pulmonalen Hypertonie mit unklarem multifaktoriellem Mechanismus liegen nicht vor.
 
@@ -92,6 +92,19 @@ Mindestens 3 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 - Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Eine Prüfung der Darreichungsform und Dosierung für die neue Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

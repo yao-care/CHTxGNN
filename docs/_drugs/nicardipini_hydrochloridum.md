@@ -61,7 +61,7 @@ Nicardipin ist ein Calciumkanalblocker zur intravenösen Anwendung, der in der S
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Nicardipin zur Gruppe der Dihydropyridin-Calciumkanalblocker gehört und die Gefässe erweitert. Theoretisch könnte eine Gefässerweiterung im Lungenkreislauf den Druck senken.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nicardipini Hydrochloridum (inoffizielle Übersetzung): „Nicardipin hemmt den transmembranären Einstrom von Calciumionen in den Herzmuskel und die glatte Muskulatur, ohne die Calciumkonzentration im Serum zu verändern. Die Kontraktionsvorgänge des Herzmuskels und der glatten Gefäßmuskulatur sind von der Bewegung extrazellulärer Calciumionen durch spezifische Ionenkanäle in diese Zellen abhängig.“ Englischer Originalwortlaut: "Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels." ([DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d), Fassung vom 2026-07-31; abgerufen am 2026-11-19). Bekannt ist, dass Nicardipin zur Gruppe der Dihydropyridin-Calciumkanalblocker gehört und die Gefässe erweitert. Theoretisch könnte eine Gefässerweiterung im Lungenkreislauf den Druck senken.
 
 Bei Lungenerkrankungen oder Sauerstoffmangel ist dieser Ansatz jedoch problematisch. Gefässerweiternde Mittel können die hypoxische pulmonale Vasokonstriktion hemmen. Diese Reaktion lenkt das Blut normalerweise in gut belüftete Lungenbereiche. Fällt sie weg, verschlechtert sich das Verhältnis von Belüftung zu Durchblutung, und der Sauerstoffgehalt im Blut kann sinken.
 
@@ -112,6 +112,19 @@ Aus der Literatur ergibt sich ein Warnsignal: Bei Patienten mit Lungenerkrankung
 - Gezielte klinische oder präklinische Daten zu Nicardipin bei pulmonaler Hypertonie infolge Lungenerkrankung oder Hypoxie, insbesondere zur Sicherheit für den Gasaustausch
 - Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

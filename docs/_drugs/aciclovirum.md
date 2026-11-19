@@ -59,7 +59,7 @@ Aciclovir ist ein antivirales Arzneimittel, das in der Schweiz in mehreren Darre
 
 ### Warum ist diese Vorhersage plausibel?
 
-Aciclovir wird in virusinfizierten Zellen durch die virale Thymidinkinase aktiviert und hemmt anschliessend die virale DNA-Polymerase. Es wirkt deshalb vor allem gegen Herpesviren. Für den Wirkmechanismus liegen in den hier zusammengestellten Daten keine weiteren Angaben vor.
+Aciclovir wird in virusinfizierten Zellen durch die virale Thymidinkinase aktiviert und hemmt anschliessend die virale DNA-Polymerase. Es wirkt deshalb vor allem gegen Herpesviren. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Aciclovirum (inoffizielle Übersetzung): „Aciclovir ist ein synthetisches Purin-Nukleosidanalogon mit hemmender Aktivität in vitro und in vivo gegen Herpes-simplex-Virus Typ 1 (HSV-1) und Typ 2 (HSV-2) sowie gegen das Varizella-Zoster-Virus (VZV). Die hemmende Aktivität von Aciclovir ist aufgrund seiner Affinität zu dem von HSV und VZV kodierten Enzym Thymidinkinase (TK) hochselektiv.“ Englischer Originalwortlaut: "Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV." ([DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4), Fassung vom 2026-06-26; abgerufen am 2026-11-19).
 
 Eine Verbindung zur vorhergesagten Erkrankung wäre nur denkbar, wenn die Keratokonjunktivitis durch Herpesviren verursacht wird. Aciclovir-Augensalben sind in der Schweiz bereits für Herpesinfektionen des Auges zugelassen. Das allein belegt aber keinen Nutzen bei der punktförmigen epithelialen Keratokonjunktivitis.
 
@@ -114,6 +114,19 @@ Derzeit keine verwandten klinischen Studien registriert
 - Klärung, ob und in welchem Anteil die Erkrankung herpesvirusbedingt ist
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 - Sicherheitsinformationen aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen liegen derzeit nicht vor)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

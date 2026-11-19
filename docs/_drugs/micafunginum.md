@@ -65,7 +65,7 @@ Micafungin hemmt die 1,3-beta-D-Glucan-Synthase und stört dadurch den Aufbau de
 
 Traditionell gelten Echinocandine bei Infektionen der Harnwege als wenig geeignet, weil nur geringe Mengen des Wirkstoffs über den Urin ausgeschieden werden. Eine pharmakokinetische Arbeit (PMID 27424599) berichtet jedoch, dass die Micafungin-Konzentrationen im Urin zur Behandlung von Candida-Harnwegsinfektionen ausreichen können. Dies entschärft den klassischen Einwand teilweise. Mehrere Fallberichte beschreiben zudem erfolgreiche Behandlungen bei fluconazol-resistenten Candida-Arten, etwa *C. glabrata* und *C. krusei*.
 
-Die Belege stammen jedoch aus Einzelfällen und kleinen retrospektiven Auswertungen. Zudem ist nicht jeder Candida-Nachweis im Urin behandlungsbedürftig. Ein Wirksamkeitsnachweis für Micafungin bei Harnwegsinfektionen steht daher aus. Die Angaben zum Wirkmechanismus stammen aus der Begründung zur Vorhersage; eine separate Mechanismusangabe aus den Arzneimitteldaten liegt nicht vor.
+Die Belege stammen jedoch aus Einzelfällen und kleinen retrospektiven Auswertungen. Zudem ist nicht jeder Candida-Nachweis im Urin behandlungsbedürftig. Ein Wirksamkeitsnachweis für Micafungin bei Harnwegsinfektionen steht daher aus. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Micafunginum (inoffizielle Übersetzung): „Micafungin gehört zur Klasse der Echinocandine unter den Antimykotika. […] Micafungin hemmt die Synthese von 1,3-beta-D-Glucan, einem essenziellen Bestandteil der Pilzzellwand, der in Säugetierzellen nicht vorkommt. Aktivität in Tiermodellen der Candidiasis Die Aktivität von Micafungin wurde sowohl in mukosalen als auch in disseminierten Candidiasis-Modellen an Maus und Kaninchen nachgewiesen.“ Englischer Originalwortlaut: "Micafungin is a member of the echinocandin class of antifungal agents. […] Micafungin inhibits the synthesis of 1,3-beta-D-glucan, an essential component of fungal cell walls, which is not present in mammalian cells. Activity in Animal Models of Candidiasis Activity of micafungin has been demonstrated in both mucosal and disseminated murine and rabbit models of candidiasis." ([DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee), Fassung vom 2025-11-08; abgerufen am 2026-11-19).
 
 ---
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Weitere Daten zu Urinkonzentrationen und zur Dosierung, insbesondere bei Infektionen der unteren Harnwege
 - Klare Abgrenzung der Zielgruppe (symptomatische Infektion, azol-resistente Erreger, Risikopatienten)
 - Prüfung von Wechselwirkungen und Verträglichkeit in der vorgesehenen Patientengruppe
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Dacarbazin ist ein alkylierendes Zytostatikum, das in der Schweiz im Handel ist.
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dacarbazin wirkt als alkylierende, DNA-methylierende Substanz. Es ist ein Prodrug, das in der Leber zum aktiven Metaboliten MTIC umgewandelt wird. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Diese Beschreibung beruht daher auf allgemeinem Wissen über den Wirkstoff.
+Dacarbazin wirkt als alkylierende, DNA-methylierende Substanz. Es ist ein Prodrug, das in der Leber zum aktiven Metaboliten MTIC umgewandelt wird. Laut ChEMBL (EMBL-EBI) ist für Dacarbazinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Inhibitor“ Englischer Originalwortlaut: "DNA inhibitor" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; abgerufen am 2026-11-19). Diese Beschreibung beruht daher auf allgemeinem Wissen über den Wirkstoff.
 
 Neoplasien des oberen Aerodigestivtrakts sind eine uneinheitliche Gruppe. Am plausibelsten ist eine Verbindung über Tumorarten, die in dieser Region vorkommen und bekanntermassen auf Dacarbazin ansprechen. Dazu zählen Schleimhautmelanome, Hodgkin-Lymphome mit Befall im Kopf-Hals-Bereich und Weichteilsarkome. Der sehr hohe Vorhersagewert spiegelt wahrscheinlich diese Nähe zu Melanom und Lymphom wider und nicht eine direkte Wirkung gegen Plattenepithelkarzinome. Diese sind die häufigste Krebsart in dieser Region.
 
@@ -119,6 +119,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Wirkmechanismus-Angaben aus einer Arzneimitteldatenbank (z. B. DrugBank).
 - Eine gezielte Literaturrecherche und Studienregistersuche zu den Untergruppen im oberen Aerodigestivtrakt, in denen Dacarbazin plausibel wirkt.
 - Eine klinische Einschätzung, ob eine dieser Untergruppen eine prospektive Prüfung rechtfertigt.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

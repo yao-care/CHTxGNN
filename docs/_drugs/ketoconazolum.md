@@ -59,7 +59,7 @@ Ketoconazol ist ein Antimykotikum, das in der Schweiz in mehreren Präparaten (S
 
 ## Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der allgemeinen Pharmakologie ist bekannt, dass Ketoconazol ein Azol-Antimykotikum ist: Es hemmt das pilzliche Enzym CYP51 (Lanosterol-14-alpha-Demethylase) und zusätzlich menschliche Enzyme der Steroidsynthese (CYP17A1, CYP11A1). Dadurch kann die Androgenbildung sinken, was die Talgproduktion und androgenabhängige Akne, etwa bei polyzystischem Ovarsyndrom (PCOS), günstig beeinflussen könnte.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ketoconazolum (inoffizielle Übersetzung): „Ketoconazol blockiert die Synthese von Ergosterol, einem Hauptbestandteil der Pilzzellmembran, durch Hemmung des Cytochrom-P-450-abhängigen Enzyms Lanosterol-14α-Demethylase, das für die Umwandlung von Lanosterol in Ergosterol in der Pilzzellmembran verantwortlich ist. Dies führt zu einer Akkumulation methylierter Sterolvorstufen und zu einer Verarmung an Ergosterol in der Zellmembran, wodurch Struktur und Funktion der Pilzzellmembran geschwächt werden.“ Englischer Originalwortlaut: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), Fassung vom 2025-11-18; abgerufen am 2026-11-19). Aus der allgemeinen Pharmakologie ist bekannt, dass Ketoconazol ein Azol-Antimykotikum ist: Es hemmt das pilzliche Enzym CYP51 (Lanosterol-14-alpha-Demethylase) und zusätzlich menschliche Enzyme der Steroidsynthese (CYP17A1, CYP11A1). Dadurch kann die Androgenbildung sinken, was die Talgproduktion und androgenabhängige Akne, etwa bei polyzystischem Ovarsyndrom (PCOS), günstig beeinflussen könnte.
 
 Bei topischer Anwendung könnte Ketoconazol zudem die Besiedlung mit Malassezia-Hefen und damit Entzündungen in Haarfollikeln und seborrhoischer Haut verringern. Eine Laborstudie (PMID 28111792) zeigt, dass Ketoconazol die Lipaseaktivität von *Cutibacterium (Propionibacterium) acnes* hemmt und dessen Wachstum bremst. Das ist ein plausibler entzündungshemmender Weg.
 
@@ -114,6 +114,19 @@ Der hohe TxGNN-Vorhersagewert ist ein rein rechnerisches Signal und belegt keine
 - Placebokontrollierte, ausreichend grosse Studien bei Akne
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Bestätigung des Wirkmechanismus (z. B. aus DrugBank)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

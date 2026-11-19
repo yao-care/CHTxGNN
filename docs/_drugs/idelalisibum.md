@@ -61,7 +61,7 @@ Idelalisib ist ein in der Schweiz im Handel befindliches Onkologikum. Für das M
 
 ### Warum ist diese Vorhersage plausibel?
 
-Idelalisib hemmt selektiv die PI3K-delta-Isoform. Diese liegt im B-Zell-Rezeptor-Signalweg und treibt Überleben und Wachstum von B-Zell-Lymphomzellen an. Für das Arzneimittel liegt in den zusammengestellten Daten keine Angabe zum Wirkmechanismus vor; die Beschreibung stützt sich auf die Literatur.
+Idelalisib hemmt selektiv die PI3K-delta-Isoform. Diese liegt im B-Zell-Rezeptor-Signalweg und treibt Überleben und Wachstum von B-Zell-Lymphomzellen an. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Idelalisibum (inoffizielle Übersetzung): „Idelalisib ist ein Inhibitor der Phosphatidylinositol-3-Kinase PI3Kδ, die in normalen und malignen B-Zellen exprimiert wird. Idelalisib induzierte Apoptose und hemmte die Proliferation in Zelllinien, die von malignen B-Zellen abgeleitet waren, sowie in primären Tumorzellen.“ Englischer Originalwortlaut: "Idelalisib is an inhibitor of phosphatidylinositol 3-kinase, PI3Kδ, which is expressed in normal and malignant B-cells. Idelalisib induced apoptosis and inhibited proliferation in cell lines derived from malignant B-cells and in primary tumor cells." ([DailyMed: Zydelig (idelalisib) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efbdafa9-d18c-4e85-b4a2-1e620fc74e50), Fassung vom 2026-09-10; abgerufen am 2026-11-19).
 
 Das Mantelzelllymphom ist ein B-Zell-Lymphom, bei dem der PI3K-Signalweg zur Krankheitsentstehung beiträgt. Laborarbeiten zeigen, dass Idelalisib Translationsmechanismen in Mantelzelllymphomzellen hemmt und mit P300/CBP-Hemmern sowie CDK4/6-Hemmern zusammenwirkt. Eine Phase-1-Studie bei 40 Patienten mit rezidiviertem oder refraktärem Mantelzelllymphom (Kahl et al., Blood 2014) und ein Kommentar in Cancer Discovery berichten über Aktivität bei stark vorbehandelten Patienten.
 
@@ -136,6 +136,19 @@ Die Fachinformation lag für diesen Bericht nicht vor. Bitte beachten Sie sie f�
 - Fachinformation von Swissmedic mit Warnungen und Kontraindikationen
 - Klärung der Nutzen-Risiko-Abwägung gegenüber etablierten Therapien (z. B. BTK-Inhibitoren)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zydelig (idelalisib) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efbdafa9-d18c-4e85-b4a2-1e620fc74e50) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

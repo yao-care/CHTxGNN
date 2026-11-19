@@ -61,7 +61,7 @@ Piroxicam ist ein nichtsteroidales Antirheumatikum (NSAR), das Entzündungen und
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus sind in den lokalen Daten keine Angaben hinterlegt. Piroxicam gehört jedoch zur Klasse der nichtselektiven COX-1/COX-2-Hemmer. Es senkt die Bildung von Prostaglandinen und damit Entzündung und Schmerz.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Piroxicamum (inoffizielle Übersetzung): „Piroxicam besitzt analgetische, entzündungshemmende und fiebersenkende Eigenschaften. Der Wirkmechanismus von Piroxicam Kapseln ist, wie der anderer NSAR, nicht vollständig geklärt, beinhaltet jedoch eine Hemmung der Cyclooxygenase (COX-1 und COX-2).“ Englischer Originalwortlaut: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), Fassung vom 2026-09-29; abgerufen am 2026-11-19). Piroxicam gehört jedoch zur Klasse der nichtselektiven COX-1/COX-2-Hemmer. Es senkt die Bildung von Prostaglandinen und damit Entzündung und Schmerz.
 
 Das vorhergesagte Syndrom ist eine seltene, genetisch bedingte Entwicklungsstörung. Sie betrifft Augen und Skelett. Entzündungshemmung über die COX-Hemmung hat darauf nach heutigem Kenntnisstand keinen erkennbaren Einfluss. Ein mechanistischer Zusammenhang ist durch die vorliegenden Daten nicht gestützt.
 
@@ -100,6 +100,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Literaturrecherche zu dieser Erkrankung und zu NSAR.
 - Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen). Sie liegen derzeit nicht vor und sind für eine Sicherheitsbewertung zwingend erforderlich.
 - Die Angaben zum Wirkmechanismus aus einer externen Arzneimitteldatenbank, um die mechanistische Analyse zu ergänzen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

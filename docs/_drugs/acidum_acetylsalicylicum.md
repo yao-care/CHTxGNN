@@ -61,7 +61,7 @@ Acetylsalicylsäure ist in der Schweiz als Schmerz- und Fiebermittel sowie als T
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Acetylsalicylsäure die Cyclooxygenase hemmt und dadurch die Bildung von Prostaglandinen und Thromboxan A2 senkt. Das erklärt die schmerzlindernde, fiebersenkende und plättchenhemmende Wirkung.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für aspirin and extended - release dipyridamole (Kombinationspräparat mit Acidum Acetylsalicylicum) (inoffizielle Übersetzung): „Acetylsalicylsäure Acetylsalicylsäure hemmt die Thrombozytenaggregation durch irreversible Hemmung der thrombozytären Cyclooxygenase und hemmt somit die Bildung von Thromboxan A 2, einem starken Induktor der Thrombozytenaggregation und Vasokonstriktion.“ Englischer Originalwortlaut: "Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction." ([DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1), Fassung vom 2026-08-19; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Acetylsalicylsäure die Cyclooxygenase hemmt und dadurch die Bildung von Prostaglandinen und Thromboxan A2 senkt. Das erklärt die schmerzlindernde, fiebersenkende und plättchenhemmende Wirkung.
 
 Ein nachvollziehbarer Zusammenhang zwischen diesem Mechanismus und der atrophoderma vermiculata, einer seltenen follikulären, atrophischen Hauterkrankung, ist aus den vorliegenden Daten nicht erkennbar. Die hohe Punktzahl ist ein rechnerisches Ergebnis. Sie könnte eher auf Ähnlichkeiten im Netzwerk mit verwandten Hauterkrankungen zurückgehen als auf einen echten therapeutischen Mechanismus.
 
@@ -114,6 +114,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine gezielte Literaturrecherche und präklinische Hinweise zu Acetylsalicylsäure bei atrophoderma vermiculata
 - Eine nachvollziehbare mechanistische Begründung (Wirkmechanismus aus einer verlässlichen Quelle ergänzen)
 - Die Warnhinweise und Kontraindikationen aus den Fachinformationen von Swissmedic
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

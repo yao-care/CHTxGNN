@@ -61,7 +61,7 @@ Fluvastatin ist ein Statin, das zur Senkung erhöhter Blutfettwerte eingesetzt w
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Fluvastatin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Statins das Enzym HMG-CoA-Reduktase hemmen und so die Cholesterinbildung senken.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Fluvastatinum (inoffizielle Übersetzung): „Fluvastatin ist ein kompetitiver Inhibitor der HMG-CoA-Reduktase, des geschwindigkeitsbestimmenden Enzyms, das 3-Hydroxy-3-methylglutaryl-Coenzym A (HMG-CoA) in Mevalonat, eine Vorstufe des Cholesterins, umwandelt.“ Englischer Originalwortlaut: "Fluvastatin is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of cholesterol." ([DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310), Fassung vom 2024-01-31; abgerufen am 2026-11-19). Bekannt ist, dass Statins das Enzym HMG-CoA-Reduktase hemmen und so die Cholesterinbildung senken.
 
 Bei HIV-Patienten treten unter Proteasehemmern häufig Fettstoffwechselstörungen auf. Fluvastatin wurde in diesem Zusammenhang untersucht. Es wird hauptsächlich über CYP2C9 und nicht über CYP3A4 abgebaut und hat deshalb ein geringeres Wechselwirkungsrisiko mit Proteasehemmern als andere Statine.
 
@@ -109,6 +109,19 @@ Keine der Publikationen untersucht Fluvastatin als direkte HIV-Therapie. Sie bet
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Prüfung von Design und Phase der genannten Studien anhand der Volltexte
 - Klärung, ob ein antiviraler oder immunmodulierender Nutzen bei HIV überhaupt untersucht werden soll, oder ob die Anwendung auf Fettstoffwechselstörungen beschränkt bleibt
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

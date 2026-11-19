@@ -61,7 +61,7 @@ Mercaptopurin ist ein zytostatisch wirkender Purin-Antimetabolit und in der Schw
 
 ## Warum ist diese Vorhersage plausibel?
 
-Mercaptopurin ist ein Purin-Antimetabolit. Das Enzym HGPRT wandelt es zunächst in Thioinosinmonophosphat und dann in Thioguaninnukleotide um. Diese werden in DNA und RNA eingebaut und hemmen zusätzlich die De-novo-Purinsynthese. Die Daten enthalten keine Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank. Die Beschreibung stützt sich auf die Mechanismusanalyse zur Vorhersage.
+Mercaptopurin ist ein Purin-Antimetabolit. Das Enzym HGPRT wandelt es zunächst in Thioinosinmonophosphat und dann in Thioguaninnukleotide um. Diese werden in DNA und RNA eingebaut und hemmen zusätzlich die De-novo-Purinsynthese. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Mercaptopurinum Monohydricum (inoffizielle Übersetzung): „Mercaptopurin ist ein Purinanalogon, das intrazellulär transportiert und aktiviert wird und dabei Metaboliten einschließlich Thioguaninnukleotiden (TGN) bildet. Der Einbau von TGN in DNA oder RNA führt zu Zellzyklusarrest und Zelltod.“ Englischer Originalwortlaut: "Mercaptopurine is a purine analog that undergoes intracellular transport and activation to form metabolites including thioguanine nucleotides (TGNs). Incorporation of TGNs into DNA or RNA results in cell-cycle arrest and cell death." ([DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15), Fassung vom 2026-07-22; abgerufen am 2026-11-19). Die Beschreibung stützt sich auf die Mechanismusanalyse zur Vorhersage.
 
 Ein solcher Mechanismus trifft besonders schnell teilende Zellen, zu denen auch myeloische Blasten gehören. Leukämische Erkrankungen des Blutsystems sind daher ein nachvollziehbares Anwendungsfeld.
 
@@ -148,6 +148,19 @@ Die Literatur nennt als wichtigste Risiken eine schwere Knochenmarksuppression b
 - Sicherheitsangaben aus der Fachinformation (Warnungen, Kontraindikationen, Wechselwirkungen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Ein Konzept für TPMT-/NUDT15-Testung und Dosisanpassung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

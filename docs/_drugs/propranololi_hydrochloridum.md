@@ -59,7 +59,7 @@ Propranolol ist ein Betablocker, der in der Schweiz im Handel ist. Die Berechnun
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Propranolol ist laut Zulassung ein Betablocker, also ein Wirkstoff, der Beta-Adrenorezeptoren hemmt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Propranololi Hydrochloridum (inoffizielle Übersetzung): „Der Mechanismus der antihypertensiven Wirkung von Propranolol ist nicht geklärt. Zu den Faktoren, die zur antihypertensiven Wirkung beitragen, gehören: verringertes Herzzeitvolumen, Hemmung der Reninfreisetzung durch die Nieren und Verminderung des tonischen sympathischen Nervenausstroms aus den vasomotorischen Zentren im Gehirn.“ Englischer Originalwortlaut: "The mechanism of the antihypertensive effect of propranolol has not been established. Among factors that contribute to the antihypertensive action are: decreased cardiac output, inhibition of renin release by the kidneys, and diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain." ([DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade), Fassung vom 2026-08-27; abgerufen am 2026-11-19). Propranolol ist laut Zulassung ein Betablocker, also ein Wirkstoff, der Beta-Adrenorezeptoren hemmt.
 
 Ein Zusammenhang zwischen dieser Wirkung und der distalen Myopathie, Typ Tateyama, einer seltenen erblichen Muskelerkrankung, ist nicht belegt. Es ist kein biologischer Weg bekannt, der die Betablockade mit dem Krankheitsgeschehen verbindet. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis und kein Hinweis auf eine nachgewiesene Wirkung.
 
@@ -100,6 +100,19 @@ Derzeit keine verwandte Literatur verfügbar
 - Ein plausibler biologischer Zusammenhang zwischen Betablockade und der Krankheit, zum Beispiel aus präklinischen Untersuchungen
 - Die Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Die Sicherheitsangaben (Warnhinweise, Gegenanzeigen) aus der Schweizer Fachinformation, die in den vorliegenden Daten fehlen und vor einer Sicherheitsbewertung nötig sind
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

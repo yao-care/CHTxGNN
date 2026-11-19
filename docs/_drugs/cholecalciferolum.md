@@ -61,7 +61,7 @@ Cholecalciferol (Vitamin D3) ist in der Schweiz als Vitamin-D-Präparat im Hande
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Cholecalciferol liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Vitamin D3 im Körper zu Calcitriol umgewandelt wird. Dieses Hormon steuert die Aufnahme von Calcium und Phosphat und damit die Knochenmineralisierung.
+Laut ChEMBL (EMBL-EBI) ist für Cholecalciferolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Vitamin-D-Rezeptor-Agonist“ Englischer Originalwortlaut: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Vitamin D3 im Körper zu Calcitriol umgewandelt wird. Dieses Hormon steuert die Aufnahme von Calcium und Phosphat und damit die Knochenmineralisierung.
 
 Das Rechenmodell hat die Verbindung vermutlich über den Bezug zum Skelett hergestellt. Ein belegter Zusammenhang mit der Krankheitsentstehung besteht nicht. Die Akromesomele Dysplasie ist eine seltene, genetisch bedingte Störung des Skelettwachstums. Es ist unwahrscheinlich, dass eine Vitamin-D3-Gabe ihre Ursache beeinflusst. Der hohe Vorhersagewert zeigt nur, dass das Modell eine Ähnlichkeit in den Daten erkannt hat. Er ist kein Hinweis auf eine tatsächliche Wirksamkeit.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare mechanistische Begründung, wie Vitamin D3 die Krankheitsursache beeinflussen könnte.
 - Die Wirkmechanismus-Angaben zum Arzneimittel.
 - Die Sicherheitsangaben (Warnhinweise und Kontraindikationen) aus der Swissmedic-Fachinformation, die für eine Sicherheitsbewertung noch fehlen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

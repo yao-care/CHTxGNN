@@ -59,7 +59,7 @@ Vortioxetin ist in der Schweiz als Antidepressivum zugelassen. Für die vorherge
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus allgemeinem pharmakologischem Wissen ist Vortioxetin ein multimodal wirkender serotonerger Wirkstoff: Er hemmt den Serotonin-Transporter, wirkt als Agonist am 5-HT1A-Rezeptor, als partieller Agonist am 5-HT1B-Rezeptor und als Antagonist an 5-HT3-, 5-HT7- und 5-HT1D-Rezeptoren. Dieser Mechanismus ist für depressive und angstnahe Erkrankungen plausibel.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Vortioxetinum (inoffizielle Übersetzung): „Der Mechanismus der antidepressiven Wirkung von Vortioxetin ist nicht vollständig geklärt, es wird jedoch angenommen, dass er mit der Verstärkung der serotonergen Aktivität im ZNS durch Hemmung der Wiederaufnahme von Serotonin (5-HT) zusammenhängt. Es besitzt außerdem mehrere weitere Wirkungen, darunter einen Antagonismus am 5-HT3-Rezeptor und einen Agonismus am 5-HT1A-Rezeptor.“ Englischer Originalwortlaut: "The mechanism of the antidepressant effect of vortioxetine is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through inhibition of the reuptake of serotonin (5-HT). It also has several other activities including 5-HT3 receptor antagonism and 5-HT1A receptor agonism." ([DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e), Fassung vom 2026-04-23; abgerufen am 2026-11-19). Aus allgemeinem pharmakologischem Wissen ist Vortioxetin ein multimodal wirkender serotonerger Wirkstoff: Er hemmt den Serotonin-Transporter, wirkt als Agonist am 5-HT1A-Rezeptor, als partieller Agonist am 5-HT1B-Rezeptor und als Antagonist an 5-HT3-, 5-HT7- und 5-HT1D-Rezeptoren. Dieser Mechanismus ist für depressive und angstnahe Erkrankungen plausibel.
 
 «Neurotische Störung» ist ein veralteter Sammelbegriff, der historisch depressive und Angstzustände umfasste. Dadurch ist eine inhaltliche Nähe zu einem Antidepressivum nachvollziehbar. Besser abgegrenzte Zielerkrankungen wie die generalisierte Angststörung wären für eine weitere Prüfung jedoch geeigneter.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Sicherheitsinformationen (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus DrugBank
 - Klinische Daten zu klar definierten Zielerkrankungen (z. B. generalisierte Angststörung) statt des veralteten Sammelbegriffs «neurotische Störung»
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

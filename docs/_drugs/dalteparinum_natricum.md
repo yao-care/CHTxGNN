@@ -61,7 +61,7 @@ Dalteparin-Natrium ist ein niedermolekulares Heparin, das in der Schweiz als Ant
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Dalteparin liegen in den vorliegenden Daten keine Angaben vor. Allgemein bekannt ist, dass niedermolekulare Heparine das Antithrombin verstärken und den Gerinnungsfaktor Xa hemmen. Dadurch wird die Blutgerinnung gebremst.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dalteparinum Natricum (inoffizielle Übersetzung): „Dalteparin ist ein niedermolekulares Heparin mit antithrombotischen Eigenschaften. Es wirkt, indem es die Hemmung von Faktor Xa und Thrombin durch Antithrombin verstärkt. Beim Menschen potenziert Dalteparin bevorzugt die Hemmung des Gerinnungsfaktors Xa, während es die aktivierte partielle Thromboplastinzeit (APTT) nur geringfügig beeinflusst.“ Englischer Originalwortlaut: "Dalteparin is a low molecular weight heparin with antithrombotic properties. It acts by enhancing the inhibition of Factor Xa and thrombin by antithrombin. In humans, dalteparin potentiates preferentially the inhibition of coagulation Factor Xa, while only slightly affecting the activated partial thromboplastin time (APTT)." ([DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7), Fassung vom 2025-09-30; abgerufen am 2026-11-19). Allgemein bekannt ist, dass niedermolekulare Heparine das Antithrombin verstärken und den Gerinnungsfaktor Xa hemmen. Dadurch wird die Blutgerinnung gebremst.
 
 Beim schweren, autosomal-rezessiven Protein-C-Mangel fehlt ein wichtiger natürlicher Gerinnungshemmer. Es besteht deshalb eine ausgeprägte Neigung zu Thrombosen. Ein Gerinnungshemmer wie Dalteparin könnte hier biologisch sinnvoll sein, um Gerinnsel zu verhindern.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus DrugBank
 - Literaturrecherche und Prüfung klinischer Daten zur Anwendung von Dalteparin bei Protein-C-Mangel
 - Klärung der Anwendungsweg-Kompatibilität und der Rolle von Dalteparin im Vergleich zur Standardtherapie
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

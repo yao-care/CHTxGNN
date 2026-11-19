@@ -61,7 +61,7 @@ Carbamazepin ist in der Schweiz als Antiepileptikum zugelassen. Für die Vorhers
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Carbamazepin sind in den zusammengestellten Daten keine Angaben hinterlegt. Allgemein bekannt ist, dass der Wirkstoff spannungsabhängige Natriumkanäle blockiert und bei der Trigeminusneuralgie zur Standardbehandlung gehört.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Carbamazepinum (inoffizielle Übersetzung): „Tegretol hat bei Ratten und Mäusen mit elektrisch und chemisch induzierten Krampfanfällen antikonvulsive Eigenschaften gezeigt. Es scheint zu wirken, indem es polysynaptische Antworten reduziert und die posttetanische Potenzierung blockiert. […] Der Hauptmetabolit von Tegretol, Carbamazepin-10,11-epoxid, besitzt antikonvulsive Aktivität, wie in mehreren In-vivo-Tiermodellen für Krampfanfälle gezeigt wurde.“ Englischer Originalwortlaut: "Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures." ([DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053), Fassung vom 2026-08-20; abgerufen am 2026-11-19). Allgemein bekannt ist, dass der Wirkstoff spannungsabhängige Natriumkanäle blockiert und bei der Trigeminusneuralgie zur Standardbehandlung gehört.
 
 Tumoren des Trigeminusnerven, etwa Schwannome, Meningeome oder eine Neurolymphomatose, können eine sekundäre Trigeminusneuralgie verursachen. Carbamazepin könnte in diesen Fällen den Nervenschmerz lindern. Eine tierexperimentelle Studie (PMID 3181365) zeigt zudem, dass Carbamazepin spontane ektopische Aktivität in experimentellen Neuromen hemmt.
 
@@ -118,6 +118,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Kontrollierte oder zumindest systematische klinische Daten zu Carbamazepin bei tumorbedingtem Gesichtsschmerz
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

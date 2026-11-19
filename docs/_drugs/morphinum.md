@@ -61,7 +61,7 @@ Morphin ist ein Opioid-Analgetikum, das in der Schweiz im Handel ist. Für das m
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Morphin als Agonist am μ-Opioid-Rezeptor die Weiterleitung von Schmerzsignalen dämpft. Das ist für chronische Schmerzen des Bewegungsapparats grundsätzlich nachvollziehbar.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Morphinum (inoffizielle Übersetzung): „Morphin ist ein voller Opioidagonist und relativ selektiv für den μ-Opioidrezeptor, obwohl es in höheren Dosen an andere Opioidrezeptoren binden kann. Die hauptsächliche therapeutische Wirkung von Morphin ist die Analgesie. Wie bei allen vollen Opioidagonisten gibt es bei Morphin keinen Ceiling-Effekt für die Analgesie.“ Englischer Originalwortlaut: "Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine." ([DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698), Fassung vom 2026-08-14; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Morphin als Agonist am μ-Opioid-Rezeptor die Weiterleitung von Schmerzsignalen dämpft. Das ist für chronische Schmerzen des Bewegungsapparats grundsätzlich nachvollziehbar.
 
 Die gefundene Literatur ist jedoch fast durchgehend indirekt. Sie betrifft Morphin als Zusatz bei Infiltrationen und Nervenblockaden, Opioide bei Kiefergelenkbeschwerden sowie Bewegungsprogramme, die den Opioidbedarf senken. Eine Dauertherapie mit Opioiden beim myofaszialen Schmerz ist nicht gut belegt und birgt Risiken wie Toleranz, Hyperalgesie und Abhängigkeit.
 
@@ -112,6 +112,19 @@ Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulas
 - Kontrollierte klinische Studien, die Morphin direkt beim myofaszialen Schmerzsyndrom prüfen.
 - Die Sicherheitsangaben aus der Fachinformation (Warnhinweise und Kontraindikationen), die in den Daten fehlen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

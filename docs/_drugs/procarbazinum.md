@@ -61,7 +61,7 @@ Procarbazin ist ein oral eingenommenes, DNA-alkylierendes Zytostatikum, das in d
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Procarbazin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Literatur, dass es ein oral verabreichter alkylierender Wirkstoff ist, der DNA methyliert und gegen Lymphome aktiv ist. Er wird seit Langem in Lymphom-Schemata wie MOPP eingesetzt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Procarbazinum (inoffizielle Übersetzung): „Der genaue zytotoxische Wirkmechanismus von Procarbazin ist nicht eindeutig geklärt. Nach metabolischer Aktivierung kann Procarbazin die Transmethylierung von Methylgruppen des Methionins in die Transfer-RNA (t-RNA) hemmen. Die fehlende Verfügbarkeit von t-RNA verhindert die Proteinsynthese und folglich die DNA- und RNA-Synthese.“ Englischer Originalwortlaut: "The precise mode of cytotoxic action of procarbazine has not been clearly defined. After metabolic activation, procarbazine may inhibit the transmethylation of methyl groups of methionine into transfer RNA (t-RNA). The unavailability of t-RNA prevents protein synthesis, and consequently prevents DNA and RNA synthesis." ([DailyMed: Matulane (procarbazine hydrochloride) prescribing information, Leadiant Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1aa75a3a-18c9-49e1-91a6-293d0b7da756), Fassung vom 2026-10-09; abgerufen am 2026-11-19). Bekannt ist aus der Literatur, dass es ein oral verabreichter alkylierender Wirkstoff ist, der DNA methyliert und gegen Lymphome aktiv ist. Er wird seit Langem in Lymphom-Schemata wie MOPP eingesetzt.
 
 Das follikuläre Lymphom ist ein indolentes B-Zell-Lymphom und damit eine verwandte Erkrankung. Ein Fallbericht beschreibt zwei Patienten mit rückfälligem oder therapierefraktärem follikulärem Lymphom, die unter längerer täglicher Procarbazin-Gabe eine vollständige und anhaltende Remission erreichten. Auch das niedrig dosierte orale Schema PEP-C (metronomische Therapie) wurde bei rückfälligen oder therapierefraktären Lymphomen untersucht.
 
@@ -135,6 +135,19 @@ Aus der Literatur ergeben sich zusätzliche Hinweise: Procarbazin war in Tierver
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung kann sonst nicht erfolgen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Prospektive Studien oder Registerdaten zu Procarbazin beim rückfälligen oder therapierefraktären follikulären Lymphom, z. B. in niedrig dosierten oralen Schemata
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Matulane (procarbazine hydrochloride) prescribing information, Leadiant Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1aa75a3a-18c9-49e1-91a6-293d0b7da756) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

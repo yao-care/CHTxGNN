@@ -61,7 +61,7 @@ Omeprazol ist ein Säureblocker (Protonenpumpenhemmer), der in der Schweiz im Ha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Omeprazol hemmt die Protonenpumpe der Magenschleimhaut und senkt dadurch die Säureproduktion. Zum ursprünglichen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor, was die mechanistische Einordnung einschränkt.
+Omeprazol hemmt die Protonenpumpe der Magenschleimhaut und senkt dadurch die Säureproduktion. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Omeprazolum (inoffizielle Übersetzung): „Omeprazol gehört zu einer Klasse antisekretorischer Verbindungen, den substituierten Benzimidazolen, die die Magensäuresekretion durch spezifische Hemmung des H + /K + -ATPase-Enzymsystems an der sekretorischen Oberfläche der Belegzelle des Magens unterdrücken. Da dieses Enzymsystem als die Säure-(Protonen-)Pumpe in der Magenschleimhaut gilt, wurde Omeprazol als Magensäurepumpenhemmer charakterisiert, da es den letzten Schritt der Säureproduktion blockiert.“ Englischer Originalwortlaut: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), Fassung vom 2024-03-19; abgerufen am 2026-11-19).
 
 Eine Verengung oder Verlegung des Zwölffingerdarms entsteht häufig als Folge eines Geschwürs. Eine Säurehemmung könnte das Geschwür zur Abheilung bringen und die entzündliche Schwellung verringern, die zur Einengung beiträgt.
 
@@ -118,6 +118,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Kontrollierte klinische Daten zu Omeprazol bei Duodenalobstruktion, etwa bei Verengungen durch Ulkus-Entzündung
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 - Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic, bevor eine Sicherheitsbeurteilung möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

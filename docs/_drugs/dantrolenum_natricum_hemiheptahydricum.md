@@ -61,7 +61,7 @@ Dantrolen ist in der Schweiz als Muskelrelaxans (Myotonolyticum) und zur Behandl
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dantrolen hemmt die Freisetzung von Kalzium aus dem sarkoplasmatischen Retikulum über den Ryanodin-Rezeptor Typ 1 (RyR1). Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die Beschreibung stützt sich daher auf allgemeines Hintergrundwissen.
+Dantrolen hemmt die Freisetzung von Kalzium aus dem sarkoplasmatischen Retikulum über den Ryanodin-Rezeptor Typ 1 (RyR1). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dantrolenum Natricum Hemiheptahydricum (inoffizielle Übersetzung): „In isolierten Nerv-Muskel-Präparaten wurde gezeigt, dass Dantrolen eine Relaxation bewirkt, indem es die kontraktile Reaktion des Muskels an einer Stelle jenseits der neuromuskulären Verbindung beeinflusst. Im Skelettmuskel entkoppelt Dantrolen die elektromechanische Kopplung, wahrscheinlich durch Beeinträchtigung der Freisetzung von Ca ++ aus dem sarkoplasmatischen Retikulum.“ Englischer Originalwortlaut: "In isolated nerve-muscle preparation, dantrolene has been shown to produce relaxation by affecting the contractile response of the muscle at a site beyond the myoneural junction. In skeletal muscle, dantrolene dissociates the excitation-contraction coupling, probably by interfering with the release of Ca ++ from the sarcoplasmic reticulum." ([DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698), Fassung vom 2024-10-30; abgerufen am 2026-11-19). Die Beschreibung stützt sich daher auf allgemeines Hintergrundwissen.
 
 Die Multiminicore-Erkrankung wird häufig mit Varianten im RYR1-Gen (und im SEPN1-Gen) in Verbindung gebracht. Daraus ergibt sich ein plausibler Ansatz über die Regulation des Kalziumhaushalts im Muskel. Die etablierte Rolle von Dantrolen bei RYR1-bezogenen Erkrankungen liegt jedoch bei der malignen Hyperthermie, nicht bei der Symptomkontrolle einer Myopathie.
 
@@ -92,6 +92,19 @@ Der sehr hohe Vorhersagewert ist ein Modellergebnis und kein klinischer Beleg. O
 - Genotypspezifische Daten, die klären, ob eine Hemmung von RyR1 bei dieser Erkrankung sinnvoll ist
 - Die Sicherheitsinformationen der Fachinformation (Warnungen, Kontraindikationen), die in den zusammengestellten Daten fehlen
 - Die Angaben zum Wirkmechanismus aus einer zuverlässigen Quelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

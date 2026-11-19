@@ -61,7 +61,7 @@ Bendamustin ist ein alkylierendes Zytostatikum. Es wird für das Mantelzelllymph
 
 ### Warum ist diese Vorhersage plausibel?
 
-Bendamustin ist ein bifunktionaler Alkylator mit einem Purinanalogon-ähnlichen Benzimidazolring. Es vernetzt die DNA und löst eine besondere DNA-Schadensantwort aus. Diese führt zu Apoptose und mitotischer Katastrophe, auch in Zellen mit gestörtem p53. Die Angaben zum Wirkmechanismus aus den Arzneimitteldatenbanken fehlen in den für diesen Bericht zusammengestellten Daten. Die Mechanismusbeschreibung stützt sich daher auf die Studien- und Literaturlage.
+Bendamustin ist ein bifunktionaler Alkylator mit einem Purinanalogon-ähnlichen Benzimidazolring. Es vernetzt die DNA und löst eine besondere DNA-Schadensantwort aus. Diese führt zu Apoptose und mitotischer Katastrophe, auch in Zellen mit gestörtem p53. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bendamustinum (inoffizielle Übersetzung): „Bendamustin ist ein bifunktionelles Mechlorethamin-Derivat mit einem purinähnlichen Benzimidazolring. Mechlorethamin und seine Derivate bilden elektrophile Alkylgruppen. Diese Gruppen gehen kovalente Bindungen mit elektronenreichen nukleophilen Gruppen ein, was zu DNA-Quervernetzungen zwischen den Strängen führt.“ Englischer Originalwortlaut: "Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks." ([DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f), Fassung vom 2026-10-28; abgerufen am 2026-11-19). Die Mechanismusbeschreibung stützt sich daher auf die Studien- und Literaturlage.
 
 Das Mantelzelllymphom ist ein B-Zell-Lymphom mit stark proliferierenden Tumorzellen. Solche Zellen sprechen auf DNA-schädigende Substanzen an. In der klinischen Praxis wird Bendamustin meist mit Rituximab kombiniert (BR-Schema), sowohl bei bisher unbehandelten als auch bei rezidivierten Patienten.
 
@@ -134,6 +134,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Abklärung, ob und für welche Therapielinie das Mantelzelllymphom in der Schweizer Fachinformation abgedeckt ist
 - Ein Überwachungsplan für Blutbild, Infektionen sowie Leber- und Nierenfunktion
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

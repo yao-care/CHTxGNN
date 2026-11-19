@@ -61,7 +61,7 @@ Alprazolam ist in der Schweiz als Anxiolytikum zugelassen. TxGNN sagt eine mögl
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Alprazolam gehört jedoch zu den Benzodiazepinen. Diese verstärken die Wirkung des Botenstoffs GABA am GABA-A-Rezeptor und wirken dadurch beruhigend und angstlösend. Eine beruhigende Wirkung auf den Schlaf ist deshalb grundsätzlich denkbar.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Alprazolamum (inoffizielle Übersetzung): „Alprazolam ist ein 1,4-Benzodiazepin. Alprazolam entfaltet seine Wirkung bei der Behandlung der Panikstörung durch Bindung an die Benzodiazepin-Bindungsstelle der Gamma-Aminobuttersäure-A(GABA A )-Rezeptoren im Gehirn und verstärkt die GABA-vermittelte synaptische Hemmung.“ Englischer Originalwortlaut: "Alprazolam is a 1,4 benzodiazepine. Alprazolam exerts its effect for the treatment of panic disorder through binding to the benzodiazepine site of gamma‑aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3), Fassung vom 2025-02-11; abgerufen am 2026-11-19). Alprazolam gehört jedoch zu den Benzodiazepinen. Diese verstärken die Wirkung des Botenstoffs GABA am GABA-A-Rezeptor und wirken dadurch beruhigend und angstlösend. Eine beruhigende Wirkung auf den Schlaf ist deshalb grundsätzlich denkbar.
 
 Die gefundene Literatur prüft Alprazolam jedoch nicht bei Schlaflosigkeit. Sie behandelt Panikstörung, Benzodiazepin-Verbrauch und -Kosten, das Absetzen von Zolpidem, ungeeignete Medikamente bei älteren Menschen sowie Pharmakokinetik. Eine retrospektive Studie aus China (PMID 39183410) erwähnt Alprazolam als Vergleichsbehandlung bei Patienten mit Herzerkrankung und Schlaflosigkeit. Sie untersucht aber vor allem eine Kombination aus Moxibustion und Ohrakupunktur und belegt die Wirksamkeit von Alprazolam nicht.
 
@@ -120,6 +120,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Swissmedic-Fachinformation zu Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Bewertung von Nutzen und Risiken, besonders bei älteren Patienten
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

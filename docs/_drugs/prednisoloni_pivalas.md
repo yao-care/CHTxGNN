@@ -61,7 +61,7 @@ Prednisoloni pivalas ist ein Glukokortikoid-Ester, der in der Schweiz bereits im
 
 ### Warum ist diese Vorhersage plausibel?
 
-Kreisrunder Haarausfall ist eine T-Zell-vermittelte Autoimmunerkrankung. Dabei bricht der Immunschutz (Immunprivileg) der Haarfollikel zusammen. Prednisolonpivalat ist ein Glukokortikoid-Vorläufer, der entzündungshemmend und immunsuppressiv wirkt. Der Wirkstoff dämpft die Einwanderung zytotoxischer T-Zellen und die Bildung entzündungsfördernder Botenstoffe rund um den Haarfollikel. Das ist ein gut nachvollziehbarer Mechanismus für diese Erkrankung. Zum Wirkmechanismus des Arzneimittels selbst liegen in den vorliegenden Daten keine eigenen Angaben vor. Die obige Darstellung beruht auf dem allgemeinen Wirkprinzip der Glukokortikoide.
+Kreisrunder Haarausfall ist eine T-Zell-vermittelte Autoimmunerkrankung. Dabei bricht der Immunschutz (Immunprivileg) der Haarfollikel zusammen. Prednisolonpivalat ist ein Glukokortikoid-Vorläufer, der entzündungshemmend und immunsuppressiv wirkt. Der Wirkstoff dämpft die Einwanderung zytotoxischer T-Zellen und die Bildung entzündungsfördernder Botenstoffe rund um den Haarfollikel. Das ist ein gut nachvollziehbarer Mechanismus für diese Erkrankung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Prednisoloni Pivalas (inoffizielle Übersetzung): „Prednisolon ist ein synthetisches Nebennierenrinden-Steroid mit überwiegend glucocorticoiden Eigenschaften. Einige dieser Eigenschaften geben die physiologischen Wirkungen endogener Glucocorticosteroide wieder, andere spiegeln jedoch nicht notwendigerweise eine der normalen Funktionen der Nebennierenhormone wider; sie werden erst nach Verabreichung hoher therapeutischer Dosen des Arzneimittels beobachtet.“ Englischer Originalwortlaut: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), Fassung vom 2025-06-03; abgerufen am 2026-11-19). Die obige Darstellung beruht auf dem allgemeinen Wirkprinzip der Glukokortikoide.
 
 Die Studienlage stützt dies: Eine placebokontrollierte Studie zu oralem Prednisolon im Pulsschema und mehrere Übersichten zur Kortikosteroid-Pulstherapie behandeln genau diese Erkrankung. Ein Teil der Evidenz wurde von verwandten Wirkstoffen (Prednisolon, Prednison) übertragen. Der Pivalat-Ester wurde bei kreisrundem Haarausfall nicht gesondert untersucht.
 
@@ -114,6 +114,19 @@ Aus der Literatur zu systemischen Kortikosteroiden bei kreisrundem Haarausfall s
 - Bestätigende, ausreichend grosse kontrollierte Studien (idealerweise Phase 3)
 - Ein klares Konzept zu Dosierung, Behandlungsdauer, Rückfallmanagement und Überwachung
 - Angaben zum Wirkmechanismus des Arzneimittels (derzeit nicht in den Daten)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

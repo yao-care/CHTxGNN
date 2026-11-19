@@ -59,7 +59,7 @@ Glimepirid ist ein Sulfonylharnstoff, der in der Schweiz als Tablette im Handel 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Glimepirid schliesst die ATP-abhängigen Kaliumkanäle der Betazellen der Bauchspeicheldrüse und fördert so die Insulinfreisetzung. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Glimepirid schliesst die ATP-abhängigen Kaliumkanäle der Betazellen der Bauchspeicheldrüse und fördert so die Insulinfreisetzung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Glimepiridum (inoffizielle Übersetzung): „Glimepirid senkt den Blutzucker in erster Linie durch Stimulation der Insulinfreisetzung aus den Betazellen des Pankreas. Sulfonylharnstoffe binden an den Sulfonylharnstoff-Rezeptor in der Plasmamembran der pankreatischen Betazellen, was zum Schließen des ATP-sensitiven Kaliumkanals führt und dadurch die Insulinfreisetzung stimuliert.“ Englischer Originalwortlaut: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), Fassung vom 2024-08-20; abgerufen am 2026-11-19).
 
 Das Stiff-Person-Syndrom ist eine Autoimmunerkrankung. Typisch sind Antikörper gegen GAD65 und eine gestörte GABA-vermittelte Nervenübertragung. Die einzige denkbare Verbindung ist die GAD-Autoimmunität, die auch bei einem Teil der Diabeteserkrankungen vorkommt. Diese Verbindung ist indirekt und deutet nicht auf einen therapeutischen Nutzen hin.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare mechanistische Begründung, die über die gemeinsame GAD-Autoimmunität hinausgeht
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Felodipin ist ein Calciumantagonist, der in der Schweiz mit mehreren Präparaten
 
 ### Warum ist diese Vorhersage plausibel?
 
-Felodipin gehört zu den Dihydropyridinen und blockiert L-Typ-Calciumkanäle. Dadurch erschlafft die glatte Gefässmuskulatur, und die Gefässe erweitern sich. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine näheren Angaben vor; die Einordnung als Calciumantagonist stammt aus den Schweizer Zulassungen.
+Felodipin gehört zu den Dihydropyridinen und blockiert L-Typ-Calciumkanäle. Dadurch erschlafft die glatte Gefässmuskulatur, und die Gefässe erweitern sich. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Felodipinum (inoffizielle Übersetzung): „Felodipin gehört zur Dihydropyridin-Klasse der Calciumkanalantagonisten (Calciumkanalblocker). Es konkurriert reversibel mit Nitrendipin und/oder anderen Calciumkanalblockern um Dihydropyridin-Bindungsstellen, blockiert spannungsabhängige Ca ++-Ströme in glatten Gefäßmuskelzellen und kultivierten Vorhofzellen von Kaninchen und blockiert die kaliuminduzierte Kontraktur der Pfortader der Ratte.“ Englischer Originalwortlaut: "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein." ([DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115), Fassung vom 2024-08-07; abgerufen am 2026-11-19).
 
 Eine Gefässerweiterung im Lungenkreislauf könnte den Druck in den Lungenarterien senken. Dieser Zusammenhang ist plausibel, aber für Felodipin bei dieser Erkrankung nicht belegt.
 
@@ -109,6 +109,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klinische oder zumindest direkt auf die Erkrankung bezogene Daten, etwa zur Gefässreaktivität im Rechtsherzkatheter
 - Klärung der Sicherheit bei Patienten mit Sauerstoffmangel oder Lungenerkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

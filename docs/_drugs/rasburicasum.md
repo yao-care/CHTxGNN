@@ -61,7 +61,7 @@ Rasburicase ist eine rekombinante Urat-Oxidase, die Harnsäure in Allantoin umwa
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Rasburicase als Urat-Oxidase Harnsäure enzymatisch abbaut und damit den Harnsäurespiegel im Serum senkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rasburicasum (inoffizielle Übersetzung): „Beim Menschen ist Harnsäure der letzte Schritt im katabolen Abbauweg der Purine. Rasburicase katalysiert die enzymatische Oxidation der schwer löslichen Harnsäure zu einem inaktiven und besser löslichen Metaboliten (Allantoin).“ Englischer Originalwortlaut: "In humans, uric acid is the final step in the catabolic pathway of purines. Rasburicase catalyzes enzymatic oxidation of poorly soluble uric acid into an inactive and more soluble metabolite (allantoin)." ([DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922), Fassung vom 2026-07-30; abgerufen am 2026-11-19). Bekannt ist, dass Rasburicase als Urat-Oxidase Harnsäure enzymatisch abbaut und damit den Harnsäurespiegel im Serum senkt.
 
 Bei der renalen Hypourikämie ist der Harnsäurespiegel bereits abnorm niedrig, etwa durch den Funktionsverlust von Transportern wie URAT1 oder GLUT9. Eine weitere Harnsäuresenkung wäre daher mechanistisch kontraproduktiv und möglicherweise schädlich.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine schlüssige mechanistische Begründung, warum eine zusätzliche Harnsäuresenkung hier von Vorteil sein könnte
 - Die Sicherheitsangaben aus der Fachinformation (Warnhinweise, Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

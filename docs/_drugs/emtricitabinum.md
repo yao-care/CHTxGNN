@@ -59,7 +59,7 @@ Emtricitabin ist ein antivirales Arzneimittel, das in der Schweiz als Kapselprä
 
 ### Warum ist diese Vorhersage plausibel?
 
-Emtricitabin gehört zu den nukleosidischen Reverse-Transkriptase-Hemmern: Es wird in die virale DNA eingebaut und bricht deren Verlängerung ab. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor; die Aussage beruht auf der allgemein bekannten Wirkweise dieser Substanzklasse.
+Emtricitabin gehört zu den nukleosidischen Reverse-Transkriptase-Hemmern: Es wird in die virale DNA eingebaut und bricht deren Verlängerung ab. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Emtricitabinum (inoffizielle Übersetzung): „Emtricitabin ist ein antiretroviraler Wirkstoff. […] FTC, ein synthetisches Nukleosidanalogon von Cytidin, wird durch zelluläre Enzyme zu Emtricitabin-5'-triphosphat (FTC-TP) phosphoryliert, das die Aktivität der Reversen Transkriptase (RT) von HIV-1 hemmt, indem es mit dem natürlichen Substrat Desoxycytidin-5'-triphosphat konkurriert und in die naszierende virale DNA eingebaut wird, was zum Kettenabbruch führt. FTC-TP ist ein schwacher Inhibitor der DNA-Polymerasen α, β und ε von Säugetieren sowie der mitochondrialen DNA-Polymerase γ.“ Englischer Originalwortlaut: "Emtricitabine is an antiretroviral drug. […] FTC, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate (FTC-TP), which inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA resulting in chain termination. FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ." ([DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f), Fassung vom 2026-11-06; abgerufen am 2026-11-19).
 
 Das Feline Immundefizienzvirus (FIV) ist wie das humane Immundefizienzvirus ein Lentivirus mit einer verwandten Reverse Transkriptase. Ein Wirkprinzip, das gegen das eine Virus greift, könnte daher grundsätzlich auch beim anderen eine Rolle spielen.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob eine veterinärmedizinische Zielsetzung für dieses Vorhaben überhaupt vorgesehen ist
 - Vollständige Sicherheitsangaben aus der Schweizer Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

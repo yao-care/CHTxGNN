@@ -61,7 +61,7 @@ Trametinib ist ein Arzneimittel, das in der Schweiz unter dem Handelsnamen Mekin
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Trametinib liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Trametinib die Kinasen MEK1 und MEK2 im MAPK-Signalweg hemmt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Trametinibum (inoffizielle Übersetzung): „Trametinib ist ein reversibler Inhibitor der Aktivierung der mitogenaktivierten, durch extrazelluläre Signale regulierten Kinase 1 (MEK1) und MEK2 sowie der Kinaseaktivität von MEK1 und MEK2. MEK-Proteine sind vorgeschaltete Regulatoren des Signalwegs der extrazellulären signalregulierten Kinase (ERK), der die Zellproliferation fördert.“ Englischer Originalwortlaut: "Trametinib is a reversible inhibitor of mitogen-activated extracellular signal-regulated kinase 1 (MEK1) and MEK2 activation and of MEK1 and MEK2 kinase activity. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway, which promotes cellular proliferation." ([DailyMed: Mekinist (trametinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0002ad27-779d-42ab-83b5-bc65453412a1), Fassung vom 2026-05-07; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Trametinib die Kinasen MEK1 und MEK2 im MAPK-Signalweg hemmt.
 
 Ein klarer mechanistischer Zusammenhang mit Choroideremie ist nicht erkennbar. Choroideremie ist eine X-chromosomal vererbte Netzhautdegeneration, die durch den Verlust des Gens CHM bzw. des Proteins REP1 verursacht wird. Sie wird nicht durch den MAPK-Signalweg angetrieben. Der hohe Vorhersagewert (0,9931) ist deshalb wahrscheinlich ein Artefakt der Modellberechnung und kein Hinweis auf eine biologisch begründete Wirkung.
 
@@ -98,6 +98,19 @@ Hinzu kommt ein Sicherheitsaspekt: MEK-Hemmer können eine Netzhauterkrankung (M
 - Präklinische Daten in geeigneten Modellen der Choroideremie, inklusive Bewertung der Netzhautsicherheit
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation, die in den vorliegenden Daten fehlen
 - Die Angabe des Wirkmechanismus aus DrugBank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Mekinist (trametinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0002ad27-779d-42ab-83b5-bc65453412a1) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

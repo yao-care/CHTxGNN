@@ -58,7 +58,7 @@ Sebelipase alfa ist eine Enzymersatztherapie, die in der Schweiz zugelassen ist.
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Sebelipase alfa liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass das Arzneimittel das Enzym lysosomale saure Lipase (LAL) ersetzt.
+Laut ChEMBL (EMBL-EBI) ist für Sebelipase Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Cholesterinester-hydrolysierendes Enzym; Triglycerid-hydrolysierendes Enzym“ Englischer Originalwortlaut: "Cholesterol ester hydrolytic enzyme; Triglyceride hydrolytic enzyme" ([ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537), CC BY-SA 3.0; abgerufen am 2026-11-19). Bekannt ist, dass das Arzneimittel das Enzym lysosomale saure Lipase (LAL) ersetzt.
 
 Das Scheie-Syndrom (abgeschwächte Form der Mukopolysaccharidose Typ I) entsteht durch einen Mangel an alpha-L-Iduronidase, einem anderen lysosomalen Enzym. Sebelipase alfa ersetzt nur LAL. Ein direkter mechanistischer Zusammenhang besteht daher nicht.
 
@@ -103,6 +103,18 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten, die eine Wirkung von Sebelipase alfa bei alpha-L-Iduronidase-Mangel belegen
 - Eine nachvollziehbare mechanistische Begründung
 - Angaben zum Wirkmechanismus und die Sicherheitsangaben aus der Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537) |
+
+<!-- review:end log -->
 
 ## Haftungsausschluss
 

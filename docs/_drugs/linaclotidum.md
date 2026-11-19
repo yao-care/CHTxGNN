@@ -59,7 +59,7 @@ Linaclotid ist ein Guanylatzyklase-C-Agonist, der lokal im Darm wirkt und kaum i
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem Wissen: Linaclotid aktiviert die Guanylatzyklase-C an der Darmschleimhaut und wirkt dort lokal, mit minimaler systemischer Aufnahme.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Linaclotidum (inoffizielle Übersetzung): „Linaclotid ist strukturell mit humanem Guanylin und Uroguanylin verwandt und wirkt als Guanylatcyclase-C(GC-C)-Agonist. Sowohl Linaclotid als auch sein aktiver Metabolit binden an GC-C und wirken lokal an der luminalen Oberfläche des Darmepithels.“ Englischer Originalwortlaut: "Linaclotide is structurally related to human guanylin and uroguanylin and functions as a guanylate cyclase-C (GC-C) agonist. Both linaclotide and its active metabolite bind to GC-C and act locally on the luminal surface of the intestinal epithelium." ([DailyMed: Linzess (linaclotide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d09771d-69da-4c9d-92b6-74374ffa130f), Fassung vom 2026-10-10; abgerufen am 2026-11-19). Aus allgemeinem Wissen: Linaclotid aktiviert die Guanylatzyklase-C an der Darmschleimhaut und wirkt dort lokal, mit minimaler systemischer Aufnahme.
 
 Ein direkter Wirkpfad zum Cauda-equina-Syndrom ist anhand der vorliegenden Daten nicht erkennbar. Das Syndrom entsteht durch eine Kompression von Nervenwurzeln. Die Signalwege der Guanylatzyklase-C im Darm beeinflussen diese Kompression nicht direkt.
 
@@ -93,6 +93,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Der Wirkmechanismus von Linaclotid (z. B. aus DrugBank) zur Analyse eines möglichen mechanistischen Zusammenhangs.
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung.
 - Klinische oder präklinische Daten, die das Cauda-equina-Syndrom direkt untersuchen; ein möglicher symptomatischer Nutzen bei neurogener Verstopfung müsste separat geprüft werden.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Linzess (linaclotide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d09771d-69da-4c9d-92b6-74374ffa130f) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

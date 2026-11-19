@@ -59,7 +59,7 @@ Donepezil ist in der Schweiz zugelassen und im Handel. Für die Hauptvorhersage 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Donepezil hemmt im Gehirn den Abbau von Acetylcholin und erhöht dadurch die cholinerge Aktivität. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine näheren Angaben vor.
+Donepezil hemmt im Gehirn den Abbau von Acetylcholin und erhöht dadurch die cholinerge Aktivität. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Donepezilum (inoffizielle Übersetzung): „Aktuelle Theorien zur Pathogenese der kognitiven Anzeichen und Symptome der Alzheimer-Krankheit führen einige davon auf einen Mangel an cholinerger Neurotransmission zurück. Es wird angenommen, dass Donepezilhydrochlorid seine therapeutische Wirkung durch Verstärkung der cholinergen Funktion entfaltet.“ Englischer Originalwortlaut: "Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function." ([DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975), Fassung vom 2021-12-30; abgerufen am 2026-11-19).
 
 Eine stärkere cholinerge Aktivität könnte theoretisch motorische Schaltkreise beeinflussen. Für einen Zusammenhang mit funktionellen (psychogenen) Bewegungsstörungen gibt es in den vorliegenden Daten jedoch keinen Beleg. Die Vorhersage bleibt deshalb rein rechnerisch, und der Mechanismus ist für diese Erkrankung nicht belegt.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Wirkmechanismus-Angaben zu Donepezil (z. B. aus DrugBank)
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, da die Sicherheitsprüfung sonst nicht möglich ist
 - Bei positiver Evidenzlage: kontrollierte klinische Studien
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Phenytoin ist in der Schweiz als Antiepileptikum im Handel. Die Modellvorhersage
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Phenytoin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Phenytoin spannungsabhängige Natriumkanäle blockiert. Das dämpft übermässige, hochfrequente Nervenentladungen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Phenytoinum (inoffizielle Übersetzung): „Der genaue Mechanismus, durch den Phenytoin seine therapeutische Wirkung entfaltet, ist nicht geklärt, es wird jedoch angenommen, dass er eine spannungsabhängige Blockade der Natriumkanäle der Membran umfasst, die zu einer Verminderung anhaltender hochfrequenter neuronaler Entladungen führt.“ Englischer Originalwortlaut: "The precise mechanism by which phenytoin exerts its therapeutic effect has not been established but is thought to involve the voltage-dependent blockade of membrane sodium channels resulting in a reduction in sustained high-frequency neuronal discharges." ([DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353), Fassung vom 2026-06-25; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Phenytoin spannungsabhängige Natriumkanäle blockiert. Das dämpft übermässige, hochfrequente Nervenentladungen.
 
 Ein Zusammenhang mit einer Neoplasie des Trigeminusnervs lässt sich daraus nur indirekt ableiten. Der hohe Vorhersagewert beruht vermutlich auf der Nähe des Arzneimittels zu Schmerzsyndromen des Trigeminusnervs und nicht auf einer Wirkung gegen Tumorbiologie. Phenytoin könnte allenfalls neuropathische Schmerzen lindern, die mit einer Läsion am Trigeminusnerv einhergehen. Das wäre ein rein symptomatischer Effekt. Es gibt keinen Hinweis darauf, dass Phenytoin das Tumorwachstum beeinflusst.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die eine Wirkung von Phenytoin bei Neoplasien des Trigeminusnervs direkt untersuchen
 - Eine Beschreibung des Wirkmechanismus aus einer verlässlichen Arzneimittelquelle, um die mechanistische Verbindung zu prüfen
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, damit die Sicherheitsprüfung möglich wird
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

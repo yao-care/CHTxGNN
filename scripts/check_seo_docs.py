@@ -30,6 +30,8 @@
       parent 對應列表頁（src/chtxgnn/regulatory/page_format.py）（2026-11-12）。
   20. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、
       證據監測清單 scripts/drug_list.json（src/chtxgnn/regulatory/withdrawn.py）（2026-11-12）。
+  21. 公開藥物頁寫「作用機轉資料不可得」的，有附出處的作用機轉紀錄（drug_reviews.json action=mechanism）
+      或列在待查清單（source＝mechanism of action，附補不到的原因）（scripts/build_mechanism_reviews.py）（2026-11-19）。
 
 2026-11-12 起本站有自己的查核機制（核心流程比照 TwTxGNN，用戶決定 30 站各自建立）：第 17–20 項對應 Tw 的
 人工查核紀錄、許可證、頁首等級、撤回預測檢查，規則在本站 src/chtxgnn/regulatory/ 與 scripts/apply_drug_reviews.py。
@@ -777,6 +779,10 @@ errors += _dl_cov_errors()
 # 公開藥物頁的預測要在 search-index.json、有 drugbank_id 的要有 FHIR MedicationKnowledge（2026-11-19；說明見 scripts/check_search_index_coverage.py）
 from check_search_index_coverage import check_errors as _si_cov_errors  # noqa: E402
 errors += _si_cov_errors()
+# 21) 作用機轉（2026-11-19）：公開頁寫「作用機轉資料不可得」的，要嘛有附出處的作用機轉紀錄
+#     （drug_reviews.json action=mechanism，由 scripts/build_mechanism_reviews.py 產生），要嘛列在待查清單並寫明補不到的原因。
+from build_mechanism_reviews import gate_errors as _moa_errors  # noqa: E402
+errors += _moa_errors()
 # 說明頁／證據等級頁的在地資料檔（2026-11-19；docs/_data/local_facts.json、evidence_tier_facts.json，說明見 scripts/local_facts.py）
 import subprocess as _lf_sp  # noqa: E402
 _lf = _lf_sp.run([sys.executable, str(DOCS.parent / "scripts/local_facts.py"), "--check"], capture_output=True, text=True)

@@ -61,7 +61,7 @@ Vancomycin ist ein Antibiotikum, das gegen bakterielle Infektionen eingesetzt wi
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ein plausibler Wirkzusammenhang ist nicht erkennbar. Vancomycin hemmt die Zellwandsynthese von Bakterien, vor allem von grampositiven Erregern. Die diffuse Sklerodermie ist dagegen eine Autoimmunerkrankung mit fortschreitender Vernarbung (Fibrose) von Haut und inneren Organen. Der Wirkmechanismus von Vancomycin ist in den vorliegenden Daten nicht hinterlegt; aus dem bekannten Wirkprinzip ergibt sich jedoch keine Verbindung zu den krankheitsbestimmenden Vorgängen der Sklerodermie.
+Ein plausibler Wirkzusammenhang ist nicht erkennbar. Vancomycin hemmt die Zellwandsynthese von Bakterien, vor allem von grampositiven Erregern. Die diffuse Sklerodermie ist dagegen eine Autoimmunerkrankung mit fortschreitender Vernarbung (Fibrose) von Haut und inneren Organen. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Vancomycinum (inoffizielle Übersetzung): „Vancomycin ist ein antibakterieller Wirkstoff. […] Die bakterizide Wirkung von Vancomycin beruht in erster Linie auf der Hemmung der Zellwandbiosynthese. Darüber hinaus verändert Vancomycin die Permeabilität der bakteriellen Zellmembran und die RNA-Synthese.“ Englischer Originalwortlaut: "Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis." ([DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560), Fassung vom 2026-08-19; abgerufen am 2026-11-19).
 
 Der hohe Vorhersagewert ist daher vermutlich ein Artefakt der Modellberechnung und kein Hinweis auf einen echten therapeutischen Nutzen.
 
@@ -110,6 +110,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ein belegbarer biologischer Wirkmechanismus, der Vancomycin mit der Fibrose bzw. Autoimmunität bei Sklerodermie verbindet
 - Präklinische Daten oder kontrollierte klinische Studien zur diffusen Sklerodermie
 - Ergänzung der fehlenden Angaben zum Wirkmechanismus und zu Warnhinweisen und Kontraindikationen aus der Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

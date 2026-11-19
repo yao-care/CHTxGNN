@@ -61,7 +61,7 @@ Acenocoumarolum ist ein Gerinnungshemmer (Antikoagulans), der in der Schweiz im 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Acenocoumarol hemmt als Vitamin-K-Antagonist das Enzym VKORC1. Dadurch werden weniger funktionsfähige Vitamin-K-abhängige Gerinnungsfaktoren (II, VII, IX, X) sowie die Proteine C und S gebildet. Die Angaben zum ursprünglich hinterlegten Wirkmechanismus fehlen in den zusammengestellten Daten; die obige Beschreibung beruht auf dem allgemeinen pharmakologischen Wissen zur Wirkstoffklasse.
+Acenocoumarol hemmt als Vitamin-K-Antagonist das Enzym VKORC1. Dadurch werden weniger funktionsfähige Vitamin-K-abhängige Gerinnungsfaktoren (II, VII, IX, X) sowie die Proteine C und S gebildet. Laut ChEMBL (EMBL-EBI) ist für Acenocoumarolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Isoform 1 der Untereinheit 1 des Vitamin-K-Epoxid-Reduktase-Komplexes“ Englischer Originalwortlaut: "Vitamin k epoxide reductase complex subunit 1 isoform 1 inhibitor" ([ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Der Heparin-Cofaktor-II-Mangel ist eine erbliche Thromboseneigung. Dabei wird Thrombin schlechter gehemmt. Eine orale Antikoagulation senkt die Thrombinbildung weiter unten in der Gerinnungskaskade und könnte daher als allgemeine Thromboseprophylaxe sinnvoll sein.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung der Angaben zum Wirkmechanismus aus DrugBank
 - Systematische Literaturrecherche und Suche nach klinischen Studien zu Vitamin-K-Antagonisten bei Heparin-Cofaktor-II-Mangel
 - Klinische Einschätzung, ob ein Nutzen gegenüber der bestehenden Standardprophylaxe plausibel ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

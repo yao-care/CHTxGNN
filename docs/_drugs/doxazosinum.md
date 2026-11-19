@@ -59,7 +59,7 @@ Doxazosin ist ein selektiver Alpha-1-Adrenozeptor-Blocker. Vorhergesagt wird ein
 
 ### Warum ist diese Vorhersage plausibel?
 
-Doxazosin blockiert selektiv Alpha-1-Adrenozeptoren. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Die folgende Einschätzung beruht daher auf allgemeinem pharmakologischem Wissen.
+Doxazosin blockiert selektiv Alpha-1-Adrenozeptoren. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Doxazosinum (inoffizielle Übersetzung): „Benigne Prostatahyperplasie (BPH) Die mit einer benignen Prostatahyperplasie (BPH) verbundenen Symptome wie häufiger Harndrang, Nykturie, schwacher Harnstrahl, verzögerter Miktionsbeginn und unvollständige Blasenentleerung hängen mit zwei Komponenten zusammen, einer anatomischen (statischen) und einer funktionellen (dynamischen). Die statische Komponente hängt mit einer Vergrößerung der Prostata zusammen, die zum Teil durch eine Proliferation glatter Muskelzellen im Prostatastroma verursacht wird. […] Studien an gesunden Probanden haben gezeigt, dass Doxazosin die blutdrucksteigernden Wirkungen von Phenylephrin (einem Alpha-1-Agonisten) und die systolische blutdrucksteigernde Wirkung von Noradrenalin kompetitiv antagonisierte.“ Englischer Originalwortlaut: "Benign Prostatic Hyperplasia (BPH) The symptoms associated with benign prostatic hyperplasia (BPH), such as urinary frequency, nocturia, weak stream, hesitancy, and incomplete emptying are related to two components, anatomical (static) and functional (dynamic). The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma. […] Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha 1 agonist) and the systolic pressor effect of norepinephrine." ([DailyMed: Cardura (doxazosin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e1f5e49-2da1-43ab-9795-228a8bcc5a82), Fassung vom 2023-10-15; abgerufen am 2026-11-19). Die folgende Einschätzung beruht daher auf allgemeinem pharmakologischem Wissen.
 
 Eine Blockade der Alpha-1-Rezeptoren kann den Gefässtonus im Gehirn und die noradrenerge Signalübertragung beeinflussen. Beide Faktoren gelten als beteiligt an der Entstehung von Migräne. Dieser Zusammenhang ist plausibel, aber nicht bestätigt.
 
@@ -104,6 +104,19 @@ Die Arbeit untersucht die Migräne zwar direkt, liefert aber keine kontrollierte
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Kontrollierte klinische Studien zu Doxazosin bei Migräne
 - Eine Abwägung der in der Literatur berichteten Nebenwirkungen (Abbruchrate 5 von 10)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cardura (doxazosin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e1f5e49-2da1-43ab-9795-228a8bcc5a82) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

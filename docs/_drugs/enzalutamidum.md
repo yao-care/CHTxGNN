@@ -59,7 +59,7 @@ Enzalutamid ist ein Arzneimittel zur Hemmung des Androgenrezeptor-Signalwegs und
 
 ### Warum ist diese Vorhersage plausibel?
 
-Enzalutamid hemmt den Androgenrezeptor (AR) und damit den Signalweg, der das Wachstum von Prostatagewebe antreibt. Eine detaillierte Beschreibung des Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor.
+Enzalutamid hemmt den Androgenrezeptor (AR) und damit den Signalweg, der das Wachstum von Prostatagewebe antreibt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Enzalutamidum (inoffizielle Übersetzung): „Enzalutamid ist ein Androgenrezeptor-Inhibitor, der auf verschiedene Schritte des Androgenrezeptor-Signalwegs wirkt. Es wurde gezeigt, dass Enzalutamid die Bindung von Androgenen an Androgenrezeptoren kompetitiv hemmt und infolgedessen die nukleäre Translokation von Androgenrezeptoren und deren Interaktion mit der DNA hemmt.“ Englischer Originalwortlaut: "Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA." ([DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf), Fassung vom 2026-07-28; abgerufen am 2026-11-19).
 
 Der hohe Vorhersagewert hängt wahrscheinlich damit zusammen, dass das Arzneimittel eng mit Erkrankungen der Prostata und mit AR-bezogenen Strukturen verknüpft ist. Das Prostata-Leiomyom ist ein seltener gutartiger Tumor der glatten Muskulatur. Eine Abhängigkeit dieses Tumors vom AR-Signalweg ist nicht belegt.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Fallberichte, Fallserien oder klinische Studien zu dieser Erkrankung
 - Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
 - Eine ausführliche Beschreibung des Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

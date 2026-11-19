@@ -59,7 +59,7 @@ Midazolam ist ein kurz wirksames Benzodiazepin, das in der Schweiz als Schlafmit
 
 ### Warum ist diese Vorhersage plausibel?
 
-Midazolam ist ein kurz wirksames Benzodiazepin. Es verstärkt als positiver allosterischer Modulator die Wirkung von GABA am GABA-A-Rezeptor und dämpft dadurch die Erregbarkeit des Nervensystems. Das führt zu beruhigenden und schlaffördernden Effekten. Die Angaben zum Wirkmechanismus stammen aus allgemeinem pharmakologischem Wissen, da die Mechanismusdaten in den zusammengestellten Daten fehlen.
+Midazolam ist ein kurz wirksames Benzodiazepin. Es verstärkt als positiver allosterischer Modulator die Wirkung von GABA am GABA-A-Rezeptor und dämpft dadurch die Erregbarkeit des Nervensystems. Das führt zu beruhigenden und schlaffördernden Effekten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Midazolamum (inoffizielle Übersetzung): „Midazolam ist ein kurz wirksames Benzodiazepin, das das Zentralnervensystem (ZNS) dämpft.“ Englischer Originalwortlaut: "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant." ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), Fassung vom 2025-07-31; abgerufen am 2026-11-19).
 
 Andere Benzodiazepine (z. B. Flurazepam, Triazolam) werden seit Langem bei Schlafstörungen eingesetzt. Der Mechanismus von Midazolam passt daher zu dieser Anwendung. Frühe Studien haben Midazolam oral als Schlafmittel geprüft.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
 - Aktuelle kontrollierte Studien zu Midazolam bei Schlaflosigkeit im Vergleich zu heutigen Standardtherapien
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

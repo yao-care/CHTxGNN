@@ -59,7 +59,7 @@ Letermovir wird in der Schweiz zur Vorbeugung von Cytomegalovirus-Infektionen ei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Letermovir hemmt den Terminase-Komplex (pUL56) des Cytomegalovirus und wirkt dadurch spezifisch gegen dieses Virus. Eine Wirkung gegen Pilze der Gattung Candida ist nicht bekannt. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Letermovir hemmt den Terminase-Komplex (pUL56) des Cytomegalovirus und wirkt dadurch spezifisch gegen dieses Virus. Eine Wirkung gegen Pilze der Gattung Candida ist nicht bekannt. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Letermovirum (inoffizielle Übersetzung): „PREVYMIS ist ein antivirales Arzneimittel gegen CMV. […] Letermovir hemmt den CMV-DNA-Terminase-Komplex (pUL51, pUL56 und pUL89), der für die Prozessierung und Verpackung der viralen DNA erforderlich ist. Biochemische Charakterisierung und Elektronenmikroskopie zeigten, dass Letermovir die Bildung von Genomen korrekter Einheitslänge beeinträchtigt und die Virionreifung stört.“ Englischer Originalwortlaut: "PREVYMIS is an antiviral drug against CMV. […] Letermovir inhibits the CMV DNA terminase complex (pUL51, pUL56, and pUL89) which is required for viral DNA processing and packaging. Biochemical characterization and electron microscopy demonstrated that letermovir affects the production of proper unit length genomes and interferes with virion maturation." ([DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b), Fassung vom 2026-01-14; abgerufen am 2026-11-19).
 
 Ein biologischer Zusammenhang zwischen dem viralen Zielmolekül und einer Pilzinfektion der Vagina und Vulva lässt sich aus den vorliegenden Daten nicht herleiten. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis. Er könnte auf Musterähnlichkeiten im Modell zurückgehen, etwa auf die Nähe zu anderen Antiinfektiva oder zu Patientengruppen mit geschwächter Abwehr, und nicht auf einen echten antimykotischen Mechanismus.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung der Angaben zum Wirkmechanismus
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbeurteilung
 - Prüfung der Verabreichungswege für die vorhergesagte Indikation (derzeit nicht beurteilbar)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Dupilumab ist ein monoklonaler Antikörper, der den Interleukin-4-Rezeptor alpha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dupilumab blockiert die gemeinsame Alpha-Untereinheit der Rezeptoren für IL-4 und IL-13. Damit hemmt es die Signalwege der Typ-2-Entzündung. Die für diesen Bericht zusammengestellten Daten enthalten keine ausführliche Mechanismusbeschreibung; die Angabe stützt sich auf den bekannten Wirkmechanismus des Antikörpers.
+Dupilumab blockiert die gemeinsame Alpha-Untereinheit der Rezeptoren für IL-4 und IL-13. Damit hemmt es die Signalwege der Typ-2-Entzündung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Dupilumabum (inoffizielle Übersetzung): „Dupilumab ist ein humaner monoklonaler IgG4-Antikörper, der die Signalübertragung von Interleukin-4 (IL-4) und Interleukin-13 (IL-13) hemmt, indem er spezifisch an die IL-4Rα-Untereinheit bindet, die den IL-4- und IL-13-Rezeptorkomplexen gemeinsam ist. Dupilumab hemmt die IL-4-Signalübertragung über den Typ-I-Rezeptor sowie die IL-4- und IL-13-Signalübertragung über den Typ-II-Rezeptor.“ Englischer Originalwortlaut: "Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor." ([DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780), Fassung vom 2026-04-22; abgerufen am 2026-11-19).
 
 Bronchitis ist eine unspezifische Bezeichnung. Eine Typ-2-getriebene Entzündung der Atemwege kommt aber bei einem Teil der Patienten mit chronischer Bronchitis bzw. COPD vor, ebenso bei der seltenen eosinophilen plastischen Bronchitis. Für diese Untergruppen ist der Mechanismus nachvollziehbar. Bei infektiöser oder nicht-eosinophiler Bronchitis gibt es dafür keinen Anhaltspunkt.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klare Definition der Zielgruppe (z. B. eosinophile Bronchitis, Typ-2-COPD)
 - Sicherheitsinformationen aus der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

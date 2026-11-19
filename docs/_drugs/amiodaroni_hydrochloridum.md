@@ -59,7 +59,7 @@ Amiodaron wird in der Schweiz als Antiarrhythmikum eingesetzt. Für die katechol
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben aus der Arzneimitteldatenbank vor. Amiodaron ist aus der Fachliteratur als Mehrkanalblocker bekannt: Es hemmt Kalium-, Natrium- und Calciumkanäle und wirkt zusätzlich anti-adrenerg.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Amiodaroni Hydrochloridum (inoffizielle Übersetzung): „Amiodaron gilt als Antiarrhythmikum der Klasse III, besitzt jedoch elektrophysiologische Eigenschaften aller vier Vaughan-Williams-Klassen. Wie Klasse-I-Arzneimittel blockiert Amiodaron Natriumkanäle bei hohen Stimulationsfrequenzen, und wie Klasse-II-Arzneimittel übt Amiodaron eine nichtkompetitive antisympathische Wirkung aus.“ Englischer Originalwortlaut: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), Fassung vom 2025-11-05; abgerufen am 2026-11-19). Amiodaron ist aus der Fachliteratur als Mehrkanalblocker bekannt: Es hemmt Kalium-, Natrium- und Calciumkanäle und wirkt zusätzlich anti-adrenerg.
 
 Die katecholaminerge polymorphe ventrikuläre Tachykardie ist eine seltene, erbliche Rhythmusstörung. Sie entsteht meist durch Veränderungen im RYR2- oder CASQ2-Gen, die bei Stress oder Belastung zu einem Calciumleck in den Herzmuskelzellen führen. Dadurch werden gefährliche Kammerrhythmusstörungen ausgelöst.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Klinische Daten, die Amiodaron direkt bei dieser Erkrankung untersuchen, auch im Vergleich zu etablierten Therapien
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

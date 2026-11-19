@@ -60,7 +60,7 @@ Zinkoxid wird in der Schweiz als Salbe oder Paste bei leichten, nicht infektions
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zu Wirkmechanismus von Zinkoxid liegen in den zusammengestellten Daten keine Angaben vor. Aus der bestehenden Anwendung lässt sich jedoch ein plausibler Zusammenhang ableiten: Zinkoxid wirkt auf der Haut mild entzündungshemmend und schwach antibakteriell, auch gegen *Cutibacterium acnes*, und kann die Talgproduktion beeinflussen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für miconazole nitrate, zinc oxide, white petrolatum (Kombinationspräparat mit Zinc Oxide) (inoffizielle Übersetzung): „Der Wirkmechanismus von weißem Vaselin und Zinkoxid bei der unterstützenden Behandlung der Windeldermatitis ist nicht bekannt.“ Englischer Originalwortlaut: "The mechanism of action of white petrolatum and zinc oxide for the adjunctive treatment of diaper dermatitis is unknown." ([DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c), Fassung vom 2018-08-15; abgerufen am 2026-11-19). Aus der bestehenden Anwendung lässt sich jedoch ein plausibler Zusammenhang ableiten: Zinkoxid wirkt auf der Haut mild entzündungshemmend und schwach antibakteriell, auch gegen *Cutibacterium acnes*, und kann die Talgproduktion beeinflussen.
 
 Die bereits zugelassene Anwendung bei leichten, nicht infektionsbedingten Hautentzündungen überschneidet sich mit der entzündlichen Akne. Beide Indikationen betreffen die Haut und eine lokale Entzündungsreaktion. Auch die topische Anwendung wäre gleich.
 
@@ -117,6 +117,19 @@ Bitte beachten Sie für verbindliche Sicherheitsinformationen die Fachinformatio
 - Wirkmechanismus aus DrugBank ergänzen, um den mechanistischen Zusammenhang zu prüfen.
 - Gezielte Literaturrecherche zu topischem Zinkoxid bei Akne (insbesondere RCTs) und die Relevanz der Studie von 2004 prüfen.
 - Ähnlichkeit zur ursprünglichen Indikation und Eignung der Darreichungsform bewerten.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

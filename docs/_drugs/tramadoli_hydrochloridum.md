@@ -59,7 +59,7 @@ Tramadolhydrochlorid ist in der Schweiz als Schmerzmittel (Analgetikum) im Hande
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Tramadol liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Tramadol schmerzlindernd über die Aktivierung von Opioidrezeptoren (µ-Rezeptor) und die Hemmung der Wiederaufnahme von Monoaminen wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tramadoli Hydrochloridum (inoffizielle Übersetzung): „Tramadolhydrochlorid-Retardkapseln enthalten Tramadol, einen Opioidagonisten und Hemmer der Wiederaufnahme von Noradrenalin und Serotonin. Obwohl sein Wirkmechanismus nicht vollständig geklärt ist, scheinen nach Tierversuchen mindestens zwei sich ergänzende Mechanismen zuzutreffen: die Bindung der Muttersubstanz und des Metaboliten M1 an mu-Opioidrezeptoren sowie eine schwache Hemmung der Wiederaufnahme von Noradrenalin und Serotonin.“ Englischer Originalwortlaut: "Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin. Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin." ([DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9), Fassung vom 2026-01-23; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Tramadol schmerzlindernd über die Aktivierung von Opioidrezeptoren (µ-Rezeptor) und die Hemmung der Wiederaufnahme von Monoaminen wirkt.
 
 Die vorhergesagte Erkrankung ist eine seltene, erbliche Skelettfehlbildung, die mit Veränderungen im Gen CDMP1/GDF5 zusammenhängt. Ein Zusammenhang zwischen der Wirkweise von Tramadol und dieser Krankheitsursache ist nicht erkennbar. Tramadol greift in die Entwicklung des Skeletts nicht ein.
 
@@ -100,6 +100,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten zu dieser Erkrankung
 - Vollständige Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

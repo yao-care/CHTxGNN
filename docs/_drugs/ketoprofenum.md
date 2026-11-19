@@ -61,7 +61,7 @@ Ketoprofen ist ein entzündungshemmendes und schmerzlinderndes Arzneimittel aus 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Ketoprofen die Cyclooxygenasen COX-1 und COX-2 hemmt und dadurch Schmerzen und Entzündungen lindert.
+Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ketoprofenum (inoffizielle Übersetzung): „In entzündungshemmenden Modellen wurde gezeigt, dass Ketoprofen hemmende Wirkungen auf die Prostaglandin- und Leukotriensynthese, eine Antibradykinin-Aktivität sowie eine lysosomale membranstabilisierende Wirkung besitzt. Sein Wirkmechanismus ist jedoch, wie der anderer nichtsteroidaler Antirheumatika, nicht vollständig geklärt.“ Englischer Originalwortlaut: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), Fassung vom 2026-01-07; abgerufen am 2026-11-19). Bekannt ist, dass Ketoprofen die Cyclooxygenasen COX-1 und COX-2 hemmt und dadurch Schmerzen und Entzündungen lindert.
 
 Die akromesomele Dysplasie Typ Hunter-Thompson ist eine genetische Skeletterkrankung. Sie hängt mit Funktionsverlust-Mutationen im Gen CDMP1/GDF5 zusammen, das die Knorpelbildung steuert. Die COX-Hemmung greift in diesen Signalweg nicht ein.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Der Wirkmechanismus aus DrugBank
 - Die Prüfung, ob die topische Darreichungsform (Gel) für die Zielerkrankung überhaupt geeignet ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

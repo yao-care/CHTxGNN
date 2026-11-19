@@ -59,7 +59,7 @@ Decitabin ist ein zytostatisch wirkendes Nukleosidanalogon. Für die Zukunft sag
 
 ### Warum ist diese Vorhersage plausibel?
 
-Decitabin ist ein hypomethylierendes Nukleosidanalogon, das die DNA-Methyltransferase hemmt. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten, daher bleibt die mechanistische Einordnung begrenzt.
+Decitabin ist ein hypomethylierendes Nukleosidanalogon, das die DNA-Methyltransferase hemmt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Decitabinum (inoffizielle Übersetzung): „Es wird angenommen, dass Decitabin seine antineoplastischen Wirkungen nach Phosphorylierung und direktem Einbau in die DNA sowie Hemmung der DNA-Methyltransferase entfaltet, was eine Hypomethylierung der DNA und eine zelluläre Differenzierung oder Apoptose bewirkt. Decitabin hemmt in vitro die DNA-Methylierung, die bei Konzentrationen erreicht wird, die keine wesentliche Suppression der DNA-Synthese verursachen.“ Englischer Originalwortlaut: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), Fassung vom 2026-11-03; abgerufen am 2026-11-19).
 
 Die refraktäre Zytopenie des Kindesalters ist der häufigste Subtyp der myelodysplastischen Syndrome im Kindesalter. Eine gemeinsame Biologie mit gestörter Blutbildung und epigenetischer Fehlregulation bietet daher eine denkbare Verbindung zu einem hypomethylierenden Wirkprinzip.
 
@@ -111,6 +111,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus (z. B. aus DrugBank)
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Klärung der Eignung bei Kindern (Dosierung, Darreichungsweg, Sicherheit)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

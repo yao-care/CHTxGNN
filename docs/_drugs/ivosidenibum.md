@@ -61,7 +61,7 @@ Ivosidenib ist ein Hemmer der mutierten Isocitrat-Dehydrogenase 1 (IDH1), der in
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ivosidenib hemmt die mutierte IDH1. Dadurch sinkt in IDH1-mutierten Tumoren der Onkometabolit 2-Hydroxyglutarat (2-HG). Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Ivosidenib hemmt die mutierte IDH1. Dadurch sinkt in IDH1-mutierten Tumoren der Onkometabolit 2-Hydroxyglutarat (2-HG). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ivosidenibum (inoffizielle Übersetzung): „Ivosidenib ist ein niedermolekularer Inhibitor, der gegen das mutierte Enzym Isocitrat-Dehydrogenase 1 (IDH1) gerichtet ist. Bei Patienten mit AML sind empfindliche IDH1-Mutationen definiert als solche, die zu erhöhten Spiegeln von 2-Hydroxyglutarat (2-HG) in den Leukämiezellen führen und bei denen die Wirksamkeit vorhergesagt wird durch 1) klinisch bedeutsame Remissionen mit der empfohlenen Dosis von Ivosidenib und/oder 2) eine Hemmung der enzymatischen Aktivität des mutierten IDH1 bei Ivosidenib-Konzentrationen, die bei der empfohlenen Dosierung aufrechterhalten werden können, gemäß validierten Methoden.“ Englischer Originalwortlaut: "Ivosidenib is a small molecule inhibitor that targets the mutant isocitrate dehydrogenase 1 (IDH1) enzyme. In patients with AML, susceptible IDH1 mutations are defined as those leading to increased levels of 2-hydroxyglutarate (2-HG) in the leukemia cells and where efficacy is predicted by 1) clinically meaningful remissions with the recommended dose of ivosidenib and/or 2) inhibition of mutant IDH1 enzymatic activity at concentrations of ivosidenib sustainable at the recommended dosage according to validated methods." ([DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d), Fassung vom 2025-12-22; abgerufen am 2026-11-19).
 
 Die bulbäre Poliomyelitis ist eine Virusinfektion der Motoneuronen im Hirnstamm, ausgelöst durch das Poliovirus. Für eine Rolle von IDH1-Mutationen oder 2-HG bei der Entstehung dieser Erkrankung gibt es keine Hinweise. Eine antivirale Wirkung von Ivosidenib ist nicht beschrieben.
 
@@ -87,6 +87,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ein plausibler Wirkmechanismus oder präklinische Daten, die eine Wirkung von Ivosidenib bei Poliovirus-Infektionen belegen
 - Vollständige Angaben zum Wirkmechanismus des Arzneimittels
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsbewertung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tibsovo (ivosidenib) prescribing information, Servier Pharmaceutical LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65d254c0-67ad-42c4-b972-ad463b755b2d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

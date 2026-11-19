@@ -59,7 +59,7 @@ Calcifediol ist das wichtigste zirkulierende Vitamin-D-Stoffwechselprodukt und V
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Calcifediol liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Calcifediol die Vorstufe von Calcitriol, der aktiven Form von Vitamin D, die den Calcium- und Phosphathaushalt reguliert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Calcifediolum (inoffizielle Übersetzung): „Calcifediol (25-Hydroxyvitamin D 3 ) ist ein Prohormon der aktiven Form von Vitamin D 3, Calcitriol (1,25‑Dihydroxyvitamin D 3 ). Calcifediol wird hauptsächlich in der Niere durch Cytochrom P450 27B1 (CYP27B1), auch 1-alpha-Hydroxylase genannt, in Calcitriol umgewandelt.“ Englischer Originalwortlaut: "Calcifediol (25-hydroxyvitamin D 3 ) is a prohormone of the active form of vitamin D 3, calcitriol (1,25‑dihydroxyvitamin D 3 ). Calcifediol is converted to calcitriol by cytochrome P450 27B1 (CYP27B1), also called 1-alpha hydroxylase, primarily in the kidney." ([DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77), Fassung vom 2024-01-19; abgerufen am 2026-11-19). Allgemein ist Calcifediol die Vorstufe von Calcitriol, der aktiven Form von Vitamin D, die den Calcium- und Phosphathaushalt reguliert.
 
 Eine indirekte Verbindung ist denkbar: Die renale tubuläre Azidose, vor allem die distale (Typ 1) und die proximale (Typ 2) Form, geht oft mit Knochenstörungen wie Rachitis und Osteomalazie, mit erhöhter Calciumausscheidung im Urin und mit einer gestörten Aktivierung von Vitamin D in der Niere einher. Vitamin D wird bei diesen Knochenkomplikationen unterstützend eingesetzt.
 
@@ -89,6 +89,19 @@ Es ist allerdings unwahrscheinlich, dass Calcifediol den eigentlichen Defekt der
 - Ergänzung des Wirkmechanismus (z. B. aus DrugBank)
 - Auswertung der Fachinformationen von Swissmedic zu Warnhinweisen und Kontraindikationen, da die Sicherheitsprüfung derzeit nicht möglich ist
 - Klärung, ob ein Nutzen für die Knochenkomplikationen oder für die Grunderkrankung erwartet wird
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

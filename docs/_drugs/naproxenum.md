@@ -61,7 +61,7 @@ Naproxen ist ein nicht-selektiver Hemmer der Cyclooxygenasen (COX-1 und COX-2) a
 
 ### Warum ist diese Vorhersage plausibel?
 
-Naproxen hemmt COX-1 und COX-2 und senkt dadurch die Bildung von Prostaglandinen. Das erklärt die entzündungshemmende und schmerzlindernde Wirkung. Zur ursprünglichen Wirkmechanismus-Angabe liegen in den zusammengestellten Daten keine weiteren Informationen vor, was die mechanistische Bewertung zusätzlich einschränkt.
+Naproxen hemmt COX-1 und COX-2 und senkt dadurch die Bildung von Prostaglandinen. Das erklärt die entzündungshemmende und schmerzlindernde Wirkung. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Naproxenum (inoffizielle Übersetzung): „Naproxen besitzt analgetische, entzündungshemmende und fiebersenkende Eigenschaften. Der Wirkmechanismus von NAPRELAN ist, wie der anderer NSAR, nicht vollständig geklärt, beinhaltet jedoch eine Hemmung der Cyclooxygenase (COX-1 und COX-2).“ Englischer Originalwortlaut: "Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893), Fassung vom 2026-01-08; abgerufen am 2026-11-19).
 
 Das Brachydaktylie-Syndaktylie-Syndrom gehört zu den seltenen angeborenen Fehlbildungen der Gliedmassen. Es entsteht typischerweise durch Varianten in Genen, die die Entwicklung der Gliedmassen steuern (z. B. HOXD13). Eine Hemmung der Prostaglandinsynthese dürfte einen solchen strukturellen Entwicklungsdefekt nicht korrigieren.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Vollständige Angaben zum Wirkmechanismus
 - Präklinische oder klinische Hinweise, dass die Prostaglandinhemmung bei diesem Syndrom einen Nutzen haben könnte
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

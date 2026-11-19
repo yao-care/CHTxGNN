@@ -59,7 +59,7 @@ Phenobarbital ist ein Barbiturat, das in der Schweiz als Antiepileptikum und Sed
 
 ### Warum ist diese Vorhersage plausibel?
 
-Phenobarbital verstärkt die hemmende Wirkung des Botenstoffs GABA am GABA-A-Rezeptor und dämpft dadurch die Erregbarkeit von Nervenzellen. Diese Wirkung erklärt den Einsatz bei Krampfanfällen und zur Beruhigung. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Beschreibung stützt sich auf die allgemein bekannte Pharmakologie der Substanz.
+Phenobarbital verstärkt die hemmende Wirkung des Botenstoffs GABA am GABA-A-Rezeptor und dämpft dadurch die Erregbarkeit von Nervenzellen. Diese Wirkung erklärt den Einsatz bei Krampfanfällen und zur Beruhigung. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Phenobarbitalum (inoffizielle Übersetzung): „Der genaue Wirkmechanismus von Phenobarbital bei der Behandlung neonataler Krampfanfälle ist nicht vollständig geklärt, man nimmt jedoch an, dass er eine Verstärkung der synaptischen Hemmung über eine Wirkung am GABA A-Rezeptor umfasst.“ Englischer Originalwortlaut: "The precise mechanism of action for phenobarbital for the treatment of neonatal seizures is not fully understood, but it is thought to involve potentiation of synaptic inhibition through an action on the GABA A receptor." ([DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a), Fassung vom 2026-10-23; abgerufen am 2026-11-19).
 
 Eine plausible Verbindung zu einem Tumor des Trigeminusnervs ist nicht erkennbar. Für Phenobarbital ist keine Wirkung gegen Tumorwachstum bekannt. Die einzige verknüpfte Publikation ist eine spanische Fallserie zum Sturge-Weber-Syndrom (14 Fälle, 1997). Bei dieser neurokutanen Erkrankung dient Phenobarbital der Anfallskontrolle und nicht der Tumorbehandlung. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu neurologischen und anfallsbezogenen Begriffen im Modell wider und keine echte therapeutische Beziehung.
 
@@ -105,6 +105,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine begründete mechanistische Verbindung zwischen GABA-A-Modulation und Tumorwachstum
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

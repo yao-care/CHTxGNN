@@ -59,7 +59,7 @@ Evolocumab ist ein Antikörper, der den Cholesterinspiegel (LDL-C) senkt. Vorher
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Evolocumab das Protein PCSK9 blockiert. Dadurch bleiben mehr LDL-Rezeptoren in der Leber erhalten, und der LDL-Cholesterinspiegel sinkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Evolocumabum (inoffizielle Übersetzung): „Evolocumab ist ein humaner monoklonaler IgG2-Antikörper, der gegen die humane Proproteinkonvertase Subtilisin/Kexin Typ 9 (PCSK9) gerichtet ist. PCSK9 bindet an den Low-Density-Lipoprotein-Rezeptor (LDLR) auf der Oberfläche von Hepatozyten und fördert den Abbau des LDLR in der Leber.“ Englischer Originalwortlaut: "Evolocumab is a human monoclonal IgG2 directed against human proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein receptor (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e), Fassung vom 2026-10-12; abgerufen am 2026-11-19). Bekannt ist, dass Evolocumab das Protein PCSK9 blockiert. Dadurch bleiben mehr LDL-Rezeptoren in der Leber erhalten, und der LDL-Cholesterinspiegel sinkt.
 
 Ein biologischer Zusammenhang zwischen diesem Mechanismus und der Hämophilie bei Trägerinnen (Mangel an Gerinnungsfaktor VIII oder IX durch X-chromosomale Vererbung) ist nicht erkennbar. Evolocumab hat keinen bekannten Einfluss auf die Gerinnungskaskade.
 
@@ -86,6 +86,19 @@ Der hohe Vorhersagewert ist deshalb sehr wahrscheinlich ein Artefakt des Modells
 - Ein nachvollziehbarer biologischer Zusammenhang zwischen PCSK9-Hemmung und der Gerinnungsstörung, zum Beispiel aus präklinischen Studien.
 - Die Sicherheitsinformationen aus der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen), die in den vorliegenden Daten fehlen.
 - Die Mechanismusangaben aus einer Arzneimittelquelle wie DrugBank.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

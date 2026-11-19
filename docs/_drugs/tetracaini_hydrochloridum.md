@@ -61,7 +61,7 @@ Tetracainhydrochlorid ist in der Schweiz als Lokalanästhetikum in Form von Auge
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Tetracain liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Tetracain als Lokalanästhetikum vom Estertyp Natriumkanäle in Nervenzellen blockiert und so die Schmerzleitung hemmt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tetracaini Hydrochloridum (inoffizielle Übersetzung): „Tetracain blockiert die Natriumionenkanäle, die für die Auslösung und Weiterleitung neuronaler Impulse erforderlich sind, und bewirkt dadurch eine Lokalanästhesie.“ Englischer Originalwortlaut: "Tetracaine blocks sodium ion channels required for the initiation and conduction of neuronal impulses thereby affecting local anesthesia." ([DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a), Fassung vom 2026-08-28; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Tetracain als Lokalanästhetikum vom Estertyp Natriumkanäle in Nervenzellen blockiert und so die Schmerzleitung hemmt.
 
 Ein Zusammenhang mit der Acrodermatitis chronica atrophicans lässt sich daraus nicht belegen. Die Erkrankung ist eine späte Hautmanifestation einer Borrelien-Infektion. Ein Lokalanästhetikum hat keine plausible krankheitsmodifizierende Wirkung auf eine bakterielle Infektion. Der hohe Vorhersagewert stammt allein aus der modellbasierten Analyse und ist inhaltlich nicht gestützt. Höchstens eine symptomatische Schmerzlinderung wäre denkbar, auch dafür gibt es keine Daten.
 
@@ -93,6 +93,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die die Erkrankung direkt untersuchen
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Prüfung, ob die vorhandenen Darreichungsformen (Augentropfen) für eine Anwendung bei Hauterkrankungen überhaupt geeignet sind
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

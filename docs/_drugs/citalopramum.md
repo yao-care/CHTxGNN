@@ -61,7 +61,7 @@ Citalopram ist ein selektiver Serotonin-Wiederaufnahmehemmer (SSRI). Für die Zw
 
 ### Warum ist diese Vorhersage plausibel?
 
-Citalopram hemmt selektiv die Wiederaufnahme von Serotonin. Für diesen Wirkmechanismus liegen in den hier zusammengestellten Daten keine detaillierten Angaben vor; die Einordnung als SSRI ergibt sich aus den Zulassungstexten.
+Citalopram hemmt selektiv die Wiederaufnahme von Serotonin. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Citalopramum (inoffizielle Übersetzung): „Der Wirkmechanismus von Citalopram ist unklar, steht aber vermutlich mit einer Verstärkung der serotonergen Aktivität im Zentralnervensystem (ZNS) in Zusammenhang, die aus der Hemmung der neuronalen Wiederaufnahme von Serotonin (5-HT) im ZNS resultiert.“ Englischer Originalwortlaut: "The mechanism of action of citalopram is unclear, but is presumed to be related to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT)." ([DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177), Fassung vom 2023-10-09; abgerufen am 2026-11-19).
 
 Die Hemmung der Serotonin-Wiederaufnahme ist der am besten belegte pharmakologische Ansatz bei der Zwangsstörung, und SSRI gelten als medikamentöse Erstlinientherapie. Der hohe Vorhersagewert passt zu dieser klassenbezogenen Biologie.
 
@@ -129,6 +129,19 @@ Aus den Daten zur Vorhersage ergeben sich zusätzlich folgende Punkte, die zu be
 - Auswertung der Fachinformation (Warnungen, Kontraindikationen) von Swissmedic
 - Prüfung der dosisabhängigen QT-Verlängerung, des CYP2C19-Status und relevanter Wechselwirkungen
 - Ergänzung der Angaben zum Wirkmechanismus aus einer pharmakologischen Datenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Olanzapin ist in der Schweiz als Neuroleptikum zugelassen. Für die Hauptvorhers
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Olanzapin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist Olanzapin als Wirkstoff mit breiter Rezeptorblockade (unter anderem D2, 5-HT2A, H1, M1).
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Olanzapinum (inoffizielle Übersetzung): „Der Wirkmechanismus von Olanzapin in den aufgeführten Indikationen ist unklar. Die Wirksamkeit von Olanzapin bei Schizophrenie könnte jedoch durch eine Kombination aus Dopamin- und Serotonin-Typ-2-(5HT 2 -)Antagonismus vermittelt werden.“ Englischer Originalwortlaut: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), Fassung vom 2026-10-26; abgerufen am 2026-11-19). Bekannt ist Olanzapin als Wirkstoff mit breiter Rezeptorblockade (unter anderem D2, 5-HT2A, H1, M1).
 
 Der gutartige paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitierende, episodische Störung im Kindesalter. Sie steht in Zusammenhang mit Migräne und Kanalopathien (z. B. CACNA1A). Ein Zusammenhang mit der Rezeptorblockade von Olanzapin ist spekulativ und durch keine Daten gestützt. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu verwandten neurologischen Krankheitsbildern im Modell wider.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare mechanistische Begründung
 - Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

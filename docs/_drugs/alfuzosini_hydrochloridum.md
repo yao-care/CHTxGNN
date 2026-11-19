@@ -59,7 +59,7 @@ Alfuzosin ist ein Alpha-1-Adrenozeptor-Antagonist, der in der Schweiz bei der gu
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Alfuzosin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem pharmakologischem Wissen ist Alfuzosin ein selektiver Blocker von Alpha-1-Adrenozeptoren, der die glatte Muskulatur entspannt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Alfuzosini Hydrochloridum (inoffizielle Übersetzung): „Alfuzosin ist ein selektiver Antagonist postsynaptischer Alpha-1-Adrenozeptoren, die sich in der Prostata, am Blasengrund, im Blasenhals, in der Prostatakapsel und in der prostatischen Harnröhre befinden.“ Englischer Originalwortlaut: "Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra." ([DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3), Fassung vom 2024-12-05; abgerufen am 2026-11-19). Aus allgemeinem pharmakologischem Wissen ist Alfuzosin ein selektiver Blocker von Alpha-1-Adrenozeptoren, der die glatte Muskulatur entspannt.
 
 Ein nachvollziehbarer Zusammenhang zur vorhergesagten Erkrankung ist nicht erkennbar. Das Ambras-Syndrom ist eine angeborene genetische Störung, der eine genomische Umlagerung mit Auswirkung auf die Regulation des Gens TRPS1 zugrunde liegt. Ein Alpha-1-Blocker greift in diesen Mechanismus nicht ein. Der sehr hohe Vorhersagewert beruht vermutlich auf Netzwerknähe im Modell und nicht auf einem überprüften pharmakologischen Zusammenhang. Ein Mechanismus lässt sich mit den vorliegenden Daten nicht bestätigen.
 
@@ -90,6 +90,19 @@ Ein nachvollziehbarer Zusammenhang zur vorhergesagten Erkrankung ist nicht erken
 - Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da Sicherheitsdaten derzeit fehlen.
 - Eine Beschreibung des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank.
 - Präklinische oder mechanistische Hinweise, die einen Zusammenhang zwischen Alpha-1-Blockade und der Regulation des Haarwuchses bei dieser Erkrankung belegen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

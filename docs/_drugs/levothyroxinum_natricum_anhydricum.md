@@ -59,7 +59,7 @@ Levothyroxin-Natrium ist ein synthetisches Schilddrüsenhormon. Für die Vorhers
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Levothyroxin liegen in den vorliegenden Daten keine Angaben vor. Bekannt ist, dass Schilddrüsenhormone an der Entwicklung und Reifung der Niere beteiligt sind. Daraus lässt sich jedoch kein therapeutischer Nutzen ableiten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Levothyroxinum Natricum Anhydricum (inoffizielle Übersetzung): „Schilddrüsenhormone entfalten ihre physiologischen Wirkungen durch die Steuerung der DNA-Transkription und der Proteinsynthese. Triiodthyronin (T3) und L-Thyroxin (T4) diffundieren in den Zellkern und binden an Schilddrüsenrezeptorproteine, die an die DNA gebunden sind.“ Englischer Originalwortlaut: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174), Fassung vom 2026-11-06; abgerufen am 2026-11-19). Bekannt ist, dass Schilddrüsenhormone an der Entwicklung und Reifung der Niere beteiligt sind. Daraus lässt sich jedoch kein therapeutischer Nutzen ableiten.
 
 Die renale Hypodysplasie/Aplasie ist eine angeborene Fehlbildung, die etwa mit Mutationen in Genen wie PAX2, HNF1B oder RET zusammenhängt. Eine Hormonersatztherapie nach der Geburt kann solche Strukturdefekte nicht beheben. Der hohe Vorhersagewert spiegelt wahrscheinlich indirekte Zusammenhänge wider, etwa das gemeinsame Auftreten von angeborener Hypothyreose und Nierenfehlbildungen, und keine therapeutische Beziehung.
 
@@ -93,6 +93,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Fachinformation (Warnhinweise und Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Belastbare klinische oder präklinische Studien, die einen Zusammenhang zwischen Levothyroxin und der vorhergesagten Erkrankung direkt untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

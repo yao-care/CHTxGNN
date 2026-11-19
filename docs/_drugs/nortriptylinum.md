@@ -63,7 +63,7 @@ Das Evidenzniveau ist L3. Es gibt eine direkt zur Erkrankung durchgeführte rand
 
 ## Warum ist diese Vorhersage plausibel?
 
-Nortriptylin ist ein tricyclisches Antidepressivum mit Sekundäramin-Struktur. Es hemmt vor allem die Wiederaufnahme von Noradrenalin und in geringerem Mass die von Serotonin. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Diese Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
+Nortriptylin ist ein tricyclisches Antidepressivum mit Sekundäramin-Struktur. Es hemmt vor allem die Wiederaufnahme von Noradrenalin und in geringerem Mass die von Serotonin. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nortriptylinum (inoffizielle Übersetzung): „Der Mechanismus der Stimmungsaufhellung durch trizyklische Antidepressiva ist derzeit nicht bekannt. Pamelor ist kein Monoaminoxidase-Hemmer. Es hemmt die Aktivität so unterschiedlicher Substanzen wie Histamin, 5-Hydroxytryptamin und Acetylcholin.“ Englischer Originalwortlaut: "The mechanism of mood elevation by tricyclic antidepressants is at present unknown. Pamelor is not a monoamine oxidase inhibitor. It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine." ([DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb), Fassung vom 2024-12-04; abgerufen am 2026-11-19). Diese Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
 
 Bei ADHS ist die noradrenerge und dopaminerge Signalübertragung in präfrontalen Hirnregionen beeinträchtigt. Zugelassene Nicht-Stimulanzien wie Atomoxetin wirken ebenfalls über Noradrenalin. Auch das tricyclische Desipramin wirkt so. Ein Übersichtsartikel von 2004 (PMID 15064003) beschreibt tricyclische Antidepressiva, besonders die noradrenergen Sekundäramine Desipramin und Nortriptylin, als etablierte Alternativbehandlungen. Ihr enger therapeutischer Bereich und das Risiko für Herz-Kreislauf-Toxizität haben ihren Einsatz jedoch eingeschränkt.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Sicherheits- und Herzüberwachungsprüfung, insbesondere zu QT-Zeit, Erregungsleitung und anticholinergen Effekten.
 - Vollständigen Zugang zur Literatur (nur 10 der 15 Publikationen lagen vor). Die Studien sollten auf Ergebnisse, Teilnehmerzahlen und Studienphase geprüft werden.
 - Einen Vergleich mit zugelassenen Nicht-Stimulanzien (Kopf-an-Kopf oder als Zusatztherapie), bevor eine klinische Empfehlung erfolgt.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

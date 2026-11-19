@@ -61,7 +61,7 @@ Axitinib ist ein selektiver Hemmer der VEGF-Rezeptoren 1, 2 und 3 (zusätzlich w
 
 ### Warum ist diese Vorhersage plausibel?
 
-Axitinib hemmt die VEGF-Rezeptoren 1, 2 und 3 und damit die Neubildung von Blutgefässen (Angiogenese). Angaben zum Wirkmechanismus aus den Arzneimitteldatenbanken fehlen in den für diesen Bericht zusammengestellten Daten; die Beschreibung stützt sich auf die bekannte Pharmakologie dieser Wirkstoffklasse.
+Axitinib hemmt die VEGF-Rezeptoren 1, 2 und 3 und damit die Neubildung von Blutgefässen (Angiogenese). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Axitinibum (inoffizielle Übersetzung): „Es wurde gezeigt, dass Axitinib bei therapeutischen Plasmakonzentrationen Rezeptor-Tyrosinkinasen hemmt, darunter die Rezeptoren des vaskulären endothelialen Wachstumsfaktors (VEGFR)-1, VEGFR-2 und VEGFR-3. Diese Rezeptoren sind an pathologischer Angiogenese, Tumorwachstum und Krebsprogression beteiligt.“ Englischer Originalwortlaut: "Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression." ([DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338), Fassung vom 2026-03-12; abgerufen am 2026-11-19).
 
 Die Angiogenese gilt als wichtiger Treiber bei Weichteilsarkomen. Das myxoide Liposarkom besitzt ein auffälliges, plexiformes Netz kleiner Blutgefässe. Ein Hemmer der VEGF-Signalwege könnte daher dort theoretisch ansetzen.
 
@@ -121,6 +121,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung der Angaben zum Wirkmechanismus aus DrugBank
 - Klinische Daten (zunächst Phase-2-Studien) zu Axitinib beim Liposarkom
 - Prüfung, ob die präklinischen Ergebnisse vom myxoiden Subtyp auf andere Liposarkom-Formen übertragbar sind
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Lisinopril ist ein ACE-Hemmer, der in der Schweiz im Handel ist. Es wird vorherg
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lisinopril hemmt das Angiotensin-konvertierende Enzym (ACE) und senkt dadurch die Bildung von Angiotensin II. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Lisinopril hemmt das Angiotensin-konvertierende Enzym (ACE) und senkt dadurch die Bildung von Angiotensin II. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lisinoprilum (inoffizielle Übersetzung): „Lisinopril hemmt das Angiotensin-Converting-Enzym (ACE) beim Menschen und bei Tieren. ACE ist eine Peptidyl-Dipeptidase, die die Umwandlung von Angiotensin I in die vasokonstriktorische Substanz Angiotensin II katalysiert. Angiotensin II stimuliert außerdem die Aldosteronsekretion durch die Nebennierenrinde.“ Englischer Originalwortlaut: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), Fassung vom 2025-12-16; abgerufen am 2026-11-19).
 
 Das Renin-Angiotensin-System wird mit Gefässschäden durch Sauerstoffmangel in Verbindung gebracht. Eine Hemmung könnte deshalb theoretisch die durch Hypoxie ausgelöste Gefässverengung in der Lunge und den Umbau der Gefässwand abschwächen.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Studien zu Wirksamkeit und hämodynamischer Verträglichkeit bei dieser Patientengruppe
 - Auswertung der Fachinformation (Warnhinweise, Kontraindikationen), da diese Sicherheitsdaten fehlen
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

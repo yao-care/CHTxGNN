@@ -59,7 +59,7 @@ Amikacin ist ein Aminoglykosid-Antibiotikum, das in der Schweiz als Amikin im Ha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Amikacin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Aminoglykoside eine breite Aktivität gegen gramnegative Bakterien haben, darunter Enterobakterien wie Salmonellen. Im Labor ist daher eine Wirkung gegen den Erreger des Paratyphus (Salmonella Paratyphi) biologisch nachvollziehbar.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Amikacinum (inoffizielle Übersetzung): „Amikacin, ein Aminoglykosid, bindet an das prokaryotische Ribosom und hemmt die Proteinsynthese in empfindlichen Bakterien. Es wirkt in vitro bakterizid gegen grampositive und gramnegative Bakterien.“ Englischer Originalwortlaut: "Amikacin, an aminoglycoside, binds to the prokaryotic ribosome, inhibiting protein synthesis in susceptible bacteria. It is bactericidal in vitro against Gram-positive and Gram-negative bacteria." ([DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890), Fassung vom 2026-07-27; abgerufen am 2026-11-19). Bekannt ist, dass Aminoglykoside eine breite Aktivität gegen gramnegative Bakterien haben, darunter Enterobakterien wie Salmonellen. Im Labor ist daher eine Wirkung gegen den Erreger des Paratyphus (Salmonella Paratyphi) biologisch nachvollziehbar.
 
 Klinisch ist die Übertragbarkeit jedoch fraglich. Aminoglykoside dringen schlecht in Zellen ein, und Salmonella Paratyphi lebt zum Teil innerhalb von Zellen. Deshalb gelten sie bei Typhus- und Paratyphus-Erkrankungen nicht als Standardtherapie. Der hohe Vorhersagewert beruht wahrscheinlich eher auf der allgemeinen antibakteriellen Wirkstoffklasse als auf klinischer Evidenz.
 
@@ -110,6 +110,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus von Amikacin
 - Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
 - Eine Sicherheitsbewertung, insbesondere zu Nieren- und Gehörschäden unter Aminoglykosiden
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

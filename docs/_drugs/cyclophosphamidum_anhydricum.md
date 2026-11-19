@@ -61,7 +61,7 @@ Cyclophosphamid ist in der Schweiz als Zytostatikum zugelassen. Die Vorhersage n
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Cyclophosphamid ein alkylierendes Zytostatikum ist: Es wird in der Leber aktiviert und vernetzt die DNA, wodurch sich schnell teilende Zellen, darunter Lymphozyten, geschädigt werden.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cyclophosphamidum Anhydricum (inoffizielle Übersetzung): „Der Wirkmechanismus ist nicht vollständig charakterisiert. Möglicherweise ist jedoch eine Quervernetzung der DNA von Tumorzellen beteiligt. Die aktiven alkylierenden Metaboliten von Cyclophosphamid beeinträchtigen das Wachstum empfindlicher, sich rasch vermehrender maligner Zellen.“ Englischer Originalwortlaut: "The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells." ([DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e), Fassung vom 2026-08-26; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Cyclophosphamid ein alkylierendes Zytostatikum ist: Es wird in der Leber aktiviert und vernetzt die DNA, wodurch sich schnell teilende Zellen, darunter Lymphozyten, geschädigt werden.
 
 Bei einem Syndrom mit T-Zell-Dysfunktion könnte man daher eine immunmodulierende oder immunsuppressive Wirkung vermuten. Dies ist jedoch nur eine Hypothese. Es gibt keine Daten, die einen solchen Zusammenhang stützen.
 
@@ -102,6 +102,19 @@ Zugleich besteht ein ernstes Bedenken: Cyclophosphamid verringert Lymphozyten un
 - Eine Nutzen-Risiko-Bewertung zur möglichen Verschlechterung der T-Zell-Dysfunktion
 - Die Sicherheitsinformationen (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

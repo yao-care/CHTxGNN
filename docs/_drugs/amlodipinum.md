@@ -59,7 +59,7 @@ Amlodipin ist ein Calciumantagonist, der in der Schweiz als Tablette im Handel i
 
 ### Warum ist diese Vorhersage plausibel?
 
-Amlodipin gehört zu den Calciumantagonisten vom Dihydropyridin-Typ. Es hemmt den Calciumeinstrom in die glatten Gefässmuskelzellen und senkt dadurch den Blutdruck. Die Angaben zum genauen Wirkmechanismus fehlen in den zusammengestellten Daten.
+Amlodipin gehört zu den Calciumantagonisten vom Dihydropyridin-Typ. Es hemmt den Calciumeinstrom in die glatten Gefässmuskelzellen und senkt dadurch den Blutdruck. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Amlodipinum (inoffizielle Übersetzung): „Amlodipin ist ein Dihydropyridin-Calciumantagonist (Calciumionen-Antagonist oder Slow-Channel-Blocker), der den transmembranären Einstrom von Calciumionen in die glatte Gefäßmuskulatur und den Herzmuskel hemmt. Experimentelle Daten deuten darauf hin, dass Amlodipin sowohl an Dihydropyridin- als auch an Nicht-Dihydropyridin-Bindungsstellen bindet.“ Englischer Originalwortlaut: "Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites." ([DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487), Fassung vom 2026-09-28; abgerufen am 2026-11-19).
 
 Ein möglicher Zusammenhang mit dem Hirnstamminfarkt ergibt sich aus der Blutdrucksenkung, die zur Vorbeugung weiterer Schlaganfälle beitragen kann. Denkbar sind zudem gefässbezogene oder neuroprotektive Effekte.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Studien oder Publikationen, die Amlodipin direkt bei Hirnstamminfarkt untersuchen
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

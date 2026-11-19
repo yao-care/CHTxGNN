@@ -61,7 +61,7 @@ Natalizumab ist ein monoklonaler Antikörper, der in der Schweiz zur Behandlung 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Natalizumab blockiert α4-Integrin und verringert dadurch das Einwandern von Leukozyten in entzündetes Gewebe. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Natalizumab blockiert α4-Integrin und verringert dadurch das Einwandern von Leukozyten in entzündetes Gewebe. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Natalizumabum (inoffizielle Übersetzung): „Natalizumab bindet an die α4-Untereinheit der α4β1- und α4β7-Integrine, die auf der Oberfläche aller Leukozyten mit Ausnahme der Neutrophilen exprimiert werden, und hemmt die α4-vermittelte Adhäsion von Leukozyten an ihren/ihre Gegenrezeptor(en). Zu den Rezeptoren für die α4-Familie der Integrine gehören das vaskuläre Zelladhäsionsmolekül-1 (VCAM-1), das auf aktiviertem Gefäßendothel exprimiert wird, und das mukosale Addressin-Zelladhäsionsmolekül-1 (MAdCAM-1), das auf Gefäßendothelzellen des Gastrointestinaltrakts vorhanden ist.“ Englischer Originalwortlaut: "Natalizumab binds to the α4-subunit of α4β1 and α4β7 integrins expressed on the surface of all leukocytes except neutrophils, and inhibits the α4-mediated adhesion of leukocytes to their counter-receptor(s). The receptors for the α4 family of integrins include vascular cell adhesion molecule-1 (VCAM-1), which is expressed on activated vascular endothelium, and mucosal addressin cell adhesion molecule-1 (MAdCAM-1) present on vascular endothelial cells of the gastrointestinal tract." ([DailyMed: Tysabri (natalizumab) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5fdde91-1989-4dd2-9129-4f3323ea2962), Fassung vom 2026-10-09; abgerufen am 2026-11-19).
 
 Theoretisch könnte eine geringere Einwanderung von Immunzellen auch Entzündungen der Atemwege dämpfen. Dieser Zusammenhang ist jedoch nicht durch Studien belegt.
 
@@ -97,6 +97,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Analyse des Nutzen-Risiko-Verhältnisses, insbesondere zu Infektionsrisiken und zur progressiven multifokalen Leukoenzephalopathie (PML)
 - Die Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation
 - Eine vollständige Beschreibung des Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tysabri (natalizumab) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5fdde91-1989-4dd2-9129-4f3323ea2962) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

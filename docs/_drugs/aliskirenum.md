@@ -61,7 +61,7 @@ Aliskiren ist ein Arzneimittel, das in der Schweiz zugelassen war und die Bildun
 
 ### Warum ist diese Vorhersage plausibel?
 
-Aliskiren hemmt das Enzym Renin und senkt dadurch die Bildung von Angiotensin II. Zum genauen Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Aliskiren hemmt das Enzym Renin und senkt dadurch die Bildung von Angiotensin II. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Aliskirenum (inoffizielle Übersetzung): „Renin wird von der Niere als Reaktion auf eine Abnahme des Blutvolumens und der renalen Perfusion sezerniert. Renin spaltet Angiotensinogen unter Bildung des inaktiven Decapeptids Angiotensin I (Ang I). Ang I wird über ACE- und Nicht-ACE-Wege in das aktive Octapeptid Angiotensin II (Ang II) umgewandelt.“ Englischer Originalwortlaut: "Renin is secreted by the kidney in response to decreases in blood volume and renal perfusion. Renin cleaves angiotensinogen to form the inactive decapeptide angiotensin I (Ang I). Ang I is converted to the active octapeptide angiotensin II (Ang II) by ACE and non-ACE pathways." ([DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb), Fassung vom 2022-12-30; abgerufen am 2026-11-19).
 
 Intermittierende Hypoxie aktiviert das Renin-Angiotensin-System (RAS). Angiotensin II fördert dabei die Aktivierung des sympathischen Nervensystems, den Umbau von Gefässen und die Signalwege für Wachstumsfaktoren. Diese Vorgänge sind für Gefässerkrankungen der Lunge im Zusammenhang mit Sauerstoffmangel von Bedeutung. In Ratten schwächte Aliskiren den Umbau der Vorhöfe ab, der durch chronische intermittierende Hypoxie ausgelöst wurde.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Bei positiven präklinischen Ergebnissen: eine klinische Pilotstudie mit sorgfältiger Prüfung der Sicherheit (Blutdruck, Kalium, Nierenfunktion)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

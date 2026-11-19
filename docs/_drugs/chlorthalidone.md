@@ -60,7 +60,7 @@ Chlortalidon ist in der Schweiz als Diuretikum und Antihypertensivum zur Behandl
 
 ## Warum ist diese Vorhersage plausibel?
 
-Der Wirkmechanismus von Chlortalidon ist in den für diesen Bericht zusammengestellten Daten nicht verfügbar. Bekannt ist lediglich, dass es als Diuretikum und Blutdrucksenker zugelassen ist. Chlortalidon gehört zu den thiazidähnlichen Diuretika.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Chlorthalidone (inoffizielle Übersetzung): „Chlortalidon ist ein lang wirksames orales Diuretikum mit antihypertensiver Wirkung. Die diuretischen Wirkungen von Chlortalidon und den Benzothiadiazin-(Thiazid-)Diuretika scheinen auf ähnlichen Mechanismen zu beruhen, und die maximale Wirkung von Chlortalidon und den Thiaziden scheint vergleichbar zu sein.“ Englischer Originalwortlaut: "Chlorthalidone is a long-acting oral diuretic with antihypertensive activity. The diuretic effects of chlorthalidone and the benzothiadiazine (thiazide) diuretics appear to arise from similar mechanisms and the maximal effect of chlorthalidone and the thiazides appear to be similar." ([DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15), Fassung vom 2026-06-25; abgerufen am 2026-11-19). Bekannt ist lediglich, dass es als Diuretikum und Blutdrucksenker zugelassen ist. Chlortalidon gehört zu den thiazidähnlichen Diuretika.
 
 Eine belastbare Verbindung zwischen der ursprünglichen Indikation (Bluthochdruck) und dem Glaukom lässt sich aus den vorliegenden Daten nicht ableiten. Thiazidähnliche Diuretika sind keine etablierte Glaukomtherapie. Denkbar, aber rein spekulativ, wären Effekte auf die Kammerwasserdynamik oder den Elektrolythaushalt. Ein hoher Graphwert allein belegt keinen plausiblen Mechanismus.
 
@@ -125,6 +125,19 @@ Für Warnhinweise und Kontraindikationen aus der Fachinformation bitte die aktue
 ---
 
 **Hinweis zu weiteren Vorhersagen:** Unter den zehn bestbewerteten Vorhersagen weist nur die Indikation «chronische Cor-pulmonale-Erkrankung» (Evidenzniveau L4) schwache indirekte Hinweise auf. Dort stützt sich die Evidenz auf einen historischen Bericht von 1967 zur diuretischen Therapie mit Chlortalidon bei Herzinsuffizienz infolge chronischen Cor pulmonale. Dieser Befund ist als Forschungsfrage einzustufen, nicht als belastbare Evidenz.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

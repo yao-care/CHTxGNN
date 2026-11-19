@@ -61,7 +61,7 @@ Leflunomid ist ein Immunmodulator, der die Dihydroorotat-Dehydrogenase (DHODH) h
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die folgenden Ausführungen beruhen auf allgemeinem pharmakologischem Wissen. Leflunomid wird im Körper zu Teriflunomid umgewandelt und hemmt die DHODH. Dadurch wird die Neubildung von Pyrimidinen blockiert, und aktivierte Lymphozyten vermehren sich weniger.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Leflunomidum (inoffizielle Übersetzung): „Leflunomid ist ein immunmodulatorischer Wirkstoff aus der Gruppe der Isoxazole, der die Dihydroorotat-Dehydrogenase (ein an der De-novo-Pyrimidinsynthese beteiligtes mitochondriales Enzym) hemmt und antiproliferativ wirkt. In mehreren experimentellen In-vivo- und In-vitro-Modellen wurde eine entzündungshemmende Wirkung nachgewiesen.“ Englischer Originalwortlaut: "Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect." ([DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52), Fassung vom 2025-06-04; abgerufen am 2026-11-19). Die folgenden Ausführungen beruhen auf allgemeinem pharmakologischem Wissen. Leflunomid wird im Körper zu Teriflunomid umgewandelt und hemmt die DHODH. Dadurch wird die Neubildung von Pyrimidinen blockiert, und aktivierte Lymphozyten vermehren sich weniger.
 
 Ein Zusammenhang mit einer angeborenen Gliedmassenfehlbildung ist nicht belegt. Die DHODH spielt zwar für die Entwicklung der Gliedmassen eine Rolle: Ein Funktionsverlust verursacht das Miller-Syndrom, und Leflunomid bzw. Teriflunomid wirken fruchtschädigend. Dieser Zusammenhang weist jedoch eher auf ein Fehlbildungsrisiko als auf einen Nutzen hin.
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung derzeit nicht möglich)
 - Präklinische oder klinische Belege, die einen Nutzen bei dieser Erkrankung direkt untersuchen
 - Eine fachliche Prüfung, ob ein Behandlungsansatz bei einer angeborenen Fehlbildung biologisch sinnvoll ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

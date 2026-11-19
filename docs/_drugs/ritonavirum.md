@@ -65,7 +65,7 @@ Die einzige erfasste Schweizer Einzelpräparat-Zulassung von Ritonavir (Norvir, 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Ritonavir liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem Fachwissen ist bekannt, dass Ritonavir die HIV-1-Protease hemmt und zudem das Enzym CYP3A4 stark hemmt, weshalb es als pharmakokinetischer Verstärker eingesetzt wird.
+Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ritonavirum (inoffizielle Übersetzung): „Ritonavir ist ein antiretrovirales Arzneimittel. […] Ritonavir ist ein peptidomimetischer Inhibitor der HIV-1-Protease. Die Hemmung der HIV-Protease macht das Enzym unfähig, den Gag-Pol-Polyprotein-Vorläufer zu prozessieren, was zur Bildung nicht infektiöser, unreifer HIV-Partikel führt.“ Englischer Originalwortlaut: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), Fassung vom 2026-07-23; abgerufen am 2026-11-19). Aus allgemeinem Fachwissen ist bekannt, dass Ritonavir die HIV-1-Protease hemmt und zudem das Enzym CYP3A4 stark hemmt, weshalb es als pharmakokinetischer Verstärker eingesetzt wird.
 
 Das Feline Immundefizienzvirus (FIV) gehört wie HIV zu den Lentiviren. Das wäre ein möglicher Anknüpfungspunkt. Die Protease von FIV unterscheidet sich jedoch von der HIV-1-Protease in Substratspezifität und Empfindlichkeit gegenüber Hemmstoffen. Eine Wirkung von Ritonavir gegen die FIV-Protease ist durch die vorliegenden Daten nicht belegt.
 
@@ -116,11 +116,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ## Prüfprotokoll
 
-Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt.
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-17 | „mit gültiger Zulassung im Handel“ → Einzelpräparat nicht mehr zugelassen, Kombinationen weiterhin zugelassen | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->
 

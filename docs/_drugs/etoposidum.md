@@ -61,7 +61,7 @@ Etoposid ist in der Schweiz als Zytostatikum zugelassen. Für das gut differenzi
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem Fachwissen ist Etoposid ein Hemmer der Topoisomerase II: Es verursacht DNA-Doppelstrangbrüche und wirkt vor allem auf sich rasch teilende Tumorzellen. Es wird bei verschiedenen Lungentumoren eingesetzt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Etoposidum (inoffizielle Übersetzung): „Etoposid bewirkt die Induktion von DNA-Strangbrüchen durch eine Wechselwirkung mit der DNA-Topoisomerase II oder durch die Bildung freier Radikale, was zu einem Zellzyklusarrest, vorwiegend in der G2-Phase des Zellzyklus, und zum Zelltod führt.“ Englischer Originalwortlaut: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), Fassung vom 2026-10-07; abgerufen am 2026-11-19). Aus allgemeinem Fachwissen ist Etoposid ein Hemmer der Topoisomerase II: Es verursacht DNA-Doppelstrangbrüche und wirkt vor allem auf sich rasch teilende Tumorzellen. Es wird bei verschiedenen Lungentumoren eingesetzt.
 
 Das gut differenzierte fetale Adenokarzinom ist eine sehr seltene Lungenkrebsform. Es tritt auch als Bestandteil des biphasischen Lungenblastoms auf. Für Lungenblastome sind in der Literatur Chemotherapien mit Platin und Etoposid beschrieben. Der Zusammenhang mit dem fetalen Adenokarzinom beruht daher auf gemeinsamer Tumorbiologie der Lungentumoren und ist indirekt.
 
@@ -120,6 +120,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Studien oder Fallserien, die Etoposid-haltige Therapien direkt beim gut differenzierten fetalen Adenokarzinom der Lunge untersuchen
 - Wirkmechanismus und Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Bewertung durch die Fachonkologie, ob bei dieser sehr seltenen Tumorform ein Einsatz im Rahmen etablierter Chemotherapieprotokolle sinnvoll ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

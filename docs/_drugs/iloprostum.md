@@ -59,7 +59,7 @@ Iloprost ist in der Schweiz als Prostacyclin-Analogon zugelassen und wird bei pr
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Iloprost ein stabiles Prostacyclin-Analogon (PGI2) ist. Es wirkt über IP-Rezeptoren gefässerweiternd und hemmt die Blutplättchenaggregation.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Iloprostum (inoffizielle Übersetzung): „Iloprost ist ein synthetisches Analogon von Prostacyclin PGI 2. Iloprost ist ein Vasodilatator und hemmt die Thrombozytenaggregation.“ Englischer Originalwortlaut: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), Fassung vom 2026-08-13; abgerufen am 2026-11-19). Bekannt ist, dass Iloprost ein stabiles Prostacyclin-Analogon (PGI2) ist. Es wirkt über IP-Rezeptoren gefässerweiternd und hemmt die Blutplättchenaggregation.
 
 Eine mögliche, rein spekulative Überlegung ist eine bessere Durchblutung der Kopfhaut rund um die Haarfollikel. Prostaglandine beeinflussen das Haarwachstum: PGF2α-Analoga fördern es, PGD2 hemmt es. Die Rolle von PGI2 ist unklar.
 
@@ -94,6 +94,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Präklinische Daten oder erste klinische Studien zur Wirkung von Iloprost bei dieser Haarerkrankung
 - Prüfung der Anwendungswege, da für die Kopfhaut bisher keine passende Darreichungsform bekannt ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

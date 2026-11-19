@@ -59,7 +59,7 @@ Deferasirox ist ein oraler Eisenchelator, der in der Schweiz im Handel ist. Laut
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Deferasirox liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass der Wirkstoff Eisen bindet (Eisenchelator).
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Deferasiroxum (inoffizielle Übersetzung): „Exjade (Deferasirox) ist ein oral wirksamer Chelatbildner, der selektiv für Eisen (als Fe 3+ ) ist. Es ist ein dreizähniger Ligand, der Eisen mit hoher Affinität im Verhältnis 2:1 bindet. Obwohl Deferasirox eine sehr geringe Affinität zu Zink und Kupfer aufweist, kommt es nach der Gabe von Deferasirox zu unterschiedlich starken Abnahmen der Serumkonzentration dieser Spurenmetalle.“ Englischer Originalwortlaut: "Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox." ([DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85), Fassung vom 2026-01-28; abgerufen am 2026-11-19). Bekannt ist, dass der Wirkstoff Eisen bindet (Eisenchelator).
 
 Die Überlegung hinter der Vorhersage: Viren benötigen Eisen für ihre Vermehrung. In Laborversuchen (in vitro) wurde vorgeschlagen, dass Eisenchelation die Vermehrung von HIV-1 hemmen könnte, etwa über Effekte auf die Ribonukleotid-Reduktase und zelluläre Aktivierungswege wie CDK2/CDK9.
 
@@ -94,6 +94,19 @@ Die Liste enthält mindestens 4 Zulassungen und ist möglicherweise unvollständ
 - Systematische Literaturrecherche und Prüfung registrierter Studien zu Eisenchelation bei HIV
 - Präklinische oder klinische Belege für eine antivirale Wirkung von Deferasirox bei HIV
 - Bewertung der Sicherheit, insbesondere der Leberverträglichkeit und der Eisenverhältnisse bei HIV-positiven Patienten
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

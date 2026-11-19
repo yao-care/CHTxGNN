@@ -59,7 +59,7 @@ Cetuximab ist ein Antikörper, der gegen den epidermalen Wachstumsfaktor-Rezepto
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Cetuximab den EGFR blockiert und so Wachstumssignale in Tumorzellen hemmen kann.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cetuximabum (inoffizielle Übersetzung): „Der epidermale Wachstumsfaktorrezeptor (EGFR, HER1, c-ErbB-1) ist ein transmembranäres Glykoprotein, das zu einer Unterfamilie der Typ-I-Rezeptor-Tyrosinkinasen gehört, zu der EGFR, HER2, HER3 und HER4 zählen. Der EGFR wird in vielen normalen Epithelgeweben, einschließlich der Haut und des Haarfollikels, konstitutiv exprimiert. […] Cetuximab bindet spezifisch an den EGFR sowohl auf normalen Zellen als auch auf Tumorzellen und hemmt kompetitiv die Bindung des epidermalen Wachstumsfaktors (EGF) und anderer Liganden, wie z. B. des transformierenden Wachstumsfaktors alpha.“ Englischer Originalwortlaut: "The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha." ([DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9), Fassung vom 2026-04-16; abgerufen am 2026-11-19). Bekannt ist, dass Cetuximab den EGFR blockiert und so Wachstumssignale in Tumorzellen hemmen kann.
 
 Ein Zusammenhang mit dem chondroiden Hamartom, einer gutartigen Läsion, ist durch keine Daten belegt. Die EGFR-Blockade ist zwar ein denkbarer Ansatz, es fehlen aber Studien, Fallberichte oder mechanistische Arbeiten, die ihn für diese Erkrankung stützen. Der hohe Vorhersagewert ist deshalb als Hinweis für weitere Abklärungen zu verstehen, nicht als Nachweis einer Wirkung.
 
@@ -95,6 +95,19 @@ Ein Zusammenhang mit dem chondroiden Hamartom, einer gutartigen Läsion, ist dur
 - Wirkmechanismus aus einer Arzneimitteldatenbank ergänzen
 - Systematische Literatur- und Studienrecherche zum chondroiden Hamartom
 - Prüfung, ob eine EGFR-Abhängigkeit dieser gutartigen Läsion überhaupt besteht
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

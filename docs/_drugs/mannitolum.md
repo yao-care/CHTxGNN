@@ -61,7 +61,7 @@ Mannitol ist ein osmotisch wirkendes Diuretikum. Für das nephrogene Syndrom der
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Mannitol liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Mannitol als osmotisches Diuretikum die Urinausscheidung steigert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Mannitolum (inoffizielle Übersetzung): „Mannitol entfaltet bei intravenöser Gabe seine osmotisch diuretische Wirkung als gelöster Stoff mit relativ geringer Molekülgröße, der weitgehend auf den Extrazellularraum beschränkt bleibt. Mannitol hemmt die tubuläre Rückresorption von Wasser und steigert die Ausscheidung von Natrium und Chlorid, indem es die Osmolarität des glomerulären Filtrats erhöht.“ Englischer Originalwortlaut: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), Fassung vom 2025-08-26; abgerufen am 2026-11-19). Bekannt ist, dass Mannitol als osmotisches Diuretikum die Urinausscheidung steigert.
 
 Das nephrogene Syndrom der inadäquaten Antidiurese entsteht durch eine übermässig aktive Vasopressin-V2-Rezeptor-Funktion (Funktionsgewinn). Dadurch behält der Körper Wasser zurück, und es kommt zu einer Hyponatriämie (zu wenig Natrium im Blut). Theoretisch könnte eine osmotische Diurese die Ausscheidung von freiem Wasser erhöhen.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Prüfung der Fachinformation auf Warnhinweise und Gegenanzeigen, da diese Sicherheitsdaten derzeit fehlen.
 - Eine Klärung des Wirkmechanismus von Mannitol, um die mechanistische Verbindung zur Erkrankung zu beurteilen.
 - Präklinische oder klinische Daten, die einen Nutzen bei dieser Erkrankung belegen und das Risiko einer Verschlechterung der Hyponatriämie ausschliessen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Efavirenz ist ein Hemmer der Reversen Transkriptase von HIV-1 (NNRTI). Die Vorhe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Efavirenz hemmt die Reverse Transkriptase von HIV-1, ein Enzym, das das Virus zur Vermehrung benötigt. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Efavirenz hemmt die Reverse Transkriptase von HIV-1, ein Enzym, das das Virus zur Vermehrung benötigt. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Efavirenzum (inoffizielle Übersetzung): „Efavirenz ist ein antiviraler Wirkstoff. […] Efavirenz ist ein NNRTI von HIV-1. Die Aktivität von Efavirenz beruht überwiegend auf einer nicht-kompetitiven Hemmung der HIV-1-Reverse-Transkriptase. Die HIV-2-Reverse-Transkriptase und die humanen zellulären DNA-Polymerasen α, β, γ und δ werden durch Efavirenz nicht gehemmt.“ Englischer Originalwortlaut: "Efavirenz is an antiviral drug. […] Efavirenz is an NNRTI of HIV-1. Efavirenz activity is mediated predominantly by noncompetitive inhibition of HIV-1 reverse transcriptase. HIV-2 reverse transcriptase and human cellular DNA polymerases α,β, γ, and δ are not inhibited by efavirenz." ([DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358), Fassung vom 2024-06-28; abgerufen am 2026-11-19).
 
 In der Forschung wird ein Chimärvirus (RT-SHIV) eingesetzt: Es basiert auf dem Affenvirus SIV, trägt aber die Reverse Transkriptase von HIV-1. Dadurch ist es für Efavirenz empfindlich, und Rhesusaffen können damit als Tiermodell behandelt werden. Natürliches SIV dagegen ist gegenüber NNRTIs von Natur aus unempfindlich.
 
@@ -119,6 +119,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob für diese Fragestellung überhaupt ein Nutzen über das präklinische Modell hinaus besteht
 - Ergänzung der Angaben zum Wirkmechanismus
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

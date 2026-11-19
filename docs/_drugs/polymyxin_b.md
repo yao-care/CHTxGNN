@@ -60,7 +60,7 @@ Polymyxin B ist in der Schweiz zugelassen zur Behandlung von Augeninfektionen, i
 
 ## Warum ist diese Vorhersage plausibel?
 
-Polymyxin B wirkt bakterizid gegen gramnegative Bakterien, indem es deren äussere Zellmembran zerstört. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor. Das genannte Prinzip stammt aus der Literaturbewertung.
+Polymyxin B wirkt bakterizid gegen gramnegative Bakterien, indem es deren äussere Zellmembran zerstört. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Polymyxin B (inoffizielle Übersetzung): „Polymyxin-B-Sulfat wirkt bakterizid gegen nahezu alle gramnegativen Stäbchen mit Ausnahme der Proteus-Gruppe. Polymyxine erhöhen die Permeabilität der bakteriellen Zellmembran, was zum Tod der Zelle führt. Alle grampositiven Bakterien, Pilze und gramnegativen Kokken sind gegen Polymyxin B resistent. Spezifische Informationen zu den von der FDA für dieses Arzneimittel anerkannten Kriterien für Empfindlichkeitstests sowie den zugehörigen Testmethoden und Qualitätskontrollstandards finden Sie unter: www.fda.gov/STIC.“ Englischer Originalwortlaut: "Polymyxin B sulfate has a bactericidal action against almost all gram-negative bacilli except the Proteus group. Polymyxins increase the permeability of bacterial cell membrane leading to death of the cell. All gram positive bacteria, fungi, and gram-negative cocci are resistant to polymyxin B. For specific information regarding susceptibility test criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: www.fda.gov/STIC." ([DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6), Fassung vom 2026-06-22; abgerufen am 2026-11-19). Das genannte Prinzip stammt aus der Literaturbewertung.
 
 Die Zulassungen betreffen bakterielle Infektionen an Auge und Ohr. Bakterielle Infektionen der Atemwege, etwa durch *Pseudomonas aeruginosa* oder *Acinetobacter baumannii*, könnten prinzipiell denselben antibakteriellen Mechanismus nutzen. Kohortenstudien zu beatmungsassoziierter Pneumonie und Tracheobronchitis sowie zu inhaliertem Polymyxin B bei multiresistenten Keimen (2007, 2013) stützen diese Überlegung indirekt.
 
@@ -128,6 +128,18 @@ Angaben zu Warnungen und Kontraindikationen aus der Fachinformation liegen nicht
 - Klärung einer geeigneten Darreichungsform und Applikationsroute für die Atemwege, da die zugelassenen Formen nur für Auge und Ohr bestimmt sind
 
 ---
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6) |
+
+<!-- review:end log -->
 
 ## Haftungsausschluss
 

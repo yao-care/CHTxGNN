@@ -61,7 +61,7 @@ Cabozantinib ist ein Multi-Tyrosinkinase-Inhibitor, der in der Schweiz unter dem
 
 ### Warum ist diese Vorhersage plausibel?
 
-Cabozantinib hemmt mehrere Tyrosinkinasen gleichzeitig, darunter VEGFR2, MET, AXL, RET und KIT. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor. Die folgende Einordnung beruht auf dem bekannten Zielprofil des Wirkstoffs.
+Cabozantinib hemmt mehrere Tyrosinkinasen gleichzeitig, darunter VEGFR2, MET, AXL, RET und KIT. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cabozantinibum (inoffizielle Übersetzung): „In-vitro-Biochemie- und/oder Zellassays haben gezeigt, dass Cabozantinib die Tyrosinkinaseaktivität von MET, VEGFR-1, -2 und -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3 und TIE-2 hemmt. Diese Rezeptortyrosinkinasen sind sowohl an der normalen Zellfunktion als auch an pathologischen Prozessen wie Onkogenese, Metastasierung, Tumorangiogenese, Arzneimittelresistenz und Aufrechterhaltung der Tumormikroumgebung beteiligt.“ Englischer Originalwortlaut: "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment." ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), Fassung vom 2025-10-19; abgerufen am 2026-11-19). Die folgende Einordnung beruht auf dem bekannten Zielprofil des Wirkstoffs.
 
 Die Signalwege für Gefässneubildung (Angiogenese) sowie MET und AXL gelten als wichtig für das Wachstum von Weichteilsarkomen und für die Umgehung der Immunabwehr. Das Liposarkom gehört zu den Weichteilsarkomen. Eine Hemmung dieser Wege könnte deshalb auch hier das Tumorwachstum bremsen. Zusammen mit Checkpoint-Inhibitoren (Ipilimumab, Nivolumab) ist ein Nutzen denkbar, weil die Hemmung von VEGFR und AXL die Immununterdrückung im Tumorumfeld verringern könnte.
 
@@ -126,6 +126,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Studien oder Auswertungen, die Cabozantinib gezielt beim Liposarkom untersuchen
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Eine geprüfte Beschreibung des Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

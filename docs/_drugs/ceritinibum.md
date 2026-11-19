@@ -59,7 +59,7 @@ Ceritinib ist ein Onkologikum, das in der Schweiz im Handel ist. Die Vorhersage 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Ceritinib liegen in den zusammengestellten Daten keine Angaben vor. Aus der Literatur zu anderen Krankheiten ist bekannt, dass Ceritinib die anaplastische Lymphomkinase (ALK) hemmt. Für die gingivale Fibromatose ist jedoch kein ALK-getriebener oder kinaseabhängiger Krankheitsmechanismus belegt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ceritinibum (inoffizielle Übersetzung): „Ceritinib ist ein Kinase-Inhibitor. Zu den in biochemischen oder zellulären Assays bei klinisch relevanten Konzentrationen identifizierten Zielstrukturen der Hemmung durch Ceritinib gehören ALK, der Insulin-like-Growth-Factor-1-Rezeptor (IGF-1R), der Insulinrezeptor (InsR) und ROS1.“ Englischer Originalwortlaut: "Ceritinib is a kinase inhibitor. Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1." ([DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e), Fassung vom 2026-10-28; abgerufen am 2026-11-19). Aus der Literatur zu anderen Krankheiten ist bekannt, dass Ceritinib die anaplastische Lymphomkinase (ALK) hemmt. Für die gingivale Fibromatose ist jedoch kein ALK-getriebener oder kinaseabhängiger Krankheitsmechanismus belegt.
 
 Die Vorhersage stützt sich ausschliesslich auf eine statistische Assoziation im Modell. Es gibt keine Studien oder Veröffentlichungen, die eine Verbindung zwischen der Hemmung von ALK, ROS1 oder IGF-1R durch Ceritinib und dieser Erkrankung zeigen. Die Plausibilität ist daher derzeit nicht begründet und müsste erst durch Grundlagenforschung geklärt werden.
 
@@ -100,6 +100,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Hinweise, dass ALK oder verwandte Kinasen bei der gingivalen Fibromatose eine Rolle spielen
 - Der Wirkmechanismus von Ceritinib aus einer geeigneten Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation, da diese in den Daten fehlen und eine Sicherheitsbewertung bisher nicht möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

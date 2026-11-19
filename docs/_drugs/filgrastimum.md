@@ -61,7 +61,7 @@ Filgrastim ist ein rekombinanter Wachstumsfaktor, der die Bildung und Reifung ne
 
 ### Warum ist diese Vorhersage plausibel?
 
-Filgrastim ist ein rekombinantes Analogon des G-CSF (Granulozyten-koloniestimulierender Faktor). Es fördert die Vermehrung und Differenzierung der Vorläuferzellen der neutrophilen Granulozyten. Für den ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor.
+Filgrastim ist ein rekombinantes Analogon des G-CSF (Granulozyten-koloniestimulierender Faktor). Es fördert die Vermehrung und Differenzierung der Vorläuferzellen der neutrophilen Granulozyten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Filgrastimum (inoffizielle Übersetzung): „Koloniestimulierende Faktoren sind Glykoproteine, die auf hämatopoetische Zellen wirken, indem sie an spezifische Rezeptoren auf der Zelloberfläche binden und die Proliferation, die Differenzierungsfestlegung sowie bestimmte funktionelle Aktivierungen der ausgereiften Zellen stimulieren. Endogenes G-CSF ist ein linienspezifischer koloniestimulierender Faktor, der von Monozyten, Fibroblasten und Endothelzellen gebildet wird.“ Englischer Originalwortlaut: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), Fassung vom 2026-11-10; abgerufen am 2026-11-19).
 
 Die vorhergesagte Erkrankung ist eine qualitative Funktionsstörung der Blutplättchen. Bei ihr ist die Freisetzung von Granula-Inhalten und die Signalübertragung gestört. G-CSF ist nicht dafür bekannt, solche Defekte zu korrigieren. Die Zielzellen und Signalwege unterscheiden sich deutlich: Filgrastim wirkt auf die Neutrophilen-Linie, nicht auf die Funktion der Thrombozyten.
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten oder erste klinische Beobachtungen zu Filgrastim bei dieser Thrombozytenfunktionsstörung.
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation, die in den vorliegenden Daten fehlen.
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank).
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

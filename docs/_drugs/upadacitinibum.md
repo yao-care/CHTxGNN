@@ -61,7 +61,7 @@ Upadacitinib ist in der Schweiz als Retardtablette zugelassen und wird bei mehre
 
 ### Warum ist diese Vorhersage plausibel?
 
-Upadacitinib ist ein selektiver Hemmstoff der Januskinase 1 (JAK1) und dämpft damit den JAK-STAT-Signalweg, der bei vielen Entzündungsprozessen eine Rolle spielt. Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten, weshalb eine tiefergehende mechanistische Analyse nicht möglich ist.
+Upadacitinib ist ein selektiver Hemmstoff der Januskinase 1 (JAK1) und dämpft damit den JAK-STAT-Signalweg, der bei vielen Entzündungsprozessen eine Rolle spielt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Upadacitinibum (inoffizielle Übersetzung): „Upadacitinib ist ein Januskinase(JAK)-Inhibitor. JAKs sind intrazelluläre Enzyme, die Signale weiterleiten, welche aus Interaktionen von Zytokin- oder Wachstumsfaktorrezeptoren an der Zellmembran hervorgehen, um zelluläre Prozesse der Hämatopoese und der Immunzellfunktion zu beeinflussen.“ Englischer Originalwortlaut: "Upadacitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095), Fassung vom 2026-06-30; abgerufen am 2026-11-19).
 
 Das vorhergesagte Syndrom ist eine angeborene Entwicklungsstörung mit Augenfehlbildungen (Kolobom, Mikrophthalmie) und Skelettveränderungen (rhizomele Dysplasie). Ein plausibler Zusammenhang zwischen der JAK-STAT-Hemmung und dieser strukturellen, entwicklungsbedingten Pathologie wird durch die Daten nicht gestützt.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen)
 - Präklinische oder mechanistische Hinweise, dass der JAK-STAT-Signalweg an der Entstehung dieses Syndroms beteiligt ist
 - Fallberichte oder Studien zu dieser Erkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Noradrenalin ist ein Sympathomimetikum, das als Vasokonstriktor und Herzstimulan
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Noradrenalin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass der Wirkstoff an adrenergen Rezeptoren angreift (vor allem Alpha-1 und Beta-1, in geringerem Mass Beta-2). Das sympathische Nervensystem beeinflusst den Atemwegstonus sowie die neuroendokrine Steuerung von Entzündungsprozessen in den Atemwegen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Noradrenalinum (inoffizielle Übersetzung): „Noradrenalin ist ein peripherer Vasokonstriktor (alpha-adrenerge Wirkung) sowie ein inotroper Stimulator des Herzens und ein Dilatator der Koronararterien (beta-adrenerge Wirkung).“ Englischer Originalwortlaut: "Norepinephrine is a peripheral vasoconstrictor (alpha-adrenergic action) and an inotropic stimulator of the heart and dilator of coronary arteries (beta-adrenergic action)." ([DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396), Fassung vom 2026-10-27; abgerufen am 2026-11-19). Bekannt ist, dass der Wirkstoff an adrenergen Rezeptoren angreift (vor allem Alpha-1 und Beta-1, in geringerem Mass Beta-2). Das sympathische Nervensystem beeinflusst den Atemwegstonus sowie die neuroendokrine Steuerung von Entzündungsprozessen in den Atemwegen.
 
 Mehrere gefundene Übersichtsarbeiten befassen sich mit der Regulation allergischer und asthmatischer Entzündung durch das sympathische Nervensystem. Das liefert eine biologisch denkbare, aber nur indirekte Begründung.
 
@@ -120,6 +120,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine klare mechanistische Hypothese, die das ungünstige Kreislaufprofil (Herzrasen, Rhythmusstörungen, Blutdruckanstieg) berücksichtigt
 - Angaben zu Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

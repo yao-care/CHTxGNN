@@ -59,7 +59,7 @@ Tetracyclinum ist ein Antibiotikum aus der Tetracyclin-Gruppe, das in der Schwei
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Tetracyclinum liegen in den zusammengestellten Daten keine Angaben vor. Allgemein wirken Tetracycline gegen Bakterien, unter anderem gegen Chlamydia trachomatis. Zudem werden ihnen entzündungshemmende Eigenschaften und eine Hemmung von Matrix-Metalloproteinasen (MMP) zugeschrieben. Das könnte die Entzündung an der Augenoberfläche mindern.
+Laut ChEMBL (EMBL-EBI) ist für Tetracyclinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des bakteriellen 70S-Ribosoms“ Englischer Originalwortlaut: "Bacterial 70S ribosome inhibitor" ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; abgerufen am 2026-11-19). Allgemein wirken Tetracycline gegen Bakterien, unter anderem gegen Chlamydia trachomatis. Zudem werden ihnen entzündungshemmende Eigenschaften und eine Hemmung von Matrix-Metalloproteinasen (MMP) zugeschrieben. Das könnte die Entzündung an der Augenoberfläche mindern.
 
 Die einzige verfügbare Publikation beschreibt zwei Fälle, in denen nach einer Chlamydien-Bindehautentzündung (Follikelkonjunktivitis) eine punktförmige Hornhautentzündung auftrat. Beide Fälle waren zuvor mit Tetracyclin oder Doxycyclin behandelt worden. Sie stützt daher nur einen indirekten Zusammenhang über eine mögliche Chlamydien-Ursache. Ein Beleg für die Wirksamkeit von Tetracyclin bei der vorhergesagten Erkrankung ist sie nicht.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus von Tetracyclinum
 - Sicherheitsinformationen (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Klärung der Eignung der Darreichungsform und Applikationsweise für eine Anwendung am Auge
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -122,13 +122,26 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Keine Studie untersucht die Migräne mit Hirnstammaura direkt; die vorhandenen Daten betreffen Migräne mit Aura allgemein, meist bei PFO. Damit bleibt die Evidenz auf Modellvorhersage beschränkt (L5).
-- Sicherheitsdaten aus der Fachinformation und die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten.
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Clopidogrelum (inoffizielle Übersetzung): „Clopidogrel ist ein Inhibitor der Thrombozytenaktivierung und -aggregation durch die irreversible Bindung seines aktiven Metaboliten an die P2Y 12-Klasse der ADP-Rezeptoren auf Thrombozyten.“ Englischer Originalwortlaut: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), Fassung vom 2025-05-30; abgerufen am 2026-11-19).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Studien oder Fallserien speziell zu Migräne mit Hirnstammaura
 - Fachinformation (Warnhinweise, Kontraindikationen) von Swissmedic zur Sicherheitsbewertung
 - Dokumentierter Wirkmechanismus aus einer Arzneimitteldatenbank
 - Prüfung, ob ein Nutzen auf Patienten mit PFO bzw. nach Septumverschluss beschränkt ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

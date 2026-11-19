@@ -58,7 +58,7 @@ Lopinavir ist ein Proteaseinhibitor, der gegen HIV eingesetzt wird. Vorhergesagt
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Lopinavir ist jedoch bekanntermassen ein Hemmstoff der HIV-1-Protease. Dieses Enzym ist für die Reifung neuer Viruspartikel nötig.
+Laut ChEMBL (EMBL-EBI) ist für Lopinavir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Protease-Inhibitor des humanen Immundefizienzvirus Typ 1“ Englischer Originalwortlaut: "Human immunodeficiency virus type 1 protease inhibitor" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; abgerufen am 2026-11-19). Lopinavir ist jedoch bekanntermassen ein Hemmstoff der HIV-1-Protease. Dieses Enzym ist für die Reifung neuer Viruspartikel nötig.
 
 Das Affen-Immunschwächevirus (SIV) ist ein eng verwandtes Lentivirus. Seine Protease ist der HIV-Protease in Aufbau und Funktion ähnlich. Ein Mechanismus über die Proteasehemmung ist daher denkbar. Der hohe Vorhersagewert spiegelt vermutlich vor allem diese biologische Nähe zu HIV wider.
 
@@ -114,6 +114,19 @@ Alle drei Arbeiten sind Tierstudien mit Kombinationsregimen oder Modellviren und
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar)
 - Studien, die Lopinavir allein in diesem Modell prüfen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

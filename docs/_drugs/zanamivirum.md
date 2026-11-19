@@ -59,7 +59,7 @@ Zanamivir ist ein Neuraminidase-Hemmer, der in der Schweiz als Pulverinhalation 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Plausibilität ist gering. Zanamivir hemmt gezielt die Neuraminidase (Sialidase) von Influenzaviren und hat keine bekannte antibakterielle Wirkung. Die Pyelonephritis wird überwiegend durch Bakterien wie *E. coli* verursacht, die von einem viralen Neuraminidase-Hemmer nicht erfasst werden. Der Wirkmechanismus des Arzneimittels ist in den vorliegenden Daten nicht erfasst, daher lässt sich keine mechanistische Brücke belegen.
+Die Plausibilität ist gering. Zanamivir hemmt gezielt die Neuraminidase (Sialidase) von Influenzaviren und hat keine bekannte antibakterielle Wirkung. Die Pyelonephritis wird überwiegend durch Bakterien wie *E. coli* verursacht, die von einem viralen Neuraminidase-Hemmer nicht erfasst werden. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Zanamivirum (inoffizielle Übersetzung): „Zanamivir ist ein antivirales Arzneimittel mit Wirkung gegen Influenzaviren. […] Zanamivir ist ein Inhibitor der Neuraminidase (NA) des Influenzavirus, eines Enzyms, das Viruspartikel aus der Plasmamembran infizierter Zellen freisetzt und die Ausbreitung des Virus im Respirationstrakt fördert. In Neuraminidase-Hemmassays ist Zanamivir gegen alle NA-Enzym-Subtypen N1 bis N9 wirksam.“ Englischer Originalwortlaut: "Zanamivir is an antiviral drug with activity against influenza virus. […] Zanamivir is an inhibitor of influenza virus neuraminidase (NA), an enzyme that releases viral particles from the plasma membrane of infected cells and promotes virus spread in the respiratory tract. In neuraminidase inhibition assays, zanamivir is active against all NA enzyme subtypes N1 to N9." ([DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d), Fassung vom 2026-07-23; abgerufen am 2026-11-19).
 
 Denkbar, aber rein spekulativ, wären ein Einfluss auf bakterielle Sialidasen oder auf Sialinsäure-vermittelte Entzündungsprozesse des Wirts. Hierfür gibt es in den vorliegenden Daten keinerlei Belege. Der hohe Vorhersagewert ist ein rechnerisches Ergebnis und kein Hinweis auf eine tatsächliche Wirksamkeit.
 
@@ -91,6 +91,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Präklinische oder klinische Hinweise, die einen Zusammenhang zwischen Neuraminidase-Hemmung und Pyelonephritis stützen
 - Prüfung der Darreichungsform: Zanamivir liegt als Pulverinhalation vor, was für eine Nierenbeckenentzündung voraussichtlich nicht geeignet ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

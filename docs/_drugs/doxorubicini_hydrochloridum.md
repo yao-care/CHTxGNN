@@ -61,7 +61,7 @@ Doxorubicinhydrochlorid ist ein Zytostatikum. Für das Ewing-Sarkom (Ewing sarco
 
 ## Warum ist diese Vorhersage plausibel?
 
-Doxorubicin schiebt sich in die DNA ein (Interkalation) und hemmt das Enzym Topoisomerase II. Dadurch entstehen DNA-Doppelstrangbrüche, zusätzlich bilden sich reaktive Sauerstoffspezies. Diese Mechanismen treffen besonders schnell wachsende, chemosensitive Tumoren. Zum Wirkmechanismus liegen in den lokalen Daten keine eigenen Angaben vor. Die Beschreibung stützt sich auf das allgemein bekannte Wirkprinzip.
+Doxorubicin schiebt sich in die DNA ein (Interkalation) und hemmt das Enzym Topoisomerase II. Dadurch entstehen DNA-Doppelstrangbrüche, zusätzlich bilden sich reaktive Sauerstoffspezies. Diese Mechanismen treffen besonders schnell wachsende, chemosensitive Tumoren. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Doxorubicini Hydrochloridum (inoffizielle Übersetzung): „Es wird angenommen, dass die zytotoxische Wirkung von Doxorubicinhydrochlorid auf maligne Zellen und seine toxischen Wirkungen auf verschiedene Organe mit der Interkalation zwischen Nukleotidbasen und der Bindung an Zellmembranlipide durch Doxorubicin zusammenhängen. Die Interkalation hemmt die Nukleotidreplikation und die Wirkung der DNA- und RNA-Polymerasen.“ Englischer Originalwortlaut: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), Fassung vom 2026-11-12; abgerufen am 2026-11-19). Die Beschreibung stützt sich auf das allgemein bekannte Wirkprinzip.
 
 Das Ewing-Sarkom ist ein aggressiver Knochen- und Weichteiltumor, der vor allem bei Kindern, Jugendlichen und jungen Erwachsenen auftritt. Es gehört zu den kleinrundzelligen Tumoren, die durch das EWS-FLI1-Fusionsgen angetrieben werden. Diese Tumoren sprechen gut auf Chemotherapie an. Die Standardbehandlung kombiniert mehrere Zytostatika mit Operation und/oder Bestrahlung.
 
@@ -136,6 +136,19 @@ Die Literatur nennt die Herzschädigung (Kardiotoxizität) als wichtige Einschr�
 - Der Wirkmechanismus aus einer verlässlichen Arzneimittelquelle (z. B. DrugBank)
 - Die Ergebnisse (Überleben, Ereignisfreiheit) der grossen Phase-3-Studien zu den doxorubicinhaltigen Regimen
 - Eine fachärztliche (onkologische) Prüfung, ob und in welcher Form ein Einsatz in der Schweiz sinnvoll ist, einschliesslich Kardioprotektion und Dosierung bei Kindern und jungen Erwachsenen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

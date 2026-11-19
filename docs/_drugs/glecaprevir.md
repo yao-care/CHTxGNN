@@ -60,7 +60,7 @@ Glecaprevir ist ein antiviraler Proteasehemmer, der gegen das Hepatitis-C-Virus 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Glecaprevir liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Glecaprevir die NS3/4A-Protease des Hepatitis-C-Virus hemmt. Gegen HIV besteht keine bekannte direkte Aktivität.
+Laut ChEMBL (EMBL-EBI) ist für Glecaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“ Englischer Originalwortlaut: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; abgerufen am 2026-11-19). Bekannt ist, dass Glecaprevir die NS3/4A-Protease des Hepatitis-C-Virus hemmt. Gegen HIV besteht keine bekannte direkte Aktivität.
 
 Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zwischen antiviralen Arzneimitteln und HIV-bezogenen Knoten im Modell wider. Die klinischen Daten stammen aus der Behandlung von Hepatitis C bei Menschen mit HIV/HCV-Koinfektion. Das ist eine Überschneidung der Patientengruppen und kein Hinweis auf eine Wirkung gegen HIV.
 
@@ -130,6 +130,19 @@ Warnhinweise und Kontraindikationen liegen in den zusammengestellten Daten nicht
 - Laborexperimente zu einer möglichen Wirkung von Glecaprevir auf HIV, einschliesslich der Prüfung der Proteasehemmung
 - Angaben zum Wirkmechanismus aus der Arzneimitteldatenbank
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsbewertung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

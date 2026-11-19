@@ -59,7 +59,7 @@ Goserelin ist ein GnRH-Agonist (Gonadotropin-Releasing-Hormon), der in der Schwe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Angaben zum Wirkmechanismus liegen in den Daten nicht vor. Aus der Pharmakologie der Wirkstoffklasse lässt sich aber Folgendes ableiten: Goserelin ist ein GnRH-Agonist. Bei Dauerexposition werden die GnRH-Rezeptoren der Hypophyse desensibilisiert, LH und FSH sinken, und der Östradiolspiegel der Eierstöcke fällt. Daraus entsteht eine reversible Amenorrhö.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Goserelinum (inoffizielle Übersetzung): „ZOLADEX ist ein synthetisches Decapeptid-Analogon von GnRH. ZOLADEX wirkt als Inhibitor der hypophysären Gonadotropinsekretion, wenn es in der biologisch abbaubaren Formulierung verabreicht wird. In tierexperimentellen und In-vitro-Studien führte die Gabe von Goserelin zur Regression oder Wachstumshemmung des hormonempfindlichen, durch Dimethylbenzanthracen (DMBA) induzierten Mammatumors der Ratte und des Dunning-R3327-Prostatatumors.“ Englischer Originalwortlaut: "ZOLADEX is a synthetic decapeptide analogue of GnRH. ZOLADEX acts as an inhibitor of pituitary gonadotropin secretion when administered in the biodegradable formulation. In animal and in vitro studies, administration of goserelin resulted in the regression or inhibition of growth of the hormonally sensitive dimethylbenzanthracene (DMBA)-induced rat mammary tumor and Dunning R3327 prostate tumor." ([DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3), Fassung vom 2026-03-24; abgerufen am 2026-11-19). Aus der Pharmakologie der Wirkstoffklasse lässt sich aber Folgendes ableiten: Goserelin ist ein GnRH-Agonist. Bei Dauerexposition werden die GnRH-Rezeptoren der Hypophyse desensibilisiert, LH und FSH sinken, und der Östradiolspiegel der Eierstöcke fällt. Daraus entsteht eine reversible Amenorrhö.
 
 Die Amenorrhö ist damit ein erwarteter Effekt des Wirkprinzips und kein behandelter Krankheitszustand. Der hohe Vorhersagewert passt zu dieser bekannten Pharmakologie. Sinnvoll ist daher eine Formulierung als „gewollte, reversible Eierstockunterdrückung bzw. Amenorrhö“, etwa zum Schutz der Eierstockfunktion während einer Chemotherapie oder bei hormonabhängigen Erkrankungen.
 
@@ -122,6 +122,19 @@ Aus der Pharmakologie ergeben sich folgende Punkte, die bei einer Anwendung zu b
 - Studien, die Amenorrhö oder Eierstockschutz direkt als Endpunkt untersuchen.
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Angaben zum Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank).
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

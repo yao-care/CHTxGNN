@@ -58,7 +58,7 @@ Cisatracurium wird in der Schweiz als Muskelrelaxans eingesetzt, vor allem in de
 
 ## Warum ist diese Vorhersage plausibel?
 
-Die Vorhersage ist aus heutiger Sicht **kaum plausibel**. Zum Wirkmechanismus des Arzneimittels liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Cisatracurium als nicht depolarisierendes Muskelrelaxans an nikotinischen Acetylcholinrezeptoren der neuromuskulären Endplatte wirkt.
+Die Vorhersage ist aus heutiger Sicht **kaum plausibel**. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cisatracurium (inoffizielle Übersetzung): „Cisatracuriumbesilat bindet kompetitiv an cholinerge Rezeptoren der motorischen Endplatte und antagonisiert die Wirkung von Acetylcholin, was zu einer Blockade der neuromuskulären Übertragung führt. Diese Wirkung wird durch Acetylcholinesterase-Hemmer wie Neostigmin antagonisiert.“ Englischer Originalwortlaut: "Cisatracurium besylate binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in blockade of neuromuscular transmission. This action is antagonized by acetylcholinesterase inhibitors such as neostigmine." ([DailyMed: cisatracurium besylate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67908e20-044d-454d-9c51-bf106e817bd0), Fassung vom 2026-10-14; abgerufen am 2026-11-19). Bekannt ist, dass Cisatracurium als nicht depolarisierendes Muskelrelaxans an nikotinischen Acetylcholinrezeptoren der neuromuskulären Endplatte wirkt.
 
 Das Cauda-equina-Syndrom ist ein neurologischer Notfall, der durch eine Kompression der Nervenwurzeln entsteht und chirurgisch durch Dekompression behandelt wird. Eine neuromuskuläre Blockade greift an dieser Ursache nicht an. Der sehr hohe Modellwert stammt vom TxGNN-Modell (Deep Learning) und kann Ähnlichkeiten widerspiegeln, die das Modell zwischen verwandten Erkrankungen gelernt hat. Er ist kein biologischer Beleg und stützt sich auf keine klinischen oder publizierten Befunde.
 
@@ -111,6 +111,19 @@ Angaben zu Warnhinweisen und Kontraindikationen aus der Fachinformation liegen n
 - Ergänzung des Wirkmechanismus aus DrugBank
 - Präklinische oder klinische Belege, die einen therapeutischen Nutzen bei einer der vorhergesagten Erkrankungen plausibel machen
 - Klärung, ob eine intravenöse Anwendung bei der vorhergesagten Erkrankung überhaupt sinnvoll wäre
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: cisatracurium besylate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67908e20-044d-454d-9c51-bf106e817bd0) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

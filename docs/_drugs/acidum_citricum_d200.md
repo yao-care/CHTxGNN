@@ -55,7 +55,7 @@ Acidum citricum D200 ist in der Schweiz als homöopathisches Arzneimittel im Han
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus des Präparats liegen in den zusammengestellten Daten keine Angaben vor. Eine mechanistische Begründung lässt sich daher nicht belegen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für sodium picosulfate, magnesium oxide, and anhydrous citric acid (Kombinationspräparat mit Acidum Citricum D200) (inoffizielle Übersetzung): „Magnesiumoxid und Citronensäure reagieren in Lösung zu Magnesiumcitrat, einem osmotisch wirksamen Mittel, das bewirkt, dass Wasser im Gastrointestinaltrakt zurückgehalten wird.“ Englischer Originalwortlaut: "Magnesium oxide and citric acid react to create magnesium citrate in solution, which is an osmotic agent that causes water to be retained within the gastrointestinal tract." ([DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5), Fassung vom 2026-04-15; abgerufen am 2026-11-19). Eine mechanistische Begründung lässt sich daher nicht belegen.
 
 Citronensäure als Molekül hat einen Bezug zur Magenphysiologie: Sie säuert an und wird als Testmahlzeit beim 13C-Harnstoff-Atemtest zum Nachweis von Helicobacter pylori eingesetzt. Diese Rolle ist diagnostisch und keine Behandlung.
 
@@ -102,6 +102,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus des Präparats
 - Sicherheitsinformationen aus der Fachinformation (Warnungen, Kontraindikationen)
 - Kontrollierte klinische Studien zu Acidum citricum D200 bei Magenerkrankungen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Pertuzumab ist ein gegen HER2 gerichteter monoklonaler Antikörper, der in der S
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pertuzumab bindet an HER2 und verhindert dessen Paarung mit HER3 (Heterodimerisierung). Dadurch wird das Wachstumssignal in HER2-abhängigen Tumorzellen gebremst. Dieser Mechanismus wurde aus dem allgemeinen Wissen über die Wirkstoffklasse abgeleitet, da in den zusammengestellten Daten keine Angabe zum Wirkmechanismus vorliegt.
+Pertuzumab bindet an HER2 und verhindert dessen Paarung mit HER3 (Heterodimerisierung). Dadurch wird das Wachstumssignal in HER2-abhängigen Tumorzellen gebremst. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pertuzumabum (inoffizielle Übersetzung): „Pertuzumab richtet sich gegen die extrazelluläre Dimerisierungsdomäne (Subdomäne II) des humanen epidermalen Wachstumsfaktorrezeptor-2-Proteins (HER2) und blockiert dadurch die ligandenabhängige Heterodimerisierung von HER2 mit anderen Mitgliedern der HER-Familie, einschließlich EGFR, HER3 und HER4. Infolgedessen hemmt Pertuzumab die ligandeninitiierte intrazelluläre Signalübertragung über zwei wichtige Signalwege, die Mitogen-aktivierte Protein (MAP)-Kinase und die Phosphoinositid-3-Kinase (PI3K).“ Englischer Originalwortlaut: "Pertuzumab targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2) and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3, and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signal pathways, mitogen-activated protein (MAP) kinase, and phosphoinositide 3-kinase (PI3K)." ([DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff), Fassung vom 2026-04-30; abgerufen am 2026-11-19).
 
 Das Ektomesenchymom ist ein sehr seltener Tumor mit gemischter neuroektodermaler und mesenchymaler Differenzierung. In den vorliegenden Daten gibt es keinen Hinweis, dass HER2 in diesem Tumor exprimiert wird oder eine Rolle spielt. Die Verbindung ist daher spekulativ.
 
@@ -118,6 +118,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Fallberichte oder präklinische Daten zu HER2-gerichteter Therapie bei diesem Tumor
 - Sicherheitsinformationen aus der Schweizer Fachinformation (Warnungen, Kontraindikationen)
 - Angabe zum Wirkmechanismus aus einer geprüften Quelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

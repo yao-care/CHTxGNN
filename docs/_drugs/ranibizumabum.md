@@ -59,7 +59,7 @@ Ranibizumab ist ein Arzneimittel, das in der Schweiz bei verschiedenen Netzhaute
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Ranibizumab gehört bekanntlich zu den Hemmstoffen des Gefässwachstumsfaktors VEGF (Anti-VEGF). Diese Einordnung stammt aus allgemeinem Fachwissen und nicht aus den Daten dieses Berichts.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ranibizumabum (inoffizielle Übersetzung): „Ranibizumab-Produkte binden an die Rezeptorbindungsstelle aktiver Formen von VEGF-A, einschließlich der biologisch aktiven, gespaltenen Form dieses Moleküls, VEGF110. Es wurde gezeigt, dass VEGF-A in Modellen der okulären Angiogenese und des Gefäßverschlusses Neovaskularisation und Leckage verursacht, und es wird angenommen, dass VEGF-A zur Pathophysiologie der neovaskulären AMD, der mCNV, der DR, des DME und des Makulaödems infolge eines RVO beiträgt.“ Englischer Originalwortlaut: "Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110. VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, DR, DME and macular edema following RVO." ([DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a), Fassung vom 2026-11-05; abgerufen am 2026-11-19). Ranibizumab gehört bekanntlich zu den Hemmstoffen des Gefässwachstumsfaktors VEGF (Anti-VEGF). Diese Einordnung stammt aus allgemeinem Fachwissen und nicht aus den Daten dieses Berichts.
 
 Ein plausibler therapeutischer Zusammenhang mit dem reifen Katarakt (einer Trübung der Augenlinse) ist nicht erkennbar. Die Linsentrübung ist kein VEGF-getriebener Prozess. Der hohe Vorhersagewert spiegelt wahrscheinlich die Nähe verschiedener Augenerkrankungen im Modell wider und keine therapeutische Beziehung.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische oder präklinische Studien, die den Effekt auf die Katarakt selbst untersuchen
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

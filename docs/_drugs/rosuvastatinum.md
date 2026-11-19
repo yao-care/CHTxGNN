@@ -61,7 +61,7 @@ Rosuvastatin ist ein Statin, das in der Schweiz zur Senkung der Serumcholesterin
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rosuvastatin hemmt die HMG-CoA-Reduktase und senkt dadurch das LDL-Cholesterin. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Rosuvastatin hemmt die HMG-CoA-Reduktase und senkt dadurch das LDL-Cholesterin. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rosuvastatinum (inoffizielle Übersetzung): „CRESTOR ist ein Inhibitor der HMG‑CoA-Reduktase, des geschwindigkeitsbestimmenden Enzyms, das 3‑Hydroxy‑3‑methylglutaryl-Coenzym A in Mevalonat, eine Vorstufe des Cholesterins, umwandelt.“ Englischer Originalwortlaut: "CRESTOR is an inhibitor of HMG‑CoA reductase, the rate-limiting enzyme that converts 3‑hydroxy‑3‑methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol." ([DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee), Fassung vom 2026-09-23; abgerufen am 2026-11-19).
 
 Der Cholesterinester-Transferprotein-Mangel ist eine genetisch bedingte Störung des Fettstoffwechsels. Typisch sind ein hohes HDL-Cholesterin und ein niedriges LDL-Cholesterin. Der hohe Vorhersagewert spiegelt wahrscheinlich die enge Nachbarschaft der beiden Krankheitsbilder im Fettstoffwechsel wider.
 
@@ -99,6 +99,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Studien oder Fallberichte, die Rosuvastatin direkt bei dieser Erkrankung untersuchen
 - Eine klinische Begründung, warum eine LDL-Senkung bei bereits niedrigem LDL-Cholesterin nützlich sein könnte
 - Angaben zum Wirkmechanismus sowie Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

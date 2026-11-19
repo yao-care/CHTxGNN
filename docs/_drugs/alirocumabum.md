@@ -61,7 +61,7 @@ Alirocumab ist ein monoklonaler Antikörper gegen PCSK9, der in der Schweiz als 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Alirocumab bindet PCSK9 und verhindert, dass PCSK9 den LDL-Rezeptor (LDLR) auf Leberzellen abbaut. Mehr LDL-Rezeptoren recyceln, und das LDL-Cholesterin im Blut sinkt. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Alirocumab bindet PCSK9 und verhindert, dass PCSK9 den LDL-Rezeptor (LDLR) auf Leberzellen abbaut. Mehr LDL-Rezeptoren recyceln, und das LDL-Cholesterin im Blut sinkt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Alirocumabum (inoffizielle Übersetzung): „Alirocumab ist ein humaner monoklonaler Antikörper, der an Proproteinkonvertase Subtilisin/Kexin Typ 9 (PCSK9) bindet. PCSK9 bindet an die Low-Density-Lipoprotein(LDL)-Rezeptoren (LDLR) auf der Oberfläche von Hepatozyten und fördert so den Abbau der LDLR in der Leber.“ Englischer Originalwortlaut: "Alirocumab is a human monoclonal antibody that binds to proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein (LDL) receptors (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172), Fassung vom 2026-07-16; abgerufen am 2026-11-19).
 
 Die vorhergesagte Erkrankung hat mit diesem Weg wenig zu tun. Bei der X-chromosomalen Ichthyose geht es um die Steroidsulfatase (STS) und die Anreicherung von Cholesterinsulfat in der Hautbarriere. Dieser Prozess läuft nicht über PCSK9 oder den LDL-Rezeptor. Ein plausibler Mechanismus wurde nicht gefunden.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten oder Fallberichte, die einen Effekt bei dieser Erkrankung zeigen
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

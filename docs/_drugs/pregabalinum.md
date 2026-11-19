@@ -59,7 +59,7 @@ Pregabalin ist in der Schweiz als Arzneimittel mit mehreren gültigen Zulassunge
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der bekannten Pharmakologie ist Pregabalin ein Ligand der α2δ-Untereinheit spannungsabhängiger Calciumkanäle und verringert die Freisetzung erregender Botenstoffe. Dadurch kann es Schmerzkomponenten dämpfen, die auf Nervenschäden oder einer zentralen Sensibilisierung beruhen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pregabalinum (inoffizielle Übersetzung): „Pregabalin bindet mit hoher Affinität an die Alpha 2 ‑Delta-Stelle (eine akzessorische Untereinheit spannungsabhängiger Calciumkanäle) in Geweben des zentralen Nervensystems. Obwohl der Wirkmechanismus von Pregabalin nicht vollständig aufgeklärt ist, deuten Ergebnisse mit genetisch veränderten Mäusen und mit Verbindungen, die strukturell mit Pregabalin verwandt sind (wie Gabapentin), darauf hin, dass die Bindung an die Alpha 2 ‑Delta-Untereinheit an den antinozizeptiven und antikonvulsiven Wirkungen von Pregabalin bei Tieren beteiligt sein könnte.“ Englischer Originalwortlaut: "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals." ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), Fassung vom 2026-03-12; abgerufen am 2026-11-19). Aus der bekannten Pharmakologie ist Pregabalin ein Ligand der α2δ-Untereinheit spannungsabhängiger Calciumkanäle und verringert die Freisetzung erregender Botenstoffe. Dadurch kann es Schmerzkomponenten dämpfen, die auf Nervenschäden oder einer zentralen Sensibilisierung beruhen.
 
 Tendinitis ist vor allem eine degenerative oder entzündliche Erkrankung der Sehne. Die Verbindung zu Pregabalin ist daher indirekt und beschränkt sich auf eine mögliche Schmerzlinderung. Eine Wirkung auf die Sehnenerkrankung selbst wird durch die gefundene Literatur nicht gestützt.
 
@@ -117,6 +117,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine klare Abgrenzung, ob ein möglicher Nutzen nur die Schmerzlinderung oder auch die Sehnenerkrankung selbst betrifft
 - Die Sicherheitsangaben aus der aktuellen Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

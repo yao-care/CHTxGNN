@@ -61,7 +61,7 @@ Caplacizumab ist ein Nanobody, der die Bindung des von-Willebrand-Faktors (vWF) 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Beschreibung des Wirkstoffs, dass Caplacizumab die A1-Domäne des vWF blockiert und damit verhindert, dass der Faktor an den Thrombozytenrezeptor GPIb-IX-V bindet. Dies hemmt die Anheftung der Blutplättchen unter hoher Scherkraft.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Caplacizumabum (inoffizielle Übersetzung): „Caplacizumab-yhdp richtet sich gegen die A1-Domäne des vWF und hemmt die Interaktion zwischen vWF und Thrombozyten, wodurch sowohl die vWF-vermittelte Thrombozytenadhäsion als auch der Thrombozytenverbrauch verringert werden.“ Englischer Originalwortlaut: "Caplacizumab-yhdp targets the A1-domain of vWF, and inhibits the interaction between vWF and platelets, thereby reducing both vWF-mediated platelet adhesion and platelet consumption." ([DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905), Fassung vom 2026-04-24; abgerufen am 2026-11-19). Bekannt ist aus der Beschreibung des Wirkstoffs, dass Caplacizumab die A1-Domäne des vWF blockiert und damit verhindert, dass der Faktor an den Thrombozytenrezeptor GPIb-IX-V bindet. Dies hemmt die Anheftung der Blutplättchen unter hoher Scherkraft.
 
 Bei der vorhergesagten Erkrankung handelt es sich um einen Defekt in der Freisetzung von Granula bzw. in der Signalübertragung der Thrombozyten. Diese Störung liegt in den Plättchen selbst und nicht in der vWF-Bindung. Ein therapeutischer Ansatzpunkt für Caplacizumab ist daher nicht erkennbar.
 
@@ -94,6 +94,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Mechanistische Daten (präklinisch, in vitro oder ex vivo), die einen Nutzen bei Thrombozytenfreisetzungsstörungen belegen
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Die Warnhinweise und Kontraindikationen aus der Fachinformation der Swissmedic
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

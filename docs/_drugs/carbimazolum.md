@@ -61,7 +61,7 @@ Carbimazol ist in der Schweiz als Thyreostatikum zugelassen. Für die Schilddrü
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Carbimazol eine Vorstufe von Methimazol ist. Dieses hemmt die Schilddrüsenperoxidase und senkt dadurch die Bildung von Schilddrüsenhormonen.
+Laut ChEMBL (EMBL-EBI) ist für Carbimazolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Thyreoperoxidase-Hemmer“ Englischer Originalwortlaut: "Thyroid peroxidase inhibitor" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; abgerufen am 2026-11-19). Bekannt ist, dass Carbimazol eine Vorstufe von Methimazol ist. Dieses hemmt die Schilddrüsenperoxidase und senkt dadurch die Bildung von Schilddrüsenhormonen.
 
 Bei der Schilddrüsenhormonresistenz (RTH-beta) sind das freie Thyroxin (fT4) erhöht und das TSH nicht unterdrückt, weil die Rückkopplung über den Rezeptor gestört ist. Der hohe Vorhersagewert spiegelt wahrscheinlich nur das gemeinsame biochemische Bild (erhöhtes Thyroxin) wider, nicht eine tatsächliche therapeutische Verbindung.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da die Sicherheitsprüfung sonst nicht möglich ist
 - Angaben zum Wirkmechanismus aus einer pharmakologischen Datenbank
 - Kontrollierte klinische Daten, die den Nutzen bei Schilddrüsenhormonresistenz direkt belegen, falls diese Indikation weiterverfolgt werden soll
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

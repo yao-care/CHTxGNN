@@ -59,7 +59,7 @@ Melphalan ist ein Zytostatikum, das in der Schweiz mit mehreren Zulassungen im H
 
 ### Warum ist diese Vorhersage plausibel?
 
-Melphalan ist ein alkylierender Wirkstoff aus der Gruppe der Stickstofflost-Derivate. Er vernetzt die DNA, was zu Strangbrüchen und zum programmierten Zelltod (Apoptose) in sich schnell teilenden Zellen führt. Ein Eintrag zum Wirkmechanismus liegt in den zusammengestellten Daten nicht vor; die Beschreibung beruht auf allgemeinem pharmakologischem Wissen.
+Melphalan ist ein alkylierender Wirkstoff aus der Gruppe der Stickstofflost-Derivate. Er vernetzt die DNA, was zu Strangbrüchen und zum programmierten Zelltod (Apoptose) in sich schnell teilenden Zellen führt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Melphalanum (inoffizielle Übersetzung): „Melphalan ist ein Alkylans vom Bischlorethylamin-Typ. Infolgedessen scheint seine Zytotoxizität mit dem Ausmaß seiner Interstrang-Quervernetzung mit der DNA zusammenzuhängen, wahrscheinlich durch Bindung an der N 7 -Position von Guanin.“ Englischer Originalwortlaut: "Melphalan is an alkylating agent of the bischloroethylamine type. As a result, its cytotoxicity appears to be related to the extent of its interstrand cross-linking with DNA, probably by binding at the N 7 position of guanine." ([DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c), Fassung vom 2026-09-15; abgerufen am 2026-11-19).
 
 Da Brustkrebszellen sich schnell teilen, ist ein solcher Mechanismus grundsätzlich denkbar. Gestützt wird dies durch präklinische Arbeiten (Chemosensitivität von Xenotransplantaten, Zelllinienversuche mit Curcumin) und durch den frühen klinischen Einsatz von hochdosiertem Melphalan mit autologer Stammzellunterstützung. Der hohe TxGNN-Wert passt zu dieser Überlegung, ersetzt aber keine klinischen Belege.
 
@@ -131,6 +131,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Kontrollierte klinische Daten zu Melphalan bei Brustkrebs, insbesondere ausserhalb von Transplantationsregimen
 - Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen (Swissmedic)
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

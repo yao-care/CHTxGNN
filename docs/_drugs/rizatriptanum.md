@@ -61,7 +61,7 @@ Rizatriptan ist in der Schweiz als Arzneimittel gegen Migräne im Handel. Für A
 
 ### Warum ist diese Vorhersage plausibel?
 
-Rizatriptan wirkt als selektiver Agonist an den Serotoninrezeptoren 5-HT1B und 5-HT1D. Diese Rezeptoren beeinflussen unter anderem die Weite der Blutgefässe und die Freisetzung entzündungsfördernder Botenstoffe. Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten, sodass eine detaillierte Mechanismus-Analyse nicht möglich ist.
+Rizatriptan wirkt als selektiver Agonist an den Serotoninrezeptoren 5-HT1B und 5-HT1D. Diese Rezeptoren beeinflussen unter anderem die Weite der Blutgefässe und die Freisetzung entzündungsfördernder Botenstoffe. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rizatriptanum (inoffizielle Übersetzung): „Rizatriptan bindet mit hoher Affinität an humane klonierte 5-HT 1B/1D-Rezeptoren. Rizatriptan entfaltet seine therapeutische Wirkung bei der Behandlung von Migränekopfschmerzen vermutlich durch Bindung an 5-HT 1B/1D-Rezeptoren, die sich an intrakraniellen Blutgefäßen und sensorischen Nerven des Trigeminussystems befinden.“ Englischer Originalwortlaut: "Rizatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Rizatriptan presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system." ([DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce), Fassung vom 2025-11-26; abgerufen am 2026-11-19).
 
 Atrophoderma vermiculata ist eine seltene Erkrankung der Haarfollikel mit netzartigen, eingesunkenen Narben auf den Wangen. Ihre Entstehung ist kaum geklärt. Eine denkbare, rein spekulative Verbindung wäre, dass serotonerge oder gefässaktive Signale Entzündungen oder die Durchblutung um die Haarfollikel beeinflussen. Dafür gibt es keine Belege.
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Systematische Literaturrecherche und, falls möglich, präklinische oder Fallserien-Daten zu Rizatriptan bei Atrophoderma vermiculata
 - Prüfung der Anwendungsroute, da für eine Hauterkrankung die Darreichungsform (bisher nur orale Formen) relevant sein könnte
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

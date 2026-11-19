@@ -59,7 +59,7 @@ Codeinphosphat Hemihydrat wird in der Schweiz als Hustenmittel eingesetzt. Das M
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Codein ein Opioid, das im Körper teilweise zu Morphin umgewandelt wird und über Opioidrezeptoren im Zentralnervensystem wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Codeini Phosphas Hemihydricus (inoffizielle Übersetzung): „Codeinsulfat ist ein Opioidagonist mit relativer Selektivität für den Mu-Opioidrezeptor, jedoch mit einer wesentlich schwächeren Affinität als Morphin. Es wird vermutet, dass die analgetischen Eigenschaften von Codein auf seine Umwandlung in Morphin zurückzuführen sind, obwohl der genaue Mechanismus der analgetischen Wirkung weiterhin unbekannt ist.“ Englischer Originalwortlaut: "Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown." ([DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293), Fassung vom 2026-01-16; abgerufen am 2026-11-19). Allgemein ist Codein ein Opioid, das im Körper teilweise zu Morphin umgewandelt wird und über Opioidrezeptoren im Zentralnervensystem wirkt.
 
 Ein plausibler Mechanismus, der Codein mit der Behandlung von Erkrankungen der Nasenhöhle verbindet, ist nicht erkennbar. Der hohe Vorhersagewert beruht vermutlich auf statistischen Zusammenhängen im Modell und nicht auf einem therapeutischen Effekt.
 
@@ -109,6 +109,19 @@ Derzeit keine verwandten klinischen Studien registriert
 - Fachinformation von Swissmedic mit Warnungen und Kontraindikationen
 - Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 - Kontrollierte Studien oder mechanistische Daten, die einen therapeutischen Nutzen bei Erkrankungen der Nasenhöhle stützen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Nelarabin ist ein Arzneimittel zur Behandlung von Leukämie und Lymphom. Die Vor
 
 ### Warum ist diese Vorhersage plausibel?
 
-Nelarabin ist ein Prodrug von ara-G, einem Purinnukleosid-Analogon. Es wird zu ara-GTP umgewandelt, das in die DNA eingebaut wird und den programmierten Zelltod auslöst, mit besonderer Selektivität für T-Lymphoblasten. Die ursprünglichen Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten, daher beruht diese Beschreibung auf allgemeinem Wissen über die Substanz.
+Nelarabin ist ein Prodrug von ara-G, einem Purinnukleosid-Analogon. Es wird zu ara-GTP umgewandelt, das in die DNA eingebaut wird und den programmierten Zelltod auslöst, mit besonderer Selektivität für T-Lymphoblasten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nelarabinum (inoffizielle Übersetzung): „Nelarabin ist ein Prodrug des Desoxyguanosin-Analogons 9-β- D -Arabinofuranosylguanin (ara-G), eines Nukleosid-Stoffwechselinhibitors. Nelarabin wird durch ADA zu ara-G demethyliert, durch Desoxyguanosinkinase und Desoxycytidinkinase monophosphoryliert und anschließend in das aktive 5’-Triphosphat ara-GTP umgewandelt.“ Englischer Originalwortlaut: "Nelarabine is a prodrug of the deoxyguanosine analogue 9-β- D -arabinofuranosylguanine (ara-G), a nucleoside metabolic inhibitor. Nelarabine is demethylated by ADA to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP." ([DailyMed: Arranon (nelarabine) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9051de-5c4d-4c0f-8c19-e15214498cca), Fassung vom 2025-03-31; abgerufen am 2026-11-19).
 
 Ein denkbarer Zusammenhang wäre die Verringerung krankheitsauslösender, autoreaktiver T-Zellen. Dieses Prinzip nutzen andere lymphozytenreduzierende Purinanaloga bei Multipler Sklerose, etwa Cladribin. Diese Hypothese wurde bisher nicht geprüft.
 
@@ -103,6 +103,19 @@ Der hohe Vorhersagewert spiegelt vermutlich die strukturelle Ähnlichkeit zu Nuk
 - Auswertung der Fachinformation (Warnhinweise und Kontraindikationen) aus der Swissmedic-Quelle
 - Ergänzung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Nutzen-Risiko-Bewertung der Neurotoxizität bei demyelinisierender Erkrankung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Arranon (nelarabine) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9051de-5c4d-4c0f-8c19-e15214498cca) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

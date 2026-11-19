@@ -58,7 +58,7 @@ Cobicistat wird in der Schweiz als pharmakokinetischer Verstärker in HIV-Kombin
 
 ### Warum ist diese Vorhersage plausibel?
 
-Cobicistat hemmt das Enzym CYP3A über einen mechanismusbasierten Weg. Es besitzt keine eigene antiretrovirale Wirkung. Es dient dazu, den Abbau gleichzeitig verabreichter antiretroviraler Wirkstoffe zu verlangsamen und deren Blutspiegel zu erhöhen. Die detaillierten Angaben zum Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.
+Cobicistat hemmt das Enzym CYP3A über einen mechanismusbasierten Weg. Es besitzt keine eigene antiretrovirale Wirkung. Es dient dazu, den Abbau gleichzeitig verabreichter antiretroviraler Wirkstoffe zu verlangsamen und deren Blutspiegel zu erhöhen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cobicistat (inoffizielle Übersetzung): „Cobicistat ist ein mechanismusbasierter Inhibitor von Cytochrom P450 3A (CYP3A). Die Hemmung des CYP3A-vermittelten Metabolismus durch Cobicistat erhöht die systemische Exposition der CYP3A-Substrate Atazanavir und Darunavir.“ Englischer Originalwortlaut: "Cobicistat is a mechanism-based inhibitor of cytochrome P450 3A (CYP3A). Inhibition of CYP3A-mediated metabolism by cobicistat increases the systemic exposure of CYP3A substrates atazanavir and darunavir." ([DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010), Fassung vom 2026-02-10; abgerufen am 2026-11-19).
 
 Das feline Immundefizienzvirus gehört wie HIV zu den Lentiviren. Der hohe Vorhersagewert spiegelt wahrscheinlich diese Nähe zu HIV-bezogenen Krankheitsbildern wider und keine eigenständige pharmakologische Begründung.
 
@@ -102,6 +102,19 @@ Für Warnhinweise und Kontraindikationen bitte die Fachinformation beachten.
 - Präklinische oder klinische Studien zur Wirkung bei felinem Immundefizienzvirus
 - Klärung, ob eine tiermedizinische Fragestellung im Rahmen dieser Bewertung überhaupt verfolgt werden soll
 - Sicherheitsangaben aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

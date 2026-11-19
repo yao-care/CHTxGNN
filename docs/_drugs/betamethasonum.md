@@ -59,7 +59,7 @@ Betamethason ist ein Glukokortikosteroid mit entzündungshemmender und immunsupp
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Betamethason liegen in den hier zusammengestellten Daten keine Angaben vor. Allgemein ist Betamethason ein stark wirksames Kortikosteroid, das Entzündungsreaktionen und Immunantworten dämpft.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Betamethasonum (inoffizielle Übersetzung): „Corticosteroide spielen eine Rolle bei der zellulären Signalübertragung, der Immunfunktion, Entzündungen und der Proteinregulation; der genaue Wirkmechanismus von SERNIVO Spray bei Psoriasis ist jedoch unbekannt.“ Englischer Originalwortlaut: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown." ([DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66), Fassung vom 2026-04-22; abgerufen am 2026-11-19). Allgemein ist Betamethason ein stark wirksames Kortikosteroid, das Entzündungsreaktionen und Immunantworten dämpft.
 
 Bei der Alopecia mucinosa (follikuläre Muzinose) findet sich eine entzündliche, lymphozytäre Ansammlung um die Haarfollikel. Deshalb ist es nachvollziehbar, dass ein topisches oder intraläsional angewendetes Kortikosteroid hilfreich sein könnte.
 
@@ -102,6 +102,19 @@ Die Unterstützung ist jedoch rein historisch und anekdotisch. Der hohe Vorhersa
 - Strukturierte Übersicht zur bisherigen Anwendung von Kortikosteroiden bei follikulärer Muzinose
 - Angaben zum Wirkmechanismus aus einer geeigneten Arzneimitteldatenbank
 - Bei Interesse: Beobachtungsdaten oder eine kontrollierte Studie zu topischem oder intraläsionalem Betamethason
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

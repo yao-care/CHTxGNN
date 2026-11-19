@@ -59,7 +59,7 @@ Vandetanib ist ein Tyrosinkinase-Hemmer, der in der Schweiz als Caprelsa im Hand
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Literatur ist bekannt, dass Vandetanib die Rezeptoren VEGFR2, EGFR und RET hemmt. RET ist beim medullären Schilddrüsenkarzinom dauerhaft aktiviert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Vandetanibum (inoffizielle Übersetzung): „In-vitro-Studien haben gezeigt, dass Vandetanib die Tyrosinkinaseaktivität der EGFR- und VEGFR-Familien, von RET, BRK und TIE2 sowie von Mitgliedern der EPH-Rezeptor- und Src-Kinase-Familien hemmt. Diese Rezeptor-Tyrosinkinasen sind sowohl an der normalen Zellfunktion als auch an pathologischen Prozessen wie Onkogenese, Metastasierung, Tumorangiogenese und Aufrechterhaltung des Tumormikromilieus beteiligt.“ Englischer Originalwortlaut: "In vitro studies have shown that vandetanib inhibits the tyrosine kinase activity of the EGFR and VEGFR families, RET, BRK, TIE2, and members of the EPH receptor and Src kinase families. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, and maintenance of the tumor microenvironment." ([DailyMed: Caprelsa (vandetanib) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e5721cb8-4185-47b9-bbb3-1c587e558a03), Fassung vom 2026-10-30; abgerufen am 2026-11-19). Aus der Literatur ist bekannt, dass Vandetanib die Rezeptoren VEGFR2, EGFR und RET hemmt. RET ist beim medullären Schilddrüsenkarzinom dauerhaft aktiviert.
 
 Beim klarzelligen Nierenzellkarzinom führt der Verlust des VHL-Gens dazu, dass der Faktor HIF stabilisiert wird und vermehrt VEGF gebildet wird. Das Tumorwachstum hängt dadurch stark von der Gefässneubildung ab. Hemmer des VEGF-Rezeptors sind bei dieser Erkrankung klinisch etabliert. Die Hemmung von VEGFR2 durch Vandetanib trifft daher einen zentralen Signalweg.
 
@@ -129,6 +129,19 @@ Aus der Literatur zur Substanzklasse (VEGFR-Tyrosinkinase-Hemmer) ergeben sich f
 - Fachinformation von Swissmedic mit Warnungen und Kontraindikationen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Vergleich mit den bereits etablierten VEGFR-Hemmern beim Nierenzellkarzinom
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Caprelsa (vandetanib) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e5721cb8-4185-47b9-bbb3-1c587e558a03) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

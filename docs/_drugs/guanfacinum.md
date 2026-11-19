@@ -59,7 +59,7 @@ Guanfacin ist ein Arzneimittel, das in der Schweiz mit einer gültigen Zulassung
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Guanfacin liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist aus der Beschreibung der Vorhersage, dass Guanfacin ein Alpha-2A-Agonist ist, der die Funktion des präfrontalen Kortex beeinflusst.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Guanfacinum (inoffizielle Übersetzung): „Guanfacin ist ein zentraler Alpha 2A -Adrenozeptor-Agonist. Guanfacin ist kein Stimulans des zentralen Nervensystems (ZNS). Der Wirkmechanismus von Guanfacin bei ADHS ist nicht bekannt.“ Englischer Originalwortlaut: "Guanfacine is a central alpha 2A -adrenergic receptor agonist. Guanfacine is not a central nervous system (CNS) stimulant. The mechanism of action of guanfacine in ADHD is not known." ([DailyMed: Guanfacine Extended-Release (guanfacine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3ec4fed6-cafc-49a0-9540-8d70ac435769), Fassung vom 2026-10-15; abgerufen am 2026-11-19). Bekannt ist aus der Beschreibung der Vorhersage, dass Guanfacin ein Alpha-2A-Agonist ist, der die Funktion des präfrontalen Kortex beeinflusst.
 
 Das Faziodigitogenitale Syndrom ist eine seltene genetische Entwicklungsstörung. Es gibt keine Studien, keine Publikationen und keinen plausiblen Mechanismus, der die Alpha-2A-Stimulation mit der zugrunde liegenden Pathologie dieser Erkrankung verbindet. Die Vorhersage stützt sich ausschliesslich auf den Modellwert und ist biologisch nicht untermauert.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die diese Erkrankung direkt untersuchen
 - Die Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen)
 - Die Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Guanfacine Extended-Release (guanfacine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3ec4fed6-cafc-49a0-9540-8d70ac435769) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -54,7 +54,7 @@ Benzoylperoxid wird als Hautmittel zur äusserlichen Behandlung eingesetzt. Die 
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum ursprünglichen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Benzoylperoxid keratolytisch (hornlösend), komedolytisch (Verstopfungen der Haarfollikel lösend) und antimikrobiell wirkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Benzoyl Peroxide (inoffizielle Übersetzung): „Benzoylperoxid ist ein Oxidationsmittel mit bakterizider und keratolytischer Wirkung, der genaue Wirkmechanismus bei der Behandlung der Rosazea ist jedoch nicht bekannt.“ Englischer Originalwortlaut: "Benzoyl peroxide is an oxidizing agent with bactericidal and keratolytic effects but the precise mechanism of action in the treatment of rosacea is unknown." ([DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c), Fassung vom 2025-08-11; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Benzoylperoxid keratolytisch (hornlösend), komedolytisch (Verstopfungen der Haarfollikel lösend) und antimikrobiell wirkt.
 
 Diese Eigenschaften könnten theoretisch zu Erkrankungen passen, bei denen die Verhornung der Haarfollikel gestört ist. Die vulväre invertierte follikuläre Keratose ist eine gutartige Follikelveränderung. Dieser Zusammenhang ist jedoch spekulativ und kann ohne bekannten Wirkmechanismus nicht überprüft werden.
 
@@ -96,6 +96,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Fachinformation mit Warnhinweisen und Kontraindikationen
 - Fallberichte oder Studien zur vulvären invertierten follikulären Keratose
 - Klärung, ob ein äusserliches Mittel gegenüber der Entfernung einen Vorteil bietet
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Imiglucerase ist ein Enzymersatzpräparat, das in der Schweiz im Handel ist. Fü
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Imiglucerase liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es sich um eine rekombinante Beta-Glucocerebrosidase handelt, die Glucosylceramid abbaut.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Imiglucerasum (inoffizielle Übersetzung): „Morbus Gaucher ist durch einen Mangel an β-Glucocerebrosidase-Aktivität gekennzeichnet, der zu einer Anreicherung von Glucocerebrosid in verschiedenen Geweben, einschließlich Leber, Milz und Knochenmark, führt. Die Mannosezucker an Imiglucerase vermitteln die Bindung an Zellen, einschließlich Makrophagen, und die Internalisierung durch diese.“ Englischer Originalwortlaut: "Gaucher disease is characterized by a deficiency of β-glucocerebrosidase activity, which results in accumulation of glucocerebroside in various tissues including liver, spleen, and bone marrow. The mannose sugars on imiglucerase mediate binding to and internalization by cells including macrophages." ([DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38), Fassung vom 2026-08-27; abgerufen am 2026-11-19). Bekannt ist, dass es sich um eine rekombinante Beta-Glucocerebrosidase handelt, die Glucosylceramid abbaut.
 
 Das Hurler-Syndrom (Mukopolysaccharidose Typ I) entsteht durch einen Mangel an alpha-L-Iduronidase. Dadurch häufen sich Glykosaminoglykane (Dermatan- und Heparansulfat) an. Beide Erkrankungen gehören zu den lysosomalen Speicherkrankheiten und werden mit dem Prinzip der Enzymersatztherapie behandelt. Dies erklärt wahrscheinlich den hohen Vorhersagewert.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische Daten, die eine Aktivität von Imiglucerase gegenüber Glykosaminoglykanen belegen
 - Angaben zum Wirkmechanismus und zu Warnhinweisen und Kontraindikationen aus der Schweizer Fachinformation
 - Direkte Studien zum Hurler-Syndrom
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

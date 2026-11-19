@@ -59,7 +59,7 @@ Rimegepant ist ein Arzneimittel gegen Migräne und in der Schweiz im Handel. Es 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ein belastbarer Wirkmechanismus-Zusammenhang ist derzeit nicht erkennbar. Rimegepant blockiert den CGRP-Rezeptor (Calcitonin Gene-Related Peptide). Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.
+Ein belastbarer Wirkmechanismus-Zusammenhang ist derzeit nicht erkennbar. Rimegepant blockiert den CGRP-Rezeptor (Calcitonin Gene-Related Peptide). Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rimegepantum (inoffizielle Übersetzung): „Rimegepant ist ein Calcitonin-Gene-Related-Peptide-Rezeptor-Antagonist.“ Englischer Originalwortlaut: "Rimegepant is a calcitonin gene-related peptide receptor antagonist." ([DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d), Fassung vom 2026-06-04; abgerufen am 2026-11-19).
 
 Atrophoderma vermiculata ist eine seltene follikuläre Verhornungsstörung mit narbiger Atrophie der Wangen. Die Daten zeigen keinen Signalweg, der eine CGRP-Rezeptor-Blockade mit dieser Erkrankung verbindet. Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis des Modells und kein Hinweis auf eine tatsächliche Wirksamkeit.
 
@@ -91,6 +91,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, damit die Sicherheitsprüfung durchgeführt werden kann.
 - Mechanistische oder präklinische Hinweise, die einen Zusammenhang zwischen CGRP-Rezeptor-Blockade und Atrophoderma vermiculata stützen.
 - Die Prüfung der Anwendungsweg-Kompatibilität (die Zulassung betrifft ein Lyophilisat zum Einnehmen).
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

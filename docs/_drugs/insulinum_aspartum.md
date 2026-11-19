@@ -61,7 +61,7 @@ Insulin aspart ist ein schnell wirkendes Insulinanalogon, das über den Insulinr
 
 ### Warum ist diese Vorhersage plausibel?
 
-Insulin aspart ist ein Analogon des menschlichen Insulins und bindet an den Insulinrezeptor. Zum genauen Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Insulin aspart ist ein Analogon des menschlichen Insulins und bindet an den Insulinrezeptor. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Insulinum Aspartum (inoffizielle Übersetzung): „Die primäre Wirkung von Insulin, einschließlich NOVOLOG MIX 70/30, ist die Regulation des Glucosestoffwechsels. Insulin und sein Analogon senken den Blutzucker, indem sie die periphere Glucoseaufnahme, insbesondere durch Skelettmuskulatur und Fettgewebe, stimulieren und die hepatische Glucoseproduktion hemmen.“ Englischer Originalwortlaut: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), Fassung vom 2026-05-18; abgerufen am 2026-11-19).
 
 Ein direkter Zusammenhang zwischen dieser Wirkung und einer Autoimmunerkrankung der Eierstöcke ist nicht belegt. Denkbar wäre allenfalls ein indirekter Weg über Stoffwechsel- oder Hormoneffekte. Dafür fehlen jedoch jegliche Daten.
 
@@ -101,6 +101,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Systematische Literaturrecherche zu Insulin bzw. Insulinanaloga und Autoimmune Oophoritis
 - Prüfung, ob ein biologisch begründeter Zusammenhang zwischen Insulinsignalweg und Ovarialautoimmunität besteht
 - Klärung der Darreichungsform und des Verabreichungswegs für eine mögliche neue Anwendung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -21,11 +21,12 @@
   "items_current": 1292
  },
  "reviews": {
-  "records": 3,
-  "pages": 3,
-  "public_pages_with_records": 3,
+  "records": 350,
+  "pages": 349,
+  "public_pages_with_records": 349,
   "by_action": {
-   "correct": 3
+   "correct": 3,
+   "mechanism": 347
   }
  },
  "fhir": {
@@ -48,7 +49,7 @@
    "l": "L5",
    "lt": 14,
    "lv": 14,
-   "r": 0,
+   "r": 1,
    "i": "Schwere nichtproliferative diabetische Retinopathie"
   },
   {
@@ -66,7 +67,7 @@
    "l": "L5",
    "lt": 12,
    "lv": 12,
-   "r": 0,
+   "r": 1,
    "i": "Punktförmige epitheliale Keratokonjunktivitis"
   },
   {
@@ -75,7 +76,7 @@
    "l": "L5",
    "lt": 11,
    "lv": 11,
-   "r": 0,
+   "r": 1,
    "i": "Esotropie"
   },
   {
@@ -102,7 +103,7 @@
    "l": "L5",
    "lt": 10,
    "lv": 10,
-   "r": 0,
+   "r": 1,
    "i": "autoimmune oophoritis"
   }
  ],
@@ -113,7 +114,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie"
   },
   {
@@ -122,7 +123,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Akute weibliche Beckenperitonitis"
   },
   {
@@ -149,7 +150,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Benigner paroxysmaler Torticollis des Säuglingsalters"
   },
   {
@@ -158,38 +159,65 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "Felines erworbenes Immunschwächesyndrom"
   }
  ],
  "no_current_more": 0,
  "most_reviewed": [
   {
-   "t": "Azathioprinum",
-   "u": "/drugs/azathioprinum/",
-   "l": "L5",
-   "lt": 3,
-   "lv": 2,
-   "r": 1,
-   "i": "Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom"
-  },
-  {
-   "t": "Dextromethorphanum",
-   "u": "/drugs/dextromethorphanum/",
-   "l": "L5",
-   "lt": 17,
-   "lv": 16,
-   "r": 1,
-   "i": "Erkrankung der Nasenhöhle"
-  },
-  {
    "t": "Ritonavirum",
    "u": "/drugs/ritonavirum/",
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "Felines erworbenes Immunschwächesyndrom"
+  },
+  {
+   "t": "Acenocoumarolum",
+   "u": "/drugs/acenocoumarolum/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 1,
+   "r": 1,
+   "i": "Heparin-Cofaktor-II-Mangel"
+  },
+  {
+   "t": "Acetylcysteinum",
+   "u": "/drugs/acetylcysteinum/",
+   "l": "L3",
+   "lt": 0,
+   "lv": 9,
+   "r": 1,
+   "i": "Thrombotische Erkrankung"
+  },
+  {
+   "t": "Aciclovirum",
+   "u": "/drugs/aciclovirum/",
+   "l": "L5",
+   "lt": 12,
+   "lv": 12,
+   "r": 1,
+   "i": "Punktförmige epitheliale Keratokonjunktivitis"
+  },
+  {
+   "t": "Acidum Acetylsalicylicum",
+   "u": "/drugs/acidum-acetylsalicylicum/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 9,
+   "r": 1,
+   "i": "atrophoderma vermiculata"
+  },
+  {
+   "t": "Acidum Ascorbicum",
+   "u": "/drugs/acidum-ascorbicum/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 4,
+   "r": 1,
+   "i": "Nicht-syndromische Ösophagusfehlbildung"
   }
  ],
  "example": {

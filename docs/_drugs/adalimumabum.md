@@ -61,7 +61,7 @@ Adalimumab ist ein in der Schweiz im Handel befindlicher Hemmer des Botenstoffs 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Adalimumab ist allgemein bekannt als monoklonaler Antikörper, der TNF-α bindet und so entzündliche Prozesse dämpft. Diese Einordnung stammt nicht aus den vorliegenden Daten.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Adalimumabum (inoffizielle Übersetzung): „Adalimumab-Produkte binden spezifisch an TNF-alpha und blockieren dessen Interaktion mit den p55- und p75-TNF-Rezeptoren auf der Zelloberfläche. Adalimumab-Produkte lysieren in vitro in Gegenwart von Komplement außerdem Zellen, die oberflächengebundenen TNF exprimieren.“ Englischer Originalwortlaut: "Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement." ([DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc), Fassung vom 2026-11-11; abgerufen am 2026-11-19). Adalimumab ist allgemein bekannt als monoklonaler Antikörper, der TNF-α bindet und so entzündliche Prozesse dämpft. Diese Einordnung stammt nicht aus den vorliegenden Daten.
 
 Die Hypermobilität des Steissbeins ist dagegen überwiegend ein mechanisches oder durch Verletzung bedingtes Problem. Eine durch TNF-α getriebene Entzündung steht nicht im Vordergrund. Der hohe Vorhersagewert spiegelt wahrscheinlich eine statistische Nähe zu Erkrankungen von Wirbelsäule und Bewegungsapparat wider, bei denen TNF-Hemmer bekannt sind. Einen belegten Wirkzusammenhang zeigt er nicht. Ein plausibler, durch Daten gestützter Mechanismus für diese Indikation fehlt derzeit.
 
@@ -103,6 +103,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ein belegter pathophysiologischer Hinweis auf eine TNF-vermittelte Entzündung bei dieser Erkrankung
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für die Sicherheitsprüfung
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

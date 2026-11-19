@@ -61,7 +61,7 @@ Nintedanib ist ein Multi-Tyrosinkinase-Inhibitor, der in der Schweiz mit mehrere
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus allgemeinem Wissen ist Nintedanib ein Hemmer mehrerer Tyrosinkinasen: PDGFR alpha/beta, FGFR 1–3 und VEGFR 1–3.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Nintedanibum (inoffizielle Übersetzung): „Nintedanib ist ein niedermolekularer Wirkstoff, der mehrere Rezeptor-Tyrosinkinasen (RTKs) und Nicht-Rezeptor-Tyrosinkinasen (nRTKs) hemmt. Nintedanib hemmt die folgenden RTKs: Platelet-derived Growth Factor Receptor (PDGFR) α und β, Fibroblast Growth Factor Receptor (FGFR) 1-3, Vascular Endothelial Growth Factor Receptor (VEGFR) 1-3, Colony Stimulating Factor 1 Receptor (CSF1R) und Fms-like Tyrosine Kinase-3 (FLT-3).“ Englischer Originalwortlaut: "Nintedanib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Nintedanib inhibits the following RTKs: platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, colony stimulating factor 1 receptor (CSF1R), and Fms-like tyrosine kinase-3 (FLT-3)." ([DailyMed: Nintedanib Capsules, 100 Mg And 150 Mg (nintedanib) prescribing information, EXELAN PHARMACEUTICALS INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60d8104e-cb6c-4f4f-8159-95ed57346ffa), Fassung vom 2026-04-21; abgerufen am 2026-11-19). Aus allgemeinem Wissen ist Nintedanib ein Hemmer mehrerer Tyrosinkinasen: PDGFR alpha/beta, FGFR 1–3 und VEGFR 1–3.
 
 Dermatofibrosarcoma protuberans wird typischerweise durch eine COL1A1-PDGFB-Fusion getrieben. Diese führt zu einer dauerhaften Aktivierung des PDGFRB-Signalwegs. Ein Wirkstoff, der PDGFR hemmt, hat daher einen nachvollziehbaren theoretischen Ansatzpunkt.
 
@@ -114,6 +114,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Vergleich mit Imatinib hinsichtlich Wirksamkeit und Einsatz nach Imatinib-Versagen
 - Auswertung der Schweizer Fachinformation (Warnhinweise und Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Nintedanib Capsules, 100 Mg And 150 Mg (nintedanib) prescribing information, EXELAN PHARMACEUTICALS INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60d8104e-cb6c-4f4f-8159-95ed57346ffa) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

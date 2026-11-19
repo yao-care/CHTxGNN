@@ -61,7 +61,7 @@ Topotecan ist ein in der Schweiz im Handel befindliches Zytostatikum, das die To
 
 ### Warum ist diese Vorhersage plausibel?
 
-Topotecan hemmt das Enzym Topoisomerase I. Dadurch entstehen bei der DNA-Replikation Schäden im Erbgut, und teilungsaktive Tumorzellen sterben ab. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine eigenen Angaben vor. Die Beschreibung stützt sich auf die Fachliteratur.
+Topotecan hemmt das Enzym Topoisomerase I. Dadurch entstehen bei der DNA-Replikation Schäden im Erbgut, und teilungsaktive Tumorzellen sterben ab. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Topotecanum (inoffizielle Übersetzung): „Die Topoisomerase I baut die Torsionsspannung in der DNA ab, indem sie reversible Einzelstrangbrüche induziert. Topotecan bindet an den Topoisomerase-I-DNA-Komplex und verhindert die Religation dieser Einzelstrangbrüche. Es wird angenommen, dass die Zytotoxizität von Topotecan auf DNA-Doppelstrangschäden zurückzuführen ist, die während der DNA-Synthese entstehen, wenn Replikationsenzyme mit dem aus Topotecan, Topoisomerase I und DNA gebildeten ternären Komplex interagieren.“ Englischer Originalwortlaut: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), Fassung vom 2023-09-18; abgerufen am 2026-11-19). Die Beschreibung stützt sich auf die Fachliteratur.
 
 Brustkrebszellen teilen sich, wie viele solide Tumoren, rasch und sind daher grundsätzlich für DNA-schädigende Zytostatika empfindlich. Einzelne Phase-II- und Pilotstudien zeigten eine bescheidene Aktivität bei vorbehandeltem metastasiertem Brustkrebs, auch bei Hirnmetastasen. Präklinische Daten deuten zudem darauf hin, dass MYC-getriebene Tumoren besonders empfindlich auf eine Topoisomerase-1-Hemmung reagieren.
 
@@ -130,6 +130,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Sicherheitsinformationen aus der Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen), die in den Daten noch fehlen.
 - Eine Überprüfung der Wirkmechanismus-Angaben anhand einer Arzneimitteldatenbank.
 - Eine Einordnung gegenüber den bestehenden Standardtherapien beim Mammakarzinom.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

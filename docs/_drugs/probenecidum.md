@@ -59,7 +59,7 @@ Probenecid ist in der Schweiz als Urikosurikum zugelassen. Für die vorhergesagt
 
 ### Warum ist diese Vorhersage plausibel?
 
-Probenecid hemmt den Harnsäuretransporter URAT1 (SLC22A12) sowie die Transporter OAT1 und OAT3 in der Niere. Dadurch wird weniger Harnsäure aus dem Primärharn zurückgenommen, und die Ausscheidung steigt. Die Daten für diesen Bericht enthalten keine weiteren Angaben zum Wirkmechanismus; die obige Beschreibung stammt aus der mechanistischen Einschätzung zur Vorhersage.
+Probenecid hemmt den Harnsäuretransporter URAT1 (SLC22A12) sowie die Transporter OAT1 und OAT3 in der Niere. Dadurch wird weniger Harnsäure aus dem Primärharn zurückgenommen, und die Ausscheidung steigt. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Probenecidum (inoffizielle Übersetzung): „Probenecid ist ein urikosurischer und die Nierentubuli blockierender Wirkstoff.“ Englischer Originalwortlaut: "Probenecid is a uricosuric and renal tubular blocking agent." ([DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069), Fassung vom 2026-11-06; abgerufen am 2026-11-19).
 
 Die renale Hypourikämie beruht meist auf Funktionsverlust-Mutationen in SLC22A12 (URAT1) oder GLUT9. Die Niere scheidet dann zu viel Harnsäure aus, und der Harnsäurespiegel im Blut ist niedrig. Der hohe Vorhersagewert spiegelt vermutlich die enge Verknüpfung beider Themen im Harnsäuretransport wider, nicht einen therapeutischen Nutzen.
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Direkte klinische oder präklinische Studien zu Probenecid bei renaler Hypourikämie.
 - Die Fachinformation von Swissmedic mit Warnhinweisen und Gegenanzeigen, die derzeit fehlt, für die Sicherheitsbewertung.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank).
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

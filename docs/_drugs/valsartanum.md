@@ -59,7 +59,7 @@ Valsartan ist ein Angiotensin-II-Rezeptor-Blocker, der in der Schweiz zur Blutdr
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Valsartan liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist die Wirkstoffklasse: Angiotensin-II-Rezeptor-Blocker senken den Blutdruck und können den Druck in den Nierenkörperchen sowie den Eiweissverlust im Urin verringern.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Valsartanum (inoffizielle Übersetzung): „Angiotensin II wird aus Angiotensin I in einer durch das Angiotensin-Converting-Enzym (ACE, Kininase II) katalysierten Reaktion gebildet. Angiotensin II ist der wichtigste blutdrucksteigernde Wirkstoff des Renin-Angiotensin-Systems; zu seinen Wirkungen gehören Vasokonstriktion, Stimulation der Synthese und Freisetzung von Aldosteron, kardiale Stimulation und renale Rückresorption von Natrium. […] Diovan (Valsartan) blockiert die vasokonstriktorischen und aldosteronfreisetzenden Wirkungen von Angiotensin II, indem es selektiv die Bindung von Angiotensin II an den AT 1 -Rezeptor in vielen Geweben, wie der glatten Gefäßmuskulatur und der Nebenniere, blockiert.“ Englischer Originalwortlaut: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213), Fassung vom 2026-08-11; abgerufen am 2026-11-19). Bekannt ist die Wirkstoffklasse: Angiotensin-II-Rezeptor-Blocker senken den Blutdruck und können den Druck in den Nierenkörperchen sowie den Eiweissverlust im Urin verringern.
 
 Diese Wirkung ist für eine durch Bluthochdruck geschädigte Niere nachvollziehbar. Wirkstoffe dieser Klasse werden bei hypertensiven Nierenschäden bereits allgemein eingesetzt. Für die bösartige (maligne) Verlaufsform fehlen jedoch Daten zu Valsartan selbst.
 
@@ -113,6 +113,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
 - Prüfung, ob die Anwendung bereits durch die etablierte Klassenanwendung von Angiotensin-II-Rezeptor-Blockern abgedeckt ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Desvenlafaxin ist ein Serotonin-Noradrenalin-Wiederaufnahmehemmer (SNRI) und der
 
 ### Warum ist diese Vorhersage plausibel?
 
-Desvenlafaxin hemmt die Wiederaufnahme von Serotonin und Noradrenalin. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine näheren Angaben vor; die Einordnung beruht auf der bekannten Substanzklasse.
+Desvenlafaxin hemmt die Wiederaufnahme von Serotonin und Noradrenalin. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Desvenlafaxinum (inoffizielle Übersetzung): „Der genaue Mechanismus der antidepressiven Wirkung von Desvenlafaxin ist unbekannt, steht aber vermutlich mit einer Verstärkung von Serotonin und Noradrenalin im Zentralnervensystem durch Hemmung ihrer Wiederaufnahme in Zusammenhang. Nichtklinische Studien haben gezeigt, dass Desvenlafaxin ein potenter und selektiver SNRI ist.“ Englischer Originalwortlaut: "The exact mechanism of the antidepressant action of desvenlafaxine is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake. Non-clinical studies have shown that desvenlafaxine is a potent and selective SNRI." ([DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce), Fassung vom 2026-04-28; abgerufen am 2026-11-19).
 
 Die Serotonin-Modulation ist der Kern der medikamentösen Behandlung von Zwangsstörungen (SSRI, Clomipramin). Für Venlafaxin, die Muttersubstanz von Desvenlafaxin, gibt es zudem einige unterstützende Daten bei Zwangsstörungen. Ein mechanistischer Zusammenhang ist daher biologisch denkbar.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Auswertung der Swissmedic-Fachinformation zu Warnhinweisen und Kontraindikationen
 - Ergänzung der Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 - Prüfung der Sicherheit und Verträglichkeit bei dieser Patientengruppe
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -61,7 +61,7 @@ Denosumab ist ein monoklonaler Antikörper, der in der Schweiz mit mehreren Zula
 
 ### Warum ist diese Vorhersage plausibel?
 
-Denosumab ist ein humaner monoklonaler Antikörper gegen RANKL (TNFSF11). Er hemmt die Bildung und Funktion von Osteoklasten. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Denosumab ist ein humaner monoklonaler Antikörper gegen RANKL (TNFSF11). Er hemmt die Bildung und Funktion von Osteoklasten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Denosumabum (inoffizielle Übersetzung): „Denosumab-Präparate binden an RANKL, ein transmembranäres oder lösliches Protein, das für die Bildung, Funktion und das Überleben der Osteoklasten, der für die Knochenresorption verantwortlichen Zellen, essenziell ist. Denosumab-Präparate verhindern, dass RANKL seinen Rezeptor RANK auf der Oberfläche von Osteoklasten und deren Vorläuferzellen aktiviert.“ Englischer Originalwortlaut: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), Fassung vom 2026-11-04; abgerufen am 2026-11-19).
 
 Ein Zusammenhang mit der diabetischen Retinopathie ist derzeit spekulativ. Denkbar wäre eine Rolle der RANK/RANKL-Signalwege bei Gefässentzündung, Endotheldysfunktion oder Gefässverkalkung. Belege dafür enthalten die vorliegenden Daten nicht. Der hohe Vorhersagewert könnte zudem teilweise gemeinsame Begleiterkrankungen bei Diabetes widerspiegeln (z. B. diabetische Knochenerkrankung) und nicht einen Mechanismus in der Netzhaut.
 
@@ -102,6 +102,19 @@ Zu beachten ist, dass für die schwere nichtproliferative Retinopathie bereits e
 - Präklinische Untersuchungen in Netzhautmodellen zur Rolle des RANK/RANKL-Signalwegs
 - Auswertung von Beobachtungsdaten zu Diabetespatienten unter Denosumab
 - Ergänzung der Sicherheitsinformationen aus der Fachinformation (Warnhinweise, Kontraindikationen) und der Angaben zum Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

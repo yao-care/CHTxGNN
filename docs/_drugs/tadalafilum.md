@@ -59,7 +59,7 @@ Tadalafil ist ein Arzneimittel, das in der Schweiz im Handel ist. Für die Schwe
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Tadalafil liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass Tadalafil die Phosphodiesterase Typ 5 (PDE5) hemmt, was die cGMP-Signalwirkung und die Gefässerweiterung verstärkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tadalafilum (inoffizielle Übersetzung): „Die Erektion des Penis bei sexueller Stimulation wird durch einen erhöhten penilen Blutfluss verursacht, der aus der Relaxation der Penisarterien und der glatten Muskulatur der Corpora cavernosa resultiert. Diese Reaktion wird durch die Freisetzung von Stickstoffmonoxid (NO) aus Nervenendigungen und Endothelzellen vermittelt, das die Synthese von cGMP in glatten Muskelzellen stimuliert. […] Tadalafil hemmt PDE5.“ Englischer Originalwortlaut: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), Fassung vom 2026-06-03; abgerufen am 2026-11-19). Bekannt ist, dass Tadalafil die Phosphodiesterase Typ 5 (PDE5) hemmt, was die cGMP-Signalwirkung und die Gefässerweiterung verstärkt.
 
 Ein belegter mechanistischer Zusammenhang mit der vorhergesagten Erkrankung besteht nicht. Das Ambras-Syndrom ist eine seltene angeborene Störung, die mit chromosomalen Umbauten verbunden ist, welche die Regulation des Gens TRPS1 betreffen. Ein plausibler Weg, wie eine PDE5-Hemmung diese genetische Ursache beeinflussen könnte, ist nicht erkennbar. Der hohe Vorhersagewert spiegelt vermutlich eher eine statistische Nähe im Modell wider als eine biologisch begründete Wirkung.
 
@@ -95,6 +95,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Angaben zu Warnhinweisen und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Die Angaben zum Wirkmechanismus aus DrugBank.
 - Präklinische oder klinische Daten, die einen Zusammenhang zwischen PDE5-Hemmung und der vorhergesagten Erkrankung stützen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

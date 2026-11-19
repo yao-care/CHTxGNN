@@ -61,7 +61,7 @@ Cetirizin ist ein H1-Antihistaminikum, das in der Schweiz als Antiallergikum zug
 
 Cetirizin blockiert selektiv den peripheren H1-Rezeptor (inverser Agonist). Histamin führt an der Nasenschleimhaut zu erweiterten Gefässen, höherer Gefässdurchlässigkeit, Reizung sensibler Nerven und vermehrter Schleimbildung. Eine Blockade dieser Effekte kann Niesen, Fliessschnupfen und Juckreiz in der Nase lindern. Hinzu kommen klassenspezifische antiallergische und entzündungshemmende Wirkungen der H1-Antihistaminika, etwa eine geringere Anlockung eosinophiler Zellen und weniger Adhäsionsmoleküle.
 
-Die Angaben zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten nicht vor; die obige Beschreibung beruht auf dem allgemeinen Wissen zur Wirkstoffklasse. Der hohe Vorhersagewert passt zu diesem Mechanismus.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cetirizini Dihydrochloridum (inoffizielle Übersetzung): „Cetirizinhydrochlorid, ein humaner Metabolit von Hydroxyzin, ist ein Antihistaminikum; seine Hauptwirkungen werden über eine selektive Hemmung peripherer H 1 -Rezeptoren vermittelt. Die antihistaminische Aktivität von Cetirizinhydrochlorid wurde in einer Vielzahl von Tier- und Humanmodellen eindeutig belegt.“ Englischer Originalwortlaut: "Cetirizine hydrochloride, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 -receptors. The antihistaminic activity of cetirizine hydrochloride has been clearly documented in a variety of animal and human models." ([DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d), Fassung vom 2026-09-22; abgerufen am 2026-11-19). Der hohe Vorhersagewert passt zu diesem Mechanismus.
 
 Die vorliegenden Publikationen sind Übersichtsarbeiten und Tiermodelle zur allergischen Rhinitis und zu Entzündungen von Nase und Nasennebenhöhlen. Keine davon untersucht Cetirizin bei einer Erkrankung der Nasenhöhle als Studienziel am Menschen. Deshalb ist das Evidenzniveau auf L5 begrenzt.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Kontrollierte klinische Studien oder systematische Übersichten zu Cetirizin bei der konkreten Erkrankung der Nasenhöhle
 - Auswertung der Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen, Wechselwirkungen)
 - Ergänzung der Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

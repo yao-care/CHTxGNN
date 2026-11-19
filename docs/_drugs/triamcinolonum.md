@@ -59,7 +59,7 @@ Triamcinolon ist ein Glucocorticoid mit entzündungshemmender und immunsupprimie
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Triamcinolon liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Allgemein ist Triamcinolon ein starkes Kortikosteroid, das Entzündungsprozesse und Immunreaktionen dämpft.
+Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Triamcinolonum (inoffizielle Übersetzung): „Studien zeigen, dass nach einer einzelnen intramuskulären Dosis von 60 mg bis 100 mg Triamcinolonacetonid innerhalb von 24 bis 48 Stunden eine Nebennierensuppression auftritt, die sich anschließend allmählich normalisiert, üblicherweise innerhalb von 30 bis 40 Tagen. Dieser Befund korreliert eng mit der mit dem Arzneimittel erzielten verlängerten Dauer der therapeutischen Wirkung.“ Englischer Originalwortlaut: "Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug." ([DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad), Fassung vom 2026-01-05; abgerufen am 2026-11-19). Allgemein ist Triamcinolon ein starkes Kortikosteroid, das Entzündungsprozesse und Immunreaktionen dämpft.
 
 Bei der follikulären Muzinose findet sich ein entzündliches Infiltrat rund um die Haarfollikel. Ein Kortikosteroid, das in die betroffenen Hautstellen gespritzt wird, könnte dieses Infiltrat grundsätzlich beeinflussen. Dies ist jedoch eine Überlegung aus dem Mechanismus und keine belegte Wirkung.
 
@@ -116,6 +116,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus von Triamcinolon
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung)
 - Prüfung der geeigneten Anwendungsform (z. B. intraläsional oder topisch) für die vorgesehene Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

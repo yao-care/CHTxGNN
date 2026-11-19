@@ -61,7 +61,7 @@ Chlorambucil ist ein Zytostatikum, das in der Schweiz im Handel ist. Für das AL
 
 ### Warum ist diese Vorhersage plausibel?
 
-Chlorambucil ist ein DNA-alkylierendes Stickstoff-Lost-Derivat. Es schädigt die Erbsubstanz von Zellen durch Alkylierung und Quervernetzung und wirkt besonders auf lymphatische Zellen. Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank lag nicht vor. Die Angaben hier beruhen auf dem allgemein bekannten Wirkprinzip dieser Substanzklasse.
+Chlorambucil ist ein DNA-alkylierendes Stickstoff-Lost-Derivat. Es schädigt die Erbsubstanz von Zellen durch Alkylierung und Quervernetzung und wirkt besonders auf lymphatische Zellen. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Chlorambucilum (inoffizielle Übersetzung): „Chlorambucil, ein aromatisches Stickstofflost-Derivat, ist ein Alkylans. Chlorambucil beeinträchtigt die DNA-Replikation und induziert die zelluläre Apoptose über die Akkumulation von zytosolischem p53 und die nachfolgende Aktivierung von Bax, einem Apoptose-Promotor.“ Englischer Originalwortlaut: "Chlorambucil, an aromatic nitrogen mustard derivative, is an alkylating agent. Chlorambucil interferes with DNA replication and induces cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bax, an apoptosis promoter." ([DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213), Fassung vom 2025-01-08; abgerufen am 2026-11-19). Die Angaben hier beruhen auf dem allgemein bekannten Wirkprinzip dieser Substanzklasse.
 
 Aus diesem Wirkprinzip ergibt sich ein allgemeiner Grund, weshalb das Arzneimittel bei B-Zell-Lymphomen wirken könnte. Das ALK-positive grosszellige B-Zell-Lymphom ist aber eine seltene und aggressive Erkrankung. Sie wird üblicherweise mit intensiver Kombinations-Chemotherapie behandelt. Ein einzelner Alkylator allein dürfte dafür kaum ausreichen.
 
@@ -122,6 +122,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Eine geprüfte Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank
 - Eine fachliche Einschätzung, ob eine Alkylator-Therapie neben den etablierten Kombinationsschemata überhaupt eine Rolle spielen könnte
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

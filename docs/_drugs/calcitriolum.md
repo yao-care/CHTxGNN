@@ -55,7 +55,7 @@ Calcitriol ist die aktive Form von Vitamin D (1,25-Dihydroxyvitamin D3). Für de
 
 ## Warum ist diese Vorhersage plausibel?
 
-Calcitriol ist der biologisch aktive Metabolit von Vitamin D. Er bindet an den Vitamin-D-Rezeptor und reguliert so die Aufnahme von Kalzium und Phosphat im Darm sowie den Knochenstoffwechsel. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Calcitriol ist der biologisch aktive Metabolit von Vitamin D. Er bindet an den Vitamin-D-Rezeptor und reguliert so die Aufnahme von Kalzium und Phosphat im Darm sowie den Knochenstoffwechsel. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Calcitriolum (inoffizielle Übersetzung): „Die endogene Synthese und der Abbau von Calcitriol sowie die physiologischen Kontrollmechanismen, die diese Prozesse beeinflussen, spielen eine entscheidende Rolle bei der Regulierung des Calcitriol-Serumspiegels. Die physiologische Tagesproduktion beträgt normalerweise 0,5 bis 1,0 mcg und ist in Phasen verstärkter Knochensynthese (z. B. Wachstum oder Schwangerschaft) etwas höher.“ Englischer Originalwortlaut: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), Fassung vom 2026-10-15; abgerufen am 2026-11-19).
 
 Ein Zusammenhang mit einem Vitamin-D-Mangel ist biologisch naheliegend, da der Wirkstoff das fehlende aktive Hormon direkt ersetzt. Der hohe Vorhersagewert spiegelt vermutlich diese Nähe zur bekannten Pharmakologie wider. Da der Krankheitsbegriff in der Ontologie als veraltet markiert ist, handelt es sich eher um eine Überschneidung mit dem bereits bekannten Anwendungsgebiet als um eine neue Indikation.
 
@@ -85,6 +85,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob der veraltete Krankheitsbegriff einer aktuellen Diagnose zugeordnet werden kann, und eine gezielte Literatur- und Studienrecherche dazu
 - Die Fachinformation von Swissmedic mit Warnhinweisen und Kontraindikationen, da die Sicherheitsprüfung sonst nicht möglich ist
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank, z. B. DrugBank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

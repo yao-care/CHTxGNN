@@ -59,7 +59,7 @@ Silbersulfadiazin ist in der Schweiz als antiseptische Wundcreme im Handel. Vorh
 
 ### Warum ist diese Vorhersage plausibel?
 
-Silbersulfadiazin gehört zu den Sulfonamiden. Diese Wirkstoffe hemmen die Dihydropteroat-Synthase, ein Enzym der Folatsynthese. Zu den Angaben über den Wirkmechanismus liegen in den zusammengestellten Daten keine Herstellerinformationen vor; die Beschreibung stützt sich auf das Wissen über die Wirkstoffklasse.
+Silbersulfadiazin gehört zu den Sulfonamiden. Diese Wirkstoffe hemmen die Dihydropteroat-Synthase, ein Enzym der Folatsynthese. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Sulfadiazinum Argenticum (inoffizielle Übersetzung): „Die systemischen Sulfonamide sind bakteriostatisch wirkende Substanzen mit einem ähnlichen Wirkspektrum. Sulfonamide hemmen kompetitiv die bakterielle Synthese von Folsäure (Pteroylglutaminsäure) aus Aminobenzoesäure. Resistente Stämme sind in der Lage, Folsäure-Vorstufen oder vorgebildete Folsäure zu verwerten.“ Englischer Originalwortlaut: "The systemic sulfonamides are bacteriostatic agents having a similar spectrum of activity. Sulfonamides competitively inhibit bacterial synthesis of folic acid (pteroylglutamic acid) from aminobenzoic acid. Resistant strains are capable of utilizing folic acid precursors or preformed folic acid." ([DailyMed: sulfadiazine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6032d6f7-cbce-4e5d-841c-a1e24b616f91), Fassung vom 2024-09-24; abgerufen am 2026-11-19).
 
 Pneumocystis jirovecii ist auf diesen Stoffwechselweg angewiesen. Sulfonamide, vor allem Sulfamethoxazol zusammen mit Trimethoprim, sind bewährte Therapien gegen Pneumocystis-Pneumonie. Ein Hinweis darauf, dass Sulfadiazin zusammen mit Pyrimethamin bei Pneumocystis-Pneumonie wirksam sein kann, stammt aus einem Bericht von 1976 bei Säuglingen mit einem Immundefekt. Dort wurde jedoch Sulfadiazin zum Einnehmen verwendet, nicht die Silbersalz-Creme.
 
@@ -117,6 +117,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
 - Direkte Belege (Laborstudien, Studien am Menschen) zu Silbersulfadiazin bei Pneumocystose, einschliesslich einer Klärung, ob eine systemische Wirkung mit dieser Darreichungsform überhaupt erreichbar ist.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: sulfadiazine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6032d6f7-cbce-4e5d-841c-a1e24b616f91) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Fenfluramin ist in der Schweiz als Zusatztherapie bei bestimmten Epilepsieformen
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Fenfluramin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Eine mechanistische Überprüfung ist daher nicht möglich.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Fenfluraminum (inoffizielle Übersetzung): „Der genaue Mechanismus, über den Fenfluramin seine therapeutische Wirkung bei der Behandlung von Krampfanfällen im Zusammenhang mit dem Dravet-Syndrom und dem Lennox-Gastaut-Syndrom entfaltet, ist nicht bekannt. Fenfluramin und sein Metabolit Norfenfluramin zeigen eine agonistische Aktivität an Serotonin-5-HT2-Rezeptoren.“ Englischer Originalwortlaut: "The precise mechanism by which fenfluramine exerts its therapeutic effects in the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome is unknown. Fenfluramine and the metabolite, norfenfluramine, exhibit agonist activity at serotonin 5-HT2 receptors." ([DailyMed: Fintepla (fenfluramine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d), Fassung vom 2026-10-22; abgerufen am 2026-11-19). Eine mechanistische Überprüfung ist daher nicht möglich.
 
 Als Hypothese, die durch die vorliegenden Daten nicht gestützt wird, könnte die bekannte serotoninfreisetzende Wirkung von Fenfluramin sowie eine mögliche Modulation des Sigma-1-Rezeptors die neuronale Erregbarkeit beeinflussen. Das 16p11.2-Mikrodeletionssyndrom ist eine neuronale Entwicklungsstörung, bei der häufig auch Krampfanfälle auftreten. Darin läge ein denkbarer Berührungspunkt mit dem bisherigen Einsatzgebiet des Arzneimittels.
 
@@ -88,6 +88,19 @@ Dieser Zusammenhang ist rein spekulativ. Der hohe Vorhersagewert ist eine Modell
 - Angaben zum Wirkmechanismus aus DrugBank
 - Klinische Studien oder Publikationen, die das proximale 16p11.2-Mikrodeletionssyndrom direkt untersuchen
 - Prüfung der Darreichungsform und des Anwendungswegs für die neue Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Fintepla (fenfluramine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

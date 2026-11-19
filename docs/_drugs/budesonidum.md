@@ -61,7 +61,7 @@ Budesonid ist ein Kortikosteroid, das in der Schweiz in mehreren Darreichungsfor
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für den Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Budesonid ein Glukokortikoid mit breiter entzündungshemmender und immunsuppressiver Wirkung.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Budesonidum (inoffizielle Übersetzung): „Budesonid ist ein entzündungshemmendes Corticosteroid, das eine starke glucocorticoide Wirkung und eine schwache mineralocorticoide Wirkung aufweist. In Standard-In-vitro- und Tiermodellen hat Budesonid eine etwa 200-fach höhere Affinität für den Glucocorticoidrezeptor und eine 1000-fach höhere topische entzündungshemmende Wirkstärke als Cortisol (Crotonöl-Ohrödem-Assay an der Ratte).“ Englischer Originalwortlaut: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), Fassung vom 2026-06-10; abgerufen am 2026-11-19). Allgemein ist Budesonid ein Glukokortikoid mit breiter entzündungshemmender und immunsuppressiver Wirkung.
 
 Topische Kortikosteroide gehören bei atopischem Ekzem zur etablierten Standardtherapie. Die Vorhersage ist daher als Klasseneffekt nachvollziehbar. Ein Vorteil von Budesonid gegenüber bestehenden topischen Kortikosteroiden ist aus den Daten nicht erkennbar.
 
@@ -131,6 +131,19 @@ Für Warnhinweise, Kontraindikationen und Wechselwirkungen liegen keine Daten vo
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation auswerten
 - Die Einträge „atopic eczema“ und „dermatitis, atopic“ zusammenführen
 - Klären, ob eine topische Budesonid-Formulierung einen klinischen Vorteil bieten könnte, z. B. anhand kontrollierter Studien
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

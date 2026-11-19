@@ -61,7 +61,7 @@ Lisdexamfetamin ist ein Prodrug von d-Amphetamin und in der Schweiz zugelassen. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lisdexamfetamin wird im Körper zu d-Amphetamin umgewandelt. Dieses erhöht die Konzentration von Dopamin und Noradrenalin an den Nervenzellkontakten. Eine offizielle Angabe zum Wirkmechanismus liegt in den zusammengestellten Daten nicht vor; die Beschreibung beruht auf dem bekannten Wirkprinzip der Substanzklasse.
+Lisdexamfetamin wird im Körper zu d-Amphetamin umgewandelt. Dieses erhöht die Konzentration von Dopamin und Noradrenalin an den Nervenzellkontakten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lisdexamfetamini Dimesilas (inoffizielle Übersetzung): „Lisdexamfetamin ist ein Prodrug von Dexamfetamin. Amphetamine sind Nicht-Katecholamin-Sympathomimetika mit ZNS-stimulierender Wirkung. Der genaue therapeutische Wirkmechanismus bei ADHS und BED ist nicht bekannt.“ Englischer Originalwortlaut: "Lisdexamfetamine is a prodrug of dextroamphetamine. Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity. The exact mode of therapeutic action in ADHD and BED is not known." ([DailyMed: Vyvanse (lisdexamfetamine dimesylate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=704e4378-ca83-445c-8b45-3cfa51c1ecad), Fassung vom 2026-04-30; abgerufen am 2026-11-19).
 
 Aufmerksamkeits- und Exekutivfunktionen sind bei vielen neurologischen Entwicklungsstörungen beeinträchtigt. Daraus lässt sich theoretisch ein Nutzen ableiten. Eine Phase-II/III-Studie belegt die Wirksamkeit bei ADHS bei Kindern. Spezifische Entwicklungsstörungen (etwa Lern-, Sprach- oder Motorikstörungen) sind jedoch nicht dasselbe wie ADHS. Der sehr hohe Vorhersagewert spiegelt vermutlich die Nähe zu ADHS wider und ist kein Wirksamkeitsnachweis.
 
@@ -109,6 +109,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klare Abgrenzung der Zielerkrankung (Lern-, Sprach- oder Motorikstörungen) und ihrer Beziehung zu ADHS
 - Sicherheitsinformationen aus der Schweizer Fachinformation (Warnhinweise, Kontraindikationen), da diese in den zusammengestellten Daten fehlen
 - Bestätigter Wirkmechanismus aus einer zuverlässigen Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Vyvanse (lisdexamfetamine dimesylate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=704e4378-ca83-445c-8b45-3cfa51c1ecad) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

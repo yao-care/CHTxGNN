@@ -61,7 +61,7 @@ Lactulose ist ein osmotisch wirkendes Abführmittel, das in der Schweiz im Hande
 
 ### Warum ist diese Vorhersage plausibel?
 
-Lactulose wird im Dickdarm von Bakterien abgebaut. Dadurch säuert sie den Darminhalt an, bindet Wasser im Darm und senkt die Ammoniakaufnahme aus dem Darm. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren gesicherten Angaben vor.
+Lactulose wird im Dickdarm von Bakterien abgebaut. Dadurch säuert sie den Darminhalt an, bindet Wasser im Darm und senkt die Ammoniakaufnahme aus dem Darm. Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lactulosum Liquidum (inoffizielle Übersetzung): „Lactulose bewirkt eine Abnahme der Ammoniakkonzentration im Blut und verringert den Schweregrad der portosystemischen Enzephalopathie. Diese Wirkungen werden als Folge der folgenden Vorgänge betrachtet: Der bakterielle Abbau von Lactulose im Kolon säuert den Koloninhalt an.“ Englischer Originalwortlaut: "Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents." ([DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5), Fassung vom 2024-12-18; abgerufen am 2026-11-19).
 
 Ein überzeugender Zusammenhang zwischen diesen Wirkungen und der akuten Uratnephropathie ist aus den vorliegenden Daten nicht erkennbar. Bei dieser Erkrankung schädigen ausgefallene Harnsäurekristalle die Nieren. Spekulativ wäre eine verstärkte Ausscheidung von Harnsäure oder stickstoffhaltigen Abbauprodukten über den Darm. Dafür gibt es bisher keinen Beleg.
 
@@ -99,6 +99,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine nachvollziehbare mechanistische Hypothese, etwa zur Ausscheidung von Harnsäure oder Stickstoffabbauprodukten über den Darm, sowie präklinische Daten dazu.
 - Die Wirkmechanismus-Angaben aus DrugBank.
 - Die Warnhinweise und Kontraindikationen aus den Swissmedic-Fachinformationen für eine Sicherheitsprüfung.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

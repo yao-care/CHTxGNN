@@ -61,7 +61,7 @@ Bromocriptin ist ein Dopamin-Agonist, der in der Schweiz im Handel ist. Als mög
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Bromocriptin liegen in den zusammengestellten Daten keine Angaben vor. Aus der Bewertung geht lediglich hervor, dass der Wirkstoff die Dopamin-D2-Rezeptoren aktiviert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bromocriptinum (inoffizielle Übersetzung): „CYCLOSET enthält Bromocriptinmesilat, einen sympatholytischen Dopamin-D2-Rezeptor-Agonisten. Bei Patienten mit Typ-2-Diabetes ist die zeitlich festgelegte morgendliche Anwendung von CYCLOSET mit einer erhöhten Insulinsensitivität und Glukoseverwertung sowie einer verringerten Nüchtern- und postprandialen Hyperglykämie über die Mahlzeiten des Tages hinweg verbunden, ohne dass die Plasmainsulinspiegel ansteigen.“ Englischer Originalwortlaut: "CYCLOSET contains bromocriptine mesylate, a sympatholytic, dopamine D2 receptor agonist. In patients with type 2 diabetes, timed morning administration of CYCLOSET is associated with increased insulin sensitivity and glucose disposal and reduced fasting and postprandial hyperglycemia throughout the meals of the day without raising plasma insulin levels." ([DailyMed: Cycloset (bromocriptine mesylate) prescribing information, Avvisto Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20), Fassung vom 2026-01-12; abgerufen am 2026-11-19). Aus der Bewertung geht lediglich hervor, dass der Wirkstoff die Dopamin-D2-Rezeptoren aktiviert.
 
 Ein nachvollziehbarer Zusammenhang zwischen der Dopamin-D2-Wirkung und einem Defekt der Fukosylierung (ein Schritt beim Anhängen von Zuckerbausteinen an Proteine) ist anhand der vorliegenden Daten nicht erkennbar. Der hohe Vorhersagewert ist ein reines Modellergebnis. Er ersetzt keine biologische oder klinische Begründung. Ob die beiden Krankheitsbilder ähnlich genug sind, um die Vorhersage zu stützen, ist derzeit nicht geklärt.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Die Angabe des Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank.
 - Erste Studien- oder Fallberichte zu dieser Erkrankung, sofern vorhanden.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cycloset (bromocriptine mesylate) prescribing information, Avvisto Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

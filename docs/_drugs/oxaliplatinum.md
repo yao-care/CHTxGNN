@@ -59,7 +59,7 @@ Oxaliplatin ist ein platinhaltiges Zytostatikum, das in der Schweiz von mehreren
 
 ### Warum ist diese Vorhersage plausibel?
 
-Für Oxaliplatin liegen in den vorliegenden Daten keine Angaben zum Wirkmechanismus vor. Aus der Wirkstoffklasse ist jedoch bekannt: Oxaliplatin ist ein Platin-Abkömmling der dritten Generation. Es bindet an die DNA, hemmt dadurch deren Replikation und Ablesung und löst in sich schnell teilenden Tumorzellen den programmierten Zelltod aus.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Oxaliplatinum (inoffizielle Übersetzung): „Oxaliplatin wird in physiologischen Lösungen nicht-enzymatisch durch Verdrängung des labilen Oxalat-Liganden in aktive Derivate umgewandelt. Es werden mehrere kurzlebige reaktive Spezies gebildet, darunter Monoaquo- und Diaquo-DACH-Platin, die kovalent an Makromoleküle binden.“ Englischer Originalwortlaut: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), Fassung vom 2026-08-24; abgerufen am 2026-11-19). Aus der Wirkstoffklasse ist jedoch bekannt: Oxaliplatin ist ein Platin-Abkömmling der dritten Generation. Es bindet an die DNA, hemmt dadurch deren Replikation und Ablesung und löst in sich schnell teilenden Tumorzellen den programmierten Zelltod aus.
 
 Platinhaltige Substanzen wie Cisplatin und Carboplatin bilden das Rückgrat der üblichen Chemotherapie beim Pleuramesotheliom. Daher ist ein Wirkprinzip auf Klassenebene plausibel. Oxaliplatin könnte zudem ein anderes Resistenz- und Nebenwirkungsprofil haben, etwa eine geringere Nierenschädigung. Der hohe TxGNN-Wert passt zu dieser gemeinsamen Platin-Biologie.
 
@@ -136,6 +136,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimittelquelle
 - Veröffentlichte Ergebnisse der abgeschlossenen Studie NCT00859469
 - Vergleich mit der Standardtherapie (Platin plus Pemetrexed) in einer randomisierten Studie
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

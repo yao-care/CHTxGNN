@@ -61,7 +61,7 @@ Panitumumab ist ein vollständig humaner monoklonaler Antikörper gegen den epid
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Allgemein bekannt ist, dass Panitumumab den EGFR blockiert und damit Signalwege hemmt, die Zellwachstum und Zellteilung steuern.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Panitumumabum (inoffizielle Übersetzung): „Der EGFR ist ein Transmembran-Glykoprotein, das einer Unterfamilie der Typ-I-Rezeptor-Tyrosinkinasen angehört, zu der EGFR, HER2, HER3 und HER4 gehören. EGFR wird in normalen Epithelgeweben, einschließlich der Haut und des Haarfollikels, konstitutiv exprimiert. […] Panitumumab bindet spezifisch an EGFR sowohl auf normalen Zellen als auch auf Tumorzellen und hemmt kompetitiv die Bindung von Liganden an EGFR.“ Englischer Originalwortlaut: "The EGFR is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases, including EGFR, HER2, HER3, and HER4. EGFR is constitutively expressed in normal epithelial tissues, including the skin and hair follicle. […] Panitumumab binds specifically to EGFR on both normal and tumor cells, and competitively inhibits the binding of ligands for EGFR." ([DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2), Fassung vom 2026-06-23; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Panitumumab den EGFR blockiert und damit Signalwege hemmt, die Zellwachstum und Zellteilung steuern.
 
 Der EGFR-Signalweg ist an der Differenzierung von Osteoblasten, am Knochenumbau und an der Regulation von Osteoklasten beteiligt. Eine EGFR-Blockade könnte daher den Knochenumbau verändern. Das ist ein theoretischer Anknüpfungspunkt.
 
@@ -104,6 +104,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Wirkmechanismus-Daten aus DrugBank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Präklinische und klinische Studien, die einen Effekt von EGFR-Blockade auf den Knochen bei arzneimittelinduzierter Osteoporose untersuchen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

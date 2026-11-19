@@ -60,7 +60,7 @@ Simoctocog alfa (Nuwiq) ist ein rekombinanter humaner Faktor VIII (B-Domäne del
 
 ## Warum ist diese Vorhersage plausibel?
 
-Simoctocog alfa ersetzt bei Hämophilie A den fehlenden Gerinnungsfaktor VIII. Der ursprüngliche Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor, was die mechanistische Analyse einschränkt.
+Simoctocog alfa ersetzt bei Hämophilie A den fehlenden Gerinnungsfaktor VIII. Laut ChEMBL (EMBL-EBI) ist für Simoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Die Pseudo-von-Willebrand-Krankheit ist eine Störung der Blutplättchen: Ein Funktionsgewinn-Defekt von GPIbα erhöht die Affinität zum von-Willebrand-Faktor. Es handelt sich nicht um einen Faktor-VIII-Mangel, sodass eine Faktor-VIII-Substitution keine klare mechanistische Grundlage hat. Der hohe Vorhersagewert spiegelt vermutlich nur die Nähe im Netzwerk der Blutungserkrankungen wider.
 
@@ -111,6 +111,19 @@ Zur thrombotisch-thrombozytopenischen Purpura (ebenfalls vorhergesagt) gilt: Da 
 - Ergänzung des Wirkmechanismus aus DrugBank
 - Gezielte Literatur- und Studienrecherche, insbesondere zu spezifischen Untertypen des erworbenen Gerinnungsfaktormangels
 - Klärung, ob «Hämophilie A mit Gefässanomalie» über die bestehende Zulassung hinausgeht
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

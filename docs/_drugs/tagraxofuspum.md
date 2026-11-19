@@ -63,7 +63,7 @@ Tagraxofusp ist ein CD123-gerichtetes Fusionsprotein aus Interleukin-3 und verk�
 
 Ein plausibler Wirkmechanismus ist nicht erkennbar. Tagraxofusp richtet sich gegen Zellen, die CD123 (die Alpha-Kette des Interleukin-3-Rezeptors) tragen, und schleust ein Zellgift in diese Zellen ein. Die Esotropie ist eine Fehlstellung der Augen (Einwärtsschielen) mit Ursachen in der Augenmuskulatur, der Nervensteuerung oder der Sehentwicklung. Eine durch CD123 getriebene Krankheitsentstehung ist dafür nicht bekannt.
 
-Der hohe Vorhersagewert (0,9973) ist ein rechnerisches Ergebnis des Modells ohne Rückhalt in klinischen Daten oder Veröffentlichungen. Er ist sehr wahrscheinlich ein Modellartefakt. Zudem fehlen in den vorliegenden Daten Angaben zum Wirkmechanismus des Arzneimittels, sodass eine vertiefte Analyse nicht möglich ist.
+Der hohe Vorhersagewert (0,9973) ist ein rechnerisches Ergebnis des Modells ohne Rückhalt in klinischen Daten oder Veröffentlichungen. Er ist sehr wahrscheinlich ein Modellartefakt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tagraxofuspum (inoffizielle Übersetzung): „Tagraxofusp-erzs ist ein gegen CD123 gerichtetes Zytotoxin, bestehend aus einem Fusionsprotein aus rekombinantem humanem Interleukin-3 (IL-3) und verkürztem Diphtherietoxin (DT), das in CD123-exprimierenden Zellen die Proteinsynthese hemmt und den Zelltod verursacht.“ Englischer Originalwortlaut: "Tagraxofusp-erzs is a CD123-directed cytotoxin composed of recombinant human interleukin-3 (IL-3) and truncated diphtheria toxin (DT) fusion protein that inhibits protein synthesis and causes cell death in CD123-expressing cells." ([DailyMed: Elzonris (tagraxofusp) prescribing information, Stemline Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80eb1080-fe20-4af0-b2a5-a67999923fa8), Fassung vom 2024-12-09; abgerufen am 2026-11-19).
 
 ---
 
@@ -102,6 +102,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Ein belegbarer biologischer Zusammenhang zwischen CD123 bzw. dem Wirkmechanismus von Tagraxofusp und Esotropie
 - Präklinische oder klinische Daten, die diese Krankheit direkt untersuchen
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation sowie der Wirkmechanismus aus einer zuverlässigen Quelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Elzonris (tagraxofusp) prescribing information, Stemline Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80eb1080-fe20-4af0-b2a5-a67999923fa8) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

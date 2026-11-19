@@ -59,7 +59,7 @@ Imiquimod ist als Creme zur Anwendung auf der Haut in der Schweiz im Handel. Vor
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den vorliegenden Daten keine Angaben aus der Arzneimittelzulassung vor. Aus der Fachliteratur ist bekannt, dass Imiquimod ein Agonist des Toll-like-Rezeptors 7 (TLR7) ist. Er aktiviert lokal das angeborene und das adaptive Immunsystem (u. a. Interferon-alpha, TNF-alpha, IL-12, Th1-Antwort). Dadurch können veränderte Zellen der Oberhaut abgeräumt werden.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Imiquimodum (inoffizielle Übersetzung): „Der Wirkmechanismus von ZYCLARA bei der Behandlung von AK und EGW ist unbekannt.“ Englischer Originalwortlaut: "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown." ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), Fassung vom 2025-05-23; abgerufen am 2026-11-19). Aus der Fachliteratur ist bekannt, dass Imiquimod ein Agonist des Toll-like-Rezeptors 7 (TLR7) ist. Er aktiviert lokal das angeborene und das adaptive Immunsystem (u. a. Interferon-alpha, TNF-alpha, IL-12, Th1-Antwort). Dadurch können veränderte Zellen der Oberhaut abgeräumt werden.
 
 Dieser Mechanismus passt zu prämalignen Veränderungen: Die Literatur beschreibt den Einsatz bei aktinischer Keratose sowie ausserhalb der Zulassung bei intraepithelialen Neoplasien (Vulva, Anus, Gebärmutterhals) und bei bowenoider Papulose.
 
@@ -121,6 +121,19 @@ Aus der Literatur ergeben sich zusätzlich folgende Hinweise: Bei der Anwendung 
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit nicht verfügbar).
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank.
 - Grössere kontrollierte Studien für konkrete Läsionsorte (z. B. vulväre, anale oder zervikale intraepitheliale Neoplasie).
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

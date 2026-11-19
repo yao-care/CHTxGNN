@@ -63,7 +63,7 @@ Das Evidenzniveau ist L3. Zwar gibt es zwei abgeschlossene Phase-2-Studien direk
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die für diesen Bericht zusammengestellten Daten enthalten keine Angabe zum Wirkmechanismus. Die folgende Einordnung beruht daher auf allgemeinem pharmakologischem Wissen. Pazopanib hemmt mehrere Tyrosinkinasen, darunter VEGFR-1/2/3, PDGFR-α/β und c-KIT. Damit wirkt es gegen die Neubildung von Blutgefässen im Tumor und gegen Wachstumssignale über PDGFR.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pazopanibum (inoffizielle Übersetzung): „Pazopanib ist ein Multi-Tyrosinkinase-Inhibitor des vaskulären endothelialen Wachstumsfaktor-Rezeptors (VEGFR)-1, VEGFR-2, VEGFR-3, des Platelet-Derived-Growth-Factor-Rezeptors (PDGFR)-α und -β, des Fibroblasten-Wachstumsfaktor-Rezeptors (FGFR)-1 und -3, des Zytokinrezeptors (Kit), der Interleukin-2-Rezeptor-induzierbaren T-Zell-Kinase (Itk), der lymphozytenspezifischen Protein-Tyrosinkinase (Lck) und der transmembranären Glykoprotein-Rezeptor-Tyrosinkinase (c-Fms). In vitro hemmte Pazopanib die ligandeninduzierte Autophosphorylierung der Rezeptoren VEGFR-2, Kit und PDGFR-β.“ Englischer Originalwortlaut: "Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors." ([DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7), Fassung vom 2025-12-16; abgerufen am 2026-11-19). Die folgende Einordnung beruht daher auf allgemeinem pharmakologischem Wissen. Pazopanib hemmt mehrere Tyrosinkinasen, darunter VEGFR-1/2/3, PDGFR-α/β und c-KIT. Damit wirkt es gegen die Neubildung von Blutgefässen im Tumor und gegen Wachstumssignale über PDGFR.
 
 Diese Signalwege spielen bei Weichteilsarkomen eine Rolle. Pazopanib wird bei anderen Weichteilsarkom-Typen bereits eingesetzt. Das Liposarkom ist jedoch eine eigene Gewebeart mit eigener Tumorbiologie, etwa mit Amplifikationen von CDK4 und MDM2 beim gut bzw. entdifferenzierten Typ. Ob Pazopanib dort wirkt, muss deshalb gesondert belegt werden.
 
@@ -132,6 +132,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Der Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank.
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der aktuellen Fachinformation.
 - Eine Einschätzung durch Sarkom-Fachleute (z. B. im interdisziplinären Tumorboard) zur Einordnung gegenüber etablierten Optionen wie Trabectedin und Eribulin.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

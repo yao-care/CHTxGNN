@@ -61,7 +61,7 @@ Hydromorphon ist ein stark wirksames Opioid gegen Schmerzen. Für die Vorhersage
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Hydromorphon ist bekanntermassen ein µ-Opioidrezeptor-Agonist, der Schmerzen zentral lindert. Es wirkt weder gegen Erreger noch entzündungshemmend.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Hydromorphoni Hydrochloridum (inoffizielle Übersetzung): „Hydromorphon ist ein voller Opioidagonist und relativ selektiv für den µ-Opioidrezeptor, obwohl es in höheren Dosen auch an andere Opioidrezeptoren binden kann. Die hauptsächliche therapeutische Wirkung von Hydromorphon ist die Analgesie.“ Englischer Originalwortlaut: "Hydromorphone is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of hydromorphone is analgesia." ([DailyMed: Dilaudid (hydromorphone hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9eebd88a-5632-460f-b7b6-26c8a180540d), Fassung vom 2026-07-15; abgerufen am 2026-11-19). Hydromorphon ist bekanntermassen ein µ-Opioidrezeptor-Agonist, der Schmerzen zentral lindert. Es wirkt weder gegen Erreger noch entzündungshemmend.
 
 Ein Zusammenhang mit Pharyngitis besteht daher höchstens über die Schmerzlinderung: Halsschmerzen könnten symptomatisch gedämpft werden. Die gefundenen Studien betreffen Schmerzen nach Tonsillektomie, eine chirurgische Situation, die sich nur teilweise mit Rachenschmerzen bei Pharyngitis überschneidet. Eine krankheitsmodifizierende Wirkung ist nicht zu erwarten. Der hohe Vorhersagewert wird durch direkte klinische Evidenz nicht gestützt. Zudem stehen Nutzen und Risiken von Opioiden bei einer meist selbstlimitierenden Erkrankung in einem ungünstigen Verhältnis.
 
@@ -105,6 +105,19 @@ Die Liste kann unvollständig sein; es sind mindestens 5 Zulassungen vorhanden.
 - Kontrollierte Studien, die Hydromorphon direkt bei Pharyngitis untersuchen
 - Sicherheitsinformationen aus der Fachinformation (Warnungen, Kontraindikationen), die in den vorliegenden Daten fehlen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Dilaudid (hydromorphone hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9eebd88a-5632-460f-b7b6-26c8a180540d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

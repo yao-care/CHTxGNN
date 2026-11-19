@@ -59,7 +59,7 @@ Eplerenon ist ein selektiver Mineralocorticoid-Rezeptor-Antagonist, der in der S
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Eplerenon liegen in den zusammengestellten Daten keine Angaben aus einer Arzneimitteldatenbank vor. Bekannt ist jedoch, dass die Substanz als selektiver Mineralocorticoid-Rezeptor-Antagonist (MR-Antagonist) wirkt, also die Wirkung von Aldosteron und anderen Stoffen am Mineralocorticoid-Rezeptor blockiert.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Eplerenonum (inoffizielle Übersetzung): „Eplerenon bindet an den Mineralokortikoidrezeptor und blockiert die Bindung von Aldosteron, einem Bestandteil des Renin-Angiotensin-Aldosteron-Systems (RAAS). Die Aldosteronsynthese, die hauptsächlich in der Nebenniere stattfindet, wird durch mehrere Faktoren moduliert, darunter Angiotensin II und Nicht-RAAS-Mediatoren wie das adrenocorticotrope Hormon (ACTH) und Kalium.“ Englischer Originalwortlaut: "Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium." ([DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a), Fassung vom 2025-06-23; abgerufen am 2026-11-19). Bekannt ist jedoch, dass die Substanz als selektiver Mineralocorticoid-Rezeptor-Antagonist (MR-Antagonist) wirkt, also die Wirkung von Aldosteron und anderen Stoffen am Mineralocorticoid-Rezeptor blockiert.
 
 Der Zusammenhang zur vorhergesagten Indikation ergibt sich aus Laborarbeiten: Hypoxie kann in Zellen der Lungengefässe die Aldosteron-Bildung anregen und so den Umbau der Gefässwand und eine Fibrose fördern (Maron et al., 2014). Ein erhöhter Aldosteronspiegel hängt zudem mit der Verdickung der kleinen Lungenarterien bei pulmonaler arterieller Hypertonie zusammen. In Tiermodellen verminderte Eplerenon den krankhaften Umbau der Lungengefässe und verbesserte teilweise eine bereits bestehende Erkrankung.
 
@@ -120,6 +120,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Daten zu Eplerenon bei pulmonaler Hypertonie infolge von Lungenerkrankung oder Hypoxie (z. B. eine kontrollierte Pilotstudie)
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
 - Warnhinweise, Kontraindikationen und Wechselwirkungen aus der Swissmedic-Fachinformation, insbesondere zu Hyperkaliämie und Nierenfunktion, für eine Sicherheitsprüfung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

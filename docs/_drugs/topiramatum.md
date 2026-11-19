@@ -59,7 +59,7 @@ Topiramat ist in der Schweiz als Antiepileptikum und zur Migräneprophylaxe zuge
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Topiramat liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Aus allgemeinem Fachwissen ist bekannt, dass Topiramat Natriumkanäle blockiert, die GABA-A-vermittelte Hemmung verstärkt, AMPA-/Kainat-Rezeptoren hemmt und die Carboanhydrase schwach hemmt. Diese Wirkungen dämpfen die neuronale Erregbarkeit.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Topiramatum (inoffizielle Übersetzung): „Die genauen Mechanismen, über die Topiramat seine antikonvulsive und migräneprophylaktische Wirkung entfaltet, sind nicht bekannt; präklinische Studien haben jedoch vier Eigenschaften gezeigt, die zur Wirksamkeit von Topiramat bei Epilepsie und bei der prophylaktischen Behandlung der Migräne beitragen können.“ Englischer Originalwortlaut: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), Fassung vom 2026-10-05; abgerufen am 2026-11-19). Aus allgemeinem Fachwissen ist bekannt, dass Topiramat Natriumkanäle blockiert, die GABA-A-vermittelte Hemmung verstärkt, AMPA-/Kainat-Rezeptoren hemmt und die Carboanhydrase schwach hemmt. Diese Wirkungen dämpfen die neuronale Erregbarkeit.
 
 Ein plausibler Zusammenhang mit der Kontrolle von Tumorwachstum ist daraus nicht ableitbar. Die genannten Mechanismen betreffen die Erregbarkeit von Nervenzellen und neuropathische Symptome, nicht das Tumorwachstum. Ein möglicher Nutzen wäre höchstens symptomatisch (zum Beispiel bei Schmerzen) und nicht gegen den Tumor gerichtet.
 
@@ -108,6 +108,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung, ob ein rein symptomatischer Nutzen (zum Beispiel bei Schmerzen) überhaupt das Ziel wäre
 - Die vollständigen Sicherheitsangaben aus der Fachinformation (Warnhinweise, Kontraindikationen), die in den vorliegenden Daten fehlen
 - Eine gesicherte Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

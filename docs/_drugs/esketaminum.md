@@ -61,7 +61,7 @@ Esketamin ist in der Schweiz in zwei Produkten zugelassen, als Antidepressivum u
 
 ### Warum ist diese Vorhersage plausibel?
 
-Esketamin ist ein NMDA-Rezeptor-Antagonist. Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den zusammengestellten Daten. Allgemein wird für diese Substanzklasse beschrieben, dass sie die glutamaterge Signalübertragung erhöht und die synaptische Plastizität fördert, etwa über die Aktivierung von AMPA-Rezeptoren und die BDNF/mTOR-Signalwege.
+Esketamin ist ein NMDA-Rezeptor-Antagonist. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Esketaminum (inoffizielle Übersetzung): „Esketamin, das S-Enantiomer des racemischen Ketamins, ist ein nichtselektiver, nichtkompetitiver Antagonist des N -Methyl- D -Aspartat(NMDA)-Rezeptors, eines ionotropen Glutamatrezeptors. Der Mechanismus, über den Esketamin seine antidepressive Wirkung entfaltet, ist nicht bekannt.“ Englischer Originalwortlaut: "Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown." ([DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed), Fassung vom 2026-09-22; abgerufen am 2026-11-19). Allgemein wird für diese Substanzklasse beschrieben, dass sie die glutamaterge Signalübertragung erhöht und die synaptische Plastizität fördert, etwa über die Aktivierung von AMPA-Rezeptoren und die BDNF/mTOR-Signalwege.
 
 Ein möglicher Zusammenhang mit Agoraphobie ergibt sich über die Beeinflussung von Furchtschaltkreisen (Amygdala, präfrontaler Kortex), über begleitende Angst- und depressive Symptome sowie über eine mögliche Erleichterung der Furchtextinktion.
 
@@ -112,6 +112,19 @@ Aus dem allgemeinen pharmakologischen Profil sind bei Menschen mit Panikneigung 
 - Recherche nach klinischen Studien und Publikationen zu Esketamin bzw. Ketamin bei Agoraphobie und Angststörungen
 - Prüfung der Anwendbarkeit der zugelassenen Darreichungsformen (Nasenspray, Injektions-/Infusionslösung) für die neue Indikation
 - Bewertung des Sicherheitsrisikos (Dissoziation, Blutdruck, Angst) in dieser Patientengruppe
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

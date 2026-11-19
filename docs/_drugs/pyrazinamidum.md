@@ -61,7 +61,7 @@ Pyrazinamid ist in der Schweiz als Einzelwirkstoff-Präparat auf dem Markt. Für
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Plausibilität ist gering. Pyrazinamid ist ein Prodrug, das zu Pyrazinsäure umgewandelt wird. Diese wirkt gegen Mycobacterium tuberculosis in saurem Milieu. Die Angaben zum genauen Wirkmechanismus fehlen in den vorliegenden Daten.
+Die Plausibilität ist gering. Pyrazinamid ist ein Prodrug, das zu Pyrazinsäure umgewandelt wird. Diese wirkt gegen Mycobacterium tuberculosis in saurem Milieu. Laut ChEMBL (EMBL-EBI) ist für Pyrazinamidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Fettsäure-Synthase-Inhibitor; 70S-Ribosomen-Inhibitor“ Englischer Originalwortlaut: "Fatty acid synthase inhibitor; 70S ribosome inhibitor" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Gegen die üblichen Erreger der akuten Mittelohrentzündung (Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis) ist keine Wirksamkeit bekannt. Der hohe Vorhersagewert beruht vermutlich auf der Nähe zu tuberkulosebezogenen Zusammenhängen im Modell und nicht auf einem belegten Mechanismus.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klinische Studien oder Literatur, die diese Erkrankung direkt untersuchen
 - Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic zur Sicherheitsbewertung
 - Prüfung der Anwendungsart (Applikationsweg) für das Mittelohr
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

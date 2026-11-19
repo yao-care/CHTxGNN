@@ -61,7 +61,7 @@ Icatibant ist ein Arzneimittel, das in der Schweiz mit einer Indikation aus dem 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Icatibant blockiert gezielt den Bradykinin-B2-Rezeptor. Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.
+Icatibant blockiert gezielt den Bradykinin-B2-Rezeptor. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Icatibantum (inoffizielle Übersetzung): „Icatibant ist ein selektiver kompetitiver Antagonist am Bradykinin-B2-Rezeptor mit einer ähnlichen Affinität wie Bradykinin. Das hereditäre Angioödem wird durch ein Fehlen oder eine Funktionsstörung des C1-Esterase-Inhibitors verursacht, eines zentralen Regulators der proteolytischen Faktor-XII/Kallikrein-Kaskade, die zur Bildung von Bradykinin führt.“ Englischer Originalwortlaut: "Icatibant is a competitive antagonist selective for the bradykinin B2 receptor, with an affinity similar to bradykinin. Hereditary angioedema is caused by an absence or dysfunction of C1-esterase-inhibitor, a key regulator of the Factor XII/kallikrein proteolytic cascade that leads to bradykinin production." ([DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540), Fassung vom 2025-07-07; abgerufen am 2026-11-19).
 
 Ein möglicher, aber nur indirekter Zusammenhang besteht über den Serpin C1-Inhibitor. Fehlt dieser, entsteht ein Angioödem, das durch Bradykinin vermittelt wird und das Icatibant behandelt. Serpinopathien mit toxischer Polymerisation, etwa der Alpha-1-Antitrypsin-Mangel, entstehen dagegen durch die Anhäufung falsch gefalteter Serpine und den Verlust der Proteasehemmung.
 
@@ -89,6 +89,19 @@ Die Schäden bei der toxischen Polymerisation (Leber, Stress des endoplasmatisch
 - Präklinische Daten oder Literatur, die einen Nutzen der Bradykinin-B2-Blockade bei Serpinopathien mit toxischer Polymerisation stützen
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Schweizer Fachinformation, da diese in den vorliegenden Daten fehlen und eine Sicherheitsbewertung derzeit nicht möglich ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

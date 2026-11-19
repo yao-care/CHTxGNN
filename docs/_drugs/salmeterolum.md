@@ -59,7 +59,7 @@ Salmeterol ist in der Schweiz als Bronchospasmolytikum zugelassen. Die Vorhersag
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Salmeterol ist bekanntermassen ein langwirksamer Beta-2-Agonist, der die glatte Muskulatur der Atemwege entspannt. Möglicherweise steigert er auch die Flimmerhaarbewegung in den Atemwegen und könnte so bei gestörter Schleimreinigung eine Rolle spielen.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Salmeterolum (inoffizielle Übersetzung): „Salmeterol ist ein selektiver LABA. In-vitro-Studien zeigen, dass Salmeterol mindestens 50-mal selektiver für Beta-2-Adrenozeptoren ist als Albuterol. Obwohl Beta-2-Adrenozeptoren die vorherrschenden adrenergen Rezeptoren in der glatten Bronchialmuskulatur und Beta-1-Adrenozeptoren die vorherrschenden Rezeptoren im Herzen sind, gibt es auch im menschlichen Herzen Beta-2-Adrenozeptoren, die 10 % bis 50 % der gesamten Beta-Adrenozeptoren ausmachen.“ Englischer Originalwortlaut: "Salmeterol is a selective LABA. In vitro studies show salmeterol to be at least 50 times more selective for beta 2 -adrenoceptors than albuterol. Although beta 2 -adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta 1 -adrenoceptors are the predominant receptors in the heart, there are also beta 2 -adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors." ([DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4), Fassung vom 2022-10-10; abgerufen am 2026-11-19). Salmeterol ist bekanntermassen ein langwirksamer Beta-2-Agonist, der die glatte Muskulatur der Atemwege entspannt. Möglicherweise steigert er auch die Flimmerhaarbewegung in den Atemwegen und könnte so bei gestörter Schleimreinigung eine Rolle spielen.
 
 Der Zusammenhang zur vorhergesagten Indikation ist jedoch schwach. Die «respiratorische Fehlbildung» ist eine strukturell uneinheitliche Gruppe von Erkrankungen. Ein Bronchodilatator kann einen anatomischen Entwicklungsfehler nicht beheben. Der sehr hohe Vorhersagewert spiegelt wahrscheinlich die Nähe zu anderen Atemwegserkrankungen im Modell wider und nicht eine krankheitsspezifische Biologie. Ein möglicher Nutzen wäre allenfalls symptomatisch (Atemwegsverengung, Schleimklärung bei Folgeerkrankungen der Atemwege) und nicht krankheitsmodifizierend.
 
@@ -111,6 +111,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine klare Definition, welche Fehlbildungen gemeint sind, und ein plausibler Wirkansatz für Symptome bei Folgeerkrankungen der Atemwege
 - Klinische oder präklinische Daten, die diese Erkrankung direkt untersuchen
 - Sicherheitsangaben aus der Swissmedic-Fachinformation (Warnungen, Kontraindikationen) sowie Angaben zum Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

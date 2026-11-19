@@ -61,7 +61,7 @@ Zidovudin ist ein Hemmer der viralen Reverse Transkriptase, der gegen Retroviren
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zidovudin ist ein Thymidin-Analogon. In der Zelle wird es zu AZT-Triphosphat phosphoryliert. Dieses wird bei der Umschreibung der viralen RNA in DNA in den neuen DNA-Strang eingebaut und bricht die Kettenverlängerung ab. Für den Wirkmechanismus liegen in den Daten keine weiteren Angaben vor. Die obige Beschreibung stützt sich auf die mechanistische Einordnung der Vorhersage.
+Zidovudin ist ein Thymidin-Analogon. In der Zelle wird es zu AZT-Triphosphat phosphoryliert. Dieses wird bei der Umschreibung der viralen RNA in DNA in den neuen DNA-Strang eingebaut und bricht die Kettenverlängerung ab. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Zidovudinum (inoffizielle Übersetzung): „Zidovudin ist ein antiretroviraler Wirkstoff. […] Zidovudin ist ein synthetisches Nukleosidanalogon. Intrazellulär wird Zidovudin zu seinem aktiven 5′-Triphosphat-Metaboliten, Zidovudintriphosphat (ZDV-TP), phosphoryliert. Der hauptsächliche Wirkmechanismus von ZDV-TP ist die Hemmung der Reversen Transkriptase (RT) durch DNA-Kettenabbruch nach Einbau des Nukleotidanalogons.“ Englischer Originalwortlaut: "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), Fassung vom 2024-11-13; abgerufen am 2026-11-19). Die obige Beschreibung stützt sich auf die mechanistische Einordnung der Vorhersage.
 
 Das feline Immundefizienzvirus (FIV) ist wie das humane Immundefizienzvirus ein Lentivirus. Seine Reverse Transkriptase reagiert empfindlich auf AZT. Deshalb wird FIV-Infektion der Katze seit Langem als Tiermodell für HIV untersucht. Ein Wirkprinzip, das beim Menschen gegen ein Lentivirus wirkt, ist daher auch bei der Katze plausibel.
 
@@ -110,6 +110,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Kontrollierte, möglichst randomisierte veterinärmedizinische Studien mit klar definierten klinischen Endpunkten
 - Klärung, ob und auf welchem Weg eine tiermedizinische Verwendung regulatorisch vorgesehen ist
 - Vollständige Sicherheitsdaten aus der Fachinformation, die in den vorliegenden Daten fehlen, sowie Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Carvedilol ist in der Schweiz als Alpha- und Beta-Rezeptorenblocker zugelassen. 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Carvedilol blockiert Beta-Rezeptoren (nicht selektiv) und zusätzlich Alpha-1-Rezeptoren. Es besitzt zudem antioxidative Eigenschaften. Die Gefässerweiterung und die Blutdrucksenkung sind grundsätzlich für Organschäden durch Bluthochdruck relevant, auch für die Niere. Eine ausführliche Beschreibung des Wirkmechanismus liegt in den Daten nicht vor.
+Carvedilol blockiert Beta-Rezeptoren (nicht selektiv) und zusätzlich Alpha-1-Rezeptoren. Es besitzt zudem antioxidative Eigenschaften. Die Gefässerweiterung und die Blutdrucksenkung sind grundsätzlich für Organschäden durch Bluthochdruck relevant, auch für die Niere. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Carvedilolum (inoffizielle Übersetzung): „COREG ist ein racemisches Gemisch, bei dem die nichtselektive β-Adrenozeptor-blockierende Aktivität im S(-)-Enantiomer vorliegt und die α1-adrenerg blockierende Aktivität sowohl im R(+)- als auch im S(-)-Enantiomer mit gleicher Potenz vorhanden ist. COREG besitzt keine intrinsische sympathomimetische Aktivität.“ Englischer Originalwortlaut: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), Fassung vom 2026-07-31; abgerufen am 2026-11-19).
 
 Die vorhergesagte Erkrankung ist eine schwere Form des Bluthochdrucks mit Nierenbeteiligung. Carvedilol wird bei Bluthochdruck allgemein eingesetzt. Für die maligne Verlaufsform mit Nierenschädigung fehlen jedoch spezifische Belege. Dort sind in der Regel rasch wirksame, intravenös verabreichte Mittel Standard, was die Übertragbarkeit einer Tablette einschränkt.
 
@@ -98,6 +98,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Eine Auswertung der Fachinformation zu Warnhinweisen und Kontraindikationen
 - Eine genauere Beschreibung des Wirkmechanismus (z. B. aus DrugBank)
 - Eine Prüfung, ob eine orale Therapie bei dieser akuten Erkrankung klinisch sinnvoll ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

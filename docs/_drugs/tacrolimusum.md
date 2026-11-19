@@ -59,7 +59,7 @@ Tacrolimus ist ein Calcineurin-Inhibitor, der in der Schweiz als Immunsuppressiv
 
 ### Warum ist diese Vorhersage plausibel?
 
-Tacrolimus hemmt Calcineurin und damit die Aktivierung von T-Zellen. Dadurch werden entzündungsfördernde Botenstoffe wie IL-2, Interferon-gamma und TNF-alpha gedrosselt. Zum ursprünglich hinterlegten Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die Beschreibung stützt sich daher auf das bekannte Wirkprinzip der Substanz.
+Tacrolimus hemmt Calcineurin und damit die Aktivierung von T-Zellen. Dadurch werden entzündungsfördernde Botenstoffe wie IL-2, Interferon-gamma und TNF-alpha gedrosselt. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tacrolimusum (inoffizielle Übersetzung): „Tacrolimus bindet an ein intrazelluläres Protein, FKBP-12. Anschließend bildet sich ein Komplex aus Tacrolimus-FKBP-12, Calcium, Calmodulin und Calcineurin (einem ubiquitären intrazellulären Enzym von Säugetieren), und die Phosphataseaktivität von Calcineurin wird gehemmt.“ Englischer Originalwortlaut: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), Fassung vom 2025-02-26; abgerufen am 2026-11-19). Die Beschreibung stützt sich daher auf das bekannte Wirkprinzip der Substanz.
 
 Die seborrhoische Dermatitis ist eine chronisch-entzündliche, schubweise verlaufende Hauterkrankung, vor allem im Gesicht und auf der Kopfhaut. Eine Rolle spielen Entzündungsreaktionen auf die Hefe Malassezia. Ein Wirkstoff, der die T-Zell-vermittelte Entzündung dämpft, passt deshalb gut zu diesem Krankheitsbild. Tacrolimus-Salbe ist zudem ein steroidsparender Ansatz, was bei der Dauerbehandlung im Gesicht von Vorteil sein kann.
 
@@ -118,6 +118,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Ergebnisse der Phase-3-Studie NCT02004860 und der Phase-4-Studie NCT01591070 (Wirksamkeit, Rückfallrate, Verträglichkeit).
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation.
 - Eine Klärung, ob die Anwendung bei seborrhoischer Dermatitis ausserhalb der Zulassung vertretbar ist, mit Beachtung der Hinweise zu Hautinfektionen und zum Krebsrisiko bei topischen Calcineurin-Inhibitoren.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

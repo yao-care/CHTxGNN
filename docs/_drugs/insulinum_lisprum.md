@@ -59,7 +59,7 @@ Insulin lispro ist ein rasch wirkendes Insulinanalogon, das in der Schweiz in me
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Bekannt ist allgemein, dass Insulin lispro als rasch wirkendes Insulinanalogon am Insulinrezeptor angreift und den Blutzucker senkt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Insulinum Lisprum (inoffizielle Übersetzung): „Die Regulierung des Glukosestoffwechsels ist die primäre Wirkung von Insulinen und Insulinanaloga, einschließlich Insulin-lispro-Produkten. Insuline senken den Blutzucker, indem sie die periphere Glukoseaufnahme durch Skelettmuskulatur und Fettgewebe stimulieren und die hepatische Glukoseproduktion hemmen.“ Englischer Originalwortlaut: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro products. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0), Fassung vom 2026-09-03; abgerufen am 2026-11-19). Bekannt ist allgemein, dass Insulin lispro als rasch wirkendes Insulinanalogon am Insulinrezeptor angreift und den Blutzucker senkt.
 
 Ein klarer mechanistischer Zusammenhang zwischen Insulin lispro und der autoimmunen Oophoritis ist nicht erkennbar. Der hohe Vorhersagewert beruht vermutlich auf einer Nähe zu autoimmunen oder endokrinen Krankheitsbildern im Modell. Er ist kein Hinweis auf eine tatsächliche Wirkung.
 
@@ -115,6 +115,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Belege aus Studien oder Fallserien, die Insulin lispro direkt bei autoimmuner Oophoritis untersuchen
 - Eine Beschreibung des Wirkmechanismus und eine Analyse, ob er für diese Erkrankung relevant sein könnte
 - Die Sicherheitsangaben (Warnungen, Kontraindikationen) aus der Swissmedic-Fachinformation, die für eine Sicherheitsbewertung fehlen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

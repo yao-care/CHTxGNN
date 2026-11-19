@@ -59,7 +59,7 @@ Prednison ist ein Glukokortikoid, das in der Schweiz als Tablette, Tablette mit 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum genauen Wirkmechanismus von Prednison liegen in den zusammengestellten Daten keine Angaben vor. Allgemein ist Prednison ein Glukokortikoid mit breiter immunsuppressiver und entzündungshemmender Wirkung.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Prednisonum (inoffizielle Übersetzung): „Natürlich vorkommende Corticosteroide (Hydrocortison und Cortison), die auch salzretinierende Eigenschaften besitzen, werden als Substitutionstherapie bei Zuständen von Nebennierenrindeninsuffizienz eingesetzt. Ihre synthetischen Analoga, wie Prednison, werden in erster Linie wegen ihrer starken entzündungshemmenden Wirkung bei Erkrankungen vieler Organsysteme angewendet.“ Englischer Originalwortlaut: "Naturally occurring corticosteroids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, such as prednisone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a), Fassung vom 2026-09-23; abgerufen am 2026-11-19). Allgemein ist Prednison ein Glukokortikoid mit breiter immunsuppressiver und entzündungshemmender Wirkung.
 
 Alopecia areata beruht auf einem Angriff von T-Zellen auf den Haarfollikel. Ein Wirkstoff, der Immunreaktionen und Entzündungen dämpft, passt deshalb biologisch zu dieser Erkrankung.
 
@@ -105,6 +105,19 @@ Die Liste enthält mindestens 4 Zulassungen und kann unvollständig sein. Alle a
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus (z. B. aus DrugBank)
 - Prüfung der Darreichungsform und Dosierung für die neue Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

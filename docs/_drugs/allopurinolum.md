@@ -59,7 +59,7 @@ Allopurinol ist ein Arzneimittel, das in der Schweiz mit mehreren Präparaten im
 
 ### Warum ist diese Vorhersage plausibel?
 
-Die Daten zum Wirkmechanismus von Allopurinol sind in den hier zusammengestellten Unterlagen nicht enthalten. Bekannt ist aus der Literatur lediglich, dass Allopurinol den Hämstoffwechsel der Leber beeinflussen könnte, etwa über Hämoxygenase und den Hämumsatz der Cytochrom-P450-Enzyme. Dadurch könnte indirekt die Aktivität der 5-Aminolävulinat-Synthase (ALAS1) verändert werden. Dieses Enzym steuert die Hämbiosynthese und ist bei akuten hepatischen Porphyrien zentral.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Allopurinolum (inoffizielle Übersetzung): „Allopurinol ist ein Strukturanalogon der natürlichen Purinbase Hypoxanthin. Allopurinol und sein Metabolit Oxipurinol hemmen die Xanthinoxidase, das Enzym, das für die Umwandlung von Hypoxanthin in Xanthin und von Xanthin in Harnsäure, das Endprodukt des Purinstoffwechsels beim Menschen, verantwortlich ist.“ Englischer Originalwortlaut: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), Fassung vom 2022-02-18; abgerufen am 2026-11-19). Bekannt ist aus der Literatur lediglich, dass Allopurinol den Hämstoffwechsel der Leber beeinflussen könnte, etwa über Hämoxygenase und den Hämumsatz der Cytochrom-P450-Enzyme. Dadurch könnte indirekt die Aktivität der 5-Aminolävulinat-Synthase (ALAS1) verändert werden. Dieses Enzym steuert die Hämbiosynthese und ist bei akuten hepatischen Porphyrien zentral.
 
 Die Beziehung zur Porphyrie ist jedoch ungesichert. Ältere Berichte beschreiben Allopurinol sogar als möglicherweise porphyrinogen oder als Substanz, die den Porphyrinstoffwechsel verändert. Die Wirkrichtung ist deshalb offen, und eine schädliche Wirkung kann nicht ausgeschlossen werden.
 
@@ -107,6 +107,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Warnhinweise und Kontraindikationen aus der Fachinformation, da die Sicherheitsdaten bisher fehlen
 - Daten zum Wirkmechanismus von Allopurinol
 - Präklinische und klinische Daten, die den Einfluss von Allopurinol auf den Hämstoffwechsel und die ALAS1-Aktivität bei Porphyrie prüfen, einschliesslich einer Bewertung des Risikos, einen Porphyrieschub auszulösen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

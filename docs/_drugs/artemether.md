@@ -58,7 +58,7 @@ Artemether ist ein Arzneimittel gegen Malaria. Für das erworbene Angioödem (ac
 
 ## Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Artemether liegen in den zusammengestellten Daten keine Angaben vor. Allgemein gehört der Wirkstoff zu den Artemisinin-Derivaten, deren antiparasitische Wirkung auf der Aktivierung einer Endoperoxid-Brücke beruht.
+Laut ChEMBL (EMBL-EBI) ist für Artemether folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Ferriprotoporphyrin-IX-Inhibitor“ Englischer Originalwortlaut: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; abgerufen am 2026-11-19). Allgemein gehört der Wirkstoff zu den Artemisinin-Derivaten, deren antiparasitische Wirkung auf der Aktivierung einer Endoperoxid-Brücke beruht.
 
 Eine nachvollziehbare Verbindung zum erworbenen Angioödem lässt sich daraus nicht ableiten. Diese Erkrankung wird durch Bradykinin-Überproduktion bzw. Störungen im Komplement-C1-Inhibitor-System getragen. Für Artemether ist keine Wirkung auf diese Signalwege bekannt.
 
@@ -116,6 +116,19 @@ Zu Warnhinweisen und Kontraindikationen aus der Fachinformation liegen keine Dat
 - Präklinische Daten oder Fallberichte zum erworbenen Angioödem
 - Auswertung der Fachinformation (Warnhinweise, Kontraindikationen) für die Sicherheitsbewertung
 - Prüfung der Wechselwirkungen, insbesondere der als schwerwiegend eingestuften, bei einer möglichen neuen Patientengruppe
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

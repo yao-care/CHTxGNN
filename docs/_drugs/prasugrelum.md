@@ -61,7 +61,7 @@ Prasugrel ist ein Thrombozytenaggregationshemmer, der in der Schweiz in Kombinat
 
 ### Warum ist diese Vorhersage plausibel?
 
-Prasugrel hemmt den P2Y12-Rezeptor auf Blutplättchen und verhindert so deren Aggregation. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Prasugrel hemmt den P2Y12-Rezeptor auf Blutplättchen und verhindert so deren Aggregation. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Prasugrelum (inoffizielle Übersetzung): „Prasugrel ist ein Inhibitor der Thrombozytenaktivierung und -aggregation durch die irreversible Bindung seines aktiven Metaboliten an die P2Y 12-Klasse der ADP-Rezeptoren auf Thrombozyten.“ Englischer Originalwortlaut: "Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e), Fassung vom 2022-09-07; abgerufen am 2026-11-19).
 
 Bei der pulmonalen Hypertonie spielen die Aktivierung von Blutplättchen und Gerinnselbildung in den Lungengefässen (In-situ-Thrombose) eine Rolle beim Umbau der Gefässwand. Daraus ergibt sich eine theoretische Verbindung zu einem Plättchenhemmer.
 
@@ -112,6 +112,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Präklinische oder klinische Daten, die Prasugrel direkt bei pulmonaler Hypertonie prüfen
 - Angaben zum Wirkmechanismus aus einer verlässlichen Arzneimitteldatenbank
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation für eine Sicherheitsbeurteilung
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

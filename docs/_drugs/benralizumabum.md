@@ -59,7 +59,7 @@ Benralizumab ist ein Antikörper gegen den Interleukin-5-Rezeptor α, der eosino
 
 ### Warum ist diese Vorhersage plausibel?
 
-Benralizumab bindet an den Interleukin-5-Rezeptor α und baut eosinophile und basophile Granulozyten durch antikörperabhängige zellvermittelte Zytotoxizität ab. Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Benralizumab bindet an den Interleukin-5-Rezeptor α und baut eosinophile und basophile Granulozyten durch antikörperabhängige zellvermittelte Zytotoxizität ab. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Benralizumabum (inoffizielle Übersetzung): „Benralizumab ist ein humanisierter, afucosylierter monoklonaler Antikörper (IgG1, kappa), der mit einer Dissoziationskonstante von 11 pM direkt an die Alpha-Untereinheit des humanen Interleukin-5-Rezeptors (IL-5Rα) bindet. Der IL-5-Rezeptor wird auf der Oberfläche von Eosinophilen und Basophilen exprimiert.“ Englischer Originalwortlaut: "Benralizumab is a humanized afucosylated, monoclonal antibody (IgG1, kappa) that directly binds to the alpha subunit of the human interleukin-5 receptor (IL-5Rα) with a dissociation constant of 11 pM. The IL-5 receptor is expressed on the surface of eosinophils and basophils." ([DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784), Fassung vom 2026-05-13; abgerufen am 2026-11-19).
 
 Die Immunthrombozytopenie entsteht hauptsächlich durch Autoantikörper, die Blutplättchen zerstören, sowie durch eine gestörte Bildung der Blutplättchen im Knochenmark. Ein etablierter, von Eosinophilen abhängiger Mechanismus ist nicht bekannt. Ein plausibler mechanistischer Zusammenhang zwischen dem Abbau von Eosinophilen und dieser Erkrankung fehlt daher bislang.
 
@@ -87,6 +87,19 @@ Die Plausibilität ist insgesamt gering. Die Vorhersage stützt sich nur auf den
 - Präklinische oder mechanistische Hinweise auf eine Rolle von IL-5 oder Eosinophilen bei der Immunthrombozytopenie
 - Fachinformation der Swissmedic mit Warnhinweisen und Kontraindikationen, da diese Sicherheitsangaben in den vorliegenden Daten fehlen
 - Angaben zum Wirkmechanismus aus einer weiteren Arzneimittelquelle
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -59,7 +59,7 @@ Ambrisentan ist ein selektiver Endothelin-Typ-A-Rezeptor-Antagonist. Die Vorhers
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ambrisentan blockiert selektiv den Endothelin-A-Rezeptor. Dieser Rezeptor vermittelt Gefässverengung und Umbau der Gefässwand. Für den Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.
+Ambrisentan blockiert selektiv den Endothelin-A-Rezeptor. Dieser Rezeptor vermittelt Gefässverengung und Umbau der Gefässwand. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ambrisentanum (inoffizielle Übersetzung): „Endothelin-1 (ET-1) ist ein potentes autokrines und parakrines Peptid. Zwei Rezeptorsubtypen, ET A und ET B, vermitteln die Wirkungen von ET-1 in der glatten Gefäßmuskulatur und im Endothel. […] Ambrisentan ist ein hochaffiner (K i =0,011 nM) ET A-Rezeptorantagonist mit hoher Selektivität für den ET A- gegenüber dem ET B-Rezeptor (>4000-fach).“ Englischer Originalwortlaut: "Endothelin-1 (ET-1) is a potent autocrine and paracrine peptide. Two receptor subtypes, ET A and ET B, mediate the effects of ET-1 in the vascular smooth muscle and endothelium. […] Ambrisentan is a high-affinity (K i =0.011 nM) ET A receptor antagonist with a high selectivity for the ET A versus ET B receptor (>4000-fold)." ([DailyMed: Letairis (ambrisentan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725d4e73-6c83-477a-adc6-0ae4a133a844), Fassung vom 2026-06-22; abgerufen am 2026-11-19).
 
 Pulmonale arteriovenöse Malformationen treten überwiegend bei der hereditären hämorrhagischen Teleangiektasie (HHT) auf, einer Erkrankung mit gestörter Gefässneubildung (Signalwege um ENG, ACVRL1, SMAD4). Eine Verbindung über endothelinvermittelten Gefässumbau ist denkbar, aber nicht belegt.
 
@@ -113,6 +113,19 @@ Aus der Mechanismusbewertung ergeben sich folgende Punkte: Systemisch angewendet
 - Sicherheitsbewertung zum Shunt-Risiko bei HHT-Patienten
 - Auswertung der Fachinformation (Warnhinweise und Gegenanzeigen)
 - Ergänzung der Angaben zum Wirkmechanismus
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Letairis (ambrisentan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725d4e73-6c83-477a-adc6-0ae4a133a844) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -63,7 +63,7 @@ Hinweis zum Evidenzniveau: Die einzige grosse Phase-3-Studie zur Erkrankung (CAP
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Aus der Substanzklasse ergibt sich jedoch: Ticagrelor blockiert reversibel den P2Y12-Rezeptor der Blutplättchen und hemmt dadurch die ADP-vermittelte Aktivierung und Aggregation.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ticagrelorum (inoffizielle Übersetzung): „Ticagrelor und sein Hauptmetabolit interagieren reversibel mit dem P2Y 12-ADP-Rezeptor der Thrombozyten und verhindern so die Signaltransduktion und Thrombozytenaktivierung. Ticagrelor und sein aktiver Metabolit sind annähernd gleich wirksam.“ Englischer Originalwortlaut: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), Fassung vom 2026-05-07; abgerufen am 2026-11-19). Aus der Substanzklasse ergibt sich jedoch: Ticagrelor blockiert reversibel den P2Y12-Rezeptor der Blutplättchen und hemmt dadurch die ADP-vermittelte Aktivierung und Aggregation.
 
 Bei der intrakraniellen Arteriosklerose entstehen Schlaganfälle vor allem durch Blutgerinnsel auf instabilen Gefässplaques und durch Embolien, die von der verengten Arterie ausgehen. Eine Hemmung der Plättchenaggregation ist deshalb mechanistisch nachvollziehbar.
 
@@ -120,6 +120,19 @@ Für Warnungen, Kontraindikationen und Wechselwirkungen liegen in den zusammenge
 - Abgeschlossene Ergebnisse der CAPTIVA-Studie, insbesondere zum Ticagrelor-Arm
 - Warnungen und Kontraindikationen aus der Swissmedic-Fachinformation
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

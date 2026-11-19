@@ -61,7 +61,7 @@ Insulin degludec ist ein lang wirksames Basalinsulin. Für die vorhergesagte neu
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Insulin degludec liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es sich um ein Basalinsulin-Analogon handelt, das den Blutzucker über einen langen Zeitraum senkt. Eine immunmodulierende Wirkung, die für die Zerstörung des Eierstockgewebes bei einer Autoimmunerkrankung relevant wäre, ist nicht bekannt.
+Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Insulinum Degludecum (inoffizielle Übersetzung): „Die primäre Wirkung von Insulin, einschließlich TRESIBA, ist die Regulation des Glucosestoffwechsels. Insulin und seine Analoga senken den Blutzucker, indem sie die periphere Glucoseaufnahme, insbesondere durch Skelettmuskulatur und Fettgewebe, stimulieren und die hepatische Glucoseproduktion hemmen.“ Englischer Originalwortlaut: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), Fassung vom 2024-02-22; abgerufen am 2026-11-19). Bekannt ist, dass es sich um ein Basalinsulin-Analogon handelt, das den Blutzucker über einen langen Zeitraum senkt. Eine immunmodulierende Wirkung, die für die Zerstörung des Eierstockgewebes bei einer Autoimmunerkrankung relevant wäre, ist nicht bekannt.
 
 Eine mögliche, aber unbestätigte Verbindung: Insulinsignale könnten die Eierstockfunktion beeinflussen, und Autoimmunerkrankungen treten häufig gemeinsam mit autoimmunem Diabetes auf. Dieser Zusammenhang ist spekulativ. Der hohe Vorhersagewert ist ein reines Modellergebnis und ersetzt keine Evidenz.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus und eine Analyse des möglichen mechanistischen Zusammenhangs
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Eine Prüfung der Darreichungsform und Applikationsweise für die neue Indikation
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

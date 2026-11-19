@@ -59,7 +59,7 @@ Tropicamid ist ein lokal angewendetes Anticholinergikum für die Augen. Die Mode
 
 ### Warum ist diese Vorhersage plausibel?
 
-Zum Wirkmechanismus von Tropicamid liegen in den zusammengestellten Daten keine Angaben vor. Bekannt ist, dass es als Muskarinrezeptor-Antagonist wirkt und am Auge zur Pupillenerweiterung sowie zur Lähmung der Akkommodation dient.
+Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Tropicamidum (inoffizielle Übersetzung): „Diese anticholinerge Zubereitung blockiert die Reaktionen des Musculus sphincter pupillae der Iris und des Ziliarmuskels auf cholinerge Stimulation und erweitert dadurch die Pupille (Mydriasis). Die stärkere Zubereitung (1%) lähmt zusätzlich die Akkommodation.“ Englischer Originalwortlaut: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the ciliary muscle to cholinergic stimulation, dilating the pupil (mydriasis). The stronger preparation (1%) also paralyzes accommodation." ([DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d), Fassung vom 2023-02-15; abgerufen am 2026-11-19). Bekannt ist, dass es als Muskarinrezeptor-Antagonist wirkt und am Auge zur Pupillenerweiterung sowie zur Lähmung der Akkommodation dient.
 
 Die Vorhersage geht vermutlich auf die Wirkstoffklasse zurück. Antimuskarinika werden bei Blasenfunktionsstörungen wie einer überaktiven Blasenmuskulatur eingesetzt, und solche Symptome treten auch beim Cauda-equina-Syndrom auf.
 
@@ -94,6 +94,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Angaben zum Wirkmechanismus aus einer verlässlichen Quelle (z. B. DrugBank)
 - Warnhinweise und Kontraindikationen aus der Fachinformation von Swissmedic
 - Eine Prüfung, ob eine systemische Darreichungsform überhaupt möglich und sinnvoll wäre, im Vergleich zu bereits etablierten Antimuskarinika
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
