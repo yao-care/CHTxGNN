@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00938
 monitor_inn: "Salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Salmeterolum: vorhergesagte neue Indikation Respiratorische Fehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 

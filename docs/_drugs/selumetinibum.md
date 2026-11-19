@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB11689
 monitor_inn: "Selumetinib"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Selumetinibum: vorhergesagte neue Indikation Familiäre generalisierte Lentiginose (familial generalized lentiginosis) (Evidenzstufe L5)."
 ---
 

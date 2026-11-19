@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00683
 monitor_inn: "Midazolam"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Midazolamum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Notfallbehandlung länger anhaltender…"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06343
 monitor_inn: "Teprotumumab"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Teprotumumabum: vorhergesagte neue Indikation Monosomie X (monosomy X) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung von Erwachsenen mit mittelschwerer bis schwerer aktiver TE…"
 ---
 

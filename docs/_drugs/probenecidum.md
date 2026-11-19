@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01032
 monitor_inn: "Probenecid"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Probenecidum: vorhergesagte neue Indikation Renale Hypourikämie (hypouricemia, renal) (Evidenzstufe L5). Ursprüngliche Indikation: Urikosurikum"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB14707
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cemiplimabum: vorhergesagte neue Indikation Adenosquamöses Gallenblasenkarzinom (gallbladder adenosquamous carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 

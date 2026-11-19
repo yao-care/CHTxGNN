@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB14762
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Risankizumabum: vorhergesagte neue Indikation Dermatitis (Evidenzstufe L2). Ursprüngliche Indikation: Plaque-Psoriasis und Psoriasis-Arthritis bei Erwachsenen"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06674
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Golimumabum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis, Psoriasis Arthritis…"
 ---
 

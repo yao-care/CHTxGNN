@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06612
 monitor_inn: "Mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Mepolizumabum: vorhergesagte neue Indikation Immunthrombozytopenie (thrombocytopenia due to immune destruction) (Evidenzstufe L5)."
 ---
 

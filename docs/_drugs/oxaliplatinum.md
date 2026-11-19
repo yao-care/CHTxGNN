@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00526
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Oxaliplatinum: vorhergesagte neue Indikation Malignes Pleuramesotheliom (malignant pleural mesothelioma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 

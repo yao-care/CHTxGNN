@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08885
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Afliberceptum: vorhergesagte neue Indikation Esotropie (esotropia) (Evidenzstufe L5). Ursprüngliche Indikation: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makula…"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06700
 monitor_inn: "Desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Desvenlafaxinum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Major Depression bei Erwachsenen"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00404
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Alprazolamum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Anxiolytikum"
 ---
 

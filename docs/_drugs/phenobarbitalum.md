@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01174
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Phenobarbitalum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum, Sedativum"
 ---
 

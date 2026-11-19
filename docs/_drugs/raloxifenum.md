@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00481
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Raloxifenum: vorhergesagte neue Indikation Duodenal ulcer (disease) (Evidenzstufe L5). Ursprüngliche Indikation: Traitement et prévention de l’ostéoporose chez les femmes postménopau…"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01254
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dasatinibum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Philadelphiachromosom-positive chronische myeloische Leukämie Philade…"
 ---
 

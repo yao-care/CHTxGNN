@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01053
 monitor_inn: "Benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "chemotherapy-induced oral mucositis", "denture stomatitis", "leukoplakia of gingiva"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Benzylpenicillinum: vorhergesagte neue Indikation Perikoronitis (pericoronitis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 

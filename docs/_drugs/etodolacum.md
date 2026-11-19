@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00749
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Etodolacum: vorhergesagte neue Indikation Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum"
 ---
 

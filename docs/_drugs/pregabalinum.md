@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00230
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Pregabalinum: vorhergesagte neue Indikation Tendinitis (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum, neuropathische Schmerzen…"
 ---
 

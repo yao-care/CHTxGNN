@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06403
 monitor_inn: "Ambrisentan"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ambrisentanum: vorhergesagte neue Indikation Pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)) (Evidenzstufe L5)."
 ---
 

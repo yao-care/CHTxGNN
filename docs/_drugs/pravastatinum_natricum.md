@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00175
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Pravastatinum Natricum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L2). Ursprüngliche Indikation: Reduktion des Serumcholesterinspiegels"
 ---
 

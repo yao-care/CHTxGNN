@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01018
 monitor_inn: "Guanfacine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Guanfacinum: vorhergesagte neue Indikation Faziodigitogenitales Syndrom (faciodigitogenital syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: ADHS bei Kindern und Jugendlichen (6-17 Jahre)"
 ---
 

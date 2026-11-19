@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06779
 monitor_inn: "Dalteparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dalteparinum Natricum: vorhergesagte neue Indikation Thrombophilie durch Protein-C-Mangel, autosomal-rezessiv (thrombophilia due to protein C deficiency, autosomal recessive) (Evidenzstufe L5)."
 ---
 

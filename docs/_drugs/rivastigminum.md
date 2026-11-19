@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00989
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Rivastigminum: vorhergesagte neue Indikation Glaukom (glaucoma) (Evidenzstufe L5). Ursprüngliche Indikation: Demenza di tipo Alzheimer"
 ---
 

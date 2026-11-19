@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06151
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Acetylcysteinum: vorhergesagte neue Indikation Thrombotische Erkrankung (thrombotic disease) (Evidenzstufe L3). Ursprüngliche Indikation: Mucolitico"
 ---
 

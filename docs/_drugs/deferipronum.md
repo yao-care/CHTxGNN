@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB08826
 monitor_inn: "Deferiprone"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Deferipronum: vorhergesagte neue Indikation Hepatische Porphyrie (hepatic porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Traitement de la surcharge en fer chez les patients avec thalassémie…"
 ---
 

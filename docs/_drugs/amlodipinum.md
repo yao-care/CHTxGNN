@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Amlodipinum: vorhergesagte neue Indikation Hirnstamminfarkt (brain stem infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Calciumantagonist"
 ---
 

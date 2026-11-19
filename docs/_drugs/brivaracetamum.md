@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB05541
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Brivaracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: antiépileptique"
 ---
 

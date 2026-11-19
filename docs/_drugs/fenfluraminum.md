@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00574
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Fenfluraminum: vorhergesagte neue Indikation Proximal 16p11.2 microdeletion syndrome (Evidenzstufe L5)."
 ---
 

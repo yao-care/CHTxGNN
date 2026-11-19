@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01220
 monitor_inn: "Rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Rifaximinum: vorhergesagte neue Indikation Orale Candidose (oral candidiasis) (Evidenzstufe L5). Ursprüngliche Indikation: Zur Verminderung des Wiederauftretens von Episoden einer manifesten h…"
 ---
 

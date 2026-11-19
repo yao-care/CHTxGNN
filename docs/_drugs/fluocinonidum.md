@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01047
 monitor_inn: "Fluocinonide"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Fluocinonidum: vorhergesagte neue Indikation Alopecia mucinosa (Evidenzstufe L5). Ursprüngliche Indikation: Dermatosi noninfette di origine allergica e infiammatoria"
 ---
 

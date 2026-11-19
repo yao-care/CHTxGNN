@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00291
 monitor_inn: "Chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Chlorambucilum: vorhergesagte neue Indikation ALK-positives grosszelliges B-Zell-Lymphom (ALK-positive large B-cell lymphoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

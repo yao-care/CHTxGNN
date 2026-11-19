@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB04855
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dronedaronum: vorhergesagte neue Indikation Schlaganfallerkrankung (stroke disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarythmique"
 ---
 

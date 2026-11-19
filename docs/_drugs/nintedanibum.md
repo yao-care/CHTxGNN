@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB09079
 monitor_inn: "Nintedanib"
 predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Nintedanibum: vorhergesagte neue Indikation Dermatofibrosarcoma protuberans (Evidenzstufe L5). Ursprüngliche Indikation: Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen"
 ---
 

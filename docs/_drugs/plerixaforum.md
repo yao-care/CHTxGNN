@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06809
 monitor_inn: "Plerixafor"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Plerixaforum: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Mobilisation des cellules souches hématopoïétiques"
 ---
 

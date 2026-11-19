@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01104
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Sertralinum: vorhergesagte neue Indikation Schizoide Persönlichkeitsstörung (schizoid personality disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahmehemmer"
 ---
 

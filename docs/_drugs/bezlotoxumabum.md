@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB13140
 monitor_inn: "Bezlotoxumab"
 predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "pelvic varices"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Bezlotoxumabum: vorhergesagte neue Indikation Akute weibliche Beckenperitonitis (acute female pelvic peritonitis) (Evidenzstufe L5)."
 ---
 

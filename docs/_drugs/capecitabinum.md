@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01101
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Capecitabinum: vorhergesagte neue Indikation Magenadenokarzinom und proximale Magenpolyposis (gastric adenocarcinoma and proximal polyposis of the stomach) (Evidenzstufe L5)."
 ---
 

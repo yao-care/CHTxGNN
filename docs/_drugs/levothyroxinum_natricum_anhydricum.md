@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00451
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Levothyroxinum Natricum Anhydricum: vorhergesagte neue Indikation Renale Hypodysplasie/Aplasie (renal hypodysplasia/aplasia) (Evidenzstufe L5). Ursprüngliche Indikation: Hypothyreose"
 ---
 

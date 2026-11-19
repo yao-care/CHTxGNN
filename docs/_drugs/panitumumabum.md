@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01269
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Panitumumabum: vorhergesagte neue Indikation Arzneimittelinduzierte Osteoporose (drug-induced osteoporosis) (Evidenzstufe L5). Ursprüngliche Indikation: Metastasierendes kolorektales Karzinom"
 ---
 

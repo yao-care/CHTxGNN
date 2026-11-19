@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01367
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Rasagilinum: vorhergesagte neue Indikation PLA2G6-associated neurodegeneration (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson"
 ---
 

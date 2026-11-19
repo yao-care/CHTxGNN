@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08899
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Enzalutamidum: vorhergesagte neue Indikation Prostata-Leiomyom (prostate leiomyoma) (Evidenzstufe L5). Ursprüngliche Indikation: Prostatakarzinom"
 ---
 

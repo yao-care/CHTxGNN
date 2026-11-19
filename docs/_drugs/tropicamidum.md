@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00809
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Tropicamidum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Mydriatique"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11945
 monitor_inn: "Avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Avelumabum: vorhergesagte neue Indikation Human herpesvirus 8-related tumor (Evidenzstufe L5). Ursprüngliche Indikation: Merkelzellkarzinom, Urothelkarzinom"
 ---
 

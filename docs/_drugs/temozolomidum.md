@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00853
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Temozolomidum: vorhergesagte neue Indikation Cauda-equina-Neoplasie (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

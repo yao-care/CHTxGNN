@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB09026
 monitor_inn: "Aliskiren"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Aliskirenum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
 ---
 

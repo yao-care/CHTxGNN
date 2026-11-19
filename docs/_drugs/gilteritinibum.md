@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB12141
 monitor_inn: "Gilteritinib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Gilteritinibum: vorhergesagte neue Indikation Bulbäre Poliomyelitis (bulbar polio) (Evidenzstufe L5). Ursprüngliche Indikation: Akute myeloide Leukämie (AML)"
 ---
 

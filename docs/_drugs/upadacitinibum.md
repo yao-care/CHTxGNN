@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB15091
 monitor_inn: "Upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Upadacitinibum: vorhergesagte neue Indikation Colobomatöses Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (Evidenzstufe L5)."
 ---
 

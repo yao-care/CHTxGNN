@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00368
 monitor_inn: "Norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Noradrenalinum: vorhergesagte neue Indikation Obstruktive Lungenerkrankung (obstructive lung disease) (Evidenzstufe L5)."
 ---
 

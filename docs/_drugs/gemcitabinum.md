@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00441
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Gemcitabinum: vorhergesagte neue Indikation Rektales muzinöses Adenokarzinom (rectum mucinous adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

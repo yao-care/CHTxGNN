@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01255
 monitor_inn: "Lisdexamfetamine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Lisdexamfetamini Dimesilas: vorhergesagte neue Indikation Spezifische Entwicklungsstörung (specific developmental disorder) (Evidenzstufe L5)."
 ---
 

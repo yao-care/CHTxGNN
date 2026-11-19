@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB15233
 monitor_inn: "Avapritinib"
 predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Avapritinibum: vorhergesagte neue Indikation axiale spondylometaphysäre Dysplasie (axial spondylometaphyseal dysplasia) (Evidenzstufe L5)."
 ---
 

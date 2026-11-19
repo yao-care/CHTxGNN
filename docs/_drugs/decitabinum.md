@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01262
 monitor_inn: "Decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Decitabinum: vorhergesagte neue Indikation Refraktäre Zytopenie des Kindesalters (refractory cytopenia of childhood) (Evidenzstufe L5). Ursprüngliche Indikation: Akute myeloische Leukämie (AML)"
 ---
 

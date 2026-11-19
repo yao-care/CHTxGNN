@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00724
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Imiquimodum: vorhergesagte neue Indikation Prämaligne Neoplasie (pre-malignant neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Immunomodulateur"
 ---
 

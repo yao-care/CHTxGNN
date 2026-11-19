@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01030
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Topotecanum: vorhergesagte neue Indikation Weibliches Mammakarzinom (female breast carcinoma) (Evidenzstufe L5)."
 ---
 

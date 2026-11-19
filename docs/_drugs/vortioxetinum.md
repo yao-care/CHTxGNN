@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB09068
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Vortioxetinum: vorhergesagte neue Indikation Neurotische Störung (neurotic disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 

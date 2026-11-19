@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00072
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Trastuzumabum: vorhergesagte neue Indikation Maligner kutaner Granularzelltumor der Haut (malignant cutaneous granular cell skin tumor) (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom…"
 ---
 

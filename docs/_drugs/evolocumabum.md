@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB09303
 monitor_inn: "Evolocumab"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Evolocumabum: vorhergesagte neue Indikation Symptomatische Form der Hämophilie bei weiblichen Trägerinnen (symptomatic form of hemophilia in female carriers) (Evidenzstufe L5)."
 ---
 

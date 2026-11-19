@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00581
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Lactulosum Liquidum: vorhergesagte neue Indikation Akute Uratnephropathie (acute urate nephropathy) (Evidenzstufe L5). Ursprüngliche Indikation: Darmregulans"
 ---
 

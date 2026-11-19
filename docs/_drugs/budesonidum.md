@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01222
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Budesonidum: vorhergesagte neue Indikation Atopisches Ekzem (atopic eczema) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Crohn, mikroskopische Kolitis"
 ---
 

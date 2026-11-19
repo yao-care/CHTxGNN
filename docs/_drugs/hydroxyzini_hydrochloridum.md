@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00557
 monitor_inn: "Hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Hydroxyzini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: sédatif, antihistaminique"
 ---
 

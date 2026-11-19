@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "tenofovir disoproxil"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 description: "Tenofovir Disoproxil: vorhergesagte neue Indikation Infektion mit dem Simianen Immundefizienzvirus (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektion"
 ---
 

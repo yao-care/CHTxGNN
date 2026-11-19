@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08911
 monitor_inn: "Trametinib"
 predicted_indications: ["choroideremia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Trametinibum: vorhergesagte neue Indikation Choroideremie (choroideremia) (Evidenzstufe L5). Ursprüngliche Indikation: Melanom, nicht-kleinzelliges Lungenkarzinom"
 ---
 

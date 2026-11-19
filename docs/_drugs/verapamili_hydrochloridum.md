@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00661
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Verapamili Hydrochloridum: vorhergesagte neue Indikation Obsoleter Schenkelblock (obsolete bundle branch block) (Evidenzstufe L5). Ursprüngliche Indikation: Calciumantagonist"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00389
 monitor_inn: "Carbimazole"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Carbimazolum: vorhergesagte neue Indikation Schilddrüsenhormonresistenz durch Mutation im Schilddrüsenhormon-Rezeptor beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) (Evidenzstufe L5)."
 ---
 

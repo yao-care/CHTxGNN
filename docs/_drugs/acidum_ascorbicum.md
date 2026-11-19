@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00126
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Acidum Ascorbicum: vorhergesagte neue Indikation Nicht-syndromische Ösophagusfehlbildung (non-syndromic esophageal malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Vitamin-C-Präparat"
 ---
 

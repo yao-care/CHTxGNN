@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00417
 monitor_inn: "Phenoxymethylpenicillin"
 predicted_indications: ["epiglottitis", "laryngitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Phenoxymethylpenicillinum Kalicum: vorhergesagte neue Indikation Epiglottitis (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 

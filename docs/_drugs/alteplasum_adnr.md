@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00009
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Alteplasum Adnr: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Thrombolytische Therapie bei akutem Herzinfarkt…"
 ---
 

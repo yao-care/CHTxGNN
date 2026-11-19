@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00290
 monitor_inn: "Bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Bleomycinum: vorhergesagte neue Indikation Neoplasma der Cauda equina (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

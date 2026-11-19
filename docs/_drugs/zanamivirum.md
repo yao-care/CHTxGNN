@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00558
 monitor_inn: "Zanamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Zanamivirum: vorhergesagte neue Indikation Pyelonephritis (Evidenzstufe L5). Ursprüngliche Indikation: Influenza A und B"
 ---
 

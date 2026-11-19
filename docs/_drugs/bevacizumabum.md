@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00112
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Bevacizumabum: vorhergesagte neue Indikation Kehldeckel-Neoplasie (epiglottis neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00049
 monitor_inn: "Rasburicase"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Rasburicasum: vorhergesagte neue Indikation Renale Hypourikämie (hypouricemia, renal) (Evidenzstufe L5). Ursprüngliche Indikation: Hyperuricémie"
 ---
 

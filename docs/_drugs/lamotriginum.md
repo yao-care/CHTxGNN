@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00555
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Lamotriginum: vorhergesagte neue Indikation Trigeminusneoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum…"
 ---
 

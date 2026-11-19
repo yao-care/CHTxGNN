@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00674
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Galantaminum: vorhergesagte neue Indikation Psychogene Bewegungsstörungen (psychogenic movement disorders) (Evidenzstufe L5)."
 ---
 

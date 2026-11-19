@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB04868
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Nilotinibum: vorhergesagte neue Indikation Dermatofibrosarcoma protuberans (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum…"
 ---
 

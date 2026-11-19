@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB05109
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Trabectedinum: vorhergesagte neue Indikation Weiblicher Brustkrebs (female breast carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologie"
 ---
 

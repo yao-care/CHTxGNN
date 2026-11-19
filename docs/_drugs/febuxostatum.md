@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB04854
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Febuxostatum: vorhergesagte neue Indikation Renale Hypourikämie (hypouricemia, renal) (Evidenzstufe L5). Ursprüngliche Indikation: Urikostatikum"
 ---
 

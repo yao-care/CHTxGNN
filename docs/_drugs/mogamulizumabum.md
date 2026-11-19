@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB12498
 monitor_inn: "Mogamulizumab"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Mogamulizumabum: vorhergesagte neue Indikation Prostatisches Urothel-Urethrakarzinom (prostatic urethra urothelial carcinoma) (Evidenzstufe L5)."
 ---
 

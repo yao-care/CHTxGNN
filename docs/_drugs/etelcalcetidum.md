@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB12865
 monitor_inn: "Etelcalcetide"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Etelcalcetidum: vorhergesagte neue Indikation Hyperphosphatämie (hyperphosphatemia (disease)) (Evidenzstufe L5)."
 ---
 

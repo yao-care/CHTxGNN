@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01418
 monitor_inn: "Acenocoumarol"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Acenocoumarolum: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Anticoagulans"
 ---
 

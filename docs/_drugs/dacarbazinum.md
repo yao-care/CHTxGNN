@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00851
 monitor_inn: "Dacarbazine"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dacarbazinum: vorhergesagte neue Indikation Neoplasie des oberen Aerodigestivtrakts (upper aerodigestive tract neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

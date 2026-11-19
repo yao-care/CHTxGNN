@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00035
 monitor_inn: "Desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Desmopressinum: vorhergesagte neue Indikation Angeborener Prothrombinmangel (congenital prothrombin deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes insipidus centralis, Polyurie…"
 ---
 

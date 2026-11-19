@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01171
 monitor_inn: "Moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Moclobemidum: vorhergesagte neue Indikation Agoraphobie (agoraphobia) (Evidenzstufe L5). Ursprüngliche Indikation: Depressive Syndrome, soziale Phobie"
 ---
 

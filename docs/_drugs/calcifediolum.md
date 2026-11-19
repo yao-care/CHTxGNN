@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00146
 monitor_inn: "Calcifediol"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Calcifediolum: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5)."
 ---
 

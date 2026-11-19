@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06209
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Prasugrelum: vorhergesagte neue Indikation Pulmonale Hypertonie (pulmonary hypertension) (Evidenzstufe L5)."
 ---
 

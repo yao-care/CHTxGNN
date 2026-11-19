@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01238
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Aripiprazolum: vorhergesagte neue Indikation Familiäre horizontale Blickparese mit progredienter Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
 ---
 

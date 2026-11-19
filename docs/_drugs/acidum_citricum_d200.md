@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB04272
 monitor_inn: "Citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Acidum Citricum D200: vorhergesagte neue Indikation Magenerkrankung (stomach disease) (Evidenzstufe L5). Ursprüngliche Indikation: Gemäss homöopathischem Arzneimittelbild bei Zahnfleischentzündungen…"
 ---
 

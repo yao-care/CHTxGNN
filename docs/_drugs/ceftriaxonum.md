@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01212
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ceftriaxonum: vorhergesagte neue Indikation Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 

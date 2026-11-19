@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00043
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Omalizumabum: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Asthme allergique, Urticaire chronique spontanée (UCS)"
 ---
 

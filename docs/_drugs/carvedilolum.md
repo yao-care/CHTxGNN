@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01136
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Carvedilolum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Alpha- und Beta-Rezeptorenblocker"
 ---
 

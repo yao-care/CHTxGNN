@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00261
 monitor_inn: "Anagrelide"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Anagrelidum: vorhergesagte neue Indikation Reaktive Thrombozytose (reactive thrombocytosis) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der essentiellen Thrombozythämie"
 ---
 

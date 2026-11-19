@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB14041
 monitor_inn: "Fremanezumab"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Fremanezumabum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Migräneprophylaxe"
 ---
 

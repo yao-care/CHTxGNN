@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00169
 monitor_inn: "Cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cholecalciferolum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (Evidenzstufe L5)."
 ---
 

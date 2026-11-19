@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB08890
 monitor_inn: "Linaclotide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Linaclotidum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5)."
 ---
 

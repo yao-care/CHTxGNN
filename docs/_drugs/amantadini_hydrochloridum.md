@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00915
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Amantadini Hydrochloridum: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson, Grippeprophylaxe"
 ---
 

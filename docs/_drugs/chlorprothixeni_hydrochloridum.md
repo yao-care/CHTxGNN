@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01239
 monitor_inn: "Chlorprothixene"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "myopia X-linked", "syndromic myopia", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Chlorprothixeni Hydrochloridum: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokuläre Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00295
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Morphinum: vorhergesagte neue Indikation Myofasziales Schmerzsyndrom (myofascial pain syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Analgesico stupefacente"
 ---
 

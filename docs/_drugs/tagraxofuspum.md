@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB14731
 monitor_inn: "Tagraxofusp"
 predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "non-seminomatous lesion", "ductal or ductular proliferation", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "cystic neoplasm", "thyroglossal duct cyst"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Tagraxofuspum: vorhergesagte neue Indikation Esotropie (esotropia) (Evidenzstufe L5). Ursprüngliche Indikation: Blastische plasmazytoide dendritische Zellneoplasie (BPDCN)"
 ---
 

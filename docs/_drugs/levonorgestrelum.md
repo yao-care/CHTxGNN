@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00367
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Levonorgestrelum: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen"
 ---
 

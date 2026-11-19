@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00299
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Penciclovirum: vorhergesagte neue Indikation Fasziolose (fascioliasis) (Evidenzstufe L5). Ursprüngliche Indikation: Herpes labialis"
 ---
 

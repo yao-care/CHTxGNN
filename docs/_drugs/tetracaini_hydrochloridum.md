@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB09085
 monitor_inn: "Tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Tetracaini Hydrochloridum: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). Ursprüngliche Indikation: Anesthésique local"
 ---
 

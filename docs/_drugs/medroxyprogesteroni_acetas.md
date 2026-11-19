@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00603
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Medroxyprogesteroni Acetas: vorhergesagte neue Indikation Fibrozystische Brusterkrankung (breast fibrocystic disease) (Evidenzstufe L3)."
 ---
 

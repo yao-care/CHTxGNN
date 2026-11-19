@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06210
 monitor_inn: "Eltrombopag"
 predicted_indications: ["HIV infectious disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Eltrombopagum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische (idiopathische) thrombozytopenische Purpura (ITP)"
 ---
 

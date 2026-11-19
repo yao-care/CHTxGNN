@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00540
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Nortriptylinum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Antidepressivum"
 ---
 

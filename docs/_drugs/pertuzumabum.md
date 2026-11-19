@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06366
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Pertuzumabum: vorhergesagte neue Indikation Ektomesenchymom (ectomesenchymoma) (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom"
 ---
 

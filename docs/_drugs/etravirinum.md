@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06414
 monitor_inn: "Etravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Etravirinum: vorhergesagte neue Indikation Simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 

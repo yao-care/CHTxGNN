@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00591
 monitor_inn: "Fluocinolone acetonide"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Fluocinoloni Acetonidum Neomycinum: vorhergesagte neue Indikation Lichen planus pemphigoides (Evidenzstufe L5). Ursprüngliche Indikation: Dermatoses inflammatoires ou allergiques…"
 ---
 

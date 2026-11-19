@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB09037
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Pembrolizumabum: vorhergesagte neue Indikation Gingivafibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: Melanom, Nicht-kleinzelliges Lungenkarzinom…"
 ---
 

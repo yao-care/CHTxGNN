@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06196
 monitor_inn: "Icatibant"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Icatibantum: vorhergesagte neue Indikation Serpinopathie mit toxischer Serpin-Polymerisation (serpinopathy with toxic serpin polymerization) (Evidenzstufe L5)."
 ---
 

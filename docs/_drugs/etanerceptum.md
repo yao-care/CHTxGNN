@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00005
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Etanerceptum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis…"
 ---
 

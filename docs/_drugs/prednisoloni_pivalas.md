@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00860
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Prednisoloni Pivalas: vorhergesagte neue Indikation Kreisrunder Haarausfall (alopecia areata) (Evidenzstufe L2). Ursprüngliche Indikation: Augenentzündungen"
 ---
 

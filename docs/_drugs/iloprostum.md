@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01088
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Iloprostum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: Prostacyclinanalogon"
 ---
 

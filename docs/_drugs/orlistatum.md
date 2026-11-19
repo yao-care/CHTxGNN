@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01083
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Orlistatum: vorhergesagte neue Indikation Hypervitaminose (hypervitaminosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antidiapositum"
 ---
 

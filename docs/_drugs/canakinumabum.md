@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06168
 monitor_inn: "Canakinumab"
 predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Canakinumabum: vorhergesagte neue Indikation Leberinfarkt (hepatic infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Cryopyrin-assoziierte Periodische Syndrome (CAPS) wie des Muckle-Well…"
 ---
 

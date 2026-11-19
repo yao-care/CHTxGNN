@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00502
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Haloperidolum: vorhergesagte neue Indikation Angeborene Glykosylierungsstörung mit defekter Fucosylierung (congenital disorder of glycosylation with defective fucosylation) (Evidenzstufe L5)."
 ---
 

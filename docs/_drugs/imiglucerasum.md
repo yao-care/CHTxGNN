@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00053
 monitor_inn: "Imiglucerase"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Imiglucerasum: vorhergesagte neue Indikation Hurler-Syndrom (Hurler syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: maladie de Gaucher type I et type III"
 ---
 

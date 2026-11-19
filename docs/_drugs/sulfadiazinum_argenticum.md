@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00359
 monitor_inn: "Sulfadiazine"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Sulfadiazinum Argenticum: vorhergesagte neue Indikation Pneumocystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antiseptische Wundcreme"
 ---
 

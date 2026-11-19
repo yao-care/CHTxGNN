@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00222
 monitor_inn: "Glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Glimepiridum: vorhergesagte neue Indikation Klassisches Stiff-Person-Syndrom (classic stiff person syndrome) (Evidenzstufe L5)."
 ---
 

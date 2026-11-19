@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06650
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ofatumumabum: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L2). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 

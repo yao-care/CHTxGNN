@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00158
 monitor_inn: "Folic acid"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Acidum Folicum: vorhergesagte neue Indikation Biotin-Stoffwechselerkrankung (biotin metabolic disease) (Evidenzstufe L5)."
 ---
 

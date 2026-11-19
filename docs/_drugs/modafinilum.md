@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00745
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Modafinilum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Narkolepsie"
 ---
 

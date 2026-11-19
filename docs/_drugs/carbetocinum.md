@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01282
 monitor_inn: "Carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Carbetocinum: vorhergesagte neue Indikation Isotretinoin-ähnliches Syndrom (isotretinoin-like syndrome) (Evidenzstufe L5)."
 ---
 

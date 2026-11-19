@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00419
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Miglustatum: vorhergesagte neue Indikation Autosomales Ichthyose-Syndrom mit tödlichem Verlauf (autosomal ichthyosis syndrome with fatal disease course) (Evidenzstufe L5)."
 ---
 

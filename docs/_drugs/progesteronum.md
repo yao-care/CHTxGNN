@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00396
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Progesteronum: vorhergesagte neue Indikation Fibrozystische Brustkrankheit (breast fibrocystic disease) (Evidenzstufe L5). Ursprüngliche Indikation: Menstruationsstörungen, prämenstruelles Syndrom…"
 ---
 

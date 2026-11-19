@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB09038
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Empagliflozinum: vorhergesagte neue Indikation Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) (Evidenzstufe L5)."
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00046
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Insulinum Lisprum: vorhergesagte neue Indikation Autoimmune oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabète sucré"
 ---
 

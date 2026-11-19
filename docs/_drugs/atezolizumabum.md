@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB11595
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Atezolizumabum: vorhergesagte neue Indikation Uteriges Ligament-Adenokarzinom (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 

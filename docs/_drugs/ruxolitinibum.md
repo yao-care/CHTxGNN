@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB08877
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ruxolitinibum: vorhergesagte neue Indikation Perivaskuläre epitheloidzellige Tumoren des Uteruskörpers (uterine corpus perivascular epithelioid cell tumor) (Evidenzstufe L5)."
 ---
 

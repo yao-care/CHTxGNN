@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01017
 monitor_inn: "Minocycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Minocyclinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Akne vulgaris"
 ---
 

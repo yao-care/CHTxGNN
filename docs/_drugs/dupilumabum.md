@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB12159
 monitor_inn: "Dupilumab"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dupilumabum: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Dermatite atopique modérée à sévère, asthme, polypose naso-sinusienne…"
 ---
 

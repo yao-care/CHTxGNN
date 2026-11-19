@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00136
 monitor_inn: "Calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Calcitriolum: vorhergesagte neue Indikation Obsoletes Vitamin-D-Mangel-Syndrom (obsolete vitamin D deficiency) (Evidenzstufe L5)."
 ---
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00953
 monitor_inn: "Rizatriptan"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Rizatriptanum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Akutbehandlung von Migräneanfällen mit oder ohne Aura"
 ---
 

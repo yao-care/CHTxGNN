@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00983
 monitor_inn: "Formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Formoteroli Fumaras Dihydricus: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 

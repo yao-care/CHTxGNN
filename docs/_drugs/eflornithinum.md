@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06243
 monitor_inn: "Eflornithine"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Eflornithinum: vorhergesagte neue Indikation Esotropie (esotropia) (Evidenzstufe L5). Ursprüngliche Indikation: Monotherapie zur Behandlung von pädiatrischen Patienten ab 1 Jahr mit…"
 ---
 

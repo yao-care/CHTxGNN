@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB05294
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Vandetanibum: vorhergesagte neue Indikation Nierenzellkarzinom (renal cell carcinoma (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Cancer médullaire de la thyroïde"
 ---
 

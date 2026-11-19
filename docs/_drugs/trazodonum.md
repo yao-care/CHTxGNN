@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00656
 monitor_inn: "Trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Trazodonum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 

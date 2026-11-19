@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00338
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Omeprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Zollinger-Ellison-Syndrom"
 ---
 

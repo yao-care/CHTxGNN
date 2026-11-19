@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00334
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Olanzapinum: vorhergesagte neue Indikation Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5). Ursprüngliche Indikation: Neuroleptica"
 ---
 

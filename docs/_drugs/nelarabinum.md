@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01280
 monitor_inn: "Nelarabine"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Nelarabinum: vorhergesagte neue Indikation Schubförmig remittierende Multiple Sklerose (relapsing-remitting multiple sclerosis) (Evidenzstufe L5)."
 ---
 

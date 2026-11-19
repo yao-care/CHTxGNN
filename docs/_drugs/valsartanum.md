@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00177
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Valsartanum: vorhergesagte neue Indikation Bösartige hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 

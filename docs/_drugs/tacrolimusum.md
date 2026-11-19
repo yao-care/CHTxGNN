@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00864
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Tacrolimusum: vorhergesagte neue Indikation seborrhoische Dermatitis (seborrheic dermatitis) (Evidenzstufe L2). Ursprüngliche Indikation: Atopische Dermatitis"
 ---
 

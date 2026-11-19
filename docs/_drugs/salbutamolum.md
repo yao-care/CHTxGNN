@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01001
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Salbutamolum: vorhergesagte neue Indikation Papilläre Konjunktivitis (papillary conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 

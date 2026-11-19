@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00031
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Tenecteplasum: vorhergesagte neue Indikation Angeborene Koronararterienanomalie (congenital coronary artery anomaly) (Evidenzstufe L5)."
 ---
 

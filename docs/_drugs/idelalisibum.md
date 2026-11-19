@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB09054
 monitor_inn: "Idelalisib"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Idelalisibum: vorhergesagte neue Indikation Mantelzelllymphom (mantle cell lymphoma) (Evidenzstufe L2). Ursprüngliche Indikation: Onkologikum"
 ---
 

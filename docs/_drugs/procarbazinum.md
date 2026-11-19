@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01168
 monitor_inn: "Procarbazine"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Procarbazinum: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L5)."
 ---
 

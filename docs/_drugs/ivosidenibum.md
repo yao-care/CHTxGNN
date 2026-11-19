@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB14568
 monitor_inn: "Ivosidenib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ivosidenibum: vorhergesagte neue Indikation Bulbäre Poliomyelitis (bulbar polio) (Evidenzstufe L5). Ursprüngliche Indikation: Leucémie myéloïde aiguë (LMA) / Cholangiocarcinome"
 ---
 

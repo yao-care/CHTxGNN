@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01270
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ranibizumabum: vorhergesagte neue Indikation Reifer Katarakt (mature cataract) (Evidenzstufe L5). Ursprüngliche Indikation: exsudative altersbezogene Makuladegeneration…"
 ---
 

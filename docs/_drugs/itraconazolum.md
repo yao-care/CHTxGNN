@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01167
 monitor_inn: "Itraconazole"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Itraconazolum: vorhergesagte neue Indikation Pneumozystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 ---
 

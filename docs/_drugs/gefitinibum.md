@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00317
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Gefitinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

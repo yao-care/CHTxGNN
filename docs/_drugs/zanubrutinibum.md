@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB15035
 monitor_inn: "Zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Zanubrutinibum: vorhergesagte neue Indikation Myeloische Leukämie (myeloid leukemia) (Evidenzstufe L5). Ursprüngliche Indikation: B-Zell Lymphome"
 ---
 

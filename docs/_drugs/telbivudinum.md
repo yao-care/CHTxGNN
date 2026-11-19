@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01265
 monitor_inn: "Telbivudine"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Telbivudinum: vorhergesagte neue Indikation Chronische Hepatitis-C-Virusinfektion (chronic hepatitis C virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis B"
 ---
 

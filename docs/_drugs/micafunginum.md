@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01141
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Micafunginum: vorhergesagte neue Indikation Harnwegsinfektion (urinary tract infection (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Antimykotikum"
 ---
 

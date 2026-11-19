@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00422
 monitor_inn: "Methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Methylphenidati Hydrochloridum: vorhergesagte neue Indikation Faziodigitogenitales Syndrom (faciodigitogenital syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Psychotonikum"
 ---
 

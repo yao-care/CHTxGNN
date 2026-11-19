@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06589
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Pazopanibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L3). Ursprüngliche Indikation: Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen W…"
 ---
 

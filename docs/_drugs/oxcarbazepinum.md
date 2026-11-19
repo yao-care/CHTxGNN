@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00776
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Oxcarbazepinum: vorhergesagte neue Indikation Restless-Legs-Syndrom (restless legs syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 

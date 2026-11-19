@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB09564
 monitor_inn: "Insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Insulinum Degludecum: vorhergesagte neue Indikation Autoimmune oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes mellitus"
 ---
 

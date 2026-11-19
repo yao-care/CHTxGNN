@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00571
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Propranololi Hydrochloridum: vorhergesagte neue Indikation Distale Myopathie, Typ Tateyama (distal myopathy, Tateyama type) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 

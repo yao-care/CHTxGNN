@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06285
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Teriparatidum Adnr: vorhergesagte neue Indikation Zwölffingerdarmgeschwür (duodenal ulcer (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Postmenopausale Osteoporose bei Frauen"
 ---
 

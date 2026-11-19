@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00110
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Palivizumabum: vorhergesagte neue Indikation Gutartige Neubildung der Zunge (benign neoplasm of tongue) (Evidenzstufe L5). Ursprüngliche Indikation: RSV-Prophylaxe"
 ---
 

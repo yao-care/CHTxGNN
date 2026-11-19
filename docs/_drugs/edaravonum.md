@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB12243
 monitor_inn: "Edaravone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Edaravonum: vorhergesagte neue Indikation Heparin cofactor 2 deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der amyotrophen Lateralsklerose (ALS)"
 ---
 

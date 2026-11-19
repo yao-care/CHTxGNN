@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00479
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Amikacinum: vorhergesagte neue Indikation Paratyphus (paratyphoid fever) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 

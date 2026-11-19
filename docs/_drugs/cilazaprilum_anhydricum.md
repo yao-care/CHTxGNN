@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01340
 monitor_inn: "Cilazapril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cilazaprilum Anhydricum: vorhergesagte neue Indikation Pulmonale Hypertonie bei unklarem, multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
 ---
 

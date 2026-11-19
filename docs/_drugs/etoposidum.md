@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00773
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Etoposidum: vorhergesagte neue Indikation Gut differenziertes fetales Adenokarzinom der Lunge (well-differentiated fetal adenocarcinoma of the lung) (Evidenzstufe L5)."
 ---
 

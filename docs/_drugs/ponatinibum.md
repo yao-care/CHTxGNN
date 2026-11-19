@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB08901
 monitor_inn: "Ponatinib"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Ponatinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: agent antinéoplasique"
 ---
 

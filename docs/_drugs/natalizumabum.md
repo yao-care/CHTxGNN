@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00108
 monitor_inn: "Natalizumab"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Natalizumabum: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 

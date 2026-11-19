@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01064
 monitor_inn: "Isoprenaline"
 predicted_indications: ["nasal cavity disease", "headache disorder", "pharyngitis", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Isoprenalini Hydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Sympathomimetikum"
 ---
 

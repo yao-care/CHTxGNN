@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08875
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cabozantinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Nierenzellkarzinom, Leberzellkarzinom, Schilddrüsenkarzinom…"
 ---
 

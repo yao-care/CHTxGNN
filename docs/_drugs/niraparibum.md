@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB11793
 monitor_inn: "Niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "pre-malignant neoplasm", "inner ear neoplasm", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Niraparibum: vorhergesagte neue Indikation Neubildung der Epiglottis (epiglottis neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 

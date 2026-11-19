@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB14864
 monitor_inn: "Brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Brolucizumabum: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) (Evidenzstufe L5)."
 ---
 

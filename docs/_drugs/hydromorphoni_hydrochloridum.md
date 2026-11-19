@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00327
 monitor_inn: "Hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Hydromorphoni Hydrochloridum: vorhergesagte neue Indikation Pharyngitis (Evidenzstufe L5). Ursprüngliche Indikation: Narkotisches Analgetikum mit Langzeitwirkung"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00563
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Methotrexatum: vorhergesagte neue Indikation Pulmonales Blastom (pulmonary blastoma) (Evidenzstufe L5). Ursprüngliche Indikation: Arthritis und Psoriasis"
 ---
 

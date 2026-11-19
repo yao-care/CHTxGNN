@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00002
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Cetuximabum: vorhergesagte neue Indikation Chondroides Hamartom (chondroid hamartoma) (Evidenzstufe L5). Ursprüngliche Indikation: Kolorektalkarzinom, Plattenepithelkarzinom im Kopf-Hals-Bereich"
 ---
 

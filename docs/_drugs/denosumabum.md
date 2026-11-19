@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06643
 monitor_inn: "Denosumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Denosumabum: vorhergesagte neue Indikation Schwere nichtproliferative diabetische Retinopathie (severe nonproliferative diabetic retinopathy) (Evidenzstufe L5)."
 ---
 

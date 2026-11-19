@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01130
 monitor_inn: "Prednicarbate"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Prednicarbatum: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5)."
 ---
 

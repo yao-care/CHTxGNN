@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00318
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Codeini Phosphas Hemihydricus: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Husten"
 ---
 

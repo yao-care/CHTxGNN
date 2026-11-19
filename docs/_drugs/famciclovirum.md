@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00426
 monitor_inn: "Famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Famciclovirum: vorhergesagte neue Indikation Postinfektiöse Neuralgie (post-infectious neuralgia) (Evidenzstufe L5). Ursprüngliche Indikation: Herpesinfektionen"
 ---
 

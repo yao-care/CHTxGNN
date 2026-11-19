@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06701
 monitor_inn: "Dexmethylphenidate"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dexmethylphenidatum: vorhergesagte neue Indikation Spezifische Entwicklungsstörung (specific developmental disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Zentral wirksames Sympathomimetikum"
 ---
 

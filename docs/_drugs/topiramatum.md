@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00273
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Topiramatum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum, Migräneprophylaxe"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB12023
 monitor_inn: "Benralizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Benralizumabum: vorhergesagte neue Indikation Immunthrombozytopenie (thrombocytopenia due to immune destruction) (Evidenzstufe L5). Ursprüngliche Indikation: Schweres eosinophiles Asthma, EGPA"
 ---
 

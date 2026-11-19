@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00640
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Adenosinum: vorhergesagte neue Indikation Obsolete Schenkelblockierung (obsolete bundle branch block) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarythmique"
 ---
 

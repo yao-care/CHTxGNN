@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00843
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Donepezilum: vorhergesagte neue Indikation Psychogene Bewegungsstörungen (psychogenic movement disorders) (Evidenzstufe L5)."
 ---
 

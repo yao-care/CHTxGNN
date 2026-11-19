@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB09078
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Lenvatinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC)"
 ---
 

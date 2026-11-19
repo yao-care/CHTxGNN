@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00550
 monitor_inn: "Propylthiouracil"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Propylthiouracilum: vorhergesagte neue Indikation Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (Evidenzstufe L4). Ursprüngliche Indikation: Thyreostatikum"
 ---
 

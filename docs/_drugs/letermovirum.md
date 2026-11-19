@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB12070
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Letermovirum: vorhergesagte neue Indikation Vulvovaginale Candidiasis (vulvovaginal candidiasis) (Evidenzstufe L5). Ursprüngliche Indikation: Cytomegalovirus-(CMV) Prophylaxe"
 ---
 

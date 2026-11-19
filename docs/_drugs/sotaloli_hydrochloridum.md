@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00489
 monitor_inn: "Sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Sotaloli Hydrochloridum: vorhergesagte neue Indikation Sick sinus syndrome 2, autosomal dominant (Evidenzstufe L5). Ursprüngliche Indikation: Betarezeptorenblocker"
 ---
 

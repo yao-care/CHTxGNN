@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB06654
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Safinamidum: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Malattia di Parkinson idiopatica"
 ---
 

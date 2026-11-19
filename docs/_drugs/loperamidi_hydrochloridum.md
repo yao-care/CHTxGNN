@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00836
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "chronic follicular conjunctivitis", "Angelucci syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Loperamidi Hydrochloridum: vorhergesagte neue Indikation Akute ansteckende Bindehautentzündung (acute contagious conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Diarrhö"
 ---
 

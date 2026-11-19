@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00734
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Risperidonum: vorhergesagte neue Indikation Familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
 ---
 

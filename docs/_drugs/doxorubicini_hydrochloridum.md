@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00997
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Doxorubicini Hydrochloridum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L1). Ursprüngliche Indikation: Zytostatikum"
 ---
 

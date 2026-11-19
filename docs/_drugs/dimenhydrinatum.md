@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00985
 monitor_inn: "Dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Dimenhydrinatum: vorhergesagte neue Indikation Allergische Urtikaria (allergic urticaria) (Evidenzstufe L5). Ursprüngliche Indikation: maux de voyage"
 ---
 

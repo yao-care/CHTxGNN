@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB12457
 monitor_inn: "Rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Rimegepantum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Migränemittel"
 ---
 

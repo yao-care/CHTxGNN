@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB08828
 monitor_inn: "Vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Vismodegibum: vorhergesagte neue Indikation Medulloblastom mit ausgeprägter Nodularität (medulloblastoma with extensive nodularity) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 

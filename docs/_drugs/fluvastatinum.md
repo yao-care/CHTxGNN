@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01095
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "fibroma of prostate"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Fluvastatinum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration…"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00215
 monitor_inn: "Citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Citalopramum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahme-Hemmer"
 ---
 

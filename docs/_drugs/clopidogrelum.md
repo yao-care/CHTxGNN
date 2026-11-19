@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00758
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Clopidogrelum: vorhergesagte neue Indikation Migräne mit Hirnstammaura (migraine with brainstem aura) (Evidenzstufe L5). Ursprüngliche Indikation: Thrombozytenaggregationshemmer"
 ---
 

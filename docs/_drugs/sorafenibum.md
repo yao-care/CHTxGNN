@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00398
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Sorafenibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Leberzellkarzinom, Nierenzellkarzinom, Schilddrüsenkarzinom"
 ---
 

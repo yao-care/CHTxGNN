@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00759
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Tetracyclinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Acne vulgaris"
 ---
 
