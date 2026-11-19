@@ -6,7 +6,7 @@ nav_exclude: true
 title: HISTAMINUM
 drugbank_id: DB05381
 permalink: /drugs/histaminum/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

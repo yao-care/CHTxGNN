@@ -7,7 +7,7 @@ title: MACITENTANUM
 drugbank_id: DB08932
 permalink: /drugs/macitentanum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

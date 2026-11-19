@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 description: "Chloramphenicol: vorhergesagte neue Indikation Diffuse scleroderma (Evidenzstufe L5). Ursprüngliche Indikation: Infections oculaires"

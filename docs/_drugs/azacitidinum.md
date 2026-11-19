@@ -6,7 +6,7 @@ nav_exclude: true
 title: AZACITIDINUM
 drugbank_id: DB00928
 permalink: /drugs/azacitidinum/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

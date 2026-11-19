@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00370
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Mirtazapinum: vorhergesagte neue Indikation Ohdo-Syndrom und Varianten (Ohdo syndrome and variants) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01202
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Levetiracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Antiépileptique"
 ---
 

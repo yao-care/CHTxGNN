@@ -7,7 +7,7 @@ title: CHOLINI SALICYLAS
 drugbank_id: DB00122
 permalink: /drugs/cholini_salicylas/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

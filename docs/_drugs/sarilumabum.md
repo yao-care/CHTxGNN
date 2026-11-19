@@ -7,7 +7,7 @@ title: SARILUMABUM
 drugbank_id: DB11767
 permalink: /drugs/sarilumabum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

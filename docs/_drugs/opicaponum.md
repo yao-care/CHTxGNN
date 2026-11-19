@@ -7,7 +7,7 @@ title: OPICAPONUM
 drugbank_id: DB11632
 permalink: /drugs/opicaponum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

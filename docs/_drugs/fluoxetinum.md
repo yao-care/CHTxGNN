@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00472
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Fluoxetinum: vorhergesagte neue Indikation Schizotypische Persönlichkeitsstörung (schizotypal personality disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 

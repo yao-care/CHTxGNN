@@ -7,7 +7,7 @@ title: ACIDUM BENZOICUM E RESINA
 drugbank_id: DB03793
 permalink: /drugs/acidum_benzoicum_e_resina/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-16
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

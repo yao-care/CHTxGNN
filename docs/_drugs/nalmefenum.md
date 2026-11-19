@@ -7,7 +7,7 @@ title: NALMEFENUM
 drugbank_id: DB06230
 permalink: /drugs/nalmefenum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

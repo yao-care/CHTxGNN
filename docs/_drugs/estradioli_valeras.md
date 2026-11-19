@@ -7,7 +7,7 @@ title: ESTRADIOLI VALERAS
 drugbank_id: DB00783
 permalink: /drugs/estradioli_valeras/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

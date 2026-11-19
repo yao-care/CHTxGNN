@@ -7,7 +7,7 @@ title: DROSPIRENONUM
 drugbank_id: DB01395
 permalink: /drugs/drospirenonum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

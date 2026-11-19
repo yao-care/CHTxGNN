@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00348
 monitor_inn: "Nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Nitisinonum: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5). Ursprüngliche Indikation: Hereditäre Tyrosinämie Typ 1 (HT-1)"
 ---
 

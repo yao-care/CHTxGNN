@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB11061
 monitor_inn: "Povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Povidonum K 25: vorhergesagte neue Indikation Angeborene ichthyosiforme Erythrodermie (congenital ichthyosiform erythroderma) (Evidenzstufe L5). Ursprüngliche Indikation: Tränenflüssigkeitsersatz"
 ---
 

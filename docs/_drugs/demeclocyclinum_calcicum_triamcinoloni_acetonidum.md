@@ -6,7 +6,7 @@ nav_exclude: true
 title: DEMECLOCYCLINUM CALCICUM, TRIAMCINOLONI ACETONIDUM
 drugbank_id: DB00618
 permalink: /drugs/demeclocyclinum_calcicum_triamcinoloni_acetonidum/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-16
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

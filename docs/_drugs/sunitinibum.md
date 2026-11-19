@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01268
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Sunitinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 

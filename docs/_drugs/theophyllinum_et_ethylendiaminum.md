@@ -7,7 +7,7 @@ title: THEOPHYLLINUM ET ETHYLENDIAMINUM
 drugbank_id: DB00277
 permalink: /drugs/theophyllinum_et_ethylendiaminum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-16
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

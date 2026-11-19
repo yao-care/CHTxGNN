@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00014
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Goserelinum: vorhergesagte neue Indikation Amenorrhö (amenorrhea (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Prostatakarzinom,Endometriose…"
 ---
 

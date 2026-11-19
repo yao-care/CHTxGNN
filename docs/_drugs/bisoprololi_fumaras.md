@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Bisoprololi Fumaras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Hypertonie"
 ---
 

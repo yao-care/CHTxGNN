@@ -7,7 +7,7 @@ title: TERIFLUNOMIDUM
 drugbank_id: DB08880
 permalink: /drugs/teriflunomidum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-17
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

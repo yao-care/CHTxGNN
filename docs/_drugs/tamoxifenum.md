@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00675
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Tamoxifenum: vorhergesagte neue Indikation Mammärer Morbus Paget (mammary Paget disease) (Evidenzstufe L5). Ursprüngliche Indikation: Oncologicum"
 ---
 

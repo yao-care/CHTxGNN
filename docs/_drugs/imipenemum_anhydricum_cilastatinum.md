@@ -7,7 +7,7 @@ title: IMIPENEMUM ANHYDRICUM, CILASTATINUM
 drugbank_id: DB01598
 permalink: /drugs/imipenemum_anhydricum_cilastatinum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-16
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

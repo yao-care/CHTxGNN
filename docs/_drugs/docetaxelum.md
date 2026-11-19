@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01248
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Docetaxelum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 

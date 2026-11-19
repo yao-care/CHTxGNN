@@ -7,7 +7,7 @@ title: BILASTINUM
 drugbank_id: DB11591
 permalink: /drugs/bilastinum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

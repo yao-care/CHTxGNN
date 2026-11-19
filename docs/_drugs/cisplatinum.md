@@ -6,7 +6,7 @@ nav_exclude: true
 title: CISPLATINUM
 drugbank_id: DB00515
 permalink: /drugs/cisplatinum/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-17
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

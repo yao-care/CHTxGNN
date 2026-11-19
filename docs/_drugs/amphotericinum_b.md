@@ -6,7 +6,7 @@ nav_exclude: true
 title: AMPHOTERICINUM B
 drugbank_id: DB00681
 permalink: /drugs/amphotericinum_b/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

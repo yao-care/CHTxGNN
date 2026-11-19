@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01219
 monitor_inn: "Dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Dantrolenum Natricum Hemiheptahydricum: vorhergesagte neue Indikation Moderate Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement) (Evidenzstufe L5)."
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08816
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Ticagrelorum: vorhergesagte neue Indikation Intrakranielle Arteriosklerose (intracranial arteriosclerosis) (Evidenzstufe L5)."
 ---
 

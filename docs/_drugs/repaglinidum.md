@@ -7,7 +7,7 @@ title: REPAGLINIDUM
 drugbank_id: DB00912
 permalink: /drugs/repaglinidum/
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-17
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
