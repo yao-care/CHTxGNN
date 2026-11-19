@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01200-polymicrogyria-perisylvian-with-cerebellar-hypoplasia-and-arthrogryposis",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01200"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9983
+    }
+  ]
+}

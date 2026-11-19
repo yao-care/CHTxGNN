@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db06779-atypical-hemolytic-uremic-syndrome-with-thrombomodulin-anomaly",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db06779"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://chtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9934
+    }
+  ]
+}
