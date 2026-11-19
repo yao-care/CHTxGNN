@@ -14,6 +14,23 @@ Von der KI-Vorhersage bis zur Evidenzeinstufung — für jeden Kandidaten ist di
 
 ---
 
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Schweiz: wie die Methode auf dieser Website angewendet wird
+
+Lokale Daten: [Swissmedic: Zugelassene Packungen (Humanarzneimittel)](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html). Die lokalen Daten sind die Swissmedic-Listen der zugelassenen Humanarzneimittel und Packungen. Eine Zulassungsnummer, die in keiner aktuellen Swissmedic-Liste mehr steht, wird hier nicht als gültig gezählt.
+
+| Stufe | Berichte | …mit gültigem lokalem Eintrag |
+|---|---|---|
+| L1 | {{ site.data.local_facts.by_level.L1.n }} | {{ site.data.local_facts.by_level.L1.current }} |
+| L2 | {{ site.data.local_facts.by_level.L2.n }} | {{ site.data.local_facts.by_level.L2.current }} |
+| L3 | {{ site.data.local_facts.by_level.L3.n }} | {{ site.data.local_facts.by_level.L3.current }} |
+| L4 | {{ site.data.local_facts.by_level.L4.n }} | {{ site.data.local_facts.by_level.L4.current }} |
+| L5 | {{ site.data.local_facts.by_level.L5.n }} | {{ site.data.local_facts.by_level.L5.current }} |
+
+Das Prüfprotokoll hat **{{ site.data.local_facts.reviews.records }}** Einträge auf **{{ site.data.local_facts.reviews.public_pages_with_records }}** Arzneimittelseiten; Korrekturen ändern nur Zulassungsangaben, nie die Vorhersagen des Modells.
+
+<!-- local-facts:end -->
+
 ## Gesamter Ablauf
 
 <p class="key-answer" data-question="Wie erzeugt CHTxGNN seine Vorhersagen?">

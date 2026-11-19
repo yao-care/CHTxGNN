@@ -49,13 +49,32 @@ ClinicalTrials.gov gesendet.
 
 ---
 
-## Rechte der betroffenen Personen
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Anwendbares Recht
 
-Diese Website hat keine Benutzerkonten und speichert keine personenbezogenen Datensätze auf eigenen Servern (sie hat
-keine). Die Nutzungsstatistiken erhebt Google Analytics 4; Sie können dessen Cookies in Ihren Browsereinstellungen
-blockieren oder löschen.
-Bei Fragen zu dieser Erklärung wenden Sie sich bitte an
-service@yao.care.
+Für Besucherinnen und Besucher in der Schweiz gilt das [Bundesgesetz über den Datenschutz (DSG, SR 235.1)](https://www.fedlex.admin.ch/eli/cc/2022/491/de), in Kraft seit 1. September 2023; Aufsichtsbehörde ist der [Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB)](https://www.edoeb.admin.ch/de). Bearbeitet werden nur die Nutzungsdaten, die Google Analytics 4 über Cookies erhebt; Google bearbeitet sie auch ausserhalb der Schweiz (Bekanntgabe ins Ausland, Art. 16 DSG).
+
+## Ihre Rechte und wie Sie sie ausüben
+
+- Auskunftsrecht (Art. 25 DSG).
+- Recht auf Berichtigung unrichtiger Daten (Art. 32 DSG).
+- Widerspruch gegen die Webanalyse durch Sperren oder Löschen der Cookies.
+- Anzeige beim EDÖB.
+
+Anfragen: service@yao.care (keine Konten: nennen Sie Datum und Seiten Ihres Besuchs). Analyse-Cookies können Sie im Browser sperren oder löschen.
+
+## Urheberrecht und Datenquellen
+
+Die Texte der Website sind nach dem [Urheberrechtsgesetz (URG, SR 231.1)](https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de) geschützt. Der Code der Website steht unter der MIT-Lizenz im [GitHub-Repository](https://github.com/yao-care/CHTxGNN); die Berichtstexte sind © 藥提醒科技有限公司 (yao.care).
+
+Datenquellen dieser Website und ihre Bedingungen:
+
+- **TxGNN**-Daten (Harvard Dataverse): CC0 1.0; zitieren Sie Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov**, **PubMed**: [Bedingungen von ClinicalTrials.gov](https://clinicaltrials.gov/about-site/terms-conditions), [NCBI-Richtlinien](https://www.ncbi.nlm.nih.gov/home/about/policies/).
+- **DrugBank**: Lizenzbedingungen von [DrugBank](https://go.drugbank.com/), nicht kommerziell.
+- **Lokaler Datensatz**: [Swissmedic: Zugelassene Packungen (Humanarzneimittel)](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html), veröffentlicht von Swissmedic; für die Weiterverwendung gelten die Bedingungen des Herausgebers, diese Website räumt keine weiteren Rechte ein.
+
+<!-- privacy-law:end -->
 
 ---
 

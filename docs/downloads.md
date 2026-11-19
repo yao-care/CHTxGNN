@@ -14,56 +14,31 @@ Die Vorhersagen werden im Format FHIR R4 veröffentlicht und lassen sich unmitte
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Schweiz: Daten dieser Website
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Schweiz: was die Dateien derzeit enthalten
 
-Diese Website veröffentlicht Berichte zu **{{ site.data.drug_stats.total_drugs }}** Arzneimitteln aus den Zulassungsdaten von [Swissmedic](https://www.swissmedic.ch/) (Schweiz).
+| Datei | Aktueller Inhalt |
+|---|---|
+| `/data/search-index.json` | {{ site.data.local_facts.files.search_index }} Arzneimittel mit ihren vorhergesagten Indikationen |
+| `/data/drugs.json` | {{ site.data.local_facts.files.drugs_json }} Arzneimittel mit Evidenzstufe und ursprünglicher Indikation |
+| `/fhir/MedicationKnowledge/` | {{ site.data.local_facts.fhir.medication_knowledge }} MedicationKnowledge-Ressourcen (eine je Arzneimittel) |
+| `/fhir/ClinicalUseDefinition/` | {{ site.data.local_facts.fhir.clinical_use_definition }} ClinicalUseDefinition-Ressourcen (eine je vorhergesagter Indikation) |
 
-Datensatz: [Swissmedic: Zugelassene Packungen (Humanarzneimittel)](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html); er wird jede Woche (montags) automatisch heruntergeladen und abgeglichen. Details: [Datenquellen]({{ '/sources/' | relative_url }}).
+Weiterverwendung des lokalen Datensatzes: [Swissmedic: Zugelassene Packungen (Humanarzneimittel)](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html), veröffentlicht von Swissmedic; für die Weiterverwendung gelten die Bedingungen des Herausgebers, diese Website räumt keine weiteren Rechte ein.
 
-Berichte nach Evidenzstufe:
+{% if site.data.local_facts.top_licensed.size > 0 %}Arzneimittel mit den meisten gültigen Swissmedic-Zulassungen: {% for r in site.data.local_facts.top_licensed limit: 5 offset: 3 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Evidenzstufe | Berichte | Anteil |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Letzte Korrekturen im Prüfprotokoll: {% for r in site.data.local_facts.recent_reviews limit: 8 offset: 16 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-2982 vorhergesagte Arzneimittel-Krankheits-Paare dieser Website kommen auf keiner anderen der 30 TxGNN-Websites vor.
+Beispiele für Vorhersagen, die keine andere TxGNN-Website für dasselbe Arzneimittel nennt: [Carbimazolum]({{ '/drugs/carbimazolum/' | relative_url }}) → Schilddrüsenhormonresistenz durch Mutation im Schilddrüsenhormon-Rezeptor beta, [Chlorprothixeni Hydrochloridum]({{ '/drugs/chlorprothixeni-hydrochloridum/' | relative_url }}) → Retinale Dystrophie mit oder ohne extraokuläre Anomalien.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
-## FHIR-Ressourcen
+<!-- local-condensed:start（母目錄 .claude/gen_local_pages_20261119.py；原共用段落縮寫，勿手改）-->
+## FHIR, Suchindex und Weiterverwendung
 
-Diese Website veröffentlicht die Vorhersagen als FHIR-R4-Ressourcen, die von SMART on FHIR-Anwendungen
-direkt genutzt werden können:
-
-| Ressource | Pfad | Beschreibung |
-|----------|------|-------------|
-| CapabilityStatement | `/fhir/metadata` | Capability Statement des FHIR-Servers |
-| MedicationKnowledge | `/fhir/MedicationKnowledge/` | Arzneimittel-Ressourcen |
-| ClinicalUseDefinition | `/fhir/ClinicalUseDefinition/` | Vorhergesagte Indikationen |
-| Bundle | `/fhir/Bundle/all-predictions.json` | Alle Vorhersagen gebündelt |
-
----
-
-## Suchindex
-
-`/data/search-index.json` stellt einen Suchindex zu Arzneimitteln und Indikationen bereit, mit dem Sie
-eine eigene Abfrageoberfläche aufbauen können.
-
----
-
-## Nutzungsbedingungen
-
-<ol class="actionable-steps">
-<li>Die Daten dieser Website dienen <strong>ausschliesslich als Referenz für die Forschung</strong> und dürfen nicht als Grundlage für medizinische Entscheidungen verwendet werden.</li>
-<li>Nennen Sie beim Zitieren CHTxGNN (藥提醒科技有限公司) und zitieren Sie die Originalarbeit zu TxGNN.</li>
-<li>Weiterverwendete Daten unterliegen weiterhin den Lizenzbedingungen der jeweiligen Originalquelle (siehe <a href="{{ '/sources/' | relative_url }}">Datenquellen</a>).</li>
-</ol>
+Das FHIR-R4-CapabilityStatement liegt unter `/fhir/metadata`, alle Vorhersagen gebündelt unter `/fhir/Bundle/all-predictions.json`, und `/data/search-index.json` enthält die Arzneimittel und Indikationen der Websitesuche. Die Daten dienen nur der Forschung; nennen Sie die Website und zitieren Sie die TxGNN-Publikation, Lizenzen der Quellen: [Datenquellen]({{ '/sources/' | relative_url }}).
+<!-- local-condensed:end -->
 
 ---
 

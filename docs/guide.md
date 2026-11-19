@@ -14,27 +14,21 @@ Prüfen Sie zuerst die Evidenzstufe, dann die Empfehlung und lesen Sie anschlies
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Schweiz: Daten dieser Website
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Schweiz: ein Beispiel von dieser Website
 
-Diese Website veröffentlicht Berichte zu **{{ site.data.drug_stats.total_drugs }}** Arzneimitteln aus den Zulassungsdaten von [Swissmedic](https://www.swissmedic.ch/) (Schweiz).
+Ein Bericht auf dieser Website wird in drei Schritten gelesen: Evidenzstufe, lokale Marktdaten, Prüfprotokoll.
 
-Datensatz: [Swissmedic: Zugelassene Packungen (Humanarzneimittel)](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html); er wird jede Woche (montags) automatisch heruntergeladen und abgeglichen. Details: [Datenquellen]({{ '/sources/' | relative_url }}).
+{% assign gx = site.data.local_facts.example %}
+{% if gx %}Öffnen Sie [{{ gx.t }}]({{ gx.u | relative_url }}): Der Kopf zeigt Evidenzstufe **{{ gx.l }}**; die wichtigste vorhergesagte neue Indikation ist **{{ gx.i }}**; die lokalen Daten enthalten **{{ gx.lt }}** Swissmedic-Zulassungen, davon **{{ gx.lv }}** gültige; das Prüfprotokoll der Seite hat **{{ gx.r }}** Einträge.{% endif %}
 
-Berichte nach Evidenzstufe:
+{% if site.data.local_facts.most_reviewed.size > 0 %}Arzneimittel mit den meisten Prüfprotokoll-Einträgen: {% for r in site.data.local_facts.most_reviewed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.r }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Evidenzstufe | Berichte | Anteil |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Letzte Korrekturen im Prüfprotokoll: {% for r in site.data.local_facts.recent_reviews limit: 8 offset: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-2982 vorhergesagte Arzneimittel-Krankheits-Paare dieser Website kommen auf keiner anderen der 30 TxGNN-Websites vor.
+Beispiele für Vorhersagen, die keine andere TxGNN-Website für dasselbe Arzneimittel nennt: [Acidum Salicylicum]({{ '/drugs/acidum-salicylicum/' | relative_url }}) → Papilläre Konjunktivitis, [Acidum Tranexamicum]({{ '/drugs/acidum-tranexamicum/' | relative_url }}) → amenorrhea (disease), [Acidum Ursodeoxycholicum]({{ '/drugs/acidum-ursodeoxycholicum/' | relative_url }}) → Homozygote familiäre Hypercholesterinämie, [Acidum Valproicum]({{ '/drugs/acidum-valproicum/' | relative_url }}) → Trigeminusnerven-Neoplasie, [Almotriptanum]({{ '/drugs/almotriptanum/' | relative_url }}) → atrophoderma vermiculata, [Benzylpenicillinum]({{ '/drugs/benzylpenicillinum/' | relative_url }}) → Perikoronitis.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Ein Arzneimittel nachschlagen
 
@@ -46,50 +40,13 @@ Berichte nach Evidenzstufe:
 
 ---
 
+<!-- local-condensed:start（母目錄 .claude/gen_local_pages_20261119.py；原共用段落縮寫，勿手改）-->
 ## Einen Bericht lesen
 
 <p class="key-answer" data-question="Was bedeuten die Evidenzstufen L1 bis L5?">
-Jeder Arzneimittelbericht führt vorhergesagte neue Indikationen auf, und jede Indikation trägt eine
-Evidenzstufe L1&ndash;L5. <strong>L1 bedeutet, dass bereits mehrere randomisierte kontrollierte
-Phase-3-Studien sie stützen; L5 bedeutet, dass nur eine Modellvorhersage vorliegt, ohne Evidenz am
-Menschen.</strong> Die vollständigen Kriterien finden Sie auf der Seite
-<a href="{{ '/methodology/' | relative_url }}">Methodik</a>.
+Jede vorhergesagte Indikation hat eine Stufe von <strong>L1</strong> (mehrere Phase-3-Studien) bis <strong>L5</strong> (nur Modellvorhersage). Jeder Beleg nennt eine NCT- oder PMID-Nummer zum Nachlesen; Vorhersagen sind Forschungshinweise, keine klinische Empfehlung. Definitionen und Regeln: <a href="{{ '/methodology/' | relative_url }}">Methodik</a>.
 </p>
-
-| Wenn Sie sehen | Bedeutet das | Empfohlenes Vorgehen |
-|-----------|----------|------------------|
-| L1 / L2 | Evidenz aus klinischen Studien liegt vor | Die zugrunde liegenden NCT- und PMID-Einträge prüfen |
-| L3 / L4 | Beobachtende oder präklinische Evidenz | Als Forschungsansatz behandeln |
-| L5 | Nur Modellvorhersage | Nur zur Hypothesenbildung; nicht als klinische Referenz |
-
----
-
-## Zitierung und Nachvollziehbarkeit
-
-Jeder Evidenzbeleg in einem Bericht trägt eine nachvollziehbare Kennung:
-
-- **NCT-Nummer**: verweist auf die Registrierung bei ClinicalTrials.gov
-- **PMID**: verweist auf den Eintrag in PubMed
-- **DrugBank-ID**: verweist auf Daten zu Arzneimitteln und Zielstrukturen
-
-Bitte lesen Sie die Originalliteratur, um den Kontext zu prüfen, bevor Sie eine Schlussfolgerung
-dieser Plattform zitieren.
-
----
-
-## Häufig gestellte Fragen
-
-<p class="key-answer" data-question="Können die Vorhersagen klinisch genutzt werden?">
-<strong>Nein.</strong> Die Vorhersagen dieser Plattform sind Forschungsansätze, keine klinische
-Beratung. Jede klinische Anwendung einer Arzneimittel-Umwidmung muss eine vollständige Validierung
-in klinischen Studien und eine regulatorische Prüfung durchlaufen.
-</p>
-
-<p class="key-answer" data-question="Warum finde ich ein bestimmtes Arzneimittel nicht?">
-Ein Wirkstoff muss sich auf das Vokabular von DrugBank abbilden lassen, um in die Vorhersage
-aufgenommen zu werden. Pflanzenextrakte, Impfstoffe, Hilfsstoffe und andere in DrugBank nicht
-erfasste Einträge erscheinen auf dieser Plattform nicht.
-</p>
+<!-- local-condensed:end -->
 
 ---
 
