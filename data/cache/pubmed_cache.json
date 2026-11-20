@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-20T06:53:11.000734",
+  "last_check": "2026-11-20T20:08:55.564766",
   "seen_pmids": {
     "Centella Asiatica": [
       "42828782",
@@ -1887,13 +1887,15 @@
     ],
     "Doxorubicini Hydrochloridum": [
       "43024289",
-      "43020466"
+      "43020466",
+      "43062130"
     ],
     "Epirubicini Hydrochloridum": [
       "43025254"
     ],
     "Etoposidum": [
-      "43024289"
+      "43024289",
+      "43062130"
     ],
     "Sonidegibum": [
       "43028135"
@@ -1915,6 +1917,9 @@
     ],
     "Lenalidomidum": [
       "43053931"
+    ],
+    "Acidum Citricum D200": [
+      "43062191"
     ]
   }
 }
