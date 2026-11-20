@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-20T00:59:26.356935+00:00",
+  "fetched_at": "2026-11-20T08:18:07.619328+00:00",
   "source": "Google News Health RSS",
-  "count": 51,
+  "count": 52,
   "articles": [
     {
       "id": "698a8c64d6d1",
@@ -24,23 +24,33 @@
       }
     },
     {
-      "id": "3f52c79ea17f",
-      "title": "Adipositas-Therapie bei Kindern und Jugendlichen: WHO veröffentlicht neue Leitlinien - Ärzte Zeitung",
+      "id": "98f7226e9e93",
+      "title": "Arzneimittel - EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmp1WkNSQ0ZIMUpvb2xKcGVIS2VJRHRNTklKVHU3VmpXZEh1RFZrZFYzYkF5Q1pIMDN4NmI0ZEdFRm4zVFl4Q1ctYmc1aTBhaFBLeFZfRDF5c3Q3aU8wYmdodkVlaGgyZlVxMlRPSktXVjVJQjdVRW9kc0dNakYwbFZSQjhkQUlwYlpqcHJfYXh1b0VWZmNaSVBsWXdyVUxENDlNNHJsSU1XX2ZMMTNwR3Q0Z3hwYXEyazk3RWl5V0RwRTN6YlVWYm9sV0hjbkRja0Q1VlJURTJFMDFMVFZpU21PVTVrOWJmaV9Xal9sSVYxQUE?oc=5",
+      "published": "2026-11-17T15:41:15+00:00",
+      "source": {
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
+      }
+    },
+    {
+      "id": "fd19fb723a3b",
+      "title": "Adipositas-Therapie bei Kindern und Jugendlichen: WHO veröffentlicht neue Leitlinien - AerzteZeitung.de",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUhFNTBjcl9aVlplZHdRVmlpcks1SWMwUUhybDBFTmtKbzFFM3ZmOE9sM2tnLWYxbmU1RkRCTU9RNVBQbHo0cnNPU0p4bzlJeVo4bERzVF9yM3JRQzROUWhEYkRTNnJ3WV90ajhmcG1ycGlWMDJGSndkenhxYzRSRWR1em0yNWdRRXRvYnpmUURtSjRTOHZpM3I5LWdWdHFwckU4czUtLW81YXhxbEhUc3pqR0RmT1BWNXd4ZmVlaFVWaFJWU0I4Z2M1REJYYkJRX3BOS1J0Nng?oc=5",
       "published": "2026-11-19T18:15:00+00:00",
       "source": {
-        "name": "Ärzte Zeitung",
+        "name": "AerzteZeitung.de",
         "url": "https://www.aerztezeitung.de"
       }
     },
     {
-      "id": "ddd70f6e041d",
-      "title": "Narkolepsie: Neues Medikament setzt erstmals am fehlenden Botenstoff an - NDR.de",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbERQd1pVSW5WUGhjd1lwVlFlUWhOVkthRlZEbXlHOUNaRW40UmNJQUxJaXB2ZGp4eGc2cnI1Z1M4S1h4QkR5Yzc5V3ZldlFkZERhbVNodTRzMTVJZWlteloxbjc2TmpHVklFYjRqZEpGMGUtRVRHVngzTV91c3VsR0FmWExYQ1RWNllyTVJxZ2plYUdGNVVET080NzhHUlU?oc=5",
-      "published": "2026-11-19T07:26:00+00:00",
+      "id": "71d5bb2ca654",
+      "title": "Bittere Pille für Apotheker: DM will ihr Monopol über Onlineversand knacken - Der Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRvbWZyV01wTEE4NmhLbjFtQVFKNGdMbW96eENQSC03Zm9rX0ttU01TaGV6akFJaXJZaXhDZFR4WWtfdmxyTkFCT0dydTl5NnZrYVFydmJDb1N1M0ZORXZjeGJzYkFsQzR6R3ZvSGRpMnpfRm1VTG8tQ2N4U1ZsN3hXcGhVM2VGeUE3WFhuY0tSM3k1RXZHVElqYUhfN3plWFhoQk1KMHdrMi1aRXhvd2pMWmhnOUI5M2IteWVUY0U?oc=5",
+      "published": "2026-11-19T17:02:00+00:00",
       "source": {
-        "name": "NDR.de",
-        "url": "https://www.ndr.de"
+        "name": "Der Standard",
+        "url": "https://www.derstandard.at"
       }
     },
     {
@@ -64,16 +74,6 @@
       }
     },
     {
-      "id": "5f039df1c55b",
-      "title": "dm setzt auf „Zukunftsfeld Gesundheit“ - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnJMWXN5YjluSTRmWnB5V2RXV3pJaHQ1WFJhUHNJWFhtODRaUmVIMUtDUTZaNTh3Y2RkbmplYkhWRExNZGxyQklHejlTendiaTJ6cEhVeENvU2NHd2ZIUGhLVUJOY3E3R0lweWRxQUFYZVctY3UwTng2NTY1cGxBSW8yMW5wZ2pOSjBtc3FqX0JmSE9pRWdrV3ZjQjF6WU54cHBhcQ?oc=5",
-      "published": "2026-11-19T03:41:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
-      }
-    },
-    {
       "id": "74e7b5224f3e",
       "title": "BMG ruft neue Dachmarke ins Leben - zm-online",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXMzWFVUWlk0NDh0ZmNFaGVabHJtdjNhV0pJa01jNlJqSFNzcWtmc3BnbldKcVdHYUNFZE9yZ2dzekJqT1FGSWx3TTJIVi1yNlVDb3pRUXpXYW1NdlFqQW44Z1E4Q3Nvc3Y5VVlHWUFUenI1b3ktN18xdHJrR0xteWZSZw?oc=5",
@@ -81,6 +81,16 @@
       "source": {
         "name": "zm-online",
         "url": "https://www.zm-online.de"
+      }
+    },
+    {
+      "id": "ddd70f6e041d",
+      "title": "Narkolepsie: Neues Medikament setzt erstmals am fehlenden Botenstoff an - NDR.de",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbERQd1pVSW5WUGhjd1lwVlFlUWhOVkthRlZEbXlHOUNaRW40UmNJQUxJaXB2ZGp4eGc2cnI1Z1M4S1h4QkR5Yzc5V3ZldlFkZERhbVNodTRzMTVJZWlteloxbjc2TmpHVklFYjRqZEpGMGUtRVRHVngzTV91c3VsR0FmWExYQ1RWNllyTVJxZ2plYUdGNVVET080NzhHUlU?oc=5",
+      "published": "2026-11-19T07:26:00+00:00",
+      "source": {
+        "name": "NDR.de",
+        "url": "https://www.ndr.de"
       }
     },
     {
@@ -94,6 +104,16 @@
       }
     },
     {
+      "id": "5f039df1c55b",
+      "title": "dm setzt auf „Zukunftsfeld Gesundheit“ - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnJMWXN5YjluSTRmWnB5V2RXV3pJaHQ1WFJhUHNJWFhtODRaUmVIMUtDUTZaNTh3Y2RkbmplYkhWRExNZGxyQklHejlTendiaTJ6cEhVeENvU2NHd2ZIUGhLVUJOY3E3R0lweWRxQUFYZVctY3UwTng2NTY1cGxBSW8yMW5wZ2pOSjBtc3FqX0JmSE9pRWdrV3ZjQjF6WU54cHBhcQ?oc=5",
+      "published": "2026-11-19T03:41:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
+      }
+    },
+    {
       "id": "03b63ce6967a",
       "title": "Ärzte suchen mit KI nach Arzneimitteln - apotheke adhoc",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWR3ZjB2VnhlcHB5VWFYRUV6OURwMFBmbzdqc1dwY2M0djYwaTNSaDFBQVFhekp6dmlnSzh1MjVlOXowc2tfMFNUNzB3c0lqcm1Eb0xWazNYMDhlaE1IeGRBaFAzUHBHVV9KV2ZITExtX0dVdmdJc0ZsdUViaHJtSGlPLUViM2h2S2NMaG82WlRwdGVVcWlZS0tFMXBONzQ?oc=5",
@@ -104,16 +124,6 @@
       }
     },
     {
-      "id": "49e5b4e2e2e1",
-      "title": "Infektionen müssen bekämpft und Antibiotika sachgemäß eingesetzt werden, um Patienten zu schützen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUThGdzF2dGJWRndpSk15X2V6dG1zUmJpVlVQTmk2Rkp5aFJHNEhiOWsxNWMwcE5KclhXZWNPSE0zY2podGdESXMxM1p4RklTWC1ySzJ3dzRnelpGUnFidWN2TjRibW5MTkJSMVM2TXRleVd6Y0VHekotZ0h5WTFaZ09adnlHRzR2QjBuS1BtbUVrdlN2Qnl3djBn?oc=5",
-      "published": "2026-11-19T03:40:19+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "5778408597ae",
       "title": "Abnehmspritze: Warum Forscher bereits an neuen Wirkstoffen arbeiten - STERN.de",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFlIWU1SWGF6bVFRSkFxS2F6bFkyUEZ5UVV0TWRkcTRub1lUTDUyOVdia01nSGdYcksyZWVMcU9uMmZBd3hwdy1LNHZjVGxmbjMyekh4c09BUXN6Qlk4NmhkU1owdDc0WWotVGdlSGtISW1lRFlBVng1QmgzWC1KRWtIeUJYY0I2Zm8xWWtpNDRqU18zZW9GUDVvZERjYklSdVZ3R2ltMmFZMnF4d0t4TGZVaw?oc=5",
@@ -121,16 +131,6 @@
       "source": {
         "name": "STERN.de",
         "url": "https://www.stern.de"
-      }
-    },
-    {
-      "id": "0f90a25196db",
-      "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
-      "published": "2026-08-13T07:00:00+00:00",
-      "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "54772c8e8476",
-      "title": "BMG-Vorstoß: Gesicherte Gesundheitsinformationen besser finden - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0x0R1VQRmM3dEdtakZEZGliMDhObE0wNVdsNHFFSzZEdkhfSFdSNmRoTDdNTHg0VlVCaEE5eXpTYnBmWnpOYUpLcFVUcFZPZkxxVlYwVGZvSnRVMnlCZ3drdm94dDBEdzVpMnNZVWRhQ1VfWE53YkxWMTVMRU9reDdSdDJPRkhPVzZ1a3dZcHpJWHo5NTVTT3JRR1A?oc=5",
-      "published": "2026-11-18T12:00:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "1f713430b995",
       "title": "\"Durchbruch\": EU lässt neues Medikament gegen aggressiven Krebs zu - T-Online",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NmZlpocHg0bnBqUkVRMVlFZ1hZMlg0ZW1pWVphanEwOGI5R0RYdldCTGtSYXhCNkc0QldjRnRubFBkd3d4dUxaWlN6SUJGT0lFMllqVUZ0Y2p1NThxWTZKN3JsTGFRUlJHNW5NRUJFdGM3YWNUcjhxQUlpN3lzZ2MyMnFFeEZlc21NRVhfYnY3Vy1aay1OdEJZRC1UN1FBQmlvdWN5WWpHMWlLdTAxcHFPUENfUUZDbUE?oc=5",
@@ -184,13 +174,13 @@
       }
     },
     {
-      "id": "f4fdce37a340",
-      "title": "Wir hoffen, dass MSD in eine Produktionsanlage für Arzneimittel und Impfstoffe in Vietnam investieren wird. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWw5SUpYb2FlUmpwM2VnZ3VFUjJjTUxfb1l4VkVUdVVJbUhjNHV4NDR5MTEtSjNkamxHdUY1M254OHFORnh3MGFEZXQ4VE1pX193bUpCbWtDWllpdXdILUJJdlNubFpUOFJwRUlKZ29BdHM4QlBmMFh3MEtjSkJhVVh3Yl9HU0pRZmVDR1h2bFlGY1Rt?oc=5",
-      "published": "2026-11-18T13:49:31+00:00",
+      "id": "54772c8e8476",
+      "title": "BMG-Vorstoß: Gesicherte Gesundheitsinformationen besser finden - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0x0R1VQRmM3dEdtakZEZGliMDhObE0wNVdsNHFFSzZEdkhfSFdSNmRoTDdNTHg0VlVCaEE5eXpTYnBmWnpOYUpLcFVUcFZPZkxxVlYwVGZvSnRVMnlCZ3drdm94dDBEdzVpMnNZVWRhQ1VfWE53YkxWMTVMRU9reDdSdDJPRkhPVzZ1a3dZcHpJWHo5NTVTT3JRR1A?oc=5",
+      "published": "2026-11-18T12:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -214,6 +204,16 @@
       }
     },
     {
+      "id": "49e5b4e2e2e1",
+      "title": "Infektionen müssen bekämpft und Antibiotika sachgemäß eingesetzt werden, um Patienten zu schützen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUThGdzF2dGJWRndpSk15X2V6dG1zUmJpVlVQTmk2Rkp5aFJHNEhiOWsxNWMwcE5KclhXZWNPSE0zY2podGdESXMxM1p4RklTWC1ySzJ3dzRnelpGUnFidWN2TjRibW5MTkJSMVM2TXRleVd6Y0VHekotZ0h5WTFaZ09adnlHRzR2QjBuS1BtbUVrdlN2Qnl3djBn?oc=5",
+      "published": "2026-11-19T03:40:19+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "2ff5f626fb95",
       "title": "Neues Krebs-Medikament verdoppelt Überlebenszeit bei Pankreaskrebs - SRF",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWkppUk84RU1xLUlpTVBEMnM4emxrVTFEQjRud1BRUG54OTdDTFlqSVhWOVpwR2xZU0xSWHdna0Rha0Jib0dYQ3p1SUtZaGhSb2padVNYRWlBWTQzQVQ2bXlMTjlnbHhmd3VOc3pZR3lIYWwyRGhJVHBzSHA4WnI5VC1KTm8xOEVaTDh3b01GdE04cnQ0NUxkU3NzQU43RS1BWFVmdVhGZlBJV0FCdDV5ai1OYlZic0NIeXNqdEhjbDlrUQ?oc=5",
@@ -224,23 +224,13 @@
       }
     },
     {
-      "id": "bab5cfddda71",
-      "title": "Fischölkapseln fürs Gedächtnis? Studie findet nach zwei Jahren keinen Vorteil - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd19sTlpJZjd2YllvMnJXOE9pRHM1NTdJRktnS3Q5eThzdzZ6R0RhVGR4U3pucUhFbnRQbkJoN0tTdjFKbGQ1bTZVOFNVOURnVnlsNEFQRmRFWXVfX2tqSGZSVXBVc095aUpETVpUNzFabWN5SWltX3JEYUk1akFfc3VMMDBCWVlnUl9ianRoRmFfa2kxTGlQTEd0dDFNUWFTd3VTb2F6VUpDYXZHTFZNWXRVUnVfdw?oc=5",
-      "published": "2026-11-18T09:55:00+00:00",
+      "id": "68b28e6cef75",
+      "title": "Warum Nasenspray nach einer Erkältung in den Müll gehört - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHNpZmlQUnJaODhkR1Z3MWJNUUdWWlNfRXctZ1B6eXN6NmlfSk5yRWtLLXp0aHo5eDZwUGdhdWFXN0RqVVZ6UnBsa2d5U0FhSUlQOWY5RW9PazI4b09UY3pRb1VBenRyV01pR2p5MEs4N0dNRlBBSlpKYnVMUzRPTDJnZ3dRNWtZNktJZm91VGlLWW50OTZiTHZCSQ?oc=5",
+      "published": "2026-11-17T10:25:25+00:00",
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
-      }
-    },
-    {
-      "id": "c0b0a62f1c7c",
-      "title": "Stellvertretender Gesundheitsminister: Selbst nach dem Überstehen einer lebensbedrohlichen Situation ist der Tod aufgrund antibiotikaresistenter Bakterien immer noch möglich. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXpQRTFBSzgtanNFVFlRc19teDBpTDR1blp0WE9QbzdQWGF4TGtlczFDUjVvbHZGWWpkU0tPV2FIS3RxT29vZlZ6Tk00b0w1YWZkcWdTd1FUN2RhYWVoam9aNWJfVWVMNFJVX3VWZHBQbS1rQTdIZFlDR0IwUHJ0NWdvSWpGaUZiOHpxbG1RaXRDaHFnNlE1b2wtUHc2X1cw?oc=5",
-      "published": "2026-11-19T08:24:40+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -254,16 +244,6 @@
       }
     },
     {
-      "id": "78b58ffe6e43",
-      "title": "Immer mehr Keime trotzen Antibiotika: EU-Behörde warnt - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFF2RmRsOVlSVXBNOVRJUFUxdUMwd1EtSzlpSmFvanhuSWJlZE5BbHNES1o4eWJSblZJU0pmNllVazZFVjFzaWtheTRzOWRqZXpCYXM5enA1Snl2Z1ByS1ZLaGJ0dDhTNlpHUHJfUTBWWDFpU1dJZTFmcVkxbVp3djFSVWE5MTQwX29GZHUtVWhhVzBPb2oxVEdCcFNvWG9JbVIteTVzUktDUFk4RXcyZ3BhZ1lXQQ?oc=5",
-      "published": "2026-11-19T01:57:52+00:00",
-      "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
       "id": "8e5c24d34456",
       "title": "Sensibilisierung für das Thema Antibiotikaresistenz. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PdlhsMmQtU1RUWHI4S0NZT0l3ZzBHbkhza2FQRzM1WkFkRjhHMzJCNDZRM2pYdGUwYzFQS1VMcFZvOVJlcHF4eUtlV1VTUDdQV0hqd0dLLTh4SENHTl9PLXl6Zld4LTMyUGkw?oc=5",
@@ -274,13 +254,23 @@
       }
     },
     {
-      "id": "9b12e924f899",
-      "title": "Stellvertretender Gesundheitsminister: Selbst nach einer Nahtoderfahrung kann man noch an antibiotikaresistenten Bakterien sterben. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0MxRkt6Qy1FeDZQdFlobl9PTGRWS1k3cmQtellRTkFRTy1YajBBRHc2a01qbl9zT2hMTkpRaEJ1WjQ3ZE56Q0hLbVNhRlhobmlLZ0xlS0JETllWeWsyVUU0ejlBUTZkVi1ZUjdhSWhwVmNROExiLUFoNW03X0RSSWhfcXpxRFVOaHMxN3BTVWlLYzJpTWlHNzBnUm4?oc=5",
-      "published": "2026-11-19T02:42:05+00:00",
+      "id": "78b58ffe6e43",
+      "title": "Immer mehr Keime trotzen Antibiotika: EU-Behörde warnt - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFF2RmRsOVlSVXBNOVRJUFUxdUMwd1EtSzlpSmFvanhuSWJlZE5BbHNES1o4eWJSblZJU0pmNllVazZFVjFzaWtheTRzOWRqZXpCYXM5enA1Snl2Z1ByS1ZLaGJ0dDhTNlpHUHJfUTBWWDFpU1dJZTFmcVkxbVp3djFSVWE5MTQwX29GZHUtVWhhVzBPb2oxVEdCcFNvWG9JbVIteTVzUktDUFk4RXcyZ3BhZ1lXQQ?oc=5",
+      "published": "2026-11-19T01:57:52+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
+      }
+    },
+    {
+      "id": "f83376853509",
+      "title": "Darum bekommst du in der Apotheke oft ein anderes Medikament - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yLWlvSEFkbHIySHhVTTFrOTNmSUlJa3BzQ1JneUlZT1BTYUdOaUJ6a2NzdXAyT2NzZ2hob1lLY1NzZ3RKQm9WWUxXRUdsdnR2QjdYdkNXU21DWk81VnNVbjFEaFdqOG1xYVZCVnUyZFRtemg2VU1Fd29ManQ?oc=5",
+      "published": "2026-11-16T10:09:21+00:00",
+      "source": {
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
@@ -291,26 +281,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "da9244502f14",
-      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "Beobachter",
-        "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "66789a4b70b0",
-      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": {
-        "name": "Blick",
-        "url": "https://www.blick.ch"
       }
     },
     {
@@ -334,6 +304,56 @@
       }
     },
     {
+      "id": "da9244502f14",
+      "title": "Überhöhte Medikamentenpreise – das wollen die Parteien - Beobachter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXNUSmw1VU0zS19TZ3JqTWcwSVBMSExkMkIwUzVWNXpFX1Nuck5iU3NmRUJWS09PREZrcXd5U1Zva24wTHVDYU9fZzhaNXNBWFZzWnNfczRIOUxsR2k0WW9QdXBuX3VNbWR1REVkSTBaRWtkOXcxVWFpT3RKNzBDYy05dWx3TzhaNmVZSmdxc0VUWXAzUTFOdHVkdFg0RUVM?oc=5",
+      "published": "2025-12-19T08:00:00+00:00",
+      "source": {
+        "name": "Beobachter",
+        "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "66789a4b70b0",
+      "title": "Illegale Arzneimittel kommen zunehmend aus der EU - Blick",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV9VQTQzN3E3VS0zRVkxM01xUXRZc082alNUa0dKZ3B6bWVadk9sZC01U21maWtHdnZodUFWZjBESFRTSkhtMnJnOGZnX2g2enFqQ3dWblAwdnQyckt2LXpUTVdkMlZlai16OGtRMURNNVdZaTdLejZmQ0FKVklGeTdWQ2xhTTdoNUVwT09JQQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Blick",
+        "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "9b12e924f899",
+      "title": "Stellvertretender Gesundheitsminister: Selbst nach einer Nahtoderfahrung kann man noch an antibiotikaresistenten Bakterien sterben. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0MxRkt6Qy1FeDZQdFlobl9PTGRWS1k3cmQtellRTkFRTy1YajBBRHc2a01qbl9zT2hMTkpRaEJ1WjQ3ZE56Q0hLbVNhRlhobmlLZ0xlS0JETllWeWsyVUU0ejlBUTZkVi1ZUjdhSWhwVmNROExiLUFoNW03X0RSSWhfcXpxRFVOaHMxN3BTVWlLYzJpTWlHNzBnUm4?oc=5",
+      "published": "2026-11-19T02:42:05+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "22fc1ff04a00",
+      "title": "Statine absetzen: Neue Studie mit 200.000 Menschen zeigt erhöhtes Risiko - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3gxR2cwVzh5UlktZWdXaVRKaUxwUXZKSjFlSmI4Z3lnblpXUEE1bzczYXY4Q0tHR0xNZGFtV29BU3BIMmNCbXdLSWhkRVNGUjJrbnhVTDlhZnJ5c1NtY3RNRko0NzZXMU1ITWVRR3lYT25YQzNrci0taFFXMnoxZk1ONkl5MzRoMnJydjhuWEh5cmMyNEcwS3NhV3ZGUi1VTTFoTExCNy0tT3I2RHpEdTdIWmZqQQ?oc=5",
+      "published": "2026-11-18T09:47:00+00:00",
+      "source": {
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
+      }
+    },
+    {
+      "id": "c0b0a62f1c7c",
+      "title": "Stellvertretender Gesundheitsminister: Selbst nach dem Überstehen einer lebensbedrohlichen Situation ist der Tod aufgrund antibiotikaresistenter Bakterien immer noch möglich. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXpQRTFBSzgtanNFVFlRc19teDBpTDR1blp0WE9QbzdQWGF4TGtlczFDUjVvbHZGWWpkU0tPV2FIS3RxT29vZlZ6Tk00b0w1YWZkcWdTd1FUN2RhYWVoam9aNWJfVWVMNFJVX3VWZHBQbS1rQTdIZFlDR0IwUHJ0NWdvSWpGaUZiOHpxbG1RaXRDaHFnNlE1b2wtUHc2X1cw?oc=5",
+      "published": "2026-11-19T08:24:40+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "1b0f96a0e8a4",
       "title": "Schwergewicht für die Gesundheit: Neue Technik in Bad Oeynhausen sichert Arznei-Versorgung in OWL - Neue Westfälische",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNGtlRXZ6b1F2UEREMXBNQ0Z1ZGdNQWpxSFE2NjRLQjQ5UFJ6TlkxWUZFWi1JamtTdHhud2tWNnZGRmxFaTN4ZzFQMUZIRTJJSUhJYkEwaE82WUZHTFVqOW5jNWc5aFBsZ1NfbXlzNmNERU5MR0VHU3B6ZmdwdVdNc1lMNjNiQkZZa21rWnBBWGI4TDE3N3VZRzA4OFNsSE5QQ3o2M21nUXNwQVpHOWFjTWcxRXdLUmlEVW9MOFN2RVYxcHB0eDE4U0t1ajVtMENROHE2NXVmYjJFMWNqYjFFcG5fTEsyZzRyanN1V2tfYXg5eEp5azRfb3FOOW9vZjFzQlgw?oc=5",
@@ -341,26 +361,6 @@
       "source": {
         "name": "Neue Westfälische",
         "url": "https://www.nw.de"
-      }
-    },
-    {
-      "id": "4f76f7a8c6dd",
-      "title": "Neue Bevölkerungsbefragung zeigt: Neun von zehn Menschen befürworten ... - Presseportal",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CUUpWOFpiaC1jNVVoM3pkRW92WHpCWF82ZklOQXNiN3dnLUFQd2pnR3lUMDVub2k0eENISVdvM1Zoc29sSnlPRDR5eVczMFRXYndBTFhETQ?oc=5",
-      "published": "2026-11-18T09:30:08+00:00",
-      "source": {
-        "name": "Presseportal",
-        "url": "https://www.presseportal.de"
-      }
-    },
-    {
-      "id": "992362782985",
-      "title": "EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Onetz",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZm1hNDhOYS1KNVlINVJtdENCdlBMZTJvTzhOc1M5SnJSTnczM2JrVExfMGRHT01SVzMtbTJOVjlsNWl2Nm9naEdXNjNqZ3A4bXp2eEhkN0pDZU9EUFpaWUplZzA3SnRObXlUS0NLMDFJdUgwNTZSYTIwZTBfcWJMajdrZXM2VS04el8xYWw4bjI4TFNjVmkwUHo0OThWejBJSnFFZVFmZmZyWXJta3RNRA?oc=5",
-      "published": "2026-11-17T15:42:33+00:00",
-      "source": {
-        "name": "Onetz",
-        "url": "https://www.onetz.de"
       }
     },
     {
@@ -391,6 +391,16 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "bb98e36cfa7d",
+      "title": "Swissmedic warnt vor gefälschten und irreführenden «GLP-1»-Produkten zur Gewichtsreduktion - Swissmedic",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNkxqLVJDa0dRSnBwUXBySVNFblVVRTlrTXZ1cFkyVXlYRUd4aVlDWUdMZWdhdVZZRm1aOFNfYTlsdUthYlFOQWpMNC14bExVa0YzYlIydDRlNC1yZTJremRBZENmRk5TdDBQeVMzdEFQNk9OWExVN1Vud2ZZb2ZjSDVKTE44R2I5aEdNaFU0U1gyMDFzejd5Nmk1dHU5Rzl1WVI3bE5RNkw1TjZScWZGeFhNZzRXZko3QXYtRFE2NFdtSkhvVWhnYkZZU2xzc0t1T3hlaFBlaXZQcWU3ZkJFN1d1R2NnYmJ2VkVMMzhsYk9iXzR5ci16ZGlMV0E5bmJZenow?oc=5",
+      "published": "2025-08-26T07:00:00+00:00",
+      "source": {
+        "name": "Swissmedic",
+        "url": "https://www.swissmedic.ch"
       }
     },
     {
