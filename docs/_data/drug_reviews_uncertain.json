@@ -581,6 +581,32 @@
     "ChEMBL drug mechanism"
    ],
    "reason": "no single-ingredient US prescription label for 'xylitol' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'xylitol'"
+  },
+  {
+   "file": "alanine.md",
+   "drug": "alanine",
+   "source": "mechanism of action",
+   "status": "open",
+   "added": "2026-11-20",
+   "issue": "Page says mechanism-of-action data is not available; no citable source found",
+   "searched": [
+    "openFDA drug label (US prescribing information)",
+    "ChEMBL drug mechanism"
+   ],
+   "reason": "no single-ingredient US prescription label for 'alanine' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'alanine'"
+  },
+  {
+   "file": "centella_asiatica.md",
+   "drug": "centella_asiatica",
+   "source": "mechanism of action",
+   "status": "open",
+   "added": "2026-11-20",
+   "issue": "Page says mechanism-of-action data is not available; no citable source found",
+   "searched": [
+    "openFDA drug label (US prescribing information)",
+    "ChEMBL drug mechanism"
+   ],
+   "reason": "no single-ingredient US prescription label for 'centella asiatica' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'centella asiatica'"
   }
  ]
 }

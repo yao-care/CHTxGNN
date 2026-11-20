@@ -104,7 +104,7 @@ Aus dem allgemeinen pharmakologischen Profil sind bei Menschen mit Panikneigung 
 
 **Begründung:**
 - Die Vorhersage (0,9957) beruht allein auf einem Computermodell. Es gibt keine klinischen Studien oder Publikationen zu Agoraphobie, daher gilt Evidenzniveau L5.
-- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Esketaminum (inoffizielle Übersetzung): „Esketamin, das S-Enantiomer des racemischen Ketamins, ist ein nichtselektiver, nichtkompetitiver Antagonist des N -Methyl- D -Aspartat(NMDA)-Rezeptors, eines ionotropen Glutamatrezeptors. Der Mechanismus, über den Esketamin seine antidepressive Wirkung entfaltet, ist nicht bekannt.“ Englischer Originalwortlaut: "Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown." ([DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed), Fassung vom 2026-09-22; abgerufen am 2026-11-20).
+- Der Wirkmechanismus ist weiter oben mit Quellenangabe zitiert ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed)).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Auswertung der Swissmedic-Fachinformation (Warnhinweise und Kontraindikationen)
@@ -122,7 +122,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
-| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
 
 <!-- review:end log -->
 

@@ -87,7 +87,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Es gibt weder klinische Studien noch Literatur zu dieser Indikation; die Vorhersage bleibt eine reine Modellaussage (L5).
-- Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Diazoxidum (inoffizielle Übersetzung): „PROGLYCEM bewirkt einen dosisabhängigen Anstieg des Blutzuckers, der hauptsächlich auf eine Hemmung der Insulinfreisetzung aus dem Pankreas und zudem auf eine extrapankreatische Wirkung zurückzuführen ist. Die hyperglykämische Wirkung von PROGLYCEM setzt innerhalb einer Stunde ein und hält bei normaler Nierenfunktion im Allgemeinen nicht länger als 8 Stunden an.“ Englischer Originalwortlaut: "PROGLYCEM produces a dose-related increase in blood glucose, due primarily to an inhibition of insulin release from the pancreas, and also to an extrapancreatic effect. The hyperglycemic effect of PROGLYCEM begins within an hour and generally lasts no more than 8 hours in the presence of normal renal function." ([DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2), Fassung vom 2026-10-06; abgerufen am 2026-11-20).
+- Der Wirkmechanismus ist weiter oben mit Quellenangabe zitiert ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2)).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (derzeit blockierend für die Sicherheitsprüfung)
@@ -104,7 +104,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2) |
-| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2) |
 
 <!-- review:end log -->
 

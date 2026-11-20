@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 39
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Cysteine: vorhergesagte neue Indikation Trockenes Auge (Dry-Eye-Syndrom) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "cysteine"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
@@ -117,13 +117,26 @@ Für Warnhinweise und verbindliche Kontraindikationen bitte die Fachinformation 
 
 **Begründung:**
 - Der hohe Modellwert wird nur durch präklinische und formulierungsbezogene Arbeiten gestützt. Es gibt keine klinischen Studien und keine Daten zu Cystein selbst beim trockenen Auge.
-- Die Sicherheitsbewertung ist blockiert, da die Fachinformationen nicht ausgewertet werden konnten. Der Wirkmechanismus liegt ebenfalls nicht vor.
+- Die Sicherheitsbewertung ist blockiert, da die Fachinformationen nicht ausgewertet werden konnten. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cysteine (inoffizielle Übersetzung): „Endogenes Cystein wird aus Methionin durch das Enzym Cystathionase über den Transsulfurierungsweg synthetisiert und dient als Vorläufersubstrat sowohl für Glutathion als auch für Taurin. ELCYS ® führt dem systemischen Kreislauf von Patienten, die eine PN benötigen und aufgrund einer unzureichenden oder mangelhaften Cystathionase-Aktivität keine ausreichenden Mengen an Cystein synthetisieren können, Cystein zu.“ Englischer Originalwortlaut: "Endogenous cysteine is synthesized from methionine by the enzyme, cystathionase, via the trans-sulfuration pathway, and serves as a precursor substrate for both glutathione and taurine. ELCYS ® provides cysteine to the systemic circulation of patients who require PN and cannot synthesize adequate quantities of cysteine due to insufficient or deficient cystathionase activity." ([DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e), Fassung vom 2026-04-09; abgerufen am 2026-11-20).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Auswertung der Swissmedic-Fachinformationen (Warnhinweise, Kontraindikationen)
 - Wirkmechanismus aus DrugBank
 - Präklinische Wirksamkeits- und Verträglichkeitsdaten für Cystein als topischen Wirkstoff am Auge
 - Prüfung der Darreichungsform: Die zugelassenen Produkte sind Infusionslösungen, für das Auge wäre eine neue Formulierung nötig
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Elcys (cysteine hydrochloride) prescribing information, Exela Pharma Sciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52317b38-b2e6-4a1c-b5b0-43cada0d205e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

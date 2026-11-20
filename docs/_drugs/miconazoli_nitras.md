@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01110
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Miconazoli Nitras: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 ---
 
@@ -59,7 +59,7 @@ Miconazol ist ein Antimykotikum zur Anwendung auf Haut und Schleimhaut. Für Akn
 
 ## Warum ist diese Vorhersage plausibel?
 
-Miconazol gehört zu den Imidazol-Antimykotika. Es hemmt das Pilzenzym CYP51 (Lanosterol-14-alpha-Demethylase) und blockiert so die Bildung von Ergosterol, einem wichtigen Baustein der Pilzzellmembran. Die Mechanismusangaben in den Quelldaten fehlen, daher ist diese Beschreibung nicht mit dem Originaleintrag abgeglichen.
+Miconazol gehört zu den Imidazol-Antimykotika. Es hemmt das Pilzenzym CYP51 (Lanosterol-14-alpha-Demethylase) und blockiert so die Bildung von Ergosterol, einem wichtigen Baustein der Pilzzellmembran. Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Miconazoli Nitras (inoffizielle Übersetzung): „Miconazol ist ein Antimykotikum. […] Miconazol hemmt das Enzym Cytochrom-P450-14α-Demethylase, was zu einer Hemmung der Synthese von Ergosterol führt, einem essenziellen Bestandteil der Zellmembran von Pilzen. Miconazol beeinflusst außerdem die Synthese von Triglyceriden und Fettsäuren und hemmt oxidative und peroxidative Enzyme, wodurch die Menge reaktiver Sauerstoffspezies in der Zelle erhöht wird.“ Englischer Originalwortlaut: "Miconazole is an antifungal drug. […] Miconazole inhibits the enzyme cytochrome P450 14α-demethylase which leads to inhibition of ergosterol synthesis, an essential component of the fungal cell membrane. Miconazole also affects the synthesis of triglycerides and fatty acids and inhibits oxidative and peroxidative enzymes, increasing the amount of reactive oxygen species within the cell." ([DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a), Fassung vom 2026-01-08; abgerufen am 2026-11-20).
 
 Für Akne sind zwei Wege denkbar. Erstens wirkt Miconazol gegen Malassezia (Pityrosporum). Diese Hefen verursachen die Malassezia-Follikulitis, die Akne klinisch ähnelt und auf Azole anspricht. Zweitens zeigten Azol-Antimykotika im Labor eine Wirkung gegen Propionibacterium acnes (Cutibacterium acnes). Zudem werden für Miconazol entzündungshemmende und antibakterielle Effekte auf der Haut beschrieben.
 
@@ -106,6 +106,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Sicherheitsangaben (Warnhinweise, Kontraindikationen) aus der Swissmedic-Fachinformation
 - Die Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank (z. B. DrugBank) zur Prüfung der Mechanismus-Hypothese
 - Klärung, ob eine topische Anwendung bei Akne praktikabel ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

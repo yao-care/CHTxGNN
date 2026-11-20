@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB11642
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Pitolisantum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Narkolepsie mit oder ohne Kataplexie bei Erwachsenen…"
 ---
 
@@ -59,7 +59,7 @@ Pitolisant ist ein Wirkstoff, der als selektiver Histamin-H3-Rezeptor-Inverse-Ag
 
 ### Warum ist diese Vorhersage plausibel?
 
-Pitolisant blockiert den Histamin-H3-Autorezeptor und wirkt als inverser Agonist. Dadurch steigt die histaminerge Signalübertragung im Gehirn, und die Wachheit nimmt zu. Die offiziellen Mechanismusdaten (DrugBank) liegen für diesen Bericht nicht vor; die Beschreibung stützt sich auf die Angaben in den Publikationen.
+Pitolisant blockiert den Histamin-H3-Autorezeptor und wirkt als inverser Agonist. Dadurch steigt die histaminerge Signalübertragung im Gehirn, und die Wachheit nimmt zu. Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Pitolisantum (inoffizielle Übersetzung): „Der Wirkmechanismus von Pitolisant bei exzessiver Tagesschläfrigkeit (EDS) oder Kataplexie bei Patienten ab 6 Jahren mit Narkolepsie ist unklar. Seine Wirksamkeit könnte jedoch über seine Aktivität als Antagonist/inverser Agonist an Histamin-3 (H3)-Rezeptoren vermittelt werden.“ Englischer Originalwortlaut: "The mechanism of action of pitolisant in excessive daytime sleepiness (EDS) or cataplexy in patients 6 years and older with narcolepsy is unclear. However, its efficacy could be mediated through its activity as an antagonist/inverse agonist at histamine-3 (H3) receptors." ([DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e), Fassung vom 2026-02-13; abgerufen am 2026-11-20).
 
 Dieser Mechanismus spricht nicht für eine Wirkung gegen Schlaflosigkeit. Ein wachheitsfördernder Wirkstoff könnte Schlafstörungen sogar verschlimmern, und Schlaflosigkeit ist als Nebenwirkung bekannt. Der hohe Vorhersagewert spiegelt wahrscheinlich die enge Verbindung zu anderen Schlaf-Wach-Störungen wider (zum Beispiel Narkolepsie oder Tagesschläfrigkeit bei Schlafapnoe) und nicht einen echten therapeutischen Zusammenhang.
 
@@ -118,6 +118,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Die Mechanismusdaten aus DrugBank
 - Direkte klinische Daten zu Pitolisant bei Schlaflosigkeit, falls die Fragestellung weiterverfolgt werden soll
 - Eine Bewertung, ob Schlaflosigkeit hier eher als Sicherheitssignal denn als Therapieziel zu betrachten ist
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -94,7 +94,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Belege aus Studien oder Fachliteratur, die Methylphenidat direkt bei dieser Erkrankung untersuchen
-- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Methylphenidati Hydrochloridum (inoffizielle Übersetzung): „Methylphenidathydrochlorid ist ein Stimulans des Zentralnervensystems (ZNS). Die Art der therapeutischen Wirkung von METADATE CD bei der Behandlung von ADHS bei pädiatrischen Patienten ab 6 Jahren ist nicht bekannt. Methylphenidat blockiert die Wiederaufnahme von Noradrenalin und Dopamin in das präsynaptische Neuron und erhöht die Freisetzung dieser Monoamine in den extraneuronalen Raum.“ Englischer Originalwortlaut: "Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space." ([DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4), Fassung vom 2026-10-21; abgerufen am 2026-11-20).
+- Der Wirkmechanismus ist weiter oben mit Quellenangabe zitiert ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4)).
 - Die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 
 <!-- review:begin log -->
@@ -106,7 +106,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
-| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
 
 <!-- review:end log -->
 

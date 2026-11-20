@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB06594
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Agomelatinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -61,7 +61,7 @@ Agomelatin ist ein Antidepressivum, das in der Schweiz im Handel ist. Das Modell
 
 ### Warum ist diese Vorhersage plausibel?
 
-Agomelatin wirkt als Agonist an den Melatoninrezeptoren MT1 und MT2 und als Antagonist am 5-HT2C-Rezeptor. Die für diesen Bericht zusammengestellten Daten enthalten dazu keine ausführliche Mechanismusbeschreibung. Die Angaben beruhen auf der allgemeinen pharmakologischen Einordnung.
+Agomelatin wirkt als Agonist an den Melatoninrezeptoren MT1 und MT2 und als Antagonist am 5-HT2C-Rezeptor. Die Angaben beruhen auf der allgemeinen pharmakologischen Einordnung. Laut ChEMBL (EMBL-EBI) ist für Agomelatinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Melatoninrezeptor-Agonist; Serotonin-2c(5-HT2c)-Rezeptor-Antagonist“. Englischer Originalwortlaut: "Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; abgerufen am 2026-11-20).
 
 Der benigne paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitierende Erkrankung des Kindesalters. Sie wird oft mit Varianten im Gen CACNA1A in Verbindung gebracht, das einen Ionenkanal betrifft. Eine Verbindung zur melatonergen oder serotonergen Wirkung von Agomelatin ist spekulativ. Der hohe Vorhersagewert ist ein reines Modellergebnis und ersetzt keine Evidenz. Zudem ist Agomelatin für Säuglinge nicht etabliert.
 
@@ -91,6 +91,19 @@ Der benigne paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitier
 - Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
 - Präklinische oder klinische Belege, die Agomelatin mit dieser Erkrankung in Verbindung bringen
 - Prüfung der Sicherheit und Eignung bei Säuglingen
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-20 | "Die für diesen Bericht zusammengestellten Daten enthalten dazu keine ausführliche Mechanismusbeschreibung. Die Angaben beruhen auf der allgemeinen pharmakologischen Einordnung" replaced with a sourced mechanism-of-action statement | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

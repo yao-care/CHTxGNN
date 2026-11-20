@@ -30,7 +30,7 @@
     "lt": 0,
     "lv": 7,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Zum Wirkmechanismus liegen in den lokalen Daten keine eigenen Angaben vor. Die Beschreibung stützt sich auf…",
     "x": 0
    },
    {
@@ -151,7 +151,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Die Angaben zum Wirkmechanismus in der Arzneimitteldatenbank fehlen in den zusammengestellten Daten. Die…",
     "x": 0
    },
    {
@@ -206,7 +206,7 @@
     "lt": 4,
     "lv": 4,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Zum Wirkmechanismus des Arzneimittels selbst liegen in den vorliegenden Daten keine eigenen Angaben vor. Die…",
     "x": 0
    },
    {
@@ -228,7 +228,7 @@
     "lt": 4,
     "lv": 4,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Eine Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank lag nicht vor. Die Beschreibung stützt sich…",
     "x": 0
    },
    {
@@ -250,7 +250,7 @@
     "lt": 0,
     "lv": 5,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Zum ursprünglich hinterlegten Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die…",
     "x": 0
    },
    {
@@ -393,7 +393,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Die Daten enthalten keine Angabe zum Wirkmechanismus aus einer Arzneimitteldatenbank. Die Beschreibung…",
     "x": 0
    },
    {
@@ -426,7 +426,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor. Diese…",
     "x": 0
    },
    {
@@ -624,7 +624,7 @@
     "lt": 4,
     "lv": 4,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.…",
     "x": 0
    },
    {
@@ -701,7 +701,7 @@
   "with_current": 560,
   "none_current": 6,
   "without_data": 104,
-  "with_reviews": 311,
+  "with_reviews": 315,
   "rows": [
    {
     "t": "Dextromethorphanum",
@@ -1997,8 +1997,8 @@
     "i": "Benigner paroxysmaler Torticollis des Säuglingsalters",
     "lt": 5,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Die für diesen Bericht zusammengestellten Daten enthalten dazu keine ausführliche Mechanismusbeschreibung.…",
     "x": 0
    },
    {
@@ -2932,8 +2932,8 @@
     "i": "dry eye syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
    {
@@ -3141,8 +3141,8 @@
     "i": "Akne",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
    {
@@ -3395,7 +3395,7 @@
     "lt": 3,
     "lv": 3,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Für den Wirkmechanismus liegen in den zusammengestellten Daten keine eigenen Angaben vor. Die Beschreibung…",
     "x": 0
    },
    {
@@ -3769,7 +3769,7 @@
     "lt": 3,
     "lv": 2,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor. Die Beschreibung stützt sich…",
     "x": 0
    },
    {
@@ -3945,7 +3945,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Die Daten enthalten keine ausführliche Beschreibung des Wirkmechanismus. Die Angaben beruhen auf der…",
     "x": 0
    },
    {
@@ -3978,7 +3978,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank liegen in den Daten nicht vor. Die Einordnung…",
     "x": 0
    },
    {
@@ -5012,7 +5012,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Eine Beschreibung des Wirkmechanismus aus einer Arzneimitteldatenbank lag nicht vor. Die Angaben hier…",
     "x": 0
    },
    {
@@ -5122,7 +5122,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten. Diese…",
     "x": 0
    },
    {
@@ -5320,7 +5320,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.…",
     "x": 0
    },
    {
@@ -6188,8 +6188,8 @@
     "i": "Schlaflosigkeit",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
    {

@@ -119,7 +119,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Keine der vorliegenden Studien untersucht das Liposarkom direkt. Das Evidenzniveau bleibt daher bei L5, obwohl der Vorhersagewert hoch ist.
-- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cabozantinibum (inoffizielle Übersetzung): „In-vitro-Biochemie- und/oder Zellassays haben gezeigt, dass Cabozantinib die Tyrosinkinaseaktivität von MET, VEGFR-1, -2 und -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3 und TIE-2 hemmt. Diese Rezeptortyrosinkinasen sind sowohl an der normalen Zellfunktion als auch an pathologischen Prozessen wie Onkogenese, Metastasierung, Tumorangiogenese, Arzneimittelresistenz und Aufrechterhaltung der Tumormikroumgebung beteiligt.“ Englischer Originalwortlaut: "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment." ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), Fassung vom 2025-10-19; abgerufen am 2026-11-20).
+- Der Wirkmechanismus ist weiter oben mit Quellenangabe zitiert ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5)).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Ergebnisse der Phase-2-Studie NCT05836571, möglichst mit Auswertung nach Sarkom-Subtyp
@@ -136,7 +136,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
-| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
 
 <!-- review:end log -->
 

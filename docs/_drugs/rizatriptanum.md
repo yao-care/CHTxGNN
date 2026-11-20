@@ -105,7 +105,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Für die vorhergesagte Indikation gibt es keine klinischen Studien und keine Literatur; die Vorhersage stützt sich nur auf das Modell (L5).
-- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rizatriptanum (inoffizielle Übersetzung): „Rizatriptan bindet mit hoher Affinität an humane klonierte 5-HT 1B/1D-Rezeptoren. Rizatriptan entfaltet seine therapeutische Wirkung bei der Behandlung von Migränekopfschmerzen vermutlich durch Bindung an 5-HT 1B/1D-Rezeptoren, die sich an intrakraniellen Blutgefäßen und sensorischen Nerven des Trigeminussystems befinden.“ Englischer Originalwortlaut: "Rizatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Rizatriptan presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system." ([DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce), Fassung vom 2025-11-26; abgerufen am 2026-11-20).
+- Der Wirkmechanismus ist weiter oben mit Quellenangabe zitiert ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce)).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Auswertung der Swissmedic-Fachinformation (Warnhinweise, Kontraindikationen)
@@ -122,7 +122,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce) |
-| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce) |
 
 <!-- review:end log -->
 
