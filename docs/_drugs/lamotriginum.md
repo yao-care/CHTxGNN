@@ -111,7 +111,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Präklinische oder klinische Daten, die eine Wirkung von Lamotrigin auf Tumoren des Nervus trigeminus oder auf tumorbedingte Nervenschmerzen belegen
-- Die Angaben zum Wirkmechanismus und die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die derzeit fehlen
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lamotriginum (inoffizielle Übersetzung): „Der/die genaue(n) Mechanismus/Mechanismen, über den/die Lamotrigin seine antikonvulsive Wirkung entfaltet, ist/sind nicht bekannt. In Tiermodellen zum Nachweis antikonvulsiver Aktivität verhinderte Lamotrigin wirksam die Ausbreitung von Krampfanfällen im maximalen Elektroschocktest (MES) und im Pentylentetrazol-Test (scMet) und verhinderte Krampfanfälle in den Tests auf visuell und elektrisch evozierte Nachentladungen (EEAD) zur Prüfung der antiepileptischen Aktivität.“ Englischer Originalwortlaut: "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity." ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), Fassung vom 2026-10-12; abgerufen am 2026-11-20).
 
 <!-- review:begin log -->
 
@@ -122,6 +122,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ Tasonermin ist in der Schweiz als Biotechnologikum im Handel. Die Vorhersage nen
 
 ### Warum ist diese Vorhersage plausibel?
 
-Laut ChEMBL (EMBL-EBI) ist für Tasonerminum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Unbekannt“ Englischer Originalwortlaut: "Unknown" ([ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891), CC BY-SA 3.0; abgerufen am 2026-11-19). Eine mechanistische Begründung lässt sich daher nicht belegen.
+Laut ChEMBL (EMBL-EBI) ist für Tasonerminum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Unbekannt“. Englischer Originalwortlaut: "Unknown" ([ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891), CC BY-SA 3.0; abgerufen am 2026-11-19). Eine mechanistische Begründung lässt sich daher nicht belegen.
 
 Eine denkbare, rein hypothetische Überlegung: Tasonermin ist ein rekombinanter Tumornekrosefaktor alpha (TNF-alpha). Dieser kann die Blutgefässe von Tumoren schädigen und die Aufnahme von Chemotherapie ins Tumorgewebe verbessern. Ob dies auf Urothelkarzinome übertragbar ist, wurde in den vorliegenden Daten nicht gezeigt. Der hohe Vorhersagewert ist ein reines Rechenergebnis und ersetzt keine klinische Evidenz.
 
@@ -100,7 +100,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891) |
 
 <!-- review:end log -->
 

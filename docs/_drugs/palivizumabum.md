@@ -59,7 +59,7 @@ Palivizumab ist ein monoklonaler Antikörper, der in der Schweiz unter dem Namen
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ein plausibler Wirkmechanismus ist für diese Vorhersage nicht erkennbar. Palivizumab richtet sich gegen das F-Protein des Respiratorischen Synzytial-Virus (RSV) und neutralisiert dieses Virus. Für gutartige Tumoren der Zunge ist keine Aktivität bekannt. Laut ChEMBL (EMBL-EBI) ist für Palivizumabum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Fusionsglykoproteins F0“ Englischer Originalwortlaut: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Ein plausibler Wirkmechanismus ist für diese Vorhersage nicht erkennbar. Palivizumab richtet sich gegen das F-Protein des Respiratorischen Synzytial-Virus (RSV) und neutralisiert dieses Virus. Für gutartige Tumoren der Zunge ist keine Aktivität bekannt. Laut ChEMBL (EMBL-EBI) ist für Palivizumabum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Fusionsglykoproteins F0“. Englischer Originalwortlaut: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Der hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Eine biologische Verbindung zwischen einem gegen ein Virusprotein gerichteten Antikörper und dem Wachstum gutartiger Zungengewebe-Neubildungen ist nicht belegt. Die Vorhersage sollte daher als Hypothese ohne Stütze in der Praxis betrachtet werden.
 
@@ -99,7 +99,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
 
 <!-- review:end log -->
 

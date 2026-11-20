@@ -109,7 +109,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Um fortzufahren, wird Folgendes benötigt:**
 - Ein belegbarer biologischer Wirkmechanismus, der Vancomycin mit der Fibrose bzw. Autoimmunität bei Sklerodermie verbindet
 - Präklinische Daten oder kontrollierte klinische Studien zur diffusen Sklerodermie
-- Ergänzung der fehlenden Angaben zum Wirkmechanismus und zu Warnhinweisen und Kontraindikationen aus der Fachinformation
+- Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Vancomycinum (inoffizielle Übersetzung): „Vancomycin ist ein antibakterieller Wirkstoff. […] Die bakterizide Wirkung von Vancomycin beruht in erster Linie auf der Hemmung der Zellwandbiosynthese. Darüber hinaus verändert Vancomycin die Permeabilität der bakteriellen Zellmembran und die RNA-Synthese.“ Englischer Originalwortlaut: "Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis." ([DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560), Fassung vom 2026-08-19; abgerufen am 2026-11-20).
 
 <!-- review:begin log -->
 
@@ -120,6 +120,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
 
 <!-- review:end log -->
 

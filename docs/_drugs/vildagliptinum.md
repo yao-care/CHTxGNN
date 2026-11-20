@@ -61,7 +61,7 @@ Vildagliptin ist ein oral eingenommenes Antidiabetikum, das in der Schweiz im Ha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Laut ChEMBL (EMBL-EBI) ist für Vildagliptinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dipeptidylpeptidase-IV-Hemmer“ Englischer Originalwortlaut: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Vildagliptin das Enzym DPP-4 hemmt und dadurch die Spiegel der Darmhormone GLP-1 und GIP erhöht. Das fördert die glukoseabhängige Insulinausschüttung.
+Laut ChEMBL (EMBL-EBI) ist für Vildagliptinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dipeptidylpeptidase-IV-Hemmer“. Englischer Originalwortlaut: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; abgerufen am 2026-11-19). Allgemein bekannt ist, dass Vildagliptin das Enzym DPP-4 hemmt und dadurch die Spiegel der Darmhormone GLP-1 und GIP erhöht. Das fördert die glukoseabhängige Insulinausschüttung.
 
 Ein belegter Zusammenhang zwischen diesem Mechanismus und dem fokalen Stiff-Limb-Syndrom besteht nicht. Der hohe Vorhersagewert ist ein reines Rechenergebnis. Studien oder Publikationen, die ihn stützen, wurden nicht gefunden. Die Plausibilität ist daher derzeit nicht begründbar.
 
@@ -104,7 +104,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
 
 <!-- review:end log -->
 

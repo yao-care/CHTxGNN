@@ -61,7 +61,7 @@ Telbivudin ist ein Nukleosidanalogon, das gegen das Hepatitis-B-Virus eingesetzt
 
 ### Warum ist diese Vorhersage plausibel?
 
-Laut ChEMBL (EMBL-EBI) ist für Telbivudinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Polymerase-/Reverse-Transkriptase-Inhibitor“ Englischer Originalwortlaut: "DNA polymerase/reverse transcriptase inhibitor" ([ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731), CC BY-SA 3.0; abgerufen am 2026-11-19). Aus der Wirkstoffklasse ist bekannt, dass Telbivudin ein Thymidin-Nukleosidanalogon ist, das die DNA-Polymerase (reverse Transkriptase) des Hepatitis-B-Virus hemmt.
+Laut ChEMBL (EMBL-EBI) ist für Telbivudinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Polymerase-/Reverse-Transkriptase-Inhibitor“. Englischer Originalwortlaut: "DNA polymerase/reverse transcriptase inhibitor" ([ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731), CC BY-SA 3.0; abgerufen am 2026-11-19). Aus der Wirkstoffklasse ist bekannt, dass Telbivudin ein Thymidin-Nukleosidanalogon ist, das die DNA-Polymerase (reverse Transkriptase) des Hepatitis-B-Virus hemmt.
 
 Das Hepatitis-C-Virus vermehrt sich dagegen über eine RNA-abhängige RNA-Polymerase (NS5B), für die keine Hemmung durch Telbivudin bekannt ist. Beide Erkrankungen sind Virushepatitiden und werden in der Literatur oft gemeinsam behandelt. Der hohe Vorhersagewert spiegelt wahrscheinlich diese thematische Nähe wider und nicht einen echten Wirkmechanismus. Eine mechanistische Begründung für die Anwendbarkeit bei Hepatitis C fehlt.
 
@@ -117,7 +117,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731) |
 
 <!-- review:end log -->
 

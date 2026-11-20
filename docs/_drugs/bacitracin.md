@@ -60,7 +60,7 @@ Bacitracin ist in der Schweiz als Bestandteil des Allergentests «True Test, Pfl
 
 ## Warum ist diese Vorhersage plausibel?
 
-Laut ChEMBL (EMBL-EBI) ist für Bacitracin folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „C55-Isoprenylpyrophosphat-Inhibitor“ Englischer Originalwortlaut: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; abgerufen am 2026-11-19). Eine mechanistische Begründung auf dieser Grundlage ist daher nicht möglich. Allgemein ist Bacitracin ein Antibiotikum, das gegen grampositive Bakterien wirkt. Es wird in Augensalben zur Behandlung bakterieller Infektionen der Augenoberfläche eingesetzt.
+Laut ChEMBL (EMBL-EBI) ist für Bacitracin folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „C55-Isoprenylpyrophosphat-Inhibitor“. Englischer Originalwortlaut: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; abgerufen am 2026-11-19). Eine mechanistische Begründung auf dieser Grundlage ist daher nicht möglich. Allgemein ist Bacitracin ein Antibiotikum, das gegen grampositive Bakterien wirkt. Es wird in Augensalben zur Behandlung bakterieller Infektionen der Augenoberfläche eingesetzt.
 
 Daraus ergibt sich eine mögliche, aber nicht belegte Verbindung zur vorhergesagten Indikation. Die ursprüngliche Zulassung (Allergiediagnostik mit einem Hautpflaster) hat inhaltlich wenig mit der neuen Indikation zu tun. Der sehr hohe Vorhersagewert ist deshalb vorsichtig zu bewerten.
 
@@ -138,7 +138,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
 
 <!-- review:end log -->
 

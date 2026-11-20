@@ -61,7 +61,7 @@ Prednicarbat ist ein topisches Kortikosteroid, das in der Schweiz in mehreren Ha
 
 ### Warum ist diese Vorhersage plausibel?
 
-Prednicarbat ist ein topisches Kortikosteroid mittlerer Wirkstärke mit entzündungshemmender, immunsuppressiver und das Zellwachstum hemmender Wirkung. Laut ChEMBL (EMBL-EBI) ist für Prednicarbatum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Glucocorticoidrezeptor-Agonist“ Englischer Originalwortlaut: "Glucocorticoid receptor agonist" ([ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Prednicarbat ist ein topisches Kortikosteroid mittlerer Wirkstärke mit entzündungshemmender, immunsuppressiver und das Zellwachstum hemmender Wirkung. Laut ChEMBL (EMBL-EBI) ist für Prednicarbatum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Glucocorticoidrezeptor-Agonist“. Englischer Originalwortlaut: "Glucocorticoid receptor agonist" ([ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Theoretisch könnte ein solcher Wirkstoff eine entzündliche oder wachsende, gutartige Veränderung der Vulva dämpfen. Die invertierte follikuläre Keratose ist jedoch meist eine gutartige Läsion, die in der Regel operativ entfernt wird. Es gibt keine klinischen oder mechanistischen Daten, die sie mit diesem Wirkstoff verbinden.
 
@@ -107,7 +107,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386) |
 
 <!-- review:end log -->
 

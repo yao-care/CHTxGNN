@@ -61,7 +61,7 @@ Chlorprothixenhydrochlorid ist ein Neuroleptikum aus der Gruppe der Thioxanthene
 
 ### Warum ist diese Vorhersage plausibel?
 
-Ein plausibler Wirkmechanismus ist hier nicht erkennbar. Chlorprothixen blockiert Dopamin-D2-, Serotonin-5-HT2-, Histamin-H1-, muskarinische und Alpha-1-Rezeptoren. Laut ChEMBL (EMBL-EBI) ist für Chlorprothixeni Hydrochloridum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dopamin-D2-Rezeptorantagonist; Dopamin-D3-Rezeptorantagonist; Serotonin-2a-(5-HT2a-)Rezeptorantagonist; Serotonin-2c-(5-HT2c-)Rezeptorantagonist“ Englischer Originalwortlaut: "Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist; Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Ein plausibler Wirkmechanismus ist hier nicht erkennbar. Chlorprothixen blockiert Dopamin-D2-, Serotonin-5-HT2-, Histamin-H1-, muskarinische und Alpha-1-Rezeptoren. Laut ChEMBL (EMBL-EBI) ist für Chlorprothixeni Hydrochloridum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dopamin-D2-Rezeptorantagonist; Dopamin-D3-Rezeptorantagonist; Serotonin-2a-(5-HT2a-)Rezeptorantagonist; Serotonin-2c-(5-HT2c-)Rezeptorantagonist“. Englischer Originalwortlaut: "Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist; Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Die retinale Dystrophie ist eine genetisch bedingte Netzhautdegeneration. Es ist kein Weg bekannt, über den eine Rezeptorblockade diesen Krankheitsprozess beeinflussen könnte. Der sehr hohe Vorhersagewert ist ein rein rechnerisches Ergebnis und wird weder durch Studien noch durch Publikationen gestützt.
 
@@ -114,7 +114,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908) |
 
 <!-- review:end log -->
 

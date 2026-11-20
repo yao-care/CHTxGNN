@@ -60,7 +60,7 @@ Voxilaprevir ist in der Schweiz als Teil der Fixkombination Vosevi zur Behandlun
 
 ## Warum ist diese Vorhersage plausibel?
 
-Voxilaprevir hemmt die NS3/4A-Protease des Hepatitis-C-Virus. Laut ChEMBL (EMBL-EBI) ist für Voxilaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“ Englischer Originalwortlaut: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Voxilaprevir hemmt die NS3/4A-Protease des Hepatitis-C-Virus. Laut ChEMBL (EMBL-EBI) ist für Voxilaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“. Englischer Originalwortlaut: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Hepatitis C und Hepatitis B sind beides Virusinfektionen der Leber. Das erklärt vermutlich, warum die beiden Krankheiten im Wissensnetzwerk des Modells nahe beieinander liegen. Der hohe Vorhersagewert spiegelt wahrscheinlich diese Nähe zu anderen Hepatitis-Medikamenten wider und nicht einen gemeinsamen Wirkmechanismus.
 
@@ -134,7 +134,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Dibotermin alfa (rekombinantes humanes BMP-2) wird in der Schweiz zur Osteosynth
 
 ### Warum ist diese Vorhersage plausibel?
 
-Dibotermin alfa löst über BMP-Rezeptoren und SMAD-Signalwege die Differenzierung von Knochenzellen aus. Genau das macht es für die Knochenneubildung nützlich. Laut ChEMBL (EMBL-EBI) ist für Dibotermin Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1A; Agonist am Activin-Rezeptor Typ 2B; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 2; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1B“ Englischer Originalwortlaut: "Bone morphogenetic protein receptor type-1A agonist; Activin receptor type-2B agonist; Bone morphogenetic protein receptor type-2 agonist; Bone morphogenetic protein receptor type-1B agonist" ([ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Dibotermin alfa löst über BMP-Rezeptoren und SMAD-Signalwege die Differenzierung von Knochenzellen aus. Genau das macht es für die Knochenneubildung nützlich. Laut ChEMBL (EMBL-EBI) ist für Dibotermin Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1A; Agonist am Activin-Rezeptor Typ 2B; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 2; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1B“. Englischer Originalwortlaut: "Bone morphogenetic protein receptor type-1A agonist; Activin receptor type-2B agonist; Bone morphogenetic protein receptor type-2 agonist; Bone morphogenetic protein receptor type-1B agonist" ([ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Esotropie ist eine Fehlstellung der Augen, an der Augenmuskeln und neuronale Steuerung beteiligt sind. Ein Zusammenhang mit der knochenbildenden Wirkung von BMP-2 ist anhand der vorliegenden Daten nicht erkennbar. Die Beziehung zwischen ursprünglicher und neuer Indikation ist nicht bewertet.
 
@@ -116,7 +116,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171) |
 
 <!-- review:end log -->
 

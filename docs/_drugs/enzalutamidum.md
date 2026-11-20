@@ -100,7 +100,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Für das Prostata-Leiomyom liegen weder klinische Studien noch Literatur vor, die diese Erkrankung direkt untersuchen. Der hohe Vorhersagewert ist eine rein rechnerische Aussage (Evidenzniveau L5).
-- Der Wirkmechanismus ist für diese seltene gutartige Erkrankung nicht belegt, und die Sicherheitsdaten aus der Fachinformation fehlen noch.
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Enzalutamidum (inoffizielle Übersetzung): „Enzalutamid ist ein Androgenrezeptor-Inhibitor, der auf verschiedene Schritte des Androgenrezeptor-Signalwegs wirkt. Es wurde gezeigt, dass Enzalutamid die Bindung von Androgenen an Androgenrezeptoren kompetitiv hemmt und infolgedessen die nukleäre Translokation von Androgenrezeptoren und deren Interaktion mit der DNA hemmt.“ Englischer Originalwortlaut: "Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA." ([DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf), Fassung vom 2026-07-28; abgerufen am 2026-11-20).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Belege, dass das Prostata-Leiomyom vom Androgenrezeptor-Signalweg abhängt (z. B. Expressionsanalysen von Gewebeproben)
@@ -117,6 +117,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
 
 <!-- review:end log -->
 

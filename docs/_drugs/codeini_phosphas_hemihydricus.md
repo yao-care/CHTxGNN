@@ -103,7 +103,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 **Begründung:**
 - Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur, die einen Nutzen belegen. Der einzige Fachartikel ist ein Fallbericht über ein zufälliges, unerwünschtes Ereignis.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und ein plausibler Wirkmechanismus ist nicht belegt.
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Codeini Phosphas Hemihydricus (inoffizielle Übersetzung): „Codeinsulfat ist ein Opioidagonist mit relativer Selektivität für den Mu-Opioidrezeptor, jedoch mit einer wesentlich schwächeren Affinität als Morphin. Es wird vermutet, dass die analgetischen Eigenschaften von Codein auf seine Umwandlung in Morphin zurückzuführen sind, obwohl der genaue Mechanismus der analgetischen Wirkung weiterhin unbekannt ist.“ Englischer Originalwortlaut: "Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown." ([DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293), Fassung vom 2026-01-16; abgerufen am 2026-11-20).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Fachinformation von Swissmedic mit Warnungen und Kontraindikationen
@@ -119,6 +119,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293) |
 
 <!-- review:end log -->
 

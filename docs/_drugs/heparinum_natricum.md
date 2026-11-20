@@ -100,7 +100,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Begründung:**
 - Für die vorhergesagte Indikation gibt es weder klinische Studien noch Literatur; der hohe Vorhersagewert allein reicht nicht für eine Umwidmung.
-- Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen, und der Wirkmechanismus ist in den Daten nicht erfasst.
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Heparinum Natricum (inoffizielle Übersetzung): „Heparin interagiert mit dem natürlich vorkommenden Plasmaprotein Antithrombin III und induziert eine Konformationsänderung, die die Serinprotease-Aktivität von Antithrombin III deutlich verstärkt, wodurch die an der Endsequenz beteiligten aktivierten Gerinnungsfaktoren, insbesondere Xa und IIa, gehemmt werden. Geringe Mengen Heparin hemmen Faktor Xa, größere Mengen hemmen Thrombin (Faktor IIa).“ Englischer Originalwortlaut: "Heparin interacts with the naturally occurring plasma protein, antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of antithrombin III, thereby inhibiting the activated coagulation factors involved in the closing sequence, particularly Xa and IIa. Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa)." ([DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e), Fassung vom 2026-05-25; abgerufen am 2026-11-20).
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Gezielte Recherche zu Heparin bei Protein-C-Mangel (Fallserien, Leitlinien, Studien)
@@ -117,6 +117,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e) |
 
 <!-- review:end log -->
 

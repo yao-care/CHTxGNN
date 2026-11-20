@@ -103,7 +103,7 @@ Aus der Literatur ist ein Bericht über Hornhautödeme unter dopaminergen Substa
 
 **Begründung:**
 - Die Vorhersage ist mechanistisch nachvollziehbar und wird durch eine neue randomisierte Studie, einen Fallbericht und Übersichtsarbeiten gestützt. Die Ergebnisse der Studie sind jedoch nicht überprüfbar, und es gibt keinen Registereintrag.
-- Die Sicherheitsdaten aus der Fachinformation fehlen, und der Wirkmechanismus ist in den Daten nicht dokumentiert. Eine Sicherheitsbewertung ist daher noch nicht möglich.
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ropinirolum (inoffizielle Übersetzung): „Ropinirol ist ein Non-Ergolin-Dopaminagonist. Der genaue Wirkmechanismus von Ropinirol bei der Behandlung der Parkinson-Krankheit ist unbekannt, es wird jedoch angenommen, dass er mit seiner Fähigkeit zusammenhängt, Dopamin-D 2-Rezeptoren im Nucleus caudatus und Putamen des Gehirns zu stimulieren.“ Englischer Originalwortlaut: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), Fassung vom 2026-11-06; abgerufen am 2026-11-20). Eine Sicherheitsbewertung ist daher noch nicht möglich.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Volltext der RCT (PMID 42640474): Phase, Design, Wirksamkeits- und Sicherheitsergebnisse sowie Studienregistrierung prüfen.
@@ -121,6 +121,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

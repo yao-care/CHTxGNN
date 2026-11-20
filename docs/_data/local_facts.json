@@ -21,12 +21,12 @@
   "items_current": 1292
  },
  "reviews": {
-  "records": 350,
+  "records": 367,
   "pages": 349,
   "public_pages_with_records": 349,
   "by_action": {
    "correct": 3,
-   "mechanism": 347
+   "mechanism": 364
   }
  },
  "fhir": {
@@ -166,58 +166,58 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
-   "t": "Ritonavirum",
-   "u": "/drugs/ritonavirum/",
+   "t": "Azithromycinum",
+   "u": "/drugs/azithromycinum/",
    "l": "L5",
-   "lt": 1,
-   "lv": 0,
+   "lt": 0,
+   "lv": 5,
    "r": 2,
-   "i": "Felines erworbenes Immunschwächesyndrom"
+   "i": "Polyklonales Hyperviskositätssyndrom"
   },
   {
-   "t": "Acenocoumarolum",
-   "u": "/drugs/acenocoumarolum/",
+   "t": "Bendamustinum",
+   "u": "/drugs/bendamustinum/",
+   "l": "L1",
+   "lt": 3,
+   "lv": 3,
+   "r": 2,
+   "i": "Mantelzelllymphom"
+  },
+  {
+   "t": "Cabozantinibum",
+   "u": "/drugs/cabozantinibum/",
    "l": "L5",
    "lt": 1,
    "lv": 1,
-   "r": 1,
-   "i": "Heparin-Cofaktor-II-Mangel"
+   "r": 2,
+   "i": "Liposarkom"
   },
   {
-   "t": "Acetylcysteinum",
-   "u": "/drugs/acetylcysteinum/",
-   "l": "L3",
-   "lt": 0,
-   "lv": 9,
-   "r": 1,
-   "i": "Thrombotische Erkrankung"
-  },
-  {
-   "t": "Aciclovirum",
-   "u": "/drugs/aciclovirum/",
+   "t": "Codeini Phosphas Hemihydricus",
+   "u": "/drugs/codeini-phosphas-hemihydricus/",
    "l": "L5",
-   "lt": 12,
-   "lv": 12,
-   "r": 1,
-   "i": "Punktförmige epitheliale Keratokonjunktivitis"
+   "lt": 9,
+   "lv": 7,
+   "r": 2,
+   "i": "Erkrankung der Nasenhöhle"
   },
   {
-   "t": "Acidum Acetylsalicylicum",
-   "u": "/drugs/acidum-acetylsalicylicum/",
+   "t": "Desmopressinum",
+   "u": "/drugs/desmopressinum/",
    "l": "L5",
-   "lt": 0,
-   "lv": 9,
-   "r": 1,
-   "i": "atrophoderma vermiculata"
+   "lt": 8,
+   "lv": 8,
+   "r": 2,
+   "i": "Angeborener Prothrombinmangel"
   },
   {
-   "t": "Acidum Ascorbicum",
-   "u": "/drugs/acidum-ascorbicum/",
+   "t": "Diazoxidum",
+   "u": "/drugs/diazoxidum/",
    "l": "L5",
-   "lt": 4,
-   "lv": 4,
-   "r": 1,
-   "i": "Nicht-syndromische Ösophagusfehlbildung"
+   "lt": 1,
+   "lv": 1,
+   "r": 2,
+   "i": "Hypotrichosis simplex der Kopfhaut"
   }
  ],
  "example": {

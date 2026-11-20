@@ -68,7 +68,7 @@
    "file": "acenocoumarolum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum ursprünglich hinterlegten Wirkmechanismus fehlen in den zusammengestellten Daten; die obige Beschreibung beruht auf dem allgemeinen pharmakologischen Wissen zur Wirkstoffklasse.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Acenocoumarolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Isoform 1 der Untereinheit 1 des Vitamin-K-Epoxid-Reduktase-Komplexes“ Englischer Originalwortlaut: \"Vitamin k epoxide reductase complex subunit 1 isoform 1 inhibitor\" ([ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Acenocoumarolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Isoform 1 der Untereinheit 1 des Vitamin-K-Epoxid-Reduktase-Komplexes“. Englischer Originalwortlaut: \"Vitamin k epoxide reductase complex subunit 1 isoform 1 inhibitor\" ([ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -85,7 +85,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Acenocoumarolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Isoform 1 der Untereinheit 1 des Vitamin-K-Epoxid-Reduktase-Komplexes“ Englischer Originalwortlaut: \"Vitamin k epoxide reductase complex subunit 1 isoform 1 inhibitor\" ([ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-acetylcysteinum-1",
@@ -795,7 +802,7 @@
    "file": "artemether.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Artemether liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Artemether folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Ferriprotoporphyrin-IX-Inhibitor“ Englischer Originalwortlaut: \"Ferriprotoporphyrin IX inhibitor\" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Artemether folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Ferriprotoporphyrin-IX-Inhibitor“. Englischer Originalwortlaut: \"Ferriprotoporphyrin IX inhibitor\" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -812,7 +819,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Artemether folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Ferriprotoporphyrin-IX-Inhibitor“ Englischer Originalwortlaut: \"Ferriprotoporphyrin IX inhibitor\" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-asenapinum-1",
@@ -1090,7 +1104,7 @@
    "file": "bacitracin.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus des Arzneimittels liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Bacitracin folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „C55-Isoprenylpyrophosphat-Inhibitor“ Englischer Originalwortlaut: \"C55-isoprenyl pyrophosphate inhibitor\" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Bacitracin folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „C55-Isoprenylpyrophosphat-Inhibitor“. Englischer Originalwortlaut: \"C55-isoprenyl pyrophosphate inhibitor\" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -1107,7 +1121,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Bacitracin folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „C55-Isoprenylpyrophosphat-Inhibitor“ Englischer Originalwortlaut: \"C55-isoprenyl pyrophosphate inhibitor\" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-baricitinibum-1",
@@ -1736,7 +1757,7 @@
    "file": "carbetocinum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum Wirkmechanismus von Carbetocin fehlen in den für diesen Bericht zusammengestellten Daten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Carbetocinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Oxytocin-Rezeptor-Agonist“ Englischer Originalwortlaut: \"Oxytocin receptor agonist\" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Carbetocinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Oxytocin-Rezeptor-Agonist“. Englischer Originalwortlaut: \"Oxytocin receptor agonist\" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -1753,7 +1774,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Carbetocinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Oxytocin-Rezeptor-Agonist“ Englischer Originalwortlaut: \"Oxytocin receptor agonist\" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-carbimazolum-1",
@@ -1761,7 +1789,7 @@
    "file": "carbimazolum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Carbimazolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Thyreoperoxidase-Hemmer“ Englischer Originalwortlaut: \"Thyroid peroxidase inhibitor\" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Carbimazolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Thyreoperoxidase-Hemmer“. Englischer Originalwortlaut: \"Thyroid peroxidase inhibitor\" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -1778,7 +1806,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Carbimazolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Thyreoperoxidase-Hemmer“ Englischer Originalwortlaut: \"Thyroid peroxidase inhibitor\" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-carvedilolum-1",
@@ -2056,7 +2091,7 @@
    "file": "chlorprothixeni_hydrochloridum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den zusammengestellten Daten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Chlorprothixeni Hydrochloridum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dopamin-D2-Rezeptorantagonist; Dopamin-D3-Rezeptorantagonist; Serotonin-2a-(5-HT2a-)Rezeptorantagonist; Serotonin-2c-(5-HT2c-)Rezeptorantagonist“ Englischer Originalwortlaut: \"Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist; Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist\" ([ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Chlorprothixeni Hydrochloridum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dopamin-D2-Rezeptorantagonist; Dopamin-D3-Rezeptorantagonist; Serotonin-2a-(5-HT2a-)Rezeptorantagonist; Serotonin-2c-(5-HT2c-)Rezeptorantagonist“. Englischer Originalwortlaut: \"Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist; Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist\" ([ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -2073,7 +2108,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Chlorprothixeni Hydrochloridum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dopamin-D2-Rezeptorantagonist; Dopamin-D3-Rezeptorantagonist; Serotonin-2a-(5-HT2a-)Rezeptorantagonist; Serotonin-2c-(5-HT2c-)Rezeptorantagonist“ Englischer Originalwortlaut: \"Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist; Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist\" ([ChEMBL CHEMBL908 (chlorprothixene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL908), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-chlorthalidone-1",
@@ -2108,7 +2150,7 @@
    "file": "cholecalciferolum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Cholecalciferol liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Cholecalciferolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Vitamin-D-Rezeptor-Agonist“ Englischer Originalwortlaut: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Cholecalciferolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Vitamin-D-Rezeptor-Agonist“. Englischer Originalwortlaut: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -2125,7 +2167,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Cholecalciferolum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Vitamin-D-Rezeptor-Agonist“ Englischer Originalwortlaut: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-ciclosporinum-1",
@@ -2160,7 +2209,7 @@
    "file": "cilazaprilum_anhydricum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten; die Einordnung als ACE-Hemmer ergibt sich aus der Schweizer Zulassung.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Cilazaprilum Anhydricum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Angiotensin-Converting-Enzym-Inhibitor“ Englischer Originalwortlaut: \"Angiotensin-converting enzyme inhibitor\" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Cilazaprilum Anhydricum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Angiotensin-Converting-Enzym-Inhibitor“. Englischer Originalwortlaut: \"Angiotensin-converting enzyme inhibitor\" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -2177,7 +2226,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Cilazaprilum Anhydricum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Angiotensin-Converting-Enzym-Inhibitor“ Englischer Originalwortlaut: \"Angiotensin-converting enzyme inhibitor\" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-cisatracurium-1",
@@ -2374,7 +2430,7 @@
    "file": "dacarbazinum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Dacarbazinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Inhibitor“ Englischer Originalwortlaut: \"DNA inhibitor\" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Dacarbazinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Inhibitor“. Englischer Originalwortlaut: \"DNA inhibitor\" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -2391,7 +2447,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Dacarbazinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Inhibitor“ Englischer Originalwortlaut: \"DNA inhibitor\" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-dalteparinum_natricum-1",
@@ -2723,7 +2786,7 @@
    "file": "dibotermin_alfa.md",
    "action": "mechanism",
    "claim": "Die Angaben zum Wirkmechanismus in den Arzneimittelstammdaten fehlen, die genannte Einordnung stammt aus der Bewertung der Vorhersage.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Dibotermin Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1A; Agonist am Activin-Rezeptor Typ 2B; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 2; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1B“ Englischer Originalwortlaut: \"Bone morphogenetic protein receptor type-1A agonist; Activin receptor type-2B agonist; Bone morphogenetic protein receptor type-2 agonist; Bone morphogenetic protein receptor type-1B agonist\" ([ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Dibotermin Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1A; Agonist am Activin-Rezeptor Typ 2B; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 2; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1B“. Englischer Originalwortlaut: \"Bone morphogenetic protein receptor type-1A agonist; Activin receptor type-2B agonist; Bone morphogenetic protein receptor type-2 agonist; Bone morphogenetic protein receptor type-1B agonist\" ([ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -2740,7 +2803,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Dibotermin Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1A; Agonist am Activin-Rezeptor Typ 2B; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 2; Agonist am Bone-Morphogenetic-Protein-Rezeptor Typ 1B“ Englischer Originalwortlaut: \"Bone morphogenetic protein receptor type-1A agonist; Activin receptor type-2B agonist; Bone morphogenetic protein receptor type-2 agonist; Bone morphogenetic protein receptor type-1B agonist\" ([ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-diclofenacum_natricum-1",
@@ -3099,7 +3169,7 @@
    "file": "eftrenonacog_alfa.md",
    "action": "mechanism",
    "claim": "Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Eftrenonacog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-IX-Protein“ Englischer Originalwortlaut: \"Coagulation factor IX exogenous protein\" ([ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Eftrenonacog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-IX-Protein“. Englischer Originalwortlaut: \"Coagulation factor IX exogenous protein\" ([ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -3116,7 +3186,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Eftrenonacog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-IX-Protein“ Englischer Originalwortlaut: \"Coagulation factor IX exogenous protein\" ([ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-eltrombopagum-1",
@@ -3988,7 +4065,7 @@
    "file": "glecaprevir.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Glecaprevir liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Glecaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“ Englischer Originalwortlaut: \"Hepatitis C virus serine protease, NS3/NS4A inhibitor\" ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Glecaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“. Englischer Originalwortlaut: \"Hepatitis C virus serine protease, NS3/NS4A inhibitor\" ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -4005,7 +4082,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Glecaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“ Englischer Originalwortlaut: \"Hepatitis C virus serine protease, NS3/NS4A inhibitor\" ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-glimepiridum-1",
@@ -4310,7 +4394,7 @@
    "file": "idebenonum.md",
    "action": "mechanism",
    "claim": "Der ursprüngliche Wirkmechanismus liegt in den aufbereiteten Daten nicht vor, die folgende Überlegung ist daher nur eine Hypothese.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Idebenonum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Antioxidans und mitochondrialer Elektronenüberträger“ Englischer Originalwortlaut: \"Antioxidant and mitochondrial electron carrier\" ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Idebenonum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Antioxidans und mitochondrialer Elektronenüberträger“. Englischer Originalwortlaut: \"Antioxidant and mitochondrial electron carrier\" ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -4327,7 +4411,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Idebenonum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Antioxidans und mitochondrialer Elektronenüberträger“ Englischer Originalwortlaut: \"Antioxidant and mitochondrial electron carrier\" ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-idelalisibum-1",
@@ -5199,7 +5290,7 @@
    "file": "lonoctocog_alfa.md",
    "action": "mechanism",
    "claim": "Die Angaben zum ursprünglichen Wirkmechanismus liegen in den zusammengestellten Daten nicht vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Lonoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Lonoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“. Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5216,7 +5307,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Lonoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-loperamidi_hydrochloridum-1",
@@ -5251,7 +5349,7 @@
    "file": "lopinavir.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Lopinavir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Protease-Inhibitor des humanen Immundefizienzvirus Typ 1“ Englischer Originalwortlaut: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Lopinavir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Protease-Inhibitor des humanen Immundefizienzvirus Typ 1“. Englischer Originalwortlaut: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5268,7 +5366,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Lopinavir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Protease-Inhibitor des humanen Immundefizienzvirus Typ 1“ Englischer Originalwortlaut: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-losartanum_kalicum-1",
@@ -5654,7 +5759,7 @@
    "file": "minoxidilum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Minoxidilum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Sulfonylharnstoff-Rezeptor 2, Kir6.2-Öffner“ Englischer Originalwortlaut: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Minoxidilum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Sulfonylharnstoff-Rezeptor 2, Kir6.2-Öffner“. Englischer Originalwortlaut: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5671,7 +5776,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Minoxidilum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Sulfonylharnstoff-Rezeptor 2, Kir6.2-Öffner“ Englischer Originalwortlaut: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-moclobemidum-1",
@@ -5679,7 +5791,7 @@
    "file": "moclobemidum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten; diese Beschreibung beruht auf allgemeinem pharmakologischem Wissen und den Titeln der zitierten Literatur.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Moclobemidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Monoaminoxidase-A-Hemmer“ Englischer Originalwortlaut: \"Monoamine oxidase A inhibitor\" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Moclobemidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Monoaminoxidase-A-Hemmer“. Englischer Originalwortlaut: \"Monoamine oxidase A inhibitor\" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5696,7 +5808,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Moclobemidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Monoaminoxidase-A-Hemmer“ Englischer Originalwortlaut: \"Monoamine oxidase A inhibitor\" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-modafinilum-1",
@@ -5785,7 +5904,7 @@
    "file": "moxonidinum.md",
    "action": "mechanism",
    "claim": "Die ursprüngliche Beschreibung des Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Moxonidinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Nischarin-Agonist“ Englischer Originalwortlaut: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Moxonidinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Nischarin-Agonist“. Englischer Originalwortlaut: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5802,7 +5921,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Moxonidinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Nischarin-Agonist“ Englischer Originalwortlaut: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-naproxenum-1",
@@ -6323,7 +6449,7 @@
    "file": "palivizumabum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum ursprünglichen Wirkmechanismus fehlen in den für diesen Bericht zusammengestellten Daten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Palivizumabum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Fusionsglykoproteins F0“ Englischer Originalwortlaut: \"Fusion glycoprotein F0 inhibitor\" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Palivizumabum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Fusionsglykoproteins F0“. Englischer Originalwortlaut: \"Fusion glycoprotein F0 inhibitor\" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6340,7 +6466,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Palivizumabum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Fusionsglykoproteins F0“ Englischer Originalwortlaut: \"Fusion glycoprotein F0 inhibitor\" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-panitumumabum-1",
@@ -6618,7 +6751,7 @@
    "file": "pibrentasvir.md",
    "action": "mechanism",
    "claim": "Der Wirkmechanismus von Pibrentasvir liegt in den für diesen Bericht zusammengestellten Daten nicht vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Pibrentasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“ Englischer Originalwortlaut: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Pibrentasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“. Englischer Originalwortlaut: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6635,7 +6768,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Pibrentasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“ Englischer Originalwortlaut: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-pioglitazonum-1",
@@ -6913,7 +7053,7 @@
    "file": "prednicarbatum.md",
    "action": "mechanism",
    "claim": "Angaben zum Wirkmechanismus liegen in den Daten nicht vor; die Einordnung beruht auf dem allgemeinen Wissen über diese Wirkstoffklasse.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Prednicarbatum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Glucocorticoidrezeptor-Agonist“ Englischer Originalwortlaut: \"Glucocorticoid receptor agonist\" ([ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Prednicarbatum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Glucocorticoidrezeptor-Agonist“. Englischer Originalwortlaut: \"Glucocorticoid receptor agonist\" ([ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6930,7 +7070,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Prednicarbatum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Glucocorticoidrezeptor-Agonist“ Englischer Originalwortlaut: \"Glucocorticoid receptor agonist\" ([ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-prednisoloni_pivalas-1",
@@ -7154,7 +7301,7 @@
    "file": "pyrazinamidum.md",
    "action": "mechanism",
    "claim": "Die Angaben zum genauen Wirkmechanismus fehlen in den vorliegenden Daten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Pyrazinamidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Fettsäure-Synthase-Inhibitor; 70S-Ribosomen-Inhibitor“ Englischer Originalwortlaut: \"Fatty acid synthase inhibitor; 70S ribosome inhibitor\" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Pyrazinamidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Fettsäure-Synthase-Inhibitor; 70S-Ribosomen-Inhibitor“. Englischer Originalwortlaut: \"Fatty acid synthase inhibitor; 70S ribosome inhibitor\" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7171,7 +7318,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Pyrazinamidum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Fettsäure-Synthase-Inhibitor; 70S-Ribosomen-Inhibitor“ Englischer Originalwortlaut: \"Fatty acid synthase inhibitor; 70S ribosome inhibitor\" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-raloxifenum-1",
@@ -7341,7 +7495,7 @@
    "file": "reboxetinum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus liegen in den für diesen Bericht zusammengestellten Daten keine weiteren Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Reboxetinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Noradrenalin-Transporter-Inhibitor“ Englischer Originalwortlaut: \"Norepinephrine transporter inhibitor\" ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Reboxetinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Noradrenalin-Transporter-Inhibitor“. Englischer Originalwortlaut: \"Norepinephrine transporter inhibitor\" ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7358,7 +7512,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Reboxetinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Noradrenalin-Transporter-Inhibitor“ Englischer Originalwortlaut: \"Norepinephrine transporter inhibitor\" ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-reslizumabum-1",
@@ -7825,7 +7986,7 @@
    "file": "sebelipase_alfa.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Sebelipase alfa liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Sebelipase Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Cholesterinester-hydrolysierendes Enzym; Triglycerid-hydrolysierendes Enzym“ Englischer Originalwortlaut: \"Cholesterol ester hydrolytic enzyme; Triglyceride hydrolytic enzyme\" ([ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Sebelipase Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Cholesterinester-hydrolysierendes Enzym; Triglycerid-hydrolysierendes Enzym“. Englischer Originalwortlaut: \"Cholesterol ester hydrolytic enzyme; Triglyceride hydrolytic enzyme\" ([ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7842,7 +8003,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Sebelipase Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Cholesterinester-hydrolysierendes Enzym; Triglycerid-hydrolysierendes Enzym“ Englischer Originalwortlaut: \"Cholesterol ester hydrolytic enzyme; Triglyceride hydrolytic enzyme\" ([ChEMBL CHEMBL3039537 (sebelipase alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039537), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-selumetinibum-1",
@@ -7904,7 +8072,7 @@
    "file": "simoctocog_alfa.md",
    "action": "mechanism",
    "claim": "Der ursprüngliche Wirkmechanismus liegt in den für diesen Bericht zusammengestellten Daten nicht vor, was die mechanistische Analyse einschränkt.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Simoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Simoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“. Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7921,7 +8089,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Simoctocog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-sofosbuvirum-1",
@@ -8145,7 +8320,7 @@
    "file": "tasonerminum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Tasonermin liegen in den für diesen Bericht zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Tasonerminum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Unbekannt“ Englischer Originalwortlaut: \"Unknown\" ([ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Tasonerminum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Unbekannt“. Englischer Originalwortlaut: \"Unknown\" ([ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8162,7 +8337,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Tasonerminum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Unbekannt“ Englischer Originalwortlaut: \"Unknown\" ([ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-telbivudinum-1",
@@ -8170,7 +8352,7 @@
    "file": "telbivudinum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Telbivudinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Polymerase-/Reverse-Transkriptase-Inhibitor“ Englischer Originalwortlaut: \"DNA polymerase/reverse transcriptase inhibitor\" ([ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Telbivudinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Polymerase-/Reverse-Transkriptase-Inhibitor“. Englischer Originalwortlaut: \"DNA polymerase/reverse transcriptase inhibitor\" ([ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8187,7 +8369,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Telbivudinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „DNA-Polymerase-/Reverse-Transkriptase-Inhibitor“ Englischer Originalwortlaut: \"DNA polymerase/reverse transcriptase inhibitor\" ([ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-telmisartanum-1",
@@ -8411,7 +8600,7 @@
    "file": "tetracyclinum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Tetracyclinum liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Tetracyclinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des bakteriellen 70S-Ribosoms“ Englischer Originalwortlaut: \"Bacterial 70S ribosome inhibitor\" ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Tetracyclinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des bakteriellen 70S-Ribosoms“. Englischer Originalwortlaut: \"Bacterial 70S ribosome inhibitor\" ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8428,7 +8617,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Tetracyclinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des bakteriellen 70S-Ribosoms“ Englischer Originalwortlaut: \"Bacterial 70S ribosome inhibitor\" ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-ticagrelorum-1",
@@ -8868,7 +9064,7 @@
    "file": "turoctocog_alfa_pegol.md",
    "action": "mechanism",
    "claim": "Angaben zum Wirkmechanismus sind in den für diesen Bericht zusammengestellten Daten nicht enthalten.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Turoctocog Alfa Pegol folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Turoctocog Alfa Pegol folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“. Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8885,7 +9081,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Turoctocog Alfa Pegol folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Gerinnungsfaktor-VIII-Protein“ Englischer Originalwortlaut: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-upadacitinibum-1",
@@ -9028,7 +9231,7 @@
    "file": "velpatasvir.md",
    "action": "mechanism",
    "claim": "Angaben zum Wirkmechanismus aus der Datenbank liegen für diesen Bericht nicht vor; die Zuordnung zu NS5A stammt aus der Bewertung der vorhandenen Studien und Publikationen.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Velpatasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“ Englischer Originalwortlaut: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Velpatasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“. Englischer Originalwortlaut: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9045,7 +9248,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Velpatasvir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor des Nichtstrukturproteins 5A“ Englischer Originalwortlaut: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-verapamili_hydrochloridum-1",
@@ -9107,7 +9317,7 @@
    "file": "vildagliptinum.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus von Vildagliptin liegen in den zusammengestellten Daten keine Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Vildagliptinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dipeptidylpeptidase-IV-Hemmer“ Englischer Originalwortlaut: \"Dipeptidyl peptidase IV inhibitor\" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Vildagliptinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dipeptidylpeptidase-IV-Hemmer“. Englischer Originalwortlaut: \"Dipeptidyl peptidase IV inhibitor\" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9124,7 +9334,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Vildagliptinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Dipeptidylpeptidase-IV-Hemmer“ Englischer Originalwortlaut: \"Dipeptidyl peptidase IV inhibitor\" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-vismodegibum-1",
@@ -9159,7 +9376,7 @@
    "file": "vonicog_alfa.md",
    "action": "mechanism",
    "claim": "Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank liegen in den zusammengestellten Daten nicht vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Vonicog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Von-Willebrand-Faktor-Protein“ Englischer Originalwortlaut: \"von Willebrand factor exogenous protein\" ([ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Vonicog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Von-Willebrand-Faktor-Protein“. Englischer Originalwortlaut: \"von Willebrand factor exogenous protein\" ([ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9176,7 +9393,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Vonicog Alfa folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Exogenes Von-Willebrand-Faktor-Protein“ Englischer Originalwortlaut: \"von Willebrand factor exogenous protein\" ([ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-vortioxetinum-1",
@@ -9211,7 +9435,7 @@
    "file": "voxilaprevir.md",
    "action": "mechanism",
    "claim": "Zum Wirkmechanismus liegen in den zusammengestellten Daten keine weiteren Angaben vor.",
-   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Voxilaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“ Englischer Originalwortlaut: \"Hepatitis C virus serine protease, NS3/NS4A inhibitor\" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; abgerufen am 2026-11-19).",
+   "replacement": "Laut ChEMBL (EMBL-EBI) ist für Voxilaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“. Englischer Originalwortlaut: \"Hepatitis C virus serine protease, NS3/NS4A inhibitor\" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; abgerufen am 2026-11-19).",
    "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9228,7 +9452,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Laut ChEMBL (EMBL-EBI) ist für Voxilaprevir folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Inhibitor der Serinprotease NS3/NS4A des Hepatitis-C-Virus“ Englischer Originalwortlaut: \"Hepatitis C virus serine protease, NS3/NS4A inhibitor\" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; abgerufen am 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "ch-moa-20261119-zanamivirum-1",
@@ -9363,6 +9594,465 @@
     }
    ],
    "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-azithromycinum-2",
+   "drug": "azithromycinum",
+   "file": "azithromycinum.md",
+   "action": "mechanism",
+   "claim": "Angaben zum Wirkmechanismus von Azithromycin (derzeit nicht verfügbar).",
+   "replacement": "Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Azithromycinum (inoffizielle Übersetzung): „Azithromycin ist ein antibakterieller Wirkstoff aus der Gruppe der Makrolide. […] Azithromycin wirkt durch Bindung an die 23S-rRNA der 50S-Untereinheit des Ribosoms empfindlicher Mikroorganismen, wodurch die bakterielle Proteinsynthese gehemmt und der Zusammenbau der 50S-Ribosomenuntereinheit behindert wird.“ Englischer Originalwortlaut: \"Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit.\" ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), Fassung vom 2026-09-09; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a",
+     "accessed": "2026-11-20",
+     "excerpt": "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit.",
+     "label_version": "2026-09-09",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "8d24bacb-feff-4c6a-b8df-625e1435387a",
+     "translation": "Azithromycin ist ein antibakterieller Wirkstoff aus der Gruppe der Makrolide. […] Azithromycin wirkt durch Bindung an die 23S-rRNA der 50S-Untereinheit des Ribosoms empfindlicher Mikroorganismen, wodurch die bakterielle Proteinsynthese gehemmt und der Zusammenbau der 50S-Ribosomenuntereinheit behindert wird.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-bendamustinum-2",
+   "drug": "bendamustinum",
+   "file": "bendamustinum.md",
+   "action": "mechanism",
+   "claim": "Für diesen Bericht fehlen Warnungen, Kontraindikationen und Angaben zum Wirkmechanismus aus der Fachinformation.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Bendamustinum (inoffizielle Übersetzung): „Bendamustin ist ein bifunktionelles Mechlorethamin-Derivat mit einem purinähnlichen Benzimidazolring. Mechlorethamin und seine Derivate bilden elektrophile Alkylgruppen. Diese Gruppen gehen kovalente Bindungen mit elektronenreichen nukleophilen Gruppen ein, was zu DNA-Quervernetzungen zwischen den Strängen führt.“ Englischer Originalwortlaut: \"Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks.\" ([DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f), Fassung vom 2026-10-28; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f",
+     "accessed": "2026-11-20",
+     "excerpt": "Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks.",
+     "label_version": "2026-10-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "bf0e08b3-50ab-48e0-a52b-89c04787a75f",
+     "translation": "Bendamustin ist ein bifunktionelles Mechlorethamin-Derivat mit einem purinähnlichen Benzimidazolring. Mechlorethamin und seine Derivate bilden elektrophile Alkylgruppen. Diese Gruppen gehen kovalente Bindungen mit elektronenreichen nukleophilen Gruppen ein, was zu DNA-Quervernetzungen zwischen den Strängen führt.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-cabozantinibum-2",
+   "drug": "cabozantinibum",
+   "file": "cabozantinibum.md",
+   "action": "mechanism",
+   "claim": "Die Sicherheitsdaten aus der Fachinformation und die Angaben zum Wirkmechanismus fehlen in den zusammengestellten Daten.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Cabozantinibum (inoffizielle Übersetzung): „In-vitro-Biochemie- und/oder Zellassays haben gezeigt, dass Cabozantinib die Tyrosinkinaseaktivität von MET, VEGFR-1, -2 und -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3 und TIE-2 hemmt. Diese Rezeptortyrosinkinasen sind sowohl an der normalen Zellfunktion als auch an pathologischen Prozessen wie Onkogenese, Metastasierung, Tumorangiogenese, Arzneimittelresistenz und Aufrechterhaltung der Tumormikroumgebung beteiligt.“ Englischer Originalwortlaut: \"In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment.\" ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), Fassung vom 2025-10-19; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5",
+     "accessed": "2026-11-20",
+     "excerpt": "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment.",
+     "label_version": "2025-10-19",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "3850cce2-6137-42e5-a792-d318c4a4b3b5",
+     "translation": "In-vitro-Biochemie- und/oder Zellassays haben gezeigt, dass Cabozantinib die Tyrosinkinaseaktivität von MET, VEGFR-1, -2 und -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3 und TIE-2 hemmt. Diese Rezeptortyrosinkinasen sind sowohl an der normalen Zellfunktion als auch an pathologischen Prozessen wie Onkogenese, Metastasierung, Tumorangiogenese, Arzneimittelresistenz und Aufrechterhaltung der Tumormikroumgebung beteiligt.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-codeini_phosphas_hemihydricus-2",
+   "drug": "codeini_phosphas_hemihydricus",
+   "file": "codeini_phosphas_hemihydricus.md",
+   "action": "mechanism",
+   "claim": "Die Sicherheitsdaten aus der Fachinformation fehlen, und ein plausibler Wirkmechanismus ist nicht belegt.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Codeini Phosphas Hemihydricus (inoffizielle Übersetzung): „Codeinsulfat ist ein Opioidagonist mit relativer Selektivität für den Mu-Opioidrezeptor, jedoch mit einer wesentlich schwächeren Affinität als Morphin. Es wird vermutet, dass die analgetischen Eigenschaften von Codein auf seine Umwandlung in Morphin zurückzuführen sind, obwohl der genaue Mechanismus der analgetischen Wirkung weiterhin unbekannt ist.“ Englischer Originalwortlaut: \"Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown.\" ([DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293), Fassung vom 2026-01-16; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293",
+     "accessed": "2026-11-20",
+     "excerpt": "Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown.",
+     "label_version": "2026-01-16",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "5819bdf7-300e-45b8-8f3a-447b53656293",
+     "translation": "Codeinsulfat ist ein Opioidagonist mit relativer Selektivität für den Mu-Opioidrezeptor, jedoch mit einer wesentlich schwächeren Affinität als Morphin. Es wird vermutet, dass die analgetischen Eigenschaften von Codein auf seine Umwandlung in Morphin zurückzuführen sind, obwohl der genaue Mechanismus der analgetischen Wirkung weiterhin unbekannt ist.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-desmopressinum-2",
+   "drug": "desmopressinum",
+   "file": "desmopressinum.md",
+   "action": "mechanism",
+   "claim": "Ergänzung der fehlenden Angaben zum Wirkmechanismus",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Desmopressinum (inoffizielle Übersetzung): „Desmopressinacetat erhöht bei Patienten mit Hämophilie und von-Willebrand-Syndrom Typ I die Plasmaspiegel der Faktor-VIII-Aktivität. Die antidiuretischen Wirkungen von Desmopressinacetat werden durch Stimulation von Vasopressin-2-(V2-)Rezeptoren vermittelt, wodurch die Wasserrückresorption in der Niere erhöht und somit die Harnproduktion verringert wird. Desmopressinacetat ist bei der Behandlung des zentralen Diabetes insipidus ein Ersatzhormon für das antidiuretische Hormon.“ Englischer Originalwortlaut: \"Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus.\" ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), Fassung vom 2022-09-28; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244",
+     "accessed": "2026-11-20",
+     "excerpt": "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus.",
+     "label_version": "2022-09-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "651f6fee-a2c7-431b-8d5d-58b156c72244",
+     "translation": "Desmopressinacetat erhöht bei Patienten mit Hämophilie und von-Willebrand-Syndrom Typ I die Plasmaspiegel der Faktor-VIII-Aktivität. Die antidiuretischen Wirkungen von Desmopressinacetat werden durch Stimulation von Vasopressin-2-(V2-)Rezeptoren vermittelt, wodurch die Wasserrückresorption in der Niere erhöht und somit die Harnproduktion verringert wird. Desmopressinacetat ist bei der Behandlung des zentralen Diabetes insipidus ein Ersatzhormon für das antidiuretische Hormon.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-diazoxidum-2",
+   "drug": "diazoxidum",
+   "file": "diazoxidum.md",
+   "action": "mechanism",
+   "claim": "Der Wirkmechanismus ist in den Daten nicht dokumentiert, und die Sicherheitsangaben aus der Fachinformation fehlen.",
+   "replacement": "Laut dem Abschnitt „Clinical Pharmacology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Diazoxidum (inoffizielle Übersetzung): „PROGLYCEM bewirkt einen dosisabhängigen Anstieg des Blutzuckers, der hauptsächlich auf eine Hemmung der Insulinfreisetzung aus dem Pankreas und zudem auf eine extrapankreatische Wirkung zurückzuführen ist. Die hyperglykämische Wirkung von PROGLYCEM setzt innerhalb einer Stunde ein und hält bei normaler Nierenfunktion im Allgemeinen nicht länger als 8 Stunden an.“ Englischer Originalwortlaut: \"PROGLYCEM produces a dose-related increase in blood glucose, due primarily to an inhibition of insulin release from the pancreas, and also to an extrapancreatic effect. The hyperglycemic effect of PROGLYCEM begins within an hour and generally lasts no more than 8 hours in the presence of normal renal function.\" ([DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2), Fassung vom 2026-10-06; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2",
+     "accessed": "2026-11-20",
+     "excerpt": "PROGLYCEM produces a dose-related increase in blood glucose, due primarily to an inhibition of insulin release from the pancreas, and also to an extrapancreatic effect. The hyperglycemic effect of PROGLYCEM begins within an hour and generally lasts no more than 8 hours in the presence of normal renal function.",
+     "label_version": "2026-10-06",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "b16c7832-2fd9-49af-b923-1dc0d91fd6e2",
+     "translation": "PROGLYCEM bewirkt einen dosisabhängigen Anstieg des Blutzuckers, der hauptsächlich auf eine Hemmung der Insulinfreisetzung aus dem Pankreas und zudem auf eine extrapankreatische Wirkung zurückzuführen ist. Die hyperglykämische Wirkung von PROGLYCEM setzt innerhalb einer Stunde ein und hält bei normaler Nierenfunktion im Allgemeinen nicht länger als 8 Stunden an.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-enzalutamidum-2",
+   "drug": "enzalutamidum",
+   "file": "enzalutamidum.md",
+   "action": "mechanism",
+   "claim": "Der Wirkmechanismus ist für diese seltene gutartige Erkrankung nicht belegt, und die Sicherheitsdaten aus der Fachinformation fehlen noch.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Enzalutamidum (inoffizielle Übersetzung): „Enzalutamid ist ein Androgenrezeptor-Inhibitor, der auf verschiedene Schritte des Androgenrezeptor-Signalwegs wirkt. Es wurde gezeigt, dass Enzalutamid die Bindung von Androgenen an Androgenrezeptoren kompetitiv hemmt und infolgedessen die nukleäre Translokation von Androgenrezeptoren und deren Interaktion mit der DNA hemmt.“ Englischer Originalwortlaut: \"Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA.\" ([DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf), Fassung vom 2026-07-28; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf",
+     "accessed": "2026-11-20",
+     "excerpt": "Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA.",
+     "label_version": "2026-07-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf",
+     "translation": "Enzalutamid ist ein Androgenrezeptor-Inhibitor, der auf verschiedene Schritte des Androgenrezeptor-Signalwegs wirkt. Es wurde gezeigt, dass Enzalutamid die Bindung von Androgenen an Androgenrezeptoren kompetitiv hemmt und infolgedessen die nukleäre Translokation von Androgenrezeptoren und deren Interaktion mit der DNA hemmt.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-esketaminum-2",
+   "drug": "esketaminum",
+   "file": "esketaminum.md",
+   "action": "mechanism",
+   "claim": "Die Sicherheitsdaten aus der Fachinformation fehlen, und der Wirkmechanismus ist nicht dokumentiert.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Esketaminum (inoffizielle Übersetzung): „Esketamin, das S-Enantiomer des racemischen Ketamins, ist ein nichtselektiver, nichtkompetitiver Antagonist des N -Methyl- D -Aspartat(NMDA)-Rezeptors, eines ionotropen Glutamatrezeptors. Der Mechanismus, über den Esketamin seine antidepressive Wirkung entfaltet, ist nicht bekannt.“ Englischer Originalwortlaut: \"Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown.\" ([DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed), Fassung vom 2026-09-22; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+     "accessed": "2026-11-20",
+     "excerpt": "Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown.",
+     "label_version": "2026-09-22",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+     "translation": "Esketamin, das S-Enantiomer des racemischen Ketamins, ist ein nichtselektiver, nichtkompetitiver Antagonist des N -Methyl- D -Aspartat(NMDA)-Rezeptors, eines ionotropen Glutamatrezeptors. Der Mechanismus, über den Esketamin seine antidepressive Wirkung entfaltet, ist nicht bekannt.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-gefitinibum-2",
+   "drug": "gefitinibum",
+   "file": "gefitinibum.md",
+   "action": "mechanism",
+   "claim": "Die Sicherheitsdaten aus der Fachinformation und die Angaben zum Wirkmechanismus fehlen noch, sodass eine Sicherheitsbewertung nicht möglich ist.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Gefitinibum (inoffizielle Übersetzung): „Der epidermale Wachstumsfaktorrezeptor (EGFR) wird auf der Zelloberfläche sowohl normaler Zellen als auch von Krebszellen exprimiert und spielt eine Rolle bei Prozessen des Zellwachstums und der Zellproliferation. Bestimmte aktivierende EGFR-Mutationen (Exon-19-Deletion oder Exon-21-Punktmutation L858R) in NSCLC-Zellen wurden als Faktoren identifiziert, die zur Förderung des Tumorzellwachstums, zur Blockade der Apoptose, zur Steigerung der Produktion angiogener Faktoren und zur Erleichterung der Metastasierungsprozesse beitragen. […] Gefitinib hemmt reversibel die Kinaseaktivität von EGFR-Wildtyp und bestimmten aktivierenden EGFR-Mutationen, verhindert die Autophosphorylierung rezeptorassoziierter Tyrosinreste und hemmt dadurch die weitere nachgeschaltete Signalübertragung und blockiert die EGFR-abhängige Proliferation.“ Englischer Originalwortlaut: \"The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. […] Gefitinib reversibly inhibits the kinase activity of wild-type and certain activating mutations of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor, thereby inhibiting further downstream signaling and blocking EGFR-dependent proliferation.\" ([DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41), Fassung vom 2023-02-28; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41",
+     "accessed": "2026-11-20",
+     "excerpt": "The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. […] Gefitinib reversibly inhibits the kinase activity of wild-type and certain activating mutations of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor, thereby inhibiting further downstream signaling and blocking EGFR-dependent proliferation.",
+     "label_version": "2023-02-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "827d60e8-7e07-41b7-c28b-49ef1c4a5a41",
+     "translation": "Der epidermale Wachstumsfaktorrezeptor (EGFR) wird auf der Zelloberfläche sowohl normaler Zellen als auch von Krebszellen exprimiert und spielt eine Rolle bei Prozessen des Zellwachstums und der Zellproliferation. Bestimmte aktivierende EGFR-Mutationen (Exon-19-Deletion oder Exon-21-Punktmutation L858R) in NSCLC-Zellen wurden als Faktoren identifiziert, die zur Förderung des Tumorzellwachstums, zur Blockade der Apoptose, zur Steigerung der Produktion angiogener Faktoren und zur Erleichterung der Metastasierungsprozesse beitragen. […] Gefitinib hemmt reversibel die Kinaseaktivität von EGFR-Wildtyp und bestimmten aktivierenden EGFR-Mutationen, verhindert die Autophosphorylierung rezeptorassoziierter Tyrosinreste und hemmt dadurch die weitere nachgeschaltete Signalübertragung und blockiert die EGFR-abhängige Proliferation.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-heparinum_natricum-2",
+   "drug": "heparinum_natricum",
+   "file": "heparinum_natricum.md",
+   "action": "mechanism",
+   "claim": "Die Sicherheitsdaten aus der Schweizer Fachinformation fehlen, und der Wirkmechanismus ist in den Daten nicht erfasst.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Heparinum Natricum (inoffizielle Übersetzung): „Heparin interagiert mit dem natürlich vorkommenden Plasmaprotein Antithrombin III und induziert eine Konformationsänderung, die die Serinprotease-Aktivität von Antithrombin III deutlich verstärkt, wodurch die an der Endsequenz beteiligten aktivierten Gerinnungsfaktoren, insbesondere Xa und IIa, gehemmt werden. Geringe Mengen Heparin hemmen Faktor Xa, größere Mengen hemmen Thrombin (Faktor IIa).“ Englischer Originalwortlaut: \"Heparin interacts with the naturally occurring plasma protein, antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of antithrombin III, thereby inhibiting the activated coagulation factors involved in the closing sequence, particularly Xa and IIa. Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa).\" ([DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e), Fassung vom 2026-05-25; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e",
+     "accessed": "2026-11-20",
+     "excerpt": "Heparin interacts with the naturally occurring plasma protein, antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of antithrombin III, thereby inhibiting the activated coagulation factors involved in the closing sequence, particularly Xa and IIa. Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa).",
+     "label_version": "2026-05-25",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "eede8a0c-5ae6-4166-84b3-12081405f08e",
+     "translation": "Heparin interagiert mit dem natürlich vorkommenden Plasmaprotein Antithrombin III und induziert eine Konformationsänderung, die die Serinprotease-Aktivität von Antithrombin III deutlich verstärkt, wodurch die an der Endsequenz beteiligten aktivierten Gerinnungsfaktoren, insbesondere Xa und IIa, gehemmt werden. Geringe Mengen Heparin hemmen Faktor Xa, größere Mengen hemmen Thrombin (Faktor IIa).",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-lamotriginum-2",
+   "drug": "lamotriginum",
+   "file": "lamotriginum.md",
+   "action": "mechanism",
+   "claim": "Die Angaben zum Wirkmechanismus und die Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation, die derzeit fehlen",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Lamotriginum (inoffizielle Übersetzung): „Der/die genaue(n) Mechanismus/Mechanismen, über den/die Lamotrigin seine antikonvulsive Wirkung entfaltet, ist/sind nicht bekannt. In Tiermodellen zum Nachweis antikonvulsiver Aktivität verhinderte Lamotrigin wirksam die Ausbreitung von Krampfanfällen im maximalen Elektroschocktest (MES) und im Pentylentetrazol-Test (scMet) und verhinderte Krampfanfälle in den Tests auf visuell und elektrisch evozierte Nachentladungen (EEAD) zur Prüfung der antiepileptischen Aktivität.“ Englischer Originalwortlaut: \"The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity.\" ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), Fassung vom 2026-10-12; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4",
+     "accessed": "2026-11-20",
+     "excerpt": "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity.",
+     "label_version": "2026-10-12",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "474fb321-575c-4b97-9dbe-080061652ee4",
+     "translation": "Der/die genaue(n) Mechanismus/Mechanismen, über den/die Lamotrigin seine antikonvulsive Wirkung entfaltet, ist/sind nicht bekannt. In Tiermodellen zum Nachweis antikonvulsiver Aktivität verhinderte Lamotrigin wirksam die Ausbreitung von Krampfanfällen im maximalen Elektroschocktest (MES) und im Pentylentetrazol-Test (scMet) und verhinderte Krampfanfälle in den Tests auf visuell und elektrisch evozierte Nachentladungen (EEAD) zur Prüfung der antiepileptischen Aktivität.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-levofloxacinum-2",
+   "drug": "levofloxacinum",
+   "file": "levofloxacinum.md",
+   "action": "mechanism",
+   "claim": "Ein plausibler Wirkmechanismus fehlt, und der hohe Vorhersagewert wird durch keine klinischen Daten gestützt.",
+   "replacement": "Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Levofloxacinum (inoffizielle Übersetzung): „Levofloxacin gehört zur Klasse der Fluorchinolon-Antibiotika. […] Levofloxacin ist das L-Isomer des Racemats Ofloxacin, eines antimikrobiellen Chinolon-Wirkstoffs. Die antibakterielle Aktivität von Ofloxacin beruht hauptsächlich auf dem L-Isomer. Der Wirkmechanismus von Levofloxacin und anderen antimikrobiellen Fluorchinolonen beruht auf der Hemmung der bakteriellen Topoisomerase IV und der DNA-Gyrase (beides Typ-II-Topoisomerasen), Enzymen, die für DNA-Replikation, Transkription, Reparatur und Rekombination erforderlich sind.“ Englischer Originalwortlaut: \"Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.\" ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), Fassung vom 2026-11-05; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5",
+     "accessed": "2026-11-20",
+     "excerpt": "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.",
+     "label_version": "2026-11-05",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "814450ae-439e-4a5d-8c60-9b21b6f14be5",
+     "translation": "Levofloxacin gehört zur Klasse der Fluorchinolon-Antibiotika. […] Levofloxacin ist das L-Isomer des Racemats Ofloxacin, eines antimikrobiellen Chinolon-Wirkstoffs. Die antibakterielle Aktivität von Ofloxacin beruht hauptsächlich auf dem L-Isomer. Der Wirkmechanismus von Levofloxacin und anderen antimikrobiellen Fluorchinolonen beruht auf der Hemmung der bakteriellen Topoisomerase IV und der DNA-Gyrase (beides Typ-II-Topoisomerasen), Enzymen, die für DNA-Replikation, Transkription, Reparatur und Rekombination erforderlich sind.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-methylphenidati_hydrochloridum-2",
+   "drug": "methylphenidati_hydrochloridum",
+   "file": "methylphenidati_hydrochloridum.md",
+   "action": "mechanism",
+   "claim": "Eine nachvollziehbare mechanistische Begründung (Wirkmechanismus-Daten fehlen derzeit)",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Methylphenidati Hydrochloridum (inoffizielle Übersetzung): „Methylphenidathydrochlorid ist ein Stimulans des Zentralnervensystems (ZNS). Die Art der therapeutischen Wirkung von METADATE CD bei der Behandlung von ADHS bei pädiatrischen Patienten ab 6 Jahren ist nicht bekannt. Methylphenidat blockiert die Wiederaufnahme von Noradrenalin und Dopamin in das präsynaptische Neuron und erhöht die Freisetzung dieser Monoamine in den extraneuronalen Raum.“ Englischer Originalwortlaut: \"Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.\" ([DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4), Fassung vom 2026-10-21; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4",
+     "accessed": "2026-11-20",
+     "excerpt": "Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.",
+     "label_version": "2026-10-21",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "29f06562-6b6a-4ca6-b62e-d08a45fb3dd4",
+     "translation": "Methylphenidathydrochlorid ist ein Stimulans des Zentralnervensystems (ZNS). Die Art der therapeutischen Wirkung von METADATE CD bei der Behandlung von ADHS bei pädiatrischen Patienten ab 6 Jahren ist nicht bekannt. Methylphenidat blockiert die Wiederaufnahme von Noradrenalin und Dopamin in das präsynaptische Neuron und erhöht die Freisetzung dieser Monoamine in den extraneuronalen Raum.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-rizatriptanum-2",
+   "drug": "rizatriptanum",
+   "file": "rizatriptanum.md",
+   "action": "mechanism",
+   "claim": "Sicherheitsdaten aus der Fachinformation und Angaben zum Wirkmechanismus fehlen in den vorliegenden Daten.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Rizatriptanum (inoffizielle Übersetzung): „Rizatriptan bindet mit hoher Affinität an humane klonierte 5-HT 1B/1D-Rezeptoren. Rizatriptan entfaltet seine therapeutische Wirkung bei der Behandlung von Migränekopfschmerzen vermutlich durch Bindung an 5-HT 1B/1D-Rezeptoren, die sich an intrakraniellen Blutgefäßen und sensorischen Nerven des Trigeminussystems befinden.“ Englischer Originalwortlaut: \"Rizatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Rizatriptan presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.\" ([DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce), Fassung vom 2025-11-26; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce",
+     "accessed": "2026-11-20",
+     "excerpt": "Rizatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Rizatriptan presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.",
+     "label_version": "2025-11-26",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "f000d96c-42a0-4aac-96ca-8cef289979ce",
+     "translation": "Rizatriptan bindet mit hoher Affinität an humane klonierte 5-HT 1B/1D-Rezeptoren. Rizatriptan entfaltet seine therapeutische Wirkung bei der Behandlung von Migränekopfschmerzen vermutlich durch Bindung an 5-HT 1B/1D-Rezeptoren, die sich an intrakraniellen Blutgefäßen und sensorischen Nerven des Trigeminussystems befinden.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-ropinirolum-2",
+   "drug": "ropinirolum",
+   "file": "ropinirolum.md",
+   "action": "mechanism",
+   "claim": "Die Sicherheitsdaten aus der Fachinformation fehlen, und der Wirkmechanismus ist in den Daten nicht dokumentiert.",
+   "replacement": "Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Ropinirolum (inoffizielle Übersetzung): „Ropinirol ist ein Non-Ergolin-Dopaminagonist. Der genaue Wirkmechanismus von Ropinirol bei der Behandlung der Parkinson-Krankheit ist unbekannt, es wird jedoch angenommen, dass er mit seiner Fähigkeit zusammenhängt, Dopamin-D 2-Rezeptoren im Nucleus caudatus und Putamen des Gehirns zu stimulieren.“ Englischer Originalwortlaut: \"Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain.\" ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), Fassung vom 2026-11-06; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: ropinirole prescribing information, Bryant Ranch Prepack",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da",
+     "accessed": "2026-11-20",
+     "excerpt": "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain.",
+     "label_version": "2026-11-06",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "e9ba4108-7095-4771-840e-bf1e08b5f4da",
+     "translation": "Ropinirol ist ein Non-Ergolin-Dopaminagonist. Der genaue Wirkmechanismus von Ropinirol bei der Behandlung der Parkinson-Krankheit ist unbekannt, es wird jedoch angenommen, dass er mit seiner Fähigkeit zusammenhängt, Dopamin-D 2-Rezeptoren im Nucleus caudatus und Putamen des Gehirns zu stimulieren.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-vancomycinum-2",
+   "drug": "vancomycinum",
+   "file": "vancomycinum.md",
+   "action": "mechanism",
+   "claim": "Ergänzung der fehlenden Angaben zum Wirkmechanismus und zu Warnhinweisen und Kontraindikationen aus der Fachinformation",
+   "replacement": "Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Vancomycinum (inoffizielle Übersetzung): „Vancomycin ist ein antibakterieller Wirkstoff. […] Die bakterizide Wirkung von Vancomycin beruht in erster Linie auf der Hemmung der Zellwandbiosynthese. Darüber hinaus verändert Vancomycin die Permeabilität der bakteriellen Zellmembran und die RNA-Synthese.“ Englischer Originalwortlaut: \"Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.\" ([DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560), Fassung vom 2026-08-19; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560",
+     "accessed": "2026-11-20",
+     "excerpt": "Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.",
+     "label_version": "2026-08-19",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "72e9c5e2-07cc-4a8b-ba64-b2e7619ea560",
+     "translation": "Vancomycin ist ein antibakterieller Wirkstoff. […] Die bakterizide Wirkung von Vancomycin beruht in erster Linie auf der Hemmung der Zellwandbiosynthese. Darüber hinaus verändert Vancomycin die Permeabilität der bakteriellen Zellmembran und die RNA-Synthese.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "ch-moa-20261120-zidovudinum-2",
+   "drug": "zidovudinum",
+   "file": "zidovudinum.md",
+   "action": "mechanism",
+   "claim": "Vollständige Sicherheitsdaten aus der Fachinformation, die in den vorliegenden Daten fehlen, sowie Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank",
+   "replacement": "Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Zidovudinum (inoffizielle Übersetzung): „Zidovudin ist ein antiretroviraler Wirkstoff. […] Zidovudin ist ein synthetisches Nukleosidanalogon. Intrazellulär wird Zidovudin zu seinem aktiven 5′-Triphosphat-Metaboliten, Zidovudintriphosphat (ZDV-TP), phosphoryliert. Der hauptsächliche Wirkmechanismus von ZDV-TP ist die Hemmung der Reversen Transkriptase (RT) durch DNA-Kettenabbruch nach Einbau des Nukleotidanalogons.“ Englischer Originalwortlaut: \"Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.\" ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), Fassung vom 2024-11-13; abgerufen am 2026-11-20).",
+   "summary": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action; 12.4 Microbiology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84",
+     "accessed": "2026-11-20",
+     "excerpt": "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.",
+     "label_version": "2024-11-13",
+     "section": "12.1 Mechanism of Action; 12.4 Microbiology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "6df09f15-b102-431c-adde-d7aeef6f5d84",
+     "translation": "Zidovudin ist ein antiretroviraler Wirkstoff. […] Zidovudin ist ein synthetisches Nukleosidanalogon. Intrazellulär wird Zidovudin zu seinem aktiven 5′-Triphosphat-Metaboliten, Zidovudintriphosphat (ZDV-TP), phosphoryliert. Der hauptsächliche Wirkmechanismus von ZDV-TP ist die Hemmung der Reversen Transkriptase (RT) durch DNA-Kettenabbruch nach Einbau des Nukleotidanalogons.",
+     "translation_lang": "de",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
   }
  ]

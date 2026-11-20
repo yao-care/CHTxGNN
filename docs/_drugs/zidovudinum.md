@@ -109,7 +109,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 **Um fortzufahren, wird Folgendes benötigt:**
 - Kontrollierte, möglichst randomisierte veterinärmedizinische Studien mit klar definierten klinischen Endpunkten
 - Klärung, ob und auf welchem Weg eine tiermedizinische Verwendung regulatorisch vorgesehen ist
-- Vollständige Sicherheitsdaten aus der Fachinformation, die in den vorliegenden Daten fehlen, sowie Angaben zum Wirkmechanismus aus einer Arzneimitteldatenbank
+- Laut den Abschnitten „Mechanism of Action“ und „Microbiology“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Zidovudinum (inoffizielle Übersetzung): „Zidovudin ist ein antiretroviraler Wirkstoff. […] Zidovudin ist ein synthetisches Nukleosidanalogon. Intrazellulär wird Zidovudin zu seinem aktiven 5′-Triphosphat-Metaboliten, Zidovudintriphosphat (ZDV-TP), phosphoryliert. Der hauptsächliche Wirkmechanismus von ZDV-TP ist die Hemmung der Reversen Transkriptase (RT) durch DNA-Kettenabbruch nach Einbau des Nukleotidanalogons.“ Englischer Originalwortlaut: "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), Fassung vom 2024-11-13; abgerufen am 2026-11-20).
 
 <!-- review:begin log -->
 
@@ -120,6 +120,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
 
 <!-- review:end log -->
 

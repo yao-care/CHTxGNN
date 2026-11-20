@@ -61,7 +61,7 @@ Reboxetin ist ein selektiver Noradrenalin-Wiederaufnahmehemmer. Für den benigne
 
 ### Warum ist diese Vorhersage plausibel?
 
-Reboxetin hemmt gezielt die Wiederaufnahme von Noradrenalin. Laut ChEMBL (EMBL-EBI) ist für Reboxetinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Noradrenalin-Transporter-Inhibitor“ Englischer Originalwortlaut: "Norepinephrine transporter inhibitor" ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Reboxetin hemmt gezielt die Wiederaufnahme von Noradrenalin. Laut ChEMBL (EMBL-EBI) ist für Reboxetinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Noradrenalin-Transporter-Inhibitor“. Englischer Originalwortlaut: "Norepinephrine transporter inhibitor" ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Ein belastbarer mechanistischer Zusammenhang mit dem benignen paroxysmalen Torticollis des Säuglingsalters ist nicht erkennbar. Die Erkrankung ist selten, selbstlimitierend und tritt im Säuglingsalter auf. Sie wird mit Veränderungen im Kalziumkanal-Gen CACNA1A in Verbindung gebracht. Warum ein Hemmer der Noradrenalin-Wiederaufnahme hier wirken sollte, ist unklar. Der hohe Vorhersagewert beruht allein auf Mustern im Modell und nicht auf biologischen oder klinischen Belegen.
 
@@ -109,7 +109,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370) |
 
 <!-- review:end log -->
 

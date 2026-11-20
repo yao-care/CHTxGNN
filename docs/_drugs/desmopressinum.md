@@ -111,7 +111,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Systematische Literaturrecherche zu Desmopressin bei angeborenem Prothrombinmangel (Fallberichte, Kohorten)
-- Ergänzung der fehlenden Angaben zum Wirkmechanismus
+- Laut dem Abschnitt „Mechanism of Action“ der von der US-amerikanischen FDA genehmigten Fachinformation (Prescribing Information) für Desmopressinum (inoffizielle Übersetzung): „Desmopressinacetat erhöht bei Patienten mit Hämophilie und von-Willebrand-Syndrom Typ I die Plasmaspiegel der Faktor-VIII-Aktivität. Die antidiuretischen Wirkungen von Desmopressinacetat werden durch Stimulation von Vasopressin-2-(V2-)Rezeptoren vermittelt, wodurch die Wasserrückresorption in der Niere erhöht und somit die Harnproduktion verringert wird. Desmopressinacetat ist bei der Behandlung des zentralen Diabetes insipidus ein Ersatzhormon für das antidiuretische Hormon.“ Englischer Originalwortlaut: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), Fassung vom 2022-09-28; abgerufen am 2026-11-20).
 - Auswertung der Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation
 - Klärung, ob ein Nutzen über die Freisetzung von VWF und Faktor VIII überhaupt plausibel ist, verglichen mit der Standardtherapie (Prothrombinkomplex-Konzentrat, Plasma)
 
@@ -124,6 +124,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
+| 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
 
 <!-- review:end log -->
 

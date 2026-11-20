@@ -59,7 +59,7 @@ Moxonidin ist in der Schweiz als blutdrucksenkendes Arzneimittel zugelassen. Fü
 
 ### Warum ist diese Vorhersage plausibel?
 
-Moxonidin wirkt als Agonist an Imidazolin-I1-Rezeptoren und Alpha-2-Rezeptoren und senkt dadurch die Aktivität des sympathischen Nervensystems. Laut ChEMBL (EMBL-EBI) ist für Moxonidinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Nischarin-Agonist“ Englischer Originalwortlaut: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; abgerufen am 2026-11-19).
+Moxonidin wirkt als Agonist an Imidazolin-I1-Rezeptoren und Alpha-2-Rezeptoren und senkt dadurch die Aktivität des sympathischen Nervensystems. Laut ChEMBL (EMBL-EBI) ist für Moxonidinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Nischarin-Agonist“. Englischer Originalwortlaut: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; abgerufen am 2026-11-19).
 
 Hypotrichosis simplex ist eine genetisch bedingte Erkrankung der Haarfollikel (z. B. Varianten in CDSN, APCDD1, RPL21). Ein plausibler Weg, wie eine zentrale Dämpfung des Sympathikus die Biologie des Haarfollikels beeinflussen könnte, ist nicht bekannt.
 
@@ -95,7 +95,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
 
 <!-- review:end log -->
 

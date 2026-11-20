@@ -59,7 +59,7 @@ Carbetocin ist ein lang wirksamer Oxytocin-Rezeptor-Agonist, der in der Schweiz 
 
 ### Warum ist diese Vorhersage plausibel?
 
-Aus den vorliegenden Daten lässt sich kein Wirkmechanismus-Zusammenhang herleiten. Laut ChEMBL (EMBL-EBI) ist für Carbetocinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Oxytocin-Rezeptor-Agonist“ Englischer Originalwortlaut: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; abgerufen am 2026-11-19). Bekannt ist, dass Carbetocin am Oxytocin-Rezeptor wirkt.
+Aus den vorliegenden Daten lässt sich kein Wirkmechanismus-Zusammenhang herleiten. Laut ChEMBL (EMBL-EBI) ist für Carbetocinum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Oxytocin-Rezeptor-Agonist“. Englischer Originalwortlaut: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; abgerufen am 2026-11-19). Bekannt ist, dass Carbetocin am Oxytocin-Rezeptor wirkt.
 
 Das Isotretinoin-ähnliche Syndrom ist eine Entwicklungsstörung, die einem durch Retinoide verursachten Fehlbildungsmuster entspricht. Ein plausibler, über den Oxytocin-Rezeptor vermittelter Behandlungsansatz ist dafür nicht erkennbar.
 
@@ -115,7 +115,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
 
 <!-- review:end log -->
 

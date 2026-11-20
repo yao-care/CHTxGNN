@@ -59,7 +59,7 @@ Minoxidil ist ein Arzneimittel zur Anwendung auf der Haut, das in der Schweiz mi
 
 ### Warum ist diese Vorhersage plausibel?
 
-Laut ChEMBL (EMBL-EBI) ist für Minoxidilum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Sulfonylharnstoff-Rezeptor 2, Kir6.2-Öffner“ Englischer Originalwortlaut: "Sulfonylurea receptor 2, Kir6.2 opener" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; abgerufen am 2026-11-19). Aus der Literatur ist bekannt, dass Minoxidil über seinen Sulfat-Metaboliten ATP-abhängige Kaliumkanäle (K-ATP) öffnet, die Wachstumsphase des Haares (Anagen) verlängert und möglicherweise die Durchblutung sowie die VEGF-Signalwege am Haarfollikel fördert.
+Laut ChEMBL (EMBL-EBI) ist für Minoxidilum folgender Wirkmechanismus erfasst (inoffizielle Übersetzung): „Sulfonylharnstoff-Rezeptor 2, Kir6.2-Öffner“. Englischer Originalwortlaut: "Sulfonylurea receptor 2, Kir6.2 opener" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; abgerufen am 2026-11-19). Aus der Literatur ist bekannt, dass Minoxidil über seinen Sulfat-Metaboliten ATP-abhängige Kaliumkanäle (K-ATP) öffnet, die Wachstumsphase des Haares (Anagen) verlängert und möglicherweise die Durchblutung sowie die VEGF-Signalwege am Haarfollikel fördert.
 
 Die Hypotrichosis simplex der Kopfhaut ist eine erbliche, nicht vernarbende Haarerkrankung, bei der die Haarfollikel zunehmend verkleinert werden (Miniaturisierung). Dieser Vorgang ähnelt dem Mechanismus, bei dem Minoxidil bereits zur Behandlung von Haarausfall eingesetzt wird. Daher ist es plausibel, dass die Anagen-verlängernde Wirkung auch hier nützlich sein könnte.
 
@@ -123,7 +123,7 @@ Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum W
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
+| 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->
 
