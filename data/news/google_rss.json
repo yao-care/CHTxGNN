@@ -1,26 +1,16 @@
 {
-  "fetched_at": "2026-11-22T07:42:49.891654+00:00",
+  "fetched_at": "2026-11-22T15:52:09.621572+00:00",
   "source": "Google News Health RSS",
   "count": 48,
   "articles": [
     {
-      "id": "1dacb27fc5b5",
-      "title": "\"Schreckliche\" Schmerzen für mehr Körpergröße? Warum Jugendliche Heightmaxxing machen - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkN3VC1kcEp4b0pZdHBrTWlYM0k5ajJrZ0gxZ1I0dEdLQ09DMURKUDFxbTM1bmU1MnlrUTBNQ0hQS3AtcGlLZFdfZ0NNaDBGYWx2dEJaRnZEZk1GZk5LMWc4dVZwRUd1X09nT2p1N3FhQkMtUEFMMERyUnBtTFFxclRVUWZQVG9hMWZ2eUVHbDB6SGs?oc=5",
-      "published": "2026-11-21T19:46:00+00:00",
+      "id": "98f7226e9e93",
+      "title": "Arzneimittel - EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmp1WkNSQ0ZIMUpvb2xKcGVIS2VJRHRNTklKVHU3VmpXZEh1RFZrZFYzYkF5Q1pIMDN4NmI0ZEdFRm4zVFl4Q1ctYmc1aTBhaFBLeFZfRDF5c3Q3aU8wYmdodkVlaGgyZlVxMlRPSktXVjVJQjdVRW9kc0dNakYwbFZSQjhkQUlwYlpqcHJfYXh1b0VWZmNaSVBsWXdyVUxENDlNNHJsSU1XX2ZMMTNwR3Q0Z3hwYXEyazk3RWl5V0RwRTN6YlVWYm9sV0hjbkRja0Q1VlJURTJFMDFMVFZpU21PVTVrOWJmaV9Xal9sSVYxQUE?oc=5",
+      "published": "2026-11-17T15:41:15+00:00",
       "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
-      }
-    },
-    {
-      "id": "dd7b65e200e3",
-      "title": "Gleiche Wirkweise wie Viagra – neues Medikament verlangsamt Alzheimer in Tests deutlich - WELT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2tSSHBPNkkzSnBRS21ucFFsLWFXWmNCYndJVnpHaEUtdHZLYk4xTzV2Y3NVSDVIV1NYVmZDYzNjWnZkcXFiaElEQXZkWmsycWEzTVBhV01DOV9uenJUay03SnNtV3hKN3FqRFpqanJqTW8waW5maEJuczYtMVk4dEJndU1Sei1UZGVOWk5SczJfakUzaXZySlcyUVBZQlpsVnM0Q0p5VG5mVjR3cVdPUWNWY1FSRnREQnFHWkd5Vm4yR2Y2Y3BVeTcySQ?oc=5",
-      "published": "2026-11-19T14:47:09+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -34,33 +24,13 @@
       }
     },
     {
-      "id": "98f7226e9e93",
-      "title": "Arzneimittel - EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Gesundheit - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmp1WkNSQ0ZIMUpvb2xKcGVIS2VJRHRNTklKVHU3VmpXZEh1RFZrZFYzYkF5Q1pIMDN4NmI0ZEdFRm4zVFl4Q1ctYmc1aTBhaFBLeFZfRDF5c3Q3aU8wYmdodkVlaGgyZlVxMlRPSktXVjVJQjdVRW9kc0dNakYwbFZSQjhkQUlwYlpqcHJfYXh1b0VWZmNaSVBsWXdyVUxENDlNNHJsSU1XX2ZMMTNwR3Q0Z3hwYXEyazk3RWl5V0RwRTN6YlVWYm9sV0hjbkRja0Q1VlJURTJFMDFMVFZpU21PVTVrOWJmaV9Xal9sSVYxQUE?oc=5",
-      "published": "2026-11-17T15:41:15+00:00",
+      "id": "1dacb27fc5b5",
+      "title": "\"Schreckliche\" Schmerzen für mehr Körpergröße? Warum Jugendliche Heightmaxxing machen - ZDFheute",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkN3VC1kcEp4b0pZdHBrTWlYM0k5ajJrZ0gxZ1I0dEdLQ09DMURKUDFxbTM1bmU1MnlrUTBNQ0hQS3AtcGlLZFdfZ0NNaDBGYWx2dEJaRnZEZk1GZk5LMWc4dVZwRUd1X09nT2p1N3FhQkMtUEFMMERyUnBtTFFxclRVUWZQVG9hMWZ2eUVHbDB6SGs?oc=5",
+      "published": "2026-11-21T19:46:00+00:00",
       "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
-    {
-      "id": "cb7bac03f4e5",
-      "title": "Krankenversicherung: Moderne Arzneimittel sind vielen Menschen wichtiger als stabile Beiträge - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa1RqRnJKaWFZX3hHVHVWLWF5X25aWXhuVVY3ajBmWl9FeFN2WkJyM0pOb3hKNVB1Q0h6VXIwems4MzJKb3NGbkVEZFhPTXF0MFBHQVBfR0NSckprem5vQWdfNGxUcnk3YzNuSFBlVkRTbUtCczhNRkQ4X3JTbmprVGRqVko1TDJlSFlmNGp3b3hTQm5pZ2FUQTUydmM3LXJTUjcwT3c1YXJxQmEtTkZDY25tMldUR2NtLXZTZGZfdjRpZzNsZDZUMU15NXQ3SVZvenM5Y3NXRktvbGc4bVRhMXVGVQ?oc=5",
-      "published": "2026-11-21T06:45:08+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
-      "id": "e988fd9cc7ac",
-      "title": "Vorschläge zur Änderung von sechs Gesetzen, die die Transparenz bei der Arzneimittelpreisgestaltung sowie bei medizinischen Untersuchungs- und Behandlungsleistungen erhöhen sollen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkZJc25Sc1pjc3ZRU3N3eUhCTl9STWpiWC1kYi1KbEpjMTItWW1MTDlyckMyaTlQTDAtQXA4VXU4Rlp4TDgzMm9Cc1dEaExoQlM3XzhFeUl1dkdidExYeHkxVktOV01naEV2QjN4Szc5RTJJZFdBNWwwdjJ6S21ET0tYY2RRSE5Rekt0Uy1yZXRaT3ZIWTRHMGJxbw?oc=5",
-      "published": "2026-11-21T13:31:31+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "ZDFheute",
+        "url": "https://www.zdfheute.de"
       }
     },
     {
@@ -94,6 +64,16 @@
       }
     },
     {
+      "id": "c3f15605c33a",
+      "title": "Krankenversicherung: Moderne Arzneimittel sind vielen Menschen wichtiger als stabile Beiträge - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTV3eTdTRG51TGJqOFVfVkVMQjh6RGlreHdncHR0elJHVGRmdFhHV0ExV3VESVB5a0hsb0NaWXBEYmZKby1fWFJZQUJiNnYxdTZwSnVvcUt2VmVWM2xGRGJKNXZfS00xNFpvcnJmdGtEcXVWQnlxb2pkZHR0RWxQbkJORHRuQ1JZRnFfU2VOY0o4VWhZYm9JSUQwRDdsRm95Q2RIM3hUMmZqT2hJN3BTUGxKaU5GdHU5bW8yWEZzN2pyUXZsM09kRk9mQU9CS1AzZlVGUVM2eVJoQWlFSnRlRW5Ddw?oc=5",
+      "published": "2026-11-21T06:45:08+00:00",
+      "source": {
+        "name": "Hamburger Abendblatt",
+        "url": "https://www.abendblatt.de"
+      }
+    },
+    {
       "id": "03b63ce6967a",
       "title": "Ärzte suchen mit KI nach Arzneimitteln - apotheke adhoc",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWR3ZjB2VnhlcHB5VWFYRUV6OURwMFBmbzdqc1dwY2M0djYwaTNSaDFBQVFhekp6dmlnSzh1MjVlOXowc2tfMFNUNzB3c0lqcm1Eb0xWazNYMDhlaE1IeGRBaFAzUHBHVV9KV2ZITExtX0dVdmdJc0ZsdUViaHJtSGlPLUViM2h2S2NMaG82WlRwdGVVcWlZS0tFMXBONzQ?oc=5",
@@ -124,6 +104,26 @@
       }
     },
     {
+      "id": "9f446628b029",
+      "title": "Medikamente: Forscher entdecken Faktor, der bei der Einnahme eine wichtige Rolle spielt - WELT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHgweEpmckFQT2hPS1FwallYNEdKTWJCdVY2NUE5NGlTdU9HUEJ1OGhfblM3Yl9qY0xXM3hFa0ZobDNOT3dpRjRYM2drRWVKTF9iZkV6Rk1jSms4RnJPZEt4bXlVYVNzQkhfMGVPMGt6Slg4N2plNGNzOTVzMmZ4UngzLTUtMzFoeVVXQUtkM0FfWUltT0pITU11WGlZWENiX3dOalR5OHl5SWpDSGtMUE1ITGFjMmMwU1A1bmp3V1hOTTBvVXZtUE1nVy14el8wYzBickZwc0pGbTVuXzJEd3NUNVdKRWdNbUJv?oc=5",
+      "published": "2026-11-18T06:50:03+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
+      }
+    },
+    {
+      "id": "e988fd9cc7ac",
+      "title": "Vorschläge zur Änderung von sechs Gesetzen, die die Transparenz bei der Arzneimittelpreisgestaltung sowie bei medizinischen Untersuchungs- und Behandlungsleistungen erhöhen sollen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkZJc25Sc1pjc3ZRU3N3eUhCTl9STWpiWC1kYi1KbEpjMTItWW1MTDlyckMyaTlQTDAtQXA4VXU4Rlp4TDgzMm9Cc1dEaExoQlM3XzhFeUl1dkdidExYeHkxVktOV01naEV2QjN4Szc5RTJJZFdBNWwwdjJ6S21ET0tYY2RRSE5Rekt0Uy1yZXRaT3ZIWTRHMGJxbw?oc=5",
+      "published": "2026-11-21T13:31:31+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "fd19fb723a3b",
       "title": "Adipositas-Therapie bei Kindern und Jugendlichen: WHO veröffentlicht neue Leitlinien - AerzteZeitung.de",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUhFNTBjcl9aVlplZHdRVmlpcks1SWMwUUhybDBFTmtKbzFFM3ZmOE9sM2tnLWYxbmU1RkRCTU9RNVBQbHo0cnNPU0p4bzlJeVo4bERzVF9yM3JRQzROUWhEYkRTNnJ3WV90ajhmcG1ycGlWMDJGSndkenhxYzRSRWR1em0yNWdRRXRvYnpmUURtSjRTOHZpM3I5LWdWdHFwckU4czUtLW81YXhxbEhUc3pqR0RmT1BWNXd4ZmVlaFVWaFJWU0I4Z2M1REJYYkJRX3BOS1J0Nng?oc=5",
@@ -144,10 +144,10 @@
       }
     },
     {
-      "id": "d3c8e33fb113",
-      "title": "SPD-Veranstaltung: ABDA kritisiert Missstände bei Arzneimittelzuzahlungen - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3plenZqam5qS1R0MUM0cGtNclY0ZFhGRTFwV2lVNmluLXRqOWp6V1pyVHE0TmRPNHJfbXBiTUh0VEN4Mm9lcG5rOW8zYUFSZHluaHNfZjk5andvSDU0ZUtyNXdQSXNkc2lHVDMtYnhSYTMyRlNZQm5YekR0cklwSHc5N3VrLUxiMlVXejlhVUk5OWpPOUt2ZVdjM3BBb0VCQWZiYQ?oc=5",
-      "published": "2026-11-17T15:45:00+00:00",
+      "id": "04e6135407ac",
+      "title": "Umsatz gesteigert: dm expandiert weiter in den Gesundheitssektor - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEh0NUhHUExQRVlteGplNVFSYk9UV3lUS21aU1NmU0JmbHAzRWo2WXBLVmpnMnlmS1dfNktBR1lKdlRGelRkTUhWMHAzN3VnMVljbG5lTWpJQXhnMDJ6aEZCbUd6bEdjcVAwRk9WeW5FYmd1ak5STTNBckdjTk1zazdSenZHSzdya3FneTZTd1ZWQVBJcGxF?oc=5",
+      "published": "2026-11-19T15:25:09+00:00",
       "source": {
         "name": "Pharmazeutische Zeitung",
         "url": "https://www.pharmazeutische-zeitung.de"
@@ -174,6 +174,26 @@
       }
     },
     {
+      "id": "1f713430b995",
+      "title": "\"Durchbruch\": EU lässt neues Medikament gegen aggressiven Krebs zu - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NmZlpocHg0bnBqUkVRMVlFZ1hZMlg0ZW1pWVphanEwOGI5R0RYdldCTGtSYXhCNkc0QldjRnRubFBkd3d4dUxaWlN6SUJGT0lFMllqVUZ0Y2p1NThxWTZKN3JsTGFRUlJHNW5NRUJFdGM3YWNUcjhxQUlpN3lzZ2MyMnFFeEZlc21NRVhfYnY3Vy1aay1OdEJZRC1UN1FBQmlvdWN5WWpHMWlLdTAxcHFPUENfUUZDbUE?oc=5",
+      "published": "2026-11-17T15:42:18+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
+      }
+    },
+    {
+      "id": "d3c8e33fb113",
+      "title": "SPD-Veranstaltung: ABDA kritisiert Missstände bei Arzneimittelzuzahlungen - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3plenZqam5qS1R0MUM0cGtNclY0ZFhGRTFwV2lVNmluLXRqOWp6V1pyVHE0TmRPNHJfbXBiTUh0VEN4Mm9lcG5rOW8zYUFSZHluaHNfZjk5andvSDU0ZUtyNXdQSXNkc2lHVDMtYnhSYTMyRlNZQm5YekR0cklwSHc5N3VrLUxiMlVXejlhVUk5OWpPOUt2ZVdjM3BBb0VCQWZiYQ?oc=5",
+      "published": "2026-11-17T15:45:00+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
+      }
+    },
+    {
       "id": "49e5b4e2e2e1",
       "title": "Infektionen müssen bekämpft und Antibiotika sachgemäß eingesetzt werden, um Patienten zu schützen. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUThGdzF2dGJWRndpSk15X2V6dG1zUmJpVlVQTmk2Rkp5aFJHNEhiOWsxNWMwcE5KclhXZWNPSE0zY2podGdESXMxM1p4RklTWC1ySzJ3dzRnelpGUnFidWN2TjRibW5MTkJSMVM2TXRleVd6Y0VHekotZ0h5WTFaZ09adnlHRzR2QjBuS1BtbUVrdlN2Qnl3djBn?oc=5",
@@ -184,23 +204,13 @@
       }
     },
     {
-      "id": "31725fa6c2a9",
-      "title": "Abnehmspritze schwächt Antibabypille: EMA warnt vor ungewollter Schwangerschaft - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckc5aWhsSEEySmZ4UkE2MWxwdUhqMWc2TlBxQlN2QklkT2hGVXJOby1iV1lJS25tQ1ZUdU9uTGZnMWg5WW1fN2tqSllVNTNCUjM1blY1ei1PRG96djdpdTV3WXEtUkJsX3JCbUhjSnFGUTJTRzNTSnB1OVRYVWUtaFhkMEFkNThaVzdfSk1MNmJaMHFOT2RmYzdWOWpROEVMNzA1eXl3MzhYTGpDSWlYV0ZEbWtHU1FuR1ZpQzd0al8?oc=5",
-      "published": "2026-11-17T16:53:59+00:00",
+      "id": "eb5ff0720f65",
+      "title": "Bisher nur für Privatversicherte: Gibt es die Abnehmspritze bald auch für Kassenpatienten? - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExEdGpqRmNIQjMtT2dMeTZNU2tQRlhlcEhGd1BBMGFuaDFCSFRtY1JHdXFISHh6YVc5SmVLTjJBYmFyX2stMzRkZjhWMUhkYzlrWVVVcF9GeTY3Yk5KaF83SVhaaUluMnZndUF1dXNYTUpfbDFVVVpPR2llaGM1TXB0WGpRckVvaERoeUgwcy04WnJjTHdxODhTUjBmVkdpa21LdUVHUW1BR045RkliSEJhZnh4bHJ1M0VFUlNzQkxBUUU1ZThqNTRRZGM3LVFiaWptVVlZVF9nbS0yOU5BTA?oc=5",
+      "published": "2026-11-22T13:13:48+00:00",
       "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
-      }
-    },
-    {
-      "id": "1f713430b995",
-      "title": "\"Durchbruch\": EU lässt neues Medikament gegen aggressiven Krebs zu - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NmZlpocHg0bnBqUkVRMVlFZ1hZMlg0ZW1pWVphanEwOGI5R0RYdldCTGtSYXhCNkc0QldjRnRubFBkd3d4dUxaWlN6SUJGT0lFMllqVUZ0Y2p1NThxWTZKN3JsTGFRUlJHNW5NRUJFdGM3YWNUcjhxQUlpN3lzZ2MyMnFFeEZlc21NRVhfYnY3Vy1aay1OdEJZRC1UN1FBQmlvdWN5WWpHMWlLdTAxcHFPUENfUUZDbUE?oc=5",
-      "published": "2026-11-17T15:42:18+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
       }
     },
     {
@@ -214,16 +224,6 @@
       }
     },
     {
-      "id": "5778408597ae",
-      "title": "Abnehmspritze: Warum Forscher bereits an neuen Wirkstoffen arbeiten - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFlIWU1SWGF6bVFRSkFxS2F6bFkyUEZ5UVV0TWRkcTRub1lUTDUyOVdia01nSGdYcksyZWVMcU9uMmZBd3hwdy1LNHZjVGxmbjMyekh4c09BUXN6Qlk4NmhkU1owdDc0WWotVGdlSGtISW1lRFlBVng1QmgzWC1KRWtIeUJYY0I2Zm8xWWtpNDRqU18zZW9GUDVvZERjYklSdVZ3R2ltMmFZMnF4d0t4TGZVaw?oc=5",
-      "published": "2026-11-15T11:06:00+00:00",
-      "source": {
-        "name": "STERN.de",
-        "url": "https://www.stern.de"
-      }
-    },
-    {
       "id": "51e8c4b74840",
       "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
@@ -231,16 +231,6 @@
       "source": {
         "name": "Gesundheit.gv.at",
         "url": "https://www.gesundheit.gv.at"
-      }
-    },
-    {
-      "id": "8e5c24d34456",
-      "title": "Sensibilisierung für das Thema Antibiotikaresistenz. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PdlhsMmQtU1RUWHI4S0NZT0l3ZzBHbkhza2FQRzM1WkFkRjhHMzJCNDZRM2pYdGUwYzFQS1VMcFZvOVJlcHF4eUtlV1VTUDdQV0hqd0dLLTh4SENHTl9PLXl6Zld4LTMyUGkw?oc=5",
-      "published": "2026-11-18T11:33:02+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -284,16 +274,6 @@
       }
     },
     {
-      "id": "f83376853509",
-      "title": "Darum bekommst du in der Apotheke oft ein anderes Medikament - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yLWlvSEFkbHIySHhVTTFrOTNmSUlJa3BzQ1JneUlZT1BTYUdOaUJ6a2NzdXAyT2NzZ2hob1lLY1NzZ3RKQm9WWUxXRUdsdnR2QjdYdkNXU21DWk81VnNVbjFEaFdqOG1xYVZCVnUyZFRtemg2VU1Fd29ManQ?oc=5",
-      "published": "2026-11-16T10:09:21+00:00",
-      "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
-      }
-    },
-    {
       "id": "c0b0a62f1c7c",
       "title": "Stellvertretender Gesundheitsminister: Selbst nach dem Überstehen einer lebensbedrohlichen Situation ist der Tod aufgrund antibiotikaresistenter Bakterien immer noch möglich. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXpQRTFBSzgtanNFVFlRc19teDBpTDR1blp0WE9QbzdQWGF4TGtlczFDUjVvbHZGWWpkU0tPV2FIS3RxT29vZlZ6Tk00b0w1YWZkcWdTd1FUN2RhYWVoam9aNWJfVWVMNFJVX3VWZHBQbS1rQTdIZFlDR0IwUHJ0NWdvSWpGaUZiOHpxbG1RaXRDaHFnNlE1b2wtUHc2X1cw?oc=5",
@@ -304,13 +284,13 @@
       }
     },
     {
-      "id": "98c219323512",
-      "title": "Ge­sund­heit ist Zu­kunfts­feld für dm - An­ge­bot wird aus­ge­baut - Die Rheinpfalz",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYmwwZmZfamlPZkJ6STlBZVNnRXNEMTI3YWc4aXhaQmFXNTRickNKMHY0NDB3cDlzT1I0SWt3V3lFMnpiUXVlaWQ4QVQ1MnJPYnA2cnFELWZEWkdzbjY4UDFRSEUwX1pCdGYtU28wUUN4TGg0WU9jNS14N1g2bmhSbzNBYTVYMWlIcDJLRkdFX0s5NDd4Rk9fWmRXU053UW00cUk2c3pRRVIyRXZMOEJHSjJqcnlicDBvTjBYOS05ZmxDMm5KZEE?oc=5",
-      "published": "2026-11-19T11:02:00+00:00",
+      "id": "f83376853509",
+      "title": "Darum bekommst du in der Apotheke oft ein anderes Medikament - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yLWlvSEFkbHIySHhVTTFrOTNmSUlJa3BzQ1JneUlZT1BTYUdOaUJ6a2NzdXAyT2NzZ2hob1lLY1NzZ3RKQm9WWUxXRUdsdnR2QjdYdkNXU21DWk81VnNVbjFEaFdqOG1xYVZCVnUyZFRtemg2VU1Fd29ManQ?oc=5",
+      "published": "2026-11-16T10:09:21+00:00",
       "source": {
-        "name": "Die Rheinpfalz",
-        "url": "https://www.rheinpfalz.de"
+        "name": "WEB.DE",
+        "url": "https://web.de"
       }
     },
     {
@@ -321,16 +301,6 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
-      }
-    },
-    {
-      "id": "e78d4407f29c",
-      "title": "Hypokaliämie nach 4 Tagen Selbstmedikation mit Knochen- und Gelenkmedikamenten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkcTBUSVVqSGhRWUI1WnlPTUZMaWFQTHlGMS0tX202UEM2SWw2Wk94V0lvTUJCU1BzbURSVEw4eXV4dThkOWhxY3diUVVzY2JpN0U2TEpKdnlWWmU1SW1XaVBUSnNXZHctM2xUS0ZqSFltNHZ3MXVZTUJmNW1qQQ?oc=5",
-      "published": "2026-11-22T06:48:27+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -351,6 +321,26 @@
       "source": {
         "name": "Bundesministerium für Gesundheit (BMG)",
         "url": "https://www.bundesgesundheitsministerium.de"
+      }
+    },
+    {
+      "id": "b0ddbbc7038c",
+      "title": "Medikamente: Antibiotika-Mythen: Was stimmt - und was nicht? - Mitteldeutsche Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVUwdUxMcFdHQnZvT1NrZkEtMHFoNFR5SWRUd1pmbWJPS1ZydHY2MlRpUlZ3Q2F6Q1oxUmZGa0YzLTVKakZWOGxqMlprNGNJR0UxS1htZG81MFJIQnhGbmo1WDN3a1F1eGZsUG1TMm4tbmdxc215RGJyS2FJbGFFNDktal80aDQzdXZvUFpfOA?oc=5",
+      "published": "2026-11-17T12:15:00+00:00",
+      "source": {
+        "name": "Mitteldeutsche Zeitung",
+        "url": "https://www.mz.de"
+      }
+    },
+    {
+      "id": "e78d4407f29c",
+      "title": "Hypokaliämie nach 4 Tagen Selbstmedikation mit Knochen- und Gelenkmedikamenten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkcTBUSVVqSGhRWUI1WnlPTUZMaWFQTHlGMS0tX202UEM2SWw2Wk94V0lvTUJCU1BzbURSVEw4eXV4dThkOWhxY3diUVVzY2JpN0U2TEpKdnlWWmU1SW1XaVBUSnNXZHctM2xUS0ZqSFltNHZ3MXVZTUJmNW1qQQ?oc=5",
+      "published": "2026-11-22T06:48:27+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -401,6 +391,16 @@
       "source": {
         "name": "www.interpharma.ch",
         "url": "https://www.interpharma.ch"
+      }
+    },
+    {
+      "id": "dd7b65e200e3",
+      "title": "Gleiche Wirkweise wie Viagra – neues Medikament verlangsamt Alzheimer in Tests deutlich - WELT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2tSSHBPNkkzSnBRS21ucFFsLWFXWmNCYndJVnpHaEUtdHZLYk4xTzV2Y3NVSDVIV1NYVmZDYzNjWnZkcXFiaElEQXZkWmsycWEzTVBhV01DOV9uenJUay03SnNtV3hKN3FqRFpqanJqTW8waW5maEJuczYtMVk4dEJndU1Sei1UZGVOWk5SczJfakUzaXZySlcyUVBZQlpsVnM0Q0p5VG5mVjR3cVdPUWNWY1FSRnREQnFHWkd5Vm4yR2Y2Y3BVeTcySQ?oc=5",
+      "published": "2026-11-19T14:47:09+00:00",
+      "source": {
+        "name": "WELT",
+        "url": "https://www.welt.de"
       }
     },
     {
