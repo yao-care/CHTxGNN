@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-22T00:53:04.944377+00:00",
+  "fetched_at": "2026-11-22T07:42:49.891654+00:00",
   "source": "Google News Health RSS",
-  "count": 45,
+  "count": 48,
   "articles": [
     {
       "id": "1dacb27fc5b5",
@@ -11,26 +11,6 @@
       "source": {
         "name": "ZDFheute",
         "url": "https://www.zdfheute.de"
-      }
-    },
-    {
-      "id": "cb7bac03f4e5",
-      "title": "Krankenversicherung: Moderne Arzneimittel sind vielen Menschen wichtiger als stabile Beiträge - Berliner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa1RqRnJKaWFZX3hHVHVWLWF5X25aWXhuVVY3ajBmWl9FeFN2WkJyM0pOb3hKNVB1Q0h6VXIwems4MzJKb3NGbkVEZFhPTXF0MFBHQVBfR0NSckprem5vQWdfNGxUcnk3YzNuSFBlVkRTbUtCczhNRkQ4X3JTbmprVGRqVko1TDJlSFlmNGp3b3hTQm5pZ2FUQTUydmM3LXJTUjcwT3c1YXJxQmEtTkZDY25tMldUR2NtLXZTZGZfdjRpZzNsZDZUMU15NXQ3SVZvenM5Y3NXRktvbGc4bVRhMXVGVQ?oc=5",
-      "published": "2026-11-21T06:45:08+00:00",
-      "source": {
-        "name": "Berliner Morgenpost",
-        "url": "https://www.morgenpost.de"
-      }
-    },
-    {
-      "id": "6b55981323de",
-      "title": "Bluthochdruck: Nebenwirkungen durch Medikamente - GESUNDHEITHEUTE - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmdyQTFNQzJxVXlQXzhmNnJ1REkyOVNld19fT1pYZmtmcHJlSmQ1UVJlYzk0cW9DRVpmb1RoampIOGVvWUJDS0N2Smowem55S1VLRUU3dEZJQjR4aUdBOThJXy1HN0ZrM3JxUFNSdE5mdVJFVHhySFRtNjllUENkbnJVRXhCZ2RqeWJIOVhGcG5GMGJMaW5ieTJ6WktaU3lkNXppT0FaLWtWRmNQWTAxS0JSMjBZRlBSWGxEelZxSzNQalJmcm1pUXpJMFNXMFdlQ012QXVYZzh0WUF4SGpOcmtJbTc?oc=5",
-      "published": "2026-10-31T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
@@ -44,6 +24,16 @@
       }
     },
     {
+      "id": "698a8c64d6d1",
+      "title": "Risikofaktor Lipoprotein(a): Neues Medikament erfüllt die Hoffnungen nicht - Tages-Anzeiger",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFlLNU1qSXJvQXN6RjVVcHVncWhBeERRRng1UFUyUy1IVDlCUlB0WE91S2otT0YtRTZ1Z19jSHpwM256clFqVG16ZzlaVWxGbHA0aEFIWjNtYzlsT2piQTBOSTAtMEx2djNVNlRnVUZxdEJzcUk5QWhtdEozRGVfZlpmVy1zNTcz?oc=5",
+      "published": "2026-11-19T15:14:24+00:00",
+      "source": {
+        "name": "Tages-Anzeiger",
+        "url": "https://www.tagesanzeiger.ch"
+      }
+    },
+    {
       "id": "98f7226e9e93",
       "title": "Arzneimittel - EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Gesundheit - SZ.de - SZ.de",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmp1WkNSQ0ZIMUpvb2xKcGVIS2VJRHRNTklKVHU3VmpXZEh1RFZrZFYzYkF5Q1pIMDN4NmI0ZEdFRm4zVFl4Q1ctYmc1aTBhaFBLeFZfRDF5c3Q3aU8wYmdodkVlaGgyZlVxMlRPSktXVjVJQjdVRW9kc0dNakYwbFZSQjhkQUlwYlpqcHJfYXh1b0VWZmNaSVBsWXdyVUxENDlNNHJsSU1XX2ZMMTNwR3Q0Z3hwYXEyazk3RWl5V0RwRTN6YlVWYm9sV0hjbkRja0Q1VlJURTJFMDFMVFZpU21PVTVrOWJmaV9Xal9sSVYxQUE?oc=5",
@@ -54,13 +44,13 @@
       }
     },
     {
-      "id": "698a8c64d6d1",
-      "title": "Risikofaktor Lipoprotein(a): Neues Medikament erfüllt die Hoffnungen nicht - Tages-Anzeiger",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFlLNU1qSXJvQXN6RjVVcHVncWhBeERRRng1UFUyUy1IVDlCUlB0WE91S2otT0YtRTZ1Z19jSHpwM256clFqVG16ZzlaVWxGbHA0aEFIWjNtYzlsT2piQTBOSTAtMEx2djNVNlRnVUZxdEJzcUk5QWhtdEozRGVfZlpmVy1zNTcz?oc=5",
-      "published": "2026-11-19T15:14:24+00:00",
+      "id": "cb7bac03f4e5",
+      "title": "Krankenversicherung: Moderne Arzneimittel sind vielen Menschen wichtiger als stabile Beiträge - Berliner Morgenpost",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa1RqRnJKaWFZX3hHVHVWLWF5X25aWXhuVVY3ajBmWl9FeFN2WkJyM0pOb3hKNVB1Q0h6VXIwems4MzJKb3NGbkVEZFhPTXF0MFBHQVBfR0NSckprem5vQWdfNGxUcnk3YzNuSFBlVkRTbUtCczhNRkQ4X3JTbmprVGRqVko1TDJlSFlmNGp3b3hTQm5pZ2FUQTUydmM3LXJTUjcwT3c1YXJxQmEtTkZDY25tMldUR2NtLXZTZGZfdjRpZzNsZDZUMU15NXQ3SVZvenM5Y3NXRktvbGc4bVRhMXVGVQ?oc=5",
+      "published": "2026-11-21T06:45:08+00:00",
       "source": {
-        "name": "Tages-Anzeiger",
-        "url": "https://www.tagesanzeiger.ch"
+        "name": "Berliner Morgenpost",
+        "url": "https://www.morgenpost.de"
       }
     },
     {
@@ -134,6 +124,16 @@
       }
     },
     {
+      "id": "fd19fb723a3b",
+      "title": "Adipositas-Therapie bei Kindern und Jugendlichen: WHO veröffentlicht neue Leitlinien - AerzteZeitung.de",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUhFNTBjcl9aVlplZHdRVmlpcks1SWMwUUhybDBFTmtKbzFFM3ZmOE9sM2tnLWYxbmU1RkRCTU9RNVBQbHo0cnNPU0p4bzlJeVo4bERzVF9yM3JRQzROUWhEYkRTNnJ3WV90ajhmcG1ycGlWMDJGSndkenhxYzRSRWR1em0yNWdRRXRvYnpmUURtSjRTOHZpM3I5LWdWdHFwckU4czUtLW81YXhxbEhUc3pqR0RmT1BWNXd4ZmVlaFVWaFJWU0I4Z2M1REJYYkJRX3BOS1J0Nng?oc=5",
+      "published": "2026-11-19T18:15:00+00:00",
+      "source": {
+        "name": "AerzteZeitung.de",
+        "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
       "id": "71d5bb2ca654",
       "title": "Bittere Pille für Apotheker: DM will ihr Monopol über Onlineversand knacken - Der Standard",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRvbWZyV01wTEE4NmhLbjFtQVFKNGdMbW96eENQSC03Zm9rX0ttU01TaGV6akFJaXJZaXhDZFR4WWtfdmxyTkFCT0dydTl5NnZrYVFydmJDb1N1M0ZORXZjeGJzYkFsQzR6R3ZvSGRpMnpfRm1VTG8tQ2N4U1ZsN3hXcGhVM2VGeUE3WFhuY0tSM3k1RXZHVElqYUhfN3plWFhoQk1KMHdrMi1aRXhvd2pMWmhnOUI5M2IteWVUY0U?oc=5",
@@ -141,26 +141,6 @@
       "source": {
         "name": "Der Standard",
         "url": "https://www.derstandard.at"
-      }
-    },
-    {
-      "id": "04e6135407ac",
-      "title": "Umsatz gesteigert: dm expandiert weiter in den Gesundheitssektor - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEh0NUhHUExQRVlteGplNVFSYk9UV3lUS21aU1NmU0JmbHAzRWo2WXBLVmpnMnlmS1dfNktBR1lKdlRGelRkTUhWMHAzN3VnMVljbG5lTWpJQXhnMDJ6aEZCbUd6bEdjcVAwRk9WeW5FYmd1ak5STTNBckdjTk1zazdSenZHSzdya3FneTZTd1ZWQVBJcGxF?oc=5",
-      "published": "2026-11-19T15:25:09+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
-      "id": "b31eebd4c85f",
-      "title": "Demenz vorbeugen: Was die WHO empfiehlt und wovon sie abrät - aponet.de",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmhZNFdxTTVrbVdSdEtZc1hXdW9sN2lqOHhSWE1JR2hKc0NZUE9KMjZ5NnpyeU9Ca3UxeG1pNl9Ra0djU2pocXlkcnl3QzNYODlBNkRTTVZjUGd2ZTRidnhJeXN0bDltcWs1U25NN2V1bjNtMkExOGhEOVV4a3o4V2tNV0RiT1M3M1gzTkUtanJwVy1pd1FfYlk3cw?oc=5",
-      "published": "2026-11-19T08:00:00+00:00",
-      "source": {
-        "name": "aponet.de",
-        "url": "https://www.aponet.de"
       }
     },
     {
@@ -184,13 +164,13 @@
       }
     },
     {
-      "id": "31725fa6c2a9",
-      "title": "Abnehmspritze schwächt Antibabypille: EMA warnt vor ungewollter Schwangerschaft - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckc5aWhsSEEySmZ4UkE2MWxwdUhqMWc2TlBxQlN2QklkT2hGVXJOby1iV1lJS25tQ1ZUdU9uTGZnMWg5WW1fN2tqSllVNTNCUjM1blY1ei1PRG96djdpdTV3WXEtUkJsX3JCbUhjSnFGUTJTRzNTSnB1OVRYVWUtaFhkMEFkNThaVzdfSk1MNmJaMHFOT2RmYzdWOWpROEVMNzA1eXl3MzhYTGpDSWlYV0ZEbWtHU1FuR1ZpQzd0al8?oc=5",
-      "published": "2026-11-17T16:53:59+00:00",
+      "id": "b31eebd4c85f",
+      "title": "Demenz vorbeugen: Was die WHO empfiehlt und wovon sie abrät - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmhZNFdxTTVrbVdSdEtZc1hXdW9sN2lqOHhSWE1JR2hKc0NZUE9KMjZ5NnpyeU9Ca3UxeG1pNl9Ra0djU2pocXlkcnl3QzNYODlBNkRTTVZjUGd2ZTRidnhJeXN0bDltcWs1U25NN2V1bjNtMkExOGhEOVV4a3o4V2tNV0RiT1M3M1gzTkUtanJwVy1pd1FfYlk3cw?oc=5",
+      "published": "2026-11-19T08:00:00+00:00",
       "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
+        "name": "aponet.de",
+        "url": "https://www.aponet.de"
       }
     },
     {
@@ -204,13 +184,13 @@
       }
     },
     {
-      "id": "a7647a857bca",
-      "title": "Wir fordern ein striktes Vorgehen gegen nicht lizenzierte medizinische Einrichtungen. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ00yRlRvNG1KV3gzdDhCQ0xfQXFPZmlFQURaTXJzUk90aHZhNl83d19tLTI5SmxZeU4tLVJ4aG5UWDRxQmplOVFseG1YVHlqRlZWeUZEMi1FQ2JkcGlCdHFSN0d3XzdqU0R4R2hSc2pPNWh0eDdlM1NUTEN6M3VYNGpLaHg?oc=5",
-      "published": "2026-11-21T05:35:08+00:00",
+      "id": "31725fa6c2a9",
+      "title": "Abnehmspritze schwächt Antibabypille: EMA warnt vor ungewollter Schwangerschaft - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckc5aWhsSEEySmZ4UkE2MWxwdUhqMWc2TlBxQlN2QklkT2hGVXJOby1iV1lJS25tQ1ZUdU9uTGZnMWg5WW1fN2tqSllVNTNCUjM1blY1ei1PRG96djdpdTV3WXEtUkJsX3JCbUhjSnFGUTJTRzNTSnB1OVRYVWUtaFhkMEFkNThaVzdfSk1MNmJaMHFOT2RmYzdWOWpROEVMNzA1eXl3MzhYTGpDSWlYV0ZEbWtHU1FuR1ZpQzd0al8?oc=5",
+      "published": "2026-11-17T16:53:59+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -234,10 +214,40 @@
       }
     },
     {
+      "id": "5778408597ae",
+      "title": "Abnehmspritze: Warum Forscher bereits an neuen Wirkstoffen arbeiten - STERN.de",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFlIWU1SWGF6bVFRSkFxS2F6bFkyUEZ5UVV0TWRkcTRub1lUTDUyOVdia01nSGdYcksyZWVMcU9uMmZBd3hwdy1LNHZjVGxmbjMyekh4c09BUXN6Qlk4NmhkU1owdDc0WWotVGdlSGtISW1lRFlBVng1QmgzWC1KRWtIeUJYY0I2Zm8xWWtpNDRqU18zZW9GUDVvZERjYklSdVZ3R2ltMmFZMnF4d0t4TGZVaw?oc=5",
+      "published": "2026-11-15T11:06:00+00:00",
+      "source": {
+        "name": "STERN.de",
+        "url": "https://www.stern.de"
+      }
+    },
+    {
+      "id": "51e8c4b74840",
+      "title": "Gesundheitsgefahr durch gefälschte Arzneimittel - Gesundheit.gv.at",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlhNa1drQ3UydVU1Ti1QZWxOelZ2UDNkQTBsczZ4SzVIZGhQS3psTVQ5Zmw2Ujh2RGpDYzZ5TDdIbG5mYkFjRl9CX3JkS0FHQ2dlSGVZMlpRTmpva0xOX3hoTWhTM3VoZlB6bjJYbjRRcGp2NERXZmhoaEtyeGJhUDlSU0k0cURLRzNIc1FR?oc=5",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": {
+        "name": "Gesundheit.gv.at",
+        "url": "https://www.gesundheit.gv.at"
+      }
+    },
+    {
       "id": "8e5c24d34456",
       "title": "Sensibilisierung für das Thema Antibiotikaresistenz. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PdlhsMmQtU1RUWHI4S0NZT0l3ZzBHbkhza2FQRzM1WkFkRjhHMzJCNDZRM2pYdGUwYzFQS1VMcFZvOVJlcHF4eUtlV1VTUDdQV0hqd0dLLTh4SENHTl9PLXl6Zld4LTMyUGkw?oc=5",
       "published": "2026-11-18T11:33:02+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "a7647a857bca",
+      "title": "Wir fordern ein striktes Vorgehen gegen nicht lizenzierte medizinische Einrichtungen. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ00yRlRvNG1KV3gzdDhCQ0xfQXFPZmlFQURaTXJzUk90aHZhNl83d19tLTI5SmxZeU4tLVJ4aG5UWDRxQmplOVFseG1YVHlqRlZWeUZEMi1FQ2JkcGlCdHFSN0d3XzdqU0R4R2hSc2pPNWh0eDdlM1NUTEN6M3VYNGpLaHg?oc=5",
+      "published": "2026-11-21T05:35:08+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -294,6 +304,16 @@
       }
     },
     {
+      "id": "98c219323512",
+      "title": "Ge­sund­heit ist Zu­kunfts­feld für dm - An­ge­bot wird aus­ge­baut - Die Rheinpfalz",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYmwwZmZfamlPZkJ6STlBZVNnRXNEMTI3YWc4aXhaQmFXNTRickNKMHY0NDB3cDlzT1I0SWt3V3lFMnpiUXVlaWQ4QVQ1MnJPYnA2cnFELWZEWkdzbjY4UDFRSEUwX1pCdGYtU28wUUN4TGg0WU9jNS14N1g2bmhSbzNBYTVYMWlIcDJLRkdFX0s5NDd4Rk9fWmRXU053UW00cUk2c3pRRVIyRXZMOEJHSjJqcnlicDBvTjBYOS05ZmxDMm5KZEE?oc=5",
+      "published": "2026-11-19T11:02:00+00:00",
+      "source": {
+        "name": "Die Rheinpfalz",
+        "url": "https://www.rheinpfalz.de"
+      }
+    },
+    {
       "id": "ef93e82f3f49",
       "title": "Medikamentenpreise in der Schweiz – häufige Fragen - Bundesamt für Gesundheit BAG",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xsQUM1X3BSSDR3SG1LRG1PUnVQdHhSTTVLU2ktV2p2VFdqbmpOWUFuSGZtRnY2OFZ3TmhHTFMzYzlNbF9QZ0h4WUp6ekxiWjdpT1ZQN3A4YUFxUFRnc09kYTBJUFhOZ1NqTmZXei0ybDY5bGF0ZDl3WHpUQnFoRFhXOA?oc=5",
@@ -301,6 +321,16 @@
       "source": {
         "name": "Bundesamt für Gesundheit BAG",
         "url": "https://www.bag.admin.ch"
+      }
+    },
+    {
+      "id": "e78d4407f29c",
+      "title": "Hypokaliämie nach 4 Tagen Selbstmedikation mit Knochen- und Gelenkmedikamenten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkcTBUSVVqSGhRWUI1WnlPTUZMaWFQTHlGMS0tX202UEM2SWw2Wk94V0lvTUJCU1BzbURSVEw4eXV4dThkOWhxY3diUVVzY2JpN0U2TEpKdnlWWmU1SW1XaVBUSnNXZHctM2xUS0ZqSFltNHZ3MXVZTUJmNW1qQQ?oc=5",
+      "published": "2026-11-22T06:48:27+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -324,16 +354,6 @@
       }
     },
     {
-      "id": "b0ddbbc7038c",
-      "title": "Medikamente: Antibiotika-Mythen: Was stimmt - und was nicht? - Mitteldeutsche Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVUwdUxMcFdHQnZvT1NrZkEtMHFoNFR5SWRUd1pmbWJPS1ZydHY2MlRpUlZ3Q2F6Q1oxUmZGa0YzLTVKakZWOGxqMlprNGNJR0UxS1htZG81MFJIQnhGbmo1WDN3a1F1eGZsUG1TMm4tbmdxc215RGJyS2FJbGFFNDktal80aDQzdXZvUFpfOA?oc=5",
-      "published": "2026-11-17T12:15:00+00:00",
-      "source": {
-        "name": "Mitteldeutsche Zeitung",
-        "url": "https://www.mz.de"
-      }
-    },
-    {
       "id": "62cd1f564a2d",
       "title": "Cholesterin-Senker absetzen: Studie zu Statinen zeigt unerwartetes Ergebnis - Berliner Morgenpost",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmRDZnQ3b3Exem4talZ0NE9UN21fMV9iQXo3TXczZGZBTUM0WllDOUx6U0lfb2FvcUhFdExBUVJhOXhnSzJMMmNXZVhPQ3lLMk9EakM3NnpBMFFVN1FuTTJrYl9lcjNjQTZvcHNmdXZNVUxpc0RydXlrRnl2dk5LRDJkRXNRX2R3U0cwU2l6bEpBN2c?oc=5",
@@ -351,6 +371,16 @@
       "source": {
         "name": "noz.de",
         "url": "https://www.noz.de"
+      }
+    },
+    {
+      "id": "bb98e36cfa7d",
+      "title": "Swissmedic warnt vor gefälschten und irreführenden «GLP-1»-Produkten zur Gewichtsreduktion - Swissmedic",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNkxqLVJDa0dRSnBwUXBySVNFblVVRTlrTXZ1cFkyVXlYRUd4aVlDWUdMZWdhdVZZRm1aOFNfYTlsdUthYlFOQWpMNC14bExVa0YzYlIydDRlNC1yZTJremRBZENmRk5TdDBQeVMzdEFQNk9OWExVN1Vud2ZZb2ZjSDVKTE44R2I5aEdNaFU0U1gyMDFzejd5Nmk1dHU5Rzl1WVI3bE5RNkw1TjZScWZGeFhNZzRXZko3QXYtRFE2NFdtSkhvVWhnYkZZU2xzc0t1T3hlaFBlaXZQcWU3ZkJFN1d1R2NnYmJ2VkVMMzhsYk9iXzR5ci16ZGlMV0E5bmJZenow?oc=5",
+      "published": "2025-08-26T07:00:00+00:00",
+      "source": {
+        "name": "Swissmedic",
+        "url": "https://www.swissmedic.ch"
       }
     },
     {
@@ -404,13 +434,13 @@
       }
     },
     {
-      "id": "0367a58e2a11",
-      "title": "Arzneimittel aus dem Internet - Illegale Arzneimittelimporte nehmen wieder zu - SRF",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VtY3V4TFF6ODNmeElrUm14dHdxOHNqc25sdnhUQ2xkYzFmNlh4R0wycWU4bUNqQW5hcGlvN3hjQ3lpRFBuVUtNLW9SRzVCVDJaMGxGbG9jeHpXUVpSQWlaT1dmZURiaWM2bEdhYU4zS2xIUjFxV3RFTklLUjhRWDB1OFBJU21qME9vdE14X1BPVC11S0FJTGo2M09zMlA0YklOUVgybVpVSUN3Q3htaDB3?oc=5",
-      "published": "2015-02-18T08:00:00+00:00",
+      "id": "fa71347c14a3",
+      "title": "Fresenius Aktienanalyse: Prognose zum zweiten Mal angehoben, Aktie gibt trotzdem nach – warum zögert die Börse? - AktienCheck.de",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnBKUU45UlBDclVMby1VU084dVhLdlhKTm1UTDlwT0p4QXlpUjkwRjZERmNid2JWRnAtNXdwOThjck13bUdCQk5WbHUySEtoOURJZGctTEJRQy1fcEVEQTU3cHhiNmFDdU9GR3hGRHlMZFk1MkNJTlhacFpmY05GVEh0d2psbll5SDIwOFZ4SEFoaGtmUnlHZUFzRV9wakVRQ2tNTnNyeTdDVmp0ZGc?oc=5",
+      "published": "2026-11-22T07:25:21+00:00",
       "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
+        "name": "AktienCheck.de",
+        "url": "https://aktiencheck.de"
       }
     },
     {
@@ -444,13 +474,13 @@
       }
     },
     {
-      "id": "f9d02e5399df",
-      "title": "Schweiz prüft engere Zusammenarbeit mit der EU bei Medikamenten - imTicker",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYkV1Y3NQMHJGQmozdm9YRGh4U0dzZDVmR0paODlXN2t2VllRSURxcGxLWFB5ZGVkSHlGcFVpalJoZkJBLWhVOXFyamJ1aUdsajBNT0t1YWVzNnFYeDJuVHNDMVkwQ0otTTNwTFpETzFpcGhYU1AxZ0ZGdWdXWUJXMVpOOEJXUHlzX2c4blZR?oc=5",
-      "published": "2026-11-18T17:38:04+00:00",
+      "id": "992f6fc2e831",
+      "title": "Erdafitinib fürs Wachstum: 1,5 Zentimeter nach 21 Tagen, aber starke Schmerzen - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGtkeERoa1RlZk5rOU9vQ1IwWEpDdUlYcWFzd2NHYjd1OE1lUFB1bVlMM2pNTmtERFBOZ0p0dWhPbXFENXhheHRhMlB3SWdLaWh6akQ5WFVhUklvNDZzSEFEVFV4MEZ6bnFtVU9rSW1YV1JweWh2MjFZaFhEckphSXphZGJyVFlYS2lBdHBIYnBTWFg0V2lXbElQOFpFLTM0WGdvQ3BLQ01JcW80MG5PT3dxSUVmNmxtaThlZENMdExfTGxp?oc=5",
+      "published": "2026-11-22T05:09:40+00:00",
       "source": {
-        "name": "imTicker",
-        "url": "https://imticker.ch"
+        "name": "ad-hoc-news.de",
+        "url": "https://www.ad-hoc-news.de"
       }
     }
   ]
