@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-11-22T15:52:09.621572+00:00",
+  "fetched_at": "2026-11-22T21:28:25.470123+00:00",
   "source": "Google News Health RSS",
-  "count": 48,
+  "count": 42,
   "articles": [
-    {
-      "id": "98f7226e9e93",
-      "title": "Arzneimittel - EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Gesundheit - SZ.de - SZ.de",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmp1WkNSQ0ZIMUpvb2xKcGVIS2VJRHRNTklKVHU3VmpXZEh1RFZrZFYzYkF5Q1pIMDN4NmI0ZEdFRm4zVFl4Q1ctYmc1aTBhaFBLeFZfRDF5c3Q3aU8wYmdodkVlaGgyZlVxMlRPSktXVjVJQjdVRW9kc0dNakYwbFZSQjhkQUlwYlpqcHJfYXh1b0VWZmNaSVBsWXdyVUxENDlNNHJsSU1XX2ZMMTNwR3Q0Z3hwYXEyazk3RWl5V0RwRTN6YlVWYm9sV0hjbkRja0Q1VlJURTJFMDFMVFZpU21PVTVrOWJmaV9Xal9sSVYxQUE?oc=5",
-      "published": "2026-11-17T15:41:15+00:00",
-      "source": {
-        "name": "SZ.de",
-        "url": "https://www.sueddeutsche.de"
-      }
-    },
     {
       "id": "698a8c64d6d1",
       "title": "Risikofaktor Lipoprotein(a): Neues Medikament erfüllt die Hoffnungen nicht - Tages-Anzeiger",
@@ -24,13 +14,13 @@
       }
     },
     {
-      "id": "1dacb27fc5b5",
-      "title": "\"Schreckliche\" Schmerzen für mehr Körpergröße? Warum Jugendliche Heightmaxxing machen - ZDFheute",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkN3VC1kcEp4b0pZdHBrTWlYM0k5ajJrZ0gxZ1I0dEdLQ09DMURKUDFxbTM1bmU1MnlrUTBNQ0hQS3AtcGlLZFdfZ0NNaDBGYWx2dEJaRnZEZk1GZk5LMWc4dVZwRUd1X09nT2p1N3FhQkMtUEFMMERyUnBtTFFxclRVUWZQVG9hMWZ2eUVHbDB6SGs?oc=5",
-      "published": "2026-11-21T19:46:00+00:00",
+      "id": "98f7226e9e93",
+      "title": "Arzneimittel - EU lässt neues Medikament gegen Bauchspeicheldrüsenkrebs zu - Gesundheit - SZ.de - SZ.de",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmp1WkNSQ0ZIMUpvb2xKcGVIS2VJRHRNTklKVHU3VmpXZEh1RFZrZFYzYkF5Q1pIMDN4NmI0ZEdFRm4zVFl4Q1ctYmc1aTBhaFBLeFZfRDF5c3Q3aU8wYmdodkVlaGgyZlVxMlRPSktXVjVJQjdVRW9kc0dNakYwbFZSQjhkQUlwYlpqcHJfYXh1b0VWZmNaSVBsWXdyVUxENDlNNHJsSU1XX2ZMMTNwR3Q0Z3hwYXEyazk3RWl5V0RwRTN6YlVWYm9sV0hjbkRja0Q1VlJURTJFMDFMVFZpU21PVTVrOWJmaV9Xal9sSVYxQUE?oc=5",
+      "published": "2026-11-17T15:41:15+00:00",
       "source": {
-        "name": "ZDFheute",
-        "url": "https://www.zdfheute.de"
+        "name": "SZ.de",
+        "url": "https://www.sueddeutsche.de"
       }
     },
     {
@@ -74,6 +64,16 @@
       }
     },
     {
+      "id": "9fa13ce5acf5",
+      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
+      "published": "2026-03-31T20:25:43+00:00",
+      "source": {
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
+      }
+    },
+    {
       "id": "03b63ce6967a",
       "title": "Ärzte suchen mit KI nach Arzneimitteln - apotheke adhoc",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWR3ZjB2VnhlcHB5VWFYRUV6OURwMFBmbzdqc1dwY2M0djYwaTNSaDFBQVFhekp6dmlnSzh1MjVlOXowc2tfMFNUNzB3c0lqcm1Eb0xWazNYMDhlaE1IeGRBaFAzUHBHVV9KV2ZITExtX0dVdmdJc0ZsdUViaHJtSGlPLUViM2h2S2NMaG82WlRwdGVVcWlZS0tFMXBONzQ?oc=5",
@@ -91,16 +91,6 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
-      }
-    },
-    {
-      "id": "9fa13ce5acf5",
-      "title": "Gesundheitspolitik: FKG-Vorschläge greifen zu kurz - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjg5NnZRbzBkeGZJUTc4VXZzVzRvT0VDZnlNRmp4RndIZ2VuNUtycF9takkxRlJXLWk1MmxBcVlSMHd2QWotQ2pxSlZidHc3NDVUanVpNFF6SFI2c216Y2RvbHBxV051eV9HOTI0S1R0ZldsdFZfMlRZY2U4SUZVczJsa1Mxa2VLN1Utb2dNQ2tRTnZHNEo5bEQxSWM2UzRfRUJHQw?oc=5",
-      "published": "2026-03-31T20:25:43+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
       }
     },
     {
@@ -134,16 +124,6 @@
       }
     },
     {
-      "id": "71d5bb2ca654",
-      "title": "Bittere Pille für Apotheker: DM will ihr Monopol über Onlineversand knacken - Der Standard",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRvbWZyV01wTEE4NmhLbjFtQVFKNGdMbW96eENQSC03Zm9rX0ttU01TaGV6akFJaXJZaXhDZFR4WWtfdmxyTkFCT0dydTl5NnZrYVFydmJDb1N1M0ZORXZjeGJzYkFsQzR6R3ZvSGRpMnpfRm1VTG8tQ2N4U1ZsN3hXcGhVM2VGeUE3WFhuY0tSM3k1RXZHVElqYUhfN3plWFhoQk1KMHdrMi1aRXhvd2pMWmhnOUI5M2IteWVUY0U?oc=5",
-      "published": "2026-11-19T17:02:00+00:00",
-      "source": {
-        "name": "Der Standard",
-        "url": "https://www.derstandard.at"
-      }
-    },
-    {
       "id": "04e6135407ac",
       "title": "Umsatz gesteigert: dm expandiert weiter in den Gesundheitssektor - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEh0NUhHUExQRVlteGplNVFSYk9UV3lUS21aU1NmU0JmbHAzRWo2WXBLVmpnMnlmS1dfNktBR1lKdlRGelRkTUhWMHAzN3VnMVljbG5lTWpJQXhnMDJ6aEZCbUd6bEdjcVAwRk9WeW5FYmd1ak5STTNBckdjTk1zazdSenZHSzdya3FneTZTd1ZWQVBJcGxF?oc=5",
@@ -161,6 +141,16 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
+      }
+    },
+    {
+      "id": "78b58ffe6e43",
+      "title": "Immer mehr Keime trotzen Antibiotika: EU-Behörde warnt - oekotest.de",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFF2RmRsOVlSVXBNOVRJUFUxdUMwd1EtSzlpSmFvanhuSWJlZE5BbHNES1o4eWJSblZJU0pmNllVazZFVjFzaWtheTRzOWRqZXpCYXM5enA1Snl2Z1ByS1ZLaGJ0dDhTNlpHUHJfUTBWWDFpU1dJZTFmcVkxbVp3djFSVWE5MTQwX29GZHUtVWhhVzBPb2oxVEdCcFNvWG9JbVIteTVzUktDUFk4RXcyZ3BhZ1lXQQ?oc=5",
+      "published": "2026-11-19T01:57:52+00:00",
+      "source": {
+        "name": "oekotest.de",
+        "url": "https://www.oekotest.de"
       }
     },
     {
@@ -184,16 +174,6 @@
       }
     },
     {
-      "id": "d3c8e33fb113",
-      "title": "SPD-Veranstaltung: ABDA kritisiert Missstände bei Arzneimittelzuzahlungen - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3plenZqam5qS1R0MUM0cGtNclY0ZFhGRTFwV2lVNmluLXRqOWp6V1pyVHE0TmRPNHJfbXBiTUh0VEN4Mm9lcG5rOW8zYUFSZHluaHNfZjk5andvSDU0ZUtyNXdQSXNkc2lHVDMtYnhSYTMyRlNZQm5YekR0cklwSHc5N3VrLUxiMlVXejlhVUk5OWpPOUt2ZVdjM3BBb0VCQWZiYQ?oc=5",
-      "published": "2026-11-17T15:45:00+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "49e5b4e2e2e1",
       "title": "Infektionen müssen bekämpft und Antibiotika sachgemäß eingesetzt werden, um Patienten zu schützen. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUThGdzF2dGJWRndpSk15X2V6dG1zUmJpVlVQTmk2Rkp5aFJHNEhiOWsxNWMwcE5KclhXZWNPSE0zY2podGdESXMxM1p4RklTWC1ySzJ3dzRnelpGUnFidWN2TjRibW5MTkJSMVM2TXRleVd6Y0VHekotZ0h5WTFaZ09adnlHRzR2QjBuS1BtbUVrdlN2Qnl3djBn?oc=5",
@@ -204,13 +184,13 @@
       }
     },
     {
-      "id": "eb5ff0720f65",
-      "title": "Bisher nur für Privatversicherte: Gibt es die Abnehmspritze bald auch für Kassenpatienten? - Augsburger Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExEdGpqRmNIQjMtT2dMeTZNU2tQRlhlcEhGd1BBMGFuaDFCSFRtY1JHdXFISHh6YVc5SmVLTjJBYmFyX2stMzRkZjhWMUhkYzlrWVVVcF9GeTY3Yk5KaF83SVhaaUluMnZndUF1dXNYTUpfbDFVVVpPR2llaGM1TXB0WGpRckVvaERoeUgwcy04WnJjTHdxODhTUjBmVkdpa21LdUVHUW1BR045RkliSEJhZnh4bHJ1M0VFUlNzQkxBUUU1ZThqNTRRZGM3LVFiaWptVVlZVF9nbS0yOU5BTA?oc=5",
-      "published": "2026-11-22T13:13:48+00:00",
+      "id": "d3c8e33fb113",
+      "title": "SPD-Veranstaltung: ABDA kritisiert Missstände bei Arzneimittelzuzahlungen - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3plenZqam5qS1R0MUM0cGtNclY0ZFhGRTFwV2lVNmluLXRqOWp6V1pyVHE0TmRPNHJfbXBiTUh0VEN4Mm9lcG5rOW8zYUFSZHluaHNfZjk5andvSDU0ZUtyNXdQSXNkc2lHVDMtYnhSYTMyRlNZQm5YekR0cklwSHc5N3VrLUxiMlVXejlhVUk5OWpPOUt2ZVdjM3BBb0VCQWZiYQ?oc=5",
+      "published": "2026-11-17T15:45:00+00:00",
       "source": {
-        "name": "Augsburger Allgemeine",
-        "url": "https://www.augsburger-allgemeine.de"
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -234,6 +214,16 @@
       }
     },
     {
+      "id": "eb5ff0720f65",
+      "title": "Bisher nur für Privatversicherte: Gibt es die Abnehmspritze bald auch für Kassenpatienten? - Augsburger Allgemeine",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExEdGpqRmNIQjMtT2dMeTZNU2tQRlhlcEhGd1BBMGFuaDFCSFRtY1JHdXFISHh6YVc5SmVLTjJBYmFyX2stMzRkZjhWMUhkYzlrWVVVcF9GeTY3Yk5KaF83SVhaaUluMnZndUF1dXNYTUpfbDFVVVpPR2llaGM1TXB0WGpRckVvaERoeUgwcy04WnJjTHdxODhTUjBmVkdpa21LdUVHUW1BR045RkliSEJhZnh4bHJ1M0VFUlNzQkxBUUU1ZThqNTRRZGM3LVFiaWptVVlZVF9nbS0yOU5BTA?oc=5",
+      "published": "2026-11-22T13:13:48+00:00",
+      "source": {
+        "name": "Augsburger Allgemeine",
+        "url": "https://www.augsburger-allgemeine.de"
+      }
+    },
+    {
       "id": "a7647a857bca",
       "title": "Wir fordern ein striktes Vorgehen gegen nicht lizenzierte medizinische Einrichtungen. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ00yRlRvNG1KV3gzdDhCQ0xfQXFPZmlFQURaTXJzUk90aHZhNl83d19tLTI5SmxZeU4tLVJ4aG5UWDRxQmplOVFseG1YVHlqRlZWeUZEMi1FQ2JkcGlCdHFSN0d3XzdqU0R4R2hSc2pPNWh0eDdlM1NUTEN6M3VYNGpLaHg?oc=5",
@@ -241,26 +231,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "78b58ffe6e43",
-      "title": "Immer mehr Keime trotzen Antibiotika: EU-Behörde warnt - oekotest.de",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFF2RmRsOVlSVXBNOVRJUFUxdUMwd1EtSzlpSmFvanhuSWJlZE5BbHNES1o4eWJSblZJU0pmNllVazZFVjFzaWtheTRzOWRqZXpCYXM5enA1Snl2Z1ByS1ZLaGJ0dDhTNlpHUHJfUTBWWDFpU1dJZTFmcVkxbVp3djFSVWE5MTQwX29GZHUtVWhhVzBPb2oxVEdCcFNvWG9JbVIteTVzUktDUFk4RXcyZ3BhZ1lXQQ?oc=5",
-      "published": "2026-11-19T01:57:52+00:00",
-      "source": {
-        "name": "oekotest.de",
-        "url": "https://www.oekotest.de"
-      }
-    },
-    {
-      "id": "caf9e248da4b",
-      "title": "Gefährliches Heightmaxxing: Erdafitinib als Wachstumsturbo missbraucht - Deutsche Apotheker Zeitung, DAZ",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGpNWEJTSmMzaXEtTUc4eGtJYkdEVFFUUTBEVVUtRnFneWJNRG5UYlBubUk1SWpEc3hkNTlBQlI2T1BrN2gwYXRhWDN1eGItZ2d0LUlaRHdFU0dMMmtZMERlVHladWQwRFdqVk82ekk3X3FUVWN3MWNtYmNuOEJCZGlqR2draW5lWTJ2QmphTzFNamNNVzlJUjhqNVFKLUlmM2N4TEMwNVJkVVB2d3otMnljQWx5RUdSLUZNT09BY1R0c1BlN3hEMVVrczlya1dQTlE?oc=5",
-      "published": "2026-11-18T07:00:00+00:00",
-      "source": {
-        "name": "Deutsche Apotheker Zeitung, DAZ",
-        "url": "https://www.deutsche-apotheker-zeitung.de"
       }
     },
     {
@@ -274,6 +244,16 @@
       }
     },
     {
+      "id": "caf9e248da4b",
+      "title": "Gefährliches Heightmaxxing: Erdafitinib als Wachstumsturbo missbraucht - Deutsche Apotheker Zeitung, DAZ",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGpNWEJTSmMzaXEtTUc4eGtJYkdEVFFUUTBEVVUtRnFneWJNRG5UYlBubUk1SWpEc3hkNTlBQlI2T1BrN2gwYXRhWDN1eGItZ2d0LUlaRHdFU0dMMmtZMERlVHladWQwRFdqVk82ekk3X3FUVWN3MWNtYmNuOEJCZGlqR2draW5lWTJ2QmphTzFNamNNVzlJUjhqNVFKLUlmM2N4TEMwNVJkVVB2d3otMnljQWx5RUdSLUZNT09BY1R0c1BlN3hEMVVrczlya1dQTlE?oc=5",
+      "published": "2026-11-18T07:00:00+00:00",
+      "source": {
+        "name": "Deutsche Apotheker Zeitung, DAZ",
+        "url": "https://www.deutsche-apotheker-zeitung.de"
+      }
+    },
+    {
       "id": "c0b0a62f1c7c",
       "title": "Stellvertretender Gesundheitsminister: Selbst nach dem Überstehen einer lebensbedrohlichen Situation ist der Tod aufgrund antibiotikaresistenter Bakterien immer noch möglich. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXpQRTFBSzgtanNFVFlRc19teDBpTDR1blp0WE9QbzdQWGF4TGtlczFDUjVvbHZGWWpkU0tPV2FIS3RxT29vZlZ6Tk00b0w1YWZkcWdTd1FUN2RhYWVoam9aNWJfVWVMNFJVX3VWZHBQbS1rQTdIZFlDR0IwUHJ0NWdvSWpGaUZiOHpxbG1RaXRDaHFnNlE1b2wtUHc2X1cw?oc=5",
@@ -284,13 +264,13 @@
       }
     },
     {
-      "id": "f83376853509",
-      "title": "Darum bekommst du in der Apotheke oft ein anderes Medikament - WEB.DE",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yLWlvSEFkbHIySHhVTTFrOTNmSUlJa3BzQ1JneUlZT1BTYUdOaUJ6a2NzdXAyT2NzZ2hob1lLY1NzZ3RKQm9WWUxXRUdsdnR2QjdYdkNXU21DWk81VnNVbjFEaFdqOG1xYVZCVnUyZFRtemg2VU1Fd29ManQ?oc=5",
-      "published": "2026-11-16T10:09:21+00:00",
+      "id": "c0470e6084f1",
+      "title": "Not­dienst­a­po­the­ke - was Sie dort be­kom­men - Die Rheinpfalz",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjRZSkRoVXZXUXFzZEFzVV9vaXd5ZlVzNWMtSmJxYWpjTkR4ZTdTc2V0Yl8wRzd1aktYYzNPMzlPVHNkaUxOTVNodUUzbDFfVkJxQkRvRURIYkRWQU1NazVqcU42QXkyN1lwLWpyRm81MFdzd0tfNFNGejlmOGtEb3NTMzlrQ2NVVWczbXEyNWtuTmNaSWh3SG5SR3lRdnlBQVg4Y1QwVzcwblVFZG1tNEY1Yw?oc=5",
+      "published": "2026-11-20T13:05:00+00:00",
       "source": {
-        "name": "WEB.DE",
-        "url": "https://web.de"
+        "name": "Die Rheinpfalz",
+        "url": "https://www.rheinpfalz.de"
       }
     },
     {
@@ -304,16 +284,6 @@
       }
     },
     {
-      "id": "4202956c4334",
-      "title": "Warnung: Eine Gruppe von Bakterien mit starker Antibiotikaresistenz erhöht das Sterberisiko. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl9WSzFWQTIxTVFJX2pHWF9PSHp5RlNVbHlkSXVZWUNmcG5NbFRWVGRtUld6WnB3cXJLZXM2dHN2c3hnWkx2a1VSX3J0RW5FTDZUS3FLMGJvQVM5d1V4azJfNUZVbTZaZks0Q1RnQ3k1ODhWQkNaQjhpNTAwaGh0eEFfMUhhQnJFdE5WaDFGdHBzbVYwdHRocXFlVQ?oc=5",
-      "published": "2026-11-20T16:01:51+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "4e6d48112005",
       "title": "Warken: Apotheken feste Säule für Gesundheitsversorgung in unserem Land - Bundesministerium für Gesundheit (BMG)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3NRWE1tbWNRMllaUC1GUGtRV3YxaWhZZ21nQThUT3NGbS1DbkFfRzdSd3RvUUVsTkVJdUpYRFp0ekFHV1JtTEJZZ0I5dWJvajgzZzdZZDk5S3FROHRoeVJzS3VBRTBuTldDWW52dG5kLWxpUTlMZmpLdUZZekxaOEJQYTlUbTdLRTBsR1k4TlE1ajIxYTFiZ041eFppZktLWjJZYVQyRlNOVEd1RGdIVmpBRDMteG1xdHdyUmVn?oc=5",
@@ -324,20 +294,10 @@
       }
     },
     {
-      "id": "b0ddbbc7038c",
-      "title": "Medikamente: Antibiotika-Mythen: Was stimmt - und was nicht? - Mitteldeutsche Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVUwdUxMcFdHQnZvT1NrZkEtMHFoNFR5SWRUd1pmbWJPS1ZydHY2MlRpUlZ3Q2F6Q1oxUmZGa0YzLTVKakZWOGxqMlprNGNJR0UxS1htZG81MFJIQnhGbmo1WDN3a1F1eGZsUG1TMm4tbmdxc215RGJyS2FJbGFFNDktal80aDQzdXZvUFpfOA?oc=5",
-      "published": "2026-11-17T12:15:00+00:00",
-      "source": {
-        "name": "Mitteldeutsche Zeitung",
-        "url": "https://www.mz.de"
-      }
-    },
-    {
-      "id": "e78d4407f29c",
-      "title": "Hypokaliämie nach 4 Tagen Selbstmedikation mit Knochen- und Gelenkmedikamenten. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkcTBUSVVqSGhRWUI1WnlPTUZMaWFQTHlGMS0tX202UEM2SWw2Wk94V0lvTUJCU1BzbURSVEw4eXV4dThkOWhxY3diUVVzY2JpN0U2TEpKdnlWWmU1SW1XaVBUSnNXZHctM2xUS0ZqSFltNHZ3MXVZTUJmNW1qQQ?oc=5",
-      "published": "2026-11-22T06:48:27+00:00",
+      "id": "4202956c4334",
+      "title": "Warnung: Eine Gruppe von Bakterien mit starker Antibiotikaresistenz erhöht das Sterberisiko. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWl9WSzFWQTIxTVFJX2pHWF9PSHp5RlNVbHlkSXVZWUNmcG5NbFRWVGRtUld6WnB3cXJLZXM2dHN2c3hnWkx2a1VSX3J0RW5FTDZUS3FLMGJvQVM5d1V4azJfNUZVbTZaZks0Q1RnQ3k1ODhWQkNaQjhpNTAwaGh0eEFfMUhhQnJFdE5WaDFGdHBzbVYwdHRocXFlVQ?oc=5",
+      "published": "2026-11-20T16:01:51+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -354,13 +314,13 @@
       }
     },
     {
-      "id": "8ced11fc184e",
-      "title": "Notdienstapotheke - was Sie dort bekommen - noz.de",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWtpeHdXMmkxSHNjTEtlYmZTbkRlSlQ1N3lsbjhmaGpsaU1GUnNqQlVKNXpldkc4Mlcyb2p0WG1yXzRGX2ZnXzFKQXcxa2RNWk1EMW9VeWE5LUdfUHIyeXhGbTcyUFZuODd1RzBkazRDUDNlMGNVU0lja0RBMmxtekFqN1ExdXkydEQzUi1EUXJKTEFHWEJMZkJmQWxHTlFDNEFEdGlIelBycVk?oc=5",
-      "published": "2026-11-20T13:03:00+00:00",
+      "id": "e78d4407f29c",
+      "title": "Hypokaliämie nach 4 Tagen Selbstmedikation mit Knochen- und Gelenkmedikamenten. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkcTBUSVVqSGhRWUI1WnlPTUZMaWFQTHlGMS0tX202UEM2SWw2Wk94V0lvTUJCU1BzbURSVEw4eXV4dThkOWhxY3diUVVzY2JpN0U2TEpKdnlWWmU1SW1XaVBUSnNXZHctM2xUS0ZqSFltNHZ3MXVZTUJmNW1qQQ?oc=5",
+      "published": "2026-11-22T06:48:27+00:00",
       "source": {
-        "name": "noz.de",
-        "url": "https://www.noz.de"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -391,16 +351,6 @@
       "source": {
         "name": "www.interpharma.ch",
         "url": "https://www.interpharma.ch"
-      }
-    },
-    {
-      "id": "dd7b65e200e3",
-      "title": "Gleiche Wirkweise wie Viagra – neues Medikament verlangsamt Alzheimer in Tests deutlich - WELT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2tSSHBPNkkzSnBRS21ucFFsLWFXWmNCYndJVnpHaEUtdHZLYk4xTzV2Y3NVSDVIV1NYVmZDYzNjWnZkcXFiaElEQXZkWmsycWEzTVBhV01DOV9uenJUay03SnNtV3hKN3FqRFpqanJqTW8waW5maEJuczYtMVk4dEJndU1Sei1UZGVOWk5SczJfakUzaXZySlcyUVBZQlpsVnM0Q0p5VG5mVjR3cVdPUWNWY1FSRnREQnFHWkd5Vm4yR2Y2Y3BVeTcySQ?oc=5",
-      "published": "2026-11-19T14:47:09+00:00",
-      "source": {
-        "name": "WELT",
-        "url": "https://www.welt.de"
       }
     },
     {
@@ -471,16 +421,6 @@
       "source": {
         "name": "SRF",
         "url": "https://www.srf.ch"
-      }
-    },
-    {
-      "id": "992f6fc2e831",
-      "title": "Erdafitinib fürs Wachstum: 1,5 Zentimeter nach 21 Tagen, aber starke Schmerzen - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGtkeERoa1RlZk5rOU9vQ1IwWEpDdUlYcWFzd2NHYjd1OE1lUFB1bVlMM2pNTmtERFBOZ0p0dWhPbXFENXhheHRhMlB3SWdLaWh6akQ5WFVhUklvNDZzSEFEVFV4MEZ6bnFtVU9rSW1YV1JweWh2MjFZaFhEckphSXphZGJyVFlYS2lBdHBIYnBTWFg0V2lXbElQOFpFLTM0WGdvQ3BLQ01JcW80MG5PT3dxSUVmNmxtaThlZENMdExfTGxp?oc=5",
-      "published": "2026-11-22T05:09:40+00:00",
-      "source": {
-        "name": "ad-hoc-news.de",
-        "url": "https://www.ad-hoc-news.de"
       }
     }
   ]
