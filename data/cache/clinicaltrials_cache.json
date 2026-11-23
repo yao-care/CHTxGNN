@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-23T06:55:10.071674",
+  "last_check": "2026-11-23T23:44:46.097374",
   "seen_trials": {
     "CARBOPLATINUM": [
       "NCT07504588",
@@ -321,10 +321,12 @@
       "NCT07278856"
     ],
     "Doxorubicini Hydrochloridum": [
-      "NCT02306161"
+      "NCT02306161",
+      "NCT07321912"
     ],
     "Etoposidum": [
-      "NCT02306161"
+      "NCT02306161",
+      "NCT07321912"
     ],
     "Fosfomycinum": [
       "NCT07928063"
@@ -350,6 +352,9 @@
       "NCT03223610",
       "NCT05529069",
       "NCT05292664"
+    ],
+    "Methotrexatum": [
+      "NCT05998642"
     ]
   }
 }
