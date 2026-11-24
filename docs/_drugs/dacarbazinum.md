@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00851
 monitor_inn: "Dacarbazine"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dacarbazinum: vorhergesagte neue Indikation Neoplasie des oberen Aerodigestivtrakts (upper aerodigestive tract neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -97,6 +97,20 @@ Die folgenden Angaben beruhen auf allgemeinem Fachwissen und nicht auf den zusam
 | Emetogenitätsklassifikation | Hoch |
 | Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
 | Handhabungsschutz | Ja, die Vorgaben für den Umgang mit Zytostatika gelten (Zubereitung und Applikation mit Schutzmassnahmen) |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56384 | Dacin 200 mg, Pulver zur Herstellung einer Injektions-/Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

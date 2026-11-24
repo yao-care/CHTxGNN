@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB09104
 monitor_inn: "Magnesium hydroxide"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Magnesii Hydroxidum: vorhergesagte neue Indikation Magenerkrankung (stomach disease) (Evidenzstufe L3). Ursprüngliche Indikation: Laxativum und Antazidum"
 ---
 
@@ -88,6 +88,21 @@ Derzeit keine verwandten klinischen Studien registriert.
 | [6755653](https://pubmed.ncbi.nlm.nih.gov/6755653/) | 1982 | Übersicht | Scandinavian Journal of Gastroenterology. Supplement | Antazida beschleunigen die Geschwürheilung und verhindern Blutungen aus Stressgeschwüren. Zudem werden Gastrin-Freisetzung und «Säure-Rebound» beschrieben. |
 | [236651](https://pubmed.ncbi.nlm.nih.gov/236651/) | 1975 | Übersicht | American Journal of Hospital Pharmacy | Flüssige Antazida sollen mindestens eine Stunde nach jeder Mahlzeit und vor dem Schlafen gegeben werden. In der akuten Phase säurebedingter Erkrankungen wird stündliche Gabe empfohlen. |
 | [6959250](https://pubmed.ncbi.nlm.nih.gov/6959250/) | 1982 | Übersicht | Scandinavian Journal of Gastroenterology. Supplement | Beschreibt eine Methode zur Messung von Magensekretion und Magenentleerung unter Antazida-Therapie, auch für Aluminium- und Magnesiumhydroxid. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 10574 | Magnesia San Pellegrino, Pulver zur Herstellung einer Suspension zum… | Synthetika | Laxativum und Antazidum | Gültig |
+| 27481 | Magnesia San Pellegrino, Brausepulver ohne Aroma (+1 weitere Bezeichnung) | Synthetika | Laxativum und Antazidum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06212
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Tolvaptanum: vorhergesagte neue Indikation Renale-hepatische-pankreatische Dysplasie (renal-hepatic-pancreatic dysplasia) (Evidenzstufe L5)."
 ---
 
@@ -78,6 +78,21 @@ Derzeit keine verwandten klinischen Studien registriert.
 ## Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+## Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65676 | Jinarc 15 mg, Tabletten (+4 weitere Bezeichnungen) | Synthetika | Verlangsamung der Progression der Zystenentwicklung und Niereninsuffizienz bei autosomal-dominanter polyzysti… | Gültig |
+| 66962 | Samsca 15 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung von Hyponatriämie als sekundäre Folge des Syndroms der inadäquaten Sekretion des antidiuretischen… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

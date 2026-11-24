@@ -40,11 +40,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ## Zusammenfassung
 
-Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen; diese Zulassung (32238) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Das Modell sagt mit sehr hohem Wert eine Wirksamkeit bei Acrodermatitis chronica atrophicans voraus. Diese Vorhersage stützt sich jedoch auf keine klinische Studie und keine Literatur (Evidenzniveau L5), weshalb sie derzeit nicht belastbar ist.
+Für Phenol als Wirkstoff ist in den ausgewerteten Swissmedic-Daten keine Zulassung erfasst; das hier früher genannte Tannosynt flüssig (32238) enthält ein Kondensat aus Phenol, Phenolsulfonsäure, Formaldehyd und Harnstoff, nicht Phenol, und ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Das Modell sagt mit sehr hohem Wert eine Wirksamkeit bei Acrodermatitis chronica atrophicans voraus. Diese Vorhersage stützt sich jedoch auf keine klinische Studie und keine Literatur (Evidenzniveau L5), weshalb sie derzeit nicht belastbar ist.
 
 <!-- review:begin ch-lic-20261124b-phenol-1 -->
 
-> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen.“ Korrigiert: Die erfasste Zulassung Tannosynt flüssig (32238; Wirkstoff laut Swissmedic: phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein entsprechendes Präparat (Prüfung nach Wirkstoff). Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen.“ Korrigiert: Tannosynt flüssig (32238) enthält laut Swissmedic den Wirkstoff phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum (ein synthetischer Gerbstoff), nicht Phenol; es ist zudem in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Mit Phenol als Wirkstoff ist keine Zulassung erfasst. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
 
 <!-- review:end ch-lic-20261124b-phenol-1 -->
 
@@ -54,13 +54,19 @@ Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, n�
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Entzündliche, nässende und juckende Hauterkrankungen |
+| Ursprüngliche Indikation | In den ausgewerteten Swissmedic-Daten keine Zulassung mit Phenol als Wirkstoff erfasst |
 | Vorhergesagte neue Indikation | Acrodermatitis chronica atrophicans |
 | TxGNN-Vorhersagewert | 0,9995 |
 | Evidenzniveau | L5 (nur Modellvorhersage, keine tatsächlichen Studien) |
-| Marktstatus Schweiz | Nicht im Handel (erloschene Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 0) |
+| Marktstatus Schweiz | Nicht im Handel (keine Zulassung erfasst) |
+| Anzahl Zulassungen | 0 (gültig: 0) |
 | Empfohlene Entscheidung | Abwarten |
+
+<!-- review:begin ch-lic-20261124c-phenol-2 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Ursprüngliche Indikation / Entzündliche, nässende und juckende Hauterkrankungen“ Korrigiert: „Entzündliche, nässende und juckende Hauterkrankungen“ ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Kondensat aus Phenol, Phenolsulfonsäure, Formaldehyd und Harnstoff ist, nicht Phenol. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124c-phenol-2 -->
 
 ---
 
@@ -69,6 +75,12 @@ Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, n�
 Der Wirkmechanismus von Phenol liegt in den für diesen Bericht zusammengestellten Daten nicht vor. Eine mechanistische Analyse ist daher nur eingeschränkt möglich.
 
 Die ursprüngliche Indikation (entzündliche, nässende, juckende Hauterkrankungen) und die vorhergesagte Indikation sind beides Hauterkrankungen. Die Vorhersage dürfte daher vor allem auf der Nähe im Wissensnetzwerk zu anderen dermatologischen Erkrankungen beruhen. Acrodermatitis chronica atrophicans ist jedoch eine Spätform der Borrelien-Infektion der Haut und wird mit Antibiotika behandelt. Für Phenol ist in diesem Zusammenhang keine antimikrobielle Rolle bekannt.
+
+<!-- review:begin ch-lic-20261124c-phenol-3 -->
+
+> **Prüfhinweis (2026-11-24)**: Die hier genannte ursprüngliche Indikation ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Phenol-Formaldehyd-Harnstoff-Kondensat ist, nicht Phenol; für Phenol als Wirkstoff ist in den ausgewerteten Swissmedic-Daten keine Zulassung erfasst. Die Modellbegründung wurde nicht umgeschrieben. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124c-phenol-3 -->
 
 Insgesamt lässt sich kein plausibler Mechanismus benennen. Der hohe Vorhersagewert ist ein reines Modellergebnis.
 
@@ -90,11 +102,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 <!-- licenses:begin -->
 
-| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
-|------|------|------|------|------|
-| 32238 | Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwend… | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen | Erloschen |
-
-Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+In den ausgewerteten Swissmedic-Daten ist für diesen Wirkstoff keine Zulassung erfasst.
 
 <!-- licenses:end -->
 
@@ -129,7 +137,9 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-24 | „ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Tannosynt flüssig (32238) enthält ein Kondensat, nicht Phenol | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Ursprüngliche Indikation: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat | Hinweis ergänzt | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

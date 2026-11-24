@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00162
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Retinoli Palmitas: vorhergesagte neue Indikation Angeborener Prothrombinmangel (congenital prothrombin deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Binde- und Hornhautläsionen"
 ---
 
@@ -64,6 +64,26 @@ Zum Wirkmechanismus von Retinolpalmitat liegen in den zusammengestellten Daten k
 Ein direkter mechanistischer Zusammenhang mit dem angeborenen Prothrombinmangel ist nicht erkennbar. Vitamin A ist kein bekannter Kofaktor der Prothrombinbildung. Diese Rolle übernimmt die Vitamin-K-abhängige Gamma-Carboxylierung. Der angeborene Prothrombinmangel ist zudem eine monogene Erkrankung, die durch Veränderungen im F2-Gen verursacht wird.
 
 Der hohe Vorhersagewert ist deshalb als rein rechnerischer Hinweis zu verstehen. Er wird weder durch Studien noch durch Veröffentlichungen gestützt.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 22398 | Vitamin A Blache, Augensalbe | Synthetika | Binde- und Hornhautläsionen | Gültig |
+| 38189 | Coldistop, Nasenöl | Synthetika | Befeuchtung trockener Nasenschleimhaut, zur Säuberung der Nasenhöhlen, bei Krusten | Gültig |
+| 43679 | Vitalipid N Infant, Infusionszusatz, Emulsion (+1 weitere Bezeichnung) | Synthetika | Vitaminzusatz zu Intralipid für die parenterale Ernährung | Gültig |
+| 45604 | Elevit Pronatal, Filmtabletten | Synthetika | Vitamin- und Mineralstoffpräparat für die Schwangerschaft | Gültig |
+| 47953 | Cernevit, Injektionspräparat | Synthetika | Multivitaminpräparat | Gültig |
+| 54749 | Supradyn Vital 50+, Filmtabletten | Synthetika | Vitamin- und Mineralstoffpräparat | Gültig |
+| 57288 | Supradyn Vital 50+, Brausetabletten | Synthetika | Vitamin- und Mineralstoffpräparat | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

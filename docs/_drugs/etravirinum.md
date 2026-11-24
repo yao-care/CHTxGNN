@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06414
 monitor_inn: "Etravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etravirinum: vorhergesagte neue Indikation Simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -80,6 +80,20 @@ Derzeit keine verwandten klinischen Studien registriert.
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
 | [26529558](https://pubmed.ncbi.nlm.nih.gov/26529558/) | 2015 | Präklinisch / in vitro | Molecular Pharmaceutics | Nanopartikel als Träger für antiretrovirale Wirkstoffkombinationen. Untersucht wurde die Hemmung der HIV-Übertragung (zellfrei und von Zelle zu Zelle). Die Studie betrifft HIV, nicht SIV, und liefert keine SIV-spezifischen Daten zu Etravirin. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58483 | Intelence 200 mg, Tabletten | Synthetika | HIV-Infektionen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

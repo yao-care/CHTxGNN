@@ -11572,15 +11572,39 @@
     }
    ],
    "checked": "2026-11-24",
-   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
    "drug": "phenol",
    "file": "phenol.md",
    "id": "ch-lic-20261124b-phenol-1",
-   "finding": "事實層 1 張全部 Erloschen（32238，2026-11-17 兩份現行清單都不列）；依成分對現行清單 0 個產品（11-17 已查）；摘要寫成現在式",
+   "finding": "32238 Tannosynt flüssig 的成分是 phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum（縮合聚合物，合成鞣質），不是苯酚；2026-11-24 第三輪依 config/bundle_record_exclusions.json 從證據包移出，苯酚在證據包裡沒有 Swissmedic 品項（32238 另已不在兩份現行清單）",
    "claim": "Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen.",
-   "replacement": "Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen; diese Zulassung (32238) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
-   "note": "Korrigiert: Die erfasste Zulassung Tannosynt flüssig (32238; Wirkstoff laut Swissmedic: phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein entsprechendes Präparat (Prüfung nach Wirkstoff).",
-   "summary": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)"
+   "replacement": "Für Phenol als Wirkstoff ist in den ausgewerteten Swissmedic-Daten keine Zulassung erfasst; das hier früher genannte Tannosynt flüssig (32238) enthält ein Kondensat aus Phenol, Phenolsulfonsäure, Formaldehyd und Harnstoff, nicht Phenol, und ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "note": "Korrigiert: Tannosynt flüssig (32238) enthält laut Swissmedic den Wirkstoff phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum (ein synthetischer Gerbstoff), nicht Phenol; es ist zudem in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Mit Phenol als Wirkstoff ist keine Zulassung erfasst.",
+   "summary": "Tannosynt flüssig (32238) enthält ein Kondensat, nicht Phenol",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+     "drug": "phenol",
+     "file": "phenol.md",
+     "id": "ch-lic-20261124b-phenol-1",
+     "finding": "事實層 1 張全部 Erloschen（32238，2026-11-17 兩份現行清單都不列）；依成分對現行清單 0 個產品（11-17 已查）；摘要寫成現在式",
+     "claim": "Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen.",
+     "replacement": "Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen; diese Zulassung (32238) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+     "note": "Korrigiert: Die erfasste Zulassung Tannosynt flüssig (32238; Wirkstoff laut Swissmedic: phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein entsprechendes Präparat (Prüfung nach Wirkstoff).",
+     "summary": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第三輪：證據包收錯的品項移出（config/bundle_record_exclusions.json，用戶決定），前版更正文字跟新的證據包不符"
+    }
+   ]
   },
   {
    "action": "correct",
@@ -11632,15 +11656,217 @@
     }
    ],
    "checked": "2026-11-24",
-   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
    "drug": "scopolamini_butylbromidum",
    "file": "scopolamini_butylbromidum.md",
    "id": "ch-lic-20261124b-scopolamini_butylbromidum-1",
-   "finding": "證據包 29804 成分 scopolamini hydrobromidum（另一個鹽、四級胺 butylbromide 沒有眼用）；Buscopan 17352–17354、56802 才是 butylbromide。只改這個子句",
+   "finding": "證據包 29804 成分 scopolamini hydrobromidum（另一個分子，三級胺）；2026-11-24 第三輪依 config/bundle_record_exclusions.json 從證據包與程式表移出，所以句子不再說「表上也列了」。Buscopan 17352–17354、56802 才是 butylbromide",
    "claim": "das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist.",
-   "replacement": "das in der Schweiz als krampflösendes Mittel zugelassen ist; die in der Tabelle ebenfalls aufgeführten Augentropfen (Scopolamine 0,25% Dispersa, 29804) enthalten laut Swissmedic Scopolaminhydrobromid, nicht Scopolaminbutylbromid.",
-   "note": "Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung.",
-   "summary": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid"
+   "replacement": "das in der Schweiz als krampflösendes Mittel zugelassen ist; die Augentropfen Scopolamine 0,25% Dispersa (29804) enthalten laut Swissmedic Scopolaminhydrobromid, einen anderen Wirkstoff.",
+   "note": "Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum, nicht Scopolaminbutylbromid, und ist daher nicht in der Tabelle aufgeführt; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung.",
+   "summary": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+     "drug": "scopolamini_butylbromidum",
+     "file": "scopolamini_butylbromidum.md",
+     "id": "ch-lic-20261124b-scopolamini_butylbromidum-1",
+     "finding": "證據包 29804 成分 scopolamini hydrobromidum（另一個鹽、四級胺 butylbromide 沒有眼用）；Buscopan 17352–17354、56802 才是 butylbromide。只改這個子句",
+     "claim": "das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist.",
+     "replacement": "das in der Schweiz als krampflösendes Mittel zugelassen ist; die in der Tabelle ebenfalls aufgeführten Augentropfen (Scopolamine 0,25% Dispersa, 29804) enthalten laut Swissmedic Scopolaminhydrobromid, nicht Scopolaminbutylbromid.",
+     "note": "Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung.",
+     "summary": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第三輪：證據包收錯的品項移出（config/bundle_record_exclusions.json，用戶決定），前版更正文字跟新的證據包不符"
+    }
+   ]
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "povidonum_k_25",
+   "file": "povidonum_k_25.md",
+   "id": "ch-lic-20261124c-povidonum_k_25-1",
+   "finding": "69437 BETADINA desinfizierende Creme 的成分是 povidonum iodinatum（聚維酮碘），不是 povidonum K 25；已從證據包移出。povidonum K 25 的品項全是眼藥水（Protagent、Oculac）",
+   "claim": "das in der Schweiz in Augentropfen als Tränenersatz und in einer desinfizierenden Creme eingesetzt wird.",
+   "replacement": "das in der Schweiz in Augentropfen als Tränenersatz eingesetzt wird.",
+   "note": "Korrigiert: Die desinfizierende Creme (BETADINA desinfizierende Creme, 69437) enthält laut Swissmedic Povidon-Iod (povidonum iodinatum), einen anderen Wirkstoff; die Präparate mit Povidon K 25 sind Augentropfen.",
+   "summary": "Desinfizierende Creme 69437 enthält Povidon-Iod, nicht Povidon K 25"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "povidonum_k_25",
+   "file": "povidonum_k_25.md",
+   "id": "ch-lic-20261124c-povidonum_k_25-2",
+   "finding": "概覽表原適應症的「Wunddesinfektion」是 69437 BETADINA（povidonum iodinatum）的 Swissmedic 適應症，不是 povidonum K 25 的",
+   "claim": "| Ursprüngliche Indikation | Tränenflüssigkeitsersatz; Künstliche Tränen; Wunddesinfektion; Tränenersatz |",
+   "replacement": "| Ursprüngliche Indikation | Tränenflüssigkeitsersatz; Künstliche Tränen; Tränenersatz |",
+   "note": "Korrigiert: „Wunddesinfektion“ ist das Anwendungsgebiet von BETADINA desinfizierende Creme (69437), deren Wirkstoff laut Swissmedic Povidon-Iod ist, nicht Povidon K 25.",
+   "summary": "Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "formaldehyde",
+   "file": "formaldehyde.md",
+   "id": "ch-lic-20261124c-formaldehyde-1",
+   "finding": "32238 Tannosynt flüssig 的成分是 phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum（縮合聚合物，合成鞣質），不是甲醛；已從證據包移出。甲醛只剩 True Test 貼片（56688，過敏原診斷）",
+   "claim": "Formaldehyd (Handelsname Tannosynt flüssig) wird in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen eingesetzt. Zudem ist es Bestandteil eines Pflasters zur Allergiediagnostik.",
+   "replacement": "Formaldehyd ist in der Schweiz als Bestandteil eines Pflasters zur Allergiediagnostik zugelassen.",
+   "note": "Korrigiert: Tannosynt flüssig (32238) enthält laut Swissmedic ein Kondensat aus Phenol, Phenolsulfonsäure, Formaldehyd und Harnstoff (Natriumsalz, ein synthetischer Gerbstoff), nicht Formaldehyd; mit Formaldehyd als Wirkstoff ist das Allergie-Testpflaster True Test (56688) erfasst.",
+   "summary": "Tannosynt flüssig (32238) enthält ein Kondensat, nicht Formaldehyd"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "formaldehyde",
+   "file": "formaldehyde.md",
+   "id": "ch-lic-20261124c-formaldehyde-2",
+   "finding": "概覽表原適應症的前半是 32238 Tannosynt（縮合聚合物）的適應症",
+   "claim": "| Ursprüngliche Indikation | Entzündliche, nässende und juckende Hauterkrankungen; Diagnose von Allergien |",
+   "replacement": "| Ursprüngliche Indikation | Diagnose von Allergien |",
+   "note": "Korrigiert: „Entzündliche, nässende und juckende Hauterkrankungen“ ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Phenol-Formaldehyd-Harnstoff-Kondensat ist, nicht Formaldehyd.",
+   "summary": "Ursprüngliche Indikation: Anwendungsgebiet von Tannosynt (Kondensat) entfernt"
+  },
+  {
+   "action": "annotate",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "formaldehyde",
+   "file": "formaldehyde.md",
+   "id": "ch-lic-20261124c-formaldehyde-3",
+   "finding": "模型推論段的「Hautanwendung」指的是 Tannosynt 的皮膚治療用途；推論原文不改，只加註",
+   "claim": "Eine mögliche Verbindung zwischen der Hautanwendung und der Leishmaniose",
+   "note": "Die hier erwähnte therapeutische Hautanwendung bezog sich auf Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Phenol-Formaldehyd-Harnstoff-Kondensat ist, nicht Formaldehyd; mit Formaldehyd als Wirkstoff ist in der Schweiz nur ein Allergie-Testpflaster erfasst. Die Modellbegründung wurde nicht umgeschrieben.",
+   "summary": "Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "id": "ch-lic-20261124c-phenol-2",
+   "finding": "概覽表原適應症是 32238 Tannosynt（縮合聚合物）的適應症；苯酚本身在證據包裡沒有 Swissmedic 品項",
+   "claim": "| Ursprüngliche Indikation | Entzündliche, nässende und juckende Hauterkrankungen |",
+   "replacement": "| Ursprüngliche Indikation | In den ausgewerteten Swissmedic-Daten keine Zulassung mit Phenol als Wirkstoff erfasst |",
+   "note": "Korrigiert: „Entzündliche, nässende und juckende Hauterkrankungen“ ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Kondensat aus Phenol, Phenolsulfonsäure, Formaldehyd und Harnstoff ist, nicht Phenol.",
+   "summary": "Ursprüngliche Indikation: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt"
+  },
+  {
+   "action": "annotate",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "id": "ch-lic-20261124c-phenol-3",
+   "finding": "模型推論段以 Tannosynt 的適應症當原適應症；推論原文不改，只加註",
+   "claim": "Die ursprüngliche Indikation (entzündliche, nässende, juckende Hauterkrankungen) und die vorhergesagte Indikation sind beides Hauterkrankungen.",
+   "note": "Die hier genannte ursprüngliche Indikation ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Phenol-Formaldehyd-Harnstoff-Kondensat ist, nicht Phenol; für Phenol als Wirkstoff ist in den ausgewerteten Swissmedic-Daten keine Zulassung erfasst. Die Modellbegründung wurde nicht umgeschrieben.",
+   "summary": "Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "trastuzumabum",
+   "file": "trastuzumabum.md",
+   "id": "ch-lic-20261124c-trastuzumabum-1",
+   "finding": "概覽表原適應症併進了 67967 Enhertu（trastuzumabum deruxtecanum：Brustkrebs, Magenkarzinom, PanTumor）與 62892 Kadcyla（trastuzumabum emtansinum：Mammakarzinom）的 Swissmedic 適應症；兩者是抗體藥物複合體、另一個有效成分，已從證據包移出",
+   "claim": "| Ursprüngliche Indikation | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs; Brustkrebs, Magenkarzinom, PanTumor; Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs; Mammakarzinom; Onkologikum; Mammakarzinom im Frühstadium; Oncolog |",
+   "replacement": "| Ursprüngliche Indikation | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs; Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs; Onkologikum; Mammakarzinom im Frühstadium; Oncolog |",
+   "note": "Korrigiert: „Brustkrebs, Magenkarzinom, PanTumor“ und „Mammakarzinom“ sind die Anwendungsgebiete von Enhertu (67967, Trastuzumab deruxtecan) und Kadcyla (62892, Trastuzumab emtansin); diese Antikörper-Wirkstoff-Konjugate sind laut Swissmedic andere Wirkstoffe als Trastuzumab.",
+   "summary": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪人工查核（用戶決定）：證據包收錯的品項依 config/bundle_record_exclusions.json 移到 tfda.excluded_records（同一個 DrugBank ID、其實是另一個有效成分；成分欄照 Swissmedic Zugelassene Packungen HAM），正文因此矛盾的句子逐句對照",
+   "drug": "scopolamini_butylbromidum",
+   "file": "scopolamini_butylbromidum.md",
+   "id": "ch-lic-20261124c-scopolamini_butylbromidum-2",
+   "finding": "概覽表原適應症的「Mydriatikum」是 29804 Scopolamine Dispersa（scopolamini hydrobromidum）的 Swissmedic 適應症",
+   "claim": "| Ursprüngliche Indikation | Spasmolyticum; Mydriatikum |",
+   "replacement": "| Ursprüngliche Indikation | Spasmolyticum |",
+   "note": "Korrigiert: „Mydriatikum“ ist das Anwendungsgebiet von Scopolamine 0,25% Dispersa, Augentropfen (29804), deren Wirkstoff laut Swissmedic Scopolaminhydrobromid ist, nicht Scopolaminbutylbromid.",
+   "summary": "Ursprüngliche Indikation: „Mydriatikum“ (Scopolaminhydrobromid-Augentropfen) entfernt"
   }
  ]
 }

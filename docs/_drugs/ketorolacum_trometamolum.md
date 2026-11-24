@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00465
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ketorolacum Trometamolum: vorhergesagte neue Indikation Kopfschmerzerkrankung (headache disorder) (Evidenzstufe L1)."
 ---
 
@@ -100,6 +100,23 @@ Die Evidenz stammt überwiegend aus Studien zu Migräne und Spannungskopfschmerz
 | [39428459](https://pubmed.ncbi.nlm.nih.gov/39428459/) | 2024 | Halbexperimentelle Studie | Chinese Neurosurgical Journal | Vergleich von intravenösem Ketorolac und intravenösem Paracetamol bei Kopfschmerzen nach Schädel-Hirn-Trauma |
 | [33493999](https://pubmed.ncbi.nlm.nih.gov/33493999/) | 2021 | Beobachtungsstudie | Pediatric Neurology | Wirkung einer Standardkombination (Kochsalzbolus, Ketorolac, Prochlorperazin u. a.) auf Schmerzen bei Migräne von Kindern nach 2 und 24 Stunden sowie 7 Tagen |
 | [35103222](https://pubmed.ncbi.nlm.nih.gov/35103222/) | 2022 | Retrospektive Studie | Cureus | Sphenopalatinum-Ganglion-Block bei Migräne in der Notaufnahme, im Vergleich zum üblichen „Migräne-Cocktail“ mit Ketorolac |
+
+---
+
+## Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 48802 | Tora-dol 30 mg, Injektionslösung | Synthetika | Antiphlogistikum, Analgetikum | Gültig |
+| 48803 | Tora-dol, Filmtabletten | Synthetika | Antiphlogistikum, Analgetikum | Gültig |
+| 53181 | Acular, Augentropfen | Synthetika | Nicht steroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
+| 61219 | KetoVision, Augentropfen | Synthetika | Nichtsteroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

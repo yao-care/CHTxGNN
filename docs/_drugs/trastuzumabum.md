@@ -49,13 +49,19 @@ Trastuzumab ist ein Antikörper gegen HER2 und wird in der Schweiz in der Krebsb
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs; Brustkrebs, Magenkarzinom, PanTumor; Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs; Mammakarzinom; Onkologikum; Mammakarzinom im Frühstadium; Oncolog |
+| Ursprüngliche Indikation | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs; Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs; Onkologikum; Mammakarzinom im Frühstadium; Oncolog |
 | Vorhergesagte neue Indikation | Maligner kutaner Granularzelltumor der Haut (malignant cutaneous granular cell skin tumor) |
 | TxGNN-Vorhersagewert | 0.9948 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
-| Anzahl Zulassungen | 9 (gültig: 9) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | Empfohlene Entscheidung | Abwarten |
+
+<!-- review:begin ch-lic-20261124c-trastuzumabum-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Ursprüngliche Indikation / Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs; Brustkrebs, Magenkarzinom, PanTumor; Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs; Mammakarzinom; Onkologikum; Mammakarzinom im Frühstadium; Oncolog“ Korrigiert: „Brustkrebs, Magenkarzinom, PanTumor“ und „Mammakarzinom“ sind die Anwendungsgebiete von Enhertu (67967, Trastuzumab deruxtecan) und Kadcyla (62892, Trastuzumab emtansin); diese Antikörper-Wirkstoff-Konjugate sind laut Swissmedic andere Wirkstoffe als Trastuzumab. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124c-trastuzumabum-1 -->
 
 ---
 
@@ -76,14 +82,12 @@ Bevor eine biologische Begründung tragfähig wäre, müsste im Tumorgewebe eine
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 55065 | Herceptin 440 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
-| 62892 | Kadcyla 100 mg, Pulver zur Herstellung eines Infusionslösungskonzentr… (+1 weitere Bezeichnung) | Biotechnologika | Mammakarzinom | Gültig |
 | 65964 | Herceptin subkutan 600mg/5ml, Lösung zur subkutanen Injektion | Biotechnologika | Mammakarzinom im Frühstadium | Gültig |
 | 66975 | Trazimera 150 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
 | 67205 | Kanjinti 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
 | 67467 | Ogivri 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
 | 67470 | Ogivri 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
 | 67892 | Herzuma 440 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | Oncologique | Gültig |
-| 67967 | Enhertu 100 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… | Biotechnologika | Brustkrebs, Magenkarzinom, PanTumor | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 
@@ -124,11 +128,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ## Prüfprotokoll
 
-Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt.
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
+| 2026-11-24 | Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

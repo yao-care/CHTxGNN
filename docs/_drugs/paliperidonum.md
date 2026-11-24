@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01267
 monitor_inn: "Paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Paliperidonum: vorhergesagte neue Indikation Retinadystrophie mit oder ohne extraokulare Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -78,6 +78,25 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60466 | Xeplion 25 mg, Depot-Injektionssuspension in einer Fertigspritze (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+| 67213 | Paliperidon-Mepha retard 3 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+| 69356 | Paliperidon Spirig HC retard 25 mg/0.25 ml, Depot-Injektionssuspensio… (+4 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+| 69749 | Paliperidon Sandoz 25 mg/0.25 ml, Depot-Injektionssuspension in einer… (+4 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

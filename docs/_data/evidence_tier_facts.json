@@ -699,9 +699,9 @@
    "L5": 566
   },
   "with_current": 560,
-  "none_current": 6,
-  "without_data": 104,
-  "with_reviews": 320,
+  "none_current": 5,
+  "without_data": 105,
+  "with_reviews": 322,
   "rows": [
    {
     "t": "Dextromethorphanum",
@@ -962,17 +962,6 @@
     "l": "L5",
     "i": "Pneumocystose",
     "lt": 0,
-    "lv": 9,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Trastuzumabum",
-    "u": "/drugs/trastuzumabum/",
-    "l": "L5",
-    "i": "Maligner kutaner Granularzelltumor der Haut",
-    "lt": 9,
     "lv": 9,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
@@ -1383,6 +1372,17 @@
     "lv": 7,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Trastuzumabum",
+    "u": "/drugs/trastuzumabum/",
+    "l": "L5",
+    "i": "Maligner kutaner Granularzelltumor der Haut",
+    "lt": 7,
+    "lv": 7,
+    "r": 2,
+    "rs": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
     "x": 0
    },
    {
@@ -1901,17 +1901,6 @@
     "r": 0,
     "rs": "",
     "x": 3
-   },
-   {
-    "t": "Scopolamini Butylbromidum",
-    "u": "/drugs/scopolamini-butylbromidum/",
-    "l": "L5",
-    "i": "Cauda-equina-Syndrom",
-    "lt": 5,
-    "lv": 5,
-    "r": 1,
-    "rs": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
-    "x": 0
    },
    {
     "t": "Tamsulosinum",
@@ -2659,6 +2648,17 @@
     "lv": 4,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Scopolamini Butylbromidum",
+    "u": "/drugs/scopolamini-butylbromidum/",
+    "l": "L5",
+    "i": "Cauda-equina-Syndrom",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "Ursprüngliche Indikation: „Mydriatikum“ (Scopolaminhydrobromid-Augentropfen) entfernt",
     "x": 0
    },
    {
@@ -4312,17 +4312,6 @@
     "x": 0
    },
    {
-    "t": "Povidonum K 25",
-    "u": "/drugs/povidonum-k-25/",
-    "l": "L5",
-    "i": "Angeborene ichthyosiforme Erythrodermie",
-    "lt": 5,
-    "lv": 2,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Prilocaini Hydrochloridum",
     "u": "/drugs/prilocaini-hydrochloridum/",
     "l": "L5",
@@ -5559,10 +5548,10 @@
     "u": "/drugs/formaldehyde/",
     "l": "L5",
     "i": "leishmaniasis, diffuse cutaneous",
-    "lt": 2,
+    "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 3,
+    "rs": "Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat",
     "x": 0
    },
    {
@@ -6223,6 +6212,17 @@
     "lv": 1,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Povidonum K 25",
+    "u": "/drugs/povidonum-k-25/",
+    "l": "L5",
+    "i": "Angeborene ichthyosiforme Erythrodermie",
+    "lt": 4,
+    "lv": 1,
+    "r": 2,
+    "rs": "Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt",
     "x": 0
    },
    {
@@ -6901,10 +6901,10 @@
     "u": "/drugs/phenol/",
     "l": "L5",
     "i": "acrodermatitis chronica atrophicans",
-    "lt": 1,
+    "lt": 0,
     "lv": 0,
-    "r": 1,
-    "rs": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
+    "r": 3,
+    "rs": "Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat",
     "x": 0
    },
    {
@@ -6942,10 +6942,6 @@
    {
     "t": "Chloramphenicol",
     "u": "/drugs/chloramphenicol/"
-   },
-   {
-    "t": "Phenol",
-    "u": "/drugs/phenol/"
    },
    {
     "t": "Reboxetinum",

@@ -12,20 +12,21 @@
  "public_pages": 627,
  "licence_snapshot": "ch_licenses.json.gz",
  "licence": {
-  "drugs_with_data": 510,
+  "drugs_with_data": 509,
   "drugs_with_current": 504,
-  "drugs_none_current": 6,
-  "drugs_without_data": 117,
+  "drugs_none_current": 5,
+  "drugs_without_data": 118,
   "drugs_partial": 0,
-  "items_total": 1323,
-  "items_current": 1292
+  "items_total": 1317,
+  "items_current": 1288
  },
  "reviews": {
-  "records": 381,
-  "pages": 359,
-  "public_pages_with_records": 359,
+  "records": 390,
+  "pages": 361,
+  "public_pages_with_records": 361,
   "by_action": {
-   "correct": 13,
+   "annotate": 2,
+   "correct": 20,
    "mechanism": 368
   }
  },
@@ -136,15 +137,6 @@
    "i": "diffuse scleroderma"
   },
   {
-   "t": "Phenol",
-   "u": "/drugs/phenol/",
-   "l": "L5",
-   "lt": 1,
-   "lv": 0,
-   "r": 1,
-   "i": "acrodermatitis chronica atrophicans"
-  },
-  {
    "t": "Reboxetinum",
    "u": "/drugs/reboxetinum/",
    "l": "L5",
@@ -175,6 +167,24 @@
    "i": "Polyklonales Hyperviskositätssyndrom"
   },
   {
+   "t": "Formaldehyde",
+   "u": "/drugs/formaldehyde/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 1,
+   "r": 3,
+   "i": "leishmaniasis, diffuse cutaneous"
+  },
+  {
+   "t": "Phenol",
+   "u": "/drugs/phenol/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 0,
+   "r": 3,
+   "i": "acrodermatitis chronica atrophicans"
+  },
+  {
    "t": "Bendamustinum",
    "u": "/drugs/bendamustinum/",
    "l": "L1",
@@ -200,24 +210,6 @@
    "lv": 1,
    "r": 2,
    "i": "Liposarkom"
-  },
-  {
-   "t": "Chloramphenicol",
-   "u": "/drugs/chloramphenicol/",
-   "l": "L5",
-   "lt": 1,
-   "lv": 0,
-   "r": 2,
-   "i": "diffuse scleroderma"
-  },
-  {
-   "t": "Codeini Phosphas Hemihydricus",
-   "u": "/drugs/codeini-phosphas-hemihydricus/",
-   "l": "L5",
-   "lt": 9,
-   "lv": 7,
-   "r": 2,
-   "i": "Erkrankung der Nasenhöhle"
   }
  ],
  "example": {
@@ -231,21 +223,39 @@
  },
  "recent_reviews": [
   {
-   "t": "Tamsulosinum",
-   "u": "/drugs/tamsulosinum/",
-   "s": "Entfernt: „davon 7 gültig“",
+   "t": "Trastuzumabum",
+   "u": "/drugs/trastuzumabum/",
+   "s": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
    "d": "2026-11-24"
   },
   {
    "t": "Scopolamini Butylbromidum",
    "u": "/drugs/scopolamini-butylbromidum/",
-   "s": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
+   "s": "Ursprüngliche Indikation: „Mydriatikum“ (Scopolaminhydrobromid-Augentropfen) entfernt",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Povidonum K 25",
+   "u": "/drugs/povidonum-k-25/",
+   "s": "Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt",
    "d": "2026-11-24"
   },
   {
    "t": "Phenol",
    "u": "/drugs/phenol/",
-   "s": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
+   "s": "Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Formaldehyde",
+   "u": "/drugs/formaldehyde/",
+   "s": "Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tamsulosinum",
+   "u": "/drugs/tamsulosinum/",
+   "s": "Entfernt: „davon 7 gültig“",
    "d": "2026-11-24"
   },
   {
@@ -305,21 +315,39 @@
  ],
  "recent_licence_reviews": [
   {
-   "t": "Tamsulosinum",
-   "u": "/drugs/tamsulosinum/",
-   "s": "Entfernt: „davon 7 gültig“",
+   "t": "Trastuzumabum",
+   "u": "/drugs/trastuzumabum/",
+   "s": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
    "d": "2026-11-24"
   },
   {
    "t": "Scopolamini Butylbromidum",
    "u": "/drugs/scopolamini-butylbromidum/",
-   "s": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
+   "s": "Ursprüngliche Indikation: „Mydriatikum“ (Scopolaminhydrobromid-Augentropfen) entfernt",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Povidonum K 25",
+   "u": "/drugs/povidonum-k-25/",
+   "s": "Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt",
    "d": "2026-11-24"
   },
   {
    "t": "Phenol",
    "u": "/drugs/phenol/",
-   "s": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
+   "s": "Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Formaldehyde",
+   "u": "/drugs/formaldehyde/",
+   "s": "Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tamsulosinum",
+   "u": "/drugs/tamsulosinum/",
+   "s": "Entfernt: „davon 7 gültig“",
    "d": "2026-11-24"
   },
   {
@@ -332,24 +360,6 @@
    "t": "Chloramphenicol",
    "u": "/drugs/chloramphenicol/",
    "s": "„bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Ticagrelorum",
-   "u": "/drugs/ticagrelorum/",
-   "s": "„alle gültig“ → 68830 nicht mehr aufgeführt (Status in der Tabelle)",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Metoprololi Tartras",
-   "u": "/drugs/metoprololi-tartras/",
-   "s": "„alle drei gültig“ → 39252 nicht mehr aufgeführt (Status in der Tabelle)",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Bisoprololi Fumaras",
-   "u": "/drugs/bisoprololi-fumaras/",
-   "s": "„alle gültig“ → Status in der Tabelle (65034 nicht mehr aufgeführt)",
    "d": "2026-11-24"
   }
  ],

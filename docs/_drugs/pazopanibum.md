@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06589
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pazopanibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L3). Ursprüngliche Indikation: Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen W…"
 ---
 
@@ -110,6 +110,22 @@ Diese Angaben beruhen auf allgemeinem pharmakologischem Wissen und nicht auf den
 | Emetogenitätsklassifikation | Niedrig |
 | Überwachungspunkte | Leberwerte (Leberschädigung möglich), Blutbild, Blutdruck, Nierenfunktion, Schilddrüsenfunktion |
 | Handhabungsschutz | Tabletten nicht zerteilen oder zerdrücken. Übliche Vorsichtsmassnahmen für orale Krebsmedikamente beachten. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60326 | Votrient 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+| 69276 | Pazopanib Spirig HC 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+| 69994 | Pazopanib Sandoz 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms; Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00290
 monitor_inn: "Bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bleomycinum: vorhergesagte neue Indikation Neoplasma der Cauda equina (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -92,6 +92,20 @@ Derzeit keine verwandten klinischen Studien registriert.
 | Emetogenitätsklassifikation | Niedrig |
 | Überwachungspunkte | Lungenfunktion (Lungentoxizität), Blutbild, Leber- und Nierenfunktion |
 | Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 35856 | Bleomycin Baxter, Pulver zur Herstellung einer Injektions-/Infusionsl… | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

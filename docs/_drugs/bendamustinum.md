@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06769
 monitor_inn: "Bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bendamustinum: vorhergesagte neue Indikation Mantelzelllymphom (mantle cell lymphoma) (Evidenzstufe L1). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -112,6 +112,22 @@ Der hohe Vorhersagewert passt zur vorliegenden klinischen Evidenz. Mehrere rando
 | Emetogenitätsklassifikation | Mittel |
 | Überwachungspunkte | Blutbild, Leber- und Nierenfunktion |
 | Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58816 | Ribomustin 25 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 67412 | Bendamustin Sandoz 25 mg, Pulver für ein Konzentrat zur Herstellung e… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 67461 | Bendamustin Accord 25 mg, Pulver für ein Konzentrat zur Herstellung e… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

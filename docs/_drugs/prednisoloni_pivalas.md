@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00860
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisoloni Pivalas: vorhergesagte neue Indikation Kreisrunder Haarausfall (alopecia areata) (Evidenzstufe L2). Ursprüngliche Indikation: Augenentzündungen"
 ---
 
@@ -87,6 +87,23 @@ Derzeit keine verwandten klinischen Studien registriert.
 | [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Langzeit-Verlaufsstudie | Dermatologic Therapy | 65 Kinder und Jugendliche mit ausgedehntem Befall erhielten orale Pulstherapie plus topische Kortikosteroide. Die mediane Nachbeobachtung betrug 96 Monate. |
 | [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | Klinische Studie | Dermato-endocrinology | Mitteldosierte Prednisolon-Pulstherapie. Systemisches Prednisolon scheint in frühen Stadien wirksam zu sein, doch Nebenwirkungen führten zum Therapieabbruch. |
 | [30294905](https://pubmed.ncbi.nlm.nih.gov/30294905/) | 2019 | Mechanismusstudie | Journal of Cosmetic Dermatology | Untersucht Veränderungen der TNF-α-Spiegel als möglichen Wirkmechanismus oraler Puls-Steroide. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 23477 | Ultracortenol, Augensalbe | Synthetika | Augenentzündungen | Gültig |
+| 29348 | Prednisolon Streuli 5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+| 34057 | Pred Forte 1%, Augentropfensuspension | Synthetika | nicht-infektiöse Augenentzündungen | Gültig |
+| 38840 | Spiricort 5, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Glucocorticoid-Therapie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

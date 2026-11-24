@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00126
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acidum Ascorbicum: vorhergesagte neue Indikation Nicht-syndromische Ösophagusfehlbildung (non-syndromic esophageal malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Vitamin-C-Präparat"
 ---
 
@@ -76,6 +76,23 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 25926 | Vitamin C Streuli 10 %/ 5 mL, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Vitamin-C-Präparat | Gültig |
+| 44259 | Burgerstein Vitamin C retard, Hartkapseln | Synthetika | Vitamin C-Präparat | Gültig |
+| 56194 | Redoxon Orangenaroma, Kautabletten | Synthetika | Vitamin-C-Präparat | Gültig |
+| 56354 | Redoxon orange 1g, Brausetabletten | Synthetika | Vitamin C Präparat | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

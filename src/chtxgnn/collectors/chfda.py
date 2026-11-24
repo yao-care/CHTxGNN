@@ -169,6 +169,11 @@ class LocalFDACollector(BaseCollector):
                 # Phase 1 對照沒對上的成分（例：重音字未正規化）→ 退回比對本國藥證的成分欄
                 recs = self._text_match(drug)
             active = [r for r in recs if not self._is_withdrawn(r)]
+            # 2026-11-24（第三輪，用戶決定）：同一個 DrugBank ID、其實是另一個有效成分的紀錄不收（config/bundle_record_exclusions.json；
+            # 已有的證據包由 scripts/exclude_mismatched_records.py 移到 tfda.excluded_records）
+            from ..regulatory import record_exclusions as RX
+            ing_f = self.fm.get("ingredients")
+            active = [r for r in active if not RX.match(drug, {"ingredients": r.get(ing_f, "") if ing_f else ""})]
             return self._make_result(query=query, data=self._format(active, ids), success=True)
         except Exception as e:  # noqa: BLE001 — 與其他 collector 一致：失敗時回 not found 並帶錯誤
             return self._make_result(query=query, data={"found": False, "records": []}, success=False, error_message=str(e))

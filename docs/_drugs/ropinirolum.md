@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00268
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropinirolum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Morbus Parkinson"
 ---
 
@@ -86,6 +86,24 @@ Derzeit keine verwandten klinischen Studien registriert
 | [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Präklinische Mechanismusstudie | Pharmacological Research | Varianten des Dopamin-D4-Rezeptors und der α2A-Adrenozeptor, beide mit ADHS assoziiert, bilden Heteromere mit unterschiedlichen pharmakologischen Eigenschaften. |
 | [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Tierstudie | Journal of Neuropathology and Experimental Neurology | Mausmodell mit A11-Läsion und Eisenmangel zeigt gesteigerte Bewegungsaktivität (Modell für das Restless-Legs-Syndrom); nur indirekter Bezug. |
 | [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Fallserie (Nebenwirkung) | Cornea | Beschreibt Hornhautödeme bei 3 Patienten unter dopaminergen Substanzen und deren Rückbildung. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53841 | Requip 0,25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
+| 56907 | Adartrel 0,25 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung des idiopathischen Restless Legs Syndroms (RLS) | Gültig |
+| 57740 | Requip-Modutab 2 mg, Tabletten mit veränderter Wirkstofffreisetzung (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
+| 62480 | Ropinirol Sandoz Retard 2 mg, Tablette mit veränderter Wirkstofffreis… (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
+| 62614 | Ropinirol-Mepha retard 2 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

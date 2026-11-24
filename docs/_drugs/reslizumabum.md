@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06602
 monitor_inn: "Reslizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Reslizumabum: vorhergesagte neue Indikation Immunthrombozytopenie (thrombocytopenia due to immune destruction) (Evidenzstufe L5)."
 ---
 
@@ -66,6 +66,20 @@ Reslizumab bindet IL-5 und senkt dadurch die Zahl der eosinophilen Granulozyten.
 Ein belegter Zusammenhang zwischen der IL-5-Blockade und der Immunthrombozytopenie ist in den Daten nicht dokumentiert. Die Immunthrombozytopenie wird vor allem durch Autoantikörper gegen Blutplättchen und eine gestörte Bildung von Blutplättchen im Knochenmark getrieben. Beides sind keine primär IL-5- oder eosinophilenabhängigen Vorgänge.
 
 Der hohe Vorhersagewert ist deshalb als reine Modellaussage zu verstehen. Er ersetzt keine klinischen Belege.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66340 | Cinqaero 100 mg/10 mL, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Biotechnologika | Zusatztherapie bei schwerem eosinophilem Asthma bei Erwachsenen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

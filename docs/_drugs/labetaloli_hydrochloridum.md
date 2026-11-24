@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00598
 monitor_inn: "Labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Labetaloli Hydrochloridum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
@@ -64,6 +64,21 @@ Labetalol blockiert sowohl Alpha-1- als auch Beta-Rezeptoren. Dadurch senkt es d
 Die maligne Hypertonie mit Nierenbeteiligung ist durch stark erhöhten Blutdruck gekennzeichnet, der die Nierengefässe schädigen kann. Eine rasche und kontrollierte Blutdrucksenkung könnte solche Organschäden begrenzen. Labetalol wird klinisch bei hypertensiven Notfällen eingesetzt, weshalb ein biologischer Zusammenhang denkbar ist.
 
 Ob Labetalol über die reine Blutdrucksenkung hinaus die Nierenfunktion schützt, ist nicht belegt. Der hohe Vorhersagewert ist eine reine Modellaussage ohne klinische Bestätigung.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 41529 | Trandate, Injektionslösung | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 41530 | Trandate 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

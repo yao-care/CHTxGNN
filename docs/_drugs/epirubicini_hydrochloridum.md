@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00445
 monitor_inn: "Epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Epirubicini Hydrochloridum: vorhergesagte neue Indikation Primäres Lungenlymphom (primary pulmonary lymphoma) (Evidenzstufe L4). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -97,6 +97,23 @@ Derzeit keine verwandten klinischen Studien registriert.
 | Emetogenitätsklassifikation | Mittel (bei hohen Dosen höher) |
 | Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Herzfunktion (Anthrazykline können das Herz schädigen) |
 | Handhabungsschutz | Ja, die üblichen Schutzmassnahmen für Zytostatika sind erforderlich. Bei Paravasation drohen schwere Gewebeschäden. |
+
+---
+
+## Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 50359 | Farmorubicin RD 10 mg, Pulver und Lösungsmittel zur Herstellung einer… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 51579 | Farmorubicin Solution 10 mg/5 ml, Lösung zur intravesikalen Anwendung… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 56243 | Epirubicin Sandoz 10 mg/5 ml, Konzentrat zur Herstellung einer Injekt… (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 58274 | Epirubicin-Teva liquid 10 mg/5 ml, Konzentrat zur Herstellung einer I… (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

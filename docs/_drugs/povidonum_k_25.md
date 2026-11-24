@@ -39,7 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **1**
 
 ### Zusammenfassung
 
-Povidon K 25 ist ein wasserlösliches Polymer, das in der Schweiz in Augentropfen als Tränenersatz und in einer desinfizierenden Creme eingesetzt wird. Für die angeborene ichthyosiforme Erythrodermie (congenital ichthyosiform erythroderma), eine genetisch bedingte Verhornungsstörung der Haut, liegt lediglich eine Modellvorhersage vor. Es gibt dazu keine klinischen Studien und keine Literatur, die Evidenz ist daher sehr gering.
+Povidon K 25 ist ein wasserlösliches Polymer, das in der Schweiz in Augentropfen als Tränenersatz eingesetzt wird. Für die angeborene ichthyosiforme Erythrodermie (congenital ichthyosiform erythroderma), eine genetisch bedingte Verhornungsstörung der Haut, liegt lediglich eine Modellvorhersage vor. Es gibt dazu keine klinischen Studien und keine Literatur, die Evidenz ist daher sehr gering.
+
+<!-- review:begin ch-lic-20261124c-povidonum_k_25-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „das in der Schweiz in Augentropfen als Tränenersatz und in einer desinfizierenden Creme eingesetzt wird.“ Korrigiert: Die desinfizierende Creme (BETADINA desinfizierende Creme, 69437) enthält laut Swissmedic Povidon-Iod (povidonum iodinatum), einen anderen Wirkstoff; die Präparate mit Povidon K 25 sind Augentropfen. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124c-povidonum_k_25-1 -->
 
 ---
 
@@ -47,13 +53,19 @@ Povidon K 25 ist ein wasserlösliches Polymer, das in der Schweiz in Augentropfe
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Tränenflüssigkeitsersatz; Künstliche Tränen; Wunddesinfektion; Tränenersatz |
+| Ursprüngliche Indikation | Tränenflüssigkeitsersatz; Künstliche Tränen; Tränenersatz |
 | Vorhergesagte neue Indikation | Angeborene ichthyosiforme Erythrodermie (congenital ichthyosiform erythroderma) |
 | TxGNN-Vorhersagewert | 0.9911 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 1) |
 | Empfohlene Entscheidung | Abwarten |
+
+<!-- review:begin ch-lic-20261124c-povidonum_k_25-2 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Ursprüngliche Indikation / Tränenflüssigkeitsersatz; Künstliche Tränen; Wunddesinfektion; Tränenersatz“ Korrigiert: „Wunddesinfektion“ ist das Anwendungsgebiet von BETADINA desinfizierende Creme (69437), deren Wirkstoff laut Swissmedic Povidon-Iod ist, nicht Povidon K 25. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124c-povidonum_k_25-2 -->
 
 ---
 
@@ -86,7 +98,6 @@ Derzeit keine verwandte Literatur verfügbar.
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 51145 | Protagent SE, Augentropfen | Synthetika | Künstliche Tränen | Gültig |
-| 69437 | BETADINA desinfizierende Creme, Creme | Synthetika | Wunddesinfektion | Gültig |
 | 47598 | Protagent, Augentropfen | Synthetika | Tränenersatz | Erloschen |
 | 53634 | Oculac, Augentropfen | Synthetika | Tränenflüssigkeitsersatz | Erloschen |
 | 53635 | Oculac SDU, Augentropfen | Synthetika | Tränenflüssigkeitsersatz | Erloschen |
@@ -109,6 +120,20 @@ Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Human
 - Der Wirkmechanismus aus einer zuverlässigen Arzneimittelquelle.
 - Präklinische oder mechanistische Daten, die einen Nutzen bei dieser Verhornungsstörung belegen.
 - Prüfung der Routenkompatibilität, da die Darreichungswege für die neue Indikation noch nicht bewertet sind.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | Desinfizierende Creme 69437 enthält Povidon-Iod, nicht Povidon K 25 | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

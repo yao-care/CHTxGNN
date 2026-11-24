@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01141
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Micafunginum: vorhergesagte neue Indikation Harnwegsinfektion (urinary tract infection (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Antimykotikum"
 ---
 
@@ -89,6 +89,21 @@ Derzeit keine verwandten klinischen Studien registriert
 | [40765059](https://pubmed.ncbi.nlm.nih.gov/40765059/) | 2025 | Fallbericht | Journal of Pharmaceutical Health Care and Sciences | Nierenbecken- und Blutinfektion durch *C. glabrata* unter einem SGLT2-Hemmer, erfolgreich mit Micafungin behandelt. |
 | [29109159](https://pubmed.ncbi.nlm.nih.gov/29109159/) | 2018 | Retrospektive Multizenterstudie | Antimicrobial Agents and Chemotherapy | Zeigt eine Übertherapie der asymptomatischen Candidurie mit Antimykotika, obwohl Leitlinien davon abraten. Wichtig für die Abgrenzung, liefert aber keinen Wirksamkeitsnachweis. |
 | [33520520](https://pubmed.ncbi.nlm.nih.gov/33520520/) | 2020 | Fallbericht | Cureus | *Candida auris*-Harnwegsinfektion bei einem Pflegeheimpatienten mit mehreren Begleiterkrankungen, Hinweis auf die Resistenzproblematik. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60724 | Mycamine 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
+| 69511 | Micafungin Labatec 50 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetika | Antimycosique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

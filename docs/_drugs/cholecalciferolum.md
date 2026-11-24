@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00169
 monitor_inn: "Cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholecalciferolum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (Evidenzstufe L5)."
 ---
 
@@ -76,6 +76,29 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 33481 | Vitamin D3 Streuli Prophylax, Lösung zum Einnehmen (+1 weitere Bezeichnung) | Synthetika | Vitamin D-Präparat | Gültig |
+| 65856 | DIBASE 10'000, orale Tropflösung | Synthetika | Vitamin D-Präparat | Gültig |
+| 66124 | Luvit D3 zur Prophylaxe, Lösung zum Einnehmen (+1 weitere Bezeichnung) | Synthetika | Vitamin D-Präparat | Gültig |
+| 66441 | HEMONITA D3 zur Prophylaxe, Lösung zum Einnehmen (+1 weitere Bezeichnung) | Synthetika | Vitamin D-Präparat | Gültig |
+| 67173 | Viferol D3 25'000 UI/ml, solution buvable | Synthetika | Prévention d’une carence en vitamine D chez les adultes présentant un risque identifiable de carence en vitam… | Gültig |
+| 67796 | Lundeos, capsule molle | Synthetika | Traitement de la carence en vitamine D chez les adultes et les adolescents à partir de 12 ans. Prévention d’u… | Gültig |
+| 67937 | Vitamin D3 Streuli 20`000 I.E. Weichkapseln | Synthetika | Initialbehandlung eines symptomatischen Vitamin-D-Mangelzustands bei Erwachsenen. | Gültig |
+| 68197 | D3 VitaCaps 24,000 IU (600 μg), Weichkapseln | Synthetika | Vitamin-D-Mangel | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

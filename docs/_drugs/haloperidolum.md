@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00502
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Haloperidolum: vorhergesagte neue Indikation Angeborene Glykosylierungsstörung mit defekter Fucosylierung (congenital disorder of glycosylation with defective fucosylation) (Evidenzstufe L5)."
 ---
 
@@ -76,6 +76,23 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 26891 | Haldol, Injektionslösung i.m. | Synthetika | Neurolepticum | Gültig |
+| 26892 | Haldol 2 mg/mL, Tropfen | Synthetika | Neurolepticum | Gültig |
+| 27304 | Haldol 10 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Neurolepticum | Gültig |
+| 44008 | Haldol Decanoas 50 mg/mL, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Neurolepticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

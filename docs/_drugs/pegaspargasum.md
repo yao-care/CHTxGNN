@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00059
 monitor_inn: "Pegaspargase"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Pegaspargasum: vorhergesagte neue Indikation Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (Evidenzstufe L5)."
 ---
 
@@ -92,6 +92,20 @@ Derzeit keine verwandte Literatur verfügbar.
 | Handhabungsschutz | Die Handhabung richtet sich nach der Fachinformation; in den zusammengestellten Daten sind keine Angaben enthalten |
 
 Die Einstufungen sind allgemeine Fachwerte und nicht aus den Zulassungsdaten abgeleitet.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66934 | Oncaspar 750 UI/ml, poudre pour solution injectable | Biotechnologika | Oncaspar est indiqué en association à d'autres agents antinéoplasiques pour le traitement de la leucémie lymp… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

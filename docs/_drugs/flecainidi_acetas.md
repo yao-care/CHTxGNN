@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01195
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flecainidi Acetas: vorhergesagte neue Indikation Schlaganfall (stroke disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarrhythmikum"
 ---
 
@@ -93,6 +93,21 @@ Keine der Publikationen untersucht Flecainid direkt bei Schlaganfall. Sie betref
 | [42782286](https://pubmed.ncbi.nlm.nih.gov/42782286/) | 2026 | Übersichtsarbeit | Herz | Frühe Rhythmuskontrolle ist wichtig, um Beschwerden, Spitaleinweisungen, ischämische Schlaganfälle und kardiovaskuläre Todesfälle zu verringern. |
 | [41954064](https://pubmed.ncbi.nlm.nih.gov/41954064/) | 2026 | Kohortenstudie | Journal of the American Heart Association | Langzeitergebnisse unter Klasse-1C-Antiarrhythmika bei Vorhofflimmern. Der kardiovaskuläre Nutzen gegenüber einer reinen Frequenzkontrolle ist noch unklar. |
 | [30067936](https://pubmed.ncbi.nlm.nih.gov/30067936/) | 2018 | Leitlinie | Medical Journal of Australia | Australische Leitlinie zur Diagnose und Behandlung von Vorhofflimmern. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 45710 | Tambocor, Injektionslösung | Synthetika | Antiarrhythmikum | Gültig |
+| 45711 | Tambocor, Tabletten | Synthetika | Antiarrhythmikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

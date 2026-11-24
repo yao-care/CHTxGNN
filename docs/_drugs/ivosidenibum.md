@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB14568
 monitor_inn: "Ivosidenib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ivosidenibum: vorhergesagte neue Indikation Bulbäre Poliomyelitis (bulbar polio) (Evidenzstufe L5). Ursprüngliche Indikation: Leucémie myéloïde aiguë (LMA) / Cholangiocarcinome"
 ---
 
@@ -66,6 +66,20 @@ Ivosidenib hemmt die mutierte IDH1. Dadurch sinkt in IDH1-mutierten Tumoren der 
 Die bulbäre Poliomyelitis ist eine Virusinfektion der Motoneuronen im Hirnstamm, ausgelöst durch das Poliovirus. Für eine Rolle von IDH1-Mutationen oder 2-HG bei der Entstehung dieser Erkrankung gibt es keine Hinweise. Eine antivirale Wirkung von Ivosidenib ist nicht beschrieben.
 
 Der hohe Vorhersagewert ist daher am ehesten ein Artefakt des Modells und biologisch nicht begründet. Ein glaubwürdiger Mechanismus fehlt.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69077 | Tibsovo 250 mg, comprimés pelliculés | Synthetika | Leucémie myéloïde aiguë (LMA) / Cholangiocarcinome | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

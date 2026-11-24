@@ -100,3 +100,20 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - 紀錄說明樣板（site_config `T["figures"]`）改成不寫數字；既有紀錄沒有用到它。更正文字寫死張數或舊表筆數的 6 筆（azathioprinum、dextromethorphanum、azithromycinum、bisoprololi_fumaras、metoprololi_tartras、ticagrelorum）同 id 重發，改成指向程式表，哪張失效的事實保留，前版存 history。
 - partial 頁市場段落裡跟程式表說明句「Die ausgewerteten Daten enthalten nur einen Teil …; die Liste kann unvollständig sein.」重複的 AI 保留句（只講「清單可能不完整」＋「mindestens N Zulassungen」的句子，與緊鄰的單純筆數句）：比照第一輪移除舊表說明句的做法直接刪掉，不寫查核框，69 頁 73 句（工具在 scratchpad CHTxGNN-r2/tools/dedup_partial.py）。含狀態或其他事實的句子（「Alle aufgeführten Zulassungen sind gültig」「davon 9 gültig und 4 gelöscht」等）、查核紀錄文字所在的句子、後一句以 Davon 承接的（paroxetine）不動，約 30 頁仍有重複意思的保留句。
 - checker 全量前後都是 0；gate exit 0。
+
+## 第三輪：證據包收錯的有效成分、缺市場段落的公開頁（2026-11-24）
+
+用戶 2026-11-24 第三輪決定（證據包 data-20261117-090726）：
+- A. 證據包收錯的品項：collectors/chfda.py 依 drug_mapping.csv 的 DrugBank ID 收許可證，同一個 ID 底下的另一個有效成分（不是本藥的鹽類、酯類或前驅藥，而是另一個分子）會被收進來，例：scopolamini_butylbromidum 收到 29804 Scopolamine Dispersa（scopolamini hydrobromidum，眼藥水；兩者都對到 DB00747）。
+  排除規則在 `config/bundle_record_exclusions.json`（每條附 reason、basis）：證據包名在規則的 bundles 裡，紀錄成分欄（「, 」分隔）有一段符合 family、卻沒有一段符合 keep 就排除；`src/chtxgnn/regulatory/record_exclusions.py` 判定，
+  `scripts/exclude_mismatched_records.py` 把已有證據包的這些紀錄移到 `tfda.excluded_records`（附 excluded、excluded_reason、excluded_basis；total_matches 扣掉；可重複執行），collectors/chfda.py 收集時也照同一份規則；
+  `.github/workflows/license-refresh.yml` 在 license_refresh 前先跑（有移出就照常發新 Release）。
+  全站掃（成分欄跟證據包名第一個字同字根、其餘不同的配對 482 組逐組看）收進規則的 13 條、17 個證據包、113 筆紀錄：scopolamine butylbromide／hydrobromide 互收、trastuzumab 與 T-DM1／T-DXd 三向互收、povidone K 25／povidone-iodine 互收、
+  phenol 與 formaldehyde 收到 Tannosynt（苯酚—苯酚磺酸—甲醛—尿素縮合物）、icosapent ethyl／telotristat ethyl 互收（DB13259 錯配）、fluticasone furoate／propionate 互收。
+  不收的（同一分子的鹽類、酯類或前驅藥，或同一激素的不同製程）：amantadine 鹽、diclofenac 鹽、各種 steroid 酯（methylprednisolone、prednisolone、hydrocortisone、dexamethasone、triamcinolone）、tenofovir／disoproxil／alafenamide 對 tenofovirum、follitropin alfa／beta／delta、zincum 各種鹽（離子類）。
+  公開頁受影響 5 頁（scopolamini_butylbromidum、trastuzumabum、povidonum_k_25、phenol、formaldehyde）：程式表、概覽狀態列／張數列照新證據包同步（phenol 變成 0 張「keine Zulassung erfasst」）；正文矛盾以 `ch-lic-20261124c-*` 9 筆（7 correct、2 annotate）更正、
+  `ch-lic-20261124b-phenol-1`、`-scopolamini_butylbromidum-1` 同 id 重發（前版存 history）：摘要的「Tannosynt＝Phenol／Formaldehyd」「也有消毒乳膏」、概覽表原適應症裡別的成分的 Swissmedic 適應症（Mydriatikum、Wunddesinfektion、Enhertu／Kadcyla 的適應症、Tannosynt 的皮膚病）；
+  phenol、formaldehyde 的模型推論段以原適應症為前提，原文不改、加註。front matter description 的「Ursprüngliche Indikation: Entzündliche…」（phenol、formaldehyde）沒有紀錄機制可改，未動（待決定）。
+- B. 公開頁沒有 Marktinformationen 段落、證據包卻有紀錄的 51 頁：`scripts/sync_license_tables.py` 的 add_section 在「Sicherheitshinweise」（同級標題；沒有就 Fazit und nächste Schritte、Haftungsausschluss）之前補「Marktinformationen Schweiz」段落放程式表、段落後一行「---」；
+  noindex 頁與 0 筆紀錄的頁不補。gate 第 18 項（block_problems）擋「公開頁有證據包紀錄卻沒有市場段落」；license_adapter 的 PAGE_NOTE 放行新標題行與「---」。51 頁正文沒有跟新表矛盾的句子；last_modified_at 改 2026-11-24。
+- checker 全量前後都是 0；gate exit 0。

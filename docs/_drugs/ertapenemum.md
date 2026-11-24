@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00303
 monitor_inn: "Ertapenem"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ertapenemum: vorhergesagte neue Indikation Bakterielle Arthritis (bacterial arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -88,6 +88,20 @@ Derzeit keine verwandten klinischen Studien registriert
 | [31585203](https://pubmed.ncbi.nlm.nih.gov/31585203/) | 2020 | Fallbericht mit Übersicht | Anaerobe | Seltene septische Schulterarthritis und Osteomyelitis durch *Clostridium paraputrificum*. Zum Einsatz von Ertapenem enthält die vorliegende Zusammenfassung keine Angabe. |
 | [37578166](https://pubmed.ncbi.nlm.nih.gov/37578166/) | 2023 | Fallbericht mit Übersicht | Journal of Investigative Medicine High Impact Case Reports | Septische Kniearthritis durch den Anaerobier *Prevotella bivia* bei einer immunkompetenten Erwachsenen. Zum Einsatz von Ertapenem enthält die vorliegende Zusammenfassung keine Angabe. |
 | [38924836](https://pubmed.ncbi.nlm.nih.gov/38924836/) | 2024 | Laborstudie | Diagnostic Microbiology and Infectious Disease | Auranofin stellte im Labor die Empfindlichkeit Carbapenem-resistenter *E. coli* gegenüber Ertapenem wieder her. Die Studie betrifft keine Arthritis. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55902 | Invanz, Pulver für ein Konzentrat zur Herstellung einer Infusionslösu… | Synthetika | Infektionskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

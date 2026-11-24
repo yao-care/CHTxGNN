@@ -48,7 +48,13 @@ MAX_ROWS = 20
 ST_LABEL = {"valid": "Gültig", "cancelled": "Erloschen"}
 _CANCELLED = re.compile(r"cancel|revok|withdraw|erlosch|widerruf|註銷|撤銷|取消", re.I)  # 只在狀態欄有字時用（CH 的 status 都是空字串）
 # 每週排程 3b 的自我檢查（license_refresh）：改到的行除了表格列只能是這些（license_adapter.PAGE_NOTE 用同一份）
-PAGE_NOTE = r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, PARTIAL, NONE_LINE)) + r")$"
+# 2026-11-24 第三輪（用戶決定）：公開頁沒有 Marktinformationen 段落、證據包卻有紀錄的，補一個段落放程式表（add_section）。
+# 位置：「Sicherheitshinweise」標題之前（預測頁的固定順序，同級標題）；沒有就「Fazit und nächste Schritte」之前；再沒有就「Haftungsausschluss」之前。
+# noindex 頁與證據包沒有紀錄的頁不補。段落後補一行「---」分隔（本站各段之間的寫法）。
+ADD_TITLE = "Marktinformationen Schweiz"
+ADD_BEFORE = ("Sicherheitshinweise", "Fazit und nächste Schritte", "Haftungsausschluss")
+PAGE_NOTE = (r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, PARTIAL, NONE_LINE)) + r"|#{2,3} "
+             + re.escape(ADD_TITLE) + r"|---)$")
 
 
 def cell(x, n=90):
@@ -149,12 +155,42 @@ def process(text, rows, total, partial=False):
                 y += 1
             return "\n".join(_splice(lines, tb[0], y + 1, blk))
     if not secs:
-        return text
+        return add_section(lines, blk, total) or text
     a = secs[0][0]
     k = a + 1
     while k < len(lines) and lines[k].startswith("{:"):  # 標題下的 kramdown 屬性行
         k += 1
     return "\n".join(_splice(lines, k, k, blk))
+
+
+def is_noindex(lines):
+    fm = []
+    if lines and lines[0].strip() == "---":
+        for ln in lines[1:]:
+            if ln.strip() == "---":
+                break
+            fm.append(ln)
+    return any(re.match(r"noindex:\s*true\b", ln) for ln in fm)
+
+
+def add_section(lines, blk, total):
+    """沒有市場段落的公開頁補段落（見 ADD_BEFORE）；不補回 None"""
+    if not total or is_noindex(lines):
+        return None
+    heads = {}
+    for i, ln in enumerate(lines):
+        m = re.match(r"^(#{2,3}) (.+?)\s*$", ln)
+        if m and m.group(2) not in heads:
+            heads[m.group(2)] = (i, len(m.group(1)))
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    i, lev = at
+    head = lines[:i]
+    while head and not head[-1].strip():
+        head.pop()
+    sec = ["#" * lev + " " + ADD_TITLE, ""] + blk + ["", "---", ""]
+    return "\n".join(head + [""] + sec + lines[i:])
 
 
 def _snapshot():
@@ -212,7 +248,11 @@ def block_problems(lines, entry):
     if "rows" not in entry:
         return []
     if not has_b:
-        return ["市場段落沒有程式許可證表（跑 python3 scripts/sync_license_tables.py）"] if sections(lines) else []
+        if sections(lines):
+            return ["市場段落沒有程式許可證表（跑 python3 scripts/sync_license_tables.py）"]
+        # 2026-11-24 第三輪：公開頁有證據包紀錄卻沒有市場段落（add_section 會補）
+        return ["公開頁有證據包紀錄卻沒有 Marktinformationen 段落（跑 python3 scripts/sync_license_tables.py）"] \
+            if entry.get("total") and not is_noindex(lines) else []
     i, j = lines.index(BEGIN), lines.index(END)
     if not any(a < i < b for a, b in sections(lines)):
         return ["程式許可證區塊不在 Marktinformationen 段落裡"]

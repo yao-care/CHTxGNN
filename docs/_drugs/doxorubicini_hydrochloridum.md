@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00997
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicini Hydrochloridum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L1). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -112,6 +112,28 @@ Mehrere Studien der Datenbasis enthalten ein Anthrazyklin als Bestandteil des St
 | Emetogenitätsklassifikation | Mittel bis hoch (abhängig vom Kombinationsregime) |
 | Überwachungspunkte | Blutbild, Leber- und Nierenfunktion, Herzfunktion (z. B. Auswurffraktion) |
 | Handhabungsschutz | Ja, Schutzmassnahmen für Zytostatika bei Zubereitung, Verabreichung und Entsorgung erforderlich |
+
+---
+
+## Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 50357 | Adriblastin RD 10 mg, Pulver und Lösungsmittel zur Herstellung einer… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 50358 | Adriblastin Solution 10 mg/5 ml, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 54273 | Caelyx, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum | Gültig |
+| 54828 | Doxorubicin Sandoz eco 10 mg/5 ml, Konzentrat zur Herstellung einer I… (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 59350 | Doxorubicin-Teva 10 mg/5 ml, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 68746 | Doxorubicin Accord 10 mg/5 ml, Injektionslösung (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 68961 | Doxorubicin Accord liposomal 20 mg/10 ml, Konzentrat zur Herstellung… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

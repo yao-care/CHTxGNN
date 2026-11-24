@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01306
 monitor_inn: "Insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulinum Aspartum: vorhergesagte neue Indikation Autoimmune oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes mellitus"
 ---
 
@@ -78,6 +78,28 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55045 | Insulin NovoNordisk NovoRapid, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 55046 | Insulin NovoNordisk NovoRapid Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 55712 | Insulin NovoNordisk NovoRapid FlexPen, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 65630 | Insulin NovoNordisk NovoRapid PumpCart 100 E/ml, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 66200 | Fiasp ultra-fast-acting FlexTouch, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 66201 | Fiasp ultra-fast-acting Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 66202 | Fiasp ultra-fast-acting, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 67809 | Fiasp 100 E/ml ultra-fast-acting PumpCart, Injektionslösung in einer… | Biotechnologika | Diabetes mellitus | Gültig |
+| 62260 | Insulin NovoNordisk NovoRapid FlexTouch, Injektionslösung | Biotechnologika | Diabetes mellitus | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

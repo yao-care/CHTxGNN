@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06186
 monitor_inn: "Ipilimumab"
 predicted_indications: ["choroideremia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ipilimumabum: vorhergesagte neue Indikation Choroideremie (choroideremia) (Evidenzstufe L5). Ursprüngliche Indikation: Melanom, Nierenzellkarzinom, kolorektales Karzinom…"
 ---
 
@@ -92,6 +92,20 @@ Derzeit keine verwandte Literatur verfügbar.
 | Handhabungsschutz | Keine zytotoxische Spezialhandhabung wie bei klassischen Zytostatika; die Angaben der Fachinformation sind zu beachten |
 
 Diese Angaben stammen aus der allgemeinen Einordnung des Wirkstoffs und sind nicht in den zusammengestellten Daten belegt.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61798 | YERVOY 50 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Melanom, Nierenzellkarzinom, kolorektales Karzinom, Hepatozelluläres Karzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

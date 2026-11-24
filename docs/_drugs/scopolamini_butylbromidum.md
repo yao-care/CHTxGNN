@@ -39,11 +39,11 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Scopolaminbutylbromid ist ein peripher wirkendes Antimuskarinikum, das in der Schweiz als krampflösendes Mittel zugelassen ist; die in der Tabelle ebenfalls aufgeführten Augentropfen (Scopolamine 0,25% Dispersa, 29804) enthalten laut Swissmedic Scopolaminhydrobromid, nicht Scopolaminbutylbromid. Die Vorhersage nennt als neue Indikation das Cauda-equina-Syndrom (cauda equina syndrome). Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
+Scopolaminbutylbromid ist ein peripher wirkendes Antimuskarinikum, das in der Schweiz als krampflösendes Mittel zugelassen ist; die Augentropfen Scopolamine 0,25% Dispersa (29804) enthalten laut Swissmedic Scopolaminhydrobromid, einen anderen Wirkstoff. Die Vorhersage nennt als neue Indikation das Cauda-equina-Syndrom (cauda equina syndrome). Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
 
 <!-- review:begin ch-lic-20261124b-scopolamini_butylbromidum-1 -->
 
-> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist.“ Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist.“ Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum, nicht Scopolaminbutylbromid, und ist daher nicht in der Tabelle aufgeführt; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
 
 <!-- review:end ch-lic-20261124b-scopolamini_butylbromidum-1 -->
 
@@ -53,13 +53,19 @@ Scopolaminbutylbromid ist ein peripher wirkendes Antimuskarinikum, das in der Sc
 
 | Punkt | Inhalt |
 |------|------|
-| Ursprüngliche Indikation | Spasmolyticum; Mydriatikum |
+| Ursprüngliche Indikation | Spasmolyticum |
 | Vorhergesagte neue Indikation | Cauda-equina-Syndrom (cauda equina syndrome) |
 | TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
+
+<!-- review:begin ch-lic-20261124c-scopolamini_butylbromidum-2 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Ursprüngliche Indikation / Spasmolyticum; Mydriatikum“ Korrigiert: „Mydriatikum“ ist das Anwendungsgebiet von Scopolamine 0,25% Dispersa, Augentropfen (29804), deren Wirkstoff laut Swissmedic Scopolaminhydrobromid ist, nicht Scopolaminbutylbromid. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124c-scopolamini_butylbromidum-2 -->
 
 ---
 
@@ -82,7 +88,6 @@ Es gibt zudem einen Hinweis gegen die Anwendung: Antimuskarinika können einen H
 | 17352 | Buscopan Inject, Injektionslösung | Synthetika | Spasmolyticum | Gültig |
 | 17353 | Buscopan, Dragées | Synthetika | Spasmolyticum | Gültig |
 | 17354 | Buscopan, Suppositorien | Synthetika | Spasmolyticum | Gültig |
-| 29804 | Scopolamine 0,25% Dispersa, Augentropfen | Synthetika | Mydriatikum | Gültig |
 | 56802 | Buscopan, Dragées | Synthetika | Spasmolyticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
@@ -118,7 +123,8 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-24 | Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Ursprüngliche Indikation: „Mydriatikum“ (Scopolaminhydrobromid-Augentropfen) entfernt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

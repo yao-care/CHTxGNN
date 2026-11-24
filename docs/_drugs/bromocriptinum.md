@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01200
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bromocriptinum: vorhergesagte neue Indikation Angeborene Glykosylierungsstörung mit defekter Fukosylierung (congenital disorder of glycosylation with defective fucosylation) (Evidenzstufe L5)."
 ---
 
@@ -76,6 +76,21 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 39001 | Parlodel, Tabletten | Synthetika | Hyperprolaktinämie, Prolaktinom, Akromegalie, medizinisch indizierte Laktationshemmung | Gültig |
+| 65740 | Tiamdra 2,5 mg, Tabletten | Synthetika | Hyperprolaktinämie, Prolaktinom, Akromegalie, medizinisch indizierte Laktationshemmung | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

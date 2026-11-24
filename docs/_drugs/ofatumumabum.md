@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06650
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofatumumabum: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L2). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 
@@ -101,6 +101,20 @@ Die Tabelle zeigt bis zu 10 der relevantesten Studien. Die Studienbeschreibungen
 | [18390837](https://pubmed.ncbi.nlm.nih.gov/18390837/) | 2008 | Phase-1/2-Studie | Blood | Erste klinische Anwendung von Ofatumumab bei rezidiviertem oder refraktärem follikulärem Lymphom Grad 1–2. Vier Dosisgruppen zu je 10 Patienten erhielten vier wöchentliche Infusionen. |
 | [26043777](https://pubmed.ncbi.nlm.nih.gov/26043777/) | 2015 | Übersichtsarbeit | Expert Opinion on Biological Therapy | Überblick über die Aktivität von Ofatumumab bei CD20-positiven B-Zell-Lymphomen. |
 | [22830942](https://pubmed.ncbi.nlm.nih.gov/22830942/) | 2012 | Übersichtsarbeit | Annals of the New York Academy of Sciences | Ofatumumab als erster humaner Anti-CD20-Antikörper bei B-Zell-Neoplasien. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67758 | Kesimpta, Injektionslösung in Fertigpen | Biotechnologika | Multiple Sklerose | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

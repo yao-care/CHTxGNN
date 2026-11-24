@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00905
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bimatoprostum: vorhergesagte neue Indikation Missbildungssyndrom mit odontaler und/oder parodontaler Komponente (malformation syndrome with odontal and/or periodontal component) (Evidenzstufe L5)."
 ---
 
@@ -76,6 +76,22 @@ Derzeit keine verwandten klinischen Studien registriert.
 ### Literaturbelege
 
 Derzeit keine verwandte Literatur verfügbar.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55918 | Lumigan, 0.1 mg/ml, Augentropfen | Synthetika | Glaukom | Gültig |
+| 63092 | Lumigan 0,3 mg/ml Unit Dose, Augentropfen | Synthetika | Glaukom | Gültig |
+| 69020 | Elymbus 0.1 mg/g, gel ophtalmique | Synthetika | Glaucome à angle ouvert, hypertension oculaire | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00252
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenytoinum: vorhergesagte neue Indikation Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
@@ -83,6 +83,22 @@ Derzeit keine verwandten klinischen Studien registriert.
 | [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Fallserie | Anales Españoles de Pediatría | Auswertung von 14 Fällen des Sturge-Weber-Syndroms hinsichtlich Klinik, Verlauf und Therapieansprechen. Kein Bezug zu Trigeminusnerv-Neoplasien. |
 
 Beide Arbeiten untersuchen die vorhergesagte Erkrankung nicht direkt.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 25930 | Phenytoin-Gerot, Tabletten | Synthetika | Antiepilepticum | Gültig |
+| 36110 | Phenhydan, Injektionslösung | Synthetika | Antiepilepticum | Gültig |
+| 36111 | Phenhydan, Tabletten | Synthetika | Antiepilepticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00495
 monitor_inn: "Zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zidovudinum: vorhergesagte neue Indikation Felines erworbenes Immundefizienzsyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -89,6 +89,22 @@ Derzeit keine verwandten klinischen Studien registriert.
 | [10952586](https://pubmed.ncbi.nlm.nih.gov/10952586/) | 2000 | Tierexperimentelle Studie | Antimicrobial Agents and Chemotherapy | Die antivirale Therapie senkte die Viruslast bei jungen Katzen, verhinderte aber die Rückbildung des Thymus nicht. |
 | [2178336](https://pubmed.ncbi.nlm.nih.gov/2178336/) | 1990 | Tierexperimentelle Studie (FeLV) | Antimicrobial Agents and Chemotherapy | Interferon-α allein, Interferon-α plus AZT und AZT allein wurden bei Katzen mit FeLV-bedingtem Immundefizienzsyndrom verglichen. |
 | [8820595](https://pubmed.ncbi.nlm.nih.gov/8820595/) | 1995 | Übersichtsarbeit | Seminars in Veterinary Medicine and Surgery (Small Animal) | Beschreibt AZT als virusspezifische Therapieoption neben unterstützender Behandlung bei retrovirusinfizierten Katzen. |
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 48917 | Retrovir AZT i.v., Infusionslösung | Synthetika | HIV-Infektionen | Gültig |
+| 48942 | Retrovir AZT 250 mg, Kapseln | Synthetika | HIV-Infektionen | Gültig |
+| 51588 | Retrovir AZT, Sirup | Synthetika | HIV-Infektionen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01104
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sertralinum: vorhergesagte neue Indikation Schizoide Persönlichkeitsstörung (schizoid personality disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahmehemmer"
 ---
 
@@ -80,6 +80,27 @@ Derzeit keine verwandten klinischen Studien registriert.
 | PMID | Jahr | Typ | Zeitschrift | Wichtige Ergebnisse |
 |------|-----|------|------|---------|
 | [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Klinische Studie | International Clinical Psychopharmacology | Randomisierter Vergleich von drei sechsmonatigen Behandlungsansätzen bei 30 Personen mit Binge-Eating-Störung (u. a. Diät, kognitive Verhaltenstherapie, Sertralin). Betrifft eine andere Erkrankung und liefert keine Aussage zur schizoiden Persönlichkeitsstörung. |
+
+---
+
+## Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52251 | Zoloft, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 55391 | Zoloft, Konzentrat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 56956 | Sertralin Sandoz eco 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 57041 | Sertralin-Mepha 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 57135 | Sertralin Spirig HC, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 61284 | Sertralin Viatris, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB09078
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenvatinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC)"
 ---
 
@@ -99,6 +99,21 @@ Die Evidenz betrifft vor allem die Kombination. Der eigene Beitrag von Lenvatini
 | Handhabungsschutz | Orale Kapseln, übliche Vorsichtsmassnahmen für onkologische Arzneimittel; Eribulin als Infusion erfordert zusätzlich die Handhabung als Zytostatikum |
 
 Diese Angaben stammen nicht aus den zusammengestellten Daten, sondern aus allgemeinem Fachwissen. Sie müssen anhand der Fachinformation überprüft werden.
+
+---
+
+### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65512 | Lenvima 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
+| 66085 | Kisplyx 4 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 
