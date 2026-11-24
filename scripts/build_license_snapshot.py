@@ -7,6 +7,8 @@
 
 內容（鍵＝藥物頁檔名去 .md）：
   facts：事實層那一筆（market_status、total、valid、cancelled、partial、licenses{號碼: 狀態} …）
+  rows／total／partial：程式許可證表的表格列（最多 20 列）、許可張數、證據包是否只收了部分包裝
+       （scripts/sync_license_tables.py rows_of；2026-11-24 起）
   own：本藥證據包 tfda.records 的許可證號（license_id 或 registration_number）、事實層 licenses 的號碼，
        加上 config/license_own_extra.json（有的站才有）逐筆附依據的補充號碼
   meta：產生日、Release tag、比對規則所在檔案
@@ -17,6 +19,7 @@
 import datetime as dt
 import gzip
 import importlib as _il
+import importlib.util
 import json
 import re
 import sys
@@ -29,6 +32,9 @@ C = _il.import_module(f"{_PKG}.regulatory.site_config").C
 SITE = C["SITE"]
 OUT = ROOT / "snapshots" / C["SNAPSHOT"]
 EXTRA = ROOT / "config" / "license_own_extra.json"
+_spec = importlib.util.spec_from_file_location("sync_license_tables", ROOT / "scripts" / "sync_license_tables.py")
+SLT = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(SLT)
 
 
 def facts(ws):
@@ -62,6 +68,9 @@ def build(ws, tag=""):
                for r in ((b or {}).get("tfda") or {}).get("records") or []} - {""}
         own = sorted(own | set((fc or {}).get("licenses") or {}) | set(extra.get(page.stem) or {}))
         drugs[page.stem] = {"bundle": key, "facts": fc, "own": own}
+        if b is not None:  # 2026-11-24：程式許可證表（scripts/sync_license_tables.py rows_of）的表格列、張數、部分紀錄
+            r, total, partial = SLT.rows_of(b.get("tfda") or {}, fc)
+            drugs[page.stem].update(rows=r[:SLT.MAX_ROWS], total=total, partial=partial)
     meta = {"built": dt.date.today().isoformat(), "release_tag": tag, "pages": len(drugs),
             "rule": "事實層：tools/txgnn/.claude/dump_license_facts_20261021.py；本藥號碼：證據包 tfda.records、事實層 licenses、config/license_own_extra.json"}
     OUT.parent.mkdir(exist_ok=True)
@@ -89,3 +98,8 @@ if __name__ == "__main__":
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
+    # 2026-11-24：快照換了，程式許可證表與正文許可證張數跟著依新快照改寫（--no-rewrite 不跑）
+    if "--no-rewrite" not in a:
+        import subprocess
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "sync_license_tables.py")], check=True)
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "rewrite_license_counts.py")], check=True)

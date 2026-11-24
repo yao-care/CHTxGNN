@@ -7,7 +7,10 @@
   2. 概覽表的狀態列與張數列＝事實層的寫法：用本站 tools/txgnn/.claude/check_drug_page.py 的函式，
      分支照 checker M1／M4（Marketed／Approved, not marketed／Status unknown／Not marketed＋VET_ONLY／NO_CENTRAL）。
   3. 表格列寫的狀態不得跟事實相反（checker row_status_conflicts）。
-本站沒有程式產生的許可證表（表格是模型寫的、狀態格由排程同步），所以不驗表格內容是否等於程式結果。
+  4. 程式許可證表（2026-11-24 起，scripts/sync_license_tables.py；<!-- licenses:begin/end -->）＝依快照 rows／total／partial 重算的結果；
+     有「Marktinformationen」段落的頁一定要有程式區塊。
+市場段落：2026-11-24 起也認「### Marktinformationen Schweiz」（本站多數頁的市場段落是三級標題，之前只認二級，表格號碼與列狀態漏驗）；
+段落到下一個同級或更高級標題為止。
 修法：資料變了→跑每週排程（或 scripts/build_license_snapshot.py 重建快照）；正文提到的號碼、狀態不對→寫查核紀錄
 （docs/_data/drug_reviews.json）再跑 scripts/apply_drug_reviews.py。
 """
@@ -45,6 +48,14 @@ def CK():
 
 
 @lru_cache(maxsize=None)
+def SLT():
+    s = importlib.util.spec_from_file_location(f"{SITE}_sync_license_tables", ROOT / "scripts" / "sync_license_tables.py")
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
+
+
+@lru_cache(maxsize=None)
 def snapshot() -> dict:
     if not SNAP.exists():
         return {}
@@ -59,8 +70,10 @@ def _sections(lines):
     """市場段落（可能不只一個）的 (開始, 結束)"""
     out = []
     for i, ln in enumerate(lines):
-        if ln.startswith("## ") and MARKET_RE.search(ln[3:]):
-            j = next((k for k in range(i + 1, len(lines)) if lines[k].startswith("## ")), len(lines))
+        m = re.match(r"(#{2,3}) ", ln)
+        if m and MARKET_RE.search(ln[m.end():]):
+            lev = len(m.group(1))
+            j = next((k for k in range(i + 1, len(lines)) if re.match(r"#{1,%d} " % lev, lines[k])), len(lines))
             out.append((i + 1, j))
     return out
 
@@ -114,6 +127,7 @@ def page_problems(stem: str, text: str) -> list[str]:
     own = {norm(x) for x in e["own"]}
     fc = e.get("facts") or {}
     lic = {norm(k): v for k, v in (fc.get("licenses") or {}).items()}
+    errs += SLT().block_problems(lines, e)
     for a, b in _sections(lines):
         for t in _tables(lines[a:b]):
             bad = sorted({i for r in _rows(t) for i in [_cell_id(r[0] if r else "")] if i and norm(i) not in own})

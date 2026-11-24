@@ -25,13 +25,16 @@
   17. docs/_data/drug_reviews.json 的查核紀錄（更正／加註／待重審／重審結果）都還套在藥物頁上
       （頁面被產線或排程改寫會蓋掉；修法：python3 scripts/apply_drug_reviews.py）（2026-11-12，本站查核機制）。
   18. 藥物頁的許可證資訊＝snapshots/ch_licenses.json.gz：市場段落許可證表的號碼屬於本藥、狀態列與張數列＝事實層寫法、
-      表格列狀態不跟事實相反（src/chtxgnn/regulatory/licenses.py）（2026-11-12）。
+      表格列狀態不跟事實相反（src/chtxgnn/regulatory/licenses.py）（2026-11-12）；Marktinformationen 段落的程式許可證表
+      （<!-- licenses:begin/end -->，scripts/sync_license_tables.py）＝快照 rows／total／partial 重算的結果（2026-11-24）。
   19. 藥物頁頁首等級＝Quick Overview 等級格的主預測等級（主預測撤回時為其他預測表最高等級或 N/A），
       parent 對應列表頁（src/chtxgnn/regulatory/page_format.py）（2026-11-12）。
   20. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、
       證據監測清單 scripts/drug_list.json（src/chtxgnn/regulatory/withdrawn.py）（2026-11-12）。
   21. 公開藥物頁寫「作用機轉資料不可得」的，有附出處的作用機轉紀錄（drug_reviews.json action=mechanism）
       或列在待查清單（source＝mechanism of action，附補不到的原因）（scripts/build_mechanism_reviews.py）（2026-11-19）。
+  22. 正文的 Swissmedic 許可張數＝依快照事實層程式改寫的結果，再跑一次不會變
+      （scripts/rewrite_license_counts.py、src/chtxgnn/regulatory/count_prose.py）（2026-11-24）。
 
 2026-11-12 起本站有自己的查核機制（核心流程比照 TwTxGNN，用戶決定 30 站各自建立）：第 17–20 項對應 Tw 的
 人工查核紀錄、許可證、頁首等級、撤回預測檢查，規則在本站 src/chtxgnn/regulatory/ 與 scripts/apply_drug_reviews.py。
@@ -804,6 +807,8 @@ _left = _Wd.published_withdrawn(DOCS)
 if _left:
     errors.append(f"重審撤回的預測仍對外發布 {len(_left)} 處：{'；'.join(_left[:5])}"
                   "（重產 search-index／FHIR／scripts/drug_list.json，撤回名單見 src/chtxgnn/regulatory/withdrawn.py）")
+from rewrite_license_counts import check_errors as _count_errors  # noqa: E402
+errors += _count_errors()  # 22) 正文許可證張數＝程式改寫結果（2026-11-24）
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

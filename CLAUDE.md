@@ -68,3 +68,24 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 
 用戶 2026-11-19 決定的第一批改版（母目錄 `.claude/gen_local_pages_20261119.py` 產生，不逐站手改）：說明頁（about／guide／sources／downloads／methodology，自有結構站只有證據等級頁與隱私頁）加本站資料區塊（`<!-- local-facts -->`）、證據等級頁的事實段與藥名表（`<!-- tier-facts -->`、`<!-- tier-table -->`）、隱私頁的適用法律／權利／著作權與資料來源段（`<!-- privacy-law -->`）；en／es／de 樣板站的共用長段落縮成一段（`<!-- local-condensed -->`）。
 資料檔 `docs/_data/local_facts.json`、`docs/_data/evidence_tier_facts.json` 由 `scripts/local_facts.py`（＝母目錄 `.claude/local_facts_lib.py`）依藥物頁、許可證快照、查核紀錄、FHIR 算；`apply_drug_reviews.py`、許可證快照程式結尾會自動 `--write`，`check_seo_docs.py` 跑 `--check` 擋過期。跨站欄位（cross：本站獨有預測、30 站中位數）與頁面區塊只由母目錄產生器更新；藥物頁改等級、noindex 或預測後要在母目錄重跑。
+
+## 許可證表與正文張數由程式產生（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日；本站做表＋B）：每週許可證排程只改概覽表狀態列／張數列，AI 寫在市場段落的許可證表（沒有狀態欄）與正文張數句跟著 Swissmedic 清單過期；改成程式產生、每週自動同步。範本 DETxGNN 同名程式。
+- A. 程式許可證表：`scripts/sync_license_tables.py`。標題含「Marktinformationen」的段落（本站多數是三級標題「### Marktinformationen Schweiz」，少數二級；段落到下一個同級或更高級標題）裡的第一張許可證表（表頭含 Zulassung）換成程式依證據包產生的表
+  「| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |」：一張許可一列（同號多個包裝取第一筆，同 reviewer._local_regulatory 去重；同許可另有品名／劑量時加「(+N weitere Bezeichnung[en])」）；
+  舊表「Darreichungsform」欄放的其實是 Swissmedic 的 Heilmittelcode（Synthetika、Biotechnologika…），照實改名；狀態＝事實層（Gültig／Erloschen：效期已過或兩份現行清單都不列）；有效在前、依許可號；
+  證據包只收了部分包裝（partial）時表下加「Die ausgewerteten Daten enthalten nur einen Teil der Packungen …」；表後來源句；沒有紀錄時一句 NONE_LINE。前後 `<!-- licenses:begin -->`／`<!-- licenses:end -->`。
+  段落裡沒有表的頁補在標題下；「Grundlegende Informationen」（noindex 頁的概覽表）與「Bekannte Anwendungen und Marktstatus」段落不放。
+  快照 `snapshots/ch_licenses.json.gz` 另存 rows／total／partial（`scripts/build_license_snapshot.py` 用 rows_of）；gate 第 18 項（src/chtxgnn/regulatory/licenses.py＋sync_license_tables.block_problems）擋「有 Marktinformationen 段落卻沒有程式區塊」「程式區塊≠快照重算」。
+  licenses.py 的市場段落 2026-11-24 起也認三級標題（之前只認二級，484 頁的表格號碼與列狀態漏驗；改後改前都是 0 項問題）。
+  每週排程由 `scripts/license_adapter.py` 的 `sync_tables`（--bundles）重排，`PAGE_NOTE` 讓 3b 自我檢查接受區塊標記與說明句。
+- B. 正文張數改寫：`scripts/rewrite_license_counts.py`＋`src/chtxgnn/regulatory/count_prose.py`（從 DETxGNN 移植；本站範圍是 Swissmedic，「Schweiz／Swissmedic」不算保留，EMA／EU／Deutschland／FDA 才算；
+  另補「X der Y Zulassungen」「… und N gelöscht」、「alle N … gültig」數字對得上有效數但有效≠總數時列 premise、改完變成「fünf der fünf」列 grammar）。單方／複方句不動（事實層單方張數用「;;」切成分，本站成分欄是「, 」，算不準）。
+  partial 頁（141 頁）整頁不動。不寫查核框；gate 第 22 項擋「再跑一次會變」。
+- 誰會跑：`scripts/apply_drug_reviews.py`（非 --check）結尾依快照跑 A、B；`scripts/build_license_snapshot.py` 寫完快照再跑一次（`--no-rewrite` 不跑）。
+- 2026-11-24 套用（資料 data-20261117-090726）：程式表 576 頁（公開頁 627 頁中有 Marktinformationen 段落的全部：AI 表 564 頁取代、段落裡沒有表的 12 頁補上；noindex 192 頁只有概覽段落、不放；51 個公開頁沒有市場段落），
+  表上 65 列 Erloschen（51 頁）；正文張數程式改寫 0 句、判斷不了 0 句（本站正文多是「mindestens N」「Die Liste kann unvollständig sein」這類保留句與 partial 頁）。被取代的表上沒有錨著的查核紀錄（沒有 superseded）。
+  另寫的寬偵測（同句有 Zulassung 與數字或全稱字樣、跟事實層不符）全量掃公開頁：找到 4 句在 partial 頁、說「全部有效」或張數跟 11-17 標註的不在清單許可相反（azithromycinum、bisoprololi_fumaras、metoprololi_tartras、ticagrelorum），
+  以 4 筆 `ch-lic-20261124-*` 更正；複查剩 2 句都是誤中（sapropterin「bereits eine Zulassung besteht」講適應症、topotecan 依持有人拆分的張數正確）。checker 全量前後都是 0；gate exit 0；正文有變的 576 頁 last_modified_at 改 2026-11-24。
+- 母目錄 `.claude/license_labels/CHTxGNN.json` 只有「Gültig」，程式表會寫「Erloschen」，要加 `"Erloschen": "cancelled"`（母目錄的檔，本站不改）。
