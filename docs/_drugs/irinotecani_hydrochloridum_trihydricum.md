@@ -101,8 +101,6 @@ Das belegt SN-38 als wirksame Nutzlast, aber nicht, dass Irinotecan bei systemis
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen kann unvollständig sein (mindestens 6 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

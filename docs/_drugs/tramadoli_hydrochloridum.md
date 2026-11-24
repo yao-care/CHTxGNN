@@ -69,8 +69,6 @@ Der hohe Vorhersagewert beruht daher sehr wahrscheinlich auf einem rechnerischen
 
 ## Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 5 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

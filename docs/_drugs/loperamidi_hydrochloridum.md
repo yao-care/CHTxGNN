@@ -69,7 +69,7 @@ Der hohe Vorhersagewert ist wahrscheinlich ein Modellartefakt. Mehrere Bindehaut
 
 ### Marktinformationen Schweiz
 
-In der Schweiz sind mindestens 13 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Alle aufgeführten Zulassungen sind gültig.
 
 <!-- licenses:begin -->
 

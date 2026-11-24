@@ -69,8 +69,6 @@ Da die Erkrankung gutartig verläuft und von selbst abklingt, ist das Nutzen-Ris
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

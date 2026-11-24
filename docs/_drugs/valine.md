@@ -85,8 +85,6 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

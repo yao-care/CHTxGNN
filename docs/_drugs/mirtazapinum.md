@@ -71,8 +71,6 @@ Der hohe Vorhersagewert ist deshalb rein rechnerisch und nicht biologisch unterm
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein (mindestens 4 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

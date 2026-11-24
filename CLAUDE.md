@@ -89,3 +89,14 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   另寫的寬偵測（同句有 Zulassung 與數字或全稱字樣、跟事實層不符）全量掃公開頁：找到 4 句在 partial 頁、說「全部有效」或張數跟 11-17 標註的不在清單許可相反（azithromycinum、bisoprololi_fumaras、metoprololi_tartras、ticagrelorum），
   以 4 筆 `ch-lic-20261124-*` 更正；複查剩 2 句都是誤中（sapropterin「bereits eine Zulassung besteht」講適應症、topotecan 依持有人拆分的張數正確）。checker 全量前後都是 0；gate exit 0；正文有變的 576 頁 last_modified_at 改 2026-11-24。
 - 母目錄 `.claude/license_labels/CHTxGNN.json` 只有「Gültig」，程式表會寫「Erloschen」，要加 `"Erloschen": "cancelled"`（母目錄的檔，本站不改）。
+
+## 第二輪：舊錯句、劑型說法與紀錄說明的張數（2026-11-24）
+
+用戶 2026-11-24 第二輪決定（程式許可證表與正文張數改寫上線後，處理程式管不到的舊錯句）。本站第一輪沒有列進待查的 open 項目，所以逐類全量掃（證據包 data-20261117-090726、快照事實層）：
+- 有效 0 張的公開頁（chloramphenicol、phenol、aliskiren、bezlotoxumab、reboxetin、ritonavir）正文說「在瑞士核准／在市」的：chloramphenicol（摘要「ist in der Schweiz als Augentropfen … zugelassen」、結論「bereits zugelassenen Anwendung」）、phenol（摘要「ist in der Schweiz … zugelassen」）以 3 筆 `ch-lic-20261124b-*` 改成過去式並註明許可已不在現行清單（依成分對現行清單 0 個產品，11-17 已查）；其他 4 頁寫法本來就跟事實一致。
+- 市場段落句子對事實層：docetaxel「Mindestens sieben … gültig」（53262、62120 已不在現行清單）、tamsulosin「davon 7 gültig」（57160、57637）更正；寬偵測（有註銷的頁說「alle／beide … gültig」、全部有效的頁說已失效）全量複查 0 句。
+- 單方／複方：dextromethorphan「alle … einzigem Wirkstoff」不成立（41799 Vicks Medinait 是複方），併進 11-17 那筆同 id 重發；其他 Einzel／Kombination 說法逐句對證據包成分欄都成立。
+- 劑型／成分說法全站掃（「als Tablette／Augentropfen … im Handel」「nur … zugelassen」64 句）逐句對證據包全部品項的產品名：scopolamini_butylbromidum「in einer Augentropfen-Zubereitung」不成立（29804 Scopolamine Dispersa 的成分是 scopolamini hydrobromidum），以 1 筆紀錄更正；其餘成立、不改。29804 被收進 butylbromide 的證據包與程式表（drug_mapping 依 DrugBank ID 對到），是收集規則的事，沒動。
+- 紀錄說明樣板（site_config `T["figures"]`）改成不寫數字；既有紀錄沒有用到它。更正文字寫死張數或舊表筆數的 6 筆（azathioprinum、dextromethorphanum、azithromycinum、bisoprololi_fumaras、metoprololi_tartras、ticagrelorum）同 id 重發，改成指向程式表，哪張失效的事實保留，前版存 history。
+- partial 頁市場段落裡跟程式表說明句「Die ausgewerteten Daten enthalten nur einen Teil …; die Liste kann unvollständig sein.」重複的 AI 保留句（只講「清單可能不完整」＋「mindestens N Zulassungen」的句子，與緊鄰的單純筆數句）：比照第一輪移除舊表說明句的做法直接刪掉，不寫查核框，69 頁 73 句（工具在 scratchpad CHTxGNN-r2/tools/dedup_partial.py）。含狀態或其他事實的句子（「Alle aufgeführten Zulassungen sind gültig」「davon 9 gültig und 4 gelöscht」等）、查核紀錄文字所在的句子、後一句以 Davon 承接的（paroxetine）不動，約 30 頁仍有重複意思的保留句。
+- checker 全量前後都是 0；gate exit 0。

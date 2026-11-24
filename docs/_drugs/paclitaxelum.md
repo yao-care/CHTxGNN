@@ -71,7 +71,7 @@ Zu beachten ist zudem, dass gängige Behandlungsschemata beim Rhabdomyosarkom be
 
 ### Marktinformationen Schweiz
 
-Die Liste enthält mindestens 7 Zulassungen und ist möglicherweise unvollständig. Alle aufgeführten Zulassungen sind gültig.
+Alle aufgeführten Zulassungen sind gültig.
 
 <!-- licenses:begin -->
 

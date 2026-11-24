@@ -81,8 +81,6 @@ Keine der Publikationen untersucht Asparaginsäure als Behandlung der renalen tu
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -95,8 +95,6 @@ Die Bezeichnung «thrombotische Erkrankung» fasst sehr unterschiedliche Krankhe
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

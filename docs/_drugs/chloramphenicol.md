@@ -40,7 +40,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ## Zusammenfassung
 
-Chloramphenicol ist in der Schweiz als Augentropfen (in Kombination mit Dexamethason, Handelsname Spersadex comp.) zur Behandlung von Augeninfektionen zugelassen. Die vorhergesagte Indikation, die bakterielle Bindehautentzündung, entspricht im Wesentlichen der bestehenden Anwendung am Auge und ist daher keine echte Umwidmung. Die Evidenz stützt sich ausschliesslich auf Literatur (Vergleichsstudien, Übersichtsarbeiten, Kommentare); klinische Studien sind nicht registriert.
+Chloramphenicol war in der Schweiz als Augentropfen (in Kombination mit Dexamethason, Handelsname Spersadex comp.) zur Behandlung von Augeninfektionen zugelassen; diese Zulassung (30514) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Die vorhergesagte Indikation, die bakterielle Bindehautentzündung, entspricht im Wesentlichen der bestehenden Anwendung am Auge und ist daher keine echte Umwidmung. Die Evidenz stützt sich ausschliesslich auf Literatur (Vergleichsstudien, Übersichtsarbeiten, Kommentare); klinische Studien sind nicht registriert.
+
+<!-- review:begin ch-lic-20261124b-chloramphenicol-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Chloramphenicol ist in der Schweiz als Augentropfen (in Kombination mit Dexamethason, Handelsname Spersadex comp.) zur Behandlung von Augeninfektionen zugelassen.“ Korrigiert: Die erfasste Zulassung Spersadex comp. (30514) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein Präparat mit Chloramphenicol (Prüfung nach Wirkstoff). Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124b-chloramphenicol-1 -->
 
 ---
 
@@ -120,13 +126,33 @@ Die Warnhinweise und Kontraindikationen aus der Schweizer Fachinformation liegen
 **Entscheidung: Mit Vorsicht fortfahren**
 
 **Begründung:**
-- Die Vorhersage ist plausibel, entspricht aber im Wesentlichen der bereits zugelassenen Anwendung bei Augeninfektionen. Die Evidenz (L3) besteht aus Vergleichsstudien, Übersichten und Kommentaren, ohne Phase-3-Studien.
+- Die Vorhersage ist plausibel, entspricht aber im Wesentlichen der in der Schweiz früher zugelassenen Anwendung bei Augeninfektionen. Die Evidenz (L3) besteht aus Vergleichsstudien, Übersichten und Kommentaren, ohne Phase-3-Studien.
 - Die diskutierte hämatologische Toxizität (aplastische Anämie) verlangt klare Leitplanken für den Einsatz.
+
+<!-- review:begin ch-lic-20261124b-chloramphenicol-2 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „entspricht aber im Wesentlichen der bereits zugelassenen Anwendung bei Augeninfektionen“ Korrigiert: Die Zulassung für Augeninfektionen (Spersadex comp., 30514) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; „bereits zugelassen“ legte eine bestehende Zulassung nahe. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124b-chloramphenicol-2 -->
 
 **Um fortzufahren, wird Folgendes benötigt:**
 - Fachinformation von Swissmedic (Warnhinweise, Kontraindikationen), da diese Daten fehlen und die Sicherheitsprüfung blockieren.
 - Bestätigung des Wirkmechanismus aus DrugBank.
 - Aktuelle, hochwertige Vergleichsstudien zu Wirksamkeit und Resistenzlage bei bakterieller Konjunktivitis.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | „ist in der Schweiz … zugelassen“ → „war … zugelassen“ (30514 nicht mehr aufgeführt) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | „bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

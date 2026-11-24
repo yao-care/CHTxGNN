@@ -9,7 +9,7 @@
   "with_current": 23,
   "none_current": 0,
   "without_data": 7,
-  "with_reviews": 15,
+  "with_reviews": 16,
   "rows": [
    {
     "t": "Bendamustinum",
@@ -106,8 +106,8 @@
     "i": "Ewing-Sarkom",
     "lt": 0,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "„Mindestens sieben … gültig“ → 53262, 62120 nicht mehr aufgeführt",
     "x": 0
    },
    {
@@ -701,7 +701,7 @@
   "with_current": 560,
   "none_current": 6,
   "without_data": 104,
-  "with_reviews": 316,
+  "with_reviews": 320,
   "rows": [
    {
     "t": "Dextromethorphanum",
@@ -711,7 +711,7 @@
     "lt": 17,
     "lv": 16,
     "r": 1,
-    "rs": "„alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen)",
+    "rs": "„alle 17 gültig, alle Einzelwirkstoff“ → 59309 abgelaufen; 41799 Kombinationspräparat",
     "x": 0
    },
    {
@@ -1701,7 +1701,7 @@
     "lt": 0,
     "lv": 5,
     "r": 3,
-    "rs": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
+    "rs": "„davon 6 gültig und 2 gelöscht“ → Status in der Tabelle (51999, 61256, 57627 erloschen)",
     "x": 0
    },
    {
@@ -1909,8 +1909,8 @@
     "i": "Cauda-equina-Syndrom",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
     "x": 0
    },
    {
@@ -1920,8 +1920,8 @@
     "i": "Ambras-Typ der Hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Entfernt: „davon 7 gültig“",
     "x": 0
    },
    {
@@ -2867,7 +2867,7 @@
     "lt": 0,
     "lv": 3,
     "r": 2,
-    "rs": "„alle gültig“ → „davon 3 gültig“",
+    "rs": "„alle gültig“ → Status in der Tabelle (65034 nicht mehr aufgeführt)",
     "x": 0
    },
    {
@@ -3384,7 +3384,7 @@
     "lt": 0,
     "lv": 3,
     "r": 2,
-    "rs": "„alle gültig“ → „drei der vier gültig“",
+    "rs": "„alle gültig“ → 68830 nicht mehr aufgeführt (Status in der Tabelle)",
     "x": 1
    },
    {
@@ -3560,7 +3560,7 @@
     "lt": 3,
     "lv": 2,
     "r": 1,
-    "rs": "„alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen)",
+    "rs": "„alle drei gültig“ → 63011 nicht mehr zugelassen (Zahl und Status in der Tabelle)",
     "x": 0
    },
    {
@@ -4220,7 +4220,7 @@
     "lt": 0,
     "lv": 2,
     "r": 1,
-    "rs": "„alle drei gültig“ → „zwei der drei gültig“",
+    "rs": "„alle drei gültig“ → 39252 nicht mehr aufgeführt (Status in der Tabelle)",
     "x": 0
    },
    {
@@ -6892,8 +6892,8 @@
     "i": "diffuse scleroderma",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 2,
+    "rs": "„bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“",
     "x": 0
    },
    {
@@ -6903,8 +6903,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
     "x": 0
    },
    {

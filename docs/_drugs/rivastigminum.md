@@ -79,8 +79,6 @@ Der hohe Vorhersagewert ist eine Modellrechnung und kein klinischer Beleg. Für 
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 4 Zulassungen erfasst. Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

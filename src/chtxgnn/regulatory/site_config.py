@@ -117,7 +117,7 @@ C = _json.loads(r"""{
   "intro": "Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.",
   "intro_header": "Nachfolgend das Prüfprotokoll dieser Seite; das Evidenzniveau im Seitenkopf folgt der Schnellübersicht. Modellvorhersagen, Übersichtstabelle und Schlussfolgerungen wurden nicht umgeschrieben.",
   "intro_rr": "Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben, der Text der Modellvorhersage wurde nicht umgeschrieben; Evidenzstufen und Entscheidungen wurden nur durch ein Ergebnis der erneuten Prüfung (Herab-, Heraufstufung oder Rückzug) geändert, die ursprünglichen Werte stehen unten.",
-  "figures": "In den Daten (Swissmedic-Liste der zugelassenen Packungen) sind für dieses Arzneimittel {total} Zulassungen erfasst, davon {valid} gültig; die aktuellen Zahlen stehen in der Schnellübersicht und bei den Marktinformationen.",
+  "figures": "Die aktuelle Zahl und der Status der Zulassungen stehen in der Schnellübersicht und in der Zulassungstabelle bei den Marktinformationen.",
   "data_as_of": "Swissmedic-Liste der zugelassenen Packungen, Stand {date}",
   "notes": {
    "rewrite": "Korrigiert: Die Aussage stimmte nicht mit den Zulassungsdaten überein ({d}) und wurde durch den jetzigen Wortlaut ersetzt.",

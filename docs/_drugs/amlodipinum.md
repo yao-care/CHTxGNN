@@ -69,8 +69,6 @@ Diese Überlegungen sind theoretisch. Für diese konkrete Erkrankung wurden wede
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 5 Zulassungen vorhanden.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

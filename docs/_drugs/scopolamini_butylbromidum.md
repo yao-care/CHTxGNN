@@ -39,7 +39,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **6**
 
 ### Zusammenfassung
 
-Scopolaminbutylbromid ist ein peripher wirkendes Antimuskarinikum, das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist. Die Vorhersage nennt als neue Indikation das Cauda-equina-Syndrom (cauda equina syndrome). Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
+Scopolaminbutylbromid ist ein peripher wirkendes Antimuskarinikum, das in der Schweiz als krampflösendes Mittel zugelassen ist; die in der Tabelle ebenfalls aufgeführten Augentropfen (Scopolamine 0,25% Dispersa, 29804) enthalten laut Swissmedic Scopolaminhydrobromid, nicht Scopolaminbutylbromid. Die Vorhersage nennt als neue Indikation das Cauda-equina-Syndrom (cauda equina syndrome). Dafür liegen weder klinische Studien noch Literatur vor, die Vorhersage beruht allein auf einem Rechenmodell (Evidenzniveau L5).
+
+<!-- review:begin ch-lic-20261124b-scopolamini_butylbromidum-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist.“ Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124b-scopolamini_butylbromidum-1 -->
 
 ---
 
@@ -103,6 +109,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Der Wirkmechanismus aus DrugBank
 - Warnhinweise und Kontraindikationen aus der Swissmedic-Fachinformation (Sicherheitsprüfung derzeit blockiert)
 - Eine Bewertung des Risikos eines Harnverhalts
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

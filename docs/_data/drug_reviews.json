@@ -11,16 +11,40 @@
      "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
    "drug": "azathioprinum",
    "file": "azathioprinum.md",
    "id": "ch-lic-20261117-azathioprinum-1",
    "finding": "正文說 3 張許可全部有效；Zulassung 63011（Azafalk 75 mg）2026-03 的包裝清單還在、2026-11-17 包裝清單與藥品清單都沒有，現行有效的是 31887（Imurek）、55578（Azarek）",
    "claim": "Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
-   "replacement": "Nach den lokalen Daten sind zwei der drei Zulassungen gültig; die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
+   "replacement": "Die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; Zahl und Status aller Zulassungen zeigt die Tabelle. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
    "note": "Swissmedic führt die Zulassung 63011 (Azafalk 75 mg) seit 2026 nicht mehr in den Listen der zugelassenen Arzneimittel und Packungen (Stand 2026-11-17); gültig sind 31887 und 55578.",
-   "summary": "„alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen)"
+   "summary": "„alle drei gültig“ → 63011 nicht mehr zugelassen (Zahl und Status in der Tabelle)",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-17",
+     "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
+     "drug": "azathioprinum",
+     "file": "azathioprinum.md",
+     "id": "ch-lic-20261117-azathioprinum-1",
+     "finding": "正文說 3 張許可全部有效；Zulassung 63011（Azafalk 75 mg）2026-03 的包裝清單還在、2026-11-17 包裝清單與藥品清單都沒有，現行有效的是 31887（Imurek）、55578（Azarek）",
+     "claim": "Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
+     "replacement": "Nach den lokalen Daten sind zwei der drei Zulassungen gültig; die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.",
+     "note": "Swissmedic führt die Zulassung 63011 (Azafalk 75 mg) seit 2026 nicht mehr in den Listen der zugelassenen Arzneimittel und Packungen (Stand 2026-11-17); gültig sind 31887 und 55578.",
+     "summary": "„alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen)",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：查核紀錄更正文字不再寫死張數與舊表筆數"
+    }
+   ]
   },
   {
    "action": "correct",
@@ -31,16 +55,40 @@
      "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
    "drug": "dextromethorphanum",
    "file": "dextromethorphanum.md",
    "id": "ch-lic-20261117-dextromethorphanum-1",
-   "finding": "正文說 17 張全部有效；Zulassung 59309（Irotussin Antitussivum）許可效期 2026-05-31 已過，2026-11-17 兩份現行清單都沒有",
+   "finding": "正文說 17 張全部有效且全部單方；59309（Irotussin Antitussivum）效期 2026-05-31 已過；41799 Vicks Medinait 成分含 doxylamine、ephedrine、paracetamol（複方）。2026-11-24 第二輪：更正文字不寫死張數，並補正單方說法",
    "claim": "Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
-   "replacement": "16 der 17 Zulassungen sind gültig (die Zulassung 59309, Irotussin Antitussivum, ist abgelaufen); alle betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
-   "note": "Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
-   "summary": "„alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen)"
+   "replacement": "Die Zulassung 59309 (Irotussin Antitussivum) ist abgelaufen; Zahl und Status aller Zulassungen zeigt die Tabelle. Mit Ausnahme von Vicks Medinait (41799, Kombinationspräparat mit Doxylamin, Ephedrin und Paracetamol) betreffen die Zulassungen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
+   "note": "Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Vicks Medinait, sirop (41799) enthält laut Swissmedic neben Dextromethorphanhydrobromid auch Doxylamin, Ephedrin und Paracetamol und ist kein Einzelwirkstoffpräparat.",
+   "summary": "„alle 17 gültig, alle Einzelwirkstoff“ → 59309 abgelaufen; 41799 Kombinationspräparat",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-17",
+     "method": "2026-11-17 人工查核：證據包許可證號對 Swissmedic 兩份現行清單（包裝清單、藥品清單）；2026-03 清單有、11 月兩份都沒有＝已不是現行許可",
+     "drug": "dextromethorphanum",
+     "file": "dextromethorphanum.md",
+     "id": "ch-lic-20261117-dextromethorphanum-1",
+     "finding": "正文說 17 張全部有效；Zulassung 59309（Irotussin Antitussivum）許可效期 2026-05-31 已過，2026-11-17 兩份現行清單都沒有",
+     "claim": "Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
+     "replacement": "16 der 17 Zulassungen sind gültig (die Zulassung 59309, Irotussin Antitussivum, ist abgelaufen); alle betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.",
+     "note": "Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+     "summary": "„alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen)",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：查核紀錄更正文字不再寫死張數與舊表筆數"
+    }
+   ]
   },
   {
    "action": "correct",
@@ -11314,9 +11362,33 @@
    "id": "ch-lic-20261124-azithromycinum-1",
    "finding": "正文說 8 張中 6 張有效、2 張註銷；事實層 8 張中 5 張有效：51999（Zithromax 100 mg）、61256（Azithromycin Pfizer 250 mg）效期 2026-09-30 已過，57627（Azithromycin Sandoz）2026-11-17 兩份現行清單都不列",
    "claim": "Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 6 gültig und 2 gelöscht.",
-   "replacement": "Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 5 gültig und 3 erloschen.",
+   "replacement": "Die Liste kann unvollständig sein; den Status der erfassten Zulassungen zeigt die Tabelle.",
    "note": "Die Zulassungen 51999 (Zithromax 100 mg) und 61256 (Azithromycin Pfizer 250 mg) waren bis 2026-09-30 gültig; 57627 (Azithromycin Sandoz) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
-   "summary": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“"
+   "summary": "„davon 6 gültig und 2 gelöscht“ → Status in der Tabelle (51999, 61256, 57627 erloschen)",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+     "drug": "azithromycinum",
+     "file": "azithromycinum.md",
+     "id": "ch-lic-20261124-azithromycinum-1",
+     "finding": "正文說 8 張中 6 張有效、2 張註銷；事實層 8 張中 5 張有效：51999（Zithromax 100 mg）、61256（Azithromycin Pfizer 250 mg）效期 2026-09-30 已過，57627（Azithromycin Sandoz）2026-11-17 兩份現行清單都不列",
+     "claim": "Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 6 gültig und 2 gelöscht.",
+     "replacement": "Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 5 gültig und 3 erloschen.",
+     "note": "Die Zulassungen 51999 (Zithromax 100 mg) und 61256 (Azithromycin Pfizer 250 mg) waren bis 2026-09-30 gültig; 57627 (Azithromycin Sandoz) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+     "summary": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：查核紀錄更正文字不再寫死張數與舊表筆數"
+    }
+   ]
   },
   {
    "action": "correct",
@@ -11334,9 +11406,33 @@
    "id": "ch-lic-20261124-bisoprololi_fumaras-1",
    "finding": "正文說 4 張全部有效；65034（Bisoprolol Zentiva 2.5 mg）2026-11-17 兩份現行清單都不列，有效 3 張",
    "claim": "Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).",
-   "replacement": "Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, davon 3 gültig).",
+   "replacement": "Die Liste kann unvollständig sein; den Status der erfassten Zulassungen zeigt die Tabelle.",
    "note": "Die Zulassung 65034 (Bisoprolol Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
-   "summary": "„alle gültig“ → „davon 3 gültig“"
+   "summary": "„alle gültig“ → Status in der Tabelle (65034 nicht mehr aufgeführt)",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+     "drug": "bisoprololi_fumaras",
+     "file": "bisoprololi_fumaras.md",
+     "id": "ch-lic-20261124-bisoprololi_fumaras-1",
+     "finding": "正文說 4 張全部有效；65034（Bisoprolol Zentiva 2.5 mg）2026-11-17 兩份現行清單都不列，有效 3 張",
+     "claim": "Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).",
+     "replacement": "Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, davon 3 gültig).",
+     "note": "Die Zulassung 65034 (Bisoprolol Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+     "summary": "„alle gültig“ → „davon 3 gültig“",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：查核紀錄更正文字不再寫死張數與舊表筆數"
+    }
+   ]
   },
   {
    "action": "correct",
@@ -11354,9 +11450,33 @@
    "id": "ch-lic-20261124-metoprololi_tartras-1",
    "finding": "正文說列出的 3 張全部有效；39252（Lopresor 100）2026-11-17 兩份現行清單都不列，有效 2 張",
    "claim": "Alle drei aufgeführten Zulassungen sind gültig.",
-   "replacement": "Zwei der drei aufgeführten Zulassungen sind gültig; die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "replacement": "Die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; den Status der übrigen Zulassungen zeigt die Tabelle.",
    "note": "Die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
-   "summary": "„alle drei gültig“ → „zwei der drei gültig“"
+   "summary": "„alle drei gültig“ → 39252 nicht mehr aufgeführt (Status in der Tabelle)",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+     "drug": "metoprololi_tartras",
+     "file": "metoprololi_tartras.md",
+     "id": "ch-lic-20261124-metoprololi_tartras-1",
+     "finding": "正文說列出的 3 張全部有效；39252（Lopresor 100）2026-11-17 兩份現行清單都不列，有效 2 張",
+     "claim": "Alle drei aufgeführten Zulassungen sind gültig.",
+     "replacement": "Zwei der drei aufgeführten Zulassungen sind gültig; die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+     "note": "Die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+     "summary": "„alle drei gültig“ → „zwei der drei gültig“",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：查核紀錄更正文字不再寫死張數與舊表筆數"
+    }
+   ]
   },
   {
    "action": "correct",
@@ -11374,9 +11494,153 @@
    "id": "ch-lic-20261124-ticagrelorum-1",
    "finding": "正文說列出的許可全部有效；68830（Ticagrelor Zentiva 60 mg）2026-11-17 兩份現行清單都不列，4 張中有效 3 張",
    "claim": "Alle aufgeführten Zulassungen sind gültig.",
-   "replacement": "Drei der vier aufgeführten Zulassungen sind gültig; die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "replacement": "Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; den Status der übrigen Zulassungen zeigt die Tabelle.",
    "note": "Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
-   "summary": "„alle gültig“ → „drei der vier gültig“"
+   "summary": "„alle gültig“ → 68830 nicht mehr aufgeführt (Status in der Tabelle)",
+   "history": [
+    {
+     "action": "correct",
+     "sources": [
+      {
+       "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+       "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+       "accessed": "2026-11-17"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+     "drug": "ticagrelorum",
+     "file": "ticagrelorum.md",
+     "id": "ch-lic-20261124-ticagrelorum-1",
+     "finding": "正文說列出的許可全部有效；68830（Ticagrelor Zentiva 60 mg）2026-11-17 兩份現行清單都不列，4 張中有效 3 張",
+     "claim": "Alle aufgeführten Zulassungen sind gültig.",
+     "replacement": "Drei der vier aufgeführten Zulassungen sind gültig; die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+     "note": "Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+     "summary": "„alle gültig“ → „drei der vier gültig“",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：查核紀錄更正文字不再寫死張數與舊表筆數"
+    }
+   ]
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "drug": "chloramphenicol",
+   "file": "chloramphenicol.md",
+   "id": "ch-lic-20261124b-chloramphenicol-1",
+   "finding": "事實層 1 張全部 Erloschen（30514 Spersadex comp.，2026-11-17 兩份現行清單都不列）；依成分對現行清單 0 個產品（11-17 已查）；摘要寫成現在式「zugelassen」",
+   "claim": "Chloramphenicol ist in der Schweiz als Augentropfen (in Kombination mit Dexamethason, Handelsname Spersadex comp.) zur Behandlung von Augeninfektionen zugelassen.",
+   "replacement": "Chloramphenicol war in der Schweiz als Augentropfen (in Kombination mit Dexamethason, Handelsname Spersadex comp.) zur Behandlung von Augeninfektionen zugelassen; diese Zulassung (30514) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "note": "Korrigiert: Die erfasste Zulassung Spersadex comp. (30514) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein Präparat mit Chloramphenicol (Prüfung nach Wirkstoff).",
+   "summary": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (30514 nicht mehr aufgeführt)"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "drug": "chloramphenicol",
+   "file": "chloramphenicol.md",
+   "id": "ch-lic-20261124b-chloramphenicol-2",
+   "finding": "結論條目「bereits zugelassenen Anwendung」以現行核准為前提；只改這個修飾語，判斷不動",
+   "claim": "entspricht aber im Wesentlichen der bereits zugelassenen Anwendung bei Augeninfektionen",
+   "replacement": "entspricht aber im Wesentlichen der in der Schweiz früher zugelassenen Anwendung bei Augeninfektionen",
+   "note": "Korrigiert: Die Zulassung für Augeninfektionen (Spersadex comp., 30514) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; „bereits zugelassen“ legte eine bestehende Zulassung nahe.",
+   "summary": "„bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "id": "ch-lic-20261124b-phenol-1",
+   "finding": "事實層 1 張全部 Erloschen（32238，2026-11-17 兩份現行清單都不列）；依成分對現行清單 0 個產品（11-17 已查）；摘要寫成現在式",
+   "claim": "Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen.",
+   "replacement": "Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen; diese Zulassung (32238) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "note": "Korrigiert: Die erfasste Zulassung Tannosynt flüssig (32238; Wirkstoff laut Swissmedic: phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein entsprechendes Präparat (Prüfung nach Wirkstoff).",
+   "summary": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "drug": "docetaxelum",
+   "file": "docetaxelum.md",
+   "id": "ch-lic-20261124b-docetaxelum-1",
+   "finding": "partial 頁（證據包 7 張）：53262、62120 兩份現行清單都不列，「mindestens sieben … gültig」不成立；全部單方成立",
+   "claim": "Mindestens sieben Zulassungen von Einzelpräparaten sind gültig.",
+   "replacement": "Die erfassten Zulassungen betreffen Einzelpräparate; die Zulassungen 53262 (Taxotere 20 mg) und 62120 (Helvetaxel 20 mg/1 ml) sind in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "note": "Korrigiert: Die Zulassungen 53262 (Taxotere 20 mg) und 62120 (Helvetaxel 20 mg/1 ml) sind in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; nicht alle erfassten Zulassungen sind gültig. Den Status aller erfassten Zulassungen zeigt die Tabelle.",
+   "summary": "„Mindestens sieben … gültig“ → 53262, 62120 nicht mehr aufgeführt"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "drug": "tamsulosinum",
+   "file": "tamsulosinum.md",
+   "id": "ch-lic-20261124b-tamsulosinum-1",
+   "finding": "partial 頁（證據包 7 張）：57160、57637 兩份現行清單都不列；只刪「davon 7 gültig」子句",
+   "claim": "(mindestens 7 Zulassungen, davon 7 gültig).",
+   "replacement": "(mindestens 7 Zulassungen).",
+   "note": "Entfernt: Die Zulassungen 57160 (Pradif T) und 57637 (Omix Ocas 0.4 mg) sind in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; nicht alle erfassten Zulassungen sind gültig. Den Status zeigt die Tabelle.",
+   "summary": "Entfernt: „davon 7 gültig“"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（正文許可證狀態、單方／複方、劑型與成分說法對證據包 data-20261117-090726 全部紀錄與許可證快照事實層；Swissmedic 兩份現行清單 2026-11-17）",
+   "drug": "scopolamini_butylbromidum",
+   "file": "scopolamini_butylbromidum.md",
+   "id": "ch-lic-20261124b-scopolamini_butylbromidum-1",
+   "finding": "證據包 29804 成分 scopolamini hydrobromidum（另一個鹽、四級胺 butylbromide 沒有眼用）；Buscopan 17352–17354、56802 才是 butylbromide。只改這個子句",
+   "claim": "das in der Schweiz als krampflösendes Mittel und in einer Augentropfen-Zubereitung als pupillenerweiterndes Mittel zugelassen ist.",
+   "replacement": "das in der Schweiz als krampflösendes Mittel zugelassen ist; die in der Tabelle ebenfalls aufgeführten Augentropfen (Scopolamine 0,25% Dispersa, 29804) enthalten laut Swissmedic Scopolaminhydrobromid, nicht Scopolaminbutylbromid.",
+   "note": "Korrigiert: Laut Swissmedic-Daten enthält Scopolamine 0,25% Dispersa, Augentropfen (29804) den Wirkstoff scopolamini hydrobromidum; die Präparate mit Scopolaminbutylbromid (Buscopan) sind Dragées, Suppositorien und Injektionslösung.",
+   "summary": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid"
   }
  ]
 }

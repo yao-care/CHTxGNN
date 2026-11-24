@@ -91,8 +91,6 @@ Diese Belege betreffen die Behandlung der Blutbildveränderungen bei HIV-Patient
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -69,8 +69,6 @@ Die punktförmige epitheliale Keratokonjunktivitis ist in der Regel viral, aller
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 9 Zulassungen bekannt.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

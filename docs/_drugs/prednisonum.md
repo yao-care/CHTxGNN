@@ -81,7 +81,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-Die Liste enthält mindestens 4 Zulassungen und kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Alle aufgeführten Zulassungen sind gültig.
 
 <!-- licenses:begin -->
 

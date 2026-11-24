@@ -67,8 +67,6 @@ Ein plausibler Mechanismus, der diese antibakterielle Wirkung mit einer Senkung 
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig: Es sind mindestens 5 Zulassungen erfasst.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

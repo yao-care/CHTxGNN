@@ -93,8 +93,6 @@ Die Publikationen sind Einzelfälle oder Übersichten und belegen keinen Nutzen 
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -93,8 +93,6 @@ Keine der Publikationen untersucht Budesonid direkt als Behandlung des atopische
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

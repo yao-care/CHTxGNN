@@ -91,7 +91,7 @@ Ein möglicher Vorteil: Ticagrelor muss nicht über das Enzym CYP2C19 aktiviert 
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein. Drei der vier aufgeführten Zulassungen sind gültig; die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; den Status der übrigen Zulassungen zeigt die Tabelle.
 
 <!-- review:begin ch-lic-20261124-ticagrelorum-1 -->
 
@@ -144,7 +144,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
-| 2026-11-24 | „alle gültig“ → „drei der vier gültig“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | „alle gültig“ → 68830 nicht mehr aufgeführt (Status in der Tabelle) | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

@@ -71,7 +71,7 @@ Dem stehen wichtige Einschränkungen gegenüber. Die okuläre Rosazea wird vor a
 
 ### Marktinformationen Schweiz
 
-In den vorliegenden Daten sind mindestens 7 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Alle aufgeführten Zulassungen sind gültig.
 
 <!-- licenses:begin -->
 

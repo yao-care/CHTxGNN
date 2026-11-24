@@ -85,8 +85,6 @@ Die Berichte betreffen verwandte Tumoren oder andere Erkrankungen, nicht die Cau
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 2 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -69,8 +69,6 @@ Diese Begründung ist plausibel, aber indirekt. Der hohe Vorhersagewert ist eine
 
 ### Marktinformationen Schweiz
 
-Die Liste enthält mindestens 4 Zulassungen und ist möglicherweise unvollständig.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

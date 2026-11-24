@@ -89,8 +89,6 @@ Keine der Publikationen untersucht Morphin direkt beim myofaszialen Schmerzsyndr
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

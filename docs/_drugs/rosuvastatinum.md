@@ -71,8 +71,6 @@ Die klinische Begründung ist jedoch schwach: Menschen mit dieser Störung haben
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

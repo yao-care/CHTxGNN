@@ -69,7 +69,7 @@ Die Plausibilität bleibt jedoch begrenzt. Die Verbindung beruht allein auf der 
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, davon 3 gültig).
+Die Liste kann unvollständig sein; den Status der erfassten Zulassungen zeigt die Tabelle.
 
 <!-- review:begin ch-lic-20261124-bisoprololi_fumaras-1 -->
 
@@ -123,7 +123,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
-| 2026-11-24 | „alle gültig“ → „davon 3 gültig“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | „alle gültig“ → Status in der Tabelle (65034 nicht mehr aufgeführt) | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

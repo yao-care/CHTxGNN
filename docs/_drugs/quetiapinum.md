@@ -67,8 +67,6 @@ Für Quetiapin liegen in den zusammengestellten Daten keine auswertbaren Angaben
 
 ## Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 3 Zulassungen erfasst).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

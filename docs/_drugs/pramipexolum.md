@@ -91,8 +91,6 @@ Keine der gefundenen Publikationen untersucht Pramipexol direkt bei ADHS. Die fo
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise nicht vollständig.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

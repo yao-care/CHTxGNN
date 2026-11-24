@@ -89,8 +89,6 @@ Die Anwendung bei seborrhoischer Dermatitis ist in den Daten als Anwendung ausse
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 5 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -76,8 +76,6 @@ Die einzige gefundene Publikation befasst sich mit Amyloid-Veränderungen im Mag
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

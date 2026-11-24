@@ -81,11 +81,11 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-Nach den lokalen Daten sind zwei der drei Zulassungen gültig; die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.
+Die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt; Zahl und Status aller Zulassungen zeigt die Tabelle. Es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.
 
 <!-- review:begin ch-lic-20261117-azathioprinum-1 -->
 
-> **Prüfkorrektur (2026-11-17)**: Ursprünglich stand hier: „Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.“ Swissmedic führt die Zulassung 63011 (Azafalk 75 mg) seit 2026 nicht mehr in den Listen der zugelassenen Arzneimittel und Packungen (Stand 2026-11-17); gültig sind 31887 und 55578. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Nach den lokalen Daten sind alle drei Zulassungen gültig; es handelt sich jeweils um Präparate mit dem Einzelwirkstoff.“ Swissmedic führt die Zulassung 63011 (Azafalk 75 mg) seit 2026 nicht mehr in den Listen der zugelassenen Arzneimittel und Packungen (Stand 2026-11-17); gültig sind 31887 und 55578. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
 
 <!-- review:end ch-lic-20261117-azathioprinum-1 -->
 
@@ -123,7 +123,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-17 | „alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | „alle drei gültig“ → 63011 nicht mehr zugelassen (Zahl und Status in der Tabelle) | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

@@ -71,7 +71,7 @@ Der hohe Vorhersagewert ist deshalb als rein rechnerisches Ergebnis zu werten. E
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 5 gültig und 3 erloschen.
+Die Liste kann unvollständig sein; den Status der erfassten Zulassungen zeigt die Tabelle.
 
 <!-- review:begin ch-lic-20261124-azithromycinum-1 -->
 
@@ -129,7 +129,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 | 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
-| 2026-11-24 | „6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | „davon 6 gültig und 2 gelöscht“ → Status in der Tabelle (51999, 61256, 57627 erloschen) | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

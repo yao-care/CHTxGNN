@@ -69,7 +69,7 @@ Hinzu kommt ein Sicherheitsrisiko: Isotretinoin wird mit erhöhten Triglyceriden
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Alle aufgeführten Zulassungen sind gültig.
 
 <!-- licenses:begin -->
 

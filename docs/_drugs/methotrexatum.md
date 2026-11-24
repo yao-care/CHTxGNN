@@ -69,8 +69,6 @@ Ein solcher antiproliferativer Effekt könnte grundsätzlich auch bei einem selt
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 2 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

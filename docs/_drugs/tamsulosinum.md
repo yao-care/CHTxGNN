@@ -69,7 +69,13 @@ Der sehr hohe Vorhersagewert beruht auf einer rein rechnerischen Ähnlichkeit zu
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 7 Zulassungen, davon 7 gültig).
+Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 7 Zulassungen).
+
+<!-- review:begin ch-lic-20261124b-tamsulosinum-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „(mindestens 7 Zulassungen, davon 7 gültig).“ Entfernt: Die Zulassungen 57160 (Pradif T) und 57637 (Omix Ocas 0.4 mg) sind in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; nicht alle erfassten Zulassungen sind gültig. Den Status zeigt die Tabelle. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124b-tamsulosinum-1 -->
 
 <!-- licenses:begin -->
 
@@ -109,6 +115,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Klärung der Wirkrichtung (Hemmung statt Förderung des Haarwachstums)
 - Vollständige Angaben zum Wirkmechanismus
 - Sicherheitsangaben aus der Fachinformation von Swissmedic (Warnhinweise und Kontraindikationen)
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | Entfernt: „davon 7 gültig“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

@@ -71,7 +71,7 @@ Der hohe Wert ist jedoch kein unabhängiger Beleg. Er dürfte zu einem erheblich
 
 ### Marktinformationen Schweiz
 
-Es liegen mindestens 7 Zulassungen vor; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Alle aufgeführten Zulassungen sind gültig.
 
 <!-- licenses:begin -->
 

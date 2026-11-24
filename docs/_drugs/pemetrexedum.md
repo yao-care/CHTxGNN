@@ -79,7 +79,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-In der Schweiz sind mindestens 6 Zulassungen von Einzelwirkstoff-Präparaten erfasst, alle gültig. Die Liste kann unvollständig sein.
+In der Schweiz sind mindestens 6 Zulassungen von Einzelwirkstoff-Präparaten erfasst, alle gültig.
 
 <!-- licenses:begin -->
 

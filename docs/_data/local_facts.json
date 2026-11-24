@@ -21,11 +21,11 @@
   "items_current": 1292
  },
  "reviews": {
-  "records": 375,
-  "pages": 354,
-  "public_pages_with_records": 354,
+  "records": 381,
+  "pages": 359,
+  "public_pages_with_records": 359,
   "by_action": {
-   "correct": 7,
+   "correct": 13,
    "mechanism": 368
   }
  },
@@ -132,7 +132,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 2,
    "i": "diffuse scleroderma"
   },
   {
@@ -141,7 +141,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "acrodermatitis chronica atrophicans"
   },
   {
@@ -202,6 +202,15 @@
    "i": "Liposarkom"
   },
   {
+   "t": "Chloramphenicol",
+   "u": "/drugs/chloramphenicol/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 2,
+   "i": "diffuse scleroderma"
+  },
+  {
    "t": "Codeini Phosphas Hemihydricus",
    "u": "/drugs/codeini-phosphas-hemihydricus/",
    "l": "L5",
@@ -209,15 +218,6 @@
    "lv": 7,
    "r": 2,
    "i": "Erkrankung der Nasenhöhle"
-  },
-  {
-   "t": "Desmopressinum",
-   "u": "/drugs/desmopressinum/",
-   "l": "L5",
-   "lt": 8,
-   "lv": 8,
-   "r": 2,
-   "i": "Angeborener Prothrombinmangel"
   }
  ],
  "example": {
@@ -231,90 +231,126 @@
  },
  "recent_reviews": [
   {
+   "t": "Tamsulosinum",
+   "u": "/drugs/tamsulosinum/",
+   "s": "Entfernt: „davon 7 gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Scopolamini Butylbromidum",
+   "u": "/drugs/scopolamini-butylbromidum/",
+   "s": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Phenol",
+   "u": "/drugs/phenol/",
+   "s": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Docetaxelum",
+   "u": "/drugs/docetaxelum/",
+   "s": "„Mindestens sieben … gültig“ → 53262, 62120 nicht mehr aufgeführt",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Chloramphenicol",
+   "u": "/drugs/chloramphenicol/",
+   "s": "„bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Ticagrelorum",
    "u": "/drugs/ticagrelorum/",
-   "s": "„alle gültig“ → „drei der vier gültig“",
+   "s": "„alle gültig“ → 68830 nicht mehr aufgeführt (Status in der Tabelle)",
    "d": "2026-11-24"
   },
   {
    "t": "Metoprololi Tartras",
    "u": "/drugs/metoprololi-tartras/",
-   "s": "„alle drei gültig“ → „zwei der drei gültig“",
+   "s": "„alle drei gültig“ → 39252 nicht mehr aufgeführt (Status in der Tabelle)",
    "d": "2026-11-24"
   },
   {
    "t": "Bisoprololi Fumaras",
    "u": "/drugs/bisoprololi-fumaras/",
-   "s": "„alle gültig“ → „davon 3 gültig“",
+   "s": "„alle gültig“ → Status in der Tabelle (65034 nicht mehr aufgeführt)",
    "d": "2026-11-24"
   },
   {
    "t": "Azithromycinum",
    "u": "/drugs/azithromycinum/",
-   "s": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
+   "s": "„davon 6 gültig und 2 gelöscht“ → Status in der Tabelle (51999, 61256, 57627 erloschen)",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Dextromethorphanum",
+   "u": "/drugs/dextromethorphanum/",
+   "s": "„alle 17 gültig, alle Einzelwirkstoff“ → 59309 abgelaufen; 41799 Kombinationspräparat",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Azathioprinum",
+   "u": "/drugs/azathioprinum/",
+   "s": "„alle drei gültig“ → 63011 nicht mehr zugelassen (Zahl und Status in der Tabelle)",
    "d": "2026-11-24"
   },
   {
    "t": "Ritonavirum",
    "u": "/drugs/ritonavirum/",
    "s": "„mit gültiger Zulassung im Handel“ → Einzelpräparat nicht mehr zugelassen, Kombinationen weiterhin zugelassen",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Dextromethorphanum",
-   "u": "/drugs/dextromethorphanum/",
-   "s": "„alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen)",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Azathioprinum",
-   "u": "/drugs/azathioprinum/",
-   "s": "„alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen)",
    "d": "2026-11-17"
   }
  ],
  "recent_licence_reviews": [
   {
+   "t": "Tamsulosinum",
+   "u": "/drugs/tamsulosinum/",
+   "s": "Entfernt: „davon 7 gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Scopolamini Butylbromidum",
+   "u": "/drugs/scopolamini-butylbromidum/",
+   "s": "Augentropfen 29804 enthalten Scopolaminhydrobromid, nicht Scopolaminbutylbromid",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Phenol",
+   "u": "/drugs/phenol/",
+   "s": "„ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt)",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Docetaxelum",
+   "u": "/drugs/docetaxelum/",
+   "s": "„Mindestens sieben … gültig“ → 53262, 62120 nicht mehr aufgeführt",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Chloramphenicol",
+   "u": "/drugs/chloramphenicol/",
+   "s": "„bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Ticagrelorum",
    "u": "/drugs/ticagrelorum/",
-   "s": "„alle gültig“ → „drei der vier gültig“",
+   "s": "„alle gültig“ → 68830 nicht mehr aufgeführt (Status in der Tabelle)",
    "d": "2026-11-24"
   },
   {
    "t": "Metoprololi Tartras",
    "u": "/drugs/metoprololi-tartras/",
-   "s": "„alle drei gültig“ → „zwei der drei gültig“",
+   "s": "„alle drei gültig“ → 39252 nicht mehr aufgeführt (Status in der Tabelle)",
    "d": "2026-11-24"
   },
   {
    "t": "Bisoprololi Fumaras",
    "u": "/drugs/bisoprololi-fumaras/",
-   "s": "„alle gültig“ → „davon 3 gültig“",
+   "s": "„alle gültig“ → Status in der Tabelle (65034 nicht mehr aufgeführt)",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Azithromycinum",
-   "u": "/drugs/azithromycinum/",
-   "s": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Ritonavirum",
-   "u": "/drugs/ritonavirum/",
-   "s": "„mit gültiger Zulassung im Handel“ → Einzelpräparat nicht mehr zugelassen, Kombinationen weiterhin zugelassen",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Dextromethorphanum",
-   "u": "/drugs/dextromethorphanum/",
-   "s": "„alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen)",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Azathioprinum",
-   "u": "/drugs/azathioprinum/",
-   "s": "„alle drei gültig“ → „zwei von drei gültig“ (63011 nicht mehr zugelassen)",
-   "d": "2026-11-17"
   }
  ],
  "files": {

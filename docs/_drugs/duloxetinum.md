@@ -71,8 +71,6 @@ Ein klarer mechanistischer Zusammenhang lässt sich daher nicht herleiten. Der h
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 3 Zulassungen erfasst.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

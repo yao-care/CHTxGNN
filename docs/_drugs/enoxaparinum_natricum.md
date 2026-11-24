@@ -69,8 +69,6 @@ Dieser Zusammenhang ist jedoch bislang nur durch den hohen Modellwert gestützt,
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 2 Zulassungen erfasst.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

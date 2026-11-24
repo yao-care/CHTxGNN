@@ -92,8 +92,6 @@ Wichtig: Die einzige direkte Phase-3-Studie verwendete Hydrocortison 1 % als sch
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 10 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -84,8 +84,6 @@ Keine der gefundenen Arbeiten untersucht Lisinopril direkt bei pulmonaler Hypert
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 3 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

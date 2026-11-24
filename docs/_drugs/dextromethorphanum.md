@@ -79,11 +79,11 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-16 der 17 Zulassungen sind gültig (die Zulassung 59309, Irotussin Antitussivum, ist abgelaufen); alle betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.
+Die Zulassung 59309 (Irotussin Antitussivum) ist abgelaufen; Zahl und Status aller Zulassungen zeigt die Tabelle. Mit Ausnahme von Vicks Medinait (41799, Kombinationspräparat mit Doxylamin, Ephedrin und Paracetamol) betreffen die Zulassungen Präparate mit Dextromethorphan als einzigem Wirkstoff.
 
 <!-- review:begin ch-lic-20261117-dextromethorphanum-1 -->
 
-> **Prüfkorrektur (2026-11-17)**: Ursprünglich stand hier: „Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.“ Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Alle 17 Zulassungen sind gültig und betreffen Präparate mit Dextromethorphan als einzigem Wirkstoff.“ Die Zulassung 59309 (Irotussin Antitussivum) war bis 2026-05-31 gültig und ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Vicks Medinait, sirop (41799) enthält laut Swissmedic neben Dextromethorphanhydrobromid auch Doxylamin, Ephedrin und Paracetamol und ist kein Einzelwirkstoffpräparat. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
 
 <!-- review:end ch-lic-20261117-dextromethorphanum-1 -->
 
@@ -142,7 +142,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
-| 2026-11-17 | „alle 17 gültig“ → „16 von 17 gültig“ (59309 abgelaufen) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | „alle 17 gültig, alle Einzelwirkstoff“ → 59309 abgelaufen; 41799 Kombinationspräparat | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

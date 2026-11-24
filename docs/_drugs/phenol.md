@@ -40,7 +40,13 @@ Evidenzniveau: **L5** | Vorhergesagte Indikationen: **8**
 
 ## Zusammenfassung
 
-Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen. Das Modell sagt mit sehr hohem Wert eine Wirksamkeit bei Acrodermatitis chronica atrophicans voraus. Diese Vorhersage stützt sich jedoch auf keine klinische Studie und keine Literatur (Evidenzniveau L5), weshalb sie derzeit nicht belastbar ist.
+Phenol (Tannosynt flüssig) war in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen; diese Zulassung (32238) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Das Modell sagt mit sehr hohem Wert eine Wirksamkeit bei Acrodermatitis chronica atrophicans voraus. Diese Vorhersage stützt sich jedoch auf keine klinische Studie und keine Literatur (Evidenzniveau L5), weshalb sie derzeit nicht belastbar ist.
+
+<!-- review:begin ch-lic-20261124b-phenol-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Phenol (Tannosynt flüssig) ist in der Schweiz zur Behandlung entzündlicher, nässender und juckender Hauterkrankungen zugelassen.“ Korrigiert: Die erfasste Zulassung Tannosynt flüssig (32238; Wirkstoff laut Swissmedic: phenoli/phenoli sulfonatis/formaldehydi/urei condensatum natricum) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; die aktuellen Swissmedic-Listen enthalten kein entsprechendes Präparat (Prüfung nach Wirkstoff). Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124b-phenol-1 -->
 
 ---
 
@@ -114,6 +120,19 @@ Für verbindliche Sicherheitsinformationen beachten Sie bitte die Fachinformatio
 - Wirkmechanismus von Phenol aus DrugBank ergänzen
 - Belege für eine mögliche Rolle von Phenol bei Acrodermatitis chronica atrophicans suchen (präklinische oder klinische Daten)
 - Prüfen, ob die Darreichungsform (Lösung zur Anwendung auf der Haut) zur Zielindikation passt
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | „ist in der Schweiz … zugelassen“ → „war … zugelassen“ (32238 nicht mehr aufgeführt) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

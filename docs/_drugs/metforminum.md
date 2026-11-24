@@ -69,8 +69,6 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis. Er ist identisch mit dem 
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein (mindestens 3 Zulassungen erfasst).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

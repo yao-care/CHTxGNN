@@ -102,8 +102,6 @@ Die gefundene Literatur besteht überwiegend aus allgemeinen Übersichtsarbeiten
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 2 Zulassungen erfasst.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

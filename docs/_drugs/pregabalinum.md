@@ -88,8 +88,6 @@ Die gefundenen Publikationen untersuchen Tendinitis nicht direkt als Behandlungs
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; mindestens 4 Zulassungen sind erfasst.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

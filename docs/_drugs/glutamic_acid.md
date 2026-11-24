@@ -89,8 +89,6 @@ Keine der Publikationen untersucht freie Glutaminsäure bei postmenopausaler Ost
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

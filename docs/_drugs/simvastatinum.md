@@ -79,8 +79,6 @@ Dies ist jedoch ein theoretischer Zusammenhang. Für den Hirnstamminfarkt im Spe
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 3 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

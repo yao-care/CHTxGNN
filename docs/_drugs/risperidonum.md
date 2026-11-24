@@ -71,8 +71,6 @@ Der hohe Vorhersagewert von 0,9976 ist daher als rein rechnerisches Ergebnis zu 
 
 ### Marktinformationen Schweiz
 
-Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

@@ -80,8 +80,6 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

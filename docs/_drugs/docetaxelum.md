@@ -120,7 +120,13 @@ Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Human
 
 <!-- licenses:end -->
 
-Docetaxel ist in der Schweiz im Handel. Mindestens sieben Zulassungen von Einzelpräparaten sind gültig. Die vorliegende Liste ist möglicherweise unvollständig.
+Docetaxel ist in der Schweiz im Handel. Die erfassten Zulassungen betreffen Einzelpräparate; die Zulassungen 53262 (Taxotere 20 mg) und 62120 (Helvetaxel 20 mg/1 ml) sind in den aktuellen Swissmedic-Listen nicht mehr aufgeführt. Die vorliegende Liste ist möglicherweise unvollständig.
+
+<!-- review:begin ch-lic-20261124b-docetaxelum-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Mindestens sieben Zulassungen von Einzelpräparaten sind gültig.“ Korrigiert: Die Zulassungen 53262 (Taxotere 20 mg) und 62120 (Helvetaxel 20 mg/1 ml) sind in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt; nicht alle erfassten Zulassungen sind gültig. Den Status aller erfassten Zulassungen zeigt die Tabelle. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124b-docetaxelum-1 -->
 
 ---
 
@@ -156,6 +162,19 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 - Prüfung der Fachinformation auf Warnhinweise, Kontraindikationen und Wechselwirkungen, da zu diesen Punkten keine Daten vorliegen.
 - Ergänzung des Wirkmechanismus aus einer geeigneten Arzneimittelquelle.
 - Klärung der Eignung für Kinder und Jugendliche, da die Erkrankung vor allem diese Altersgruppen betrifft.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | „Mindestens sieben … gültig“ → 53262, 62120 nicht mehr aufgeführt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.

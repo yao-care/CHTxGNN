@@ -67,8 +67,6 @@ Die renale Hypodysplasie/Aplasie ist eine angeborene Fehlbildung, die etwa mit M
 
 ### Marktinformationen Schweiz
 
-Die Liste ist möglicherweise unvollständig (mindestens 2 Zulassungen).
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |

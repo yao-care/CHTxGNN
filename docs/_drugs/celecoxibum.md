@@ -83,8 +83,6 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 7 Zulassungen erfasst. Die Liste kann unvollständig sein.
-
 <!-- licenses:begin -->
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
