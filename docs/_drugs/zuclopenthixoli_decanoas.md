@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01624
 monitor_inn: "Zuclopenthixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Zuclopenthixoli Decanoas: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokuläre Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -83,12 +83,18 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 47783 | Clopixol Acutard, Injektionslösung | Synthetika | Neurolepticum |
-| 44744 | Clopixol 2 mg, Filmtabletten | Synthetika | Neurolepticum |
-| 44747 | Clopixol, Tropfen zum Einnehmen | Synthetika | Neurolepticum |
-| 40275 | Clopixol Depot, Injektionslösung | Synthetika | Neurolepticum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 40275 | Clopixol Depot, Injektionslösung | Synthetika | Neurolepticum | Gültig |
+| 44744 | Clopixol 2 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Neurolepticum | Gültig |
+| 44747 | Clopixol, Tropfen zum Einnehmen | Synthetika | Neurolepticum | Gültig |
+| 47783 | Clopixol Acutard, Injektionslösung | Synthetika | Neurolepticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB12865
 monitor_inn: "Etelcalcetide"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etelcalcetidum: vorhergesagte neue Indikation Hyperphosphatämie (hyperphosphatemia (disease)) (Evidenzstufe L5)."
 ---
 
@@ -88,9 +88,15 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66338 | Parsabiv 2.5 mg, Injektionslösung | Synthetika | Sekundärer Hyperparathyreoidismus (SHPT) bei erwachsenen hämodialysepflichtigen Patienten mit chronischer Nierenerkrankung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66338 | Parsabiv 2.5 mg, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | sekundärer Hyperparathyreoidismus (SHPT) bei erwachsenen hämodialysepflichtigen Patienten mit chronischer Nie… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

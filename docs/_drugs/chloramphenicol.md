@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 description: "Chloramphenicol: vorhergesagte neue Indikation Diffuse scleroderma (Evidenzstufe L5). Ursprüngliche Indikation: Infections oculaires"
@@ -93,9 +93,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 30514 | Spersadex comp., collyre en solution | Augentropfen (Lösung) | Augeninfektionen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 30514 | Spersadex comp., collyre en solution | Synthetika | Infections oculaires | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

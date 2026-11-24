@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01242
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "attention deficit-hyperactivity disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clomipramini Hydrochloridum: vorhergesagte neue Indikation Angststörung (anxiety disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivi"
 ---
 
@@ -99,10 +99,16 @@ Wichtig ist die Einschränkung: Die aufgeführten Studien betreffen überwiegend
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 44815 | Anafranil SR 75 mg, Retardtabletten | Synthetika | Antidepressiva |
-| 32934 | Anafranil 10 mg, Filmtabletten | Synthetika | Antidepressiva |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 32934 | Anafranil 10 mg, compresse rivestite con film (+1 weitere Bezeichnung) | Synthetika | Antidepressivi | Gültig |
+| 44815 | Anafranil SR 75 mg, compresse a rilascio prolungato | Synthetika | Antidepressivi | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

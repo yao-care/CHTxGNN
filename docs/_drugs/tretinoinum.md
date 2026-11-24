@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00755
 monitor_inn: "Tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tretinoinum: vorhergesagte neue Indikation Rheumatoide Nodulose (rheumatoid nodulosis) (Evidenzstufe L5). Ursprüngliche Indikation: akute Promyelozytenleukämie"
 ---
 
@@ -83,9 +83,15 @@ Zur rheumatoiden Nodulose liegt keine Literatur vor. Die beiden für andere Vorh
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 52775 | Vesanoid, Weichkapseln | Synthetika | Akute Promyelozytenleukämie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52775 | Vesanoid, Weichkapseln | Synthetika | akute Promyelozytenleukämie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

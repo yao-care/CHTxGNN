@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01282
 monitor_inn: "Carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbetocinum: vorhergesagte neue Indikation Isotretinoin-ähnliches Syndrom (isotretinoin-like syndrome) (Evidenzstufe L5)."
 ---
 
@@ -81,11 +81,17 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58079 | Pabal, Injektionslösung | Synthetika | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie |
-| 67157 | Carbetocin Ferring 100 µg, Injektionslösung | Synthetika | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie |
-| 69359 | Carbetocin Aguettant 100 µg/ml, Injektionslösung in Fertigspritze | Synthetika | Prävention von Blutungen nach der Geburt aufgrund einer postpartalen Uterusatonie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58079 | Pabal, Injektionslösung | Synthetika | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie | Gültig |
+| 67157 | Carbetocin Ferring 100 ug, Injektionslösung | Synthetika | Prävention uteriner Blutungen aufgrund einer postpartalen Uterusatonie | Gültig |
+| 69359 | Carbetocin Aguettant 100 μg/mL, solution injectable en seringue prére… | Synthetika | Prévention des hémorragies de la délivrance dues à une atonie utérine du post-partum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

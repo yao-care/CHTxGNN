@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00843
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Donepezilum: vorhergesagte neue Indikation Psychogene Bewegungsstörungen (psychogenic movement disorders) (Evidenzstufe L5)."
 ---
 
@@ -81,12 +81,20 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59416 | Donepezil Sandoz 5 mg, Filmtabletten | Synthetika | Symptomatische Behandlung der leichten bis mittelschweren Demenz vom Alzheimer-Typ |
-| 54274 | Aricept 5 mg, Filmtabletten | Synthetika | Demenz vom Alzheimer-Typ |
-| 60535 | Donepezil-Mepha 5 mg, Lactab | Synthetika | Demenz vom Alzheimer-Typ |
-| 57312 | Aricept Evess 5 mg, Schmelztabletten | Synthetika | Demenz vom Alzheimer-Typ |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54274 | Aricept 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
+| 57312 | Aricept Evess 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
+| 59416 | Donepezil Sandoz 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Symptomatische Behandlung der leichten bis mittelschweren Demenz vom Alzheimer-Typ | Gültig |
+| 60535 | Donepezil-Mepha 5 mg, Lactab (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

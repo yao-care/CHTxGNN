@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01101
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Capecitabinum: vorhergesagte neue Indikation Magenadenokarzinom und proximale Magenpolyposis (gastric adenocarcinoma and proximal polyposis of the stomach) (Evidenzstufe L5)."
 ---
 
@@ -70,6 +70,20 @@ Die vorhergesagte Erkrankung ist jedoch ein seltenes erbliches Syndrom. Für die
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54657 | Xeloda 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 62822 | Capecitabin-Teva 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 62835 | Capecitabin Helvepharm 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 66982 | Capecitabin Accord 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 70021 | Capecitabin Zentiva 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Capecitabin ist in der Schweiz im Handel. Die Zulassungsdetails ergänzt das Programm aus den lokalen Zulassungsdaten.
 

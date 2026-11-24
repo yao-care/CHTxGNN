@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00005
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etanerceptum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis…"
 ---
 
@@ -69,17 +69,25 @@ Ein Zusammenhang mit der Steissbeinhypermobilität ist spekulativ. Der hohe Vorh
 
 Die Liste ist möglicherweise unvollständig (mindestens 9 Zulassungen; alle 9 aufgeführten sind gültig).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60025 | Enbrel MyClic 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, juvenile idiopathische Arthritis, Psoriasis-Arthritis, Morbus Bechterew, mittelschwere bis schwere Plaque-Psoriasis |
-| 57711 | Enbrel 25 mg, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 60025 |
-| 55365 | Enbrel 25 mg, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Wie 60025 |
-| 66323 | Benepali 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, ankylosierende Spondylitis, Plaque-Psoriasis (Erwachsene, Kinder und Jugendliche), juvenile idiopathische Arthritis |
-| 66325 | Benepali 50 mg, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 66323 |
-| 66176 | Erelzi SensoReady 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, juvenile idiopathische Arthritis, Psoriasis-Arthritis, Morbus Bechterew, mittelschwere bis schwere Plaque-Psoriasis |
-| 66175 | Erelzi 25 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 66176 |
-| 68150 | Nepexto 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Wie 66323 |
-| 68149 | Nepexto 50 mg/1 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Wie 66323 |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55365 | Enbrel 25 mg, Pulver und Lösungsmittel zur Herstellung einer Injektio… | Biotechnologika | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
+| 57711 | Enbrel 25 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
+| 60025 | Enbrel MyClic 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
+| 66175 | Erelzi 25 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Rheumatoide Arthritis, juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, E… | Gültig |
+| 66176 | Erelzi SensoReady 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, E… | Gültig |
+| 66323 | Benepali 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 66325 | Benepali 50 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 68149 | Nepexto 50 mg/1 ml, Injektionslsöung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 68150 | Nepexto 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

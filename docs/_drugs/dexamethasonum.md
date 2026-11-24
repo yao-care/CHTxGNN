@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01234
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Dexamethasonum: vorhergesagte neue Indikation Alopecia mucinosa (Evidenzstufe L5). Ursprüngliche Indikation: Glucocorticoid-Therapie"
 ---
 
@@ -83,16 +83,24 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Es sind mindestens 8 Zulassungen erfasst, die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66710 | Dexamethason Galepharm Amp 4mg/1ml, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
-| 69719 | Dexocol 1 mg/ml, collyre en solution | Synthetika | Behandlung nicht infektiöser Entzündungen des vorderen Augenabschnitts |
-| 31890 | Mephameson 4 mg/ml, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
-| 48669 | Fortecortin Inject 4 mg, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
-| 57477 | Dexafree UD 0,1%, collyre | Synthetika | Nicht infektiöse Augenentzündungen |
-| 60324 | Ozurdex, intravitreales Implantat in Applikator | Synthetika | Makulaödem nach retinalem Venenastverschluss oder Zentralvenenverschluss; Entzündung des hinteren Augenabschnitts bei nicht infektiöser Uveitis; diabetisches Makulaödem |
-| 30058 | Maxidex, Augentropfensuspension | Synthetika | Nicht infizierte Augenentzündungen |
-| 41074 | Dexamethason Zentiva 5 mg, Injektionslösung | Synthetika | Glukokortikosteroid-Therapie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 30058 | Maxidex, Augentropfensuspension | Synthetika | Nicht infizierte Augenentzündungen | Gültig |
+| 31890 | Mephameson 4 mg/ml, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 41074 | Dexamethason Zentiva 5 mg, Injektionslösung | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+| 48669 | Fortecortin Inject 4 mg, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 57477 | Dexafree UD 0,1%, collyre | Synthetika | Inflammations oculaires non infectées | Gültig |
+| 60324 | Ozurdex, intravitreales Implantat in Applikator | Synthetika | Makulaödem nach retinalem Venenastverschluss oder Zentralvenenverschluss; Entzündung des posterioren Segments… | Gültig |
+| 66710 | Dexamethason Galepharm Amp 4mg/1ml, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 69719 | Dexocol 1 mg/ml, collyre en solution | Synthetika | Traitement des états inflammatoires non infectieux du segment antérieur de l’oeil. | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

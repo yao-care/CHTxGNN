@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TIOTROPIUM"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tiotropium: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Dauerbehandlung COPD"
@@ -96,10 +96,16 @@ Keine dieser Arbeiten untersucht Tiotropium bei Atemwegsfehlbildungen.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55855 | Spiriva 18 mcg, Kapseln zur Inhalation | Synthetika | Dauerbehandlung COPD |
-| 67396 | Spiriva Respimat 2.5 mcg, Lösung zur Inhalation (wiederverwendbar) | Synthetika | COPD |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55855 | Spiriva 18 mcg, Kapseln zur Inhalation | Synthetika | Dauerbehandlung COPD | Gültig |
+| 67396 | Spiriva Respimat 2.5 mcg, Lösung zur Inhalation (wiederverwendbar) | Synthetika | COPD | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Beide Zulassungen sind gültig.
 

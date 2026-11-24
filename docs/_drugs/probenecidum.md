@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01032
 monitor_inn: "Probenecid"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Probenecidum: vorhergesagte neue Indikation Renale Hypourikämie (hypouricemia, renal) (Evidenzstufe L5). Ursprüngliche Indikation: Urikosurikum"
 ---
 
@@ -88,9 +88,15 @@ Keine der Publikationen untersucht Probenecid als Therapie der renalen Hypourik�
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57365 | Santuril, Tabletten | Synthetika | Urikosurikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57365 | Santuril, Tabletten | Synthetika | Urikosurikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB08896
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Regorafenibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: metastasiertes Kolorektalkarzinom, gastrointestinale Stromatumoren…"
 ---
 
@@ -93,9 +93,15 @@ Das Evidenzniveau L2 beruht auf der Liposarkom-Kohorte von SARC024, einer random
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62808 | Stivarga 40 mg, Filmtabletten | Synthetika | Metastasiertes Kolorektalkarzinom, gastrointestinale Stromatumoren, Leberzellkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62808 | Stivarga 40 mg, Filmtabletten | Synthetika | metastasiertes Kolorektalkarzinom, gastrointestinale Stromatumoren, Leberzellkarzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

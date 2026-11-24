@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 86
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Sorbitol: vorhergesagte neue Indikation Belastungsinduzierte maligne Hyperthermie (Evidenzstufe L5). Ursprüngliche Indikation: Obstipation"
 monitor_inn: "sorbitol"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
@@ -70,10 +70,16 @@ Der hohe Vorhersagewert (0.9940) stammt vom TxGNN-Modell (Deep Learning) und kan
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54285 | Pursana Feigensirup mit Sorbitol, Sirup | Synthetika | Obstipation |
-| 29869 | Microlax, Klysma | Synthetika | Laxans |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 29869 | Microlax, Klysma | Synthetika | Laxans | Gültig |
+| 54285 | Pursana Feigensirup mit Sorbitol, Sirup | Synthetika | Obstipation | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

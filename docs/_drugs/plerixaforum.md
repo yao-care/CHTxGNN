@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06809
 monitor_inn: "Plerixafor"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Plerixaforum: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Mobilisation des cellules souches hématopoïétiques"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 63139 | Mozobil 20mg/mL, solution injectable | Synthetika | Mobilisation hämatopoetischer Stammzellen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63139 | Mozobil 20mg/mL, solution injectable | Synthetika | Mobilisation des cellules souches hématopoïétiques | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

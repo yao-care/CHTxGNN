@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01062
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Oxybutyninum: vorhergesagte neue Indikation Restless-Legs-Syndrom (restless legs syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Zur Unterdrückung einer neurogenen Detrusorüberaktivität"
 ---
 
@@ -71,11 +71,17 @@ Der hohe Vorhersagewert beruht allein auf einer computergestützten Modellvorher
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68991 | Velariq 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetika | Zur Unterdrückung einer neurogenen Detrusorüberaktivität |
-| 67983 | Vesoxx 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetika | Zur Unterdrückung einer neurogenen Detrusorüberaktivität |
-| 57733 | Kentera, transdermales Pflaster | Synthetika | Spasmolytikum der Harnwege |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57733 | Kentera, transdermales Pflaster | Synthetika | Spasmolytikum der Harnwege | Gültig |
+| 67983 | Vesoxx 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetika | Zur Unterdrückung einer neurogenen Detrusorüberaktivität | Gültig |
+| 68991 | Velariq 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetika | Zur Unterdrückung einer neurogenen Detrusorüberaktivität | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01109
 monitor_inn: "Heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Heparinum Natricum: vorhergesagte neue Indikation Thrombophilie durch Protein-C-Mangel, autosomal-rezessiv (thrombophilia due to protein C deficiency, autosomal recessive) (Evidenzstufe L5)."
 ---
 
@@ -71,20 +71,28 @@ Der hohe Vorhersagewert ist eine reine Modellrechnung. Ohne Studien oder Publika
 
 Die Liste kann unvollständig sein; es sind mindestens 12 Zulassungen erfasst, alle gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55744 | Lyman 40'000 Mono, Spray | Synthetika | Stumpfe Verletzungen, oberflächliche Venenentzündungen |
-| 38459 | HepaGel, Gel | Synthetika | Stumpfe Verletzungen, oberflächliche Venenentzündungen |
-| 15159 | Liquemin 25'000 I.E. / 5 ml, Injektions-/Infusionslösung | Biotechnologika | Antikoagulans |
-| 46613 | Heparin-Na 25'000 I.E./5 mL B. Braun, Injektions-/Infusionslösung | Biotechnologika | Thromboembolische Erkrankungen |
-| 50476 | Lioton 1000, Gel | Synthetika | Oberflächliche Venenentzündungen, Venenbeschwerden, stumpfe Verletzungen |
-| 56332 | Heparin Bichsel 100 I.E./ml, Injektionslösung | Biotechnologika | Katheter-Spülung |
-| 46240 | Heparin Bichsel 1000 I.E./ml, Injektionslösung | Biotechnologika | Antikoagulans |
-| 67780 | Heparin Sintetica 20'000 UI/48 ml, Infusionslösung | Biotechnologika | Antikoagulans |
-| 62991 | Traumalix Dolo Venactiv, Gel | Synthetika | Stumpfe Verletzungen |
-| 43996 | Keppur, Salbe | Synthetika | Stumpfe Verletzungen |
-| 62990 | Traumalix Dolo Venactiv, Salbe | Synthetika | Stumpfe Verletzungen |
-| 47122 | Keppur, Gel | Synthetika | Stumpfe Verletzungen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 15159 | Liquemin 25'000 I.E. / 5 ml, Injektions-/Infusionslösung | Biotechnologika | Anticoagulans | Gültig |
+| 38459 | HepaGel, Gel | Synthetika | Stumpfe Verletzungen, oberflächliche Venenentzündungen | Gültig |
+| 43996 | Keppur, Salbe | Synthetika | Bei stumpfen Verletzungen | Gültig |
+| 46240 | Heparin Bichsel 1000 I.E./ml, Injektionslösung (+2 weitere Bezeichnungen) | Biotechnologika | Antikoagulans | Gültig |
+| 46613 | Heparin-Na 25'000 I.E./5 mL B. Braun, Injektions-/Infusionslösung | Biotechnologika | Thromboembolische Erkrankungen | Gültig |
+| 47122 | Keppur, Gel | Synthetika | Bei stumpfen Verletzungen | Gültig |
+| 50476 | Lioton 1000, Gel | Synthetika | Oberflächliche Venenentzündungen, Venenbeschwerden, stumpfe Verletzungen | Gültig |
+| 55744 | Lyman 40'000 Mono, Spray | Synthetika | Stumpfe Verletzungen, oberflächliche Venenentzündungen | Gültig |
+| 56332 | Heparin Bichsel 100 I.E./ml, Injektionslösung | Biotechnologika | Katheter-Spülung | Gültig |
+| 62990 | Traumalix Dolo Venactiv, Salbe | Synthetika | Bei stumpfen Verletzungen | Gültig |
+| 62991 | Traumalix Dolo Venactiv, Gel | Synthetika | Bei stumpfen Verletzungen | Gültig |
+| 67780 | Heparin Sintetica 20`000 UI/48 ml, soluzione per infusione | Biotechnologika | anticoagulante | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

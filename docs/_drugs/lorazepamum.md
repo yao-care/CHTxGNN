@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00186
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Lorazepamum: vorhergesagte neue Indikation Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Anxiolyticum"
 ---
 
@@ -83,11 +83,19 @@ Derzeit keine verwandte Literatur verfügbar
 
 Mindestens 3 Zulassungen; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 70235 | Lorazepam Leman 1 mg, comprimés | Synthetika | Angstlösendes Mittel (Anxiolytikum) |
-| 69682 | Lorazepam Spirig HC 1 mg, Tabletten | Synthetika | Angstlösendes Mittel (Anxiolytikum) |
-| 47481 | Sedazin 1 mg, compresse | Synthetika | Angstlösendes Mittel (Anxiolytikum) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 47481 | Sedazin 1 mg, compresse | Synthetika | Ansiolitico | Gültig |
+| 69682 | Lorazepam Spirig HC 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Anxiolytikum | Gültig |
+| 70235 | Lorazepam Leman 1 mg, comprimés (+1 weitere Bezeichnung) | Synthetika | Anxiolyticum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

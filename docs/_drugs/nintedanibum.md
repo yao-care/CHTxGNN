@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB09079
 monitor_inn: "Nintedanib"
 predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nintedanibum: vorhergesagte neue Indikation Dermatofibrosarcoma protuberans (Evidenzstufe L5). Ursprüngliche Indikation: Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen"
 ---
 
@@ -85,13 +85,19 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 70124 | Nintedanib Zentiva 100 mg, Weichkapseln | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen |
-| 69531 | Nintedanib Spirig HC 100 mg, Weichkapsel | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen |
-| 65330 | OFEV 100 mg, Weichkapseln | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen |
-| 70120 | Nintedanib Sandoz 100 mg, Weichkapseln | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen |
-| 69747 | Nintedanib-Mepha 100 mg, Weichkapseln | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65330 | OFEV 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 69531 | Nintedanib Spirig HC 100 mg, Weichkapsel (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 69747 | Nintedanib-Mepha 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 70120 | Nintedanib Sandoz 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 70124 | Nintedanib Zentiva 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00425
 monitor_inn: "Zolpidem"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Zolpidemi Tartras: vorhergesagte neue Indikation Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -73,14 +73,22 @@ Ein belegter mechanistischer Zusammenhang besteht nicht. Der hohe Vorhersagewert
 
 Es sind mindestens 6 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 51233 | Zolpidem Zentiva, teilbare Filmtabletten | Synthetika | Hypnotikum |
-| 57053 | Zolpidem Streuli, Filmtabletten | Synthetika | Hypnotikum |
-| 56036 | Zoldorm, Filmtabletten | Synthetika | Hypnotikum |
-| 49106 | Stilnox, teilbare Filmtabletten | Synthetika | Hypnotikum |
-| 57056 | Zolpidem Spirig HC 10 mg, Filmtabletten | Synthetika | Hypnotikum |
-| 62247 | Zolpidem CR Zentiva 6,25 mg, Tabletten mit kontrollierter Wirkstoff-Freigabe | Synthetika | Hypnotikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49106 | Stilnox, comprimés pelliculés sécables | Synthetika | Hypnotique | Gültig |
+| 51233 | Zolpidem Zentiva, teilbare Filmtabletten | Synthetika | Hypnoticum | Gültig |
+| 56036 | Zoldorm, Filmtabletten | Synthetika | Hypnotikum | Gültig |
+| 57053 | Zolpidem Streuli, Filmtabletten | Synthetika | Hypnotikum | Gültig |
+| 57056 | Zolpidem Spirig HC 10 mg, Filmtabletten | Synthetika | Hypnotikum | Gültig |
+| 62247 | Zolpidem CR Zentiva 6,25 mg, Tabletten mit kontrollierter Wirkstoff-F… | Synthetika | Hypnoticum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

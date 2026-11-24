@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06701
 monitor_inn: "Dexmethylphenidate"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexmethylphenidatum: vorhergesagte neue Indikation Spezifische Entwicklungsstörung (specific developmental disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Zentral wirksames Sympathomimetikum"
 ---
 
@@ -71,9 +71,15 @@ Dieser Zusammenhang ist indirekt und nicht überprüft. Es gibt keine Studien od
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59245 | Focalin XR 5 mg, Kapseln | Synthetika | Zentral wirksames Sympathomimetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 59245 | Focalin XR 5 mg, Kapseln (+3 weitere Bezeichnungen) | Synthetika | Zentral wirksames Sympathomimetikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

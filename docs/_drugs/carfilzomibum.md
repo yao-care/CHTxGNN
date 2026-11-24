@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08889
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Carfilzomibum: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65690 | Kyprolis 60 mg, Pulver zur Herstellung einer Infusionslösung | Synthetika | Onkologikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65690 | Kyprolis 60 mg, Pulver zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Onkologikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

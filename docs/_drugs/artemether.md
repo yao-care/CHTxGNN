@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Artemether: vorhergesagte neue Indikation Erworbenes Angioödem (acquired angioedema) (Evidenzstufe L5). Ursprüngliche Indikation: Malaria"
 ---
 
@@ -80,11 +80,17 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54594 | Riamet 20 mg/120 mg, Tabletten | Synthetika | Malaria |
-| 67664 | Riamet Baby, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Akute, unkomplizierte Malaria bei Säuglingen mit einem Körpergewicht von 2 kg bis unter 5 kg |
-| 58528 | Riamet Dispersible, Tabletten | Synthetika | Malaria |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54594 | Riamet 20 mg/120 mg, Tabletten | Synthetika | Malaria | Gültig |
+| 58528 | Riamet Dispersible, Tabletten | Synthetika | Malaria | Gültig |
+| 67664 | Riamet Baby, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Behandlung von akuter, unkomplizierter Malaria von Säuglingen mit einem Körpergewicht zwischen 2 kg und unter… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00368
 monitor_inn: "Norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Noradrenalinum: vorhergesagte neue Indikation Obstruktive Lungenerkrankung (obstructive lung disease) (Evidenzstufe L5)."
 ---
 
@@ -93,12 +93,18 @@ Keine der Publikationen untersucht Noradrenalin als Therapie bei obstruktiver Lu
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69772 | Noradrenalin Sintetica Ultradiluted 0,01 mg/ml, Injektions- oder Infusionslösung | Synthetika | Wiederherstellung und Aufrechterhaltung des perioperativen Blutdrucks nach Hypotonie infolge Spinal- oder Allgemeinanästhesie bei Erwachsenen |
-| 67023 | Noradrenalin Sintetica 0,06 mg/ml, Infusionslösung | Synthetika | Sympathomimetikum, Vasokonstriktor, Herzstimulans |
-| 60955 | Noradrenalin Sintetica 1 mg/1 ml, Konzentrat für Infusionslösung | Synthetika | Sympathomimetikum, Vasokonstriktor, Herzstimulans |
-| 70013 | Noradrenaline Aguettant 4 mg/4 ml, Konzentrat für Infusionslösung | Synthetika | Sympathomimetikum, Vasokonstriktor, Herzstimulans |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60955 | Noradrenalin Sintetica 1 mg/1 ml, concentrato per soluzione per infus… (+2 weitere Bezeichnungen) | Synthetika | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
+| 67023 | Noradrenalin Sintetica 0.06 mg/ml, soluzione per infusione (+3 weitere Bezeichnungen) | Synthetika | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
+| 69772 | Noradrenalin Sintetica Ultradiluted 0,01 mg/ml, soluzione iniettabile… (+1 weitere Bezeichnung) | Synthetika | Restauro e mantenimento della pressione arteriosa perioperatoria dopo ipotensione indotta da anestesia rachid… | Gültig |
+| 70013 | Noradrenaline Aguettant 4 mg/4 ml, solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetika | Sympathomimétique, vasoconstricteur, stimulant cardiaque | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

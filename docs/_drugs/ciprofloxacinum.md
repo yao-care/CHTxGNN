@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00537
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ciprofloxacinum: vorhergesagte neue Indikation Diffuse Sklerodermie (diffuse scleroderma) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -78,12 +78,20 @@ Für die Sklerodermie werden zwei mögliche Verbindungen diskutiert. Erstens kö
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55922 | Ciprofloxacin Spirig HC 250, Filmtabletten | Synthetika | Infektionskrankheiten |
-| 47795 | Ciproxin 250, Filmtabletten | Synthetika | Infektionskrankheiten |
-| 55525 | Cip eco 250, Filmtabletten | Synthetika | Infektionskrankheiten |
-| 51898 | Ciloxan, Augentropfen | Synthetika | Bakterielle Infektionen am Auge |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 47795 | Ciproxin 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 51898 | Ciloxan, Augentropfen | Synthetika | Bakterielle Infektionen am Auge | Gültig |
+| 55525 | Cip eco 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 55922 | Ciprofloxacin Spirig HC 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

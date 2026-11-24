@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06791
 monitor_inn: "Lanreotide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Lanreotidum: vorhergesagte neue Indikation Hypertrichose (hypertrichosis (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Somatostatin-Analogon…"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56148 | Somatuline Autogel 60 mg, Depot-Injektionslösung in einer Fertigspritze | Synthetika | Somatostatin-Analogon zur Behandlung von Akromegalie und bestimmter neuroendokriner Tumoren |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56148 | Somatuline Autogel 60 mg, Depot-Injektionslösung in einer Fertigsprit… (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon, Behandlung von Akromegalie und bestimmter neuroendokriner Tumoren | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

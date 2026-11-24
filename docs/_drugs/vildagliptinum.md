@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB04876
 monitor_inn: "Vildagliptin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vildagliptinum: vorhergesagte neue Indikation Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: orales Antidiabetikum"
 ---
 
@@ -69,12 +69,18 @@ Ein belegter Zusammenhang zwischen diesem Mechanismus und dem fokalen Stiff-Limb
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69111 | Vildagliptin Sandoz 50 mg, Tabletten | Synthetika | Orales Antidiabetikum |
-| 57834 | Galvus 50 mg, Tabletten | Synthetika | Orales Antidiabetikum |
-| 67574 | Vildagliptin Spirig HC 50 mg, Tabletten | Synthetika | Orales Antidiabetikum |
-| 68750 | Vildagliptin NOBEL 50 mg, Tabletten | Synthetika | Diabetes mellitus Typ 2 |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57834 | Galvus 50 mg, Tabletten | Synthetika | orales Antidiabetikum | Gültig |
+| 67574 | Vildagliptin Spirig HC 50 mg, Tabletten | Synthetika | Orales Antidiabetikum | Gültig |
+| 68750 | Vildagliptin NOBEL 50 mg, Tabletten | Synthetika | Diabetes mellitus Typ 2 | Gültig |
+| 69111 | Vildagliptin Sandoz 50 mg, Tabletten | Synthetika | orales Antidiabetikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

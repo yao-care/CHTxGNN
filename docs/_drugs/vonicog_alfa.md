@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "vonicog alfa"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "hemophilia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vonicog Alfa: vorhergesagte neue Indikation Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) (Evidenzstufe L5). Ursprüngliche Indikation: Von-Willebrand-Krankheit"
 ---
 
@@ -78,9 +78,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66601 | VEYVONDI 650 IE, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Von-Willebrand-Krankheit |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66601 | VEYVONDI 650 IE, Pulver und Lösungsmittel zur Herstellung einer Injek… (+1 weitere Bezeichnung) | Biotechnologika | Von-Willebrand-Krankheit | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

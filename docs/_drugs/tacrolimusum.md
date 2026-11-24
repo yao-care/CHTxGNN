@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00864
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tacrolimusum: vorhergesagte neue Indikation seborrhoische Dermatitis (seborrheic dermatitis) (Evidenzstufe L2). Ursprüngliche Indikation: Atopische Dermatitis"
 ---
 
@@ -91,13 +91,21 @@ Die Anwendung bei seborrhoischer Dermatitis ist in den Daten als Anwendung ausse
 
 Die Liste ist möglicherweise unvollständig (mindestens 5 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67963 | Takrozem 1 mg/g, Salbe | Synthetika | Atopische Dermatitis |
-| 66783 | Prograf 0.5 mg, Kapseln | Synthetika | Immunsuppressivum |
-| 55847 | Protopic 0,03 %, Salbe | Synthetika | — |
-| 58809 | Advagraf 0.5 mg, Retardkapseln | Synthetika | Immunsuppressivum |
-| 68943 | Prograf 0,5 mg, Kapseln | Synthetika | Immunsuppressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55847 | Protopic 0,03 %, Salbe (+1 weitere Bezeichnung) | Synthetika | Atopische Dermatitis | Gültig |
+| 58809 | Advagraf 0.5 mg, Retardkapseln (+3 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Gültig |
+| 66783 | Prograf 0.5 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Gültig |
+| 67963 | Takrozem 1 mg/g, Salbe (+1 weitere Bezeichnung) | Synthetika | Atopische Dermatitis | Gültig |
+| 68943 | Prograf 0,5 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

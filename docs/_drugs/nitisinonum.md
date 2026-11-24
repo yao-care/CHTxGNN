@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00348
 monitor_inn: "Nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitisinonum: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5). Ursprüngliche Indikation: Hereditäre Tyrosinämie Typ 1 (HT-1)"
 ---
 
@@ -69,11 +69,17 @@ Dieser Zusammenhang ist jedoch nur indirekt. Bei der primären renalen tubuläre
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68331 | Nitisinon NOBEL 5 mg, Hartkapseln | Synthetika | Hereditäre Tyrosinämie Typ 1 (HT-1) |
-| 68332 | Nitisinon NOBEL 4 mg/ml, Suspension | Synthetika | Hereditäre Tyrosinämie Typ 1 (HT-1) |
-| 67970 | Nityr 2 mg, Tabletten | Synthetika | Hereditäre Tyrosinämie Typ 1 (HT-1) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 68331 | Nitisinon NOBEL 5 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Hereditäre Tyrosinämie Typ 1 (HT-1) | Gültig |
+| 68332 | Nitisinon NOBEL 4 mg/ml, Suspension | Synthetika | Hereditäre Tyrosinämie Typ 1 (HT-1) | Gültig |
+| 67970 | Nityr 2 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Hereditäre Tyrosinämie Typ 1 (HT-1) | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

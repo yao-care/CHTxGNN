@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00335
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenololum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -85,12 +85,20 @@ Derzeit keine verwandte Literatur verfügbar
 
 Mindestens 4 Zulassungen sind erfasst. Die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 49619 | Atenil, Filmtabletten | Synthetika | Beta-Rezeptorenblocker |
-| 50651 | Selobloc 50 mg, compresse filmate | Synthetika | Bluthochdruck |
-| 39879 | Tenormin mite, Tabletten | Synthetika | Beta-Rezeptorenblocker |
-| 50075 | Atenolol-Mepha 50, Lactabs | Synthetika | Beta-Rezeptorenblocker |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 39879 | Tenormin mite, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 49619 | Atenil, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 50075 | Atenolol-Mepha 50, Lactabs (+1 weitere Bezeichnung) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 50651 | Selobloc 50 mg, compresse filmate (+1 weitere Bezeichnung) | Synthetika | ipertensione | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

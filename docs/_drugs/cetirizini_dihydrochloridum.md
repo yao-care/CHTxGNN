@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00341
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetirizini Dihydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antiallergikum"
 ---
 
@@ -89,18 +89,26 @@ Derzeit keine verwandten klinischen Studien registriert
 
 Es sind mindestens 10 Zulassungen erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56891 | Cetallerg Sandoz, Tropfen | Synthetika | Antiallergikum |
-| 58941 | Cetirizin Stada, Filmtabletten | Synthetika | Antiallergikum |
-| 68316 | Cet-Mepha Allergie, Filmtabletten | Synthetika | Antiallergikum |
-| 67604 | Sun Store Cetirizin, Filmtabletten | Synthetika | Antiallergikum |
-| 65119 | Cetirizin-Mepha 10, Filmtabletten | Synthetika | Antiallergikum |
-| 57360 | Ceteco Sandoz, Filmtabletten | Synthetika | Antiallergikum |
-| 48143 | Zyrtec, comprimés pelliculés | Synthetika | Antiallergikum |
-| 61240 | Amavita Cetirizin, Filmtabletten | Synthetika | Antiallergikum |
-| 52700 | Zyrtec, gouttes buvables | Synthetika | Antiallergikum |
-| 57067 | Triofan Allergie, comprimés à sucer | Synthetika | Antiallergikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 48143 | Zyrtec, comprimés pelliculés | Synthetika | Antiallergique | Gültig |
+| 52700 | Zyrtec, gouttes buvables | Synthetika | Antiallergique | Gültig |
+| 56891 | Cetallerg Sandoz, Tropfen | Synthetika | Antiallergikum | Gültig |
+| 57067 | Triofan Allergie, comprimés à sucer | Synthetika | Antiallergique | Gültig |
+| 57360 | Ceteco Sandoz, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 58941 | Cetirizin Stada, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 61240 | Amavita Cetirizin, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 65119 | Cetirizin-Mepha 10, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 67604 | Sun Store Cetirizin, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 68316 | Cet-Mepha Allergie, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

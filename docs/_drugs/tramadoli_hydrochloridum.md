@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00193
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tramadoli Hydrochloridum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
 ---
 
@@ -71,13 +71,21 @@ Der hohe Vorhersagewert beruht daher sehr wahrscheinlich auf einem rechnerischen
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 5 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55876 | Tramadol Sandoz, Lösung zum Einnehmen | Synthetika | Analgetikum |
-| 52557 | Tramadol-Mepha, Kapseln | Synthetika | Analgetikum |
-| 52901 | Tramadol Zentiva; Lösung zum Einnehmen | Synthetika | Analgetikum |
-| 52900 | Tramadol Zentiva, Hartkapseln | Synthetika | Analgetikum |
-| 57060 | Tramadol Sandoz retard 100 mg, Retardtabletten | Synthetika | Analgetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52557 | Tramadol-Mepha, Kapseln | Synthetika | Analgetikum | Gültig |
+| 52900 | Tramadol Zentiva, Hartkapseln | Synthetika | Analgetikum | Gültig |
+| 52901 | Tramadol Zentiva; Lösung zum Einnehmen | Synthetika | Analgetikum | Gültig |
+| 55876 | Tramadol Sandoz, Lösung zum Einnehmen | Synthetika | Analgetikum | Gültig |
+| 57060 | Tramadol Sandoz retard 100 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Analgetikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

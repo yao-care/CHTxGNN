@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Norgestimate: vorhergesagte neue Indikation Erhöhtes Plasmazink (zinc, elevated plasma) (Evidenzstufe L5). Ursprüngliche Indikation: Orale Kontrazeption bei Frauen"
 monitor_inn: "norgestimate"
 predicted_indications: ["zinc, elevated plasma"]
@@ -82,9 +82,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69336 | Liberelle, Filmtabletten | Synthetika | Orale Kontrazeption bei Frauen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69336 | Liberelle, Filmtabletten | Synthetika | Orale Kontrazeption bei Frauen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

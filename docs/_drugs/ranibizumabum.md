@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01270
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ranibizumabum: vorhergesagte neue Indikation Reifer Katarakt (mature cataract) (Evidenzstufe L5). Ursprüngliche Indikation: exsudative altersbezogene Makuladegeneration…"
 ---
 
@@ -84,14 +84,20 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Feuchte altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation (u. a. bei pathologischer Myopie), mässig schwere bis schwere NPDR bzw. PDR |
-| 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | Wie oben; zusätzlich Frühgeborenen-Retinopathie |
-| 68690 | Byooviz 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, Frühgeborenen-Retinopathie |
-| 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, NPDR bzw. PDR, Frühgeborenen-Retinopathie |
-| 57664 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Durchstechflasche | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, NPDR bzw. PDR, Frühgeborenen-Retinopathie |
-| 63277 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Fertigspritze | Biotechnologika | Feuchte AMD, diabetisches Makulaödem, Makulaödem nach retinalem Venenverschluss, choroidale Neovaskularisation, NPDR bzw. PDR |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57664 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Durchstech… | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+| 63277 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Fertigspri… | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, durch Makulaödem in… | Gültig |
+| 68690 | Byooviz 10 mg / mL, Injektionslösung in Durchstechflasche | Biotechnologika | Behandlung der exsudativen (feuchten) altersbezogenen Makuladegeneration (feuchte AMD), eines Visusverlustes… | Gültig |
+| 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | exsudative altersbezogene Makuladegeneration; Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+| 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologika | Exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Visusverlust durch… | Gültig |
+| 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

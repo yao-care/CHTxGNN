@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01257
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Eculizumabum: vorhergesagte neue Indikation Zyklische Hämatopoese (cyclic hematopoiesis) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Der sehr hohe Vorhersagewert beruht auf einer modellbasierten Berechnung. Er wir
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59282 | Soliris 300 mg/30 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Paroxysmale nächtliche Hämoglobinurie; atypisches hämolytisch-urämisches Syndrom; refraktäre generalisierte Myasthenia gravis ab 6 Jahren; Neuromyelitis-optica-Spektrumerkrankungen (NMOSD) bei Erwachsenen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 59282 | Soliris 300 mg/30 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Paroxysmale nächtliche Hämoglobinurie. Atypisches hämolytisch-urämisches Syndrom. Refraktäre generalisierte M… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

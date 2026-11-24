@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00257
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clotrimazolum: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: antimycosique"
 ---
 
@@ -79,19 +79,25 @@ Der hohe Vorhersagewert ist eine reine Modellberechnung und nicht durch klinisch
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 45862 | Imazol, Pâte-crème | Synthetika | Antimykotikum |
-| 48679 | Corisol, Crème | Synthetika | Antimykotikum |
-| 68353 | Gyno-Canesten, Kombi FORTE, 500 mg und 20 g 1% | Synthetika | Vulvovaginale Infektionen durch Clotrimazol-empfindliche Erreger |
-| 49768 | Fungotox-200, Vaginaltabletten | Synthetika | Pilzinfektionen der Scheide |
-| 39725 | Canesten, Spray zur Anwendung auf der Haut, Lösung | Synthetika | Antimykotikum |
-| 67736 | Kadefemin Mycostop 200 mg / 2%, Vaginaltabletten und Creme | Synthetika | Vulvovaginale Infektionen durch Clotrimazol-empfindliche Erreger |
-| 37510 | Canesten, Creme | Synthetika | Antimykotikum |
-| 60954 | Gyno-Canesten, Kombipack | Synthetika | Vulvovaginale Infektionen durch Clotrimazol-empfindliche Erreger |
-| 43401 | Gyno-Canesten, Vaginalcrème | Synthetika | Pilzinfektionen der Scheide |
-| 49767 | Fungotox, Crème | Synthetika | Antimykotikum |
-| 37512 | Gyno-Canesten, Vaginaltabletten | Synthetika | Pilzinfektionen der Scheide |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 37510 | Canesten, Creme | Synthetika | Antimykotikum | Gültig |
+| 37512 | Gyno-Canesten, Vaginaltabletten | Synthetika | Vaginalinfektionen mit Pilzen | Gültig |
+| 39725 | Canesten, Spray zur Anwendung auf der Haut, Lösung | Synthetika | Antimykotikum | Gültig |
+| 43401 | Gyno-Canesten, Vaginalcrème | Synthetika | Vaginalinfektionen mit Pilzen | Gültig |
+| 45862 | Imazol, Pâte-crème | Synthetika | antimycosique | Gültig |
+| 48679 | Corisol, Crème | Synthetika | Antimykotikum | Gültig |
+| 49767 | Fungotox, Crème | Synthetika | Antimykotikum | Gültig |
+| 49768 | Fungotox-200, Vaginaltabletten | Synthetika | Pilzinfektionen der Vagina | Gültig |
+| 60954 | Gyno-Canesten, Kombipack | Synthetika | Durch Clotrimazol-empfindliche Erreger verursachte vulvovaginale Infektionen | Gültig |
+| 67736 | Kadefemin Mycostop 200 mg / 2%, Vaginaltabletten und Creme | Synthetika | Durch Clotrimazol-empfindliche Erreger verursachte vulvovaginale Infektionen | Gültig |
+| 68353 | Gyno-Canesten, Kombi FORTE, 500 mg und 20 g 1% | Synthetika | Durch Clotrimazol-empfindliche Erreger verursachte vulvovaginale Infektionen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

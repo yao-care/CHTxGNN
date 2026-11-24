@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00318
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Codeini Phosphas Hemihydricus: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Husten"
 ---
 
@@ -83,17 +83,23 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 19220 | Codein Knoll, Tabletten | Synthetika | Husten |
-| 60450 | GEM Bronchialpastillen mit Codein, Lutschpastillen | Synthetika | Husten |
-| 60540 | Codicalm, Sirup | Synthetika | Husten |
-| 66331 | Coditussin, Bronchialpastillen | Synthetika | Reizhusten bei Erkältungen |
-| 66837 | Dropa Bronchialpastillen mit Codein, Lutschpastillen | Synthetika | Husten |
-| 60715 | Dr. Bähler Bronchialpastillen mit Codein, Lutschpastillen | Synthetika | Husten |
-| 43836 | Iropect Bronchialpastillen, Lutschpastillen | Synthetika | Husten |
-| 55274 | Makatussin, Hustentropfen | Synthetika | Husten, insbesondere trockener Reizhusten |
-| 42968 | Sano-Tuss, Sirup | Synthetika | Husten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 19220 | Codein Knoll, Tabletten | Synthetika | Husten | Gültig |
+| 42968 | Sano-Tuss, Sirup | Synthetika | Husten | Gültig |
+| 43836 | Iropect Bronchialpastillen, Lutschpastillen | Synthetika | Husten | Gültig |
+| 55274 | Makatussin, Hustentropfen | Synthetika | Husten, insbesondere trockener Reizhusten | Gültig |
+| 60450 | GEM Bronchialpastillen mit Codein, Lutschpastillen | Synthetika | Husten | Gültig |
+| 60540 | Codicalm, Sirup | Synthetika | Husten | Gültig |
+| 66331 | Coditussin, Bronchialpastillen | Synthetika | Reizhusten bei Erkältungen | Gültig |
+| 60715 | Dr. Bähler Bronchialpastillen mit Codein, Lutschpastillen | Synthetika | Husten | Erloschen |
+| 66837 | Dropa Bronchialpastillen mit Codein, Lutschpastillen | Synthetika | Husten | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

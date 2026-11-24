@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00661
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Verapamili Hydrochloridum: vorhergesagte neue Indikation Obsoleter Schenkelblock (obsolete bundle branch block) (Evidenzstufe L5). Ursprüngliche Indikation: Calciumantagonist"
 ---
 
@@ -83,11 +83,17 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 40783 | Isoptin retard 120, Filmtabletten | Synthetika | Calciumantagonist |
-| 46364 | Isoptin RR retard 240, Filmtabletten | Synthetika | Hypertonie |
-| 53374 | Isoptin 80 mg, Filmtabletten | Synthetika | Calciumantagonist |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 40783 | Isoptin retard 120, Filmtabletten | Synthetika | Calciumantagonist | Gültig |
+| 46364 | Isoptin RR retard 240, Filmtabletten | Synthetika | Hypertonie | Gültig |
+| 53374 | Isoptin 80 mg, Filmtabletten | Synthetika | Calciumantagonist | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

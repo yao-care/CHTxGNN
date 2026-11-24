@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01263
 monitor_inn: "Posaconazole"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Posaconazolum: vorhergesagte neue Indikation Pneumozystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Pilzinfektionen"
 ---
 
@@ -92,19 +92,25 @@ Keine dieser Arbeiten untersucht Posaconazol direkt bei Pneumozystose.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67185 | Posaconazol Zentiva 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen |
-| 69323 | Posaconazol Devatis 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen |
-| 57843 | Noxafil, Suspension zum Einnehmen | Synthetika | Pilzinfektionen |
-| 63240 | Noxafil 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen |
-| 65172 | Noxafil 300 mg (18 mg/ml), Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Pilzinfektionen |
-| 68271 | Posaconazol Viatris 40 mg/ml, Suspension zum Einnehmen | Synthetika | Pilzinfektionen |
-| 67261 | Posaconazol Sandoz 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen |
-| 67363 | Posaconazol Accord 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen |
-| 67366 | Posaconazol Accord 40 mg/ml, Suspension zum Einnehmen | Synthetika | Antimykotikum |
-| 67594 | Posaconazol Devatis 40 mg/ml, Suspension zum Einnehmen | Synthetika | Pilzinfektionen |
-| 68121 | Posaconazol Viatris 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57843 | Noxafil, Suspension zum Einnehmen | Synthetika | Pilzinfektionen | Gültig |
+| 63240 | Noxafil 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen | Gültig |
+| 65172 | Noxafil 300mg (18mg/ml), Konzentrat zur Herstellung einer Infusionslö… | Synthetika | Pilzinfektionen | Gültig |
+| 67185 | Posaconazol Zentiva 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen | Gültig |
+| 67261 | Posaconazol Sandoz 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen | Gültig |
+| 67363 | Posaconazol Accord 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen | Gültig |
+| 67366 | Posaconazol Accord 40 mg/ml, Suspension zum Einnehmen | Synthetika | Antimykotikum | Gültig |
+| 67594 | Posaconazol Devatis 40mg/ml, Suspension zum Einnehmen | Synthetika | Pilzinfektionen | Gültig |
+| 68121 | Posaconazol Viatris 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen | Gültig |
+| 68271 | Posaconazol Viatris 40 mg/ml, Suspension zum Einnehmen | Synthetika | Pilzinfektionen | Gültig |
+| 69323 | Posaconazol Devatis 100 mg, magensaftresistente Tablette | Synthetika | Pilzinfektionen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

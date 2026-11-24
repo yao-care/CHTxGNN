@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00476
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Duloxetinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Kindesalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -73,11 +73,19 @@ Ein klarer mechanistischer Zusammenhang lässt sich daher nicht herleiten. Der h
 
 Die Liste kann unvollständig sein; es sind mindestens 3 Zulassungen erfasst.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65795 | Duloxetin Spirig HC 30 mg, magensaftresistente Hartkapseln | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung |
-| 66098 | Duloxetin-Mepha 30 mg, magensaftresistente Hartkapseln | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung |
-| 67645 | Duloxetin NOBEL 30 mg, magensaftresistente Hartkapseln | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65795 | Duloxetin Spirig HC 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
+| 66098 | Duloxetin-Mepha 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
+| 67645 | Duloxetin NOBEL 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

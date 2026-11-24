@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00175
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pravastatinum Natricum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L2). Ursprüngliche Indikation: Reduktion des Serumcholesterinspiegels"
 ---
 
@@ -103,12 +103,18 @@ Pravastatin wird kaum über CYP3A4 abgebaut. Dadurch ist das Risiko für Wechsel
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60070 | Pravastatin-Mepha 10 mg, Tabletten | Synthetika | Reduktion des Serumcholesterinspiegels |
-| 62468 | Pravastatin Spirig HC 10mg, Tabletten | Synthetika | Reduktion des Serumcholesterinspiegels |
-| 57535 | Pravastatin Zentiva 20, Tabletten | Synthetika | Reduktion des Serumcholesterinspiegels |
-| 56931 | Pravastatin Sandoz 20, Tabletten | Synthetika | Reduktion des Serumcholesterinspiegels |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56931 | Pravastatin Sandoz 20, Tabletten (+1 weitere Bezeichnung) | Synthetika | Reduktion des Serumcholesterinspiegels | Gültig |
+| 57535 | Pravastatin Zentiva 20, Tabletten (+1 weitere Bezeichnung) | Synthetika | Reduktion des Serumcholesterinspiegels | Gültig |
+| 60070 | Pravastatin-Mepha 10 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion des Serumcholesterinspiegels | Gültig |
+| 62468 | Pravastatin Spirig HC 10mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion des Serumcholesterinspiegels | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

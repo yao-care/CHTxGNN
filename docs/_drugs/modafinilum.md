@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00745
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Modafinilum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Narkolepsie"
 ---
 
@@ -94,9 +94,15 @@ Keine der aufgeführten Publikationen untersucht Modafinil direkt bei Schlaflosi
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55272 | Modasomil, Tabletten | Synthetika | Narkolepsie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55272 | Modasomil, Tabletten | Synthetika | Narkolepsie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

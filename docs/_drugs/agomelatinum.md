@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB06594
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Agomelatinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -69,13 +69,19 @@ Der benigne paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitier
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67502 | Agomelatin-Mepha 25 mg, Filmtabletten | Synthetika | Antidepressivum |
-| 67423 | Agomelatin Spirig HC 25 mg, Filmtabletten | Synthetika | Antidepressivum |
-| 67631 | Agomelatin-Servier 25 mg, Filmtabletten | Synthetika | Behandlung depressiver Episoden bei Erwachsenen; Behandlung der generalisierten Angststörung bei Erwachsenen |
-| 57596 | Valdoxan 25 mg, Filmtabletten | Synthetika | Behandlung depressiver Episoden bei Erwachsenen; Behandlung der generalisierten Angststörung bei Erwachsenen |
-| 67666 | Agomelatin Zentiva 25 mg, Filmtabletten | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57596 | Valdoxan 25 mg, comprimés pelliculés | Synthetika | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
+| 67423 | Agomelatin Spirig HC 25 mg, Filmtabletten | Synthetika | Antidepressivum | Gültig |
+| 67631 | Agomelatin-Servier 25 mg, comprimé pelliculé | Synthetika | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
+| 67666 | Agomelatin Zentiva 25 mg, Filmtabletten | Synthetika | Antidepressivum | Gültig |
+| 67502 | Agomelatin-Mepha 25 mg, Filmtabletten | Synthetika | Antidepressivum | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

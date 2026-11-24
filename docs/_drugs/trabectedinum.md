@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB05109
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trabectedinum: vorhergesagte neue Indikation Weiblicher Brustkrebs (female breast carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologie"
 ---
 
@@ -96,10 +96,16 @@ Der hohe TxGNN-Wert (0,9973) ist eine reine Computervorhersage und zählt nicht 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69595 | Trabectedin Spirig HC 0,25 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Onkologie |
-| 58734 | Yondelis 0,25 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Behandlung von Patienten mit Liposarkom und Leiomyosarkom nach Versagen oder Intoleranz von Anthrazyklinien und Ifosfamid |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58734 | Yondelis 0.25 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Synthetika | Behandlung von Patienten mit Liposarkom und Leiomyosarkom nach Versagen oder Intoleranz von Anthrazyklinien u… | Gültig |
+| 69595 | Trabectedin Spirig HC 0,25 mg, Pulver für ein Konzentrat zur Herstell… (+1 weitere Bezeichnung) | Synthetika | Onkologie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00646
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Nystatinum: vorhergesagte neue Indikation Erkrankung der Orbitaregion (disease of orbital region) (Evidenzstufe L5). Ursprüngliche Indikation: Mycoses"
 ---
 
@@ -75,11 +75,17 @@ Für Erkrankungen der Augenhöhle gibt es keine bekannte Verbindung zu dieser an
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 33043 | Mycostatin, suspension buvable/buccale | Synthetika | Mykosen |
-| 69093 | Nystafem Combipack 100 000 U.I., Salbe und Vaginaltabletten | Synthetika | Behandlung von vulvovaginalen Candida-Infektionen bei Erwachsenen |
-| 57263 | Multilind, Suspension zum Einnehmen | Synthetika | Mykosen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 33043 | Mycostatin, suspension buvable/buccale | Synthetika | Mycoses | Gültig |
+| 57263 | Multilind, Suspension zum Einnehmen | Synthetika | Mykosen | Gültig |
+| 69093 | Nystafem Combipack 100 000 U.I., Salbe und Vaginaltabletten | Synthetika | Behandlung von vulvovaginalen Candida-Infektionen bei Erwachsenen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

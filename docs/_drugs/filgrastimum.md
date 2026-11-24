@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00099
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Filgrastimum: vorhergesagte neue Indikation Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) (Evidenzstufe L5). Ursprüngliche Indikation: Neutropenie"
 ---
 
@@ -85,12 +85,18 @@ Derzeit keine verwandte Literatur verfügbar.
 
 In der Schweiz sind vier Filgrastim-Präparate (Einzelwirkstoff) zugelassen, alle mit gültiger Zulassung.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zulassungsinhaberin |
-|---------|------|------|-----------|
-| 66715 | Accofil 300mcg/0.5ml, Fertigspritzen | Biotechnologika | Accord Healthcare AG |
-| 60579 | Zarzio 30 MU/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Sandoz Pharmaceuticals AG |
-| 51035 | Neupogen Amgen 30, Injektionslösung | Biotechnologika | Amgen Switzerland AG |
-| 60722 | Filgrastim-Teva 30 / 0.5 ml, Injektionslösung in Fertigspritzen | Biotechnologika | Teva Pharma AG |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 51035 | Neupogen Amgen 30, Injektionslösung (+2 weitere Bezeichnungen) | Biotechnologika | Neutropenie | Gültig |
+| 60579 | Zarzio 30 MU/0.5 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
+| 60722 | Filgrastim-Teva 30 / 0.5 ml, Injektionslösung in Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
+| 66715 | Accofil 300mcg/0.5ml, Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

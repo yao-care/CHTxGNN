@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00230
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pregabalinum: vorhergesagte neue Indikation Tendinitis (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum, neuropathische Schmerzen…"
 ---
 
@@ -90,12 +90,20 @@ Die gefundenen Publikationen untersuchen Tendinitis nicht direkt als Behandlungs
 
 Die Liste kann unvollständig sein; mindestens 4 Zulassungen sind erfasst.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57057 | Lyrica 25 mg, Hartkapseln | Synthetika | Antiepileptikum, neuropathische Schmerzen, generalisierte Angststörungen |
-| 69572 | Pregabalin Spirig HC 20 mg/ml, Lösung zum Einnehmen | Synthetika | Antiepileptikum, neuropathische Schmerzen, generalisierte Angststörungen |
-| 66000 | Pregabalin-Mepha 20 mg/mL, Lösung zum Einnehmen | Synthetika | Antiepileptikum, neuropathische Schmerzen, generalisierte Angststörungen |
-| 67155 | Pregabalin Spirig HC 25 mg, Kapseln | Synthetika | Antiepileptikum, neuropathische Schmerzen, generalisierte Angststörungen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57057 | Lyrica 25 mg, Hartkapseln (+6 weitere Bezeichnungen) | Synthetika | Antiepilepticum, neuropathische Schmerzen, generalisierte Angststörungen | Gültig |
+| 66000 | Pregabalin-Mepha 20 mg/mL, Lösung zum Einnehmen | Synthetika | Antiepilepticum, neuropathische Schmerzen, generalisierte Angststörungen | Gültig |
+| 67155 | Pregabalin Spirig HC 25 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Antiepilepticum, neuropathische Schmerzen, generalisierte Angststörungen | Gültig |
+| 69572 | Pregabalin Spirig HC 20 mg/ml, Lösung zum Einnehmen | Synthetika | Antiepilepticum, neuropathische Schmerzen, generalisierte Angststörungen | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

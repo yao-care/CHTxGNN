@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sacubitril: vorhergesagte neue Indikation Zerebrale Erkrankung der kleinen Gefässe Typ 1 mit oder ohne Augenanomalien (brain small vessel disease 1 with or witho… (Evidenzstufe L5). Ursprüngliche Ind…"
 ---
 
@@ -78,11 +78,17 @@ Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis. Die einzige gefunde
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69813 | Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten | Synthetika | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion |
-| 69255 | Entresto 6 mg/6 mg, filmüberzogenes Granulat | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz |
-| 65673 | Entresto 50 mg, Filmtabletten | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65673 | Entresto 50 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
+| 69255 | Entresto 6 mg/6 mg, filmüberzogenes Granulat (+1 weitere Bezeichnung) | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
+| 69813 | Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion. | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

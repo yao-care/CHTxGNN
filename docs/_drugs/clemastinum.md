@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00283
 monitor_inn: "Clemastine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clemastinum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antihistaminikum"
 ---
 
@@ -81,10 +81,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 33667 | Tavegyl, Tabletten | Synthetika | Antihistaminikum |
-| 35501 | Tavegyl, Injektionslösung | Synthetika | Antihistaminikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 33667 | Tavegyl, Tabletten | Synthetika | Antihistaminikum | Gültig |
+| 35501 | Tavegyl, Injektionslösung | Synthetika | Antihistaminikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

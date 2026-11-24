@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lopinavir: vorhergesagte neue Indikation Infektion mit dem Affen-Immunschwächevirus (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -86,10 +86,16 @@ Alle drei Arbeiten sind Tierstudien mit Kombinationsregimen oder Modellviren und
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55649 | Kaletra, Sirup | Synthetika | HIV-Infektionen |
-| 57555 | Kaletra 200/50, Filmtabletten | Synthetika | HIV-Infektionen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55649 | Kaletra, Sirup | Synthetika | HIV-Infektionen | Gültig |
+| 57555 | Kaletra 200/50, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | HIV-Infektionen | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

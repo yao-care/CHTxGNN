@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00921
 monitor_inn: "Buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphinum: vorhergesagte neue Indikation Akute intermittierende Porphyrie (acute intermittent porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Analgeticum"
 ---
 
@@ -87,12 +87,20 @@ Derzeit keine verwandten klinischen Studien registriert
 
 Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 44100 | Temgesic 0,2 mg, Sublingualtabletten | Synthetika | Schmerzmittel |
-| 55423 | Transtec 35 µg/h, transdermales Pflaster | Synthetika | Schmerzmittel |
-| 67941 | Buvidal 8 mg, Depot-Injektionslösung | Synthetika | Substitutionsbehandlung bei Opioidabhängigkeit |
-| 65809 | Buprenorphin-Mepha 35 µg/h, transdermale Pflaster | Synthetika | Schmerzmittel |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 44100 | Temgesic 0,2 mg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetika | Analgeticum | Gültig |
+| 55423 | Transtec 35 ug/h, Transdermales Pflaster (+2 weitere Bezeichnungen) | Synthetika | Analgetikum | Gültig |
+| 65809 | Buprenorphin-Mepha 35ug/h, Transdermale Pflaster (+1 weitere Bezeichnung) | Synthetika | Analgetikum | Gültig |
+| 67941 | Buvidal 8 mg, Depot-Injektionslösung (+6 weitere Bezeichnungen) | Synthetika | Substitutionsbehandlung bei Opioidabhängigkeit | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

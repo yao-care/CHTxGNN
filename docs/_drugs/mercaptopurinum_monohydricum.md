@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01033
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mercaptopurinum Monohydricum: vorhergesagte neue Indikation Myeloische Leukämie (myeloid leukemia) (Evidenzstufe L3). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -105,10 +105,16 @@ Das klinische Signal stammt fast ausschliesslich aus Studien zur akuten Promyelo
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Hersteller | Darreichungsform |
-|---------|------|------|------|
-| 65371 | Xaluprine 20 mg/ml, Suspension zum Einnehmen | Lipomed AG | Synthetika |
-| 21713 | Puri-Nethol, Tabletten | Aspen Pharma Schweiz GmbH | Synthetika |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 21713 | Puri-Nethol, Tabletten | Synthetika | Zytostatikum | Gültig |
+| 65371 | Xaluprine 20 mg/ml, Suspension zum Einnehmen | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Beide Zulassungen sind gültig.
 

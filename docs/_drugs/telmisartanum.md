@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00966
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Telmisartanum: vorhergesagte neue Indikation Prinzmetal-Angina (Prinzmetal angina) (Evidenzstufe L5). Ursprüngliche Indikation: Antihypertensivum"
 ---
 
@@ -67,13 +67,19 @@ Eine Verbesserung der Gefässinnenwand-Funktion (Endothelfunktion) durch diese b
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62466 | Telmisartan Sandoz 40 mg, Tabletten | Synthetika | Antihypertensivum |
-| 63077 | Telmisartan Spirig HC 40 mg, Filmtabletten | Synthetika | Hypertonie |
-| 54780 | Micardis 40 mg, Tabletten | Synthetika | Antihypertensivum |
-| 62921 | Telmisartan-Mepha 40 mg, Tabletten | Synthetika | Antihypertensivum |
-| 62756 | Telmisartan Zentiva 40 mg, Tabletten | Synthetika | Antihypertensivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54780 | Micardis 40 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antihypertensivum | Gültig |
+| 62466 | Telmisartan Sandoz 40 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antihypertensivum | Gültig |
+| 62756 | Telmisartan Zentiva 40 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antihypertensivum | Gültig |
+| 62921 | Telmisartan-Mepha 40 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antihypertensivum | Gültig |
+| 63077 | Telmisartan Spirig HC 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

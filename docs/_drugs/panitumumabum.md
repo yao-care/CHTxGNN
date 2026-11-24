@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01269
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Panitumumabum: vorhergesagte neue Indikation Arzneimittelinduzierte Osteoporose (drug-induced osteoporosis) (Evidenzstufe L5). Ursprüngliche Indikation: Metastasierendes kolorektales Karzinom"
 ---
 
@@ -71,9 +71,15 @@ Wichtig ist die Richtung des Effekts: Sie ist unklar und könnte dem Therapiezie
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57872 | Vectibix 100 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Metastasierendes kolorektales Karzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57872 | Vectibix 100 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Metastasierendes kolorektales Karzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

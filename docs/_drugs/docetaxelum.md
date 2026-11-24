@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01248
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Docetaxelum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -101,6 +101,24 @@ Docetaxel wurde bei dieser Erkrankung bereits direkt geprüft, allein und mit Ge
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60726 | Docetaxel-Teva liquid 20 mg/1 ml, Konzentrat zur Herstellung einer In… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 62537 | Docetaxel Fresenius i.v. 80 mg/4 ml, Konzentrat zur Herstellung einer… (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 66815 | Docetaxel Accord 20 mg/1 ml, Konzentrat zur Herstellung einer Infusio… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 69401 | Docetaxel Zentiva 20 mg/1 ml, Konzentrat zur Herstellung einer Infusi… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 70427 | Docetaxel Provectis 20 mg/1 ml, Konzentrat zur Herstellung einer Infu… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 53262 | Taxotere 20 mg, solution à diluer pour perfusion | Synthetika | Cytostatique | Erloschen |
+| 62120 | Helvetaxel 20 mg/1 ml, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Docetaxel ist in der Schweiz im Handel. Mindestens sieben Zulassungen von Einzelpräparaten sind gültig. Die vorliegende Liste ist möglicherweise unvollständig.
 

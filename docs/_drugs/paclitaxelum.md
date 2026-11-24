@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01229
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Paclitaxelum: vorhergesagte neue Indikation Parameningeales embryonales Rhabdomyosarkom (parameningeal embryonal rhabdomyosarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -73,15 +73,23 @@ Zu beachten ist zudem, dass gängige Behandlungsschemata beim Rhabdomyosarkom be
 
 Die Liste enthält mindestens 7 Zulassungen und ist möglicherweise unvollständig. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66853 | Paclitaxel Accord 30 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 52364 | Taxol 30 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 58445 | Paclitaxel-Teva liquid 30 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 56990 | Paclitaxel Sandoz 30 mg/5 mL, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 69153 | Paclitaxel-Albumin Spirig HC 5 mg/ml, Pulver zur Herstellung einer Infusionsdispersion | Synthetika | Zytostatikum |
-| 70648 | Paclitaxel-Albumin Accord 100 mg, Pulver zur Herstellung einer Infusionsdispersion | Synthetika | Mammakarzinom, Adenokarzinom des Pankreas, nicht-kleinzelliges Lungenkarzinom |
-| 63182 | Abraxane 100 mg, Pulver zur Herstellung einer Infusionsdispersion | Synthetika | Mammakarzinom, Adenokarzinom des Pankreas, nicht-kleinzelliges Lungenkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52364 | Taxol 30 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 56990 | Paclitaxel Sandoz 30 mg/5 mL, Konzentrat zur Herstellung einer Infusi… (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 58445 | Paclitaxel-Teva liquid 30 mg/5 ml, Konzentrat zur Herstellung einer I… (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 63182 | Abraxane 100 mg, Pulver zur Herstellung einer Infusionsdispersion | Synthetika | Mammakarzinom, Adenokarzinom des Pankreas, nicht-kleinzelliges Lungenkarzinom | Gültig |
+| 66853 | Paclitaxel Accord 30 mg/5 ml, Konzentrat zur Herstellung einer Infusi… (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 69153 | Paclitaxel-Albumin Spirig HC 5 mg/ml, Pulver zur Herstellung einer In… | Synthetika | Zytostatikum | Gültig |
+| 70648 | Paclitaxel-Albumin Accord 100 mg, Pulver zur Herstellung einer Infusi… | Synthetika | Mammakarzinom, Adenokarzinom des Pankreas, nicht-kleinzelliges Lungenkarzinom | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

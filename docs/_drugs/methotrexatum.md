@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00563
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methotrexatum: vorhergesagte neue Indikation Pulmonales Blastom (pulmonary blastoma) (Evidenzstufe L5). Ursprüngliche Indikation: Arthritis und Psoriasis"
 ---
 
@@ -71,10 +71,18 @@ Ein solcher antiproliferativer Effekt könnte grundsätzlich auch bei einem selt
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 2 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65839 | Nordimet 7.5 mg/0.3 ml, Injektionslösung in einer Fertigspritze | Synthetika | Arthritis und Psoriasis |
-| 65672 | Metoject Autoinjektor 7.5 mg/0.15 ml, Injektionslösung im Fertigpen | Synthetika | Arthritis, Psoriasis, Morbus Crohn |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65672 | Metoject Autoinjektor 7.5 mg/0.15 ml, Injektionslösung im Fertigpen | Synthetika | Arthritis, Psoriasis, Morbus Crohn | Gültig |
+| 65839 | Nordimet 7.5 mg/0.3 ml, Injektionslösung in einer Fertigspritze (+7 weitere Bezeichnungen) | Synthetika | Arthritis und Psoriasis | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB08877
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ruxolitinibum: vorhergesagte neue Indikation Perivaskuläre epitheloidzellige Tumoren des Uteruskörpers (uterine corpus perivascular epithelioid cell tumor) (Evidenzstufe L5)."
 ---
 
@@ -81,11 +81,17 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69722 | Jakavi 5 mg/ml, Lösung zum Einnehmen | Synthetika | Akute Graft-versus-Host-Krankheit |
-| 62126 | Jakavi 5 mg, Tabletten | Synthetika | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit |
-| 69443 | Opzelura 15 mg/g, Creme | Synthetika | Nicht-segmentale Vitiligo mit Gesichtsbeteiligung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62126 | Jakavi 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
+| 69443 | Opzelura 15 mg/g, crème | Synthetika | Vitiligo non-segmentaire avec atteinte faciale | Gültig |
+| 69722 | Jakavi 5 mg/ml, Lösung zum Einnehmen | Synthetika | akute Graft-versus-Host-Krankheit | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

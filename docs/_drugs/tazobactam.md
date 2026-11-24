@@ -5,7 +5,7 @@ parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 90
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Tazobactam: Bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
 predicted_indications: []
 ---
@@ -72,14 +72,20 @@ Das TxGNN-Modell (Deep Learning, Score ≥ 0.99) hat für Tazobactam Kandidaten 
 
 ## Marktinformationen Schweiz
 
-| Zulassung | Produkt | Darreichungsform | Status |
-|------|------|------|------|
-| 60142 | piperacillinum, tazobactamum | Synthetika | Gültig |
-| 58151 | piperacillinum, tazobactamum | Synthetika | Gültig |
-| 63001 | piperacillinum, tazobactamum | Synthetika | Gültig |
-| 66647 | piperacillinum, tazobactamum | Synthetika | Gültig |
-| 58459 | piperacillinum, tazobactamum | Synthetika | Gültig |
-| 65472 | ceftolozanum, tazobactamum | Synthetika | Gültig |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58151 | Piperacillin/Tazobactam Sandoz 2,25 g, Pulver zur Herstellung einer I… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 58459 | Piperacillin-Tazobactam Stragen 2,25 g, poudre pour solution pour per… (+1 weitere Bezeichnung) | Synthetika | maladies infectieuses | Gültig |
+| 60142 | Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, poudre pour solut… (+1 weitere Bezeichnung) | Synthetika | maladies infectieuses | Gültig |
+| 63001 | Piperacillin/Tazobactam Fresenius i.v. 2 g/0.25 g, Pulver zur Herstel… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 65472 | Zerbaxa 1.5 g, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Synthetika | Infektionskrankheiten | Gültig |
+| 66647 | Piperacillin/Tazobactam Viatris 2 g/0.25 g, Pulver zur Herstellung ei… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ## Sicherheitshinweise
 

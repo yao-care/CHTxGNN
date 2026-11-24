@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00451
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levothyroxinum Natricum Anhydricum: vorhergesagte neue Indikation Renale Hypodysplasie/Aplasie (renal hypodysplasia/aplasia) (Evidenzstufe L5). Ursprüngliche Indikation: Hypothyreose"
 ---
 
@@ -69,10 +69,18 @@ Die renale Hypodysplasie/Aplasie ist eine angeborene Fehlbildung, die etwa mit M
 
 Die Liste ist möglicherweise unvollständig (mindestens 2 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 29812 | Eltroxin-LF, 0.05 mg, Tabletten | Synthetika | Hypothyreose |
-| 57455 | Tirosint 25 ug, capsula molle | Synthetika | Hypothyreose (Ipotiroidismo) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 29812 | Eltroxin-LF, 0.05 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Hypothyreose | Gültig |
+| 57455 | Tirosint 25 ug, capsula molle (+8 weitere Bezeichnungen) | Synthetika | Ipotiroidismo | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

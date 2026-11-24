@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00575
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clonidini Hydrochloridum: vorhergesagte neue Indikation Faziodigitogenitales Syndrom (faciodigitogenital syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antihypertensivum"
 ---
 
@@ -69,10 +69,16 @@ Ein Zusammenhang zwischen dieser Wirkung und dem vorhergesagten Krankheitsbild l
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 33148 | Catapresan, Tabletten | Synthetika | Antihypertensivum |
-| 38638 | Catapresan, Injektionslösung | Synthetika | Antihypertensivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 33148 | Catapresan, Tabletten | Synthetika | Antihypertensivum | Gültig |
+| 38638 | Catapresan, Injektionslösung | Synthetika | Antihypertensivum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

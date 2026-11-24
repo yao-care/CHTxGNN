@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00593
 monitor_inn: "Ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ethosuximidum: vorhergesagte neue Indikation Nephrogenes Syndrom der inadäquaten Antidiurese (nephrogenic syndrome of inappropriate antidiuresis) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Der sehr hohe Vorhersagewert ist ein reines Modellergebnis und durch keine Studi
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 29934 | Petinimid, Kapseln | Synthetika | Antiepilepticum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 29934 | Petinimid, Kapseln | Synthetika | Antiepilepticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

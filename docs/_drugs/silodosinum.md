@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06207
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Silodosinum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65513 | Urorec 4 mg, Hartkapseln | Synthetika | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65513 | Urorec 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

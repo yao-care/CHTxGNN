@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB12141
 monitor_inn: "Gilteritinib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gilteritinibum: vorhergesagte neue Indikation Bulbäre Poliomyelitis (bulbar polio) (Evidenzstufe L5). Ursprüngliche Indikation: Akute myeloide Leukämie (AML)"
 ---
 
@@ -69,9 +69,15 @@ Die Vorhersage ist daher eine rein rechnerische Ableitung ohne Überprüfung und
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67211 | Xospata 40 mg, Filmtabletten | Synthetika | Akute myeloide Leukämie (AML) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67211 | Xospata 40 mg, Filmtabletten | Synthetika | Akute myeloide Leukämie (AML) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

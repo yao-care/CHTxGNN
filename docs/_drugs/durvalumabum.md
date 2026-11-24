@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB11714
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Durvalumabum: vorhergesagte neue Indikation Adenokarzinom des Lig. uteri (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -69,9 +69,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66548 | Imfinzi 120 mg/2.4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66548 | Imfinzi 120 mg/2.4 ml, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ## Zytotoxizität
 

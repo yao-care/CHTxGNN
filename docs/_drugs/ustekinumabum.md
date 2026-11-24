@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB05679
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ustekinumabum: vorhergesagte neue Indikation Dermatitis (Evidenzstufe L2). Ursprüngliche Indikation: Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn"
 ---
 
@@ -102,21 +102,29 @@ Bei der atopischen Dermatitis, der häufigsten Form, passt der Mechanismus nur t
 
 Die Liste der Zulassungen kann unvollständig sein (mindestens 13 Zulassungen erfasst, davon 9 gültig und 4 gelöscht).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59066 | Stelara 45 mg, Injektionslösung | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn und Colitis ulcerosa bei Erwachsenen |
-| 69382 | Stelara 45 mg/0.5 ml, Injektionslösung im Fertigpen | Biotechnologikum | Plaque-Psoriasis, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa |
-| 70330 | Yesintek 45 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn |
-| 69985 | Pyzchiva 130 mg, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Morbus Crohn, Colitis ulcerosa |
-| 69986 | Pyzchiva 45 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren und mindestens 60 kg Körpergewicht, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa |
-| 69304 | Ustekinumab Spirig HC 45 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Plaque-Psoriasis bei Erwachsenen und Kindern ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa |
-| 70287 | Ustekinumab Spirig HC 130 mg/26 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Morbus Crohn, Colitis ulcerosa |
-| 70189 | Wezenla 45 mg/0.5 ml, Injektionslösung | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa bei Erwachsenen |
-| 70188 | Wezenla 45 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa |
-| 70523 | Streltima 130 mg, Konzentrat zur Herstellung einer Infusionslösung (gelöscht) | Biotechnologikum | Morbus Crohn, Colitis ulcerosa |
-| 70524 | Streltima 45 mg, Injektionslösung (gelöscht) | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa bei Erwachsenen |
-| 70525 | Streltima 45 mg, Injektionslösung in einer Fertigspritze (gelöscht) | Biotechnologikum | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa |
-| 70527 | Streltima 45 mg/0.5 ml, Injektionslösung im Fertigpen (gelöscht) | Biotechnologikum | Plaque-Psoriasis, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 59066 | Stelara 45 mg, Injektionslösung | Biotechnologika | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis bei Erwachsenen, Morbus Crohn bei Erwachsenen, Ulcerative c… | Gültig |
+| 69304 | Ustekinumab Spirig HC 45 mg / 0.5 ml, Injektionslösung in einer Ferti… (+1 weitere Bezeichnung) | Biotechnologika | Plaque Psoriasis bei Erwachsenen und pädiatrischen Patienten ab 6 J., Psoriasis-Arthritis, Morbus Crohn bei E… | Gültig |
+| 69382 | Stelara 45 mg/0.5 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa | Gültig |
+| 69985 | Pyzchiva 130 mg, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Morbus Crohn, Ulcerative Colitis | Gültig |
+| 69986 | Pyzchiva 45 mg/0.5 mL, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis ab 6 Jahren und mindestens 60 kg Körpergewicht, Psoriasis-Arthritis, Morbus Crohn, Ulcerativ… | Gültig |
+| 70188 | Wezenla 45 mg/0.5 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Ulcerative Colitis | Gültig |
+| 70189 | Wezenla 45 mg/0.5 ml, Injektionslösung | Biotechnologika | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis bei Erwachsenen, Morbus Crohn bei Erwachsenen, Ulcerative c… | Gültig |
+| 70287 | Ustekinumab Spirig HC 130 mg/26 ml, Konzentrat zur Herstellung einer… | Biotechnologika | Morbus Crohn, Ulcerative Colitis | Gültig |
+| 70330 | Yesintek 45 mg / 0.5 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn | Gültig |
+| 70523 | Streltima 130 mg, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Morbus Crohn, Ulcerative Colitis | Erloschen |
+| 70524 | Streltima 45 mg, Injektionslösung | Biotechnologika | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis bei Erwachsenen, Morbus Crohn bei Erwachsenen, Ulcerative c… | Erloschen |
+| 70525 | Streltima 45 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis ab 6 Jahren, Psoriasis-Arthritis, Morbus Crohn, Ulcerative Colitis | Erloschen |
+| 70527 | Streltima 45 mg/0.5 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis, Psoriasis-Arthritis, Morbus Crohn, Colitis ulcerosa | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

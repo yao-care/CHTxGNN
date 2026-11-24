@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00295
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Morphinum: vorhergesagte neue Indikation Myofasziales Schmerzsyndrom (myofascial pain syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Analgesico stupefacente"
 ---
 
@@ -91,12 +91,20 @@ Keine der Publikationen untersucht Morphin direkt beim myofaszialen Schmerzsyndr
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56401 | Morphin Sulfate Sintetica 10 mg/ml, Injektionslösung | Synthetika | Betäubungsmittel-Analgetikum |
-| 51039 | Morphin HCl Sintetica 10 mg/1 ml, Injektionslösung | Synthetika | Betäubungsmittel-Analgetikum |
-| 44246 | MST Continus 30 mg, Retardtabletten | Synthetika | Analgetikum |
-| 53952 | Sevre-Long 30 mg, Retardkapseln | Synthetika | Opioid-Analgetikum, Substitutionsbehandlung bei Opioidabhängigkeit |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 44246 | MST Continus 30 mg, Tabletten retard (+4 weitere Bezeichnungen) | Synthetika | Analgetikum | Gültig |
+| 51039 | Morphin HCl Sintetica 10 mg/1 ml, soluzione iniettabile (+3 weitere Bezeichnungen) | Synthetika | Analgesico stupefacente | Gültig |
+| 53952 | Sevre-Long 30 mg, Kapseln retard (+2 weitere Bezeichnungen) | Synthetika | Opioides Analgetikum, Substitutionsbehandlung bei Opioidabhängigkeit | Gültig |
+| 56401 | Morphin Sulfate Sintetica 10mg/ml, soluzione iniettabile (+1 weitere Bezeichnung) | Synthetika | Analgesico stupefacente | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

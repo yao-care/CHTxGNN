@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08883
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Perampanelum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum"
 ---
 
@@ -69,10 +69,16 @@ Ein mechanistischer Zusammenhang lässt sich aus den vorliegenden Daten daher ni
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67665 | Fycompa 0.5 mg / mL, Suspension zum Einnehmen | Synthetika | Antiepileptikum |
-| 62440 | Fycompa 2mg, Filmtabletten | Synthetika | Antiepileptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62440 | Fycompa 2mg, Filmtabletten (+5 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Gültig |
+| 67665 | Fycompa 0.5 mg / mL, Suspension zum Einnehmen | Synthetika | Antiepileptikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

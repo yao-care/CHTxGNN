@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB04844
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Tetrabenazinum: vorhergesagte neue Indikation Polycystic kidney disease 3 with or without polycystic liver disease (Evidenzstufe L5)."
 ---
 
@@ -69,9 +69,15 @@ Dieser Mechanismus hat keinen bekannten Bezug zur Zystenbildung, zur Signalüber
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58375 | Xenazine, Tabletten | Synthetika | Mit Huntington-Chorea assoziierte hyperkinetische Bewegungsstörungen, Spätdyskinesie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58375 | Xenazine, Tabletten | Synthetika | Mit Huntington-Chorea assoziierte hyperkinetische Bewegungsstörungen, Spätdyskinesie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

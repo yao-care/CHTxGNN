@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Lumacaftor: vorhergesagte neue Indikation Lepra (Evidenzstufe L5). Ursprüngliche Indikation: Mukoviszidose"
 monitor_inn: "lumacaftor"
 predicted_indications: ["leprosy"]
@@ -82,10 +82,16 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67395 | Orkambi 100 mg lumacaftor / 125 mg ivacaftor, Granulat | Synthetika | Mukoviszidose |
-| 65981 | Orkambi 200 mg / 125 mg, Filmtabletten | Synthetika | Mukoviszidose |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65981 | Orkambi 200 mg / 125 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Mukoviszidose | Gültig |
+| 67395 | Orkambi 100 mg lumacaftor / 125 mg ivacaftor, Granulat (+2 weitere Bezeichnungen) | Synthetika | Mukoviszidose | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Zulassungsinhaberin beider Präparate ist Vertex Pharmaceuticals (CH) GmbH.
 

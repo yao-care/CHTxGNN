@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00790
 monitor_inn: "Perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Perindoprilum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: ACE Inhibitor"
 ---
 
@@ -85,12 +85,18 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69100 | Perindopril Arginin Spirig HC 2,5 mg, Filmtabletten | Synthetika | ACE-Hemmer |
-| 62970 | Perindopril-Mepha N 5 mg, Filmtabletten | Synthetika | ACE-Hemmer |
-| 58333 | Perindopril Sandoz 2 mg, Tabletten | Synthetika | ACE-Hemmer |
-| 57617 | Coversum N 5 mg, Filmtabletten | Synthetika | ACE-Hemmer (Hemmer des Angiotensin-Konversionsenzyms) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57617 | Coversum N 5 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Inhibiteur de l'enzyme de conversion de l'angiotensine | Gültig |
+| 58333 | Perindopril Sandoz 2 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | ACE-Hemmer | Gültig |
+| 62970 | Perindopril-Mepha N 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | ACE Inhibitor | Gültig |
+| 69100 | Perindopril Arginin Spirig HC 2,5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | ACE Inhibitor | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00625
 monitor_inn: "Efavirenz"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Efavirenzum: vorhergesagte neue Indikation Simiane Immundefizienzvirus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -96,9 +96,15 @@ Alle Arbeiten sind Tier- oder Laborstudien am RT-SHIV-Modell. Die Tabelle zeigt 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 63083 | Efavirenz-Mepha 600 mg, Filmtabletten | Synthetika | HIV-Infektionen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63083 | Efavirenz-Mepha 600 mg, Filmtabletten | Synthetika | HIV-Infektionen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

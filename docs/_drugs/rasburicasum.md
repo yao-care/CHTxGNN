@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00049
 monitor_inn: "Rasburicase"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rasburicasum: vorhergesagte neue Indikation Renale Hypourikämie (hypouricemia, renal) (Evidenzstufe L5). Ursprüngliche Indikation: Hyperuricémie"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55789 | Fasturtec 1.5 mg / 1 ml, Pulver und Lösungsmittel zur Herstellung eines Infusionskonzentrats | Biotechnologika | Hyperurikämie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55789 | Fasturtec 1.5 mg / 1 ml, poudre et solvant pour solution à diluer pou… (+1 weitere Bezeichnung) | Biotechnologika | Hyperuricémie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

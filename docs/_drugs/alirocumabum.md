@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB09302
 monitor_inn: "Alirocumab"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alirocumabum: vorhergesagte neue Indikation X-chromosomale Ichthyose ohne Steroidsulfatase-Mangel (ichthyosis, X-linked, without steroid sulfatase deficiency) (Evidenzstufe L5)."
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 65882 | Praluent 75 mg, solution injectable en stylo prérempli (Sanofi-Aventis (Suisse) SA) | Biotechnologikum (Injektionslösung im Fertigpen) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65882 | Praluent 75 mg, solution injectable en stylo prérempli (+2 weitere Bezeichnungen) | Biotechnologika | Hypolipémiants | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

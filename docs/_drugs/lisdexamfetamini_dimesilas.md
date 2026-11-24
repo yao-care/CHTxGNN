@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01255
 monitor_inn: "Lisdexamfetamine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "autosomal dominant cerebellar ataxia", "cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "trichotillomania", "transient tic disorder", "narcolepsy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lisdexamfetamini Dimesilas: vorhergesagte neue Indikation Spezifische Entwicklungsstörung (specific developmental disorder) (Evidenzstufe L5)."
 ---
 
@@ -84,10 +84,16 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69031 | Lisdexamfetamin Spirig HC 20 mg, Hartkapseln | Hartkapseln | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) |
-| 63023 | Elvanse 30 mg, Hartkapseln | Hartkapseln | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63023 | Elvanse 30 mg, Hartkapseln (+5 weitere Bezeichnungen) | Synthetika | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) | Gültig |
+| 69031 | Lisdexamfetamin Spirig HC 20 mg, Hartkapseln (+5 weitere Bezeichnungen) | Synthetika | Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

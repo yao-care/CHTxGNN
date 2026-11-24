@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11945
 monitor_inn: "Avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Avelumabum: vorhergesagte neue Indikation Human herpesvirus 8-related tumor (Evidenzstufe L5). Ursprüngliche Indikation: Merkelzellkarzinom, Urothelkarzinom"
 ---
 
@@ -69,9 +69,15 @@ Vorsicht ist bei HHV-8-Erkrankungen mit gleichzeitiger HIV-Infektion geboten, eb
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66380 | Bavencio 200 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Merkelzellkarzinom, Urothelkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66380 | Bavencio 200 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösu… | Biotechnologika | Merkelzellkarzinom, Urothelkarzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

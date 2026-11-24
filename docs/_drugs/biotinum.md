@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00121
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Biotinum: vorhergesagte neue Indikation Dyspepsie (dyspepsia) (Evidenzstufe L5). Ursprüngliche Indikation: Prophylaxe und Therapie von Biotin-Mangelzuständen"
 ---
 
@@ -86,12 +86,18 @@ Die folgenden Arbeiten wurden gefunden. Keine davon untersucht Biotin bei Dyspep
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67860 | Biotin Merz forte 10 mg, Tabletten | Synthetika | Prophylaxe und Therapie von Biotin-Mangelzuständen |
-| 55564 | Rombellin 5mg Biotin, comprimés | Synthetika | Biotin-Präparat |
-| 65691 | Biotin Merz 5 mg, Tabletten | Synthetika | Biotin-Präparat |
-| 34149 | Biotin-Biomed forte 5 mg, Tabletten | Synthetika | Biotin-Präparat |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 34149 | Biotin-Biomed forte 5 mg, Tabletten | Synthetika | Biotin-Präparat | Gültig |
+| 55564 | Rombellin 5mg Biotin, comprimés | Synthetika | Préparation biotine | Gültig |
+| 65691 | Biotin Merz 5 mg, Tabletten | Synthetika | Biotin-Präparat | Gültig |
+| 67860 | Biotin Merz forte 10 mg, Tabletten | Synthetika | Prophylaxe und Therapie von Biotin-Mangelzuständen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

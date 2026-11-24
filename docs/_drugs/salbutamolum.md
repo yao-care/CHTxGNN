@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01001
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Salbutamolum: vorhergesagte neue Indikation Papilläre Konjunktivitis (papillary conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 
@@ -83,15 +83,21 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 53190 | Salbu Orion Easyhaler 100, Pulver zur Inhalation | Synthetika | Bronchospasmolytikum |
-| 37262 | Ventolin, Sirup | Synthetika | Bronchospasmolytikum |
-| 37397 | Ventolin 5 mg/ml, konzentrierte Lösung für Aerosolgeräte | Synthetika | Bronchospasmolytikum |
-| 55092 | Salamol Autohaler, Dosier-Aerosol | Synthetika | Bronchospasmolytikum |
-| 54320 | Ventolin, Dosier-Aerosol | Synthetika | Bronchospasmolytikum |
-| 44397 | Ventolin 0.5 mg/ml, Injektionslösung | Synthetika | Bronchospasmen, vorzeitig einsetzende Wehen |
-| 53898 | Ventolin Diskus, Multidosen-Pulverinhalator | Synthetika | Bronchospasmolytikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 37262 | Ventolin, Sirup | Synthetika | Bronchospasmolytikum | Gültig |
+| 37397 | Ventolin 5 mg/ml, konzentrierte Lösung für Aerosolgeräte | Synthetika | Bronchospasmolytikum | Gültig |
+| 44397 | Ventolin 0.5 mg/ml, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Bronchospasmen, vorzeitig einsetzende Wehen | Gültig |
+| 53190 | Salbu Orion Easyhaler 100, Pulver zur Inhalation (+1 weitere Bezeichnung) | Synthetika | Bronchospasmolytikum | Gültig |
+| 53898 | Ventolin Diskus, Multidosen-Pulverinhalator | Synthetika | Bronchospasmolytikum | Gültig |
+| 54320 | Ventolin, Dosier-Aerosol | Synthetika | Bronchospasmolyticum | Gültig |
+| 55092 | Salamol Autohaler, Dosier-Aerosol | Synthetika | Bronchospasmolytikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

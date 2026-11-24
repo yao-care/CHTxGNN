@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00958
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Carboplatinum: vorhergesagte neue Indikation Muzinöses Adenokarzinom des Rektums (rectum mucinous adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -81,13 +81,19 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 47671 | Paraplatin 150 mg/15 ml, Infusionslösung | Synthetika | Zytostatikum |
-| 66717 | Carboplatin Accord 50 mg/5 ml, Infusionslösung | Synthetika | Zytostatikum |
-| 62902 | Carboplatin Labatec 150 mg/15 ml, Infusionslösung | Synthetika | Zytostatikum |
-| 58289 | Carboplatin-Teva liquid 50 mg / 5 ml, Infusionslösung | Synthetika | Zytostatikum |
-| 54829 | Carboplatin Sandoz 50 mg/5 ml, Infusionslösung | Synthetika | Zytostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 47671 | Paraplatin 150 mg/15 ml, Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 54829 | Carboplatin Sandoz 50 mg/5 ml, Infusionslösung (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 58289 | Carboplatin-Teva liquid 50 mg / 5 ml, Infusionslösung (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 62902 | Carboplatin Labatec 150 mg/15 ml, solution pour perfusion (+3 weitere Bezeichnungen) | Synthetika | Cytostatique | Gültig |
+| 66717 | Carboplatin Accord 50 mg/5 ml, Infusionslösung (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

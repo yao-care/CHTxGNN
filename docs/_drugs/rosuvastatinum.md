@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01098
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rosuvastatinum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5)."
 ---
 
@@ -73,12 +73,20 @@ Die klinische Begründung ist jedoch schwach: Menschen mit dieser Störung haben
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66415 | Rosuvastatin Axapharm 5 mg, Filmtabletten | Filmtabletten | Reduktion der Serumcholesterinkonzentration; Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit normalem LDL-Cholesterin und erhöhtem Risiko atherosklerotischer Erkrankungen |
-| 66447 | Rosuvastax 5 mg, Filmtabletten | Filmtabletten | Wie oben |
-| 56139 | Crestor 10 mg, Filmtabletten | Filmtabletten | Wie oben |
-| 66463 | Rosuvastatin Spirig HC 5 mg, Filmtabletten | Filmtabletten | Wie oben |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56139 | Crestor 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration. Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit norma… | Gültig |
+| 66415 | Rosuvastatin Axapharm 5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration. Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit norma… | Gültig |
+| 66447 | Rosuvastax 5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration. Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit norma… | Gültig |
+| 66463 | Rosuvastatin Spirig HC 5 mg, Filmtabletten | Synthetika | Reduktion der Serumcholesterinkonzentration. Vorbeugung kardiovaskulärer Ereignisse bei Erwachsenen mit norma… | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

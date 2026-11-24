@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00338
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Omeprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Zollinger-Ellison-Syndrom"
 ---
 
@@ -95,9 +95,17 @@ Die Publikationen sind Einzelfälle oder Übersichten und belegen keinen Nutzen 
 
 Die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60486 | Omeprazol MUT Sandoz 10 mg, Filmtabletten | Synthetika | Ulcustherapie, Zollinger-Ellison-Syndrom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60486 | Omeprazol MUT Sandoz 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Ulcustherapie, Zollinger-Ellison-Syndrom | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

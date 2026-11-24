@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Polatuzumab Vedotin: vorhergesagte neue Indikation HER2-positives Mammakarzinom (HER2 positive breast carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -82,9 +82,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67165 | Polivy 140 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67165 | Polivy 140 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

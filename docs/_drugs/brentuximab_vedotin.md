@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "brentuximab vedotin"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Brentuximab Vedotin: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung des Hodgkin-Lymphoms"
 ---
 
@@ -98,9 +98,15 @@ Die gefundenen Publikationen behandeln überwiegend periphere T-Zell-Lymphome od
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62132 | Adcetris 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Hodgkin-Lymphom; anaplastisches grosszelliges Lymphom; kutanes T-Zell-Lymphom; peripheres T-Zell-Lymphom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62132 | Adcetris 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… | Biotechnologika | Behandlung des Hodgkin-Lymphoms; Behandlung des anaplastischen grosszelligen Lymphoms; Behandlung des kutanen… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

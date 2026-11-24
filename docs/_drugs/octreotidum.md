@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00104
 monitor_inn: "Octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Octreotidum: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5). Ursprüngliche Indikation: Somatostatin-Analogon"
 ---
 
@@ -71,13 +71,19 @@ Die vulväre invertierte follikuläre Keratose ist eine seltene, gutartige Verä
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67154 | Octreotid-Mepha LA 10 mg, Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension | Synthetika | Somatostatin-Analogon |
-| 49137 | Sandostatin 0,05 mg/mL, Injektionslösung | Synthetika | Somatostatin-Analogon |
-| 63241 | Octreotid Labatec 0,05 mg/mL, Injektionslösung | Synthetika | Somatostatin-Analogon |
-| 65110 | Octreotid Labatec 0,2 mg/mL, Injektionslösung | Synthetika | Somatostatin-Analogon |
-| 53161 | Sandostatin LAR 10 mg Fertigspritzen, Injektionspräparat | Synthetika | Somatostatin-Analogon |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49137 | Sandostatin 0,05 mg/mL, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon | Gültig |
+| 53161 | Sandostatin LAR 10 mg Fertigspritzen, Injektionspräparat (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon | Gültig |
+| 63241 | Octreotid Labatec 0,05 mg/mL, Solution pour injection (+2 weitere Bezeichnungen) | Synthetika | Analoque de somatostatine | Gültig |
+| 65110 | Octreotid Labatec 0.2 mg/ml, Solution pour injection | Synthetika | Analoque de somatostatine | Gültig |
+| 67154 | Octreotid-Mepha LA 10 mg, Pulver und Lösungsmittel zur Herstellung ei… (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

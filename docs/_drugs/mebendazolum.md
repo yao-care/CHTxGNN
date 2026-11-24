@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00643
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Mebendazolum: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Anthelmintikum"
 ---
 
@@ -79,9 +79,15 @@ Der hohe Vorhersagewert ist ein reines Modellergebnis und wird durch keine klini
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 38853 | Vermox 100 mg, Tabletten | Synthetika | Anthelmintikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 38853 | Vermox 100 mg, Tabletten | Synthetika | Anthelmintikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB11611
 monitor_inn: "Lifitegrast"
 predicted_indications: ["penile fibromatosis", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Lifitegrastum: vorhergesagte neue Indikation Penile Fibromatose (penile fibromatosis) (Evidenzstufe L5). Ursprüngliche Indikation: Syndrom des trockenen Auges"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66850 | Xiidra, Augentropfen | Synthetika | Syndrom des trockenen Auges |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66850 | Xiidra, Augentropfen | Synthetika | Syndrom des trockenen Auges | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

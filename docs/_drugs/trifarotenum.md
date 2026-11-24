@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB12808
 monitor_inn: "Trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Trifarotenum: vorhergesagte neue Indikation Erhöhtes Plasmazink (zinc, elevated plasma) (Evidenzstufe L5). Ursprüngliche Indikation: topische Behandlung mittelschwerer Akne"
 ---
 
@@ -71,9 +71,15 @@ Zudem gelangt bei topischer Anwendung nur wenig Wirkstoff in den Körper. Eine s
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67632 | Aklief, Crème | Synthetika | Topische Behandlung mittelschwerer Akne |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67632 | Aklief, Crème | Synthetika | topische Behandlung mittelschwerer Akne | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

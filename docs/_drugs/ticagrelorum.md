@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08816
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ticagrelorum: vorhergesagte neue Indikation Intrakranielle Arteriosklerose (intracranial arteriosclerosis) (Evidenzstufe L5)."
 ---
 
@@ -91,14 +91,28 @@ Ein möglicher Vorteil: Ticagrelor muss nicht über das Enzym CYP2C19 aktiviert 
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
+Es sind mindestens 4 Zulassungen erfasst; die Liste kann unvollständig sein. Drei der vier aufgeführten Zulassungen sind gültig; die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68830 | Ticagrelor Zentiva 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer (in Kombination mit Acetylsalicylsäure) |
-| 69816 | Ticagrelor Devatis 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure |
-| 68430 | Ticagrelor Sandoz 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure |
-| 68827 | Ticagrelor-Mepha 60 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure |
+<!-- review:begin ch-lic-20261124-ticagrelorum-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Alle aufgeführten Zulassungen sind gültig.“ Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124-ticagrelorum-1 -->
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 68430 | Ticagrelor Sandoz 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
+| 68827 | Ticagrelor-Mepha 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
+| 69816 | Ticagrelor Devatis 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
+| 68830 | Ticagrelor Zentiva 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmer (in Kombination mit Acetylsalicylsäure) | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,11 +139,12 @@ Für Warnungen, Kontraindikationen und Wechselwirkungen liegen in den zusammenge
 
 ## Prüfprotokoll
 
-Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt.
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
+| 2026-11-24 | „alle gültig“ → „drei der vier gültig“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

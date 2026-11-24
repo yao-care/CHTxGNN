@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00479
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amikacinum: vorhergesagte neue Indikation Paratyphus (paratyphoid fever) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -85,9 +85,15 @@ Keine der Publikationen untersucht Amikacin als Behandlung des Paratyphus in ein
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 39805 | Amikin 500 mg, Konzentrat zur Herstellung einer Infusionslösung (i.v.) bzw. Injektionslösung (i.m.) | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 39805 | Amikin 500 mg, Konzentrat zur Herstellung einer Infusionslösung (i.v.… | Synthetika | Infektionskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

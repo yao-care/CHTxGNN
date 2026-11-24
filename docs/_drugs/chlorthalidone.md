@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorthalidone: vorhergesagte neue Indikation Primäres hereditäres Glaukom (Evidenzstufe L5). Ursprüngliche Indikation: Diuretikum, Antihypertensivum, Hypertonie"
 monitor_inn: "chlorthalidone"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
@@ -82,13 +82,21 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 70179 | Chlortalidon Galepharm 12.5 mg, Tabletten | Synthetika | Diuretikum |
-| 53087 | Cotenolol-Mepha-Neo, Filmtabletten | Synthetika | Hypertonie |
-| 54076 | Atedurex, Filmtabletten | Synthetika | Hypertonie |
-| 42204 | Tenoretic mite, Filmtabletten | Synthetika | Antihypertensivum |
-| 63145 | Edarbyclor 40 mg/12.5 mg, Filmtabletten | Synthetika | Hypertonie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 42204 | Tenoretic mite, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antihypertensivum | Gültig |
+| 53087 | Cotenolol-Mepha-Neo, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
+| 54076 | Atedurex, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
+| 63145 | Edarbyclor 40 mg/12.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertension | Gültig |
+| 70179 | Chlortalidon Galepharm 12.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Diureticum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

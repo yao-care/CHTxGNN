@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00742
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mannitolum: vorhergesagte neue Indikation Nephrogenes Syndrom der inadäquaten Antidiurese (nephrogenic syndrome of inappropriate antidiuresis) (Evidenzstufe L5)."
 ---
 
@@ -79,10 +79,16 @@ Dieser Zusammenhang ist jedoch schwach und möglicherweise ungünstig: Mannitol 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 31754 | Mannitol 20 % Braun, Infusionslösung | Synthetika | Diureticum bei Niereninsuffizienz |
-| 36796 | Mannitol Bichsel 10 %, Infusionslösung | Synthetika | Diureticum bei Niereninsuffizienz |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 31754 | Mannitol 20 % Braun, Infusionslösung | Synthetika | Diureticum bei Niereninsuffizienz | Gültig |
+| 36796 | Mannitol Bichsel 10 %, Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Diureticum bei Niereninsuffizienz | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

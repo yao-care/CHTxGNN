@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00620
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Triamcinolonum: vorhergesagte neue Indikation Alopecia mucinosa (Evidenzstufe L5). Ursprüngliche Indikation: Rhinite"
 ---
 
@@ -86,15 +86,23 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 Die Liste kann unvollständig sein; es sind mindestens 7 Zulassungen bekannt.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69099 | Nasalone, Nasenspray-Suspension | Synthetika | Rhinitis |
-| 41174 | Triamcort Depot 10 mg/1 ml, Kristallsuspension zur Injektion | Synthetika | Glucocorticoid-Therapie |
-| 32990 | Kenacort-A 40 40 mg/ml, Injektionssuspension | Synthetika | Glucocorticoid-Therapie |
-| 26177 | Kenacort-A 10 10 mg/ml, Injektionssuspension | Synthetika | Glucocorticoid-Therapie |
-| 24206 | Kenacort, Tabletten | Synthetika | Glucocorticoid-Therapie |
-| 35039 | Kenacort-A Orabase, Paste zur Anwendung in der Mundhöhle | Synthetika | Entzündliche Erkrankungen der Mundschleimhaut |
-| 38774 | Kenacort-A Solubile 10 mg/0,25 ml, Injektionslösung | Synthetika | Glucocorticoid-Therapie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 24206 | Kenacort, Tabletten | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 26177 | Kenacort-A 10 10 mg/mL, Injektionssuspension (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 32990 | Kenacort-A 40 40 mg/mL, Injektionssuspension (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 35039 | Kenacort-A Orabase, Paste zur Anwendung in der Mundhöhle | Synthetika | Entzündliche Erkrankungen der Mundschleimhaut | Gültig |
+| 38774 | Kenacort-A Solubile 10 mg/0.25 mL, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 41174 | Triamcort Depot 10mg/1ml, Kristallsuspension zur Injektion (+3 weitere Bezeichnungen) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 69099 | Nasalone, suspension pour pulvérisation nasale | Synthetika | Rhinite | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

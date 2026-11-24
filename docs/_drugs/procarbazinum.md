@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01168
 monitor_inn: "Procarbazine"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Procarbazinum: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L5)."
 ---
 
@@ -95,9 +95,15 @@ Hinweis: Die Beobachtungsstudien und Übersichten betreffen überwiegend Lymphom
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58474 | Natulan, capsule rigide | Synthetika | Kombinationstherapie des Hodgkin-Lymphoms und des Non-Hodgkin-Lymphoms |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58474 | Natulan, capsule rigide | Synthetika | Terapia in combinazione del linfoma di Hodgkin e del linfoma non-Hodgkin | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

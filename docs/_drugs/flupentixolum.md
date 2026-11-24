@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00875
 monitor_inn: "Flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Flupentixolum: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokuläre Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -83,10 +83,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62047 | Fluanxol 0.5 mg, Filmtabletten | Synthetika | Neuroleptikum |
-| 35407 | Fluanxol Depot 20 mg/ml, Depot-Injektionslösung | Synthetika | Neuroleptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 35407 | Fluanxol Depot 20 mg/ml, Depot-Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Neurolepticum | Gültig |
+| 62047 | Fluanxol 0.5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

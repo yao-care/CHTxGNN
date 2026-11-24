@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vilanterol: vorhergesagte neue Indikation Hyperlucente Lunge (hyperlucent lung) (Evidenzstufe L5). Ursprüngliche Indikation: COPD"
 ---
 
@@ -80,9 +80,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 63152 | Anoro Ellipta 55 mcg/22 mcg, Einzeldosiertes Pulver zur Inhalation | Synthetika | COPD |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63152 | Anoro Ellipta 55 mcg/22 mcg, Einzeldosiertes Pulver zur Inhalation | Synthetika | COPD | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Hinweis: Diese Zulassung betrifft ein Kombinationspräparat und beschreibt nicht die Zulassung von Vilanterol als Einzelwirkstoff.
 

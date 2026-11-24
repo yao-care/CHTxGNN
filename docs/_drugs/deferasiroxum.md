@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01609
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasiroxum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5)."
 ---
 
@@ -71,12 +71,20 @@ Diese Begründung ist plausibel, aber indirekt. Der hohe Vorhersagewert ist eine
 
 Die Liste enthält mindestens 4 Zulassungen und ist möglicherweise unvollständig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57466 | Exjade 125 mg, dispergierbare Tabletten | Synthetika | Transfusionsbedingte Hämosiderose; chronische Eisenüberladung bei nicht-transfusionsabhängiger Thalassämie ab 10 Jahren |
-| 67678 | Deferasirox-Mepha 90 mg, Filmtabletten | Synthetika | Transfusionsbedingte Eisenüberladung |
-| 67517 | Deferasirox Accord 90 mg, Filmtabletten | Synthetika | Transfusionsbedingte Eisenüberladung |
-| 65867 | Jadenu 90 mg, Filmtabletten | Synthetika | Transfusionsbedingte Hämosiderose; chronische Eisenüberladung bei nicht-transfusionsabhängiger Thalassämie ab 10 Jahren |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57466 | Exjade 125 mg, dispergierbare Tabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung der transfusionsbedingten Hämosiderose. Behandlung von chronischer Eisenüberladung, die eine Chela… | Gültig |
+| 65867 | Jadenu 90 mg, Filmtabletten | Synthetika | Behandlung der transfusionsbedingten Hämosiderose. Behandlung von chronischer Eisenüberladung, die eine Chela… | Gültig |
+| 67517 | Deferasirox Accord 90 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Transfusionsbedingte Eisenüberladung | Gültig |
+| 67678 | Deferasirox-Mepha 90 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Transfusionsbedingte Eisenüberladung | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00327
 monitor_inn: "Hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydromorphoni Hydrochloridum: vorhergesagte neue Indikation Pharyngitis (Evidenzstufe L5). Ursprüngliche Indikation: Narkotisches Analgetikum mit Langzeitwirkung"
 ---
 
@@ -83,13 +83,21 @@ Keine dieser Studien untersucht Pharyngitis selbst; sie betreffen Schmerzen nach
 
 Die Liste kann unvollständig sein; es sind mindestens 5 Zulassungen vorhanden.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 53223 | Palladon Retard 4 mg, Retardkapseln | Synthetika | Narkotisches Analgetikum mit Langzeitwirkung |
-| 56556 | Hydromorphoni HCl Streuli 1 mg/ml, Tropfen zum Einnehmen | Synthetika | Narkotisches Analgetikum |
-| 70346 | Hydromorphone Mundipharma 1.3 mg, Kapseln | Synthetika | Narkotisches Analgetikum |
-| 66873 | Hydromorphone Sintetica 0.2 mg/ml, Infusionslösung | Synthetika | Narkotisches Analgetikum |
-| 59225 | Palladon Inject 2 mg, Injektions-/Infusionslösung | Synthetika | Narkotisches Analgetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53223 | Palladon Retard 4 mg, Retardkapseln (+3 weitere Bezeichnungen) | Synthetika | Narkotisches Analgetikum mit Langzeitwirkung | Gültig |
+| 56556 | Hydromorphoni HCl Streuli 1 mg/ml, Tropfen zum Einnehmen | Synthetika | Narkotisches Analgetikum | Gültig |
+| 59225 | Palladon Inject 2 mg, Injektions-/Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Narkotisches Analgetikum | Gültig |
+| 66873 | Hydromorphone Sintetica 0.2 mg/ml, soluzione per infusione | Synthetika | Analgesico stupefacente | Gültig |
+| 70346 | Hydromorphone Mundipharma 1.3 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Narkotisches Analgetikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

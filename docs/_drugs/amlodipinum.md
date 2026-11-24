@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipinum: vorhergesagte neue Indikation Hirnstamminfarkt (brain stem infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Calciumantagonist"
 ---
 
@@ -71,13 +71,21 @@ Diese Überlegungen sind theoretisch. Für diese konkrete Erkrankung wurden wede
 
 Die Liste kann unvollständig sein; es sind mindestens 5 Zulassungen vorhanden.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 50044 | Norvasc 5 mg, Tabletten | Synthetika | Calciumantagonist |
-| 59421 | Amlodipin axapharm 5 mg, Tabletten | Synthetika | Calciumantagonist |
-| 56821 | ZentiAmlo 5 mg, Tabletten | Synthetika | Calciumantagonist |
-| 68727 | Amlodipin Zentiva 5 mg, Tabletten | Synthetika | Calciumantagonist |
-| 56991 | Amlodipin-Mepha 5, Tabletten | Synthetika | Calciumantagonist |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 50044 | Norvasc 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
+| 56821 | ZentiAmlo 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
+| 56991 | Amlodipin-Mepha 5, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
+| 59421 | Amlodipin axapharm 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
+| 68727 | Amlodipin Zentiva 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

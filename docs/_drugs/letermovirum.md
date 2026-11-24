@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB12070
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Letermovirum: vorhergesagte neue Indikation Vulvovaginale Candidiasis (vulvovaginal candidiasis) (Evidenzstufe L5). Ursprüngliche Indikation: Cytomegalovirus-(CMV) Prophylaxe"
 ---
 
@@ -69,11 +69,17 @@ Ein möglicher Zusammenhang müsste unabhängig geprüft werden, zum Beispiel du
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69867 | Prevymis 20 mg, Granulat | Synthetika | Cytomegalovirus-(CMV-)Prophylaxe |
-| 66652 | Prevymis 240 mg, Filmtabletten | Synthetika | Cytomegalovirus-(CMV-)Prophylaxe |
-| 66653 | Prevymis 240 mg/12 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Cytomegalovirus-(CMV-)Prophylaxe |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66652 | Prevymis 240 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Cytomegalovirus-(CMV) Prophylaxe | Gültig |
+| 66653 | Prevymis 240 mg/12 ml, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Synthetika | Cytomegalovirus-(CMV)-Prophylaxe | Gültig |
+| 69867 | Prevymis 20 mg, Granulat (+1 weitere Bezeichnung) | Synthetika | Cytomegalovirus-(CMV) Prophylaxe | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

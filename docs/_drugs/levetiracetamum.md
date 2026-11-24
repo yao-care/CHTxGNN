@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01202
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Levetiracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Antiépileptique"
 ---
 
@@ -71,12 +71,20 @@ Eine mögliche indirekte Überlegung wäre die Anfallskontrolle bei oder nach St
 
 Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57519 | Keppra 500 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antiepileptikum |
-| 62069 | Levetiracetam Desitin 250 mg, Filmgranulat im Beutel | Synthetika | Antiepileptikum |
-| 69225 | Levetiracetam-Neuraxpharm 250 mg, Filmtabletten | Synthetika | Antiepileptikum |
-| 62036 | Levetiracetam Rivopharm 250, Filmtabletten | Synthetika | Antiepileptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57519 | Keppra 500 mg/5 ml, solution à diluer pour perfusion | Synthetika | Antiépileptique | Gültig |
+| 62036 | Levetiracetam Rivopharm 250, compresse rivestite con film (+2 weitere Bezeichnungen) | Synthetika | Antiepilettico | Gültig |
+| 62069 | Levetiracetam Desitin 250 mg, befilmtes Granulat im Beutel (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Gültig |
+| 69225 | Levetiracetam-Neuraxpharm 250 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "myofascial pain syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlordiazepoxide: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -86,11 +86,17 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform |
-|---------|------|------|
-| 33354 | Limbitrol, Hartkapsel | Synthetika |
-| 28275 | Librax, Filmtabletten | Synthetika |
-| 41495 | Librocol, compresse rivestite | Synthetika |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 28275 | Librax, Filmtabletten | Synthetika | Spasmolytikum | Gültig |
+| 33354 | Limbitrol, Hartkapsel | Synthetika | Antidepressivum | Gültig |
+| 41495 | Librocol, compresse rivestite | Synthetika | Spasmolitico | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

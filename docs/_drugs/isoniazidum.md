@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00951
 monitor_inn: "Isoniazid"
 predicted_indications: ["conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Isoniazidum: vorhergesagte neue Indikation Konjunktivitis (conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: tuberculose"
 ---
 
@@ -93,9 +93,15 @@ Keine der gefundenen Publikationen untersucht Isoniazid bei Konjunktivitis als e
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69140 | Isoniaz-TB 100 mg, comprimés | Synthetika | Tuberkulose |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69140 | Isoniaz-TB 100 mg, comprimés (+1 weitere Bezeichnung) | Synthetika | tuberculose | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

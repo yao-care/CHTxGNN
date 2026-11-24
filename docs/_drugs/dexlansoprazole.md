@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dexlansoprazole: vorhergesagte neue Indikation Gastroduodenitis (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
 monitor_inn: "dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
@@ -101,9 +101,15 @@ Weitere Studien, die bei verwandten Ulkus-Diagnosen (Magen- und Zwölffingerdarm
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62993 | Dexilant 30 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Protonenpumpenhemmer |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62993 | Dexilant 30 mg, Hartkapseln mit veränderter Wirkstofffreisetzung (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenhemmer | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

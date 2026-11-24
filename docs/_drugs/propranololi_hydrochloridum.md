@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00571
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propranololi Hydrochloridum: vorhergesagte neue Indikation Distale Myopathie, Typ Tateyama (distal myopathy, Tateyama type) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -79,13 +79,19 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 47025 | Propranolol Zentiva 10 mg, Filmtabletten | Synthetika | Beta-Rezeptorenblocker |
-| 31706 | Inderal 10 mg, Filmtabletten | Synthetika | Beta-Rezeptorenblocker |
-| 61214 | Hemangiol 3.75 mg/ml, Lösung | Synthetika | Behandlung von proliferierenden infantilen Hämangiomen, die systemische Therapiemassnahmen erfordern |
-| 47551 | Propranolol retard Zentiva, Kapseln | Synthetika | Beta-Rezeptorenblocker |
-| 66719 | Bedranol 10 mg, comprimés pelliculés | Synthetika | Betablocker |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 31706 | Inderal 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 47025 | Propranolol Zentiva 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 47551 | Propranolol retard Zentiva, Kapseln | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 61214 | Hemangiol 3.75 mg/ml, Lösung | Synthetika | Behandlung von proliferierenden infantilen Hämangiomen, die systemische Therapiemassnahmen erfordern. | Gültig |
+| 66719 | Bedranol 10 mg, comprimés pelliculés (+2 weitere Bezeichnungen) | Synthetika | betabloccante | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

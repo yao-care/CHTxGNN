@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01421
 monitor_inn: "Paromomycin"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Paromomycinum: vorhergesagte neue Indikation Idiopathische kupferassoziierte Zirrhose (idiopathic copper-associated cirrhosis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionen des Darmes"
 ---
 
@@ -69,9 +69,15 @@ Für einen Einfluss auf den Kupferstoffwechsel oder die Kupfertoxizität in der 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 25229 | Humatin, Hartkapseln | Synthetika | Infektionen des Darmes |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 25229 | Humatin, Hartkapseln | Synthetika | Infektionen des Darmes | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

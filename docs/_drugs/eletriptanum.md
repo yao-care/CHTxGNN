@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00216
 monitor_inn: "Eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Eletriptanum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Akutbehandlung von Migräneanfällen mit oder ohne Aura"
 ---
 
@@ -85,12 +85,20 @@ Derzeit keine verwandte Literatur verfügbar
 
 Mindestens 4 Zulassungen sind in den Daten erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65602 | Eletriptan-Mepha 40 mg, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura |
-| 55218 | Relpax 40 mg, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen |
-| 65687 | Eletriptan Viatris 40 mg, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen |
-| 70060 | Eletriptan Spirig HC 40 mg, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55218 | Relpax 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen | Gültig |
+| 65602 | Eletriptan-Mepha 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 65687 | Eletriptan Viatris 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen | Gültig |
+| 70060 | Eletriptan Spirig HC 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

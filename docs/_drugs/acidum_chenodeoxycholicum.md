@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06777
 monitor_inn: "Chenodeoxycholic acid"
 predicted_indications: ["homozygous familial hypercholesterolemia", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "obsolete familial combined hyperlipidemia", "obsolete hyperuricemia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Acidum Chenodeoxycholicum: vorhergesagte neue Indikation Homozygote familiäre Hypercholesterinämie (homozygous familial hypercholesterolemia) (Evidenzstufe L5)."
 ---
 
@@ -85,9 +85,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66622 | Acido chenodesossicolico Leadiant 250 mg, capsula rigida | Synthetika | Behandlung angeborener Störungen der primären Gallensäuresynthese infolge eines Mangels an Sterol-27-Hydroxylase, die sich als zerebrotendinöse Xanthomatose (CTX) zeigen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66622 | Acido chenodesossicolico Leadiant 250 mg, capsula rigida | Synthetika | Trattamento di errori congeniti della sintesi degli acidi biliari primari dovuti alla deficienza di sterolo 2… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

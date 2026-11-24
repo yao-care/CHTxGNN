@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00603
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Medroxyprogesteroni Acetas: vorhergesagte neue Indikation Fibrozystische Brusterkrankung (breast fibrocystic disease) (Evidenzstufe L3)."
 ---
 
@@ -85,10 +85,16 @@ Die Datenlage ist aber nicht einheitlich. Studien zur Hormonersatztherapie bei F
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 30774 | Depo-Provera 150, Injektionssuspension (150 mg/ml) | Synthetika | Parenterales Kontrazeptivum (Dreimonatsspritze) |
-| 44307 | Farlutal, Tabletten | Synthetika | Gestagenbehandlung bei bestimmten Karzinomen; Tumorkachexie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 30774 | Depo-Provera 150, Injektionssuspension (150 mg/ml) | Synthetika | Parenterales Kontrazeptivum (Dreimonatsspritze) | Gültig |
+| 44307 | Farlutal, Tabletten | Synthetika | Gestagenbehandlung bei bestimmten Karzionomen; Tumorkachexie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

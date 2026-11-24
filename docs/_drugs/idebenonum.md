@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB09081
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Idebenonum: vorhergesagte neue Indikation Hepatische Porphyrie (hepatic porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Neuropathie optique héréditaire de Leber"
 ---
 
@@ -67,9 +67,15 @@ Bei der hepatischen Porphyrie können Zwischenprodukte des Häm-Stoffwechsels ox
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68063 | Raxone, Filmtabletten | Synthetika | Hereditäre Leber-Optikusneuropathie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 68063 | Raxone, comprimé pelliculé | Synthetika | Neuropathie optique héréditaire de Leber | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

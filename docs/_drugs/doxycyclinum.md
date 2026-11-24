@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00254
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxycyclinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Rosazea"
 ---
 
@@ -75,15 +75,21 @@ Der einzige verfügbare Literaturhinweis beschreibt zwei Fälle, in denen nach e
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61686 | Oracea, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Rosazea |
-| 65952 | Doxycyclin-Mepha 100mg, Tabletten | Synthetika | Infektionskrankheiten |
-| 70011 | Doxycycline Biovis, capsule | Synthetika | Infektionskrankheiten |
-| 42688 | Doxylag 100, capsules | Synthetika | Infektionskrankheiten |
-| 44000 | Doxyclin, Tabletten | Synthetika | Infektionskrankheiten |
-| 49771 | Supracyclin Tabs, Tabletten | Synthetika | Infektionskrankheiten |
-| 50748 | Doxysol 100, Tabletten | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 42688 | Doxylag 100, capsules | Synthetika | Malattie infettive | Gültig |
+| 44000 | Doxyclin, Tabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 49771 | Supracyclin Tabs, Tabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 50748 | Doxysol 100, Tabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 61686 | Oracea, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Rosazea | Gültig |
+| 65952 | Doxycyclin-Mepha 100mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 70011 | Doxycycline Biovis, capsule | Synthetika | Malattie infettive | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

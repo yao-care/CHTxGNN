@@ -11297,6 +11297,86 @@
    ],
    "checked": "2026-11-20",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+   "drug": "azithromycinum",
+   "file": "azithromycinum.md",
+   "id": "ch-lic-20261124-azithromycinum-1",
+   "finding": "正文說 8 張中 6 張有效、2 張註銷；事實層 8 張中 5 張有效：51999（Zithromax 100 mg）、61256（Azithromycin Pfizer 250 mg）效期 2026-09-30 已過，57627（Azithromycin Sandoz）2026-11-17 兩份現行清單都不列",
+   "claim": "Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 6 gültig und 2 gelöscht.",
+   "replacement": "Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 5 gültig und 3 erloschen.",
+   "note": "Die Zulassungen 51999 (Zithromax 100 mg) und 61256 (Azithromycin Pfizer 250 mg) waren bis 2026-09-30 gültig; 57627 (Azithromycin Sandoz) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+   "summary": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+   "drug": "bisoprololi_fumaras",
+   "file": "bisoprololi_fumaras.md",
+   "id": "ch-lic-20261124-bisoprololi_fumaras-1",
+   "finding": "正文說 4 張全部有效；65034（Bisoprolol Zentiva 2.5 mg）2026-11-17 兩份現行清單都不列，有效 3 張",
+   "claim": "Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).",
+   "replacement": "Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, davon 3 gültig).",
+   "note": "Die Zulassung 65034 (Bisoprolol Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+   "summary": "„alle gültig“ → „davon 3 gültig“"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+   "drug": "metoprololi_tartras",
+   "file": "metoprololi_tartras.md",
+   "id": "ch-lic-20261124-metoprololi_tartras-1",
+   "finding": "正文說列出的 3 張全部有效；39252（Lopresor 100）2026-11-17 兩份現行清單都不列，有效 2 張",
+   "claim": "Alle drei aufgeführten Zulassungen sind gültig.",
+   "replacement": "Zwei der drei aufgeführten Zulassungen sind gültig; die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "note": "Die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+   "summary": "„alle drei gültig“ → „zwei der drei gültig“"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 人工查核：程式許可證表換表後另寫的寬偵測找到；正文說法對照許可證快照事實層（證據包 data-20261117-090726，Swissmedic 兩份現行清單 2026-11-17：效期已過或兩份清單都不列＝已不是現行許可）",
+   "drug": "ticagrelorum",
+   "file": "ticagrelorum.md",
+   "id": "ch-lic-20261124-ticagrelorum-1",
+   "finding": "正文說列出的許可全部有效；68830（Ticagrelor Zentiva 60 mg）2026-11-17 兩份現行清單都不列，4 張中有效 3 張",
+   "claim": "Alle aufgeführten Zulassungen sind gültig.",
+   "replacement": "Drei der vier aufgeführten Zulassungen sind gültig; die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.",
+   "note": "Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt.",
+   "summary": "„alle gültig“ → „drei der vier gültig“"
   }
  ]
 }

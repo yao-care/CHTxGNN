@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00331
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metforminum: vorhergesagte neue Indikation Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Orales Antidiabetikum"
 ---
 
@@ -71,11 +71,19 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis. Er ist identisch mit dem 
 
 Die Liste kann unvollständig sein (mindestens 3 Zulassungen erfasst).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59099 | Metfo-X 500 mg, Filmtabletten | Synthetika | Orales Antidiabetikum |
-| 69689 | Metformin axapharm 500 mg, Filmtabletten | Synthetika | Orales Antidiabetikum |
-| 57950 | Metformin-Mepha 500 mg, Filmtabletten | Synthetika | Orales Antidiabetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57950 | Metformin-Mepha 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | orales Antidiabetikum | Gültig |
+| 59099 | Metfo-X 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Orales Antidiabetikum | Gültig |
+| 69689 | Metformin axapharm 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Orales Antidiabetikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

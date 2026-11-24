@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB14754
 monitor_inn: "Solriamfetol"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Solriamfetolum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L1)."
 ---
 
@@ -91,9 +91,15 @@ Dieser Mechanismus passt daher direkt zu den Kernsymptomen der ADHS, nämlich Un
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68177 | Sunosi 75 mg, Filmtabletten | Synthetika | Verbesserung des Wachzustandes und Reduktion übermässiger Schläfrigkeit bei Erwachsenen mit obstruktiver Schlafapnoe oder Narkolepsie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 68177 | Sunosi 75 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Verbesserung des Wachzustandes und zur Reduktion übermässiger Schläfrigkeit bei erwachsenen Patienten mit obs… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

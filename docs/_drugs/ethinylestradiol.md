@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Ethinylestradiol: vorhergesagte neue Indikation Erhöhtes Plasma-Zink (zinc, elevated plasma) (Evidenzstufe L5). Ursprüngliche Indikation: Hormonale Kontrazeption (orale und vaginale Anwendung)"
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
@@ -80,16 +80,24 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66314 | Vroni Gynial, überzogene Tablette | Synthetika | Androgenisierungserscheinungen |
-| 60066 | Yira 20, Filmtabletten | Synthetika | Hormonales Kontrazeptivum |
-| 67466 | Juliette, Filmtabletten | Synthetika | Hormonales Kontrazeptivum |
-| 45024 | Ologyn, comprimés | Synthetika | Hormonales Kontrazeptivum |
-| 69704 | Nuvaring, Vaginalring mit Applikator Btl | Synthetika | Hormonale Kontrazeption |
-| 67183 | Jeanine, Dragées | Synthetika | Orale Kontrazeption |
-| 68648 | Levina 30, Filmtabletten | Synthetika | Hormonales Kontrazeptivum |
-| 70019 | MyLoop, anneau vaginal | Synthetika | Hormonale Kontrazeption zur vaginalen Anwendung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 45024 | Ologyn, comprimés | Synthetika | Contraceptif hormonal | Gültig |
+| 60066 | Yira 20, Filmtabletten | Synthetika | Hormonales Kontrazeptivum | Gültig |
+| 66314 | Vroni Gynial, überzogene Tablette | Synthetika | Androgenisierungserscheinungen | Gültig |
+| 67183 | Jeanine, Dragées | Synthetika | Orale Kontrazeption | Gültig |
+| 67466 | Juliette, Filmtabletten | Synthetika | Hormonales Kontrazeptivum | Gültig |
+| 68648 | Levina 30, Filmtabletten | Synthetika | Hormonales Kontrazeptivum | Gültig |
+| 69704 | Nuvaring, Vaginalring mit Applikator Btl | Synthetika | Hormonale Kontrazeption | Gültig |
+| 70019 | MyLoop, anneau vaginal | Synthetika | Contraception hormonale à usage vaginal | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

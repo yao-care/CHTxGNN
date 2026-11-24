@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01026
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoconazolum: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L4). Ursprüngliche Indikation: Antimykotikum"
 ---
 
@@ -90,14 +90,20 @@ Der hohe TxGNN-Vorhersagewert ist ein rein rechnerisches Signal und belegt keine
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55586 | Ketozol-Mepha, Shampoo | Synthetika | Antimykotikum |
-| 57475 | Lur, Shampoo | Synthetika | Antimykotikum |
-| 46100 | Nizoral, Crème | Synthetika | Hautmykosen |
-| 49379 | Nizoral, Shampoo | Synthetika | Antimykotikum |
-| 57500 | Keto-med, Shampoo | Synthetika | Antimykotikum |
-| 53698 | Terzolin, Shampoo | Synthetika | Antimykotikum/Antiseborrhoikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 46100 | Nizoral, Crème | Synthetika | Hautmykosen | Gültig |
+| 49379 | Nizoral, Shampoo | Synthetika | Antimykotikum | Gültig |
+| 53698 | Terzolin, Shampoo | Synthetika | Antimykotikum/Antiseborrhoikum | Gültig |
+| 55586 | Ketozol-Mepha, Shampoo | Synthetika | Antimykotikum | Gültig |
+| 57475 | Lur, Shampoo | Synthetika | Antimykotikum | Gültig |
+| 57500 | Keto-med, Shampoo | Synthetika | Antimykotikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

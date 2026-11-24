@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 26
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Calcipotriol: vorhergesagte neue Indikation Seborrhoische Keratose (Evidenzstufe L3). Ursprüngliche Indikation: Psoriasis vulgaris / Psoriasis"
 monitor_inn: "calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -85,17 +85,23 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68598 | CRYSALIS Leman, Pommade | Synthetika | Psoriasis |
-| 61201 | Daivobet, Gel | Synthetika | Psoriasis |
-| 55800 | Daivobet, Salbe | Synthetika | Psoriasis |
-| 69482 | Crysalis Leman, Gel | Synthetika | Psoriasis |
-| 65893 | Enstilar, Schaum zur Anwendung auf der Haut | Synthetika | Psoriasis vulgaris |
-| 67932 | Psotriol, Salbe | Synthetika | Psoriasis |
-| 65269 | Calcipotriol-Betamethason-Mepha, Salbe | Synthetika | Psoriasis |
-| 68917 | Wynzora 50 μg/g + 0.5 mg/g, Crème | Synthetika | Psoriasis |
-| 58786 | Xamiol, Gel | Synthetika | Psoriasis |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55800 | Daivobet, Salbe | Synthetika | Psoriasis | Gültig |
+| 58786 | Xamiol, Gel | Synthetika | Psoriasis | Gültig |
+| 61201 | Daivobet, Gel | Synthetika | Psoriasis | Gültig |
+| 65269 | Calcipotriol-Betamethason-Mepha, Salbe | Synthetika | Psoriasis | Gültig |
+| 65893 | Enstilar, Schaum zur Anwendung auf der Haut | Synthetika | Psoriasis vulgaris | Gültig |
+| 67932 | Psotriol, Salbe | Synthetika | Psoriasis | Gültig |
+| 68598 | CRYSALIS Leman, Pommade | Synthetika | psoriasis | Gültig |
+| 68917 | Wynzora 50 μg/g + 0.5 mg/g, Crème | Synthetika | Psoriasis | Gültig |
+| 69482 | Crysalis Leman, Gel | Synthetika | Psoriasis | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

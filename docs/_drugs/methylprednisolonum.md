@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00959
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Methylprednisolonum: vorhergesagte neue Indikation Alopecia mucinosa (Evidenzstufe L5). Ursprüngliche Indikation: Glucocorticoid-Therapie"
 ---
 
@@ -67,15 +67,21 @@ Kortikosteroide werden bei entzündlichen Erkrankungen der Haarfollikel empirisc
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 53697 | Solu-Moderin 40 mg, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Glucocorticoid-Therapie |
-| 35112 | Solu-Medrol 500 mg, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Glucocorticoid-Therapie |
-| 25915 | Depo-Medrol 40 mg/mL, Injektionssuspension | Synthetika | Parenterale und lokale Glucocorticoid-Therapie |
-| 51177 | Advantan, Crème | Synthetika | Nicht infizierte, entzündliche Dermatosen |
-| 51178 | Advantan, Salbe | Synthetika | Nicht infizierte, entzündliche Dermatosen |
-| 24785 | Medrol 4 mg, Tabletten | Synthetika | Glucocorticoid-Therapie |
-| 38546 | Depo-Medrol Lidocaine 40 mg/mL, Injektionssuspension | Synthetika | Lokale Glukokortikoid-Therapie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 24785 | Medrol 4 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 25915 | Depo-Medrol 40 mg/mL, Injektionssuspension (+2 weitere Bezeichnungen) | Synthetika | Parenterale und lokale Glucocorticoid-Therapie | Gültig |
+| 35112 | Solu-Medrol 500 mg, Pulver und Lösungsmittel zur Herstellung einer In… (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 38546 | Depo-Medrol Lidocaine 40 mg/mL, Injektionssuspension (+1 weitere Bezeichnung) | Synthetika | Lokale Glukokortikoid-Therapie | Gültig |
+| 51177 | Advantan, Crème | Synthetika | Nicht infizierte, entzündliche Dermatosen | Gültig |
+| 51178 | Advantan, Salbe | Synthetika | Nicht infizierte, entzündliche Dermatosen | Gültig |
+| 53697 | Solu-Moderin 40 mg, Pulver und Lösungsmittel zur Herstellung einer In… (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

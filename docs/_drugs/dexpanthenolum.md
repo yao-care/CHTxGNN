@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB09357
 monitor_inn: "Dexpanthenol"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Dexpanthenolum: vorhergesagte neue Indikation Anorektale Striktur (anorectal stricture) (Evidenzstufe L5). Ursprüngliche Indikation: Pantothensäure-Therapie"
 ---
 
@@ -79,13 +79,19 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 11909 | Enavive, Injektionslösung | Synthetika | Pantothensäure-Therapie |
-| 13308 | Bepanthen MED, Lösung zur Anwendung auf der Haut und in der Mundhöhle | Synthetika | Kleinere, nicht infizierte Wunden, Stomatitiden |
-| 45535 | Bepanthen MED, Nasensalbe | Synthetika | Behandlung trockener und gereizter Nasenschleimhaut |
-| 13363 | Bepanthen MED, Salbe | Synthetika | Wunde, rissige oder trockene Haut / Brust- und Säuglingspflege |
-| 42660 | Bepanthen MED, Creme | Synthetika | Strapazierte, gereizte oder wunde Haut |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 11909 | Enavive, Injektionslösung | Synthetika | Pantothensäure-Therapie | Gültig |
+| 13308 | Bepanthen MED, Lösung zur Anwendung auf der Haut und in der Mundhöhle | Synthetika | Kleinere, nicht infizierte Wunden, Stomatitiden | Gültig |
+| 13363 | Bepanthen MED, Salbe | Synthetika | Wunde, rissige oder trockene Haut / Brust- und Säuglingspflege | Gültig |
+| 42660 | Bepanthen MED, Creme | Synthetika | Strapazierte, gereizte oder wunde Haut | Gültig |
+| 45535 | Bepanthen MED, Nasensalbe | Synthetika | Behandlung trockener und gereizter Nasenschleimhaut | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

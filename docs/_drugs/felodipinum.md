@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01023
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Felodipinum: vorhergesagte neue Indikation Pulmonale Hypertonie bei unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
 ---
 
@@ -81,12 +81,18 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57902 | Felodipin Spirig HC retard 2.5 mg, Retardtabletten | Synthetika | Calciumantagonist |
-| 57429 | Felodipin-Mepha 2,5 mg, Retardtabletten | Synthetika | Calciumantagonist |
-| 56170 | Felodipin Sandoz eco 5 mg, Retardtabletten | Synthetika | Calciumantagonist |
-| 49166 | Plendil 5 mg, Retardtabletten | Synthetika | Calciumantagonist |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49166 | Plendil 5 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Calciumantagonist | Gültig |
+| 56170 | Felodipin Sandoz eco 5 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Calciumantagonist | Gültig |
+| 57429 | Felodipin-Mepha 2,5 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Calciumantagonist | Gültig |
+| 57902 | Felodipin Spirig HC retard 2.5 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Calciumantagonist | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

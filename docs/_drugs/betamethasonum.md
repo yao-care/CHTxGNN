@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00443
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Betamethasonum: vorhergesagte neue Indikation Alopecia mucinosa (Evidenzstufe L4). Ursprüngliche Indikation: Glukokortikosteroid-Therapie"
 ---
 
@@ -77,15 +77,21 @@ Die Unterstützung ist jedoch rein historisch und anekdotisch. Der hohe Vorhersa
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 30120 | Betnesol, Tabletten | Synthetika | Glukokortikosteroid-Therapie |
-| 30969 | Betnovate, Lotion | Synthetika | Entzündliche, nicht infizierte Dermatosen |
-| 39528 | Diprophos, Injektionssuspension | Synthetika | Intramuskuläre und lokale Glukokortikosteroid-Therapie |
-| 33311 | Betnovate Scalp Application, Lösung | Synthetika | Entzündliche, nicht infizierte Dermatosen der Kopfhaut |
-| 30968 | Betnovate, Crème | Synthetika | Entzündliche, nicht infizierte Dermatosen |
-| 37537 | Diprosone, Crème | Synthetika | Nicht infizierte Dermatosen |
-| 30970 | Betnovate, Salbe | Synthetika | Entzündliche, nicht infizierte Dermatosen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 30120 | Betnesol, Tabletten | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+| 30968 | Betnovate, Crème | Synthetika | Entzündliche, nicht infizierte Dermatosen | Gültig |
+| 30969 | Betnovate, Lotion | Synthetika | Entzündliche, nicht infizierte Dermatosen | Gültig |
+| 30970 | Betnovate, Salbe | Synthetika | Entzündliche, nicht infizierte Dermatosen | Gültig |
+| 33311 | Betnovate Scalp Application, Lösung | Synthetika | Entzündliche, nicht infizierte Dermatosen der Kopfhaut | Gültig |
+| 37537 | Diprosone, Crème | Synthetika | Nicht infizierte Dermatosen | Gültig |
+| 39528 | Diprophos, Injektionssuspension (+1 weitere Bezeichnung) | Synthetika | Intramuskuläre und lokale Glukokortikosteroid-Therapie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

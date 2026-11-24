@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "albutrepenonacog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Albutrepenonacog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Krankheit (pseudo-von Willebrand disease) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Blutungsprophylaxe bei…"
 ---
 
@@ -80,9 +80,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65743 | Idelvion 250 IU, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Behandlung und Blutungsprophylaxe bei Patienten mit Haemophilie B (Faktor IX Mangel) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65743 | Idelvion 250 IU, Pulver und Lösungsmittel zur Herstellung einer Injek… (+4 weitere Bezeichnungen) | Biotechnologika | Behandlung und Blutungsprophylaxe bei Patienten mit Haemophilie B (Faktor IX Mangel) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

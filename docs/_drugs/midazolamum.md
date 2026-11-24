@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00683
 monitor_inn: "Midazolam"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Midazolamum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Notfallbehandlung länger anhaltender…"
 ---
 
@@ -94,13 +94,21 @@ Im heutigen Alltag ist der Einsatz bei Schlaflosigkeit eingeschränkt: Die Wirkd
 
 Mindestens 5 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62556 | Buccolam 2.5mg/0.5mL, Lösung zur Anwendung in der Mundhöhle | Synthetika | Notfallbehandlung länger anhaltender, akuter Krampfanfälle bei Kindern ab 6 Monaten, Jugendlichen und Erwachsenen |
-| 45163 | Dormicum 15 mg, Filmtabletten | Synthetika | Schlafmittel |
-| 66718 | Midazolam Accord 5 mg/5 mL, Injektionslösung | Synthetika | Schlafmittel |
-| 68432 | Midazolam Accord 5 mg/5 ml, Injektionslösung in einer Fertigspritze | Synthetika | Schlafmittel |
-| 58875 | Midazolam Sintetica 2 mg/2 ml, Injektionslösung | Synthetika | Schlafmittel |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 45163 | Dormicum 15 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypnoticum | Gültig |
+| 58875 | Midazolam Sintetica 2 mg/2 ml, solution injectable (+1 weitere Bezeichnung) | Synthetika | Hypnotique | Gültig |
+| 62556 | Buccolam 2.5mg/0.5mL, Lösung zur Anwendung in der Mundhöhle (+3 weitere Bezeichnungen) | Synthetika | Notfallbehandlung länger anhaltender, akuter Krampfanfälle bei Kindern ab 6 Monaten, Jugendlichen und Erwachs… | Gültig |
+| 66718 | Midazolam Accord 5 mg/5 mL, Injektionslösung (+3 weitere Bezeichnungen) | Synthetika | Hypnoticum | Gültig |
+| 68432 | Midazolam Accord 5 mg/5 ml, Injektionslösung in einer Fertigspritze | Synthetika | Hypnoticum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB11689
 monitor_inn: "Selumetinib"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selumetinibum: vorhergesagte neue Indikation Familiäre generalisierte Lentiginose (familial generalized lentiginosis) (Evidenzstufe L5)."
 ---
 
@@ -67,9 +67,15 @@ Die vorhergesagte Erkrankung ist eine Pigmentstörung mit Lentigines (kleinen, f
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67410 | Koselugo 10 mg, Hartkapseln | Synthetika | Neurofibromatose Typ 1 (NF1) und plexiforme Neurofibrome (PN) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67410 | Koselugo 10 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Neurofibromatose Typ 1 (NF+) und plexiforme Neurofibrome (PN) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

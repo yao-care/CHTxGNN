@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00945
 monitor_inn: "Acetylsalicylic acid"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acidum Acetylsalicylicum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Analgetikum, Antipyretikum"
 ---
 
@@ -83,17 +83,25 @@ Derzeit keine verwandte Literatur verfügbar
 
 Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57673 | Aspirin, Granulat | Synthetika | Schmerzmittel, Fiebersenker |
-| 55197 | Cardiax ASS 100, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 62784 | ASS Cardio-Mepha, magensaftresistente Tabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris |
-| 66814 | Coop Vitality Acetylsalicylsäure 500, Tabletten | Synthetika | Schmerzmittel, Fiebersenker |
-| 62911 | Aspirin S, überzogene Tabletten | Synthetika | Schmerzmittel, Fiebersenker |
-| 51795 | Aspirin Cardio 100, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris |
-| 49494 | ASA-Tabs, Tabletten | Synthetika | Schmerzmittel, Fiebersenker |
-| 8671 | Alka-Seltzer, Brausetabletten | Synthetika | Schmerzmittel, Fiebersenker |
-| 66097 | ASS Cardio Spirig HC 100 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 8671 | Alka-Seltzer, Brausetabletten | Synthetika | Analgetikum, Antipyretikum | Gültig |
+| 49494 | ASA-Tabs, Tabletten | Synthetika | Analgeticum, Antipyreticum | Gültig |
+| 51795 | Aspirin Cardio 100, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris | Gültig |
+| 55197 | Cardiax ASS 100, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 57673 | Aspirin, Granulat | Synthetika | Analgetikum, Antipyretikum | Gültig |
+| 62784 | ASS Cardio-Mepha, magensaftresistente Tabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris | Gültig |
+| 62911 | Aspirin S, überzogene Tabletten | Synthetika | Analgetikum, Antipyretikum | Gültig |
+| 66097 | ASS Cardio Spirig HC 100 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmung: Reinfarktprophylaxe, Reokklusionsprophylaxe, instabile Angina pectoris | Gültig |
+| 66814 | Coop Vitality Acetylsalicylsäure 500, Tabletten | Synthetika | Analgeticum, Antipyreticum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01171
 monitor_inn: "Moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Moclobemidum: vorhergesagte neue Indikation Agoraphobie (agoraphobia) (Evidenzstufe L5). Ursprüngliche Indikation: Depressive Syndrome, soziale Phobie"
 ---
 
@@ -88,9 +88,15 @@ Der hohe Vorhersagewert (0,9943) passt zu dieser Überlegung, ersetzt aber keine
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 50085 | Aurorix 150 mg, Filmtabletten | Synthetika | Depressive Syndrome, soziale Phobie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 50085 | Aurorix 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Depressive Syndrome, soziale Phobie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB09564
 monitor_inn: "Insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulinum Degludecum: vorhergesagte neue Indikation Autoimmune oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes mellitus"
 ---
 
@@ -81,10 +81,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62563 | Tresiba FlexTouch 100 E/ml, Injektionslösung | Biotechnologika | Diabetes mellitus |
-| 62562 | Tresiba Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62562 | Tresiba Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 62563 | Tresiba FlexTouch 100 E/ml, Injektionslösung (+1 weitere Bezeichnung) | Biotechnologika | Diabetes mellitus | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

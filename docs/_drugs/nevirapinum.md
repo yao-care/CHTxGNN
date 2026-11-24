@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00238
 monitor_inn: "Nevirapine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nevirapinum: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -77,12 +77,18 @@ Der hohe Vorhersagewert spiegelt vermutlich die Nähe zu HIV-bezogenen Einträge
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66318 | Nevirapin-Mepha 400 mg, Retardtabletten | Synthetika | HIV-Infektion |
-| 62077 | Viramune, Retardtabletten | Synthetika | HIV-Infektionen |
-| 54393 | Viramune, Tabletten | Synthetika | HIV-Infektionen |
-| 66765 | Nevirapin Viatris 400 mg, Retardtabletten | Synthetika | HIV-Infektion |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66318 | Nevirapin-Mepha 400 mg, Retardtabletten | Synthetika | HIV-Infektion | Gültig |
+| 66765 | Nevirapin Viatris 400 mg, Retardtabletten | Synthetika | HIV-Infektion | Gültig |
+| 54393 | Viramune, Tabletten | Synthetika | HIV-Infektionen | Erloschen |
+| 62077 | Viramune, Retardtabletten | Synthetika | HIV-Infektionen | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

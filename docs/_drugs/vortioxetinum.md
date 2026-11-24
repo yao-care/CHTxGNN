@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB09068
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vortioxetinum: vorhergesagte neue Indikation Neurotische Störung (neurotic disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -83,10 +83,16 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65938 | Brintellix 20 mg/ml, Tropfen zum Einnehmen, Lösung | Synthetika | Antidepressivum |
-| 65937 | Brintellix 5 mg, Filmtabletten | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65937 | Brintellix 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Antidepressivum | Gültig |
+| 65938 | Brintellix 20 mg/ml, Tropfen zum Einnehmen, Lösung | Synthetika | Antidepressivum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

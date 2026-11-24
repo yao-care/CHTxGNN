@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00836
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "chronic follicular conjunctivitis", "Angelucci syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Loperamidi Hydrochloridum: vorhergesagte neue Indikation Akute ansteckende Bindehautentzündung (acute contagious conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Diarrhö"
 ---
 
@@ -71,21 +71,29 @@ Der hohe Vorhersagewert ist wahrscheinlich ein Modellartefakt. Mehrere Bindehaut
 
 In der Schweiz sind mindestens 13 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67096 | Loperamid lingual Spirig HC, Schmelztabletten | Synthetika | Durchfall |
-| 67224 | SUN STORE Loperamid 2 mg, Kapseln | Synthetika | Mittel gegen Durchfall |
-| 52975 | Imodium lingual, Schmelztabletten | Synthetika | Durchfall |
-| 52965 | Loperamid-Mepha 2, Lactab | Synthetika | Durchfall |
-| 63036 | Amavita Loperamid 2 mg, Kapseln | Synthetika | Mittel gegen Durchfall |
-| 58059 | Imodium lingual akut, Schmelztablette | Synthetika | Durchfall |
-| 68325 | Loperamid-Mepha lingual 2 mg, Schmelztabletten | Synthetika | Symptomatische Behandlung akuter und chronischer Durchfälle verschiedener Ursache, einschliesslich Reisedurchfall, Durchfall nach Ileostomie oder Ileumresektion, Durchfall nach Bestrahlung, Stuhlinkontinenz |
-| 53686 | Loperamid Streuli 2 mg | Synthetika | Mittel gegen Durchfall |
-| 61295 | Loperamid Sandoz, Kapseln | Synthetika | Mittel gegen Durchfall |
-| 40363 | Imodium, Kapseln | Synthetika | Durchfall |
-| 65877 | Loperamid Spirig HC 2 mg, Filmtabletten | Synthetika | Durchfall |
-| 66973 | Loperam-X lingual, Schmelztablette | Synthetika | Durchfall |
-| 54880 | Imodium duo, Tabletten | Synthetika | Durchfall |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 40363 | Imodium, Kapseln | Synthetika | Diarrhöe | Gültig |
+| 52965 | Loperamid-Mepha 2, Lactab | Synthetika | Diarrhöe | Gültig |
+| 52975 | Imodium lingual, Schmelztabletten | Synthetika | Diarrhöe | Gültig |
+| 53686 | Loperamid Streuli 2 mg | Synthetika | Antidiarrhoikum | Gültig |
+| 54880 | Imodium duo, Tabletten | Synthetika | Diarrhöe | Gültig |
+| 58059 | Imodium lingual akut, Schmelztablette | Synthetika | Diarrhöe | Gültig |
+| 61295 | Loperamid Sandoz, Kapseln | Synthetika | Antidiarrhoikum | Gültig |
+| 63036 | Amavita Loperamid 2 mg, Kapseln | Synthetika | Antidiarrhoikum | Gültig |
+| 65877 | Loperamid Spirig HC 2 mg, Filmtabletten | Synthetika | Diarrhöe | Gültig |
+| 66973 | Loperam-X lingual, Schmelztablette | Synthetika | Diarrhoe | Gültig |
+| 67096 | Loperamid lingual Spirig HC, Schmelztabletten | Synthetika | Diarrhö | Gültig |
+| 67224 | SUN STORE Loperamid 2 mg, Kapseln | Synthetika | Antidiarrhoikum | Gültig |
+| 68325 | Loperamid-Mepha lingual 2 mg, Schmelztabletten | Synthetika | Symptomatische Behandlung akute und chronischer Diarrhö verschiedenster Genese, ein-schliesslich Reisediarrhö… | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

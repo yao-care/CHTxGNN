@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00741
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydrocortisonum: vorhergesagte neue Indikation Alopecia areata (Evidenzstufe L1). Ursprüngliche Indikation: Pour le traitement de la conjonctivite allergique ou inflammatoire lé…"
 ---
 
@@ -94,18 +94,26 @@ Wichtig: Die einzige direkte Phase-3-Studie verwendete Hydrocortison 1 % als sch
 
 Die Liste ist möglicherweise unvollständig (mindestens 10 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67980 | Softacort 3,35 mg/ml, Collyre | Synthetika | Leichte, nicht infektiöse allergische oder entzündliche Bindehautentzündung |
-| 62068 | Plenadren 5 mg, Tabletten mit veränderter Wirkstofffreisetzung | Synthetika | Nebennierenrindeninsuffizienz (M. Addison) |
-| 52585 | Locoid Crelo, Emulsion | Synthetika | Lokalbehandlung der Psoriasis (v. a. Kopfhaut) sowie akuter und subakuter Ekzeme |
-| 57970 | Hydrocortison Galepharm, Tabletten | Synthetika | Glukokortikosteroid-Therapie |
-| 23533 | Solu-Cortef 100 mg, Pulver und Lösungsmittel | Synthetika | Glukokortikoid-Therapie |
-| 63125 | Hydrocortison-POS 1%, Augensalbe | Synthetika | Steroidbehandlung allergischer, nicht infektiöser, entzündlicher Erkrankungen der Bindehaut und Augenlider |
-| 36481 | Locoid, Creme | Synthetika | Hautkrankheiten ekzematöser, entzündlicher oder allergischer Ursache |
-| 50135 | Sanadermil, Hydrocrème | Synthetika | Nicht infektiöse entzündliche Hautkrankheiten |
-| 68226 | Alkindi 0.5 mg, Granulat zum Einnehmen | Synthetika | Nebenniereninsuffizienz bei Patienten unter 18 Jahren |
-| 69060 | Efmody 5 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Glucocorticoid-Therapie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 23533 | Solu-Cortef 100 mg, Pulver und Lösungsmittel zur Herstellung einer In… (+1 weitere Bezeichnung) | Synthetika | Glucocorticoid-Therapie | Gültig |
+| 36481 | Locoid, Creme | Synthetika | Hautkrankheiten ekzematöser, entzündlicher oder allergischer Genese | Gültig |
+| 50135 | Sanadermil, Hydrocrème | Synthetika | Dermatoses inflammatoires non infectées | Gültig |
+| 52585 | Locoid Crelo, Emulsion | Synthetika | Lokalbehandlung der Psoriasis, insbesondere der Kopfhaut, sowie der akuten und subakuten Ekzemformen | Gültig |
+| 57970 | Hydrocortison Galepharm, Tabletten | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+| 62068 | Plenadren 5 mg, Tabletten mit veränderter Wirkstofffreisetzung (+1 weitere Bezeichnung) | Synthetika | Behandlung der Nebennierenrindeninsuffizienz (M. Addison) | Gültig |
+| 63125 | Hydrocortison-POS 1%, Augensalbe | Synthetika | Zur Steroidbehandlung allergischer, nicht infektiöser, entzündlicher Erkrankungen der Bindehaut un der Augenl… | Gültig |
+| 67980 | Softacort 3,35 mg/ml, Collyre | Synthetika | Pour le traitement de la conjonctivite allergique ou inflammatoire légère non infectieuse | Gültig |
+| 68226 | Alkindi 0.5 mg, Granulat zum Einnehmen (+3 weitere Bezeichnungen) | Synthetika | Nebenniereninsuffizienz bei Patienten unter 18 Jahren | Gültig |
+| 69060 | Efmody 5 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | Glucocorticoid-Therapie | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

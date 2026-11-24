@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01264
 monitor_inn: "Darunavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Darunavirum: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -81,12 +81,18 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67048 | Darunavir Viatris 400 mg, Tabletten | Synthetika | HIV-Infektion |
-| 66721 | Darunavir Sandoz 400 mg, Filmtabletten | Synthetika | HIV-Infektionen |
-| 65381 | Prezista 100 mg/ml, orale Suspension | Synthetika | HIV-Infektionen |
-| 57655 | Prezista 600 mg, Filmtabletten | Synthetika | HIV-Infektionen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57655 | Prezista 600 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | HIV-Infektionen | Gültig |
+| 65381 | Prezista 100 mg/ml, orale Suspension | Synthetika | HIV-Infektionen | Gültig |
+| 66721 | Darunavir Sandoz 400 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | HIV-Infektionen | Gültig |
+| 67048 | Darunavir Viatris 400 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | HIV-Infektion | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

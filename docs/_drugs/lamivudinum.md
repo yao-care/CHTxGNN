@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00709
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamivudinum: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis B"
 ---
 
@@ -87,13 +87,19 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54868 | Zeffix, Filmtabletten | Synthetika | Chronische Hepatitis B |
-| 53663 | 3TC, Lösung oral | Synthetika | HIV-Infektionen |
-| 60516 | Lamivudin-Mepha 150, Filmtabletten | Synthetika | HIV-Infektionen |
-| 53662 | 3TC 150 mg, Filmtabletten | Synthetika | HIV-Infektionen |
-| 54869 | Zeffix, Lösung zum Einnehmen | Synthetika | Chronische Hepatitis B |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53662 | 3TC 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | HIV-Infektionen | Gültig |
+| 53663 | 3TC, Lösung oral | Synthetika | HIV-Infektionen | Gültig |
+| 54868 | Zeffix, Filmtabletten | Synthetika | Chronische Hepatitis B | Gültig |
+| 54869 | Zeffix, Lösung zum Einnehmen | Synthetika | Chronische Hepatitis B | Gültig |
+| 60516 | Lamivudin-Mepha 150, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | HIV-Infektionen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

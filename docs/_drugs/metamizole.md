@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 65
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Metamizole: vorhergesagte neue Indikation Rheumatoide Arthritis (Evidenzstufe L4). Ursprüngliche Indikation: Analgetikum (Schmerzmittel)"
 monitor_inn: "metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
@@ -90,9 +90,15 @@ Die Literatur enthält keine Wirksamkeitsdaten für Metamizol bei rheumatoider A
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56541 | Novaminsulfon Sintetica 500 mg/ml, soluzione iniettabile | Injektionslösung (Synthetika) | Analgetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56541 | Novaminsulfon Sintetica 500 mg/ml, soluzione iniettabile | Synthetika | Analgesico | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

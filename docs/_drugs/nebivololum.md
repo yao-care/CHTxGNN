@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB04861
 monitor_inn: "Nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Nebivololum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -81,14 +81,20 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59063 | Nebivolol Axapharm 5 mg, Tabletten | Synthetika | Beta-Rezeptorenblocker |
-| 59887 | Nebivolol-Mepha 5, Tabletten | Synthetika | Beta-Rezeptorenblocker |
-| 61287 | Nebivolol Sandoz 5, Tabletten | Synthetika | Beta-Rezeptorenblocker |
-| 54489 | Nebilet, Tabletten | Synthetika | Beta-Rezeptorenblocker |
-| 60020 | Nebivolol Spirig HC, Tabletten | Synthetika | Beta-Rezeptorenblocker |
-| 62482 | Nebivolol Zentiva, Tabletten | Synthetika | Beta-Rezeptorenblocker |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54489 | Nebilet, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 59063 | Nebivolol Axapharm 5 mg, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 59887 | Nebivolol-Mepha 5, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 60020 | Nebivolol Spirig HC, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 61287 | Nebivolol Sandoz 5, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 62482 | Nebivolol Zentiva, Tabletten | Synthetika | Beta-Rezeptorenblocker | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -21,11 +21,11 @@
   "items_current": 1292
  },
  "reviews": {
-  "records": 371,
-  "pages": 353,
-  "public_pages_with_records": 353,
+  "records": 375,
+  "pages": 354,
+  "public_pages_with_records": 354,
   "by_action": {
-   "correct": 3,
+   "correct": 7,
    "mechanism": 368
   }
  },
@@ -171,7 +171,7 @@
    "l": "L5",
    "lt": 0,
    "lv": 5,
-   "r": 2,
+   "r": 3,
    "i": "Polyklonales Hyperviskositätssyndrom"
   },
   {
@@ -182,6 +182,15 @@
    "lv": 3,
    "r": 2,
    "i": "Mantelzelllymphom"
+  },
+  {
+   "t": "Bisoprololi Fumaras",
+   "u": "/drugs/bisoprololi-fumaras/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 3,
+   "r": 2,
+   "i": "Maligne hypertensive Nierenerkrankung"
   },
   {
    "t": "Cabozantinibum",
@@ -209,15 +218,6 @@
    "lv": 8,
    "r": 2,
    "i": "Angeborener Prothrombinmangel"
-  },
-  {
-   "t": "Diazoxidum",
-   "u": "/drugs/diazoxidum/",
-   "l": "L5",
-   "lt": 1,
-   "lv": 1,
-   "r": 2,
-   "i": "Hypotrichosis simplex der Kopfhaut"
   }
  ],
  "example": {
@@ -230,6 +230,30 @@
   "i": "Spondylitis ankylosans"
  },
  "recent_reviews": [
+  {
+   "t": "Ticagrelorum",
+   "u": "/drugs/ticagrelorum/",
+   "s": "„alle gültig“ → „drei der vier gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Metoprololi Tartras",
+   "u": "/drugs/metoprololi-tartras/",
+   "s": "„alle drei gültig“ → „zwei der drei gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Bisoprololi Fumaras",
+   "u": "/drugs/bisoprololi-fumaras/",
+   "s": "„alle gültig“ → „davon 3 gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Azithromycinum",
+   "u": "/drugs/azithromycinum/",
+   "s": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
+   "d": "2026-11-24"
+  },
   {
    "t": "Ritonavirum",
    "u": "/drugs/ritonavirum/",
@@ -250,6 +274,30 @@
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Ticagrelorum",
+   "u": "/drugs/ticagrelorum/",
+   "s": "„alle gültig“ → „drei der vier gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Metoprololi Tartras",
+   "u": "/drugs/metoprololi-tartras/",
+   "s": "„alle drei gültig“ → „zwei der drei gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Bisoprololi Fumaras",
+   "u": "/drugs/bisoprololi-fumaras/",
+   "s": "„alle gültig“ → „davon 3 gültig“",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Azithromycinum",
+   "u": "/drugs/azithromycinum/",
+   "s": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
+   "d": "2026-11-24"
+  },
   {
    "t": "Ritonavirum",
    "u": "/drugs/ritonavirum/",

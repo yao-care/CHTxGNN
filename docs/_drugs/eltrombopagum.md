@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06210
 monitor_inn: "Eltrombopag"
 predicted_indications: ["HIV infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eltrombopagum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische (idiopathische) thrombozytopenische Purpura (ITP)"
 ---
 
@@ -93,12 +93,20 @@ Diese Belege betreffen die Behandlung der Blutbildveränderungen bei HIV-Patient
 
 Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69450 | Eltrombopag NOBEL 12.5 mg, Filmtabletten | Synthetikum | Chronische ITP; Thrombozytopenie bei chronischer Hepatitis-C-Infektion; Zytopenie bei schwerer aplastischer Anämie |
-| 60122 | Revolade 25 mg, Filmtabletten | Synthetikum | Erwachsene mit ITP, die auf andere Therapien nicht ausreichend ansprachen, bei erhöhtem Blutungsrisiko |
-| 69916 | Eltrombopag Zentiva 12,5 mg, Filmtabletten | Synthetikum | Chronische ITP; Thrombozytopenie bei chronischer Hepatitis-C-Infektion; Zytopenie bei schwerer aplastischer Anämie |
-| 69843 | Eltrombopag-Mepha 25 mg, Filmtabletten | Synthetikum | Chronische ITP; Thrombozytopenie bei chronischer Hepatitis-C-Infektion; Zytopenie bei schwerer aplastischer Anämie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60122 | Revolade 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Zur Behandlung von erwachsenen Patienten mit (idiopathischen) immunthrombozytopenischen Purpura (ITP), die au… | Gültig |
+| 69450 | Eltrombopag NOBEL 12.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Chronische (idiopathische) thrombozytopenische Purpura (ITP); Thrombozytopenie bei chronischer Hepatitis-C-In… | Gültig |
+| 69843 | Eltrombopag-Mepha 25 mg, Filmtabletten | Synthetika | Chronische (idiopathische) thrombozytopenische Purpura (ITP); Thrombozytopenie bei chronischer Hepatitis-C-In… | Gültig |
+| 69916 | Eltrombopag Zentiva 12,5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Chronische (idiopatische) thrombozytopenische Purpura (ITP); Thrombozytopenie bei chronischer Hepatitis-C-Inf… | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

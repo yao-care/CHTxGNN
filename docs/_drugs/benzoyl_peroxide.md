@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "benzoyl peroxide"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzoyl Peroxide: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5). Ursprüngliche Indikation: Acne vulgaris"
 ---
 
@@ -70,14 +70,20 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 49416 | Lubexyl, Suspension | Synthetika | Akne vulgaris |
-| 45185 | Benzac 5, Gel | Synthetika | Akne vulgaris |
-| 58494 | Duac Akne, Gel | Synthetika | Akne vulgaris |
-| 47033 | Acne Crème plus Widmer, Crème | Synthetika | Akne vulgaris |
-| 68957 | Aceduo Leman, Gel | Synthetika | Hautbehandlung bei Akne vulgaris mit Komedonen, Papeln und Pusteln |
-| 58460 | Epiduo, Gel | Synthetika | Akne vulgaris |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 45185 | Benzac 5, Gel | Synthetika | Akne vulgaris | Gültig |
+| 47033 | Acne Crème plus Widmer, Crème | Synthetika | Akne vulgaris | Gültig |
+| 49416 | Lubexyl, Suspension | Synthetika | Acne vulgaris | Gültig |
+| 58460 | Epiduo, Gel (+1 weitere Bezeichnung) | Synthetika | Akne vulgaris | Gültig |
+| 58494 | Duac Akne, Gel | Synthetika | Akne vulgaris | Gültig |
+| 68957 | Aceduo Leman, Gel | Synthetika | Traitment cutané de l’acne vulgaris en présence de comédons, papules et pustules | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ## Sicherheitshinweise
 

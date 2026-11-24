@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB05294
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vandetanibum: vorhergesagte neue Indikation Nierenzellkarzinom (renal cell carcinoma (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Cancer médullaire de la thyroïde"
 ---
 
@@ -92,9 +92,15 @@ Ob die zusätzliche Wirkung auf RET und EGFR hier eine Rolle spielt, ist unklar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62341 | Caprelsa 100 mg, Filmtabletten | Synthetika | Medulläres Schilddrüsenkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62341 | Caprelsa 100 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Cancer médullaire de la thyroïde | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

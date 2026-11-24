@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01327
 monitor_inn: "Cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Cefazolinum: vorhergesagte neue Indikation Infektiöse Mittelohrentzündung (infectious otitis media) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -88,11 +88,17 @@ Beide Publikationen untersuchen die vorhergesagte Erkrankung nicht direkt. Das E
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55729 | Cefazolin Sandoz 1 g i.m./i.v., Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
-| 38210 | Kefzol 1 g, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
-| 60009 | Cefazolin Labatec 1 g i.v./i.m., Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 38210 | Kefzol 1 g, Pulver zur Herstellung einer Injektions-/Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 55729 | Cefazolin Sandoz 1 g i.m./ i.v., Pulver zur Herstellung einer Injekti… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 60009 | Cefazolin Labatec 1 g i.v./i.m., poudre pour solution injectable/pour… (+1 weitere Bezeichnung) | Synthetika | Maladies infectieuses | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

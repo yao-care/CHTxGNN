@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00983
 monitor_inn: "Formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Formoteroli Fumaras Dihydricus: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 
@@ -92,6 +92,17 @@ Die gefundenen Publikationen betreffen verwandte Atemwegserkrankungen (Asthma, C
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52845 | Foradil 12 mcg, Trockenpulver-Kapseln zur Inhalation | Synthetika | Bronchospasmolytikum | Gültig |
+| 53997 | Oxis 6 Turbuhaler, Pulver zur Inhalation (+1 weitere Bezeichnung) | Synthetika | Bronchospasmolytikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Formoterol ist in der Schweiz im Handel. Beide erfassten Zulassungen sind gültig, es handelt sich um Einzelwirkstoff-Präparate zur Inhalation.
 

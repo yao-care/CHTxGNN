@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08885
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Afliberceptum: vorhergesagte neue Indikation Esotropie (esotropia) (Evidenzstufe L5). Ursprüngliche Indikation: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makula…"
 ---
 
@@ -81,19 +81,25 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 70211 | Yesafili 40 mg/ml, Injektionslösung | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 69832 | Pavblu 40 mg/ml, Injektionslösung | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 69763 | Pavblu 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 62676 | Zaltrap 100 mg/4 ml, Konzentrat zur Infusion | Biotechnologikum | Metastasierter Darmkrebs |
-| 70126 | Afqlir 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 70127 | Afqlir 40 mg/ml, Injektionslösung | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 70061 | Aflivis 40 mg/ml, Injektionslösung | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 70062 | Aflivis 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
-| 62393 | Eylea 2 mg/0,05 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Wie oben, zusätzlich Frühgeborenen-Retinopathie (ROP); 8 mg/0,07 ml: AMD, DME, Makulaödem nach Venenverschluss |
-| 62397 | Eylea 2 mg/0,05 ml, Injektionslösung in Durchstechflasche | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, DME, mCNV; 8 mg/0,07 ml: AMD, DME, Makulaödem nach Venenverschluss |
-| 70292 | aflibercept HORUS 40 mg/ml, Injektionslösung | Biotechnologikum | Feuchte AMD, Makulaödem nach CRVO/BRVO, diabetisches Makulaödem, mCNV bei pathologischer Myopie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62393 | Eylea 2 mg/0.05 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | 2mg/0,05 ml: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinale… | Gültig |
+| 62397 | Eylea, 2 mg/0,05 ml, Injektionslösung in Durchstechflasche (+1 weitere Bezeichnung) | Biotechnologika | 2mg/0,05 ml: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinale… | Gültig |
+| 62676 | Zaltrap 100 mg/4 ml, concentré pour solution pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | cancer colorectal métastatique | Gültig |
+| 69763 | Pavblu 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
+| 69832 | Pavblu 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
+| 70061 | Aflivis 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70062 | Aflivis 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70126 | Afqlir 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (wAMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70127 | Afqlir 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (wAMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70211 | Yesafili 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70292 | aflibercept HORUS 40 mg/ ml, solution injectable | Biotechnologika | Dégénérescence maculaire liée à l'âge de la forme exsudative (humide) (DMLAe). Œdème maculaire secondaire à u… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

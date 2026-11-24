@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB09077
 monitor_inn: "Dinutuximab"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Dinutuximabum Beta: vorhergesagte neue Indikation Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Zusätzlich ist Vorsicht geboten: Die immunmodulierenden Wirkungen, die Freisetz
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67463 | Qarziba 20,25 mg/4,5 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Neuroblastom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67463 | Qarziba 20,25 mg/4,5 ml, Konzentrat zur Herstellung einer Infusionslö… | Biotechnologika | Neuroblastoma | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

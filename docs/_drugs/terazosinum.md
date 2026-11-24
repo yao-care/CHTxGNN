@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01162
 monitor_inn: "Terazosin"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Terazosinum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: Benigne Prostatahyperplasie"
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 52342 | Hytrin BPH 1 mg und 2 mg, Tabletten | Synthetika | Benigne Prostatahyperplasie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52342 | Hytrin BPH 1 mg und 2 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Benigne Prostatahyperplasie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

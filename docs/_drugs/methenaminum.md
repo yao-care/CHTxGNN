@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06799
 monitor_inn: "Methenamine"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Methenaminum: vorhergesagte neue Indikation Ureaplasma-Urethritis (Ureaplasma urethritis) (Evidenzstufe L5). Ursprüngliche Indikation: Antihydroticum"
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 33848 | Antihydral, Salbe | Synthetika | Antihydroticum (schweisshemmendes Mittel) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 33848 | Antihydral, Salbe | Synthetika | Antihydroticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

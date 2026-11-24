@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00360
 monitor_inn: "Sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Sapropterini Dihydrochloridum: vorhergesagte neue Indikation Störung des Tyrosinstoffwechsels (disorder of tyrosine metabolism) (Evidenzstufe L5)."
 ---
 
@@ -94,13 +94,19 @@ Keine der aufgeführten Publikationen untersucht eine Störung des Tyrosinstoffw
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58475 | Kuvan, Tabletten | Synthetika | Behandlung der Hyperphenylalaninämie |
-| 68224 | Sapropterin Dipharma 100 mg, compressa dispersibile | Synthetika | Behandlung der Hyperphenylalaninämie |
-| 69374 | Sapropterin NOBEL 100 mg, Tabletten zur Herstellung einer Lösung zum Einnehmen | Synthetika | Behandlung der Hyperphenylalaninämie |
-| 67735 | Sapropterin Dipharma 100 mg, polvere per soluzione orale | Synthetika | Behandlung der Hyperphenylalaninämie |
-| 69871 | Sapropterin Spirig HC 100 mg, Tabletten zur Herstellung einer Lösung zum Einnehmen | Synthetika | Behandlung der Hyperphenylalaninämie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58475 | Kuvan, Tabletten | Synthetika | Behandlung der Hyperphenylalaninämie | Gültig |
+| 67735 | Sapropterin Dipharma 100 mg, polvere per soluzione orale (+1 weitere Bezeichnung) | Synthetika | Trattamento dell'iperfenilalaninemia | Gültig |
+| 68224 | Sapropterin Dipharma 100 mg, compressa dispersibile | Synthetika | trattamento dell'iperfenilalaninemia | Gültig |
+| 69374 | Sapropterin NOBEL 100 mg, Tabletten zur Herstellung einer Lösung zum… | Synthetika | Behandlung der Hyperphenylalaninämie | Gültig |
+| 69871 | Sapropterin Spirig HC 100 mg, Tabletten zur Herstellung einer Lösung… | Synthetika | Behandlung der Hyperphenylalaninämie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

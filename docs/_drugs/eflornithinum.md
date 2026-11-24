@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06243
 monitor_inn: "Eflornithine"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eflornithinum: vorhergesagte neue Indikation Esotropie (esotropia) (Evidenzstufe L5). Ursprüngliche Indikation: Monotherapie zur Behandlung von pädiatrischen Patienten ab 1 Jahr mit…"
 ---
 
@@ -79,10 +79,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68708 | Ifinwil 192 mg, Tabletten | Synthetika | Monotherapie bei pädiatrischen Patienten ab 1 Jahr mit Hochrisiko-Neuroblastom |
-| 55658 | Vaniqa, Crème | Synthetika | Hirsutismus im Gesicht bei Frauen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55658 | Vaniqa, Crème | Synthetika | Hirsutismus im Gesicht bei Frauen | Gültig |
+| 68708 | Ifinwil 192 mg, Tabletten | Synthetika | Monotherapie zur Behandlung von pädiatrischen Patienten ab 1 Jahr mit Hochrisiko-Neuroblastom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

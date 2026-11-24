@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08875
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabozantinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Nierenzellkarzinom, Leberzellkarzinom, Schilddrüsenkarzinom…"
 ---
 
@@ -87,9 +87,15 @@ Der hohe Vorhersagewert ist eine rechnerische Vorhersage und kein klinischer Bel
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66471 | Cabometyx 20 mg, Filmtabletten | Synthetika | Nierenzellkarzinom, Leberzellkarzinom, Schilddrüsenkarzinom, neuroendokrine Tumoren (NET) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66471 | Cabometyx 20 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Nierenzellkarzinom, Leberzellkarzinom, Schilddrüsenkarzinom, Neuroendokrine Tumoren (NET) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

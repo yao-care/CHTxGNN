@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00950
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Fexofenadini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Antiallergikum"
 ---
 
@@ -73,15 +73,23 @@ Dem stehen wichtige Einschränkungen gegenüber. Die okuläre Rosazea wird vor a
 
 In den vorliegenden Daten sind mindestens 7 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58327 | Fexofenadine Zentiva 120 mg, Filmtabletten | Synthetika | Antiallergikum |
-| 68854 | Fexo Allerg Spirig HC 120 mg, Filmtabletten | Synthetika | Antiallergikum |
-| 67382 | Fexo-Mepha Teva 120 mg, Filmtabletten | Synthetika | Antiallergikum |
-| 70455 | Fexo-Mepha Allergie 120 mg, Filmtabletten | Synthetika | Antiallergikum |
-| 66342 | Fexo Pollen Sandoz 120 mg, Filmtabletten | Synthetika | Antiallergikum |
-| 69660 | SUN STORE Fexofenadin 120 mg, Filmtabletten | Synthetika | Antiallergikum |
-| 54204 | Telfast 120, Filmtabletten | Synthetika | Antiallergikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54204 | Telfast 120, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 58327 | Fexofenadine Zentiva 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
+| 66342 | Fexo Pollen Sandoz 120 mg, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 67382 | Fexo-Mepha Teva 120 mg, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 68854 | Fexo Allerg Spirig HC 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
+| 69660 | SUN STORE Fexofenadin 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
+| 70455 | Fexo-Mepha Allergie 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

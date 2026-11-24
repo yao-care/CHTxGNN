@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01216
 monitor_inn: "Finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Finasteridum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -83,17 +83,25 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Mindestens 9 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57890 | Finasterid Sandoz 5, Filmtabletten | Synthetika | Benigne Prostatahyperplasie |
-| 58492 | Finasterid-Mepha Procapil, Filmtablette | Synthetika | Alopecia androgenetica |
-| 54322 | Propecia, Filmtabletten | Synthetika | Alopecia androgenetica |
-| 58107 | Finasterid-Mepha 5, Filmtabletten | Synthetika | Benigne Prostatahyperplasie |
-| 69581 | Finasteride Leman 1 mg, comprimés pelliculés | Synthetika | Androgenetische Alopezie |
-| 51774 | Proscar, Filmtabletten | Synthetika | Benigne Prostatahyperplasie |
-| 66063 | Andropecia Biorga 1 mg, comprimé pelliculé | Synthetika | Androgenetische Alopezie |
-| 58039 | Finasterax, Filmtabletten | Synthetika | Benigne Prostatahyperplasie |
-| 68794 | Fynzur 2,275 mg/ml, Lösung zur Anwendung auf der Haut (Spray) | Synthetika | Androgenetische Alopezie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 51774 | Proscar, Filmtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 54322 | Propecia, Filmtabletten | Synthetika | Alopecia androgenetica | Gültig |
+| 57890 | Finasterid Sandoz 5, Filmtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 58039 | Finasterax, Filmtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 58107 | Finasterid-Mepha 5, Filmtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 58492 | Finasterid-Mepha Procapil, Filmtablette | Synthetika | Alopecia androgenetica | Gültig |
+| 66063 | Andropecia Biorga 1 mg, comprimé pelliculé | Synthetika | Alopécie androgénétique | Gültig |
+| 68794 | Fynzur 2,275 mg/ml, solution pour pulvérisation cutanée | Synthetika | alopécie androgénétique | Gültig |
+| 69581 | Finasteride Leman 1 mg, comprimés pelliculés | Synthetika | Alopécie androgénétique | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00736
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Esomeprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenblocker"
 ---
 
@@ -83,11 +83,19 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 3 Zulassungen erfasst, alle gültig).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60576 | Esomep i.v., Pulver zur Herstellung einer Injektions-/Infusionslösung (Grünenthal Pharma AG) | Synthetika | Protonenpumpenblocker |
-| 66321 | Esoprax 20 mg, magensaftresistente Tabletten (Drossapharm AG) | Synthetika | Protonenpumpenblocker |
-| 62581 | Esomeprazol-Mepha 20 mg, magensaftresistente Tabletten (Mepha Pharma AG) | Synthetika | Protonenpumpenblocker |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60576 | Esomep i.v., Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Protonenpumpenblocker | Gültig |
+| 62581 | Esomeprazol-Mepha 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenblocker | Gültig |
+| 66321 | Esoprax 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenblocker | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

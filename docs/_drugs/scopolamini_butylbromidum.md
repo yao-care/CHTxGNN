@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00747
 monitor_inn: "Scopolamine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Scopolamini Butylbromidum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Spasmolyticum"
 ---
 
@@ -69,13 +69,19 @@ Es gibt zudem einen Hinweis gegen die Anwendung: Antimuskarinika können einen H
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 17354 | Buscopan, Suppositorien | Synthetika | Krampflösend (Spasmolytikum) |
-| 29804 | Scopolamine 0,25% Dispersa, Augentropfen | Synthetika | Pupillenerweiterung (Mydriatikum) |
-| 17353 | Buscopan, Dragées | Synthetika | Krampflösend (Spasmolytikum) |
-| 17352 | Buscopan Inject, Injektionslösung | Synthetika | Krampflösend (Spasmolytikum) |
-| 56802 | Buscopan, Dragées (Parallelimport) | Synthetika | Krampflösend (Spasmolytikum) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 17352 | Buscopan Inject, Injektionslösung | Synthetika | Spasmolyticum | Gültig |
+| 17353 | Buscopan, Dragées | Synthetika | Spasmolyticum | Gültig |
+| 17354 | Buscopan, Suppositorien | Synthetika | Spasmolyticum | Gültig |
+| 29804 | Scopolamine 0,25% Dispersa, Augentropfen | Synthetika | Mydriatikum | Gültig |
+| 56802 | Buscopan, Dragées | Synthetika | Spasmolyticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

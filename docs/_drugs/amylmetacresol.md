@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amylmetacresol: vorhergesagte neue Indikation Cauda-equina-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Entzündungen des Mund- und Rachenraumes"
 monitor_inn: "amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
@@ -82,10 +82,16 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58443 | Strepsils Erdbeer, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes |
-| 58440 | Strepsils Honig & Zitrone, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58440 | Strepsils Honig & Zitrone, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes | Gültig |
+| 58443 | Strepsils Erdbeer, Lutschtabletten | Synthetika | Entzündungen des Mund- und Rachenraumes | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB05332
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Romiplostimum: vorhergesagte neue Indikation Primäre Thrombozytenfreisetzungsstörung (primary release disorder of platelets) (Evidenzstufe L5)."
 ---
 
@@ -82,10 +82,16 @@ Beide Publikationen behandeln die Immunthrombozytopenie, nicht die vorhergesagte
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61541 | Nplate, 250 mcg Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Chronische (idiopathische) immunthrombozytopenische Purpura (ITP) |
-| 69065 | Nplate 125 mcg, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Chronische (idiopathische) immunthrombozytopenische Purpura (ITP) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61541 | Nplate, 250 mcg Pulver und Lösungsmittel zur Herstellung einer Injekt… (+1 weitere Bezeichnung) | Biotechnologika | Chronische (idiopathische) immunthrombozytopenische Purpura (ITP) | Gültig |
+| 69065 | Nplate 125 mcg, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Chronische (idiopathische) immunthrombozytopenische Purpura (ITP) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

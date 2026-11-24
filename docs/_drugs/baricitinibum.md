@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB11817
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baricitinibum: vorhergesagte neue Indikation Kolobomatöse Mikrophthalmie-rhizomele Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (Evidenzstufe L5)."
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66215 | Olumiant 2 mg, comprimés pelliculés | Synthetika | Rheumatoide Arthritis, atopische Dermatitis, Covid-19, Alopecia areata |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66215 | Olumiant 2 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Polyarthrite rhumatoïde / Dermatite atopique / Covid 19 / Alopecia areata | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

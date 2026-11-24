@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 49
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Fibrinogen Human: vorhergesagte neue Indikation Hämoglobinopathie (Evidenzstufe L5). Ursprüngliche Indikation: Angeborene Hypo- oder Afibrinogenämie mit Blutungsneigung"
 monitor_inn: "fibrinogen human"
 predicted_indications: ["hemoglobinopathy"]
@@ -81,14 +81,20 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66836 | Fibryga 1g, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung (Octapharma AG) | Blutprodukt | Angeborene Hypo- oder Afibrinogenämie mit Blutungsneigung |
-| 50203 | Haemocomplettan P 1 g, Pulver zur Herstellung einer Injektions-/Infusionslösung (CSL Behring AG) | Blutprodukt | Primäre Fibrinogenmangelzustände; erworbene Hypofibrinogenämie (schwere Leberparenchymschäden) |
-| 67975 | VeraSeal 2 ml, Lösung für Gewebekleber (Janssen-Cilag AG) | Blutprodukt | Verbesserung der Hämostase; Nahtunterstützung in der Gefässchirurgie |
-| 670 | TachoSil, Schwamm (Corza Medical GmbH) | Blutprodukt | Unterstützende Behandlung in der Chirurgie zur Verbesserung der Hämostase, wenn Standardtechniken nicht ausreichen; Wirksamkeit nur in der Leberchirurgie belegt |
-| 58618 | ARTISS 2 ml, tiefgefrorene Lösung (Baxter AG) | Blutprodukt | Klebung von subkutanem Gewebe in der Verbrennungschirurgie |
-| 52618 | TISSEEL 2 ml, 2 Fertigspritzen (Baxter AG) | Blutprodukt | Gewebekleber und adjuvante Blutstillung bei Operationen; Unterstützung der Wundheilung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 670 | TachoSil, Schwamm | Blutprodukte | unterstützende Behandlung in der Chirurgie zur Verbesserung der Hämostase, wenn Standardtechniken insuffizien… | Gültig |
+| 50203 | Haemocomplettan P 1 g, Pulver zur Herstellung einer Injektions-/Infus… (+1 weitere Bezeichnung) | Blutprodukte | primäre Fibrinogenmangelzustände erworbene Hypofibrinogenämie (schwere Leberparenchymschäden) | Gültig |
+| 52618 | TISSEEL 2 ml, 2 Fertigspritzen (+1 weitere Bezeichnung) | Blutprodukte | Gewebekleber und adjuvante Blutstillung bei Operationen Unterstützung der Wundheilung | Gültig |
+| 58618 | ARTISS 2 ml, tiefgefrorene Lösung (+1 weitere Bezeichnung) | Blutprodukte | Zur Klebung von subkutanem Gewebe in der Verbrennungschirurgie | Gültig |
+| 66836 | Fibryga 1g, Pulver und Lösungsmittel zur Herstellung einer Injektions… | Blutprodukte | Kongenitaler Hypo- oder Afibrinogenämie mit Blutungsneigung. | Gültig |
+| 67975 | VeraSeal 2 ml, Lösung für Gewebekleber (+3 weitere Bezeichnungen) | Blutprodukte | Verbesserung der Hämostase; Nahtunterstützung in der Gefässchirurgie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

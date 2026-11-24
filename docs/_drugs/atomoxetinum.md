@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00289
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atomoxetinum: vorhergesagte neue Indikation Spezifische Entwicklungsstörung (specific developmental disorder) (Evidenzstufe L5)."
 ---
 
@@ -89,9 +89,15 @@ Die folgende Auswahl betrifft ADHS oder Nachbarthemen und untersucht die vorherg
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67588 | Atomoxetin-Mepha 10 mg, Hartkapseln | Synthetika | Zentral wirksames Sympathomimetikum, nicht stimulierend |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67588 | Atomoxetin-Mepha 10 mg, Hartkapseln (+6 weitere Bezeichnungen) | Synthetika | Zentral wirksames Sympathomimetikum, nicht stimulierend | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

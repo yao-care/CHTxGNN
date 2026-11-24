@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00518
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Albendazolum: vorhergesagte neue Indikation Koenurose (coenurosis) (Evidenzstufe L5). Ursprüngliche Indikation: Anthelminticum"
 ---
 
@@ -105,10 +105,16 @@ Die Publikationen behandeln Neurozystizerkose und Zystizerkose, nicht die Koenur
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 49749 | Zentel, Suspension zum Einnehmen | Synthetika | Anthelminthikum |
-| 49748 | Zentel, Kautabletten | Synthetika | Anthelminthikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49748 | Zentel, Kautabletten | Synthetika | Anthelminticum | Gültig |
+| 49749 | Zentel, Suspension zum Einnehmen | Synthetika | Anthelminticum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

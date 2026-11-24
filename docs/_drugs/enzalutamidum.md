@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB08899
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enzalutamidum: vorhergesagte neue Indikation Prostata-Leiomyom (prostate leiomyoma) (Evidenzstufe L5). Ursprüngliche Indikation: Prostatakarzinom"
 ---
 
@@ -69,12 +69,18 @@ Die Verbindung ist daher bislang nur eine Modellvorhersage. Sie ist biologisch n
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69477 | Enzalutamid Sandoz 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
-| 67236 | Xtandi 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
-| 69988 | Enzalutamid Sandoz eco 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
-| 69683 | Enzalutamid Spirig HC 40 mg, Filmtabletten | Synthetika | Prostatakarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67236 | Xtandi 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Prostatakarzinom | Gültig |
+| 69477 | Enzalutamid Sandoz 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Prostatakarzinom | Gültig |
+| 69683 | Enzalutamid Spirig HC 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Prostatakarzinom | Gültig |
+| 69988 | Enzalutamid Sandoz eco 40 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Prostatakarzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

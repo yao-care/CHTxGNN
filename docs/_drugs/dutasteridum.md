@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01126
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Dutasteridum: vorhergesagte neue Indikation Ambras-Syndrom (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5). Ursprüngliche Indikation: Benigne Prostatahyperplasie"
 ---
 
@@ -71,10 +71,16 @@ Der hohe Vorhersagewert ist deshalb vermutlich auf die Nähe zu haarbezogenen Me
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56106 | Avodart, Weichkapseln | Synthetika | Benigne Prostatahyperplasie |
-| 66071 | Dutasterid Spirig HC 0.5mg, Weichkapseln | Synthetika | Benigne Prostatahyperplasie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56106 | Avodart, Weichkapseln | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 66071 | Dutasterid Spirig HC 0.5mg, Weichkapseln | Synthetika | Benigne Prostatahyperplasie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

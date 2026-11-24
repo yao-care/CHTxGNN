@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00323
 monitor_inn: "Tolcapone"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "X-linked intellectual disability-cerebellar hypoplasia syndrome", "paralysis agitans, juvenile, of Hunt"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tolcaponum: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson"
 ---
 
@@ -67,9 +67,15 @@ Die Rasmussen-Enzephalitis ist eine seltene, entzündliche Erkrankung des Gehirn
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54055 | Tasmar 100 mg, Filmtabletten | Synthetika | Morbus Parkinson |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54055 | Tasmar 100 mg, Filmtabletten | Synthetika | Morbus Parkinson | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

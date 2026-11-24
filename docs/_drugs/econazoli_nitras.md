@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01127
 monitor_inn: "Econazole"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Econazoli Nitras: vorhergesagte neue Indikation Ektothrix-Infektionskrankheit (ectothrix infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Dermatomykosen"
 ---
 
@@ -69,14 +69,20 @@ Eine praktische Grenze bleibt: Pilzinfektionen des Haarschafts erfordern in der 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 38334 | Pevaryl, Crème | Synthetika | Dermatomykosen |
-| 38335 | Pevaryl, Pulver zur Anwendung auf der Haut | Synthetika | Dermatomykosen |
-| 50639 | Pevaryl, Spray zur Anwendung auf der Haut, Lösung | Synthetika | Dermatomykosen |
-| 70578 | Gyno-Pevaryl, Vaginalcreme und Vaginalovula | Synthetika | Vulvovaginale Mykosen |
-| 38825 | Gyno-Pevaryl 50 mg, Vaginalovula | Synthetika | Vulvovaginale Mykosen |
-| 40662 | Pevisone, Crème | Synthetika | Entzündliche Dermatomykosen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 38334 | Pevaryl, Crème | Synthetika | Dermatomykosen | Gültig |
+| 38335 | Pevaryl, Pulver zur Anwendung auf der Haut | Synthetika | Dermatomykosen | Gültig |
+| 38825 | Gyno-Pevaryl 50 mg, Vaginalovula (+1 weitere Bezeichnung) | Synthetika | Vulvovaginale Mykosen | Gültig |
+| 40662 | Pevisone, Crème | Synthetika | Entzündliche Dermatomykosen | Gültig |
+| 50639 | Pevaryl, Spray zur Anwendung auf der Haut, Lösung | Synthetika | Dermatomykosen | Gültig |
+| 70578 | Gyno-Pevaryl, Vaginalcreme und Vaginalovula | Synthetika | Vulvovaginale Mykosen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

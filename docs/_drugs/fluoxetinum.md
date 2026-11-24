@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00472
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluoxetinum: vorhergesagte neue Indikation Schizotypische Persönlichkeitsstörung (schizotypal personality disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -93,16 +93,24 @@ Derzeit keine verwandten klinischen Studien registriert
 
 In der Schweiz sind mindestens 8 Zulassungen für Fluoxetin-Einzelpräparate erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54469 | Fluoxetin Sandoz eco, Kapseln | Synthetika | Antidepressivum |
-| 57175 | Fluoxetin Sandoz 20, dispergierbare Tabletten | Synthetika | Antidepressivum |
-| 57925 | Fluoxetin Zentiva, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Antidepressivum |
-| 54049 | Fluoxetin-Mepha, Hartkapseln | Synthetika | Antidepressivum |
-| 59410 | Fluoxetin Axapharm, Kapseln | Synthetika | Antidepressivum |
-| 46347 | Fluctine 20 mg, Kapseln | Synthetika | Antidepressivum |
-| 60485 | Fluoxetin Spirig HC, Kapseln | Synthetika | Antidepressivum |
-| 57235 | Fluoxetin-Mepha Dispersible 20 mg, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 46347 | Fluctine 20 mg, gélule | Synthetika | Antidépresseur | Gültig |
+| 54049 | Fluoxetin-Mepha, Hartkapseln | Synthetika | Antidepressivum | Gültig |
+| 54469 | Fluoxetin Sandoz eco, Kapseln | Synthetika | Antidepressivum | Gültig |
+| 57235 | Fluoxetin-Mepha Dispersible 20 mg, Tabletten zur Herstellung einer Su… | Synthetika | Antidepressivum | Gültig |
+| 57925 | Fluoxetin Zentiva, Tabletten zur Herstellung einer Suspension zum Ein… | Synthetika | Antidepressivum | Gültig |
+| 60485 | Fluoxetin Spirig HC, Kapseln | Synthetika | Antidepressivum | Gültig |
+| 57175 | Fluoxetin Sandoz 20, dispergierbare Tabletten | Synthetika | Antidepressivum | Erloschen |
+| 59410 | Fluoxetin Axapharm, Kapseln | Synthetika | Antidepressivum | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

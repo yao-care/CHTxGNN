@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Formaldehyde: vorhergesagte neue Indikation Diffuse kutane Leishmaniose (Evidenzstufe L5). Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen"
 monitor_inn: "formaldehyde"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "Plasmodium falciparum malaria"]
@@ -82,10 +82,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 32238 | Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen |
-| 56688 | True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56688 | True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien | Gültig |
+| 32238 | Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwend… | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bisoprololi Fumaras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Hypertonie"
 ---
 
@@ -69,14 +69,28 @@ Die Plausibilität bleibt jedoch begrenzt. Die Verbindung beruht allein auf der 
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).
+Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, davon 3 gültig).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54030 | Bilol 5 mg, Filmtabletten | Synthetika | Hypertonie |
-| 63190 | Bisoprolol-Mepha 2.5 mg, Tabletten | Synthetika | Betarezeptorenblocker |
-| 65034 | Bisoprolol Zentiva 2.5 mg, Tabletten | Synthetika | Betarezeptorenblocker |
-| 67675 | Bisoprolol Stada 2.5 mg, Tabletten | Synthetika | Betarezeptorenblocker |
+<!-- review:begin ch-lic-20261124-bisoprololi_fumaras-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gültig).“ Die Zulassung 65034 (Bisoprolol Zentiva) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124-bisoprololi_fumaras-1 -->
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54030 | Bilol 5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Hypertonie | Gültig |
+| 63190 | Bisoprolol-Mepha 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Betarezeptorenblocker | Gültig |
+| 67675 | Bisoprolol Stada 2.5 mg, Tabletten | Synthetika | Betarezeptorenblocker | Gültig |
+| 65034 | Bisoprolol Zentiva 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Betarezeptorenblocker | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 
@@ -104,11 +118,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ## Prüfprotokoll
 
-Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt.
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+| 2026-11-24 | „alle gültig“ → „davon 3 gültig“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

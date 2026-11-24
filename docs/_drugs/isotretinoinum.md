@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00982
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Isotretinoinum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
@@ -71,11 +71,19 @@ Hinzu kommt ein Sicherheitsrisiko: Isotretinoin wird mit erhöhten Triglyceriden
 
 Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55972 | Isotretinoin-Mepha 10 mg, Weichkapseln | Synthetika | Schwere therapieresistente Formen von Akne |
-| 68109 | Isotretinoin Sandoz 5 mg, Weichkapseln | Synthetika | Aknetherapeutikum |
-| 55873 | Tretinac 10 mg, Weichkapseln | Synthetika | Schwere therapieresistente Formen von Akne |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55873 | Tretinac 10 mg, Weichkapseln (+2 weitere Bezeichnungen) | Synthetika | Schwere therapieresistente Formen von Akne | Gültig |
+| 55972 | Isotretinoin-Mepha 10 mg, Weichkapseln (+3 weitere Bezeichnungen) | Synthetika | Schwere therapieresistente Formen von Akne | Gültig |
+| 68109 | Isotretinoin Sandoz 5mg, Weichkapseln (+2 weitere Bezeichnungen) | Synthetika | Aknetherapeutikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

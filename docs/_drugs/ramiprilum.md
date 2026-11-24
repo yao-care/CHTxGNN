@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00178
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ramiprilum: vorhergesagte neue Indikation Pulmonale Hypertonie mit unklarem multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
 ---
 
@@ -71,11 +71,19 @@ Denkbar wäre, dass eine Hemmung des RAS den Umbau der Lungengefässe beeinfluss
 
 Mindestens 3 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57383 | Ramipril Sandoz 1.25, Tabletten | Synthetika | Antihypertensivum |
-| 65895 | Ramipril-Mepha 1.25 mg, Tabletten | Synthetika | Hypertonie |
-| 53875 | Triatec 1,25 mg, comprimés | Synthetika | Hypertonie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53875 | Triatec 1,25 mg, comprimés | Synthetika | Hypertonie | Gültig |
+| 57383 | Ramipril Sandoz 1.25, Tabletten (+4 weitere Bezeichnungen) | Synthetika | Antihypertensivum | Gültig |
+| 65895 | Ramipril-Mepha 1.25 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Hypertonie | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

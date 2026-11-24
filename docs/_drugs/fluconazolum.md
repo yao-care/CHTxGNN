@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00196
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Fluconazolum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Antimycotique"
 ---
 
@@ -73,13 +73,21 @@ Der hohe Vorhersagewert von 0,9924 ist ein rein rechnerisches Ergebnis. Er erset
 
 Mindestens 5 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59527 | Fluconazol Labatec 200 mg, Infusionslösung | Synthetika | Antimykotikum |
-| 56235 | Fluconazol Sandoz eco 50, Kapseln | Synthetika | Antimykotikum |
-| 51601 | Diflucan 50mg/5ml, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetika | Antimykotikum |
-| 58061 | Flucoderm 50 mg, Kapseln | Synthetika | Antimykotikum |
-| 68461 | Fluconazol-Mepha Teva 50 mg, Hartkapseln | Synthetika | Antimykotikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 51601 | Diflucan 50mg/5ml, Pulver zur Herstellung einer Suspension zum Einneh… (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
+| 56235 | Fluconazol Sandoz eco 50, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Antimykotikum | Gültig |
+| 58061 | Flucoderm 50 mg, Kapseln (+3 weitere Bezeichnungen) | Synthetika | Antimykotikum | Gültig |
+| 59527 | Fluconazol Labatec 200 mg, solution pour perfusion | Synthetika | Antimycotique | Gültig |
+| 68461 | Fluconazol-Mepha Teva 50 mg, Hartkapseln | Synthetika | Antimykotikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

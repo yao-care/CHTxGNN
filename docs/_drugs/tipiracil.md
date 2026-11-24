@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
 description: "Tipiracil: vorhergesagte neue Indikation Zäkum-Zottenadenom (cecum villous adenoma) (Evidenzstufe L5). Ursprüngliche Indikation: cancer colorectal métastatique, cancer gastrique métastatique"
@@ -78,9 +78,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66219 | Lonsurf 15 mg/6.14 mg, Filmtabletten | Synthetika | Metastasiertes kolorektales Karzinom, metastasiertes Magenkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66219 | Lonsurf 15 mg/6.14 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | cancer colorectal métastatique, cancer gastrique métastatique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Die Zulassung ist gültig; das Präparat wird von Servier (Suisse) SA vertrieben.
 

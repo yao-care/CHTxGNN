@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00489
 monitor_inn: "Sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sotaloli Hydrochloridum: vorhergesagte neue Indikation Sick sinus syndrome 2, autosomal dominant (Evidenzstufe L5). Ursprüngliche Indikation: Betarezeptorenblocker"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54553 | Sotalol-Mepha 80, Tabletten | Synthetika | Betarezeptorenblocker |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54553 | Sotalol-Mepha 80, Tabletten (+1 weitere Bezeichnung) | Synthetika | Betarezeptorenblocker | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

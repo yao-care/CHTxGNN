@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB12130
 monitor_inn: "Lorlatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Lorlatinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5)."
 ---
 
@@ -69,9 +69,15 @@ Ein nachvollziehbarer Zusammenhang zwischen der ALK/ROS1-Hemmung und der gingiva
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66941 | Lorviqua 25 mg, Filmtabletten | Synthetika | Nicht kleinzelliges Lungenkarzinom (NSCLC) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66941 | Lorviqua 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Nicht kleinzelliges Lungenkarzinom (non small cell lung cancer, NSCLC) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00072
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trastuzumabum: vorhergesagte neue Indikation Maligner kutaner Granularzelltumor der Haut (malignant cutaneous granular cell skin tumor) (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom…"
 ---
 
@@ -71,17 +71,23 @@ Bevor eine biologische Begründung tragfähig wäre, müsste im Tumorgewebe eine
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67470 | Ogivri 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs |
-| 67967 | Enhertu 100 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Brustkrebs, Magenkarzinom, PanTumor |
-| 66975 | Trazimera 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs |
-| 55065 | Herceptin 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen Übergangs |
-| 62892 | Kadcyla 100 mg, Pulver zur Herstellung eines Infusionslösungskonzentrates | Biotechnologika | Mammakarzinom |
-| 67205 | Kanjinti 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum |
-| 67467 | Ogivri 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs |
-| 65964 | Herceptin subkutan 600mg/5ml, Lösung zur subkutanen Injektion | Biotechnologika | Mammakarzinom im Frühstadium |
-| 67892 | Herzuma 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55065 | Herceptin 440 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
+| 62892 | Kadcyla 100 mg, Pulver zur Herstellung eines Infusionslösungskonzentr… (+1 weitere Bezeichnung) | Biotechnologika | Mammakarzinom | Gültig |
+| 65964 | Herceptin subkutan 600mg/5ml, Lösung zur subkutanen Injektion | Biotechnologika | Mammakarzinom im Frühstadium | Gültig |
+| 66975 | Trazimera 150 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
+| 67205 | Kanjinti 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+| 67467 | Ogivri 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
+| 67470 | Ogivri 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
+| 67892 | Herzuma 440 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | Oncologique | Gültig |
+| 67967 | Enhertu 100 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… | Biotechnologika | Brustkrebs, Magenkarzinom, PanTumor | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

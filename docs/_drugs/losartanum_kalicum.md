@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00678
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Losartanum Kalicum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
@@ -87,12 +87,20 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58293 | Losartan Sandoz 12.5 mg, Filmtabletten | Synthetika | Angiotensin-II-Rezeptor-Antagonist |
-| 52904 | Cosaar 50, Filmtabletten | Synthetika | Angiotensin-II-Rezeptor-Antagonist |
-| 69744 | Losartan Spirig HC 12.5 mg, Filmtabletten | Synthetika | Angiotensin-II-Rezeptor-Antagonist |
-| 60234 | Losartan Zentiva 12.5 mg, Filmtabletten | Synthetika | Angiotensin-II-Rezeptor-Antagonist |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52904 | Cosaar 50, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Angiotensin-II-Rezeptor-Antagonist | Gültig |
+| 58293 | Losartan Sandoz 12.5 mg, Filmtabletten (+4 weitere Bezeichnungen) | Synthetika | Angiotensin-II-Rezeptor-Antagonist | Gültig |
+| 60234 | Losartan Zentiva 12.5 mg, Filmtabletten | Synthetika | Angiotensin-II-Rezeptor-Antagonist | Gültig |
+| 69744 | Losartan Spirig HC 12.5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Angiotensin-II-Rezeptor-Antagonist | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

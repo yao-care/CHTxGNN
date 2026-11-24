@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00550
 monitor_inn: "Propylthiouracil"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propylthiouracilum: vorhergesagte neue Indikation Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (Evidenzstufe L4). Ursprüngliche Indikation: Thyreostatikum"
 ---
 
@@ -78,9 +78,15 @@ Die Literatur stützt die Vorhersage nicht direkt. Keine Publikation untersucht 
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56300 | Propycil 50, Tabletten | Synthetika | Thyreostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56300 | Propycil 50, Tabletten | Synthetika | Thyreostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ## Sicherheitshinweise
 

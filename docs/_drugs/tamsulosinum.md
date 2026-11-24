@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00706
 monitor_inn: "Tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Tamsulosinum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -71,15 +71,23 @@ Der sehr hohe Vorhersagewert beruht auf einer rein rechnerischen Ähnlichkeit zu
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 7 Zulassungen, davon 7 gültig).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57160 | Pradif T, Retardtablette | Synthetika | Benigne Prostatahyperplasie |
-| 62817 | Tamsulosin T Spirig HC, Retardtabletten | Synthetika | Benigne Prostatahyperplasie |
-| 58162 | Tamsunax 0,4 mg, Retardkapseln | Synthetika | Benigne Prostatahyperplasie |
-| 57637 | Omix Ocas 0.4 mg, Retardtabletten | Synthetika | Benigne Prostatahyperplasie |
-| 67254 | Tamsulosin retard Zentiva 0.4 mg, Retardkapseln | Synthetika | Benigne Prostatahyperplasie |
-| 62112 | Tamsulosin Sandoz eco 0.4mg, Retardkapseln | Synthetika | Benigne Prostatahyperplasie |
-| 58828 | Tamsulosin-Mepha retard, Depocaps | Synthetika | Benigne Prostatahyperplasie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58162 | Tamsunax 0,4 mg, Retardkapseln | Synthetika | benigne Prostatahyperplasie | Gültig |
+| 58828 | Tamsulosin-Mepha retard, Depocaps | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 62112 | Tamsulosin Sandoz eco 0.4mg, Retardkapseln | Synthetika | benigne Prostatahyperplasie | Gültig |
+| 62817 | Tamsulosin T Spirig HC, Retardtabletten | Synthetika | benigne Prostatahyperplasie | Gültig |
+| 67254 | Tamsulosin retard Zentiva 0.4 mg, Retardkapseln | Synthetika | benigne Prostatahyperplasie | Gültig |
+| 57160 | Pradif T, Retardtablette | Synthetika | benigne Prostatahyperplasie | Erloschen |
+| 57637 | Omix Ocas 0.4 mg, Retardtabletten | Synthetika | benigne Prostatahyperplasie | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

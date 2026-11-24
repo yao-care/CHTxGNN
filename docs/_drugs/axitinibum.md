@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06626
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Nierenzellkarzinom"
 ---
 
@@ -85,11 +85,17 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62281 | Inlyta 1 mg, Filmtabletten | Synthetika | Nierenzellkarzinom |
-| 69290 | Axitinib Spirig HC 1 mg, Filmtabletten | Synthetika | Nierenzellkarzinom |
-| 69472 | Axitinib Sandoz 1 mg, Filmtabletten | Synthetika | Nierenzellkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62281 | Inlyta 1 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Nierenzellkarzinom | Gültig |
+| 69290 | Axitinib Spirig HC 1 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Nierenzellkarzinom | Gültig |
+| 69472 | Axitinib Sandoz 1 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Nierenzellkarzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 55
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hexaminolevulinate: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Diagnostikum zur Fluoreszenz-Zystoskopie"
 monitor_inn: "hexaminolevulinate"
 predicted_indications: ["bronchitis"]
@@ -82,9 +82,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58015 | Hexvix, Pulver und Lösungsmittel zur Herstellung einer Fertigspritze zur intravesikalen Anwendung | Synthetika | Diagnostikum zur Fluoreszenz-Zystoskopie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58015 | Hexvix, Pulver und Lösungsmittel zur Herstellung einer Fertigspritze… | Synthetika | Diagnostikum zur Fluoreszenz-Zystoskopie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

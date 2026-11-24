@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06700
 monitor_inn: "Desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desvenlafaxinum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Major Depression bei Erwachsenen"
 ---
 
@@ -71,9 +71,15 @@ Allerdings wurden für Desvenlafaxin selbst keine Studien oder Literatur gefunde
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69469 | Desveneurax 50 mg, Retardtabletten | Retardtabletten | Behandlung der Major Depression bei Erwachsenen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69469 | Desveneurax 50 mg, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung der Major Depression bei Erwachsenen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

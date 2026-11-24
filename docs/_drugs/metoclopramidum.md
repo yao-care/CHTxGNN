@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01233
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Metoclopramidum: vorhergesagte neue Indikation Gastroduodenitis (Evidenzstufe L5). Ursprüngliche Indikation: Übelkeit und Erbrechen"
 ---
 
@@ -94,12 +94,18 @@ Keine der Arbeiten untersucht Metoclopramid direkt bei Gastroduodenitis. Die Aus
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 32733 | Paspertin 10 mg/2 mL, Injektionslösung | Synthetika | Übelkeit und Erbrechen |
-| 31205 | Primpéran, soluté buvable | Synthetika | Übelkeit und Erbrechen |
-| 32735 | Paspertin, Filmtabletten | Synthetika | Übelkeit und Erbrechen |
-| 42894 | Paspertin, Tropfen | Synthetika | Übelkeit und Erbrechen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 31205 | Primpéran, soluté buvable | Synthetika | nausées et vomissements | Gültig |
+| 32733 | Paspertin 10 mg/2 mL, Injektionslösung | Synthetika | Übelkeit und Erbrechen | Gültig |
+| 32735 | Paspertin, Filmtabletten | Synthetika | Übelkeit und Erbrechen | Gültig |
+| 42894 | Paspertin, Tropfen | Synthetika | Übelkeit und Erbrechen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

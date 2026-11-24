@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00514
 monitor_inn: "Dextromethorphan"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Dextromethorphanum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Husten"
 ---
 
@@ -87,25 +87,31 @@ Derzeit keine verwandte Literatur verfügbar.
 
 <!-- review:end ch-lic-20261117-dextromethorphanum-1 -->
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67031 | Amavita Dextromethorphan-N, Hustensirup | Synthetika | Husten |
-| 67192 | SUN STORE Dextromethorphan, Hustensirup | Synthetika | Husten |
-| 49926 | Pulmofor retard, capsules | Synthetika | Husten, besonders Reizhusten |
-| 15898 | GEM Antitussivum, Sirup | Synthetika | Husten |
-| 53979 | Pulmofor, sirop | Synthetika | Husten, besonders trockener Reizhusten |
-| 40018 | Calmerphan-L, Sirup | Synthetika | Husten |
-| 39640 | Bexin, Hustentropfen | Synthetika | Husten |
-| 61441 | Bisolvon Dextromethorphan, Sirup | Synthetika | Trockener Reizhusten |
-| 59309 | Irotussin Antitussivum, Sirup | Synthetika | Husten |
-| 39639 | Bexin, Hustensirup | Synthetika | Husten |
-| 48869 | Bexin Hustentabletten, Filmtabletten | Synthetika | Husten |
-| 66985 | Coop Vitality Dextromethorphan Hustentabletten, Filmtabletten | Synthetika | Husten |
-| 66988 | Coop Vitality Dextromethorphan-N, Hustensirup | Synthetika | Husten |
-| 53863 | Calmesin-Mepha, Sirup | Synthetika | Husten |
-| 53260 | Emedrin N, Sirup | Synthetika | Husten, insbesondere trockener Reizhusten |
-| 67013 | Amavita Dextromethorphan Hustentabletten, Filmtabletten | Synthetika | Husten |
-| 41799 | Vicks Medinait, sirop | Synthetika | Schnupfen und Erkältungen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 15898 | GEM Antitussivum, Sirup | Synthetika | Husten | Gültig |
+| 39639 | Bexin, Hustensirup | Synthetika | Husten | Gültig |
+| 39640 | Bexin, Hustentropfen | Synthetika | Husten | Gültig |
+| 40018 | Calmerphan-L, Sirup | Synthetika | Husten | Gültig |
+| 41799 | Vicks Medinait, sirop | Synthetika | Rhume et refroidissements | Gültig |
+| 48869 | Bexin Hustentabletten, Filmtabletten | Synthetika | Husten | Gültig |
+| 49926 | Pulmofor retard, capsules | Synthetika | Toux, particulièrement la toux irritative | Gültig |
+| 53260 | Emedrin N, Sirup | Synthetika | Husten, insbesondere trockener Reizhusten | Gültig |
+| 53863 | Calmesin-Mepha, Sirup | Synthetika | Husten | Gültig |
+| 53979 | Pulmofor, sirop | Synthetika | Toux, particulièrement la toux sèche irritative | Gültig |
+| 61441 | Bisolvon Dextromethorphan, Sirup | Synthetika | trockener Reizhusten | Gültig |
+| 66985 | Coop Vitality Dextromethorphan Hustentabletten, Filmtabletten | Synthetika | Husten | Gültig |
+| 66988 | Coop Vitality Dextromethorphan-N, Hustensirup | Synthetika | Husten | Gültig |
+| 67013 | Amavita Dextromethorphan Hustentabletten, Filmtabletten | Synthetika | Husten | Gültig |
+| 67031 | Amavita Dextromethorphan-N, Hustensirup | Synthetika | Husten | Gültig |
+| 67192 | SUN STORE Dextromethorphan, Hustensirup | Synthetika | Husten | Gültig |
+| 59309 | Irotussin Antitussivum, Sirup | Synthetika | Husten | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

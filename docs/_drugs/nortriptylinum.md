@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00540
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nortriptylinum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -96,9 +96,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zulassungsinhaberin |
-|---------|------|------|-----------|
-| 69554 | Nortriptyline Rivopharm 10 mg, compresse rivestite con film | Synthetika | Rivopharm SA |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69554 | Nortriptyline Rivopharm 10 mg, compresse rivestite con film (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

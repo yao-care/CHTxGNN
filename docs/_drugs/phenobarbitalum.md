@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01174
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenobarbitalum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum, Sedativum"
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 12175 | Aphenylbarbit 50 mg, Tabletten | Synthetika | Antiepileptikum, Sedativum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 12175 | Aphenylbarbit 50 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepilepticum, Sedativum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01268
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sunitinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -91,12 +91,18 @@ Einschränkend gilt: Bestimmte Liposarkom-Subtypen (z. B. gut bzw. entdifferenzi
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67781 | Sunitinib-Teva 12.5 mg, Hartkapseln | Synthetika | Zytostatikum |
-| 68134 | Sunitinib Zentiva 12.5 mg, Hartkapseln | Synthetika | Zytostatikum |
-| 68094 | Sunitinib Viatris 12.5 mg, Hartkapseln | Synthetika | Zytostatikum |
-| 57563 | Sutent 12.5 mg, Hartkapseln | Synthetika | Gastrointestinale Stromatumoren, Nierenzellkarzinom, neuroendokrines Pankreaskarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57563 | Sutent 12.5 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Behandlung von gastrointestinalen Stromatumoren, Behandlung des Nierenzellkarzinoms, Behandlung von neuroendo… | Gültig |
+| 67781 | Sunitinib-Teva 12.5 mg, Hartkapseln (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 68094 | Sunitinib Viatris 12.5 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 68134 | Sunitinib Zentiva 12.5 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

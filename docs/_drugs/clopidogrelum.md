@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00758
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrelum: vorhergesagte neue Indikation Migräne mit Hirnstammaura (migraine with brainstem aura) (Evidenzstufe L5). Ursprüngliche Indikation: Thrombozytenaggregationshemmer"
 ---
 
@@ -96,17 +96,25 @@ Keine der Arbeiten untersucht die Migräne mit Hirnstammaura selbst. Die Studien
 
 Mindestens 9 Zulassungen sind erfasst; die Liste ist möglicherweise nicht vollständig. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60101 | Clopidogrel-Acino 75, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 60140 | Clopidogrel Sandoz eco 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 60405 | Clopidogrel Zentiva 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 65957 | Clopidogrel axapharm 75mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 60213 | Clopidogrel-Mepha 75, Lactab | Synthetika | Thrombozytenaggregationshemmer |
-| 70367 | Plavix 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 61340 | Clopidrax, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 70363 | Clopido axapharm 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
-| 66612 | Clopidogrel Spirig HC 75mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60101 | Clopidogrel-Acino 75, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 60140 | Clopidogrel Sandoz eco 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 60213 | Clopidogrel-Mepha 75, Lactab | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 60405 | Clopidogrel Zentiva 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 61340 | Clopidrax, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 65957 | Clopidogrel axapharm 75mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 66612 | Clopidogrel Spirig HC 75mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 70363 | Clopido axapharm 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+| 70367 | Plavix 75 mg, Filmtabletten | Synthetika | Thrombozytenaggregationshemmer | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

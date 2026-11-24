@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00176
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Fluvoxamini Maleas: vorhergesagte neue Indikation Schizoide Persönlichkeitsstörung (schizoid personality disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -85,9 +85,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 44603 | Floxyfral junior 50 mg, Filmtabletten | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 44603 | Floxyfral junior 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

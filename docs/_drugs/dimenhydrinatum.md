@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00985
 monitor_inn: "Dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dimenhydrinatum: vorhergesagte neue Indikation Allergische Urtikaria (allergic urticaria) (Evidenzstufe L5). Ursprüngliche Indikation: maux de voyage"
 ---
 
@@ -77,9 +77,15 @@ Einschränkend gilt: Aktuelle Urtikaria-Leitlinien bevorzugen nicht sedierende H
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 43194 | Trawell 20 mg, Kaugummi (gomme à mâcher médicamenteuse) | Synthetika | Reisekrankheit |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 43194 | Trawell 20 mg, gomme à mâcher médicamenteuse | Synthetika | maux de voyage | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

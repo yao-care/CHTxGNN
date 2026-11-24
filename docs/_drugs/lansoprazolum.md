@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00448
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Lansoprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenhemmer"
 ---
 
@@ -83,11 +83,19 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Mindestens 3 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle drei aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57323 | Lansoprazol-Mepha 15, Kapseln | Synthetika | Protonenpumpenhemmer |
-| 70352 | Lansoprazol Spirig HC 15 mg, magensaftresistente Hartkapseln | Synthetika | Protonenpumpenhemmer |
-| 58131 | Lansoprazol Sandoz 15 mg, magensaftresistente Hartkapseln | Synthetika | Peptisches Ulcus, gastroösophageale Refluxkrankheit |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57323 | Lansoprazol-Mepha 15, Kapseln (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenhemmer | Gültig |
+| 58131 | Lansoprazol Sandoz 15 mg, magensaftresistente Hartkapseln | Synthetika | peptisches Ulcus, gastroösophageale Refluxkrankheit | Gültig |
+| 70352 | Lansoprazol Spirig HC 15 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenhemmer | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB15091
 monitor_inn: "Upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Upadacitinibum: vorhergesagte neue Indikation Colobomatöses Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Der hohe Vorhersagewert ist daher mit Vorsicht zu interpretieren. Bei sehr selte
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67257 | Rinvoq 15 mg, Retardtabletten | Synthetika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis (Morbus Bechterew), Atopische Dermatitis, Colitis ulcerosa, Morbus Crohn, Riesenzellarteriitis |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67257 | Rinvoq 15 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis (Morbus Bechterew), Atopische Dermatit… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

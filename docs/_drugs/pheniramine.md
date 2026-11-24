@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01620
 monitor_inn: "pheniramine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Pheniramine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
 ---
 
@@ -71,12 +71,18 @@ Der hohe Wert spiegelt jedoch wahrscheinlich vor allem die Nähe zur bereits zug
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67691 | Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten |
-| 69767 | neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten |
-| 47346 | NeoCitran Grippe / Erkältung für Erwachsene, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten |
-| 67413 | neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 47346 | NeoCitran Grippe / Erkältung für Erwachsene, Pulver zur Herstellung e… | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 67413 | neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einn… | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 67691 | Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 69767 | neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

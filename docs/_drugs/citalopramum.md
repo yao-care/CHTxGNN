@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00215
 monitor_inn: "Citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Citalopramum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahme-Hemmer"
 ---
 
@@ -99,13 +99,21 @@ Die Übersichtsarbeiten nennen Citalopram unter den Serotonin-Wiederaufnahmehemm
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 5 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 49970 | Seropram 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer |
-| 59266 | Citalopram Zentiva 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 55935 | Citalopram Sandoz 20, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
-| 56336 | Citalopram-Mepha, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer |
-| 57260 | Citalopram-Mepha Teva 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49970 | Seropram 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer | Gültig |
+| 55935 | Citalopram Sandoz 20, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 56336 | Citalopram-Mepha, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer | Gültig |
+| 57260 | Citalopram-Mepha Teva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 59266 | Citalopram Zentiva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

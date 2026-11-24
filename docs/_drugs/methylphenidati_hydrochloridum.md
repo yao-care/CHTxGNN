@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00422
 monitor_inn: "Methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methylphenidati Hydrochloridum: vorhergesagte neue Indikation Faziodigitogenitales Syndrom (faciodigitogenital syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Psychotonikum"
 ---
 
@@ -71,11 +71,19 @@ Der sehr hohe Vorhersagewert ist daher am ehesten ein Artefakt der Modellberechn
 
 Die Liste kann unvollständig sein; es sind mindestens 3 Zulassungen erfasst.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55931 | Ritalin LA 20 mg, Hartkapsel mit veränderter Wirkstofffreisetzung | Synthetika | Psychotonikum |
-| 56249 | Concerta 18 mg, Retardtabletten | Synthetika | Zentral wirkendes Sympathomimetikum |
-| 62228 | Methylphenidat Sandoz 18, Retardtabletten | Synthetika | Zentralnervöses Stimulans |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55931 | Ritalin LA 20 mg, Hartkapsel mit veränderter Wirkstofffreisetzung (+3 weitere Bezeichnungen) | Synthetika | Psychotonikum | Gültig |
+| 56249 | Concerta 18 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Zentral wirkendes Sympathomimetikum | Gültig |
+| 62228 | Methylphenidat Sandoz 18, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Zentralnervöses Stimulans | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

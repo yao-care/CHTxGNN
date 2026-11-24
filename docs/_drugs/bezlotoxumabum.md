@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB13140
 monitor_inn: "Bezlotoxumab"
 predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "pelvic varices"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bezlotoxumabum: vorhergesagte neue Indikation Akute weibliche Beckenperitonitis (acute female pelvic peritonitis) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis des Modells. Er ist 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66344 | Zinplava, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Prävention eines Rezidivs einer Clostridium-difficile-Infektion (CDI) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66344 | Zinplava, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Prävention eines Rezidivs einer Clostridium difficile Infektion (CDI) | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

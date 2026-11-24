@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06403
 monitor_inn: "Ambrisentan"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ambrisentanum: vorhergesagte neue Indikation Pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)) (Evidenzstufe L5)."
 ---
 
@@ -83,12 +83,18 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67500 | Ambrisentan OrPha 5 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie (PAH) |
-| 67799 | Ambrisentan Devatis 5 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie |
-| 67294 | Ambrisentan-Mepha 5 mg, Lactab | Synthetika | Pulmonale arterielle Hypertonie |
-| 58654 | Volibris 5 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58654 | Volibris 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Pulmonale arterielle Hypertonie | Gültig |
+| 67294 | Ambrisentan-Mepha 5 mg, Lactab (+1 weitere Bezeichnung) | Synthetika | Pulmonale arterielle Hypertonie | Gültig |
+| 67500 | Ambrisentan OrPha 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Pulmonale arterielle Hypertonie (PAH) | Gültig |
+| 67799 | Ambrisentan Devatis 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Pulmonale arterielle Hypertonie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

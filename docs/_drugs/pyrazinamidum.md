@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00339
 monitor_inn: "Pyrazinamide"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pyrazinamidum: vorhergesagte neue Indikation Infektiöse Otitis media (infectious otitis media) (Evidenzstufe L5). Ursprüngliche Indikation: Tuberculose"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57699 | Pyrazinamide Labatec 500 mg, comprimés | Synthetika | Tuberkulose |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57699 | Pyrazinamide Labatec 500 mg, comprimés (+2 weitere Bezeichnungen) | Synthetika | Tuberculose | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

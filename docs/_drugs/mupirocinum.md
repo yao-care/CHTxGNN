@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00410
 monitor_inn: "Mupirocin"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Mupirocinum: vorhergesagte neue Indikation Pleuraempyem (pleural empyema (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Sekundär infizierte traumatische Läsionen der Haut"
 ---
 
@@ -71,11 +71,17 @@ Die Plausibilität ist jedoch gering. Mupirocin ist nur zur lokalen Anwendung fo
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54316 | Bactroban, Crème | Synthetika | Sekundär infizierte traumatische Läsionen der Haut |
-| 47667 | Bactroban, Salbe | Synthetika | Bakterielle Infektionen der Haut |
-| 52361 | Bactroban Nasal, Nasensalbe | Synthetika | Eliminierung von intranasalen Staphylokokken bei Trägern |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 47667 | Bactroban, Salbe | Synthetika | Bakterielle Infektionen der Haut | Gültig |
+| 52361 | Bactroban Nasal, Nasensalbe | Synthetika | Eliminierung von intranasalen Staphylokokken bei Trägern | Gültig |
+| 54316 | Bactroban, Crème | Synthetika | Sekundär infizierte traumatische Läsionen der Haut | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

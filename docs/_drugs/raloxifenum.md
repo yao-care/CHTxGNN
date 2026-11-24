@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00481
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Raloxifenum: vorhergesagte neue Indikation Duodenal ulcer (disease) (Evidenzstufe L5). Ursprüngliche Indikation: Traitement et prévention de l’ostéoporose chez les femmes postménopau…"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54597 | Evista 60 mg, comprimés filmés | Synthetika | Behandlung und Vorbeugung der Osteoporose bei Frauen nach den Wechseljahren |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54597 | Evista 60 mg, comprimés filmés | Synthetika | Traitement et prévention de l’ostéoporose chez les femmes postménopausées | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

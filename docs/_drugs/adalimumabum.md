@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00051
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adalimumabum: vorhergesagte neue Indikation Hypermobilität des Steissbeins (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis…"
 ---
 
@@ -80,6 +80,21 @@ Derzeit keine verwandte Literatur verfügbar.
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67204 | Amgevita 40 mg/0.8 ml, Injektionslösung im Fertigpen (+2 weitere Bezeichnungen) | Biotechnologika | Rheumatoide Arthritis, Polyartikuläre juvenile idiopathische Arthritis, Psoriasis-Arthritis, Ankylosierende S… | Gültig |
+| 67427 | Imraldi 40 mg/0.8 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Rheumatoide Arthritis, polyartikuläre juvenile idiopathische Arthritis, psoriatische Arthritis, ankylosierend… | Gültig |
+| 67582 | Imraldi 40 mg/0.8 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, polyartikuläre juvenile idiopathische Arthritis, psoriatische Arthritis, ankylosierend… | Gültig |
+| 68234 | Hukyndra 40mg/0.4ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, früh diagnostizierte rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondy… | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Mindestens vier gültige Zulassungen von Adalimumab-Präparaten sind im Handel. Die Liste kann unvollständig sein. Die Zulassungsdetails ergänzt das Programm aus den Zulassungsdaten.
 

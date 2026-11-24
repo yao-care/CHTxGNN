@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00398
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sorafenibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Leberzellkarzinom, Nierenzellkarzinom, Schilddrüsenkarzinom"
 ---
 
@@ -88,10 +88,16 @@ Der Zusammenhang zum Liposarkom ist jedoch nur indirekt. Liposarkome werden vor 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68210 | Sorafenib Zentiva 200 mg, Filmtabletten | Synthetika | Leberzellkarzinom, Nierenzellkarzinom, Schilddrüsenkarzinom |
-| 57583 | Nexavar, Filmtabletten | Synthetika | Leberzellkarzinom, Nierenzellkarzinom, Schilddrüsenkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57583 | Nexavar, Filmtabletten | Synthetika | Leberzellkarzinom, Nierenzellkarzinom, Schilddrüsenkarzinom | Gültig |
+| 68210 | Sorafenib Zentiva 200 mg, Filmtabletten | Synthetika | Leberzellkarzinom, Nierenzellkarzinom, Schilddrüsenkarzinom | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

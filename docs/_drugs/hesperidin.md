@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Hesperidin: vorhergesagte neue Indikation myeloproliferative Neoplasie (Evidenzstufe L5). Ursprüngliche Indikation: Venenmittel"
 monitor_inn: "hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
@@ -85,12 +85,18 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68050 | Diosmin Hesperidin Zentiva 500 mg, Filmtabletten | Synthetika | Venenmittel |
-| 70162 | Diosmin Hesperidine Provectis 500 mg, Filmtabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz, Hämorrhoiden |
-| 68966 | Daflon UNO, 1000 mg, Kautabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz |
-| 40380 | Daflon 500, Filmtabletten | Synthetika | Veneninsuffizienz und Hämorrhoidalleiden |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 40380 | Daflon 500, comprimés pelliculés | Synthetika | Insuffisance veineuse et maladie hémorroïdaire | Gültig |
+| 68050 | Diosmin Hesperidin Zentiva 500 mg, Filmtabletten | Synthetika | Venenmittel | Gültig |
+| 68966 | Daflon UNO, 1000 mg, comprimés à croquer | Synthetika | oedèmes et autres symptômes de l’insuffisance veineuse | Gültig |
+| 70162 | Diosmin Hesperidine Provectis 500 mg, Filmtabletten | Synthetika | Ödeme und andere Symptome der Veneninsuffizienz, Hämorrhoiden | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

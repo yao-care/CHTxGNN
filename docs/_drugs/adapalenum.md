@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00210
 monitor_inn: "Adapalene"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Adapalenum: vorhergesagte neue Indikation Erhöhtes Plasmazink (zinc, elevated plasma) (Evidenzstufe L5). Ursprüngliche Indikation: Akne vulgaris"
 ---
 
@@ -69,10 +69,16 @@ Hinzu kommt, dass Adapalen nur äusserlich angewendet wird und nur wenig in den 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54731 | Differin, Crème | Synthetika | Akne vulgaris |
-| 52867 | Differin, Gel | Synthetika | Akne vulgaris |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52867 | Differin, Gel | Synthetika | Akne vulgaris | Gültig |
+| 54731 | Differin, Crème | Synthetika | Akne vulgaris | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

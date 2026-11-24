@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00590
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxazosinum: vorhergesagte neue Indikation Migräne (migraine disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Hypertonie"
 ---
 
@@ -85,10 +85,16 @@ Die Arbeit untersucht die Migräne zwar direkt, liefert aber keine kontrollierte
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59194 | Doxazosin retard Zentiva 4 mg, Filmtabletten | Synthetika | Hypertonie |
-| 54617 | Cardura CR 4 mg, Retardtabletten | Synthetika | Hypertonie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54617 | Cardura CR 4 mg, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
+| 59194 | Doxazosin retard Zentiva 4 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

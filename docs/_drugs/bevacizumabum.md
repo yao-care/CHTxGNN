@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00112
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bevacizumabum: vorhergesagte neue Indikation Kehldeckel-Neoplasie (epiglottis neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -85,15 +85,21 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67886 | Bevacizumab-Teva 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Onkologikum |
-| 70261 | Abevmy 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Onkologikum |
-| 69166 | Vegzelma 100 mg/4 ml, Lösung zur Herstellung einer Infusionslösung | Biotechnologikum | Metastasierter Dickdarm- oder Mastdarmkrebs; metastasierter Brustkrebs; fortgeschrittener, metastasierter oder rezidivierender nicht-kleinzelliger Lungenkrebs (NSCLC); fortgeschrittener und/oder metastasierter Nierenkrebs; Glioblastom (WHO-Grad IV); Eierstockkrebs; Gebärmutterhalskrebs |
-| 56922 | Avastin 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Metastasiertes Kolon- oder Rektumkarzinom; metastasiertes Mammakarzinom; fortgeschrittenes, metastasiertes oder rezidivierendes NSCLC; fortgeschrittenes und/oder metastasierendes Nierenzellkarzinom; Glioblastom (WHO-Grad IV); Ovarialkarzinom, Eileiterkarzinom, primäres Peritonealkarzinom; Zervixkarzinom |
-| 67501 | Zirabev 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Onkologikum |
-| 67283 | MVASI 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Onkologikum |
-| 67857 | Oyavas 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Metastasiertes Kolon- oder Rektumkarzinom; metastasiertes Mammakarzinom; fortgeschrittenes, metastasiertes oder rezidivierendes NSCLC; fortgeschrittenes und/oder metastasierendes Nierenzellkarzinom; Glioblastom (WHO-Grad IV); Ovarialkarzinom; Zervixkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56922 | Avastin 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Kolon- oder Rektumkarzinom; metastasiertes Mammakarzinom; fortgeschrittenes, metastasiertes od… | Gültig |
+| 67283 | MVASI 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+| 67501 | Zirabev 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+| 67857 | Oyavas 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Kolon- oder Rektumkarzinom, Metastasiertes Mammakarzinom, Fortgeschrittenes, metastasiertes od… | Gültig |
+| 67886 | Bevacizumab-Teva 100 mg/4 ml, Konzentrat zur Herstellung einer Infusi… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+| 69166 | Vegzelma 100 mg/4 ml, solution à diluer pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | Cancer métastatique du côlon ou du rectum; cancer mammaire métastatique; cancer du poumon non à petites cellu… | Gültig |
+| 70261 | Abevmy 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

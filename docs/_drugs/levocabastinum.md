@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01106
 monitor_inn: "Levocabastine"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Levocabastinum: vorhergesagte neue Indikation Allergische Urtikaria (allergic urticaria) (Evidenzstufe L5). Ursprüngliche Indikation: Allergische Rhinitis"
 ---
 
@@ -81,10 +81,16 @@ Keine der Publikationen untersucht Levocabastin direkt bei allergischer Urtikari
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 50497 | Livostin Nasenspray, Suspension | Synthetika | Allergische Rhinitis |
-| 50496 | Livostin Augentropfen, Augentropfensuspension | Synthetika | Allergische Konjunktivitis |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 50496 | Livostin Augentropfen, Augentropfensuspension | Synthetika | Allergische Konjunktivitis | Gültig |
+| 50497 | Livostin Nasenspray, Suspension | Synthetika | Allergische Rhinitis | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

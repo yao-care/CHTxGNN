@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 18
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Asfotase Alfa: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung aufgrund von Kern-DNA-Anomalien (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Hypophosphatasie"
 monitor_inn: "asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices with bleeding", "esophageal varices without bleeding", "cystinosis"]
@@ -82,9 +82,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66086 | Strensiq 40 mg/ml, Injektionslösung | Biotechnologika | Behandlung der Hypophosphatasie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66086 | Strensiq 40 mg/ml, Injektionslösung (+1 weitere Bezeichnung) | Biotechnologika | Behandlung der Hypophosphatasie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Zulassungsinhaberin ist die Alexion Pharma GmbH.
 

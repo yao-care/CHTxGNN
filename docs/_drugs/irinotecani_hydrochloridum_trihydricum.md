@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00762
 monitor_inn: "Irinotecan"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Irinotecani Hydrochloridum Trihydricum: vorhergesagte neue Indikation Weiblicher Brustkrebs (female breast carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -103,14 +103,22 @@ Das belegt SN-38 als wirksame Nutzlast, aber nicht, dass Irinotecan bei systemis
 
 Die Liste der Zulassungen kann unvollständig sein (mindestens 6 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61246 | Irinotecan Fresenius 40 mg/2 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 66766 | Irinotecan Accord 40 mg/2 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 53470 | Campto 40 mg/2 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 59284 | Irinotecan Labatec 40 mg/2 ml, Lösung zur Verdünnung für Infusion | Synthetika | Zytostatikum |
-| 65994 | Onivyde liposomal pégylé 4,3 mg/ml, Dispersion zur Verdünnung für Infusion | Synthetika | Metastasiertes Adenokarzinom der Bauchspeicheldrüse |
-| 59217 | Irinotecan-Teva liquid 40 mg/2 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 59217 | Irinotecan-Teva liquid 40 mg/2 ml, Konzentrat zur Herstellung einer I… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 59284 | Irinotecan Labatec 40 mg/2 ml, solution à diluer pour perfusion (+3 weitere Bezeichnungen) | Synthetika | Cytostatique | Gültig |
+| 61246 | Irinotecan Fresenius 40 mg/2 ml, Konzentrat zur Herstellung einer Inf… (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 65994 | Onivyde liposomal pégylé 4.3 mg/ml, dispersion à diluer pour perfusion | Synthetika | Adénocarcinomes du pancréas métastatiques | Gültig |
+| 66766 | Irinotecan Accord 40 mg/2 ml, Konzentrat zur Herstellung einer Infusi… (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 53470 | Campto 40 mg/2 ml, Konzentrat zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

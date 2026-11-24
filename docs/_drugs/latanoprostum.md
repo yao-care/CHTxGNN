@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00654
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Latanoprostum: vorhergesagte neue Indikation Viszerale Kalziphylaxie (visceral calciphylaxis) (Evidenzstufe L5). Ursprüngliche Indikation: Glaukom"
 ---
 
@@ -85,16 +85,24 @@ Derzeit keine verwandte Literatur verfügbar
 
 Es sind mindestens 8 Zulassungen erfasst; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 53675 | Xalatan, Augentropfen | Synthetika | Glaukom |
-| 62295 | Latano-Vision, Augentropfen | Synthetika | Glaukom |
-| 69231 | Catiolanze, Augentropfen-Emulsion im Einzeldosisbehältnis | Synthetika | Glaukom |
-| 69723 | Latano-Vision SDU 50 μg/ml, Augentropfen im Einzeldosisbehältnis | Synthetika | Glaukom |
-| 62558 | Monoprost, Augentropfen im Einzeldosisbehältnis | Synthetika | Glaukom |
-| 60612 | Latanoprost-Mepha, Augentropfen | Synthetika | Glaukom |
-| 61544 | Latanoprost Viatris, Augentropfen | Synthetika | Glaukom |
-| 69656 | Latazed 50 µg/ml, Augentropfen-Lösung | Synthetika | Glaukom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53675 | Xalatan, Augentropfen | Synthetika | Glaukom | Gültig |
+| 60612 | Latanoprost-Mepha, Augentropfen | Synthetika | Glaukom | Gültig |
+| 61544 | Latanoprost Viatris, Augentropfen | Synthetika | Glaukom | Gültig |
+| 62295 | Latano-Vision, Augentropfen | Synthetika | Glaukom | Gültig |
+| 62558 | Monoprost, collyre en solution en récipient unidose | Synthetika | Glaucome | Gültig |
+| 69231 | Catiolanze, Emulsion ophtalmique en gouttes en récipient unidose | Synthetika | glaucome | Gültig |
+| 69656 | Latazed 50 ug/ml, collyre en solution | Synthetika | le glaucome | Gültig |
+| 69723 | Latano-Vision SDU 50 μg/ml, Augentropfen, Lösung im Einzeldosisbehält… | Synthetika | Glaukom | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

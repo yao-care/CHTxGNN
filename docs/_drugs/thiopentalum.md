@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00599
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Thiopentalum: vorhergesagte neue Indikation Trichotillomanie (trichotillomania) (Evidenzstufe L5). Ursprüngliche Indikation: Kurznarkotikum"
 ---
 
@@ -69,9 +69,15 @@ Ein nachvollziehbarer Zusammenhang zwischen dieser Wirkung und den Mechanismen d
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62451 | Thiopental Inresa 0.5g, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Kurznarkotikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62451 | Thiopental Inresa 0.5g, Pulver zur Herstellung einer Injektions-/Infu… | Synthetika | Kurznarkotikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

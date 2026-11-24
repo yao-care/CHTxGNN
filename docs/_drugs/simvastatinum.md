@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00641
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Simvastatinum: vorhergesagte neue Indikation Hirnstamminfarkt (brain stem infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration"
 ---
 
@@ -81,11 +81,19 @@ Dies ist jedoch ein theoretischer Zusammenhang. Für den Hirnstamminfarkt im Spe
 
 Die Liste ist möglicherweise unvollständig (mindestens 3 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56035 | Simcora 20, Filmtabletten | Synthetika | Reduktion der Serumcholesterinkonzentration |
-| 49742 | Zocor 20 mg, Filmtabletten | Synthetika | Reduktion der Serumcholesterinkonzentration |
-| 62612 | Simvastatin-Mepha 20 mg, Filmtabletten | Synthetika | Reduktion der Serumcholesterinkonzentration |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56035 | Simcora 20, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 62612 | Simvastatin-Mepha 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Reduktion der Serumchloresterinkonzentration | Gültig |
+| 49742 | Zocor 20 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

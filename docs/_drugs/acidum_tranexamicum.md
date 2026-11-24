@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00302
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Acidum Tranexamicum: vorhergesagte neue Indikation Amenorrhea (disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antifibrinolytikum, Haemostatikum"
 ---
 
@@ -86,17 +86,23 @@ Beide Arbeiten behandeln verwandte Themen (Blutungsstörungen, Menstruationsunte
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 52660 | Cyklokapron, Brausetabletten | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 69390 | Tranexam Labatec 500 mg/5 mL, Injektionslösung | Synthetika | Antifibrinolytikum |
-| 65978 | Acide tranexamique Stragen 500 mg/5 ml, Injektionslösung | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 33741 | Cyklokapron, Filmtabletten | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 70009 | Tranexamic OrPha 500 mg, Filmtabletten | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 69880 | Tranexamic Acid Leman 500 mg/100 ml, Infusionslösung | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 69007 | Tranexamic OrPha 500 mg/5 ml, Injektionslösung | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 69385 | Tranexamic acid Leman 500 mg/5 ml, Injektionslösung | Synthetika | Antifibrinolytikum, Haemostatikum |
-| 70581 | Tranexamic Acid Nardia 500 mg/5 ml, Injektionslösung | Synthetika | Antifibrinolytikum, Haemostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 33741 | Cyklokapron, Filmtabletten | Synthetika | Antifibrinolytikum, Haemostatikum | Gültig |
+| 52660 | Cyklokapron, Brausetabletten | Synthetika | Antifibrinolytikum, Haemostatikum | Gültig |
+| 65978 | Acide tranexamique Stragen 500 mg/5ml, solution injectable (+1 weitere Bezeichnung) | Synthetika | Antifibrinolytique, hémostatique | Gültig |
+| 69007 | Tranexamic OrPha 500 mg/5 ml, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Antifibrinolytikum, Haemostatikum | Gültig |
+| 69385 | Tranexamic acid Leman 500 mg/5 ml, solution injectable (+1 weitere Bezeichnung) | Synthetika | Antifibrinolytique, hémostatique | Gültig |
+| 69390 | Tranexam Labatec 500 mg/5 mL, solution injectable (+1 weitere Bezeichnung) | Synthetika | Antifibrinolytics | Gültig |
+| 69880 | Tranexamic Acid Leman 500 mg/100 ml, solution pour perfusion (+1 weitere Bezeichnung) | Synthetika | Antifibrinolytique, hémostatique | Gültig |
+| 70009 | Tranexamic OrPha 500 mg, Filmtabletten | Synthetika | Antifibrinolytikum, Haemostatikum | Gültig |
+| 70581 | Tranexamic Acid Nardia 500 mg/5 ml, soluzione iniettabile | Synthetika | Antifibrinolitico, emostatico | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

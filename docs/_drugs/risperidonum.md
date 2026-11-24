@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00734
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Risperidonum: vorhergesagte neue Indikation Familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
 ---
 
@@ -73,12 +73,20 @@ Der hohe Vorhersagewert von 0,9976 ist daher als rein rechnerisches Ergebnis zu 
 
 Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 53424 | Risperdal 1 mg/mL, Lösung | Synthetika | Neuroleptikum |
-| 52316 | Risperdal 1 mg, Filmtabletten | Synthetika | Neuroleptikum |
-| 67622 | Risperidon-Mepha LA 25 mg, Pulver und Lösungsmittel zur Herstellung einer Suspension zur i.m. Injektion | Synthetika | Erhaltungstherapie für psychotische Krankheiten aus dem Formenkreis der Schizophrenie |
-| 58092 | Risperidon-Mepha 0.5 mg, Filmtabletten | Synthetika | Neuroleptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52316 | Risperdal 1 mg, Filmtabletten (+4 weitere Bezeichnungen) | Synthetika | Neurolepticum | Gültig |
+| 53424 | Risperdal 1 mg/mL, Lösung | Synthetika | Neurolepticum | Gültig |
+| 58092 | Risperidon-Mepha 0.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neurolepticum | Gültig |
+| 67622 | Risperidon-Mepha LA 25 mg, Pulver und Lösungsmittel zur Herstellung e… (+2 weitere Bezeichnungen) | Synthetika | Erhaltungstherapie für psychotische Krankheiten aus dem Formenkreis der Schizophrenie | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

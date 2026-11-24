@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Phenol: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen"
 monitor_inn: "phenol"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
@@ -82,9 +82,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 32238 | Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut (Almirall AG) | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 32238 | Tannosynt flüssig, Konzentrat zur Herstellung einer Lösung zur Anwend… | Synthetika | Entzündliche, nässende und juckende Hauterkrankungen | Erloschen |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00761
 monitor_inn: "Potassium chloride"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Kalii Chloridum: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5). Ursprüngliche Indikation: Kaliumpräparat"
 ---
 
@@ -84,11 +84,17 @@ Die Literatur besteht überwiegend aus Fallberichten und Übersichtsarbeiten. Es
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 29138 | Plus Kalium retard, Retardtabletten | Synthetika | Kaliumpräparat |
-| 56521 | KCL 7,45% Sintetica, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Kaliumzufuhr |
-| 51434 | Kalium chloratum 15% Sintetica, Zusatzampullen für Infusionen | Synthetika | Kaliumtherapie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 29138 | Plus Kalium retard, Retardtabletten | Synthetika | Kaliumpräparat | Gültig |
+| 51434 | Kalium chloratum 15% Sintetica, fiale supplementari per perfusioni | Synthetika | Terapia potassica | Gültig |
+| 56521 | KCL 7,45% Sintetica, concentrato per soluzione per infusione | Synthetika | Apport potassique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ## Sicherheitshinweise
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00199
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Erythromycinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Akne vulgaris"
 ---
 
@@ -77,12 +77,18 @@ Zu beachten: Der Begriff kann sich mit der adenoviralen Keratokonjunktivitis üb
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 48142 | Akne-mycin 2000, Salbe | Synthetika | Akne vulgaris |
-| 20258 | Erythrocin i.v., Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten |
-| 51303 | Aknilox 2%, Gel | Synthetika | Akne vulgaris |
-| 46084 | Akne-mycin, Lösung | Synthetika | Akne vulgaris |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 20258 | Erythrocin i.v., Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten | Gültig |
+| 46084 | Akne-mycin, Lösung | Synthetika | Akne vulgaris | Gültig |
+| 48142 | Akne-mycin 2000, Salbe | Synthetika | Akne vulgaris | Gültig |
+| 51303 | Aknilox 2%, Gel (+1 weitere Bezeichnung) | Synthetika | Akne vulgaris | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

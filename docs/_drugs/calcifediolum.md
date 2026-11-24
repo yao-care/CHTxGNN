@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00146
 monitor_inn: "Calcifediol"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcifediolum: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5)."
 ---
 
@@ -69,10 +69,16 @@ Es ist allerdings unwahrscheinlich, dass Calcifediol den eigentlichen Defekt der
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67614 | Rayaldee 30 µg, Weichkapseln retardiert | Synthetika | Behandlung von sekundärem Hyperparathyreoidismus (SHPT) bei Erwachsenen mit chronischer Niereninsuffizienz im Stadium 3 oder 4 und 25-Hydroxyvitamin-D-Serumwerten <30 ng/ml |
-| 69012 | Vitafediol 0.266 mg, Weichkapseln | Synthetika | Therapie eines Vitamin-D-Mangels (25(OH)D-Spiegel < 20 ng/ml bzw. < 50 nmol/l) bei Erwachsenen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67614 | Rayaldee 30 µg, Weichkapseln retardiert | Synthetika | Rayaldee ist zur Behandlung von sekundärem Hyperparathyreoidismus (SHPT) bei Erwachsenen mit chronischer Nier… | Gültig |
+| 69012 | Vitafediol 0.266 mg, Weichkapseln | Synthetika | Therapie eines Vitamin D-Mangels (d. h. 25(OH)D-Spiegel < 20 ng/ml bzw. < 50 nmol/l) bei Erwachsenen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

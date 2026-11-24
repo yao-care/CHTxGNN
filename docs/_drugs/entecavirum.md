@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00442
 monitor_inn: "Entecavir"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Entecavirum: vorhergesagte neue Indikation Chronische Hepatitis-C-Virus-Infektion (chronic hepatitis C virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis B"
 ---
 
@@ -92,6 +92,22 @@ Der hohe Vorhersagewert spiegelt vermutlich vor allem die häufige Koinfektion m
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57435 | Baraclude 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Chronische Hepatitis B | Gültig |
+| 57436 | Baraclude 0.05 mg/mL, Lösung zum Einnehmen | Synthetika | Chronische Hepatitis B | Gültig |
+| 66449 | Entecavir Sandoz 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Chronische Hepatitis B | Gültig |
+| 66709 | Entecavir-Mepha 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Chronische Hepatitis B | Gültig |
+| 68837 | Baraclude 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Chronische Hepatitis B | Gültig |
+| 68838 | Baraclude 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Chronische Hepatitis B | Gültig |
+| 68839 | Baraclude 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Chronische Hepatitis B | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Entecavir ist in der Schweiz im Handel. Die Zulassungsliste wird aus den lokalen Zulassungsdaten ergänzt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00207
 monitor_inn: "Azithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azithromycinum: vorhergesagte neue Indikation Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -71,18 +71,32 @@ Der hohe Vorhersagewert ist deshalb als rein rechnerisches Ergebnis zu werten. E
 
 ### Marktinformationen Schweiz
 
-Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 6 gültig und 2 gelöscht.
+Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 5 gültig und 3 erloschen.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 51352 | Zithromax, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten |
-| 61256 | Azithromycin Pfizer 250 mg, Filmtabletten (gelöscht) | Synthetika | Infektionskrankheiten |
-| 68519 | Azyter, Augentropfen (Lösung) | Synthetika | Lokale Behandlung der eitrigen bakteriellen Bindehautentzündung und der Trachom-Bindehautentzündung bei Kindern und Erwachsenen |
-| 51999 | Zithromax 100 mg, Pulver zur Herstellung einer Suspension zum Einnehmen im Beutel (gelöscht) | Synthetika | Infektionskrankheiten |
-| 57627 | Azithromycin Sandoz, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten |
-| 58081 | Azithromycin-Mepha 200, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten |
-| 57482 | Azithromycin Sandoz 250, Filmtabletten | Synthetika | Infektionskrankheiten |
-| 67761 | Azithromycin-Mepha 250 mg, Filmtabletten | Synthetika | Infektionskrankheiten |
+<!-- review:begin ch-lic-20261124-azithromycinum-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Die Liste kann unvollständig sein; es sind mindestens 8 Zulassungen erfasst, davon 6 gültig und 2 gelöscht.“ Die Zulassungen 51999 (Zithromax 100 mg) und 61256 (Azithromycin Pfizer 250 mg) waren bis 2026-09-30 gültig; 57627 (Azithromycin Sandoz) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124-azithromycinum-1 -->
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 51352 | Zithromax, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten | Gültig |
+| 57482 | Azithromycin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 58081 | Azithromycin-Mepha 200, Pulver zur Herstellung einer Suspension zum E… | Synthetika | Infektionskrankheiten | Gültig |
+| 67761 | Azithromycin-Mepha 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 68519 | Azyter , collyre en solution | Synthetika | pour le traitement curatif local de la conjonctivite bactérienne purulente et de la conjonctivite trachomateu… | Gültig |
+| 51999 | Zithromax 100 mg, Pulver zur Herstellung einer Suspension zum Einnehm… (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Erloschen |
+| 57627 | Azithromycin Sandoz, Pulver zur Herstellung einer Suspension zum Einn… | Synthetika | Infektionskrankheiten | Erloschen |
+| 61256 | Azithromycin Pfizer 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 
@@ -109,12 +123,13 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ## Prüfprotokoll
 
-Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt.
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 | 2026-11-20 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt (überarbeitet am 2026-11-20; frühere Fassung im Protokoll erhalten) | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
+| 2026-11-24 | „6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

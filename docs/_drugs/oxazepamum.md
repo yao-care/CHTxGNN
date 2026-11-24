@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00842
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Oxazepamum: vorhergesagte neue Indikation Insomnie (insomnia (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Sedativum"
 ---
 
@@ -93,6 +93,16 @@ Nur die Studie von 1984 untersucht Oxazepam direkt bei Insomnie. Sie ist klein u
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 32497 | Seresta, Tabletten (+1 weitere Bezeichnung) | Synthetika | Sedativum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Oxazepam ist in der Schweiz mit einer gültigen Einzelzulassung im Handel (Präparat Seresta, Tabletten; Viatris Pharma GmbH).
 

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 21
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bacitracin: vorhergesagte neue Indikation Punctate epithelial keratoconjunctivitis (punktförmige epitheliale Ke… (Evidenzstufe L5). Ursprüngliche Indikation: Diagnose von Allergien"
 monitor_inn: "bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
@@ -82,9 +82,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56688 | True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56688 | True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Hersteller: Stallergenes AG.
 

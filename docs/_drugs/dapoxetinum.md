@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB04884
 monitor_inn: "Dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Dapoxetinum: vorhergesagte neue Indikation Migräne (migraine disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Ejaculatio praecox"
 ---
 
@@ -71,9 +71,15 @@ Zudem passt das Profil von Dapoxetin schlecht zu einer Dauerbehandlung: Es wirkt
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60470 | PRILIGY, Filmtabletten | Synthetika | Ejaculatio praecox |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 60470 | PRILIGY, Filmtabletten | Synthetika | Ejaculatio praecox | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

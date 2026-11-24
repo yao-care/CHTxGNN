@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB05541
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brivaracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: antiépileptique"
 ---
 
@@ -71,11 +71,17 @@ Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Beleg. Er könnte
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65830 | Briviact 50 mg/5 ml, Injektionslösung | Synthetika | Antiepileptikum |
-| 65831 | Briviact 10 mg, Filmtabletten | Synthetika | Antiepileptikum |
-| 65832 | Briviact 10 mg/ml, Lösung zum Einnehmen | Synthetika | Antiepileptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65830 | Briviact 50 mg/5 ml, solution injectable | Synthetika | antiépileptique | Gültig |
+| 65831 | Briviact 10 mg, comprimés pelliculés (+4 weitere Bezeichnungen) | Synthetika | antiépileptique | Gültig |
+| 65832 | Briviact 10 mg/ml, solution buvable | Synthetika | antiépiléptique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

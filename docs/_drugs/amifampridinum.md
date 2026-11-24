@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB11640
 monitor_inn: "Amifampridine"
 predicted_indications: ["glaucoma", "acute intermittent porphyria"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Amifampridinum: vorhergesagte neue Indikation Glaukom (glaucoma) (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung des Lambert-Eaton-Myasthenie Syndroms (LEMS…"
 ---
 
@@ -69,9 +69,15 @@ Die Vorhersage ist daher als reine Modellhypothese zu verstehen. Ohne Studien- o
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61853 | Firdapse, Tabletten | Synthetika | Symptomatische Behandlung des Lambert-Eaton-Myasthenie-Syndroms (LEMS) bei Erwachsenen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61853 | Firdapse, Tabletten | Synthetika | Symptomatische Behandlung des Lambert-Eaton-Myasthenie Syndroms (LEMS) bei Erwachsenen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

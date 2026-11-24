@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00512
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vancomycinum: vorhergesagte neue Indikation Diffuse Sklerodermie (diffuse scleroderma) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -83,13 +83,19 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57236 | Vancomycin Sandoz 500 mg i.v., Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten |
-| 67837 | Vancomycin Fairmed 125 mg, Kapseln | Synthetika | Infektionen durch Clostridium difficile |
-| 59766 | Vancomycin Labatec 500 mg, Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten |
-| 47074 | Vancocin 125 mg, Kapseln | Synthetika | Infektionen durch Clostridium difficile |
-| 24936 | Vancocin i.v. 500 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 24936 | Vancocin i.v. 500 mg, Pulver für ein Konzentrat zur Herstellung einer… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 47074 | Vancocin 125 mg, Kapseln | Synthetika | Infektionen durch Clostridium difficile | Gültig |
+| 57236 | Vancomycin Sandoz 500 mg i.v., Pulver zur Herstellung einer Infusions… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 59766 | Vancomycin Labatec 500 mg, poudre pour solution pour perfusion (+1 weitere Bezeichnung) | Synthetika | Maladies infectieuses | Gültig |
+| 67837 | Vancomycin Fairmed 125 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Infektionen durch Clostridium difficile | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

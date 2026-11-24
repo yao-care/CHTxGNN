@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06148
 monitor_inn: "Mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Mianserini Hydrochloridum: vorhergesagte neue Indikation Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Hinzu kommen erhebliche Sicherheitsbedenken: Der Einsatz eines tetrazyklischen A
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56732 | Mianserin-Mepha 30 mg, Filmtabletten | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56732 | Mianserin-Mepha 30 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

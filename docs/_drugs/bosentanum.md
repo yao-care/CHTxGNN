@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00559
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Bosentanum: vorhergesagte neue Indikation Rheumatoide Arthritis (rheumatoid arthritis) (Evidenzstufe L5)."
 ---
 
@@ -93,12 +93,18 @@ Keine der Publikationen untersucht Bosentan bei rheumatoider Arthritis am Mensch
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69790 | Bosentan Spirig HC 62.5 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie (WHO-Funktionsklasse II–IV); Reduktion neuer digitaler Ulzerationen bei systemischer Sklerose |
-| 59885 | Tracleer, dispergierbare Tabletten | Synthetika | Primäre und sekundäre pulmonale Hypertonie |
-| 65991 | Bosentan-Mepha 62.5 mg, Filmtabletten | Synthetika | Primäre und sekundäre pulmonale arterielle Hypertonie; systemische Sklerose mit aktiver digitaler Ulzerationserkrankung |
-| 55841 | Tracleer 62,5 mg, Filmtabletten | Synthetika | Primäre und sekundäre pulmonale Hypertonie; systemische Sklerose mit aktiver digitaler Ulzerationserkrankung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55841 | Tracleer 62,5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Primäre und sekundäre pulmonale Hypertonie Systemische Sklerose mit aktiver digitaler Ulzerationserkrankung | Gültig |
+| 59885 | Tracleer, dispergierbare Tabletten | Synthetika | Primäre und sekundäre pulmonale Hypertonie | Gültig |
+| 65991 | Bosentan-Mepha 62.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Primäre und sekundäre pulmonale arterielle Hypertonie, Systemische Sklerose mit aktiver digitaler Ulzerations… | Gültig |
+| 69790 | Bosentan Spirig HC 62.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Pulmonale arterielle Hypertonie (PAH) bei Patienten der WHO-Funktionsklasse II-IV. Reduktion der Anzahl neuer… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

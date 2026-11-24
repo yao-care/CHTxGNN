@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01095
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatinum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration…"
 ---
 
@@ -90,10 +90,16 @@ Keine der Publikationen untersucht Fluvastatin als direkte HIV-Therapie. Sie bet
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 58763 | Fluvastatin-Mepha 80 retard, Depotabs | Synthetika | Reduktion der Serumcholesterinkonzentration, primäre gemischte Dyslipidämie |
-| 58671 | Fluvastatin-Mepha 20 mg, Hartkapseln | Synthetika | Reduktion der Serumcholesterinkonzentration, primäre gemischte Dyslipidämie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58671 | Fluvastatin-Mepha 20 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Reduktion der Serumcholesterinkonzentration, primäre gemischte Dyslipidämie | Gültig |
+| 58763 | Fluvastatin-Mepha 80 retard, Depotabs | Synthetika | Reduktion der Serumcholesterinkonzentration, primäre gemischte Dyslipidämie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

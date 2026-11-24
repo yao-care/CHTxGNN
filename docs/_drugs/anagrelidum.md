@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00261
 monitor_inn: "Anagrelide"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anagrelidum: vorhergesagte neue Indikation Reaktive Thrombozytose (reactive thrombocytosis) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der essentiellen Thrombozythämie"
 ---
 
@@ -94,10 +94,16 @@ Keine der aufgeführten Publikationen untersucht Anagrelid bei reaktiver Thrombo
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54720 | Xagrid 0,5 mg, Hartkapseln | Synthetika | Behandlung der essentiellen Thrombozythämie |
-| 59031 | Thromboreductin 0.5 mg, Kapseln | Synthetika | Behandlung der essentiellen Thrombozythämie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54720 | Xagrid 0,5 mg, Hartkapseln | Synthetika | Behandlung der essentiellen Thrombozythämie | Gültig |
+| 59031 | Thromboreductin 0.5 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Behandlung der essentiellen Thrombozythämie | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

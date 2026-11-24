@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Avibactam: vorhergesagte neue Indikation Ureter-Tuberkulose (ureter tuberculosis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -80,9 +80,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66890 | Zavicefta, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66890 | Zavicefta, Pulver für ein Konzentrat zur Herstellung einer Infusionsl… | Synthetika | Infektionskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

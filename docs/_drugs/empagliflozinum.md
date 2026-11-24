@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB09038
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Empagliflozinum: vorhergesagte neue Indikation Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) (Evidenzstufe L5)."
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 63227 | Jardiance 25 mg, Filmtabletten | Synthetika | Diabetes Typ 2, Prävention kardiovaskulärer Ereignisse, Herzinsuffizienz |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63227 | Jardiance 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diabetes Typ 2, Prävention kardiovaskuläre Ereignisse, Herzinsuffizienz | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

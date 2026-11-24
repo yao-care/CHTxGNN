@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "aspartic acid"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Aspartic Acid: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 
@@ -83,14 +83,22 @@ Keine der Publikationen untersucht Asparaginsäure als Behandlung der renalen tu
 
 Die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65450 | Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung |
-| 65726 | Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml | Synthetika | Parenterale Ernährung |
-| 59377 | OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung | Synthetika | Parenterale Ernährung |
-| 42847 | Nutriflex special, Infusionslösung | Synthetika | Parenterale Ernährung |
-| 47614 | Nutriflex Peri, Infusionslösung | Synthetika | Parenterale Ernährung |
-| 51671 | Nutriflex plus, Infusionslösung 1000 ml | Synthetika | Parenterale Ernährung |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 42847 | Nutriflex special, Infusionslösung | Synthetika | parenterale Ernährung | Gültig |
+| 47614 | Nutriflex Peri, Infusionslösung | Synthetika | Parenterale Ernährung | Gültig |
+| 51671 | Nutriflex plus, Infusionslösung 1000 ml (+1 weitere Bezeichnung) | Synthetika | Parenterale Ernährung | Gültig |
+| 59377 | OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Parenterale Ernährung | Gültig |
+| 65726 | Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml (+2 weitere Bezeichnungen) | Synthetika | Parenterale Ernährung | Gültig |
+| 65450 | Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

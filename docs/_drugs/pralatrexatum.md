@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06813
 monitor_inn: "Pralatrexate"
 predicted_indications: ["pleural adenomatoid tumor", "relapsing-remitting multiple sclerosis", "pleural biphasic mesothelioma", "pleural epithelioid mesothelioma", "lymphohistiocytoid mesothelioma", "pericardium cancer", "pleural sarcomatoid mesothelioma", "malignant peritoneal mesothelioma", "well differentiated papillary mesothelioma", "pleural mesothelioma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Pralatrexatum: vorhergesagte neue Indikation Pleurales adenomatoides Tumor (pleural adenomatoid tumor) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -79,9 +79,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62657 | Folotyn 20 mg/1 ml, Infusionslösung | Synthetika | Zytostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62657 | Folotyn 20 mg/1 ml, Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

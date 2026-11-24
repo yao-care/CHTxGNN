@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00349
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clobazamum: vorhergesagte neue Indikation Fieberhaftes infektionsassoziiertes Epilepsiesyndrom (febrile infection-related epilepsy syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Anxiolytikum"
 ---
 
@@ -84,9 +84,15 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 41383 | Urbanyl, Tabletten | Synthetika | Anxiolytikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 41383 | Urbanyl, Tabletten | Synthetika | Anxiolytikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

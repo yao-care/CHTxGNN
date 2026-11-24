@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "bictegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bictegravir: vorhergesagte neue Indikation Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -86,9 +86,15 @@ Derzeit keine verwandten klinischen Studien registriert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66834 | Biktarvy, Filmtabletten | Synthetika | HIV-Infektion |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66834 | Biktarvy, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

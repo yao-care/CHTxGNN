@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00313
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acidum Valproicum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
@@ -81,11 +81,17 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 40410 | Convulex 150, Kapseln | Synthetika | Antiepileptikum |
-| 34734 | Depakine, solution buvable | Synthetika | Antiepileptikum |
-| 50271 | Depakine, poudre et solvant pour solution injectable/pour perfusion | Synthetika | Antiepileptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 34734 | Depakine, solution buvable | Synthetika | Antiépileptique | Gültig |
+| 40410 | Convulex 150, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Antiepilepticum | Gültig |
+| 50271 | Depakine, poudre et solvant pour solution injectable/pour perfusion | Synthetika | Antiépileptique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

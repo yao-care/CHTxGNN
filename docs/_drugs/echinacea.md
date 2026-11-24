@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Echinacea: vorhergesagte neue Indikation Lepra (Evidenzstufe L5). Ursprüngliche Indikation: Homöopathisch zur Steigerung der Abwehrkräfte bei Neigung zu Erkältun…"
 monitor_inn: "ECHINACEA"
 predicted_indications: ["leprosy", "candidiasis", "pneumocystosis"]
@@ -83,10 +83,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 52320 | Similasan Echinacea, Globuli | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, Erkältungen und Entzündungen der Mundschleimhäute |
-| 47405 | Spagymun Abwehrkräfte, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungskrankheiten, leichten Allgemeininfektionen, fiebrigen Erkältungskrankheiten; ferner unterstützend bei schleppend verlaufenden Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 47405 | Spagymun Abwehrkräfte, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungskrankheiten,… | Gültig |
+| 52320 | Similasan Echinacea, Globuli | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Steigerung der Abwehrkräfte bei Neigung zu Erkältungen, Grippe, E… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

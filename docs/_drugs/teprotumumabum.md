@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06343
 monitor_inn: "Teprotumumab"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Teprotumumabum: vorhergesagte neue Indikation Monosomie X (monosomy X) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung von Erwachsenen mit mittelschwerer bis schwerer aktiver TE…"
 ---
 
@@ -69,9 +69,15 @@ Der hohe Vorhersagewert ist deshalb mit grosser Vorsicht zu interpretieren. Er s
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69795 | Tepezza 500 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Behandlung von Erwachsenen mit mittelschwerer bis schwerer aktiver TED (Thyroid Eye Disease) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69795 | Tepezza 500 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… | Biotechnologika | Behandlung von Erwachsenen mit mittelschwerer bis schwerer aktiver TED (Thyroid Eye Disease) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

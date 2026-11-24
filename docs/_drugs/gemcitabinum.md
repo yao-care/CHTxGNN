@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00441
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gemcitabinum: vorhergesagte neue Indikation Rektales muzinöses Adenokarzinom (rectum mucinous adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -67,11 +67,17 @@ Ein Hinweis auf die Eignung bei Adenokarzinomen des Rektums findet sich in den D
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61449 | Gemcitabin Sandoz 200 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 65005 | Gemcitabin-Teva liquid 200 mg / 5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 66735 | Gemcitabin Accord 200 mg/2 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61449 | Gemcitabin Sandoz 200 mg/5 ml, Konzentrat zur Herstellung einer Infus… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 65005 | Gemcitabin-Teva liquid 200 mg / 5 ml, Konzentrat zur Herstellung eine… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 66735 | Gemcitabin Accord 200 mg/2 ml, Konzentrat zur Herstellung einer Infus… (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

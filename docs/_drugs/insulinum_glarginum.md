@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00047
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulinum Glarginum: vorhergesagte neue Indikation Autoimmune oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabète sucré"
 ---
 
@@ -81,12 +81,18 @@ Derzeit keine verwandte Literatur verfügbar
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55346 | Lantus, Injektionslösung in Patrone | Biotechnologika | Diabetes mellitus |
-| 58044 | Lantus SoloStar (Fertigpen), Injektionslösung | Biotechnologika | Diabetes mellitus |
-| 65069 | Abasaglar KwikPen 100 U/ml, Injektionslösung | Biotechnologika | Diabetes mellitus |
-| 65453 | Toujeo SoloStar 300 Einheiten/ml, Injektionslösung im Fertigpen | Biotechnologika | Diabetes mellitus |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55346 | Lantus, solution injectable en cartouche | Biotechnologika | Diabète sucré | Gültig |
+| 58044 | Lantus SoloStar (Stylo prérempli), solution injectable | Biotechnologika | Diabète sucré | Gültig |
+| 65069 | Abasaglar KwikPen 100 U/ml, solution injectable | Biotechnologika | Diabète sucré | Gültig |
+| 65453 | Toujeo SoloStar 300 unités/ml, solution injectable en stylo pré-rempli | Biotechnologika | Diabète sucré | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

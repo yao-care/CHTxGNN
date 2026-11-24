@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00773
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposidum: vorhergesagte neue Indikation Gut differenziertes fetales Adenokarzinom der Lunge (well-differentiated fetal adenocarcinoma of the lung) (Evidenzstufe L5)."
 ---
 
@@ -79,11 +79,17 @@ Es gibt keine publizierte Studie, die Etoposid direkt beim gut differenzierten f
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 55165 | Etoposid Sandoz 100 mg/5 ml, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 53557 | Etopophos 113.6 mg, Pulver zur Herstellung einer Infusionslösung | Synthetika | Zytostatikum |
-| 42888 | Vepesid 100 mg, Kapseln | Synthetika | Zytostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 42888 | Vepesid 100 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 53557 | Etopophos 113.6 mg, Pulver zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+| 55165 | Etoposid Sandoz 100 mg/5 ml, Konzentrat zur Herstellung einer Infusio… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Alle drei Zulassungen sind gültig und betreffen Einzelwirkstoff-Präparate.
 

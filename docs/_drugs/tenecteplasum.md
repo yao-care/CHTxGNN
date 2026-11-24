@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00031
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tenecteplasum: vorhergesagte neue Indikation Angeborene Koronararterienanomalie (congenital coronary artery anomaly) (Evidenzstufe L5)."
 ---
 
@@ -81,10 +81,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69958 | Metalyse 5'000 U, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Thrombolytische Therapie bei akutem ischämischem Schlaganfall |
-| 55418 | Metalyse 10'000 U, Pulver und Lösungsmittel zur Herstellung einer Injektionslösung | Biotechnologika | Thrombolytische Therapie bei akutem Herzinfarkt |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55418 | Metalyse 10'000 U, Pulver und Lösungsmittel zur Herstellung einer Inj… | Biotechnologika | Thrombolytische Therapie bei akutem Herzinfarkt | Gültig |
+| 69958 | Metalyse 5'000 U, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Thrombolytische Therapie bei akutem ischämischem Schlaganfall | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

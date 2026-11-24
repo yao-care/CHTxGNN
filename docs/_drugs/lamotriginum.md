@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00555
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamotriginum: vorhergesagte neue Indikation Trigeminusneoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum…"
 ---
 
@@ -86,12 +86,20 @@ Die gefundenen Publikationen betreffen die Trigeminusneuralgie und nicht einen T
 
 Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst, alle gültig).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 52853 | Lamictal 5 mg, Kautabletten/dispergierbare Tabletten | Synthetika | Antiepileptikum; Prävention depressiver Episoden bei bipolaren Störungen |
-| 57412 | Lamotrigin Sandoz 25, Tabletten | Synthetika | Antiepileptikum |
-| 57437 | Lamotrigin Desitin 25 mg, Tabletten | Synthetika | Antiepileptikum; Prävention depressiver Episoden bei bipolaren Störungen |
-| 57367 | Lamotrigin Zentiva 5 mg, Tabletten | Synthetika | Antiepileptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52853 | Lamictal 5 mg, Kautabletten/dispergierbare Tabletten (+5 weitere Bezeichnungen) | Synthetika | Antiepilepticum, Prävention von depressiven Episoden bei Patienten mit bipolaren Störungen | Gültig |
+| 57367 | Lamotrigin Zentiva 5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Gültig |
+| 57412 | Lamotrigin Sandoz 25, Tabletten (+4 weitere Bezeichnungen) | Synthetika | Antiepilepticum | Gültig |
+| 57437 | Lamotrigin Desitin 25 mg, Tabletten (+4 weitere Bezeichnungen) | Synthetika | Antiepilepticum, Prävention von depressiven Episoden bei Patienten mit bipolaren Störungen | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01009
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoprofenum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,15 @@ Ein belegter mechanistischer Zusammenhang besteht daher nicht. Der sehr hohe Vor
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 50227 | Fastum, Gel | Synthetika | Antiphlogistikum, Antirheumatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 50227 | Fastum, Gel | Synthetika | Antiphlogistikum, Antirheumatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

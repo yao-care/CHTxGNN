@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01042
 monitor_inn: "Melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Melphalanum: vorhergesagte neue Indikation Weibliches Mammakarzinom (female breast carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -93,12 +93,18 @@ Die vorhandenen klinischen Daten stammen aus kleinen Frühphasenstudien im Hochd
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68196 | Melphalan Ideogen 50 mg, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Zytostatikum |
-| 52193 | Alkeran, Pulver und Lösungsmittel zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Zytostatikum |
-| 68507 | Phelinun 50 mg, Pulver und Lösungsmittel für Infusionslösungskonzentrat | Synthetika | Zytostatikum |
-| 30897 | Alkeran 2 mg, Filmtabletten | Synthetika | Zytostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 30897 | Alkeran 2 mg, Filmtabletten | Synthetika | Zytostatikum | Gültig |
+| 52193 | Alkeran, Pulver und Lösungsmittel zur Herstellung einer Injektions-/I… | Synthetika | Zytostatikum | Gültig |
+| 68196 | Melphalan Ideogen 50 mg, Pulver und Lösungsmittel zur Herstellung ein… | Synthetika | Zytostatikum | Gültig |
+| 68507 | Phelinun 50 mg, polvere e solvente per concentrato per soluzione per… (+1 weitere Bezeichnung) | Synthetika | Citostatico | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

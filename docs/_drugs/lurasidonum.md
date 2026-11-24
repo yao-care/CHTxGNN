@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08815
 monitor_inn: "Lurasidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Lurasidonum: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokulare Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -79,9 +79,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62785 | Latuda 40 mg, Filmtabletten | Synthetika | Neuroleptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62785 | Latuda 40 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

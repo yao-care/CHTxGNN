@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00413
 monitor_inn: "Pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pramipexolum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson…"
 ---
 
@@ -93,12 +93,20 @@ Keine der gefundenen Publikationen untersucht Pramipexol direkt bei ADHS. Die fo
 
 Die Liste ist möglicherweise nicht vollständig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59149 | Pramipexol-Mepha 0.125 mg, Tabletten | Synthetika | Morbus Parkinson, symptomatische Behandlung des idiopathischen Restless-Legs-Syndroms (RLS) |
-| 70426 | Pramipexol Spirig HC retard 0.375 mg, Retardtabletten | Synthetika | Morbus Parkinson |
-| 60089 | Pramipexol Zentiva 0.125 mg, Tabletten | Synthetika | Morbus Parkinson, symptomatische Behandlung des idiopathischen Restless-Legs-Syndroms (RLS) |
-| 66744 | Pramipexol Spirig HC 0.125 mg, Tabletten | Synthetika | Morbus Parkinson, symptomatische Behandlung des idiopathischen Restless-Legs-Syndroms (RLS) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 59149 | Pramipexol-Mepha 0.125 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Morbus Parkinson, symptomatische Behandlung des idiopathischen Restless Legs Syndroms (RLS) | Gültig |
+| 60089 | Pramipexol Zentiva 0.125 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Morbus Parkinson, symptomatische Behandlung des idiopathischen Restless Legs Syndroms (RLS) | Gültig |
+| 66744 | Pramipexol Spirig HC 0.125 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson, symptomatische Behandlung des idiopathischen Restless Legs Syndroms (RLS) | Gültig |
+| 70426 | Pramipexol Spirig HC retard 0.375 mg, Retardtabletten (+4 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

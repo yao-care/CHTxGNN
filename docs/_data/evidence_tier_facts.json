@@ -701,7 +701,7 @@
   "with_current": 560,
   "none_current": 6,
   "without_data": 104,
-  "with_reviews": 315,
+  "with_reviews": 316,
   "rows": [
    {
     "t": "Dextromethorphanum",
@@ -1700,8 +1700,8 @@
     "i": "Polyklonales Hyperviskositätssyndrom",
     "lt": 0,
     "lv": 5,
-    "r": 2,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "r": 3,
+    "rs": "„6 gültig und 2 gelöscht“ → „5 gültig und 3 erloschen“",
     "x": 0
    },
    {
@@ -2866,8 +2866,8 @@
     "i": "Maligne hypertensive Nierenerkrankung",
     "lt": 0,
     "lv": 3,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "r": 2,
+    "rs": "„alle gültig“ → „davon 3 gültig“",
     "x": 0
    },
    {
@@ -3383,8 +3383,8 @@
     "i": "Intrakranielle Arteriosklerose",
     "lt": 0,
     "lv": 3,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "r": 2,
+    "rs": "„alle gültig“ → „drei der vier gültig“",
     "x": 1
    },
    {
@@ -4219,8 +4219,8 @@
     "i": "Maligne hypertensive Nierenerkrankung",
     "lt": 0,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "„alle drei gültig“ → „zwei der drei gültig“",
     "x": 0
    },
    {

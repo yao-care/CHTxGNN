@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00520
 monitor_inn: "Caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Caspofunginum: vorhergesagte neue Indikation Anomalie der Gastrinsekretion (gastrin secretion abnormality) (Evidenzstufe L5). Ursprüngliche Indikation: Antimycotique"
 ---
 
@@ -71,13 +71,19 @@ Denkbare Hypothesen wären Wirkungen auf endokrine Zellen des Magens, auf die Da
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69453 | Caspofungin Leman 50 mg, Pulver für ein Infusionskonzentrat | Synthetika | Antimykotikum |
-| 67186 | Caspofungin Viatris 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum |
-| 66716 | Caspofungin Sandoz eco 50 mg i.v., Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum |
-| 67231 | Caspofungin-Mepha 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antimykotikum |
-| 68433 | Caspofungin Labatec 50 mg, Pulver für ein Infusionskonzentrat | Synthetika | Antimykotikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66716 | Caspofungin Sandoz eco 50 mg i.v., Pulver für ein Konzentrat zur Hers… (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
+| 67186 | Caspofungin Viatris 50 mg, Pulver für ein Konzentrat zur Herstellung… (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
+| 67231 | Caspofungin-Mepha 50 mg, Pulver für ein Konzentrat zur Herstellung ei… (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
+| 68433 | Caspofungin Labatec 50 mg, Poudre pour solution à diluer pour perfusi… (+1 weitere Bezeichnung) | Synthetika | Antimycotique | Gültig |
+| 69453 | Caspofungin Leman 50 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetika | Antimycotique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01018
 monitor_inn: "Guanfacine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Guanfacinum: vorhergesagte neue Indikation Faziodigitogenitales Syndrom (faciodigitogenital syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: ADHS bei Kindern und Jugendlichen (6-17 Jahre)"
 ---
 
@@ -79,9 +79,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66130 | Intuniv 1 mg, Retardtabletten (Takeda Pharma AG) | Synthetika | ADHS bei Kindern und Jugendlichen (6–17 Jahre) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66130 | Intuniv 1 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | ADHS bei Kindern und Jugendlichen (6-17 Jahre) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

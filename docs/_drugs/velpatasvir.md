@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 105
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Velpatasvir: vorhergesagte neue Indikation Hepatitis-B-Virusinfektion (Evidenzstufe L3). Ursprüngliche Indikation: Chronische Hepatitis C"
 monitor_inn: "velpatasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -94,10 +94,16 @@ Die vorliegenden klinischen Hinweise sind indirekt. In den Studien wird Hepatiti
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66095 | Epclusa, Filmtabletten | Synthetika | Chronische Hepatitis C |
-| 66510 | Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66095 | Epclusa, Filmtabletten | Synthetika | Chronische Hepatitis C | Gültig |
+| 66510 | Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

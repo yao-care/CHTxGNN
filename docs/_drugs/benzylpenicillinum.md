@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01053
 monitor_inn: "Benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "chemotherapy-induced oral mucositis", "denture stomatitis", "leukoplakia of gingiva"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzylpenicillinum: vorhergesagte neue Indikation Perikoronitis (pericoronitis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -69,10 +69,16 @@ Für Benzylpenicillin selbst fehlen jedoch direkte Belege. Zudem wird es als Inj
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56271 | Penicillin "Grünenthal" 1 Mega, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
-| 69765 | Extencilline 1'200'000 UI, poudre et solvant pour suspension injectable | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56271 | Penicillin "Grünenthal" 1 Mega, Pulver zur Herstellung einer Injektio… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 69765 | Extencilline 1'200'000 UI, poudre et solvant pour suspension injectab… (+1 weitere Bezeichnung) | Synthetika | Maladies infectieuses | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

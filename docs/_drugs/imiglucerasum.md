@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00053
 monitor_inn: "Imiglucerase"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imiglucerasum: vorhergesagte neue Indikation Hurler-Syndrom (Hurler syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: maladie de Gaucher type I et type III"
 ---
 
@@ -83,9 +83,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54663 | Cerezyme 400 U, Pulver zur Herstellung einer Infusionslösung (Konzentrat) | Biotechnologika | Morbus Gaucher Typ I und Typ III |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54663 | Cerezyme 400 U, poudre pour solution à diluer pour perfusion | Biotechnologika | maladie de Gaucher type I et type III | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

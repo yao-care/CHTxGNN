@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01097
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Leflunomidum: vorhergesagte neue Indikation Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Polyarthrite rhumatoïde active"
 ---
 
@@ -85,12 +85,20 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Es sind mindestens 4 Zulassungen erfasst, die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 54834 | Arava 10 mg, Filmtabletten | Synthetika | Aktive rheumatoide Arthritis |
-| 61505 | Leflunomid Sandoz 10, Filmtabletten | Synthetika | Aktive rheumatoide Arthritis |
-| 62248 | Leflunomide Zentiva 10 mg, Filmtabletten | Synthetika | Aktive rheumatoide Arthritis |
-| 61443 | Leflunomid Gebro 10 mg, Filmtabletten | Synthetika | Aktive rheumatoide Arthritis |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54834 | Arava 10 mg, comprimés pelliculés (+2 weitere Bezeichnungen) | Synthetika | Polyarthrite rhumatoïde active | Gültig |
+| 61443 | Leflunomid Gebro 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Aktive rheumatoide Arthritis | Gültig |
+| 61505 | Leflunomid Sandoz 10, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Aktive rheumatoide Arthritis | Gültig |
+| 62248 | Leflunomide Zentiva 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Aktive rheumatoide Arthritis | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

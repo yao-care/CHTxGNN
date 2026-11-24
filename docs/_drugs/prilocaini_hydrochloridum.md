@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00750
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Prilocaini Hydrochloridum: vorhergesagte neue Indikation Papilläre Konjunktivitis (papillary conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Anestesia intratecale"
 ---
 
@@ -81,10 +81,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67498 | Prilocain Hyperbar Sintetica 20 mg/ml, Injektionslösung | Synthetika | Intrathekale Anästhesie |
-| 56546 | Prilocain Sintetica 5 mg/ml, Injektionslösung | Synthetika | Lokalanästhetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56546 | Prilocain Sintetica 5 mg/ml, soluzione iniettabile (+2 weitere Bezeichnungen) | Synthetika | Anestetico locale | Gültig |
+| 67498 | Prilocain Hyperbar Sintetica 20 mg/ml, soluzione iniettabile | Synthetika | Anestesia intratecale | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

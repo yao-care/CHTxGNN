@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB14042
 monitor_inn: "Galcanezumab"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Galcanezumabum: vorhergesagte neue Indikation Heparin cofactor 2 deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Traitement prophylactique de la migraine"
 ---
 
@@ -71,9 +71,15 @@ Der hohe Vorhersagewert beruht vermutlich auf Mustern in den Modelldaten und nic
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67026 | Emgality 120 mg, solution injectable en stylo prérempli | Biotechnologika | Vorbeugende Behandlung der Migräne |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67026 | Emgality 120 mg, solution injectable en stylo prérempli | Biotechnologika | Traitement prophylactique de la migraine | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

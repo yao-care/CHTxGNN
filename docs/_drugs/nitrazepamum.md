@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01595
 monitor_inn: "Nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Nitrazepamum: vorhergesagte neue Indikation Wernicke-Korsakoff-Syndrom (Wernicke-Korsakoff syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Schlafmittel"
 ---
 
@@ -71,9 +71,15 @@ Der hohe Vorhersagewert ist deshalb mit Vorsicht zu lesen. Er könnte auf einer 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 31406 | Mogadon, Tabletten | Synthetika | Schlafmittel |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 31406 | Mogadon, Tabletten | Synthetika | Schlafmittel | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

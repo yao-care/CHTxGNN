@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tezacaftor: vorhergesagte neue Indikation HIV-Infektionskrankheit (Evidenzstufe L5). Ursprüngliche Indikation: Zystische Fibrose (Mukoviszidose)…"
 monitor_inn: "tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
@@ -82,12 +82,18 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66742 | Symdeko 100 mg / 150 mg und 150 mg, Filmtabletten | Synthetika | Behandlung zystischer Fibrose |
-| 69398 | Alyftrek 4 mg/ 20 mg/ 50 mg, Filmtabletten | Synthetika | Zystische Fibrose |
-| 69212 | Trikafta 100 mg / 50 mg / 75 mg, 75 mg, Granulat | Synthetika | Zystische Fibrose bei Kindern von 2 bis <6 Jahren |
-| 67773 | Trikafta 100 mg / 50 mg / 75 mg, 150 mg, Filmtabletten | Synthetika | Mukoviszidose |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66742 | Symdeko 100 mg / 150 mg und 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung zystischer Fibrose | Gültig |
+| 67773 | Trikafta 100 mg / 50 mg / 75 mg, 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Mukoviszidose | Gültig |
+| 69212 | Trikafta 100 mg / 50 mg / 75 mg, 75 mg, Granulat (+1 weitere Bezeichnung) | Synthetika | zystische Fibrose bei Kindern von 2 bis <6 Jahren | Gültig |
+| 69398 | Alyftrek 4 mg/ 20 mg/ 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zystische Fibrose | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

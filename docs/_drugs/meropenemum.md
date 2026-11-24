@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00760
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Meropenemum: vorhergesagte neue Indikation Bakterielle Arthritis (bacterial arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: maladies infectieuses"
 ---
 
@@ -94,12 +94,18 @@ Die Publikationen betreffen verwandte Infektionen (v. a. Melioidose mit Gelenk- 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59463 | Meropenem Labatec i.v. 500 mg, Pulver zur Herstellung einer Injektions- oder Infusionslösung | Synthetika | Infektionskrankheiten |
-| 53105 | Meronem 500 mg, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
-| 70085 | Meropenem OrPha 500 mg, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
-| 62419 | Meropenem Fresenius i.v. 500 mg, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53105 | Meronem 500 mg, Pulver zur Herstellung einer Injektions-/Infusionslös… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 59463 | Meropenem Labatec i.v. 500 mg, poudre pour injection ou perfusion (+1 weitere Bezeichnung) | Synthetika | maladies infectieuses | Gültig |
+| 62419 | Meropenem Fresenius i.v. 500 mg, Pulver zur Herstellung einer Injekti… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 70085 | Meropenem OrPha 500 mg, Pulver zur Herstellung einer Injektions-/Infu… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01060
 monitor_inn: "Amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Amoxicillinum Anhydricum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -69,13 +69,21 @@ Ein plausibler Mechanismus, der diese antibakterielle Wirkung mit einer Senkung 
 
 Die Liste ist möglicherweise unvollständig: Es sind mindestens 5 Zulassungen erfasst.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56203 | Amoxicillin Sandoz 500, dispergierbare Filmtabletten | Synthetika | Infektionskrankheiten |
-| 66711 | Amoxicillin Spirig HC 500, dispergierbare Tabletten | Synthetika | Infektionskrankheiten |
-| 49929 | Amoxi-Mepha 200 mg/4 mL, Granulat zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten |
-| 49924 | Amoxicillin Sandoz 500, Filmtabletten | Synthetika | Infektionskrankheiten |
-| 68815 | Amoxicillin OrPha 250 mg, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49924 | Amoxicillin Sandoz 500, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 49929 | Amoxi-Mepha 200 mg/4 mL, Granulat zur Herstellung einer Suspension zu… | Synthetika | Infektionskrankheiten | Gültig |
+| 56203 | Amoxicillin Sandoz 500, dispergierbare Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 66711 | Amoxicillin Spirig HC 500, dispergierbare Tabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 68815 | Amoxicillin OrPha 250 mg, Pulver zur Herstellung einer Injektions-/In… (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

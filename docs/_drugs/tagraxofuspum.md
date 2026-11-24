@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB14731
 monitor_inn: "Tagraxofusp"
 predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "non-seminomatous lesion", "ductal or ductular proliferation", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "cystic neoplasm", "thyroglossal duct cyst"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tagraxofuspum: vorhergesagte neue Indikation Esotropie (esotropia) (Evidenzstufe L5). Ursprüngliche Indikation: Blastische plasmazytoide dendritische Zellneoplasie (BPDCN)"
 ---
 
@@ -69,9 +69,15 @@ Der hohe Vorhersagewert (0,9973) ist ein rechnerisches Ergebnis des Modells ohne
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68797 | Elzonris 1 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Blastische plasmazytoide dendritische Zellneoplasie (BPDCN) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 68797 | Elzonris 1mg / ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Blastische plasmazytoide dendritische Zellneoplasie (BPDCN) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

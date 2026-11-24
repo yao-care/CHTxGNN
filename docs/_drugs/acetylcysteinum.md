@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06151
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylcysteinum: vorhergesagte neue Indikation Thrombotische Erkrankung (thrombotic disease) (Evidenzstufe L3). Ursprüngliche Indikation: Mucolitico"
 ---
 
@@ -97,17 +97,25 @@ Die Bezeichnung «thrombotische Erkrankung» fasst sehr unterschiedliche Krankhe
 
 Es sind mindestens 9 Zulassungen erfasst; die Liste kann unvollständig sein.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 52254 | Solmucol tosse grassa 100 mg/5 ml, sciroppo per bambini | Synthetika | Mukolytikum |
-| 62750 | Coop Vitality Acetylcystein 600, Brausetabletten | Synthetika | Mukolytikum |
-| 37561 | Fluimucil 100, granulato per soluzione orale | Synthetika | Mukolytikum |
-| 61216 | Amavita Acetylcystein 600 mg, Brausetabletten | Synthetika | Mukolytikum |
-| 57337 | Fluimucil 200 tosse grassa, compresse effervescenti | Synthetika | Mukolytikum |
-| 45179 | Fluimucil 200, compresse effervescenti | Synthetika | Mukolytikum |
-| 53985 | ACC Sandoz 600, Brausetabletten mit Brombeeraroma | Synthetika | Mukolytikum |
-| 54907 | Mucostop 600 mg, Brausetabletten | Synthetika | Mukolytikum |
-| 50046 | Solmucol tosse grassa 200 mg, pastiglia | Synthetika | Mukolytikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 37561 | Fluimucil 100, granulato per soluzione orale (+2 weitere Bezeichnungen) | Synthetika | mucolitico | Gültig |
+| 45179 | Fluimucil 200, compresse effervescenti (+1 weitere Bezeichnung) | Synthetika | mucolitico | Gültig |
+| 50046 | Solmucol tosse grassa 200 mg, pastiglia | Synthetika | Mucolitico | Gültig |
+| 52254 | Solmucol tosse grassa 100 mg/5 ml, sciroppo per bambini (+1 weitere Bezeichnung) | Synthetika | Mucolitico | Gültig |
+| 53985 | ACC Sandoz 600, Brausetabletten mit Brombeeraroma (+1 weitere Bezeichnung) | Synthetika | Mukolytikum | Gültig |
+| 54907 | Mucostop 600 mg, Brausetabletten (+1 weitere Bezeichnung) | Synthetika | Mukolytikum | Gültig |
+| 57337 | Fluimucil 200 tosse grassa, compresse effervescenti (+1 weitere Bezeichnung) | Synthetika | Mucolitico | Gültig |
+| 61216 | Amavita Acetylcystein 600 mg, Brausetabletten | Synthetika | Mukolytikum | Gültig |
+| 62750 | Coop Vitality Acetylcystein 600, Brausetabletten | Synthetika | Mukolytikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

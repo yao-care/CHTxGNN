@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01064
 monitor_inn: "Isoprenaline"
 predicted_indications: ["nasal cavity disease", "headache disorder", "pharyngitis", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isoprenalini Hydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Sympathomimetikum"
 ---
 
@@ -69,9 +69,15 @@ Klinische Studien zur vorhergesagten Indikation sind derzeit nicht registriert.
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56457 | Isuprel, Injektionslösung / Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Sympathomimetikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56457 | Isuprel, Injektionslösung / Konzentrat zur Herstellung einer Infusion… | Synthetika | Sympathomimetikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ## Sicherheitshinweise
 

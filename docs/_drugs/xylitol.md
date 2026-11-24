@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Xylitol: vorhergesagte neue Indikation Meningokokken-Infektion (Evidenzstufe L5). Ursprüngliche Indikation: Kardioplegie-Lösung bei Herzoperationen"
 monitor_inn: "xylitol"
 predicted_indications: ["meningococcal infection"]
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68015 | Cardioplexol, Kardioplege Lösung | Synthetika | Kardioplegie-Lösung bei Herzoperationen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 68015 | Cardioplexol, Kardioplege Lösung | Synthetika | Kardioplegie-Lösung bei Herzoperationen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

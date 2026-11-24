@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00334
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Olanzapinum: vorhergesagte neue Indikation Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5). Ursprüngliche Indikation: Neuroleptica"
 ---
 
@@ -71,12 +71,20 @@ Da die Erkrankung gutartig verläuft und von selbst abklingt, ist das Nutzen-Ris
 
 Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 59813 | Olanzapin Spirig HC 2.5, Filmtabletten | Synthetika | Neuroleptikum |
-| 53709 | Zyprexa 5 mg, Filmtabletten | Synthetika | Neuroleptikum |
-| 59333 | Olanzapin-Mepha 5 oro, Schmelztabletten | Synthetika | Neuroleptikum |
-| 55311 | Zyprexa Velotab 5 mg, Schmelztabletten | Synthetika | Neuroleptikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 53709 | Zyprexa 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+| 55311 | Zyprexa Velotab 5 mg, Schmelztabletten | Synthetika | Neuroleptikum | Gültig |
+| 59333 | Olanzapin-Mepha 5 oro, Schmelztabletten (+4 weitere Bezeichnungen) | Synthetika | Neuroleptica | Gültig |
+| 59813 | Olanzapin Spirig HC 2.5, Filmtabletten (+4 weitere Bezeichnungen) | Synthetika | Neuroleptica | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

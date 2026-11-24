@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00820
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tadalafilum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -69,12 +69,20 @@ Ein belegter mechanistischer Zusammenhang mit der vorhergesagten Erkrankung best
 
 Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67625 | Tadalafil Spirig HC, 2.5 mg, Filmtabletten | Synthetika | Erektile Dysfunktion |
-| 66443 | Tadalafil PAH-Mepha, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie (PAH) |
-| 67968 | Tadalafil PAH OrPha 20 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie |
-| 69170 | Tadalafil Zentiva 2,5 mg, Filmtabletten | Synthetika | Erektile Dysfunktion, funktionelle Symptome einer benignen Prostatahyperplasie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66443 | Tadalafil PAH-Mepha, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie (PAH) | Gültig |
+| 67625 | Tadalafil Spirig HC, 2.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Erektile Dysfunktion | Gültig |
+| 67968 | Tadalafil PAH OrPha 20 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie | Gültig |
+| 69170 | Tadalafil Zentiva 2,5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Erektile Dysfunktion, Therapie der funktionellen Symptome einer benignen Prostatahyperplasie. | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00640
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adenosinum: vorhergesagte neue Indikation Obsolete Schenkelblockierung (obsolete bundle branch block) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarythmique"
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 51567 | Krenosin, Injektionslösung | Synthetika | Antiarrhythmikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 51567 | Krenosin, solution injectable | Synthetika | Antiarythmique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

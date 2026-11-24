@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01394
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Colchicinum: vorhergesagte neue Indikation Plasmodium-falciparum-Malaria (Plasmodium falciparum malaria) (Evidenzstufe L5)."
 ---
 
@@ -84,9 +84,15 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67974 | COLCTAB 1 mg, Tabletten | Synthetika | Gichtarthritis, Perikarditis, familiäres Mittelmeerfieber |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67974 | COLCTAB 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Gichtarthtritis, Perikarditis, familiäres Mittelmeerfieber | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

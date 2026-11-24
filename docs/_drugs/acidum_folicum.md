@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00158
 monitor_inn: "Folic acid"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acidum Folicum: vorhergesagte neue Indikation Biotin-Stoffwechselerkrankung (biotin metabolic disease) (Evidenzstufe L5)."
 ---
 
@@ -96,14 +96,20 @@ Die gefundenen Publikationen behandeln überwiegend B-Vitamine allgemein, Diabet
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65228 | Metofol 5mg, Tabletten | Synthetika | Megaloblastäre Anämien durch Folsäure-Mangel |
-| 54718 | Andreafol, Tabletten | Synthetika | Prophylaxe von primären Neuralrohrdefekten |
-| 36752 | Acidum folicum Streuli 5 mg, Tabletten | Synthetika | Megaloblastäre Anämien durch Folsäure-Mangel |
-| 56272 | Drossafol, Tabletten | Synthetika | Megaloblastäre Anämien durch Folsäure-Mangel |
-| 58121 | Fertifol, comprimés | Synthetika | Erhöhter Folsäurebedarf in Schwangerschaft und Stillzeit |
-| 55746 | Acidum Folicum Hänseler 5 mg, Tabletten | Synthetika | Megaloblastäre Anämien durch Folsäure-Mangel |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 36752 | Acidum folicum Streuli 5 mg, Tabletten | Synthetika | Durch Folsäure-Mangel verursachte megaloblastische Anämien | Gültig |
+| 54718 | Andreafol, Tabletten | Synthetika | Prophylaxe von primären Neuralrohrdefekten | Gültig |
+| 55746 | Acidum Folicum Hänseler 5 mg, Tabletten | Synthetika | Durch Folsäure-Mangel verursachte megaloblastische Anämien | Gültig |
+| 56272 | Drossafol, Tabletten | Synthetika | Durch Folsäure-Mangel verursachte megaloblastische Anämien | Gültig |
+| 58121 | Fertifol, comprimés | Synthetika | Besoin accru d'acide folique pendant la grossesse et l'allaitement | Gültig |
+| 65228 | Metofol 5mg, Tabletten | Synthetika | Durch Folsäure-Mangel verursachte megaloblastische Anämien | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

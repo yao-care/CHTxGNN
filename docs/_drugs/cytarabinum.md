@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00987
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Cytarabinum: vorhergesagte neue Indikation Kleinzelliges Lungenkarzinom (small cell lung carcinoma) (Evidenzstufe L3). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -93,9 +93,15 @@ Nur die ersten beiden Arbeiten untersuchen das kleinzellige Lungenkarzinom direk
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zulassungsinhaberin | Status |
-|---------|------|------|------|------|
-| 54845 | Cytosar Solution 100 mg/5 ml, Injektionslösung | Synthetika | Pfizer AG | Gültig |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 54845 | Cytosar Solution 100 mg/5 ml, Injektionslöung (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB04854
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Febuxostatum: vorhergesagte neue Indikation Renale Hypourikämie (hypouricemia, renal) (Evidenzstufe L5). Ursprüngliche Indikation: Urikostatikum"
 ---
 
@@ -86,9 +86,15 @@ Ein einziger denkbarer Anknüpfungspunkt ist ein Fallbericht, in dem Xanthinoxid
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65851 | Adenuric 80 mg, Filmtabletten | Synthetika | Urikostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 65851 | Adenuric 80 mg, Filmtabletten | Synthetika | Urikostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

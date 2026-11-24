@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00574
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fenfluraminum: vorhergesagte neue Indikation Proximal 16p11.2 microdeletion syndrome (Evidenzstufe L5)."
 ---
 
@@ -69,9 +69,15 @@ Dieser Zusammenhang ist rein spekulativ. Der hohe Vorhersagewert ist eine Modell
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69371 | Fintepla 2,2 mg/ml, Lösung zum Einnehmen | Synthetika | Zusatztherapie bei epileptischen Anfällen im Zusammenhang mit dem Dravet-Syndrom oder dem Lennox-Gastaut-Syndrom bei Patientinnen und Patienten ab 2 Jahren |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 69371 | Fintepla 2.2 mg/ml, solution buvable | Synthetika | Traitement adjuvant des crises d'épilepsie associées au syndrome de Dravet (SD) ou au syndrome de Lennox-Gast… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

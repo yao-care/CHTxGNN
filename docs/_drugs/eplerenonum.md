@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00700
 monitor_inn: "Eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eplerenonum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge von Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
 ---
 
@@ -94,12 +94,18 @@ Keine der Arbeiten untersucht die vorhergesagte Erkrankung direkt am Menschen. D
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66107 | Eplerenon-Mepha 25 mg, Filmtabletten | Synthetika | Diuretikum |
-| 66155 | Eplerenon Spirig HC 25mg, Filmtabletten | Synthetika | Diuretikum |
-| 66163 | Eplerenon Sandoz 25 mg, Filmtabletten | Synthetika | Diuretikum |
-| 57147 | Inspra 25 mg, Filmtabletten | Synthetika | Diuretikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 57147 | Inspra 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diuretikum | Gültig |
+| 66107 | Eplerenon-Mepha 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diuretikum | Gültig |
+| 66155 | Eplerenon Spirig HC 25mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diuretikum | Gültig |
+| 66163 | Eplerenon Sandoz 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diuretikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

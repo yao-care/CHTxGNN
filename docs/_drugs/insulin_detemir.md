@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Detemir: vorhergesagte neue Indikation autoimmune Oophoritis (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes mellitus"
 monitor_inn: "insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -104,10 +104,16 @@ Die Datenlage umfasst viele Studien zu Typ-1-Diabetes. Nachfolgend die relevante
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 56371 | Insulin NovoNordisk Levemir 100 E/ml FlexPen, Injektionslösung | Biotechnologika | Diabetes mellitus |
-| 56370 | Insulin NovoNordisk Levemir 100 E/ml Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56370 | Insulin NovoNordisk Levemir 100 E/ml Penfill, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+| 56371 | Insulin NovoNordisk Levemir 100 E/ml FlexPen, Injektionslösung | Biotechnologika | Diabetes mellitus | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

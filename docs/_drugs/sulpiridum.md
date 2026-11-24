@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00391
 monitor_inn: "Sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Sulpiridum: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokuläre Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -78,10 +78,16 @@ Das ist nur ein indirekter Hinweis. Die Daten zeigen nicht, dass Sulpirid das Fo
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 34316 | Dogmatil, Hartkapseln | Synthetika | Antipsychotikum |
-| 40706 | Dogmatil 200 mg, Tabletten | Synthetika | Antipsychotikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 34316 | Dogmatil, Hartkapseln | Synthetika | Antipsychotikum | Gültig |
+| 40706 | Dogmatil 200 mg, Tabletten | Synthetika | Antipsychotikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB08934
 monitor_inn: "Sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sofosbuvirum: vorhergesagte neue Indikation Hepatitis-B-Virus-Infektion (hepatitis B virus infection) (Evidenzstufe L3). Ursprüngliche Indikation: Chronische Hepatitis C"
 ---
 
@@ -95,6 +95,16 @@ Ein kleiner Hinweis auf einen möglichen Effekt stammt aus der Beobachtung, dass
 ---
 
 ### Marktinformationen Schweiz
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63218 | Sovaldi 400 mg, Filmtabletten | Synthetika | Chronische Hepatitis C | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 Sofosbuvir ist in der Schweiz im Handel. Die gültige Zulassung betrifft das Präparat Sovaldi 400 mg, Filmtabletten (Gilead Sciences Switzerland Sàrl). Die Zulassungsdetails ergänzt das System aus den Zulassungsdaten.
 

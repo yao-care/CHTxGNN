@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01167
 monitor_inn: "Itraconazole"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Itraconazolum: vorhergesagte neue Indikation Pneumozystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 ---
 
@@ -90,15 +90,21 @@ Keine der Publikationen untersucht Itraconazol direkt bei Pneumozystose. Die Aus
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 60137 | Itraconazol axapharm, Kapseln | Synthetika | Antimykotikum |
-| 49610 | Sporanox, Kapseln | Synthetika | Antimykotikum |
-| 57493 | Itraconazol Spirig HC, Kapseln | Synthetika | Antimykotikum |
-| 57544 | Itracim, Kapseln | Synthetika | Antimykotikum |
-| 53630 | Sporanox G, Kapseln | Synthetika | Vulvovaginalkandidose |
-| 59319 | Itraconazol Sandoz eco 100 mg, Kapseln | Synthetika | Antimykotikum |
-| 57368 | Itraconazol-Mepha 100, Kapseln | Synthetika | Antimykotikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49610 | Sporanox, Kapseln | Synthetika | Antimykotikum | Gültig |
+| 53630 | Sporanox G, Kapseln | Synthetika | Vulvovaginalcandiosis | Gültig |
+| 57368 | Itraconazol-Mepha 100, Kapseln | Synthetika | Antimykotikum | Gültig |
+| 57493 | Itraconazol Spirig HC, Kapseln | Synthetika | Antimykotikum | Gültig |
+| 57544 | Itracim, Kapseln | Synthetika | Antimykotikum | Gültig |
+| 59319 | Itraconazol Sandoz eco 100 mg, Kapseln | Synthetika | Antimykotikum | Gültig |
+| 60137 | Itraconazol axapharm, Kapseln | Synthetika | Antimykotikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

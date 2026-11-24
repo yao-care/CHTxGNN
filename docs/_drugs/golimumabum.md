@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06674
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Golimumabum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis, Psoriasis Arthritis…"
 ---
 
@@ -71,12 +71,18 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis und wird durch keine Studi
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61263 | Simponi 50 mg, Injektionslösung in einer Fertigspritze | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (inkl. ankylosierende Spondylitis und nicht-radiographische axiale Spondyloarthritis), Colitis ulcerosa |
-| 61318 | Simponi 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (inkl. ankylosierende Spondylitis und nicht-radiographische axiale Spondyloarthritis), Colitis ulcerosa |
-| 70541 | Gomintia, Injektionslösung in einer Fertigspritze 50 mg/0.5 ml | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (inkl. ankylosierende Spondylitis und nicht-radiographische axiale Spondyloarthritis), Colitis ulcerosa |
-| 70542 | Gomintia, Injektionslösung im Fertigpen 50 mg/0.5 ml | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, axiale Spondyloarthritis (inkl. ankylosierende Spondylitis und nicht-radiographische axiale Spondyloarthritis), Colitis ulcerosa |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61263 | Simponi 50 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 61318 | Simponi 50 mg, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 70541 | Gomintia, Injektionslösung in einer Fertigspritze 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 70542 | Gomintia, Injektionslösung im Fertigpen 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

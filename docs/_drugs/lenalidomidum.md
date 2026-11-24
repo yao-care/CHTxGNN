@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00480
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenalidomidum: vorhergesagte neue Indikation Myeloische Leukämie (myeloid leukemia) (Evidenzstufe L2). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -104,10 +104,18 @@ Die gefundene Literatur besteht überwiegend aus allgemeinen Übersichtsarbeiten
 
 Die Liste kann unvollständig sein; es sind mindestens 2 Zulassungen erfasst.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 68518 | Lenalidomid Devatis 2.5 mg, Hartkapseln | Synthetika | Onkologikum |
-| 67714 | Lenalidomid Accord 2.5 mg, Hartkapseln | Synthetika | Onkologikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67714 | Lenalidomid Accord 2.5 mg, Hartkapseln (+5 weitere Bezeichnungen) | Synthetika | Onkologikum | Gültig |
+| 68518 | Lenalidomid Devatis 2.5 mg, Hartkapseln (+6 weitere Bezeichnungen) | Synthetika | Onkologikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

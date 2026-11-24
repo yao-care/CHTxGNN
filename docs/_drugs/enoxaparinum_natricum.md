@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01225
 monitor_inn: "Enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Enoxaparinum Natricum: vorhergesagte neue Indikation Thrombophilie durch Protein-C-Mangel, autosomal-rezessiv (thrombophilia due to protein C deficiency, autosomal recessive) (Evidenzstufe L5)."
 ---
 
@@ -71,10 +71,18 @@ Dieser Zusammenhang ist jedoch bislang nur durch den hohen Modellwert gestützt,
 
 Die Liste kann unvollständig sein; es sind mindestens 2 Zulassungen erfasst.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67702 | Hepaxane 2000 IE/UI (20 mg)/0,2 ml, Injektionslösung in Fertigspritze | Biotechnologika | Antikoagulans |
-| 49456 | Clexane 20 mg/0,2 ml, Injektionslösung | Biotechnologika | Antikoagulans |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 49456 | Clexane 20 mg/0.2 ml, solution injectable (+2 weitere Bezeichnungen) | Biotechnologika | Anticoagulant | Gültig |
+| 67702 | Hepaxane 2000 IE/UI (20 mg)/0.2 ml, solution injectable en seringue p… (+6 weitere Bezeichnungen) | Biotechnologika | Anticoagulant | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

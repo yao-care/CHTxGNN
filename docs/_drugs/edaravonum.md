@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB12243
 monitor_inn: "Edaravone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Edaravonum: vorhergesagte neue Indikation Heparin cofactor 2 deficiency (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der amyotrophen Lateralsklerose (ALS)"
 ---
 
@@ -69,10 +69,16 @@ Der hohe Vorhersagewert ist daher als Hypothese zu verstehen und nicht als Hinwe
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66492 | Radicava, Infusionslösung | Synthetika | Behandlung der amyotrophen Lateralsklerose (ALS) |
-| 68016 | Radicava, Suspension zum Einnehmen | Synthetika | Behandlung der amyotrophen Lateralsklerose (ALS) |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66492 | Radicava, Infusionslösung | Synthetika | Behandlung der amyotrophen Lateralsklerose (ALS) | Gültig |
+| 68016 | Radicava, Suspension zum Einnehmen | Synthetika | Behandlung der amyotrophen Lateralsklerose (ALS) | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

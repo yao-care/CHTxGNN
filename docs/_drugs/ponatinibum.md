@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB08901
 monitor_inn: "Ponatinib"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ponatinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: agent antinéoplasique"
 ---
 
@@ -81,9 +81,15 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 63097 | Iclusig 15 mg, comprimés pelliculés | Synthetika | Antineoplastischer Wirkstoff |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 63097 | Iclusig 15 mg, comprimés pelliculés (+2 weitere Bezeichnungen) | Synthetika | agent antinéoplasique | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

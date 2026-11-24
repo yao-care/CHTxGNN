@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB06282
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Levocetirizini Dihydrochloridum: vorhergesagte neue Indikation Rheumatoide Arthritis (rheumatoid arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: Antihistaminikum"
 ---
 
@@ -81,15 +81,23 @@ Derzeit keine verwandte Literatur verfügbar.
 
 Es liegen mindestens 7 Zulassungen vor; die Liste kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62519 | Levocetirizin-Mepha, Filmtabletten | Synthetika | Antihistaminikum |
-| 62920 | Levocetirizin Spirig HC 5 mg, Filmtabletten | Synthetika | Antiallergikum, Antihistaminikum |
-| 67795 | Levocet-Mepha Allergie, Filmtablette | Synthetika | Antihistaminikum |
-| 66261 | Allergo-X, Filmtabletten | Synthetika | Antiallergikum, Antihistaminikum |
-| 56711 | Xyzal, gouttes | Synthetika | Antiallergikum, Antihistaminikum |
-| 55754 | Xyzal, comprimés pelliculés | Synthetika | Antiallergikum, Antihistaminikum |
-| 62522 | Levocetirizin Sandoz 5mg, Filmtabletten | Synthetika | Antiallergikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55754 | Xyzal, comprimés pelliculés | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
+| 56711 | Xyzal, gouttes | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
+| 62519 | Levocetirizin-Mepha, Filmtabletten | Synthetika | Antihistaminikum | Gültig |
+| 62522 | Levocetirizin Sandoz 5mg, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 62920 | Levocetirizin Spirig HC 5 mg, Filmtabletten | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
+| 66261 | Allergo-X, Filmtabletten | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
+| 67795 | Levocet-Mepha Allergie, Filmtablette | Synthetika | Antihistaminikum | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

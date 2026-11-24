@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00635
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisonum: vorhergesagte neue Indikation Alopecia areata (Evidenzstufe L5). Ursprüngliche Indikation: Glukokortikosteroid-Therapie"
 ---
 
@@ -83,12 +83,20 @@ Derzeit keine verwandte Literatur verfügbar
 
 Die Liste enthält mindestens 4 Zulassungen und kann unvollständig sein. Alle aufgeführten Zulassungen sind gültig.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 69640 | Prednison Galepharm 1 mg, Tabletten | Synthetika | Glukokortikosteroid-Therapie |
-| 60494 | Lodotra 1 mg, Tabletten mit veränderter Wirkstofffreisetzung | Synthetika | Ergänzende Behandlung zu DMARDs bei mässiger bis schwerer aktiver rheumatoider Arthritis |
-| 68119 | Rectodelt, Zäpfchen | Synthetika | Akutbehandlung von Pseudokrupp, Krupp und Exazerbationen bei Asthma/akutem Giemen |
-| 58761 | Prednison Axapharm 5 mg, Tabletten | Synthetika | Glukokortikosteroid-Therapie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58761 | Prednison Axapharm 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+| 60494 | Lodotra 1 mg, Tabletten mit veränderter Wirkstofffreisetzung (+2 weitere Bezeichnungen) | Synthetika | Ergänzende Behandlung zu DMARDs bei mässiger bis schwerer aktiver rheumatoider Arthritis | Gültig |
+| 68119 | Rectodelt, Zäpfchen | Synthetika | Akutbehandlung von Pseudokrupp, Krupp und Exazerbationen bei Asthma/akutem Giemen | Gültig |
+| 69640 | Prednison Galepharm 1 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

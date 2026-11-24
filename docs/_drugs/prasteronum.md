@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01708
 monitor_inn: "Prasterone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Prasteronum: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Traitement de l’atrophie vulvo-vaginale"
 ---
 
@@ -67,9 +67,15 @@ Prasteron (DHEA) hat nach den vorliegenden Daten keinen belegten Bezug zur Funkt
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 67323 | Intrarosa 6.5 mg, Ovule | Synthetika | Behandlung der vulvovaginalen Atrophie |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 67323 | Intrarosa 6.5 mg, Ovule | Synthetika | Traitement de l’atrophie vulvo-vaginale | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

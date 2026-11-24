@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 108
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Voxilaprevir: vorhergesagte neue Indikation Hepatitis-B-Virusinfektion (Evidenzstufe L4). Ursprüngliche Indikation: Chronische Hepatitis C"
 monitor_inn: "voxilaprevir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
@@ -94,9 +94,15 @@ Die folgenden Arbeiten betreffen ausschliesslich Hepatitis C und stützen die ne
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66510 | Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66510 | Vosevi, Filmtabletten | Synthetika | Chronische Hepatitis C | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB09037
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pembrolizumabum: vorhergesagte neue Indikation Gingivafibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: Melanom, Nicht-kleinzelliges Lungenkarzinom…"
 ---
 
@@ -69,9 +69,15 @@ Für die Gingivafibromatose, eine erbliche oder arzneimittelbedingte Zahnfleisch
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66231 | Keytruda 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Melanom, nicht-kleinzelliges Lungenkarzinom, malignes Pleuramesotheliom, Kopf- und Halskarzinom, klassisches Hodgkin-Lymphom, B-Zell-Lymphom, Magenkarzinom, Urothelkarzinom, Tumore mit hoher Mikrosatelliteninstabilität, kolorektales Karzinom, biliäres Karzinom, Nierenzellkarzinom, triple-negatives Mammakarzinom, Endometriumkarzinom, Zervixkarzinom |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66231 | Keytruda 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Melanom, Nicht-kleinzelliges Lungenkarzinom, Malignes Pleuramesotheliom, Kopf- und Halskarzinom, Klassisches… | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

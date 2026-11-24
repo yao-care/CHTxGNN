@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06201
 monitor_inn: "Rufinamide"
 predicted_indications: ["perioral myoclonia with absences"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rufinamidum: vorhergesagte neue Indikation Perioraler Myoklonus mit Absenzen (perioral myoclonia with absences) (Evidenzstufe L5)."
 ---
 
@@ -69,10 +69,16 @@ Es gibt zudem einen Gegenpunkt: Natriumkanalblocker können manche generalisiert
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 62066 | Inovelon, Suspension zum Einnehmen | Synthetika | Zusatztherapie bei Anfällen im Rahmen des Lennox-Gastaut-Syndroms ab dem 1. Lebensjahr |
-| 58097 | Inovelon 100 mg, Filmtabletten | Synthetika | Zusatztherapie bei Anfällen im Rahmen des Lennox-Gastaut-Syndroms ab dem 1. Lebensjahr |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 58097 | Inovelon 100 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Zusatztherapie zur Behandlung von Anfällen bei Lennox-Gastaut-Syndrom bei Patienten ab dem 1. Lebensjahr | Gültig |
+| 62066 | Inovelon, Suspension zum Einnehmen | Synthetika | Zusatztherapie zur Behandlung von Anfällen bei Lennox-Gastaut-Syndrom bei Patienten ab dem 1. Lebensjahr | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

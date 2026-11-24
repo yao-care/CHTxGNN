@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00393
 monitor_inn: "Nimodipine"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nimodipinum: vorhergesagte neue Indikation homozygote familiäre Hypercholesterinämie (homozygous familial hypercholesterolemia) (Evidenzstufe L5). Ursprüngliche Indikation: Calciumantagonist"
 ---
 
@@ -81,10 +81,16 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 48153 | Nimotop 10 mg/50 ml, Infusionslösung | Synthetika | Calciumantagonist |
-| 45839 | Nimotop 30 mg, Filmtabletten | Synthetika | Calciumantagonist |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 45839 | Nimotop 30 mg, Filmtabletten | Synthetika | Calciumantagonist | Gültig |
+| 48153 | Nimotop 10 mg/50 ml, Infusionslösung | Synthetika | Calciumantagonist | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

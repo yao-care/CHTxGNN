@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01110
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miconazoli Nitras: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 ---
 
@@ -80,11 +80,17 @@ Wichtig: Die Malassezia-Follikulitis ist eine eigene Erkrankung und nicht dassel
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 37063 | Daktarin, Crème | Synthetika | Antimykotikum |
-| 43494 | Daktarin Mundgel, Gel zum Einnehmen | Synthetika | Antimykotikum |
-| 57686 | Sebolox, Shampoo | Synthetika | Seborrhoische Dermatitis |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 37063 | Daktarin, Crème | Synthetika | Antimykotikum | Gültig |
+| 43494 | Daktarin Mundgel, Gel zum Einnehmen | Synthetika | Antimykotikum | Gültig |
+| 57686 | Sebolox, Shampoo | Synthetika | seborrhoische Dermatitis | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

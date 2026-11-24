@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB08890
 monitor_inn: "Linaclotide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Linaclotidum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5)."
 ---
 
@@ -69,10 +69,16 @@ Denkbar wäre allenfalls ein indirekter, rein symptomatischer Zusammenhang: Bei 
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 65402 | Axulta, Kapseln | Synthetika | Symptomatische Behandlung von moderatem bis schwerem Reizkolon-Syndrom mit Obstipation bei Erwachsenen |
-| 62684 | Constella, Kapseln | Synthetika | Symptomatische Behandlung von moderatem bis schwerem Reizkolon-Syndrom mit Obstipation bei Erwachsenen |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 62684 | Constella, Kapseln | Synthetika | Symptomatische Behandlung von moderatem bis schwerem Reizkolon-Syndrom mit Obstipation bei Erwachsenen | Gültig |
+| 65402 | Axulta, Kapseln | Synthetika | Symptomatische Behandlung von moderatem bis schwerem Reizkolon-Syndrom mit Obstipation bei Erwachsenen | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

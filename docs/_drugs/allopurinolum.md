@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00437
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Allopurinolum: vorhergesagte neue Indikation hepatische Porphyrie (hepatic porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Uricostaticum"
 ---
 
@@ -80,13 +80,19 @@ Keine der beiden Arbeiten untersucht Allopurinol bei Porphyrie. Es fehlt daher e
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 38398 | Allopur 100 mg, Tabletten | Synthetika | Urikostatikum |
-| 58129 | Allopurinol-Mepha 100 mg, Tabletten | Synthetika | Urikostatikum |
-| 56050 | Allopurinol Zentiva 100 mg, Tabletten | Synthetika | Urikostatikum |
-| 39981 | Uriconorm 100 mg, Tabletten | Synthetika | Urikostatikum |
-| 32917 | Zyloric 100, Tabletten | Synthetika | Urikostatikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 32917 | Zyloric 100, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostatikum | Gültig |
+| 38398 | Allopur 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostaticum | Gültig |
+| 39981 | Uriconorm 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Urikostatikum | Gültig |
+| 56050 | Allopurinol Zentiva 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Urikostatikum | Gültig |
+| 58129 | Allopurinol-Mepha 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostatikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

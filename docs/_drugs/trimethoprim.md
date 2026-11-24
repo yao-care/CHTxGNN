@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Trimethoprim: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -70,12 +70,18 @@ Dieser Ansatz ist durch die vorliegenden Daten nicht belegt. Der hohe Vorhersage
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 48306 | Bactrim forte, Tabletten | Synthetika | Infektionskrankheiten |
-| 40204 | Nopil forte, Tabletten | Synthetika | Infektionskrankheiten |
-| 37887 | Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten |
-| 41013 | Nopil für Kinder, Suspension zum Einnehmen | Synthetika | Infektionskrankheiten |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 37887 | Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten | Gültig |
+| 40204 | Nopil forte, Tabletten | Synthetika | Infektionskrankheiten | Gültig |
+| 41013 | Nopil für Kinder, Suspension zum Einnehmen | Synthetika | Infektionskrankheiten | Gültig |
+| 48306 | Bactrim forte, Tabletten | Synthetika | Infektionskrankheiten | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

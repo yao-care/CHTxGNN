@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00370
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Mirtazapinum: vorhergesagte neue Indikation Ohdo-Syndrom und Varianten (Ohdo syndrome and variants) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -73,12 +73,20 @@ Der hohe Vorhersagewert ist deshalb rein rechnerisch und nicht biologisch unterm
 
 Die Liste kann unvollständig sein (mindestens 4 Zulassungen).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61435 | Mirtazapin Sandoz eco 15 mg, Schmelztabletten | Synthetika | Antidepressivum |
-| 61508 | Mirtazapin Zentiva 30 mg, Filmtabletten | Synthetika | Antidepressivum |
-| 61460 | Mirtazapin-Mepha Teva 15 mg, Filmtabletten | Synthetika | Antidepressivum |
-| 62388 | Mirtazapin Sandoz 30, Filmtabletten | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61435 | Mirtazapin Sandoz eco 15 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+| 61460 | Mirtazapin-Mepha Teva 15 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antidepressivum | Gültig |
+| 61508 | Mirtazapin Zentiva 30 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+| 62388 | Mirtazapin Sandoz 30, Filmtabletten | Synthetika | Antidepressivum | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

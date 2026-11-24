@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 82
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sebelipase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
 description: "Sebelipase Alfa: vorhergesagte neue Indikation Scheie-Syndrom (Scheie syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mi…"
@@ -80,9 +80,15 @@ Derzeit keine verwandte Literatur verfügbar
 
 ## Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 66160 | Kanuma 2 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 66160 | Kanuma 2 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | langfristige Enzymersatztherapie bei Patienten aller Altersgruppen mit LAL-Mangel | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01156
 monitor_inn: "Bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Bupropioni Hydrochloridum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L2)."
 ---
 
@@ -101,12 +101,18 @@ In der Praxis gilt Bupropion eher als Option der zweiten Wahl oder als Ergänzun
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57803 | Wellbutrin XR 150 mg, Retardtabletten | Synthetika | Antidepressivum |
-| 55263 | Zyban, Retardtabletten | Synthetika | Raucherentwöhnung |
-| 69559 | Bupropion Accord XR 150 mg, Retardtabletten | Synthetika | Antidepressivum |
-| 68628 | Bupropion XR Sandoz 150 mg, Retardtabletten | Synthetika | Antidepressivum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 55263 | Zyban, Retardtabletten | Synthetika | Raucherentwöhnung | Gültig |
+| 57803 | Wellbutrin XR 150 mg, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+| 68628 | Bupropion XR Sandoz 150 mg, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+| 69559 | Bupropion Accord XR 150 mg, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06217
 monitor_inn: "Vernakalant"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Vernakalantum: vorhergesagte neue Indikation Schlaganfall (stroke disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarrhythmikum"
 ---
 
@@ -87,9 +87,15 @@ Keine der Publikationen untersucht Vernakalant direkt beim Schlaganfall. Sie beh
 
 ### Marktinformationen Schweiz
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 61304 | Brinavess 500 mg, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antiarrhythmikum |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 61304 | Brinavess 500 mg, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Antiarrhythmikum | Gültig |
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00586
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenacum Natricum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum"
 ---
 
@@ -71,15 +71,23 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Er ersetzt ke
 
 Die Liste kann unvollständig sein (mindestens 7 Zulassungen erfasst).
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 57457 | Inflamac Dolo 25, Kapseln | Synthetika | Schmerzmittel (Analgetikum) |
-| 62728 | Diclo-Acino 25, Filmtabletten | Synthetika | Rheumamittel (Antirheumatikum) |
-| 69727 | Diclo axapharm 2%, Gel | Synthetika | Entzündungshemmend zur Anwendung auf der Haut |
-| 52022 | Flector EP Tissugel, medizinisches Pflaster | Synthetika | Entzündungshemmend |
-| 58094 | Voltaren Dolo forte 25 mg, Dragées | Synthetika | Schmerzmittel (Analgetikum) |
-| 67855 | Flector Dolo Forte Liquid Caps 25 mg, Weichkapsel | Synthetika | Schmerzmittel |
-| 55846 | Voltaren Dolo, Emulgel | Synthetika | Entzündungshemmend zur Anwendung auf der Haut |
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 52022 | Flector EP Tissugel, cerotto medicato (+1 weitere Bezeichnung) | Synthetika | Antiflogistico | Gültig |
+| 55846 | Voltaren Dolo, Emulgel | Synthetika | Perkutanes Antiphlogistikum | Gültig |
+| 58094 | Voltaren Dolo forte 25 mg, Dragées | Synthetika | Analgetikum | Gültig |
+| 62728 | Diclo-Acino 25, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antirheumatikum | Gültig |
+| 67855 | Flector Dolo Forte Liquid Caps 25 mg, capsula molle | Synthetika | analgesico | Gültig |
+| 69727 | Diclo axapharm 2%, Gel | Synthetika | Perkutanes Antiphlogistikum | Gültig |
+| 57457 | Inflamac Dolo 25, Kapseln | Synthetika | Analgetikum | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 

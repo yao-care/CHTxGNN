@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00264
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Metoprololi Tartras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -83,13 +83,27 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Alle drei aufgeführten Zulassungen sind gültig.
+Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Zwei der drei aufgeführten Zulassungen sind gültig; die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 
-| Zulassungsnummer | Produktname | Darreichungsform | Zugelassene Indikation |
-|---------|------|------|-----------|
-| 39252 | Lopresor 100, Filmtabletten | Synthetika | Betarezeptorenblocker |
-| 56969 | Meto Zerok 25, Retardtabletten | Synthetika | Betarezeptorenblocker |
-| 65958 | Metoprolol Axapharm retard 25 mg, Retardtabletten | Synthetika | Betarezeptorenblocker |
+<!-- review:begin ch-lic-20261124-metoprololi_tartras-1 -->
+
+> **Prüfkorrektur (2026-11-24)**: Ursprünglich stand hier: „Alle drei aufgeführten Zulassungen sind gültig.“ Die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen (Stand 2026-11-17) nicht mehr aufgeführt. Quelle: [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261124-metoprololi_tartras-1 -->
+
+<!-- licenses:begin -->
+
+| Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
+|------|------|------|------|------|
+| 56969 | Meto Zerok 25, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 65958 | Metoprolol Axapharm retard 25 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 39252 | Lopresor 100, Filmtabletten | Synthetika | Beta-Rezeptorenblocker | Erloschen |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
+
+Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
+
+<!-- licenses:end -->
 
 ---
 
@@ -104,6 +118,19 @@ Es sind mindestens 3 Zulassungen erfasst; die Liste kann unvollständig sein. Al
 - Die Fachinformation mit Warnhinweisen und Gegenanzeigen muss ausgewertet werden, weil diese Sicherheitsdaten fehlen.
 - Die Angaben zum Wirkmechanismus müssen ergänzt werden.
 - Es braucht klinische oder präklinische Belege, die diese Erkrankung direkt untersuchen.
+
+<!-- review:begin log -->
+
+## Prüfprotokoll
+
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+
+| Prüfdatum | Punkt | Maßnahme | Quelle |
+|------|------|------|------|
+| 2026-11-24 | „alle drei gültig“ → „zwei der drei gültig“ | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+
+<!-- review:end log -->
+
 ## Haftungsausschluss
 
 Diese Inhalte dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.
