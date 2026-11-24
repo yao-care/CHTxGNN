@@ -6,7 +6,7 @@ nav_order: 50
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-24
-description: "Formaldehyde: vorhergesagte neue Indikation Diffuse kutane Leishmaniose (Evidenzstufe L5). Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen"
+description: "Formaldehyde: vorhergesagte neue Indikation Diffuse kutane Leishmaniose (Evidenzstufe L5). Ursprüngliche Indikation: Diagnose von Allergien"
 monitor_inn: "formaldehyde"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "Plasmodium falciparum malaria"]
 ---
@@ -136,6 +136,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 | 2026-11-24 | Tannosynt flüssig (32238) enthält ein Kondensat, nicht Formaldehyd | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 | 2026-11-24 | Ursprüngliche Indikation: Anwendungsgebiet von Tannosynt (Kondensat) entfernt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 | 2026-11-24 | Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat | Hinweis ergänzt | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

@@ -21,12 +21,12 @@
   "items_current": 1288
  },
  "reviews": {
-  "records": 390,
+  "records": 392,
   "pages": 361,
   "public_pages_with_records": 361,
   "by_action": {
    "annotate": 2,
-   "correct": 20,
+   "correct": 22,
    "mechanism": 368
   }
  },
@@ -158,21 +158,12 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
-   "t": "Azithromycinum",
-   "u": "/drugs/azithromycinum/",
-   "l": "L5",
-   "lt": 0,
-   "lv": 5,
-   "r": 3,
-   "i": "Polyklonales Hyperviskositätssyndrom"
-  },
-  {
    "t": "Formaldehyde",
    "u": "/drugs/formaldehyde/",
    "l": "L5",
    "lt": 1,
    "lv": 1,
-   "r": 3,
+   "r": 4,
    "i": "leishmaniasis, diffuse cutaneous"
   },
   {
@@ -181,8 +172,17 @@
    "l": "L5",
    "lt": 0,
    "lv": 0,
-   "r": 3,
+   "r": 4,
    "i": "acrodermatitis chronica atrophicans"
+  },
+  {
+   "t": "Azithromycinum",
+   "u": "/drugs/azithromycinum/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 5,
+   "r": 3,
+   "i": "Polyklonales Hyperviskositätssyndrom"
   },
   {
    "t": "Bendamustinum",
@@ -223,6 +223,18 @@
  },
  "recent_reviews": [
   {
+   "t": "Phenol",
+   "u": "/drugs/phenol/",
+   "s": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Formaldehyde",
+   "u": "/drugs/formaldehyde/",
+   "s": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Trastuzumabum",
    "u": "/drugs/trastuzumabum/",
    "s": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
@@ -238,18 +250,6 @@
    "t": "Povidonum K 25",
    "u": "/drugs/povidonum-k-25/",
    "s": "Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Phenol",
-   "u": "/drugs/phenol/",
-   "s": "Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Formaldehyde",
-   "u": "/drugs/formaldehyde/",
-   "s": "Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat",
    "d": "2026-11-24"
   },
   {
@@ -315,6 +315,18 @@
  ],
  "recent_licence_reviews": [
   {
+   "t": "Phenol",
+   "u": "/drugs/phenol/",
+   "s": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Formaldehyde",
+   "u": "/drugs/formaldehyde/",
+   "s": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Trastuzumabum",
    "u": "/drugs/trastuzumabum/",
    "s": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
@@ -330,18 +342,6 @@
    "t": "Povidonum K 25",
    "u": "/drugs/povidonum-k-25/",
    "s": "Ursprüngliche Indikation: „Wunddesinfektion“ (Povidon-Iod-Präparat) entfernt",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Phenol",
-   "u": "/drugs/phenol/",
-   "s": "Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Formaldehyde",
-   "u": "/drugs/formaldehyde/",
-   "s": "Hinweis: Hautanwendung bezog sich auf ein Kondensat-Präparat",
    "d": "2026-11-24"
   },
   {

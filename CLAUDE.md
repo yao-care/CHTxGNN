@@ -117,3 +117,14 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - B. 公開頁沒有 Marktinformationen 段落、證據包卻有紀錄的 51 頁：`scripts/sync_license_tables.py` 的 add_section 在「Sicherheitshinweise」（同級標題；沒有就 Fazit und nächste Schritte、Haftungsausschluss）之前補「Marktinformationen Schweiz」段落放程式表、段落後一行「---」；
   noindex 頁與 0 筆紀錄的頁不補。gate 第 18 項（block_problems）擋「公開頁有證據包紀錄卻沒有市場段落」；license_adapter 的 PAGE_NOTE 放行新標題行與「---」。51 頁正文沒有跟新表矛盾的句子；last_modified_at 改 2026-11-24。
 - checker 全量前後都是 0；gate exit 0。
+
+## 第四輪：description 原適應症照抄別的成分（2026-11-24）
+
+用戶 2026-11-24 決定：phenol、formaldehyde 兩頁 front matter description 的「Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen」是 Tannosynt（32238，苯酚—苯酚磺酸—甲醛—尿素縮合物，第三輪已移出證據包）的 Swissmedic 適應症，要改。
+- `scripts/apply_drug_reviews.py` 加 correct＋`field: "description"`（比照 UkTxGNN 第三輪）：只在 front matter description 那一行把 claim 換成 replacement，不插查核框、只列在查核紀錄表、可重複執行；replacement 是 description 在地化句尾、而 `docs/_data/description_local_log.json` 登記的句尾已被 drug_meta_description.py 依快照重算過的，也算已套用。
+- 2 筆紀錄：`ch-lic-20261124d-phenol-1`（快照事實層 0 張，句尾改成母目錄 drug_meta_description.py LOCAL["CHTxGNN"] 的 0 張寫法「In der Schweiz keine Swissmedic-Zulassung in diesen Daten」，登記在新的 description_local_log.json，之後由程式依快照重算）、
+  `ch-lic-20261124d-formaldehyde-1`（本藥唯一品項 56688 True Test 有原適應症原文，照在地化規則「已有原適應症原文的頁不換」改成「Ursprüngliche Indikation: Diagnose von Allergien」，同概覽表原適應症格）。
+- 本站原本沒有接 description 在地化（description 句尾多半是 Swissmedic 原適應症原文，--check 要改 0 頁）：`apply_drug_reviews.py`（非 --check）、`build_license_snapshot.py` 結尾補跑 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`（只動 log 登記的頁），`check_seo_docs.py` 跑 --check 擋句尾跟快照不符。
+- 同類全量掃（公開頁 description／概覽表原適應症格的每一段，對證據包 records 與 excluded_records 的適應症）：只有這 2 頁；scopolamini_butylbromidum、povidonum_k_25、trastuzumabum 的 description 第三輪前就沒有抄到被排除品項的適應症。
+- 衍生檔：search-index original 欄 phenol→空字串（standalone 顯示「—」）、formaldehyde→「Diagnose von Allergien」（母目錄 rebuild_search_index.py 沿用既有 original，所以先改值再重跑，重跑後只有這 2 藥不同）；docs/data/drugs.json 的 original_indication 只讀 front matter original_indication，兩頁沒有這欄，generate_drugs_json.py 重跑內容沒變。
+- checker 前後都是 0；gate exit 0。

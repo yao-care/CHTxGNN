@@ -11867,6 +11867,48 @@
    "replacement": "| Ursprüngliche Indikation | Spasmolyticum |",
    "note": "Korrigiert: „Mydriatikum“ ist das Anwendungsgebiet von Scopolamine 0,25% Dispersa, Augentropfen (29804), deren Wirkstoff laut Swissmedic Scopolaminhydrobromid ist, nicht Scopolaminbutylbromid.",
    "summary": "Ursprüngliche Indikation: „Mydriatikum“ (Scopolaminhydrobromid-Augentropfen) entfernt"
+  },
+  {
+   "action": "correct",
+   "field": "description",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第四輪（用戶決定）：front matter description 的「Ursprüngliche Indikation」照抄了 32238 Tannosynt（苯酚—苯酚磺酸—甲醛—尿素縮合物，第三輪已依 config/bundle_record_exclusions.json 移出證據包）的 Swissmedic 適應症；比照 UkTxGNN 第三輪 correct＋field: description，只改 description 那一行、不插查核框、只列在查核紀錄表",
+   "drug": "phenol",
+   "file": "phenol.md",
+   "id": "ch-lic-20261124d-phenol-1",
+   "finding": "description 的原適應症是 Tannosynt 的適應症；快照事實層 phenol 0 張（證據包沒有以 Phenol 為有效成分的 Swissmedic 品項），句尾改成 description 在地化（母目錄 drug_meta_description.py LOCAL['CHTxGNN']）0 張的寫法，登記在 docs/_data/description_local_log.json，之後由該程式依快照重算",
+   "claim": "Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen",
+   "replacement": "In der Schweiz keine Swissmedic-Zulassung in diesen Daten",
+   "note": "Seitenbeschreibung korrigiert: „Entzündliche, nässende und juckende Hauterkrankungen“ ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Kondensat aus Phenol, Phenolsulfonsäure, Formaldehyd und Harnstoff ist, nicht Phenol. Mit Phenol als Wirkstoff ist keine Zulassung erfasst.",
+   "summary": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt"
+  },
+  {
+   "action": "correct",
+   "field": "description",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第四輪（用戶決定）：front matter description 的「Ursprüngliche Indikation」照抄了 32238 Tannosynt（苯酚—苯酚磺酸—甲醛—尿素縮合物，第三輪已依 config/bundle_record_exclusions.json 移出證據包）的 Swissmedic 適應症；比照 UkTxGNN 第三輪 correct＋field: description，只改 description 那一行、不插查核框、只列在查核紀錄表",
+   "drug": "formaldehyde",
+   "file": "formaldehyde.md",
+   "id": "ch-lic-20261124d-formaldehyde-1",
+   "finding": "description 的原適應症是 Tannosynt 的適應症；本藥唯一的 Swissmedic 品項 56688 True Test（過敏原測試貼片，有效）的適應症是 Diagnose von Allergien，同概覽表原適應症格（ch-lic-20261124c-formaldehyde-2 已更正）；有原適應症原文，照 description 在地化規則（已有原適應症原文的頁不換成張數句）保留原適應症寫法",
+   "claim": "Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen",
+   "replacement": "Ursprüngliche Indikation: Diagnose von Allergien",
+   "note": "Seitenbeschreibung korrigiert: „Entzündliche, nässende und juckende Hauterkrankungen“ ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Phenol-Formaldehyd-Harnstoff-Kondensat ist, nicht Formaldehyd. Mit Formaldehyd als Wirkstoff ist das Allergie-Testpflaster True Test (56688) erfasst.",
+   "summary": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt"
   }
  ]
 }

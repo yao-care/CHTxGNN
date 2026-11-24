@@ -22,6 +22,9 @@
   header_level  頁首等級重算的留存紀錄（original_level／new_level／original_parent／new_parent）：只列在查核紀錄表。
             頁首規則見 src/<套件>/regulatory/page_format.py（本站：主預測的等級）。
   description_level  front matter description 的等級跟著頁首：只列在查核紀錄表（page_format.sync_description_level）。
+  correct＋field: "description"（2026-11-24 第四輪，比照 UkTxGNN 第三輪）：只在 front matter description 那一行把 claim 換成
+            replacement，不插查核框、只列在查核紀錄表；replacement 是 description 在地化句尾（docs/_data/description_local_log.json
+            有登記）而句尾已被 drug_meta_description.py 依快照重算過的，也算已套用。
 status：superseded（錨點落在程式產生的區塊上）、resolved_by_regeneration（報告重生後已無此錯誤）、resolved_by_program
 （程式改版後已無此錯誤）、withdrawn（查核本身有誤或重複）：紀錄保留、頁面不顯示框，查核紀錄表註明。
 同 id 重發時前版存進 history（retired、reason），不覆蓋丟棄。
@@ -173,6 +176,18 @@ def block_end(text, pos):
     return m.start() if m else len(text)
 
 
+_LOCAL_TAILS = None
+
+
+def _local_tails():
+    """description 在地化紀錄（docs/_data/description_local_log.json 的 pages：頁→{tail, original}）；沒有檔就是空"""
+    global _LOCAL_TAILS
+    if _LOCAL_TAILS is None:
+        p = DOCS / "_data" / "description_local_log.json"
+        _LOCAL_TAILS = json.loads(p.read_text(encoding="utf-8")).get("pages", {}) if p.exists() else {}
+    return _LOCAL_TAILS
+
+
 def apply_record(text, rec, problems):
     rid = rec["id"]
     text = strip_block(text, rid)
@@ -191,6 +206,23 @@ def apply_record(text, rec, problems):
         elif find_outside(text, rec["replacement"]) < 0:
             problems.append(f"{rid}：頁面上找不到「作用機轉資料不可得」原句或附出處的作用機轉（頁面可能被改寫，需人工重查）")
         return text
+    if act == "correct" and rec.get("field") == "description":
+        # 2026-11-24 第四輪：front matter description 的字樣更正（同 description_level：只改 description 那一行、不插查核框，只列在查核紀錄表）
+        m = re.match(r"---\n.*?\n---\n", text, re.S)
+        fm = m.group(0) if m else ""
+        dm = re.search(r"^description:.*$", fm, re.M)
+        if not dm:
+            problems.append(f"{rid}：front matter 沒有 description")
+            return text
+        line = dm.group(0)
+        tail = (_local_tails().get(Path(rec["file"]).stem) or {}).get("tail")
+        if rec["claim"] in line:
+            line = line.replace(rec["claim"], rec["replacement"], 1)
+        elif rec["replacement"] not in line and not (tail and tail in line):
+            problems.append(f"{rid}：description 裡找不到「{rec['claim'][:50]}…」（頁面可能被改寫，需人工重查）")
+            return text
+        fm2 = fm[:dm.start()] + line + fm[dm.end():]
+        return fm2 + text[len(fm):]
     if act == "correct":
         olds = [rec["claim"]] + [h["replacement"] for h in rec.get("history") or []
                                  if h.get("replacement") and h["replacement"] != rec["replacement"]
@@ -455,6 +487,11 @@ if __name__ == "__main__":
         return r
     _lf_ax.register(lambda: _lf_fail and (_lf_sys.stdout.flush(), _lf_os._exit(1)))  # 最先註冊＝最後執行
     _lf_ax.register(lambda: "--check" in _lf_sys.argv or _lf_chk(_lf_sp.run([_lf_sys.executable, _lf_os.path.join(_lf_here, "local_facts.py"), "--write"]), "local_facts.py --write"))
+    # 2026-11-24 第四輪：description 在地化句尾依許可證快照事實層重算（tools/txgnn/.claude/drug_meta_description.py；--check 時不跑）。
+    # 本站 description 句尾多半是 Swissmedic 原適應症原文，只有 description_local_log.json 登記過的頁會被改（目前 phenol）。
+    _dl_root = _lf_os.path.dirname(_lf_here)
+    _dl_p = _lf_os.path.join(_dl_root, "tools", "txgnn", ".claude", "drug_meta_description.py")
+    _lf_ax.register(lambda: "--check" in _lf_sys.argv or not _lf_os.path.exists(_dl_p) or _lf_chk(_lf_sp.run([_lf_sys.executable, _dl_p, "--apply", "--root", _dl_root]), "drug_meta_description.py --apply"))
     check = "--check" in sys.argv
     only = {a if a.endswith(".md") else a + ".md" for a in sys.argv[1:] if not a.startswith("--")} or None
     problems, changed = run(check=check, only=only, touch_date="--touch" in sys.argv)

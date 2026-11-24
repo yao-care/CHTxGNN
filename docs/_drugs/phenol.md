@@ -6,7 +6,7 @@ nav_order: 72
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-11-24
-description: "Phenol: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen"
+description: "Phenol: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). In der Schweiz keine Swissmedic-Zulassung in diesen Daten"
 monitor_inn: "phenol"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
 ---
@@ -140,6 +140,7 @@ Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zul
 | 2026-11-24 | Tannosynt flüssig (32238) enthält ein Kondensat, nicht Phenol | Korrigiert (überarbeitet am 2026-11-24; frühere Fassung im Protokoll erhalten) | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 | 2026-11-24 | Ursprüngliche Indikation: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 | 2026-11-24 | Hinweis: ursprüngliche Indikation stammt von einem Kondensat-Präparat | Hinweis ergänzt | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
+| 2026-11-24 | Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt | Korrigiert | [Swissmedic – Zugelassene Packungen HAM / Zugelassene Arzneimittel HAM (Internetlisten)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

@@ -1,0 +1,19 @@
+{
+  "_note": "藥物頁 front matter description 句尾「原適應症：本地資料未記載」換成本站許可證快照事實層品項數的紀錄（母目錄 .claude/drug_meta_description.py --apply，2026-11-19 起）。pages＝目前產生的句尾（tail）與被換掉的原字樣（original）；entries＝每次改動的前後整行（from／to，可還原：把第一筆的 from 寫回該頁 description）。本站 description 句尾多半是 Swissmedic 原適應症原文、不換；2026-11-24 第四輪只登記 phenol（原句是別的成分 Tannosynt 的適應症，查核紀錄 ch-lic-20261124d-phenol-1）。",
+  "pages": {
+    "phenol": {
+      "tail": "In der Schweiz keine Swissmedic-Zulassung in diesen Daten",
+      "original": "Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen",
+      "date": "2026-11-24"
+    }
+  },
+  "entries": [
+    {
+      "page": "docs/_drugs/phenol.md",
+      "date": "2026-11-24",
+      "from": "\"Phenol: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). Ursprüngliche Indikation: Entzündliche, nässende und juckende Hauterkrankungen\"",
+      "to": "\"Phenol: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). In der Schweiz keine Swissmedic-Zulassung in diesen Daten\"",
+      "tool": "scripts/apply_drug_reviews.py（查核紀錄 ch-lic-20261124d-phenol-1）"
+    }
+  ]
+}
