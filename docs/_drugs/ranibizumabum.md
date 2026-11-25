@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01270
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ranibizumabum: vorhergesagte neue Indikation Reifer Katarakt (mature cataract) (Evidenzstufe L5). Ursprüngliche Indikation: exsudative altersbezogene Makuladegeneration…"
 ---
 
@@ -51,8 +51,8 @@ Ranibizumab ist ein Arzneimittel, das in der Schweiz bei verschiedenen Netzhaute
 | Vorhergesagte neue Indikation | Reifer Katarakt (mature cataract) |
 | TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
-| Anzahl Zulassungen | 6 (gültig: 6) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 8) |
+| Anzahl Zulassungen | 8 (gültig: 8) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -94,6 +94,8 @@ Derzeit keine verwandten klinischen Studien registriert
 | 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | exsudative altersbezogene Makuladegeneration; Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
 | 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologika | Exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Visusverlust durch… | Gültig |
 | 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+| 70522 | Susvimo 39,5 mg/0,395 ml, Injektionslösung in einer Durchstechflasche | Biotechnologikum | Behandlung der neovaskulären (feuchten) altersabhängigen Makuladegeneration (AMD) | Gültig |
+| 70708 | Byooviz 10 mg / ml, Injektionslösung in Fertigspritze | Biotechnologikum | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

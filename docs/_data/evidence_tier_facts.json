@@ -49,8 +49,8 @@
     "u": "/drugs/ketorolacum-trometamolum/",
     "l": "L1",
     "i": "Kopfschmerzerkrankung",
-    "lt": 4,
-    "lv": 4,
+    "lt": 5,
+    "lv": 5,
     "r": 0,
     "rs": "",
     "x": 0
@@ -137,8 +137,8 @@
     "u": "/drugs/lenvatinibum/",
     "l": "L2",
     "i": "Liposarkom",
-    "lt": 2,
-    "lv": 2,
+    "lt": 4,
+    "lv": 4,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
@@ -434,8 +434,8 @@
     "u": "/drugs/oxazepamum/",
     "l": "L3",
     "i": "Insomnie",
-    "lt": 1,
-    "lv": 1,
+    "lt": 2,
+    "lv": 2,
     "r": 0,
     "rs": "",
     "x": 0
@@ -445,8 +445,8 @@
     "u": "/drugs/pazopanibum/",
     "l": "L3",
     "i": "Liposarkom",
-    "lt": 3,
-    "lv": 3,
+    "lt": 4,
+    "lv": 4,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
@@ -700,9 +700,31 @@
   },
   "with_current": 560,
   "none_current": 5,
-  "without_data": 105,
+  "without_data": 106,
   "with_reviews": 322,
   "rows": [
+   {
+    "t": "Denosumabum",
+    "u": "/drugs/denosumabum/",
+    "l": "L5",
+    "i": "Schwere nichtproliferative diabetische Retinopathie",
+    "lt": 0,
+    "lv": 18,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Afliberceptum",
+    "u": "/drugs/afliberceptum/",
+    "l": "L5",
+    "i": "Esotropie",
+    "lt": 16,
+    "lv": 16,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
    {
     "t": "Dextromethorphanum",
     "u": "/drugs/dextromethorphanum/",
@@ -712,17 +734,6 @@
     "lv": 16,
     "r": 1,
     "rs": "„alle 17 gültig, alle Einzelwirkstoff“ → 59309 abgelaufen; 41799 Kombinationspräparat",
-    "x": 0
-   },
-   {
-    "t": "Denosumabum",
-    "u": "/drugs/denosumabum/",
-    "l": "L5",
-    "i": "Schwere nichtproliferative diabetische Retinopathie",
-    "lt": 14,
-    "lv": 14,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
    {
@@ -766,17 +777,6 @@
     "lt": 0,
     "lv": 12,
     "r": 2,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Afliberceptum",
-    "u": "/drugs/afliberceptum/",
-    "l": "L5",
-    "i": "Esotropie",
-    "lt": 11,
-    "lv": 11,
-    "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
@@ -979,6 +979,17 @@
     "x": 0
    },
    {
+    "t": "Benzoyl Peroxide",
+    "u": "/drugs/benzoyl-peroxide/",
+    "l": "L5",
+    "i": "Vulväre invertierte follikuläre Keratose",
+    "lt": 8,
+    "lv": 8,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
     "t": "Cefuroximum",
     "u": "/drugs/cefuroximum/",
     "l": "L5",
@@ -1086,6 +1097,28 @@
     "lv": 8,
     "r": 0,
     "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Ranibizumabum",
+    "u": "/drugs/ranibizumabum/",
+    "l": "L5",
+    "i": "Reifer Katarakt",
+    "lt": 8,
+    "lv": 8,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Trastuzumabum",
+    "u": "/drugs/trastuzumabum/",
+    "l": "L5",
+    "i": "Maligner kutaner Granularzelltumor der Haut",
+    "lt": 8,
+    "lv": 8,
+    "r": 2,
+    "rs": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
     "x": 0
    },
    {
@@ -1287,11 +1320,33 @@
     "x": 0
    },
    {
+    "t": "Nintedanibum",
+    "u": "/drugs/nintedanibum/",
+    "l": "L5",
+    "i": "dermatofibrosarcoma protuberans",
+    "lt": 7,
+    "lv": 7,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
     "t": "Paclitaxelum",
     "u": "/drugs/paclitaxelum/",
     "l": "L5",
     "i": "Parameningeales embryonales Rhabdomyosarkom",
     "lt": 0,
+    "lv": 7,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Pheniramine",
+    "u": "/drugs/pheniramine/",
+    "l": "L5",
+    "i": "Erkrankung der Nasenhöhle",
+    "lt": 7,
     "lv": 7,
     "r": 0,
     "rs": "",
@@ -1375,17 +1430,6 @@
     "x": 0
    },
    {
-    "t": "Trastuzumabum",
-    "u": "/drugs/trastuzumabum/",
-    "l": "L5",
-    "i": "Maligner kutaner Granularzelltumor der Haut",
-    "lt": 7,
-    "lv": 7,
-    "r": 2,
-    "rs": "Ursprüngliche Indikation: Anwendungsgebiete der Konjugate Enhertu und Kadcyla entfernt",
-    "x": 0
-   },
-   {
     "t": "Triamcinolonum",
     "u": "/drugs/triamcinolonum/",
     "l": "L5",
@@ -1416,6 +1460,17 @@
     "lv": 7,
     "r": 0,
     "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Vancomycinum",
+    "u": "/drugs/vancomycinum/",
+    "l": "L5",
+    "i": "Diffuse Sklerodermie",
+    "lt": 7,
+    "lv": 7,
+    "r": 2,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
    {
@@ -1463,6 +1518,17 @@
     "x": 0
    },
    {
+    "t": "Allopurinolum",
+    "u": "/drugs/allopurinolum/",
+    "l": "L5",
+    "i": "hepatische Porphyrie",
+    "lt": 6,
+    "lv": 6,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
     "t": "Apomorphini Hydrochloridum Hemihydricum",
     "u": "/drugs/apomorphini-hydrochloridum-hemihydricum/",
     "l": "L5",
@@ -1474,10 +1540,10 @@
     "x": 0
    },
    {
-    "t": "Benzoyl Peroxide",
-    "u": "/drugs/benzoyl-peroxide/",
+    "t": "Brivaracetamum",
+    "u": "/drugs/brivaracetamum/",
     "l": "L5",
-    "i": "Vulväre invertierte follikuläre Keratose",
+    "i": "Beta-Ketothiolase-Mangel",
     "lt": 6,
     "lv": 6,
     "r": 1,
@@ -1573,6 +1639,39 @@
     "x": 0
    },
    {
+    "t": "Golimumabum",
+    "u": "/drugs/golimumabum/",
+    "l": "L5",
+    "i": "Steissbeinhypermobilität",
+    "lt": 6,
+    "lv": 6,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Metoclopramidum",
+    "u": "/drugs/metoclopramidum/",
+    "l": "L5",
+    "i": "gastroduodenitis",
+    "lt": 6,
+    "lv": 6,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Nebivololum",
+    "u": "/drugs/nebivololum/",
+    "l": "L5",
+    "i": "Maligne hypertensive Nierenerkrankung",
+    "lt": 7,
+    "lv": 6,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Nitrogen",
     "u": "/drugs/nitrogen/",
     "l": "L5",
@@ -1595,10 +1694,10 @@
     "x": 0
    },
    {
-    "t": "Ranibizumabum",
-    "u": "/drugs/ranibizumabum/",
+    "t": "Ruxolitinibum",
+    "u": "/drugs/ruxolitinibum/",
     "l": "L5",
-    "i": "Reifer Katarakt",
+    "i": "Perivaskuläre epitheloidzellige Tumoren des Uteruskörpers",
     "lt": 6,
     "lv": 6,
     "r": 1,
@@ -1639,6 +1738,17 @@
     "x": 0
    },
    {
+    "t": "Acidum Ascorbicum",
+    "u": "/drugs/acidum-ascorbicum/",
+    "l": "L5",
+    "i": "Nicht-syndromische Ösophagusfehlbildung",
+    "lt": 5,
+    "lv": 5,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 9
+   },
+   {
     "t": "Acidum Fusidicum Anhydricum",
     "u": "/drugs/acidum-fusidicum-anhydricum/",
     "l": "L5",
@@ -1650,14 +1760,14 @@
     "x": 10
    },
    {
-    "t": "Allopurinolum",
-    "u": "/drugs/allopurinolum/",
+    "t": "Agomelatinum",
+    "u": "/drugs/agomelatinum/",
     "l": "L5",
-    "i": "hepatische Porphyrie",
-    "lt": 5,
+    "i": "Benigner paroxysmaler Torticollis des Säuglingsalters",
+    "lt": 6,
     "lv": 5,
     "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "rs": "\"Die für diesen Bericht zusammengestellten Daten enthalten dazu keine ausführliche Mechanismusbeschreibung.…",
     "x": 0
    },
    {
@@ -1771,6 +1881,28 @@
     "x": 0
    },
    {
+    "t": "Erythromycinum",
+    "u": "/drugs/erythromycinum/",
+    "l": "L5",
+    "i": "Punktförmige epitheliale Keratokonjunktivitis",
+    "lt": 5,
+    "lv": 5,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Filgrastimum",
+    "u": "/drugs/filgrastimum/",
+    "l": "L5",
+    "i": "Primäre Freisetzungsstörung der Thrombozyten",
+    "lt": 5,
+    "lv": 5,
+    "r": 2,
+    "rs": "„vier Filgrastim-Präparate“ → Anzahl in der Tabelle (70485 Zarzio neu)",
+    "x": 0
+   },
+   {
     "t": "Fluconazolum",
     "u": "/drugs/fluconazolum/",
     "l": "L5",
@@ -1826,21 +1958,10 @@
     "x": 0
    },
    {
-    "t": "Nebivololum",
-    "u": "/drugs/nebivololum/",
+    "t": "Noradrenalinum",
+    "u": "/drugs/noradrenalinum/",
     "l": "L5",
-    "i": "Maligne hypertensive Nierenerkrankung",
-    "lt": 6,
-    "lv": 5,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Nintedanibum",
-    "u": "/drugs/nintedanibum/",
-    "l": "L5",
-    "i": "dermatofibrosarcoma protuberans",
+    "i": "Obstruktive Lungenerkrankung",
     "lt": 5,
     "lv": 5,
     "r": 1,
@@ -1890,6 +2011,17 @@
     "r": 2,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 1
+   },
+   {
+    "t": "Sacubitril",
+    "u": "/drugs/sacubitril/",
+    "l": "L5",
+    "i": "brain small vessel disease 1 with or without ocular anomalies",
+    "lt": 5,
+    "lv": 5,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
    },
    {
     "t": "Sapropterini Dihydrochloridum",
@@ -1947,28 +2079,6 @@
     "x": 0
    },
    {
-    "t": "Vancomycinum",
-    "u": "/drugs/vancomycinum/",
-    "l": "L5",
-    "i": "Diffuse Sklerodermie",
-    "lt": 5,
-    "lv": 5,
-    "r": 2,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Acidum Ascorbicum",
-    "u": "/drugs/acidum-ascorbicum/",
-    "l": "L5",
-    "i": "Nicht-syndromische Ösophagusfehlbildung",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 9
-   },
-   {
     "t": "Adalimumabum",
     "u": "/drugs/adalimumabum/",
     "l": "L5",
@@ -1980,21 +2090,21 @@
     "x": 0
    },
    {
-    "t": "Agomelatinum",
-    "u": "/drugs/agomelatinum/",
-    "l": "L5",
-    "i": "Benigner paroxysmaler Torticollis des Säuglingsalters",
-    "lt": 5,
-    "lv": 4,
-    "r": 1,
-    "rs": "\"Die für diesen Bericht zusammengestellten Daten enthalten dazu keine ausführliche Mechanismusbeschreibung.…",
-    "x": 0
-   },
-   {
     "t": "Allantoin",
     "u": "/drugs/allantoin/",
     "l": "L5",
     "i": "severe nonproliferative diabetic retinopathy",
+    "lt": 4,
+    "lv": 4,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Alprostadilum",
+    "u": "/drugs/alprostadilum/",
+    "l": "L5",
+    "i": "Aortenfehlbildung",
     "lt": 4,
     "lv": 4,
     "r": 0,
@@ -2073,6 +2183,17 @@
     "l": "L5",
     "i": "Maligne hypertensive Nierenerkrankung",
     "lt": 0,
+    "lv": 4,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Chlordiazepoxide",
+    "u": "/drugs/chlordiazepoxide/",
+    "l": "L5",
+    "i": "Schlaflosigkeit",
+    "lt": 4,
     "lv": 4,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
@@ -2211,32 +2332,10 @@
     "x": 0
    },
    {
-    "t": "Erythromycinum",
-    "u": "/drugs/erythromycinum/",
-    "l": "L5",
-    "i": "Punktförmige epitheliale Keratokonjunktivitis",
-    "lt": 4,
-    "lv": 4,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Felodipinum",
     "u": "/drugs/felodipinum/",
     "l": "L5",
     "i": "Pulmonale Hypertonie bei unklarem multifaktoriellem Mechanismus",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Filgrastimum",
-    "u": "/drugs/filgrastimum/",
-    "l": "L5",
-    "i": "Primäre Freisetzungsstörung der Thrombozyten",
     "lt": 4,
     "lv": 4,
     "r": 1,
@@ -2253,17 +2352,6 @@
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 1
-   },
-   {
-    "t": "Golimumabum",
-    "u": "/drugs/golimumabum/",
-    "l": "L5",
-    "i": "Steissbeinhypermobilität",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
    },
    {
     "t": "Haloperidolum",
@@ -2387,17 +2475,6 @@
     "x": 0
    },
    {
-    "t": "Metoclopramidum",
-    "u": "/drugs/metoclopramidum/",
-    "l": "L5",
-    "i": "gastroduodenitis",
-    "lt": 4,
-    "lv": 4,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Morphinum",
     "u": "/drugs/morphinum/",
     "l": "L5",
@@ -2424,17 +2501,6 @@
     "u": "/drugs/nilotinibum/",
     "l": "L5",
     "i": "dermatofibrosarcoma protuberans",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Noradrenalinum",
-    "u": "/drugs/noradrenalinum/",
-    "l": "L5",
-    "i": "Obstruktive Lungenerkrankung",
     "lt": 4,
     "lv": 4,
     "r": 1,
@@ -2472,6 +2538,17 @@
     "lv": 4,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Oxybutyninum",
+    "u": "/drugs/oxybutyninum/",
+    "l": "L5",
+    "i": "Restless-Legs-Syndrom",
+    "lt": 4,
+    "lv": 4,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -2517,17 +2594,6 @@
     "r": 0,
     "rs": "",
     "x": 4
-   },
-   {
-    "t": "Pheniramine",
-    "u": "/drugs/pheniramine/",
-    "l": "L5",
-    "i": "Erkrankung der Nasenhöhle",
-    "lt": 4,
-    "lv": 4,
-    "r": 0,
-    "rs": "",
-    "x": 0
    },
    {
     "t": "Pirfenidonum",
@@ -2794,17 +2860,6 @@
     "x": 2
    },
    {
-    "t": "Alprostadilum",
-    "u": "/drugs/alprostadilum/",
-    "l": "L5",
-    "i": "Aortenfehlbildung",
-    "lt": 3,
-    "lv": 3,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Amantadini Hydrochloridum",
     "u": "/drugs/amantadini-hydrochloridum/",
     "l": "L5",
@@ -2871,17 +2926,6 @@
     "x": 0
    },
    {
-    "t": "Brivaracetamum",
-    "u": "/drugs/brivaracetamum/",
-    "l": "L5",
-    "i": "Beta-Ketothiolase-Mangel",
-    "lt": 3,
-    "lv": 3,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
     "t": "Carbetocinum",
     "u": "/drugs/carbetocinum/",
     "l": "L5",
@@ -2915,14 +2959,14 @@
     "x": 0
    },
    {
-    "t": "Chlordiazepoxide",
-    "u": "/drugs/chlordiazepoxide/",
+    "t": "Clonidini Hydrochloridum",
+    "u": "/drugs/clonidini-hydrochloridum/",
     "l": "L5",
-    "i": "Schlaflosigkeit",
+    "i": "Faziodigitogenitales Syndrom",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -3045,6 +3089,17 @@
     "r": 0,
     "rs": "",
     "x": 1
+   },
+   {
+    "t": "Labetaloli Hydrochloridum",
+    "u": "/drugs/labetaloli-hydrochloridum/",
+    "l": "L5",
+    "i": "Maligne hypertensive Nierenerkrankung",
+    "lt": 3,
+    "lv": 3,
+    "r": 0,
+    "rs": "",
+    "x": 0
    },
    {
     "t": "Lactulosum Liquidum",
@@ -3234,17 +3289,6 @@
     "x": 0
    },
    {
-    "t": "Oxybutyninum",
-    "u": "/drugs/oxybutyninum/",
-    "l": "L5",
-    "i": "Restless-Legs-Syndrom",
-    "lt": 3,
-    "lv": 3,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Pantoprazolum",
     "u": "/drugs/pantoprazolum/",
     "l": "L5",
@@ -3333,25 +3377,14 @@
     "x": 0
    },
    {
-    "t": "Ruxolitinibum",
-    "u": "/drugs/ruxolitinibum/",
+    "t": "Silodosinum",
+    "u": "/drugs/silodosinum/",
     "l": "L5",
-    "i": "Perivaskuläre epitheloidzellige Tumoren des Uteruskörpers",
+    "i": "Ambras-Typ der Hypertrichosis universalis congenita",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Sacubitril",
-    "u": "/drugs/sacubitril/",
-    "l": "L5",
-    "i": "brain small vessel disease 1 with or without ocular anomalies",
-    "lt": 3,
-    "lv": 3,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -3425,6 +3458,17 @@
     "u": "/drugs/verapamili-hydrochloridum/",
     "l": "L5",
     "i": "Obsoleter Schenkelblock",
+    "lt": 3,
+    "lv": 3,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Vortioxetinum",
+    "u": "/drugs/vortioxetinum/",
+    "l": "L5",
+    "i": "Neurotische Störung",
     "lt": 3,
     "lv": 3,
     "r": 1,
@@ -3718,17 +3762,6 @@
     "x": 0
    },
    {
-    "t": "Clonidini Hydrochloridum",
-    "u": "/drugs/clonidini-hydrochloridum/",
-    "l": "L5",
-    "i": "Faziodigitogenitales Syndrom",
-    "lt": 2,
-    "lv": 2,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Cobicistat",
     "u": "/drugs/cobicistat/",
     "l": "L5",
@@ -3737,6 +3770,17 @@
     "lv": 2,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Colchicinum",
+    "u": "/drugs/colchicinum/",
+    "l": "L5",
+    "i": "Plasmodium-falciparum-Malaria",
+    "lt": 2,
+    "lv": 2,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -3894,6 +3938,17 @@
     "x": 0
    },
    {
+    "t": "Empagliflozinum",
+    "u": "/drugs/empagliflozinum/",
+    "l": "L5",
+    "i": "Fokales Stiff-Limb-Syndrom",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
     "t": "Enoxaparinum Natricum",
     "u": "/drugs/enoxaparinum-natricum/",
     "l": "L5",
@@ -3916,6 +3971,17 @@
     "x": 0
    },
    {
+    "t": "Ertapenemum",
+    "u": "/drugs/ertapenemum/",
+    "l": "L5",
+    "i": "Bakterielle Arthritis",
+    "lt": 2,
+    "lv": 2,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Esketaminum",
     "u": "/drugs/esketaminum/",
     "l": "L5",
@@ -3923,6 +3989,17 @@
     "lt": 2,
     "lv": 2,
     "r": 2,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Febuxostatum",
+    "u": "/drugs/febuxostatum/",
+    "l": "L5",
+    "i": "Renale Hypourikämie",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
     "x": 0
    },
@@ -4103,17 +4180,6 @@
     "x": 0
    },
    {
-    "t": "Labetaloli Hydrochloridum",
-    "u": "/drugs/labetaloli-hydrochloridum/",
-    "l": "L5",
-    "i": "Maligne hypertensive Nierenerkrankung",
-    "lt": 2,
-    "lv": 2,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Lanadelumabum",
     "u": "/drugs/lanadelumabum/",
     "l": "L5",
@@ -4122,6 +4188,17 @@
     "lv": 2,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Lanreotidum",
+    "u": "/drugs/lanreotidum/",
+    "l": "L5",
+    "i": "Hypertrichose",
+    "lt": 2,
+    "lv": 2,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -4235,6 +4312,17 @@
     "x": 0
    },
    {
+    "t": "Nicardipini Hydrochloridum",
+    "u": "/drugs/nicardipini-hydrochloridum/",
+    "l": "L5",
+    "i": "Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
     "t": "Nimodipinum",
     "u": "/drugs/nimodipinum/",
     "l": "L5",
@@ -4279,6 +4367,17 @@
     "x": 0
    },
    {
+    "t": "Pembrolizumabum",
+    "u": "/drugs/pembrolizumabum/",
+    "l": "L5",
+    "i": "Gingivafibromatose",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
     "t": "Penciclovirum",
     "u": "/drugs/penciclovirum/",
     "l": "L5",
@@ -4305,6 +4404,17 @@
     "u": "/drugs/pioglitazonum/",
     "l": "L5",
     "i": "Opsismodysplasie",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
+    "x": 0
+   },
+   {
+    "t": "Plerixaforum",
+    "u": "/drugs/plerixaforum/",
+    "l": "L5",
+    "i": "CMM7",
     "lt": 2,
     "lv": 2,
     "r": 1,
@@ -4536,17 +4646,6 @@
     "u": "/drugs/tropicamidum/",
     "l": "L5",
     "i": "Cauda-equina-Syndrom",
-    "lt": 2,
-    "lv": 2,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Vortioxetinum",
-    "u": "/drugs/vortioxetinum/",
-    "l": "L5",
-    "i": "Neurotische Störung",
     "lt": 2,
     "lv": 2,
     "r": 1,
@@ -5082,17 +5181,6 @@
     "x": 9
    },
    {
-    "t": "Colchicinum",
-    "u": "/drugs/colchicinum/",
-    "l": "L5",
-    "i": "Plasmodium-falciparum-Malaria",
-    "lt": 1,
-    "lv": 1,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Cyclopentolati Hydrochloridum",
     "u": "/drugs/cyclopentolati-hydrochloridum/",
     "l": "L5",
@@ -5335,17 +5423,6 @@
     "x": 0
    },
    {
-    "t": "Empagliflozinum",
-    "u": "/drugs/empagliflozinum/",
-    "l": "L5",
-    "i": "Fokales Stiff-Limb-Syndrom",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
     "t": "Emtricitabinum",
     "u": "/drugs/emtricitabinum/",
     "l": "L5",
@@ -5383,17 +5460,6 @@
     "u": "/drugs/epinastini-hydrochloridum/",
     "l": "L5",
     "i": "Rosazea-Konjunktivitis",
-    "lt": 1,
-    "lv": 1,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Ertapenemum",
-    "u": "/drugs/ertapenemum/",
-    "l": "L5",
-    "i": "Bakterielle Arthritis",
     "lt": 1,
     "lv": 1,
     "r": 0,
@@ -5460,17 +5526,6 @@
     "u": "/drugs/famciclovirum/",
     "l": "L5",
     "i": "Postinfektiöse Neuralgie",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Febuxostatum",
-    "u": "/drugs/febuxostatum/",
-    "l": "L5",
-    "i": "Renale Hypourikämie",
     "lt": 1,
     "lv": 1,
     "r": 1,
@@ -5731,17 +5786,6 @@
     "x": 0
    },
    {
-    "t": "Lanreotidum",
-    "u": "/drugs/lanreotidum/",
-    "l": "L5",
-    "i": "Hypertrichose",
-    "lt": 1,
-    "lv": 1,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Lapatinibum",
     "u": "/drugs/lapatinibum/",
     "l": "L5",
@@ -5929,17 +5973,6 @@
     "x": 0
    },
    {
-    "t": "Nicardipini Hydrochloridum",
-    "u": "/drugs/nicardipini-hydrochloridum/",
-    "l": "L5",
-    "i": "Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
     "t": "Niraparibum",
     "u": "/drugs/niraparibum/",
     "l": "L5",
@@ -6072,17 +6105,6 @@
     "x": 0
    },
    {
-    "t": "Pembrolizumabum",
-    "u": "/drugs/pembrolizumabum/",
-    "l": "L5",
-    "i": "Gingivafibromatose",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
     "t": "Pentamidini Diisethionas",
     "u": "/drugs/pentamidini-diisethionas/",
     "l": "L5",
@@ -6175,17 +6197,6 @@
     "u": "/drugs/pitolisantum/",
     "l": "L5",
     "i": "Schlaflosigkeit",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Plerixaforum",
-    "u": "/drugs/plerixaforum/",
-    "l": "L5",
-    "i": "CMM7",
     "lt": 1,
     "lv": 1,
     "r": 1,
@@ -6454,17 +6465,6 @@
     "lv": 1,
     "r": 1,
     "rs": "Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt",
-    "x": 0
-   },
-   {
-    "t": "Silodosinum",
-    "u": "/drugs/silodosinum/",
-    "l": "L5",
-    "i": "Ambras-Typ der Hypertrichosis universalis congenita",
-    "lt": 1,
-    "lv": 1,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {

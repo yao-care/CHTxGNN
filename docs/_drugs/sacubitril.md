@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sacubitril: vorhergesagte neue Indikation Zerebrale Erkrankung der kleinen Gefässe Typ 1 mit oder ohne Augenanomalien (brain small vessel disease 1 with or witho… (Evidenzstufe L5). Ursprüngliche Ind…"
 ---
 
@@ -52,8 +52,8 @@ Sacubitril wird in der Schweiz zur Behandlung der Herzinsuffizienz eingesetzt. F
 | Vorhergesagte neue Indikation | Zerebrale Erkrankung der kleinen Gefässe Typ 1 mit oder ohne Augenanomalien (brain small vessel disease 1 with or without ocular anomalies) |
 | TxGNN-Vorhersagewert | 0,9958 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -85,6 +85,8 @@ Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis. Die einzige gefunde
 | 65673 | Entresto 50 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
 | 69255 | Entresto 6 mg/6 mg, filmüberzogenes Granulat (+1 weitere Bezeichnung) | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
 | 69813 | Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion. | Gültig |
+| 70754 | Sacubitril Valsartan Medius 24 mg/26 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
+| 70879 | Sacubitril / Valsartan Devatis 24 mg/26mg, Filmtabletten | Synthetikum | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

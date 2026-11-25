@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06207
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Silodosinum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -51,8 +51,8 @@ Silodosin ist in der Schweiz als Urorec im Handel. Die Vorhersage, es könnte be
 | Vorhergesagte neue Indikation | Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) |
 | TxGNN-Vorhersagewert | 0.9999 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -86,6 +86,8 @@ Derzeit keine verwandte Literatur verfügbar.
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 65513 | Urorec 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
+| 70014 | Silodosin Zentiva 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
+| 70129 | Silodosin Spirig HC 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

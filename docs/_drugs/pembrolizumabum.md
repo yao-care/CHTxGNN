@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB09037
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pembrolizumabum: vorhergesagte neue Indikation Gingivafibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: Melanom, Nicht-kleinzelliges Lungenkarzinom…"
 ---
 
@@ -53,8 +53,8 @@ Pembrolizumab ist ein Antikörper, der in der Schweiz unter dem Namen Keytruda f
 | Vorhergesagte neue Indikation | Gingivafibromatose (fibromatosis, gingival) |
 | TxGNN-Vorhersagewert | 0.9940 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -74,6 +74,7 @@ Für die Gingivafibromatose, eine erbliche oder arzneimittelbedingte Zahnfleisch
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 66231 | Keytruda 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Melanom, Nicht-kleinzelliges Lungenkarzinom, Malignes Pleuramesotheliom, Kopf- und Halskarzinom, Klassisches… | Gültig |
+| 70253 | Keytruda subkutan 395 mg/2.4 ml, Injektionslösung (+1 weitere Bezeichnung) | Biotechnologikum | Melanom, Nicht-kleinzelliges Lungenkarzinom, Malignes Pleuramesotheliom, Kopf- und Halskarzinom, Klassisches… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

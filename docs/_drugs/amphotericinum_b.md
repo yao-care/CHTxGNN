@@ -6,7 +6,7 @@ nav_exclude: true
 title: AMPHOTERICINUM B
 drugbank_id: DB00681
 permalink: /drugs/amphotericinum_b/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -18,8 +18,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | DrugBank ID | [DB00681](https://go.drugbank.com/drugs/DB00681) |
 | Neue vorhergesagte Indikationen | Keine |
 

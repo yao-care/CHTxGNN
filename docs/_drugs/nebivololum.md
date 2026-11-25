@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB04861
 monitor_inn: "Nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Nebivololum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -53,8 +53,8 @@ Nebivolol ist in der Schweiz als Betablocker zugelassen. Für die maligne hypert
 | Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9942 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 6) |
-| Anzahl Zulassungen | 6 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -90,6 +90,7 @@ Derzeit keine verwandte Literatur verfügbar
 | 59887 | Nebivolol-Mepha 5, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
 | 60020 | Nebivolol Spirig HC, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
 | 61287 | Nebivolol Sandoz 5, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 70451 | Nebiol axapharm 5 mg, Tabletten | Synthetikum | Behandlung von Hypertonie und chronischer Herzinsuffizienz (Beta-Rezeptorenblocker) | Gültig |
 | 62482 | Nebivolol Zentiva, Tabletten | Synthetika | Beta-Rezeptorenblocker | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

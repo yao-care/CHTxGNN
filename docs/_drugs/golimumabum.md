@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06674
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Golimumabum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis, Psoriasis Arthritis…"
 ---
 
@@ -53,8 +53,8 @@ Golimumab ist ein Antikörper, der den Entzündungsbotenstoff TNF-α hemmt. Für
 | Vorhergesagte neue Indikation | Steissbeinhypermobilität (hypermobility of coccyx) |
 | TxGNN-Vorhersagewert | 0.9967 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -79,6 +79,8 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis und wird durch keine Studi
 | 61318 | Simponi 50 mg, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
 | 70541 | Gomintia, Injektionslösung in einer Fertigspritze 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
 | 70542 | Gomintia, Injektionslösung im Fertigpen 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 70709 | Gobivaz 100 mg/1 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 70711 | Gobivaz 100 mg/1 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

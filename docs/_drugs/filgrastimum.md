@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00099
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Filgrastimum: vorhergesagte neue Indikation Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) (Evidenzstufe L5). Ursprüngliche Indikation: Neutropenie"
 ---
 
@@ -53,8 +53,8 @@ Filgrastim ist ein rekombinanter Wachstumsfaktor, der die Bildung und Reifung ne
 | Vorhergesagte neue Indikation | Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -83,7 +83,13 @@ Derzeit keine verwandte Literatur verfügbar.
 
 ### Marktinformationen Schweiz
 
-In der Schweiz sind vier Filgrastim-Präparate (Einzelwirkstoff) zugelassen, alle mit gültiger Zulassung.
+In der Schweiz sind mehrere Filgrastim-Präparate (Einzelwirkstoff) zugelassen, alle mit gültiger Zulassung; Anzahl und Status zeigt die Tabelle.
+
+<!-- review:begin ch-lic-20261125-filgrastimum-1 -->
+
+> **Prüfkorrektur (2026-11-25)**: Ursprünglich stand hier: „In der Schweiz sind vier Filgrastim-Präparate (Einzelwirkstoff) zugelassen, alle mit gültiger Zulassung.“ Seit der Datenerhebung (Stand März 2026) ist mit 70485 (Zarzio 30 MU/0,5 ml) eine weitere Filgrastim-Zulassung hinzugekommen; die aktuelle Anzahl steht in der Kurzübersicht und in der Tabelle. Quelle: [Swissmedic – Zugelassene Packungen HAM (Internetliste, Stand 31.10.2026)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html).
+
+<!-- review:end ch-lic-20261125-filgrastimum-1 -->
 
 <!-- licenses:begin -->
 
@@ -93,6 +99,7 @@ In der Schweiz sind vier Filgrastim-Präparate (Einzelwirkstoff) zugelassen, all
 | 60579 | Zarzio 30 MU/0.5 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
 | 60722 | Filgrastim-Teva 30 / 0.5 ml, Injektionslösung in Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
 | 66715 | Accofil 300mcg/0.5ml, Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
+| 70485 | Zarzio 30 MU/0,5 ml , Injektionslösung in einer Fertigspritze | Biotechnologikum | Neutropenie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 
@@ -123,11 +130,12 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 ## Prüfprotokoll
 
-Nachfolgend das Prüfprotokoll dieser Seite. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben.
+Nachfolgend das Prüfprotokoll dieser Seite: Aussagen, die mit den amtlichen Zulassungsdaten (Swissmedic-Liste der zugelassenen Packungen) abgeglichen wurden. Korrekturen beschränken sich auf grundlegende Sachangaben; Modellvorhersagen, Evidenzstufen und Schlussfolgerungen wurden nicht umgeschrieben. Die Aussage, dass keine Daten zum Wirkmechanismus vorliegen, wurde durch einen Auszug aus der angegebenen amtlichen Fachinformation (mit inoffizieller Übersetzung) ersetzt.
 
 | Prüfdatum | Punkt | Maßnahme | Quelle |
 |------|------|------|------|
 | 2026-11-19 | Aussage „keine Daten zum Wirkmechanismus“ durch Auszug aus der US-Fachinformation ersetzt | Aussage, dass keine Daten zum Wirkmechanismus vorliegen, durch einen belegten Auszug ersetzt | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
+| 2026-11-25 | „vier Filgrastim-Präparate“ → Anzahl in der Tabelle (70485 Zarzio neu) | Korrigiert | [Swissmedic – Zugelassene Packungen HAM (Internetliste, Stand 31.10.2026)](https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html) |
 
 <!-- review:end log -->
 

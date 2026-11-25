@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00598
 monitor_inn: "Labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Labetaloli Hydrochloridum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
@@ -51,8 +51,8 @@ Labetalol ist ein kombinierter Alpha- und Beta-Rezeptorenblocker, der in der Sch
 | Vorhergesagte neue Indikation | Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) |
 | TxGNN-Vorhersagewert | 0.9908 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -75,6 +75,7 @@ Ob Labetalol über die reine Blutdrucksenkung hinaus die Nierenfunktion schützt
 |------|------|------|------|------|
 | 41529 | Trandate, Injektionslösung | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
 | 41530 | Trandate 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 70383 | Labetalol Nardia 5 mg/ml (100 mg per 20 ml), Injektions-/Infusionslös… | Synthetikum | La soluzione iniettabile è indicata quando è necessario ridurre rapidamente la pressione arteriosa in pazient… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

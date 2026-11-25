@@ -7,7 +7,7 @@ title: EDOXABANUM
 drugbank_id: DB09075
 permalink: /drugs/edoxabanum/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 6) |
+| Anzahl Zulassungen | mindestens 6 |
 | DrugBank ID | [DB09075](https://go.drugbank.com/drugs/DB09075) |
 | Neue vorhergesagte Indikationen | Keine |
 

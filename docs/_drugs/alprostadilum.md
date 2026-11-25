@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00770
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alprostadilum: vorhergesagte neue Indikation Aortenfehlbildung (aortic malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Erektile Dysfunktion"
 ---
 
@@ -53,8 +53,8 @@ Alprostadil ist ein Prostaglandin-E1-Präparat, das in der Schweiz als Injektion
 | Vorhergesagte neue Indikation | Aortenfehlbildung (aortic malformation) |
 | TxGNN-Vorhersagewert | 0.9998 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -93,6 +93,7 @@ Der sehr hohe TxGNN-Wert passt zu dieser Verbindung. Er ersetzt jedoch keine kli
 | 45333 | Prostin VR, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zur temporären Oeffnung des Ductus arteriosus bei Neugeborenen mit angeborenen Herzfehlern | Gültig |
 | 52510 | Caverject 20 ug, Injektionspräparat (+1 weitere Bezeichnung) | Synthetika | Erektile Dysfunktion | Gültig |
 | 55674 | Caverject DC 10, Pulver und Lösungsmittel zur Herstellung einer Injek… (+1 weitere Bezeichnung) | Synthetika | Erektile Dysfunktion | Gültig |
+| 70714 | ALPROSTADIL Leman IV 500 mcg/ml, solution à diluer pour perfusion | Synthetikum | pour conserver temporairement la persistance du canal artériel chez le nouveau né atteint de cardiopathie con… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

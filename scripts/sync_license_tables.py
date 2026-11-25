@@ -96,7 +96,8 @@ def rows_of(tf, fc=None):
                f"| {k} | {nm} | {cell(r.get('dosage_form'), 40)} | {cell(r.get('indication'), 110)} | {ST_LABEL.get(st, st)} |")
         (valid if st == "valid" else other).append(row)
     rows = [x[2] for x in sorted(valid)] + [x[2] for x in sorted(other)]
-    partial = int(tf.get("total_matches") or 0) > len(tf.get("records") or [])
+    listed = sum(int(x.get("packages") or 0) for x in tf.get("records_not_stored") or [] if isinstance(x, dict) and x.get("license_listed"))
+    partial = int(tf.get("total_matches") or 0) - listed > len(tf.get("records") or [])   # 同 reviewer._local_regulatory
     return rows, len(rows), partial
 
 

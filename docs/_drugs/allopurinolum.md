@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00437
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Allopurinolum: vorhergesagte neue Indikation hepatische Porphyrie (hepatic porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Uricostaticum"
 ---
 
@@ -51,8 +51,8 @@ Allopurinol ist ein Arzneimittel, das in der Schweiz mit mehreren Präparaten im
 | Vorhergesagte neue Indikation | hepatische Porphyrie (hepatic porphyria) |
 | TxGNN-Vorhersagewert | 0.9995 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -89,6 +89,7 @@ Keine der beiden Arbeiten untersucht Allopurinol bei Porphyrie. Es fehlt daher e
 | 39981 | Uriconorm 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Urikostatikum | Gültig |
 | 56050 | Allopurinol Zentiva 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Urikostatikum | Gültig |
 | 58129 | Allopurinol-Mepha 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostatikum | Gültig |
+| 70148 | Allopurinol Spirig HC 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Uricostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

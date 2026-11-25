@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00842
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Oxazepamum: vorhergesagte neue Indikation Insomnie (insomnia (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Sedativum"
 ---
 
@@ -53,8 +53,8 @@ Oxazepam ist ein kurz wirksames Benzodiazepin, das in der Schweiz im Handel ist.
 | Vorhergesagte neue Indikation | Insomnie (insomnia (disease)) |
 | TxGNN-Vorhersagewert | 0.9986 |
 | Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
@@ -99,6 +99,7 @@ Nur die Studie von 1984 untersucht Oxazepam direkt bei Insomnie. Sie ist klein u
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 32497 | Seresta, Tabletten (+1 weitere Bezeichnung) | Synthetika | Sedativum | Gültig |
+| 69981 | Oxazepam Leman 15mg, comprimés | Synthetikum | Sédatif | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

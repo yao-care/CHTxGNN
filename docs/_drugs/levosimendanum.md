@@ -7,7 +7,7 @@ title: LEVOSIMENDANUM
 drugbank_id: DB00922
 permalink: /drugs/levosimendanum/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | DrugBank ID | [DB00922](https://go.drugbank.com/drugs/DB00922) |
 | Neue vorhergesagte Indikationen | Keine |
 

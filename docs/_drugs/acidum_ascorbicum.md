@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00126
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acidum Ascorbicum: vorhergesagte neue Indikation Nicht-syndromische Ösophagusfehlbildung (non-syndromic esophageal malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Vitamin-C-Präparat"
 ---
 
@@ -53,8 +53,8 @@ Ascorbinsäure (Vitamin C) ist in der Schweiz im Handel. Das Modell sagt eine m�
 | Vorhergesagte neue Indikation | Nicht-syndromische Ösophagusfehlbildung (non-syndromic esophageal malformation) |
 | TxGNN-Vorhersagewert | 0.9996 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -89,6 +89,7 @@ Derzeit keine verwandte Literatur verfügbar.
 | 44259 | Burgerstein Vitamin C retard, Hartkapseln | Synthetika | Vitamin C-Präparat | Gültig |
 | 56194 | Redoxon Orangenaroma, Kautabletten | Synthetika | Vitamin-C-Präparat | Gültig |
 | 56354 | Redoxon orange 1g, Brausetabletten | Synthetika | Vitamin C Präparat | Gültig |
+| 70717 | Pascoe Pascorbin 2.5 g/50 ml, Injektions-/Infusionslösung | Synthetikum | Vitamin-C-Präparat | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

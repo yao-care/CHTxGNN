@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00368
 monitor_inn: "Norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Noradrenalinum: vorhergesagte neue Indikation Obstruktive Lungenerkrankung (obstructive lung disease) (Evidenzstufe L5)."
 ---
 
@@ -51,8 +51,8 @@ Noradrenalin ist ein Sympathomimetikum, das als Vasokonstriktor und Herzstimulan
 | Vorhergesagte neue Indikation | Obstruktive Lungenerkrankung (obstructive lung disease) |
 | TxGNN-Vorhersagewert | 0.9984 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -101,6 +101,7 @@ Keine der Publikationen untersucht Noradrenalin als Therapie bei obstruktiver Lu
 | 67023 | Noradrenalin Sintetica 0.06 mg/ml, soluzione per infusione (+3 weitere Bezeichnungen) | Synthetika | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
 | 69772 | Noradrenalin Sintetica Ultradiluted 0,01 mg/ml, soluzione iniettabile… (+1 weitere Bezeichnung) | Synthetika | Restauro e mantenimento della pressione arteriosa perioperatoria dopo ipotensione indotta da anestesia rachid… | Gültig |
 | 70013 | Noradrenaline Aguettant 4 mg/4 ml, solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetika | Sympathomimétique, vasoconstricteur, stimulant cardiaque | Gültig |
+| 70326 | Noradrenalin Nardia 0,016 mg/ml, soluzione per infusione (+2 weitere Bezeichnungen) | Synthetikum | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

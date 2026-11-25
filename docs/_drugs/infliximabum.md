@@ -7,7 +7,7 @@ title: INFLIXIMABUM
 drugbank_id: DB00065
 permalink: /drugs/infliximabum/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 12 von 12) |
-| Anzahl Zulassungen | 12 (gültig: 12) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 13 von 13) |
+| Anzahl Zulassungen | 13 (gültig: 13) |
 | DrugBank ID | [DB00065](https://go.drugbank.com/drugs/DB00065) |
 | Neue vorhergesagte Indikationen | Keine |
 

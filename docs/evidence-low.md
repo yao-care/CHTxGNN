@@ -3,7 +3,7 @@ layout: default
 title: Nur Modellvorhersage (L5)
 nav_order: 23
 permalink: /evidence-low/
-description: "566 Arzneimittel mit Evidenzstufe L5 auf dieser Website (Schweiz), z. B. Dextromethorphanum, Denosumabum, Flurbiprofenum, jeweils mit wichtigster vorhergesagter Indikation, Swissmedic-Zulassungen und Prüfprotokoll."
+description: "566 Arzneimittel mit Evidenzstufe L5 auf dieser Website (Schweiz), z. B. Denosumabum, Afliberceptum, Dextromethorphanum, jeweils mit wichtigster vorhergesagter Indikation, Swissmedic-Zulassungen und Prüfprotokoll."
 ---
 
 # Nur Modellvorhersage (L5)

@@ -135,7 +135,10 @@ class DrugEvidencePackGenerator:
                 "status": status,
             })
         valid = [x for x in lics if x["status"] == "valid"]
-        partial = int(reg.get("total_matches") or 0) > len(recs)
+        # 2026-11-25（第五輪）：scripts/add_current_licenses.py 補收時超過 20 筆沒存的包裝，若同號已有包裝在 records（license_listed），
+        # 許可號清單仍完整，不算 partial
+        _listed = sum(int(x.get("packages") or 0) for x in reg.get("records_not_stored") or [] if isinstance(x, dict) and x.get("license_listed"))
+        partial = int(reg.get("total_matches") or 0) - _listed > len(recs)
         return {
             # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
             "market_status": _market_status(valid, lics, partial),

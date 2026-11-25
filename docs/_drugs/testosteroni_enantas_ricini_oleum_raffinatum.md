@@ -6,7 +6,7 @@ nav_exclude: true
 title: TESTOSTERONI ENANTAS, RICINI OLEUM RAFFINATUM
 drugbank_id: DB00624
 permalink: /drugs/testosteroni_enantas_ricini_oleum_raffinatum/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -18,8 +18,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 9 von 9) |
-| Anzahl Zulassungen | 9 (gültig: 9) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 11 von 11) |
+| Anzahl Zulassungen | 11 (gültig: 11) |
 | DrugBank ID | [DB00624](https://go.drugbank.com/drugs/DB00624) |
 | Neue vorhergesagte Indikationen | Keine |
 

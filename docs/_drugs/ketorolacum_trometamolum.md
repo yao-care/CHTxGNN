@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00465
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ketorolacum Trometamolum: vorhergesagte neue Indikation Kopfschmerzerkrankung (headache disorder) (Evidenzstufe L1)."
 ---
 
@@ -53,8 +53,8 @@ Ketorolac-Trometamol ist ein nichtsteroidaler Entzündungshemmer mit schmerzlind
 | Vorhergesagte neue Indikation | Kopfschmerzerkrankung (headache disorder) |
 | TxGNN-Vorhersagewert | 0.9943 |
 | Evidenzniveau | L1 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
+| Anzahl Zulassungen | 5 (gültig: 5) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
@@ -113,6 +113,7 @@ Die Evidenz stammt überwiegend aus Studien zu Migräne und Spannungskopfschmerz
 | 48803 | Tora-dol, Filmtabletten | Synthetika | Antiphlogistikum, Analgetikum | Gültig |
 | 53181 | Acular, Augentropfen | Synthetika | Nicht steroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
 | 61219 | KetoVision, Augentropfen | Synthetika | Nichtsteroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
+| 70358 | Ketorolac Nardia 30 mg/ml, soluzione iniettabile | Synthetikum | Antiinfiammatoria, Analgesico | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

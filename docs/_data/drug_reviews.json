@@ -11909,6 +11909,26 @@
    "replacement": "Ursprüngliche Indikation: Diagnose von Allergien",
    "note": "Seitenbeschreibung korrigiert: „Entzündliche, nässende und juckende Hauterkrankungen“ ist das Anwendungsgebiet von Tannosynt flüssig (32238), dessen Wirkstoff laut Swissmedic ein Phenol-Formaldehyd-Harnstoff-Kondensat ist, nicht Formaldehyd. Mit Formaldehyd als Wirkstoff ist das Allergie-Testpflaster True Test (56688) erfasst.",
    "summary": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt"
+  },
+  {
+   "action": "correct",
+   "sources": [
+    {
+     "title": "Swissmedic – Zugelassene Packungen HAM (Internetliste, Stand 31.10.2026)",
+     "url": "https://www.swissmedic.ch/swissmedic/de/home/services/listen_neu.html",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪（用戶決定）：scripts/add_current_licenses.py 依原收集規則補收 Swissmedic 現行清單上 2026-03 之後才出現的本藥許可，補收後對照正文",
+   "drug": "filgrastimum",
+   "file": "filgrastimum.md",
+   "id": "ch-lic-20261125-filgrastimum-1",
+   "finding": "正文寫 4 個 Filgrastim 單方產品全部有效；補收 70485 Zarzio 30 MU/0,5 ml（Sandoz，2026-03 之後的新許可號）後本藥有 5 張有效許可，全部單方",
+   "claim": "In der Schweiz sind vier Filgrastim-Präparate (Einzelwirkstoff) zugelassen, alle mit gültiger Zulassung.",
+   "replacement": "In der Schweiz sind mehrere Filgrastim-Präparate (Einzelwirkstoff) zugelassen, alle mit gültiger Zulassung; Anzahl und Status zeigt die Tabelle.",
+   "note": "Seit der Datenerhebung (Stand März 2026) ist mit 70485 (Zarzio 30 MU/0,5 ml) eine weitere Filgrastim-Zulassung hinzugekommen; die aktuelle Anzahl steht in der Kurzübersicht und in der Tabelle.",
+   "summary": "„vier Filgrastim-Präparate“ → Anzahl in der Tabelle (70485 Zarzio neu)"
   }
  ]
 }

@@ -7,7 +7,7 @@ title: DAPAGLIFLOZINUM
 drugbank_id: DB06292
 permalink: /drugs/dapagliflozinum/
 search_exclude: true
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-25
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -19,8 +19,8 @@ evidence_level: N/A
 
 | Element | Wert |
 |------|-------|
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | DrugBank ID | [DB06292](https://go.drugbank.com/drugs/DB06292) |
 | Neue vorhergesagte Indikationen | Keine |
 

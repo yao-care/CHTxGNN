@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00072
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Trastuzumabum: vorhergesagte neue Indikation Maligner kutaner Granularzelltumor der Haut (malignant cutaneous granular cell skin tumor) (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom…"
 ---
 
@@ -53,8 +53,8 @@ Trastuzumab ist ein Antikörper gegen HER2 und wird in der Schweiz in der Krebsb
 | Vorhergesagte neue Indikation | Maligner kutaner Granularzelltumor der Haut (malignant cutaneous granular cell skin tumor) |
 | TxGNN-Vorhersagewert | 0.9948 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
-| Anzahl Zulassungen | 7 (gültig: 7) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 8) |
+| Anzahl Zulassungen | 8 (gültig: 8) |
 | Empfohlene Entscheidung | Abwarten |
 
 <!-- review:begin ch-lic-20261124c-trastuzumabum-1 -->
@@ -87,6 +87,7 @@ Bevor eine biologische Begründung tragfähig wäre, müsste im Tumorgewebe eine
 | 67205 | Kanjinti 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
 | 67467 | Ogivri 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
 | 67470 | Ogivri 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
+| 67829 | Zercepac 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… | Biotechnologikum | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
 | 67892 | Herzuma 440 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | Oncologique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

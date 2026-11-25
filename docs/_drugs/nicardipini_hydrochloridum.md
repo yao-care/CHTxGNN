@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00622
 monitor_inn: "Nicardipine"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Nicardipini Hydrochloridum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
 ---
 
@@ -53,8 +53,8 @@ Nicardipin ist ein Calciumkanalblocker zur intravenösen Anwendung, der in der S
 | Vorhergesagte neue Indikation | Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | TxGNN-Vorhersagewert | 0.9926 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -91,6 +91,7 @@ Keine der gefundenen Publikationen untersucht Nicardipin direkt als Behandlung d
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 67680 | Nicardipin Aguettant 10 mg/10 ml, solution injectable | Synthetika | Urgence hypertensive | Gültig |
+| 70240 | Nicardipin Labatec 10 mg/10 ml, solution injectable | Synthetikum | Urgence hypertensive | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

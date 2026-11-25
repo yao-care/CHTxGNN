@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01233
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metoclopramidum: vorhergesagte neue Indikation Gastroduodenitis (Evidenzstufe L5). Ursprüngliche Indikation: Übelkeit und Erbrechen"
 ---
 
@@ -51,8 +51,8 @@ Metoclopramid wirkt als Dopamin-D2-Antagonist und fördert die Magen-Darm-Bewegl
 | Vorhergesagte neue Indikation | Gastroduodenitis |
 | TxGNN-Vorhersagewert | 0.9990 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -102,6 +102,8 @@ Keine der Arbeiten untersucht Metoclopramid direkt bei Gastroduodenitis. Die Aus
 | 32733 | Paspertin 10 mg/2 mL, Injektionslösung | Synthetika | Übelkeit und Erbrechen | Gültig |
 | 32735 | Paspertin, Filmtabletten | Synthetika | Übelkeit und Erbrechen | Gültig |
 | 42894 | Paspertin, Tropfen | Synthetika | Übelkeit und Erbrechen | Gültig |
+| 70746 | Metoclopramid-Mepha i.v./i.m. 10 mg / 2 ml, Injektionslösung | Synthetikum | Übelkeit und Erbrechen | Gültig |
+| 70760 | Metoclopramide Nardia 10 mg/2 ml, soluzione iniettabile | Synthetikum | nausea e vomito | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

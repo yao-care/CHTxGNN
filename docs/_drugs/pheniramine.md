@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01620
 monitor_inn: "pheniramine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pheniramine: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Symptomatische Behandlung bei Erkältungskrankheiten"
 ---
 
@@ -53,8 +53,8 @@ Pheniramin ist ein Antihistaminikum der ersten Generation, das in der Schweiz in
 | Vorhergesagte neue Indikation | Erkrankung der Nasenhöhle (nasal cavity disease) |
 | TxGNN-Vorhersagewert | 0.9928 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
-| Anzahl Zulassungen | 4 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -79,6 +79,9 @@ Der hohe Wert spiegelt jedoch wahrscheinlich vor allem die Nähe zur bereits zug
 | 67413 | neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einn… | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
 | 67691 | Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
 | 69767 | neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 70757 | Amavita Flumol Grippe, Pulver zur Herstellung einer Lösung zum Einneh… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 70763 | SUN STORE Flumol Grippe, Pulver zur Herstellung einer Lösung zum Einn… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 70764 | Coop Vitality Flumol Grippe, Pulver zur Herstellung einer Lösung zum… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

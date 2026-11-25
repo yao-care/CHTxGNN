@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01394
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Colchicinum: vorhergesagte neue Indikation Plasmodium-falciparum-Malaria (Plasmodium falciparum malaria) (Evidenzstufe L5)."
 ---
 
@@ -51,8 +51,8 @@ Colchicin ist in der Schweiz als Tablette im Handel. Für die Vorhersage zu Plas
 | Vorhergesagte neue Indikation | Plasmodium-falciparum-Malaria (Plasmodium falciparum malaria) |
 | TxGNN-Vorhersagewert | 0.9960 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -89,6 +89,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 67974 | COLCTAB 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Gichtarthtritis, Perikarditis, familiäres Mittelmeerfieber | Gültig |
+| 69931 | Lodoco 0.5 mg, Tabletten | Synthetikum | LODOCO ist indiziert, um das Risiko von Myokardinfarkt, Schlaganfall, koronarer Revaskularisation und kardiov… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

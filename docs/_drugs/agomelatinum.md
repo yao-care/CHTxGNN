@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB06594
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Agomelatinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -53,8 +53,8 @@ Agomelatin ist ein Antidepressivum, das in der Schweiz im Handel ist. Das Modell
 | Vorhergesagte neue Indikation | Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) |
 | TxGNN-Vorhersagewert | 0.9996 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 4) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 5) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -77,6 +77,7 @@ Der benigne paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitier
 | 67423 | Agomelatin Spirig HC 25 mg, Filmtabletten | Synthetika | Antidepressivum | Gültig |
 | 67631 | Agomelatin-Servier 25 mg, comprimé pelliculé | Synthetika | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
 | 67666 | Agomelatin Zentiva 25 mg, Filmtabletten | Synthetika | Antidepressivum | Gültig |
+| 70461 | Valdoxan 25 mg, Filmtabletten | Synthetikum | Behandlung von depressiven Episoden Erwachsener, Behandlung der generalisierten Angststörung (GAS) Erwachsener | Gültig |
 | 67502 | Agomelatin-Mepha 25 mg, Filmtabletten | Synthetika | Antidepressivum | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

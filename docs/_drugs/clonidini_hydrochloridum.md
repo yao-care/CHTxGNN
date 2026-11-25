@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00575
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clonidini Hydrochloridum: vorhergesagte neue Indikation Faziodigitogenitales Syndrom (faciodigitogenital syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antihypertensivum"
 ---
 
@@ -53,8 +53,8 @@ Clonidinhydrochlorid ist ein zentral wirkender Alpha-2-Agonist. Die Vorhersage, 
 | Vorhergesagte neue Indikation | Faziodigitogenitales Syndrom (faciodigitogenital syndrome) |
 | TxGNN-Vorhersagewert | 1.0000 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
+| Anzahl Zulassungen | 3 (gültig: 3) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -75,6 +75,7 @@ Ein Zusammenhang zwischen dieser Wirkung und dem vorhergesagten Krankheitsbild l
 |------|------|------|------|------|
 | 33148 | Catapresan, Tabletten | Synthetika | Antihypertensivum | Gültig |
 | 38638 | Catapresan, Injektionslösung | Synthetika | Antihypertensivum | Gültig |
+| 70593 | Clonidine Nardia 150 µg/ml, soluzione iniettabile o per infusione | Synthetikum | Ipertensione: Per il trattamento della crisi ipertensiva, si raccomanda l’applicazione parenterale lenta a ca… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

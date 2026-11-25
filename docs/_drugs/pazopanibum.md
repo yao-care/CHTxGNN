@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06589
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pazopanibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L3). Ursprüngliche Indikation: Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen W…"
 ---
 
@@ -53,8 +53,8 @@ Pazopanib ist ein in der Schweiz zugelassener und im Handel erhältlicher Tyrosi
 | Vorhergesagte neue Indikation | Liposarkom (liposarcoma) |
 | TxGNN-Vorhersagewert | 0.9959 |
 | Evidenzniveau | L3 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 Das Evidenzniveau ist L3. Zwar gibt es zwei abgeschlossene Phase-2-Studien direkt beim Liposarkom, doch sind es keine randomisierten Studien, die L1 oder L2 erfüllen würden.
@@ -122,6 +122,7 @@ Diese Angaben beruhen auf allgemeinem pharmakologischem Wissen und nicht auf den
 | 60326 | Votrient 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
 | 69276 | Pazopanib Spirig HC 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
 | 69994 | Pazopanib Sandoz 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms; Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+| 70608 | Pazopanib Leman 200 mg, comprimés pélliculés (+1 weitere Bezeichnung) | Synthetikum | Traitement du carcinome à cellules rénales; traitement du sarcome des tissus mous avancé | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

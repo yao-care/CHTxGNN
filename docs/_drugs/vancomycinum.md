@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00512
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vancomycinum: vorhergesagte neue Indikation Diffuse Sklerodermie (diffuse scleroderma) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -53,8 +53,8 @@ Vancomycin ist ein Antibiotikum, das gegen bakterielle Infektionen eingesetzt wi
 | Vorhergesagte neue Indikation | Diffuse Sklerodermie (diffuse scleroderma) |
 | TxGNN-Vorhersagewert | 0.9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 5 von 5) |
-| Anzahl Zulassungen | 5 (gültig: 5) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 7 von 7) |
+| Anzahl Zulassungen | 7 (gültig: 7) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -92,6 +92,8 @@ Derzeit keine verwandten klinischen Studien registriert.
 | 57236 | Vancomycin Sandoz 500 mg i.v., Pulver zur Herstellung einer Infusions… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
 | 59766 | Vancomycin Labatec 500 mg, poudre pour solution pour perfusion (+1 weitere Bezeichnung) | Synthetika | Maladies infectieuses | Gültig |
 | 67837 | Vancomycin Fairmed 125 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Infektionen durch Clostridium difficile | Gültig |
+| 69888 | Vancomycin Leman IV 500 mg, poudre pour solution à diluer pour perfus… (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses | Gültig |
+| 70237 | Vanco Labatec 500 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

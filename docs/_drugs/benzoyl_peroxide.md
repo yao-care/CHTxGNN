@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "benzoyl peroxide"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Benzoyl Peroxide: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5). Ursprüngliche Indikation: Acne vulgaris"
 ---
 
@@ -48,8 +48,8 @@ Benzoylperoxid wird als Hautmittel zur äusserlichen Behandlung eingesetzt. Die 
 | Vorhergesagte neue Indikation | Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) |
 | TxGNN-Vorhersagewert | 0,9992 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
-| Anzahl Zulassungen | 6 (gültig: 6) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 8 von 8) |
+| Anzahl Zulassungen | 8 (gültig: 8) |
 | Empfohlene Entscheidung | Abwarten |
 
 ## Warum ist diese Vorhersage plausibel?
@@ -80,6 +80,8 @@ Derzeit keine verwandte Literatur verfügbar.
 | 58460 | Epiduo, Gel (+1 weitere Bezeichnung) | Synthetika | Akne vulgaris | Gültig |
 | 58494 | Duac Akne, Gel | Synthetika | Akne vulgaris | Gültig |
 | 68957 | Aceduo Leman, Gel | Synthetika | Traitment cutané de l’acne vulgaris en présence de comédons, papules et pustules | Gültig |
+| 70252 | Epispot Leman, gel (+1 weitere Bezeichnung) | Synthetikum | acné vulgaire | Gültig |
+| 70282 | Adabencutan, Gel | Synthetikum | Acne vulgaris | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

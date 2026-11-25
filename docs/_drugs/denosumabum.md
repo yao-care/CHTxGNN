@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06643
 monitor_inn: "Denosumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Denosumabum: vorhergesagte neue Indikation Schwere nichtproliferative diabetische Retinopathie (severe nonproliferative diabetic retinopathy) (Evidenzstufe L5)."
 ---
 
@@ -53,8 +53,8 @@ Denosumab ist ein monoklonaler Antikörper, der in der Schweiz mit mehreren Zula
 | Vorhergesagte neue Indikation | Schwere nichtproliferative diabetische Retinopathie (severe nonproliferative diabetic retinopathy) |
 | TxGNN-Vorhersagewert | 0.9963 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 14 von 14) |
-| Anzahl Zulassungen | 14 (gültig: 14) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: mindestens 18) |
+| Anzahl Zulassungen | mindestens 18 |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -83,12 +83,18 @@ Zu beachten ist, dass für die schwere nichtproliferative Retinopathie bereits e
 | 69944 | Wyost 120 mg/ 1.7 ml, Injektionslösung | Biotechnologika | Knochenmetastasen solider Tumoren; Riesenzelltumoren des Knochens | Gültig |
 | 69950 | Jubbonti 60 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Osteoporose | Gültig |
 | 70066 | Denosumab-Mepha osteo 60 mg/ml, Injektionslösung in einer Fertigsprit… | Biotechnologika | Osteoporose | Gültig |
+| 70094 | Jubereq 120 mg/1.7 ml, Injektionslösung | Biotechnologikum | Knochenmetastasen solider Tumoren; Riesenzelltumoren des Knochens | Gültig |
+| 70101 | Osvyrti 60 mg/1.0 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Osteoporose | Gültig |
 | 70132 | Denosumab-Teva onco 120 mg / 1.7 ml, Injektionslösung | Biotechnologika | Knochenmetastasen solider Tumoren; Riesenzelltumoren des Knochens | Gültig |
 | 70140 | Evfraxy 60 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Osteoporose | Gültig |
 | 70142 | Vevzuo 120 mg/1.7 ml (70 mg/ml), Injektionslösung | Biotechnologika | Knochenmetastasen solider Tumoren; Riesenzelltumoren des Knochens | Gültig |
 | 70196 | Osenvelt 120 mg/1.7 ml (70 mg/ml), solution injectable | Biotechnologika | Métastases osseuses issues de turneurs solides; tumeurs à cellules géantes de l'os | Gültig |
 | 70199 | Stoboclo 60 mg, solution injectable en seringue préremplie | Biotechnologika | Ostéoporose | Gültig |
 | 70492 | Denosumab Zentiva 60 mg, Injektionslösung (s.c.) | Biotechnologika | Osteoporose | Gültig |
+| 70494 | Junod 60 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Osteoporose | Gültig |
+| 70778 | Prolia 60 mg / ml, Injektionslösung in einer Fertigspritze mit Nadels… | Biotechnologikum | Osteoporose | Gültig |
+
+Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

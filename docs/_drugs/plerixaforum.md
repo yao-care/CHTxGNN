@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06809
 monitor_inn: "Plerixafor"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Plerixaforum: vorhergesagte neue Indikation CMM7 (Evidenzstufe L5). Ursprüngliche Indikation: Mobilisation des cellules souches hématopoïétiques"
 ---
 
@@ -53,8 +53,8 @@ Plerixafor ist in der Schweiz als Mozobil zugelassen. Das Modell sagt für das A
 | Vorhergesagte neue Indikation | CMM7 |
 | TxGNN-Vorhersagewert | 0.9934 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -88,6 +88,7 @@ Derzeit keine verwandte Literatur verfügbar
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 63139 | Mozobil 20mg/mL, solution injectable | Synthetika | Mobilisation des cellules souches hématopoïétiques | Gültig |
+| 70674 | Plerixafor Provectis 24 mg/1.2 ml, Injektionslösung | Synthetikum | Mobilisierung von Blutstammzellen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

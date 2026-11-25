@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB09038
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Empagliflozinum: vorhergesagte neue Indikation Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) (Evidenzstufe L5)."
 ---
 
@@ -53,8 +53,8 @@ Empagliflozin ist ein Arzneimittel, das in der Schweiz im Handel ist. Die Vorher
 | Vorhergesagte neue Indikation | Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) |
 | TxGNN-Vorhersagewert | 0.9906 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -88,6 +88,7 @@ Derzeit keine verwandte Literatur verfügbar.
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 63227 | Jardiance 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diabetes Typ 2, Prävention kardiovaskuläre Ereignisse, Herzinsuffizienz | Gültig |
+| 70630 | Empagliflozin Devatis 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Diabetes Typ 2, Prävention kardiovaskuläre Ereignisse, Herzinsuffizienz | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

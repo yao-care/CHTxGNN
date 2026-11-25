@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB09078
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lenvatinibum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L2). Ursprüngliche Indikation: Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC)"
 ---
 
@@ -53,8 +53,8 @@ Lenvatinib ist ein oraler Multi-Tyrosinkinase-Inhibitor, der in der Schweiz zuge
 | Vorhergesagte neue Indikation | Liposarkom (liposarcoma) |
 | TxGNN-Vorhersagewert | 0.9951 |
 | Evidenzniveau | L2 (eine abgeschlossene Phase-Ib/II-Studie, einarmig und ohne Randomisierung, daher eher an der unteren Grenze dieser Stufe) |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
-| Anzahl Zulassungen | 2 (gültig: 2) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 4 von 4) |
+| Anzahl Zulassungen | 4 (gültig: 4) |
 | Empfohlene Entscheidung | Mit Vorsicht fortfahren |
 
 ---
@@ -110,6 +110,8 @@ Diese Angaben stammen nicht aus den zusammengestellten Daten, sondern aus allgem
 |------|------|------|------|------|
 | 65512 | Lenvima 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
 | 66085 | Kisplyx 4 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC) | Gültig |
+| 70493 | Lenvatinib Sandoz 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Differenziertes Schilddrüsenkarzinom (DTC), Hepatozelluläres Karzinom (HCC), Endometriumkarzinom (EC), Nieren… | Gültig |
+| 70497 | Lenvatinib-Teva 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Onkologikum. Differenziertes Schilddrüsenkarzinom (DTC), Hepatozelluläres Karzinom (HCC), Endometriumkarzinom… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

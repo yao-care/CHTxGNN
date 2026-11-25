@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00303
 monitor_inn: "Ertapenem"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ertapenemum: vorhergesagte neue Indikation Bakterielle Arthritis (bacterial arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -53,8 +53,8 @@ Ertapenem ist ein Breitspektrum-Antibiotikum aus der Gruppe der Carbapeneme. Das
 | Vorhergesagte neue Indikation | Bakterielle Arthritis (bacterial arthritis) |
 | TxGNN-Vorhersagewert | 0.9972 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 1 von 1) |
-| Anzahl Zulassungen | 1 (gültig: 1) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 2 von 2) |
+| Anzahl Zulassungen | 2 (gültig: 2) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -98,6 +98,7 @@ Derzeit keine verwandten klinischen Studien registriert
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
 | 55902 | Invanz, Pulver für ein Konzentrat zur Herstellung einer Infusionslösu… | Synthetika | Infektionskrankheiten | Gültig |
+| 70376 | Ertapenem Labatec 1 g, poudre pour solution à diluer pour perfusion | Synthetikum | Maladies infectieuses | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

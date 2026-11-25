@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB08877
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ruxolitinibum: vorhergesagte neue Indikation Perivaskuläre epitheloidzellige Tumoren des Uteruskörpers (uterine corpus perivascular epithelioid cell tumor) (Evidenzstufe L5)."
 ---
 
@@ -53,8 +53,8 @@ Ruxolitinib ist in der Schweiz als Arzneimittel mit mehreren Zulassungen im Hand
 | Vorhergesagte neue Indikation | Perivaskuläre epitheloidzellige Tumoren des Uteruskörpers (uterine corpus perivascular epithelioid cell tumor) |
 | TxGNN-Vorhersagewert | 0.9973 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -88,6 +88,9 @@ Derzeit keine verwandte Literatur verfügbar
 | 62126 | Jakavi 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
 | 69443 | Opzelura 15 mg/g, crème | Synthetika | Vitiligo non-segmentaire avec atteinte faciale | Gültig |
 | 69722 | Jakavi 5 mg/ml, Lösung zum Einnehmen | Synthetika | akute Graft-versus-Host-Krankheit | Gültig |
+| 70478 | Ruxolitinib Devatis 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
+| 70513 | Ruxolitinib Spirig HC 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
+| 70733 | Ruxolitinib Sandoz 5 mg, Tabletten | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

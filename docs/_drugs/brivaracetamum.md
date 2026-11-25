@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB05541
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Brivaracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: antiépileptique"
 ---
 
@@ -53,8 +53,8 @@ Brivaracetam ist ein in der Schweiz im Handel befindliches Antiepileptikum. Für
 | Vorhergesagte neue Indikation | Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) |
 | TxGNN-Vorhersagewert | 0.9914 |
 | Evidenzniveau | L5 |
-| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 3 von 3) |
-| Anzahl Zulassungen | 3 (gültig: 3) |
+| Marktstatus Schweiz | Im Handel (gültige Zulassungen: 6 von 6) |
+| Anzahl Zulassungen | 6 (gültig: 6) |
 | Empfohlene Entscheidung | Abwarten |
 
 ---
@@ -78,6 +78,9 @@ Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Beleg. Er könnte
 | 65830 | Briviact 50 mg/5 ml, solution injectable | Synthetika | antiépileptique | Gültig |
 | 65831 | Briviact 10 mg, comprimés pelliculés (+4 weitere Bezeichnungen) | Synthetika | antiépileptique | Gültig |
 | 65832 | Briviact 10 mg/ml, solution buvable | Synthetika | antiépiléptique | Gültig |
+| 70112 | Brivaracetam Spirig HC 10 mg, Filmtabletten (+4 weitere Bezeichnungen) | Synthetikum | Antiepileptikum | Gültig |
+| 70197 | Brivaracetam Desitin 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiepileptikum | Gültig |
+| 70385 | Brivaracetam Desitin 50mg/5ml, Injektions-/Infusionslösung | Synthetikum | Antiepileptikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

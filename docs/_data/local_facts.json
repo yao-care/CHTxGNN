@@ -12,21 +12,21 @@
  "public_pages": 627,
  "licence_snapshot": "ch_licenses.json.gz",
  "licence": {
-  "drugs_with_data": 509,
-  "drugs_with_current": 504,
+  "drugs_with_data": 508,
+  "drugs_with_current": 503,
   "drugs_none_current": 5,
-  "drugs_without_data": 118,
+  "drugs_without_data": 119,
   "drugs_partial": 0,
-  "items_total": 1317,
-  "items_current": 1288
+  "items_total": 1360,
+  "items_current": 1331
  },
  "reviews": {
-  "records": 392,
+  "records": 393,
   "pages": 361,
   "public_pages_with_records": 361,
   "by_action": {
    "annotate": 2,
-   "correct": 22,
+   "correct": 23,
    "mechanism": 368
   }
  },
@@ -36,6 +36,15 @@
  },
  "top_licensed": [
   {
+   "t": "Afliberceptum",
+   "u": "/drugs/afliberceptum/",
+   "l": "L5",
+   "lt": 16,
+   "lv": 16,
+   "r": 1,
+   "i": "Esotropie"
+  },
+  {
    "t": "Dextromethorphanum",
    "u": "/drugs/dextromethorphanum/",
    "l": "L5",
@@ -43,15 +52,6 @@
    "lv": 16,
    "r": 1,
    "i": "Erkrankung der Nasenhöhle"
-  },
-  {
-   "t": "Denosumabum",
-   "u": "/drugs/denosumabum/",
-   "l": "L5",
-   "lt": 14,
-   "lv": 14,
-   "r": 1,
-   "i": "Schwere nichtproliferative diabetische Retinopathie"
   },
   {
    "t": "Flurbiprofenum",
@@ -70,15 +70,6 @@
    "lv": 12,
    "r": 1,
    "i": "Punktförmige epitheliale Keratokonjunktivitis"
-  },
-  {
-   "t": "Afliberceptum",
-   "u": "/drugs/afliberceptum/",
-   "l": "L5",
-   "lt": 11,
-   "lv": 11,
-   "r": 1,
-   "i": "Esotropie"
   },
   {
    "t": "Clotrimazolum",
@@ -106,6 +97,15 @@
    "lv": 10,
    "r": 1,
    "i": "autoimmune oophoritis"
+  },
+  {
+   "t": "Acidum Tranexamicum",
+   "u": "/drugs/acidum-tranexamicum/",
+   "l": "L5",
+   "lt": 9,
+   "lv": 9,
+   "r": 0,
+   "i": "amenorrhea (disease)"
   }
  ],
  "no_current": [
@@ -223,6 +223,12 @@
  },
  "recent_reviews": [
   {
+   "t": "Filgrastimum",
+   "u": "/drugs/filgrastimum/",
+   "s": "„vier Filgrastim-Präparate“ → Anzahl in der Tabelle (70485 Zarzio neu)",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Phenol",
    "u": "/drugs/phenol/",
    "s": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt",
@@ -315,6 +321,12 @@
  ],
  "recent_licence_reviews": [
   {
+   "t": "Filgrastimum",
+   "u": "/drugs/filgrastimum/",
+   "s": "„vier Filgrastim-Präparate“ → Anzahl in der Tabelle (70485 Zarzio neu)",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Phenol",
    "u": "/drugs/phenol/",
    "s": "Seitenbeschreibung: Anwendungsgebiet von Tannosynt (Kondensat) ersetzt",
@@ -354,12 +366,6 @@
    "t": "Docetaxelum",
    "u": "/drugs/docetaxelum/",
    "s": "„Mindestens sieben … gültig“ → 53262, 62120 nicht mehr aufgeführt",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Chloramphenicol",
-   "u": "/drugs/chloramphenicol/",
-   "s": "„bereits zugelassenen Anwendung“ → „früher zugelassenen Anwendung“",
    "d": "2026-11-24"
   }
  ],
