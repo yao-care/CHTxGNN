@@ -137,10 +137,10 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   跟證據包 tfda.drugbank_ids 有交集、證據包沒有（records、records_not_stored、excluded_records）的補進來；`config/bundle_record_exclusions.json` 判為另一個有效成分的不收（record_exclusions.match，同收集器）。
   一個包裝一筆（欄位照 chfda._format，加 source＝清單 Stand 與規則、added）；records 照原收集器最多 20 筆（先每個新許可號存一個包裝），超過的只記 records_not_stored（號碼、包裝數、license_listed）並算進 total_matches。
   `reviewer._local_regulatory` 與 `sync_license_tables.rows_of` 判 partial 時不算 license_listed 的包裝（許可號清單仍完整），免得原本完整的頁變成「mindestens」。
-  停損：證據包 total_matches ≠「2026-03 清單照原規則重算的包裝數－已移出＋本程式補過的」就不補、列出（2026-11-24 全量 0 包停損，兩版規則都重現得出原本的張數）。只加不刪、可重複執行；`--download` 時現行清單另存 data/raw/swissmedic_packungen_current.xlsx（Release 帶著）。
+  停損：證據包 total_matches ≠「2026-03 清單照原規則重算的包裝數－已移出＋本程式補過的」就不補、列出（2026-11-25 全量 0 包停損，兩版規則都重現得出原本的張數）。只加不刪、可重複執行；`--download` 時現行清單另存 data/raw/swissmedic_packungen_current.xlsx（Release 帶著）。
   `.github/workflows/license-refresh.yml` 在 license_refresh 前以 `--download` 跑（下載失敗不擋排程），有補收就照常發新 Release。只在藥品清單（沒有包裝列）的許可號不收（原收集器讀包裝清單）。重新收集證據包後要再跑一次。
 - 2026-11-25 第一次跑（清單 Stand 31.10.2026）：163 個證據包補 237 個「證據包×許可號」、702 個包裝（存進 records 233）；第二次跑 0 筆。證據包 local_regulatory 重算 43 個（含 phenol 第三輪移出後留下的舊市場狀態）；
-  概覽狀態列／張數列與程式表由程式同步 57 頁（公開頁 40、noindex 17；例 afliberceptum 11→16、denosumabum 14→「mindestens 18」、sacubitril 3→5），last_modified_at 改 2026-11-25；
+  概覽狀態列／張數列與程式表由程式同步 57 頁（公開頁 39、noindex 18；例 afliberceptum 11→16、denosumabum 14→「mindestens 18」、sacubitril 3→5），last_modified_at 改 2026-11-25；
   其餘有補收的公開頁原本就是部分收錄（例 adalimumabum、ustekinumabum），新許可號沒有空位存、只算張數，頁面照舊寫「mindestens」。正文跟新事實矛盾 1 句：filgrastimum「vier Filgrastim-Präparate」（另有 70485 Zarzio），以 `ch-lic-20261125-filgrastimum-1` 改成不寫張數。
   新清單的 Heilmittelcode 寫法是單數（Biotechnologikum、Synthetikum），程式表照原文。
 - 驗證：checker 全量前後都是 0、--row-status 0；gate exit 0；正文張數改寫 0 句；另寫的寬偵測（有補收的公開與 noindex 頁，數字／文字數詞／全稱字樣＋Zulassung／Präparat 等）逐句看過，只有 filgrastimum 1 句不成立。
