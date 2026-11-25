@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00591
 monitor_inn: "Fluocinolone acetonide"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fluocinoloni Acetonidum Neomycinum: vorhergesagte neue Indikation Lichen planus pemphigoides (Evidenzstufe L5). Ursprüngliche Indikation: Dermatoses inflammatoires ou allergiques…"
 ---
 
@@ -85,10 +85,10 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 29729 | Synalar-N, Creme | Synthetika | Dermatoses inflammatoires ou allergiques, surinfectées par des bactéries | Gültig |
-| 29730 | Synalar-N, Salbe | Synthetika | Dermatoses inflammatoires ou allergiques, surinfectées par des bactéries | Gültig |
-| 32024 | Procto-Synalar N, unguento rettale | Synthetika | Trattamento delle emorroidi e delle affezioni anali cutanee | Gültig |
-| 32025 | Procto-Synalar N, supposte | Synthetika | Trattamento delle emorroidi e delle affezioni anali cutanee | Gültig |
+| 29729 | Synalar-N, Creme | Synthetikum | Dermatoses inflammatoires ou allergiques, surinfectées par des bactéries | Gültig |
+| 29730 | Synalar-N, Salbe | Synthetikum | Dermatoses inflammatoires ou allergiques, surinfectées par des bactéries | Gültig |
+| 32024 | Procto-Synalar N, unguento rettale | Synthetikum | Trattamento delle emorroidi e delle affezioni anali cutanee | Gültig |
+| 32025 | Procto-Synalar N, supposte | Synthetikum | Trattamento delle emorroidi e delle affezioni anali cutanee | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

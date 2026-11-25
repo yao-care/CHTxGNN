@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00460
 monitor_inn: "Verteporfin"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Verteporfinum: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) (Evidenzstufe L5)."
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55269 | Visudyne, Pulver zur Herstellung einer Infusionslösung | Synthetika | Subfoveale chorioidale Neovaskularisationen am Auge | Gültig |
+| 55269 | Visudyne, Pulver zur Herstellung einer Infusionslösung | Synthetikum | Subfoveale chorioidale Neovaskularisationen am Auge | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

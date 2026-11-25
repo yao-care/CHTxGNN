@@ -97,7 +97,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55902 | Invanz, Pulver für ein Konzentrat zur Herstellung einer Infusionslösu… | Synthetika | Infektionskrankheiten | Gültig |
+| 55902 | Invanz, Pulver für ein Konzentrat zur Herstellung einer Infusionslösu… | Synthetikum | Infektionskrankheiten | Gültig |
 | 70376 | Ertapenem Labatec 1 g, poudre pour solution à diluer pour perfusion | Synthetikum | Maladies infectieuses | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

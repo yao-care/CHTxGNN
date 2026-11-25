@@ -85,19 +85,19 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62393 | Eylea 2 mg/0.05 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | 2mg/0,05 ml: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinale… | Gültig |
-| 62397 | Eylea, 2 mg/0,05 ml, Injektionslösung in Durchstechflasche (+1 weitere Bezeichnung) | Biotechnologika | 2mg/0,05 ml: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinale… | Gültig |
-| 62676 | Zaltrap 100 mg/4 ml, concentré pour solution pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | cancer colorectal métastatique | Gültig |
-| 69763 | Pavblu 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
-| 69832 | Pavblu 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
-| 70061 | Aflivis 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
-| 70062 | Aflivis 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
-| 70126 | Afqlir 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (wAMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
-| 70127 | Afqlir 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogene Makuladegeneration (wAMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
-| 70211 | Yesafili 40 mg/ml, Injektionslösung | Biotechnologika | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 62393 | Eylea 2 mg/0.05 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | 2mg/0,05 ml: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinale… | Gültig |
+| 62397 | Eylea, 2 mg/0,05 ml, Injektionslösung in Durchstechflasche (+1 weitere Bezeichnung) | Biotechnologikum | 2mg/0,05 ml: Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinale… | Gültig |
+| 62676 | Zaltrap 100 mg/4 ml, concentré pour solution pour perfusion (+1 weitere Bezeichnung) | Biotechnologikum | cancer colorectal métastatique | Gültig |
+| 69763 | Pavblu 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
+| 69832 | Pavblu 40 mg/ml, Injektionslösung | Biotechnologikum | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
+| 70061 | Aflivis 40 mg/ml, Injektionslösung | Biotechnologikum | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70062 | Aflivis 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70126 | Afqlir 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Exsudative (feuchte) altersbezogene Makuladegeneration (wAMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70127 | Afqlir 40 mg/ml, Injektionslösung | Biotechnologikum | Exsudative (feuchte) altersbezogene Makuladegeneration (wAMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
+| 70211 | Yesafili 40 mg/ml, Injektionslösung | Biotechnologikum | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
 | 70215 | Eydenzelt 40mg / ml, solution injectable en seringue préremplie | Biotechnologikum | Traitement de la forme exsudative (humide) de la dégénérescence maculaire liée à l'âge (DMLAe). Traitement de… | Gültig |
 | 70216 | Eydenzelt 40 mg / ml, solution injectable | Biotechnologikum | raitement de la forme exsudative (humide) de la dégénérescence maculaire liée à l'âge (DMLAe). Traitement de… | Gültig |
-| 70292 | aflibercept HORUS 40 mg/ ml, solution injectable | Biotechnologika | Dégénérescence maculaire liée à l'âge de la forme exsudative (humide) (DMLAe). Œdème maculaire secondaire à u… | Gültig |
+| 70292 | aflibercept HORUS 40 mg/ ml, solution injectable | Biotechnologikum | Dégénérescence maculaire liée à l'âge de la forme exsudative (humide) (DMLAe). Œdème maculaire secondaire à u… | Gültig |
 | 70574 | Ahzantive 2 mg/0.05 ml, Injektionslösung in Fertigspritze | Biotechnologikum | Exsudative (feuchte) altersbezogenen Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvene… | Gültig |
 | 70617 | Mynzepli 40 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |
 | 70618 | Mynzepli 40 mg/ml, Injektionslösung | Biotechnologikum | Exsudative (feuchte) altersbezogene Makuladegeneration (AMD). Makulaödem infolge eines retinalen Zentralvenen… | Gültig |

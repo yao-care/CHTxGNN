@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB14507
 monitor_inn: "Lithium citrate"
 predicted_indications: ["Malan overgrowth syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lithium: vorhergesagte neue Indikation Malan-Überwuchssyndrom (Malan overgrowth syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Messung des Herzzeitvolumens mit dem LiDCOplus System"
 ---
 
@@ -89,10 +89,10 @@ Es sind 4 Zulassungen erfasst, alle gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 35380 | Priadel retard, Tabletten | Synthetika | manisch depressive Zustände | Gültig |
-| 35960 | Quilonorm retard, Filmtabletten | Synthetika | Manisch-depressive Episoden | Gültig |
-| 38061 | Lithiofor, comprimés à libération prolongée | Synthetika | Etats maniaco-dépressifs | Gültig |
-| 57447 | LiDCO Lithiumchlorid 0.15 mmol/ml, Injektionslösung | Synthetika | Messung des Herzzeitvolumens mit dem LiDCOplus System | Gültig |
+| 35380 | Priadel retard, Tabletten | Synthetikum | manisch depressive Zustände | Gültig |
+| 35960 | Quilonorm retard, Filmtabletten | Synthetikum | Manisch-depressive Episoden | Gültig |
+| 38061 | Lithiofor, comprimés à libération prolongée | Synthetikum | Etats maniaco-dépressifs | Gültig |
+| 57447 | LiDCO Lithiumchlorid 0.15 mmol/ml, Injektionslösung | Synthetikum | Messung des Herzzeitvolumens mit dem LiDCOplus System | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

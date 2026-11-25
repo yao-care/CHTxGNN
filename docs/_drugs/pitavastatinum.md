@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB08860
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pitavastatinum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5)."
 ---
 
@@ -89,10 +89,10 @@ Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 68173 | Pitavastatin-Mepha 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
-| 68219 | Pitavastatin Zentiva 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
-| 68321 | Pitavastatin Sandoz 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
-| 68900 | Pitavastatin Spirig HC 1 mg, Filmtabletten | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 68173 | Pitavastatin-Mepha 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 68219 | Pitavastatin Zentiva 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 68321 | Pitavastatin Sandoz 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 68900 | Pitavastatin Spirig HC 1 mg, Filmtabletten | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

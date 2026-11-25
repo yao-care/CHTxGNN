@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB05271
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rotigotinum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L5)."
 ---
 
@@ -91,7 +91,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57417 | Neupro 1 mg/24h, dispositif transdermique (+5 weitere Bezeichnungen) | Synthetika | Neupro est utilisé seul au stade précoce, ou en combinaison avec la lévodopa à tous les stades de la maladie… | Gültig |
+| 57417 | Neupro 1 mg/24h, dispositif transdermique (+5 weitere Bezeichnungen) | Synthetikum | Neupro est utilisé seul au stade précoce, ou en combinaison avec la lévodopa à tous les stades de la maladie… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

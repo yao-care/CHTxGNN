@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB06654
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Safinamidum: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Malattia di Parkinson idiopatica"
 ---
 
@@ -71,7 +71,7 @@ Die Erkrankung wird jedoch hauptsächlich durch eine T-Zell-vermittelte Autoimmu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65360 | Xadago 50 mg, compresse rivestite con film (+1 weitere Bezeichnung) | Synthetika | Malattia di Parkinson idiopatica | Gültig |
+| 65360 | Xadago 50 mg, compresse rivestite con film (+1 weitere Bezeichnung) | Synthetikum | Malattia di Parkinson idiopatica | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

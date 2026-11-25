@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00248
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cabergolinum: vorhergesagte neue Indikation Progerie-Kleinwuchs-pigmentierte-Nävi-Syndrom (progeria-short stature-pigmented nevi syndrome) (Evidenzstufe L5)."
 ---
 
@@ -83,8 +83,8 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51756 | Dostinex, Tabletten | Synthetika | Hyperprolaktinämische Störungen, medizinisch indizierte Laktationshemmung | Gültig |
-| 53362 | Cabaser 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Parkinson-Therapeuticum | Erloschen |
+| 51756 | Dostinex, Tabletten | Synthetikum | Hyperprolaktinämische Störungen, medizinisch indizierte Laktationshemmung | Gültig |
+| 53362 | Cabaser 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Parkinson-Therapeuticum | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

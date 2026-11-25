@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00809
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tropicamidum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Mydriatique"
 ---
 
@@ -73,8 +73,8 @@ Die Plausibilität ist jedoch gering. Das Cauda-equina-Syndrom ist ein chirurgis
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 23855 | Mydriaticum Dispersa, Augentropfen | Synthetika | Zur diagnostischen und praeoperativen Mydriasis | Gültig |
-| 54733 | Tropicamide 0,5 % SDU Faure, collyre | Synthetika | Mydriatique | Gültig |
+| 23855 | Mydriaticum Dispersa, Augentropfen | Synthetikum | Zur diagnostischen und praeoperativen Mydriasis | Gültig |
+| 54733 | Tropicamide 0,5 % SDU Faure, collyre | Synthetikum | Mydriatique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

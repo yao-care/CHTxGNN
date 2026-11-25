@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ethinylestradiol: vorhergesagte neue Indikation Erhöhtes Plasma-Zink (zinc, elevated plasma) (Evidenzstufe L5). Ursprüngliche Indikation: Hormonale Kontrazeption (orale und vaginale Anwendung)"
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
@@ -84,14 +84,14 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45024 | Ologyn, comprimés | Synthetika | Contraceptif hormonal | Gültig |
-| 60066 | Yira 20, Filmtabletten | Synthetika | Hormonales Kontrazeptivum | Gültig |
-| 66314 | Vroni Gynial, überzogene Tablette | Synthetika | Androgenisierungserscheinungen | Gültig |
-| 67183 | Jeanine, Dragées | Synthetika | Orale Kontrazeption | Gültig |
-| 67466 | Juliette, Filmtabletten | Synthetika | Hormonales Kontrazeptivum | Gültig |
-| 68648 | Levina 30, Filmtabletten | Synthetika | Hormonales Kontrazeptivum | Gültig |
-| 69704 | Nuvaring, Vaginalring mit Applikator Btl | Synthetika | Hormonale Kontrazeption | Gültig |
-| 70019 | MyLoop, anneau vaginal | Synthetika | Contraception hormonale à usage vaginal | Gültig |
+| 45024 | Ologyn, comprimés | Synthetikum | Contraceptif hormonal | Gültig |
+| 60066 | Yira 20, Filmtabletten | Synthetikum | Hormonales Kontrazeptivum | Gültig |
+| 66314 | Vroni Gynial, überzogene Tablette | Synthetikum | Androgenisierungserscheinungen | Gültig |
+| 67183 | Jeanine, Dragées | Synthetikum | Orale Kontrazeption | Gültig |
+| 67466 | Juliette, Filmtabletten | Synthetikum | Hormonales Kontrazeptivum | Gültig |
+| 68648 | Levina 30, Filmtabletten | Synthetikum | Hormonales Kontrazeptivum | Gültig |
+| 69704 | Nuvaring, Vaginalring mit Applikator Btl | Synthetikum | Hormonale Kontrazeption | Gültig |
+| 70019 | MyLoop, anneau vaginal | Synthetikum | Contraception hormonale à usage vaginal | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cobicistat"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cobicistat: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -72,9 +72,9 @@ Denkbar wäre allenfalls ein Einsatz als Verstärker eines zusätzlichen antivir
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65793 | Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
-| 66779 | Symtuza, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
-| 62673 | Stribild, Filmtabletten | Synthetika | HIV-Infektionen | Erloschen |
+| 65793 | Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetikum | HIV-Infektion | Gültig |
+| 66779 | Symtuza, Filmtabletten | Synthetikum | HIV-Infektion | Gültig |
+| 62673 | Stribild, Filmtabletten | Synthetikum | HIV-Infektionen | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

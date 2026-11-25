@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00787
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Aciclovirum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5)."
 ---
 
@@ -88,18 +88,18 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 44772 | Zovirax i.v., Pulver zur Herstellung einer Infusionslösung | Synthetika | Herpesinfektionen | Gültig |
-| 45343 | Zovirax 200 mg, Filmtabletten (suspendierbar) | Synthetika | Herpesinfektionen | Gültig |
-| 45705 | Zovirax, Crème | Synthetika | Herpes labialis und Herpes genitalis | Gültig |
-| 47431 | Zovirax, Suspension | Synthetika | Herpesinfektionen | Gültig |
-| 53668 | Acyclovir-Mepha 200, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Virostatikum | Gültig |
-| 54241 | Zovirax Lip, Crème | Synthetika | Herpes labialis | Gültig |
-| 55060 | Aviral, Crème | Synthetika | Herpes labialis | Gültig |
-| 55691 | Acyclovir Zentiva, Crème | Synthetika | Herpes labialis und Herpes genitalis | Gültig |
-| 60325 | Aciclovir Labatec, poudre pour solution pour perfusion | Synthetika | Infections à virus Herpes | Gültig |
-| 67643 | Xorox 30 mg/g, Augensalbe | Synthetika | Herpesinfektionen des Auges | Gültig |
-| 67772 | Virupos 30 mg/g, Augensalbe | Synthetika | Herpes-Infektion des Auges | Gültig |
-| 68800 | AciVision 30 mg/g, Augensalbe | Synthetika | Herpes-Infektion des Auges | Gültig |
+| 44772 | Zovirax i.v., Pulver zur Herstellung einer Infusionslösung | Synthetikum | Herpesinfektionen | Gültig |
+| 45343 | Zovirax 200 mg, Filmtabletten (suspendierbar) | Synthetikum | Herpesinfektionen | Gültig |
+| 45705 | Zovirax, Crème | Synthetikum | Herpes labialis und Herpes genitalis | Gültig |
+| 47431 | Zovirax, Suspension | Synthetikum | Herpesinfektionen | Gültig |
+| 53668 | Acyclovir-Mepha 200, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Virostatikum | Gültig |
+| 54241 | Zovirax Lip, Crème | Synthetikum | Herpes labialis | Gültig |
+| 55060 | Aviral, Crème | Synthetikum | Herpes labialis | Gültig |
+| 55691 | Acyclovir Zentiva, Crème | Synthetikum | Herpes labialis und Herpes genitalis | Gültig |
+| 60325 | Aciclovir Labatec, poudre pour solution pour perfusion | Synthetikum | Infections à virus Herpes | Gültig |
+| 67643 | Xorox 30 mg/g, Augensalbe | Synthetikum | Herpesinfektionen des Auges | Gültig |
+| 67772 | Virupos 30 mg/g, Augensalbe | Synthetikum | Herpes-Infektion des Auges | Gültig |
+| 68800 | AciVision 30 mg/g, Augensalbe | Synthetikum | Herpes-Infektion des Auges | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

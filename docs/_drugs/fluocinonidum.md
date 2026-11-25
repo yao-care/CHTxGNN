@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01047
 monitor_inn: "Fluocinonide"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fluocinonidum: vorhergesagte neue Indikation Alopecia mucinosa (Evidenzstufe L5). Ursprüngliche Indikation: Dermatosi noninfette di origine allergica e infiammatoria"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 43945 | Topsym, crema | Synthetika | Dermatosi noninfette di origine allergica e infiammatoria | Gültig |
+| 43945 | Topsym, crema | Synthetikum | Dermatosi noninfette di origine allergica e infiammatoria | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

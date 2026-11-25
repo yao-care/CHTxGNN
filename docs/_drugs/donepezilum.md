@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00843
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Donepezilum: vorhergesagte neue Indikation Psychogene Bewegungsstörungen (psychogenic movement disorders) (Evidenzstufe L5)."
 ---
 
@@ -85,10 +85,10 @@ Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54274 | Aricept 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
-| 57312 | Aricept Evess 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
-| 59416 | Donepezil Sandoz 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Symptomatische Behandlung der leichten bis mittelschweren Demenz vom Alzheimer-Typ | Gültig |
-| 60535 | Donepezil-Mepha 5 mg, Lactab (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
+| 54274 | Aricept 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Demenz vom Alzheimer-Typ | Gültig |
+| 57312 | Aricept Evess 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Demenz vom Alzheimer-Typ | Gültig |
+| 59416 | Donepezil Sandoz 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Symptomatische Behandlung der leichten bis mittelschweren Demenz vom Alzheimer-Typ | Gültig |
+| 60535 | Donepezil-Mepha 5 mg, Lactab (+1 weitere Bezeichnung) | Synthetikum | Demenz vom Alzheimer-Typ | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

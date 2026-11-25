@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00531
 monitor_inn: "Cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cyclophosphamidum Anhydricum: vorhergesagte neue Indikation Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) (Evidenzstufe L5)."
 ---
 
@@ -75,8 +75,8 @@ Zugleich besteht ein ernstes Bedenken: Cyclophosphamid verringert Lymphozyten un
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 25441 | Endoxan, Dragées | Synthetika | Zytostatikum | Gültig |
-| 25442 | Endoxan 200 mg, Pulver zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 25441 | Endoxan, Dragées | Synthetikum | Zytostatikum | Gültig |
+| 25442 | Endoxan 200 mg, Pulver zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

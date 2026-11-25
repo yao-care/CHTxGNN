@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00869
 monitor_inn: "Dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dorzolamidum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: glaucome"
 ---
 
@@ -71,8 +71,8 @@ Ein plausibler pharmakologischer Zusammenhang zwischen Carboanhydrase-Hemmung un
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52969 | Trusopt, collyre | Synthetika | glaucome | Gültig |
-| 62671 | Dorzo-Vision 2 %, Augentropfen | Synthetika | Glaukom | Gültig |
+| 52969 | Trusopt, collyre | Synthetikum | glaucome | Gültig |
+| 62671 | Dorzo-Vision 2 %, Augentropfen | Synthetikum | Glaukom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

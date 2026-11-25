@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01141
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Micafunginum: vorhergesagte neue Indikation Harnwegsinfektion (urinary tract infection (disease)) (Evidenzstufe L3). Ursprüngliche Indikation: Antimykotikum"
 ---
 
@@ -98,8 +98,8 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 60724 | Mycamine 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
-| 69511 | Micafungin Labatec 50 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetika | Antimycosique | Gültig |
+| 60724 | Mycamine 50 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Synthetikum | Antimykotikum | Gültig |
+| 69511 | Micafungin Labatec 50 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetikum | Antimycosique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

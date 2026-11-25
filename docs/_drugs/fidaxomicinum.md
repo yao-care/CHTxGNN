@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08874
 monitor_inn: "Fidaxomicin"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fidaxomicinum: vorhergesagte neue Indikation Staphylokokken-bedingtes Syndrom der verbrühten Haut (staphylococcal scalded skin syndrome) (Evidenzstufe L5)."
 ---
 
@@ -73,7 +73,7 @@ Die Plausibilität ist jedoch gering. Fidaxomicin wird nach der Einnahme kaum au
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62957 | Dificlir, Filmtabletten | Synthetika | Clostridium-difficile-assozierte Diarrhoe CDAD | Gültig |
+| 62957 | Dificlir, Filmtabletten | Synthetikum | Clostridium-difficile-assozierte Diarrhoe CDAD | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

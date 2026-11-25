@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00563
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Methotrexatum: vorhergesagte neue Indikation Pulmonales Blastom (pulmonary blastoma) (Evidenzstufe L5). Ursprüngliche Indikation: Arthritis und Psoriasis"
 ---
 
@@ -73,8 +73,8 @@ Ein solcher antiproliferativer Effekt könnte grundsätzlich auch bei einem selt
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65672 | Metoject Autoinjektor 7.5 mg/0.15 ml, Injektionslösung im Fertigpen | Synthetika | Arthritis, Psoriasis, Morbus Crohn | Gültig |
-| 65839 | Nordimet 7.5 mg/0.3 ml, Injektionslösung in einer Fertigspritze (+7 weitere Bezeichnungen) | Synthetika | Arthritis und Psoriasis | Gültig |
+| 65672 | Metoject Autoinjektor 7.5 mg/0.15 ml, Injektionslösung im Fertigpen | Synthetikum | Arthritis, Psoriasis, Morbus Crohn | Gültig |
+| 65839 | Nordimet 7.5 mg/0.3 ml, Injektionslösung in einer Fertigspritze (+7 weitere Bezeichnungen) | Synthetikum | Arthritis und Psoriasis | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

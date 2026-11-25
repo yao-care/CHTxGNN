@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01068
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clonazepamum: vorhergesagte neue Indikation Restless-Legs-Syndrom (restless legs syndrome) (Evidenzstufe L3). Ursprüngliche Indikation: Antiepilettico"
 ---
 
@@ -98,10 +98,10 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 37756 | Rivotril, Konzentrat und Lösungsmittel zur Herstellung einer Injektio… | Synthetika | Antiepileptikum | Gültig |
-| 37757 | Rivotril 0.5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antiepileptikum | Gültig |
-| 37758 | Rivotril, Tropfen zum Einnehmen, Lösung | Synthetika | Antiepileptikum | Gültig |
-| 69418 | Clonazepam Rivopharm 0,5 mg, compresse (+1 weitere Bezeichnung) | Synthetika | Antiepilettico | Gültig |
+| 37756 | Rivotril, Konzentrat und Lösungsmittel zur Herstellung einer Injektio… | Synthetikum | Antiepileptikum | Gültig |
+| 37757 | Rivotril 0.5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Antiepileptikum | Gültig |
+| 37758 | Rivotril, Tropfen zum Einnehmen, Lösung | Synthetikum | Antiepileptikum | Gültig |
+| 69418 | Clonazepam Rivopharm 0,5 mg, compresse (+1 weitere Bezeichnung) | Synthetikum | Antiepilettico | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

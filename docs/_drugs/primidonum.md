@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00794
 monitor_inn: "Primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Primidonum: vorhergesagte neue Indikation Trigeminus-Nerventumor (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 17885 | Mysoline, Tabletten | Synthetika | Antiepilepticum | Gültig |
+| 17885 | Mysoline, Tabletten | Synthetikum | Antiepilepticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

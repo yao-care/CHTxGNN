@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB09036
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Siltuximabum: vorhergesagte neue Indikation Extrakutanes Mastozytom (extracutaneous mastocytoma) (Evidenzstufe L5). Ursprüngliche Indikation: Castleman-Krankheit"
 ---
 
@@ -83,7 +83,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65183 | Sylvant 100 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Biotechnologika | Castleman-Krankheit | Gültig |
+| 65183 | Sylvant 100 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Biotechnologikum | Castleman-Krankheit | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

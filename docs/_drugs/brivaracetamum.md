@@ -75,9 +75,9 @@ Der hohe Vorhersagewert ist ein reines Modellergebnis und kein Beleg. Er könnte
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65830 | Briviact 50 mg/5 ml, solution injectable | Synthetika | antiépileptique | Gültig |
-| 65831 | Briviact 10 mg, comprimés pelliculés (+4 weitere Bezeichnungen) | Synthetika | antiépileptique | Gültig |
-| 65832 | Briviact 10 mg/ml, solution buvable | Synthetika | antiépiléptique | Gültig |
+| 65830 | Briviact 50 mg/5 ml, solution injectable | Synthetikum | antiépileptique | Gültig |
+| 65831 | Briviact 10 mg, comprimés pelliculés (+4 weitere Bezeichnungen) | Synthetikum | antiépileptique | Gültig |
+| 65832 | Briviact 10 mg/ml, solution buvable | Synthetikum | antiépiléptique | Gültig |
 | 70112 | Brivaracetam Spirig HC 10 mg, Filmtabletten (+4 weitere Bezeichnungen) | Synthetikum | Antiepileptikum | Gültig |
 | 70197 | Brivaracetam Desitin 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiepileptikum | Gültig |
 | 70385 | Brivaracetam Desitin 50mg/5ml, Injektions-/Infusionslösung | Synthetikum | Antiepileptikum | Gültig |

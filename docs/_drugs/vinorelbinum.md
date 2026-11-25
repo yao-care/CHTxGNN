@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00361
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "lung germ cell tumor", "pulmonary sulcus neoplasm", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vinorelbinum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -98,10 +98,10 @@ Eine Laborstudie zeigt zudem, dass Vinorelbin und andere Mikrotubuli-Hemmer in E
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51783 | Navelbine, Konzentrat zur Herstellung einer Injektions- /Infusionslös… | Synthetika | Zytostatikum | Gültig |
-| 56774 | Navelbine 20 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
-| 57719 | Vinorelbin Sandoz, Konzentrat zur Herstellung einer Injektions-/Infus… | Synthetika | Zytostatikum | Gültig |
-| 67330 | Vinorelbin Sandoz 20 mg, Weichkapseln (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 51783 | Navelbine, Konzentrat zur Herstellung einer Injektions- /Infusionslös… | Synthetikum | Zytostatikum | Gültig |
+| 56774 | Navelbine 20 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Zytostatikum | Gültig |
+| 57719 | Vinorelbin Sandoz, Konzentrat zur Herstellung einer Injektions-/Infus… | Synthetikum | Zytostatikum | Gültig |
+| 67330 | Vinorelbin Sandoz 20 mg, Weichkapseln (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

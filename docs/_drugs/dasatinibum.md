@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01254
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dasatinibum: vorhergesagte neue Indikation Ewing-Sarkom (Ewing sarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Philadelphiachromosom-positive chronische myeloische Leukämie Philade…"
 ---
 
@@ -73,9 +73,9 @@ Der hohe Vorhersagewert (0,9990) ist ein rechnerisches Ergebnis. Er ersetzt kein
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57658 | Sprycel 20 mg, Filmtabletten (+5 weitere Bezeichnungen) | Synthetika | Philadelphiachromosom-positive chronische myeloische Leukämie Philadelphiachromosom-positive akute lymphatisc… | Gültig |
-| 67100 | Dasatinib-Teva 20 mg, Filmtabletten | Synthetika | Philadelphiachromosom-positive chronische myeloische Leukämie Philadelphiachromosom-positive akute lymphatisc… | Gültig |
-| 67368 | Dasatinib Sandoz 20 mg, Filmtabletten (+5 weitere Bezeichnungen) | Synthetika | Onkologikum, Multi-Kinase-Hemmer | Gültig |
+| 57658 | Sprycel 20 mg, Filmtabletten (+5 weitere Bezeichnungen) | Synthetikum | Philadelphiachromosom-positive chronische myeloische Leukämie Philadelphiachromosom-positive akute lymphatisc… | Gültig |
+| 67100 | Dasatinib-Teva 20 mg, Filmtabletten | Synthetikum | Philadelphiachromosom-positive chronische myeloische Leukämie Philadelphiachromosom-positive akute lymphatisc… | Gültig |
+| 67368 | Dasatinib Sandoz 20 mg, Filmtabletten (+5 weitere Bezeichnungen) | Synthetikum | Onkologikum, Multi-Kinase-Hemmer | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

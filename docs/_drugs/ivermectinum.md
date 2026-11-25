@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00602
 monitor_inn: "Ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "congenital candidiasis", "candida glabrata", "neonatal candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ivermectinum: vorhergesagte neue Indikation Vulvovaginale Candidose (vulvovaginal candidiasis) (Evidenzstufe L5). Ursprüngliche Indikation: Traitement de la strongyloïdose gastro-intestinale…"
 ---
 
@@ -75,8 +75,8 @@ Die Eignung der Darreichungsform und des Anwendungswegs für diese Erkrankung wu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65561 | Soolantra 10 mg, Crème | Synthetika | Kutane Behandlung entzündlicher Läsionen bei Rosazea bei Erwachsenen | Gültig |
-| 68371 | Subvectin 3 mg, comprimés | Synthetika | Traitement de la strongyloïdose gastro-intestinale, traitement de la microfilarémie due à la filariose lympha… | Gültig |
+| 65561 | Soolantra 10 mg, Crème | Synthetikum | Kutane Behandlung entzündlicher Läsionen bei Rosazea bei Erwachsenen | Gültig |
+| 68371 | Subvectin 3 mg, comprimés | Synthetikum | Traitement de la strongyloïdose gastro-intestinale, traitement de la microfilarémie due à la filariose lympha… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

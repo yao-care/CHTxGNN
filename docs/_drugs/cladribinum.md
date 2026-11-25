@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00242
 monitor_inn: "Cladribine"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cladribinum: vorhergesagte neue Indikation Parameningeales embryonales Rhabdomyosarkom (parameningeal embryonal rhabdomyosarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 
@@ -73,8 +73,8 @@ Ein spezifischer mechanistischer Zusammenhang zwischen der auf Lymphozyten geric
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55172 | Litak 10, Injektions- / Infusionslösung | Synthetika | Zytostatikum | Gültig |
-| 66831 | Mavenclad 10 mg, Tabletten | Synthetika | Multiple Sklerose | Gültig |
+| 55172 | Litak 10, Injektions- / Infusionslösung | Synthetikum | Zytostatikum | Gültig |
+| 66831 | Mavenclad 10 mg, Tabletten | Synthetikum | Multiple Sklerose | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

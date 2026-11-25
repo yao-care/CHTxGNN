@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Riluzole: vorhergesagte neue Indikation bilaterale parasagittale parieto-okzipitale Polymikrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) (Evidenzstufe L5)."
 ---
 
@@ -74,9 +74,9 @@ Der sehr hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Er erset
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53678 | Rilutek, comprimés pelliculés | Synthetika | Sclérose latérale amyotrophique (SLA) | Gültig |
-| 66434 | Teglutik 50mg/10ml, suspension buvable | Synthetika | Sclérose latérale amyotrophique (SLA) | Gültig |
-| 68915 | Emylif 50 mg, film orodispersibile | Synthetika | Sclerosi laterale amiotrofica (SLA) | Gültig |
+| 53678 | Rilutek, comprimés pelliculés | Synthetikum | Sclérose latérale amyotrophique (SLA) | Gültig |
+| 66434 | Teglutik 50mg/10ml, suspension buvable | Synthetikum | Sclérose latérale amyotrophique (SLA) | Gültig |
+| 68915 | Emylif 50 mg, film orodispersibile | Synthetikum | Sclerosi laterale amiotrofica (SLA) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

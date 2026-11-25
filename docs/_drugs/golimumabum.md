@@ -75,10 +75,10 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis und wird durch keine Studi
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61263 | Simponi 50 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
-| 61318 | Simponi 50 mg, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
-| 70541 | Gomintia, Injektionslösung in einer Fertigspritze 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
-| 70542 | Gomintia, Injektionslösung im Fertigpen 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 61263 | Simponi 50 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 61318 | Simponi 50 mg, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 70541 | Gomintia, Injektionslösung in einer Fertigspritze 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
+| 70542 | Gomintia, Injektionslösung im Fertigpen 50 mg/0.5 ml (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
 | 70709 | Gobivaz 100 mg/1 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
 | 70711 | Gobivaz 100 mg/1 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis Arthritis, axiale Spondyloarthritis inkl. ankylosierende Spondylitis und nic… | Gültig |
 

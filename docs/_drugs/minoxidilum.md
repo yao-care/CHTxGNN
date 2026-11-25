@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00350
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with HIV infection"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Minoxidilum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L4). Ursprüngliche Indikation: Alopecia androgenetica"
 ---
 
@@ -85,14 +85,14 @@ Es liegen keine registrierten klinischen Studien vor. Die folgenden Publikatione
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48249 | Regaine 2 %, Lösung (+1 weitere Bezeichnung) | Synthetika | Alopecia androgenetica | Gültig |
-| 51853 | Alopexy 2%, Lösung zur Anwendung auf der Haut | Synthetika | Alopecia androgenetica | Gültig |
-| 62446 | Regaine 5%, Schaum zur Anwendung auf der Haut | Synthetika | Alopecia androgenetica bei Männern | Gültig |
-| 66655 | Minorga 2 %, solution pour application cutanée | Synthetika | Alopecia androgenetica | Gültig |
-| 66771 | Minorga 5%, solution pour aplication cutanée | Synthetika | Alopécie androgénétique | Gültig |
-| 67747 | Alopexy 5%, Lösung zur Anwendung auf der Haut | Synthetika | Alopecia androgenetica | Gültig |
-| 68994 | Minoxidil Leman 20 mg/ml, solution pour application cutanée | Synthetika | Alopecia androgenetica, alopecia areata | Gültig |
-| 69064 | Minoxidil Leman 50 mg/ml, solution pour application cutanée | Synthetika | Alopecia androgenetica, alopecia areata | Gültig |
+| 48249 | Regaine 2 %, Lösung (+1 weitere Bezeichnung) | Synthetikum | Alopecia androgenetica | Gültig |
+| 51853 | Alopexy 2%, Lösung zur Anwendung auf der Haut | Synthetikum | Alopecia androgenetica | Gültig |
+| 62446 | Regaine 5%, Schaum zur Anwendung auf der Haut | Synthetikum | Alopecia androgenetica bei Männern | Gültig |
+| 66655 | Minorga 2 %, solution pour application cutanée | Synthetikum | Alopecia androgenetica | Gültig |
+| 66771 | Minorga 5%, solution pour aplication cutanée | Synthetikum | Alopécie androgénétique | Gültig |
+| 67747 | Alopexy 5%, Lösung zur Anwendung auf der Haut | Synthetikum | Alopecia androgenetica | Gültig |
+| 68994 | Minoxidil Leman 20 mg/ml, solution pour application cutanée | Synthetikum | Alopecia androgenetica, alopecia areata | Gültig |
+| 69064 | Minoxidil Leman 50 mg/ml, solution pour application cutanée | Synthetikum | Alopecia androgenetica, alopecia areata | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01259
 monitor_inn: "Lapatinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lapatinibum: vorhergesagte neue Indikation Dermatofibrosarcoma protuberans (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -73,7 +73,7 @@ Eine mögliche Begründung wäre eine indirekte Verbindung über EGFR-Signalwege
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57937 | Tyverb, Filmtabletten | Synthetika | Zytostatikum | Gültig |
+| 57937 | Tyverb, Filmtabletten | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

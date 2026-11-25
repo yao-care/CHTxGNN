@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00853
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Temozolomidum: vorhergesagte neue Indikation Cauda-equina-Neoplasie (cauda equina neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -89,8 +89,8 @@ Die Berichte betreffen verwandte Tumoren oder andere Erkrankungen, nicht die Cau
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54577 | Temodal 5 mg, Kapseln (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 67020 | Temozolomid Accord 5 mg, Kapseln (+5 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 54577 | Temodal 5 mg, Kapseln (+4 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 67020 | Temozolomid Accord 5 mg, Kapseln (+5 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

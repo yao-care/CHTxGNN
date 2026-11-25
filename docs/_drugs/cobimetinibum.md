@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB05239
 monitor_inn: "Cobimetinib"
 predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cobimetinibum: vorhergesagte neue Indikation Amyotrophe Lateralsklerose (amyotrophic lateral sclerosis) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -71,7 +71,7 @@ Bei der Degeneration von Motoneuronen werden ein gestörter MAPK/ERK-Signalweg u
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65620 | Cotellic 20mg, Filmtabletten | Synthetika | Onkologikum | Gültig |
+| 65620 | Cotellic 20mg, Filmtabletten | Synthetikum | Onkologikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

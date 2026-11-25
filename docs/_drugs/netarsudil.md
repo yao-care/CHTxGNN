@@ -5,7 +5,7 @@ parent: Nur bekannte Anwendungen (keine neuen Vorhersagen)
 nav_order: 66
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Netarsudil: bekannte Anwendungen und Marktstatus in der Schweiz; derzeit keine neue Kandidaten-Indikation"
 predicted_indications: []
 ---
@@ -76,7 +76,7 @@ Das TxGNN-Modell (Score ≥ 0,99) hat für Netarsudil Kandidaten geliefert. Alle
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 69043 | Roclanda, collyre en solution | Synthetika | Glaucome à angle ouvert, hypertension oculaire | Gültig |
+| 69043 | Roclanda, collyre en solution | Synthetikum | Glaucome à angle ouvert, hypertension oculaire | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00268
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ropinirolum: vorhergesagte neue Indikation Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (attention deficit-hyperactivity disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Morbus Parkinson"
 ---
 
@@ -95,11 +95,11 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53841 | Requip 0,25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
-| 56907 | Adartrel 0,25 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung des idiopathischen Restless Legs Syndroms (RLS) | Gültig |
-| 57740 | Requip-Modutab 2 mg, Tabletten mit veränderter Wirkstofffreisetzung (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
-| 62480 | Ropinirol Sandoz Retard 2 mg, Tablette mit veränderter Wirkstofffreis… (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
-| 62614 | Ropinirol-Mepha retard 2 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson | Gültig |
+| 53841 | Requip 0,25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Morbus Parkinson | Gültig |
+| 56907 | Adartrel 0,25 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Behandlung des idiopathischen Restless Legs Syndroms (RLS) | Gültig |
+| 57740 | Requip-Modutab 2 mg, Tabletten mit veränderter Wirkstofffreisetzung (+2 weitere Bezeichnungen) | Synthetikum | Morbus Parkinson | Gültig |
+| 62480 | Ropinirol Sandoz Retard 2 mg, Tablette mit veränderter Wirkstofffreis… (+2 weitere Bezeichnungen) | Synthetikum | Morbus Parkinson | Gültig |
+| 62614 | Ropinirol-Mepha retard 2 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetikum | Morbus Parkinson | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

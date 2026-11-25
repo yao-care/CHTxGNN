@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB12023
 monitor_inn: "Benralizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Benralizumabum: vorhergesagte neue Indikation Immunthrombozytopenie (thrombocytopenia due to immune destruction) (Evidenzstufe L5). Ursprüngliche Indikation: Schweres eosinophiles Asthma, EGPA"
 ---
 
@@ -73,8 +73,8 @@ Die Plausibilität ist insgesamt gering. Die Vorhersage stützt sich nur auf den
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66582 | Fasenra 30 mg /1 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Schweres eosinophiles Asthma, EGPA | Gültig |
-| 67581 | Fasenra Pen 30 mg /1 ml, lnjektionslösung in einem Fertigpen | Biotechnologika | Schweres eosinophiles Asthma, EGPA | Gültig |
+| 66582 | Fasenra 30 mg /1 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Schweres eosinophiles Asthma, EGPA | Gültig |
+| 67581 | Fasenra Pen 30 mg /1 ml, lnjektionslösung in einem Fertigpen | Biotechnologikum | Schweres eosinophiles Asthma, EGPA | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

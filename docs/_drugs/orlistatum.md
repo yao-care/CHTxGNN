@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01083
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Orlistatum: vorhergesagte neue Indikation Hypervitaminose (hypervitaminosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antidiapositum"
 ---
 
@@ -73,10 +73,10 @@ Zudem ist die Hypervitaminose uneinheitlich (z. B. Vitamin A oder D). Die Hauptm
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54282 | Xenical, Kapseln | Synthetika | Antiadipositum | Gültig |
-| 62107 | Orlistat Sandoz, Hartkapseln | Synthetika | Antiadipositum, Lipasehemmer | Gültig |
-| 62663 | Orlistat-Mepha 120, Kapseln | Synthetika | Antiadipositum, peripher wirksames Präparat zur Gewichtsreduktion | Gültig |
-| 65219 | Orlistat Spirig HC 120 mg, Kapseln | Synthetika | Antidiapositum | Gültig |
+| 54282 | Xenical, Kapseln | Synthetikum | Antiadipositum | Gültig |
+| 62107 | Orlistat Sandoz, Hartkapseln | Synthetikum | Antiadipositum, Lipasehemmer | Gültig |
+| 62663 | Orlistat-Mepha 120, Kapseln | Synthetikum | Antiadipositum, peripher wirksames Präparat zur Gewichtsreduktion | Gültig |
+| 65219 | Orlistat Spirig HC 120 mg, Kapseln | Synthetikum | Antidiapositum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

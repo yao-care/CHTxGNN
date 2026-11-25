@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 77
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Polymyxin B: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L4). Ursprüngliche Indikation: Augeninfektionen, infizierte Augenentzündungen, Otitis"
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
@@ -97,10 +97,10 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 31566 | Maxitrol, Augensalbe | Synthetika | Infizierte Augenentzündungen | Gültig |
-| 31567 | Maxitrol, Augentropfen | Synthetika | Infizierte Augenentzündungen | Gültig |
-| 31957 | Panotile, gocce otologiche | Synthetika | Otite | Gültig |
-| 36290 | Spersapolymyxin, Augentropfen | Synthetika | Augeninfektionen | Gültig |
+| 31566 | Maxitrol, Augensalbe | Synthetikum | Infizierte Augenentzündungen | Gültig |
+| 31567 | Maxitrol, Augentropfen | Synthetikum | Infizierte Augenentzündungen | Gültig |
+| 31957 | Panotile, gocce otologiche | Synthetikum | Otite | Gültig |
+| 36290 | Spersapolymyxin, Augentropfen | Synthetikum | Augeninfektionen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00374
 monitor_inn: "Treprostinil"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Treprostinilum: vorhergesagte neue Indikation Pulmonale arteriovenöse Malformation (pulmonary arteriovenous malformation (disease)) (Evidenzstufe L5)."
 ---
 
@@ -75,9 +75,9 @@ Eine Gefässerweiterung könnte den Rechts-links-Shunt und den Sauerstoffmangel 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56120 | Remodulin 1 mg/ml, Infusionslösung s.c. und i.v. (+3 weitere Bezeichnungen) | Synthetika | Primäre und sekundäre pulmonale Hypertonie | Gültig |
-| 67357 | Treprostinil OrPha 1 mg/ml, Infusionslösung (+3 weitere Bezeichnungen) | Synthetika | Primäre und sekundäre pulmonale Hypertonie; chronisch thromboembolische pulmonale Hypertonie (CTEPH) | Gültig |
-| 68262 | Treprostinil Ideogen 1 mg/mL, Infusionslösung (+3 weitere Bezeichnungen) | Synthetika | Primäre und sekundäre pulmonale Hypertonie | Gültig |
+| 56120 | Remodulin 1 mg/ml, Infusionslösung s.c. und i.v. (+3 weitere Bezeichnungen) | Synthetikum | Primäre und sekundäre pulmonale Hypertonie | Gültig |
+| 67357 | Treprostinil OrPha 1 mg/ml, Infusionslösung (+3 weitere Bezeichnungen) | Synthetikum | Primäre und sekundäre pulmonale Hypertonie; chronisch thromboembolische pulmonale Hypertonie (CTEPH) | Gültig |
+| 68262 | Treprostinil Ideogen 1 mg/mL, Infusionslösung (+3 weitere Bezeichnungen) | Synthetikum | Primäre und sekundäre pulmonale Hypertonie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

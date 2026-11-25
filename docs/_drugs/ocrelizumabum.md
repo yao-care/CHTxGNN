@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB11988
 monitor_inn: "Ocrelizumab"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ocrelizumabum: vorhergesagte neue Indikation HER2 positive breast carcinoma (Evidenzstufe L5). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 
@@ -83,8 +83,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66185 | Ocrevus, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Multiple Sklerose | Gültig |
-| 68988 | Ocrevus subkutan 920 mg/23 ml, Injektionslösung | Biotechnologika | Multiple Sklerose | Gültig |
+| 66185 | Ocrevus, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Multiple Sklerose | Gültig |
+| 68988 | Ocrevus subkutan 920 mg/23 ml, Injektionslösung | Biotechnologikum | Multiple Sklerose | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

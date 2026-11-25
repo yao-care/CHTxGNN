@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00222
 monitor_inn: "Glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Glimepiridum: vorhergesagte neue Indikation Klassisches Stiff-Person-Syndrom (classic stiff person syndrome) (Evidenzstufe L5)."
 ---
 
@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57611 | Glimeryl-Mepha 1 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Nicht Insulin-abhängiger Diabetes mellitus (Typ 2) | Gültig |
+| 57611 | Glimeryl-Mepha 1 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Nicht Insulin-abhängiger Diabetes mellitus (Typ 2) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

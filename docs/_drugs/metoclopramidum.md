@@ -98,10 +98,10 @@ Keine der Arbeiten untersucht Metoclopramid direkt bei Gastroduodenitis. Die Aus
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 31205 | Primpéran, soluté buvable | Synthetika | nausées et vomissements | Gültig |
-| 32733 | Paspertin 10 mg/2 mL, Injektionslösung | Synthetika | Übelkeit und Erbrechen | Gültig |
-| 32735 | Paspertin, Filmtabletten | Synthetika | Übelkeit und Erbrechen | Gültig |
-| 42894 | Paspertin, Tropfen | Synthetika | Übelkeit und Erbrechen | Gültig |
+| 31205 | Primpéran, soluté buvable | Synthetikum | nausées et vomissements | Gültig |
+| 32733 | Paspertin 10 mg/2 mL, Injektionslösung | Synthetikum | Übelkeit und Erbrechen | Gültig |
+| 32735 | Paspertin, Filmtabletten | Synthetikum | Übelkeit und Erbrechen | Gültig |
+| 42894 | Paspertin, Tropfen | Synthetikum | Übelkeit und Erbrechen | Gültig |
 | 70746 | Metoclopramid-Mepha i.v./i.m. 10 mg / 2 ml, Injektionslösung | Synthetikum | Übelkeit und Erbrechen | Gültig |
 | 70760 | Metoclopramide Nardia 10 mg/2 ml, soluzione iniettabile | Synthetikum | nausea e vomito | Gültig |
 

@@ -109,10 +109,10 @@ Die Evidenz stammt überwiegend aus Studien zu Migräne und Spannungskopfschmerz
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48802 | Tora-dol 30 mg, Injektionslösung | Synthetika | Antiphlogistikum, Analgetikum | Gültig |
-| 48803 | Tora-dol, Filmtabletten | Synthetika | Antiphlogistikum, Analgetikum | Gültig |
-| 53181 | Acular, Augentropfen | Synthetika | Nicht steroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
-| 61219 | KetoVision, Augentropfen | Synthetika | Nichtsteroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
+| 48802 | Tora-dol 30 mg, Injektionslösung | Synthetikum | Antiphlogistikum, Analgetikum | Gültig |
+| 48803 | Tora-dol, Filmtabletten | Synthetikum | Antiphlogistikum, Analgetikum | Gültig |
+| 53181 | Acular, Augentropfen | Synthetikum | Nicht steroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
+| 61219 | KetoVision, Augentropfen | Synthetikum | Nichtsteroidaler Entzündungshemmer zur lokalen Applikation am Auge | Gültig |
 | 70358 | Ketorolac Nardia 30 mg/ml, soluzione iniettabile | Synthetikum | Antiinfiammatoria, Analgesico | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

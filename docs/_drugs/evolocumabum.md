@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB09303
 monitor_inn: "Evolocumab"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Evolocumabum: vorhergesagte neue Indikation Symptomatische Form der Hämophilie bei weiblichen Trägerinnen (symptomatic form of hemophilia in female carriers) (Evidenzstufe L5)."
 ---
 
@@ -73,7 +73,7 @@ Der hohe Vorhersagewert ist deshalb sehr wahrscheinlich ein Artefakt des Modells
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65622 | Repatha 140 mg / ml, Vorgefüllter Pen | Biotechnologika | Blutlipidsenkende Mittel | Gültig |
+| 65622 | Repatha 140 mg / ml, Vorgefüllter Pen | Biotechnologikum | Blutlipidsenkende Mittel | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

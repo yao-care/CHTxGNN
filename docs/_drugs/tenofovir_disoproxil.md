@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "tenofovir disoproxil"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tenofovir Disoproxil: vorhergesagte neue Indikation Infektion mit dem Simianen Immundefizienzvirus (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -97,13 +97,13 @@ Alle aufgeführten Arbeiten sind Tierstudien oder Übersichtsarbeiten; es gibt k
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62155 | Eviplera, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
-| 66181 | Emtricitabin-Tenofovir-Mepha, Filmtabletten | Synthetika | HIV-Infektion, HIV-Prä-Expositionsprophylaxe | Gültig |
-| 66217 | Efavirenz-Emtricitabin-Tenofovir-Mepha 600 mg, 200 mg, 245 mg, Filmta… | Synthetika | HIV-Infektionen | Gültig |
-| 67010 | Emtricitabin/Tenofovir Viatris, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
-| 67066 | Delstrigo, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
-| 67093 | Efavirenz/Emtricitabin/Tenofovir Viatris, Filmtabletten | Synthetika | HIV-1-Infektion | Gültig |
-| 62673 | Stribild, Filmtabletten | Synthetika | HIV-Infektionen | Erloschen |
+| 62155 | Eviplera, Filmtabletten | Synthetikum | HIV-Infektion | Gültig |
+| 66181 | Emtricitabin-Tenofovir-Mepha, Filmtabletten | Synthetikum | HIV-Infektion, HIV-Prä-Expositionsprophylaxe | Gültig |
+| 66217 | Efavirenz-Emtricitabin-Tenofovir-Mepha 600 mg, 200 mg, 245 mg, Filmta… | Synthetikum | HIV-Infektionen | Gültig |
+| 67010 | Emtricitabin/Tenofovir Viatris, Filmtabletten | Synthetikum | HIV-Infektion | Gültig |
+| 67066 | Delstrigo, Filmtabletten | Synthetikum | HIV-Infektion | Gültig |
+| 67093 | Efavirenz/Emtricitabin/Tenofovir Viatris, Filmtabletten | Synthetikum | HIV-1-Infektion | Gültig |
+| 62673 | Stribild, Filmtabletten | Synthetikum | HIV-Infektionen | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

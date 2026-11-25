@@ -87,8 +87,8 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65937 | Brintellix 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Antidepressivum | Gültig |
-| 65938 | Brintellix 20 mg/ml, Tropfen zum Einnehmen, Lösung | Synthetika | Antidepressivum | Gültig |
+| 65937 | Brintellix 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Antidepressivum | Gültig |
+| 65938 | Brintellix 20 mg/ml, Tropfen zum Einnehmen, Lösung | Synthetikum | Antidepressivum | Gültig |
 | 70781 | Vortioxetin Sandoz 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Antidepressivum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00916
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metronidazolum: vorhergesagte neue Indikation Pneumocystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Infezioni da batteri anaerobici"
 ---
 
@@ -95,15 +95,15 @@ Keine der gefundenen Publikationen untersucht Metronidazol bei Pneumocystose. Es
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 26313 | Flagyl 250 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Maladies infectieuses dues à des bactéries anaérobies où à des protozoaires | Gültig |
-| 26314 | Flagyl, ovules | Synthetika | infection par bactérie anaérobique et protozoaire | Gültig |
-| 40215 | Metrolag 250 mg, compresse (+1 weitere Bezeichnung) | Synthetika | Affezioni da Trichomonas vaginalis, lambliasi, amebiasi, infezioni causate da batteri anaerobi | Gültig |
-| 48092 | Rosalox, Crème | Synthetika | Rosacea | Gültig |
-| 50483 | Perilox, Crème | Synthetika | Rosacea, periorale Dermatitis | Gültig |
-| 55280 | Metronidazole Sintetica, soluzione per infusione | Synthetika | Infezioni da batteri anaerobici | Gültig |
-| 62275 | Metronidazole Zentiva 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten durch anaerobe Bakterien oder Protozoen | Gültig |
-| 62276 | Metronidazole Zentiva, Vaginalovula | Synthetika | Infektionskrankheiten durch anaerobe Bakterien oder Protozoen | Gültig |
-| 70015 | Metronidazole Lagap iv 500mg/100ml, soluzione per infusione | Synthetika | Infezioni causate da batteri anaerobi | Gültig |
+| 26313 | Flagyl 250 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses dues à des bactéries anaérobies où à des protozoaires | Gültig |
+| 26314 | Flagyl, ovules | Synthetikum | infection par bactérie anaérobique et protozoaire | Gültig |
+| 40215 | Metrolag 250 mg, compresse (+1 weitere Bezeichnung) | Synthetikum | Affezioni da Trichomonas vaginalis, lambliasi, amebiasi, infezioni causate da batteri anaerobi | Gültig |
+| 48092 | Rosalox, Crème | Synthetikum | Rosacea | Gültig |
+| 50483 | Perilox, Crème | Synthetikum | Rosacea, periorale Dermatitis | Gültig |
+| 55280 | Metronidazole Sintetica, soluzione per infusione | Synthetikum | Infezioni da batteri anaerobici | Gültig |
+| 62275 | Metronidazole Zentiva 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten durch anaerobe Bakterien oder Protozoen | Gültig |
+| 62276 | Metronidazole Zentiva, Vaginalovula | Synthetikum | Infektionskrankheiten durch anaerobe Bakterien oder Protozoen | Gültig |
+| 70015 | Metronidazole Lagap iv 500mg/100ml, soluzione per infusione | Synthetikum | Infezioni causate da batteri anaerobi | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

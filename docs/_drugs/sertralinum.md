@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01104
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sertralinum: vorhergesagte neue Indikation Schizoide Persönlichkeitsstörung (schizoid personality disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahmehemmer"
 ---
 
@@ -89,12 +89,12 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52251 | Zoloft, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 55391 | Zoloft, Konzentrat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 56956 | Sertralin Sandoz eco 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 57041 | Sertralin-Mepha 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 57135 | Sertralin Spirig HC, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 61284 | Sertralin Viatris, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 52251 | Zoloft, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 55391 | Zoloft, Konzentrat zur Herstellung einer Lösung zum Einnehmen | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 56956 | Sertralin Sandoz eco 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 57041 | Sertralin-Mepha 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 57135 | Sertralin Spirig HC, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 61284 | Sertralin Viatris, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

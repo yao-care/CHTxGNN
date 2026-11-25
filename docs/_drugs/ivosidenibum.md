@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB14568
 monitor_inn: "Ivosidenib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ivosidenibum: vorhergesagte neue Indikation Bulbäre Poliomyelitis (bulbar polio) (Evidenzstufe L5). Ursprüngliche Indikation: Leucémie myéloïde aiguë (LMA) / Cholangiocarcinome"
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert ist daher am ehesten ein Artefakt des Modells und biolog
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 69077 | Tibsovo 250 mg, comprimés pelliculés | Synthetika | Leucémie myéloïde aiguë (LMA) / Cholangiocarcinome | Gültig |
+| 69077 | Tibsovo 250 mg, comprimés pelliculés | Synthetikum | Leucémie myéloïde aiguë (LMA) / Cholangiocarcinome | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

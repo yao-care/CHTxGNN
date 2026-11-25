@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB14864
 monitor_inn: "Brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Brolucizumabum: vorhergesagte neue Indikation Mitochondriale Störung der oxidativen Phosphorylierung durch Kern-DNA-Anomalien (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) (Evidenzstufe L5)."
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert ist eine reine Modellvorhersage. Zudem sind bei Broluciz
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67244 | Beovu 120mg/1ml, Injektionslösung in Fertigspritze | Biotechnologika | altersbedingte Makuladegeneration (AMD) und diabetisches Makulaödem (DME) | Gültig |
+| 67244 | Beovu 120mg/1ml, Injektionslösung in Fertigspritze | Biotechnologikum | altersbedingte Makuladegeneration (AMD) und diabetisches Makulaödem (DME) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

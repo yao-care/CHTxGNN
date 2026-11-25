@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00494
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Entacaponum: vorhergesagte neue Indikation PLA2G6-associated neurodegeneration (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54522 | Comtan, Filmtabletten | Synthetika | Morbus Parkinson | Gültig |
+| 54522 | Comtan, Filmtabletten | Synthetikum | Morbus Parkinson | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

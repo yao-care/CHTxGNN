@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00404
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alprazolamum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Anxiolytikum"
 ---
 
@@ -98,8 +98,8 @@ Keine der folgenden Arbeiten untersucht Alprazolam direkt zur Behandlung von Sch
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 43216 | Xanax 0,25 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Anxiolytikum | Gültig |
-| 52866 | Xanax retard 0,5 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Anxiolytikum | Gültig |
+| 43216 | Xanax 0,25 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Anxiolytikum | Gültig |
+| 52866 | Xanax retard 0,5 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetikum | Anxiolytikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

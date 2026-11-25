@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00043
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Omalizumabum: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Asthme allergique, Urticaire chronique spontanée (UCS)"
 ---
 
@@ -94,10 +94,10 @@ Ein Zusammenhang ist am ehesten bei allergischen oder eosinophilen Atemwegserkra
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57178 | Xolair 75 mg, Pulver und Lösungsmittel zur Herstellung einer Injektio… (+1 weitere Bezeichnung) | Biotechnologika | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen | Gültig |
-| 68030 | Xolair 75 mg/0.5 ml, Injektionslösung in einer Fertigspritze (+2 weitere Bezeichnungen) | Biotechnologika | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen | Gültig |
-| 69272 | Xolair 75 mg/0.5 ml, Injektionslösung in einem Fertigpen (+2 weitere Bezeichnungen) | Biotechnologika | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen | Gültig |
-| 69508 | Omlyclo 75 mg/0.5 ml, solution injectable en seringue préremplie (+1 weitere Bezeichnung) | Biotechnologika | Asthme allergique, Urticaire chronique spontanée (UCS) | Gültig |
+| 57178 | Xolair 75 mg, Pulver und Lösungsmittel zur Herstellung einer Injektio… (+1 weitere Bezeichnung) | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen | Gültig |
+| 68030 | Xolair 75 mg/0.5 ml, Injektionslösung in einer Fertigspritze (+2 weitere Bezeichnungen) | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen | Gültig |
+| 69272 | Xolair 75 mg/0.5 ml, Injektionslösung in einem Fertigpen (+2 weitere Bezeichnungen) | Biotechnologikum | Allergisches Asthma, chronische spontane Urtikaria, Nasenpolypen | Gültig |
+| 69508 | Omlyclo 75 mg/0.5 ml, solution injectable en seringue préremplie (+1 weitere Bezeichnung) | Biotechnologikum | Asthme allergique, Urticaire chronique spontanée (UCS) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

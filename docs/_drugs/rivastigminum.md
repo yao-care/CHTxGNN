@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00989
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rivastigminum: vorhergesagte neue Indikation Glaukom (glaucoma) (Evidenzstufe L5). Ursprüngliche Indikation: Demenza di tipo Alzheimer"
 ---
 
@@ -83,10 +83,10 @@ Der hohe Vorhersagewert ist eine Modellrechnung und kein klinischer Beleg. Für 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54275 | Exelon 1,5 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Demenz vom Alzheimer Typ, Demenz bei Parkinson Krankheit | Gültig |
-| 58078 | Exelon Patch 5, transdermales Pflaster (+2 weitere Bezeichnungen) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
-| 68795 | Rivastigmin-Mepha Patch 4.6 mg/24 h, Transdermale Pflaster (+2 weitere Bezeichnungen) | Synthetika | Demenz vom Alzheimer-Typ | Gültig |
-| 68897 | Rivasur due volte alla settimana 4,6 mg/24 ore, cerotto transdermico (+1 weitere Bezeichnung) | Synthetika | Demenza di tipo Alzheimer | Gültig |
+| 54275 | Exelon 1,5 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Demenz vom Alzheimer Typ, Demenz bei Parkinson Krankheit | Gültig |
+| 58078 | Exelon Patch 5, transdermales Pflaster (+2 weitere Bezeichnungen) | Synthetikum | Demenz vom Alzheimer-Typ | Gültig |
+| 68795 | Rivastigmin-Mepha Patch 4.6 mg/24 h, Transdermale Pflaster (+2 weitere Bezeichnungen) | Synthetikum | Demenz vom Alzheimer-Typ | Gültig |
+| 68897 | Rivasur due volte alla settimana 4,6 mg/24 ore, cerotto transdermico (+1 weitere Bezeichnung) | Synthetikum | Demenza di tipo Alzheimer | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

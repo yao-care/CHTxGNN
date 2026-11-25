@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00337
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pimecrolimusum: vorhergesagte neue Indikation Seborrhoische Dermatitis (seborrheic dermatitis) (Evidenzstufe L2). Ursprüngliche Indikation: Atopische Dermatitis"
 ---
 
@@ -100,7 +100,7 @@ Mehrere Übersichtsarbeiten beschreiben den Off-Label-Einsatz topischer Calcineu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55965 | Elidel 1 %, Crème | Synthetika | Atopische Dermatitis | Gültig |
+| 55965 | Elidel 1 %, Crème | Synthetikum | Atopische Dermatitis | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

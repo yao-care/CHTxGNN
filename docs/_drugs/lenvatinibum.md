@@ -108,8 +108,8 @@ Diese Angaben stammen nicht aus den zusammengestellten Daten, sondern aus allgem
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65512 | Lenvima 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
-| 66085 | Kisplyx 4 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC) | Gültig |
+| 65512 | Lenvima 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Onkologikum | Gültig |
+| 66085 | Kisplyx 4 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Behandlung von fortgeschrittenem Nierenzellkarzinom (RCC) | Gültig |
 | 70493 | Lenvatinib Sandoz 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Differenziertes Schilddrüsenkarzinom (DTC), Hepatozelluläres Karzinom (HCC), Endometriumkarzinom (EC), Nieren… | Gültig |
 | 70497 | Lenvatinib-Teva 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Onkologikum. Differenziertes Schilddrüsenkarzinom (DTC), Hepatozelluläres Karzinom (HCC), Endometriumkarzinom… | Gültig |
 

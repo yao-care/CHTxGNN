@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00234
 monitor_inn: "Reboxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Reboxetinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54159 | Edronax, Tabletten 4 mg | Synthetika | Depressionen | Erloschen |
+| 54159 | Edronax, Tabletten 4 mg | Synthetikum | Depressionen | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

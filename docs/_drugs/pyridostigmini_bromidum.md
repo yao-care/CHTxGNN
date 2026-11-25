@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00545
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pyridostigmini Bromidum: vorhergesagte neue Indikation Autoimmunerkrankung des peripheren Nervensystems (autoimmune disease of peripheral nervous system) (Evidenzstufe L5)."
 ---
 
@@ -98,9 +98,9 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 19943 | Mestinon, Dragées | Synthetika | Vagotonicum, Antimyasthenicum | Gültig |
-| 19945 | Mestinon, Tabletten | Synthetika | Vagotonicum, Antimyasthenicum | Gültig |
-| 56387 | Mestinon retard, Tabletten | Synthetika | Vagotonicum, Antimyasthenicum | Gültig |
+| 19943 | Mestinon, Dragées | Synthetikum | Vagotonicum, Antimyasthenicum | Gültig |
+| 19945 | Mestinon, Tabletten | Synthetikum | Vagotonicum, Antimyasthenicum | Gültig |
+| 56387 | Mestinon retard, Tabletten | Synthetikum | Vagotonicum, Antimyasthenicum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

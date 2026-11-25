@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00471
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Montelukastum: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L4). Ursprüngliche Indikation: Asthma bronchiale, allergische Rhinitis"
 ---
 
@@ -97,13 +97,13 @@ Die vorliegenden Studien vermischen verschiedene Erkrankungen: die akute virale 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54390 | Singulair, Filmtabletten | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
-| 54391 | Singulair 5 mg, Kautabletten für Kinder (+1 weitere Bezeichnung) | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
-| 56162 | Singulair 4 mg, Granulat | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
-| 61223 | Montelukast Sandoz 4 mg, Kautabletten (+1 weitere Bezeichnung) | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
-| 61896 | Montelukast Sandoz 4, Granulat | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
-| 62361 | Montelukast-Mepha 4 mg, Kautabletten (+1 weitere Bezeichnung) | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
-| 62799 | Montelukast Spirig HC 4, Kautabletten (+1 weitere Bezeichnung) | Synthetika | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 54390 | Singulair, Filmtabletten | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 54391 | Singulair 5 mg, Kautabletten für Kinder (+1 weitere Bezeichnung) | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 56162 | Singulair 4 mg, Granulat | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 61223 | Montelukast Sandoz 4 mg, Kautabletten (+1 weitere Bezeichnung) | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 61896 | Montelukast Sandoz 4, Granulat | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 62361 | Montelukast-Mepha 4 mg, Kautabletten (+1 weitere Bezeichnung) | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
+| 62799 | Montelukast Spirig HC 4, Kautabletten (+1 weitere Bezeichnung) | Synthetikum | Asthma bronchiale, allergische Rhinitis | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Turoctocog Alfa Pegol: vorhergesagte neue Indikation Primäre Thrombozyten-Freisetzungsstörung (primary release disorder of… (Evidenzstufe L5). Ursprüngliche Indikation: Hämophilie A"
 monitor_inn: "turoctocog alfa pegol"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "hereditary thrombocytosis with transverse limb defect", "fetal and neonatal alloimmune thrombocytopenia"]
@@ -86,7 +86,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67156 | Esperoct 500 IE, Pulver und Lösungsmittel zur Herstellung einer Injek… (+6 weitere Bezeichnungen) | Biotechnologika | Hämophilie A | Gültig |
+| 67156 | Esperoct 500 IE, Pulver und Lösungsmittel zur Herstellung einer Injek… (+6 weitere Bezeichnungen) | Biotechnologikum | Hämophilie A | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

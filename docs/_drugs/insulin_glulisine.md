@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Insulin Glulisine: vorhergesagte neue Indikation Thiamin-responsives Dysfunktionssyndrom (thiamine-responsive dysfunction syndrome) (Evidenzstufe L5)."
 monitor_inn: "insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -108,8 +108,8 @@ Die folgende Tabelle zeigt eine Auswahl der relevantesten Studien (insgesamt lie
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57013 | Apidra, solution injectable | Biotechnologika | Diabète sucré chez l'adulte | Gültig |
-| 58056 | Apidra SoloStar (stylo prérempli), solution injectable | Biotechnologika | Diabète sucré chez l'adulte | Gültig |
+| 57013 | Apidra, solution injectable | Biotechnologikum | Diabète sucré chez l'adulte | Gültig |
+| 58056 | Apidra SoloStar (stylo prérempli), solution injectable | Biotechnologikum | Diabète sucré chez l'adulte | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

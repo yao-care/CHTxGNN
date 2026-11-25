@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00946
 monitor_inn: "Phenprocoumon"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "congenital coronary artery anomaly", "stroke disorder", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Phenprocoumonum: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Anticoagulans"
 ---
 
@@ -89,7 +89,7 @@ Eine gültige Zulassung, Marktstatus: Im Handel.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 19395 | Marcoumar, Tabletten | Synthetika | Anticoagulans | Gültig |
+| 19395 | Marcoumar, Tabletten | Synthetikum | Anticoagulans | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

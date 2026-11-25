@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 14
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Allantoin: vorhergesagte neue Indikation Schwere nicht-proliferative diabetische Retinopathie (Evidenzstufe L5). Ursprüngliche Indikation: Narbenbehandlung"
 monitor_inn: "allantoin"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
@@ -88,10 +88,10 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 32747 | Contractubex, Gel | Synthetika | Narben und Keloide | Gültig |
-| 43609 | DUL-X Gel cool Wallwurz comp., Gel | Synthetika | Bei stumpfen Traumen | Gültig |
-| 46626 | Gorgonium, Salbe | Synthetika | Narben und Keloide | Gültig |
-| 47456 | Keli-med, Crème | Synthetika | Narbenbehandlung | Gültig |
+| 32747 | Contractubex, Gel | Synthetikum | Narben und Keloide | Gültig |
+| 43609 | DUL-X Gel cool Wallwurz comp., Gel | Synthetikum | Bei stumpfen Traumen | Gültig |
+| 46626 | Gorgonium, Salbe | Synthetikum | Narben und Keloide | Gültig |
+| 47456 | Keli-med, Crème | Synthetikum | Narbenbehandlung | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

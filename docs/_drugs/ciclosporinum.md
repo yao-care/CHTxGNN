@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00091
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ciclosporinum: vorhergesagte neue Indikation chronische Granulomatose, autosomal-rezessiv (granulomatous disease, chronic, autosomal recessive) (Evidenzstufe L5)."
 ---
 
@@ -79,12 +79,12 @@ Die chronische Granulomatose beruht auf einem Defekt der NADPH-Oxidase in Fressz
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 44915 | Sandimmun, Infusionskonzentrat | Biotechnologika | Immunsuppressivum | Gültig |
-| 52656 | Sandimmun Neoral 25 mg, Kapseln (+3 weitere Bezeichnungen) | Biotechnologika | Immunsuppressivum | Gültig |
-| 52657 | Sandimmun Neoral, Trinklösung | Biotechnologika | Immunsuppressivum | Gültig |
-| 66093 | Ikervis, 1 mg/ml collyre en émulsion (unidoses) | Synthetika | Kératite | Gültig |
-| 67535 | Verkazia, Augentropfen Emulsion | Synthetika | traitement de la kératoconjonctivite vernale sévère (VKC) chez les enfants à partir de 4 ans et les adolescen… | Gültig |
-| 70245 | Vevizye 1 mg/ml, collyre en solution | Synthetika | Kératoconjonctivite sèche chez les patients adultes présentant une sécheresse oculaire modérée à sévère qui n… | Gültig |
+| 44915 | Sandimmun, Infusionskonzentrat | Biotechnologikum | Immunsuppressivum | Gültig |
+| 52656 | Sandimmun Neoral 25 mg, Kapseln (+3 weitere Bezeichnungen) | Biotechnologikum | Immunsuppressivum | Gültig |
+| 52657 | Sandimmun Neoral, Trinklösung | Biotechnologikum | Immunsuppressivum | Gültig |
+| 66093 | Ikervis, 1 mg/ml collyre en émulsion (unidoses) | Synthetikum | Kératite | Gültig |
+| 67535 | Verkazia, Augentropfen Emulsion | Synthetikum | traitement de la kératoconjonctivite vernale sévère (VKC) chez les enfants à partir de 4 ans et les adolescen… | Gültig |
+| 70245 | Vevizye 1 mg/ml, collyre en solution | Synthetikum | Kératoconjonctivite sèche chez les patients adultes présentant une sécheresse oculaire modérée à sévère qui n… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

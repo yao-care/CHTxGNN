@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pibrentasvir: vorhergesagte neue Indikation Hepatitis-B-Virusinfektion (Evidenzstufe L5). Ursprüngliche Indikation: Chronische Hepatitis C"
 monitor_inn: "pibrentasvir"
 predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -96,7 +96,7 @@ Die folgenden Arbeiten stammen aus der Recherche zu dieser Indikation. Keine dav
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66472 | Maviret Filmtabletten | Synthetika | Chronische Hepatitis C | Gültig |
+| 66472 | Maviret Filmtabletten | Synthetikum | Chronische Hepatitis C | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

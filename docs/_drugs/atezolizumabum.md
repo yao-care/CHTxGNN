@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB11595
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Atezolizumabum: vorhergesagte neue Indikation Uteriges Ligament-Adenokarzinom (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66152 | Tecentriq 1200 mg/20 ml, Konzentrat zur Herstellung einer Infusionslö… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
-| 69262 | TECENTRIQ subkutan 1875 mg/15ml, Injektionslösung zur subkutanen Anwe… | Biotechnologika | Onkologikum | Gültig |
+| 66152 | Tecentriq 1200 mg/20 ml, Konzentrat zur Herstellung einer Infusionslö… (+1 weitere Bezeichnung) | Biotechnologikum | Onkologikum | Gültig |
+| 69262 | TECENTRIQ subkutan 1875 mg/15ml, Injektionslösung zur subkutanen Anwe… | Biotechnologikum | Onkologikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

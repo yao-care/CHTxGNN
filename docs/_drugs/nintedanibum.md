@@ -89,11 +89,11 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65330 | OFEV 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
-| 69531 | Nintedanib Spirig HC 100 mg, Weichkapsel (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
-| 69747 | Nintedanib-Mepha 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
-| 70120 | Nintedanib Sandoz 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
-| 70124 | Nintedanib Zentiva 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 65330 | OFEV 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 69531 | Nintedanib Spirig HC 100 mg, Weichkapsel (+1 weitere Bezeichnung) | Synthetikum | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 69747 | Nintedanib-Mepha 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 70120 | Nintedanib Sandoz 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
+| 70124 | Nintedanib Zentiva 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
 | 70464 | Nintedanib Leman 100 mg, capsule molle (+1 weitere Bezeichnung) | Synthetikum | Fibrose pulmonaire idiopathique, pneumopathies interstitielles diffuses fibrosantes chroniques avec un phénot… | Gültig |
 | 70610 | Nintedanib Accord 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Idiopathische Lungenfibrose, interstitielle Lungenerkrankungen | Gültig |
 

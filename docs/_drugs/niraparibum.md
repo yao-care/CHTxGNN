@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB11793
 monitor_inn: "Niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "pre-malignant neoplasm", "inner ear neoplasm", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Niraparibum: vorhergesagte neue Indikation Neubildung der Epiglottis (epiglottis neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -99,7 +99,7 @@ Die folgenden Angaben stammen aus allgemeinem Fachwissen zur Wirkstoffklasse. In
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 68652 | Zejula 100 mg, Filmtabletten | Synthetika | Onkologikum | Gültig |
+| 68652 | Zejula 100 mg, Filmtabletten | Synthetikum | Onkologikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

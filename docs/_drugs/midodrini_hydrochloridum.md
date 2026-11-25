@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00211
 monitor_inn: "Midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Midodrini Hydrochloridum: vorhergesagte neue Indikation Variabel proteasesensitive Prionopathie (variably protease-sensitive prionopathy) (Evidenzstufe L5)."
 ---
 
@@ -73,9 +73,9 @@ Midodrin gelangt kaum ins Gehirn und hat keinen bekannten Einfluss auf die Fehlf
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 44976 | Gutron, Tabletten | Synthetika | Funktionelle, asympathotone und iatrogene orthostatische Hypotonie | Gültig |
-| 44977 | Gutron, Tropfen zum Einnehmen | Synthetika | Funktionelle, asympathotone und iatrogene orthostatische Hypotonie | Gültig |
-| 69384 | Midodrin Substipharm 2,5 mg, comprimés (+1 weitere Bezeichnung) | Synthetika | Hypotension orthostatique fonctionnelle, asympathotonique et iatrogène | Gültig |
+| 44976 | Gutron, Tabletten | Synthetikum | Funktionelle, asympathotone und iatrogene orthostatische Hypotonie | Gültig |
+| 44977 | Gutron, Tropfen zum Einnehmen | Synthetikum | Funktionelle, asympathotone und iatrogene orthostatische Hypotonie | Gültig |
+| 69384 | Midodrin Substipharm 2,5 mg, comprimés (+1 weitere Bezeichnung) | Synthetikum | Hypotension orthostatique fonctionnelle, asympathotonique et iatrogène | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

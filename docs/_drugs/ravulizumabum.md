@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB11580
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ravulizumabum: vorhergesagte neue Indikation Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (Evidenzstufe L5)."
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67278 | Ultomiris 300 mg/30 ml, Konzentrat zur Herstellung einer Infusionslös… (+2 weitere Bezeichnungen) | Biotechnologika | paroxysmale nächtliche Hämoglobinurie (PNH); atypisches Hämolytisch-Urämisches Syndrom (aHUS); generalisierte… | Gültig |
+| 67278 | Ultomiris 300 mg/30 ml, Konzentrat zur Herstellung einer Infusionslös… (+2 weitere Bezeichnungen) | Biotechnologikum | paroxysmale nächtliche Hämoglobinurie (PNH); atypisches Hämolytisch-Urämisches Syndrom (aHUS); generalisierte… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

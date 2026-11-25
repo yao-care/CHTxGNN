@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB15066
 monitor_inn: "Givosiran"
 predicted_indications: ["hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Givosiranum: vorhergesagte neue Indikation Hepatoportale Sklerose (hepatoportal sclerosis) (Evidenzstufe L5)."
 ---
 
@@ -75,7 +75,7 @@ Der Vorhersagewert von 1,0000 (genauer 0,99999) ist identisch mit den Werten der
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67895 | Givlaari 189 mg/ml, Injektionslösung | Transplantat: Gentherapieprodukt | Givlaari ist indiziert für die Behandlung einer akuten hepatischen Porphyrie (AHP) bei Erwachsenen und Jugend… | Gültig |
+| 67895 | Givlaari 189 mg/ml, Injektionslösung | Gentherapieprodukt | Givlaari ist indiziert für die Behandlung einer akuten hepatischen Porphyrie (AHP) bei Erwachsenen und Jugend… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

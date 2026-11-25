@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clothiapine: vorhergesagte neue Indikation Schlaflosigkeit (Insomnie) (Evidenzstufe L5). Ursprüngliche Indikation: Neurolepticum"
 monitor_inn: "clothiapine"
 predicted_indications: ["insomnia (disease)"]
@@ -73,7 +73,7 @@ Der sehr hohe TxGNN-Wert (0,9984) ist eine rein rechnerische Vorhersage und kein
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 33639 | Entumin 40 mg, Tabletten | Synthetika | Neurolepticum | Gültig |
+| 33639 | Entumin 40 mg, Tabletten | Synthetikum | Neurolepticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB02703
 monitor_inn: "Fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acidum Fusidicum Anhydricum: vorhergesagte neue Indikation Expositionskeratitis (exposure keratitis) (Evidenzstufe L5). Ursprüngliche Indikation: Bakterielle Hautinfektionen"
 ---
 
@@ -87,11 +87,11 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 46898 | Fucidin, Creme | Synthetika | Bakterielle Hautinfektionen | Gültig |
-| 48165 | Fucithalmic,Tropfgel | Synthetika | Augeninfektionen | Gültig |
-| 61359 | Fusicutan, Creme | Synthetika | Bakterielle Hautinfektionen | Gültig |
-| 62252 | Fusicutan Salbe, Salbe | Synthetika | Bakterielle Hautinfektionen | Gültig |
-| 66731 | Fusicutan plus, Creme | Synthetika | Entzündliche, sekundär bakteriell infizierte Dermatosen | Gültig |
+| 46898 | Fucidin, Creme | Synthetikum | Bakterielle Hautinfektionen | Gültig |
+| 48165 | Fucithalmic,Tropfgel | Synthetikum | Augeninfektionen | Gültig |
+| 61359 | Fusicutan, Creme | Synthetikum | Bakterielle Hautinfektionen | Gültig |
+| 62252 | Fusicutan Salbe, Salbe | Synthetikum | Bakterielle Hautinfektionen | Gültig |
+| 66731 | Fusicutan plus, Creme | Synthetikum | Entzündliche, sekundär bakteriell infizierte Dermatosen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

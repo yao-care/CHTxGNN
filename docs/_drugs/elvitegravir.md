@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Elvitegravir: vorhergesagte neue Indikation Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L4). Ursprüngliche Indikation: HIV-Infektion"
 ---
 
@@ -89,8 +89,8 @@ Es wurden keine direkten Studien zu einer SIV-Infektion mit Elvitegravir als all
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65793 | Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetika | HIV-Infektion | Gültig |
-| 62673 | Stribild, Filmtabletten | Synthetika | HIV-Infektionen | Erloschen |
+| 65793 | Genvoya 150mg/150mg/200mg/10mg, Filmtabletten | Synthetikum | HIV-Infektion | Gültig |
+| 62673 | Stribild, Filmtabletten | Synthetikum | HIV-Infektionen | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

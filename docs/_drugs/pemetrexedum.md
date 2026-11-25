@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00642
 monitor_inn: "Pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pemetrexedum: vorhergesagte neue Indikation Pleurales adenomatoides Tumor (pleural adenomatoid tumor) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -85,12 +85,12 @@ In der Schweiz sind mindestens 6 Zulassungen von Einzelwirkstoff-Präparaten erf
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57039 | Alimta 500 mg, Lyophilisat pour solution de perfusion (+1 weitere Bezeichnung) | Synthetika | Cytostatique | Gültig |
-| 66501 | Pemetrexed Sandoz conc. 100 mg/4 ml, Konzentrat zur Herstellung einer… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 67811 | Pemetrexed Accord liquid 100 mg, Konzentrat zur Herstellung einer Inf… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 68040 | Pemetrexed Viatris 100 mg, Konzentrat zur Herstellung einer Infusions… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 68404 | Pemetrexed Zentiva 100 mg/4 ml, Konzentrat zur Herstellung einer Infu… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 69034 | Pemetrexed liquid Zentiva 100 mg/10 ml, Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 57039 | Alimta 500 mg, Lyophilisat pour solution de perfusion (+1 weitere Bezeichnung) | Synthetikum | Cytostatique | Gültig |
+| 66501 | Pemetrexed Sandoz conc. 100 mg/4 ml, Konzentrat zur Herstellung einer… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 67811 | Pemetrexed Accord liquid 100 mg, Konzentrat zur Herstellung einer Inf… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 68040 | Pemetrexed Viatris 100 mg, Konzentrat zur Herstellung einer Infusions… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 68404 | Pemetrexed Zentiva 100 mg/4 ml, Konzentrat zur Herstellung einer Infu… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 69034 | Pemetrexed liquid Zentiva 100 mg/10 ml, Infusionslösung (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Centella Asiatica: vorhergesagte neue Indikation Schlaflosigkeit (Insomnie) (Evidenzstufe L5). Ursprüngliche Indikation: Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschl…"
 monitor_inn: "CENTELLA ASIATICA"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
@@ -100,7 +100,7 @@ Für die Hauptindikation Schlaflosigkeit liegt eine Publikation vor. Ergänzend 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55087 | Dercut, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen | Gültig |
+| 55087 | Dercut, Tropfen zum Einnehmen | Homöopathisches Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei ekzematischen Hautausschlägen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

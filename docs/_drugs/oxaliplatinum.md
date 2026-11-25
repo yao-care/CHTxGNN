@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00526
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Oxaliplatinum: vorhergesagte neue Indikation Malignes Pleuramesotheliom (malignant pleural mesothelioma) (Evidenzstufe L2). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -98,10 +98,10 @@ Platinhaltige Substanzen wie Cisplatin und Carboplatin bilden das Rückgrat der 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61663 | Oxaliplatin Sandoz 50 mg/10 ml, Konzentrat zur Herstellung einer Infu… (+3 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 61688 | Oxaliplatin-Teva liquid 50 mg/10 ml, Konzentrat zur Herstellung einer… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 67140 | Oxaliplatin Accord 50 mg/10 ml, Konzentrat zur Herstellung einer Infu… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 69177 | Oxaliplatin Zentiva 50 mg/10 ml, Konzentrat zur Herstellung einer Inf… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
+| 61663 | Oxaliplatin Sandoz 50 mg/10 ml, Konzentrat zur Herstellung einer Infu… (+3 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 61688 | Oxaliplatin-Teva liquid 50 mg/10 ml, Konzentrat zur Herstellung einer… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 67140 | Oxaliplatin Accord 50 mg/10 ml, Konzentrat zur Herstellung einer Infu… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 69177 | Oxaliplatin Zentiva 50 mg/10 ml, Konzentrat zur Herstellung einer Inf… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

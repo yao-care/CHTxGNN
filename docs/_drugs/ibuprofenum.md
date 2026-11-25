@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01050
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ibuprofenum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5). Ursprüngliche Indikation: Analgetikum"
 ---
 
@@ -77,15 +77,15 @@ Mindestens 9 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49669 | Brufen, Brausegranulat | Synthetika | Antirheumatikum, Antiphlogistikum | Gültig |
-| 66147 | Dismenol Formel L forte, Filmtabletten | Synthetika | Analgetikum | Gültig |
-| 66903 | Optifen Junior, Suspension zum Einnehmen | Synthetika | Antiphlogistikum, Analgetikum, Antipyretikum | Gültig |
-| 66932 | Irfen Dolo Junior 100 mg / 5 ml, Suspension | Synthetika | Antiphlogistikum, Analgetikum, Antipyretikum | Gültig |
-| 67274 | SUN STORE Ibuprofen 400, Filmtabletten | Synthetika | Analgetikum | Gültig |
-| 67940 | Ibuprofen Viatris 200 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antirheumatikum, Antiphlogistikum | Gültig |
-| 67942 | Ibuprofen Viatris, Brausegranulat | Synthetika | Antirheumatikum, Antiphlogistikum | Gültig |
-| 67991 | Ibu Zentiva 200 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antirheumatikum, Antiphlogistikum | Gültig |
-| 69416 | Afelor Lysinat 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Analgetikum | Gültig |
+| 49669 | Brufen, Brausegranulat | Synthetikum | Antirheumatikum, Antiphlogistikum | Gültig |
+| 66147 | Dismenol Formel L forte, Filmtabletten | Synthetikum | Analgetikum | Gültig |
+| 66903 | Optifen Junior, Suspension zum Einnehmen | Synthetikum | Antiphlogistikum, Analgetikum, Antipyretikum | Gültig |
+| 66932 | Irfen Dolo Junior 100 mg / 5 ml, Suspension | Synthetikum | Antiphlogistikum, Analgetikum, Antipyretikum | Gültig |
+| 67274 | SUN STORE Ibuprofen 400, Filmtabletten | Synthetikum | Analgetikum | Gültig |
+| 67940 | Ibuprofen Viatris 200 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antirheumatikum, Antiphlogistikum | Gültig |
+| 67942 | Ibuprofen Viatris, Brausegranulat | Synthetikum | Antirheumatikum, Antiphlogistikum | Gültig |
+| 67991 | Ibu Zentiva 200 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antirheumatikum, Antiphlogistikum | Gültig |
+| 69416 | Afelor Lysinat 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Analgetikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00425
 monitor_inn: "Zolpidem"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Zolpidemi Tartras: vorhergesagte neue Indikation Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -77,12 +77,12 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49106 | Stilnox, comprimés pelliculés sécables | Synthetika | Hypnotique | Gültig |
-| 51233 | Zolpidem Zentiva, teilbare Filmtabletten | Synthetika | Hypnoticum | Gültig |
-| 56036 | Zoldorm, Filmtabletten | Synthetika | Hypnotikum | Gültig |
-| 57053 | Zolpidem Streuli, Filmtabletten | Synthetika | Hypnotikum | Gültig |
-| 57056 | Zolpidem Spirig HC 10 mg, Filmtabletten | Synthetika | Hypnotikum | Gültig |
-| 62247 | Zolpidem CR Zentiva 6,25 mg, Tabletten mit kontrollierter Wirkstoff-F… | Synthetika | Hypnoticum | Gültig |
+| 49106 | Stilnox, comprimés pelliculés sécables | Synthetikum | Hypnotique | Gültig |
+| 51233 | Zolpidem Zentiva, teilbare Filmtabletten | Synthetikum | Hypnoticum | Gültig |
+| 56036 | Zoldorm, Filmtabletten | Synthetikum | Hypnotikum | Gültig |
+| 57053 | Zolpidem Streuli, Filmtabletten | Synthetikum | Hypnotikum | Gültig |
+| 57056 | Zolpidem Spirig HC 10 mg, Filmtabletten | Synthetikum | Hypnotikum | Gültig |
+| 62247 | Zolpidem CR Zentiva 6,25 mg, Tabletten mit kontrollierter Wirkstoff-F… | Synthetikum | Hypnoticum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00915
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Amantadini Hydrochloridum: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson, Grippeprophylaxe"
 ---
 
@@ -85,9 +85,9 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 31841 | Symmetrel, Kapseln | Synthetika | Morbus Parkinson, Grippeprophylaxe | Gültig |
-| 44135 | PK-Merz, Infusionslösung | Synthetika | Parkinsonismus | Gültig |
-| 45413 | PK-Merz, Filmtabletten | Synthetika | Morbus Parkinson | Gültig |
+| 31841 | Symmetrel, Kapseln | Synthetikum | Morbus Parkinson, Grippeprophylaxe | Gültig |
+| 44135 | PK-Merz, Infusionslösung | Synthetikum | Parkinsonismus | Gültig |
+| 45413 | PK-Merz, Filmtabletten | Synthetikum | Morbus Parkinson | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01219
 monitor_inn: "Dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dantrolenum Natricum Hemiheptahydricum: vorhergesagte neue Indikation Moderate Multiminicore-Erkrankung mit Handbeteiligung (moderate multiminicore disease with hand involvement) (Evidenzstufe L5)."
 ---
 
@@ -75,9 +75,9 @@ Der sehr hohe Vorhersagewert ist ein Modellergebnis und kein klinischer Beleg. O
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45215 | Dantamacrin 25 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Myotonolyticum | Gültig |
-| 69083 | Agilus 120 mg, Pulver zur Herstellung einer Injektionslösung | Synthetika | Maligne Hyperthermie | Gültig |
-| 45217 | Dantrolen i.v., Injektionslösung | Synthetika | Myotonolyticum: Maligne Hyperthermie | Erloschen |
+| 45215 | Dantamacrin 25 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Myotonolyticum | Gültig |
+| 69083 | Agilus 120 mg, Pulver zur Herstellung einer Injektionslösung | Synthetikum | Maligne Hyperthermie | Gültig |
+| 45217 | Dantrolen i.v., Injektionslösung | Synthetikum | Myotonolyticum: Maligne Hyperthermie | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

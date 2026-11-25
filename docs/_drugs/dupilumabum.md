@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB12159
 monitor_inn: "Dupilumab"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dupilumabum: vorhergesagte neue Indikation Bronchitis (Evidenzstufe L5). Ursprüngliche Indikation: Dermatite atopique modérée à sévère, asthme, polypose naso-sinusienne…"
 ---
 
@@ -100,8 +100,8 @@ Die Daten enthalten die zulassungsrelevanten Phase-3-Studien bei COPD (BOREAS/NO
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66649 | Dupixent 300 mg/2 ml, solution injectable en seringue préremplie avec… (+1 weitere Bezeichnung) | Biotechnologika | Dermatite atopique modérée à sévère, asthme, polypose naso-sinusienne, prurigo nodularis, œsophagite à éosino… | Gültig |
-| 67661 | Dupixent 200 mg/ 1.14 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologika | Dermatite atopique modérée à sévère, asthme, polypose naso-sinusienne, prurigo nodularis, œsophagite à éosino… | Gültig |
+| 66649 | Dupixent 300 mg/2 ml, solution injectable en seringue préremplie avec… (+1 weitere Bezeichnung) | Biotechnologikum | Dermatite atopique modérée à sévère, asthme, polypose naso-sinusienne, prurigo nodularis, œsophagite à éosino… | Gültig |
+| 67661 | Dupixent 200 mg/ 1.14 ml, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Biotechnologikum | Dermatite atopique modérée à sévère, asthme, polypose naso-sinusienne, prurigo nodularis, œsophagite à éosino… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

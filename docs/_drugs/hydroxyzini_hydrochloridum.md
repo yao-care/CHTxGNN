@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00557
 monitor_inn: "Hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Hydroxyzini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: sédatif, antihistaminique"
 ---
 
@@ -73,8 +73,8 @@ Allerdings wird die Rosazea-Konjunktivitis (Augenrosazea) hauptsächlich durch e
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 21871 | Atarax, comprimés pelliculés | Synthetika | sédatif, antihistaminique | Gültig |
-| 27096 | Atarax, Sirup | Synthetika | Sedativum, Antihistaminikum | Gültig |
+| 21871 | Atarax, comprimés pelliculés | Synthetikum | sédatif, antihistaminique | Gültig |
+| 27096 | Atarax, Sirup | Synthetikum | Sedativum, Antihistaminikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

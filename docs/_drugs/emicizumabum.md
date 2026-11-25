@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB13923
 monitor_inn: "Emicizumab"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Emicizumabum: vorhergesagte neue Indikation Pseudo-von-Willebrand-Krankheit (pseudo-von Willebrand disease) (Evidenzstufe L5). Ursprüngliche Indikation: Hämophilie A"
 ---
 
@@ -79,7 +79,7 @@ Bitte beachten Sie die Fachinformation für Sicherheitsinformationen.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66694 | Hemlibra 30mg/1ml, Injektionslösung (+5 weitere Bezeichnungen) | Biotechnologika | Hämophilie A | Gültig |
+| 66694 | Hemlibra 30mg/1ml, Injektionslösung (+5 weitere Bezeichnungen) | Biotechnologikum | Hämophilie A | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

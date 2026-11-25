@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00359
 monitor_inn: "Sulfadiazine"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sulfadiazinum Argenticum: vorhergesagte neue Indikation Pneumocystose (pneumocystosis) (Evidenzstufe L5). Ursprüngliche Indikation: Antiseptische Wundcreme"
 ---
 
@@ -98,7 +98,7 @@ Keine der Publikationen untersucht Silbersulfadiazin bei Pneumocystose. Die Ausw
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 38607 | Flammazine, Crème | Synthetika | Antiseptische Wundcreme | Gültig |
+| 38607 | Flammazine, Crème | Synthetikum | Antiseptische Wundcreme | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

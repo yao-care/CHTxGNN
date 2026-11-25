@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00136
 monitor_inn: "Calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Calcitriolum: vorhergesagte neue Indikation Obsoletes Vitamin-D-Mangel-Syndrom (obsolete vitamin D deficiency) (Evidenzstufe L5)."
 ---
 
@@ -67,10 +67,10 @@ Belastbare Aussagen zur Wirksamkeit sind auf dieser Grundlage nicht möglich, da
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 41728 | Rocaltrol 0,25 ug, Kapseln (+1 weitere Bezeichnung) | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
-| 55950 | Calcitriol Salmon Pharma 0,25 ug, Kapseln (+1 weitere Bezeichnung) | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
-| 68504 | Calcitriol Fairmed 0.25 mcg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
-| 69164 | Calcitriol Devatis 0,25 μg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
+| 41728 | Rocaltrol 0,25 ug, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
+| 55950 | Calcitriol Salmon Pharma 0,25 ug, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
+| 68504 | Calcitriol Fairmed 0.25 mcg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
+| 69164 | Calcitriol Devatis 0,25 μg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Renale Osteodystrophie, Hypoparathyreoidismus, Rachitis, postmenopausale Osteoporose | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

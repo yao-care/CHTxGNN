@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sacituzumab Govitecan: vorhergesagte neue Indikation medikamenteninduzierte Osteoporose (drug-induced osteoporosis) (Evidenzstufe L5). Ursprüngliche Indikation: Mammakarzinom"
 ---
 
@@ -72,7 +72,7 @@ Ein plausibler therapeutischer Zusammenhang mit Knochenschwund ist nicht erkennb
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 68179 | TRODELVY 180 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… | Biotechnologika | Mammakarzinom | Gültig |
+| 68179 | TRODELVY 180 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… | Biotechnologikum | Mammakarzinom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

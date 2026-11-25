@@ -73,12 +73,12 @@ Der benigne paroxysmale Torticollis des Säuglingsalters ist eine selbstlimitier
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57596 | Valdoxan 25 mg, comprimés pelliculés | Synthetika | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
-| 67423 | Agomelatin Spirig HC 25 mg, Filmtabletten | Synthetika | Antidepressivum | Gültig |
-| 67631 | Agomelatin-Servier 25 mg, comprimé pelliculé | Synthetika | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
-| 67666 | Agomelatin Zentiva 25 mg, Filmtabletten | Synthetika | Antidepressivum | Gültig |
+| 57596 | Valdoxan 25 mg, comprimés pelliculés | Synthetikum | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
+| 67423 | Agomelatin Spirig HC 25 mg, Filmtabletten | Synthetikum | Antidepressivum | Gültig |
+| 67631 | Agomelatin-Servier 25 mg, comprimé pelliculé | Synthetikum | Traitement des épisodes dépressifs chez l'adulte, Traitement du trouble de l'anxiété généralisée chez l'adulte | Gültig |
+| 67666 | Agomelatin Zentiva 25 mg, Filmtabletten | Synthetikum | Antidepressivum | Gültig |
 | 70461 | Valdoxan 25 mg, Filmtabletten | Synthetikum | Behandlung von depressiven Episoden Erwachsener, Behandlung der generalisierten Angststörung (GAS) Erwachsener | Gültig |
-| 67502 | Agomelatin-Mepha 25 mg, Filmtabletten | Synthetika | Antidepressivum | Erloschen |
+| 67502 | Agomelatin-Mepha 25 mg, Filmtabletten | Synthetikum | Antidepressivum | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

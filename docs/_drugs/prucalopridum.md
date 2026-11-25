@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06480
 monitor_inn: "Prucalopride"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Prucalopridum: vorhergesagte neue Indikation Hypoalphalipoproteinämie (hypoalphalipoproteinemia) (Evidenzstufe L5). Ursprüngliche Indikation: idiopathische chronische Obstipation bei Erwachsenen…"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 59304 | Resolor 1 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | idiopathische chronische Obstipation bei Erwachsenen, bei welchen die bisherige Therapie mit diätetischen Mas… | Gültig |
-| 69877 | Prucaloprid Spirig HC 1 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Idiopathische chronische Obstipation bei Erwachsenen, bei welchen die bisherige Therapie mit diätetischen Mas… | Gültig |
+| 59304 | Resolor 1 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | idiopathische chronische Obstipation bei Erwachsenen, bei welchen die bisherige Therapie mit diätetischen Mas… | Gültig |
+| 69877 | Prucaloprid Spirig HC 1 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Idiopathische chronische Obstipation bei Erwachsenen, bei welchen die bisherige Therapie mit diätetischen Mas… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

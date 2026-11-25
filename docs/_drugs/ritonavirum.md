@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00503
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ritonavirum: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -91,7 +91,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 60090 | Norvir, Filmtabletten | Synthetika | HIV-Infektionen | Erloschen |
+| 60090 | Norvir, Filmtabletten | Synthetikum | HIV-Infektionen | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

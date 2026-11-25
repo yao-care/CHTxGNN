@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 63139 | Mozobil 20mg/mL, solution injectable | Synthetika | Mobilisation des cellules souches hématopoïétiques | Gültig |
+| 63139 | Mozobil 20mg/mL, solution injectable | Synthetikum | Mobilisation des cellules souches hématopoïétiques | Gültig |
 | 70674 | Plerixafor Provectis 24 mg/1.2 ml, Injektionslösung | Synthetikum | Mobilisierung von Blutstammzellen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

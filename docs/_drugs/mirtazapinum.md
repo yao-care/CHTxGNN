@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00370
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Mirtazapinum: vorhergesagte neue Indikation Ohdo-Syndrom und Varianten (Ohdo syndrome and variants) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -75,10 +75,10 @@ Der hohe Vorhersagewert ist deshalb rein rechnerisch und nicht biologisch unterm
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61435 | Mirtazapin Sandoz eco 15 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
-| 61460 | Mirtazapin-Mepha Teva 15 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antidepressivum | Gültig |
-| 61508 | Mirtazapin Zentiva 30 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
-| 62388 | Mirtazapin Sandoz 30, Filmtabletten | Synthetika | Antidepressivum | Erloschen |
+| 61435 | Mirtazapin Sandoz eco 15 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Antidepressivum | Gültig |
+| 61460 | Mirtazapin-Mepha Teva 15 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antidepressivum | Gültig |
+| 61508 | Mirtazapin Zentiva 30 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antidepressivum | Gültig |
+| 62388 | Mirtazapin Sandoz 30, Filmtabletten | Synthetikum | Antidepressivum | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

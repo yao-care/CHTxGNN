@@ -85,9 +85,9 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62126 | Jakavi 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
-| 69443 | Opzelura 15 mg/g, crème | Synthetika | Vitiligo non-segmentaire avec atteinte faciale | Gültig |
-| 69722 | Jakavi 5 mg/ml, Lösung zum Einnehmen | Synthetika | akute Graft-versus-Host-Krankheit | Gültig |
+| 62126 | Jakavi 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
+| 69443 | Opzelura 15 mg/g, crème | Synthetikum | Vitiligo non-segmentaire avec atteinte faciale | Gültig |
+| 69722 | Jakavi 5 mg/ml, Lösung zum Einnehmen | Synthetikum | akute Graft-versus-Host-Krankheit | Gültig |
 | 70478 | Ruxolitinib Devatis 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
 | 70513 | Ruxolitinib Spirig HC 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |
 | 70733 | Ruxolitinib Sandoz 5 mg, Tabletten | Synthetikum | Myelofibrose, Polycythaemia vera, akute Graft-versus-Host-Krankheit | Gültig |

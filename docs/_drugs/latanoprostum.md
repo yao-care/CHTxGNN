@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00654
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Latanoprostum: vorhergesagte neue Indikation Viszerale Kalziphylaxie (visceral calciphylaxis) (Evidenzstufe L5). Ursprüngliche Indikation: Glaukom"
 ---
 
@@ -89,14 +89,14 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53675 | Xalatan, Augentropfen | Synthetika | Glaukom | Gültig |
-| 60612 | Latanoprost-Mepha, Augentropfen | Synthetika | Glaukom | Gültig |
-| 61544 | Latanoprost Viatris, Augentropfen | Synthetika | Glaukom | Gültig |
-| 62295 | Latano-Vision, Augentropfen | Synthetika | Glaukom | Gültig |
-| 62558 | Monoprost, collyre en solution en récipient unidose | Synthetika | Glaucome | Gültig |
-| 69231 | Catiolanze, Emulsion ophtalmique en gouttes en récipient unidose | Synthetika | glaucome | Gültig |
-| 69656 | Latazed 50 ug/ml, collyre en solution | Synthetika | le glaucome | Gültig |
-| 69723 | Latano-Vision SDU 50 μg/ml, Augentropfen, Lösung im Einzeldosisbehält… | Synthetika | Glaukom | Gültig |
+| 53675 | Xalatan, Augentropfen | Synthetikum | Glaukom | Gültig |
+| 60612 | Latanoprost-Mepha, Augentropfen | Synthetikum | Glaukom | Gültig |
+| 61544 | Latanoprost Viatris, Augentropfen | Synthetikum | Glaukom | Gültig |
+| 62295 | Latano-Vision, Augentropfen | Synthetikum | Glaukom | Gültig |
+| 62558 | Monoprost, collyre en solution en récipient unidose | Synthetikum | Glaucome | Gültig |
+| 69231 | Catiolanze, Emulsion ophtalmique en gouttes en récipient unidose | Synthetikum | glaucome | Gültig |
+| 69656 | Latazed 50 ug/ml, collyre en solution | Synthetikum | le glaucome | Gültig |
+| 69723 | Latano-Vision SDU 50 μg/ml, Augentropfen, Lösung im Einzeldosisbehält… | Synthetikum | Glaukom | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

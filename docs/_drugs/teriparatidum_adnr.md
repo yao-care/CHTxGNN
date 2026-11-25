@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06285
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Teriparatidum Adnr: vorhergesagte neue Indikation Zwölffingerdarmgeschwür (duodenal ulcer (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Postmenopausale Osteoporose bei Frauen"
 ---
 
@@ -87,12 +87,12 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56007 | Forsteo 250 μg/mL, solution injectable en stylo prérempli | Biotechnologika | Femmes présentant une ostéoporose postménopausique; hommes présentant une ostéoporose primaire ou due à un hy… | Gültig |
-| 66102 | Teriparatid-Mepha, Injektionslösung im Fertigpen | Synthetika | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
-| 66818 | Movymia 250 μg/mL, Injektionslösung | Biotechnologika | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
-| 66820 | Terrosa 250 μg/mL, Injektionslösung | Biotechnologika | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
-| 68534 | Sondelbay 20 mcg/80 mcl, Injektionslösung in einem Fertiginjektor | Biotechnologika | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern; Glukokortikoid-indu… | Gültig |
-| 70481 | Forsteo 250 µg/ml, Injektionslösung im Fertigpen | Biotechnologika | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
+| 56007 | Forsteo 250 μg/mL, solution injectable en stylo prérempli | Biotechnologikum | Femmes présentant une ostéoporose postménopausique; hommes présentant une ostéoporose primaire ou due à un hy… | Gültig |
+| 66102 | Teriparatid-Mepha, Injektionslösung im Fertigpen | Synthetikum | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
+| 66818 | Movymia 250 μg/mL, Injektionslösung | Biotechnologikum | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
+| 66820 | Terrosa 250 μg/mL, Injektionslösung | Biotechnologikum | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
+| 68534 | Sondelbay 20 mcg/80 mcl, Injektionslösung in einem Fertiginjektor | Biotechnologikum | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern; Glukokortikoid-indu… | Gültig |
+| 70481 | Forsteo 250 µg/ml, Injektionslösung im Fertigpen | Biotechnologikum | Postmenopausale Osteoporose bei Frauen; primäre und hypogonadale Osteoporose bei Männern. Glukokortikoid-indu… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

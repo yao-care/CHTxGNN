@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "elosulfase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
 description: "Elosulfase Alfa: vorhergesagte neue Indikation Scheie-Syndrom (Scheie syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Mucopolysaccharidose Typ IVA"
@@ -86,7 +86,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65370 | Vimizim 5mg/5ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Behandlung der Mucopolysaccharidose Typ IVA | Gültig |
+| 65370 | Vimizim 5mg/5ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Behandlung der Mucopolysaccharidose Typ IVA | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

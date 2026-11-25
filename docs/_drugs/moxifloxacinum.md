@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00218
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Moxifloxacinum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -87,14 +87,14 @@ Mindestens 8 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55213 | Avalox, Filmtabletten | Synthetika | Infektionskrankheiten | Gültig |
-| 57349 | Vigamox, Augentropfen | Synthetika | Bakterielle Infektionen des vorderen Augenabschnittes | Gültig |
-| 58257 | Avalox, Infusionslösung | Synthetika | Infektionskrankheiten | Gültig |
-| 62659 | Moxifloxacine Rivopharm, compresse rivestite con film | Synthetika | malattie infettive | Gültig |
-| 62947 | Moxifloxacin-Mepha, Filmtabletten | Synthetika | Infektionskrankheiten | Gültig |
-| 63183 | Moxifloxacin Sandoz 400, Filmtabletten | Synthetika | Infektionskrankheiten | Gültig |
-| 65383 | Moxifloxacin Spirig HC 400mg, Filmtabletten | Synthetika | Infektionskrankheiten | Gültig |
-| 66490 | Moxifloxacin Labatec, collyre en solution | Synthetika | Infections bactériennes du segment antérieur de l‘oeil | Gültig |
+| 55213 | Avalox, Filmtabletten | Synthetikum | Infektionskrankheiten | Gültig |
+| 57349 | Vigamox, Augentropfen | Synthetikum | Bakterielle Infektionen des vorderen Augenabschnittes | Gültig |
+| 58257 | Avalox, Infusionslösung | Synthetikum | Infektionskrankheiten | Gültig |
+| 62659 | Moxifloxacine Rivopharm, compresse rivestite con film | Synthetikum | malattie infettive | Gültig |
+| 62947 | Moxifloxacin-Mepha, Filmtabletten | Synthetikum | Infektionskrankheiten | Gültig |
+| 63183 | Moxifloxacin Sandoz 400, Filmtabletten | Synthetikum | Infektionskrankheiten | Gültig |
+| 65383 | Moxifloxacin Spirig HC 400mg, Filmtabletten | Synthetikum | Infektionskrankheiten | Gültig |
+| 66490 | Moxifloxacin Labatec, collyre en solution | Synthetikum | Infections bactériennes du segment antérieur de l‘oeil | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01119
 monitor_inn: "Diazoxide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Diazoxidum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: Hypoglykämie"
 ---
 
@@ -73,7 +73,7 @@ Ein hoher Vorhersagewert allein ersetzt keine klinischen Daten. Eine systemische
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 39081 | Proglicem, Kapseln | Synthetika | Hypoglykämie | Gültig |
+| 39081 | Proglicem, Kapseln | Synthetikum | Hypoglykämie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

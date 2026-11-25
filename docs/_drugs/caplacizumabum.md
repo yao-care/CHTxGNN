@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06081
 monitor_inn: "Caplacizumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "hemophilia", "platelet-type bleeding disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Caplacizumabum: vorhergesagte neue Indikation Primäre Freisetzungsstörung der Thrombozyten (primary release disorder of platelets) (Evidenzstufe L5)."
 ---
 
@@ -75,7 +75,7 @@ Zusätzlich könnte die Hemmung der vWF-abhängigen Anheftung die bereits besteh
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66792 | Cablivi 10mg, poudre et solvent pour solution injectable | Biotechnologika | Traitement d'un épisode de purpura thrombotique thrombocytopénique acquis (PTTa) | Gültig |
+| 66792 | Cablivi 10mg, poudre et solvent pour solution injectable | Biotechnologikum | Traitement d'un épisode de purpura thrombotique thrombocytopénique acquis (PTTa) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

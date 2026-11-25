@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Camphor: vorhergesagte neue Indikation Migräne (migraine disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens b…"
 monitor_inn: "camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -91,7 +91,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66762 | Korolind, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens bei Herz-Kreislauf-Störungen | Gültig |
+| 66762 | Korolind, Tropfen zum Einnehmen | Homöopathisches Arzneimittel | Gemäss homöopathischem Arzneimittelbild zur Besserung des Befindens bei Herz-Kreislauf-Störungen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

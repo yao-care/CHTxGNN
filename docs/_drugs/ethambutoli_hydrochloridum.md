@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00330
 monitor_inn: "Ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ethambutoli Hydrochloridum: vorhergesagte neue Indikation Epiglottitis (Evidenzstufe L5). Ursprüngliche Indikation: Tuberculostatique"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 33153 | Myambutol 100mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Tuberculostatique | Gültig |
+| 33153 | Myambutol 100mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetikum | Tuberculostatique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00104
 monitor_inn: "Octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Octreotidum: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5). Ursprüngliche Indikation: Somatostatin-Analogon"
 ---
 
@@ -75,11 +75,11 @@ Die vulväre invertierte follikuläre Keratose ist eine seltene, gutartige Verä
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49137 | Sandostatin 0,05 mg/mL, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon | Gültig |
-| 53161 | Sandostatin LAR 10 mg Fertigspritzen, Injektionspräparat (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon | Gültig |
-| 63241 | Octreotid Labatec 0,05 mg/mL, Solution pour injection (+2 weitere Bezeichnungen) | Synthetika | Analoque de somatostatine | Gültig |
-| 65110 | Octreotid Labatec 0.2 mg/ml, Solution pour injection | Synthetika | Analoque de somatostatine | Gültig |
-| 67154 | Octreotid-Mepha LA 10 mg, Pulver und Lösungsmittel zur Herstellung ei… (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon | Gültig |
+| 49137 | Sandostatin 0,05 mg/mL, Injektionslösung (+2 weitere Bezeichnungen) | Synthetikum | Somatostatin-Analogon | Gültig |
+| 53161 | Sandostatin LAR 10 mg Fertigspritzen, Injektionspräparat (+2 weitere Bezeichnungen) | Synthetikum | Somatostatin-Analogon | Gültig |
+| 63241 | Octreotid Labatec 0,05 mg/mL, Solution pour injection (+2 weitere Bezeichnungen) | Synthetikum | Analoque de somatostatine | Gültig |
+| 65110 | Octreotid Labatec 0.2 mg/ml, Solution pour injection | Synthetikum | Analoque de somatostatine | Gültig |
+| 67154 | Octreotid-Mepha LA 10 mg, Pulver und Lösungsmittel zur Herstellung ei… (+2 weitere Bezeichnungen) | Synthetikum | Somatostatin-Analogon | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

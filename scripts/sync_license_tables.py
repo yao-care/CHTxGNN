@@ -10,7 +10,7 @@ Swissmedic 核准包裝，一張許可可有多個包裝與劑量）產生，每
   | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
   一張許可一列（同一許可號的多個包裝取第一筆，跟 reviewer._local_regulatory 的去重一樣）；同一許可有其他品名（劑量）時
   品名後加「(+N weitere Bezeichnung[en])」。舊表的「Darreichungsform」欄放的其實是 Swissmedic 的 Heilmittelcode
-  （Synthetika、Biotechnologika…），照實改名。
+  （Synthetika、Biotechnologika…），照實改名；2026-11-25 起統一用新清單的單數寫法（HMC_SINGULAR）。
   狀態欄＝事實層（reviewer._local_regulatory 的規則：license_status、狀態字、有效期限已過→Erloschen，其餘 Gültig）。
   排序：有效在前，同狀態依許可號；最多 MAX_ROWS 列。證據包只收了部分包裝（事實層 partial）時加 PARTIAL 句。
   表後一行來源句（SOURCE）；本藥沒有紀錄時整個區塊只有 NONE_LINE 一行。
@@ -45,6 +45,35 @@ SOURCE = ("Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimi
 PARTIAL = "Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein."
 NONE_LINE = "In den ausgewerteten Swissmedic-Daten ist für diesen Wirkstoff keine Zulassung erfasst."
 MAX_ROWS = 20
+# 2026-11-25 第六輪（用戶決定）：Kategorie 欄統一用 Swissmedic 新清單的單數寫法。2026-03 的包裝清單（data/raw/ch_fda_drugs.json）
+# 是複數（Synthetika、Biotechnologika…），2026-10 起的現行清單是單數（Synthetikum、Biotechnologikum…），補收的紀錄照新清單原文，
+# 同一張表混著兩種寫法。對照表依同一許可號在兩份清單的 Heilmittelcode 逐號比對得出（2026-03 清單 vs Stand 31.10.2026，
+# 每一組都是同一個類別換寫法；個別許可在新清單改了類別的（例 Synthetika→Nicht-biologisches komplexes AM）不在這裡推定，照紀錄原文）。
+# 只換表格的 Kategorie 欄；證據包紀錄原文不改；不在表上的寫法照原文。正文裡引用的類別字不動。
+HMC_SINGULAR = {
+    "Synthetika": "Synthetikum",
+    "Biotechnologika": "Biotechnologikum",
+    "Homöopathische Arzneimittel": "Homöopathisches Arzneimittel",
+    "Anthroposophische Arzneimittel": "Anthroposophisches Arzneimittel",
+    "Tibetische Arzneimittel": "Tibetisches Arzneimittel",
+    "Ayurvedische Arzneimittel": "Ayurvedisches Arzneimittel",
+    "Andere Komplementärarzneimittel": "Anderes Komplementärarzneimittel",
+    "Allergen: Diagnostikum": "Allergen-Diagnostikum",
+    "Allergen: Therapeutikum": "Allergen-Therapeutikum",
+    "Blutprodukte": "Blutprodukt",
+    "Impfstoffe": "Impfstoff",
+    "Radiopharmazeutika": "Radiopharmazeutikum",
+    "Antidota": "Antidotum",
+    "Bonbons": "Arzneibonbon",
+    "Transplantat: Gentherapieprodukt": "Gentherapieprodukt",
+    "Transplantat: Zelltherapieprodukt": "Zelltherapieprodukt",
+    "Transplantat: Gewebeprodukt": "Gewebeprodukt",
+}
+
+
+def hmc(v):
+    t = re.sub(r"\s+", " ", str(v or "")).strip()
+    return HMC_SINGULAR.get(t, t)
 ST_LABEL = {"valid": "Gültig", "cancelled": "Erloschen"}
 _CANCELLED = re.compile(r"cancel|revok|withdraw|erlosch|widerruf|註銷|撤銷|取消", re.I)  # 只在狀態欄有字時用（CH 的 status 都是空字串）
 # 每週排程 3b 的自我檢查（license_refresh）：改到的行除了表格列只能是這些（license_adapter.PAGE_NOTE 用同一份）
@@ -93,7 +122,7 @@ def rows_of(tf, fc=None):
         if more:
             nm += f" (+{more} weitere Bezeichnung{'en' if more > 1 else ''})"
         row = (int(k) if k.isdigit() else 10 ** 9, k,
-               f"| {k} | {nm} | {cell(r.get('dosage_form'), 40)} | {cell(r.get('indication'), 110)} | {ST_LABEL.get(st, st)} |")
+               f"| {k} | {nm} | {cell(hmc(r.get('dosage_form')), 40)} | {cell(r.get('indication'), 110)} | {ST_LABEL.get(st, st)} |")
         (valid if st == "valid" else other).append(row)
     rows = [x[2] for x in sorted(valid)] + [x[2] for x in sorted(other)]
     listed = sum(int(x.get("packages") or 0) for x in tf.get("records_not_stored") or [] if isinstance(x, dict) and x.get("license_listed"))

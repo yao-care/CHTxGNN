@@ -73,7 +73,7 @@ Für die Gingivafibromatose, eine erbliche oder arzneimittelbedingte Zahnfleisch
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66231 | Keytruda 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Melanom, Nicht-kleinzelliges Lungenkarzinom, Malignes Pleuramesotheliom, Kopf- und Halskarzinom, Klassisches… | Gültig |
+| 66231 | Keytruda 100 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Melanom, Nicht-kleinzelliges Lungenkarzinom, Malignes Pleuramesotheliom, Kopf- und Halskarzinom, Klassisches… | Gültig |
 | 70253 | Keytruda subkutan 395 mg/2.4 ml, Injektionslösung (+1 weitere Bezeichnung) | Biotechnologikum | Melanom, Nicht-kleinzelliges Lungenkarzinom, Malignes Pleuramesotheliom, Kopf- und Halskarzinom, Klassisches… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

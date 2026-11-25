@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01211
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clarithromycinum: vorhergesagte neue Indikation Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -87,10 +87,10 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57129 | Clarithromycin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 57130 | Clarithromycin-Mepha 250, Lactab (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 57770 | Clarithromycin Spirig HC 125, Granulat zur Herstellung einer Suspensi… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 67169 | Clarithromycin Spirig HC 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 57129 | Clarithromycin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 57130 | Clarithromycin-Mepha 250, Lactab (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 57770 | Clarithromycin Spirig HC 125, Granulat zur Herstellung einer Suspensi… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 67169 | Clarithromycin Spirig HC 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

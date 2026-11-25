@@ -88,12 +88,12 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57664 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Durchstech… | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
-| 63277 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Fertigspri… | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, durch Makulaödem in… | Gültig |
-| 68690 | Byooviz 10 mg / mL, Injektionslösung in Durchstechflasche | Biotechnologika | Behandlung der exsudativen (feuchten) altersbezogenen Makuladegeneration (feuchte AMD), eines Visusverlustes… | Gültig |
-| 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologika | exsudative altersbezogene Makuladegeneration; Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
-| 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologika | Exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Visusverlust durch… | Gültig |
-| 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologika | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+| 57664 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Durchstech… | Biotechnologikum | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+| 63277 | Lucentis, Injektionslösung zur intravitrealen Anwendung in Fertigspri… | Biotechnologikum | exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, durch Makulaödem in… | Gültig |
+| 68690 | Byooviz 10 mg / mL, Injektionslösung in Durchstechflasche | Biotechnologikum | Behandlung der exsudativen (feuchten) altersbezogenen Makuladegeneration (feuchte AMD), eines Visusverlustes… | Gültig |
+| 69068 | Ranivisio 10 mg/mL, Injektionslösung in Durchstechflasche | Biotechnologikum | exsudative altersbezogene Makuladegeneration; Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
+| 69578 | Ximluci 10 mg/ml, Injektionslösung | Biotechnologikum | Exsudative altersbezogene Makuladegeneration, Visusverlust durch diabetisches Makulaödem, Visusverlust durch… | Gültig |
+| 70412 | Ranivisio 10 mg/ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
 | 70522 | Susvimo 39,5 mg/0,395 ml, Injektionslösung in einer Durchstechflasche | Biotechnologikum | Behandlung der neovaskulären (feuchten) altersabhängigen Makuladegeneration (AMD) | Gültig |
 | 70708 | Byooviz 10 mg / ml, Injektionslösung in Fertigspritze | Biotechnologikum | exsudative altersbezogene Makuladegeneration, Visusverlust duch diabetisches Makulaödem, durch Makulaödem inf… | Gültig |
 

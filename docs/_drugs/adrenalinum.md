@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00668
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Adrenalinum: vorhergesagte neue Indikation Obstruktive Lungenerkrankung (obstructive lung disease) (Evidenzstufe L5). Ursprüngliche Indikation: Simpatomimetico"
 ---
 
@@ -109,12 +109,12 @@ Die Befunde bei Bronchiolitis sind gemischt. Netzwerk-Metaanalysen und Cochrane-
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53836 | Epipen, Injektionslösung im Fertiginjektor (+1 weitere Bezeichnung) | Synthetika | Notfallmässige Behandlung von Allergien und Anaphylaxien | Gültig |
-| 56472 | Adrenalin Bichsel 0,1 mg/ml, Injektionslösung (i.v.) (+1 weitere Bezeichnung) | Synthetika | Sympathomimetikum | Gültig |
-| 56514 | Adrenalin Amino 0,5 mg/ml, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Sympathometikum | Gültig |
-| 56551 | Adrenalin Sintetica 1,0 mg/ml, soluzione iniettabile / concentrato pe… | Synthetika | Simpatomimetico | Gültig |
-| 61315 | Jext 150 Mikrogramm, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Synthetika | Notfallmässige Behandlung von Allergien und Anaphylaxien | Gültig |
-| 66396 | Adrenalin Aguettant 0,1 mg/ml, solution injectable en seringue prérem… (+1 weitere Bezeichnung) | Synthetika | Sympathomimétique, vasoconstricteur, stimulant cardiaque | Gültig |
+| 53836 | Epipen, Injektionslösung im Fertiginjektor (+1 weitere Bezeichnung) | Synthetikum | Notfallmässige Behandlung von Allergien und Anaphylaxien | Gültig |
+| 56472 | Adrenalin Bichsel 0,1 mg/ml, Injektionslösung (i.v.) (+1 weitere Bezeichnung) | Synthetikum | Sympathomimetikum | Gültig |
+| 56514 | Adrenalin Amino 0,5 mg/ml, Injektionslösung (+1 weitere Bezeichnung) | Synthetikum | Sympathometikum | Gültig |
+| 56551 | Adrenalin Sintetica 1,0 mg/ml, soluzione iniettabile / concentrato pe… | Synthetikum | Simpatomimetico | Gültig |
+| 61315 | Jext 150 Mikrogramm, Injektionslösung im Fertigpen (+1 weitere Bezeichnung) | Synthetikum | Notfallmässige Behandlung von Allergien und Anaphylaxien | Gültig |
+| 66396 | Adrenalin Aguettant 0,1 mg/ml, solution injectable en seringue prérem… (+1 weitere Bezeichnung) | Synthetikum | Sympathomimétique, vasoconstricteur, stimulant cardiaque | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

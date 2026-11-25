@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00736
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Esomeprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Protonenpumpenblocker"
 ---
 
@@ -87,9 +87,9 @@ Die Liste der Zulassungen ist möglicherweise unvollständig (mindestens 3 Zulas
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 60576 | Esomep i.v., Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Protonenpumpenblocker | Gültig |
-| 62581 | Esomeprazol-Mepha 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenblocker | Gültig |
-| 66321 | Esoprax 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenblocker | Gültig |
+| 60576 | Esomep i.v., Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetikum | Protonenpumpenblocker | Gültig |
+| 62581 | Esomeprazol-Mepha 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetikum | Protonenpumpenblocker | Gültig |
+| 66321 | Esoprax 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetikum | Protonenpumpenblocker | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00438
 monitor_inn: "Ceftazidime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ceftazidimum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -71,7 +71,7 @@ Hyperamylasämie ist ein Laborbefund (erhöhte Amylase im Blut) und keine Infekt
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 46050 | Fortam 500 mg, Pulver zur Herstellung einer Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 46050 | Fortam 500 mg, Pulver zur Herstellung einer Injektionslösung (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

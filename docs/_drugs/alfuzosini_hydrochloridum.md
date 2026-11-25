@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00346
 monitor_inn: "Alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alfuzosini Hydrochloridum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -71,13 +71,13 @@ Ein nachvollziehbarer Zusammenhang zur vorhergesagten Erkrankung ist nicht erken
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50205 | Xatral 2,5 mg, comprimés pelliculés | Synthetika | hyperplasie bénigne de la prostate | Gültig |
-| 55188 | Xatral uno, comprimés retard | Synthetika | hyperplasie bénigne de la prostate | Gültig |
-| 57442 | Alfuzosin Sandoz 10 mg, Retardtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
-| 57846 | Alfuzosine Uno Zentiva 10 mg, Retardtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
-| 59415 | Alfuzosin axapharm, Retardtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
-| 68138 | Alfuzosin-Mepha retard, Retardtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
-| 70609 | Alfuzosin Spirig HC retard 10 mg, Retardtabletten | Synthetika | Benigne Prostatahyperplasie | Gültig |
+| 50205 | Xatral 2,5 mg, comprimés pelliculés | Synthetikum | hyperplasie bénigne de la prostate | Gültig |
+| 55188 | Xatral uno, comprimés retard | Synthetikum | hyperplasie bénigne de la prostate | Gültig |
+| 57442 | Alfuzosin Sandoz 10 mg, Retardtabletten | Synthetikum | Benigne Prostatahyperplasie | Gültig |
+| 57846 | Alfuzosine Uno Zentiva 10 mg, Retardtabletten | Synthetikum | Benigne Prostatahyperplasie | Gültig |
+| 59415 | Alfuzosin axapharm, Retardtabletten | Synthetikum | Benigne Prostatahyperplasie | Gültig |
+| 68138 | Alfuzosin-Mepha retard, Retardtabletten | Synthetikum | Benigne Prostatahyperplasie | Gültig |
+| 70609 | Alfuzosin Spirig HC retard 10 mg, Retardtabletten | Synthetikum | Benigne Prostatahyperplasie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

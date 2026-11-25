@@ -82,9 +82,9 @@ Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis. Die einzige gefunde
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65673 | Entresto 50 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
-| 69255 | Entresto 6 mg/6 mg, filmüberzogenes Granulat (+1 weitere Bezeichnung) | Synthetika | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
-| 69813 | Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion. | Gültig |
+| 65673 | Entresto 50 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
+| 69255 | Entresto 6 mg/6 mg, filmüberzogenes Granulat (+1 weitere Bezeichnung) | Synthetikum | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
+| 69813 | Sacubitril-Valsartan-Mepha 24 mg/26 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Behandlung der chronischen Herzinsuffizienz mit reduzierter Ejektionsfraktion. | Gültig |
 | 70754 | Sacubitril Valsartan Medius 24 mg/26 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
 | 70879 | Sacubitril / Valsartan Devatis 24 mg/26mg, Filmtabletten | Synthetikum | Reduktion des Risikos der kardiovaskulären Mortalität und Morbidität bei systolischer Herzinsuffizienz | Gültig |
 

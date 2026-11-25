@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00419
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Miglustatum: vorhergesagte neue Indikation Autosomales Ichthyose-Syndrom mit tödlichem Verlauf (autosomal ichthyosis syndrome with fatal disease course) (Evidenzstufe L5)."
 ---
 
@@ -87,9 +87,9 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56898 | Zavesca, Kapseln | Synthetika | Behandlung des Morbus Gaucher Typ 1, Behandlung progressiver neurologischer Manifestationen bei erwachsenen u… | Gültig |
-| 67633 | Miglustat Dipharma 100 mg, capsule | Synthetika | Gaucher di tipo 1, Niemann-Pick di tipo C | Gültig |
-| 67806 | Opfolda 65 mg, Hartkapseln | Synthetika | Behandlung der Glykogenspeicherkrankheit Typ II (Morbus Pompe) | Gültig |
+| 56898 | Zavesca, Kapseln | Synthetikum | Behandlung des Morbus Gaucher Typ 1, Behandlung progressiver neurologischer Manifestationen bei erwachsenen u… | Gültig |
+| 67633 | Miglustat Dipharma 100 mg, capsule | Synthetikum | Gaucher di tipo 1, Niemann-Pick di tipo C | Gültig |
+| 67806 | Opfolda 65 mg, Hartkapseln | Synthetikum | Behandlung der Glykogenspeicherkrankheit Typ II (Morbus Pompe) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

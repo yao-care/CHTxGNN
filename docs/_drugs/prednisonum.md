@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00635
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Prednisonum: vorhergesagte neue Indikation Alopecia areata (Evidenzstufe L5). Ursprüngliche Indikation: Glukokortikosteroid-Therapie"
 ---
 
@@ -87,10 +87,10 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58761 | Prednison Axapharm 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Glukokortikosteroid-Therapie | Gültig |
-| 60494 | Lodotra 1 mg, Tabletten mit veränderter Wirkstofffreisetzung (+2 weitere Bezeichnungen) | Synthetika | Ergänzende Behandlung zu DMARDs bei mässiger bis schwerer aktiver rheumatoider Arthritis | Gültig |
-| 68119 | Rectodelt, Zäpfchen | Synthetika | Akutbehandlung von Pseudokrupp, Krupp und Exazerbationen bei Asthma/akutem Giemen | Gültig |
-| 69640 | Prednison Galepharm 1 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Glukokortikosteroid-Therapie | Gültig |
+| 58761 | Prednison Axapharm 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Glukokortikosteroid-Therapie | Gültig |
+| 60494 | Lodotra 1 mg, Tabletten mit veränderter Wirkstofffreisetzung (+2 weitere Bezeichnungen) | Synthetikum | Ergänzende Behandlung zu DMARDs bei mässiger bis schwerer aktiver rheumatoider Arthritis | Gültig |
+| 68119 | Rectodelt, Zäpfchen | Synthetikum | Akutbehandlung von Pseudokrupp, Krupp und Exazerbationen bei Asthma/akutem Giemen | Gültig |
+| 69640 | Prednison Galepharm 1 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Glukokortikosteroid-Therapie | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

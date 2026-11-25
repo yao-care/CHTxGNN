@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00656
 monitor_inn: "Trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Trazodonum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -98,10 +98,10 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 46559 | Trittico 50 mg, comprimés (+1 weitere Bezeichnung) | Synthetika | Antidépresseur | Gültig |
-| 57786 | Trittico retard, comprimés | Synthetika | Antidépresseur | Gültig |
-| 66504 | Trazodon Sandoz 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antidepressivum | Gültig |
-| 66656 | Trittico Uno 150 mg, comprimés à libération prolongée (+1 weitere Bezeichnung) | Synthetika | Antidépresseur | Gültig |
+| 46559 | Trittico 50 mg, comprimés (+1 weitere Bezeichnung) | Synthetikum | Antidépresseur | Gültig |
+| 57786 | Trittico retard, comprimés | Synthetikum | Antidépresseur | Gültig |
+| 66504 | Trazodon Sandoz 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Antidepressivum | Gültig |
+| 66656 | Trittico Uno 150 mg, comprimés à libération prolongée (+1 weitere Bezeichnung) | Synthetikum | Antidépresseur | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

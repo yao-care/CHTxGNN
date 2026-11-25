@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00641
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Simvastatinum: vorhergesagte neue Indikation Hirnstamminfarkt (brain stem infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration"
 ---
 
@@ -83,9 +83,9 @@ Dies ist jedoch ein theoretischer Zusammenhang. Für den Hirnstamminfarkt im Spe
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56035 | Simcora 20, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
-| 62612 | Simvastatin-Mepha 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Reduktion der Serumchloresterinkonzentration | Gültig |
-| 49742 | Zocor 20 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Erloschen |
+| 56035 | Simcora 20, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 62612 | Simvastatin-Mepha 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Reduktion der Serumchloresterinkonzentration | Gültig |
+| 49742 | Zocor 20 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

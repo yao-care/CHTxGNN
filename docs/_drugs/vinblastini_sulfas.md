@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00570
 monitor_inn: "Vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vinblastini Sulfas: vorhergesagte neue Indikation Rhabdomyosarcoma (disease) (Evidenzstufe L4). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -95,7 +95,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 27821 | Velbe, Pulver zur Herstellung einer Injektionslösung | Synthetika | Zytostatikum | Gültig |
+| 27821 | Velbe, Pulver zur Herstellung einer Injektionslösung | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

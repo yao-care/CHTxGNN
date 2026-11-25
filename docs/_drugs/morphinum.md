@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00295
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Morphinum: vorhergesagte neue Indikation Myofasziales Schmerzsyndrom (myofascial pain syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Analgesico stupefacente"
 ---
 
@@ -93,10 +93,10 @@ Keine der Publikationen untersucht Morphin direkt beim myofaszialen Schmerzsyndr
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 44246 | MST Continus 30 mg, Tabletten retard (+4 weitere Bezeichnungen) | Synthetika | Analgetikum | Gültig |
-| 51039 | Morphin HCl Sintetica 10 mg/1 ml, soluzione iniettabile (+3 weitere Bezeichnungen) | Synthetika | Analgesico stupefacente | Gültig |
-| 53952 | Sevre-Long 30 mg, Kapseln retard (+2 weitere Bezeichnungen) | Synthetika | Opioides Analgetikum, Substitutionsbehandlung bei Opioidabhängigkeit | Gültig |
-| 56401 | Morphin Sulfate Sintetica 10mg/ml, soluzione iniettabile (+1 weitere Bezeichnung) | Synthetika | Analgesico stupefacente | Gültig |
+| 44246 | MST Continus 30 mg, Tabletten retard (+4 weitere Bezeichnungen) | Synthetikum | Analgetikum | Gültig |
+| 51039 | Morphin HCl Sintetica 10 mg/1 ml, soluzione iniettabile (+3 weitere Bezeichnungen) | Synthetikum | Analgesico stupefacente | Gültig |
+| 53952 | Sevre-Long 30 mg, Kapseln retard (+2 weitere Bezeichnungen) | Synthetikum | Opioides Analgetikum, Substitutionsbehandlung bei Opioidabhängigkeit | Gültig |
+| 56401 | Morphin Sulfate Sintetica 10mg/ml, soluzione iniettabile (+1 weitere Bezeichnung) | Synthetikum | Analgesico stupefacente | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

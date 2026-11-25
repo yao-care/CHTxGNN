@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00451
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levothyroxinum Natricum Anhydricum: vorhergesagte neue Indikation Renale Hypodysplasie/Aplasie (renal hypodysplasia/aplasia) (Evidenzstufe L5). Ursprüngliche Indikation: Hypothyreose"
 ---
 
@@ -71,8 +71,8 @@ Die renale Hypodysplasie/Aplasie ist eine angeborene Fehlbildung, die etwa mit M
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 29812 | Eltroxin-LF, 0.05 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Hypothyreose | Gültig |
-| 57455 | Tirosint 25 ug, capsula molle (+8 weitere Bezeichnungen) | Synthetika | Ipotiroidismo | Gültig |
+| 29812 | Eltroxin-LF, 0.05 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Hypothyreose | Gültig |
+| 57455 | Tirosint 25 ug, capsula molle (+8 weitere Bezeichnungen) | Synthetikum | Ipotiroidismo | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

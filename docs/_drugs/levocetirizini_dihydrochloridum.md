@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB06282
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levocetirizini Dihydrochloridum: vorhergesagte neue Indikation Rheumatoide Arthritis (rheumatoid arthritis) (Evidenzstufe L5). Ursprüngliche Indikation: Antihistaminikum"
 ---
 
@@ -85,13 +85,13 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55754 | Xyzal, comprimés pelliculés | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
-| 56711 | Xyzal, gouttes | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
-| 62519 | Levocetirizin-Mepha, Filmtabletten | Synthetika | Antihistaminikum | Gültig |
-| 62522 | Levocetirizin Sandoz 5mg, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 62920 | Levocetirizin Spirig HC 5 mg, Filmtabletten | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
-| 66261 | Allergo-X, Filmtabletten | Synthetika | Antiallergikum, Antihistaminikum | Gültig |
-| 67795 | Levocet-Mepha Allergie, Filmtablette | Synthetika | Antihistaminikum | Gültig |
+| 55754 | Xyzal, comprimés pelliculés | Synthetikum | Antiallergikum, Antihistaminikum | Gültig |
+| 56711 | Xyzal, gouttes | Synthetikum | Antiallergikum, Antihistaminikum | Gültig |
+| 62519 | Levocetirizin-Mepha, Filmtabletten | Synthetikum | Antihistaminikum | Gültig |
+| 62522 | Levocetirizin Sandoz 5mg, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 62920 | Levocetirizin Spirig HC 5 mg, Filmtabletten | Synthetikum | Antiallergikum, Antihistaminikum | Gültig |
+| 66261 | Allergo-X, Filmtabletten | Synthetikum | Antiallergikum, Antihistaminikum | Gültig |
+| 67795 | Levocet-Mepha Allergie, Filmtablette | Synthetikum | Antihistaminikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

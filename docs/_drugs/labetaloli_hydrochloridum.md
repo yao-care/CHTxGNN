@@ -73,8 +73,8 @@ Ob Labetalol über die reine Blutdrucksenkung hinaus die Nierenfunktion schützt
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 41529 | Trandate, Injektionslösung | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
-| 41530 | Trandate 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 41529 | Trandate, Injektionslösung | Synthetikum | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 41530 | Trandate 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Alpha- und Beta-Rezeptorenblocker | Gültig |
 | 70383 | Labetalol Nardia 5 mg/ml (100 mg per 20 ml), Injektions-/Infusionslös… | Synthetikum | La soluzione iniettabile è indicata quando è necessario ridurre rapidamente la pressione arteriosa in pazient… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

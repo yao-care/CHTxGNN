@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00014
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Goserelinum: vorhergesagte neue Indikation Amenorrhö (amenorrhea (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Prostatakarzinom,Endometriose…"
 ---
 
@@ -98,9 +98,9 @@ Für eine krankhafte Amenorrhö durch vorzeitiges Versagen der Eierstöcke ist e
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48159 | Zoladex SafeSystem, Fertigspritze mit Implantat | Biotechnologika | Prostata-Ca,adj.Ther.Prostata-Ca,Mamma-Ca,adj.Ther.frühes Mamma-Ca,Endometriose,Uterusmyom,Ablatio,Ass.Repro.… | Gültig |
-| 53371 | Zoladex LA SafeSystem, Fertigspritze mit Implantat | Biotechnologika | Prostatakarzinom,Endometriose,Präop.Behand.v.Uterusmyomen anämischer Patientinnen in Komb.mit einer Eisenther… | Gültig |
-| 70547 | Zoladex LA SafeSystem 10,8 mg, Fertigspritze mit Implantat | Biotechnologika | Prostatakarzinom,Endometriose,Präop.Behand.v.Uterusmyomen anämischer Patientinnen in Komb.mit einer Eisenther… | Erloschen |
+| 48159 | Zoladex SafeSystem, Fertigspritze mit Implantat | Biotechnologikum | Prostata-Ca,adj.Ther.Prostata-Ca,Mamma-Ca,adj.Ther.frühes Mamma-Ca,Endometriose,Uterusmyom,Ablatio,Ass.Repro.… | Gültig |
+| 53371 | Zoladex LA SafeSystem, Fertigspritze mit Implantat | Biotechnologikum | Prostatakarzinom,Endometriose,Präop.Behand.v.Uterusmyomen anämischer Patientinnen in Komb.mit einer Eisenther… | Gültig |
+| 70547 | Zoladex LA SafeSystem 10,8 mg, Fertigspritze mit Implantat | Biotechnologikum | Prostatakarzinom,Endometriose,Präop.Behand.v.Uterusmyomen anämischer Patientinnen in Komb.mit einer Eisenther… | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

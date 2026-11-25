@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06168
 monitor_inn: "Canakinumab"
 predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Canakinumabum: vorhergesagte neue Indikation Leberinfarkt (hepatic infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Cryopyrin-assoziierte Periodische Syndrome (CAPS) wie des Muckle-Well…"
 ---
 
@@ -83,8 +83,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66191 | Ilaris, Injektionslösung | Biotechnologika | Cryopyrin-assoziierte Periodische Syndrome (CAPS) wie des Muckle-Wells-Syndroms (MWS), des familiären autoinf… | Gültig |
-| 70040 | Ilaris 150 mg/ml, Injektionslösung in einem Fertigpen | Biotechnologika | Cryopyrin-assoziierte Periodische Syndrome (CAPS) wie des Muckle-Wells-Syndroms (MWS), des familiären autoinf… | Gültig |
+| 66191 | Ilaris, Injektionslösung | Biotechnologikum | Cryopyrin-assoziierte Periodische Syndrome (CAPS) wie des Muckle-Wells-Syndroms (MWS), des familiären autoinf… | Gültig |
+| 70040 | Ilaris 150 mg/ml, Injektionslösung in einem Fertigpen | Biotechnologikum | Cryopyrin-assoziierte Periodische Syndrome (CAPS) wie des Muckle-Wells-Syndroms (MWS), des familiären autoinf… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

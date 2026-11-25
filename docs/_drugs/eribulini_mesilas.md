@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08871
 monitor_inn: "Eribulin"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Eribulini Mesilas: vorhergesagte neue Indikation Autosomal-rezessives familiäres Mittelmeerfieber (autosomal recessive familial Mediterranean fever) (Evidenzstufe L5)."
 ---
 
@@ -101,8 +101,8 @@ Diese Angaben stammen aus allgemeinem Fachwissen zur Substanzklasse und nicht au
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 59489 | Halaven, Injektionslösung | Synthetika | Mammakarzinom, inoperables Liposarkom | Gültig |
-| 69924 | Eribulin Advanz Pharma 0.44 mg/ml, Injektionslösung | Synthetika | Mammakarzinom, inoperables Liposarkom | Gültig |
+| 59489 | Halaven, Injektionslösung | Synthetikum | Mammakarzinom, inoperables Liposarkom | Gültig |
+| 69924 | Eribulin Advanz Pharma 0.44 mg/ml, Injektionslösung | Synthetikum | Mammakarzinom, inoperables Liposarkom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

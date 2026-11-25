@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00366
 monitor_inn: "Doxylamine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Doxylaminum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beruhigungsmittel"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 47735 | Sanalepsi N, Tropfen | Synthetika | Beruhigungsmittel | Gültig |
-| 68867 | Bonjesta 20 mg / 20 mg, Tablette mit veränderter Wirkstofffreisetzung | Synthetika | symptomatischen Behandlung von Übelkeit und Erbrechen während der Schwangerschaft bei Frauen, die nicht auf e… | Gültig |
+| 47735 | Sanalepsi N, Tropfen | Synthetikum | Beruhigungsmittel | Gültig |
+| 68867 | Bonjesta 20 mg / 20 mg, Tablette mit veränderter Wirkstofffreisetzung | Synthetikum | symptomatischen Behandlung von Übelkeit und Erbrechen während der Schwangerschaft bei Frauen, die nicht auf e… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

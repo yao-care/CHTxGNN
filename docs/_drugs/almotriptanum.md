@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00918
 monitor_inn: "Almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Almotriptanum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Akutbehandlung von Migräneanfällen mit oder ohne Aura"
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert allein reicht daher nicht aus, um eine klinische Empfehl
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56895 | Almogran, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 56895 | Almogran, Filmtabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

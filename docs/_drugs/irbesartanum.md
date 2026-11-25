@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01029
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Irbesartanum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antihypertensivum"
 ---
 
@@ -85,11 +85,11 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54250 | Aprovel 150, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Hypertension | Gültig |
-| 59183 | Irbesartan Sandoz 150, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertension | Gültig |
-| 61511 | Irbesartan-Mepha 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antihypertensivum | Gültig |
-| 62280 | Irbesartan Zentiva 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
-| 62410 | Irbesartan Spirig HC 150, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Hypertonie | Gültig |
+| 54250 | Aprovel 150, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetikum | Hypertension | Gültig |
+| 59183 | Irbesartan Sandoz 150, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Hypertension | Gültig |
+| 61511 | Irbesartan-Mepha 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antihypertensivum | Gültig |
+| 62280 | Irbesartan Zentiva 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Hypertonie | Gültig |
+| 62410 | Irbesartan Spirig HC 150, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Hypertonie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

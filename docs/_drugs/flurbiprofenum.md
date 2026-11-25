@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00712
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Flurbiprofenum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
 ---
 
@@ -75,19 +75,19 @@ Ein glaubwürdiger mechanistischer Zusammenhang besteht daher nicht. Der sehr ho
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 40795 | Froben 50 mg, dragées (+1 weitere Bezeichnung) | Synthetika | anti-inflammatoire | Gültig |
-| 58523 | Strepsils Dolo, Lutschtabletten mit Honig/Zitronengeschmack | Synthetika | Schmerzhafte Entzündungen der Rachenschleimhaut | Gültig |
-| 65201 | Strepsils Dolo Orange, Lutschtabletten | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 65577 | Strepsils Dolo Spray, Spray zur Anwendung in der Mundhöhle | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 67471 | Neo-Angin Dolo Spray 8.75 mg, Spray zur Anwendung in der Mundhöhle, L… | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 67880 | Mebucaïne Dolo, Lutschtablette | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 67961 | Neo-Angin Dolo Orange 8.75 mg, Lutschtabletten | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 69044 | Mebucaïne Dolo Spray 8.75 mg, Spray zur Anwendung in der Mundhöhle | Synthetika | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 69181 | Amavita Flurbiprofen 8.75 mg, Lutschtabletten | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 69182 | Coop Vitality Flurbiprofen 8.75 mg, Lutschtabletten | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 69186 | Flurbifelan Dolo 8.75 mg, Lutschtabletten | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 69187 | SUN STORE Flurbiprofen 8.75 mg, Lutschtabletten | Synthetika | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
-| 69518 | Mebucaïne Dolo Honig-Zitrone 8.75 mg, Lutschtabletten | Synthetika | Schmerzhafte Entzündungen der Rachenschleimhaut | Gültig |
+| 40795 | Froben 50 mg, dragées (+1 weitere Bezeichnung) | Synthetikum | anti-inflammatoire | Gültig |
+| 58523 | Strepsils Dolo, Lutschtabletten mit Honig/Zitronengeschmack | Synthetikum | Schmerzhafte Entzündungen der Rachenschleimhaut | Gültig |
+| 65201 | Strepsils Dolo Orange, Lutschtabletten | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 65577 | Strepsils Dolo Spray, Spray zur Anwendung in der Mundhöhle | Synthetikum | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 67471 | Neo-Angin Dolo Spray 8.75 mg, Spray zur Anwendung in der Mundhöhle, L… | Synthetikum | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 67880 | Mebucaïne Dolo, Lutschtablette | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 67961 | Neo-Angin Dolo Orange 8.75 mg, Lutschtabletten | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 69044 | Mebucaïne Dolo Spray 8.75 mg, Spray zur Anwendung in der Mundhöhle | Synthetikum | Kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 69181 | Amavita Flurbiprofen 8.75 mg, Lutschtabletten | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 69182 | Coop Vitality Flurbiprofen 8.75 mg, Lutschtabletten | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 69186 | Flurbifelan Dolo 8.75 mg, Lutschtabletten | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 69187 | SUN STORE Flurbiprofen 8.75 mg, Lutschtabletten | Synthetikum | kurzzeitige symptomatische Behandlung schmerzhafter Entzündungen der Rachenschleimhaut | Gültig |
+| 69518 | Mebucaïne Dolo Honig-Zitrone 8.75 mg, Lutschtabletten | Synthetikum | Schmerzhafte Entzündungen der Rachenschleimhaut | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01586
 monitor_inn: "Ursodeoxycholic acid"
 predicted_indications: ["homozygous familial hypercholesterolemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acidum Ursodeoxycholicum: vorhergesagte neue Indikation Homozygote familiäre Hypercholesterinämie (homozygous familial hypercholesterolemia) (Evidenzstufe L5)."
 ---
 
@@ -71,12 +71,12 @@ Die homozygote familiäre Hypercholesterinämie beruht hauptsächlich auf Defekt
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 41655 | De-ursil 150 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Behandlung von Gallensteinen, Cholangitis | Gültig |
-| 41874 | Ursochol 150 mg, compresse (+1 weitere Bezeichnung) | Synthetika | Trattamento dei calcoli biliari di colesterolo | Gültig |
-| 42782 | Ursofalk, Kapseln | Synthetika | Auflösung von Gallensteinen | Gültig |
-| 44619 | De-ursil RR 450 mg, Hartkapseln, retardiert (+1 weitere Bezeichnung) | Synthetika | Behandlung von Gallensteinen, Cholangitis | Gültig |
-| 54634 | Ursofalk, Suspension | Synthetika | Auflösung von Gallensteinen | Gültig |
-| 60812 | Ursofalk 500 mg, Filmtabletten | Synthetika | Auflösung von Gallensteinen | Gültig |
+| 41655 | De-ursil 150 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Behandlung von Gallensteinen, Cholangitis | Gültig |
+| 41874 | Ursochol 150 mg, compresse (+1 weitere Bezeichnung) | Synthetikum | Trattamento dei calcoli biliari di colesterolo | Gültig |
+| 42782 | Ursofalk, Kapseln | Synthetikum | Auflösung von Gallensteinen | Gültig |
+| 44619 | De-ursil RR 450 mg, Hartkapseln, retardiert (+1 weitere Bezeichnung) | Synthetikum | Behandlung von Gallensteinen, Cholangitis | Gültig |
+| 54634 | Ursofalk, Suspension | Synthetikum | Auflösung von Gallensteinen | Gültig |
+| 60812 | Ursofalk 500 mg, Filmtabletten | Synthetikum | Auflösung von Gallensteinen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

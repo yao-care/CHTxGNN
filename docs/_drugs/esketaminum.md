@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB11823
 monitor_inn: "Esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Esketaminum: vorhergesagte neue Indikation Agoraphobie (agoraphobia) (Evidenzstufe L5). Ursprüngliche Indikation: Antidepressivum"
 ---
 
@@ -87,8 +87,8 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67103 | Spravato, Nasenspray, Lösung | Synthetika | Antidepressivum | Gültig |
-| 67994 | Esketamin Sintetica 5 mg/ml, soluzione iniettabile o per infusione (+1 weitere Bezeichnung) | Synthetika | Anestetico a breve durata d'azione | Gültig |
+| 67103 | Spravato, Nasenspray, Lösung | Synthetikum | Antidepressivum | Gültig |
+| 67994 | Esketamin Sintetica 5 mg/ml, soluzione iniettabile o per infusione (+1 weitere Bezeichnung) | Synthetikum | Anestetico a breve durata d'azione | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

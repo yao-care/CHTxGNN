@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB04855
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dronedaronum: vorhergesagte neue Indikation Schlaganfallerkrankung (stroke disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarythmique"
 ---
 
@@ -98,7 +98,7 @@ Die Literatur behandelt Vorhofflimmern und keine direkte Schlaganfallprävention
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 59292 | Multaq, comprimés pelliculés de 400 mg de dronédarone | Synthetika | Antiarythmique | Gültig |
+| 59292 | Multaq, comprimés pelliculés de 400 mg de dronédarone | Synthetikum | Antiarythmique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

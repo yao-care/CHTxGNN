@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00950
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fexofenadini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Antiallergikum"
 ---
 
@@ -77,13 +77,13 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54204 | Telfast 120, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 58327 | Fexofenadine Zentiva 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
-| 66342 | Fexo Pollen Sandoz 120 mg, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 67382 | Fexo-Mepha Teva 120 mg, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 68854 | Fexo Allerg Spirig HC 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
-| 69660 | SUN STORE Fexofenadin 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
-| 70455 | Fexo-Mepha Allergie 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiallergikum | Gültig |
+| 54204 | Telfast 120, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 58327 | Fexofenadine Zentiva 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiallergikum | Gültig |
+| 66342 | Fexo Pollen Sandoz 120 mg, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 67382 | Fexo-Mepha Teva 120 mg, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 68854 | Fexo Allerg Spirig HC 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiallergikum | Gültig |
+| 69660 | SUN STORE Fexofenadin 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiallergikum | Gültig |
+| 70455 | Fexo-Mepha Allergie 120 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiallergikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

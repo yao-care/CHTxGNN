@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01088
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Iloprostum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: Prostacyclinanalogon"
 ---
 
@@ -73,8 +73,8 @@ Die Plausibilität ist gering. Die Hypotrichosis simplex ist eine genetische Erk
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50064 | Ilomedin 20 i.v., Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Prostacyclinanalogon | Gültig |
-| 56213 | Ventavis, Lösung für einen Vernebler | Synthetika | Primäre pulmonale Hypertonie | Gültig |
+| 50064 | Ilomedin 20 i.v., Konzentrat zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Synthetikum | Prostacyclinanalogon | Gültig |
+| 56213 | Ventavis, Lösung für einen Vernebler | Synthetikum | Primäre pulmonale Hypertonie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

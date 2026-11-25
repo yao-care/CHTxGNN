@@ -73,8 +73,8 @@ Ein Zusammenhang zwischen dieser Wirkung und dem vorhergesagten Krankheitsbild l
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 33148 | Catapresan, Tabletten | Synthetika | Antihypertensivum | Gültig |
-| 38638 | Catapresan, Injektionslösung | Synthetika | Antihypertensivum | Gültig |
+| 33148 | Catapresan, Tabletten | Synthetikum | Antihypertensivum | Gültig |
+| 38638 | Catapresan, Injektionslösung | Synthetikum | Antihypertensivum | Gültig |
 | 70593 | Clonidine Nardia 150 µg/ml, soluzione iniettabile o per infusione | Synthetikum | Ipertensione: Per il trattamento della crisi ipertensiva, si raccomanda l’applicazione parenterale lenta a ca… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

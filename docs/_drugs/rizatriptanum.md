@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00953
 monitor_inn: "Rizatriptan"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rizatriptanum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Akutbehandlung von Migräneanfällen mit oder ohne Aura"
 ---
 
@@ -87,11 +87,11 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54590 | Maxalt 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 54591 | Maxalt lingual 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 63100 | Rizatriptan Sandoz 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 65263 | Rizatriptan Spirig HC 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 65799 | Rizatriptan-Mepha oro 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 54590 | Maxalt 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 54591 | Maxalt lingual 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 63100 | Rizatriptan Sandoz 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 65263 | Rizatriptan Spirig HC 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 65799 | Rizatriptan-Mepha oro 5 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01212
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ceftriaxonum: vorhergesagte neue Indikation Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -73,9 +73,9 @@ Das polyklonale Hyperviskositätssyndrom entsteht durch erhöhte Immunglobuline 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 44625 | Rocephin 500 mg i.v., Pulver und Lösungsmittel zur Herstellung einer… (+3 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 59876 | Ceftriaxon Labatec 250 mg i.m., poudre pour solution injectable (+3 weitere Bezeichnungen) | Synthetika | Maladies infectieuses | Gültig |
-| 68535 | Ceftriaxon Lagap 500 mg i.v., Polvere per soluzione iniettabile (+2 weitere Bezeichnungen) | Synthetika | Malattie infettive | Gültig |
+| 44625 | Rocephin 500 mg i.v., Pulver und Lösungsmittel zur Herstellung einer… (+3 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 59876 | Ceftriaxon Labatec 250 mg i.m., poudre pour solution injectable (+3 weitere Bezeichnungen) | Synthetikum | Maladies infectieuses | Gültig |
+| 68535 | Ceftriaxon Lagap 500 mg i.v., Polvere per soluzione iniettabile (+2 weitere Bezeichnungen) | Synthetikum | Malattie infettive | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

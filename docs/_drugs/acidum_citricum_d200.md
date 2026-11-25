@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB04272
 monitor_inn: "Citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acidum Citricum D200: vorhergesagte neue Indikation Magenerkrankung (stomach disease) (Evidenzstufe L5). Ursprüngliche Indikation: Gemäss homöopathischem Arzneimittelbild bei Zahnfleischentzündungen…"
 ---
 
@@ -85,8 +85,8 @@ Die gefundenen Publikationen sind überwiegend Zufallstreffer über Stichworte. 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50245 | Citrokehl, Injektionslösung (i.m.) | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei Zahnfleischentzündungen, Zahnfleischblutungen | Gültig |
-| 52580 | Citrokehl, Tropfen zum Einnehmen | Homöopathische Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei Zahnfleischentzündungen und Zahnfleischblutungen. | Gültig |
+| 50245 | Citrokehl, Injektionslösung (i.m.) | Homöopathisches Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei Zahnfleischentzündungen, Zahnfleischblutungen | Gültig |
+| 52580 | Citrokehl, Tropfen zum Einnehmen | Homöopathisches Arzneimittel | Gemäss homöopathischem Arzneimittelbild bei Zahnfleischentzündungen und Zahnfleischblutungen. | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

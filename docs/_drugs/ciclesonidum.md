@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01410
 monitor_inn: "Ciclesonide"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ciclesonidum: vorhergesagte neue Indikation Atopisches Ekzem (atopic eczema) (Evidenzstufe L5). Ursprüngliche Indikation: zur antientzündlichen Dauerbehandlung von Asthma bei Erwachsenen…"
 ---
 
@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57303 | Alvesco 80 ug, Dosieraerosol (+1 weitere Bezeichnung) | Synthetika | zur antientzündlichen Dauerbehandlung von Asthma bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren | Gültig |
+| 57303 | Alvesco 80 ug, Dosieraerosol (+1 weitere Bezeichnung) | Synthetikum | zur antientzündlichen Dauerbehandlung von Asthma bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

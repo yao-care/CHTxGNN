@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00299
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Penciclovirum: vorhergesagte neue Indikation Fasziolose (fascioliasis) (Evidenzstufe L5). Ursprüngliche Indikation: Herpes labialis"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53680 | Fenivir, Crème | Synthetika | Herpes labialis | Gültig |
-| 62647 | Fenivir, Crème teintée | Synthetika | Herpes labialis | Gültig |
+| 53680 | Fenivir, Crème | Synthetikum | Herpes labialis | Gültig |
+| 62647 | Fenivir, Crème teintée | Synthetikum | Herpes labialis | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

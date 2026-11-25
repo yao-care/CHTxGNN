@@ -85,13 +85,13 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54489 | Nebilet, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 59063 | Nebivolol Axapharm 5 mg, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 59887 | Nebivolol-Mepha 5, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 60020 | Nebivolol Spirig HC, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 61287 | Nebivolol Sandoz 5, Tabletten | Synthetika | Beta-Rezeptorenblocker | Gültig |
+| 54489 | Nebilet, Tabletten | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 59063 | Nebivolol Axapharm 5 mg, Tabletten | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 59887 | Nebivolol-Mepha 5, Tabletten | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 60020 | Nebivolol Spirig HC, Tabletten | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 61287 | Nebivolol Sandoz 5, Tabletten | Synthetikum | Beta-Rezeptorenblocker | Gültig |
 | 70451 | Nebiol axapharm 5 mg, Tabletten | Synthetikum | Behandlung von Hypertonie und chronischer Herzinsuffizienz (Beta-Rezeptorenblocker) | Gültig |
-| 62482 | Nebivolol Zentiva, Tabletten | Synthetika | Beta-Rezeptorenblocker | Erloschen |
+| 62482 | Nebivolol Zentiva, Tabletten | Synthetikum | Beta-Rezeptorenblocker | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

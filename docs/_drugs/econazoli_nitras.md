@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01127
 monitor_inn: "Econazole"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Econazoli Nitras: vorhergesagte neue Indikation Ektothrix-Infektionskrankheit (ectothrix infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Dermatomykosen"
 ---
 
@@ -73,12 +73,12 @@ Eine praktische Grenze bleibt: Pilzinfektionen des Haarschafts erfordern in der 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 38334 | Pevaryl, Crème | Synthetika | Dermatomykosen | Gültig |
-| 38335 | Pevaryl, Pulver zur Anwendung auf der Haut | Synthetika | Dermatomykosen | Gültig |
-| 38825 | Gyno-Pevaryl 50 mg, Vaginalovula (+1 weitere Bezeichnung) | Synthetika | Vulvovaginale Mykosen | Gültig |
-| 40662 | Pevisone, Crème | Synthetika | Entzündliche Dermatomykosen | Gültig |
-| 50639 | Pevaryl, Spray zur Anwendung auf der Haut, Lösung | Synthetika | Dermatomykosen | Gültig |
-| 70578 | Gyno-Pevaryl, Vaginalcreme und Vaginalovula | Synthetika | Vulvovaginale Mykosen | Gültig |
+| 38334 | Pevaryl, Crème | Synthetikum | Dermatomykosen | Gültig |
+| 38335 | Pevaryl, Pulver zur Anwendung auf der Haut | Synthetikum | Dermatomykosen | Gültig |
+| 38825 | Gyno-Pevaryl 50 mg, Vaginalovula (+1 weitere Bezeichnung) | Synthetikum | Vulvovaginale Mykosen | Gültig |
+| 40662 | Pevisone, Crème | Synthetikum | Entzündliche Dermatomykosen | Gültig |
+| 50639 | Pevaryl, Spray zur Anwendung auf der Haut, Lösung | Synthetikum | Dermatomykosen | Gültig |
+| 70578 | Gyno-Pevaryl, Vaginalcreme und Vaginalovula | Synthetikum | Vulvovaginale Mykosen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -119,9 +119,9 @@ Diese Angaben beruhen auf allgemeinem pharmakologischem Wissen und nicht auf den
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 60326 | Votrient 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
-| 69276 | Pazopanib Spirig HC 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
-| 69994 | Pazopanib Sandoz 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung des Nierenzellkarzinoms; Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+| 60326 | Votrient 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+| 69276 | Pazopanib Spirig HC 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung des Nierenzellkarzinoms Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
+| 69994 | Pazopanib Sandoz 200 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung des Nierenzellkarzinoms; Behandlung des fortgeschrittenen Weichteilsarkoms | Gültig |
 | 70608 | Pazopanib Leman 200 mg, comprimés pélliculés (+1 weitere Bezeichnung) | Synthetikum | Traitement du carcinome à cellules rénales; traitement du sarcome des tissus mous avancé | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

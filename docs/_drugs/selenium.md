@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SELENIUM"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Selenium: vorhergesagte neue Indikation sklerosierende Cholangitis (sclerosing cholangitis) (Evidenzstufe L5). Ursprüngliche Indikation: Nachgewiesener Selenmangel"
 ---
 
@@ -90,8 +90,8 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53770 | Selenase peroral, Trinklösung | Synthetika | Nachgewiesener Selenmangel | Gültig |
-| 53771 | Selenase pro injectione, Injektionslösung | Synthetika | Nachgewiesener Selenmangel | Gültig |
+| 53770 | Selenase peroral, Trinklösung | Synthetikum | Nachgewiesener Selenmangel | Gültig |
+| 53771 | Selenase pro injectione, Injektionslösung | Synthetikum | Nachgewiesener Selenmangel | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

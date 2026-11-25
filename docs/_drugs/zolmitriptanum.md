@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00315
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Zolmitriptanum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Akutbehandlung von Migräneanfällen mit oder ohne Aura"
 ---
 
@@ -87,13 +87,13 @@ In der Schweiz sind sieben Zulassungen für Zolmitriptan als Einzelwirkstoff gü
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54335 | Zomig 2,5 mg, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 55264 | Zomig oro, Schmelztabletten | Synthetika | Akutbehandlung von Migräneanfällen mit und ohne Aura | Gültig |
-| 56003 | Zomig nasal 5 mg, Nasenspray (+1 weitere Bezeichnung) | Synthetika | Akutbehandlung von Migräneanfällen und Cluster-Kopfschmerz | Gültig |
-| 61506 | Zolmitriptan Sandoz, Filmtabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 61507 | Zolmitriptan Sandoz, Schmelztabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
-| 62789 | Zolmitriptan Spirig HC 2.5, Schmelztabletten | Synthetika | Akutbehandlung von Migräneanfällen mit und ohne Aura | Gültig |
-| 62790 | Zolmitriptan Spirig HC 2.5, Tabletten | Synthetika | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 54335 | Zomig 2,5 mg, Filmtabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 55264 | Zomig oro, Schmelztabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit und ohne Aura | Gültig |
+| 56003 | Zomig nasal 5 mg, Nasenspray (+1 weitere Bezeichnung) | Synthetikum | Akutbehandlung von Migräneanfällen und Cluster-Kopfschmerz | Gültig |
+| 61506 | Zolmitriptan Sandoz, Filmtabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 61507 | Zolmitriptan Sandoz, Schmelztabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
+| 62789 | Zolmitriptan Spirig HC 2.5, Schmelztabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit und ohne Aura | Gültig |
+| 62790 | Zolmitriptan Spirig HC 2.5, Tabletten | Synthetikum | Akutbehandlung von Migräneanfällen mit oder ohne Aura | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

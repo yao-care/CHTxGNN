@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00973
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ezetimibum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5)."
 ---
 
@@ -92,15 +92,15 @@ Die beiden gefundenen Publikationen behandeln die Erkrankung nicht direkt.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56195 | Ezetrol, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 65100 | Ezetimib Sandoz 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 65892 | Ezetimib-Mepha Teva 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 66003 | Ezetimib Spirig HC, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 66068 | Ezetimib Zentiva 10mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 66070 | Ezetimib-Mepha 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 66551 | Ezetimibe Organon 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 67060 | Ezetim axapharm 10 mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
-| 70602 | Ezetimib axapharm 10mg, Tabletten | Synthetika | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 56195 | Ezetrol, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 65100 | Ezetimib Sandoz 10 mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 65892 | Ezetimib-Mepha Teva 10 mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 66003 | Ezetimib Spirig HC, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 66068 | Ezetimib Zentiva 10mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 66070 | Ezetimib-Mepha 10 mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 66551 | Ezetimibe Organon 10 mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 67060 | Ezetim axapharm 10 mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
+| 70602 | Ezetimib axapharm 10mg, Tabletten | Synthetikum | Reduktion der Serum Cholesterin Konzentration | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

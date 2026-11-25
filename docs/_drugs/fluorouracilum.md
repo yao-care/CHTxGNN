@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00544
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fluorouracilum: vorhergesagte neue Indikation Botryoides embryonales Rhabdomyosarkom der Vagina (botryoid-type embryonal rhabdomyosarcoma of the vagina) (Evidenzstufe L5)."
 ---
 
@@ -77,13 +77,13 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 36464 | Efudix, Crème | Synthetika | Topisches Zytostatikum | Gültig |
-| 47160 | Fluorouracil-Teva, Injektions-/Infusionslösung | Synthetika | Zytostatikum | Gültig |
-| 60186 | Fluorouracil Sandoz 250 mg/5 ml, Konzentrat zur Herstellung einer Inj… (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 65688 | Fluorouracil Labatec 250 mg/5 ml, Solution injectable/pour perfusion (+3 weitere Bezeichnungen) | Synthetika | Cytostatique | Gültig |
-| 66825 | Fluorouracil Accord 250 mg/5 ml, Injektions-/Infusionslösung (+4 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 67752 | Tolak 40 mg/g, Creme | Synthetika | Topisches Zytostatikum | Gültig |
-| 69869 | Fluodix Leman 50 mg/g (5%), crème | Synthetika | Kératoses solaires et séniles, maladie de Bowen | Gültig |
+| 36464 | Efudix, Crème | Synthetikum | Topisches Zytostatikum | Gültig |
+| 47160 | Fluorouracil-Teva, Injektions-/Infusionslösung | Synthetikum | Zytostatikum | Gültig |
+| 60186 | Fluorouracil Sandoz 250 mg/5 ml, Konzentrat zur Herstellung einer Inj… (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 65688 | Fluorouracil Labatec 250 mg/5 ml, Solution injectable/pour perfusion (+3 weitere Bezeichnungen) | Synthetikum | Cytostatique | Gültig |
+| 66825 | Fluorouracil Accord 250 mg/5 ml, Injektions-/Infusionslösung (+4 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 67752 | Tolak 40 mg/g, Creme | Synthetikum | Topisches Zytostatikum | Gültig |
+| 69869 | Fluodix Leman 50 mg/g (5%), crème | Synthetikum | Kératoses solaires et séniles, maladie de Bowen | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

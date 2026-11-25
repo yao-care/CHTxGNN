@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB09026
 monitor_inn: "Aliskiren"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Aliskirenum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
 ---
 
@@ -92,7 +92,7 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58050 | Rasilez 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung der essentiellen Hypertonie | Erloschen |
+| 58050 | Rasilez 150 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung der essentiellen Hypertonie | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

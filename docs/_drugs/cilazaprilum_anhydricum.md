@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01340
 monitor_inn: "Cilazapril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cilazaprilum Anhydricum: vorhergesagte neue Indikation Pulmonale Hypertonie bei unklarem, multifaktoriellem Mechanismus (pulmonary hypertension with unclear multifactorial mechanism) (Evidenzstufe L5)."
 ---
 
@@ -83,8 +83,8 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50373 | Inhibace submite 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | ACE-Hemmer | Gültig |
-| 52472 | Inhibace Plus, Filmtabletten | Synthetika | Antihypertensivum | Gültig |
+| 50373 | Inhibace submite 1 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | ACE-Hemmer | Gültig |
+| 52472 | Inhibace Plus, Filmtabletten | Synthetikum | Antihypertensivum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

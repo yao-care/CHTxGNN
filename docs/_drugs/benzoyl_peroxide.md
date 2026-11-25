@@ -74,12 +74,12 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45185 | Benzac 5, Gel | Synthetika | Akne vulgaris | Gültig |
-| 47033 | Acne Crème plus Widmer, Crème | Synthetika | Akne vulgaris | Gültig |
-| 49416 | Lubexyl, Suspension | Synthetika | Acne vulgaris | Gültig |
-| 58460 | Epiduo, Gel (+1 weitere Bezeichnung) | Synthetika | Akne vulgaris | Gültig |
-| 58494 | Duac Akne, Gel | Synthetika | Akne vulgaris | Gültig |
-| 68957 | Aceduo Leman, Gel | Synthetika | Traitment cutané de l’acne vulgaris en présence de comédons, papules et pustules | Gültig |
+| 45185 | Benzac 5, Gel | Synthetikum | Akne vulgaris | Gültig |
+| 47033 | Acne Crème plus Widmer, Crème | Synthetikum | Akne vulgaris | Gültig |
+| 49416 | Lubexyl, Suspension | Synthetikum | Acne vulgaris | Gültig |
+| 58460 | Epiduo, Gel (+1 weitere Bezeichnung) | Synthetikum | Akne vulgaris | Gültig |
+| 58494 | Duac Akne, Gel | Synthetikum | Akne vulgaris | Gültig |
+| 68957 | Aceduo Leman, Gel | Synthetikum | Traitment cutané de l’acne vulgaris en présence de comédons, papules et pustules | Gültig |
 | 70252 | Epispot Leman, gel (+1 weitere Bezeichnung) | Synthetikum | acné vulgaire | Gültig |
 | 70282 | Adabencutan, Gel | Synthetikum | Acne vulgaris | Gültig |
 

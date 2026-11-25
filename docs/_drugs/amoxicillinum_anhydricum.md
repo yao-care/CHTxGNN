@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01060
 monitor_inn: "Amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Amoxicillinum Anhydricum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -71,11 +71,11 @@ Ein plausibler Mechanismus, der diese antibakterielle Wirkung mit einer Senkung 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49924 | Amoxicillin Sandoz 500, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 49929 | Amoxi-Mepha 200 mg/4 mL, Granulat zur Herstellung einer Suspension zu… | Synthetika | Infektionskrankheiten | Gültig |
-| 56203 | Amoxicillin Sandoz 500, dispergierbare Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 66711 | Amoxicillin Spirig HC 500, dispergierbare Tabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 68815 | Amoxicillin OrPha 250 mg, Pulver zur Herstellung einer Injektions-/In… (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 49924 | Amoxicillin Sandoz 500, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 49929 | Amoxi-Mepha 200 mg/4 mL, Granulat zur Herstellung einer Suspension zu… | Synthetikum | Infektionskrankheiten | Gültig |
+| 56203 | Amoxicillin Sandoz 500, dispergierbare Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 66711 | Amoxicillin Spirig HC 500, dispergierbare Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 68815 | Amoxicillin OrPha 250 mg, Pulver zur Herstellung einer Injektions-/In… (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

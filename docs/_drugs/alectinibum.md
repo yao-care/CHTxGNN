@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11363
 monitor_inn: "Alectinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alectinibum: vorhergesagte neue Indikation Gingivale Fibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: nicht-kleinzelliges Lungenkarzinom (NSCLC)"
 ---
 
@@ -73,7 +73,7 @@ Der sehr hohe Vorhersagewert (0,9997) ist zudem wenig aussagekräftig: Die Werte
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65970 | Alecensa 150 mg, Hartkapseln | Synthetika | nicht-kleinzelliges Lungenkarzinom (NSCLC) | Gültig |
+| 65970 | Alecensa 150 mg, Hartkapseln | Synthetikum | nicht-kleinzelliges Lungenkarzinom (NSCLC) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

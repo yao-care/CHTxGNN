@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01609
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Deferasiroxum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L5)."
 ---
 
@@ -73,10 +73,10 @@ Diese Begründung ist plausibel, aber indirekt. Der hohe Vorhersagewert ist eine
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57466 | Exjade 125 mg, dispergierbare Tabletten (+2 weitere Bezeichnungen) | Synthetika | Behandlung der transfusionsbedingten Hämosiderose. Behandlung von chronischer Eisenüberladung, die eine Chela… | Gültig |
-| 65867 | Jadenu 90 mg, Filmtabletten | Synthetika | Behandlung der transfusionsbedingten Hämosiderose. Behandlung von chronischer Eisenüberladung, die eine Chela… | Gültig |
-| 67517 | Deferasirox Accord 90 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Transfusionsbedingte Eisenüberladung | Gültig |
-| 67678 | Deferasirox-Mepha 90 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Transfusionsbedingte Eisenüberladung | Gültig |
+| 57466 | Exjade 125 mg, dispergierbare Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Behandlung der transfusionsbedingten Hämosiderose. Behandlung von chronischer Eisenüberladung, die eine Chela… | Gültig |
+| 65867 | Jadenu 90 mg, Filmtabletten | Synthetikum | Behandlung der transfusionsbedingten Hämosiderose. Behandlung von chronischer Eisenüberladung, die eine Chela… | Gültig |
+| 67517 | Deferasirox Accord 90 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Transfusionsbedingte Eisenüberladung | Gültig |
+| 67678 | Deferasirox-Mepha 90 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Transfusionsbedingte Eisenüberladung | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

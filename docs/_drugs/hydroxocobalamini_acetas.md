@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00200
 monitor_inn: "Hydroxocobalamin"
 predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Hydroxocobalamini Acetas: vorhergesagte neue Indikation Ösophagusvarizen ohne Blutung (esophageal varices without bleeding) (Evidenzstufe L5). Ursprüngliche Indikation: Perniziöse Anämie"
 ---
 
@@ -73,9 +73,9 @@ Rein theoretisch wäre denkbar, dass die bekannte gefässverengende Wirkung und 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 33584 | Vitarubin Depot, Injektionslösung | Synthetika | Perniziöse Anämie; nachgewiesener Mangel an Vitamin B12 | Gültig |
-| 54155 | Biovigor, sciroppo | Synthetika | Ricostituente | Gültig |
-| 60539 | Cyanokit 5g, Pulver zur Herstellung einer Infusionslösung | Antidota | Behandlung einer bekannten oder vermuteten Zyanidvergiftung | Gültig |
+| 33584 | Vitarubin Depot, Injektionslösung | Synthetikum | Perniziöse Anämie; nachgewiesener Mangel an Vitamin B12 | Gültig |
+| 54155 | Biovigor, sciroppo | Synthetikum | Ricostituente | Gültig |
+| 60539 | Cyanokit 5g, Pulver zur Herstellung einer Infusionslösung | Antidotum | Behandlung einer bekannten oder vermuteten Zyanidvergiftung | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

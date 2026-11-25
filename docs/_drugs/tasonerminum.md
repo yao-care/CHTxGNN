@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB11626
 monitor_inn: "Tasonermin"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "HER2 positive breast carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "uterine ligament serous adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament clear cell adenocarcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tasonerminum: vorhergesagte neue Indikation Urothelkarzinom der prostatischen Harnröhre (prostatic urethra urothelial carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Weichteil-Sarkom"
 ---
 
@@ -71,7 +71,7 @@ Eine denkbare, rein hypothetische Überlegung: Tasonermin ist ein rekombinanter 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54745 | Beromun, Pulver zur Herstellung einer Infusionslösung | Biotechnologika | Weichteil-Sarkom | Gültig |
+| 54745 | Beromun, Pulver zur Herstellung einer Infusionslösung | Biotechnologikum | Weichteil-Sarkom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

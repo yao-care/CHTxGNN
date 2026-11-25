@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB04868
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Nilotinibum: vorhergesagte neue Indikation Dermatofibrosarcoma protuberans (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum…"
 ---
 
@@ -81,10 +81,10 @@ Dasselbe Prinzip liegt dem Einsatz von Imatinib bei dieser Tumorart zugrunde. Da
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58007 | Tasigna 200 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Behandlung der chronischen myeloischen Leukämie | Gültig |
-| 69771 | Nilotinib Spirig HC 50 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Antineoplastika > Proteinkinase-Inhibitoren (myeloische Leukämie) | Gültig |
-| 69846 | Nilotinib Zentiva 50 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Onkologikum, Tyrosin-Kinase-Hemmer zur Behandlung der chronischen myeloischen Leukämie | Gültig |
-| 70178 | Nilotinib Accord 50 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Behandlung der chronischen myeloischen Leukämie | Gültig |
+| 58007 | Tasigna 200 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetikum | Behandlung der chronischen myeloischen Leukämie | Gültig |
+| 69771 | Nilotinib Spirig HC 50 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetikum | Antineoplastika > Proteinkinase-Inhibitoren (myeloische Leukämie) | Gültig |
+| 69846 | Nilotinib Zentiva 50 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetikum | Onkologikum, Tyrosin-Kinase-Hemmer zur Behandlung der chronischen myeloischen Leukämie | Gültig |
+| 70178 | Nilotinib Accord 50 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetikum | Behandlung der chronischen myeloischen Leukämie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

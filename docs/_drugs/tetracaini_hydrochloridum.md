@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB09085
 monitor_inn: "Tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tetracaini Hydrochloridum: vorhergesagte neue Indikation Acrodermatitis chronica atrophicans (Evidenzstufe L5). Ursprüngliche Indikation: Anesthésique local"
 ---
 
@@ -73,7 +73,7 @@ Ein Zusammenhang mit der Acrodermatitis chronica atrophicans lässt sich daraus 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 47000 | Tetracaine 1 % SDU Faure, collyre | Synthetika | Anesthésique local | Gültig |
+| 47000 | Tetracaine 1 % SDU Faure, collyre | Synthetikum | Anesthésique local | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

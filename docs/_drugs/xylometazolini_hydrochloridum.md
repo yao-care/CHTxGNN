@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06694
 monitor_inn: "Xylometazoline"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Xylometazolini Hydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Rhume"
 ---
 
@@ -90,16 +90,16 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 24926 | Otrivin Schnupfen Classic 0.05 %, Nasentropfen, Lösung (+1 weitere Bezeichnung) | Synthetika | Nasenschleimhautentzündung | Gültig |
-| 44939 | Otrivin Schnupfen Classic 0.1 %, Nasenspray, Lösung (+2 weitere Bezeichnungen) | Synthetika | Nasenschleimhautentzündung | Gültig |
-| 53348 | Rinosedin 0,1 %, Nasenspray, Lösung | Synthetika | Schnupfen | Gültig |
-| 53349 | Rinosedin 0,05 %, Nasentropfen, Lösung (+1 weitere Bezeichnung) | Synthetika | Schnupfen | Gültig |
-| 57259 | Xylo-Mepha 0.1%, Nasenspray (+1 weitere Bezeichnung) | Synthetika | Schnupfen | Gültig |
-| 58857 | Otrivin Schnupfen 0.1 %, Nasenspray, Lösung | Synthetika | Nasenschleimhautentzündung | Gültig |
-| 61376 | Xylometazolin STADA 0,1%, Nasenspray (+1 weitere Bezeichnung) | Synthetika | Nasenschleimhautentzündung | Gültig |
-| 62104 | Rhin-X Xylo, Dosierspray | Synthetika | Nasenschleimhautentzündung | Gültig |
-| 69283 | Nasenspray Neo Spirig HC 0.05 %, Nasenspray (+1 weitere Bezeichnung) | Synthetika | Nasenschleimhautentzündung | Gültig |
-| 69697 | Triofan Rhume XyloMenthol 1mg/ml, spray nasal, solution | Synthetika | Rhume | Gültig |
+| 24926 | Otrivin Schnupfen Classic 0.05 %, Nasentropfen, Lösung (+1 weitere Bezeichnung) | Synthetikum | Nasenschleimhautentzündung | Gültig |
+| 44939 | Otrivin Schnupfen Classic 0.1 %, Nasenspray, Lösung (+2 weitere Bezeichnungen) | Synthetikum | Nasenschleimhautentzündung | Gültig |
+| 53348 | Rinosedin 0,1 %, Nasenspray, Lösung | Synthetikum | Schnupfen | Gültig |
+| 53349 | Rinosedin 0,05 %, Nasentropfen, Lösung (+1 weitere Bezeichnung) | Synthetikum | Schnupfen | Gültig |
+| 57259 | Xylo-Mepha 0.1%, Nasenspray (+1 weitere Bezeichnung) | Synthetikum | Schnupfen | Gültig |
+| 58857 | Otrivin Schnupfen 0.1 %, Nasenspray, Lösung | Synthetikum | Nasenschleimhautentzündung | Gültig |
+| 61376 | Xylometazolin STADA 0,1%, Nasenspray (+1 weitere Bezeichnung) | Synthetikum | Nasenschleimhautentzündung | Gültig |
+| 62104 | Rhin-X Xylo, Dosierspray | Synthetikum | Nasenschleimhautentzündung | Gültig |
+| 69283 | Nasenspray Neo Spirig HC 0.05 %, Nasenspray (+1 weitere Bezeichnung) | Synthetikum | Nasenschleimhautentzündung | Gültig |
+| 69697 | Triofan Rhume XyloMenthol 1mg/ml, spray nasal, solution | Synthetikum | Rhume | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

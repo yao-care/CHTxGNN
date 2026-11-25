@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00724
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Imiquimodum: vorhergesagte neue Indikation Prämaligne Neoplasie (pre-malignant neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Immunomodulateur"
 ---
 
@@ -97,9 +97,9 @@ Zu beachten ist, dass «prämaligne Neoplasie» ein breiter Begriff ist. Die Evi
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55070 | Aldara 5 %, Crème | Synthetika | Immunmodulator | Gültig |
-| 63165 | Zyclara, Crème | Synthetika | Aktinische Keratose (nicht hyperkeratotisch); second-line | Gültig |
-| 69277 | Imiquimod Leman 5%, crème | Synthetika | Immunomodulateur | Gültig |
+| 55070 | Aldara 5 %, Crème | Synthetikum | Immunmodulator | Gültig |
+| 63165 | Zyclara, Crème | Synthetikum | Aktinische Keratose (nicht hyperkeratotisch); second-line | Gültig |
+| 69277 | Imiquimod Leman 5%, crème | Synthetikum | Immunomodulateur | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

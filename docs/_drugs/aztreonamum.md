@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00355
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Aztreonamum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Suppressive Behandlung chronischer Lungeninfektionen durch Pseudomona…"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 46868 | Azactam 2 g, poudre pour solution injectable/pour perfusion | Synthetika | maladies infectieuses | Gültig |
-| 59389 | Cayston, Pulver und Lösungsmittel zur Herstellung einer Lösung für ei… | Synthetika | Suppressive Behandlung chronischer Lungeninfektionen durch Pseudomonas aeruginosa bei Patienten mit zystische… | Gültig |
+| 46868 | Azactam 2 g, poudre pour solution injectable/pour perfusion | Synthetikum | maladies infectieuses | Gültig |
+| 59389 | Cayston, Pulver und Lösungsmittel zur Herstellung einer Lösung für ei… | Synthetikum | Suppressive Behandlung chronischer Lungeninfektionen durch Pseudomonas aeruginosa bei Patienten mit zystische… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

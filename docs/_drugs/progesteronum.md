@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00396
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Progesteronum: vorhergesagte neue Indikation Fibrozystische Brustkrankheit (breast fibrocystic disease) (Evidenzstufe L5). Ursprüngliche Indikation: Menstruationsstörungen, prämenstruelles Syndrom…"
 ---
 
@@ -98,13 +98,13 @@ Mindestens 7 Zulassungen sind erfasst; die Liste kann unvollständig sein. Alle 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45351 | Utrogestan 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Menstruationsstörungen, prämenstruelles Syndrom, als Ergänzung einer Östrogen-Substitutionstherapie, Suppleme… | Gültig |
-| 53479 | Crinone 8 %, Vaginalgel | Synthetika | Vaginalgel zur Behandlung von Progesterondefiziten | Gültig |
-| 63225 | Prolutex 25 mg, soluzione iniettabile | Synthetika | Riproduzione medicalmente assistita | Gültig |
-| 68916 | Progesterone LEMAN 100 mg, capsules molles (+1 weitere Bezeichnung) | Synthetika | Irrégularités menstruelles, syndrome prémenstruel; en complément à une thérapie oestrogénique substitutive | Gültig |
-| 69079 | Prolutex Ready 25 mg, soluzione iniettabile in siringa preriempita | Synthetika | Riproduzione medicalmente assistita | Gültig |
-| 69870 | Progestan Luteal, Weichkapseln zur vaginalen Anwendung | Synthetika | Supplementierung der Lutealphase im Rahmen von Verfahren der Assistierten Reproduktion (ART) | Gültig |
-| 70143 | Progestion 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetika | Menstruationsstörungen, prämenstruelles Syndrom, als Ergänzung einer Östrogen-Substitutionstherapie, Suppleme… | Gültig |
+| 45351 | Utrogestan 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Menstruationsstörungen, prämenstruelles Syndrom, als Ergänzung einer Östrogen-Substitutionstherapie, Suppleme… | Gültig |
+| 53479 | Crinone 8 %, Vaginalgel | Synthetikum | Vaginalgel zur Behandlung von Progesterondefiziten | Gültig |
+| 63225 | Prolutex 25 mg, soluzione iniettabile | Synthetikum | Riproduzione medicalmente assistita | Gültig |
+| 68916 | Progesterone LEMAN 100 mg, capsules molles (+1 weitere Bezeichnung) | Synthetikum | Irrégularités menstruelles, syndrome prémenstruel; en complément à une thérapie oestrogénique substitutive | Gültig |
+| 69079 | Prolutex Ready 25 mg, soluzione iniettabile in siringa preriempita | Synthetikum | Riproduzione medicalmente assistita | Gültig |
+| 69870 | Progestan Luteal, Weichkapseln zur vaginalen Anwendung | Synthetikum | Supplementierung der Lutealphase im Rahmen von Verfahren der Assistierten Reproduktion (ART) | Gültig |
+| 70143 | Progestion 100 mg, Weichkapseln (+1 weitere Bezeichnung) | Synthetikum | Menstruationsstörungen, prämenstruelles Syndrom, als Ergänzung einer Östrogen-Substitutionstherapie, Suppleme… | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

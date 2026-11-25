@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00768
 monitor_inn: "Olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Olopatadinum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Allergische Konjunktivitis"
 ---
 
@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56175 | Opatanol, Augentropfen | Synthetika | Allergische Konjunktivitis | Gültig |
+| 56175 | Opatanol, Augentropfen | Synthetikum | Allergische Konjunktivitis | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01075
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Diphenhydramini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Bindehautentzündung (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Schlafmittel"
 ---
 
@@ -73,10 +73,10 @@ Hinzu kommt ein möglicher Nachteil: Die anticholinerge Wirkung kann die Tränen
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 36736 | Benocten, Tabletten | Synthetika | Schlafmittel | Gültig |
-| 41925 | Benocten, Tropfen zum Einnehmen, Lösung | Synthetika | Schlafmittel | Gültig |
-| 44726 | Rhinitin retard, Kapseln | Synthetika | allergischer Schnupfen | Gültig |
-| 52035 | Bonox, Tabletten | Synthetika | Hypnoticum | Gültig |
+| 36736 | Benocten, Tabletten | Synthetikum | Schlafmittel | Gültig |
+| 41925 | Benocten, Tropfen zum Einnehmen, Lösung | Synthetikum | Schlafmittel | Gültig |
+| 44726 | Rhinitin retard, Kapseln | Synthetikum | allergischer Schnupfen | Gültig |
+| 52035 | Bonox, Tabletten | Synthetikum | Hypnoticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

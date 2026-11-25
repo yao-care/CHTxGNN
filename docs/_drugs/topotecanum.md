@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01030
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Topotecanum: vorhergesagte neue Indikation Weibliches Mammakarzinom (female breast carcinoma) (Evidenzstufe L5)."
 ---
 
@@ -99,9 +99,9 @@ Ein bekannter Resistenzmechanismus ist der Auswurf des Wirkstoffs durch das Tran
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53857 | Hycamtin 4 mg, Lyophilisat (+1 weitere Bezeichnung) | Synthetika | Ovarialkarzinom, kleinzelliges Bronchialkarzinom, Zervixkarzinom | Gültig |
-| 58589 | Hycamtin 0.25 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Palliative Therapie bei rezidiviertem kleinzelligem Bronchialkarzinom mit extensive disease, wenn eine nochma… | Gültig |
-| 66810 | Topotecan Accord 1 mg, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Synthetika | Ovarialkarzinom, kleinzelliges Bronchialkarzinom, Zervixkarzinom | Gültig |
+| 53857 | Hycamtin 4 mg, Lyophilisat (+1 weitere Bezeichnung) | Synthetikum | Ovarialkarzinom, kleinzelliges Bronchialkarzinom, Zervixkarzinom | Gültig |
+| 58589 | Hycamtin 0.25 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Palliative Therapie bei rezidiviertem kleinzelligem Bronchialkarzinom mit extensive disease, wenn eine nochma… | Gültig |
+| 66810 | Topotecan Accord 1 mg, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Synthetikum | Ovarialkarzinom, kleinzelliges Bronchialkarzinom, Zervixkarzinom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

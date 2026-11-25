@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB08864
 monitor_inn: "Rilpivirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rilpivirinum: vorhergesagte neue Indikation Simian-Immundefizienzvirus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -85,9 +85,9 @@ Die Arbeiten sind Tierstudien oder Übersichten, die die Kombination aus Caboteg
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61548 | Edurant, Filmtabletten | Synthetika | HIV-Infektionen | Gültig |
-| 67742 | REKAMBYS 600 mg / 2 ml, Depot-Injektionssuspension (+1 weitere Bezeichnung) | Synthetika | HIV-Infektion | Gültig |
-| 69726 | Edurant 2.5 mg, Tabletten zur Herstellung einer Suspension zum Einneh… | Synthetika | HIV-Infektion | Gültig |
+| 61548 | Edurant, Filmtabletten | Synthetikum | HIV-Infektionen | Gültig |
+| 67742 | REKAMBYS 600 mg / 2 ml, Depot-Injektionssuspension (+1 weitere Bezeichnung) | Synthetikum | HIV-Infektion | Gültig |
+| 69726 | Edurant 2.5 mg, Tabletten zur Herstellung einer Suspension zum Einneh… | Synthetikum | HIV-Infektion | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

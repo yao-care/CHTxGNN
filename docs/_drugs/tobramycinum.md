@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00684
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tobramycinum: vorhergesagte neue Indikation Expositionskeratitis (exposure keratitis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -90,13 +90,13 @@ Es gibt keine klinischen Studien. Die Literatur besteht aus Laborarbeiten, Fallb
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 38358 | Obracin 40 mg/1 mL, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 44538 | Tobrex, Augentropfen | Synthetika | Bakterielle Augeninfektionen | Gültig |
-| 45508 | Tobrex, Augensalbe | Synthetika | Bakterielle Augeninfektionen | Gültig |
-| 55699 | TOBI, Lösung zur Inhalation mit einem Vernebler | Synthetika | Infektionskrankheiten | Gültig |
-| 58751 | Bramitob, solution pour inhalation par nébuliseur | Synthetika | maladies infectieuses | Gültig |
-| 60565 | TOBI PODHALER, Hartkapseln mit Pulver zur Inhalation | Synthetika | Therapie der Lungeninfektion mit Pseudomonas aeruginosa bei zystischer Firbrose | Gültig |
-| 68539 | Vantobra 170 mg, Lösung für einen Vernebler | Synthetika | Chronische Infektion der Lunge mit Pseudomonas aeruginosa bei Patienten mit Mukoviszidose | Gültig |
+| 38358 | Obracin 40 mg/1 mL, Injektionslösung (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 44538 | Tobrex, Augentropfen | Synthetikum | Bakterielle Augeninfektionen | Gültig |
+| 45508 | Tobrex, Augensalbe | Synthetikum | Bakterielle Augeninfektionen | Gültig |
+| 55699 | TOBI, Lösung zur Inhalation mit einem Vernebler | Synthetikum | Infektionskrankheiten | Gültig |
+| 58751 | Bramitob, solution pour inhalation par nébuliseur | Synthetikum | maladies infectieuses | Gültig |
+| 60565 | TOBI PODHALER, Hartkapseln mit Pulver zur Inhalation | Synthetikum | Therapie der Lungeninfektion mit Pseudomonas aeruginosa bei zystischer Firbrose | Gültig |
+| 68539 | Vantobra 170 mg, Lösung für einen Vernebler | Synthetikum | Chronische Infektion der Lunge mit Pseudomonas aeruginosa bei Patienten mit Mukoviszidose | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

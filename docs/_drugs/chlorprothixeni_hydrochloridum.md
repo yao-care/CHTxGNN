@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01239
 monitor_inn: "Chlorprothixene"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "myopia X-linked", "syndromic myopia", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Chlorprothixeni Hydrochloridum: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokuläre Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 25873 | Truxal 15 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Neurolepticum | Gültig |
+| 25873 | Truxal 15 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Neurolepticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

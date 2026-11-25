@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01238
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Aripiprazolum: vorhergesagte neue Indikation Familiäre horizontale Blickparese mit progredienter Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
 ---
 
@@ -85,14 +85,14 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56209 | Abilify 10 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
-| 57348 | Abilify 10 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Neuroleptikum | Gültig |
-| 57813 | Abilify 7,5 mg / ml, Injektionslösung i.m. | Synthetika | Neuroleptikum | Gültig |
-| 63177 | Abilify Maintena 300 mg, Depot-Injektionssuspension (+1 weitere Bezeichnung) | Synthetika | Neuroleptikum | Gültig |
-| 65456 | Aripiprazol Spirig HC 5 mg, Tabletten | Synthetika | Neuroleptica | Gültig |
-| 65774 | Abilify Maintena 400 mg, Pulver und Lösungsmittel zur Herstellung ein… | Synthetika | Neuroleptikum | Gültig |
-| 67607 | Aripiprazol NOBEL 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
-| 67743 | Aripiprazol NOBEL 1 mg/ml, Sirup | Synthetika | Neuroleptikum | Gültig |
+| 56209 | Abilify 10 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Neuroleptikum | Gültig |
+| 57348 | Abilify 10 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Neuroleptikum | Gültig |
+| 57813 | Abilify 7,5 mg / ml, Injektionslösung i.m. | Synthetikum | Neuroleptikum | Gültig |
+| 63177 | Abilify Maintena 300 mg, Depot-Injektionssuspension (+1 weitere Bezeichnung) | Synthetikum | Neuroleptikum | Gültig |
+| 65456 | Aripiprazol Spirig HC 5 mg, Tabletten | Synthetikum | Neuroleptica | Gültig |
+| 65774 | Abilify Maintena 400 mg, Pulver und Lösungsmittel zur Herstellung ein… | Synthetikum | Neuroleptikum | Gültig |
+| 67607 | Aripiprazol NOBEL 5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Neuroleptikum | Gültig |
+| 67743 | Aripiprazol NOBEL 1 mg/ml, Sirup | Synthetikum | Neuroleptikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

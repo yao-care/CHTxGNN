@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB06196
 monitor_inn: "Icatibant"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Icatibantum: vorhergesagte neue Indikation Serpinopathie mit toxischer Serpin-Polymerisation (serpinopathy with toxic serpin polymerization) (Evidenzstufe L5)."
 ---
 
@@ -75,8 +75,8 @@ Die Schäden bei der toxischen Polymerisation (Leber, Stress des endoplasmatisch
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58178 | Firazyr 30 mg/3 ml, Injektionslösung in einer Fertigspritze | Synthetika | Behandlung von Angioödem (Treatment of Angioedema) | Gültig |
-| 68263 | Icatibant Spirig HC 30 mg, Injektionslösung in einer Fertigspritze | Synthetika | Behandlung von Angioödem (Treatment of Angioedema) | Gültig |
+| 58178 | Firazyr 30 mg/3 ml, Injektionslösung in einer Fertigspritze | Synthetikum | Behandlung von Angioödem (Treatment of Angioedema) | Gültig |
+| 68263 | Icatibant Spirig HC 30 mg, Injektionslösung in einer Fertigspritze | Synthetikum | Behandlung von Angioödem (Treatment of Angioedema) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

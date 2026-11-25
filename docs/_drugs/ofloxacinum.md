@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01165
 monitor_inn: "Ofloxacin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ofloxacinum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Bakterielle Infektionen am Auge"
 ---
 
@@ -73,9 +73,9 @@ Die Hyperamylasämie ist ein Laborbefund, kein bakterielles Krankheitsbild. Es i
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51357 | Floxal, Augentropfen | Synthetika | Bakterielle Infektionen am Auge | Gültig |
-| 51358 | Floxal, Augensalbe | Synthetika | Bakterielle Infektionen am Auge | Gültig |
-| 55383 | Floxal UD, Augentropfen | Synthetika | Bakterielle Infektionen am Auge | Gültig |
+| 51357 | Floxal, Augentropfen | Synthetikum | Bakterielle Infektionen am Auge | Gültig |
+| 51358 | Floxal, Augensalbe | Synthetikum | Bakterielle Infektionen am Auge | Gültig |
+| 55383 | Floxal UD, Augentropfen | Synthetikum | Bakterielle Infektionen am Auge | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

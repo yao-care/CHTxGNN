@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 75
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Piperacillin: vorhergesagte neue Indikation Rheumatoide Arthritis (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
@@ -99,11 +99,11 @@ Die folgenden Publikationen sind Fallberichte oder Kohortenstudien. Sie belegen 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58151 | Piperacillin/Tazobactam Sandoz 2,25 g, Pulver zur Herstellung einer I… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 58459 | Piperacillin-Tazobactam Stragen 2,25 g, poudre pour solution pour per… (+1 weitere Bezeichnung) | Synthetika | maladies infectieuses | Gültig |
-| 60142 | Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, poudre pour solut… (+1 weitere Bezeichnung) | Synthetika | maladies infectieuses | Gültig |
-| 63001 | Piperacillin/Tazobactam Fresenius i.v. 2 g/0.25 g, Pulver zur Herstel… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 66647 | Piperacillin/Tazobactam Viatris 2 g/0.25 g, Pulver zur Herstellung ei… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 58151 | Piperacillin/Tazobactam Sandoz 2,25 g, Pulver zur Herstellung einer I… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 58459 | Piperacillin-Tazobactam Stragen 2,25 g, poudre pour solution pour per… (+1 weitere Bezeichnung) | Synthetikum | maladies infectieuses | Gültig |
+| 60142 | Piperacilline-Tazobactam Labatec i.v. 2 g - 0,25 g, poudre pour solut… (+1 weitere Bezeichnung) | Synthetikum | maladies infectieuses | Gültig |
+| 63001 | Piperacillin/Tazobactam Fresenius i.v. 2 g/0.25 g, Pulver zur Herstel… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 66647 | Piperacillin/Tazobactam Viatris 2 g/0.25 g, Pulver zur Herstellung ei… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

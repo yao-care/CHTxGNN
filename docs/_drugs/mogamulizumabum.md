@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB12498
 monitor_inn: "Mogamulizumab"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Mogamulizumabum: vorhergesagte neue Indikation Prostatisches Urothel-Urethrakarzinom (prostatic urethra urothelial carcinoma) (Evidenzstufe L5)."
 ---
 
@@ -71,7 +71,7 @@ Denkbar wäre, dass CCR4-positive Tregs im Tumorumfeld das Immunsystem bremsen u
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67444 | Poteligeo 4 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Poteligeo ist indiziert für die Behandlung von erwachsenen Patienten mit rezidivierter oder refraktärer Mycos… | Gültig |
+| 67444 | Poteligeo 4 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Poteligeo ist indiziert für die Behandlung von erwachsenen Patienten mit rezidivierter oder refraktärer Mycos… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

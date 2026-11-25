@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00331
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metforminum: vorhergesagte neue Indikation Fokales Stiff-Limb-Syndrom (focal stiff limb syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Orales Antidiabetikum"
 ---
 
@@ -73,9 +73,9 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis. Er ist identisch mit dem 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57950 | Metformin-Mepha 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | orales Antidiabetikum | Gültig |
-| 59099 | Metfo-X 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Orales Antidiabetikum | Gültig |
-| 69689 | Metformin axapharm 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Orales Antidiabetikum | Gültig |
+| 57950 | Metformin-Mepha 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | orales Antidiabetikum | Gültig |
+| 59099 | Metfo-X 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Orales Antidiabetikum | Gültig |
+| 69689 | Metformin axapharm 500 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Orales Antidiabetikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

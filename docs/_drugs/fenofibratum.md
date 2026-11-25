@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01039
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fenofibratum: vorhergesagte neue Indikation Cholesterinester-Transferprotein-Mangel (cholesterol-ester transfer protein deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Hyperlipidämie"
 ---
 
@@ -85,7 +85,7 @@ Ein therapeutischer Nutzen ist unklar: Fenofibrat würde das HDL in einer Situat
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52620 | Lipanthyl 200 M, Kapseln (+1 weitere Bezeichnung) | Synthetika | Hyperlipidämie | Gültig |
+| 52620 | Lipanthyl 200 M, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Hyperlipidämie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

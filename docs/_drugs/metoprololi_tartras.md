@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00264
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metoprololi Tartras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -95,9 +95,9 @@ Die Zulassung 39252 (Lopresor 100) ist in den aktuellen Swissmedic-Listen nicht 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56969 | Meto Zerok 25, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 65958 | Metoprolol Axapharm retard 25 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 39252 | Lopresor 100, Filmtabletten | Synthetika | Beta-Rezeptorenblocker | Erloschen |
+| 56969 | Meto Zerok 25, Retardtabletten (+3 weitere Bezeichnungen) | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 65958 | Metoprolol Axapharm retard 25 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 39252 | Lopresor 100, Filmtabletten | Synthetikum | Beta-Rezeptorenblocker | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

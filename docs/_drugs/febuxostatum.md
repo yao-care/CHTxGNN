@@ -90,7 +90,7 @@ Ein einziger denkbarer Anknüpfungspunkt ist ein Fallbericht, in dem Xanthinoxid
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65851 | Adenuric 80 mg, Filmtabletten | Synthetika | Urikostatikum | Gültig |
+| 65851 | Adenuric 80 mg, Filmtabletten | Synthetikum | Urikostatikum | Gültig |
 | 70217 | Febuxostat Spirig HC 80 mg, Filmtabletten | Synthetikum | Urikostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

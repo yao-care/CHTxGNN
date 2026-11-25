@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00541
 monitor_inn: "Vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vincristini Sulfas: vorhergesagte neue Indikation Vertebrale Anomalien mit variabler endokriner und T-Zell-Dysfunktion (vertebral anomalies and variable endocrine and T-cell dysfunction) (Evidenzstufe L5)."
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48000 | Vincristin Teva 1 mg/1 ml, Injektionslösung (+2 weitere Bezeichnungen) | Synthetika | Zytostatikum | Gültig |
-| 53640 | Vincristine Pfizer, Injektionslösung | Synthetika | Zytostatikum | Erloschen |
+| 48000 | Vincristin Teva 1 mg/1 ml, Injektionslösung (+2 weitere Bezeichnungen) | Synthetikum | Zytostatikum | Gültig |
+| 53640 | Vincristine Pfizer, Injektionslösung | Synthetikum | Zytostatikum | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

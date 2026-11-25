@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB09054
 monitor_inn: "Idelalisib"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Idelalisibum: vorhergesagte neue Indikation Mantelzelllymphom (mantle cell lymphoma) (Evidenzstufe L2). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -104,7 +104,7 @@ Einschränkend zeigen Laborarbeiten eine primäre Resistenz des Mantelzelllympho
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65291 | Zydelig 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
+| 65291 | Zydelig 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Onkologikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01045
 monitor_inn: "Rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rifampicinum: vorhergesagte neue Indikation Bindehautentzündung (conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Tuberkulose und andere Infektionskrankheiten"
 ---
 
@@ -100,10 +100,10 @@ Keine der Arbeiten ist ein moderner kontrollierter Versuch. Die Einstufung als L
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 34279 | Rimactan 150, Kapseln (+1 weitere Bezeichnung) | Synthetika | Tuberkulose und andere Infektionskrankheiten | Gültig |
-| 50264 | Rifampicine Labatec 150 mg, gélules (+1 weitere Bezeichnung) | Synthetika | Tuberculostatique | Gültig |
-| 65101 | Rifampicin Labatec i.v. 300mg, poudre pour solution pour perfusion (+1 weitere Bezeichnung) | Synthetika | Tuberculose et autres maladies infectieuses | Gültig |
-| 65105 | Rifampicin Labatec 450 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | Tuberculose et autres maladies infectieuses | Gültig |
+| 34279 | Rimactan 150, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Tuberkulose und andere Infektionskrankheiten | Gültig |
+| 50264 | Rifampicine Labatec 150 mg, gélules (+1 weitere Bezeichnung) | Synthetikum | Tuberculostatique | Gültig |
+| 65101 | Rifampicin Labatec i.v. 300mg, poudre pour solution pour perfusion (+1 weitere Bezeichnung) | Synthetikum | Tuberculose et autres maladies infectieuses | Gültig |
+| 65105 | Rifampicin Labatec 450 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetikum | Tuberculose et autres maladies infectieuses | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

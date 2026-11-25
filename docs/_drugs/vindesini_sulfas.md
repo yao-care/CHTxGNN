@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00309
 monitor_inn: "Vindesine"
 predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "neuroblastoma", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vindesini Sulfas: vorhergesagte neue Indikation Ganglioneuroblastoma (disease) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -73,7 +73,7 @@ Für diese konkrete Indikation gibt es jedoch weder Studien noch Publikationen. 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 42863 | Eldisine, Pulver zur Herstellung einer Injektionslösung | Synthetika | Zytostatikum | Gültig |
+| 42863 | Eldisine, Pulver zur Herstellung einer Injektionslösung | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

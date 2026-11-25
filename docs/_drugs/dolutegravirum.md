@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB08930
 monitor_inn: "Dolutegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dolutegravirum: vorhergesagte neue Indikation Simian-Immundefizienz-Virus-Infektion (simian immunodeficiency virus infection) (Evidenzstufe L3). Ursprüngliche Indikation: HIV-1-Infektionen"
 ---
 
@@ -97,8 +97,8 @@ Es liegen keine Studien am Menschen vor. Die wichtigsten Arbeiten sind Tier- und
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 63052 | Tivicay 50 mg, Filmtabletten | Synthetika | HIV-1-Infektionen | Gültig |
-| 67861 | Tivicay 5 mg, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetika | HIV-1-Infektionen | Gültig |
+| 63052 | Tivicay 50 mg, Filmtabletten | Synthetikum | HIV-1-Infektionen | Gültig |
+| 67861 | Tivicay 5 mg, Tabletten zur Herstellung einer Suspension zum Einnehmen | Synthetikum | HIV-1-Infektionen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

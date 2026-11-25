@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08816
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ticagrelorum: vorhergesagte neue Indikation Intrakranielle Arteriosklerose (intracranial arteriosclerosis) (Evidenzstufe L5)."
 ---
 
@@ -103,10 +103,10 @@ Die Zulassung 68830 (Ticagrelor Zentiva) ist in den aktuellen Swissmedic-Listen 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 68430 | Ticagrelor Sandoz 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
-| 68827 | Ticagrelor-Mepha 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
-| 69816 | Ticagrelor Devatis 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
-| 68830 | Ticagrelor Zentiva 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Thrombozytenaggregationshemmer (in Kombination mit Acetylsalicylsäure) | Erloschen |
+| 68430 | Ticagrelor Sandoz 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
+| 68827 | Ticagrelor-Mepha 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
+| 69816 | Ticagrelor Devatis 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Thrombozytenaggregationshemmung in Kombination mit Acetylsalicylsäure | Gültig |
+| 68830 | Ticagrelor Zentiva 60 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Thrombozytenaggregationshemmer (in Kombination mit Acetylsalicylsäure) | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

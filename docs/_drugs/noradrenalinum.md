@@ -97,10 +97,10 @@ Keine der Publikationen untersucht Noradrenalin als Therapie bei obstruktiver Lu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 60955 | Noradrenalin Sintetica 1 mg/1 ml, concentrato per soluzione per infus… (+2 weitere Bezeichnungen) | Synthetika | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
-| 67023 | Noradrenalin Sintetica 0.06 mg/ml, soluzione per infusione (+3 weitere Bezeichnungen) | Synthetika | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
-| 69772 | Noradrenalin Sintetica Ultradiluted 0,01 mg/ml, soluzione iniettabile… (+1 weitere Bezeichnung) | Synthetika | Restauro e mantenimento della pressione arteriosa perioperatoria dopo ipotensione indotta da anestesia rachid… | Gültig |
-| 70013 | Noradrenaline Aguettant 4 mg/4 ml, solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetika | Sympathomimétique, vasoconstricteur, stimulant cardiaque | Gültig |
+| 60955 | Noradrenalin Sintetica 1 mg/1 ml, concentrato per soluzione per infus… (+2 weitere Bezeichnungen) | Synthetikum | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
+| 67023 | Noradrenalin Sintetica 0.06 mg/ml, soluzione per infusione (+3 weitere Bezeichnungen) | Synthetikum | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
+| 69772 | Noradrenalin Sintetica Ultradiluted 0,01 mg/ml, soluzione iniettabile… (+1 weitere Bezeichnung) | Synthetikum | Restauro e mantenimento della pressione arteriosa perioperatoria dopo ipotensione indotta da anestesia rachid… | Gültig |
+| 70013 | Noradrenaline Aguettant 4 mg/4 ml, solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetikum | Sympathomimétique, vasoconstricteur, stimulant cardiaque | Gültig |
 | 70326 | Noradrenalin Nardia 0,016 mg/ml, soluzione per infusione (+2 weitere Bezeichnungen) | Synthetikum | Simpatomimetico, vasocostrittore, stimolante cardiaco | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

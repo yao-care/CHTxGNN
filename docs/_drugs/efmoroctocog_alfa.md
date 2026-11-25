@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 43
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Efmoroctocog Alfa: vorhergesagte neue Indikation Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung und Prophylaxe von Blutungen bei…"
 monitor_inn: "efmoroctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
@@ -101,7 +101,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65843 | Elocta 250 I.E., Pulver und Lösungsmittel zur Herstellung einer Injek… (+7 weitere Bezeichnungen) | Biotechnologika | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A | Gültig |
+| 65843 | Elocta 250 I.E., Pulver und Lösungsmittel zur Herstellung einer Injek… (+7 weitere Bezeichnungen) | Biotechnologikum | Behandlung und Prophylaxe von Blutungen bei Patienten mit Hämophilie A | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

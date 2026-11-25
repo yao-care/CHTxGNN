@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01190
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clindamycinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5)."
 ---
 
@@ -73,15 +73,15 @@ Die punktförmige epitheliale Keratokonjunktivitis ist in der Regel viral, aller
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 38978 | Dalacin C Phosphat 300 mg, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 48006 | Dalacin T, Emulsion zur Anwendung auf der Haut | Synthetika | Akne vulgaris | Gültig |
-| 58919 | Clindamycin Sandoz 150, Kapseln | Synthetika | Infektionskrankheiten | Gültig |
-| 59324 | Clindamycin [phosphat] Sandoz i.v./i.m. 600 mg/4ml, Konzentrat zur He… | Synthetika | Infektionskrankheiten | Gültig |
-| 61556 | Clindamycin Pfizer 150 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 61727 | Clindamycin Zentiva 150 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 61898 | Clindamycin Phosphat Pfizer i.v./i.m. 300 mg, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 62980 | Clindamycin-Mepha 150, Kapseln (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 62981 | Clindamycin [Phosphat]-Mepha i.v./i.m. 600 mg/4 ml, Konzentrat zur He… | Synthetika | Infektionskrankheiten | Gültig |
+| 38978 | Dalacin C Phosphat 300 mg, Injektionslösung (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 48006 | Dalacin T, Emulsion zur Anwendung auf der Haut | Synthetikum | Akne vulgaris | Gültig |
+| 58919 | Clindamycin Sandoz 150, Kapseln | Synthetikum | Infektionskrankheiten | Gültig |
+| 59324 | Clindamycin [phosphat] Sandoz i.v./i.m. 600 mg/4ml, Konzentrat zur He… | Synthetikum | Infektionskrankheiten | Gültig |
+| 61556 | Clindamycin Pfizer 150 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 61727 | Clindamycin Zentiva 150 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 61898 | Clindamycin Phosphat Pfizer i.v./i.m. 300 mg, Injektionslösung (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 62980 | Clindamycin-Mepha 150, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 62981 | Clindamycin [Phosphat]-Mepha i.v./i.m. 600 mg/4 ml, Konzentrat zur He… | Synthetikum | Infektionskrankheiten | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

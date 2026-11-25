@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01072
 monitor_inn: "Atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Atazanavirum: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert beruht allein auf einer netzwerkbasierten Modellberechnu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66339 | Atazanavir-Mepha 150mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | HIV-Infektionen | Gültig |
+| 66339 | Atazanavir-Mepha 150mg, Kapseln (+2 weitere Bezeichnungen) | Synthetikum | HIV-Infektionen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00213
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pantoprazolum: vorhergesagte neue Indikation Duodenalobstruktion (duodenal obstruction) (Evidenzstufe L5). Ursprüngliche Indikation: Ulcustherapie, Refluxoesophagitis, Zollinger-Ellison-Syndrom"
 ---
 
@@ -87,9 +87,9 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52710 | Pantozol 40 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetika | Protonenpumpenhemmer | Gültig |
-| 55551 | Pantozol i.v., Lyophilisat | Synthetika | Protonenpumpenhemmer | Gültig |
-| 59384 | Pantoprazol axapharm 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetika | Ulcustherapie, Refluxoesophagitis, Zollinger-Ellison-Syndrom | Gültig |
+| 52710 | Pantozol 40 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetikum | Protonenpumpenhemmer | Gültig |
+| 55551 | Pantozol i.v., Lyophilisat | Synthetikum | Protonenpumpenhemmer | Gültig |
+| 59384 | Pantoprazol axapharm 20 mg, magensaftresistente Tabletten (+1 weitere Bezeichnung) | Synthetikum | Ulcustherapie, Refluxoesophagitis, Zollinger-Ellison-Syndrom | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

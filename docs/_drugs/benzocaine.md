@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzocaine"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Benzocaine: vorhergesagte neue Indikation Papilläre Konjunktivitis (papillary conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Anesthésique"
 ---
 
@@ -84,8 +84,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 25164 | Benzocaine PD, pâte buccale | Synthetika | Anesthésique | Gültig |
-| 56688 | True Test, Pflaster | Allergen: Diagnostikum | Diagnose von Allergien | Gültig |
+| 25164 | Benzocaine PD, pâte buccale | Synthetikum | Anesthésique | Gültig |
+| 56688 | True Test, Pflaster | Allergen-Diagnostikum | Diagnose von Allergien | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

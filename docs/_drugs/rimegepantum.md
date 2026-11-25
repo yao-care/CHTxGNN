@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB12457
 monitor_inn: "Rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rimegepantum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Migränemittel"
 ---
 
@@ -71,7 +71,7 @@ Atrophoderma vermiculata ist eine seltene follikuläre Verhornungsstörung mit n
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 69035 | Vydura 75 mg, Lyophilisat zum Einnehmen | Synthetika | Migränemittel | Gültig |
+| 69035 | Vydura 75 mg, Lyophilisat zum Einnehmen | Synthetikum | Migränemittel | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

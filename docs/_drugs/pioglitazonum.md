@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01132
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pioglitazonum: vorhergesagte neue Indikation Opsismodysplasie (opsismodysplasia) (Evidenzstufe L5). Ursprüngliche Indikation: orales Antidiabetikum"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55378 | Actos 15 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | orales Antidiabetikum | Gültig |
-| 62095 | Pioglitazon-Mepha Teva 15 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | orales Antidiabetikum | Gültig |
+| 55378 | Actos 15 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | orales Antidiabetikum | Gültig |
+| 62095 | Pioglitazon-Mepha Teva 15 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | orales Antidiabetikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

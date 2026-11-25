@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00334
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Olanzapinum: vorhergesagte neue Indikation Gutartiger paroxysmaler Torticollis des Säuglingsalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5). Ursprüngliche Indikation: Neuroleptica"
 ---
 
@@ -73,10 +73,10 @@ Da die Erkrankung gutartig verläuft und von selbst abklingt, ist das Nutzen-Ris
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53709 | Zyprexa 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
-| 55311 | Zyprexa Velotab 5 mg, Schmelztabletten | Synthetika | Neuroleptikum | Gültig |
-| 59333 | Olanzapin-Mepha 5 oro, Schmelztabletten (+4 weitere Bezeichnungen) | Synthetika | Neuroleptica | Gültig |
-| 59813 | Olanzapin Spirig HC 2.5, Filmtabletten (+4 weitere Bezeichnungen) | Synthetika | Neuroleptica | Gültig |
+| 53709 | Zyprexa 5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Neuroleptikum | Gültig |
+| 55311 | Zyprexa Velotab 5 mg, Schmelztabletten | Synthetikum | Neuroleptikum | Gültig |
+| 59333 | Olanzapin-Mepha 5 oro, Schmelztabletten (+4 weitere Bezeichnungen) | Synthetikum | Neuroleptica | Gültig |
+| 59813 | Olanzapin Spirig HC 2.5, Filmtabletten (+4 weitere Bezeichnungen) | Synthetikum | Neuroleptica | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

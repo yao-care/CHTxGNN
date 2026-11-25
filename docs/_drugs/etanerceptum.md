@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00005
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Etanerceptum: vorhergesagte neue Indikation Steissbeinhypermobilität (hypermobility of coccyx) (Evidenzstufe L5). Ursprüngliche Indikation: Rheumatoide Arthritis…"
 ---
 
@@ -73,15 +73,15 @@ Die Liste ist möglicherweise unvollständig (mindestens 9 Zulassungen; alle 9 a
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55365 | Enbrel 25 mg, Pulver und Lösungsmittel zur Herstellung einer Injektio… | Biotechnologika | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
-| 57711 | Enbrel 25 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
-| 60025 | Enbrel MyClic 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
-| 66175 | Erelzi 25 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologika | Rheumatoide Arthritis, juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, E… | Gültig |
-| 66176 | Erelzi SensoReady 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, E… | Gültig |
-| 66323 | Benepali 50 mg, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
-| 66325 | Benepali 50 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
-| 68149 | Nepexto 50 mg/1 ml, Injektionslsöung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
-| 68150 | Nepexto 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologika | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 55365 | Enbrel 25 mg, Pulver und Lösungsmittel zur Herstellung einer Injektio… | Biotechnologikum | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
+| 57711 | Enbrel 25 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
+| 60025 | Enbrel MyClic 50 mg, Injektionslösung im Fertigpen | Biotechnologikum | Rheumatoide Arthritis, aktive juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthr… | Gültig |
+| 66175 | Erelzi 25 mg/0.5 ml, Injektionslösung in einer Fertigspritze | Biotechnologikum | Rheumatoide Arthritis, juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, E… | Gültig |
+| 66176 | Erelzi SensoReady 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologikum | Rheumatoide Arthritis, juvenile idiopatische Arthritis (Polyarthritis, Oligoarthritis, Psoriasis-Arthritis, E… | Gültig |
+| 66323 | Benepali 50 mg, Injektionslösung im Fertigpen | Biotechnologikum | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 66325 | Benepali 50 mg, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 68149 | Nepexto 50 mg/1 ml, Injektionslsöung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
+| 68150 | Nepexto 50 mg/1 ml, Injektionslösung im Fertigpen | Biotechnologikum | Rheumatoide Arthritis, Psoriasis-Arthritis, Ankylosierende Spondylitis, Plaque-Psoriasis bei Erwachsenen sowi… | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

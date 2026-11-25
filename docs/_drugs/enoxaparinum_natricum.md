@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01225
 monitor_inn: "Enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Enoxaparinum Natricum: vorhergesagte neue Indikation Thrombophilie durch Protein-C-Mangel, autosomal-rezessiv (thrombophilia due to protein C deficiency, autosomal recessive) (Evidenzstufe L5)."
 ---
 
@@ -73,8 +73,8 @@ Dieser Zusammenhang ist jedoch bislang nur durch den hohen Modellwert gestützt,
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49456 | Clexane 20 mg/0.2 ml, solution injectable (+2 weitere Bezeichnungen) | Biotechnologika | Anticoagulant | Gültig |
-| 67702 | Hepaxane 2000 IE/UI (20 mg)/0.2 ml, solution injectable en seringue p… (+6 weitere Bezeichnungen) | Biotechnologika | Anticoagulant | Gültig |
+| 49456 | Clexane 20 mg/0.2 ml, solution injectable (+2 weitere Bezeichnungen) | Biotechnologikum | Anticoagulant | Gültig |
+| 67702 | Hepaxane 2000 IE/UI (20 mg)/0.2 ml, solution injectable en seringue p… (+6 weitere Bezeichnungen) | Biotechnologikum | Anticoagulant | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

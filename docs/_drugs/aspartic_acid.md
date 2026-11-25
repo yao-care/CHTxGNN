@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "aspartic acid"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Aspartic Acid: vorhergesagte neue Indikation Renale tubuläre Azidose (renal tubular acidosis) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 ---
 
@@ -85,12 +85,12 @@ Keine der Publikationen untersucht Asparaginsäure als Behandlung der renalen tu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 42847 | Nutriflex special, Infusionslösung | Synthetika | parenterale Ernährung | Gültig |
-| 47614 | Nutriflex Peri, Infusionslösung | Synthetika | Parenterale Ernährung | Gültig |
-| 51671 | Nutriflex plus, Infusionslösung 1000 ml (+1 weitere Bezeichnung) | Synthetika | Parenterale Ernährung | Gültig |
-| 59377 | OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Parenterale Ernährung | Gültig |
-| 65726 | Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml (+2 weitere Bezeichnungen) | Synthetika | Parenterale Ernährung | Gültig |
-| 65450 | Aminoplasmal B. Braun 10%, Infusionslösung | Synthetika | Parenterale Ernährung | Erloschen |
+| 42847 | Nutriflex special, Infusionslösung | Synthetikum | parenterale Ernährung | Gültig |
+| 47614 | Nutriflex Peri, Infusionslösung | Synthetikum | Parenterale Ernährung | Gültig |
+| 51671 | Nutriflex plus, Infusionslösung 1000 ml (+1 weitere Bezeichnung) | Synthetikum | Parenterale Ernährung | Gültig |
+| 59377 | OLIMEL 4,4 % ohne Elektrolyte, Infusionslösung (+1 weitere Bezeichnung) | Synthetikum | Parenterale Ernährung | Gültig |
+| 65726 | Omegaflex special ohne Elektrolyte, Emulsion zur Infusion 625 ml (+2 weitere Bezeichnungen) | Synthetikum | Parenterale Ernährung | Gültig |
+| 65450 | Aminoplasmal B. Braun 10%, Infusionslösung | Synthetikum | Parenterale Ernährung | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

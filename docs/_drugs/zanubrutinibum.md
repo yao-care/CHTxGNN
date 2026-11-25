@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB15035
 monitor_inn: "Zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Zanubrutinibum: vorhergesagte neue Indikation Myeloische Leukämie (myeloid leukemia) (Evidenzstufe L5). Ursprüngliche Indikation: B-Zell Lymphome"
 ---
 
@@ -96,8 +96,8 @@ Die Plausibilität ist daher gering. Der hohe Wert ist als Hinweis für weitere 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67998 | Brukinsa 80 mg, Hartkapseln | Synthetika | Morbus Waldenström, chronisch-lymphatische Leukämie (CLL), Follikuläres Lymphom | Gültig |
-| 69945 | Brukinsa 160 mg, Filmtabletten | Synthetika | B-Zell Lymphome | Gültig |
+| 67998 | Brukinsa 80 mg, Hartkapseln | Synthetikum | Morbus Waldenström, chronisch-lymphatische Leukämie (CLL), Follikuläres Lymphom | Gültig |
+| 69945 | Brukinsa 160 mg, Filmtabletten | Synthetikum | B-Zell Lymphome | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

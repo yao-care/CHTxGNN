@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Andexanet Alfa: vorhergesagte neue Indikation Glanzmann-Thrombasthenie (Evidenzstufe L5). Ursprüngliche Indikation: Antidot gegen Faktor-Xa-Inhibitoren"
 monitor_inn: "ANDEXANET ALFA"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]
@@ -84,7 +84,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67759 | Ondexxya 200 mg, Pulver zur Herstellung einer Infusionslösung | Biotechnologika | Antidot gegen Faktor Xa-Inhibitoren | Gültig |
+| 67759 | Ondexxya 200 mg, Pulver zur Herstellung einer Infusionslösung | Biotechnologikum | Antidot gegen Faktor Xa-Inhibitoren | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

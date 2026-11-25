@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 63227 | Jardiance 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Diabetes Typ 2, Prävention kardiovaskuläre Ereignisse, Herzinsuffizienz | Gültig |
+| 63227 | Jardiance 25 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Diabetes Typ 2, Prävention kardiovaskuläre Ereignisse, Herzinsuffizienz | Gültig |
 | 70630 | Empagliflozin Devatis 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Diabetes Typ 2, Prävention kardiovaskuläre Ereignisse, Herzinsuffizienz | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

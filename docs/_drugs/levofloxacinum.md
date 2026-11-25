@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01137
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levofloxacinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: malattie infettive"
 ---
 
@@ -89,10 +89,10 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 59085 | Levofloxacin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 60245 | Levofloxacin-Mepha Teva 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 61816 | Levex i.v. 250, soluzione per perfusione (+1 weitere Bezeichnung) | Synthetika | malattie infettive | Gültig |
-| 62207 | Levofloxacin Fresenius i.v. 250 mg/50 ml, Infusionslösung (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 59085 | Levofloxacin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 60245 | Levofloxacin-Mepha Teva 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 61816 | Levex i.v. 250, soluzione per perfusione (+1 weitere Bezeichnung) | Synthetikum | malattie infettive | Gültig |
+| 62207 | Levofloxacin Fresenius i.v. 250 mg/50 ml, Infusionslösung (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01418
 monitor_inn: "Acenocoumarol"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acenocoumarolum: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Anticoagulans"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 21693 | Sintrom 1 mitis, Tabletten (+1 weitere Bezeichnung) | Synthetika | Anticoagulans | Gültig |
+| 21693 | Sintrom 1 mitis, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Anticoagulans | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

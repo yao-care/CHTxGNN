@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB06602
 monitor_inn: "Reslizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Reslizumabum: vorhergesagte neue Indikation Immunthrombozytopenie (thrombocytopenia due to immune destruction) (Evidenzstufe L5)."
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert ist deshalb als reine Modellaussage zu verstehen. Er ers
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66340 | Cinqaero 100 mg/10 mL, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Biotechnologika | Zusatztherapie bei schwerem eosinophilem Asthma bei Erwachsenen | Gültig |
+| 66340 | Cinqaero 100 mg/10 mL, Konzentrat zur Herstellung einer Infusionslösu… (+1 weitere Bezeichnung) | Biotechnologikum | Zusatztherapie bei schwerem eosinophilem Asthma bei Erwachsenen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

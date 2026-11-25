@@ -85,10 +85,10 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 25926 | Vitamin C Streuli 10 %/ 5 mL, Injektionslösung (+1 weitere Bezeichnung) | Synthetika | Vitamin-C-Präparat | Gültig |
-| 44259 | Burgerstein Vitamin C retard, Hartkapseln | Synthetika | Vitamin C-Präparat | Gültig |
-| 56194 | Redoxon Orangenaroma, Kautabletten | Synthetika | Vitamin-C-Präparat | Gültig |
-| 56354 | Redoxon orange 1g, Brausetabletten | Synthetika | Vitamin C Präparat | Gültig |
+| 25926 | Vitamin C Streuli 10 %/ 5 mL, Injektionslösung (+1 weitere Bezeichnung) | Synthetikum | Vitamin-C-Präparat | Gültig |
+| 44259 | Burgerstein Vitamin C retard, Hartkapseln | Synthetikum | Vitamin C-Präparat | Gültig |
+| 56194 | Redoxon Orangenaroma, Kautabletten | Synthetikum | Vitamin-C-Präparat | Gültig |
+| 56354 | Redoxon orange 1g, Brausetabletten | Synthetikum | Vitamin C Präparat | Gültig |
 | 70717 | Pascoe Pascorbin 2.5 g/50 ml, Injektions-/Infusionslösung | Synthetikum | Vitamin-C-Präparat | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

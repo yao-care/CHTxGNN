@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB14762
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Risankizumabum: vorhergesagte neue Indikation Dermatitis (Evidenzstufe L2). Ursprüngliche Indikation: Plaque-Psoriasis und Psoriasis-Arthritis bei Erwachsenen"
 ---
 
@@ -98,10 +98,10 @@ Der hohe Vorhersagewert ist deshalb mit Vorsicht zu lesen. Die einzige randomisi
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66944 | Skyrizi 75 mg, lnjektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Plaque-Psoriasis bei Erwachsenen, Psoriasis-Arthritis | Gültig |
-| 68118 | Skyrizi 150mg, Injektionslösung im Fertigpen | Biotechnologika | Plaque-Psoriasis und Psoriasis-Arthritis bei Erwachsenen | Gültig |
-| 68946 | Skyrizi 360 mg, Injektionslösung in einer Patrone für ein Dosiergerät (+1 weitere Bezeichnung) | Biotechnologika | Morbus Crohn und Colitis ulcerosa bei Erwachsenen | Gültig |
-| 68947 | Skyrizi 600 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Morbus Crohn und Colitis ulcerosa bei Erwachsenen | Gültig |
+| 66944 | Skyrizi 75 mg, lnjektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Plaque-Psoriasis bei Erwachsenen, Psoriasis-Arthritis | Gültig |
+| 68118 | Skyrizi 150mg, Injektionslösung im Fertigpen | Biotechnologikum | Plaque-Psoriasis und Psoriasis-Arthritis bei Erwachsenen | Gültig |
+| 68946 | Skyrizi 360 mg, Injektionslösung in einer Patrone für ein Dosiergerät (+1 weitere Bezeichnung) | Biotechnologikum | Morbus Crohn und Colitis ulcerosa bei Erwachsenen | Gültig |
+| 68947 | Skyrizi 600 mg/10 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Morbus Crohn und Colitis ulcerosa bei Erwachsenen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

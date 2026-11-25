@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01130
 monitor_inn: "Prednicarbate"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Prednicarbatum: vorhergesagte neue Indikation Vulväre invertierte follikuläre Keratose (vulvar inverted follicular keratosis) (Evidenzstufe L5)."
 ---
 
@@ -75,10 +75,10 @@ Der hohe Vorhersagewert ist eine reine Modellberechnung. Er dürfte vor allem da
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 60151 | Prednicutan, Salbe | Synthetika | Nicht infizierte entzündliche Dermatosen | Gültig |
-| 60152 | Prednicutan, Fettsalbe | Synthetika | Nicht infizierte entzündliche Dermatosen | Gültig |
-| 60153 | Prednicutan, Creme | Synthetika | Nicht infizierte entzündliche Dermatosen | Gültig |
-| 62322 | Prednicutan Crinale, Lösung | Synthetika | Nicht infizierte entzündliche Dermatose | Gültig |
+| 60151 | Prednicutan, Salbe | Synthetikum | Nicht infizierte entzündliche Dermatosen | Gültig |
+| 60152 | Prednicutan, Fettsalbe | Synthetikum | Nicht infizierte entzündliche Dermatosen | Gültig |
+| 60153 | Prednicutan, Creme | Synthetikum | Nicht infizierte entzündliche Dermatosen | Gültig |
+| 62322 | Prednicutan Crinale, Lösung | Synthetikum | Nicht infizierte entzündliche Dermatose | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

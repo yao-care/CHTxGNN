@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06209
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Prasugrelum: vorhergesagte neue Indikation Pulmonale Hypertonie (pulmonary hypertension) (Evidenzstufe L5)."
 ---
 
@@ -90,9 +90,9 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 59136 | Efient 5 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetika | En association avec l'acide acétylsalicylique (AAS) pour la prévention des événements athérothrombotiques | Gültig |
-| 67416 | Prasugrel-Mepha 5 mg, Lactab (+1 weitere Bezeichnung) | Synthetika | In Kombination mit Acetylsalicylsäure (ASS) zur Prävention atherothrombotischer Ereignisse | Gültig |
-| 69837 | Prasugrel Spirig HC 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | In Kombination mit Acetylsalicylsäure (ASS) zur Prävention atherothrombotischer Ereignisse | Gültig |
+| 59136 | Efient 5 mg, comprimés pelliculés (+1 weitere Bezeichnung) | Synthetikum | En association avec l'acide acétylsalicylique (AAS) pour la prévention des événements athérothrombotiques | Gültig |
+| 67416 | Prasugrel-Mepha 5 mg, Lactab (+1 weitere Bezeichnung) | Synthetikum | In Kombination mit Acetylsalicylsäure (ASS) zur Prävention atherothrombotischer Ereignisse | Gültig |
+| 69837 | Prasugrel Spirig HC 5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | In Kombination mit Acetylsalicylsäure (ASS) zur Prävention atherothrombotischer Ereignisse | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

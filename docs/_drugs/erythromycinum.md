@@ -81,10 +81,10 @@ Zu beachten: Der Begriff kann sich mit der adenoviralen Keratokonjunktivitis üb
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 20258 | Erythrocin i.v., Pulver zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten | Gültig |
-| 46084 | Akne-mycin, Lösung | Synthetika | Akne vulgaris | Gültig |
-| 48142 | Akne-mycin 2000, Salbe | Synthetika | Akne vulgaris | Gültig |
-| 51303 | Aknilox 2%, Gel (+1 weitere Bezeichnung) | Synthetika | Akne vulgaris | Gültig |
+| 20258 | Erythrocin i.v., Pulver zur Herstellung einer Infusionslösung | Synthetikum | Infektionskrankheiten | Gültig |
+| 46084 | Akne-mycin, Lösung | Synthetikum | Akne vulgaris | Gültig |
+| 48142 | Akne-mycin 2000, Salbe | Synthetikum | Akne vulgaris | Gültig |
+| 51303 | Aknilox 2%, Gel (+1 weitere Bezeichnung) | Synthetikum | Akne vulgaris | Gültig |
 | 70183 | Erythromycine Panpharma 500 mg, poudre pour solution à diluer pour pe… (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

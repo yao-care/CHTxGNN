@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06650
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ofatumumabum: vorhergesagte neue Indikation Follikuläres Lymphom (follicular lymphoma) (Evidenzstufe L2). Ursprüngliche Indikation: Multiple Sklerose"
 ---
 
@@ -110,7 +110,7 @@ Die Tabelle zeigt bis zu 10 der relevantesten Studien. Die Studienbeschreibungen
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67758 | Kesimpta, Injektionslösung in Fertigpen | Biotechnologika | Multiple Sklerose | Gültig |
+| 67758 | Kesimpta, Injektionslösung in Fertigpen | Biotechnologikum | Multiple Sklerose | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

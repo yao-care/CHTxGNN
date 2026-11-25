@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00555
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lamotriginum: vorhergesagte neue Indikation Trigeminusneoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum…"
 ---
 
@@ -90,10 +90,10 @@ Die Liste ist möglicherweise unvollständig (mindestens 4 Zulassungen erfasst, 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52853 | Lamictal 5 mg, Kautabletten/dispergierbare Tabletten (+5 weitere Bezeichnungen) | Synthetika | Antiepilepticum, Prävention von depressiven Episoden bei Patienten mit bipolaren Störungen | Gültig |
-| 57367 | Lamotrigin Zentiva 5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Gültig |
-| 57412 | Lamotrigin Sandoz 25, Tabletten (+4 weitere Bezeichnungen) | Synthetika | Antiepilepticum | Gültig |
-| 57437 | Lamotrigin Desitin 25 mg, Tabletten (+4 weitere Bezeichnungen) | Synthetika | Antiepilepticum, Prävention von depressiven Episoden bei Patienten mit bipolaren Störungen | Gültig |
+| 52853 | Lamictal 5 mg, Kautabletten/dispergierbare Tabletten (+5 weitere Bezeichnungen) | Synthetikum | Antiepilepticum, Prävention von depressiven Episoden bei Patienten mit bipolaren Störungen | Gültig |
+| 57367 | Lamotrigin Zentiva 5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Antiepileptikum | Gültig |
+| 57412 | Lamotrigin Sandoz 25, Tabletten (+4 weitere Bezeichnungen) | Synthetikum | Antiepilepticum | Gültig |
+| 57437 | Lamotrigin Desitin 25 mg, Tabletten (+4 weitere Bezeichnungen) | Synthetikum | Antiepilepticum, Prävention von depressiven Episoden bei Patienten mit bipolaren Störungen | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

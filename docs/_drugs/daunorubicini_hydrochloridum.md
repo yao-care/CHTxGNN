@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00694
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Daunorubicini Hydrochloridum: vorhergesagte neue Indikation Hodgkin-Lymphom (Hodgkins lymphoma) (Evidenzstufe L5)."
 ---
 
@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 68340 | Daunoblastin 20 mg, Pulver für ein Konzentrat zur Herstellung einer I… | Synthetika | Remissionsinduktion bei akuten lymphoblastischen bzw. lymphatischen (ALL) und bei akuten myeloischen Leukämie… | Gültig |
+| 68340 | Daunoblastin 20 mg, Pulver für ein Konzentrat zur Herstellung einer I… | Synthetikum | Remissionsinduktion bei akuten lymphoblastischen bzw. lymphatischen (ALL) und bei akuten myeloischen Leukämie… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00715
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Paroxetinum: vorhergesagte neue Indikation Ohdo-Syndrom und Varianten (Ohdo syndrome and variants) (Evidenzstufe L5). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahmehemmer"
 ---
 
@@ -89,12 +89,12 @@ Es sind mindestens 6 Zulassungen erfasst; die Liste kann unvollständig sein. Da
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51188 | Deroxat, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 56780 | Paronex 20, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 58636 | Paroxetin-Mepha 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 69271 | Paroxetin-Mepha Teva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 56962 | Paroxetin Zentiva, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Erloschen |
-| 66970 | Paroxetin Spirig HC 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Erloschen |
+| 51188 | Deroxat, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 56780 | Paronex 20, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 58636 | Paroxetin-Mepha 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 69271 | Paroxetin-Mepha Teva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 56962 | Paroxetin Zentiva, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Erloschen |
+| 66970 | Paroxetin Spirig HC 20 mg, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

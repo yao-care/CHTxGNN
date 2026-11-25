@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB11642
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pitolisantum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Narkolepsie mit oder ohne Kataplexie bei Erwachsenen…"
 ---
 
@@ -98,7 +98,7 @@ Keine der Publikationen untersucht Pitolisant direkt bei Schlaflosigkeit. Die fo
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67007 | Wakix 4.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung der Narkolepsie mit oder ohne Kataplexie bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren | Gültig |
+| 67007 | Wakix 4.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung der Narkolepsie mit oder ohne Kataplexie bei Erwachsenen, Jugendlichen und Kindern ab 6 Jahren | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00714
 monitor_inn: "Apomorphine"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Apomorphini Hydrochloridum Hemihydricum: vorhergesagte neue Indikation Polymikrogyrie, perisylvisch, mit Kleinhirnhypoplasie und Arthrogrypose (polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis) (Evidenzstufe L5)."
 ---
 
@@ -73,12 +73,12 @@ Zwischen dieser Wirkung und der vorhergesagten Erkrankung besteht kein belegter 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56511 | Apomorphin HCI Amino 10mg/ml, Injektionslösung | Synthetika | Antiparkinson | Gültig |
-| 63175 | APO-go 10 mg/ml, Injektionslösung in einem Pen | Synthetika | Morbus Parkinson | Gültig |
-| 63176 | APO-go 50 mg/10 ml, Infusionslösung in einer Fertigspritze | Synthetika | Morbus Parkinson | Gültig |
-| 67068 | Dacepton 10 mg/ml, Injektionslösung in einer Patrone | Synthetika | Morbus Parkinson | Gültig |
-| 67125 | Dacepton 5 mg/ml, Infusionslösung | Synthetika | Morbus Parkinson | Gültig |
-| 68604 | APO-go 100mg/20ml, Infusionslösung in einer Patrone | Synthetika | Morbus Parkinson | Gültig |
+| 56511 | Apomorphin HCI Amino 10mg/ml, Injektionslösung | Synthetikum | Antiparkinson | Gültig |
+| 63175 | APO-go 10 mg/ml, Injektionslösung in einem Pen | Synthetikum | Morbus Parkinson | Gültig |
+| 63176 | APO-go 50 mg/10 ml, Infusionslösung in einer Fertigspritze | Synthetikum | Morbus Parkinson | Gültig |
+| 67068 | Dacepton 10 mg/ml, Injektionslösung in einer Patrone | Synthetikum | Morbus Parkinson | Gültig |
+| 67125 | Dacepton 5 mg/ml, Infusionslösung | Synthetikum | Morbus Parkinson | Gültig |
+| 68604 | APO-go 100mg/20ml, Infusionslösung in einer Patrone | Synthetikum | Morbus Parkinson | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

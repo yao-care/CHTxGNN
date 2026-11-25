@@ -75,10 +75,10 @@ Der hohe Wert spiegelt jedoch wahrscheinlich vor allem die Nähe zur bereits zug
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 47346 | NeoCitran Grippe / Erkältung für Erwachsene, Pulver zur Herstellung e… | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
-| 67413 | neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einn… | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
-| 67691 | Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
-| 69767 | neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 47346 | NeoCitran Grippe / Erkältung für Erwachsene, Pulver zur Herstellung e… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 67413 | neotylol Grippe Classic, Pulver zur Herstellung einer Lösung zum Einn… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 67691 | Dafalgan Grippal, Granulat zur Herstellung einer Lösung zum Einnehmen | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
+| 69767 | neotylol Grippe, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
 | 70757 | Amavita Flumol Grippe, Pulver zur Herstellung einer Lösung zum Einneh… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
 | 70763 | SUN STORE Flumol Grippe, Pulver zur Herstellung einer Lösung zum Einn… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |
 | 70764 | Coop Vitality Flumol Grippe, Pulver zur Herstellung einer Lösung zum… | Synthetikum | Symptomatische Behandlung bei Erkältungskrankheiten | Gültig |

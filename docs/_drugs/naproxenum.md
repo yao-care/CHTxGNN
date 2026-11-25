@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00788
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Naproxenum: vorhergesagte neue Indikation Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum"
 ---
 
@@ -75,10 +75,10 @@ Ein mechanistischer Zusammenhang ist daher nicht belegt. Der hohe Vorhersagewert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 43428 | Apranax 550 mg, Filmtabletten | Synthetika | Antiphlogisticum | Gültig |
-| 43522 | Proxen 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antirheumaticum | Gültig |
-| 51480 | Naproxen Mepha 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antirheumatikum | Gültig |
-| 53810 | Aleve, Filmtabletten | Synthetika | Analgeticum | Gültig |
+| 43428 | Apranax 550 mg, Filmtabletten | Synthetikum | Antiphlogisticum | Gültig |
+| 43522 | Proxen 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antirheumaticum | Gültig |
+| 51480 | Naproxen Mepha 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antirheumatikum | Gültig |
+| 53810 | Aleve, Filmtabletten | Synthetikum | Analgeticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

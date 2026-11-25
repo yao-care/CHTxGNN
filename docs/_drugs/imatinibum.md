@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00619
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Imatinibum: vorhergesagte neue Indikation Herzfibrosarkom (heart fibrosarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -87,14 +87,14 @@ Mindestens 8 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56395 | Glivec 100 mg, Filmtabletten (teilbar) (+1 weitere Bezeichnung) | Synthetika | Zytostatikum Ph+ chronische myeloische Leukämie (Ph+CML) Ph+ akute lymphatische Leukämie (Ph+ALL) Hypereosino… | Gültig |
-| 65155 | Imatinib-Teva 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
-| 65353 | Imatinib Zentiva 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
-| 65814 | Glivec GIST 100 mg, Filmtabletten (teilbar) (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
-| 65911 | Imatinib Sandoz 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum | Gültig |
-| 67097 | Imatinib Accord 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Zytostatikum Ph+ chronische myeloische Leukämie (Ph+CML) Ph+ akute lymphatische Leukämie (Ph+ALL) Hypereosino… | Gültig |
-| 69955 | Imatinib Spirig HC 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Onkologikum, Tyrosin-Kinase-Hemmer | Gültig |
-| 69961 | Imatinib GIST Devatis 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Onkologikum | Gültig |
+| 56395 | Glivec 100 mg, Filmtabletten (teilbar) (+1 weitere Bezeichnung) | Synthetikum | Zytostatikum Ph+ chronische myeloische Leukämie (Ph+CML) Ph+ akute lymphatische Leukämie (Ph+ALL) Hypereosino… | Gültig |
+| 65155 | Imatinib-Teva 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Onkologikum | Gültig |
+| 65353 | Imatinib Zentiva 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Zytostatikum | Gültig |
+| 65814 | Glivec GIST 100 mg, Filmtabletten (teilbar) (+1 weitere Bezeichnung) | Synthetikum | Onkologikum | Gültig |
+| 65911 | Imatinib Sandoz 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Zytostatikum | Gültig |
+| 67097 | Imatinib Accord 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Zytostatikum Ph+ chronische myeloische Leukämie (Ph+CML) Ph+ akute lymphatische Leukämie (Ph+ALL) Hypereosino… | Gültig |
+| 69955 | Imatinib Spirig HC 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Onkologikum, Tyrosin-Kinase-Hemmer | Gültig |
+| 69961 | Imatinib GIST Devatis 100 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Onkologikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

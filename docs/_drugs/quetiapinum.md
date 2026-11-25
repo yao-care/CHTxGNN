@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01224
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Quetiapinum: vorhergesagte neue Indikation Retinale Dystrophie mit oder ohne extraokulare Anomalien (retinal dystrophy with or without extraocular anomalies) (Evidenzstufe L5)."
 ---
 
@@ -71,9 +71,9 @@ Für Quetiapin liegen in den zusammengestellten Daten keine auswertbaren Angaben
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61374 | Quetiapin Sandoz 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
-| 62365 | Quetiapin Zentiva 25, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
-| 65860 | Quetiapin XR Spirig HC 50 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Neuroleptikum | Gültig |
+| 61374 | Quetiapin Sandoz 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Neuroleptikum | Gültig |
+| 62365 | Quetiapin Zentiva 25, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Neuroleptikum | Gültig |
+| 65860 | Quetiapin XR Spirig HC 50 mg, Retardtabletten (+3 weitere Bezeichnungen) | Synthetikum | Neuroleptikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

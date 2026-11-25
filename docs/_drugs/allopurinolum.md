@@ -84,11 +84,11 @@ Keine der beiden Arbeiten untersucht Allopurinol bei Porphyrie. Es fehlt daher e
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 32917 | Zyloric 100, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostatikum | Gültig |
-| 38398 | Allopur 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostaticum | Gültig |
-| 39981 | Uriconorm 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Urikostatikum | Gültig |
-| 56050 | Allopurinol Zentiva 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Urikostatikum | Gültig |
-| 58129 | Allopurinol-Mepha 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Uricostatikum | Gültig |
+| 32917 | Zyloric 100, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Uricostatikum | Gültig |
+| 38398 | Allopur 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Uricostaticum | Gültig |
+| 39981 | Uriconorm 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Urikostatikum | Gültig |
+| 56050 | Allopurinol Zentiva 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Urikostatikum | Gültig |
+| 58129 | Allopurinol-Mepha 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Uricostatikum | Gültig |
 | 70148 | Allopurinol Spirig HC 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Uricostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

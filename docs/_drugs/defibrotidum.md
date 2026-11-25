@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB04932
 monitor_inn: "Defibrotide"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Defibrotidum: vorhergesagte neue Indikation Pseudo-von-Willebrand-Syndrom (pseudo-von Willebrand disease) (Evidenzstufe L5)."
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert spiegelt vermutlich eher die Nähe im Modellnetzwerk wid
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67667 | Defitelio 80 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Behandlung von schwerer hepatischer venooklusiver Erkrankung bei hämatopoetischer Stammzelltransplantation | Gültig |
+| 67667 | Defitelio 80 mg/ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Behandlung von schwerer hepatischer venooklusiver Erkrankung bei hämatopoetischer Stammzelltransplantation | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00829
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Diazepamum: vorhergesagte neue Indikation Schlaflosigkeit (insomnia (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung von Krampfzuständen"
 ---
 
@@ -87,10 +87,10 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 28840 | Valium 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Anxiolytikum | Gültig |
-| 30433 | Valium 10 mg, Injektionslösung | Synthetika | Anxiolytikum | Gültig |
-| 44941 | Psychopax, Tropfen zum Einnehmen | Synthetika | Anxiolytikum | Gültig |
-| 54467 | Diazepam Desitin 5 mg, Rectal Tube (+1 weitere Bezeichnung) | Synthetika | Behandlung von Krampfzuständen | Gültig |
+| 28840 | Valium 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Anxiolytikum | Gültig |
+| 30433 | Valium 10 mg, Injektionslösung | Synthetikum | Anxiolytikum | Gültig |
+| 44941 | Psychopax, Tropfen zum Einnehmen | Synthetikum | Anxiolytikum | Gültig |
+| 54467 | Diazepam Desitin 5 mg, Rectal Tube (+1 weitere Bezeichnung) | Synthetikum | Behandlung von Krampfzuständen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

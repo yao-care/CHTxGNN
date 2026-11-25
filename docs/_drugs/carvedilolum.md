@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01136
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Carvedilolum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Alpha- und Beta-Rezeptorenblocker"
 ---
 
@@ -75,10 +75,10 @@ Die Liste kann unvollständig sein (mindestens 4 Zulassungen erfasst, alle gült
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57606 | Carvedilol Sandoz 6.25, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
-| 57623 | Carvedilol Spirig HC 12.5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
-| 57652 | Carvedilol-Mepha 3.125 , Tabletten | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
-| 57821 | Carvedilol Zentiva 6.25 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 57606 | Carvedilol Sandoz 6.25, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 57623 | Carvedilol Spirig HC 12.5 mg, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 57652 | Carvedilol-Mepha 3.125 , Tabletten | Synthetikum | Alpha- und Beta-Rezeptorenblocker | Gültig |
+| 57821 | Carvedilol Zentiva 6.25 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Alpha- und Beta-Rezeptorenblocker | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -144,3 +144,11 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   其餘有補收的公開頁原本就是部分收錄（例 adalimumabum、ustekinumabum），新許可號沒有空位存、只算張數，頁面照舊寫「mindestens」。正文跟新事實矛盾 1 句：filgrastimum「vier Filgrastim-Präparate」（另有 70485 Zarzio），以 `ch-lic-20261125-filgrastimum-1` 改成不寫張數。
   新清單的 Heilmittelcode 寫法是單數（Biotechnologikum、Synthetikum），程式表照原文。
 - 驗證：checker 全量前後都是 0、--row-status 0；gate exit 0；正文張數改寫 0 句；另寫的寬偵測（有補收的公開與 noindex 頁，數字／文字數詞／全稱字樣＋Zulassung／Präparat 等）逐句看過，只有 filgrastimum 1 句不成立。
+
+## 第六輪：程式表 Kategorie 欄統一成單數（2026-11-25）
+
+用戶 2026-11-25 決定（第六輪第 4 條）：Swissmedic 2026-03 包裝清單的 Heilmittelcode 是複數（Synthetika、Biotechnologika…），2026-10 起的現行清單是單數（Synthetikum、Biotechnologikum…），第五輪補收的紀錄照新清單原文，同一張程式表混著兩種寫法。
+- `scripts/sync_license_tables.py` 加 `HMC_SINGULAR`（17 組）＋`hmc()`，rows_of 產生 Kategorie 欄時換成新清單寫法；證據包紀錄原文不改、表上沒有的寫法照原文。對照表依同一許可號在 2026-03 清單（data/raw/ch_fda_drugs.json）與現行清單（Stand 31.10.2026，18,130 列）的 Heilmittelcode 逐號比對得出，每組都是同一類別換寫法（例 Synthetika→Synthetikum 14,106 號、Biotechnologika→Biotechnologikum 1,131 號、Allergen: Diagnostikum→Allergen-Diagnostikum、Transplantat: Gentherapieprodukt→Gentherapieprodukt、Bonbons→Arzneibonbon）；個別許可在新清單改了類別的（Synthetika→Nicht-biologisches komplexes AM 45 號、Bakterien- und Hefepräparate→Biologikum 22 號等）不推定，照紀錄原文。
+- 快照 `snapshots/ch_licenses.json.gz` 的 rows 依證據包（Release data-20261125-010427）與快照事實層重算：818 頁的列有變，跟「舊列只換 Kategorie 欄」逐頁比對完全相同（不一致 0 頁）；gate 照舊依快照比程式區塊。
+- 程式表改到 626 頁（只有 Kategorie 格），last_modified_at 改 2026-11-25。正文引用的複數類別字（insulinum_lisprum「als «Biotechnologika» erfasst」1 句）照決定不動。
+- 驗證：sync_license_tables --check 0、apply --check 0；checker 前後都是 P1 100（本機沒還原證據包，P1 前後相同、跟許可證無關）、--row-status 0；gate exit 0。

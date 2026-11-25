@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00115
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cyanocobalaminum: vorhergesagte neue Indikation Biotin-Stoffwechselkrankheit (biotin metabolic disease) (Evidenzstufe L5). Ursprüngliche Indikation: Perniziöse Anämie"
 ---
 
@@ -89,11 +89,11 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 21672 | Vitarubin, Injektionslösung | Synthetika | Perniziöse Anämie; nachgewiesener Mangel an Cyanocobalamin | Gültig |
-| 30219 | Vitamin B12 Amino, Injektionslösung | Synthetika | Perniziöse Anämie; nachgewiesener Mangel an Vitamin B12 | Gültig |
-| 68216 | Vitarubin Oral, Filmtabletten | Synthetika | Prophylaxe und Therapie des Vitamin B12-Mangels | Gültig |
-| 68796 | B12 Ankermann 1000 μg, überzogene Tabletten | Synthetika | Therapie eines Vitamin B12-Mangels | Gültig |
-| 69394 | Vitamin B12 1000 μg Dermapharm, Filmtabletten | Synthetika | Prophylaxe und Therapie des Vitamin B12-Mangels | Gültig |
+| 21672 | Vitarubin, Injektionslösung | Synthetikum | Perniziöse Anämie; nachgewiesener Mangel an Cyanocobalamin | Gültig |
+| 30219 | Vitamin B12 Amino, Injektionslösung | Synthetikum | Perniziöse Anämie; nachgewiesener Mangel an Vitamin B12 | Gültig |
+| 68216 | Vitarubin Oral, Filmtabletten | Synthetikum | Prophylaxe und Therapie des Vitamin B12-Mangels | Gültig |
+| 68796 | B12 Ankermann 1000 μg, überzogene Tabletten | Synthetikum | Therapie eines Vitamin B12-Mangels | Gültig |
+| 69394 | Vitamin B12 1000 μg Dermapharm, Filmtabletten | Synthetikum | Prophylaxe und Therapie des Vitamin B12-Mangels | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

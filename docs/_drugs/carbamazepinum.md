@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00564
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Carbamazepinum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
@@ -94,12 +94,12 @@ Es wurden keine klinischen Studien gefunden. Die Literatur besteht aus Übersich
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 29789 | Tegretol 200, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antiepilepticum | Gültig |
-| 36896 | Tegretol 2%, Suspension zum Einnehmen | Synthetika | Antiepilepticum | Gültig |
-| 45723 | Timonil, Suspension zum Einnehmen | Synthetika | Antiepilepticum | Gültig |
-| 45724 | Timonil, Tabletten | Synthetika | Antiepilepticum | Gültig |
-| 47127 | Timonil 300 retard, Retardtabletten (+3 weitere Bezeichnungen) | Synthetika | Antiepilepticum | Gültig |
-| 47443 | Tegretol CR 400, Retardtabletten (+1 weitere Bezeichnung) | Synthetika | Antiepilepticum | Gültig |
+| 29789 | Tegretol 200, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Antiepilepticum | Gültig |
+| 36896 | Tegretol 2%, Suspension zum Einnehmen | Synthetikum | Antiepilepticum | Gültig |
+| 45723 | Timonil, Suspension zum Einnehmen | Synthetikum | Antiepilepticum | Gültig |
+| 45724 | Timonil, Tabletten | Synthetikum | Antiepilepticum | Gültig |
+| 47127 | Timonil 300 retard, Retardtabletten (+3 weitere Bezeichnungen) | Synthetikum | Antiepilepticum | Gültig |
+| 47443 | Tegretol CR 400, Retardtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiepilepticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11995
 monitor_inn: "Avatrombopag"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "monomelic amyotrophy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Avatrombopagum: vorhergesagte neue Indikation Makrothrombozytopenie mit Mitralklappeninsuffizienz (marcothrombocytopenia with mitral valve insufficiency) (Evidenzstufe L5)."
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67893 | Doptelet 20 mg, Filmtabletten | Synthetika | Schwere Thrombozytopenie bei Erwachsenen mit chronischer Lebererkrankung, bei denen ein invasiver Eingriff ge… | Gültig |
+| 67893 | Doptelet 20 mg, Filmtabletten | Synthetikum | Schwere Thrombozytopenie bei Erwachsenen mit chronischer Lebererkrankung, bei denen ein invasiver Eingriff ge… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

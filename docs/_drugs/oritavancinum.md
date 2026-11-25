@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB04911
 monitor_inn: "Oritavancin"
 predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Oritavancinum: vorhergesagte neue Indikation Bacteroidaceae-Infektionskrankheit (Bacteroidaceae infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -75,7 +75,7 @@ Der hohe Vorhersagewert ist ein reines Modellergebnis. Eine mögliche Aktivität
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 68135 | Tenkasi 400 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 68135 | Tenkasi 400 mg, Pulver für ein Konzentrat zur Herstellung einer Infus… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

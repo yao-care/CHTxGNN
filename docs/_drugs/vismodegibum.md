@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB08828
 monitor_inn: "Vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vismodegibum: vorhergesagte neue Indikation Medulloblastom mit ausgeprägter Nodularität (medulloblastoma with extensive nodularity) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -75,7 +75,7 @@ Diese Verbindung stützt sich jedoch nur auf den Vorhersagewert und allgemeines 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62497 | Erivedge, Kapseln | Synthetika | Zytostatikum | Gültig |
+| 62497 | Erivedge, Kapseln | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

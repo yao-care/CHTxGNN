@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00273
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Topiramatum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum, Migräneprophylaxe"
 ---
 
@@ -85,10 +85,10 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53537 | Topamax 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Antiepileptikum, Migräneprophylaxe | Gültig |
-| 54751 | Topamax 15 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Antiepileptikum, Migräneprophylaxe | Gültig |
-| 57924 | Topiramat Sandoz 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Antiepileptikum, Migräneprophylaxe | Gültig |
-| 58642 | Topiramat Spirig HC 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Antiepileptikum, Migräneprophylaxe | Gültig |
+| 53537 | Topamax 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Antiepileptikum, Migräneprophylaxe | Gültig |
+| 54751 | Topamax 15 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Antiepileptikum, Migräneprophylaxe | Gültig |
+| 57924 | Topiramat Sandoz 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Antiepileptikum, Migräneprophylaxe | Gültig |
+| 58642 | Topiramat Spirig HC 25 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Antiepileptikum, Migräneprophylaxe | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

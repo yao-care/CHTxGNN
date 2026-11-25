@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB11061
 monitor_inn: "Povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Povidonum K 25: vorhergesagte neue Indikation Angeborene ichthyosiforme Erythrodermie (congenital ichthyosiform erythroderma) (Evidenzstufe L5). Ursprüngliche Indikation: Tränenflüssigkeitsersatz"
 ---
 
@@ -97,10 +97,10 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51145 | Protagent SE, Augentropfen | Synthetika | Künstliche Tränen | Gültig |
-| 47598 | Protagent, Augentropfen | Synthetika | Tränenersatz | Erloschen |
-| 53634 | Oculac, Augentropfen | Synthetika | Tränenflüssigkeitsersatz | Erloschen |
-| 53635 | Oculac SDU, Augentropfen | Synthetika | Tränenflüssigkeitsersatz | Erloschen |
+| 51145 | Protagent SE, Augentropfen | Synthetikum | Künstliche Tränen | Gültig |
+| 47598 | Protagent, Augentropfen | Synthetikum | Tränenersatz | Erloschen |
+| 53634 | Oculac, Augentropfen | Synthetikum | Tränenflüssigkeitsersatz | Erloschen |
+| 53635 | Oculac SDU, Augentropfen | Synthetikum | Tränenflüssigkeitsersatz | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06216
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Asenapinum: vorhergesagte neue Indikation Retinal dystrophy with or without extraocular anomalies (Evidenzstufe L5). Ursprüngliche Indikation: Neuroleptikum"
 ---
 
@@ -90,7 +90,7 @@ Es liegen keine registrierten klinischen Studien zu dieser Erkrankung vor. Die L
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62073 | Sycrest 5 mg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetika | Neuroleptikum | Gültig |
+| 62073 | Sycrest 5 mg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetikum | Neuroleptikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

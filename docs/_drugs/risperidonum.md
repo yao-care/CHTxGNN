@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00734
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Risperidonum: vorhergesagte neue Indikation Familiäre horizontale Blicklähmung mit progressiver Skoliose (gaze palsy, familial horizontal, with progressive scoliosis) (Evidenzstufe L5)."
 ---
 
@@ -75,10 +75,10 @@ Der hohe Vorhersagewert von 0,9976 ist daher als rein rechnerisches Ergebnis zu 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52316 | Risperdal 1 mg, Filmtabletten (+4 weitere Bezeichnungen) | Synthetika | Neurolepticum | Gültig |
-| 53424 | Risperdal 1 mg/mL, Lösung | Synthetika | Neurolepticum | Gültig |
-| 58092 | Risperidon-Mepha 0.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Neurolepticum | Gültig |
-| 67622 | Risperidon-Mepha LA 25 mg, Pulver und Lösungsmittel zur Herstellung e… (+2 weitere Bezeichnungen) | Synthetika | Erhaltungstherapie für psychotische Krankheiten aus dem Formenkreis der Schizophrenie | Gültig |
+| 52316 | Risperdal 1 mg, Filmtabletten (+4 weitere Bezeichnungen) | Synthetikum | Neurolepticum | Gültig |
+| 53424 | Risperdal 1 mg/mL, Lösung | Synthetikum | Neurolepticum | Gültig |
+| 58092 | Risperidon-Mepha 0.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Neurolepticum | Gültig |
+| 67622 | Risperidon-Mepha LA 25 mg, Pulver und Lösungsmittel zur Herstellung e… (+2 weitere Bezeichnungen) | Synthetikum | Erhaltungstherapie für psychotische Krankheiten aus dem Formenkreis der Schizophrenie | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

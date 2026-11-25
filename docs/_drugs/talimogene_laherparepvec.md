@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "talimogene laherparepvec"
 predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
 description: "Talimogene Laherparepvec: vorhergesagte neue Indikation Glottis-Plattenepithelkarzinom (glottis squamous cell carcinoma) (Evidenzstufe L5)."
@@ -72,7 +72,7 @@ Bedenken bestehen bei der Glottis: Eine Injektion im Kehlkopf birgt Risiken für
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65812 | Imlygic 10e6, Injektionslösung (+1 weitere Bezeichnung) | Transplantat: Gentherapieprodukt | Imlygic ist zur Behandlung von Melanomen mit regionalen oder entfernten Metastasen bei Erwachsenen indiziert. | Gültig |
+| 65812 | Imlygic 10e6, Injektionslösung (+1 weitere Bezeichnung) | Gentherapieprodukt | Imlygic ist zur Behandlung von Melanomen mit regionalen oder entfernten Metastasen bei Erwachsenen indiziert. | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

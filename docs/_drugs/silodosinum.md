@@ -85,7 +85,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65513 | Urorec 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
+| 65513 | Urorec 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
 | 70014 | Silodosin Zentiva 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
 | 70129 | Silodosin Spirig HC 4 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Symptomatische Behandlung der funktionellen Störungen einer benignen Prostatahyperplasie (BPH) | Gültig |
 

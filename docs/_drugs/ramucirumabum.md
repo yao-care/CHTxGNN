@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB05578
 monitor_inn: "Ramucirumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ramucirumabum: vorhergesagte neue Indikation Uterines Ligament-Adenokarzinom (uterine ligament adenocarcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: agent antinéoplasique"
 ---
 
@@ -75,7 +75,7 @@ Der sehr hohe Vorhersagewert ist ein reines Rechenergebnis und kein klinischer N
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65206 | Cyramza 100mg/10ml, concentré pour solution de perfusion (+1 weitere Bezeichnung) | Biotechnologika | agent antinéoplasique | Gültig |
+| 65206 | Cyramza 100mg/10ml, concentré pour solution de perfusion (+1 weitere Bezeichnung) | Biotechnologikum | agent antinéoplasique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

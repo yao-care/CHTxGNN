@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00877
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sirolimusum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L5). Ursprüngliche Indikation: Immunsuppressivum"
 ---
 
@@ -93,8 +93,8 @@ Wichtig: Die vorliegende Literatur zeigt keine liposarkomspezifische Wirksamkeit
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55243 | Rapamune 1 mg/ml, Lösung zum Einnehmen | Biotechnologika | Immunsuppressivum | Gültig |
-| 55804 | Rapamune 1 mg, überzogene Tabletten (+2 weitere Bezeichnungen) | Biotechnologika | Immunsuppressivum | Gültig |
+| 55243 | Rapamune 1 mg/ml, Lösung zum Einnehmen | Biotechnologikum | Immunsuppressivum | Gültig |
+| 55804 | Rapamune 1 mg, überzogene Tabletten (+2 weitere Bezeichnungen) | Biotechnologikum | Immunsuppressivum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

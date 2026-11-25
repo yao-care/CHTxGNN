@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00328
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Indometacinum: vorhergesagte neue Indikation Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) (Evidenzstufe L5)."
 ---
 
@@ -73,10 +73,10 @@ Die Vorhersage sollte daher als Hypothese ohne inhaltliche Begründung betrachte
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 40454 | Indocid-Retard, Kapseln | Synthetika | Antirheumaticum | Gültig |
-| 46429 | Elmetacin, Lösung | Synthetika | Kutanes Antirheumatikum | Gültig |
-| 54264 | Indophtal 0,1 %, gebrauchsfertige Augentropfen | Synthetika | Nicht-steroidaler Entzündungshemmer zur lokalen Anwendung am Auge | Gültig |
-| 54517 | Indophtal 0,1 % UD, gebrauchsfertige Augentropfen (Monodosen) | Synthetika | Nicht-steroidaler Entzündungshemmer zur lokalen Anwendung am Auge | Gültig |
+| 40454 | Indocid-Retard, Kapseln | Synthetikum | Antirheumaticum | Gültig |
+| 46429 | Elmetacin, Lösung | Synthetikum | Kutanes Antirheumatikum | Gültig |
+| 54264 | Indophtal 0,1 %, gebrauchsfertige Augentropfen | Synthetikum | Nicht-steroidaler Entzündungshemmer zur lokalen Anwendung am Auge | Gültig |
+| 54517 | Indophtal 0,1 % UD, gebrauchsfertige Augentropfen (Monodosen) | Synthetikum | Nicht-steroidaler Entzündungshemmer zur lokalen Anwendung am Auge | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

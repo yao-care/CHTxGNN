@@ -90,7 +90,7 @@ Keine der gefundenen Publikationen untersucht Nicardipin direkt als Behandlung d
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67680 | Nicardipin Aguettant 10 mg/10 ml, solution injectable | Synthetika | Urgence hypertensive | Gültig |
+| 67680 | Nicardipin Aguettant 10 mg/10 ml, solution injectable | Synthetikum | Urgence hypertensive | Gültig |
 | 70240 | Nicardipin Labatec 10 mg/10 ml, solution injectable | Synthetikum | Urgence hypertensive | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

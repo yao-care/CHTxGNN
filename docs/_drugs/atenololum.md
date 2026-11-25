@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00335
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Atenololum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Beta-Rezeptorenblocker"
 ---
 
@@ -87,10 +87,10 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 39879 | Tenormin mite, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 49619 | Atenil, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 50075 | Atenolol-Mepha 50, Lactabs (+1 weitere Bezeichnung) | Synthetika | Beta-Rezeptorenblocker | Gültig |
-| 50651 | Selobloc 50 mg, compresse filmate (+1 weitere Bezeichnung) | Synthetika | ipertensione | Gültig |
+| 39879 | Tenormin mite, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 49619 | Atenil, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 50075 | Atenolol-Mepha 50, Lactabs (+1 weitere Bezeichnung) | Synthetikum | Beta-Rezeptorenblocker | Gültig |
+| 50651 | Selobloc 50 mg, compresse filmate (+1 weitere Bezeichnung) | Synthetikum | ipertensione | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00177
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Valsartanum: vorhergesagte neue Indikation Bösartige hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5)."
 ---
 
@@ -87,10 +87,10 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55743 | Diovan 80 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Hypertonie | Gültig |
-| 59513 | Valtan-Mepha 40 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Hypertonie | Gültig |
-| 61491 | Valsartan Zentiva 80 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antihypertensivum, Angiotensin-II-Rezeptor-Antagonist | Gültig |
-| 62039 | Valsartan Sandoz 40, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Hypertonie | Gültig |
+| 55743 | Diovan 80 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Hypertonie | Gültig |
+| 59513 | Valtan-Mepha 40 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Hypertonie | Gültig |
+| 61491 | Valsartan Zentiva 80 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antihypertensivum, Angiotensin-II-Rezeptor-Antagonist | Gültig |
+| 62039 | Valsartan Sandoz 40, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Hypertonie | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

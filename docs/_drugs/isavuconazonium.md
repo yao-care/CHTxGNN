@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Isavuconazonium: vorhergesagte neue Indikation Pneumocystose (Evidenzstufe L5). Ursprüngliche Indikation: Antimykotikum"
 monitor_inn: "ISAVUCONAZONIUM"
 predicted_indications: ["pneumocystosis", "mycetoma"]
@@ -92,8 +92,8 @@ Für die alternative Vorhersage Myzetom liegt eine indirekte Quelle vor:
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66172 | Cresemba 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antimykotikum | Gültig |
-| 66173 | Cresemba 200mg, Pulver für ein Konzentrat zur Herstellung einer Infus… | Synthetika | Antimykotikum | Gültig |
+| 66172 | Cresemba 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Antimykotikum | Gültig |
+| 66173 | Cresemba 200mg, Pulver für ein Konzentrat zur Herstellung einer Infus… | Synthetikum | Antimykotikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

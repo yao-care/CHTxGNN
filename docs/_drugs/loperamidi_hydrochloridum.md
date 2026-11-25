@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00836
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "chronic follicular conjunctivitis", "Angelucci syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Loperamidi Hydrochloridum: vorhergesagte neue Indikation Akute ansteckende Bindehautentzündung (acute contagious conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Diarrhö"
 ---
 
@@ -75,19 +75,19 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 40363 | Imodium, Kapseln | Synthetika | Diarrhöe | Gültig |
-| 52965 | Loperamid-Mepha 2, Lactab | Synthetika | Diarrhöe | Gültig |
-| 52975 | Imodium lingual, Schmelztabletten | Synthetika | Diarrhöe | Gültig |
-| 53686 | Loperamid Streuli 2 mg | Synthetika | Antidiarrhoikum | Gültig |
-| 54880 | Imodium duo, Tabletten | Synthetika | Diarrhöe | Gültig |
-| 58059 | Imodium lingual akut, Schmelztablette | Synthetika | Diarrhöe | Gültig |
-| 61295 | Loperamid Sandoz, Kapseln | Synthetika | Antidiarrhoikum | Gültig |
-| 63036 | Amavita Loperamid 2 mg, Kapseln | Synthetika | Antidiarrhoikum | Gültig |
-| 65877 | Loperamid Spirig HC 2 mg, Filmtabletten | Synthetika | Diarrhöe | Gültig |
-| 66973 | Loperam-X lingual, Schmelztablette | Synthetika | Diarrhoe | Gültig |
-| 67096 | Loperamid lingual Spirig HC, Schmelztabletten | Synthetika | Diarrhö | Gültig |
-| 67224 | SUN STORE Loperamid 2 mg, Kapseln | Synthetika | Antidiarrhoikum | Gültig |
-| 68325 | Loperamid-Mepha lingual 2 mg, Schmelztabletten | Synthetika | Symptomatische Behandlung akute und chronischer Diarrhö verschiedenster Genese, ein-schliesslich Reisediarrhö… | Gültig |
+| 40363 | Imodium, Kapseln | Synthetikum | Diarrhöe | Gültig |
+| 52965 | Loperamid-Mepha 2, Lactab | Synthetikum | Diarrhöe | Gültig |
+| 52975 | Imodium lingual, Schmelztabletten | Synthetikum | Diarrhöe | Gültig |
+| 53686 | Loperamid Streuli 2 mg | Synthetikum | Antidiarrhoikum | Gültig |
+| 54880 | Imodium duo, Tabletten | Synthetikum | Diarrhöe | Gültig |
+| 58059 | Imodium lingual akut, Schmelztablette | Synthetikum | Diarrhöe | Gültig |
+| 61295 | Loperamid Sandoz, Kapseln | Synthetikum | Antidiarrhoikum | Gültig |
+| 63036 | Amavita Loperamid 2 mg, Kapseln | Synthetikum | Antidiarrhoikum | Gültig |
+| 65877 | Loperamid Spirig HC 2 mg, Filmtabletten | Synthetikum | Diarrhöe | Gültig |
+| 66973 | Loperam-X lingual, Schmelztablette | Synthetikum | Diarrhoe | Gültig |
+| 67096 | Loperamid lingual Spirig HC, Schmelztabletten | Synthetikum | Diarrhö | Gültig |
+| 67224 | SUN STORE Loperamid 2 mg, Kapseln | Synthetikum | Antidiarrhoikum | Gültig |
+| 68325 | Loperamid-Mepha lingual 2 mg, Schmelztabletten | Synthetikum | Symptomatische Behandlung akute und chronischer Diarrhö verschiedenster Genese, ein-schliesslich Reisediarrhö… | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

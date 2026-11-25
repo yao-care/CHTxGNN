@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56148 | Somatuline Autogel 60 mg, Depot-Injektionslösung in einer Fertigsprit… (+2 weitere Bezeichnungen) | Synthetika | Somatostatin-Analogon, Behandlung von Akromegalie und bestimmter neuroendokriner Tumoren | Gültig |
+| 56148 | Somatuline Autogel 60 mg, Depot-Injektionslösung in einer Fertigsprit… (+2 weitere Bezeichnungen) | Synthetikum | Somatostatin-Analogon, Behandlung von Akromegalie und bestimmter neuroendokriner Tumoren | Gültig |
 | 70157 | Lanreotid Advanz Pharma 60 mg, Depot-Injektionslösung in einer Fertig… (+2 weitere Bezeichnungen) | Synthetikum | Somatostatin-Analogon, Behandlung von Akromegalie und bestimmter neuroendokriner Tumoren | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

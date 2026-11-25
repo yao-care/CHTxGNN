@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00722
 monitor_inn: "Lisinopril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lisinoprilum: vorhergesagte neue Indikation Pulmonale Hypertonie infolge Lungenerkrankung und/oder Hypoxie (pulmonary hypertension owing to lung disease and/or hypoxia) (Evidenzstufe L5)."
 ---
 
@@ -88,9 +88,9 @@ Keine der gefundenen Arbeiten untersucht Lisinopril direkt bei pulmonaler Hypert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56061 | Lisitril 5, Tabletten (+3 weitere Bezeichnungen) | Synthetika | ACE-Hemmer | Gültig |
-| 56777 | Lisinopril-Mepha 5, Tabletten (+2 weitere Bezeichnungen) | Synthetika | ACE-Hemmer | Gültig |
-| 58768 | Lisinopril axapharm 5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | ACE-Hemmer | Gültig |
+| 56061 | Lisitril 5, Tabletten (+3 weitere Bezeichnungen) | Synthetikum | ACE-Hemmer | Gültig |
+| 56777 | Lisinopril-Mepha 5, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | ACE-Hemmer | Gültig |
+| 58768 | Lisinopril axapharm 5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | ACE-Hemmer | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

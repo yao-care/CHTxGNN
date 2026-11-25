@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 87
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sulfamethoxazole: vorhergesagte neue Indikation Akute ansteckende Bindehautentzündung (acute contagious conjunctiviti… (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 monitor_inn: "sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
@@ -88,10 +88,10 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 37887 | Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Infektionskrankheiten | Gültig |
-| 40204 | Nopil forte, Tabletten | Synthetika | Infektionskrankheiten | Gültig |
-| 41013 | Nopil für Kinder, Suspension zum Einnehmen | Synthetika | Infektionskrankheiten | Gültig |
-| 48306 | Bactrim forte, Tabletten | Synthetika | Infektionskrankheiten | Gültig |
+| 37887 | Bactrim, Konzentrat zur Herstellung einer Infusionslösung | Synthetikum | Infektionskrankheiten | Gültig |
+| 40204 | Nopil forte, Tabletten | Synthetikum | Infektionskrankheiten | Gültig |
+| 41013 | Nopil für Kinder, Suspension zum Einnehmen | Synthetikum | Infektionskrankheiten | Gültig |
+| 48306 | Bactrim forte, Tabletten | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

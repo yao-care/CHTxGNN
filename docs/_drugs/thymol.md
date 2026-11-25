@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 95
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Thymol: vorhergesagte neue Indikation Interventrikuläres Septumaneurysma (Evidenzstufe L5). Ursprüngliche Indikation: Leichte Kopfschmerzen (äusserlich)"
 monitor_inn: "thymol"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
@@ -86,9 +86,9 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 33767 | Inhalant, Lösung zur Herstellung eines Dampfs zur Inhalation | Synthetika | Zur Inhalation und Einreiben bei Erkältungen, Schnupfen und Husten | Gültig |
-| 41080 | China Kopfwehöl Temple of Heaven, Einreibeöl | Synthetika | Zur äusserlichen Anwendung bei leichten Kopfschmerzen | Gültig |
-| 54740 | Vicks VapoRub, pommade | Synthetika | En cas d'affections des voies respiratoires | Gültig |
+| 33767 | Inhalant, Lösung zur Herstellung eines Dampfs zur Inhalation | Synthetikum | Zur Inhalation und Einreiben bei Erkältungen, Schnupfen und Husten | Gültig |
+| 41080 | China Kopfwehöl Temple of Heaven, Einreibeöl | Synthetikum | Zur äusserlichen Anwendung bei leichten Kopfschmerzen | Gültig |
+| 54740 | Vicks VapoRub, pommade | Synthetikum | En cas d'affections des voies respiratoires | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

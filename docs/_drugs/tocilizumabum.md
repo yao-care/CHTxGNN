@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06273
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tocilizumabum: vorhergesagte neue Indikation Spondylitis ankylosans (ankylosing spondylitis) (Evidenzstufe L1). Ursprüngliche Indikation: Rheumatoide Arthritis, Riesenzellarteriitis…"
 ---
 
@@ -98,13 +98,13 @@ Die klinischen Daten stützen diese Überlegung jedoch nicht: Die beiden Phase-3
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58868 | Actemra 80 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Biotechnologika | Rheumatoide Arthritis. Systemische juvenile idiopathische Arthritis. Polyartikuläre juvenile idiopathische Ar… | Gültig |
-| 63166 | Actemra 162 mg/0.9 ml, Injektionslösung zur subkutanen Anwendung | Biotechnologika | Rheumatoide Arthritis, Riesenzellarteriitis, polyartikuläre juvenile idiopathische Arthritis, systemische juv… | Gültig |
-| 66931 | Actemra 162 mg/0.9 ml, Injektionslösung in einem Fertigpen zur subkut… | Biotechnologika | Rheumatoide Arthritis, Riesenzellarteriitis, polyartikuläre juvenile idiopathische Arthritis, systemische juv… | Gültig |
-| 69850 | Avtozma 80 mg/ 4ml, solution à diluer pour perfusion (+2 weitere Bezeichnungen) | Biotechnologika | Polyarthrite rhumatoide (PR), Arthrite juvenile idiopathique polyarticulaire (AJIp), Arthrite juvénile idiopa… | Gültig |
-| 69854 | Avtozma 162mg/0.9 ml, solution injectable en seringue préremplie | Biotechnologika | Polyarthrite rhumatoide (PR), Artérite à cellules géantes (ACG), Arthrite juvenile idiopathique polyarticulai… | Gültig |
-| 69855 | Avtozma 162 mg/0.9 ml, solution injectable en stylo prérempli | Biotechnologika | Polyarthrite rhumatoide (PR), Artérite à cellules géantes (ACG), Arthrite juvenile idiopathique polyarticulai… | Gültig |
-| 69925 | Tocilizumab Spirig HC 80 mg/4 ml, Konzentrat zur Herstellung einer In… (+2 weitere Bezeichnungen) | Biotechnologika | Rheumatoide Arthritis. Systemische juvenile idiopathische Arthritis. Polyartikuläre juvenile idiopathische Ar… | Gültig |
+| 58868 | Actemra 80 mg/4 ml, Konzentrat zur Herstellung einer Infusionslösung (+2 weitere Bezeichnungen) | Biotechnologikum | Rheumatoide Arthritis. Systemische juvenile idiopathische Arthritis. Polyartikuläre juvenile idiopathische Ar… | Gültig |
+| 63166 | Actemra 162 mg/0.9 ml, Injektionslösung zur subkutanen Anwendung | Biotechnologikum | Rheumatoide Arthritis, Riesenzellarteriitis, polyartikuläre juvenile idiopathische Arthritis, systemische juv… | Gültig |
+| 66931 | Actemra 162 mg/0.9 ml, Injektionslösung in einem Fertigpen zur subkut… | Biotechnologikum | Rheumatoide Arthritis, Riesenzellarteriitis, polyartikuläre juvenile idiopathische Arthritis, systemische juv… | Gültig |
+| 69850 | Avtozma 80 mg/ 4ml, solution à diluer pour perfusion (+2 weitere Bezeichnungen) | Biotechnologikum | Polyarthrite rhumatoide (PR), Arthrite juvenile idiopathique polyarticulaire (AJIp), Arthrite juvénile idiopa… | Gültig |
+| 69854 | Avtozma 162mg/0.9 ml, solution injectable en seringue préremplie | Biotechnologikum | Polyarthrite rhumatoide (PR), Artérite à cellules géantes (ACG), Arthrite juvenile idiopathique polyarticulai… | Gültig |
+| 69855 | Avtozma 162 mg/0.9 ml, solution injectable en stylo prérempli | Biotechnologikum | Polyarthrite rhumatoide (PR), Artérite à cellules géantes (ACG), Arthrite juvenile idiopathique polyarticulai… | Gültig |
+| 69925 | Tocilizumab Spirig HC 80 mg/4 ml, Konzentrat zur Herstellung einer In… (+2 weitere Bezeichnungen) | Biotechnologikum | Rheumatoide Arthritis. Systemische juvenile idiopathische Arthritis. Polyartikuläre juvenile idiopathische Ar… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

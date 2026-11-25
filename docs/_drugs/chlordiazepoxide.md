@@ -90,9 +90,9 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 28275 | Librax, Filmtabletten | Synthetika | Spasmolytikum | Gültig |
-| 33354 | Limbitrol, Hartkapsel | Synthetika | Antidepressivum | Gültig |
-| 41495 | Librocol, compresse rivestite | Synthetika | Spasmolitico | Gültig |
+| 28275 | Librax, Filmtabletten | Synthetikum | Spasmolytikum | Gültig |
+| 33354 | Limbitrol, Hartkapsel | Synthetikum | Antidepressivum | Gültig |
+| 41495 | Librocol, compresse rivestite | Synthetikum | Spasmolitico | Gültig |
 | 70694 | Clodivis, compresse rivestite | Synthetikum | Spasmolitico | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

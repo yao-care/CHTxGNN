@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00810
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Biperideni Lactas: vorhergesagte neue Indikation Rasmussen-Enzephalitis (Rasmussen subacute encephalitis) (Evidenzstufe L5). Ursprüngliche Indikation: Morbo di Parkinson"
 ---
 
@@ -71,9 +71,9 @@ Die Rasmussen-Enzephalitis ist eine T-Zell-getriebene, immunvermittelte chronisc
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 24035 | Akineton, soluzione iniettabile | Synthetika | Morbo di Parkinson | Gültig |
-| 24036 | Akineton, compresse | Synthetika | Morbo di Parkinson | Gültig |
-| 54937 | Akineton retard, compressa a rilascio prolungato | Synthetika | Morbo di Parkinson | Gültig |
+| 24035 | Akineton, soluzione iniettabile | Synthetikum | Morbo di Parkinson | Gültig |
+| 24036 | Akineton, compresse | Synthetikum | Morbo di Parkinson | Gültig |
+| 54937 | Akineton retard, compressa a rilascio prolungato | Synthetikum | Morbo di Parkinson | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

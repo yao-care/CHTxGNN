@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06764
 monitor_inn: "Tetryzoline"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tetryzolini Hydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Konjunktivale Irritationen"
 ---
 
@@ -73,9 +73,9 @@ Bei längerer Anwendung ist eine Rebound-Schwellung der Schleimhaut (Rhinitis me
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 25490 | Visine Classic, Augentropfen | Synthetika | Konjunktivale Irritationen | Gültig |
-| 56245 | Visine Classic Augentropfen, Monodosen | Synthetika | Konjunktivale Irritationen | Gültig |
-| 68293 | Visine Classic Hydro 0,5 mg/ml, Augentropfen | Synthetika | Konjunktivale Irritationen | Gültig |
+| 25490 | Visine Classic, Augentropfen | Synthetikum | Konjunktivale Irritationen | Gültig |
+| 56245 | Visine Classic Augentropfen, Monodosen | Synthetikum | Konjunktivale Irritationen | Gültig |
+| 68293 | Visine Classic Hydro 0,5 mg/ml, Augentropfen | Synthetikum | Konjunktivale Irritationen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

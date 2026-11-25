@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ceftolozane"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "urogenital tuberculosis", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ceftolozane: vorhergesagte neue Indikation Ureaplasma-Urethritis (Ureaplasma urethritis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -72,7 +72,7 @@ Die Vorhersage ist mechanistisch **nicht plausibel**. Ureaplasma-Arten haben kei
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65472 | Zerbaxa 1.5 g, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Synthetika | Infektionskrankheiten | Gültig |
+| 65472 | Zerbaxa 1.5 g, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

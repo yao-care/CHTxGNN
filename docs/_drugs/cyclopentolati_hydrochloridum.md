@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00979
 monitor_inn: "Cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cyclopentolati Hydrochloridum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Mydriatikum"
 ---
 
@@ -75,7 +75,7 @@ Ein direkter krankheitsmodifizierender Mechanismus ist nicht erkennbar. Cyclopen
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 32634 | Cyclogyl 0,5 %, Augentropfen (+1 weitere Bezeichnung) | Synthetika | Mydriatikum | Gültig |
+| 32634 | Cyclogyl 0,5 %, Augentropfen (+1 weitere Bezeichnung) | Synthetikum | Mydriatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

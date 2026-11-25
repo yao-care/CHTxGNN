@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 39
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cysteine: vorhergesagte neue Indikation Trockenes Auge (Dry-Eye-Syndrom) (Evidenzstufe L5). Ursprüngliche Indikation: Parenterale Ernährung"
 monitor_inn: "cysteine"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
@@ -99,9 +99,9 @@ Alle Publikationen sind präklinisch, mechanistisch oder Übersichtsarbeiten. Ke
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54850 | Aminoven infant 10%, Infusionslösung | Synthetika | Parenterale Ernährung | Gültig |
-| 61336 | Numeta Neo, Emulsion zur Infusion | Synthetika | Parenterale Ernährung | Gültig |
-| 61425 | Numeta Ped G16% E, Infusionslösung zur totalen parenteralen Ernährung (+1 weitere Bezeichnung) | Synthetika | Parenterale Ernährung | Gültig |
+| 54850 | Aminoven infant 10%, Infusionslösung | Synthetikum | Parenterale Ernährung | Gültig |
+| 61336 | Numeta Neo, Emulsion zur Infusion | Synthetikum | Parenterale Ernährung | Gültig |
+| 61425 | Numeta Ped G16% E, Infusionslösung zur totalen parenteralen Ernährung (+1 weitere Bezeichnung) | Synthetikum | Parenterale Ernährung | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00674
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Galantaminum: vorhergesagte neue Indikation Psychogene Bewegungsstörungen (psychogenic movement disorders) (Evidenzstufe L5)."
 ---
 
@@ -75,8 +75,8 @@ Die Vorhersage ist deshalb als reine Hypothese zu verstehen. Ein nachvollziehbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56754 | Reminyl PR 8 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Leichte bis mittelschwere Demenz vom Alzheimer Typ | Gültig |
-| 62890 | Galantamin SR Zentiva 8 mg, Retardkapseln (+2 weitere Bezeichnungen) | Synthetika | Leichte bis mittelschwere Demenz vom Alzheimer Typ | Gültig |
+| 56754 | Reminyl PR 8 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetikum | Leichte bis mittelschwere Demenz vom Alzheimer Typ | Gültig |
+| 62890 | Galantamin SR Zentiva 8 mg, Retardkapseln (+2 weitere Bezeichnungen) | Synthetikum | Leichte bis mittelschwere Demenz vom Alzheimer Typ | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

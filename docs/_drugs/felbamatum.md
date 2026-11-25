@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00949
 monitor_inn: "Felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Felbamatum: vorhergesagte neue Indikation Trigeminusnerven-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum"
 ---
 
@@ -85,8 +85,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52678 | Taloxa 600 mg, Tabletten | Synthetika | Antiepileptikum | Gültig |
-| 52679 | Taloxa, Suspension zum Einnehmen | Synthetika | Antiepileptikum | Gültig |
+| 52678 | Taloxa 600 mg, Tabletten | Synthetikum | Antiepileptikum | Gültig |
+| 52679 | Taloxa, Suspension zum Einnehmen | Synthetikum | Antiepileptikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

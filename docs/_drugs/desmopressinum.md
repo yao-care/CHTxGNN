@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00035
 monitor_inn: "Desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Desmopressinum: vorhergesagte neue Indikation Angeborener Prothrombinmangel (congenital prothrombin deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Diabetes insipidus centralis, Polyurie…"
 ---
 
@@ -87,14 +87,14 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 43585 | Minirin, Injektionslösung | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen | Gültig |
-| 48069 | Minirin, Nasenspray, Lösung | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen | Gültig |
-| 49002 | Minirin 0,1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen; Enuresis nocturna | Gültig |
-| 52711 | Octostim 15 ug, Injektions-/Infusionslösung | Biotechnologika | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I, urämische Thrombozytenfunktionsstörungen | Gültig |
-| 53745 | Octostim, Nasenspray, Lösung | Biotechnologika | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I | Gültig |
-| 54616 | Nocutil, Nasenspray | Synthetika | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen; Enuresis nocturna | Gültig |
-| 57151 | Minirin Melt 60 µg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetika | Diabetes insipidus centralis, Polyurie, Polydipsie nach Hypophysektomie; Enuresis nocturna | Gültig |
-| 57377 | Nocutil 0,1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Diabetes insipidus centralis, Polyurie, Polydipsie nach Hypophysektomie; Enuresis nocturna | Gültig |
+| 43585 | Minirin, Injektionslösung | Synthetikum | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen | Gültig |
+| 48069 | Minirin, Nasenspray, Lösung | Synthetikum | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen | Gültig |
+| 49002 | Minirin 0,1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen; Enuresis nocturna | Gültig |
+| 52711 | Octostim 15 ug, Injektions-/Infusionslösung | Biotechnologikum | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I, urämische Thrombozytenfunktionsstörungen | Gültig |
+| 53745 | Octostim, Nasenspray, Lösung | Biotechnologikum | Leichte bis mittelschwere Hämophilie A, M. von Willebrand Typ I | Gültig |
+| 54616 | Nocutil, Nasenspray | Synthetikum | Diabetes insipidus, Polyurie, Polydipsie nach Hypophysenoperationen; Enuresis nocturna | Gültig |
+| 57151 | Minirin Melt 60 µg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetikum | Diabetes insipidus centralis, Polyurie, Polydipsie nach Hypophysektomie; Enuresis nocturna | Gültig |
+| 57377 | Nocutil 0,1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Diabetes insipidus centralis, Polyurie, Polydipsie nach Hypophysektomie; Enuresis nocturna | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

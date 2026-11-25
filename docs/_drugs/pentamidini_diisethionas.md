@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00738
 monitor_inn: "Pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pentamidini Diisethionas: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5)."
 ---
 
@@ -83,7 +83,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50635 | Pentacarinat, Pulver zur Herstellung einer Injektionslösung/Infusions… | Synthetika | Pneumocystis-jirovecii-Pneumonie | Gültig |
+| 50635 | Pentacarinat, Pulver zur Herstellung einer Injektionslösung/Infusions… | Synthetikum | Pneumocystis-jirovecii-Pneumonie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

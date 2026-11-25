@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB08911
 monitor_inn: "Trametinib"
 predicted_indications: ["choroideremia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Trametinibum: vorhergesagte neue Indikation Choroideremie (choroideremia) (Evidenzstufe L5). Ursprüngliche Indikation: Melanom, nicht-kleinzelliges Lungenkarzinom"
 ---
 
@@ -75,8 +75,8 @@ Hinzu kommt ein Sicherheitsaspekt: MEK-Hemmer können eine Netzhauterkrankung (M
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65883 | Mekinist 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Melanom, nicht-kleinzelliges Lungenkarzinom | Gültig |
-| 69134 | Mekinist 4.7 mg, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetika | Melanom, nicht-kleinzelliges Lungenkarzinom | Gültig |
+| 65883 | Mekinist 0.5 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Melanom, nicht-kleinzelliges Lungenkarzinom | Gültig |
+| 69134 | Mekinist 4.7 mg, Pulver zur Herstellung einer Lösung zum Einnehmen | Synthetikum | Melanom, nicht-kleinzelliges Lungenkarzinom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00819
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acetazolamidum: vorhergesagte neue Indikation Belastungsinduzierte maligne Hyperthermie (exercise-induced malignant hyperthermia) (Evidenzstufe L5). Ursprüngliche Indikation: Glaukom"
 ---
 
@@ -85,9 +85,9 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 21191 | Diamox, Tabletten | Synthetika | Carboanhydrase-Hemmer | Gültig |
-| 22002 | Diamox, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetika | Carboanhydrase-Hemmer | Gültig |
-| 38412 | Glaupax, Tabletten | Synthetika | Glaukom | Gültig |
+| 21191 | Diamox, Tabletten | Synthetikum | Carboanhydrase-Hemmer | Gültig |
+| 22002 | Diamox, Pulver zur Herstellung einer Injektions-/Infusionslösung | Synthetikum | Carboanhydrase-Hemmer | Gültig |
+| 38412 | Glaupax, Tabletten | Synthetikum | Glaukom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

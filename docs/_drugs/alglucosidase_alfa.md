@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alglucosidase Alfa: vorhergesagte neue Indikation Adulte Polyglucosankörper-Krankheit (adult polyglucosan body disease) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Pompe (Mangel an alpha-Glucosidase)"
 monitor_inn: "alglucosidase alfa"
 predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
@@ -86,7 +86,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 58038 | Myozyme, Poudre pour solution à diluer pour perfusion | Biotechnologika | Maladie de Pompe (déficit en alpha-glucosidase) | Gültig |
+| 58038 | Myozyme, Poudre pour solution à diluer pour perfusion | Biotechnologikum | Maladie de Pompe (déficit en alpha-glucosidase) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

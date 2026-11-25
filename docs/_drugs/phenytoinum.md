@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00252
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Phenytoinum: vorhergesagte neue Indikation Trigeminusnerv-Neoplasie (trigeminal nerve neoplasm) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
@@ -92,9 +92,9 @@ Beide Arbeiten untersuchen die vorhergesagte Erkrankung nicht direkt.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 25930 | Phenytoin-Gerot, Tabletten | Synthetika | Antiepilepticum | Gültig |
-| 36110 | Phenhydan, Injektionslösung | Synthetika | Antiepilepticum | Gültig |
-| 36111 | Phenhydan, Tabletten | Synthetika | Antiepilepticum | Gültig |
+| 25930 | Phenytoin-Gerot, Tabletten | Synthetikum | Antiepilepticum | Gültig |
+| 36110 | Phenhydan, Injektionslösung | Synthetikum | Antiepilepticum | Gültig |
+| 36111 | Phenhydan, Tabletten | Synthetikum | Antiepilepticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

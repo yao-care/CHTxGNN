@@ -5,7 +5,7 @@ parent: Mittlere Evidenz (L3-L4)
 nav_order: 110
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Zinc Oxide: vorhergesagte neue Indikation Akne (acne) (Evidenzstufe L4). Ursprüngliche Indikation: Leichte, nicht infektionsbedingte Hautentzündungen"
 monitor_inn: "zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
@@ -90,10 +90,10 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 11565 | Leucen, Zugsalbe | Synthetika | Furunkel, kleinere Abszesse | Gültig |
-| 39608 | Excipial, Mandelölsalbe | Synthetika | Intervall- und Nachbehandlung von Dermatosen, Schutz und Pflege von trockener Haut | Gültig |
-| 42675 | Multilind, Heilpaste | Synthetika | Mykosen der Haut | Gültig |
-| 54958 | Antidry care, Salbe | Synthetika | Bei leichten, nicht infektionsbedingten Entzündungen der Haut | Gültig |
+| 11565 | Leucen, Zugsalbe | Synthetikum | Furunkel, kleinere Abszesse | Gültig |
+| 39608 | Excipial, Mandelölsalbe | Synthetikum | Intervall- und Nachbehandlung von Dermatosen, Schutz und Pflege von trockener Haut | Gültig |
+| 42675 | Multilind, Heilpaste | Synthetikum | Mykosen der Haut | Gültig |
+| 54958 | Antidry care, Salbe | Synthetikum | Bei leichten, nicht infektionsbedingten Entzündungen der Haut | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -95,10 +95,10 @@ In der Schweiz sind mehrere Filgrastim-Präparate (Einzelwirkstoff) zugelassen, 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51035 | Neupogen Amgen 30, Injektionslösung (+2 weitere Bezeichnungen) | Biotechnologika | Neutropenie | Gültig |
-| 60579 | Zarzio 30 MU/0.5 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
-| 60722 | Filgrastim-Teva 30 / 0.5 ml, Injektionslösung in Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
-| 66715 | Accofil 300mcg/0.5ml, Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologika | Neutropenie | Gültig |
+| 51035 | Neupogen Amgen 30, Injektionslösung (+2 weitere Bezeichnungen) | Biotechnologikum | Neutropenie | Gültig |
+| 60579 | Zarzio 30 MU/0.5 ml, Injektionslösung in einer Fertigspritze (+1 weitere Bezeichnung) | Biotechnologikum | Neutropenie | Gültig |
+| 60722 | Filgrastim-Teva 30 / 0.5 ml, Injektionslösung in Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologikum | Neutropenie | Gültig |
+| 66715 | Accofil 300mcg/0.5ml, Fertigspritzen (+1 weitere Bezeichnung) | Biotechnologikum | Neutropenie | Gültig |
 | 70485 | Zarzio 30 MU/0,5 ml , Injektionslösung in einer Fertigspritze | Biotechnologikum | Neutropenie | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

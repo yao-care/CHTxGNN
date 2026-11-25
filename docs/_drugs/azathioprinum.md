@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00993
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Azathioprinum: vorhergesagte neue Indikation Kolobom-Mikrophthalmie-rhizomele-Dysplasie-Syndrom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (Evidenzstufe L5)."
 ---
 
@@ -93,9 +93,9 @@ Die Zulassung 63011 (Azafalk 75 mg) ist in den aktuellen Swissmedic-Listen nicht
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 31887 | Imurek 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Immunsuppressivum | Gültig |
-| 55578 | Azarek 25, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Immunsuppressivum | Gültig |
-| 63011 | Azafalk 75 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Erloschen |
+| 31887 | Imurek 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Immunsuppressivum | Gültig |
+| 55578 | Azarek 25, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Immunsuppressivum | Gültig |
+| 63011 | Azafalk 75 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Immunsuppressivum | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

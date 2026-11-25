@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00417
 monitor_inn: "Phenoxymethylpenicillin"
 predicted_indications: ["epiglottitis", "laryngitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Phenoxymethylpenicillinum Kalicum: vorhergesagte neue Indikation Epiglottitis (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -73,7 +73,7 @@ Die mechanistische Passung ist jedoch nur teilweise gegeben. Phenoxymethylpenici
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 37523 | Ospen 1000, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
+| 37523 | Ospen 1000, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

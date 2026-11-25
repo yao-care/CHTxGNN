@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00871
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Terbutalini Sulfas: vorhergesagte neue Indikation Atemwegsfehlbildung (respiratory malformation) (Evidenzstufe L5). Ursprüngliche Indikation: Bronchospasmolytikum"
 ---
 
@@ -97,7 +97,7 @@ Keine der Publikationen untersucht Atemwegsfehlbildung direkt. Die folgende Ausw
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48943 | Bricanyl Turbuhaler, Pulver zur Inhalation | Synthetika | Bronchospasmolytikum | Gültig |
+| 48943 | Bricanyl Turbuhaler, Pulver zur Inhalation | Synthetikum | Bronchospasmolytikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

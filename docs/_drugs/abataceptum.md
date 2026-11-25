@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB01281
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Abataceptum: vorhergesagte neue Indikation Spondylitis ankylosans (ankylosing spondylitis) (Evidenzstufe L4). Ursprüngliche Indikation: Rheumatoide Arthritis"
 ---
 
@@ -98,9 +98,9 @@ Der mechanistische Zusammenhang ist jedoch schwach: Die axiale Spondyloarthritis
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57769 | Orencia 250 mg, Pulver zur Herstellung eines Infusionslösungkonzentra… | Biotechnologika | Rheumatoide Arthritis, Polyartikuläre juvenile idiopathische Arthritis | Gültig |
-| 62141 | Orencia, Injektionslösung zur subkutanen Anwendung (Fertigspritze mit… | Biotechnologika | Rheumatoide Arthritis | Gültig |
-| 65833 | Orencia 125 mg/1 ml, Injektionslösung zur subkutanen Anwendung (Ferti… | Biotechnologika | Rheumatoide Arthritis | Gültig |
+| 57769 | Orencia 250 mg, Pulver zur Herstellung eines Infusionslösungkonzentra… | Biotechnologikum | Rheumatoide Arthritis, Polyartikuläre juvenile idiopathische Arthritis | Gültig |
+| 62141 | Orencia, Injektionslösung zur subkutanen Anwendung (Fertigspritze mit… | Biotechnologikum | Rheumatoide Arthritis | Gültig |
+| 65833 | Orencia 125 mg/1 ml, Injektionslösung zur subkutanen Anwendung (Ferti… | Biotechnologikum | Rheumatoide Arthritis | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

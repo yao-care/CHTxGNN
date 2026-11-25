@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB06603
 monitor_inn: "Panobinostat"
 predicted_indications: ["myeloid leukemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Panobinostatum: vorhergesagte neue Indikation Myeloische Leukämie (myeloid leukemia) (Evidenzstufe L2). Ursprüngliche Indikation: Behandlung des Multiplen Myeloms"
 ---
 
@@ -133,7 +133,7 @@ Die folgenden Angaben stammen aus allgemeinem Fachwissen und nicht aus den vorli
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61878 | Farydak 10 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetika | Behandlung des Multiplen Myeloms | Gültig |
+| 61878 | Farydak 10 mg, Hartkapseln (+2 weitere Bezeichnungen) | Synthetikum | Behandlung des Multiplen Myeloms | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

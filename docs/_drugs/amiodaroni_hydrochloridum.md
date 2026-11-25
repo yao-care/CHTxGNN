@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01118
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Amiodaroni Hydrochloridum: vorhergesagte neue Indikation Katecholaminerge polymorphe ventrikuläre Tachykardie (catecholaminergic polymorphic ventricular tachycardia) (Evidenzstufe L5)."
 ---
 
@@ -96,13 +96,13 @@ Keine der aufgeführten Publikationen untersucht Amiodaron direkt bei dieser Erk
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 33393 | Cordarone, comprimés | Synthetika | Antiarythmique | Gültig |
-| 41060 | Cordarone, solution injectable | Synthetika | Antiarythmique | Gültig |
-| 53114 | Amiodarone Zentiva 200 mg, Tabletten | Synthetika | Antiarrhythmikum | Gültig |
-| 55349 | Amiodaron-Mepha 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Antiarrhythmikum | Gültig |
-| 55721 | Amiodar, Tabletten | Synthetika | Antiarrhythmicum | Gültig |
-| 56296 | Amiodarone Rivopharm 100 mg, compresse (+1 weitere Bezeichnung) | Synthetika | Farmaco antiaritmico | Gültig |
-| 59528 | Amiodarone Labatec, solution injectable | Synthetika | Antiarythmique | Gültig |
+| 33393 | Cordarone, comprimés | Synthetikum | Antiarythmique | Gültig |
+| 41060 | Cordarone, solution injectable | Synthetikum | Antiarythmique | Gültig |
+| 53114 | Amiodarone Zentiva 200 mg, Tabletten | Synthetikum | Antiarrhythmikum | Gültig |
+| 55349 | Amiodaron-Mepha 100 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Antiarrhythmikum | Gültig |
+| 55721 | Amiodar, Tabletten | Synthetikum | Antiarrhythmicum | Gültig |
+| 56296 | Amiodarone Rivopharm 100 mg, compresse (+1 weitere Bezeichnung) | Synthetikum | Farmaco antiaritmico | Gültig |
+| 59528 | Amiodarone Labatec, solution injectable | Synthetikum | Antiarythmique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

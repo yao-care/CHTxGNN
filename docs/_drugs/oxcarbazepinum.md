@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00776
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Oxcarbazepinum: vorhergesagte neue Indikation Restless-Legs-Syndrom (restless legs syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antiepilepticum"
 ---
 
@@ -89,9 +89,9 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52852 | Trileptal 60 mg/ml, Suspension zum Einnehmen | Synthetika | Antiepilepticum | Gültig |
-| 55120 | Trileptal 150 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepilepticum | Gültig |
-| 57883 | Apydan extent 150 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Gültig |
+| 52852 | Trileptal 60 mg/ml, Suspension zum Einnehmen | Synthetikum | Antiepilepticum | Gültig |
+| 55120 | Trileptal 150 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antiepilepticum | Gültig |
+| 57883 | Apydan extent 150 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Antiepileptikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

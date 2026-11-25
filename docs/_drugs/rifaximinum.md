@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01220
 monitor_inn: "Rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Rifaximinum: vorhergesagte neue Indikation Orale Candidose (oral candidiasis) (Evidenzstufe L5). Ursprüngliche Indikation: Zur Verminderung des Wiederauftretens von Episoden einer manifesten h…"
 ---
 
@@ -85,7 +85,7 @@ Diese Studie untersucht keine Behandlung der oralen Candidose mit Rifaximin. Sie
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 63216 | Xifaxan 550 mg, Filmtabletten | Synthetika | Zur Verminderung des Wiederauftretens von Episoden einer manifesten hepatischen Enzephalopathie bei Patienten… | Gültig |
+| 63216 | Xifaxan 550 mg, Filmtabletten | Synthetikum | Zur Verminderung des Wiederauftretens von Episoden einer manifesten hepatischen Enzephalopathie bei Patienten… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

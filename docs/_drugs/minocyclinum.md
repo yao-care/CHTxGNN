@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01017
 monitor_inn: "Minocycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Minocyclinum: vorhergesagte neue Indikation Punktförmige epitheliale Keratokonjunktivitis (punctate epithelial keratoconjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Akne vulgaris"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45465 | Minocin Akne 50 mg, Filmtabletten | Synthetika | Akne vulgaris | Gültig |
+| 45465 | Minocin Akne 50 mg, Filmtabletten | Synthetikum | Akne vulgaris | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

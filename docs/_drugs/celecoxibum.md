@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00482
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Celecoxibum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
 ---
 
@@ -87,13 +87,13 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62936 | Celecoxib Sandoz 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | selektiver COX-2 Hemmer | Gültig |
-| 63126 | Celecoxib-Mepha 100 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | selektiver COX-2-Hemmer | Gültig |
-| 63184 | Celecoxib Zentiva 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | selektiver COX-2 Hemmer | Gültig |
-| 63220 | Celecoxib Spirig HC 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Selektiver COX-2-Hemmer | Gültig |
-| 65095 | Celecoxib Viatris 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | selektiver COX-2 Hemmer | Gültig |
-| 68029 | Celecoxib axapharm 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | selektiver COX-2 Hemmer | Gültig |
-| 69355 | Celecoxib-Mepha Teva 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetika | selektiver COX-2 Hemmer | Gültig |
+| 62936 | Celecoxib Sandoz 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | selektiver COX-2 Hemmer | Gültig |
+| 63126 | Celecoxib-Mepha 100 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | selektiver COX-2-Hemmer | Gültig |
+| 63184 | Celecoxib Zentiva 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | selektiver COX-2 Hemmer | Gültig |
+| 63220 | Celecoxib Spirig HC 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Selektiver COX-2-Hemmer | Gültig |
+| 65095 | Celecoxib Viatris 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | selektiver COX-2 Hemmer | Gültig |
+| 68029 | Celecoxib axapharm 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | selektiver COX-2 Hemmer | Gültig |
+| 69355 | Celecoxib-Mepha Teva 100 mg, Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | selektiver COX-2 Hemmer | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

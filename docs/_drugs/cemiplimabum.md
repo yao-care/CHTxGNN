@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB14707
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cemiplimabum: vorhergesagte neue Indikation Adenosquamöses Gallenblasenkarzinom (gallbladder adenosquamous carcinoma) (Evidenzstufe L5). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -73,7 +73,7 @@ Zu PD-L1-Expression, Tumormutationslast und MSI-Status dieser Tumoren liegen kei
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67094 | Libtayo 350 mg/7 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologika | Onkologikum | Gültig |
+| 67094 | Libtayo 350 mg/7 ml, Konzentrat zur Herstellung einer Infusionslösung | Biotechnologikum | Onkologikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

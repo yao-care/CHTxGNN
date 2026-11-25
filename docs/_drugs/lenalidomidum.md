@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00480
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lenalidomidum: vorhergesagte neue Indikation Myeloische Leukämie (myeloid leukemia) (Evidenzstufe L2). Ursprüngliche Indikation: Onkologikum"
 ---
 
@@ -106,8 +106,8 @@ Die gefundene Literatur besteht überwiegend aus allgemeinen Übersichtsarbeiten
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67714 | Lenalidomid Accord 2.5 mg, Hartkapseln (+5 weitere Bezeichnungen) | Synthetika | Onkologikum | Gültig |
-| 68518 | Lenalidomid Devatis 2.5 mg, Hartkapseln (+6 weitere Bezeichnungen) | Synthetika | Onkologikum | Gültig |
+| 67714 | Lenalidomid Accord 2.5 mg, Hartkapseln (+5 weitere Bezeichnungen) | Synthetikum | Onkologikum | Gültig |
+| 68518 | Lenalidomid Devatis 2.5 mg, Hartkapseln (+6 weitere Bezeichnungen) | Synthetikum | Onkologikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

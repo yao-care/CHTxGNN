@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00751
 monitor_inn: "Epinastine"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Epinastini Hydrochloridum: vorhergesagte neue Indikation Rosazea-Konjunktivitis (rosacea conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Saisonale allergische Konjunktivitis"
 ---
 
@@ -71,7 +71,7 @@ Der hohe Vorhersagewert spiegelt vermutlich vor allem die Nähe zu allergischen 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56310 | Relestat, Augentropfen | Synthetika | Saisonale allergische Konjunktivitis | Gültig |
+| 56310 | Relestat, Augentropfen | Synthetikum | Saisonale allergische Konjunktivitis | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

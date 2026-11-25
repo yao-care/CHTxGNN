@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01112
 monitor_inn: "Cefuroxime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cefuroximum: vorhergesagte neue Indikation Hyperamylasämie (hyperamylasemia) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -85,14 +85,14 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49460 | Zinat 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 50882 | Zinat, Granulat zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten | Gültig |
-| 55987 | Cefuroxim Sandoz 250mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 61209 | Cefuroxim Spirig HC 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 61338 | Cefuroxim Fresenius i.v. 750 mg, Pulver zur Herstellung einer Injekti… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 61475 | Cefuroxim Labatec i.v. 750 mg, poudre pour solution injectable (+1 weitere Bezeichnung) | Synthetika | maladies infectieuses | Gültig |
-| 62774 | Cefuroxim-Acino 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 63029 | Aprokam, poudre pour solution injectable | Synthetika | Prophylaxie antibiotique de l'endophtalmie postopératoire après une opération de la cataracte | Gültig |
+| 49460 | Zinat 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 50882 | Zinat, Granulat zur Herstellung einer Suspension zum Einnehmen | Synthetikum | Infektionskrankheiten | Gültig |
+| 55987 | Cefuroxim Sandoz 250mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 61209 | Cefuroxim Spirig HC 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 61338 | Cefuroxim Fresenius i.v. 750 mg, Pulver zur Herstellung einer Injekti… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 61475 | Cefuroxim Labatec i.v. 750 mg, poudre pour solution injectable (+1 weitere Bezeichnung) | Synthetikum | maladies infectieuses | Gültig |
+| 62774 | Cefuroxim-Acino 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 63029 | Aprokam, poudre pour solution injectable | Synthetikum | Prophylaxie antibiotique de l'endophtalmie postopératoire après une opération de la cataracte | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

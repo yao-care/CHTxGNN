@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00327
 monitor_inn: "Hydromorphone"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Hydromorphoni Hydrochloridum: vorhergesagte neue Indikation Pharyngitis (Evidenzstufe L5). Ursprüngliche Indikation: Narkotisches Analgetikum mit Langzeitwirkung"
 ---
 
@@ -85,11 +85,11 @@ Keine dieser Studien untersucht Pharyngitis selbst; sie betreffen Schmerzen nach
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 53223 | Palladon Retard 4 mg, Retardkapseln (+3 weitere Bezeichnungen) | Synthetika | Narkotisches Analgetikum mit Langzeitwirkung | Gültig |
-| 56556 | Hydromorphoni HCl Streuli 1 mg/ml, Tropfen zum Einnehmen | Synthetika | Narkotisches Analgetikum | Gültig |
-| 59225 | Palladon Inject 2 mg, Injektions-/Infusionslösung (+2 weitere Bezeichnungen) | Synthetika | Narkotisches Analgetikum | Gültig |
-| 66873 | Hydromorphone Sintetica 0.2 mg/ml, soluzione per infusione | Synthetika | Analgesico stupefacente | Gültig |
-| 70346 | Hydromorphone Mundipharma 1.3 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Narkotisches Analgetikum | Gültig |
+| 53223 | Palladon Retard 4 mg, Retardkapseln (+3 weitere Bezeichnungen) | Synthetikum | Narkotisches Analgetikum mit Langzeitwirkung | Gültig |
+| 56556 | Hydromorphoni HCl Streuli 1 mg/ml, Tropfen zum Einnehmen | Synthetikum | Narkotisches Analgetikum | Gültig |
+| 59225 | Palladon Inject 2 mg, Injektions-/Infusionslösung (+2 weitere Bezeichnungen) | Synthetikum | Narkotisches Analgetikum | Gültig |
+| 66873 | Hydromorphone Sintetica 0.2 mg/ml, soluzione per infusione | Synthetikum | Analgesico stupefacente | Gültig |
+| 70346 | Hydromorphone Mundipharma 1.3 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Narkotisches Analgetikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

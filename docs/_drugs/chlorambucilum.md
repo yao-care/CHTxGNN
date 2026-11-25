@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00291
 monitor_inn: "Chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Chlorambucilum: vorhergesagte neue Indikation ALK-positives grosszelliges B-Zell-Lymphom (ALK-positive large B-cell lymphoma) (Evidenzstufe L5). Ursprüngliche Indikation: Zytostatikum"
 ---
 
@@ -87,7 +87,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 23426 | Leukeran, Filmtabletten | Synthetika | Zytostatikum | Gültig |
+| 23426 | Leukeran, Filmtabletten | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

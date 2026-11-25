@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00341
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cetirizini Dihydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antiallergikum"
 ---
 
@@ -91,16 +91,16 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48143 | Zyrtec, comprimés pelliculés | Synthetika | Antiallergique | Gültig |
-| 52700 | Zyrtec, gouttes buvables | Synthetika | Antiallergique | Gültig |
-| 56891 | Cetallerg Sandoz, Tropfen | Synthetika | Antiallergikum | Gültig |
-| 57067 | Triofan Allergie, comprimés à sucer | Synthetika | Antiallergique | Gültig |
-| 57360 | Ceteco Sandoz, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 58941 | Cetirizin Stada, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 61240 | Amavita Cetirizin, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 65119 | Cetirizin-Mepha 10, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 67604 | Sun Store Cetirizin, Filmtabletten | Synthetika | Antiallergikum | Gültig |
-| 68316 | Cet-Mepha Allergie, Filmtabletten | Synthetika | Antiallergikum | Gültig |
+| 48143 | Zyrtec, comprimés pelliculés | Synthetikum | Antiallergique | Gültig |
+| 52700 | Zyrtec, gouttes buvables | Synthetikum | Antiallergique | Gültig |
+| 56891 | Cetallerg Sandoz, Tropfen | Synthetikum | Antiallergikum | Gültig |
+| 57067 | Triofan Allergie, comprimés à sucer | Synthetikum | Antiallergique | Gültig |
+| 57360 | Ceteco Sandoz, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 58941 | Cetirizin Stada, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 61240 | Amavita Cetirizin, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 65119 | Cetirizin-Mepha 10, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 67604 | Sun Store Cetirizin, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
+| 68316 | Cet-Mepha Allergie, Filmtabletten | Synthetikum | Antiallergikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

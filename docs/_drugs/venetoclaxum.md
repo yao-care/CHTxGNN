@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB11581
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Venetoclaxum: vorhergesagte neue Indikation Hodgkin-Lymphom (Hodgkins lymphoma) (Evidenzstufe L5). Ursprüngliche Indikation: Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML)"
 ---
 
@@ -98,7 +98,7 @@ Keine der gefundenen Publikationen untersucht Venetoclax beim Hodgkin-Lymphom. G
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66235 | Venclyxto 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML) | Gültig |
+| 66235 | Venclyxto 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Chronisch lymphatische Leukämie (CLL), Akute myeloische Leukämie (AML) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

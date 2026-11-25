@@ -75,9 +75,9 @@ Der hohe Vorhersagewert beruht allein auf einer computergestützten Modellvorher
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57733 | Kentera, transdermales Pflaster | Synthetika | Spasmolytikum der Harnwege | Gültig |
-| 67983 | Vesoxx 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetika | Zur Unterdrückung einer neurogenen Detrusorüberaktivität | Gültig |
-| 68991 | Velariq 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetika | Zur Unterdrückung einer neurogenen Detrusorüberaktivität | Gültig |
+| 57733 | Kentera, transdermales Pflaster | Synthetikum | Spasmolytikum der Harnwege | Gültig |
+| 67983 | Vesoxx 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetikum | Zur Unterdrückung einer neurogenen Detrusorüberaktivität | Gültig |
+| 68991 | Velariq 1 mg/ml, Lösung zur intravesikalen Anwendung | Synthetikum | Zur Unterdrückung einer neurogenen Detrusorüberaktivität | Gültig |
 | 70200 | Oxybutynin Macure 5 mg, comprimés | Synthetikum | Spasmolytique des voies urinaires | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

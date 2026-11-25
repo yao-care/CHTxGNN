@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levodopa: vorhergesagte neue Indikation subakute Rasmussen-Enzephalitis (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Parkinson, Restless-Legs-Syndrom"
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
@@ -74,13 +74,13 @@ Der hohe Vorhersagewert stammt vom TxGNN-Modell (Deep Learning) und spiegelt ver
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 38096 | Madopar 62.5, Kapseln (+1 weitere Bezeichnung) | Synthetika | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
-| 43593 | Madopar 250, Tabletten (+1 weitere Bezeichnung) | Synthetika | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
-| 52377 | Madopar LIQ 62.5, Tabletten zur Herstellung einer Suspension zum Einn… (+1 weitere Bezeichnung) | Synthetika | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
-| 53493 | Madopar DR, Tabletten | Synthetika | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
-| 57624 | Duodopa, Gel zur intestinalen Anwendung | Synthetika | Behandlung der fortgeschrittenen, Levodopa-reaktiven Parkinson-Krankheit mit schweren motorischen Fluktuation… | Gültig |
-| 57674 | Levacin 100/25, Retardtabletten | Synthetika | Morbus Parkinson | Gültig |
-| 68472 | Levodopa / Benserazid Devatis 62.5 mg (50 mg + 12.5 mg), Tabletten (+2 weitere Bezeichnungen) | Synthetika | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
+| 38096 | Madopar 62.5, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
+| 43593 | Madopar 250, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
+| 52377 | Madopar LIQ 62.5, Tabletten zur Herstellung einer Suspension zum Einn… (+1 weitere Bezeichnung) | Synthetikum | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
+| 53493 | Madopar DR, Tabletten | Synthetikum | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
+| 57624 | Duodopa, Gel zur intestinalen Anwendung | Synthetikum | Behandlung der fortgeschrittenen, Levodopa-reaktiven Parkinson-Krankheit mit schweren motorischen Fluktuation… | Gültig |
+| 57674 | Levacin 100/25, Retardtabletten | Synthetikum | Morbus Parkinson | Gültig |
+| 68472 | Levodopa / Benserazid Devatis 62.5 mg (50 mg + 12.5 mg), Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Morbus Parkinson, Restless Legs-Syndrom | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

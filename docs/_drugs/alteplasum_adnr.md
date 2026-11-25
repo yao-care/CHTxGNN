@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00009
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Alteplasum Adnr: vorhergesagte neue Indikation Heparin-Cofaktor-II-Mangel (heparin cofactor 2 deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Thrombolytische Therapie bei akutem Herzinfarkt…"
 ---
 
@@ -87,8 +87,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48313 | Actilyse 20mg, Pulver und Lösungsmittel zur Herstellung einer Injekti… (+2 weitere Bezeichnungen) | Biotechnologika | Thrombolytische Therapie bei akutem Herzinfarkt, akuter massiver Lungenembolie, akutem ischämischem Hirnschlag | Gültig |
-| 58665 | Actilyse Cathflo 2mg, Pulver zur Herstellung einer Injektionslösung | Biotechnologika | Rekanalisation thrombotisch verschlossener zentraler Venenzugänge | Gültig |
+| 48313 | Actilyse 20mg, Pulver und Lösungsmittel zur Herstellung einer Injekti… (+2 weitere Bezeichnungen) | Biotechnologikum | Thrombolytische Therapie bei akutem Herzinfarkt, akuter massiver Lungenembolie, akutem ischämischem Hirnschlag | Gültig |
+| 58665 | Actilyse Cathflo 2mg, Pulver zur Herstellung einer Injektionslösung | Biotechnologikum | Rekanalisation thrombotisch verschlossener zentraler Venenzugänge | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

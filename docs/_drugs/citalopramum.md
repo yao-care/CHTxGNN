@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00215
 monitor_inn: "Citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Citalopramum: vorhergesagte neue Indikation Zwangsstörung (obsessive-compulsive disorder) (Evidenzstufe L3). Ursprüngliche Indikation: Selektiver Serotonin-Wiederaufnahme-Hemmer"
 ---
 
@@ -101,11 +101,11 @@ Die Übersichtsarbeiten nennen Citalopram unter den Serotonin-Wiederaufnahmehemm
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49970 | Seropram 20 mg, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer | Gültig |
-| 55935 | Citalopram Sandoz 20, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 56336 | Citalopram-Mepha, Filmtabletten | Synthetika | Selektiver Serotonin-Wiederaufnahme-Hemmer | Gültig |
-| 57260 | Citalopram-Mepha Teva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
-| 59266 | Citalopram Zentiva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 49970 | Seropram 20 mg, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahme-Hemmer | Gültig |
+| 55935 | Citalopram Sandoz 20, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 56336 | Citalopram-Mepha, Filmtabletten | Synthetikum | Selektiver Serotonin-Wiederaufnahme-Hemmer | Gültig |
+| 57260 | Citalopram-Mepha Teva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
+| 59266 | Citalopram Zentiva 20 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Selektiver Serotonin-Wiederaufnahmehemmer | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

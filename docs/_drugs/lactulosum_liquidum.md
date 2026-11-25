@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00581
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lactulosum Liquidum: vorhergesagte neue Indikation Akute Uratnephropathie (acute urate nephropathy) (Evidenzstufe L5). Ursprüngliche Indikation: Darmregulans"
 ---
 
@@ -87,9 +87,9 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 32894 | Duphalac, sirop | Synthetika | laxatif | Gültig |
-| 37585 | Gatinar, Sirup | Synthetika | Laxans | Gültig |
-| 51067 | Rudolac, Sirup in Flasche | Synthetika | Darmregulans | Gültig |
+| 32894 | Duphalac, sirop | Synthetikum | laxatif | Gültig |
+| 37585 | Gatinar, Sirup | Synthetikum | Laxans | Gültig |
+| 51067 | Rudolac, Sirup in Flasche | Synthetikum | Darmregulans | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01195
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Flecainidi Acetas: vorhergesagte neue Indikation Schlaganfall (stroke disorder) (Evidenzstufe L5). Ursprüngliche Indikation: Antiarrhythmikum"
 ---
 
@@ -102,8 +102,8 @@ Keine der Publikationen untersucht Flecainid direkt bei Schlaganfall. Sie betref
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45710 | Tambocor, Injektionslösung | Synthetika | Antiarrhythmikum | Gültig |
-| 45711 | Tambocor, Tabletten | Synthetika | Antiarrhythmikum | Gültig |
+| 45710 | Tambocor, Injektionslösung | Synthetikum | Antiarrhythmikum | Gültig |
+| 45711 | Tambocor, Tabletten | Synthetikum | Antiarrhythmikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

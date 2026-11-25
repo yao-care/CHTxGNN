@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB09213
 monitor_inn: "Dexibuprofen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dexibuprofenum: vorhergesagte neue Indikation Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum, Antiphlogistikum"
 ---
 
@@ -75,8 +75,8 @@ Der hohe Vorhersagewert ist ein rein rechnerisches Ergebnis des Modells. Er wird
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54767 | Seractil 200 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antirheumatikum, Antiphlogistikum | Gültig |
-| 57985 | Seractil 200 mg, Pulver zur Herstellung einer Suspension zum Einnehmen (+2 weitere Bezeichnungen) | Synthetika | Antirheumatikum, Antiphlogistikum | Gültig |
+| 54767 | Seractil 200 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antirheumatikum, Antiphlogistikum | Gültig |
+| 57985 | Seractil 200 mg, Pulver zur Herstellung einer Suspension zum Einnehmen (+2 weitere Bezeichnungen) | Synthetikum | Antirheumatikum, Antiphlogistikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

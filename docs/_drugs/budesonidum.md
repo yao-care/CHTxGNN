@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB01222
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Budesonidum: vorhergesagte neue Indikation Atopisches Ekzem (atopic eczema) (Evidenzstufe L5). Ursprüngliche Indikation: Morbus Crohn, mikroskopische Kolitis"
 ---
 
@@ -97,15 +97,15 @@ Keine der Publikationen untersucht Budesonid direkt als Behandlung des atopische
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50758 | Pulmicort Respules 0,25 mg/mL, Suspension (+2 weitere Bezeichnungen) | Synthetika | Obstruktive Atemwegserkrankungen | Gültig |
-| 52042 | Entocort Enema, Klistier | Synthetika | Colitis ulcerosa | Gültig |
-| 53305 | Entocort CIR 3 mg, Hartkapsel mit veränderter Wirkstofffreisetzung | Synthetika | Morbus Crohn, mikroskopische Kolitis | Gültig |
-| 55521 | Cortinasal 50, Nasenspray, Suspension (+1 weitere Bezeichnung) | Synthetika | Rhinitis | Gültig |
-| 65869 | Cortiment MMX 9mg, Retardtabletten | Synthetika | Leichte bis mässig schwere Colitis ulcerosa | Gültig |
-| 66999 | Jorveza 1 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetika | Bei Erwachsenen zur Behandlung der eosinophilen Ösophagitis (EoÖ) | Gültig |
-| 68516 | Budesonid Spirig HC 3 mg, Hartkapsel mit veränderter Wirkstofffreiset… | Synthetika | Morbus Crohn | Gültig |
-| 68683 | Budenofalk 4 mg, Zäpfchen | Synthetika | Behandlung der leichten bis mittelschweren akuten Colitis ulcerosa, die auf den Enddarm beschränkt ist (Prokt… | Gültig |
-| 69205 | Kinpeygo 4 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetika | primärer Immunglobulin A (IgA)-Nephropathie (IgAN) | Gültig |
+| 50758 | Pulmicort Respules 0,25 mg/mL, Suspension (+2 weitere Bezeichnungen) | Synthetikum | Obstruktive Atemwegserkrankungen | Gültig |
+| 52042 | Entocort Enema, Klistier | Synthetikum | Colitis ulcerosa | Gültig |
+| 53305 | Entocort CIR 3 mg, Hartkapsel mit veränderter Wirkstofffreisetzung | Synthetikum | Morbus Crohn, mikroskopische Kolitis | Gültig |
+| 55521 | Cortinasal 50, Nasenspray, Suspension (+1 weitere Bezeichnung) | Synthetikum | Rhinitis | Gültig |
+| 65869 | Cortiment MMX 9mg, Retardtabletten | Synthetikum | Leichte bis mässig schwere Colitis ulcerosa | Gültig |
+| 66999 | Jorveza 1 mg, Schmelztabletten (+1 weitere Bezeichnung) | Synthetikum | Bei Erwachsenen zur Behandlung der eosinophilen Ösophagitis (EoÖ) | Gültig |
+| 68516 | Budesonid Spirig HC 3 mg, Hartkapsel mit veränderter Wirkstofffreiset… | Synthetikum | Morbus Crohn | Gültig |
+| 68683 | Budenofalk 4 mg, Zäpfchen | Synthetikum | Behandlung der leichten bis mittelschweren akuten Colitis ulcerosa, die auf den Enddarm beschränkt ist (Prokt… | Gültig |
+| 69205 | Kinpeygo 4 mg, Hartkapseln mit veränderter Wirkstofffreisetzung | Synthetikum | primärer Immunglobulin A (IgA)-Nephropathie (IgAN) | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

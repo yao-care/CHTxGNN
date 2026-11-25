@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB14126
 monitor_inn: "Tenofovir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tenofovirum: vorhergesagte neue Indikation Felines erworbenes Immunschwächesyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektion, Hepatitis B"
 ---
 
@@ -88,13 +88,13 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56251 | Viread, Filmtabletten | Synthetika | HIV-Infektion, Hepatitis B | Gültig |
-| 57316 | Truvada, Filmtabletten | Synthetika | HIV-1-Infektion, HIV-1-Prä-Expositionsprophylaxe | Gültig |
-| 65564 | Tenofovir-Mepha, Lactab | Synthetika | HIV-Infektion, Hepatitis B | Gültig |
-| 66190 | Vemlidy, Filmtabletten | Synthetika | Chronische Hepatitis B | Gültig |
-| 66282 | Tenofovir Sandoz 245 mg, Filmtabletten | Synthetika | HIV-Infektion, Hepatitis B | Gültig |
-| 67014 | Tenofovir Viatris 245 mg, Filmtabletten | Synthetika | HIV-Infektion, Hepatitis B | Gültig |
-| 70372 | Viread 245 mg, Filmtabletten | Synthetika | HIV-Infektion, Hepatitis B | Gültig |
+| 56251 | Viread, Filmtabletten | Synthetikum | HIV-Infektion, Hepatitis B | Gültig |
+| 57316 | Truvada, Filmtabletten | Synthetikum | HIV-1-Infektion, HIV-1-Prä-Expositionsprophylaxe | Gültig |
+| 65564 | Tenofovir-Mepha, Lactab | Synthetikum | HIV-Infektion, Hepatitis B | Gültig |
+| 66190 | Vemlidy, Filmtabletten | Synthetikum | Chronische Hepatitis B | Gültig |
+| 66282 | Tenofovir Sandoz 245 mg, Filmtabletten | Synthetikum | HIV-Infektion, Hepatitis B | Gültig |
+| 67014 | Tenofovir Viatris 245 mg, Filmtabletten | Synthetikum | HIV-Infektion, Hepatitis B | Gültig |
+| 70372 | Viread 245 mg, Filmtabletten | Synthetikum | HIV-Infektion, Hepatitis B | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

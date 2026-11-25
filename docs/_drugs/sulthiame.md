@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Sulthiame: vorhergesagte neue Indikation Cauda-equina-Syndrom (Evidenzstufe L5). Ursprüngliche Indikation: Antiepileptikum"
 monitor_inn: "sulthiame"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "neurocirculatory asthenia", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "MVP1", "autonomic nervous system disease"]
@@ -86,8 +86,8 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55603 | Ospolot 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Antiepileptikum | Gültig |
-| 69828 | Ospolot 20 mg/ml, Suspension zum Einnehmen | Synthetika | Antiepileptikum | Gültig |
+| 55603 | Ospolot 50 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Antiepileptikum | Gültig |
+| 69828 | Ospolot 20 mg/ml, Suspension zum Einnehmen | Synthetikum | Antiepileptikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

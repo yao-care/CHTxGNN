@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "undecylenic acid"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease", "pityriasis versicolor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Undecylenic Acid: vorhergesagte neue Indikation Ektotrix-Infektionskrankheit (ectothrix infectious disease) (Evidenzstufe L5). Ursprüngliche Indikation: Lavage en douceur de la peau avec restitution …"
 ---
 
@@ -72,7 +72,7 @@ Es gibt aber Einschränkungen: Lokal angewendete Wirkstoffe dringen schlecht in 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 13942 | Derma-Merfen bain relipidant, adjuvant de bain | Synthetika | Lavage en douceur de la peau avec restitution des lipides perdus | Gültig |
+| 13942 | Derma-Merfen bain relipidant, adjuvant de bain | Synthetikum | Lavage en douceur de la peau avec restitution des lipides perdus | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

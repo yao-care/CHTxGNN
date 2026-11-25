@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB09104
 monitor_inn: "Magnesium hydroxide"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Magnesii Hydroxidum: vorhergesagte neue Indikation Magenerkrankung (stomach disease) (Evidenzstufe L3). Ursprüngliche Indikation: Laxativum und Antazidum"
 ---
 
@@ -97,8 +97,8 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 10574 | Magnesia San Pellegrino, Pulver zur Herstellung einer Suspension zum… | Synthetika | Laxativum und Antazidum | Gültig |
-| 27481 | Magnesia San Pellegrino, Brausepulver ohne Aroma (+1 weitere Bezeichnung) | Synthetika | Laxativum und Antazidum | Gültig |
+| 10574 | Magnesia San Pellegrino, Pulver zur Herstellung einer Suspension zum… | Synthetikum | Laxativum und Antazidum | Gültig |
+| 27481 | Magnesia San Pellegrino, Brausepulver ohne Aroma (+1 weitere Bezeichnung) | Synthetikum | Laxativum und Antazidum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

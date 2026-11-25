@@ -87,11 +87,11 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 24936 | Vancocin i.v. 500 mg, Pulver für ein Konzentrat zur Herstellung einer… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 47074 | Vancocin 125 mg, Kapseln | Synthetika | Infektionen durch Clostridium difficile | Gültig |
-| 57236 | Vancomycin Sandoz 500 mg i.v., Pulver zur Herstellung einer Infusions… (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 59766 | Vancomycin Labatec 500 mg, poudre pour solution pour perfusion (+1 weitere Bezeichnung) | Synthetika | Maladies infectieuses | Gültig |
-| 67837 | Vancomycin Fairmed 125 mg, Kapseln (+1 weitere Bezeichnung) | Synthetika | Infektionen durch Clostridium difficile | Gültig |
+| 24936 | Vancocin i.v. 500 mg, Pulver für ein Konzentrat zur Herstellung einer… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 47074 | Vancocin 125 mg, Kapseln | Synthetikum | Infektionen durch Clostridium difficile | Gültig |
+| 57236 | Vancomycin Sandoz 500 mg i.v., Pulver zur Herstellung einer Infusions… (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 59766 | Vancomycin Labatec 500 mg, poudre pour solution pour perfusion (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses | Gültig |
+| 67837 | Vancomycin Fairmed 125 mg, Kapseln (+1 weitere Bezeichnung) | Synthetikum | Infektionen durch Clostridium difficile | Gültig |
 | 69888 | Vancomycin Leman IV 500 mg, poudre pour solution à diluer pour perfus… (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses | Gültig |
 | 70237 | Vanco Labatec 500 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Synthetikum | Maladies infectieuses | Gültig |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "clavulanic acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clavulanic Acid: vorhergesagte neue Indikation Ureaplasma-Urethritis (Ureaplasma urethritis) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -91,8 +91,8 @@ Keine dieser Publikationen belegt eine Wirksamkeit gegen Ureaplasma-Urethritis. 
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55185 | Co-Amoxicillin Sandoz 625, Filmtabletten | Synthetika | Infektionskrankheiten | Gültig |
-| 55259 | Co-Amoxicillin Sandoz 1 g, Filmtabletten | Synthetika | Infektionskrankheiten | Gültig |
+| 55185 | Co-Amoxicillin Sandoz 625, Filmtabletten | Synthetikum | Infektionskrankheiten | Gültig |
+| 55259 | Co-Amoxicillin Sandoz 1 g, Filmtabletten | Synthetikum | Infektionskrankheiten | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

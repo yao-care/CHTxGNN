@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00935
 monitor_inn: "Oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Oxymetazolini Hydrochloridum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Rhume"
 ---
 
@@ -87,10 +87,10 @@ Keine der folgenden Publikationen untersucht die vorhergesagte Erkrankung direkt
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45138 | VICKS Nasivin Classic 0.05 %, solution pour pulvérisation nasale | Synthetika | Rhume | Gültig |
-| 51764 | VICKS Nasivin Classic Menthol, solution pour pulvérisation nasale | Synthetika | Rhumes | Gültig |
-| 54613 | VICKS Nasivin 0.05 %, solution pour pulvérisation nasale (+1 weitere Bezeichnung) | Synthetika | Rhume | Gültig |
-| 70160 | VICKS Nasivin 0.01%, solution nasale en gouttes | Synthetika | Rhume | Gültig |
+| 45138 | VICKS Nasivin Classic 0.05 %, solution pour pulvérisation nasale | Synthetikum | Rhume | Gültig |
+| 51764 | VICKS Nasivin Classic Menthol, solution pour pulvérisation nasale | Synthetikum | Rhumes | Gültig |
+| 54613 | VICKS Nasivin 0.05 %, solution pour pulvérisation nasale (+1 weitere Bezeichnung) | Synthetikum | Rhume | Gültig |
+| 70160 | VICKS Nasivin 0.01%, solution nasale en gouttes | Synthetikum | Rhume | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

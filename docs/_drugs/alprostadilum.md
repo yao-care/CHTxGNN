@@ -90,9 +90,9 @@ Der sehr hohe TxGNN-Wert passt zu dieser Verbindung. Er ersetzt jedoch keine kli
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 45333 | Prostin VR, Konzentrat zur Herstellung einer Infusionslösung | Synthetika | Zur temporären Oeffnung des Ductus arteriosus bei Neugeborenen mit angeborenen Herzfehlern | Gültig |
-| 52510 | Caverject 20 ug, Injektionspräparat (+1 weitere Bezeichnung) | Synthetika | Erektile Dysfunktion | Gültig |
-| 55674 | Caverject DC 10, Pulver und Lösungsmittel zur Herstellung einer Injek… (+1 weitere Bezeichnung) | Synthetika | Erektile Dysfunktion | Gültig |
+| 45333 | Prostin VR, Konzentrat zur Herstellung einer Infusionslösung | Synthetikum | Zur temporären Oeffnung des Ductus arteriosus bei Neugeborenen mit angeborenen Herzfehlern | Gültig |
+| 52510 | Caverject 20 ug, Injektionspräparat (+1 weitere Bezeichnung) | Synthetikum | Erektile Dysfunktion | Gültig |
+| 55674 | Caverject DC 10, Pulver und Lösungsmittel zur Herstellung einer Injek… (+1 weitere Bezeichnung) | Synthetikum | Erektile Dysfunktion | Gültig |
 | 70714 | ALPROSTADIL Leman IV 500 mcg/ml, solution à diluer pour perfusion | Synthetikum | pour conserver temporairement la persistance du canal artériel chez le nouveau né atteint de cardiopathie con… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

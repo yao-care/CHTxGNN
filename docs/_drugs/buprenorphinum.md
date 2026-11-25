@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00921
 monitor_inn: "Buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Buprenorphinum: vorhergesagte neue Indikation Akute intermittierende Porphyrie (acute intermittent porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Analgeticum"
 ---
 
@@ -89,10 +89,10 @@ Derzeit keine verwandten klinischen Studien registriert
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 44100 | Temgesic 0,2 mg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetika | Analgeticum | Gültig |
-| 55423 | Transtec 35 ug/h, Transdermales Pflaster (+2 weitere Bezeichnungen) | Synthetika | Analgetikum | Gültig |
-| 65809 | Buprenorphin-Mepha 35ug/h, Transdermale Pflaster (+1 weitere Bezeichnung) | Synthetika | Analgetikum | Gültig |
-| 67941 | Buvidal 8 mg, Depot-Injektionslösung (+6 weitere Bezeichnungen) | Synthetika | Substitutionsbehandlung bei Opioidabhängigkeit | Gültig |
+| 44100 | Temgesic 0,2 mg, Sublingualtabletten (+1 weitere Bezeichnung) | Synthetikum | Analgeticum | Gültig |
+| 55423 | Transtec 35 ug/h, Transdermales Pflaster (+2 weitere Bezeichnungen) | Synthetikum | Analgetikum | Gültig |
+| 65809 | Buprenorphin-Mepha 35ug/h, Transdermale Pflaster (+1 weitere Bezeichnung) | Synthetikum | Analgetikum | Gültig |
+| 67941 | Buvidal 8 mg, Depot-Injektionslösung (+6 weitere Bezeichnungen) | Synthetikum | Substitutionsbehandlung bei Opioidabhängigkeit | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

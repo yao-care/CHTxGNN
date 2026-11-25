@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB12267
 monitor_inn: "Brigatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Brigatinibum: vorhergesagte neue Indikation Gingivafibromatose (fibromatosis, gingival) (Evidenzstufe L5). Ursprüngliche Indikation: nicht-kleinzelliges Lungenkarzinom (NSCLC)"
 ---
 
@@ -94,7 +94,7 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66738 | Alunbrig 30 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | nicht-kleinzelliges Lungenkarzinom (NSCLC) | Gültig |
+| 66738 | Alunbrig 30 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | nicht-kleinzelliges Lungenkarzinom (NSCLC) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

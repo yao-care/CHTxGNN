@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Atorvastatinum: vorhergesagte neue Indikation HIV-Infektionskrankheit (HIV infectious disease) (Evidenzstufe L2). Ursprüngliche Indikation: Reduktion der Serumcholesterinkonzentration"
 ---
 
@@ -113,8 +113,8 @@ Mindestens 2 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54085 | Sortis 10, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
-| 69098 | Atorvastatin NOBEL 10 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 54085 | Sortis 10, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
+| 69098 | Atorvastatin NOBEL 10 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Reduktion der Serumcholesterinkonzentration | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00476
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Duloxetinum: vorhergesagte neue Indikation Benigner paroxysmaler Torticollis des Kindesalters (benign paroxysmal torticollis of infancy) (Evidenzstufe L5)."
 ---
 
@@ -75,9 +75,9 @@ Ein klarer mechanistischer Zusammenhang lässt sich daher nicht herleiten. Der h
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65795 | Duloxetin Spirig HC 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
-| 66098 | Duloxetin-Mepha 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
-| 67645 | Duloxetin NOBEL 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetika | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
+| 65795 | Duloxetin Spirig HC 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
+| 66098 | Duloxetin-Mepha 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
+| 67645 | Duloxetin NOBEL 30 mg, magensaftresistente Hartkapseln (+1 weitere Bezeichnung) | Synthetikum | Antidepressivum, Schmerzen bei diabetischer Neuropathie, generalisierte Angststörung | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

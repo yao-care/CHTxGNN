@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00558
 monitor_inn: "Zanamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Zanamivirum: vorhergesagte neue Indikation Pyelonephritis (Evidenzstufe L5). Ursprüngliche Indikation: Influenza A und B"
 ---
 
@@ -71,7 +71,7 @@ Denkbar, aber rein spekulativ, wären ein Einfluss auf bakterielle Sialidasen od
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55108 | Relenza 5 mg, Disk (Pulverinhalation) | Synthetika | Influenza A und B | Gültig |
+| 55108 | Relenza 5 mg, Disk (Pulverinhalation) | Synthetikum | Influenza A und B | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

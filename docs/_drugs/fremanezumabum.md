@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB14041
 monitor_inn: "Fremanezumab"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fremanezumabum: vorhergesagte neue Indikation Atrophoderma vermiculata (Evidenzstufe L5). Ursprüngliche Indikation: Migräneprophylaxe"
 ---
 
@@ -87,8 +87,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67284 | AJOVY 225 mg, Injektionslösung in einer Fertigspritze | Biotechnologika | Migräneprophylaxe | Gültig |
-| 67843 | AJOVY 225 mg, Injektionslösung im Fertigpen | Biotechnologika | Migräneprophylaxe | Gültig |
+| 67284 | AJOVY 225 mg, Injektionslösung in einer Fertigspritze | Biotechnologikum | Migräneprophylaxe | Gültig |
+| 67843 | AJOVY 225 mg, Injektionslösung im Fertigpen | Biotechnologikum | Migräneprophylaxe | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

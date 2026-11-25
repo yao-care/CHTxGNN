@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00749
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Etodolacum: vorhergesagte neue Indikation Akromesomele Dysplasie, Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5). Ursprüngliche Indikation: Antirheumatikum"
 ---
 
@@ -73,9 +73,9 @@ Der hohe Vorhersagewert beruht deshalb vermutlich eher auf Nähe im Datennetz de
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48625 | Lodine 300 mg, Filmtabletten | Synthetika | Antirheumatikum | Gültig |
-| 51181 | Lodine retard 600 mg, Filmtabletten | Synthetika | Antirheumatikum | Gültig |
-| 68635 | Etodolac NOBEL retard 600 mg, Filmtabletten | Synthetika | Antirheumatikum | Gültig |
+| 48625 | Lodine 300 mg, Filmtabletten | Synthetikum | Antirheumatikum | Gültig |
+| 51181 | Lodine retard 600 mg, Filmtabletten | Synthetikum | Antirheumatikum | Gültig |
+| 68635 | Etodolac NOBEL retard 600 mg, Filmtabletten | Synthetikum | Antirheumatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

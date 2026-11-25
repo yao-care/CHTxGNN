@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00936
 monitor_inn: "Salicylic acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Acidum Salicylicum: vorhergesagte neue Indikation Papilläre Konjunktivitis (papillary conjunctivitis) (Evidenzstufe L5). Ursprüngliche Indikation: Umschlagpaste bei Entzündungen, Verstauchungen"
 ---
 
@@ -75,8 +75,8 @@ Zusätzlich ist Vorsicht geboten: Salicylsäure wirkt auf der Haut hornlösend u
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 34040 | Pasta boli Spirig HC, Paste | Synthetika | Umschlagpaste bei Entzündungen, Verstauchungen | Gültig |
-| 67483 | Néo-Décongestine hot & cold, Paste | Synthetika | Umschlagpaste bei Entzündungen, Verstauchungen | Gültig |
+| 34040 | Pasta boli Spirig HC, Paste | Synthetikum | Umschlagpaste bei Entzündungen, Verstauchungen | Gültig |
+| 67483 | Néo-Décongestine hot & cold, Paste | Synthetikum | Umschlagpaste bei Entzündungen, Verstauchungen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

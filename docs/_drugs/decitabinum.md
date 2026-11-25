@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01262
 monitor_inn: "Decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Decitabinum: vorhergesagte neue Indikation Refraktäre Zytopenie des Kindesalters (refractory cytopenia of childhood) (Evidenzstufe L5). Ursprüngliche Indikation: Akute myeloische Leukämie (AML)"
 ---
 
@@ -73,10 +73,10 @@ Dieser Zusammenhang ist jedoch indirekt und nicht belegt. Die Erkrankung verläu
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 62406 | Dacogen, Lyophilisat zur Herstellung eines Konzentrats zur Herstellun… | Synthetika | Zytostatikum | Gültig |
-| 68233 | Decitabin Sandoz 50 mg, Pulver für ein Konzentrat zur Herstellung ein… | Synthetika | Akute myeloische Leukämie (AML) | Gültig |
-| 68255 | Decitabin Accord 50 mg, Pulver für ein Konzentrat zur Herstellung ein… | Synthetika | Zytostatikum | Gültig |
-| 68545 | Decitabine Ideogen 50 mg, Pulver für ein Konzentrat zur Herstellung e… | Synthetika | Zytostatikum | Gültig |
+| 62406 | Dacogen, Lyophilisat zur Herstellung eines Konzentrats zur Herstellun… | Synthetikum | Zytostatikum | Gültig |
+| 68233 | Decitabin Sandoz 50 mg, Pulver für ein Konzentrat zur Herstellung ein… | Synthetikum | Akute myeloische Leukämie (AML) | Gültig |
+| 68255 | Decitabin Accord 50 mg, Pulver für ein Konzentrat zur Herstellung ein… | Synthetikum | Zytostatikum | Gültig |
+| 68545 | Decitabine Ideogen 50 mg, Pulver für ein Konzentrat zur Herstellung e… | Synthetikum | Zytostatikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

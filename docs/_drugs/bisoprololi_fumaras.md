@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Bisoprololi Fumaras: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Hypertonie"
 ---
 
@@ -81,10 +81,10 @@ Die Liste kann unvollständig sein; den Status der erfassten Zulassungen zeigt d
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54030 | Bilol 5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Hypertonie | Gültig |
-| 63190 | Bisoprolol-Mepha 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Betarezeptorenblocker | Gültig |
-| 67675 | Bisoprolol Stada 2.5 mg, Tabletten | Synthetika | Betarezeptorenblocker | Gültig |
-| 65034 | Bisoprolol Zentiva 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetika | Betarezeptorenblocker | Erloschen |
+| 54030 | Bilol 5 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Hypertonie | Gültig |
+| 63190 | Bisoprolol-Mepha 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Betarezeptorenblocker | Gültig |
+| 67675 | Bisoprolol Stada 2.5 mg, Tabletten | Synthetikum | Betarezeptorenblocker | Gültig |
+| 65034 | Bisoprolol Zentiva 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Synthetikum | Betarezeptorenblocker | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00421
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Spironolactonum: vorhergesagte neue Indikation Hypotrichosis simplex der Kopfhaut (hypotrichosis simplex of the scalp) (Evidenzstufe L5). Ursprüngliche Indikation: Diuretikum"
 ---
 
@@ -71,7 +71,7 @@ Die Hypotrichosis simplex der Kopfhaut ist eine seltene erbliche Erkrankung. Sie
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 27257 | Aldactone 25 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Diuretikum | Gültig |
+| 27257 | Aldactone 25 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Diuretikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

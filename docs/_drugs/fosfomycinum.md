@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00828
 monitor_inn: "Fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fosfomycinum: vorhergesagte neue Indikation Entzündliche Erkrankung der Gebärmutter (uterine inflammatory disease) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -90,12 +90,12 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 49298 | Monuril 3 g, granulato per soluzione orale in bustina | Synthetika | Malattie infettive | Gültig |
-| 66141 | Fosfomycin-Mepha 3 g, Pulver im Beutel zur Herstellung einer Lösung z… | Synthetika | Infektionskrankheiten | Gültig |
-| 66165 | Fosfolag 3 g, granulato per soluzione orale | Synthetika | Malattie infettive | Gültig |
-| 66690 | Fosfomycin Sandoz 3 g, Granulat zur Herstellung einer Lösung zum Einn… | Synthetika | Infektionskrankheiten | Gültig |
-| 67227 | Fosfomycin Spirig HC 3 g, Granulat zur Herstellung einer Lösung zum E… | Synthetika | Infektionskrankheiten | Gültig |
-| 69292 | Fosfomycin Maddox 3 g | Synthetika | Malattie infettive | Gültig |
+| 49298 | Monuril 3 g, granulato per soluzione orale in bustina | Synthetikum | Malattie infettive | Gültig |
+| 66141 | Fosfomycin-Mepha 3 g, Pulver im Beutel zur Herstellung einer Lösung z… | Synthetikum | Infektionskrankheiten | Gültig |
+| 66165 | Fosfolag 3 g, granulato per soluzione orale | Synthetikum | Malattie infettive | Gültig |
+| 66690 | Fosfomycin Sandoz 3 g, Granulat zur Herstellung einer Lösung zum Einn… | Synthetikum | Infektionskrankheiten | Gültig |
+| 67227 | Fosfomycin Spirig HC 3 g, Granulat zur Herstellung einer Lösung zum E… | Synthetikum | Infektionskrankheiten | Gültig |
+| 69292 | Fosfomycin Maddox 3 g | Synthetikum | Malattie infettive | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

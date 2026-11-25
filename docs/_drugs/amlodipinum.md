@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Amlodipinum: vorhergesagte neue Indikation Hirnstamminfarkt (brain stem infarction) (Evidenzstufe L5). Ursprüngliche Indikation: Calciumantagonist"
 ---
 
@@ -73,11 +73,11 @@ Diese Überlegungen sind theoretisch. Für diese konkrete Erkrankung wurden wede
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 50044 | Norvasc 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
-| 56821 | ZentiAmlo 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
-| 56991 | Amlodipin-Mepha 5, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
-| 59421 | Amlodipin axapharm 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
-| 68727 | Amlodipin Zentiva 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Calciumantagonist | Gültig |
+| 50044 | Norvasc 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Calciumantagonist | Gültig |
+| 56821 | ZentiAmlo 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Calciumantagonist | Gültig |
+| 56991 | Amlodipin-Mepha 5, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Calciumantagonist | Gültig |
+| 59421 | Amlodipin axapharm 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Calciumantagonist | Gültig |
+| 68727 | Amlodipin Zentiva 5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Calciumantagonist | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

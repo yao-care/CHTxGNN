@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00820
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tadalafilum: vorhergesagte neue Indikation Ambras-Typ der Hypertrichosis universalis congenita (Ambras type hypertrichosis universalis congenita) (Evidenzstufe L5)."
 ---
 
@@ -71,10 +71,10 @@ Ein belegter mechanistischer Zusammenhang mit der vorhergesagten Erkrankung best
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66443 | Tadalafil PAH-Mepha, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie (PAH) | Gültig |
-| 67625 | Tadalafil Spirig HC, 2.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Erektile Dysfunktion | Gültig |
-| 67968 | Tadalafil PAH OrPha 20 mg, Filmtabletten | Synthetika | Pulmonale arterielle Hypertonie | Gültig |
-| 69170 | Tadalafil Zentiva 2,5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetika | Erektile Dysfunktion, Therapie der funktionellen Symptome einer benignen Prostatahyperplasie. | Gültig |
+| 66443 | Tadalafil PAH-Mepha, Filmtabletten | Synthetikum | Pulmonale arterielle Hypertonie (PAH) | Gültig |
+| 67625 | Tadalafil Spirig HC, 2.5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Erektile Dysfunktion | Gültig |
+| 67968 | Tadalafil PAH OrPha 20 mg, Filmtabletten | Synthetikum | Pulmonale arterielle Hypertonie | Gültig |
+| 69170 | Tadalafil Zentiva 2,5 mg, Filmtabletten (+3 weitere Bezeichnungen) | Synthetikum | Erektile Dysfunktion, Therapie der funktionellen Symptome einer benignen Prostatahyperplasie. | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

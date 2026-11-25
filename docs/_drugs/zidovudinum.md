@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00495
 monitor_inn: "Zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Zidovudinum: vorhergesagte neue Indikation Felines erworbenes Immundefizienzsyndrom (feline acquired immunodeficiency syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: HIV-Infektionen"
 ---
 
@@ -98,9 +98,9 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 48917 | Retrovir AZT i.v., Infusionslösung | Synthetika | HIV-Infektionen | Gültig |
-| 48942 | Retrovir AZT 250 mg, Kapseln | Synthetika | HIV-Infektionen | Gültig |
-| 51588 | Retrovir AZT, Sirup | Synthetika | HIV-Infektionen | Gültig |
+| 48917 | Retrovir AZT i.v., Infusionslösung | Synthetikum | HIV-Infektionen | Gültig |
+| 48942 | Retrovir AZT 250 mg, Kapseln | Synthetikum | HIV-Infektionen | Gültig |
+| 51588 | Retrovir AZT, Sirup | Synthetikum | HIV-Infektionen | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

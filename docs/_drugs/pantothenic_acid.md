@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "pantothenic acid"
 predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "gonococcal urethritis", "Ureaplasma urethritis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pantothenic Acid: vorhergesagte neue Indikation Angeborener Prothrombinmangel (congenital prothrombin deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Vitaminzusatz zur parenteralen Ernährung"
 ---
 
@@ -86,8 +86,8 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 43678 | Soluvit N, Trockenampullen | Synthetika | Vitaminzusatz zur parenteralen Ernährung | Gültig |
-| 69577 | Viant, Pulver zur Herstellung einer Infusionslösung | Synthetika | Vitaminzusatz zur parenteralen Ernährung | Gültig |
+| 43678 | Soluvit N, Trockenampullen | Synthetikum | Vitaminzusatz zur parenteralen Ernährung | Gültig |
+| 69577 | Viant, Pulver zur Herstellung einer Infusionslösung | Synthetikum | Vitaminzusatz zur parenteralen Ernährung | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

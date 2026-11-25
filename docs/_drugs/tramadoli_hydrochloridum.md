@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00193
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tramadoli Hydrochloridum: vorhergesagte neue Indikation Akromesomele Dysplasie Typ Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (Evidenzstufe L5)."
 ---
 
@@ -73,11 +73,11 @@ Der hohe Vorhersagewert beruht daher sehr wahrscheinlich auf einem rechnerischen
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52557 | Tramadol-Mepha, Kapseln | Synthetika | Analgetikum | Gültig |
-| 52900 | Tramadol Zentiva, Hartkapseln | Synthetika | Analgetikum | Gültig |
-| 52901 | Tramadol Zentiva; Lösung zum Einnehmen | Synthetika | Analgetikum | Gültig |
-| 55876 | Tramadol Sandoz, Lösung zum Einnehmen | Synthetika | Analgetikum | Gültig |
-| 57060 | Tramadol Sandoz retard 100 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetika | Analgetikum | Gültig |
+| 52557 | Tramadol-Mepha, Kapseln | Synthetikum | Analgetikum | Gültig |
+| 52900 | Tramadol Zentiva, Hartkapseln | Synthetikum | Analgetikum | Gültig |
+| 52901 | Tramadol Zentiva; Lösung zum Einnehmen | Synthetikum | Analgetikum | Gültig |
+| 55876 | Tramadol Sandoz, Lösung zum Einnehmen | Synthetikum | Analgetikum | Gültig |
+| 57060 | Tramadol Sandoz retard 100 mg, Retardtabletten (+2 weitere Bezeichnungen) | Synthetikum | Analgetikum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

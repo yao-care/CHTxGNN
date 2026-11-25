@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB04951
 monitor_inn: "Pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pirfenidonum: vorhergesagte neue Indikation Extrakutanes Mastozytom (extracutaneous mastocytoma) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung idiopathischer pulmonaler Fibrose (IPF)"
 ---
 
@@ -71,10 +71,10 @@ Ein Zusammenhang mit Mastzell-Neoplasien ist derzeit spekulativ. Mastzellen trag
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 66422 | Esbriet 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung idiopathischer pulmonaler Fibrose (IPF) | Gültig |
-| 69563 | Pirfenidon-Mepha 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Idiopathische pulmonale Fibrose (IPF) bei Erwachsenen | Gültig |
-| 69567 | Pirfenidon Spirig HC 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung idiopathischer pulmonaler Fibrose (IPF) | Gültig |
-| 69574 | Pirfenidon Sandoz 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Behandlung idiopathischer pulmonaler Fibrose (IPF) | Gültig |
+| 66422 | Esbriet 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung idiopathischer pulmonaler Fibrose (IPF) | Gültig |
+| 69563 | Pirfenidon-Mepha 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Idiopathische pulmonale Fibrose (IPF) bei Erwachsenen | Gültig |
+| 69567 | Pirfenidon Spirig HC 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung idiopathischer pulmonaler Fibrose (IPF) | Gültig |
+| 69574 | Pirfenidon Sandoz 267 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Behandlung idiopathischer pulmonaler Fibrose (IPF) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

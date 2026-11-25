@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00207
 monitor_inn: "Azithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Azithromycinum: vorhergesagte neue Indikation Polyklonales Hyperviskositätssyndrom (polyclonal hyperviscosity syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -83,14 +83,14 @@ Die Liste kann unvollständig sein; den Status der erfassten Zulassungen zeigt d
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 51352 | Zithromax, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetika | Infektionskrankheiten | Gültig |
-| 57482 | Azithromycin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 58081 | Azithromycin-Mepha 200, Pulver zur Herstellung einer Suspension zum E… | Synthetika | Infektionskrankheiten | Gültig |
-| 67761 | Azithromycin-Mepha 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Gültig |
-| 68519 | Azyter , collyre en solution | Synthetika | pour le traitement curatif local de la conjonctivite bactérienne purulente et de la conjonctivite trachomateu… | Gültig |
-| 51999 | Zithromax 100 mg, Pulver zur Herstellung einer Suspension zum Einnehm… (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Erloschen |
-| 57627 | Azithromycin Sandoz, Pulver zur Herstellung einer Suspension zum Einn… | Synthetika | Infektionskrankheiten | Erloschen |
-| 61256 | Azithromycin Pfizer 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Infektionskrankheiten | Erloschen |
+| 51352 | Zithromax, Pulver zur Herstellung einer Suspension zum Einnehmen | Synthetikum | Infektionskrankheiten | Gültig |
+| 57482 | Azithromycin Sandoz 250, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 58081 | Azithromycin-Mepha 200, Pulver zur Herstellung einer Suspension zum E… | Synthetikum | Infektionskrankheiten | Gültig |
+| 67761 | Azithromycin-Mepha 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Gültig |
+| 68519 | Azyter , collyre en solution | Synthetikum | pour le traitement curatif local de la conjonctivite bactérienne purulente et de la conjonctivite trachomateu… | Gültig |
+| 51999 | Zithromax 100 mg, Pulver zur Herstellung einer Suspension zum Einnehm… (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Erloschen |
+| 57627 | Azithromycin Sandoz, Pulver zur Herstellung einer Suspension zum Einn… | Synthetikum | Infektionskrankheiten | Erloschen |
+| 61256 | Azithromycin Pfizer 250 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Infektionskrankheiten | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

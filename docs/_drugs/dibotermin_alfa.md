@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 41
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dibotermin Alfa: vorhergesagte neue Indikation Esotropie (Evidenzstufe L5). Ursprüngliche Indikation: Osteosynthese: Behandlung von Tibiafrakturen und degenerativen Bandsc…"
 monitor_inn: "dibotermin alfa"
 predicted_indications: ["esotropia", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "non-syndromic esophageal malformation", "multifocal choroiditis", "atypical coarctation of aorta"]
@@ -86,7 +86,7 @@ Derzeit keine verwandte Literatur verfügbar
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56828 | InductOs 1.5 mg/ml, poudre 12 mg, solvant et matrice pour matrice pou… (+1 weitere Bezeichnung) | Biotechnologika | Ostéosynthèse: traitement des fractures de tibia chez l'adulte, traitement de discopathies dégénératives chez… | Gültig |
+| 56828 | InductOs 1.5 mg/ml, poudre 12 mg, solvant et matrice pour matrice pou… (+1 weitere Bezeichnung) | Biotechnologikum | Ostéosynthèse: traitement des fractures de tibia chez l'adulte, traitement de discopathies dégénératives chez… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

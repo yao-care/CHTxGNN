@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB08984
 monitor_inn: "Etofenamate"
 predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "polyarticular juvenile rheumatoid arthritis", "Kummell disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Etofenamatum: vorhergesagte neue Indikation Spondylitis ankylosans (ankylosing spondylitis) (Evidenzstufe L5). Ursprüngliche Indikation: Kutanes Antiphlogistikum"
 ---
 
@@ -83,15 +83,15 @@ Es gibt aber wichtige Einschränkungen: Die einzige vorliegende Publikation zeig
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 42203 | Rheumalix, Gel | Synthetika | Kutanes Antiphlogistikum | Gültig |
-| 49673 | Traumalix Dolo Gel 5 %, Gel (+1 weitere Bezeichnung) | Synthetika | Kutanes Antiphlogistikum | Gültig |
-| 51379 | Traumalix forte, Spray | Synthetika | Kutanes Antirheumatikum | Gültig |
-| 53911 | Traumalix forte, Gel | Synthetika | Kutanes Antiphlogistikum | Gültig |
-| 55515 | Rheumalix forte, Spray | Synthetika | Kutanes Antirheumatikum | Gültig |
-| 58017 | Rheumalix forte, Gel | Synthetika | Kutanes Antiphlogistikum | Gültig |
-| 66403 | Traumalix forte EmGel, Gel | Synthetika | Kutanes Antiphlogistikum | Gültig |
-| 66405 | Traumalix Gel, Gel | Synthetika | Kutanes Antiphlogistikum | Gültig |
-| 67494 | Lixim Patch, wirkstoffhaltiges Pflaster | Synthetika | Kutanes Antiphlogistikum | Gültig |
+| 42203 | Rheumalix, Gel | Synthetikum | Kutanes Antiphlogistikum | Gültig |
+| 49673 | Traumalix Dolo Gel 5 %, Gel (+1 weitere Bezeichnung) | Synthetikum | Kutanes Antiphlogistikum | Gültig |
+| 51379 | Traumalix forte, Spray | Synthetikum | Kutanes Antirheumatikum | Gültig |
+| 53911 | Traumalix forte, Gel | Synthetikum | Kutanes Antiphlogistikum | Gültig |
+| 55515 | Rheumalix forte, Spray | Synthetikum | Kutanes Antirheumatikum | Gültig |
+| 58017 | Rheumalix forte, Gel | Synthetikum | Kutanes Antiphlogistikum | Gültig |
+| 66403 | Traumalix forte EmGel, Gel | Synthetikum | Kutanes Antiphlogistikum | Gültig |
+| 66405 | Traumalix Gel, Gel | Synthetikum | Kutanes Antiphlogistikum | Gültig |
+| 67494 | Lixim Patch, wirkstoffhaltiges Pflaster | Synthetikum | Kutanes Antiphlogistikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

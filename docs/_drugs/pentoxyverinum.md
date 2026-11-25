@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB11186
 monitor_inn: "Pentoxyverine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pentoxyverinum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5)."
 ---
 
@@ -71,7 +71,7 @@ Zum Wirkmechanismus von Pentoxyverin liegen in den zusammengestellten Daten kein
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 69779 | Bisolvon Pentoxyverin 2.13 mg/ml, Sirup | Synthetika | Symptomatische Behandlung von unproduktivem (trockenem) Husten bei Erwachsenen, Jugendlichen und Kindern ab 6… | Gültig |
+| 69779 | Bisolvon Pentoxyverin 2.13 mg/ml, Sirup | Synthetikum | Symptomatische Behandlung von unproduktivem (trockenem) Husten bei Erwachsenen, Jugendlichen und Kindern ab 6… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

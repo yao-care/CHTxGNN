@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB00747
 monitor_inn: "Scopolamine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Scopolamini Butylbromidum: vorhergesagte neue Indikation Cauda-equina-Syndrom (cauda equina syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Spasmolyticum"
 ---
 
@@ -85,10 +85,10 @@ Es gibt zudem einen Hinweis gegen die Anwendung: Antimuskarinika können einen H
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 17352 | Buscopan Inject, Injektionslösung | Synthetika | Spasmolyticum | Gültig |
-| 17353 | Buscopan, Dragées | Synthetika | Spasmolyticum | Gültig |
-| 17354 | Buscopan, Suppositorien | Synthetika | Spasmolyticum | Gültig |
-| 56802 | Buscopan, Dragées | Synthetika | Spasmolyticum | Gültig |
+| 17352 | Buscopan Inject, Injektionslösung | Synthetikum | Spasmolyticum | Gültig |
+| 17353 | Buscopan, Dragées | Synthetikum | Spasmolyticum | Gültig |
+| 17354 | Buscopan, Suppositorien | Synthetikum | Spasmolyticum | Gültig |
+| 56802 | Buscopan, Dragées | Synthetikum | Spasmolyticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

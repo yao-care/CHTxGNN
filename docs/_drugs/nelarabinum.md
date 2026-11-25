@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01280
 monitor_inn: "Nelarabine"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Nelarabinum: vorhergesagte neue Indikation Schubförmig remittierende Multiple Sklerose (relapsing-remitting multiple sclerosis) (Evidenzstufe L5)."
 ---
 
@@ -73,7 +73,7 @@ Der hohe Vorhersagewert spiegelt vermutlich die strukturelle Ähnlichkeit zu Nuk
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57899 | Atriance, Infusionslösung | Synthetika | Behandlung von akuter lymphoblastischer T-Zell-Leukämie und lymphoblastischem T-Zell-Lymphom | Gültig |
+| 57899 | Atriance, Infusionslösung | Synthetikum | Behandlung von akuter lymphoblastischer T-Zell-Leukämie und lymphoblastischem T-Zell-Lymphom | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01202
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levetiracetamum: vorhergesagte neue Indikation Beta-Ketothiolase-Mangel (beta-ketothiolase deficiency) (Evidenzstufe L5). Ursprüngliche Indikation: Antiépileptique"
 ---
 
@@ -75,10 +75,10 @@ Mindestens 4 Zulassungen sind erfasst; die Liste kann unvollständig sein.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 57519 | Keppra 500 mg/5 ml, solution à diluer pour perfusion | Synthetika | Antiépileptique | Gültig |
-| 62036 | Levetiracetam Rivopharm 250, compresse rivestite con film (+2 weitere Bezeichnungen) | Synthetika | Antiepilettico | Gültig |
-| 62069 | Levetiracetam Desitin 250 mg, befilmtes Granulat im Beutel (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Gültig |
-| 69225 | Levetiracetam-Neuraxpharm 250 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Antiepileptikum | Erloschen |
+| 57519 | Keppra 500 mg/5 ml, solution à diluer pour perfusion | Synthetikum | Antiépileptique | Gültig |
+| 62036 | Levetiracetam Rivopharm 250, compresse rivestite con film (+2 weitere Bezeichnungen) | Synthetikum | Antiepilettico | Gültig |
+| 62069 | Levetiracetam Desitin 250 mg, befilmtes Granulat im Beutel (+2 weitere Bezeichnungen) | Synthetikum | Antiepileptikum | Gültig |
+| 69225 | Levetiracetam-Neuraxpharm 250 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Antiepileptikum | Erloschen |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

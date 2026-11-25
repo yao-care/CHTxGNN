@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01097
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Leflunomidum: vorhergesagte neue Indikation Brachydaktylie-Syndaktylie-Syndrom (brachydactyly-syndactyly syndrome) (Evidenzstufe L5). Ursprüngliche Indikation: Polyarthrite rhumatoïde active"
 ---
 
@@ -89,10 +89,10 @@ Alle aufgeführten Zulassungen sind gültig.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 54834 | Arava 10 mg, comprimés pelliculés (+2 weitere Bezeichnungen) | Synthetika | Polyarthrite rhumatoïde active | Gültig |
-| 61443 | Leflunomid Gebro 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Aktive rheumatoide Arthritis | Gültig |
-| 61505 | Leflunomid Sandoz 10, Filmtabletten (+1 weitere Bezeichnung) | Synthetika | Aktive rheumatoide Arthritis | Gültig |
-| 62248 | Leflunomide Zentiva 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Aktive rheumatoide Arthritis | Gültig |
+| 54834 | Arava 10 mg, comprimés pelliculés (+2 weitere Bezeichnungen) | Synthetikum | Polyarthrite rhumatoïde active | Gültig |
+| 61443 | Leflunomid Gebro 10 mg, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Aktive rheumatoide Arthritis | Gültig |
+| 61505 | Leflunomid Sandoz 10, Filmtabletten (+1 weitere Bezeichnung) | Synthetikum | Aktive rheumatoide Arthritis | Gültig |
+| 62248 | Leflunomide Zentiva 10 mg, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Aktive rheumatoide Arthritis | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

@@ -88,7 +88,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67974 | COLCTAB 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Gichtarthtritis, Perikarditis, familiäres Mittelmeerfieber | Gültig |
+| 67974 | COLCTAB 1 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Gichtarthtritis, Perikarditis, familiäres Mittelmeerfieber | Gültig |
 | 69931 | Lodoco 0.5 mg, Tabletten | Synthetikum | LODOCO ist indiziert, um das Risiko von Myokardinfarkt, Schlaganfall, koronarer Revaskularisation und kardiov… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

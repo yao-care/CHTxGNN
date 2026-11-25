@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01590
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Everolimusum: vorhergesagte neue Indikation Liposarkom (liposarcoma) (Evidenzstufe L3). Ursprüngliche Indikation: Brustkrebs, neuroendokrine Tumoren pankreatischen Ursprungs…"
 ---
 
@@ -110,12 +110,12 @@ Diese Angaben stammen nicht aus den zusammengestellten Daten, sondern aus allgem
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56238 | Certican 0.5 mg, Tabletten (+3 weitere Bezeichnungen) | Biotechnologika | Prophylaxe von Organabstossungen | Gültig |
-| 56239 | Certican 0.1 mg, dispergierbare Tabletten | Biotechnologika | Prophylaxe von Organabstossungen | Gültig |
-| 59174 | Afinitor 5 mg, Tabletten (+2 weitere Bezeichnungen) | Biotechnologika | In Kombination mit Exemestan bei postmenopausalen Frauen mit fortgeschrittenem, Hormonrezeptor positivem, HER… | Gültig |
-| 62061 | Votubia 2.5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetika | Tuberöse Sklerose | Gültig |
-| 62812 | Votubia 2 mg, dispergierbare Tabletten (+1 weitere Bezeichnung) | Synthetika | Tuberöse Sklerose | Gültig |
-| 68000 | Everolimus Zentiva 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Biotechnologika | Brustkrebs, neuroendokrine Tumoren pankreatischen Ursprungs, neuroendokrine Tumoren gastrointestinalen oder p… | Gültig |
+| 56238 | Certican 0.5 mg, Tabletten (+3 weitere Bezeichnungen) | Biotechnologikum | Prophylaxe von Organabstossungen | Gültig |
+| 56239 | Certican 0.1 mg, dispergierbare Tabletten | Biotechnologikum | Prophylaxe von Organabstossungen | Gültig |
+| 59174 | Afinitor 5 mg, Tabletten (+2 weitere Bezeichnungen) | Biotechnologikum | In Kombination mit Exemestan bei postmenopausalen Frauen mit fortgeschrittenem, Hormonrezeptor positivem, HER… | Gültig |
+| 62061 | Votubia 2.5 mg, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Tuberöse Sklerose | Gültig |
+| 62812 | Votubia 2 mg, dispergierbare Tabletten (+1 weitere Bezeichnung) | Synthetikum | Tuberöse Sklerose | Gültig |
+| 68000 | Everolimus Zentiva 2.5 mg, Tabletten (+2 weitere Bezeichnungen) | Biotechnologikum | Brustkrebs, neuroendokrine Tumoren pankreatischen Ursprungs, neuroendokrine Tumoren gastrointestinalen oder p… | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -81,14 +81,14 @@ Bevor eine biologische Begründung tragfähig wäre, müsste im Tumorgewebe eine
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55065 | Herceptin 440 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
-| 65964 | Herceptin subkutan 600mg/5ml, Lösung zur subkutanen Injektion | Biotechnologika | Mammakarzinom im Frühstadium | Gültig |
-| 66975 | Trazimera 150 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologika | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
-| 67205 | Kanjinti 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… (+1 weitere Bezeichnung) | Biotechnologika | Onkologikum | Gültig |
-| 67467 | Ogivri 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
-| 67470 | Ogivri 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologika | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
+| 55065 | Herceptin 440 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologikum | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
+| 65964 | Herceptin subkutan 600mg/5ml, Lösung zur subkutanen Injektion | Biotechnologikum | Mammakarzinom im Frühstadium | Gültig |
+| 66975 | Trazimera 150 mg, Pulver für ein Konzentrat zur Herstellung einer Inf… (+1 weitere Bezeichnung) | Biotechnologikum | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
+| 67205 | Kanjinti 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… (+1 weitere Bezeichnung) | Biotechnologikum | Onkologikum | Gültig |
+| 67467 | Ogivri 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologikum | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
+| 67470 | Ogivri 440 mg, Pulver für ein Konzentrat zur Herstellung einer Infusi… | Biotechnologikum | Mammakarzinom, Magenkarzinom oder Karzinom des gastroösophagealen Übergangs | Gültig |
 | 67829 | Zercepac 150 mg, Pulver für ein Konzentrat zur Herstellung einer Infu… | Biotechnologikum | Metastasiertes Mammakarzinom, Mammakarzinom im Frühstadium, Magenkarzinom und Karzinom des gastroösophagealen… | Gültig |
-| 67892 | Herzuma 440 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Biotechnologika | Oncologique | Gültig |
+| 67892 | Herzuma 440 mg, poudre pour solution à diluer pour perfusion (+1 weitere Bezeichnung) | Biotechnologikum | Oncologique | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

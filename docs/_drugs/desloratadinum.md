@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00967
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Desloratadinum: vorhergesagte neue Indikation Erkrankung der Nasenhöhle (nasal cavity disease) (Evidenzstufe L5). Ursprüngliche Indikation: Antihistaminikum"
 ---
 
@@ -87,13 +87,13 @@ Alle sieben erfassten Zulassungen sind gültig und betreffen Präparate mit Desl
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55689 | Aerius, Filmtabletten | Synthetika | Antihistaminikum | Gültig |
-| 55958 | Aerius, Lösung zum Einnehmen | Synthetika | Antihistaminikum | Gültig |
-| 62374 | Desloratadin-Mepha 5, Filmtablette | Synthetika | Antihistaminikum | Gültig |
-| 62390 | Desloratadin Sandoz, Filmtabletten | Synthetika | Antihistaminikum | Gültig |
-| 63030 | Desloratadin Spirig HC 5 mg, Filmtabletten | Synthetika | Antihistaminika - H1 Antagonist | Gültig |
-| 67123 | Poll-X, Filmtabletten | Synthetika | Antihistaminikum | Gültig |
-| 68361 | Deslora-Mepha Allergie, Filmtabletten | Synthetika | Antihistaminikum | Gültig |
+| 55689 | Aerius, Filmtabletten | Synthetikum | Antihistaminikum | Gültig |
+| 55958 | Aerius, Lösung zum Einnehmen | Synthetikum | Antihistaminikum | Gültig |
+| 62374 | Desloratadin-Mepha 5, Filmtablette | Synthetikum | Antihistaminikum | Gültig |
+| 62390 | Desloratadin Sandoz, Filmtabletten | Synthetikum | Antihistaminikum | Gültig |
+| 63030 | Desloratadin Spirig HC 5 mg, Filmtabletten | Synthetikum | Antihistaminika - H1 Antagonist | Gültig |
+| 67123 | Poll-X, Filmtabletten | Synthetikum | Antihistaminikum | Gültig |
+| 68361 | Deslora-Mepha Allergie, Filmtabletten | Synthetikum | Antihistaminikum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB08879
 monitor_inn: "Belimumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Belimumabum: vorhergesagte neue Indikation Primäre Thrombozyten-Freisetzungsstörung (primary release disorder of platelets) (Evidenzstufe L5)."
 ---
 
@@ -75,8 +75,8 @@ Der hohe Vorhersagewert ist ein reines Modellergebnis. Er wird durch keine klini
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 61532 | Benlysta 120 mg, Pulver zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Systemischer Lupus erythematodes (SLE) | Gültig |
-| 66585 | Benlysta, Lösung zur subkutanen Injektion (Autoinjektor) | Biotechnologika | Systemischer Lupus erythematodes (SLE) | Gültig |
+| 61532 | Benlysta 120 mg, Pulver zur Herstellung einer Infusionslösung (+1 weitere Bezeichnung) | Biotechnologikum | Systemischer Lupus erythematodes (SLE) | Gültig |
+| 66585 | Benlysta, Lösung zur subkutanen Injektion (Autoinjektor) | Biotechnologikum | Systemischer Lupus erythematodes (SLE) | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

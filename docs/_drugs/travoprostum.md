@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00287
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Travoprostum: vorhergesagte neue Indikation Viszerale Kalziphylaxie (visceral calciphylaxis) (Evidenzstufe L5). Ursprüngliche Indikation: Glaukom"
 ---
 
@@ -87,10 +87,10 @@ Derzeit keine verwandte Literatur verfügbar.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55910 | Travatan, Augentropfen | Synthetika | Glaukom | Gültig |
-| 66505 | Travo-Vision 40mcg/ml, Augentropfen | Synthetika | Glaukom | Gültig |
-| 69430 | Travo-Vision SDU 40 ug / ml, Augentropfen im Einzeldosisbehältnis | Synthetika | Glaukom | Gültig |
-| 66240 | Travoprost-Mepha, Augentropfen | Synthetika | Glaukom | Erloschen |
+| 55910 | Travatan, Augentropfen | Synthetikum | Glaukom | Gültig |
+| 66505 | Travo-Vision 40mcg/ml, Augentropfen | Synthetikum | Glaukom | Gültig |
+| 69430 | Travo-Vision SDU 40 ug / ml, Augentropfen im Einzeldosisbehältnis | Synthetikum | Glaukom | Gültig |
+| 66240 | Travoprost-Mepha, Augentropfen | Synthetikum | Glaukom | Erloschen |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

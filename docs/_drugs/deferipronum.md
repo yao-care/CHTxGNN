@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB08826
 monitor_inn: "Deferiprone"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Deferipronum: vorhergesagte neue Indikation Hepatische Porphyrie (hepatic porphyria) (Evidenzstufe L5). Ursprüngliche Indikation: Traitement de la surcharge en fer chez les patients avec thalassémie…"
 ---
 
@@ -73,8 +73,8 @@ Dieser Ansatz beruht auf Hintergrundwissen und nicht auf Daten aus den vorliegen
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55679 | Ferriprox, comprimés pelliculés | Synthetika | Traitement de la surcharge en fer chez les patients avec thalassémie majeure, chez lesquels un traitement par… | Gültig |
-| 67344 | Deferipron Lipomed 500 mg, Filmtabletten | Synthetika | Eisenüberladung bei Thalassaemia major bei Kontraindikation/schwere Toxizität von Deferoxamin | Gültig |
+| 55679 | Ferriprox, comprimés pelliculés | Synthetikum | Traitement de la surcharge en fer chez les patients avec thalassémie majeure, chez lesquels un traitement par… | Gültig |
+| 67344 | Deferipron Lipomed 500 mg, Filmtabletten | Synthetikum | Eisenüberladung bei Thalassaemia major bei Kontraindikation/schwere Toxizität von Deferoxamin | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

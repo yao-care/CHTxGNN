@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00110
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Palivizumabum: vorhergesagte neue Indikation Gutartige Neubildung der Zunge (benign neoplasm of tongue) (Evidenzstufe L5). Ursprüngliche Indikation: RSV-Prophylaxe"
 ---
 
@@ -71,7 +71,7 @@ Der hohe Vorhersagewert ist ein reines Rechenergebnis des Modells. Eine biologis
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 65695 | Synagis 50 mg/0.5 ml, Injektionslösung (+1 weitere Bezeichnung) | Biotechnologika | RSV-Prophylaxe | Gültig |
+| 65695 | Synagis 50 mg/0.5 ml, Injektionslösung (+1 weitere Bezeichnung) | Biotechnologikum | RSV-Prophylaxe | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00002
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cetuximabum: vorhergesagte neue Indikation Chondroides Hamartom (chondroid hamartoma) (Evidenzstufe L5). Ursprüngliche Indikation: Kolorektalkarzinom, Plattenepithelkarzinom im Kopf-Hals-Bereich"
 ---
 
@@ -71,7 +71,7 @@ Ein Zusammenhang mit dem chondroiden Hamartom, einer gutartigen Läsion, ist dur
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56072 | Erbitux 100 mg/20 ml, Infusionslösung (+1 weitere Bezeichnung) | Biotechnologika | Kolorektalkarzinom, Plattenepithelkarzinom im Kopf-Hals-Bereich | Gültig |
+| 56072 | Erbitux 100 mg/20 ml, Infusionslösung (+1 weitere Bezeichnung) | Biotechnologikum | Kolorektalkarzinom, Plattenepithelkarzinom im Kopf-Hals-Bereich | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

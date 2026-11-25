@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00537
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ciprofloxacinum: vorhergesagte neue Indikation Diffuse Sklerodermie (diffuse scleroderma) (Evidenzstufe L5). Ursprüngliche Indikation: Infektionskrankheiten"
 ---
 
@@ -80,10 +80,10 @@ Für die Sklerodermie werden zwei mögliche Verbindungen diskutiert. Erstens kö
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 47795 | Ciproxin 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 51898 | Ciloxan, Augentropfen | Synthetika | Bakterielle Infektionen am Auge | Gültig |
-| 55525 | Cip eco 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
-| 55922 | Ciprofloxacin Spirig HC 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetika | Infektionskrankheiten | Gültig |
+| 47795 | Ciproxin 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 51898 | Ciloxan, Augentropfen | Synthetikum | Bakterielle Infektionen am Auge | Gültig |
+| 55525 | Cip eco 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
+| 55922 | Ciprofloxacin Spirig HC 250, Filmtabletten (+2 weitere Bezeichnungen) | Synthetikum | Infektionskrankheiten | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

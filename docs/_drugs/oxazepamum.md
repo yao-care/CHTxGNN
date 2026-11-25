@@ -98,7 +98,7 @@ Nur die Studie von 1984 untersucht Oxazepam direkt bei Insomnie. Sie ist klein u
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 32497 | Seresta, Tabletten (+1 weitere Bezeichnung) | Synthetika | Sedativum | Gültig |
+| 32497 | Seresta, Tabletten (+1 weitere Bezeichnung) | Synthetikum | Sedativum | Gültig |
 | 69981 | Oxazepam Leman 15mg, comprimés | Synthetikum | Sédatif | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.

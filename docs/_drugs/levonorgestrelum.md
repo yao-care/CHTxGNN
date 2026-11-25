@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00367
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Levonorgestrelum: vorhergesagte neue Indikation Akne (acne (disease)) (Evidenzstufe L5). Ursprüngliche Indikation: Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen"
 ---
 
@@ -96,14 +96,14 @@ Die gefundenen Publikationen sind überwiegend Übersichtsarbeiten zu Verhütung
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 52996 | Mirena, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption / Idiopathische Hypermenorrhoe / Schutz vor Endometriumshyperplasie bei Östrogensu… | Gültig |
-| 62688 | Jaydess 10 mcg/24 Stunden, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Kontrazeption | Gültig |
-| 62876 | Norlevo 1.5 mg, Tabletten | Synthetika | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen | Gültig |
-| 65364 | Levonorgestrel Sandoz, Tablette | Synthetika | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen | Gültig |
-| 65444 | Levosert, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption und Idiopathische Hypermenorrhoe | Gültig |
-| 66148 | Kyleena 19.5 mg, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption | Gültig |
-| 66260 | Levonesse, Tabletten | Synthetika | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen | Gültig |
-| 68453 | Levosert One, Intrauterines Wirkstofffreisetzungssystem | Synthetika | Intrauterine Kontrazeption und Idiopathische Hypermenorrhoe | Gültig |
+| 52996 | Mirena, Intrauterines Wirkstofffreisetzungssystem | Synthetikum | Intrauterine Kontrazeption / Idiopathische Hypermenorrhoe / Schutz vor Endometriumshyperplasie bei Östrogensu… | Gültig |
+| 62688 | Jaydess 10 mcg/24 Stunden, Intrauterines Wirkstofffreisetzungssystem | Synthetikum | Kontrazeption | Gültig |
+| 62876 | Norlevo 1.5 mg, Tabletten | Synthetikum | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen | Gültig |
+| 65364 | Levonorgestrel Sandoz, Tablette | Synthetikum | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen | Gültig |
+| 65444 | Levosert, Intrauterines Wirkstofffreisetzungssystem | Synthetikum | Intrauterine Kontrazeption und Idiopathische Hypermenorrhoe | Gültig |
+| 66148 | Kyleena 19.5 mg, Intrauterines Wirkstofffreisetzungssystem | Synthetikum | Intrauterine Kontrazeption | Gültig |
+| 66260 | Levonesse, Tabletten | Synthetikum | Hormonales Kontrazeptivum zur Schwangerschaftsverhütung in Notfällen | Gültig |
+| 68453 | Levosert One, Intrauterines Wirkstofffreisetzungssystem | Synthetikum | Intrauterine Kontrazeption und Idiopathische Hypermenorrhoe | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

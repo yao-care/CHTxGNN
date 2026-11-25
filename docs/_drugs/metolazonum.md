@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00524
 monitor_inn: "Metolazone"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metolazonum: vorhergesagte neue Indikation Maligne hypertensive Nierenerkrankung (malignant hypertensive renal disease) (Evidenzstufe L5). Ursprüngliche Indikation: Diureticum"
 ---
 
@@ -73,7 +73,7 @@ Die Plausibilität ist jedoch begrenzt. Die maligne Hypertonie ist ein hypertens
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 56468 | Metolazon Galepharm, Tabletten | Synthetika | Diureticum | Gültig |
+| 56468 | Metolazon Galepharm, Tabletten | Synthetikum | Diureticum | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

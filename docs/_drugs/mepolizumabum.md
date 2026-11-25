@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB06612
 monitor_inn: "Mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Mepolizumabum: vorhergesagte neue Indikation Immunthrombozytopenie (thrombocytopenia due to immune destruction) (Evidenzstufe L5)."
 ---
 
@@ -83,8 +83,8 @@ Für die primäre Immunthrombozytopenie, die durch Autoantikörper gegen Blutpl�
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 67350 | Nucala 100 mg/mL, Injektionslösung im Fertigpen | Biotechnologika | Eosinophiles Asthma, EGPA, CRSwNP, HES, COPD | Gültig |
-| 67351 | Nucala 100 mg/mL, Injektionslösung in der Fertigspritze | Biotechnologika | Eosinophiles Asthma, EGPA, CRSwNP, HES, COPD | Gültig |
+| 67350 | Nucala 100 mg/mL, Injektionslösung im Fertigpen | Biotechnologikum | Eosinophiles Asthma, EGPA, CRSwNP, HES, COPD | Gültig |
+| 67351 | Nucala 100 mg/mL, Injektionslösung in der Fertigspritze | Biotechnologikum | Eosinophiles Asthma, EGPA, CRSwNP, HES, COPD | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 

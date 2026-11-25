@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00864
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tacrolimusum: vorhergesagte neue Indikation seborrhoische Dermatitis (seborrheic dermatitis) (Evidenzstufe L2). Ursprüngliche Indikation: Atopische Dermatitis"
 ---
 
@@ -93,11 +93,11 @@ Die Anwendung bei seborrhoischer Dermatitis ist in den Daten als Anwendung ausse
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 55847 | Protopic 0,03 %, Salbe (+1 weitere Bezeichnung) | Synthetika | Atopische Dermatitis | Gültig |
-| 58809 | Advagraf 0.5 mg, Retardkapseln (+3 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Gültig |
-| 66783 | Prograf 0.5 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Gültig |
-| 67963 | Takrozem 1 mg/g, Salbe (+1 weitere Bezeichnung) | Synthetika | Atopische Dermatitis | Gültig |
-| 68943 | Prograf 0,5 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetika | Immunsuppressivum | Gültig |
+| 55847 | Protopic 0,03 %, Salbe (+1 weitere Bezeichnung) | Synthetikum | Atopische Dermatitis | Gültig |
+| 58809 | Advagraf 0.5 mg, Retardkapseln (+3 weitere Bezeichnungen) | Synthetikum | Immunsuppressivum | Gültig |
+| 66783 | Prograf 0.5 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetikum | Immunsuppressivum | Gültig |
+| 67963 | Takrozem 1 mg/g, Salbe (+1 weitere Bezeichnung) | Synthetikum | Atopische Dermatitis | Gültig |
+| 68943 | Prograf 0,5 mg, Kapseln (+2 weitere Bezeichnungen) | Synthetikum | Immunsuppressivum | Gültig |
 
 Die ausgewerteten Daten enthalten nur einen Teil der Packungen dieses Wirkstoffs; die Liste kann unvollständig sein.
 

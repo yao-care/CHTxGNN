@@ -5,7 +5,7 @@ parent: Nur Modellvorhersage (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Salicylamide: vorhergesagte neue Indikation Pharyngitis (Rachenentzündung) (Evidenzstufe L5). Ursprüngliche Indikation: Behandlung der Schmerzen beim Zahnen (Zahnungsschmerz)"
 monitor_inn: "salicylamide"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "lung disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
@@ -88,7 +88,7 @@ Derzeit keine verwandten klinischen Studien registriert.
 
 | Zulassungsnummer | Produktname | Kategorie (Heilmittelcode) | Anwendungsgebiet (Swissmedic) | Status |
 |------|------|------|------|------|
-| 42989 | Osa Gel dentaire | Synthetika | Traitement de la douleur de la poussée dentaire | Gültig |
+| 42989 | Osa Gel dentaire | Synthetikum | Traitement de la douleur de la poussée dentaire | Gültig |
 
 Quelle: Swissmedic – Zugelassene Packungen und Zugelassene Arzneimittel (Humanarzneimittel); Produktname, Kategorie und Anwendungsgebiet im Wortlaut der Swissmedic-Listen. „Erloschen“: Gültigkeitsdauer der Zulassung abgelaufen oder in den aktuellen Swissmedic-Listen nicht mehr aufgeführt.
 
