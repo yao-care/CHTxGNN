@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T22:54:39.158120+00:00",
+  "fetched_at": "2026-11-26T04:40:17.496056+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "235385ab22ef",
-      "title": "Zuverlässige Informationen zu Arzneimitteln auf einen Klick - GrenzEcho",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEIxTnpIQlpJbFJkVkZtczA0U0V4YmRfazh1Y3NPa3R4RWZFZEVvX2RmeExldHRNMDZuVFREa3RtS1A1OGtDQmV4bHFmaGNsODE2SDhyYmpwZ1VmTGpjUUFwUlI2RThNQ3FnSkNDTmtkNWpQQ2NBSWtWM1dlZ3VzNEtYYlZrTXRqeUhmNi1rTWI1ZURDbU1JYS1PWGRrYUpDYTJBNHBQME1vbUZ1RjQ4eg?oc=5",
-      "published": "2026-11-25T04:02:00+00:00",
-      "source": {
-        "name": "GrenzEcho",
-        "url": "https://www.grenzecho.net"
-      }
-    },
-    {
       "id": "fa8fb48880d4",
       "title": "Gesundheit - EU-Reform für Arzneimittel: Beipackzettel per QR-Code und Bemühen gegen Engpässe - UNTERNEHMEN-HEUTE.de",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91QU12b2NLYW9MS1FCZmRLSnNkd3JWY3lUdXJxMUFBX1hSc3dWeS1IM2VQZnB3cjBlbEJTMFpfZDdrRFlMUi1ILTNyS3c0MlAybmpDLWNJMFJzQW04XzFRZ2Nn?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "UNTERNEHMEN-HEUTE.de",
         "url": "https://unternehmen-heute.de"
+      }
+    },
+    {
+      "id": "235385ab22ef",
+      "title": "Zuverlässige Informationen zu Arzneimitteln auf einen Klick - GrenzEcho",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEIxTnpIQlpJbFJkVkZtczA0U0V4YmRfazh1Y3NPa3R4RWZFZEVvX2RmeExldHRNMDZuVFREa3RtS1A1OGtDQmV4bHFmaGNsODE2SDhyYmpwZ1VmTGpjUUFwUlI2RThNQ3FnSkNDTmtkNWpQQ2NBSWtWM1dlZ3VzNEtYYlZrTXRqeUhmNi1rTWI1ZURDbU1JYS1PWGRrYUpDYTJBNHBQME1vbUZ1RjQ4eg?oc=5",
+      "published": "2026-11-25T04:02:00+00:00",
+      "source": {
+        "name": "GrenzEcho",
+        "url": "https://www.grenzecho.net"
       }
     },
     {
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "305c7d1aa54c",
-      "title": "EU-Arzneimittelpaket: EU feiert, Pharma blickt nach Berlin - Pharmazeutische Zeitung",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2J0Y3hQQjV4TThUN1RncXRpMEV6QVNnbkVxcVdsUVVWUWFhRV9IZ0FKWkR0NVQ2Y29nZm5TdllmUTNQRUpBQi13d2RPMDJvWkhvNmdGSmJKbVJfNnlWQkFNQThLZ2tfMnlZVGNiUkZWa2ZTWVBZU21fTmVJR0NCd3Y4UnlhZ3dGdXc?oc=5",
-      "published": "2026-11-25T15:10:09+00:00",
-      "source": {
-        "name": "Pharmazeutische Zeitung",
-        "url": "https://www.pharmazeutische-zeitung.de"
-      }
-    },
-    {
       "id": "ef8b317cc159",
       "title": "EU HTA: Erste Erfahrungen der Fachgesellschaften - Ärzte Zeitung",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFNzTENnU1ZXcnZwVUJ3X1BuR21BaG1WSmN2ODF6WjZwY3RBM3J4Q1Z0R1VCSDQxZUVlc2xwbkh3U0o5dWNsV1N2X3A0bjgyVjFHMHRhRXl4RXFZbjUwU3ZHdGN2NVZIdkx2Nks4ck9TWE5RMWdfNmttbVlUVGVFclljbXdWQWR4clFKSE9WNnIxNTJQUEk3ODdVVGt2WmxYbk1wWQ?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "Ärzte Zeitung",
         "url": "https://www.aerztezeitung.de"
+      }
+    },
+    {
+      "id": "305c7d1aa54c",
+      "title": "EU-Arzneimittelpaket: EU feiert, Pharma blickt nach Berlin - Pharmazeutische Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2J0Y3hQQjV4TThUN1RncXRpMEV6QVNnbkVxcVdsUVVWUWFhRV9IZ0FKWkR0NVQ2Y29nZm5TdllmUTNQRUpBQi13d2RPMDJvWkhvNmdGSmJKbVJfNnlWQkFNQThLZ2tfMnlZVGNiUkZWa2ZTWVBZU21fTmVJR0NCd3Y4UnlhZ3dGdXc?oc=5",
+      "published": "2026-11-25T15:10:09+00:00",
+      "source": {
+        "name": "Pharmazeutische Zeitung",
+        "url": "https://www.pharmazeutische-zeitung.de"
       }
     },
     {
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "1f2a64f44fa4",
-      "title": "Die Eigenverantwortung stärken und die Qualität der Gesundheitsversorgung für alle Bürger verbessern. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjhuemxhV1huc0VVRldNRjlpN3cxeUNoUmRYa1FMd3RYZ005MUpNczdTcXRDaFI0RnNEblVDZmxOZEhERHZ6clpzdVFfdFloN2lOaXlLeFhYdThJM2pJRUhpZDZzOE9Pc2hITnh3aWE4YUMxUkdDUEctNWVxQTZGa1VqQUVqZndPTFRzS3pjcDN0SG8?oc=5",
-      "published": "2026-11-24T02:46:07+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "400bf39110de",
       "title": "Donald Trump kostet Schweizer Prämienzahler Millionen - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkFjVERBZGhpQWFoSGRYMTFGeVNIU1JhMGJ4XzVOUjBTMmNUZlNMZlo5VDRreEZjd1QtLWhDRkNmOFlJUGtsc3VkTEhNa2NRUlYxeEdkZkxZSkJTSlJJYkVNTWg0YmRubzBJb2RjU29OUGJMa3d2Wk5fbnozT1JJVkQ5MlNGZWFxVVliUnZhNDBXRXg0SjdLT3RvQ1BCYTNFSW1waTNn?oc=5",
@@ -161,6 +151,16 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
+      }
+    },
+    {
+      "id": "1f2a64f44fa4",
+      "title": "Die Eigenverantwortung stärken und die Qualität der Gesundheitsversorgung für alle Bürger verbessern. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjhuemxhV1huc0VVRldNRjlpN3cxeUNoUmRYa1FMd3RYZ005MUpNczdTcXRDaFI0RnNEblVDZmxOZEhERHZ6clpzdVFfdFloN2lOaXlLeFhYdThJM2pJRUhpZDZzOE9Pc2hITnh3aWE4YUMxUkdDUEctNWVxQTZGa1VqQUVqZndPTFRzS3pjcDN0SG8?oc=5",
+      "published": "2026-11-24T02:46:07+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "6f27fa6514d4",
-      "title": "Kaum Wirkung für Deutschland zu erwarten - gesundheit adhoc",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMGhuRWg4WFRVZk4tZnppZi1ydGtKSHVTTWhYS082R1ZUOGhsM1dhMnhxNkw0anFZUzMwNi12TW1ZZHlublJxNDFCdExBVmsxOE01V1dXUnphbEVpTUQtSkhwSHlUeUVqb0JrcWFTdGRkeGpVZnB5aXdST255Vkk?oc=5",
-      "published": "2026-11-25T11:58:15+00:00",
-      "source": {
-        "name": "gesundheit adhoc",
-        "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
       "id": "c93bd17dad42",
       "title": "Antibiotika gezielt einsetzen: Therapieoptionen bei Infekten breiter denken - gesundheit adhoc",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlpfRTZ0UW1VZUFrbVV1Tlo0eEJHc2kxdVQ2bUY5NFNsYnBMZjR4T3dwVVVSbllrOC11TU9naDktVHUzNUVGaGRnWlJkbWdpZU9kdGlhTWVJUjZERGtWRlhSbWFJeG1DTXc3VFFhNDRqY25aXzBreDJCbUZjcDlmdUxKYjM3TVZlRmVocUl4Mlk4cjFEcEJqQ1lvVFF4aHRuUHktSmZMaHFqdHc?oc=5",
@@ -221,16 +211,6 @@
       "source": {
         "name": "gesundheit adhoc",
         "url": "https://www.gesundheit-adhoc.de"
-      }
-    },
-    {
-      "id": "7c68dfc6a3ca",
-      "title": "Alexandru Rogobete kündigt 41 neue Medikamente auf der Liste der kostenlosen und erstattungsfähigen Behandlungen an - Informat.ro",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmN0bURzNFE1RnZKVjhlc0EtcTlqNTQzNm8zZ19yNHcxcXhQMjU2d2hDcTlBZW9IU3ZQMGc1TU01dldUZVJzbndyaFU1QjhadjJhQm1MS3lzajdYXzM4WUtvM0R0QUFqQnFGQ2tSdGNhbWdIZVBCaUxqbFZkMG5jQTF0b1BraXM0TVdUZEs4N3RySU8xdkh3bmNoOWpUME5aakZPZA?oc=5",
-      "published": "2026-11-25T21:51:37+00:00",
-      "source": {
-        "name": "Informat.ro",
-        "url": "https://informat.ro"
       }
     },
     {
@@ -244,6 +224,16 @@
       }
     },
     {
+      "id": "6f27fa6514d4",
+      "title": "Kaum Wirkung für Deutschland zu erwarten - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMGhuRWg4WFRVZk4tZnppZi1ydGtKSHVTTWhYS082R1ZUOGhsM1dhMnhxNkw0anFZUzMwNi12TW1ZZHlublJxNDFCdExBVmsxOE01V1dXUnphbEVpTUQtSkhwSHlUeUVqb0JrcWFTdGRkeGpVZnB5aXdST255Vkk?oc=5",
+      "published": "2026-11-25T11:58:15+00:00",
+      "source": {
+        "name": "gesundheit adhoc",
+        "url": "https://www.gesundheit-adhoc.de"
+      }
+    },
+    {
       "id": "24fe87e92d55",
       "title": "Die neue Arzneimittelstrategie: das richtige Rezept für eine starke Europäische Gesundheitsunion - European Commission",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzNEV3aVA0dF9ZT18wM2FoLXByRTRhUE5rN1I3YTdudVkwSjY2TVhoMDk4TnRRYi1fbG9qZ2lsTzN0aUJNVlJFbDhzdjNOaU5TMVI3blpTbmdycC1EcjF1Qw?oc=5",
@@ -251,6 +241,26 @@
       "source": {
         "name": "European Commission",
         "url": "https://ec.europa.eu"
+      }
+    },
+    {
+      "id": "7c68dfc6a3ca",
+      "title": "Alexandru Rogobete kündigt 41 neue Medikamente auf der Liste der kostenlosen und erstattungsfähigen Behandlungen an - Informat.ro",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmN0bURzNFE1RnZKVjhlc0EtcTlqNTQzNm8zZ19yNHcxcXhQMjU2d2hDcTlBZW9IU3ZQMGc1TU01dldUZVJzbndyaFU1QjhadjJhQm1MS3lzajdYXzM4WUtvM0R0QUFqQnFGQ2tSdGNhbWdIZVBCaUxqbFZkMG5jQTF0b1BraXM0TVdUZEs4N3RySU8xdkh3bmNoOWpUME5aakZPZA?oc=5",
+      "published": "2026-11-25T21:51:37+00:00",
+      "source": {
+        "name": "Informat.ro",
+        "url": "https://informat.ro"
+      }
+    },
+    {
+      "id": "1b4cab1f2b2f",
+      "title": "Abnehmspritzen Ozempic, Wegovy und Mounjaro auf Kassenkosten? Eine... - DiePresse.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWVFZnVpdnpYVHBGRUI1TGdMYTdCcVlsRDJwRUpmbHBfbHUwZmVCZjJwMGNFbldXTWU2ZHNDdVR3QkxvTm1xQzB6eERWelBiZnZ6dkgwTVdsV3JNeDA4VFRZOFpKV1Q5SVJ5SEdRWlNucmQtdjIxVW83am55SWxzNUJwTk4wa1lkZFY4NHZVRGo2cFJraURDQkxvM3U4d2RndjJSTEdn?oc=5",
+      "published": "2026-11-24T15:00:58+00:00",
+      "source": {
+        "name": "DiePresse.com",
+        "url": "https://www.diepresse.com"
       }
     },
     {
@@ -274,13 +284,13 @@
       }
     },
     {
-      "id": "1b4cab1f2b2f",
-      "title": "Abnehmspritzen Ozempic, Wegovy und Mounjaro auf Kassenkosten? Eine... - DiePresse.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWVFZnVpdnpYVHBGRUI1TGdMYTdCcVlsRDJwRUpmbHBfbHUwZmVCZjJwMGNFbldXTWU2ZHNDdVR3QkxvTm1xQzB6eERWelBiZnZ6dkgwTVdsV3JNeDA4VFRZOFpKV1Q5SVJ5SEdRWlNucmQtdjIxVW83am55SWxzNUJwTk4wa1lkZFY4NHZVRGo2cFJraURDQkxvM3U4d2RndjJSTEdn?oc=5",
-      "published": "2026-11-24T15:00:58+00:00",
+      "id": "c17eefd70dd9",
+      "title": "German Health Report 2026: Deutsche sehen sichere Arzneimittelversorgung als zentrale Zukunftsaufgabe - Sandoz",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW5Zc3F2X2VVd2t1U0xjWFdZOVY3X1d0YXI1cVN3VzV1dGxmVVZ4am9xenZyZjlqX2x0WE1MWUR6OWUweGNjQTlCMFFfNnNZZTJTSmpUcGpZaVNmR0Q5N2FoVnA2OEpaX2hOU3ktcW5lcXRRdUpDQUJXdEZMWk1ac1VWeU9UbmktZ3NTOHpiWHJWc19aaW1JT2s4WE9SM0UxZExBWmR0SFhmNG1KcHc3Q0J6b3o?oc=5",
+      "published": "2026-10-08T07:00:00+00:00",
       "source": {
-        "name": "DiePresse.com",
-        "url": "https://www.diepresse.com"
+        "name": "Sandoz",
+        "url": "https://www.sandoz.com"
       }
     },
     {
@@ -294,16 +304,6 @@
       }
     },
     {
-      "id": "c17eefd70dd9",
-      "title": "German Health Report 2026: Deutsche sehen sichere Arzneimittelversorgung als zentrale Zukunftsaufgabe - Sandoz",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW5Zc3F2X2VVd2t1U0xjWFdZOVY3X1d0YXI1cVN3VzV1dGxmVVZ4am9xenZyZjlqX2x0WE1MWUR6OWUweGNjQTlCMFFfNnNZZTJTSmpUcGpZaVNmR0Q5N2FoVnA2OEpaX2hOU3ktcW5lcXRRdUpDQUJXdEZMWk1ac1VWeU9UbmktZ3NTOHpiWHJWc19aaW1JT2s4WE9SM0UxZExBWmR0SFhmNG1KcHc3Q0J6b3o?oc=5",
-      "published": "2026-10-08T07:00:00+00:00",
-      "source": {
-        "name": "Sandoz",
-        "url": "https://www.sandoz.com"
-      }
-    },
-    {
       "id": "647f3daa3d4a",
       "title": "»Wir müs­sen Voll­dampf ma­chen bei dem Thema Prä­ven­ti­on« - Pharmazeutische Zeitung",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam45LUNnenBtQ0JRZVB3OXczdml3RklCYmliQkVQWWRNV2t3Z0R0LWFLZzdLbEJCUWpmcllxbkNHYW40d3paU2VPQk1SVGxjSUNCVGpCbDl3Ylc1YnhLNExaS2dUVGVmbFNlNENWclM5TnhSblpvTW5TU094OFdVNWtBZnY0UWZBRW9PemNfRXVPak5iVnUzS29UdVdaanZDNER3?oc=5",
@@ -314,16 +314,6 @@
       }
     },
     {
-      "id": "e2d92db64135",
-      "title": "Blutdrucksenker im Alter: Studie wägt Nutzen gegen Sturzrisiko ab - T-Online",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHkwNUpVeDhDUkRmUHJ5bk1KM3JMRWNCczBFNXJYcXo3VzlLbEUwU1ByUFg5RTl6bUNEbThvWkJ1WHdVMERzdGJGRVo0WFNWeTNqV3hhVVcwdEdVZWdRYkNWMGU4UHczdkJpbjZib3RfRUtwSFpmNVZVXzZDWExGNmN6d09LeVBUblpDX2xTM2Jpd1pvYVAxN3YwRl81WWVyeEF0bUNmcE9LZlFjMkhwWXlBb3Atal93azZJeldGRHhXSURMZGk0eDMydw?oc=5",
-      "published": "2026-11-24T17:22:17+00:00",
-      "source": {
-        "name": "T-Online",
-        "url": "https://www.t-online.de"
-      }
-    },
-    {
       "id": "0f90a25196db",
       "title": "Wir zahlen Hunderte Millionen zu viel für Medikamente - Blick",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmFqUTh3bFozMUdGdDdha2tIRElpakhLRFRsSEtDNHBBdjNpazZ2SDF1TmZFMnk1N3h1RGg5VnMtU00xSE9FZ0w0Z2JDcHlQWVY4cjlITXBUc1pJTDdUaHctV1JlRnloT0IwYlFGeUR3VEtNX2VTYi1zMmtEUG9hRDJtd1JrZDNIQ1BXTzYzQThPNzBWa0E?oc=5",
@@ -331,6 +321,16 @@
       "source": {
         "name": "Blick",
         "url": "https://www.blick.ch"
+      }
+    },
+    {
+      "id": "e2d92db64135",
+      "title": "Blutdrucksenker im Alter: Studie wägt Nutzen gegen Sturzrisiko ab - T-Online",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHkwNUpVeDhDUkRmUHJ5bk1KM3JMRWNCczBFNXJYcXo3VzlLbEUwU1ByUFg5RTl6bUNEbThvWkJ1WHdVMERzdGJGRVo0WFNWeTNqV3hhVVcwdEdVZWdRYkNWMGU4UHczdkJpbjZib3RfRUtwSFpmNVZVXzZDWExGNmN6d09LeVBUblpDX2xTM2Jpd1pvYVAxN3YwRl81WWVyeEF0bUNmcE9LZlFjMkhwWXlBb3Atal93azZJeldGRHhXSURMZGk0eDMydw?oc=5",
+      "published": "2026-11-24T17:22:17+00:00",
+      "source": {
+        "name": "T-Online",
+        "url": "https://www.t-online.de"
       }
     },
     {
@@ -454,16 +454,6 @@
       }
     },
     {
-      "id": "99320b60a7e7",
-      "title": "Höhere Zuzahlung trifft Rentner am stärksten – Befreiung ab zwei Prozent prüfen - Apotheken Umschau",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm1kTnBnZDBRWlZnd21neUxYRHdHYzVFanZKWGx2cW8yZzFXTjRYODczTmc2X3ZwOVhJYUppRHVMODlKb1ByOGN3NGMybTNDZ2Fwc0d1Q1puRkF1am9Od29CTzJ6SHNxcmZfME5WcWlsNnRmV2ZyZ1A1dUNDMVR4aUYyRXdHc3N1QlY3TXdid0RMOG5FWm04cVhOSWdxeGJlU084SThad24xZmlxcU1XZDgtQW5Vdw?oc=5",
-      "published": "2026-11-20T15:06:35+00:00",
-      "source": {
-        "name": "Apotheken Umschau",
-        "url": "https://www.apotheken-umschau.de"
-      }
-    },
-    {
       "id": "1d15f3b6b9c3",
       "title": "Medikament online bestellen: Was (nicht) gespart werden kann - MDR.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzh1VE1KZllWYkVqdlVTdVZJY0xBcGdDZUR1NGhOOXNlS3VPcktlR00tbUJPdWlHNUhCajJ4RGthVUhQUnEwaXl2T2p6Um90NXdlMTdIblB0X0lPR0pfUTZ2LTBkRWgydWRPRllnYUJGV24xaktzY1MwQmJJM0JxUlFKMnJpLV9Qd1lz?oc=5",
@@ -544,12 +534,12 @@
       }
     },
     {
-      "id": "47afc2884d76",
-      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - geo.de",
+      "id": "b6f8a06fd285",
+      "title": "Hitzewelle: Medikamente wie die Pille verlieren ihre Wirkung - GEO.de",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlBGMHYwcEltMnpsU3BxSjY5LTdwcEVsQ2pSeDJNd3pwTS1OZ3JCWmpMYmVnaTg4R01KS2FGeWN3QmJwYzg2dEphb24yVlRKbnFKUGtlN2tMdkswbXRnQ1VqRUItTUtzaWhGNjgtNDE0YjlBTENHeG9acmFaRk84Q0hnamZXU2JRbkxLYmtnN1NWeVZjVFkxS09uRWFzVEI3WUtxbm5BbTdPLW1pcVdjYw?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "geo.de",
+        "name": "GEO.de",
         "url": "https://www.geo.de"
       }
     },
@@ -561,16 +551,6 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
-      }
-    },
-    {
-      "id": "8c241dbc3ada",
-      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "SRF",
-        "url": "https://www.srf.ch"
       }
     },
     {
@@ -621,6 +601,16 @@
       "source": {
         "name": "aponet.de",
         "url": "https://www.aponet.de"
+      }
+    },
+    {
+      "id": "8c241dbc3ada",
+      "title": "Pflanzliche Arzneimittel – im Licht der Wissenschaft - GESUNDHEITHEUTE - SRF",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHVQVzFrZzVhLUljRzk2bktXazYwVEkwS2c1c09Ud1BkR0NSVDVETzJCcjlXU1E2TEVRelJuc3UyYUlzY19zSEU4U2Ntd1VneFZOcDhpT3FOc3Y2VGNtclN2bS14VTJ1RXdTbFJYYXlYS0RLejRRVkdqeVhxX1VpYjMzNmdNZmY4TS1EaTdpWk1SVEowc1NFeFhxLWtDdVNWbEh5RU9pX2hwc0lwbTRzUDVrSzFwMXQ1NjliU044bnJUdXgwNk9iWWdTMUhYdVMwRzgyeXB1NERiMWZvTE93NXJFdXVLNU54Nzg4NA?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "SRF",
+        "url": "https://www.srf.ch"
       }
     },
     {
@@ -774,16 +764,6 @@
       }
     },
     {
-      "id": "af8dd63ad4fc",
-      "title": "Panorama Gesundheit 2024: Fakten für den Dialog - www.interpharma.ch",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYzAxUEVOaVY2RHFaWS1hOXF2eWhzOGxtOEJFZEl3bEdWMjNKVXRZX29CeURSUXR4OFl3RHdka2F6VDB1b3FidTVKQmd0czdHMVpxQXFJdTFjSFg0dWxSTkxiQWJIbmdCRVh4TEdtVGlXSWtuSUEyNEdTM05VQ3FNaEhSZ05BVzBBekRBMzBZMkVRRGZkblFYbjRwellNNzRpZU1LU3hYWkJvVzJLRmJEOV9LYTlqUWtxQ1M2dEhKNU1QQnFlM3EwTnlPdzJMOElxMzVoa1VTNTFHYkNhY2R2S3pHeGVJa1U?oc=5",
-      "published": "2024-08-29T07:00:00+00:00",
-      "source": {
-        "name": "www.interpharma.ch",
-        "url": "https://www.interpharma.ch"
-      }
-    },
-    {
       "id": "cfbba86d0f21",
       "title": "Anteil der Medikamente an Gesundheitskosten ist tiefer als angenommen - www.interpharma.ch",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzhuakg5S0hSODJWWW1PYldITEtDMGdIeC1wUUdXYzNtQl9SSzB4clNXbzdzTWVfMDJFUUVLSVlBREZuQWFGNHRydlhQaDQwUC1JblNfSHN0aElRYzlrVldxdmRsVlotaDhpU3JSTUdNS1E5ZnlaVGp5aW5SbDRONFRKcFN3U1pYQ19yemp0bHpNS1c3dTlfb0pNSHV0UW1MSkR2TQ?oc=5",
@@ -804,16 +784,6 @@
       }
     },
     {
-      "id": "db5e5ef8605c",
-      "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
-      "published": "2026-02-17T08:00:00+00:00",
-      "source": {
-        "name": "Watson",
-        "url": "https://www.watson.ch"
-      }
-    },
-    {
       "id": "7f09edf69bc9",
       "title": "Achtung: Dieser Pillen-Mix ist gefährlich - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWgxU3pmLUFEVGZQSW1yVU9nYWdWSWN0SWJBQVFDNXNOSFRhcWhXVS1HelJBMDJaMGJGT0RacHZBVGNIcHZXVFk2amFwdF9EVFRNLXIwcGo4c0FJYjJYOG5reVRFVG5HY2xEdHQ4UVptZ3h1SmxsbDBYczhrTHBnNmVhY0JlMU01RUs5ZzhTRFF1b2M4REtWbWU5OWdyeGx0UDZZMW9XZDNDZVk?oc=5",
@@ -831,6 +801,16 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "db5e5ef8605c",
+      "title": "Erektionshilfe und Mittel gegen Haarausfall: Diese Medikamente werden illegal importiert - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0M1cmM4b29qcFV1d2h5eEY2ZXhTenBrYm1kUE83ZlQ2YlBIcDhDdDZXRjBmUWsxYjg1czBOMDBZeEVtSkF2cXFvOXJwSjI2YWZfUW4zV1hjQ0EtdUo1a3VoS0NyYzAtZHpKdEtscHExMThHWGlrRGtXYkhUNG4wQURLa2dvZWlkTmcwczE4ZU5CR3E2ZEJYUUdvQTg4R08yaWJaNURyREVuMVZMWldleE1uQVVhZTYzSkk3R3RLWVQ0UQ?oc=5",
+      "published": "2026-02-17T08:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
       }
     },
     {
@@ -874,16 +854,6 @@
       }
     },
     {
-      "id": "6e56e1c99277",
-      "title": "Onkologische Arzneimittel: Analyse der Marktsituation - vfa. Die forschenden Pharma-Unternehmen",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMi1WQVZnaGJPSm9GcVAzRWlGSHRDRVg2MXhXMTJUenNuQUpRcElfbjBDZVp3Y3Z1UUNzNm5PSUY0eVdXMWcyQ3J0WkUxSjVSY0xxWFJ5X0lJc3Y1VExsallLS24xQUxyUVMyTDdsWUtnTThIZjc2TWZsdGpWMlMxUDVfXzVmeXZNdlhwZGNWb0VXbFZnVEVYOFVHSmxtUjBFVEU2alRzVlpCMlJ4?oc=5",
-      "published": "2026-03-25T12:43:53+00:00",
-      "source": {
-        "name": "vfa. Die forschenden Pharma-Unternehmen",
-        "url": "https://www.vfa.de"
-      }
-    },
-    {
       "id": "4ddd3b0b9cdd",
       "title": "Der besseren Zugänglichkeit neuartiger Arzneimittel einen Schritt näher - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdDMjNkUmRfZGZEcmtCREJrU0FKZVhObWw5ZGxuZVBJMVo5alUyc1Z6ZjI5YjJYVzhrOTFYbVJJamdJYUZiY1haT1hjUGpWSWhrb0Exd1B2U0htVkVFUnpmQTRpdVV4R1hZcUFnakg4dUdGTUxYQUgtYlhJWHFJUC1MUXpLVmNPN25PSG9MUWl6TnpNenJGRGxZQWd2RXlvbnlDRUdsOHVqZjJJ?oc=5",
@@ -894,13 +864,13 @@
       }
     },
     {
-      "id": "ccb310d629ed",
-      "title": "Arzneimittel: «Wir verzichten zunehmend auf solide Forschung» - Infosperber",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEVfS1ZfY1hubkFDUG15MS05M0NQODduMHd0Zl9WUFVORWRzeVdMRTZuX0xsYjRWWHFuMFRUVlB5bFlVdG0zb19YTURRczJ5Y1Z5WFhhVkVTa0h1aUl6cWZJczFZTEl2SWhtSUg1VmNWTXpOaUlnVzZQRDhISWVzX2wxdlFJS282UF9mY1BuUnNDZ1VZYmhjMDMyOVE5R2NoMUZtLTFQZUs?oc=5",
-      "published": "2026-04-19T07:00:00+00:00",
+      "id": "6e56e1c99277",
+      "title": "Onkologische Arzneimittel: Analyse der Marktsituation - vfa. Die forschenden Pharma-Unternehmen",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMi1WQVZnaGJPSm9GcVAzRWlGSHRDRVg2MXhXMTJUenNuQUpRcElfbjBDZVp3Y3Z1UUNzNm5PSUY0eVdXMWcyQ3J0WkUxSjVSY0xxWFJ5X0lJc3Y1VExsallLS24xQUxyUVMyTDdsWUtnTThIZjc2TWZsdGpWMlMxUDVfXzVmeXZNdlhwZGNWb0VXbFZnVEVYOFVHSmxtUjBFVEU2alRzVlpCMlJ4?oc=5",
+      "published": "2026-03-25T12:43:53+00:00",
       "source": {
-        "name": "Infosperber",
-        "url": "https://www.infosperber.ch"
+        "name": "vfa. Die forschenden Pharma-Unternehmen",
+        "url": "https://www.vfa.de"
       }
     },
     {
@@ -934,6 +904,16 @@
       }
     },
     {
+      "id": "0d877deab3c8",
+      "title": "Usbekistan will Bezahlbarkeit von Medikamenten auf der Ebene der primären Gesundheitsversorgung verbessern - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHcxc3ZFWkhLcWVKS3RfWW5xSUZBUFVCQkdxb1pGZGlqai1UWjE1S2s3cG5KMEJCdjFPQ0hQZnc4X0o4bVVSTHhKZURfeWRXb01vNkkzUG5CcGQ0YlZXZjZSQXBfdHVBc0l1S0MzdHBBejJUMVJTQURsS0ZQdG9HVkczVFZXdjNKZWgzZmhGdnpVdl9oZHUzRjRYOXRWLUFWTC1ZR2tBVy04NWtrM2lpYVlKNEw1eUl4TWpqT0JGZUxpdnBRbmJIUk5peENtS1VJRG1sdzR6bw?oc=5",
+      "published": "2024-11-26T08:00:00+00:00",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int"
+      }
+    },
+    {
       "id": "ae01424b6ad2",
       "title": "Kritische Arzneimittel wieder stärker in Europa produzieren - baden-wuerttemberg.de",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSjMzcWVqRjE1TVZWbUdQLWFEMnBYcGN3WEFDaWQzVGN5YUNRWTk1dXdzYm53bGRCOEVMbnpPZWZEQ3dQdzFzNXJ0OVJac1owMFJERW1hc2Mzbk5yNkluNGhWazY5STVzdWR3Yjd5dlR3WEkySEdEOWotSndjWDZhQ09qUHVJbzZOa2hCeDA5blZ5cENQV08tWWVZSHVzNURfa1ZwNWxJNFNaYTVnRUVmRnhPMDF3WmlkcldXMFJmdlVjWEZzeGRTSUQzN2hpWjdl?oc=5",
@@ -954,16 +934,6 @@
       }
     },
     {
-      "id": "0d877deab3c8",
-      "title": "Usbekistan will Bezahlbarkeit von Medikamenten auf der Ebene der primären Gesundheitsversorgung verbessern - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHcxc3ZFWkhLcWVKS3RfWW5xSUZBUFVCQkdxb1pGZGlqai1UWjE1S2s3cG5KMEJCdjFPQ0hQZnc4X0o4bVVSTHhKZURfeWRXb01vNkkzUG5CcGQ0YlZXZjZSQXBfdHVBc0l1S0MzdHBBejJUMVJTQURsS0ZQdG9HVkczVFZXdjNKZWgzZmhGdnpVdl9oZHUzRjRYOXRWLUFWTC1ZR2tBVy04NWtrM2lpYVlKNEw1eUl4TWpqT0JGZUxpdnBRbmJIUk5peENtS1VJRG1sdzR6bw?oc=5",
-      "published": "2024-11-26T08:00:00+00:00",
-      "source": {
-        "name": "World Health Organization (WHO)",
-        "url": "https://www.who.int"
-      }
-    },
-    {
       "id": "2ae0768acb65",
       "title": "Medikamente nicht lieferbar – was können Sie tun? - Beobachter",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZEVEx1N3g0WUZPYTFnNlNfRUQ1OVhIY3JHR1FOYlJORGFQQnVGUHJLV2FMemxyQm9JZmp0dm9SNUhudDYyaV9QdXVsNjFKdGU0WGwxUkN6bTFJWllFT1pWWGhUemIxUTViNFlrNlFHTjh5cmpZTEVYdjhTMHRHdlF5T2Q?oc=5",
@@ -971,16 +941,6 @@
       "source": {
         "name": "Beobachter",
         "url": "https://www.beobachter.ch"
-      }
-    },
-    {
-      "id": "8facb188a23e",
-      "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": {
-        "name": "Springer Nature Link",
-        "url": "https://link.springer.com"
       }
     },
     {
@@ -994,6 +954,16 @@
       }
     },
     {
+      "id": "8facb188a23e",
+      "title": "Erfassung von Medikationsfehlern in Deutschland – ein Workshopbericht - Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWTFuNXg0ZS1CUjEteG1YbXJrLUI2TXRBR0djZ0VqUWZLRjdYUTJ0WFQ1Qy1DYzJRbHB1UXlvbzZTWWlKckRjcmZGRVp4MFJvdk5Wa1ZoWlVsXzF0WElONTFFbm9zUTZlQ1Q5TA?oc=5",
+      "published": "2025-12-17T08:00:00+00:00",
+      "source": {
+        "name": "Springer Nature Link",
+        "url": "https://link.springer.com"
+      }
+    },
+    {
       "id": "9c3e30dc305f",
       "title": "Von WHO/Europa geschaffene Plattform für den Zugang zu neuartigen Arzneimitteln startet Arbeitsgruppe für Transparenz zur Verbesserung des Zugangs zu Arzneimitteln - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNankyMWFVTGRkdUJzeWRocm9rcXYyekJxZWg2Ul92dkt6bVlJQkxBRjJPNWp4eFV5LUc3U3FieVRJcncyZjVvaDQ5RlBub3ZxcVhfalJ3V2JNM3RydFk1dHVYZUdiZHJLZUU4THVwdERCN0w1QmFCSWtHYVlIV05ma1lra2RyNnVNdzRrZlNmbnEyeW5lVTRxVXlFcmpKcGFWT2tYN1NzUVVPSV91WE55UHFidm5kYjMtRkRmY3JfVHViQWFubDlFUGNEWGszSl9YSUROc0tHaGw5OF9jZGpmcllLVXlScDVrV3lFVXhNdw?oc=5",
@@ -1001,6 +971,36 @@
       "source": {
         "name": "World Health Organization (WHO)",
         "url": "https://www.who.int"
+      }
+    },
+    {
+      "id": "f1f1e52e8e1f",
+      "title": "Was darf ein zusätzliches Lebensjahr kosten? - Avenir Suisse",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUy1TZGFaUjJ6cEJqakN1SXhKdnhINnVJVVg1a3JMNl9lcTBZVU16VTBHMGowVFhMOThGbDhQMEVscmdCMmFNbzJxWXlvSzFlaG1hTEtFWEdLZE5Ob1NXekpqMHdKMDJDQU1IODZTQUE1blpCeWVIOHFhTW9xZG51V24wMzBDV3RU?oc=5",
+      "published": "2023-09-18T07:00:00+00:00",
+      "source": {
+        "name": "Avenir Suisse",
+        "url": "https://www.avenir-suisse.ch"
+      }
+    },
+    {
+      "id": "a8cd94808fed",
+      "title": "Medikamenten-Zulassung in der Schweiz viel langsamer als in Europa - Watson",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLVhfbmJVb1FwYzFMOFYyYU1YRjdYendBeVpzT19pNmE2UlRYQzluUDEyVlFwMkhZR2pSU3RTdW92RS1POUE1OU5qTEt4U2t2RE9PNWROSFI5cjNnUzc0WVFyX1VCVHRTVWNBWERsSDB0aDNiaFl2bEdtNFJjOWlycVJ4QXBzMDhmaVVQWjJ6TTE5RktMOGhNUFhYbUVwUGVpQUl6NnUzYmNEbURqM0FhUU9yNjlRWWd6?oc=5",
+      "published": "2024-07-24T07:00:00+00:00",
+      "source": {
+        "name": "Watson",
+        "url": "https://www.watson.ch"
+      }
+    },
+    {
+      "id": "d8ee5e5fd6d2",
+      "title": "Darum ist der Medikamentenmangel so schwer zu lösen - Quarks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tLSmtjWGNpazVzOXJNcGIxRVM3SWNpYkZYNnRsV3Z3RllCRmRIYks3UmZVUEZKUC13ZWFiMlF4UzhITEV5TWRVcVZLUHhBTWt5UFVVQ0dBYjVndnRSNThZb0YwelMyWUFXQ01aOG1FNnliZ0tCVDZGX2tuVnV4aHd1ZVFxeWV1aXg0SlcxZWdXMGlWV1ZzaERmTkJMblg1ckJv?oc=5",
+      "published": "2023-10-30T07:00:00+00:00",
+      "source": {
+        "name": "Quarks",
+        "url": "https://www.quarks.de"
       }
     }
   ]
